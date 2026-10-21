@@ -253,5 +253,5 @@ if os.path.isdir(PAGES_DIR):
             exec(open(os.path.join(PAGES_DIR, _f), encoding="utf-8").read())
 pages = ["index.html","british.html","checkpoint-6.html","checkpoint-8.html","year-9-0510.html","year-10-oxford.html","baccalaureate.html","quran.html","improve-english.html","about.html","contact.html","privacy.html","terms.html"] + EXTRA_PAGES
 with open(f"{OUT}/sitemap.xml","w") as f:
-    f.write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + "".join(f"<url><loc>https://abdelkriemacademy.com/{p if p!='index.html' else ''}</loc></url>\n" for p in pages) + "</urlset>\n")
+    f.write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + "".join(f"<url><loc>https://abdelkriemacademy.com/{p[:-5] if p!='index.html' else ''}</loc></url>\n" for p in pages) + "</urlset>\n")
 print("built", len(pages))
