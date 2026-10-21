@@ -74,7 +74,7 @@ COURSES = [
  ("Checkpoint 6 English","Reading and writing for fiction and non-fiction, exam skills and practice papers.","checkpoint-6.html","Cambridge Primary"),
  ("IGCSE English 0510","Reading skills, reading and writing, and listening for Year 9.","year-9-0510.html","Cambridge IGCSE"),
  ("Oxford International GCSE","Reading, writing, speaking and listening for Year 10.","year-10-oxford.html","OxfordAQA 9280"),
- ("Quran: Reading, Tajweed &amp; Memorisation","A complete free Quran course for children and parents: learning to read, all the tajweed rules, and a daily plan to memorise the whole Quran.","quran.html","القرآن الكريم من الألف للياء"),
+ ("القرآن الكريم من الألف للياء","كورس مجاني للأطفال وأولياء الأمور: تعلّم القراءة، وأحكام التجويد كلها، وخطة يومية لحفظ القرآن كاملًا.","quran.html","Quran · حفظ القرآن"),
  ("English: From Zero to Pro","A complete free English course in 5 levels, from your first word to fluent English, with Arabic explanations.","improve-english.html","إنجليزي من الصفر للاحتراف"),
 ]
 PARENTS = [
