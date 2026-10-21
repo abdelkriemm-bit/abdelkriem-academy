@@ -1,6 +1,6 @@
 # Social links — runs last inside build.py and adds the accounts to every page (footer, home strip, contact page).
 # To add or change an account, edit SOCIAL only. An empty link is skipped.
-import glob as _glob, re as _re
+import glob as _glob, re as _re, os as _os
 
 SOCIAL = [
  ("YouTube", "https://www.youtube.com/@mr.mohamedabdelkriem", "@mr.mohamedabdelkriem", "Video lessons and story summaries"),
@@ -55,4 +55,9 @@ for _path in _glob.glob(f"{OUT}/*.html"):
     if _path.endswith("/contact.html"):
         _h = _re.sub(r'<p><b>YouTube:</b>.*?</p>', '<p><b>Follow us:</b> leave a comment on any post or video to request a topic.</p>' + _contact, _h, count=1, flags=_re.S)
     _h = _h.replace("contact@abdelkriemacademy.com", EMAIL)
+    _slug = _os.path.basename(_path)[:-5]
+    _canon = "https://abdelkriemacademy.com/" + ("" if _slug == "index" else _slug)
+    if 'rel="canonical"' not in _h:
+        _h = _h.replace("</title>", f'</title>\n<link rel="canonical" href="{_canon}">', 1)
+    _h = _h.replace('content="images/mohamed-abdelkriem.jpg"', 'content="https://abdelkriemacademy.com/images/mohamed-abdelkriem.jpg"')
     open(_path, "w", encoding="utf-8").write(_h)
