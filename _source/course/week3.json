@@ -1,54 +1,321 @@
 {
-  "week": 3,
-  "title": "My Home and My Town",
-  "grammar_title": "Grammar: there is / there are · in, on, under, next to… · a / an",
-  "plan": [
-    {"day": "Day 1", "learn": "Words: Home · Sentences 1–2", "listen": "VOA Lesson 9: Is It Cold?", "practise": "Exercise 1"},
-    {"day": "Day 2", "learn": "Words: Furniture · Sentences 3–4", "listen": "VOA Lesson 10: Come Over to My Place", "practise": "Exercise 2"},
-    {"day": "Day 3", "learn": "Words: Places 1 · Sentences 5–6", "listen": "ELLLO: “Is your house or apartment new?”", "practise": "Exercise 3"},
-    {"day": "Day 4", "learn": "Words: Places 2 · Sentences 7–8", "listen": "VOA Lesson 11: This Is My Neighborhood + British Council: “Finding the library” (listening)", "practise": "Exercise 4"},
-    {"day": "Day 5", "learn": "Words: Where is it? · Sentences 9–10", "listen": "VOA Lesson 12: Meet My Family", "practise": "Write & Speak"},
-    {"day": "Day 6", "learn": "Review all 30 words + 10 sentences", "listen": "ELLLO: “Is your house cold in the winter?”", "practise": "Redo mistakes"},
-    {"day": "Day 7", "learn": "Free day ☺", "listen": "BBC Real Easy English: “Talking about your house” (video)", "practise": "Tick your tracker"}
-  ],
-  "word_sets": [
-    {"name": "Set 1 · Home", "words": [["house", "بيت / منزل"], ["flat", "شقة"], ["kitchen", "مطبخ"], ["bedroom", "غرفة نوم"], ["bathroom", "حمّام"], ["living room", "غرفة المعيشة"]]},
-    {"name": "Set 2 · Furniture", "words": [["bed", "سرير"], ["table", "طاولة"], ["chair", "كرسي"], ["sofa", "أريكة / كنبة"], ["fridge", "ثلاجة"], ["window", "نافذة / شباك"]]},
-    {"name": "Set 3 · Places 1", "words": [["street", "شارع"], ["mosque", "مسجد"], ["hospital", "مستشفى"], ["school", "مدرسة"], ["bank", "بنك"], ["pharmacy", "صيدلية"]]},
-    {"name": "Set 4 · Places 2", "words": [["supermarket", "سوبرماركت"], ["restaurant", "مطعم"], ["park", "حديقة عامة"], ["station", "محطة"], ["bakery", "مخبز"], ["office", "مكتب"]]},
-    {"name": "Set 5 · Where is it?", "words": [["in", "في (داخل)"], ["on", "على"], ["under", "تحت"], ["next to", "بجانب"], ["near", "قريب من"], ["opposite", "مقابل"]]}
-  ],
-  "sentences": [
-    ["There is a bank near my house.", "يوجد بنك قريب من بيتي."],
-    ["There are three bedrooms in my flat.", "توجد ثلاث غرف نوم في شقتي."],
-    ["Is there a pharmacy near here?", "هل توجد صيدلية قريبة من هنا؟"],
-    ["The keys are on the table.", "المفاتيح على الطاولة."],
-    ["The supermarket is next to the mosque.", "السوبرماركت بجانب المسجد."],
-    ["Excuse me, where is the station?", "عفوًا، أين المحطة؟"],
-    ["Go straight and turn left.", "امشِ على طول ثم انعطف يسارًا."],
-    ["It's opposite the hospital.", "إنه مقابل المستشفى."],
-    ["My flat is small but nice.", "شقتي صغيرة لكنها جميلة."],
-    ["Come in and sit down, please.", "تفضّل ادخل واجلس."]
-  ],
-  "grammar": {
-    "intro_en": "",
-    "intro_ar": "«يوجد» = There is / There are. لا تقل It has a bank near my house — قل There is a bank near my house.",
-    "tables": [
-      {"headers": ["", "one thing (singular)", "two or more (plural)"],
-       "rows": [
-         ["Positive", "There is a park.", "There are two parks."],
-         ["Negative", "There isn't a park.", "There aren't any parks."],
-         ["Question", "Is there a park?", "Are there any parks?"]
-       ]}
-    ],
-    "notes": ["a + consonant sound: a bank, a hospital · an + vowel sound (a, e, i, o, u): an apple, an office"]
+ "week": 3,
+ "title": "My Home and My Town",
+ "grammar_title": "Grammar: there is / there are · in, on, under, next to… · a / an",
+ "plan": [
+  {
+   "day": "Day 1",
+   "learn": "Words: Home · Sentences 1–2",
+   "listen": "VOA Lesson 9: Is It Cold?",
+   "practise": "Exercise 1"
   },
-  "exercises": [
-    {"title": "Exercise 1 — Complete with is or are.", "instructions": "Complete with is or are.", "items": ["1. There ___ a sofa in the living room.", "2. There ___ two windows in the kitchen.", "3. There ___ many shops in my street.", "4. There ___ a park opposite the school.", "5. ___ there a bakery near here?", "6. ___ there any restaurants in your area?"]},
-    {"title": "Exercise 2 — Complete with the right preposition (the Arabic helps you).", "instructions": "Complete with the right preposition (the Arabic helps you).", "items": ["1. The cat is ___ the bed. (تحت)", "2. The phone is ___ the table. (على)", "3. The milk is ___ the fridge. (في)", "4. The bank is ___ the bakery. (بجانب)", "5. The school is ___ the park. (مقابل)", "6. My house is ___ the station. (قريب من)"]},
-    {"title": "Exercise 3 — Write a or an.", "instructions": "Write a or an.", "items": ["1. ___ apple", "2. ___ bank", "3. ___ office", "4. ___ egg", "5. ___ hospital", "6. ___ umbrella"]},
-    {"title": "Exercise 4 — Translate into English.", "instructions": "Translate into English.", "items": ["1. توجد صيدلية مقابل البنك.", "2. هل يوجد مطعم قريب من هنا؟", "3. مكتبي بجانب المحطة.", "4. توجد أربعة كراسي في المطبخ."]}
+  {
+   "day": "Day 2",
+   "learn": "Words: Furniture · Sentences 3–4",
+   "listen": "VOA Lesson 10: Come Over to My Place",
+   "practise": "Exercise 2"
+  },
+  {
+   "day": "Day 3",
+   "learn": "Words: Places 1 · Sentences 5–6",
+   "listen": "ELLLO: “Is your house or apartment new?”",
+   "practise": "Exercise 3"
+  },
+  {
+   "day": "Day 4",
+   "learn": "Words: Places 2 · Sentences 7–8",
+   "listen": "VOA Lesson 11: This Is My Neighborhood + British Council: “Finding the library” (listening)",
+   "practise": "Exercise 4"
+  },
+  {
+   "day": "Day 5",
+   "learn": "Words: Where is it? · Sentences 9–10",
+   "listen": "VOA Lesson 12: Meet My Family",
+   "practise": "Write & Speak"
+  },
+  {
+   "day": "Day 6",
+   "learn": "Review all 30 words + 10 sentences",
+   "listen": "ELLLO: “Is your house cold in the winter?”",
+   "practise": "Redo mistakes"
+  },
+  {
+   "day": "Day 7",
+   "learn": "Free day ☺",
+   "listen": "BBC Real Easy English: “Talking about moving house” (video)",
+   "practise": "Tick your tracker"
+  }
+ ],
+ "word_sets": [
+  {
+   "name": "Set 1 · Home",
+   "words": [
+    [
+     "house",
+     "بيت / منزل"
+    ],
+    [
+     "flat",
+     "شقة"
+    ],
+    [
+     "kitchen",
+     "مطبخ"
+    ],
+    [
+     "bedroom",
+     "غرفة نوم"
+    ],
+    [
+     "bathroom",
+     "حمّام"
+    ],
+    [
+     "living room",
+     "غرفة المعيشة"
+    ]
+   ]
+  },
+  {
+   "name": "Set 2 · Furniture",
+   "words": [
+    [
+     "bed",
+     "سرير"
+    ],
+    [
+     "table",
+     "طاولة"
+    ],
+    [
+     "chair",
+     "كرسي"
+    ],
+    [
+     "sofa",
+     "أريكة / كنبة"
+    ],
+    [
+     "fridge",
+     "ثلاجة"
+    ],
+    [
+     "window",
+     "نافذة / شباك"
+    ]
+   ]
+  },
+  {
+   "name": "Set 3 · Places 1",
+   "words": [
+    [
+     "street",
+     "شارع"
+    ],
+    [
+     "mosque",
+     "مسجد"
+    ],
+    [
+     "hospital",
+     "مستشفى"
+    ],
+    [
+     "school",
+     "مدرسة"
+    ],
+    [
+     "bank",
+     "بنك"
+    ],
+    [
+     "pharmacy",
+     "صيدلية"
+    ]
+   ]
+  },
+  {
+   "name": "Set 4 · Places 2",
+   "words": [
+    [
+     "supermarket",
+     "سوبرماركت"
+    ],
+    [
+     "restaurant",
+     "مطعم"
+    ],
+    [
+     "park",
+     "حديقة عامة"
+    ],
+    [
+     "station",
+     "محطة"
+    ],
+    [
+     "bakery",
+     "مخبز"
+    ],
+    [
+     "office",
+     "مكتب"
+    ]
+   ]
+  },
+  {
+   "name": "Set 5 · Where is it?",
+   "words": [
+    [
+     "in",
+     "في (داخل)"
+    ],
+    [
+     "on",
+     "على"
+    ],
+    [
+     "under",
+     "تحت"
+    ],
+    [
+     "next to",
+     "بجانب"
+    ],
+    [
+     "near",
+     "قريب من"
+    ],
+    [
+     "opposite",
+     "مقابل"
+    ]
+   ]
+  }
+ ],
+ "sentences": [
+  [
+   "There is a bank near my house.",
+   "يوجد بنك قريب من بيتي."
   ],
-  "write_speak": "Write & Speak — Describe your home in 6 sentences. Then explain the way from your home to the nearest shop.\nExample: I live in a flat in Nasr City. There are two bedrooms and a big living room. There is a sofa next to the window. The kitchen is small. There is a bakery opposite my building. Go out, turn right, and the supermarket is next to the mosque.",
-  "other": []
+  [
+   "There are three bedrooms in my flat.",
+   "توجد ثلاث غرف نوم في شقتي."
+  ],
+  [
+   "Is there a pharmacy near here?",
+   "هل توجد صيدلية قريبة من هنا؟"
+  ],
+  [
+   "The keys are on the table.",
+   "المفاتيح على الطاولة."
+  ],
+  [
+   "The supermarket is next to the mosque.",
+   "السوبرماركت بجانب المسجد."
+  ],
+  [
+   "Excuse me, where is the station?",
+   "عفوًا، أين المحطة؟"
+  ],
+  [
+   "Go straight and turn left.",
+   "امشِ على طول ثم انعطف يسارًا."
+  ],
+  [
+   "It's opposite the hospital.",
+   "إنه مقابل المستشفى."
+  ],
+  [
+   "My flat is small but nice.",
+   "شقتي صغيرة لكنها جميلة."
+  ],
+  [
+   "Come in and sit down, please.",
+   "تفضّل ادخل واجلس."
+  ]
+ ],
+ "grammar": {
+  "intro_en": "",
+  "intro_ar": "«يوجد» = There is / There are. لا تقل It has a bank near my house — قل There is a bank near my house.",
+  "tables": [
+   {
+    "headers": [
+     "",
+     "one thing (singular)",
+     "two or more (plural)"
+    ],
+    "rows": [
+     [
+      "Positive",
+      "There is a park.",
+      "There are two parks."
+     ],
+     [
+      "Negative",
+      "There isn't a park.",
+      "There aren't any parks."
+     ],
+     [
+      "Question",
+      "Is there a park?",
+      "Are there any parks?"
+     ]
+    ]
+   }
+  ],
+  "notes": [
+   "a + consonant sound: a bank, a hospital · an + vowel sound (a, e, i, o, u): an apple, an office"
+  ]
+ },
+ "exercises": [
+  {
+   "title": "Exercise 1 — Complete with is or are.",
+   "instructions": "Complete with is or are.",
+   "items": [
+    "1. There ___ a sofa in the living room.",
+    "2. There ___ two windows in the kitchen.",
+    "3. There ___ many shops in my street.",
+    "4. There ___ a park opposite the school.",
+    "5. ___ there a bakery near here?",
+    "6. ___ there any restaurants in your area?"
+   ]
+  },
+  {
+   "title": "Exercise 2 — Complete with the right preposition (the Arabic helps you).",
+   "instructions": "Complete with the right preposition (the Arabic helps you).",
+   "items": [
+    "1. The cat is ___ the bed. (تحت)",
+    "2. The phone is ___ the table. (على)",
+    "3. The milk is ___ the fridge. (في)",
+    "4. The bank is ___ the bakery. (بجانب)",
+    "5. The school is ___ the park. (مقابل)",
+    "6. My house is ___ the station. (قريب من)"
+   ]
+  },
+  {
+   "title": "Exercise 3 — Write a or an.",
+   "instructions": "Write a or an.",
+   "items": [
+    "1. ___ apple",
+    "2. ___ bank",
+    "3. ___ office",
+    "4. ___ egg",
+    "5. ___ hospital",
+    "6. ___ umbrella"
+   ]
+  },
+  {
+   "title": "Exercise 4 — Translate into English.",
+   "instructions": "Translate into English.",
+   "items": [
+    "1. توجد صيدلية مقابل البنك.",
+    "2. هل يوجد مطعم قريب من هنا؟",
+    "3. مكتبي بجانب المحطة.",
+    "4. توجد أربعة كراسي في المطبخ."
+   ]
+  }
+ ],
+ "write_speak": "Write & Speak — Describe your home in 6 sentences. Then explain the way from your home to the nearest shop.\nExample: I live in a flat in Nasr City. There are two bedrooms and a big living room. There is a sofa next to the window. The kitchen is small. There is a bakery opposite my building. Go out, turn right, and the supermarket is next to the mosque.",
+ "other": []
 }

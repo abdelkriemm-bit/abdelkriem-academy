@@ -1,45 +1,307 @@
-{"week": 6, "title": "Food and Shopping",
+{
+ "week": 6,
+ "title": "Food and Shopping",
  "grammar_title": "Grammar: Countable / uncountable · some / any · How much? How many? · I'd like…",
  "plan": [
-  {"day":"Day 1","learn":"Words: Food · Sentences 1–2","listen":"VOA Lesson 21: Can You Come to the Party?","practise":"Exercise 1"},
-  {"day":"Day 2","learn":"Words: Fruit and vegetables · Sentences 3–4","listen":"VOA Lesson 22: Next Summer...","practise":"Exercise 2"},
-  {"day":"Day 3","learn":"Words: Drinks and more · Sentences 5–6","listen":"British Council: “Ordering in a café” (listening)","practise":"Exercise 3"},
-  {"day":"Day 4","learn":"Words: Shopping · Sentences 7–8","listen":"VOA Lesson 23: What Do You Want? + British Council: “Booking a table” (listening)","practise":"Exercise 4"},
-  {"day":"Day 5","learn":"Words: How much? · Sentences 9–10","listen":"VOA Lesson 24: Yesterday Was Amazing!","practise":"Write & Speak"},
-  {"day":"Day 6","learn":"Review all 30 words + 10 sentences","listen":"British Council: “A restaurant menu” (reading)","practise":"Redo mistakes"},
-  {"day":"Day 7","learn":"Free day ☺","listen":"BBC Real Easy English: “Talking about food shopping” (video)","practise":"Tick your tracker"}
+  {
+   "day": "Day 1",
+   "learn": "Words: Food · Sentences 1–2",
+   "listen": "VOA Lesson 21: Can You Come to the Party?",
+   "practise": "Exercise 1"
+  },
+  {
+   "day": "Day 2",
+   "learn": "Words: Fruit and vegetables · Sentences 3–4",
+   "listen": "VOA Lesson 22: Next Summer...",
+   "practise": "Exercise 2"
+  },
+  {
+   "day": "Day 3",
+   "learn": "Words: Drinks and more · Sentences 5–6",
+   "listen": "British Council: “Ordering in a café” (listening)",
+   "practise": "Exercise 3"
+  },
+  {
+   "day": "Day 4",
+   "learn": "Words: Shopping · Sentences 7–8",
+   "listen": "VOA Lesson 23: What Do You Want? + British Council: “Booking a table” (listening)",
+   "practise": "Exercise 4"
+  },
+  {
+   "day": "Day 5",
+   "learn": "Words: How much? · Sentences 9–10",
+   "listen": "VOA Lesson 24: Yesterday Was Amazing!",
+   "practise": "Write & Speak"
+  },
+  {
+   "day": "Day 6",
+   "learn": "Review all 30 words + 10 sentences",
+   "listen": "British Council: “A restaurant menu” (reading)",
+   "practise": "Redo mistakes"
+  },
+  {
+   "day": "Day 7",
+   "learn": "Free day ☺",
+   "listen": "BBC Real Easy English: “Talking about shopping” (video)",
+   "practise": "Tick your tracker"
+  }
  ],
  "word_sets": [
-  {"name":"Set 1 · Food","words":[["bread","خبز / عيش"],["rice","أرز"],["egg","بيضة"],["cheese","جبن"],["chicken","دجاج / فراخ"],["fish","سمك"]]},
-  {"name":"Set 2 · Fruit and vegetables","words":[["apple","تفاحة"],["banana","موزة"],["orange","برتقالة"],["tomato","طماطم"],["potato","بطاطس"],["onion","بصل"]]},
-  {"name":"Set 3 · Drinks and more","words":[["water","ماء"],["milk","حليب / لبن"],["tea","شاي"],["coffee","قهوة"],["juice","عصير"],["sugar","سكر"]]},
-  {"name":"Set 4 · Shopping","words":[["price","سعر"],["cheap","رخيص"],["expensive","غالٍ"],["pay","يدفع"],["cash","نقدًا / كاش"],["receipt","إيصال / فاتورة"]]},
-  {"name":"Set 5 · How much?","words":[["a kilo of","كيلو من"],["a bottle of","زجاجة من"],["a cup of","كوب / فنجان من"],["a piece of","قطعة من"],["a lot of","كثير من"],["a little","قليل من"]]}
+  {
+   "name": "Set 1 · Food",
+   "words": [
+    [
+     "bread",
+     "خبز / عيش"
+    ],
+    [
+     "rice",
+     "أرز"
+    ],
+    [
+     "egg",
+     "بيضة"
+    ],
+    [
+     "cheese",
+     "جبن"
+    ],
+    [
+     "chicken",
+     "دجاج / فراخ"
+    ],
+    [
+     "fish",
+     "سمك"
+    ]
+   ]
+  },
+  {
+   "name": "Set 2 · Fruit and vegetables",
+   "words": [
+    [
+     "apple",
+     "تفاحة"
+    ],
+    [
+     "banana",
+     "موزة"
+    ],
+    [
+     "orange",
+     "برتقالة"
+    ],
+    [
+     "tomato",
+     "طماطم"
+    ],
+    [
+     "potato",
+     "بطاطس"
+    ],
+    [
+     "onion",
+     "بصل"
+    ]
+   ]
+  },
+  {
+   "name": "Set 3 · Drinks and more",
+   "words": [
+    [
+     "water",
+     "ماء"
+    ],
+    [
+     "milk",
+     "حليب / لبن"
+    ],
+    [
+     "tea",
+     "شاي"
+    ],
+    [
+     "coffee",
+     "قهوة"
+    ],
+    [
+     "juice",
+     "عصير"
+    ],
+    [
+     "sugar",
+     "سكر"
+    ]
+   ]
+  },
+  {
+   "name": "Set 4 · Shopping",
+   "words": [
+    [
+     "price",
+     "سعر"
+    ],
+    [
+     "cheap",
+     "رخيص"
+    ],
+    [
+     "expensive",
+     "غالٍ"
+    ],
+    [
+     "pay",
+     "يدفع"
+    ],
+    [
+     "cash",
+     "نقدًا / كاش"
+    ],
+    [
+     "receipt",
+     "إيصال / فاتورة"
+    ]
+   ]
+  },
+  {
+   "name": "Set 5 · How much?",
+   "words": [
+    [
+     "a kilo of",
+     "كيلو من"
+    ],
+    [
+     "a bottle of",
+     "زجاجة من"
+    ],
+    [
+     "a cup of",
+     "كوب / فنجان من"
+    ],
+    [
+     "a piece of",
+     "قطعة من"
+    ],
+    [
+     "a lot of",
+     "كثير من"
+    ],
+    [
+     "a little",
+     "قليل من"
+    ]
+   ]
+  }
  ],
  "sentences": [
-  ["I'd like a cup of tea, please.","أريد كوبًا من الشاي من فضلك."],
-  ["How much is this? — It's fifty pounds.","بكم هذا؟ — بخمسين جنيهًا."],
-  ["Can I have the bill, please?","الحساب من فضلك."],
-  ["We need some eggs and some bread.","نحتاج إلى بعض البيض وبعض الخبز."],
-  ["Is there any milk in the fridge?","هل يوجد حليب في الثلاجة؟"],
-  ["How many apples do you want?","كم تفاحة تريد؟"],
-  ["It's too expensive. Do you have a cheaper one?","إنه غالٍ جدًا. هل لديك واحد أرخص؟"],
-  ["Can I pay by card?","هل يمكنني الدفع بالبطاقة؟"],
-  ["I don't eat much sugar.","لا آكل الكثير من السكر."],
-  ["This food is delicious!","هذا الطعام لذيذ!"]
+  [
+   "I'd like a cup of tea, please.",
+   "أريد كوبًا من الشاي من فضلك."
+  ],
+  [
+   "How much is this? — It's fifty pounds.",
+   "بكم هذا؟ — بخمسين جنيهًا."
+  ],
+  [
+   "Can I have the bill, please?",
+   "الحساب من فضلك."
+  ],
+  [
+   "We need some eggs and some bread.",
+   "نحتاج إلى بعض البيض وبعض الخبز."
+  ],
+  [
+   "Is there any milk in the fridge?",
+   "هل يوجد حليب في الثلاجة؟"
+  ],
+  [
+   "How many apples do you want?",
+   "كم تفاحة تريد؟"
+  ],
+  [
+   "It's too expensive. Do you have a cheaper one?",
+   "إنه غالٍ جدًا. هل لديك واحد أرخص؟"
+  ],
+  [
+   "Can I pay by card?",
+   "هل يمكنني الدفع بالبطاقة؟"
+  ],
+  [
+   "I don't eat much sugar.",
+   "لا آكل الكثير من السكر."
+  ],
+  [
+   "This food is delicious!",
+   "هذا الطعام لذيذ!"
+  ]
  ],
  "grammar": {
-  "intro_en":"some in positive sentences and offers (Would you like some tea?) · any in negatives and questions (I don't have any rice. Is there any milk?)\nHow much is it? = asking the price.",
-  "intro_ar":"«بكم؟» = How much is it? · وفي المطعم الأدب أن تقول …I'd like أو …Can I have بدلًا من I want.",
-  "tables":[{"headers":["Countable (can count)","Uncountable (can't count)"],"rows":[["an apple → two apples · How many apples?","water, rice, bread, milk, money (no a, no -s) · How much water?"]]}],
-  "notes":[]
+  "intro_en": "some in positive sentences and offers (Would you like some tea?) · any in negatives and questions (I don't have any rice. Is there any milk?)\nHow much is it? = asking the price.",
+  "intro_ar": "«بكم؟» = How much is it? · وفي المطعم الأدب أن تقول …I'd like أو …Can I have بدلًا من I want.",
+  "tables": [
+   {
+    "headers": [
+     "Countable (can count)",
+     "Uncountable (can't count)"
+    ],
+    "rows": [
+     [
+      "an apple → two apples · How many apples?",
+      "water, rice, bread, milk, money (no a, no -s) · How much water?"
+     ]
+    ]
+   }
+  ],
+  "notes": []
  },
  "exercises": [
-  {"title":"Exercise 1 — Complete with How much or How many.","instructions":"Complete with How much or How many.","items":["1) ___ eggs do we need?","2) ___ water do you drink?","3) ___ is this shirt?","4) ___ children do you have?","5) ___ sugar do you take?","6) ___ people are there?"]},
-  {"title":"Exercise 2 — Complete with some or any.","instructions":"Complete with some or any.","items":["1) I want ___ bread.","2) We don't have ___ rice.","3) Is there ___ juice?","4) I'd like ___ fish, please.","5) There aren't ___ tomatoes.","6) Would you like ___ tea?"]},
-  {"title":"Exercise 3 — Countable (C) or uncountable (U)?","instructions":"Countable (C) or uncountable (U)?","items":["1) chair","2) water","3) egg","4) rice","5) banana","6) money"]},
-  {"title":"Exercise 4 — Translate into English.","instructions":"Translate into English.","items":["1) أريد كيلو طماطم من فضلك.","2) بكم هذا القميص؟","3) لا يوجد أي سكر.","4) هل يمكنني الدفع نقدًا؟"]}
+  {
+   "title": "Exercise 1 — Complete with How much or How many.",
+   "instructions": "Complete with How much or How many.",
+   "items": [
+    "1) ___ eggs do we need?",
+    "2) ___ water do you drink?",
+    "3) ___ is this shirt?",
+    "4) ___ children do you have?",
+    "5) ___ sugar do you take?",
+    "6) ___ people are there?"
+   ]
+  },
+  {
+   "title": "Exercise 2 — Complete with some or any.",
+   "instructions": "Complete with some or any.",
+   "items": [
+    "1) I want ___ bread.",
+    "2) We don't have ___ rice.",
+    "3) Is there ___ juice?",
+    "4) I'd like ___ fish, please.",
+    "5) There aren't ___ tomatoes.",
+    "6) Would you like ___ tea?"
+   ]
+  },
+  {
+   "title": "Exercise 3 — Countable (C) or uncountable (U)?",
+   "instructions": "Countable (C) or uncountable (U)?",
+   "items": [
+    "1) chair",
+    "2) water",
+    "3) egg",
+    "4) rice",
+    "5) banana",
+    "6) money"
+   ]
+  },
+  {
+   "title": "Exercise 4 — Translate into English.",
+   "instructions": "Translate into English.",
+   "items": [
+    "1) أريد كيلو طماطم من فضلك.",
+    "2) بكم هذا القميص؟",
+    "3) لا يوجد أي سكر.",
+    "4) هل يمكنني الدفع نقدًا؟"
+   ]
+  }
  ],
- "write_speak":"Write & Speak — Write a 6-line conversation in a café or shop. Read both parts aloud, then act it out with someone.\nExample: A: Good evening. Can I help you? — B: Yes, I'd like a cup of tea, please. — A: Anything else? — B: A piece of cake, please. How much is it? — A: It's ninety pounds. — B: Here you are. Thank you!",
+ "write_speak": "Write & Speak — Write a 6-line conversation in a café or shop. Read both parts aloud, then act it out with someone.\nExample: A: Good evening. Can I help you? — B: Yes, I'd like a cup of tea, please. — A: Anything else? — B: A piece of cake, please. How much is it? — A: It's ninety pounds. — B: Here you are. Thank you!",
  "other": []
 }

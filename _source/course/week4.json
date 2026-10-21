@@ -1,52 +1,307 @@
 {
-  "week": 4,
-  "title": "My Day",
-  "grammar_title": "Grammar: Present simple (I / you / we / they) · at, on, in · telling the time",
-  "plan": [
-    {"day": "Day 1", "learn": "Words: Morning · Sentences 1–2", "listen": "VOA Lesson 13: Happy Birthday, William Shakespeare!", "practise": "Exercise 1"},
-    {"day": "Day 2", "learn": "Words: Daytime · Sentences 3–4", "listen": "VOA Lesson 14: How About This?", "practise": "Exercise 2"},
-    {"day": "Day 3", "learn": "Words: Evening · Sentences 5–6", "listen": "ELLLO: “Where do you go in the morning?”", "practise": "Exercise 3"},
-    {"day": "Day 4", "learn": "Words: Time · Sentences 7–8", "listen": "VOA Lesson 15: I Love People-Watching! + ELLLO Sound Grammar: “Verbs – Present Simple”", "practise": "Exercise 4"},
-    {"day": "Day 5", "learn": "Words: Days · Sentences 9–10", "listen": "VOA Lesson 16: Where Are You From?", "practise": "Write & Speak"},
-    {"day": "Day 6", "learn": "Review all 30 words + 10 sentences", "listen": "British Council: “A study timetable” (reading)", "practise": "Redo mistakes"},
-    {"day": "Day 7", "learn": "Free day ☺", "listen": "BBC Real Easy English: “Talking about mornings” (video)", "practise": "Tick your tracker"}
-  ],
-  "word_sets": [
-    {"name": "Set 1 · Morning", "words": [["wake up", "يستيقظ"], ["get up", "ينهض من السرير"], ["have breakfast", "يتناول الإفطار"], ["take a shower", "يستحم"], ["get dressed", "يرتدي ملابسه"], ["leave home", "يغادر البيت"]]},
-    {"name": "Set 2 · Daytime", "words": [["go to work", "يذهب إلى العمل"], ["start", "يبدأ"], ["finish", "يُنهي"], ["have lunch", "يتناول الغداء"], ["come back", "يعود"], ["cook", "يطبخ"]]},
-    {"name": "Set 3 · Evening", "words": [["watch TV", "يشاهد التلفاز"], ["relax", "يسترخي"], ["pray", "يصلّي"], ["read", "يقرأ"], ["have dinner", "يتناول العشاء"], ["go to bed", "يذهب إلى السرير"]]},
-    {"name": "Set 4 · Time", "words": [["o'clock", "تمامًا (الساعة)"], ["half past", "والنصف"], ["quarter past", "والربع"], ["quarter to", "إلا ربعًا"], ["early", "مبكرًا"], ["late", "متأخرًا"]]},
-    {"name": "Set 5 · Days", "words": [["Saturday", "السبت"], ["Sunday", "الأحد"], ["Monday", "الاثنين"], ["Tuesday", "الثلاثاء"], ["Wednesday", "الأربعاء"], ["Thursday · Friday", "الخميس · الجمعة"]]}
-  ],
-  "sentences": [
-    ["I wake up at seven o'clock.", "أستيقظ الساعة السابعة."],
-    ["I have breakfast at home.", "أتناول الإفطار في البيت."],
-    ["I go to work by bus.", "أذهب إلى العمل بالحافلة."],
-    ["I start work at nine and finish at five.", "أبدأ العمل في التاسعة وأنتهي في الخامسة."],
-    ["What time is it? — It's half past three.", "كم الساعة؟ — الثالثة والنصف."],
-    ["What time do you go to bed?", "متى تذهب إلى السرير؟"],
-    ["I don't work on Friday.", "لا أعمل يوم الجمعة."],
-    ["We have dinner together at eight.", "نتناول العشاء معًا في الثامنة."],
-    ["Do you cook? — Yes, I do.", "هل تطبخ؟ — نعم."],
-    ["I'm sorry, I'm late.", "آسف، لقد تأخرت."]
-  ],
-  "grammar": {
-    "intro_en": "Use it for habits and routines. at + time (at 7) · on + day (on Monday) · in the morning / afternoon / evening · at night",
-    "intro_ar": "لا تقل I am work every day. الفعل في المضارع البسيط يأتي وحده بدون am: I work every day.",
-    "tables": [
-      {"headers": ["Positive", "Negative", "Question", "Short answer"],
-       "rows": [
-         ["I work.", "I don't work.", "Do you work?", "Yes, I do. / No, I don't."]
-       ]}
-    ],
-    "notes": []
+ "week": 4,
+ "title": "My Day",
+ "grammar_title": "Grammar: Present simple (I / you / we / they) · at, on, in · telling the time",
+ "plan": [
+  {
+   "day": "Day 1",
+   "learn": "Words: Morning · Sentences 1–2",
+   "listen": "VOA Lesson 13: Happy Birthday, William Shakespeare!",
+   "practise": "Exercise 1"
   },
-  "exercises": [
-    {"title": "Exercise 1 — Complete with at, on or in.", "instructions": "Complete with at, on or in.", "items": ["1. I get up ___ six o'clock.", "2. I don't work ___ Friday.", "3. I read ___ the evening.", "4. We pray ___ night.", "5. We visit my parents ___ Saturday.", "6. I have lunch ___ two o'clock."]},
-    {"title": "Exercise 2 — Make the sentence negative (–) or a question (?).", "instructions": "Make the sentence negative (–) or a question (?).", "items": ["1. I watch TV in the morning. (–)", "2. They cook every day. (?)", "3. We go to bed late. (–)", "4. You work on Saturday. (?)"]},
-    {"title": "Exercise 3 — Write the time in words.", "instructions": "Write the time in words.", "items": ["1. 7:00", "2. 3:30", "3. 9:15", "4. 5:45"]},
-    {"title": "Exercise 4 — Translate into English.", "instructions": "Translate into English.", "items": ["1. أستيقظ مبكرًا كل يوم.", "2. لا أشاهد التلفاز.", "3. متى تبدأ العمل؟", "4. نعود إلى البيت الساعة السادسة."]}
+  {
+   "day": "Day 2",
+   "learn": "Words: Daytime · Sentences 3–4",
+   "listen": "VOA Lesson 14: How About This?",
+   "practise": "Exercise 2"
+  },
+  {
+   "day": "Day 3",
+   "learn": "Words: Evening · Sentences 5–6",
+   "listen": "ELLLO: “Where do you go in the morning?”",
+   "practise": "Exercise 3"
+  },
+  {
+   "day": "Day 4",
+   "learn": "Words: Time · Sentences 7–8",
+   "listen": "VOA Lesson 15: I Love People-Watching! + ELLLO Sound Grammar: “Verbs – Present Simple”",
+   "practise": "Exercise 4"
+  },
+  {
+   "day": "Day 5",
+   "learn": "Words: Days · Sentences 9–10",
+   "listen": "VOA Lesson 16: Where Are You From?",
+   "practise": "Write & Speak"
+  },
+  {
+   "day": "Day 6",
+   "learn": "Review all 30 words + 10 sentences",
+   "listen": "British Council: “A study timetable” (reading)",
+   "practise": "Redo mistakes"
+  },
+  {
+   "day": "Day 7",
+   "learn": "Free day ☺",
+   "listen": "BBC Real Easy English: “Routines” (video)",
+   "practise": "Tick your tracker"
+  }
+ ],
+ "word_sets": [
+  {
+   "name": "Set 1 · Morning",
+   "words": [
+    [
+     "wake up",
+     "يستيقظ"
+    ],
+    [
+     "get up",
+     "ينهض من السرير"
+    ],
+    [
+     "have breakfast",
+     "يتناول الإفطار"
+    ],
+    [
+     "take a shower",
+     "يستحم"
+    ],
+    [
+     "get dressed",
+     "يرتدي ملابسه"
+    ],
+    [
+     "leave home",
+     "يغادر البيت"
+    ]
+   ]
+  },
+  {
+   "name": "Set 2 · Daytime",
+   "words": [
+    [
+     "go to work",
+     "يذهب إلى العمل"
+    ],
+    [
+     "start",
+     "يبدأ"
+    ],
+    [
+     "finish",
+     "يُنهي"
+    ],
+    [
+     "have lunch",
+     "يتناول الغداء"
+    ],
+    [
+     "come back",
+     "يعود"
+    ],
+    [
+     "cook",
+     "يطبخ"
+    ]
+   ]
+  },
+  {
+   "name": "Set 3 · Evening",
+   "words": [
+    [
+     "watch TV",
+     "يشاهد التلفاز"
+    ],
+    [
+     "relax",
+     "يسترخي"
+    ],
+    [
+     "pray",
+     "يصلّي"
+    ],
+    [
+     "read",
+     "يقرأ"
+    ],
+    [
+     "have dinner",
+     "يتناول العشاء"
+    ],
+    [
+     "go to bed",
+     "يذهب إلى السرير"
+    ]
+   ]
+  },
+  {
+   "name": "Set 4 · Time",
+   "words": [
+    [
+     "o'clock",
+     "تمامًا (الساعة)"
+    ],
+    [
+     "half past",
+     "والنصف"
+    ],
+    [
+     "quarter past",
+     "والربع"
+    ],
+    [
+     "quarter to",
+     "إلا ربعًا"
+    ],
+    [
+     "early",
+     "مبكرًا"
+    ],
+    [
+     "late",
+     "متأخرًا"
+    ]
+   ]
+  },
+  {
+   "name": "Set 5 · Days",
+   "words": [
+    [
+     "Saturday",
+     "السبت"
+    ],
+    [
+     "Sunday",
+     "الأحد"
+    ],
+    [
+     "Monday",
+     "الاثنين"
+    ],
+    [
+     "Tuesday",
+     "الثلاثاء"
+    ],
+    [
+     "Wednesday",
+     "الأربعاء"
+    ],
+    [
+     "Thursday · Friday",
+     "الخميس · الجمعة"
+    ]
+   ]
+  }
+ ],
+ "sentences": [
+  [
+   "I wake up at seven o'clock.",
+   "أستيقظ الساعة السابعة."
   ],
-  "write_speak": "Write & Speak — “My day”: write 8 sentences about your normal day, with times. Say it aloud without looking.\nExample: I wake up at six thirty. I take a shower and have breakfast. I leave home at half past seven. I start work at eight. I have lunch at two. I come back home at five. In the evening I relax and watch TV. I go to bed at eleven.",
-  "other": []
+  [
+   "I have breakfast at home.",
+   "أتناول الإفطار في البيت."
+  ],
+  [
+   "I go to work by bus.",
+   "أذهب إلى العمل بالحافلة."
+  ],
+  [
+   "I start work at nine and finish at five.",
+   "أبدأ العمل في التاسعة وأنتهي في الخامسة."
+  ],
+  [
+   "What time is it? — It's half past three.",
+   "كم الساعة؟ — الثالثة والنصف."
+  ],
+  [
+   "What time do you go to bed?",
+   "متى تذهب إلى السرير؟"
+  ],
+  [
+   "I don't work on Friday.",
+   "لا أعمل يوم الجمعة."
+  ],
+  [
+   "We have dinner together at eight.",
+   "نتناول العشاء معًا في الثامنة."
+  ],
+  [
+   "Do you cook? — Yes, I do.",
+   "هل تطبخ؟ — نعم."
+  ],
+  [
+   "I'm sorry, I'm late.",
+   "آسف، لقد تأخرت."
+  ]
+ ],
+ "grammar": {
+  "intro_en": "Use it for habits and routines. at + time (at 7) · on + day (on Monday) · in the morning / afternoon / evening · at night",
+  "intro_ar": "لا تقل I am work every day. الفعل في المضارع البسيط يأتي وحده بدون am: I work every day.",
+  "tables": [
+   {
+    "headers": [
+     "Positive",
+     "Negative",
+     "Question",
+     "Short answer"
+    ],
+    "rows": [
+     [
+      "I work.",
+      "I don't work.",
+      "Do you work?",
+      "Yes, I do. / No, I don't."
+     ]
+    ]
+   }
+  ],
+  "notes": []
+ },
+ "exercises": [
+  {
+   "title": "Exercise 1 — Complete with at, on or in.",
+   "instructions": "Complete with at, on or in.",
+   "items": [
+    "1. I get up ___ six o'clock.",
+    "2. I don't work ___ Friday.",
+    "3. I read ___ the evening.",
+    "4. We pray ___ night.",
+    "5. We visit my parents ___ Saturday.",
+    "6. I have lunch ___ two o'clock."
+   ]
+  },
+  {
+   "title": "Exercise 2 — Make the sentence negative (–) or a question (?).",
+   "instructions": "Make the sentence negative (–) or a question (?).",
+   "items": [
+    "1. I watch TV in the morning. (–)",
+    "2. They cook every day. (?)",
+    "3. We go to bed late. (–)",
+    "4. You work on Saturday. (?)"
+   ]
+  },
+  {
+   "title": "Exercise 3 — Write the time in words.",
+   "instructions": "Write the time in words.",
+   "items": [
+    "1. 7:00",
+    "2. 3:30",
+    "3. 9:15",
+    "4. 5:45"
+   ]
+  },
+  {
+   "title": "Exercise 4 — Translate into English.",
+   "instructions": "Translate into English.",
+   "items": [
+    "1. أستيقظ مبكرًا كل يوم.",
+    "2. لا أشاهد التلفاز.",
+    "3. متى تبدأ العمل؟",
+    "4. نعود إلى البيت الساعة السادسة."
+   ]
+  }
+ ],
+ "write_speak": "Write & Speak — “My day”: write 8 sentences about your normal day, with times. Say it aloud without looking.\nExample: I wake up at six thirty. I take a shower and have breakfast. I leave home at half past seven. I start work at eight. I have lunch at two. I come back home at five. In the evening I relax and watch TV. I go to bed at eleven.",
+ "other": []
 }

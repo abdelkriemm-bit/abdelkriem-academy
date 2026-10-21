@@ -3,9 +3,9 @@
  "weeks": {
   "1": {
    "Exercise 1": "1) am · 2) is · 3) are · 4) are · 5) is · 6) are",
-   "Exercise 2": "1) I am from Egypt. · 2) She is happy. · 3) He is 25 years old. · 4) What is your name? · 5) They are busy. · 6) I am fine, thank you.",
-   "Exercise 3": "1) I'm · 2) she's · 3) they're · 4) we aren't · 5) he isn't · 6) it's",
-   "Exercise 4": "1) I am busy today. · 2) Where is your friend from? · 3) She isn't hungry. · 4) What is your address?"
+   "Exercise 2": "1) I am from Egypt. · 2) She is happy. · 3) He is 25 years old. / He is 25. · 4) What is your name? · 5) They are busy. · 6) I am fine, thank you. / I am fine, thanks.",
+   "Exercise 3": "1) I'm · 2) she's · 3) they're · 4) we aren't / we're not · 5) he isn't / he's not · 6) it's",
+   "Exercise 4": "1) I am busy today. · 2) Where is your friend from? · 3) She isn't hungry. / She's not hungry. · 4) What is your address?"
   },
   "2": {
    "Exercise 1": "1) have · 2) has · 3) have · 4) has · 5) have · 6) has",
@@ -22,8 +22,8 @@
   "4": {
    "Exercise 1": "1) at · 2) on · 3) in · 4) at · 5) on · 6) at",
    "Exercise 2": "1) I don't watch TV in the morning. · 2) Do they cook every day? · 3) We don't go to bed late. · 4) Do you work on Saturday?",
-   "Exercise 3": "1) seven o'clock · 2) half past three · 3) quarter past nine · 4) quarter to six",
-   "Exercise 4": "1) I wake up early every day. · 2) I don't watch TV. · 3) What time do you start work? · 4) We come back home at six o'clock."
+   "Exercise 3": "1) seven o'clock · 2) half past three / three thirty · 3) (a) quarter past nine / nine fifteen · 4) (a) quarter to six / five forty-five",
+   "Exercise 4": "1) I wake up early every day. · 2) I don't watch TV. · 3) What time / When do you start work? · 4) We come back home at six o'clock."
   },
   "5": {
    "Exercise 1": "1) works · 2) watches · 3) goes · 4) studies · 5) doesn't like · 6) Does … drive",
@@ -35,13 +35,13 @@
    "Exercise 1": "1) How many · 2) How much · 3) How much · 4) How many · 5) How much · 6) How many",
    "Exercise 2": "1) some · 2) any · 3) any · 4) some · 5) any · 6) some",
    "Exercise 3": "1) C · 2) U · 3) C · 4) U · 5) C · 6) U",
-   "Exercise 4": "1) I'd like a kilo of tomatoes, please. · 2) How much is this shirt? · 3) There isn't any sugar. · 4) Can I pay in cash?"
+   "Exercise 4": "1) I'd like / I want a kilo of tomatoes, please. · 2) How much is this shirt? · 3) There isn't any sugar. / There's no sugar. · 4) Can I pay in cash? / Can I pay cash?"
   },
   "7": {
    "Exercise 1": "1) She can speak French. · 2) I can't drive. · 3) He can fix cars. · 4) They can't swim. · 5) Can you use a computer?",
    "Exercise 2": "1) Where · 2) Who · 3) What time / When · 4) Why · 5) How much · 6) How long",
    "Exercise 3": "1) Where do you work? · 2) He can speak English. · 3) What does she do? · 4) I work in a bank.",
-   "Exercise 4": "1) My brother is an engineer in a big company. · 2) Can you fix this? · 3) When does the meeting start? · 4) I can't drive."
+   "Exercise 4": "1) My brother is an engineer in a big company. · 2) Can you fix this? · 3) When / What time does the meeting start? · 4) I can't drive."
   },
   "8": {
    "Exercise 1": "1) is cooking · 2) am reading · 3) are playing · 4) aren't watching · 5) Are … waiting · 6) is raining",
@@ -63,15 +63,15 @@
   },
   "11": {
    "Exercise 1": "1) am going to visit · 2) is going to buy · 3) aren't going to travel · 4) Are … going to move",
-   "Exercise 2": "1) 'll · 2) 'm going to · 3) 'll · 4) 're going to",
-   "Exercise 3": "1) a · 2) b · 3) c · 4) d",
+   "Exercise 2": "1) 'll · 2) am going to ('m going to) · 3) 'll · 4) 're going to",
+   "Exercise 3": "1) c · 2) d · 3) b · 4) a",
    "Exercise 4": "1) I'm going to travel to Dubai next year. · 2) I'll call you later. · 3) Would you like to come to my party? · 4) I won't be late."
   },
   "12": {
    "Exercise 1": "1) shouldn't · 2) should · 3) should · 4) shouldn't · 5) should · 6) shouldn't",
-   "Exercise 2": "1) Could you open the window, please? · 2) Could you give me the menu, please? · 3) May I sit here, please? · 4) Could you repeat that, please?",
+   "Exercise 2": "1) Could you open the window, please? · 2) Could you give me the menu, please? / Could I have the menu, please? · 3) May I / Can I sit here, please? · 4) Could you repeat that, please? · (Can / Would you … also correct)",
    "Exercise 3": "b → f → a → c → d → e",
-   "Exercise 4": "1) My back hurts. / I have a pain in my back. · 2) You should drink a lot of water. · 3) Excuse me, where is the ticket office? · 4) Could you call a doctor?"
+   "Exercise 4": "1) My back hurts. / I have a pain in my back. / I have back pain. · 2) You should drink a lot of water. · 3) Excuse me, where is the ticket office? · 4) Could you call a doctor? / Can you call a doctor?"
   }
  },
  "week_titles": {
@@ -89,9 +89,9 @@
   "12": "Week 12 · Health, Travel and Asking for Help"
  },
  "progress_checks": {
-  "1": "Progress Check 1 · Weeks 1–4\nA: 1) is · 2) have · 3) is · 4) His · 5) at · 6) Do · 7) are · 8) are · 9) don't · 10) on\nB: 11) I'm from Egypt and I live in Giza. · 12) I have one brother and two sisters. · 13) Is there a pharmacy near here? · 14) I go to work at eight o'clock. · 15) What time is it?\nC: 16) kitchen = مطبخ · 17) tired = متعب · 18) opposite = مقابل · 19) daughter = ابنة · 20) finish = يُنهي",
-  "2": "Progress Check 2 · Weeks 5–8\nA: 1) watches · 2) doesn't like · 3) much · 4) any · 5) can · 6) Where · 7) is raining · 8) am wearing · 9) Does · 10) much\nB: 11) My sister works in a hospital. · 12) I'd like a cup of tea, please. · 13) Can you help me? · 14) What are you doing now? · 15) I sometimes visit my friends.\nC: 16) expensive = غالٍ · 17) colleague = زميل عمل · 18) never = أبدًا · 19) sunny = مشمس · 20) receipt = إيصال / فاتورة",
-  "3": "Final Check · Weeks 9–12\nA: 1) was · 2) went · 3) Did · 4) buy · 5) were · 6) going to · 7) 'll / will · 8) shouldn't · 9) Could · 10) slept\nB: 11) I went to the market yesterday. · 12) I didn't watch the film. · 13) We're going to travel to Luxor next month. · 14) You should see a doctor. · 15) Would you like to have dinner with us?\nC: 16) ticket = تذكرة · 17) headache = صداع · 18) crowded = مزدحم · 19) tonight = الليلة · 20) worried = قلق"
+  "1": "Progress Check 1 · Weeks 1–4\nA: 1) is · 2) have · 3) is · 4) His · 5) at · 6) Do · 7) are · 8) are · 9) don't · 10) on\nB: 1) I'm from Egypt and I live in Giza. · 2) I have one brother and two sisters. · 3) Is there a pharmacy near here? · 4) I go to work at eight o'clock. · 5) What time is it?\nC: 1) kitchen = مطبخ · 2) tired = متعب · 3) opposite = مقابل · 4) daughter = ابنة · 5) finish = يُنهي",
+  "2": "Progress Check 2 · Weeks 5–8\nA: 1) watches · 2) doesn't like · 3) much · 4) any · 5) can · 6) Where · 7) is raining · 8) am wearing · 9) Does · 10) much\nB: 1) My sister works in a hospital. · 2) I'd like a cup of tea, please. · 3) Can / Could you help me? · 4) What are you doing now? · 5) I sometimes visit my friends. / Sometimes I visit my friends.\nC: 1) expensive = غالٍ · 2) colleague = زميل عمل · 3) never = أبدًا · 4) sunny = مشمس · 5) receipt = إيصال / فاتورة",
+  "3": "Final Check · Weeks 9–12\nA: 1) was · 2) went · 3) Did · 4) buy · 5) were · 6) going to · 7) 'll / will · 8) shouldn't · 9) Could · 10) slept\nB: 1) I went to the market yesterday. · 2) I didn't watch the film. · 3) We're going to travel / We will travel to Luxor next month. · 4) You should see a doctor. · 5) Would you like to have dinner with us?\nC: 1) ticket = تذكرة · 2) headache = صداع · 3) crowded = مزدحم · 4) tonight = الليلة · 5) worried = قلق"
  },
  "other": [
   "Check your answers after you finish each exercise. Sentences in translations can have other correct forms — if you are not sure, ask your teacher."
