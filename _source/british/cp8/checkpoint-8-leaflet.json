@@ -1,0 +1,635 @@
+{
+ "slug": "checkpoint-8-leaflet",
+ "title": "Leaflet Writing",
+ "kicker": "Checkpoint 8 · Paper 1 writing (non-fiction)",
+ "summary": "How to write a leaflet that informs and persuades: title, slogan, headings, subheadings, bullet points and a call to action shown in a full layout, plus what to do when a task says you do not need leaflet layout, with a strong 350+ word sample.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "1. What is a leaflet?"
+  },
+  {
+   "type": "p",
+   "text": "A leaflet is a **short, eye-catching text that informs and persuades** — usually about an event, a club, a service, a place or a cause. It is designed to be read quickly: readers glance at it, find what they need and decide whether to act. That is why it uses a **title, a slogan, headings, subheadings, bullet points, short paragraphs and a call to action**."
+  },
+  {
+   "type": "p",
+   "text": "Leaflets belong to **Paper 1 (Non-fiction)**. A leaflet is one of the non-fiction text types you may be asked to write in **Section B Writing (25 marks)**, but it is not one of the most common tasks, so you should know how to write one confidently without expecting it every year. In the exam you are writing on lined paper, so you **show** the layout in words: a title in capitals, subheadings on their own lines, bullet points with a dash or dot. You do **not** need to draw pictures or boxes."
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Read the instruction about layout",
+   "items": [
+    "If the task says \"Write a leaflet\" → use the full layout: title, slogan, subheadings, bullet points, call to action, contact details.",
+    "If the task asks for leaflet-style persuasive content but says you do not need to use leaflet layout (or design features) → write in clear paragraphs with persuasive language, and skip the bullet points and boxes. You may still keep a title.",
+    "If the task asks for persuasive writing with no format named → do not invent leaflet features; write persuasive prose.",
+    "Pictures and design are never marked. Your words, organisation and accuracy are."
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Purpose",
+    "What the leaflet does",
+    "Example"
+   ],
+   "rows": [
+    [
+     "Inform",
+     "Gives clear facts: what, when, where, cost, how to join",
+     "\"Time: 2:30 p.m. to 4:00 p.m.\""
+    ],
+    [
+     "Persuade",
+     "Shows benefits and makes the reader want to act",
+     "\"Finish your homework before you get home and your evening is yours.\""
+    ],
+    [
+     "Advise",
+     "Some leaflets give tips (health, safety, study)",
+     "\"Drink water every hour during the hot months.\""
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "How it is marked (25 marks)"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Category",
+    "Marks",
+    "What a top-band leaflet shows"
+   ],
+   "rows": [
+    [
+     "Creation of texts (older name: content, purpose and audience)",
+     "5",
+     "Content matches the purpose (inform and persuade) and the audience named in the task. Every point the task asks for is covered and developed. A lively, direct voice that speaks to the reader."
+    ],
+    [
+     "Vocabulary and language",
+     "3",
+     "Persuasive, positive vocabulary chosen for the audience (\"unmissable\", \"brand-new\", \"guaranteed\"), plus a memorable slogan."
+    ],
+    [
+     "Structure of texts (older name: text structure)",
+     "7",
+     "Clear sections under subheadings, in a logical order (interest → information → benefits → practical details → call to action). Bullet points used for lists, short paragraphs for explanations."
+    ],
+    [
+     "Grammar and punctuation (older name: sentence structure, punctuation and grammar)",
+     "7",
+     "Varied sentences: questions to hook, imperatives to drive action, short sentences for punch, complex sentences for reasons. Accurate punctuation: colons, commas in lists, apostrophes, inverted commas for quotes."
+    ],
+    [
+     "Word structure (spelling)",
+     "3",
+     "Accurate spelling of everyday and ambitious words (\"available\", \"opportunity\", \"guaranteed\", \"facilities\")."
+    ],
+    [
+     "Total",
+     "25",
+     "Section B of Paper 1 (Non-fiction)"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Rules that can cap your mark",
+   "items": [
+    "Writing the wrong text type caps Creation of texts at 1 mark, and in recent mark schemes Structure of texts is capped too. Always check the format the task names.",
+    "20 words or fewer scores 0. Between 21 and 60 words, the whole answer can score no more than 7 out of 25.",
+    "Your plan is not marked, so keep it short (notes, not sentences) and spend your time on the answer.",
+    "The examiner uses best fit: you get the band that matches your writing overall, so one strong paragraph cannot hide five weak ones."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "How to get full marks: the checklist"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Title and slogan grab attention in the first second.",
+    "The introduction (2-3 sentences) hooks the reader and says what the leaflet is about.",
+    "At least three sections, each under its own subheading.",
+    "Bullet points for lists of facts or benefits, but each bullet is a full, developed idea — not a single word.",
+    "Some sections are written in full paragraphs, so the examiner can see your sentence control.",
+    "Persuasive techniques: direct address (\"you\"), rhetorical question, benefits, testimonials, a sense of urgency.",
+    "A clear call to action and contact details at the end."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "h2",
+   "text": "2. Features of a leaflet"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Feature",
+    "Type",
+    "Example"
+   ],
+   "rows": [
+    [
+     "Title",
+     "Layout",
+     "\"STUCK ON HOMEWORK? NOT ANY MORE!\" (short, bold, often a question or exclamation)"
+    ],
+    [
+     "Slogan",
+     "Layout + language",
+     "\"Ask. Learn. Succeed.\" (short, catchy, often a pattern of three)"
+    ],
+    [
+     "Subheadings",
+     "Layout",
+     "\"Why should you join?\" / \"When and where?\" / \"How do I join?\""
+    ],
+    [
+     "Bullet points",
+     "Layout",
+     "\"• Free resources: computers, a printer and dictionaries are all available.\""
+    ],
+    [
+     "Short paragraphs",
+     "Layout",
+     "Two to four sentences under each subheading"
+    ],
+    [
+     "Testimonials (quotes)",
+     "Layout + persuasion",
+     "\"The mentors are so patient.\" (Salma, Year 7)"
+    ],
+    [
+     "Call to action",
+     "Layout + persuasion",
+     "\"Sign up today!\""
+    ],
+    [
+     "Contact details",
+     "Layout",
+     "\"Visit Room 14 or ask at the school office.\""
+    ],
+    [
+     "Direct address",
+     "Language",
+     "\"Have you ever...?\" \"You are not alone.\""
+    ],
+    [
+     "Rhetorical question",
+     "Language",
+     "\"Looking for a way to beat the summer heat?\""
+    ],
+    [
+     "Imperative verbs",
+     "Language",
+     "Join, discover, book, visit, sign up"
+    ],
+    [
+     "Positive, persuasive adjectives",
+     "Language",
+     "brand-new, unmissable, friendly, free, exclusive"
+    ],
+    [
+     "Pattern of three",
+     "Language",
+     "\"Fewer worries, better marks and more free time.\""
+    ],
+    [
+     "Sense of urgency",
+     "Language",
+     "\"Places are limited, so sign up before Thursday.\""
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "3. How to structure it"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Part",
+    "What to write",
+    "Example"
+   ],
+   "rows": [
+    [
+     "Title",
+     "Short, bold, eye-catching. In capitals on its own line",
+     "\"DISCOVER YOUR NEW FAVOURITE SPORT!\""
+    ],
+    [
+     "Slogan",
+     "A catchy line under the title",
+     "\"Play. Grow. Belong.\""
+    ],
+    [
+     "Introduction",
+     "2-3 sentences: a hook (question or bold statement) + what the leaflet is about",
+     "\"Looking for something new this term? Our club...\""
+    ],
+    [
+     "Section 1: informative",
+     "Subheading + explain what it is / what it offers",
+     "\"What is it?\""
+    ],
+    [
+     "Section 2: persuasive",
+     "Subheading + 4-5 bullet points of benefits, each developed. Optional testimonials",
+     "\"Why should you join?\""
+    ],
+    [
+     "Section 3: practical",
+     "Subheading + key facts as bullets: dates, time, place, cost",
+     "\"When and where?\""
+    ],
+    [
+     "Section 4: how to take part",
+     "Subheading + a short paragraph explaining the next step",
+     "\"How do I join?\""
+    ],
+    [
+     "Call to action",
+     "One or two energetic sentences telling the reader what to do now",
+     "\"Sign up today!\""
+    ],
+    [
+     "Contact details",
+     "Where to find out more",
+     "\"Ask at the school office.\""
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Showing layout on exam paper",
+   "items": [
+    "Write the title in CAPITAL LETTERS and leave a line under it.",
+    "Put each subheading on its own line; underline it if you like.",
+    "Start each bullet point on a new line with a dot or a dash.",
+    "Leave a blank line between sections so the examiner sees the structure at once.",
+    "Do not waste time drawing boxes, logos or pictures; they earn no marks."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "How to start: titles, slogans and openings"
+  },
+  {
+   "type": "phrases",
+   "groups": [
+    {
+     "title": "Titles",
+     "items": [
+      "DON'T MISS OUT ON [EVENT]!",
+      "[PROBLEM]? NOT ANY MORE!",
+      "DISCOVER THE NEW [PLACE / CLUB]",
+      "YOUR GUIDE TO [TOPIC]"
+     ]
+    },
+    {
+     "title": "Slogans",
+     "items": [
+      "Ask. Learn. Succeed.",
+      "Small steps, big changes.",
+      "Your town, your future, your choice.",
+      "Come for the fun, stay for the friends."
+     ]
+    },
+    {
+     "title": "Opening lines",
+     "items": [
+      "Are you ready to [achieve a goal]?",
+      "Have you ever [shared experience]? You are not alone.",
+      "This is your chance to [do something exciting or valuable].",
+      "Looking for [benefit]? Look no further."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "How to end: calls to action"
+  },
+  {
+   "type": "phrases",
+   "groups": [
+    {
+     "title": "Calls to action",
+     "items": [
+      "Sign up today and discover how much [better / easier / more fun]... can be!",
+      "Places are limited, so book your spot before [date].",
+      "Don't wait — join us this [day] and see the difference for yourself.",
+      "Take the first step today: [exact action].",
+      "For more information, visit [place] or ask at [place]."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "4. Useful phrases and vocabulary"
+  },
+  {
+   "type": "phrases",
+   "groups": [
+    {
+     "title": "Informing",
+     "items": [
+      "We offer...",
+      "Our [club / event / service] includes...",
+      "Here's what you can expect:",
+      "Every session begins with..."
+     ]
+    },
+    {
+     "title": "Persuading",
+     "items": [
+      "Unlike other [clubs / places], we...",
+      "Imagine [picture of the benefit].",
+      "Whether you are a [type of person] or a [type of person], there is something here for you.",
+      "Best of all, it is completely free."
+     ]
+    },
+    {
+     "title": "Giving practical details",
+     "items": [
+      "Date:... / Time:... / Place:... / Cost:...",
+      "All you need to bring is...",
+      "Joining could not be easier."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "unmissable (adj.)",
+     "too good to miss: \"an unmissable chance\""
+    ],
+    [
+     "affordable (adj.)",
+     "reasonably priced"
+    ],
+    [
+     "exclusive (adj.)",
+     "available only to a limited group"
+    ],
+    [
+     "accessible (adj.)",
+     "easy to reach or use"
+    ],
+    [
+     "convenient (adj.)",
+     "easy to use or get to, fits your timetable"
+    ],
+    [
+     "welcoming (adj.)",
+     "friendly towards newcomers"
+    ],
+    [
+     "outstanding (adj.)",
+     "extremely good"
+    ],
+    [
+     "guaranteed (adj.)",
+     "certain, promised"
+    ],
+    [
+     "facility (n.)",
+     "a building or equipment for a purpose: \"sports facilities\""
+    ],
+    [
+     "venue (n.)",
+     "the place where an event happens"
+    ],
+    [
+     "session (n.)",
+     "a period spent on an activity"
+    ],
+    [
+     "opportunity (n.)",
+     "a chance to do something good"
+    ],
+    [
+     "incentive (n.)",
+     "something that encourages you to act"
+    ],
+    [
+     "discover (v.)",
+     "to find something for the first time"
+    ],
+    [
+     "enrol (v.)",
+     "to officially join a course or club"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "5. Strong sample"
+  },
+  {
+   "type": "model",
+   "title": "Leaflet: Homework Help Club",
+   "task": "Your school is opening a Homework Help Club in the library after school. Write a leaflet for students in Years 7 to 9 that explains what the club offers and persuades them to join.",
+   "text": [
+    "[Title] STUCK ON HOMEWORK? NOT ANY MORE!",
+    "[Slogan] Ask. Learn. Succeed.",
+    "[Introduction] Have you ever stared at a maths question for twenty minutes, felt your heart sink and closed your book in despair? You are not alone. From next Sunday, the brand-new Homework Help Club opens its doors in the school library, and it has been designed with one goal in mind: to turn your toughest tasks into your proudest achievements.",
+    "[Subheading] What is the Homework Help Club?",
+    "The club is a calm, friendly space where you can complete your homework with support from teachers and trained Year 11 mentors. You bring the questions; we help you find the answers. We will never simply give them away, because understanding is what wins marks. Whether you need ten minutes or the full ninety, you are always welcome to stay.",
+    "[Subheading] Why should you join?",
+    "• Expert help: a maths, a science and an English teacher are on hand every afternoon.",
+    "• Peer mentors: Year 11 students who sat the same tests will explain things in a way that actually makes sense.",
+    "• A quiet place to focus: no younger brothers, no television and no distractions.",
+    "• Free resources: computers, a printer, dictionaries and practice papers are all available.",
+    "• More free time: finish your homework before you get home and your evening is yours.",
+    "[Subheading] What students said in our trial week",
+    "\"I used to dread Thursday's science homework. In the trial week, I finished it in the club, and I actually understood it.\" (Youssef, Year 8)",
+    "\"The mentors are so patient. They never make you feel silly for asking a question twice.\" (Salma, Year 7)",
+    "[Subheading] When and where?",
+    "• Days: Sunday to Wednesday",
+    "• Time: 2:30 p.m. to 4:00 p.m.",
+    "• Place: the school library, first floor",
+    "• Cost: completely free",
+    "[Subheading] How do I join?",
+    "Joining could not be easier. Simply add your name to the list on the library door or speak to your form tutor before Thursday. Places are limited to forty students each afternoon, so the earliest names are guaranteed a seat.",
+    "[Call to action] Don't let one difficult question ruin another evening. Sign up today and discover how much easier homework becomes when you are not facing it alone!",
+    "[Contact details] Questions? Visit the library team in Room 14 or ask at the school office."
+   ],
+   "word_count": 369,
+   "marks": "Strong answer — Creation 5/5 · Vocabulary 3/3 · Structure 7/7 · Grammar & punctuation 7/7 · Spelling 3/3",
+   "notes": [
+    "How to read this sample: the words in square brackets, such as [Subheading], are labels to show you each layout feature. Do not write the labels in the exam. Just write the heading itself, in capitals or underlined, on its own line. The word count does not include the labels.",
+    "Creation of texts 5/5: fully matched to purpose (inform + persuade) and audience (Years 7-9): a friendly, direct voice (\"you\"), clear facts about what, when and where, and persuasive benefits throughout. All parts of the task are covered: what the club offers AND why students should join.",
+    "Vocabulary and language 3/3: persuasive, audience-friendly word choices — \"brand-new\", \"toughest tasks\", \"proudest achievements\", \"guaranteed\", \"on hand\". Alliteration in \"toughest tasks\" and the triple slogan \"Ask. Learn. Succeed.\" make the leaflet memorable.",
+    "Structure of texts 7/7: title → slogan → hook introduction → informative section (what is it?) → persuasive section (why join? + testimonials) → practical section (when and where?) → how to join → call to action → contact details. Every section has a subheading so a reader can find information at a glance, and the order moves from interest to action.",
+    "Grammar and punctuation 7/7 (sentences): a rhetorical question opens the leaflet. Very short sentences add punch (\"You are not alone.\"). Imperative verbs drive action (\"Sign up\", \"discover\", \"speak to\"). Complex sentences give reasons (\"so the earliest names are guaranteed a seat\").",
+    "Grammar and punctuation 7/7 (punctuation): colons introduce explanation after each bullet heading (\"Expert help: ...\"). A semicolon joins two closely related clauses (\"You bring the questions; we help you find the answers.\"). Inverted commas mark quotations from students who tried the club. Brackets add extra information (who said it). One exclamation mark only, at the call to action.",
+    "Word structure (spelling) 3/3: accurate spelling of \"achievements\", \"guaranteed\", \"resources\", \"dictionaries\" (plural of a word ending in y), \"distractions\", \"discover\"."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "If the task says you do not need leaflet layout"
+  },
+  {
+   "type": "p",
+   "text": "Some tasks ask for the content of a leaflet but tell you that you do not need to use leaflet layout. Then you keep the persuasive language but write in paragraphs. Here is how the opening of the sample would change:"
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Same content, written as prose",
+   "text": "Have you ever stared at a maths question for twenty minutes and closed your book in despair? If so, the new Homework Help Club is exactly what you need. Every afternoon from Sunday to Wednesday, a maths, a science and an English teacher will be waiting in the library, together with Year 11 mentors who sat the same tests last year. Best of all, it is completely free, and by the time you get home, your homework will be finished and your evening will be yours."
+  },
+  {
+   "type": "h2",
+   "text": "Timing in the exam"
+  },
+  {
+   "type": "p",
+   "text": "In Paper 1 (1 hour 10 minutes in total) the suggested time for Section B Writing is about 35 minutes (some older papers suggested 30 minutes). Section A Reading comes first, so do not let it eat into your writing time: the writing task is worth the same 25 marks."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Minutes",
+    "What to do"
+   ],
+   "rows": [
+    [
+     "0-5",
+     "G.A.A.P. the task (Genre, Audience, Area of content, Purpose). Underline every bullet point. Write a quick paragraph plan in the planning space."
+    ],
+    [
+     "5-30",
+     "Write. Aim for about 350-450 words in 5-7 paragraphs. Keep one eye on your plan so every bullet point is covered."
+    ],
+    [
+     "30-35",
+     "Check: spelling of ambitious words, full stops between sentences (no comma splices), verb tenses, capital letters, and that the ending does what the task asks."
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Leaflets need extra care with length",
+   "items": [
+    "Bullet points and headings use few words, so leaflets often end up too short. Aim for at least 350 words.",
+    "Write at least two sections in full paragraphs to show your sentence skills.",
+    "Make each bullet point a developed idea: \"Free resources: computers, a printer and dictionaries are all available\" rather than \"Free stuff\"."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "6. Common mistakes"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Mistake",
+    "Why it loses marks",
+    "Fix"
+   ],
+   "rows": [
+    [
+     "Only bullet points, single words",
+     "Too short. No sentence control to reward (Grammar and punctuation)",
+     "Mix bullets with full paragraphs. Develop each bullet"
+    ],
+    [
+     "No subheadings",
+     "Loses the leaflet structure (Structure of texts)",
+     "One subheading per section"
+    ],
+    [
+     "Missing practical details",
+     "Readers cannot act. Task not fully covered",
+     "Always include when, where, cost and how to join"
+    ],
+    [
+     "Drawing pictures and boxes",
+     "Wastes time. Earns nothing",
+     "Show layout with capitals, lines and bullet marks"
+    ],
+    [
+     "Using leaflet layout when the task says it is not needed",
+     "Wrong format for the task",
+     "Follow the instruction: write in paragraphs"
+    ],
+    [
+     "Too many exclamation marks!!!",
+     "Looks childish. Weak punctuation range",
+     "One at the call to action is enough"
+    ],
+    [
+     "No call to action",
+     "Weak ending. Purpose not achieved",
+     "Finish with what to do now"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Final checklist before you hand in"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Title in capitals and a catchy slogan.",
+    "A 2-3 sentence introduction with a hook.",
+    "At least three sections with subheadings.",
+    "Bullet points used for lists, and each bullet is developed.",
+    "At least two sections written in full paragraphs.",
+    "Persuasive techniques: \"you\", questions, benefits, pattern of three, urgency.",
+    "Practical details, a call to action and contact details at the end.",
+    "Spelling, apostrophes and capital letters checked."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "كيف تكتب المطوية (Leaflet) في الامتحان؟",
+   "items": [
+    "لا ترسم صوراً أو مربعات؛ الرسم لا يأخذ درجات. اكتب العنوان بحروف كبيرة، وكل عنوان فرعي في سطر مستقل، وابدأ كل نقطة بعلامة.",
+    "لا تجعل المطوية كلها نقاطاً قصيرة؛ اكتب فقرتين كاملتين على الأقل حتى يرى المصحح مستواك في الجمل وعلامات الترقيم.",
+    "إذا قال السؤال إنك لا تحتاج إلى شكل المطوية، فاكتب فقرات عادية بلغة مقنعة.",
+    "اختم بجملة تطلب من القارئ أن يفعل شيئاً الآن، ثم معلومات التواصل."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice tasks"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "Task 1: Your town is holding a free \"Clean-Up Day\" in the local park. Write a leaflet for young people that explains the event and persuades them to take part. Plan the sections.",
+     "a": "Title: \"OUR PARK NEEDS YOU!\" Slogan: \"Pick up. Clean up. Speak up.\" Intro: hook question (\"Tired of stepping over litter on your way to football?\") + what the event is. Section 1 \"What is Clean-Up Day?\": short paragraph — volunteers, equipment provided, music and refreshments. Section 2 \"Why get involved?\": bullets — a cleaner park for everyone / meet new friends / a volunteering certificate for your CV / free lunch / see the difference in one morning. Section 3 \"When and where?\": date, 8 a.m.-12 p.m., main gate, free. Section 4 \"What to bring\": hat, water, closed shoes. Call to action: \"Register at the community centre by Thursday!\" Contact: community centre desk."
+    },
+    {
+     "q": "Task 2: Write a leaflet for Year 7 students giving advice on how to stay healthy during the exam season. How is an advice leaflet different from the club leaflet?",
+     "a": "An advice leaflet informs and advises more than it sells, so the sections are tips, not benefits. Title: \"EXAM SEASON SURVIVAL GUIDE\". Slogan: \"Rest well, eat well, do well.\" Sections: \"Sleep\" (8-9 hours, no screens before bed), \"Food and water\" (breakfast, water bottle, fruit instead of sweets), \"Study smart\" (short sessions with breaks, a timetable), \"Stay calm\" (talk to someone, a short walk). Imperatives give advice (\"Switch off your phone an hour before bed\"), and the call to action is \"Start your plan tonight!\""
+    },
+    {
+     "q": "Rewrite this weak bullet so it would earn marks: \"• Good teachers\"",
+     "a": "Possible answer: \"• Expert coaching: every session is led by a qualified teacher who will help you improve week by week.\" (A heading word + colon + a full, developed benefit.)"
+    }
+   ]
+  }
+ ]
+}

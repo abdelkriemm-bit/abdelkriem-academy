@@ -1,0 +1,820 @@
+{
+ "slug": "checkpoint-8-connectives-linking",
+ "title": "Connectives, Conjunctions and Linking Paragraphs",
+ "kicker": "Checkpoint 8 · Reading: grammar & punctuation",
+ "summary": "Connectives by function, coordinating and subordinating conjunctions, how writers link paragraphs, a reliable method for the 'how does this sentence link the paragraphs?' question, and how to match paragraphs to main ideas.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "1. What connectives are and why they matter"
+  },
+  {
+   "type": "p",
+   "text": "**Connectives** are words and phrases that link ideas: inside a sentence (*because, although, and*), between sentences (*However, As a result*) and between paragraphs (*Despite these problems, ...*). They are the signposts of a text. They tell the reader what kind of idea is coming next and how it relates to the idea before it."
+  },
+  {
+   "type": "p",
+   "text": "Read these two versions. The facts are the same. Only the second shows how they are connected:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "*The bridge was closed. The villagers walked an extra five kilometres. The council did nothing.*",
+    "*The bridge was closed. **As a result**, the villagers walked an extra five kilometres. **Even so**, the council did nothing.*"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "In Checkpoint, connectives and linking are tested in **Section A Reading** of both papers (25 marks each) and rewarded in **Section B Writing**, where **Structure of texts (7 marks)** includes how well you link sentences and paragraphs."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Reading question style (in our own words)",
+    "What it tests"
+   ],
+   "rows": [
+    [
+     "What is the purpose of the word *Instead* / *But* / *However* in line X? (often tick one)",
+     "The function of a single connective"
+    ],
+    [
+     "How does the first sentence of paragraph 3 link to paragraph 2?",
+     "Cohesion between paragraphs"
+    ],
+    [
+     "How does this sentence link back to the previous paragraph and forward to the next?",
+     "Linking back and forward"
+    ],
+    [
+     "Why is this paragraph only one line long?",
+     "Structure and emphasis"
+    ],
+    [
+     "Match each paragraph to its main idea. (One idea is not needed.)",
+     "Understanding the main idea of each paragraph"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Exam words",
+   "items": [
+    "**Connective**: any word or phrase that links ideas (conjunctions, connecting adverbs, linking phrases).",
+    "**Conjunction**: a joining word inside a sentence (*and, but, because, although*).",
+    "**Cohesion**: how well a text holds together, so the reader can follow it.",
+    "**Transition**: a word, phrase or sentence that moves the reader from one idea or paragraph to the next.",
+    "**Topic sentence**: the sentence (usually the first) that tells you the main idea of a paragraph.",
+    "**Distractor**: a wrong option in a question, designed to look right."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "2. The grammar: four families of connectives"
+  },
+  {
+   "type": "p",
+   "text": "**1. Coordinating conjunctions (FANBOYS)** join two words, phrases or main clauses of **equal** importance. They make **compound sentences**."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Conjunction",
+    "Function",
+    "Example"
+   ],
+   "rows": [
+    [
+     "for",
+     "reason (formal, like *because*)",
+     "We stayed inside, for the storm was getting worse."
+    ],
+    [
+     "and",
+     "addition",
+     "The shop sells maps, and it hires out bikes."
+    ],
+    [
+     "nor",
+     "adds a second negative",
+     "He did not call, nor did he write."
+    ],
+    [
+     "but",
+     "contrast",
+     "The hotel was old, but the rooms were spotless."
+    ],
+    [
+     "or",
+     "choice / alternative",
+     "We can walk, or we can take the tram."
+    ],
+    [
+     "yet",
+     "contrast (a surprising one)",
+     "The task was simple, yet nobody finished it."
+    ],
+    [
+     "so",
+     "result",
+     "The road was flooded, so we turned back."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**2. Subordinating conjunctions** begin a **subordinate clause**, which cannot stand alone. They make **complex sentences** and show exactly how the ideas are related."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Function",
+    "Subordinating conjunctions",
+    "Example"
+   ],
+   "rows": [
+    [
+     "Time",
+     "when, while, as, after, before, until, since, once",
+     "*Once the sun had set,* the market came alive."
+    ],
+    [
+     "Reason / cause",
+     "because, since, as",
+     "The flight was delayed *because the fog was thick.*"
+    ],
+    [
+     "Contrast",
+     "whereas, while",
+     "*Whereas the old library was dark,* the new one is full of light."
+    ],
+    [
+     "Concession",
+     "although, though, even though",
+     "*Although she was nervous,* Hana gave a brilliant speech."
+    ],
+    [
+     "Condition",
+     "if, unless, provided that, as long as",
+     "*Unless we leave now,* we will miss the ferry."
+    ],
+    [
+     "Purpose",
+     "so that, in order that",
+     "He saved every pound *so that he could buy a telescope.*"
+    ],
+    [
+     "Place",
+     "where, wherever",
+     "We camped *where the river bends.*"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**3. Correlative conjunctions** work in pairs: *both... and, either... or, neither... nor, not only... but also, whether... or*. Example: *The park is **not only** cleaner **but also** safer.* (Adds emphasis to the second point.)"
+  },
+  {
+   "type": "p",
+   "text": "**4. Connecting adverbs and linking phrases** (also called conjunctive adverbs or adverbials) link **sentences** and **paragraphs**: *however, therefore, moreover, furthermore, consequently, nevertheless, meanwhile, as a result, in addition, on the other hand, for example, in conclusion*. They are not conjunctions, so they cannot join two main clauses with a comma alone."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Connective family",
+    "How to punctuate it",
+    "Example"
+   ],
+   "rows": [
+    [
+     "FANBOYS joining two main clauses",
+     "Comma before the conjunction (usually)",
+     "The film was long, but it was gripping."
+    ],
+    [
+     "Subordinating conjunction at the start",
+     "Comma after the subordinate clause",
+     "Although it was late, we kept working."
+    ],
+    [
+     "Subordinating conjunction in the middle",
+     "Usually no comma",
+     "We kept working although it was late."
+    ],
+    [
+     "Connecting adverb starting a sentence",
+     "Full stop before, comma after",
+     "It was late. However, we kept working."
+    ],
+    [
+     "Connecting adverb joining two main clauses",
+     "Semicolon before, comma after",
+     "It was late; however, we kept working."
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "The most common punctuation mistake with connectives",
+   "text": "*It was late, however we kept working.* is wrong (a comma splice). *However* cannot join two sentences with a comma. Use a full stop or a semicolon before it."
+  },
+  {
+   "type": "h2",
+   "text": "3. Connectives by function: the master table"
+  },
+  {
+   "type": "p",
+   "text": "In the exam, you must be able to say **what job** a connective is doing. Learn this table: it covers every function you are likely to be asked about."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Function",
+    "What the writer is doing",
+    "Common connectives"
+   ],
+   "rows": [
+    [
+     "Addition",
+     "Adding another idea in the same direction",
+     "and, also, too, in addition, furthermore, moreover, what is more, besides, as well as"
+    ],
+    [
+     "Contrast",
+     "Showing a difference between two ideas",
+     "but, however, whereas, while, on the other hand, in contrast, instead, unlike, on the contrary"
+    ],
+    [
+     "Concession",
+     "Admitting one point, then going on to make a stronger opposite point",
+     "although, even though, though, despite, in spite of, nevertheless, nonetheless, even so, admittedly, yet"
+    ],
+    [
+     "Cause (reason)",
+     "Giving the reason why something happened",
+     "because, since, as, due to, owing to, because of"
+    ],
+    [
+     "Effect (result)",
+     "Showing what happened as a result",
+     "so, therefore, as a result, consequently, thus, hence, for this reason"
+    ],
+    [
+     "Time / sequence",
+     "Putting events or steps in order",
+     "first, next, then, after that, meanwhile, later, eventually, finally, suddenly, before, until"
+    ],
+    [
+     "Condition",
+     "Saying what must happen for something else to happen",
+     "if, unless, provided that, as long as, otherwise, in case"
+    ],
+    [
+     "Example",
+     "Giving a specific case to prove a point",
+     "for example, for instance, such as, to illustrate, in particular, namely"
+    ],
+    [
+     "Emphasis",
+     "Making an idea stand out as important",
+     "indeed, in fact, above all, especially, certainly, most importantly"
+    ],
+    [
+     "Comparison (similarity)",
+     "Showing two things are alike",
+     "similarly, likewise, in the same way, equally, just as"
+    ],
+    [
+     "Clarifying",
+     "Saying the same thing more clearly",
+     "in other words, that is to say, put simply"
+    ],
+    [
+     "Summary / conclusion",
+     "Pulling ideas together at the end",
+     "in conclusion, to sum up, overall, on the whole, all in all, in short"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Contrast or concession?** Both show a difference, but concession **admits** something first: *Although the tickets are expensive, the show is worth every pound.* The writer accepts the price problem, then overrides it. Pure contrast simply sets two things side by side: *Cairo is busy, whereas Siwa is peaceful.* If an exam option says *to show contrast* and another says *to introduce a point against what came before*, read the text carefully to choose."
+  },
+  {
+   "type": "p",
+   "text": "**Cause or effect?** *Because* introduces the **cause**; *therefore* and *as a result* introduce the **effect**. *The village was cut off **because** the river flooded.* / *The river flooded; **therefore**, the village was cut off.*"
+  },
+  {
+   "type": "p",
+   "text": "**Instead** shows that one thing replaces another: *The council did not repair the playground. Instead, it sold the land.* Its purpose is to introduce an alternative (often a surprising or disappointing one)."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Same direction or turning?",
+   "text": "Before you name a connective's function, ask: is the writer **continuing in the same direction** (addition, example, emphasis, similarity, result) or **turning** (contrast, concession)? This one question solves most tick-one connective questions."
+  },
+  {
+   "type": "h2",
+   "text": "4. How to answer: 'What is the purpose of this connective?'"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Read the sentence before and the sentence after** the connective. A connective always links two ideas; you need both.",
+    "**Decide the relationship** using the master table (addition, contrast, result...).",
+    "**Name the function and say what it connects**, quoting briefly.",
+    "**Add the effect** if the question has 2 marks: what does this link show the reader about the writer's ideas or the events?"
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "**Worked example.** *For years, the old lighthouse keeper refused every offer to sell his home. **Instead**, he gave it to the town as a museum.*"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** What is the purpose of the word *Instead*? (1 mark)"
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** It introduces an alternative: it shows that, rather than selling the lighthouse, the keeper chose to give it away to the town."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example (2 marks).** *Most visitors come to the coast for the beaches. **But** the real treasure lies inland, in the quiet villages of the hills.*"
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** *But* introduces a contrast between what most visitors expect (the beaches) and what the writer believes is better (the inland villages). It turns the reader's attention to the writer's surprising opinion and makes them curious about the villages."
+  },
+  {
+   "type": "h2",
+   "text": "5. How writers link paragraphs: seven devices"
+  },
+  {
+   "type": "p",
+   "text": "A linking question is not only about connectives. A writer can link one paragraph to the next in several ways. Learn all seven, because any of them can be the answer."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Device",
+    "Example (end of one paragraph → start of next)",
+    "What to write"
+   ],
+   "rows": [
+    [
+     "1. Connective / transition word",
+     "...crowded from dawn until dark. → **Today, however,** the harbour is silent.",
+     "The connective shows the relationship (here a contrast between past and present)."
+    ],
+    [
+     "2. Pronoun or reference word",
+     "The council rejected the plan. → **This** angered the residents.",
+     "*This* refers back to the whole idea of the previous paragraph."
+    ],
+    [
+     "3. Repeated key word",
+     "...the silence of the house. → **That silence** followed him upstairs.",
+     "Repeating *silence* carries the idea forward."
+    ],
+    [
+     "4. Repeated or returning idea",
+     "A paragraph about the village being cut off → later: *no road, no railway, nothing but the track over the hill*",
+     "The writer returns to the same idea in different words."
+    ],
+    [
+     "5. Summary noun / synonym",
+     "...floods, power cuts and broken roads. → **These problems** ...",
+     "A summarising phrase sums up the previous paragraph in two words."
+    ],
+    [
+     "6. Time or place shift",
+     "**Three hours later**, ... / **Back in the city**, ...",
+     "The phrase moves the reader in time or place and connects the two scenes."
+    ],
+    [
+     "7. Question and answer",
+     "So why do so many people leave? → **The answer is simple: money.**",
+     "The new paragraph answers the question that ended the last one."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Two more structural choices that questions can point to:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A one-line paragraph** (*And then the phone rang.*): it stands out on the page, creates emphasis or a turning point, and often signals a change of direction or a cliffhanger.",
+    "**Starting in the middle of a conversation or action**: it throws the reader straight into the scene, creates curiosity, and makes the reader read on to understand what is happening."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "6. The linking question: a method that works every time"
+  },
+  {
+   "type": "p",
+   "text": "**The golden rule:** look for the **relationship** between the ideas, not just for a linking word. A weak answer names the word and stops. A strong answer names the device **and** explains what it connects."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Read the end of the earlier paragraph and the start of the later one.** Links are almost always built at the join.",
+    "**Find the link back**: which word or phrase points to something earlier (*this, these problems, however, despite this*)? What exactly does it refer to?",
+    "**Find the link forward**: what new idea does the sentence introduce that the rest of the paragraph develops?",
+    "**Write it up**: *The sentence links back to paragraph X by [device + quote], which refers to [earlier idea]. It links forward by introducing [new idea], which paragraph Y goes on to [describe/explain].*"
+   ],
+   "ordered": true
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Why 'back and forward' matters",
+   "text": "A linking sentence usually does two jobs: it reminds the reader of what came before and it prepares them for what comes next. If a linking question is worth 2 marks, give one clear point for each direction."
+  },
+  {
+   "type": "h2",
+   "text": "7. Worked example: an original text"
+  },
+  {
+   "type": "p",
+   "text": "Read this short article. Paragraphs are numbered."
+  },
+  {
+   "type": "p",
+   "text": "**[1]** Ten years ago, the roof of the Nour apartment block was a place nobody visited. It was a mess of broken chairs, rusty satellite dishes and dust. Today, it is covered in tomato plants, mint and climbing beans."
+  },
+  {
+   "type": "p",
+   "text": "**[2]** The change began with one resident, a retired science teacher, who simply wanted fresh herbs for his kitchen. He planted a few pots of basil. Within a month, his neighbours were asking him for cuttings."
+  },
+  {
+   "type": "p",
+   "text": "**[3]** The garden has brought surprising benefits. The plants shade the roof, so the flats below stay noticeably cooler in summer. In addition, families now save money on vegetables, and neighbours who once ignored each other meet every evening to water the beds."
+  },
+  {
+   "type": "p",
+   "text": "**[4]** However, the project has not been easy. Every drop of water must be carried up six flights of stairs, and strong winds have twice destroyed the young seedlings."
+  },
+  {
+   "type": "p",
+   "text": "**[5]** Despite these difficulties, the residents are determined to continue. Next spring, they plan to install a rainwater tank and to invite pupils from the local school to learn how food is grown."
+  },
+  {
+   "type": "p",
+   "text": "**Question 1:** How does the first sentence of paragraph 4 link to paragraph 3? (1 mark)"
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** It uses the contrast connective *However* to turn from the benefits described in paragraph 3 to the problems of the project, which paragraph 4 goes on to describe."
+  },
+  {
+   "type": "p",
+   "text": "**Question 2:** Explain how the first sentence of paragraph 5 links paragraph 4 and paragraph 5. (2 marks)"
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** It links back to paragraph 4 with the summary phrase *these difficulties*, which refers to the water being carried upstairs and the wind destroying the seedlings. It links forward with *determined to continue*, which introduces the residents' plans for the future that the rest of paragraph 5 describes."
+  },
+  {
+   "type": "p",
+   "text": "**Question 3:** How does paragraph 1 use time to structure the opening? (1 mark)"
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** It contrasts *Ten years ago* with *Today*, showing the reader the roof before and after, so the reader immediately sees how big the change has been."
+  },
+  {
+   "type": "h2",
+   "text": "8. Matching paragraphs to main ideas"
+  },
+  {
+   "type": "p",
+   "text": "This task gives you a list of headings or main ideas and asks you to match each to a paragraph. There is usually **one extra option** that does not match any paragraph: the distractor."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Read each paragraph's first and last sentences first.** The topic sentence usually tells you the main idea.",
+    "**Sum up each paragraph in three to five words** of your own, in the margin.",
+    "**Match the easy ones first**, then work on the harder ones.",
+    "**Beware the distractor**: it often uses a word that appears in the text (*money, water, school*) but describes only a small detail, not the main idea of a whole paragraph.",
+    "**Check**: one paragraph, one main idea. The main idea must cover the **whole** paragraph, not one sentence of it."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "**Worked example** using the rooftop article above. Match each paragraph to one main idea. One idea is not used."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Main idea",
+    "Paragraph",
+    "Why"
+   ],
+   "rows": [
+    [
+     "A. Problems the gardeners face",
+     "4",
+     "The whole paragraph describes difficulties (water, wind). *However* signals the turn."
+    ],
+    [
+     "B. How the garden started",
+     "2",
+     "It tells the story of the first resident and his basil."
+    ],
+    [
+     "C. Plans for the future",
+     "5",
+     "*Next spring, they plan...*"
+    ],
+    [
+     "D. Before and after",
+     "1",
+     "*Ten years ago... Today...* contrasts the old roof with the new garden."
+    ],
+    [
+     "E. Advantages of the garden",
+     "3",
+     "Topic sentence: *The garden has brought surprising benefits.*"
+    ],
+    [
+     "F. The cost of buying plants",
+     "Not used (distractor)",
+     "Money is mentioned in paragraph 3 (*save money on vegetables*), but it is one detail, not the main idea of any paragraph, and the text never discusses buying plants."
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "طريقة حل سؤال الربط وسؤال الفكرة الرئيسية",
+   "items": [
+    "في سؤال How does this sentence link paragraphs اكتب جزأين: كيف ترجع الجملة لما قبلها (مثل however أو this أو these problems) وماذا تقدّم للفقرة التالية.",
+    "لا تكتب اسم الكلمة فقط؛ اشرح العلاقة: إضافة؟ تضاد؟ نتيجة؟",
+    "في سؤال توصيل الفقرات بالأفكار، اقرأ أول جملة في كل فقرة، وانتبه لاختيار زائد يشبه تفصيلة صغيرة في النص وليس فكرة الفقرة كلها."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "9. Using connectives in your own writing"
+  },
+  {
+   "type": "p",
+   "text": "In Section B, connectives earn marks in **Structure of texts** (linking paragraphs, cohesion) and support **Grammar and punctuation** (complex sentences). Use them precisely and with variety."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Open most body paragraphs with a linking phrase that looks back and forward (*Despite these advantages, ... / Another reason why... / Later that evening, ...*).",
+    "Use a range of functions: addition, contrast, concession, cause and effect, example, summary. Not *Firstly, Secondly, Thirdly* only.",
+    "Do not overload: a connective at the start of every sentence sounds mechanical.",
+    "Never use a contrast word between two ideas that agree. *The food was cold. However, the service was slow.* is wrong (both are complaints). Use *Moreover* or *What is more*.",
+    "In stories, use time and place connectives to move the reader smoothly: *Moments later, ... / Meanwhile, back at the house, ... / By the time the sun rose, ...*"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "phrases",
+   "groups": [
+    {
+     "title": "Opening a new point (addition)",
+     "items": [
+      "Another important reason is that...",
+      "In addition to this, ...",
+      "What is more, ...",
+      "Furthermore, it is worth remembering that..."
+     ]
+    },
+    {
+     "title": "Turning (contrast and concession)",
+     "items": [
+      "However, not everyone agrees.",
+      "On the other hand, ...",
+      "Although some people argue that..., ...",
+      "Despite these problems, ...",
+      "Even so, ..."
+     ]
+    },
+    {
+     "title": "Cause and effect",
+     "items": [
+      "As a result, ...",
+      "This means that...",
+      "Consequently, ...",
+      "Because of this, ...",
+      "This is why..."
+     ]
+    },
+    {
+     "title": "Examples and emphasis",
+     "items": [
+      "For instance, ...",
+      "A clear example of this is...",
+      "Indeed, ...",
+      "Above all, ..."
+     ]
+    },
+    {
+     "title": "Time in stories",
+     "items": [
+      "Moments later, ...",
+      "Meanwhile, ...",
+      "By the time..., ...",
+      "Without warning, ...",
+      "Eventually, ..."
+     ]
+    },
+    {
+     "title": "Concluding",
+     "items": [
+      "In conclusion, ...",
+      "To sum up, ...",
+      "Overall, ...",
+      "All in all, ..."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "cohesion",
+     "how a text holds together so the reader can follow it"
+    ],
+    [
+     "concession",
+     "admitting a point before arguing against it"
+    ],
+    [
+     "contrast",
+     "showing a difference between ideas"
+    ],
+    [
+     "consequence",
+     "a result"
+    ],
+    [
+     "alternative",
+     "another possibility, used instead"
+    ],
+    [
+     "sequence",
+     "the order of events or steps"
+    ],
+    [
+     "topic sentence",
+     "the sentence that states a paragraph's main idea"
+    ],
+    [
+     "link back",
+     "refer to something earlier in the text"
+    ],
+    [
+     "link forward",
+     "introduce what comes next"
+    ],
+    [
+     "distractor",
+     "a wrong option designed to look right"
+    ],
+    [
+     "summary phrase",
+     "a phrase that sums up earlier ideas, e.g. these problems"
+    ],
+    [
+     "transition",
+     "a word or phrase that moves the reader from one idea to the next"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "10. Practice A: name the function"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "*The beach was crowded. **Nevertheless**, we found a quiet spot near the rocks.* Function of *Nevertheless*?",
+     "a": "**Contrast / concession**: despite the crowd (admitted), they found a quiet spot."
+    },
+    {
+     "q": "*The ferry was cancelled. **Consequently**, we spent the night in the port.*",
+     "a": "**Effect / result**: spending the night is the result of the cancellation."
+    },
+    {
+     "q": "*Some desert animals survive without drinking. The fennec fox, **for instance**, gets water from its food.*",
+     "a": "**Example**: the fox is a specific case proving the general point."
+    },
+    {
+     "q": "*You will not be allowed in **unless** you show your ticket.*",
+     "a": "**Condition**: showing a ticket is the condition for entry."
+    },
+    {
+     "q": "*The mountains are cold at night. **Similarly**, the desert can freeze after sunset.*",
+     "a": "**Comparison / similarity**: both places become cold."
+    },
+    {
+     "q": "*Our club raised money for the hospital. **Moreover**, we collected two hundred books for the library.*",
+     "a": "**Addition**: another achievement in the same direction."
+    },
+    {
+     "q": "*Kareem did not complain about the delay. **Instead**, he used the time to finish his book.*",
+     "a": "**Alternative / replacement**: what he did rather than complaining."
+    },
+    {
+     "q": "*The car was old **and** rusty, **yet** it never once broke down.* Function of *yet*?",
+     "a": "**Contrast** (a surprising one): we would expect an old, rusty car to break down."
+    },
+    {
+     "q": "*The festival was crowded, noisy and expensive. **In short**, it was a disappointment.*",
+     "a": "**Summary**: it sums up the three complaints in one judgement."
+    },
+    {
+     "q": "*She practised every day **so that** she would be ready for the final.*",
+     "a": "**Purpose**: it explains why she practised."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "11. Practice B: linking sentences and paragraphs"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "End of paragraph 1: *...and for centuries the oasis was the busiest stop on the caravan route.* Start of paragraph 2: *Now, only a handful of tourists arrive each week.* How are the paragraphs linked? (2 marks)",
+     "a": "The time words *for centuries* and *Now* contrast the past with the present, linking the two paragraphs. Paragraph 1 shows the oasis busy and important. Paragraph 2 shows it almost empty, so the reader sees how much it has declined."
+    },
+    {
+     "q": "*The government promised a new hospital in 2020. **This promise** has still not been kept.* What does *This promise* refer to, and how does it link the sentences?",
+     "a": "It refers back to the government's promise of a new hospital. The summary phrase repeats the key idea, so the second sentence builds directly on the first and leads into the writer's criticism."
+    },
+    {
+     "q": "End of paragraph 3: *So why does nobody stop him?* Start of paragraph 4: *The answer lies in the town's history.* How does paragraph 4 link to paragraph 3?",
+     "a": "Paragraph 3 ends with a question and paragraph 4 begins by answering it, so the reader is pulled forward to find the explanation."
+    },
+    {
+     "q": "A story paragraph ends: *She closed the door and finally relaxed.* The next paragraph is one line: *Then the phone rang.* Why is this paragraph only one line long? (2 marks)",
+     "a": "The single line stands out on the page and breaks the calm mood of the previous paragraph. It creates a sudden turning point and suspense, making the reader want to know who is calling."
+    },
+    {
+     "q": "A text begins: *\"Don't open it,\" whispered Tarek. But it was too late.* Why does the writer begin in the middle of a conversation?",
+     "a": "It throws the reader straight into a tense moment without explanation, which creates curiosity and makes the reader read on to find out what *it* is and why it should not be opened."
+    },
+    {
+     "q": "End of paragraph 2 describes broken roads, flooding and power cuts. Paragraph 3 begins: *These problems have forced many young families to leave the village.* Explain how this sentence links back and forward. (2 marks)",
+     "a": "It links back with *These problems*, a summary phrase for the broken roads, flooding and power cuts in paragraph 2. It links forward by introducing a new consequence, families leaving the village, which paragraph 3 goes on to explain."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "12. Practice C: choose the right connective"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "*The museum is free; ______, it is rarely crowded.* (however / therefore / for example)",
+     "a": "**however**: you would expect a free museum to be crowded, so this is a contrast."
+    },
+    {
+     "q": "*______ the rain, the match went ahead.* (Because / Despite / Unless)",
+     "a": "**Despite** shows concession: the rain did not stop the match. (*Because* would mean the rain caused the match.)"
+    },
+    {
+     "q": "*Bring a coat ______ it gets cold later.* (in case / although / whereas)",
+     "a": "**in case**: a precaution (condition)."
+    },
+    {
+     "q": "*The plan was cheap. ______, it was quick to build.* (However / Furthermore / Instead)",
+     "a": "**Furthermore**: both are advantages, so this is addition, not contrast."
+    },
+    {
+     "q": "Correct the punctuation: *The road was closed, therefore we took the bus.*",
+     "a": "*The road was closed; therefore, we took the bus.* or *The road was closed. Therefore, we took the bus.* (*therefore* cannot join two sentences with a comma alone)."
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Remember",
+   "text": "Function first (what job?), then what it connects (which two ideas?), then the effect (what does the reader learn or feel?). For paragraph links: back + forward."
+  }
+ ]
+}
