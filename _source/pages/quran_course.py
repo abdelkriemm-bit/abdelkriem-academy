@@ -159,14 +159,7 @@ body{padding-bottom:64px}
         t = _qre.sub(r"\(?https?://\S+\)?", "", t)
         t = _qre.split(r"(?<=[.؛])\s", t.strip())[0]
         return t.strip(" —:.") 
-    _rhtml = ""
-    for _r in _RES.get("reciters", []):
-        _rhtml += f'<li><a href="{_QE(_r["url"])}" target="_blank" rel="noopener">{_QE(_r["name"])}</a> — {_QE(_qnote(_r.get("note","")))}</li>'
-    for _key in ("tajweed_videos", "reading_videos"):
-        _v = _RES.get(_key) or {}
-        if _v.get("url"): _rhtml += f'<li><a href="{_QE(_v["url"])}" target="_blank" rel="noopener">{_QE(_v.get("series",""))}</a> — {_QE(_v.get("presenter",""))}</li>'
-    for _r in _RES.get("mushaf_tools", []):
-        _rhtml += f'<li><a href="{_QE(_r["url"])}" target="_blank" rel="noopener">{_QE(_r["name"])}</a> — {_QE(_qnote(_r.get("note","")))}</li>'
+    _rhtml = "".join(f'<li><a href="{_QE(u)}" target="_blank" rel="noopener">{_QE(n)}</a></li>' for n, u in _qr.AR_RESOURCES)
     _lv_list = "".join(f'<li><a href="quran-hifz-{l["level"]}.html"><small>{_qr.ar(len(l["weeks"]))} أسبوعًا</small>{_QE(l["title"])}</a></li>' for l in _levels)
     _hub = ("<p>كورس مجاني كامل لتعليم القرآن الكريم للأطفال والكبار: من تعلّم الحروف، إلى أحكام التجويد، إلى حفظ القرآن كاملًا بخطة يومية واضحة يتابعها ولي الأمر في البيت.</p>"
             "<h2>ابدأ من هنا</h2><ul class='grid'>"

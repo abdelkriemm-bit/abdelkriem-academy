@@ -86,16 +86,7 @@ def guide_pdf(out):
     for s in g["sections"]:
         body += f"<h2>{E(s['title'])}</h2>" + "".join(f"<p>{E(p)}</p>" for p in s.get("paragraphs", []))
         if s.get("bullets"): body += '<ul class="lst">' + "".join(f"<li>{E(b)}</li>" for b in s["bullets"]) + "</ul>"
-    res = os.path.join(HERE, "RESOURCES.json")
-    if os.path.exists(res):
-        r = R.load(res)
-        body += '<h2>مصادر الاستماع والتعلّم</h2><ul class="lst">'
-        for x in r.get("reciters", []) + r.get("mushaf_tools", []):
-            body += f'<li><a href="{E(x["url"])}">{E(x["name"])}</a> — {E(x.get("note",""))}</li>'
-        for k in ("tajweed_videos", "reading_videos"):
-            v = r.get(k) or {}
-            if v.get("url"): body += f'<li><a href="{E(v["url"])}">{E(v.get("series",""))}</a> — {E(v.get("presenter",""))}</li>'
-        body += "</ul>"
+    body += '<h2>مصادر الاستماع والتعلّم</h2><ul class="lst">' + "".join(f'<li><a href="{E(u)}">{E(n)}</a></li>' for n, u in R.AR_RESOURCES) + "</ul>"
     tr = "".join(f"<tr><td class=d>الأسبوع {ar(i)}</td>" + "<td></td>" * 8 + "</tr>" for i in range(1, 13))
     body += ('<h2>جدول المتابعة الأسبوعي (اطبعه)</h2><p>ضع ✔ أو نجمة لكل يوم أتمّ فيه ابنك الحفظ والمراجعة.</p>'
              '<table><thead><tr><th>الأسبوع</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>تسميع</th><th>استماع</th><th>ملاحظات</th></tr></thead>'

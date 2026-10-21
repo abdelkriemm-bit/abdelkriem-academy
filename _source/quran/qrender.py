@@ -151,3 +151,19 @@ document.querySelectorAll('button.tjt').forEach(function(b){b.addEventListener('
 
 def colors_css():
     return "".join(f"body.tj-on .tj-{k}{{color:{v}}}" for k, v in COLORS.items()) + ".qc{display:none}body.tj-on .qc{display:block}body.tj-on .qp{display:none}"
+
+AR_RESOURCES = [
+ ("الشيخ محمود خليل الحصري — المصحف المعلّم (يقرأ ويترك وقتًا للترديد)", "https://quran.com/reciters/12"),
+ ("الشيخ محمد صديق المنشاوي — المصحف المعلّم مع ترديد الأطفال", "https://quran.com/reciters/168"),
+ ("الشيخ محمود خليل الحصري — مرتّل", "https://quran.com/reciters/6"),
+ ("الشيخ محمد صديق المنشاوي — مرتّل", "https://quran.com/reciters/9"),
+ ("الشيخ عبد الباسط عبد الصمد — مرتّل", "https://quran.com/reciters/2"),
+ ("الشيخ محمد أيوب — مرتّل", "https://www.mp3quran.net/ar/ayyub"),
+ ("د. أيمن رشدي سويد — المصحف المعلّم", "https://www.mp3quran.net/ar/aymn-rshdy-molm"),
+ ("سلسلة تعليم أحكام التجويد للمبتدئين — القارئ عبد الرحمن أبو العنين (فيديو)", "https://www.youtube.com/playlist?list=PLhSrwfCNArc69Wixtzt9v4dLth6k7DrWh"),
+ ("شرح دروس القاعدة النورانية — الشيخ محمود أبو الدكتور (فيديو)", "https://www.youtube.com/playlist?list=PLjZ-DAvHG0cj-HRKSpOjHECReG56jwUgJ"),
+ ("موقع المصحف الإلكتروني: اقرأ واستمع لأي سورة واختر القارئ", "https://quran.com/ar/112"),
+ ("مصحف المدينة النبوية برواية حفص (ملف للقراءة)", "https://archive.org/details/MushafMadinaHafsGreen1441"),
+ ("تطبيق القرآن لأجهزة أندرويد (مجاني، مع تكرار الآية)", "https://play.google.com/store/apps/details?id=com.quran.labs.androidquran"),
+ ("تطبيق «آية» لأجهزة آيفون وآيباد (مع تكرار الآية)", "https://apps.apple.com/us/app/ayah-quran-app/id706037876"),
+]
