@@ -1,5 +1,6 @@
 # English in 90 Days — free beginner course page (runs inside build.py)
-PDF = "files/English-in-90-Days-Beginner-Course.pdf"
+PDF = "files/English-Course-From-Zero.pdf"
+PDF_NAME = "English Course From Zero - طوّر الإنجليزي من الصفر.pdf"
 WEEKS = [
  (1, "Hello! This Is Me", "Verb to be (am / is / are)"),
  (2, "My Family and Friends", "have / has · my, your, his, her · 's"),
@@ -29,7 +30,7 @@ course = pagehead("Free beginner course · 12 weeks · 30 minutes a day", "Engli
 <section class="block"><div class="wrap split">
 <div>
 <ul class="stats dark"><li><b>360</b><span>words</span></li><li><b>120</b><span>key sentences</span></li><li><b>48</b><span>video lessons</span></li><li><b>60</b><span>exercises + answers</span></li></ul>
-<div class="ctas"><a class="btn" href="english-week-1.html">Start Week 1</a><a class="btn ghost" href="{PDF}" download>Download the PDF</a></div>
+<div class="ctas"><a class="btn" href="english-week-1.html">Start Week 1</a><a class="btn ghost" href="{PDF}" download="{PDF_NAME}">Download the course PDF · حمّل الكورس PDF</a></div>
 <p class="ar" dir="rtl" lang="ar">كورس إنجليزي للمبتدئين — ٣ شهور، ٣٠ دقيقة يوميًا. الكتاب فيه كل اللي محتاجه: الكلمات والجمل والقواعد والتمارين بالإجابات، وخطة استماع لكل يوم بالروابط.</p>
 </div>
 <div class="part">
@@ -59,7 +60,7 @@ course = pagehead("Free beginner course · 12 weeks · 30 minutes a day", "Engli
 <section id="plan" class="block"><div class="wrap">
 <h2>The 12-week plan</h2><p class="sub">Each week has 30 words, 10 sentences to memorise, one grammar point, daily listening and exercises.</p>
 <ol class="weeks">{_weeks()}</ol>
-<div class="ctas"><a class="btn" href="{PDF}" download>Download the full course (PDF)</a></div>
+<div class="ctas"><a class="btn" href="{PDF}" download="{PDF_NAME}">Download English Course: From Zero (PDF) · حمّل كورس طوّر الإنجليزي من الصفر</a></div>
 </div></section>
 
 <section class="block alt"><div class="wrap prose">
