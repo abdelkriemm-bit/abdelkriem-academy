@@ -1,0 +1,511 @@
+{
+ "slug": "checkpoint-6-purpose-viewpoint",
+ "title": "Purpose, Fact and Opinion, and Viewpoint",
+ "kicker": "Checkpoint 6 · Reading: understanding texts",
+ "summary": "Why a text was written and the clues that show it, fact versus opinion, first, second and third person, characters’ feelings and the writer’s attitude, with methods for every question type.",
+ "blocks": [
+  {
+   "type": "p",
+   "text": "When you read, you should not only understand **what** the text says. You should also understand **why** the writer wrote it, **who** is telling it and **what the writer (or a character) thinks and feels**. This page covers five connected skills: the author’s purpose, fact and opinion, point of view (first, second and third person), characters’ feelings, and the writer’s attitude. Each skill has clear rules, worked examples and a method you can use in the exam."
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "How this topic is tested",
+   "items": [
+    "Tick-one questions: “What is the main purpose of this text?” or “How does the character feel at this point?” with four options.",
+    "“Why has the writer included…?” questions about one part of the text (a fact, a quotation, a question, a short sentence).",
+    "Fact and opinion: “Find one fact and one opinion in paragraph 2” or “Is this sentence a fact or an opinion?”",
+    "Viewpoint: “What is the writer’s overall opinion of…?” or “Which words show that the writer admires…?”",
+    "Opinion with evidence (often 2 marks): “Is Hamza a good brother? Give a reason and a quotation.”",
+    "Two reasons each with a quotation (can be worth 4 marks)."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. The author’s purpose: why was the text written?"
+  },
+  {
+   "type": "p",
+   "text": "The **purpose** is the job the writer wants the text to do. Every text has a main purpose. Some texts have two (for example, a leaflet can inform AND persuade). Learn the purposes and the clues that show them."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Purpose",
+    "The writer wants to…",
+    "Clues in the text",
+    "Typical texts"
+   ],
+   "rows": [
+    [
+     "To inform",
+     "give the reader facts",
+     "Facts, numbers, dates, technical words, present tense, subheadings, no strong opinions",
+     "Information text, news report, encyclopaedia entry"
+    ],
+    [
+     "To explain",
+     "show how or why something happens",
+     "because, so, as a result, this means that, steps of a process, diagrams",
+     "Explanation text, science book"
+    ],
+    [
+     "To instruct",
+     "tell the reader how to do something",
+     "Imperative verbs (Cut, Mix), numbered steps, first, next, finally",
+     "Recipe, instructions, rules of a game"
+    ],
+    [
+     "To persuade",
+     "make the reader think or do something",
+     "Emotive words, rhetorical questions, “you”, exaggeration, rule of three, Act now!",
+     "Advert, leaflet, persuasive letter, speech"
+    ],
+    [
+     "To argue / discuss",
+     "give reasons for a view, or show both sides",
+     "however, on the other hand, some people believe, evidence, a conclusion",
+     "Balanced argument, debate speech"
+    ],
+    [
+     "To advise",
+     "help the reader make a good choice",
+     "should, try to, it is a good idea to, if you…, tips",
+     "Advice leaflet, problem page, tips article"
+    ],
+    [
+     "To recount",
+     "retell real events in time order",
+     "Past tense, first person, time connectives, names and dates",
+     "Recount, diary, biography, autobiography"
+    ],
+    [
+     "To describe",
+     "help the reader picture a person, place or thing",
+     "Adjectives, the five senses, similes and metaphors",
+     "Travel writing, descriptive parts of stories"
+    ],
+    [
+     "To review",
+     "judge how good something is",
+     "Opinions, good points and bad points, a rating or verdict",
+     "Book, film or product review"
+    ],
+    [
+     "To entertain",
+     "make the reader enjoy, laugh, feel excited or scared",
+     "Characters, dialogue, suspense, humour, description, a plot",
+     "Stories, poems, plays, funny articles"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Purpose of one PART of the text: “Why has the writer included…?”",
+   "items": [
+    "**A fact or number** → to prove the point, to show it is true, to make the writer sound reliable, to shock the reader with how big or small something is.",
+    "**A quotation from an expert or witness** → to show the information is reliable and true, to give a real person’s experience.",
+    "**A rhetorical question** → to make the reader think about the issue, to involve the reader directly, to make them agree.",
+    "**A short sentence** → to create emphasis or suspense, to make an important point stand out.",
+    "**A personal story (anecdote)** → to make the text more real and interesting, to make the reader feel sympathy.",
+    "**An opening question or surprising fact** → to hook the reader and make them want to read on.",
+    "**A final command (Visit us today!)** → to push the reader to act."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples: purpose"
+  },
+  {
+   "type": "p",
+   "text": "**Example 1.** “Every year, millions of plastic bags end up in the sea. Turtles mistake them for food. Will you help? Bring your own cloth bag next time you shop!” **Main purpose:** to persuade. **Clues:** a shocking fact (millions of plastic bags), an emotive detail about turtles, a rhetorical question (Will you help?), an imperative (Bring your own cloth bag)."
+  },
+  {
+   "type": "p",
+   "text": "**Example 2.** “The Nile flows north and empties into the Mediterranean Sea.” **Purpose:** to inform. **Clues:** a fact, present tense, no opinion."
+  },
+  {
+   "type": "p",
+   "text": "**Example 3.** In a leaflet about a museum, the writer includes: “‘I have visited six times and I still find something new,’ says Mrs Salma Adel, a teacher from Giza.” **Why has the writer included this quotation?** To show that real visitors enjoy the museum, so the reader trusts the leaflet and wants to visit."
+  },
+  {
+   "type": "p",
+   "text": "**Example 4.** “If you feel nervous before a test, try taking three slow, deep breaths.” **Purpose:** to advise. **Clues:** “if you feel…”, “try”, a helpful tip for the reader."
+  },
+  {
+   "type": "h2",
+   "text": "2. Fact and opinion"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "",
+    "Fact",
+    "Opinion"
+   ],
+   "rows": [
+    [
+     "Meaning",
+     "Something that can be **checked and proved** true",
+     "What someone **thinks, feels or believes**. It cannot be proved."
+    ],
+    [
+     "Test question",
+     "Could I check this in a book, on a map, with a ruler or a clock?",
+     "Could another person reasonably disagree?"
+    ],
+    [
+     "Examples",
+     "Cairo is the capital of Egypt. The match lasted 90 minutes.",
+     "Cairo is the most exciting city in the world. The match was boring."
+    ],
+    [
+     "Signal words",
+     "Numbers, dates, measurements, names, “research shows that…”",
+     "I think, I believe, in my opinion, should, best, worst, amazing, terrible, beautiful, boring, probably, everyone loves"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Why do writers mix facts and opinions?** Facts make a text reliable and trustworthy. Opinions show the writer’s feelings and try to make the reader agree. A persuasive writer often puts a fact first and then an opinion, so the opinion sounds true too: “The new park has 200 trees. It is the best park in the city.” The first sentence is a fact, the second is an opinion."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Tricky fact-and-opinion cases",
+   "items": [
+    "**A sentence can contain both.** “The museum, which opened in 2002, is fantastic.” Fact: it opened in 2002. Opinion: it is fantastic. If asked for a fact, copy only the fact part.",
+    "**Opinions can sound confident.** “Football is clearly the best sport.” The word “clearly” does not make it a fact.",
+    "**“Should” is usually an opinion.** “Schools should start later” is a belief, not something you can check.",
+    "**Superlatives can be facts.** “Mount Everest is the highest mountain in the world” can be measured, so it is a fact. “Everest is the most beautiful mountain” is an opinion.",
+    "**A fact can be wrong and still be a statement of fact.** “The Sun goes round the Earth” is a (false) statement of fact, because it can be checked. In the exam you usually only need to decide whether it can be checked."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example.** “The school library has 3,000 books. It is the nicest room in the building, and I think every pupil should visit it at least once a week.” **Fact:** The school library has 3,000 books (it can be counted). **Opinions:** “the nicest room in the building” and “every pupil should visit it at least once a week” (people could disagree)."
+  },
+  {
+   "type": "h2",
+   "text": "3. Point of view: who is telling it?"
+  },
+  {
+   "type": "p",
+   "text": "The **point of view** (or **narrative voice**) tells you who is telling the story or text. Look at the pronouns, and ask whose thoughts and feelings we can see."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Point of view",
+    "Pronouns",
+    "Whose thoughts do we see?",
+    "Effect on the reader",
+    "Example"
+   ],
+   "rows": [
+    [
+     "First person",
+     "I, me, my, we, our",
+     "Only the narrator’s own",
+     "We feel close to the narrator and share their feelings. But we only know what they know, and they may not be fair to others.",
+     "“I held my breath as the door creaked open.”"
+    ],
+    [
+     "Second person",
+     "you, your",
+     "Only “you”",
+     "The reader feels part of the action. Common in instructions, adverts and some adventure games.",
+     "“You step into the dark cave and hear water dripping.”"
+    ],
+    [
+     "Third person (limited)",
+     "he, she, they, it",
+     "One character’s thoughts",
+     "We follow one character closely, but other characters stay a bit of a mystery.",
+     "“Nour smiled, but inside she was worried about the test.”"
+    ],
+    [
+     "Third person (all-knowing / omniscient)",
+     "he, she, they",
+     "Many characters’ thoughts",
+     "The narrator knows everything. The reader can know secrets the characters do not know.",
+     "“Karim thought nobody had seen him, but his grandmother had been watching from the window.”"
+    ],
+    [
+     "Third person (objective, like a camera)",
+     "he, she, they",
+     "Nobody’s, only actions and speech",
+     "The reader must work out feelings from actions. This can create mystery or tension.",
+     "“He closed the book, looked at the clock and left without a word.”"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Writer’s voice and narrator’s voice.** In non-fiction, the voice is usually the **writer’s own** (a real person telling you facts or their opinion). In fiction, the voice belongs to a **narrator**, who may be a character in the story. In a first-person story, the “I” is a character invented by the writer, not the writer themselves."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example.** “We waited by the gate. I kept looking at my watch, wondering whether Dad had forgotten us.” **Question:** Which point of view is used and how do you know? **Answer:** First person. The pronouns “We” and “I” show the narrator is a character in the story, and we see the narrator’s own thoughts (wondering whether Dad had forgotten us)."
+  },
+  {
+   "type": "p",
+   "text": "**Why might a writer choose first person?** To make the reader feel close to the character, to share the character’s private thoughts and feelings, to make the story feel real, like a true experience. **Why third person?** To show more than one character, to show events the main character cannot see, to build tension because the reader knows more than the character."
+  },
+  {
+   "type": "h2",
+   "text": "4. Characters’ feelings"
+  },
+  {
+   "type": "p",
+   "text": "Writers often **show** feelings instead of **telling** them. You must work out the feeling from clues: what the character says, does, thinks, how they look and how others react. Use a precise feeling word, not just “happy” or “sad”."
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "anxious / nervous",
+     "worried about what might happen (biting nails, checking the time)"
+    ],
+    [
+     "relieved",
+     "happy that a worry has gone away (let out a long breath)"
+    ],
+    [
+     "frustrated",
+     "annoyed because something keeps going wrong"
+    ],
+    [
+     "furious",
+     "extremely angry (slammed the door, face turned red)"
+    ],
+    [
+     "embarrassed",
+     "feeling silly in front of others (cheeks burned, looked at the floor)"
+    ],
+    [
+     "jealous",
+     "wanting what someone else has"
+    ],
+    [
+     "guilty",
+     "feeling bad because you did something wrong"
+    ],
+    [
+     "proud",
+     "pleased with what you or someone close to you has done"
+    ],
+    [
+     "determined",
+     "will not give up"
+    ],
+    [
+     "curious",
+     "wanting to find out more"
+    ],
+    [
+     "disappointed",
+     "sad because something was not as good as hoped"
+    ],
+    [
+     "lonely",
+     "sad because you are alone or have no friends nearby"
+    ],
+    [
+     "confident",
+     "sure of yourself"
+    ],
+    [
+     "terrified",
+     "extremely frightened"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example.** “Ali stared at his shoes as the coach read out the team. When his name was not called, he swallowed hard and pretended to tie his laces.” **How does Ali feel?** Disappointed (and perhaps embarrassed). **Evidence:** “he swallowed hard” shows he is trying not to cry, and “pretended to tie his laces” shows he is hiding his face so others cannot see how upset he is."
+  },
+  {
+   "type": "p",
+   "text": "**Feelings can change.** A question may ask how a feeling changes across the text. Answer with the feeling at the start, the feeling at the end, and a quotation for each. Example (imagine the text began with Ali crossing his fingers): “At first Ali is hopeful (‘crossed his fingers behind his back’), but at the end he is disappointed (‘swallowed hard’).”"
+  },
+  {
+   "type": "h2",
+   "text": "5. The writer’s attitude and overall viewpoint"
+  },
+  {
+   "type": "p",
+   "text": "The writer’s **attitude** or **viewpoint** is what the writer thinks about the subject. In non-fiction, look at the adjectives, verbs and adverbs the writer chooses. Positive words show a positive attitude, negative words show a negative attitude, and both together show a mixed or balanced view."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Positive:** admiring, enthusiastic, impressed, proud, supportive. Clue words: incredible, brave, wisely, it is worth…",
+    "**Negative:** critical, disappointed, worried, angry, doubtful. Clue words: sadly, unfortunately, a waste of, dangerous, failed to…",
+    "**Mixed / balanced:** the writer gives good and bad points. Clue words: however, although, on the other hand, but.",
+    "**Neutral:** the writer only gives facts, with no feeling words (common in information texts and news reports)."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example (overall judgement).** “The new water park has some exciting slides, and the staff are very friendly. However, the queues are far too long, the food is expensive and many visitors waited more than an hour for each ride. Sadly, it is not worth the money yet.” **What is the writer’s overall judgement of the water park?** The writer thinks it is not worth visiting yet. Although some things are good (exciting slides, friendly staff), the writer is disappointed by the long queues and high prices. The final sentence (“not worth the money yet”) shows the overall view."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Overall viewpoint: look at the end",
+   "text": "Writers usually give their final opinion in the **last paragraph** or **last sentence**. Words like however, sadly, overall and in the end often come just before the writer’s real view."
+  },
+  {
+   "type": "h2",
+   "text": "6. “Give your opinion and support it”"
+  },
+  {
+   "type": "p",
+   "text": "Some questions ask what YOU think about a character or a situation, for example “Is Salma a good friend?”. There is no single right answer, but you must **support** your opinion from the text. Use this three-step method: **Answer → Reason → Quotation**."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Answer** the question clearly: Yes / No / Partly.",
+    "**Give a reason** in your own words.",
+    "**Prove it** with a short quotation from the text in inverted commas."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "**Short text:** “Salma saw that Huda had forgotten her lunch. Without saying anything, she broke her sandwich in half and put one piece on Huda’s desk. Later, when Huda laughed at her new glasses, Salma just smiled and said nothing.”"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Is Salma a good friend? Give a reason and a quotation. (2 marks)"
+  },
+  {
+   "type": "p",
+   "text": "**Strong answer:** Yes, Salma is a good friend because she is kind and generous without wanting thanks. She “broke her sandwich in half” to share with Huda, even though Huda had not asked."
+  },
+  {
+   "type": "p",
+   "text": "**Why it scores 2 marks:** a clear opinion with a reason (1 mark) + a short quotation that proves the reason (1 mark). A student who says “No, because she let Huda laugh at her” could also gain marks if they give a quotation (“Salma just smiled and said nothing”), because the answer is supported by the text."
+  },
+  {
+   "type": "p",
+   "text": "**Two reasons each with a quotation (up to 4 marks):** repeat the method twice. Reason 1 + quotation 1. Reason 2 + quotation 2. Make the two reasons different (not the same idea twice)."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "سؤال الرأي: كيف تحصل على الدرجة كاملة؟",
+   "items": [
+    "أجب أولًا بوضوح: Yes أو No.",
+    "اكتب السبب بكلماتك أنت (because she is kind…).",
+    "أضف دليلًا قصيرًا من النص بين علامتي تنصيص “…”، ولا تنقل فقرة كاملة.",
+    "إذا طلب السؤال سببين، فيجب أن يكون كل سبب فكرة مختلفة ومعه دليل خاص به."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "Fact أم Opinion؟",
+   "text": "اسأل نفسك: هل يمكن أن أتأكد منها برقم أو تاريخ أو كتاب؟ إذن هي fact. هل يمكن أن يختلف معها شخص آخر؟ إذن هي opinion. كلمات مثل best و amazing و should و I think تدل غالبًا على opinion."
+  },
+  {
+   "type": "h2",
+   "text": "7. Traps to avoid"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Choosing “to entertain” for every text. Non-fiction texts in Paper 1 usually inform, explain, persuade, advise or recount.",
+    "Saying a sentence is a fact just because it sounds sure of itself (“Clearly…”, “Everyone knows…”).",
+    "Confusing the writer with the narrator in a first-person story.",
+    "Using vague feeling words (good, bad, happy, sad) when a precise word (relieved, guilty, terrified) fits better.",
+    "Giving an opinion with no quotation, or a quotation with no explanation.",
+    "Copying a whole paragraph as a quotation. Choose only the few words that prove your point."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "8. Practice questions"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "1. What is the main purpose? “Pour the water slowly into the cup. Stir for ten seconds. Leave it to cool.”",
+     "a": "To instruct. Clues: imperative verbs (Pour, Stir, Leave) and clear steps."
+    },
+    {
+     "q": "2. What is the main purpose? “Our club has the best coaches in town. Don’t miss out! Sign up before Friday!”",
+     "a": "To persuade. Clues: exaggerated opinion (the best coaches in town), imperatives (Don’t miss out! Sign up), urgency (before Friday)."
+    },
+    {
+     "q": "3. What is the main purpose? “Volcanoes erupt because hot, melted rock pushes up from deep under the ground. As a result, lava pours out.”",
+     "a": "To explain. Clues: because, As a result, it tells how and why something happens."
+    },
+    {
+     "q": "4. A leaflet about road safety includes the sentence: “Last year, more than 500 children in our city were hurt crossing the road.” Why has the writer included this fact?",
+     "a": "To shock the reader and show that the problem is real and serious, so the reader will take the safety advice."
+    },
+    {
+     "q": "5. Fact or opinion? (a) The bus leaves at 7:30. (b) Mornings are the worst part of the day. (c) Our class has 28 pupils. (d) Maths is more interesting than science.",
+     "a": "(a) fact (b) opinion (c) fact (d) opinion."
+    },
+    {
+     "q": "6. Find the fact and the opinion: “The Pyramids of Giza are over 4,000 years old, and they are the most amazing sight anyone could ever see.”",
+     "a": "Fact: they are over 4,000 years old. Opinion: they are the most amazing sight anyone could ever see."
+    },
+    {
+     "q": "7. Why is “Children should drink more water” an opinion?",
+     "a": "Because it says what someone believes ought to happen (should). People could disagree, and it cannot be proved like a measurement."
+    },
+    {
+     "q": "8. Which point of view? “You open the box. Inside, something small and silver is glowing.”",
+     "a": "Second person (you, You open). It puts the reader inside the action."
+    },
+    {
+     "q": "9. Which point of view? “Yassin was sure he had won, but his sister knew the real result and was trying not to laugh.”",
+     "a": "Third person, all-knowing (omniscient): the narrator uses he/she and shows the thoughts of two characters (Yassin and his sister)."
+    },
+    {
+     "q": "10. Give one reason a writer might tell a story in the first person.",
+     "a": "To make the reader feel close to the character and share their private thoughts and feelings (also: to make it feel like a real experience)."
+    },
+    {
+     "q": "11. “Mariam read the letter twice, then threw her arms around her mother and laughed.” How does Mariam feel? Give one piece of evidence.",
+     "a": "Delighted / overjoyed (she has had good news). Evidence: “threw her arms around her mother and laughed”."
+    },
+    {
+     "q": "12. “Omar’s hands shook as he stepped onto the stage. His mouth felt as dry as sand.” How does Omar feel? Choose the best word: bored, nervous, angry, proud.",
+     "a": "Nervous. His hands shake and his mouth is dry, which are signs of fear before performing."
+    },
+    {
+     "q": "13. “The book starts brilliantly, but the middle chapters are slow and confusing. Overall, I was disappointed.” What is the writer’s overall view of the book?",
+     "a": "Mostly negative / disappointed. There is one positive point (it starts brilliantly), but the writer’s final judgement is “disappointed”."
+    },
+    {
+     "q": "14. Which words show the writer admires the firefighter? “The brave firefighter calmly carried the child through the smoke.”",
+     "a": "“brave” and “calmly”: they show the firefighter is courageous and in control."
+    },
+    {
+     "q": "15. “Adam saw a younger boy drop his money. He picked it up, ran after him and gave it back.” Is Adam honest? Give a reason and a quotation.",
+     "a": "Yes, he is honest because he returned money that was not his when he could have kept it: “ran after him and gave it back”."
+    },
+    {
+     "q": "16. A text gives the views of people who want a new road and people who are against it, then gives a conclusion. What is its purpose?",
+     "a": "To argue / discuss: it presents both sides of the issue fairly (a balanced argument)."
+    },
+    {
+     "q": "17. Why might a writer of a persuasive leaflet begin with a question such as “Do you want a healthier family?”",
+     "a": "To hook the reader and make them think about their own life, so they feel the leaflet is speaking directly to them and want to read on."
+    }
+   ]
+  }
+ ]
+}

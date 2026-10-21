@@ -1,0 +1,978 @@
+{
+ "slug": "checkpoint-6-parts-of-speech",
+ "title": "Parts of Speech (Word Classes)",
+ "kicker": "Checkpoint 6 · Reading: grammar",
+ "summary": "Every word class you need for Checkpoint 6: nouns (including abstract nouns), pronouns (including relative pronouns), verbs, modal verbs and infinitives, adjectives, adverbs, determiners, prepositions and conjunctions, how to name a word class in context, and practice with answers.",
+ "blocks": [
+  {
+   "type": "p",
+   "text": "Every word in a sentence has a job. The job a word does is called its **word class** (another name is **part of speech**). Nouns name things, verbs show actions, adjectives describe nouns, and so on."
+  },
+  {
+   "type": "p",
+   "text": "Checkpoint reading papers ask about word classes directly. You may be asked: *What word class is the word 'quietly' in this sentence?*, *Find a relative pronoun in paragraph 2*, *Find an abstract noun*, or *Copy an infinitive from the text*. These are quick 1-mark questions, but only if you know the names **exactly**. Word classes also help your writing: strong verbs, precise adjectives and well-placed adverbs earn Vocabulary marks."
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Grammar words you must know",
+   "items": [
+    "**Word class / part of speech:** the job a word does in a sentence.",
+    "**In context:** in this sentence, in this text. The same word can belong to different classes in different sentences.",
+    "**Identify:** find and name it.",
+    "**Copy:** write the word exactly as it is in the text."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "The word classes at a glance"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Word class",
+    "Its job",
+    "Examples"
+   ],
+   "rows": [
+    [
+     "Noun",
+     "names a person, place, thing, animal, feeling or idea",
+     "girl, Cairo, table, herd, courage"
+    ],
+    [
+     "Pronoun",
+     "takes the place of a noun",
+     "she, them, myself, who, something"
+    ],
+    [
+     "Verb",
+     "shows an action, a state or what is happening",
+     "run, think, is, seemed, can"
+    ],
+    [
+     "Adjective",
+     "describes a noun",
+     "tall, shiny, nervous, bigger, best"
+    ],
+    [
+     "Adverb",
+     "tells us more about a verb, an adjective or another adverb (how, when, where, how often, how much)",
+     "quietly, soon, here, always, very"
+    ],
+    [
+     "Determiner",
+     "comes before a noun and tells us which one or how many",
+     "a, an, the, this, my, some, every, three"
+    ],
+    [
+     "Preposition",
+     "shows where, when or how something is in relation to something else",
+     "under, after, with, during, across"
+    ],
+    [
+     "Conjunction",
+     "joins words, phrases or clauses",
+     "and, but, so, because, although, when"
+    ],
+    [
+     "Interjection",
+     "shows a sudden feeling",
+     "Oh! Wow! Ouch! Hooray!"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. Nouns"
+  },
+  {
+   "type": "p",
+   "text": "A **noun** is a naming word. It names a person, a place, a thing, an animal, a feeling or an idea. A quick test: can you put **the** or **a** in front of it? (the castle, a friend, the idea). Names of people and places (proper nouns) are nouns too, even though we do not usually put *a* in front of them."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Type of noun",
+    "What it is",
+    "Examples"
+   ],
+   "rows": [
+    [
+     "Common noun",
+     "a general name, with no capital letter",
+     "city, teacher, river, dog"
+    ],
+    [
+     "Proper noun",
+     "the name of a particular person, place, day, month or organisation, always a capital letter",
+     "Nour, Egypt, the Nile, Monday, March"
+    ],
+    [
+     "Concrete noun",
+     "something you can see, touch, hear, smell or taste",
+     "sand, bell, sandwich, kite"
+    ],
+    [
+     "**Abstract noun**",
+     "a feeling, idea or quality that you **cannot** touch or see",
+     "fear, kindness, freedom, honesty, excitement, friendship"
+    ],
+    [
+     "Collective noun",
+     "a name for a group",
+     "team, flock (of birds), herd (of cattle), crowd, class"
+    ],
+    [
+     "Countable noun",
+     "you can count it, and it has a plural",
+     "one pen, two pens / a child, three children"
+    ],
+    [
+     "Uncountable noun",
+     "you cannot count it, and it usually has no plural",
+     "water, rice, advice, information, furniture"
+    ],
+    [
+     "Compound noun",
+     "two words joined to make one noun",
+     "football, toothbrush, sunflower, classroom"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Abstract nouns** are asked about often. Many are made from adjectives or verbs with endings such as **-ness, -ment, -ship, -dom, -ity, -tion, -ance**:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Word",
+    "Abstract noun"
+   ],
+   "rows": [
+    [
+     "kind (adjective)",
+     "kindness"
+    ],
+    [
+     "excite (verb)",
+     "excitement"
+    ],
+    [
+     "friend (noun)",
+     "friendship"
+    ],
+    [
+     "free (adjective)",
+     "freedom"
+    ],
+    [
+     "curious (adjective)",
+     "curiosity"
+    ],
+    [
+     "imagine (verb)",
+     "imagination"
+    ],
+    [
+     "patient (adjective)",
+     "patience"
+    ],
+    [
+     "brave (adjective)",
+     "bravery"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Quick test for an abstract noun",
+   "text": "Ask: **Could I put it in a box?** You can put a pencil in a box, so *pencil* is concrete. You cannot put *hope*, *anger* or *success* in a box, so they are abstract. But careful: an abstract noun is still a **noun**. In \"She felt **brave**\", *brave* is an adjective. In \"Her **bravery** surprised us\", *bravery* is an abstract noun."
+  },
+  {
+   "type": "p",
+   "text": "**Plurals.** Most nouns add -s or -es (books, boxes). Some are **irregular**: child → children, man → men, tooth → teeth, mouse → mice, foot → feet, person → people."
+  },
+  {
+   "type": "h2",
+   "text": "2. Pronouns"
+  },
+  {
+   "type": "p",
+   "text": "A **pronoun** replaces a noun so that we do not repeat it. *Salma lost Salma's bag* sounds strange; *Salma lost **her** bag* is better."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Type of pronoun",
+    "Words",
+    "Example"
+   ],
+   "rows": [
+    [
+     "Subject (personal) pronouns",
+     "I, you, he, she, it, we, they",
+     "**They** walked to school."
+    ],
+    [
+     "Object pronouns",
+     "me, you, him, her, it, us, them",
+     "The teacher thanked **us**."
+    ],
+    [
+     "Possessive pronouns (stand alone)",
+     "mine, yours, his, hers, ours, theirs",
+     "The red bike is **mine**."
+    ],
+    [
+     "Reflexive pronouns",
+     "myself, yourself, himself, herself, itself, ourselves, yourselves, themselves",
+     "Adam taught **himself** to swim."
+    ],
+    [
+     "Demonstrative pronouns",
+     "this, that, these, those (standing alone)",
+     "**This** is my favourite song."
+    ],
+    [
+     "Interrogative pronouns (questions)",
+     "who, whom, whose, which, what",
+     "**Who** opened the window?"
+    ],
+    [
+     "**Relative pronouns**",
+     "who, which, that, whose, whom",
+     "The boy **who** won the race is my cousin."
+    ],
+    [
+     "Indefinite pronouns",
+     "someone, anybody, nothing, everyone, something",
+     "**Someone** knocked at the door."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Relative pronouns** are very important for Checkpoint. A relative pronoun begins a **relative clause**, which gives more information about a noun that comes just before it:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**who** is for people: *My grandfather, **who** is eighty, still walks every day.*",
+    "**which** is for things and animals: *The parcel, **which** arrived this morning, was for Dad.*",
+    "**that** is for people or things: *This is the book **that** I told you about.*",
+    "**whose** shows belonging: *That is the girl **whose** kite got stuck in the tree.*",
+    "**whom** is a formal object form of who: *the man to **whom** I spoke*."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "You will also see **where** and **when** used in the same way to start a relative clause about a place or a time: *the village **where** my mother was born*, *the day **when** we moved house*."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Trap: 'who', 'which' and 'that' are not always relative pronouns",
+   "items": [
+    "\"**Who** broke the vase?\" Here *who* asks a question, so it is an **interrogative** pronoun.",
+    "\"**Which** cake do you want?\" Here *which* asks a question before a noun.",
+    "\"She said **that** she was tired.\" Here *that* is a conjunction: it joins the reported words to *She said*, and it does not describe a noun.",
+    "\"**That** bag is heavy.\" Here *that* points to a noun, so it is a **determiner**.",
+    "It is a relative pronoun only when it comes **after a noun** and starts extra information **about that noun**."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "3. Verbs"
+  },
+  {
+   "type": "p",
+   "text": "A **verb** shows what someone or something **does**, **is** or **has**. Every sentence needs at least one verb. Test: can you change its tense? (*I jump → I jumped*.)"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Type of verb",
+    "What it does",
+    "Examples"
+   ],
+   "rows": [
+    [
+     "Action verbs",
+     "show an action you can do or think",
+     "run, write, whisper, decide, climb"
+    ],
+    [
+     "Linking verbs",
+     "link the subject to a word that describes it",
+     "be (am, is, are, was, were), seem, become, look, feel"
+    ],
+    [
+     "Auxiliary (helping) verbs",
+     "help the main verb to make a tense or a question",
+     "be, have, do: *She **is** reading. They **have** finished. **Do** you agree?*"
+    ],
+    [
+     "**Modal verbs**",
+     "show how possible, necessary or certain something is (they come before another verb)",
+     "can, could, may, might, must, shall, should, will, would"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Modal verbs** often appear in persuasive writing and in reading questions about the writer's purpose:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Modal verb",
+    "Meaning",
+    "Example"
+   ],
+   "rows": [
+    [
+     "must",
+     "it is necessary (very strong)",
+     "We **must** protect our parks."
+    ],
+    [
+     "should",
+     "advice: it is a good idea",
+     "You **should** drink more water."
+    ],
+    [
+     "can / could",
+     "ability or possibility",
+     "Anyone **can** join the club. It **could** rain later."
+    ],
+    [
+     "may / might",
+     "it is possible but not certain",
+     "The trip **might** be cancelled."
+    ],
+    [
+     "will / would",
+     "future, certainty or a polite request",
+     "I **will** help. **Would** you open the door?"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**The infinitive** is the basic form of a verb, usually with **to** in front: *to run, to be, to discover, to help*. Checkpoint can ask you to find or copy an infinitive. Example: *She wanted **to win** the race.* The infinitive often shows **purpose** (why someone does something): *He saved his money **to buy** a bicycle.*"
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Infinitive or preposition?",
+   "text": "**to + verb** = infinitive (*to swim, to explore*). **to + noun** = preposition (*to the beach, to school*). So in \"We went **to** the market **to buy** fruit\", the first *to* is a preposition and *to buy* is an infinitive."
+  },
+  {
+   "type": "p",
+   "text": "**Other verb forms you will meet:**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Regular verbs** add -ed in the past: walk → walked, play → played.",
+    "**Irregular verbs** change in their own way: go → went → gone, see → saw → seen, write → wrote → written.",
+    "**-ing form** (present participle): *running, laughing*. It makes continuous tenses: *They were laughing*.",
+    "**Past participle**: *broken, taken, painted*. It is used in the perfect (*has eaten*) and the passive (*The window was broken*)."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "4. Adjectives"
+  },
+  {
+   "type": "p",
+   "text": "An **adjective** describes a noun. It tells us what kind, what colour, what size, what something is like. It usually comes **before** the noun (*a **narrow** street*) or **after a linking verb** (*The street was **narrow**.*)."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Kind",
+    "Examples"
+   ],
+   "rows": [
+    [
+     "Describing (quality)",
+     "ancient, gentle, enormous, nervous, glittering"
+    ],
+    [
+     "Colour, size, shape",
+     "golden, tiny, round"
+    ],
+    [
+     "Feelings",
+     "anxious, delighted, furious, proud"
+    ],
+    [
+     "Comparative (comparing two)",
+     "taller, faster, more beautiful, better, worse"
+    ],
+    [
+     "Superlative (the most of all)",
+     "tallest, fastest, most beautiful, best, worst"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Rule for comparatives:** short adjectives add **-er/-est** (big → bigger → biggest). Longer adjectives use **more/most** (careful → more careful → most careful). Some are irregular: good → better → best, bad → worse → worst. Never write *more bigger*."
+  },
+  {
+   "type": "p",
+   "text": "Why does a writer use a comparative? To **compare** two things and show the difference clearly: *The new library is **larger and brighter** than the old one* shows how much better the new one is."
+  },
+  {
+   "type": "h2",
+   "text": "5. Adverbs"
+  },
+  {
+   "type": "p",
+   "text": "An **adverb** tells us more about a verb (how, when, where, how often), or about an adjective or another adverb (how much). Many adverbs end in **-ly**, but many important ones do not: *soon, often, never, very, here, well, fast*."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Kind of adverb",
+    "Answers the question",
+    "Examples",
+    "Sentence"
+   ],
+   "rows": [
+    [
+     "Manner",
+     "How?",
+     "quickly, silently, carefully, well",
+     "The cat crept **silently** across the roof."
+    ],
+    [
+     "Time",
+     "When?",
+     "now, later, yesterday, soon",
+     "We will leave **soon**."
+    ],
+    [
+     "Place",
+     "Where?",
+     "here, outside, everywhere, nearby",
+     "The children played **outside**."
+    ],
+    [
+     "Frequency",
+     "How often?",
+     "always, often, sometimes, never",
+     "He **never** forgets his homework."
+    ],
+    [
+     "Degree",
+     "How much?",
+     "very, extremely, quite, too, almost",
+     "The water was **extremely** cold."
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Trap: -ly words that are adjectives",
+   "text": "Not every -ly word is an adverb. *friendly, lovely, lonely, ugly, silly* are **adjectives**: *a **friendly** dog* (it describes the noun *dog*). And *fast* or *hard* can be both: *a **fast** car* (adjective) but *She ran **fast*** (adverb). Always ask: is it describing a **noun** (adjective) or a **verb/adjective** (adverb)?"
+  },
+  {
+   "type": "h2",
+   "text": "6. Determiners"
+  },
+  {
+   "type": "p",
+   "text": "A **determiner** comes **before a noun** (and before any adjectives) and tells us **which one** or **how many**."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Kind",
+    "Words",
+    "Example"
+   ],
+   "rows": [
+    [
+     "Articles",
+     "a, an, the",
+     "**a** lemon, **an** owl, **the** moon"
+    ],
+    [
+     "Demonstratives",
+     "this, that, these, those",
+     "**these** shoes"
+    ],
+    [
+     "Possessives",
+     "my, your, his, her, its, our, their",
+     "**their** garden"
+    ],
+    [
+     "Quantifiers",
+     "some, many, much, few, a few, little, a little, every, each, all, no, several, any",
+     "**every** pupil, **a few** apples"
+    ],
+    [
+     "Numbers",
+     "one, two, first, second",
+     "**three** puppies"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**a or an?** Use **an** before a vowel **sound**: *an egg, an hour* (the h is silent). Use **a** before a consonant sound: *a cup, a university* (it sounds like \"you\")."
+  },
+  {
+   "type": "p",
+   "text": "**few / a few, little / a little:** *a few* and *a little* mean \"some, enough\", but *few* and *little* mean \"not enough\". *A few friends came* (good), but *Few friends came* (disappointing). Use *many / few* with countable nouns and *much / little* with uncountable nouns."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Determiner or pronoun?",
+   "text": "If the word comes **before a noun**, it is a determiner: *\"**This** bag is heavy.\"* If it stands **alone** instead of a noun, it is a pronoun: *\"**This** is heavy.\"* The same goes for *my* (determiner: *my book*) and *mine* (pronoun: *The book is mine*)."
+  },
+  {
+   "type": "h2",
+   "text": "7. Prepositions"
+  },
+  {
+   "type": "p",
+   "text": "A **preposition** shows the relationship between a noun (or pronoun) and the rest of the sentence: **where** something is, **when** something happens, or **how**. A preposition is always followed by a noun or pronoun: *under **the bridge***, *after **lunch***, *with **her***."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Prepositions of…",
+    "Words",
+    "Examples"
+   ],
+   "rows": [
+    [
+     "Place",
+     "in, on, at, under, behind, between, beside, above, inside",
+     "The keys are **under** the mat."
+    ],
+    [
+     "Direction",
+     "to, into, across, through, towards, along, past",
+     "She swam **across** the pool."
+    ],
+    [
+     "Time",
+     "before, after, during, since, until, at, on, in",
+     "**During** the storm, the lights went out."
+    ],
+    [
+     "Other",
+     "with, without, by, about, for, like, of",
+     "He wrote **with** a pencil."
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Little words, big rules",
+    "Time",
+    "Place"
+   ],
+   "rows": [
+    [
+     "in",
+     "in April, in 2026, in the morning",
+     "in the room, in Cairo"
+    ],
+    [
+     "on",
+     "on Monday, on 5th May, on my birthday",
+     "on the table, on the bus"
+    ],
+    [
+     "at",
+     "at 7 o'clock, at night, at the weekend",
+     "at the door, at school, at home"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Same word, different class",
+   "text": "*before, after, since, until* can be **prepositions** or **conjunctions**. If a noun follows, it is a preposition: *after **lunch***. If a whole clause (with its own verb) follows, it is a conjunction: *after **we ate lunch***."
+  },
+  {
+   "type": "h2",
+   "text": "8. Conjunctions"
+  },
+  {
+   "type": "p",
+   "text": "A **conjunction** joins words, phrases or clauses."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Type",
+    "Words",
+    "Example"
+   ],
+   "rows": [
+    [
+     "Coordinating conjunctions (join two equal parts) — remember **FANBOYS**",
+     "for, and, nor, but, or, yet, so",
+     "I was hungry, **so** I made a sandwich."
+    ],
+    [
+     "Subordinating conjunctions (begin a subordinate clause that cannot stand alone)",
+     "because, although, when, while, if, unless, until, since, after, before, as, even though",
+     "**Although** it was raining, we played outside."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Conjunctions are explained fully on the **Connectives** page and in **Phrases and clauses**, because a subordinating conjunction is how a complex sentence is built."
+  },
+  {
+   "type": "h2",
+   "text": "9. Interjections"
+  },
+  {
+   "type": "p",
+   "text": "An **interjection** is a short word or phrase that shows a sudden feeling. It is often followed by an exclamation mark: *Ouch! Hooray! Oh no! Wow! Oops!* Interjections appear mostly in speech in stories."
+  },
+  {
+   "type": "h2",
+   "text": "Word class in context: the same word, different jobs"
+  },
+  {
+   "type": "p",
+   "text": "Checkpoint usually asks: *What is the word class of the word X **as it is used in this sentence**?* You cannot answer from the word alone. You must look at **what it is doing** in that sentence."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Word",
+    "Sentence",
+    "Word class",
+    "Why"
+   ],
+   "rows": [
+    [
+     "light",
+     "Switch on the **light**.",
+     "noun",
+     "a thing (*the* comes before it)"
+    ],
+    [
+     "light",
+     "The bag is very **light**.",
+     "adjective",
+     "describes the bag"
+    ],
+    [
+     "light",
+     "Please **light** the candle.",
+     "verb",
+     "an action"
+    ],
+    [
+     "fast",
+     "It was a **fast** train.",
+     "adjective",
+     "describes *train*"
+    ],
+    [
+     "fast",
+     "The river flowed **fast**.",
+     "adverb",
+     "tells how it flowed"
+    ],
+    [
+     "after",
+     "We played **after** school.",
+     "preposition",
+     "followed by a noun"
+    ],
+    [
+     "after",
+     "We played **after** we finished our homework.",
+     "conjunction",
+     "followed by a clause with a verb"
+    ],
+    [
+     "that",
+     "**That** dog is barking.",
+     "determiner",
+     "before the noun *dog*"
+    ],
+    [
+     "that",
+     "The dog **that** barked is ours.",
+     "relative pronoun",
+     "starts a relative clause about *dog*"
+    ],
+    [
+     "play",
+     "We watched a **play**.",
+     "noun",
+     "*a* comes before it"
+    ],
+    [
+     "play",
+     "They **play** chess.",
+     "verb",
+     "an action"
+    ],
+    [
+     "round",
+     "She has a **round** face.",
+     "adjective",
+     "describes *face*"
+    ],
+    [
+     "round",
+     "The earth goes **round** the sun.",
+     "preposition",
+     "followed by the noun *the sun*"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Four steps to name a word class in context:**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Find the word in the sentence and read the **whole** sentence.",
+    "Ask: is it **naming** something? (noun) Is it an **action or state**? (verb) Is it **describing a noun**? (adjective) Is it telling **how, when, where, how often** about a verb? (adverb)",
+    "Look at the **neighbours**. *The/a/my* before a word suggests a noun. A noun after it suggests a preposition or a determiner. *To* before a verb makes an infinitive.",
+    "Write the **exact name**: \"adverb\", not \"describing word\", and \"abstract noun\", not \"noun\" if the question asks for an abstract noun."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "كيف تحدد نوع الكلمة في سؤال القراءة؟",
+   "items": [
+    "لا تحكم على الكلمة من شكلها فقط؛ اقرأ الجملة كلها وانظر إلى وظيفة الكلمة فيها.",
+    "إذا جاءت قبلها a أو the فهي غالبًا اسم (noun)، وإذا كانت تصف اسمًا فهي صفة (adjective)، وإذا كانت تصف فعلًا (كيف، متى، أين) فهي ظرف (adverb).",
+    "to + فعل = infinitive، أما to + اسم = حرف جر (preposition).",
+    "who / which / that تكون relative pronoun فقط إذا جاءت بعد اسم وأعطت معلومات إضافية عنه.",
+    "اكتب المصطلح الإنجليزي بالضبط كما في السؤال، فالإجابة القريبة لا تأخذ درجة."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "How Checkpoint asks about word classes"
+  },
+  {
+   "type": "p",
+   "text": "Here are typical question styles, written in our own words, with what a full-mark answer looks like."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Question style",
+    "What to do",
+    "Example answer"
+   ],
+   "rows": [
+    [
+     "What word class is 'gently' as it is used in line 3?",
+     "Read the sentence and name the class.",
+     "adverb"
+    ],
+    [
+     "Copy a relative pronoun from paragraph 2.",
+     "Find who / which / that / whose after a noun.",
+     "which"
+    ],
+    [
+     "Find an abstract noun in the first paragraph.",
+     "Look for a feeling or idea word.",
+     "courage"
+    ],
+    [
+     "Write down an infinitive from the sentence.",
+     "Find to + verb.",
+     "to escape"
+    ],
+    [
+     "Tick the word that is used as an adverb in the sentence.",
+     "Test each option: does it tell how/when/where?",
+     "✓ yesterday"
+    ],
+    [
+     "Why does the writer use the modal verb 'must'?",
+     "Explain the meaning and effect.",
+     "To show that the action is necessary and urgent, which makes the advice sound strong."
+    ],
+    [
+     "Why does the writer use the comparative 'smaller'?",
+     "Explain what is being compared.",
+     "To compare the two rooms and show clearly that the new one has less space."
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice A: name the word class"
+  },
+  {
+   "type": "p",
+   "text": "Read this short text, then answer the questions."
+  },
+  {
+   "type": "p",
+   "text": "*Early on Saturday morning, Karim and his sister hurried to the harbour. The fishing boats, which had been out all night, were slowly returning. Karim felt a wave of excitement. \"Look! That boat is the biggest,\" he shouted. His sister wanted to see the fishermen unload their nets.*"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "What word class is 'hurried'?",
+     "a": "Verb. It is the action that Karim and his sister did."
+    },
+    {
+     "q": "What word class is 'slowly'?",
+     "a": "Adverb (of manner). It tells us how the boats were returning."
+    },
+    {
+     "q": "Find an abstract noun in the text.",
+     "a": "excitement. It is a feeling that you cannot touch or see."
+    },
+    {
+     "q": "Find a relative pronoun.",
+     "a": "which (\"The fishing boats, which had been out all night…\"). It begins a relative clause that gives more information about the boats."
+    },
+    {
+     "q": "What word class is 'Saturday'? What type?",
+     "a": "Noun: a proper noun (a day of the week, so it has a capital letter)."
+    },
+    {
+     "q": "What word class is 'biggest'?",
+     "a": "Adjective (superlative). It compares the boat with all the others."
+    },
+    {
+     "q": "Copy an infinitive from the text.",
+     "a": "to see"
+    },
+    {
+     "q": "What word class is 'Look!' here?",
+     "a": "It is a verb used as a command (an imperative)."
+    },
+    {
+     "q": "What word class is 'to' in 'hurried to the harbour'?",
+     "a": "Preposition, because it is followed by a noun phrase (the harbour), not a verb."
+    },
+    {
+     "q": "What word class is 'their' in 'their nets'?",
+     "a": "Determiner (possessive). It comes before the noun nets and shows whose nets."
+    },
+    {
+     "q": "What word class is 'That' in 'That boat is the biggest'?",
+     "a": "Determiner (demonstrative), because it comes before the noun boat."
+    },
+    {
+     "q": "Find a proper noun that names a person.",
+     "a": "Karim. It is the name of a particular person, so it starts with a capital letter."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice B: choose the correct answer"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "Which word is an abstract noun? (a) window (b) honesty (c) honest (d) teacher",
+     "a": "(b) honesty. (c) honest is an adjective."
+    },
+    {
+     "q": "Which word is a modal verb? (a) should (b) quickly (c) because (d) under",
+     "a": "(a) should."
+    },
+    {
+     "q": "In 'The man whose car broke down called for help', what is 'whose'?",
+     "a": "A relative pronoun. It begins a relative clause about the man and shows the car belongs to him."
+    },
+    {
+     "q": "In 'She sings well', what word class is 'well'?",
+     "a": "Adverb. It tells us how she sings."
+    },
+    {
+     "q": "In 'a lovely garden', what word class is 'lovely'?",
+     "a": "Adjective. It ends in -ly but it describes the noun garden."
+    },
+    {
+     "q": "In 'We stayed inside until the rain stopped', what word class is 'until'?",
+     "a": "Conjunction (subordinating), because it is followed by a clause with a verb: the rain stopped."
+    },
+    {
+     "q": "In 'We stayed inside until lunchtime', what word class is 'until'?",
+     "a": "Preposition, because it is followed by a noun: lunchtime."
+    },
+    {
+     "q": "Make abstract nouns from: happy, enjoy, child, wise.",
+     "a": "happiness, enjoyment, childhood, wisdom."
+    },
+    {
+     "q": "Which sentence uses 'that' as a relative pronoun? (a) That was close! (b) I know that you are right. (c) The cake that Gran made was delicious.",
+     "a": "(c). That comes after the noun cake and tells us which cake."
+    },
+    {
+     "q": "Write the comparative and superlative of: good, careful, hot.",
+     "a": "good → better → best, careful → more careful → most careful, hot → hotter → hottest."
+    },
+    {
+     "q": "Why might a writer use 'must' rather than 'could' in a leaflet about road safety?",
+     "a": "'Must' shows the action is necessary, not just possible, so the advice sounds serious and urgent and the reader is more likely to obey it."
+    },
+    {
+     "q": "Underline the determiners: 'Every child brought some bread and a bottle of water.'",
+     "a": "Every, some, a."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice C: use word classes in your writing"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "Improve this sentence with a precise verb and an adverb: 'The dog went across the garden.'",
+     "a": "Example: The dog bounded eagerly across the garden. (bounded = precise verb, eagerly = adverb of manner)"
+    },
+    {
+     "q": "Add two adjectives to: 'The house stood at the end of the road.'",
+     "a": "Example: The crumbling, silent house stood at the end of the road."
+    },
+    {
+     "q": "Rewrite with a relative clause: 'My uncle lives in Aswan. He is a doctor.'",
+     "a": "My uncle, who lives in Aswan, is a doctor. (or: My uncle, who is a doctor, lives in Aswan.)"
+    },
+    {
+     "q": "Write a sentence with an infinitive that shows purpose.",
+     "a": "Example: Laila got up early to finish her painting before school."
+    }
+   ]
+  }
+ ]
+}
