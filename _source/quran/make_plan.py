@@ -140,18 +140,18 @@ def main():
     # Level 1: Juz 30, surahs An-Nas -> An-Naba, ~0.3 page per day
     j30 = list(range(114, 77, -1))
     days = [{"parts": [p]} for p in portions_by_surah(j30, avg_page * 0.3)]
-    levels.append((1, "المستوى الأول: جزء عمّ (الجزء 30)", days, 1200, [30]))
+    levels.append((1, "المستوى الأول: جزء عمّ (الجزء ٣٠)", days, 1200, [30]))
     j29 = list(range(77, 66, -1)); days = [{"parts": [p]} for p in portions_by_surah(j29, avg_page * 0.5)]
-    levels.append((2, "المستوى الثاني: جزء تبارك (الجزء 29)", days, 2400, [29]))
+    levels.append((2, "المستوى الثاني: جزء تبارك (الجزء ٢٩)", days, 2400, [29]))
     j28 = list(range(66, 57, -1)); days = [{"parts": [p]} for p in portions_by_surah(j28, avg_page * 0.5)]
-    levels.append((3, "المستوى الثالث: جزء قد سمع (الجزء 28)", days, 2400, [28]))
+    levels.append((3, "المستوى الثالث: جزء قد سمع (الجزء ٢٨)", days, 2400, [28]))
     groups = [(27, 26, 25), (24, 23, 22), (21, 20, 19), (18, 17, 16), (15, 14, 13), (12, 11, 10), (9, 8, 7), (6, 5, 4), (3, 2, 1)]
     names = ["الرابع", "الخامس", "السادس", "السابع", "الثامن", "التاسع", "العاشر", "الحادي عشر", "الثاني عشر"]
     for k, g in enumerate(groups):
         days = []
         for jz in g:
             days += [{"parts": d["parts"], "page": d["page"], "juz": jz} for d in portions_by_page(jz)]
-        levels.append((4 + k, f"المستوى {names[k]}: الأجزاء {g[0]} و{g[1]} و{g[2]}", days, 6000, list(g)))
+        levels.append((4 + k, f"المستوى {names[k]}: الأجزاء من {str(g[0]).translate(str.maketrans('0123456789','٠١٢٣٤٥٦٧٨٩'))} إلى {str(g[2]).translate(str.maketrans('0123456789','٠١٢٣٤٥٦٧٨٩'))}", days, 6000, list(g)))
     summary = []; prior = []
     for n, title, days, unit, juzs in levels:
         lv = build_level(n, title, days, unit, prior)
