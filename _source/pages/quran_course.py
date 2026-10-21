@@ -47,7 +47,7 @@ body{padding-bottom:64px}
 
     def _qpage(fname, title, desc, kicker, h1, sub, inner):
         if 'class="play"' in inner and 'id="qplayer"' not in inner: inner += _qr.PLAYER_JS
-        body = _Q_CSS + pagehead(kicker, h1, sub) + f'<section class="block"><div class="wrap qwrap" dir="rtl" lang="ar">{inner}</div></section>'
+        body = _Q_CSS + pagehead(kicker, h1, sub) + f'<section class="block"><div class="wrap qwrap notranslate" dir="rtl" lang="ar" translate="no">{inner}</div></section>'
         page(fname, title + " | Abdelkriem Academy", desc, body, "quran.html")
         if fname != "quran.html": EXTRA_PAGES.append(fname)
 
@@ -239,3 +239,13 @@ document.getElementById('lis').onclick=function(){new Audio('https://everyayah.c
 show()})();</script><style>.qwrap .opt{font-family:Cairo;font-weight:700;border:1px solid var(--line);background:var(--card);border-radius:999px;padding:8px 14px;margin:4px;cursor:pointer}</style>""")
     _qpage("quran-tajweed-practice.html", "تدرّب على أحكام التجويد", "تدريب تفاعلي على أحكام التجويد بأمثلة من القرآن الكريم مع الاستماع للشيخ.",
            "القرآن الكريم من الألف للياء · تدريب", "تدرّب على أحكام التجويد", f"{_qr.ar(len(_data))} سؤالًا من القرآن الكريم مع الاستماع", _pi)
+
+
+# Stop browsers (Chrome/Google Translate) from auto-translating the Arabic Quran content into English.
+import glob as _qg
+for _qp in _qg.glob(f"{OUT}/quran*.html"):
+    _qh = open(_qp, encoding="utf-8").read()
+    if 'name="google" content="notranslate"' not in _qh:
+        _qh = _qh.replace("<head>", '<head>\n<meta name="google" content="notranslate">', 1)
+        _qh = _qh.replace('<section class="phead">', '<section class="phead notranslate" translate="no" dir="rtl" lang="ar">', 1)
+        open(_qp, "w", encoding="utf-8").write(_qh)
