@@ -1,0 +1,626 @@
+{
+ "slug": "igcse-0510-reading-skills",
+ "title": "Core Reading Skills",
+ "kicker": "IGCSE 0510 · Start here",
+ "summary": "The twelve reading skills behind every Paper 1 reading exercise - skimming, scanning, detail, paraphrase, synonyms, inference, attitude, fact and opinion, reference words, unknown words, short exact answers and spelling - each with examples and practice.",
+ "blocks": [
+  {
+   "type": "p",
+   "text": "All four reading exercises in Paper 1 - short answers, matching, notes and multiple choice - depend on the same small set of skills. If you master these twelve skills, every exercise becomes easier. Each skill below has a short explanation, an original mini example and practice questions with answers. Do the practice on paper before you open the answers."
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "The golden rule of Paper 1 reading",
+   "text": "The answer is always in the text, but **the words of the question are almost never the words of the text**. The examiners reword (paraphrase) the ideas. Your job is to recognise the same idea in different words. That is why vocabulary and paraphrase are the heart of this page."
+  },
+  {
+   "type": "h2",
+   "text": "Skill 1: Skimming - reading for the general idea"
+  },
+  {
+   "type": "p",
+   "text": "**Skimming** means reading very quickly to understand what a text is about and how it is organised. You do not read every word. You read the title, any subheadings, the first sentence of each paragraph and the last paragraph. In 1-2 minutes you should know: the topic, the writer's general opinion, and roughly what each paragraph does."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Read the **title** and any **introduction** in italics - they tell you the topic and often the writer.",
+    "Read the **first sentence** of each paragraph - it usually gives the main idea (the topic sentence).",
+    "Write a 2-3 word label in the margin next to each paragraph (for example: 'how it started', 'problems', 'future plans').",
+    "Do not stop at difficult words while skimming."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Mini example.** Paragraph first sentences from an article: (1) 'When Laila opened her small bakery in 2019, she had no idea it would become famous.' (2) 'The secret, she says, is the flour.' (3) 'Running the business has not always been easy.' (4) 'Next year, Laila hopes to open a second shop.' **Margin labels:** 1 = how it began, 2 = why the bread is good, 3 = difficulties, 4 = future plans. Now, if a question asks about a problem Laila faced, you go straight to paragraph 3."
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "You skim four first sentences: (1) 'Most people think deserts are empty.' (2) 'In fact, more than a hundred species of beetle live in this one valley.' (3) 'Scientists are worried, however, about rising temperatures.' (4) 'Visitors can help by staying on the marked paths.' Which paragraph would you check for a question about threats to desert wildlife?",
+     "a": "Paragraph 3 - 'worried' and 'rising temperatures' signal a problem or threat."
+    },
+    {
+     "q": "Which paragraph probably contains advice for tourists?",
+     "a": "Paragraph 4 - 'Visitors can help by...' introduces advice."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Skill 2: Scanning - finding a specific detail fast"
+  },
+  {
+   "type": "p",
+   "text": "**Scanning** means moving your eyes quickly over the text to find one specific thing: a name, a number, a date, a place or a key word (or its synonym). You know what you are looking for before you start. Numbers and capital letters are the easiest things to scan for, because they stand out on the page."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Decide exactly what you are looking for: a number? a place? a reason?",
+    "Think of the **synonyms** the text might use (question: 'buy' - text may say 'purchase', 'pay for', 'get hold of').",
+    "Move your eyes down the text without reading every word. Stop when you see the word, number or synonym.",
+    "Then **slow down** and read the whole sentence around it carefully - this is where Skill 3 begins."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Mini example.** Question: *In which year did the museum move to its current building?* You scan for a year (four digits). You find three: 1962, 1988 and 2005. Now you read each sentence: 'The museum was founded in 1962... After a fire in 1988, the collection was stored in a school until the new building opened in 2005.' **Answer: 2005.** Scanning found the numbers, and careful reading chose the right one."
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "Text: 'The club was started by three friends in 2011. By 2015 it had forty members, and today, more than 300 young people attend each week.' How many members did the club have in 2015?",
+     "a": "Forty (40). Do not write 300 - that is today's number."
+    },
+    {
+     "q": "You need to find the reason a festival was cancelled. Name three words or phrases you could scan for, other than 'cancelled'.",
+     "a": "Any three of: called off, did not take place, postponed (careful - this means moved to a later date), because, due to, as a result of, owing to."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Skill 3: Reading for detail"
+  },
+  {
+   "type": "p",
+   "text": "Once you have found the right place, read **every word** of that sentence and the sentences before and after it. Many wrong answers come from reading only half a sentence. Look especially at small words that change the meaning: **not, never, only, all, some, most, almost, before, after, until, instead of, except**."
+  },
+  {
+   "type": "p",
+   "text": "**Mini example.** Text: 'Most visitors arrive by bus, although the train is actually faster.' Question: *What is the quickest way to reach the village?* A student who scans for 'visitors arrive' writes 'bus' - wrong. Reading the whole sentence shows the answer is **the train**. 'Quickest' = 'faster'."
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "Text: 'Members can borrow up to five books at a time, except during the exam period, when the limit is two.' How many books can a member borrow during exams?",
+     "a": "Two. 'Except' introduces the special rule for the exam period."
+    },
+    {
+     "q": "Text: 'Hassan had never cooked a full meal until he joined the course.' Did Hassan cook full meals before the course?",
+     "a": "No. 'Never... until' means he only started cooking full meals when he joined the course."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Skill 4: Recognising paraphrase"
+  },
+  {
+   "type": "p",
+   "text": "A **paraphrase** is the same idea expressed in different words. Paper 1 is built on paraphrase: the question rewords the text, so you cannot just match words. The examiners reword in several ways:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "How they reword",
+    "Text says",
+    "Question says"
+   ],
+   "rows": [
+    [
+     "Synonym",
+     "The trip was **postponed**.",
+     "Why was the trip **delayed**?"
+    ],
+    [
+     "Word family change",
+     "She **decided** to leave.",
+     "What was her **decision**?"
+    ],
+    [
+     "Active / passive",
+     "Volunteers **built** the bridge.",
+     "Who was the bridge **built by**?"
+    ],
+    [
+     "Positive / negative",
+     "It is **not cheap**.",
+     "What does the writer say about the **cost**? (It is expensive.)"
+    ],
+    [
+     "General word for specific words",
+     "apples, bananas and grapes",
+     "What kind of **food**? (fruit)"
+    ],
+    [
+     "Longer explanation",
+     "She **gave up** her job to travel.",
+     "What did she do **in order to** travel? (left / quit her job)"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Mini example.** Text: 'At first, Omar found the early starts exhausting, but after a fortnight his body had adjusted.' Question: *How long did it take Omar to get used to waking up early?* Match: 'get used to' = 'adjusted', and 'waking up early' = 'early starts'. **Answer: a fortnight (two weeks).**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "Text: 'The scheme was launched in March.' Question: 'When did the scheme begin?' Which word in the text matches 'begin'?",
+     "a": "'Launched'."
+    },
+    {
+     "q": "Text: 'Nobody expected the team to reach the final.' Rewrite the idea using the word 'surprise'.",
+     "a": "It was a surprise that the team reached the final. / The team's place in the final surprised everyone."
+    },
+    {
+     "q": "Text: 'Tickets are free for under-twelves.' Question: 'Who does not have to pay?' Answer briefly.",
+     "a": "Children under twelve / under-twelves."
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "سر درجات القراءة: إعادة الصياغة",
+   "items": [
+    "السؤال تقريبًا لا يستخدم نفس كلمات النص. لو بحثت عن نفس الكلمة بالضبط ستضيع وقتك أو تختار إجابة خاطئة.",
+    "قبل أن تبحث، اسأل نفسك: ما المرادفات المحتملة لكلمة السؤال؟ مثلًا buy = purchase، start = launch، problem = difficulty.",
+    "احفظ الكلمات الجديدة دائمًا مع مرادف لها، فهذا أهم شيء يرفع درجتك في الورقة الأولى."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Skill 5: Synonyms and word families"
+  },
+  {
+   "type": "p",
+   "text": "Because of paraphrase, the size of your vocabulary decides your reading score. The most useful words to know are the ones examiners reword again and again. Learn them in groups."
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "begin / start",
+     "launch, set up, found, open, take up (a hobby)"
+    ],
+    [
+     "stop / end",
+     "give up, quit, close down, abandon, call off"
+    ],
+    [
+     "problem",
+     "difficulty, challenge, drawback, disadvantage, obstacle, setback"
+    ],
+    [
+     "help",
+     "assist, support, benefit, be useful for"
+    ],
+    [
+     "improve",
+     "get better, develop, increase, boost, make progress"
+    ],
+    [
+     "reason",
+     "because, due to, as a result of, cause, motivation, the main factor"
+    ],
+    [
+     "surprised",
+     "amazed, astonished, didn't expect, couldn't believe"
+    ],
+    [
+     "worried",
+     "concerned, anxious, nervous, uneasy"
+    ],
+    [
+     "difficult",
+     "challenging, demanding, tough, not easy"
+    ],
+    [
+     "popular",
+     "in demand, attracts many people, well-known, sought after"
+    ],
+    [
+     "cheap",
+     "inexpensive, affordable, low-cost, reasonably priced"
+    ],
+    [
+     "old / ancient",
+     "historic, traditional, centuries-old, out of date (= no longer modern)"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Word families** matter too. One idea can appear as a verb, a noun or an adjective: *succeed - success - successful*, *decide - decision*, *grow - growth*, *popular - popularity*, *explain - explanation*. Train yourself to see them as the same idea."
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "Give a synonym for each: (a) affordable (b) set up (c) setback (d) anxious.",
+     "a": "(a) cheap / inexpensive (b) start / found / establish (c) problem / difficulty (d) worried / nervous."
+    },
+    {
+     "q": "Text: 'The project's popularity grew quickly.' Question: 'What happened to the number of people interested in the project?' Answer in one or two words.",
+     "a": "It increased / grew (quickly)."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Skill 6: Inference - reading between the lines"
+  },
+  {
+   "type": "p",
+   "text": "Sometimes the text does not state the answer directly. You must **infer** it: work it out from clues. Inference is tested most in Exercises 2 and 4, but it can help anywhere. Important: an inference must be **based on the text**, not on your own opinion or general knowledge."
+  },
+  {
+   "type": "p",
+   "text": "**Mini example.** Text: 'By the time Ali reached the platform, he could only see the back of the train disappearing round the bend.' Question: *What happened to Ali?* The text never says 'he missed the train', but the clues (the train was leaving, he only saw the back of it) show it. **Answer: he missed the train.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "Text: 'Sara looked at the empty plates and smiled. Nobody had left a single bite.' What can we infer about Sara's cooking?",
+     "a": "The guests liked / enjoyed her food (everyone ate everything)."
+    },
+    {
+     "q": "Text: 'Karim checked his phone for the tenth time. Still no message from the coach.' How is Karim feeling?",
+     "a": "Anxious / impatient / nervous - he is waiting for news and keeps checking."
+    },
+    {
+     "q": "Text: 'The road to the village floods every winter, so the children sometimes study at home for days.' Why do the children sometimes miss school?",
+     "a": "In winter the road floods, so they cannot travel to school. (The text implies the school is reached by that road.)"
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Skill 7: Attitude and opinion words"
+  },
+  {
+   "type": "p",
+   "text": "Many questions ask how a writer or person **feels** or what they **think**. The clue is often in one small word: an adjective, an adverb or a verb. Learn to notice these words and decide whether they are positive, negative or mixed."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Attitude",
+    "Clue words in the text"
+   ],
+   "rows": [
+    [
+     "Positive",
+     "thrilled, delighted, impressed, grateful, proud, relieved, fortunately, luckily, worth it, I'd recommend"
+    ],
+    [
+     "Negative",
+     "disappointed, frustrated, annoyed, regret, unfortunately, sadly, a waste of, I wish I had(n't)"
+    ],
+    [
+     "Surprise",
+     "to my surprise, unexpectedly, I couldn't believe, I had no idea that, it turned out that"
+    ],
+    [
+     "Doubt / caution",
+     "I'm not sure, perhaps, it may, it seems, apparently, supposedly"
+    ],
+    [
+     "Mixed / changing",
+     "at first... but later · although · while I enjoyed..., I found... · on the other hand"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Mini example.** Text: 'I had expected the course to be boring, but it turned out to be one of the best experiences of my year.' Question: *How did the writer's opinion of the course change?* **Answer:** at first he/she expected it to be boring, but later he/she thought it was excellent. Notice 'had expected... but... turned out' - this pattern always signals a change."
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "Text: 'Unfortunately, the view from the top was hidden by cloud.' Is the writer's attitude positive or negative? Which word tells you?",
+     "a": "Negative - 'Unfortunately'."
+    },
+    {
+     "q": "Text: 'Apparently, the castle is haunted, though I saw nothing strange.' Does the writer believe the castle is haunted?",
+     "a": "No (or not sure). 'Apparently' shows it is something other people say, and 'though I saw nothing strange' shows doubt."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Skill 8: Fact or opinion?"
+  },
+  {
+   "type": "p",
+   "text": "A **fact** can be checked and proved: numbers, dates, events, places. An **opinion** is what someone thinks or feels: it can be argued with. Questions such as 'What does the writer *think*...?' or 'What is the writer's *opinion*...?' need an opinion. Questions such as 'When...?', 'How many...?', 'Where...?' need facts. Do not give a fact when the question asks for an opinion - or the other way round."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Fact signals",
+    "Opinion signals"
+   ],
+   "rows": [
+    [
+     "numbers, dates, measurements · 'research shows', 'according to' · past events (it opened in...)",
+     "I think / believe / feel · in my view · should / ought to · best, worst, amazing, terrible · probably, surely · it seems"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Mini example.** 'The stadium holds 40,000 people (**fact**). It is the most exciting place in the city on match days (**opinion**).'"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "Fact or opinion? (a) 'The bridge is 2 kilometres long.' (b) 'It is the most beautiful bridge in Africa.' (c) 'It was completed in 2021.' (d) 'Everyone should walk across it at sunset.'",
+     "a": "(a) fact (b) opinion (c) fact (d) opinion."
+    },
+    {
+     "q": "Question: 'What does the writer think about online lessons?' Text: 'Online lessons began at our school in 2020. Personally, I find them less motivating than classroom lessons.' What is the answer?",
+     "a": "They are less motivating (than classroom lessons). The date 2020 is a fact and does not answer an opinion question."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Skill 9: Reference words (it, this, they, which...)"
+  },
+  {
+   "type": "p",
+   "text": "Writers avoid repeating words by using **reference words**: *it, they, them, this, that, these, those, he, she, which, who, such, there, the former, the latter*. To understand a sentence, you must know what each one refers to. Usually it points **back** to a noun or idea in the previous sentence. An answer that says 'it' or 'they' gets no mark - you must name the thing."
+  },
+  {
+   "type": "p",
+   "text": "**Mini example.** 'Many families now keep chickens in their gardens. **This** saves money on eggs, and **they** also eat kitchen waste.' What does 'This' refer to? → keeping chickens in the garden. What does 'they' refer to? → the chickens (not the families!)."
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "'The first volunteers arrived in June. They cleared the beach in just two weeks.' Who cleared the beach?",
+     "a": "The first volunteers."
+    },
+    {
+     "q": "'Phones were banned in the exam hall. Students did not complain about this.' What did students not complain about?",
+     "a": "The ban on phones in the exam hall."
+    },
+    {
+     "q": "'Ahmed met two coaches, Mr Samir and Mr Fawzy. The latter had played for the national team.' Who played for the national team?",
+     "a": "Mr Fawzy ('the latter' = the second one mentioned)."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Skill 10: Dealing with unknown words"
+  },
+  {
+   "type": "p",
+   "text": "You cannot use a dictionary in the exam, and every text has some words you do not know. Do not panic and do not stop reading. Most unknown words are **not needed** to answer the questions. When one is needed, use these strategies:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Context:** read the words around it. What kind of word must it be (a thing, an action, a feeling)? Is it positive or negative?",
+    "**Word parts:** prefixes and suffixes give clues - *un-/in-/dis-* = not, *re-* = again, *-less* = without, *-ful* = full of, *-able* = can be done.",
+    "**Examples and explanations:** writers often explain a hard word with a dash, brackets, 'such as', 'or', 'which means'.",
+    "**Contrast words:** 'but', 'however', 'unlike' show the word means the opposite of something nearby."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "**Mini example.** 'The path was so **treacherous** after the rain that two hikers slipped and had to turn back.' You may not know 'treacherous', but the context (rain, slipped, turn back) tells you it means **dangerous**."
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "Guess the meaning: 'The old hall was **dilapidated** - its windows were broken and part of the roof had fallen in.'",
+     "a": "In very bad condition / falling apart. The dash introduces the explanation."
+    },
+    {
+     "q": "Guess the meaning: 'Unlike his **gregarious** brother, Youssef prefers to spend time alone.'",
+     "a": "Sociable / enjoys being with other people. 'Unlike' shows it is the opposite of preferring to be alone."
+    },
+    {
+     "q": "What does 'unbreakable' mean? Which word parts help?",
+     "a": "Cannot be broken. un- = not, and -able = can be done."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Skill 11: Keeping answers short and exact"
+  },
+  {
+   "type": "p",
+   "text": "In Exercises 1 and 3 you write your own short answers. Examiners do not want full sentences. They want the **key information only** - often 1-4 words or a number. Long answers waste time and are dangerous: if you copy a whole sentence, you may include **extra information that is wrong** or that answers a different question, and then the examiner cannot be sure you understood."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Question",
+    "Too long / risky",
+    "Good answer"
+   ],
+   "rows": [
+    [
+     "Where did the team train?",
+     "The team trained in the sports centre next to the hospital and also sometimes at the beach on Fridays.",
+     "(in) the sports centre"
+    ],
+    [
+     "What kind of music does Rana play?",
+     "She plays jazz but she also started learning rock and classical last year with her cousin.",
+     "jazz"
+    ],
+    [
+     "Why did the bus stop?",
+     "It stopped.",
+     "a tyre burst / it had a flat tyre"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Answer **exactly** what the question word asks: *Where* = a place, *When* = a time, *Who* = a person, *How many* = a number, *Why* = a reason, *What kind of* = a type.",
+    "Use words from the text where possible - but only the words you need.",
+    "If the question says 'Give **two** details', give exactly two. Do not add a third 'just in case'.",
+    "Never answer with only 'it', 'they' or 'this' - name the thing."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "Text: 'We stayed in a small wooden cabin by the lake, about an hour from the nearest town.' Question: 'What type of accommodation did they stay in?' Write the best short answer.",
+     "a": "A (small wooden) cabin."
+    },
+    {
+     "q": "A student answers 'When did the café open?' with 'In 2018 when the owner was 25 and lived in Giza.' Why is this a poor answer?",
+     "a": "Too long. Only '2018' is needed; the extra details are not asked for and add risk."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Skill 12: Spelling copied words correctly"
+  },
+  {
+   "type": "p",
+   "text": "Reading answers are marked positively: small spelling mistakes are usually accepted **if the meaning is still clear**. But if your mistake changes the word or makes it a different word, you lose the mark. For example, *desert* (sand) and *dessert* (sweet food) are different words. So are *quite* and *quiet*, and *lose* and *loose*. The safest habit is simple: **when you copy a word from the text, copy it letter by letter, then check it.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Check double letters: *accommodation, necessary, beginning, travelling, recommend*.",
+    "Check names and numbers carefully - a wrong digit is a wrong answer.",
+    "Write clearly. If the examiner cannot read a word, it cannot get a mark."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "Text: 'The town is famous for its dates and its desert landscape.' A student writes 'dessert' for 'What kind of landscape is the town famous for?' Will it get the mark?",
+     "a": "Probably not - 'dessert' is a different word (sweet food), so the meaning changes. Copy carefully: desert."
+    },
+    {
+     "q": "Find the misspelt words: 'accomodation, beginning, neccessary, recommend, travelling'.",
+     "a": "accomodation → accommodation, neccessary → necessary. The others are correct."
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "أخطاء تضيّع درجات القراءة",
+   "items": [
+    "كتابة جملة طويلة كاملة بدل كلمة أو كلمتين: قد تضيف معلومة خاطئة فتضيع الدرجة.",
+    "الإجابة بكلمة it أو they بدون ذكر الشيء نفسه.",
+    "اختيار أول رقم أو أول تفصيلة تراها بدون قراءة الجملة كلها.",
+    "كتابة رأيك الشخصي أو معلوماتك العامة بدل ما هو مكتوب في النص.",
+    "أخطاء النقل: انقل الكلمة من النص حرفًا حرفًا ثم راجعها."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Putting the skills together"
+  },
+  {
+   "type": "p",
+   "text": "In the exam you use the skills in a cycle for every question. Practise this order until it becomes automatic:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Read the question** and underline the key words, especially the question word (who, why, how many...).",
+    "**Predict synonyms** for the key words (Skill 5).",
+    "**Skim** to find the right paragraph (Skill 1), then **scan** for the key word or synonym (Skill 2).",
+    "**Read for detail** - the whole sentence and the one around it (Skill 3). Check reference words (Skill 9).",
+    "**Match the meaning**, not the words (Skill 4). Ask: is it fact or opinion (Skill 8)? Is there an attitude word (Skill 7)? Is the answer implied (Skill 6)?",
+    "**Write a short, exact answer** (Skill 11) and **check spelling** of copied words (Skill 12)."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "h2",
+   "text": "Mixed practice"
+  },
+  {
+   "type": "p",
+   "text": "Read this short original text and answer the questions. Use all the skills."
+  },
+  {
+   "type": "p",
+   "text": "*Two years ago, Nour and her classmates noticed that their school threw away dozens of plastic bottles every day. They persuaded the head teacher to install three water fountains, and they sold reusable bottles at a small profit. The money paid for a vegetable garden behind the library. Not everyone was enthusiastic at first: some teachers worried the garden would be left untidy during the summer holidays. To solve this, the students created a rota so that families took turns watering it. Today, the garden produces enough tomatoes and herbs for the school canteen twice a week, and Nour says she has never been prouder of anything.*"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "What problem did the students notice? (Answer briefly.)",
+     "a": "The school threw away (dozens of) plastic bottles every day / plastic waste."
+    },
+    {
+     "q": "What did the head teacher agree to do?",
+     "a": "Install (three) water fountains."
+    },
+    {
+     "q": "How did the students pay for the garden?",
+     "a": "By selling reusable bottles (at a small profit)."
+    },
+    {
+     "q": "Why were some teachers worried? (Hint: use paraphrase.)",
+     "a": "They thought the garden would be untidy / not looked after during the summer holidays."
+    },
+    {
+     "q": "Who looked after the garden in the holidays?",
+     "a": "Families (taking turns, using a rota)."
+    },
+    {
+     "q": "What does 'it' refer to in 'took turns watering it'?",
+     "a": "The (vegetable) garden."
+    },
+    {
+     "q": "How does Nour feel about the project? Which words tell you?",
+     "a": "Very proud - 'never been prouder'."
+    },
+    {
+     "q": "Fact or opinion: 'the garden produces enough tomatoes and herbs for the school canteen twice a week'?",
+     "a": "Fact - it can be checked."
+    }
+   ]
+  }
+ ]
+}

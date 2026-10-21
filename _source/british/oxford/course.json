@@ -1,0 +1,15 @@
+{
+ "hub": "year-10-oxford.html",
+ "short": "Oxford ESL 9280",
+ "kicker": "British &amp; IGCSE · Year 10 · OxfordAQA 9280",
+ "title": "Oxford International GCSE English as a Second Language",
+ "summary": "The complete free course for OxfordAQA International GCSE ESL (9280): what is in the exam, then Reading, Writing, Listening and Speaking one by one, with model answers that show exactly how to get full marks.",
+ "meta_desc": "Free complete course for OxfordAQA International GCSE English as a Second Language 9280: exam overview, reading, writing (picture, letter/email, blog, article, report), listening and speaking with full-mark model answers.",
+ "sections": [
+  {"title": "Start here: the exam", "desc": "What the exam looks like, how it is marked and the three themes every paper is built on.", "pages": ["oxford-esl-exam-overview", "oxford-esl-themes-topics"]},
+  {"title": "Reading (9280/R)", "desc": "The paper, every question type, vocabulary questions and a full practice text.", "pages": ["oxford-esl-reading", "oxford-esl-reading-question-types", "oxford-esl-reading-vocabulary", "oxford-esl-reading-practice"]},
+  {"title": "Writing (9280/W)", "desc": "One pack per task, in exam order: marks, structure, how to start and end, and a full-mark model.", "pages": ["oxford-esl-writing", "oxford-esl-picture-description", "oxford-esl-letter-email", "oxford-esl-blog-diary", "oxford-esl-article", "oxford-esl-report", "oxford-esl-extended-writing"]},
+  {"title": "Listening (9280/L)", "desc": "The five tasks and how to tackle each one.", "pages": ["oxford-esl-listening", "oxford-esl-listening-tasks"]},
+  {"title": "Speaking (9280/S)", "desc": "The photocard and the general conversation: topics, expected questions and model answers.", "pages": ["oxford-esl-speaking", "oxford-esl-speaking-photocard", "oxford-esl-speaking-conversation"]}
+ ]
+}
