@@ -6,7 +6,7 @@ SOCIAL = [
  ("YouTube", "https://www.youtube.com/@mr.mohamedabdelkriem", "@mr.mohamedabdelkriem", "Video lessons and story summaries"),
  ("Facebook", "https://www.facebook.com/educatemeup", "Mr.Mohamed Abdelkriem", "Tips and news for parents"),
  ("Instagram", "https://www.instagram.com/mr.mohamedabdelkriem/", "@mr.mohamedabdelkriem", "Daily posts and reels"),
- ("TikTok", "https://www.tiktok.com/search/user?q=Mr%20Mohamed%20Abdelkriem", "Mr Mohamed Abdelkriem", "Short lessons and exam tips"),
+ ("TikTok", "https://www.tiktok.com/@mr.mohamedabdelkriem", "@mr.mohamedabdelkriem", "Short lessons and exam tips"),
 ]
 _LIVE = [s for s in SOCIAL if s[1]]
 EMAIL = "abdelkriemacademy@gmail.com"
