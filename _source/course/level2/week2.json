@@ -1,0 +1,367 @@
+{
+  "week": 2,
+  "title": "Travel Stories",
+  "grammar_title": "Grammar: Past continuous and past simple · when / while",
+  "plan": [
+    {
+      "day": "Day 1",
+      "learn": "Words: Journeys · Sentences 1–2",
+      "listen": "engVid (James): “Learn English – Travel Vocabulary” (video)",
+      "practise": "Exercise 1"
+    },
+    {
+      "day": "Day 2",
+      "learn": "Words: At the hotel · Sentences 3–4",
+      "listen": "engVid (Adam): “English for staying at a HOTEL” (video)",
+      "practise": "Exercise 2"
+    },
+    {
+      "day": "Day 3",
+      "learn": "Words: Sightseeing · Sentences 5–6",
+      "listen": "British Council: “Past continuous and past simple” (grammar)",
+      "practise": "Exercise 3"
+    },
+    {
+      "day": "Day 4",
+      "learn": "Words: Things that happen · Sentences 7–8",
+      "listen": "engVid (Alex): “English Grammar – Introduction to Past Progressive” (video) + British Council: “An airport notice” (reading)",
+      "practise": "Exercise 4"
+    },
+    {
+      "day": "Day 5",
+      "learn": "Words: Telling a travel story · Sentences 9–10",
+      "listen": "British Council: “My last holiday” (writing)",
+      "practise": "Write & Speak"
+    },
+    {
+      "day": "Day 6",
+      "learn": "Review all 30 words + 10 sentences",
+      "listen": "BBC Learning English Grammar: “Stories from the past” (podcast)",
+      "practise": "Redo mistakes"
+    },
+    {
+      "day": "Day 7",
+      "learn": "Free day ☺",
+      "listen": "BBC Learning English Stories: “Our Stories: Coincidences and culture shock” (podcast)",
+      "practise": "Tick your tracker"
+    }
+  ],
+  "word_sets": [
+    {
+      "name": "Set 1 · Journeys",
+      "words": [
+        [
+          "journey",
+          "رحلة (سفر من مكان لآخر)"
+        ],
+        [
+          "flight",
+          "رحلة طيران"
+        ],
+        [
+          "delay",
+          "تأخير"
+        ],
+        [
+          "miss (the train)",
+          "يفوته (القطار)"
+        ],
+        [
+          "book",
+          "يحجز"
+        ],
+        [
+          "luggage",
+          "أمتعة / شنط"
+        ]
+      ]
+    },
+    {
+      "name": "Set 2 · At the hotel",
+      "words": [
+        [
+          "reception",
+          "الاستقبال"
+        ],
+        [
+          "check in",
+          "يسجّل الدخول (في الفندق)"
+        ],
+        [
+          "check out",
+          "يسجّل المغادرة"
+        ],
+        [
+          "double room",
+          "غرفة مزدوجة"
+        ],
+        [
+          "view",
+          "منظر / إطلالة"
+        ],
+        [
+          "guest",
+          "نزيل / ضيف"
+        ]
+      ]
+    },
+    {
+      "name": "Set 3 · Sightseeing",
+      "words": [
+        [
+          "sightseeing",
+          "زيارة المعالم السياحية"
+        ],
+        [
+          "tourist",
+          "سائح"
+        ],
+        [
+          "tour guide",
+          "مرشد سياحي"
+        ],
+        [
+          "temple",
+          "معبد"
+        ],
+        [
+          "take photos",
+          "يلتقط صورًا / يصوّر"
+        ],
+        [
+          "souvenir",
+          "تذكار / هدية تذكارية"
+        ]
+      ]
+    },
+    {
+      "name": "Set 4 · Things that happen",
+      "words": [
+        [
+          "break down",
+          "يتعطل (سيارة أو آلة)"
+        ],
+        [
+          "get lost",
+          "يتوه / يضل الطريق"
+        ],
+        [
+          "drop",
+          "يُسقط / يوقّع"
+        ],
+        [
+          "happen",
+          "يحدث"
+        ],
+        [
+          "suddenly",
+          "فجأة"
+        ],
+        [
+          "luckily",
+          "لحسن الحظ"
+        ]
+      ]
+    },
+    {
+      "name": "Set 5 · Telling a travel story",
+      "words": [
+        [
+          "while",
+          "بينما"
+        ],
+        [
+          "when",
+          "عندما"
+        ],
+        [
+          "at that moment",
+          "في تلك اللحظة"
+        ],
+        [
+          "all day",
+          "طوال اليوم"
+        ],
+        [
+          "an amazing experience",
+          "تجربة مذهلة"
+        ],
+        [
+          "in the end",
+          "في النهاية"
+        ]
+      ]
+    }
+  ],
+  "sentences": [
+    [
+      "Our flight was three hours late.",
+      "تأخرت رحلتنا الجوية ثلاث ساعات."
+    ],
+    [
+      "We missed the train, so we took a bus.",
+      "فاتنا القطار، فركبنا حافلة / أتوبيس."
+    ],
+    [
+      "We checked in at the hotel at two o'clock.",
+      "سجّلنا الدخول في الفندق الساعة الثانية."
+    ],
+    [
+      "Our room had a beautiful view of the Nile.",
+      "كانت لغرفتنا إطلالة جميلة على النيل."
+    ],
+    [
+      "While we were visiting Karnak Temple, I met an old friend.",
+      "بينما كنا نزور معبد الكرنك، قابلت صديقًا قديمًا."
+    ],
+    [
+      "I was taking photos when I dropped my phone.",
+      "كنت ألتقط الصور عندما أوقعت هاتفي."
+    ],
+    [
+      "Our car broke down on the desert road.",
+      "تعطلت سيارتنا على الطريق الصحراوي."
+    ],
+    [
+      "We got lost, but luckily a kind man helped us.",
+      "تُهنا، لكن لحسن الحظ ساعدنا رجل طيب."
+    ],
+    [
+      "What were you doing when I called you?",
+      "ماذا كنت تفعل عندما اتصلت بك؟"
+    ],
+    [
+      "It was an amazing experience.",
+      "كانت تجربة مذهلة."
+    ]
+  ],
+  "grammar": {
+    "intro_en": "Past continuous = was / were + verb-ing: a longer action in progress in the past (At eight o'clock I was driving.)\nPast simple = a short, finished action (My phone rang.)\nTogether: I was driving when my phone rang. · While I was driving, my phone rang.",
+    "intro_ar": "الماضي المستمر يشبه قولنا «كنت باعمل كذا»: حدث طويل كان مستمرًا في الماضي، ثم قطعه حدث قصير بالماضي البسيط. الخطأ الشائع عند المتعلم العربي: استخدام الماضي البسيط للحدثين (I drove when my phone rang)، أو نسيان was / were (I driving ✗). تذكّر: بعد while يأتي غالبًا الحدث الطويل (was / were + ing)، وبعد when يأتي غالبًا الحدث القصير (الماضي البسيط).",
+    "tables": [
+      {
+        "headers": [
+          "Positive",
+          "Negative",
+          "Question"
+        ],
+        "rows": [
+          [
+            "I / He / She was walking.",
+            "I / He / She wasn't walking.",
+            "Was she walking?"
+          ],
+          [
+            "You / We / They were walking.",
+            "You / We / They weren't walking.",
+            "Were they walking?"
+          ]
+        ]
+      },
+      {
+        "headers": [
+          "Pattern",
+          "Example"
+        ],
+        "rows": [
+          [
+            "past continuous + when + past simple",
+            "We were having dinner when the lights went out."
+          ],
+          [
+            "While + past continuous, past simple",
+            "While I was walking home, I saw an accident."
+          ],
+          [
+            "past simple + past simple (one after the other)",
+            "I opened the door and went in."
+          ]
+        ]
+      }
+    ],
+    "notes": [
+      "Put a comma after the first part when you start with While or When: While I was cooking, the phone rang.",
+      "State verbs are not continuous here either: I knew him (NOT I was knowing him)."
+    ]
+  },
+  "exercises": [
+    {
+      "title": "Exercise 1 · Complete with was or were.",
+      "instructions": "Complete with was or were.",
+      "items": [
+        "1) I ___ sleeping when you called.",
+        "2) They ___ waiting at the airport.",
+        "3) What ___ you doing at ten o'clock?",
+        "4) Mona ___ not listening to the tour guide.",
+        "5) We ___ walking by the sea.",
+        "6) ___ it raining in Alexandria?"
+      ],
+      "answers": [
+        "1) was",
+        "2) were",
+        "3) were",
+        "4) was",
+        "5) were",
+        "6) Was"
+      ]
+    },
+    {
+      "title": "Exercise 2 · Past simple or past continuous? Complete.",
+      "instructions": "Past simple or past continuous? Complete.",
+      "items": [
+        "1) I ___ (read) a book when the lights ___ (go) out.",
+        "2) While we ___ (drive) to Aswan, the car ___ (break) down.",
+        "3) She ___ (drop) her bag while she ___ (get) off the bus.",
+        "4) When I ___ (arrive), they ___ (have) lunch.",
+        "5) He ___ (meet) his wife while he ___ (work) in Dubai.",
+        "6) What ___ you ___ (do) when the accident ___ (happen)?"
+      ],
+      "answers": [
+        "1) was reading … went",
+        "2) were driving … broke",
+        "3) dropped … was getting",
+        "4) arrived … were having",
+        "5) met … was working",
+        "6) were … doing … happened"
+      ]
+    },
+    {
+      "title": "Exercise 3 · Join the sentences with when or while.",
+      "instructions": "Join the sentences with when or while.",
+      "items": [
+        "1) I was cooking. The phone rang. (when)",
+        "2) We were walking in the market. We met Omar. (while)",
+        "3) They were sleeping. The plane landed. (when)",
+        "4) I was taking photos. I lost my sunglasses. (while)",
+        "5) She was talking to the receptionist. Her taxi arrived. (when)"
+      ],
+      "answers": [
+        "1) I was cooking when the phone rang. (or: When the phone rang, I was cooking.)",
+        "2) While we were walking in the market, we met Omar. (or: We met Omar while we were walking in the market.)",
+        "3) They were sleeping when the plane landed. (or: When the plane landed, they were sleeping.)",
+        "4) While I was taking photos, I lost my sunglasses. (or: I lost my sunglasses while I was taking photos.)",
+        "5) She was talking to the receptionist when her taxi arrived. (or: When her taxi arrived, she was talking to the receptionist.)"
+      ]
+    },
+    {
+      "title": "Exercise 4 · Translate into English.",
+      "instructions": "Translate into English.",
+      "items": [
+        "1) كنت أنتظر الحافلة عندما رأيت حادثًا.",
+        "2) بينما كنا نزور الأهرامات، التقطنا صورًا كثيرة.",
+        "3) فاتتني الطائرة لأن المرور كان سيئًا جدًا.",
+        "4) ماذا كنتم تفعلون في الساعة الثامنة مساء أمس؟"
+      ],
+      "answers": [
+        "1) I was waiting for the bus when I saw an accident.",
+        "2) While we were visiting the Pyramids, we took a lot of photos.",
+        "3) I missed my flight (the plane) because the traffic was terrible (very bad).",
+        "4) What were you doing at eight o'clock yesterday evening (last night)?"
+      ]
+    }
+  ],
+  "write_speak": "Write & Speak — “A journey I remember”: write 80–100 words about a trip. Say where you went, what happened and how you felt. Use the past continuous and the past simple with when and while. Then tell the story aloud without reading.",
+  "other": [
+    "Example: Last winter my family and I went to Aswan by train. The journey took twelve hours, but it was fun. On the second day, we were sailing on the Nile when suddenly the boat stopped. The boatman couldn't fix the engine, so we waited for an hour. While we were waiting, a Nubian boy sang songs for us. In the end, another boat came and took us to a Nubian village. We had lunch there and I bought some souvenirs for my friends. It was an amazing experience, and I want to go back next year."
+  ]
+}
