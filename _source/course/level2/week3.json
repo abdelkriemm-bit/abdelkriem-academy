@@ -1,0 +1,382 @@
+{
+  "week": 3,
+  "title": "City Life",
+  "grammar_title": "Grammar: Comparatives and superlatives · (not) as … as",
+  "plan": [
+    {
+      "day": "Day 1",
+      "learn": "Words: Describing a city · Sentences 1–2",
+      "listen": "Learn English with Bob the Canadian: “English Collocations You Must Know for Towns and Cities!” (podcast)",
+      "practise": "Exercise 1"
+    },
+    {
+      "day": "Day 2",
+      "learn": "Words: City problems · Sentences 3–4",
+      "listen": "Learn English with Bob the Canadian: “Let's Learn English! Topic: The City versus The Country” (podcast)",
+      "practise": "Exercise 2"
+    },
+    {
+      "day": "Day 3",
+      "learn": "Words: Places in the city · Sentences 5–6",
+      "listen": "BBC 6 Minute Grammar: “Comparatives and superlatives” (podcast)",
+      "practise": "Exercise 3"
+    },
+    {
+      "day": "Day 4",
+      "learn": "Words: Getting around · Sentences 7–8",
+      "listen": "engVid (Adam): “How to ask for and give directions in English” (video) + British Council: “Transport announcements” (listening)",
+      "practise": "Exercise 4"
+    },
+    {
+      "day": "Day 5",
+      "learn": "Words: Comparing · Sentences 9–10",
+      "listen": "British Council: “Facts and figures” (listening)",
+      "practise": "Write & Speak"
+    },
+    {
+      "day": "Day 6",
+      "learn": "Review all 30 words + 10 sentences",
+      "listen": "BBC Learning English Grammar: “Choosing a home” (podcast)",
+      "practise": "Redo mistakes"
+    },
+    {
+      "day": "Day 7",
+      "learn": "Free day ☺",
+      "listen": "BBC 6 Minute English: “Making cities feel quieter” (podcast)",
+      "practise": "Tick your tracker"
+    }
+  ],
+  "word_sets": [
+    {
+      "name": "Set 1 · Describing a city",
+      "words": [
+        [
+          "modern",
+          "حديث"
+        ],
+        [
+          "historic",
+          "تاريخي"
+        ],
+        [
+          "noisy",
+          "مزعج / فيه دوشة"
+        ],
+        [
+          "peaceful",
+          "هادئ"
+        ],
+        [
+          "polluted",
+          "ملوَّث"
+        ],
+        [
+          "lively",
+          "مفعم بالحياة / فيه حركة"
+        ]
+      ]
+    },
+    {
+      "name": "Set 2 · City problems",
+      "words": [
+        [
+          "traffic jam",
+          "زحمة مرور"
+        ],
+        [
+          "rush hour",
+          "ساعة الذروة"
+        ],
+        [
+          "noise",
+          "ضوضاء / دوشة"
+        ],
+        [
+          "pollution",
+          "تلوّث"
+        ],
+        [
+          "rent",
+          "إيجار"
+        ],
+        [
+          "cost of living",
+          "تكلفة المعيشة"
+        ]
+      ]
+    },
+    {
+      "name": "Set 3 · Places in the city",
+      "words": [
+        [
+          "neighbourhood",
+          "حيّ / منطقة"
+        ],
+        [
+          "square",
+          "ميدان"
+        ],
+        [
+          "bridge",
+          "جسر / كوبري"
+        ],
+        [
+          "shopping centre",
+          "مركز تسوق / مول"
+        ],
+        [
+          "skyscraper",
+          "ناطحة سحاب"
+        ],
+        [
+          "suburbs",
+          "الضواحي"
+        ]
+      ]
+    },
+    {
+      "name": "Set 4 · Getting around",
+      "words": [
+        [
+          "public transport",
+          "المواصلات العامة"
+        ],
+        [
+          "on foot",
+          "سيرًا على الأقدام / مشي"
+        ],
+        [
+          "microbus",
+          "ميكروباص"
+        ],
+        [
+          "traffic lights",
+          "إشارة المرور"
+        ],
+        [
+          "pedestrian",
+          "أحد المشاة"
+        ],
+        [
+          "cross the road",
+          "يعبر الشارع"
+        ]
+      ]
+    },
+    {
+      "name": "Set 5 · Comparing",
+      "words": [
+        [
+          "than",
+          "من (في المقارنة)"
+        ],
+        [
+          "the most",
+          "الأكثر"
+        ],
+        [
+          "the least",
+          "الأقل"
+        ],
+        [
+          "as … as",
+          "بنفس قدر / زيّ"
+        ],
+        [
+          "much better",
+          "أفضل بكثير"
+        ],
+        [
+          "not as … as",
+          "ليس بقدر / مش زيّ"
+        ]
+      ]
+    }
+  ],
+  "sentences": [
+    [
+      "Cairo is bigger and noisier than Alexandria.",
+      "القاهرة أكبر وأكثر ضوضاءً من الإسكندرية."
+    ],
+    [
+      "Alexandria is more peaceful than Cairo in winter.",
+      "الإسكندرية أهدأ من القاهرة في الشتاء."
+    ],
+    [
+      "The traffic is terrible in the rush hour.",
+      "المرور سيئ جدًا في ساعة الذروة."
+    ],
+    [
+      "The rent here is much more expensive than in my village.",
+      "الإيجار هنا أغلى بكثير منه في قريتي."
+    ],
+    [
+      "Khan el-Khalili is one of the oldest markets in Cairo.",
+      "خان الخليلي من أقدم الأسواق في القاهرة."
+    ],
+    [
+      "Our neighbourhood is quieter than the city centre.",
+      "حيّنا أهدأ من وسط المدينة."
+    ],
+    [
+      "The metro is the fastest way to get around Cairo.",
+      "المترو هو أسرع وسيلة للتنقل في القاهرة."
+    ],
+    [
+      "Be careful when you cross the road.",
+      "احترس عندما تعبر الشارع."
+    ],
+    [
+      "New Cairo isn't as crowded as the city centre.",
+      "القاهرة الجديدة ليست مزدحمة مثل وسط البلد."
+    ],
+    [
+      "Life in the suburbs is better for families.",
+      "الحياة في الضواحي أفضل للعائلات."
+    ]
+  ],
+  "grammar": {
+    "intro_en": "Short adjectives: + -er than / the + -est (cheap → cheaper than → the cheapest)\nLong adjectives: more … than / the most … (modern → more modern than → the most modern)\nas + adjective + as = the same · not as … as = less",
+    "intro_ar": "في العربية نقول «أكبر من» بكلمة واحدة، فيقع المتعلم في خطأين: more bigger (الجمع بين الطريقتين)، أو استخدام from بدل than (bigger from Cairo ✗). القاعدة: الصفة القصيرة تأخذ er-، والطويلة تأخذ more، ولا نجمع بينهما أبدًا، وبعد المقارنة نستخدم than. ومع صيغة التفضيل العليا لا تنسَ the: the biggest city.",
+    "tables": [
+      {
+        "headers": [
+          "Adjective",
+          "Comparative",
+          "Superlative"
+        ],
+        "rows": [
+          [
+            "cheap",
+            "cheaper than",
+            "the cheapest"
+          ],
+          [
+            "big",
+            "bigger than",
+            "the biggest"
+          ],
+          [
+            "noisy",
+            "noisier than",
+            "the noisiest"
+          ],
+          [
+            "modern",
+            "more modern than",
+            "the most modern"
+          ],
+          [
+            "polluted",
+            "more polluted than",
+            "the most polluted"
+          ],
+          [
+            "good",
+            "better than",
+            "the best"
+          ],
+          [
+            "bad",
+            "worse than",
+            "the worst"
+          ],
+          [
+            "far",
+            "further than",
+            "the furthest"
+          ]
+        ]
+      }
+    ],
+    "notes": [
+      "One syllable ending in consonant + vowel + consonant: double the last letter (big → bigger, hot → hottest). Adjectives ending in -y: -ier / -iest (busy → busier → the busiest).",
+      "Use much, a lot or a bit before a comparative: much cheaper, a bit quieter.",
+      "as … as: Aswan is as hot as Luxor in summer. · Tanta isn't as big as Cairo."
+    ]
+  },
+  "exercises": [
+    {
+      "title": "Exercise 1 · Write the comparative and the superlative.",
+      "instructions": "Write the comparative and the superlative.",
+      "items": [
+        "1) cheap",
+        "2) hot",
+        "3) busy",
+        "4) modern",
+        "5) good",
+        "6) bad",
+        "7) peaceful",
+        "8) crowded"
+      ],
+      "answers": [
+        "1) cheaper · the cheapest",
+        "2) hotter · the hottest",
+        "3) busier · the busiest",
+        "4) more modern · the most modern",
+        "5) better · the best",
+        "6) worse · the worst",
+        "7) more peaceful · the most peaceful",
+        "8) more crowded · the most crowded"
+      ]
+    },
+    {
+      "title": "Exercise 2 · Complete with the correct form of the adjective.",
+      "instructions": "Complete with the correct form of the adjective.",
+      "items": [
+        "1) The metro is ___ (fast) than the bus.",
+        "2) Cairo is the ___ (big) city in Egypt.",
+        "3) Is the rent in Zamalek ___ (expensive) than in Shubra?",
+        "4) Today the traffic is ___ (bad) than yesterday.",
+        "5) This is the ___ (interesting) museum in the city.",
+        "6) My new flat is much ___ (quiet) than my old one."
+      ],
+      "answers": [
+        "1) faster",
+        "2) biggest",
+        "3) more expensive",
+        "4) worse",
+        "5) most interesting",
+        "6) quieter"
+      ]
+    },
+    {
+      "title": "Exercise 3 · Rewrite the sentences with (not) as … as.",
+      "instructions": "Rewrite the sentences with (not) as … as.",
+      "items": [
+        "1) Luxor is hot. Aswan is hot too. (as … as)",
+        "2) Alexandria is smaller than Cairo. (not as big as)",
+        "3) The bus is slower than the metro. (not as fast as)",
+        "4) My street and your street are both noisy. (as … as)",
+        "5) Taxis are more expensive than buses. (Buses … not as … as)"
+      ],
+      "answers": [
+        "1) Luxor is as hot as Aswan. (or: Aswan is as hot as Luxor.)",
+        "2) Alexandria isn't (is not) as big as Cairo.",
+        "3) The bus isn't as fast as the metro.",
+        "4) My street is as noisy as your street. (or: Your street is as noisy as my street / mine.)",
+        "5) Buses aren't as expensive as taxis."
+      ]
+    },
+    {
+      "title": "Exercise 4 · Translate into English.",
+      "instructions": "Translate into English.",
+      "items": [
+        "1) الحياة في القرية أهدأ من الحياة في المدينة.",
+        "2) هذا أفضل مطعم في الحيّ.",
+        "3) المواصلات العامة أرخص بكثير من التاكسي.",
+        "4) الإسكندرية ليست كبيرة مثل القاهرة."
+      ],
+      "answers": [
+        "1) Life in the village is quieter (more peaceful) than life in the city.",
+        "2) This is the best restaurant in the neighbourhood.",
+        "3) Public transport is much cheaper than a taxi (taxis / taking a taxi).",
+        "4) Alexandria isn't (is not) as big as Cairo."
+      ]
+    }
+  ],
+  "write_speak": "Write & Speak — “Two places”: write 80–100 words comparing your city or town with another place you know. Use comparatives, superlatives and (not) as … as. Then say it aloud as if you are talking to a tourist.",
+  "other": [
+    "Example: I live in Cairo, but my grandparents live in Mansoura. Cairo is much bigger and more exciting than Mansoura. It has the best shopping centres and some of the most historic places in Egypt. However, it is also noisier and more polluted, and the traffic in the rush hour is terrible. Mansoura isn't as crowded as Cairo, and the cost of living there is lower. The rent is cheaper and, in my opinion, the people are friendlier. Cairo is better for work, but Mansoura is more peaceful. One day I want to live in a quiet place near the sea."
+  ]
+}

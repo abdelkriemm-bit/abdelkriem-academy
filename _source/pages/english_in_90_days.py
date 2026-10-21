@@ -29,8 +29,8 @@ course = pagehead("Free beginner course · 12 weeks · 30 minutes a day", "Engli
     "Start English from zero at home: 12 weeks, 30 minutes a day. Words, sentences to memorise, grammar, exercises with answers and a daily listening plan — explained in English and Arabic.") + f'''
 <section class="block"><div class="wrap split">
 <div>
-<ul class="stats dark"><li><b>360</b><span>words</span></li><li><b>120</b><span>key sentences</span></li><li><b>48</b><span>video lessons</span></li><li><b>60</b><span>exercises + answers</span></li></ul>
-<div class="ctas"><a class="btn" href="english-week-1.html">Start Week 1</a><a class="btn ghost" href="{PDF}" download="{PDF_NAME}">Download the course PDF · حمّل الكورس PDF</a></div>
+<ul class="stats dark"><li><b>360</b><span>words</span></li><li><b>120</b><span>key sentences</span></li><li><b>12</b><span>grammar points</span></li><li><b>48</b><span>exercises + answers</span></li></ul>
+<div class="ctas"><a class="btn" href="english-week-1.html">Start Week 1</a><a class="btn ghost" href="#plan">See the 12-week plan</a></div>
 <p class="ar" dir="rtl" lang="ar">كورس إنجليزي للمبتدئين — ٣ شهور، ٣٠ دقيقة يوميًا. الكتاب فيه كل اللي محتاجه: الكلمات والجمل والقواعد والتمارين بالإجابات، وخطة استماع لكل يوم بالروابط.</p>
 </div>
 <div class="part">
@@ -42,7 +42,7 @@ course = pagehead("Free beginner course · 12 weeks · 30 minutes a day", "Engli
 <li><b>5 min · Practise</b> today's exercise, then check the answer key.</li>
 <li><b>2 min · Speak</b>: say 3 sentences about your day.</li>
 </ol>
-<p class="note">6 days a week, and on day 7 just enjoy a story or a video. 30 minutes every day beats 3 hours once a week.</p>
+<p class="note">6 days a week, and on day 7 just enjoy a story or a podcast. 30 minutes every day beats 3 hours once a week.</p>
 </div>
 </div></section>
 
@@ -60,7 +60,7 @@ course = pagehead("Free beginner course · 12 weeks · 30 minutes a day", "Engli
 <section id="plan" class="block"><div class="wrap">
 <h2>The 12-week plan</h2><p class="sub">Each week has 30 words, 10 sentences to memorise, one grammar point, daily listening and exercises.</p>
 <ol class="weeks">{_weeks()}</ol>
-<div class="ctas"><a class="btn" href="{PDF}" download="{PDF_NAME}">Download English Course: From Zero (PDF) · حمّل كورس طوّر الإنجليزي من الصفر</a></div>
+<div class="ctas"><a class="btn" href="english-week-1.html">Start Week 1 · ابدأ الأسبوع الأول</a></div>
 </div></section>
 
 <section class="block alt"><div class="wrap prose">
