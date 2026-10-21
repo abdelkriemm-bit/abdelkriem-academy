@@ -1,0 +1,451 @@
+{
+ "reciters": [
+  {
+   "name": "محمود خليل الحصري — المصحف المعلم",
+   "kind": "audio",
+   "url": "https://quran.com/reciters/12",
+   "note": "للحفظ: الشيخ يقرأ ويترك وقتًا للترديد. سورة كاملة مباشرة: https://quran.com/reciters/12/112 — ملفات آية بآية: https://everyayah.com/data/Husary_Muallim_128kbps/ (مثال 112001.mp3)"
+  },
+  {
+   "name": "محمد صديق المنشاوي — المصحف المعلم مع ترديد الأطفال",
+   "kind": "audio",
+   "url": "https://quran.com/reciters/168",
+   "note": "في quran.com باسم Mohamed Siddiq al-Minshawi — Kids repeat (الأطفال يرددون بعد القارئ). سورة مباشرة: https://quran.com/reciters/168/112 — نفس المصحف المعلم في mp3quran (114 سورة): https://cdn.mp3quran.net/audio/muhammad-minshawi/r3/ وآية بآية: https://everyayah.com/data/Minshawy_Teacher_128kbps/. أصوات الأطفال أولاد، وهو صوت فقط."
+  },
+  {
+   "name": "محمود خليل الحصري — مرتل (حفص)",
+   "kind": "audio",
+   "url": "https://quran.com/reciters/6",
+   "note": "صفحة القارئ في mp3quran: https://www.mp3quran.net/ar/husr (مجلد المرتل حفص: https://cdn.mp3quran.net/audio/mahmoud-husary/r1/) — آية بآية: https://everyayah.com/data/Husary_128kbps/. انتبه: صفحة mp3quran فيها أيضًا ورش وقالون والدوري؛ اختر «حفص عن عاصم - مرتل»."
+  },
+  {
+   "name": "محمد صديق المنشاوي — مرتل (حفص)",
+   "kind": "audio",
+   "url": "https://quran.com/reciters/9",
+   "note": "mp3quran: https://www.mp3quran.net/ar/minsh (المرتل: https://cdn.mp3quran.net/audio/muhammad-minshawi/r1/) — آية بآية: https://everyayah.com/data/Minshawy_Murattal_128kbps/"
+  },
+  {
+   "name": "عبد الباسط عبد الصمد — مرتل (حفص)",
+   "kind": "audio",
+   "url": "https://quran.com/reciters/2",
+   "note": "mp3quran: https://www.mp3quran.net/ar/basit (المرتل حفص: https://cdn.mp3quran.net/audio/abdulbasit-abdulsamad/r3/) — آية بآية: https://everyayah.com/data/Abdul_Basit_Murattal_192kbps/"
+  },
+  {
+   "name": "عبد الباسط عبد الصمد — مجود",
+   "kind": "audio",
+   "url": "https://quran.com/reciters/1",
+   "note": "للاستماع والتذوق لا للحفظ الأول (بطيء ومطول). mp3quran: https://cdn.mp3quran.net/audio/abdulbasit-abdulsamad/r1/ — آية بآية: https://everyayah.com/data/Abdul_Basit_Mujawwad_128kbps/"
+  },
+  {
+   "name": "محمد أيوب — مرتل (حفص)",
+   "kind": "audio",
+   "url": "https://www.mp3quran.net/ar/ayyub",
+   "note": "غير موجود في قائمة قراء quran.com. مجلد المرتل: https://cdn.mp3quran.net/audio/muhammad-ayyub/r1/ — آية بآية: https://everyayah.com/data/Muhammad_Ayyoub_128kbps/"
+  },
+  {
+   "name": "أيمن رشدي سويد — المصحف المعلم (حفص)",
+   "kind": "audio",
+   "url": "https://www.mp3quran.net/ar/aymn-rshdy-molm",
+   "note": "إضافة اختيارية: مصحف معلم كامل 114 سورة (https://server15.mp3quran.net/a-rushdi/Almusshaf-Al-Mo-lim/)"
+  }
+ ],
+ "tajweed_videos": {
+  "series": "سلسلة تعليم أحكام التجويد للمبتدئين",
+  "presenter": "القارئ عبدالرحمن أبو العنين (قناة @abu_eleneen)",
+  "url": "https://www.youtube.com/playlist?list=PLhSrwfCNArc69Wixtzt9v4dLth6k7DrWh",
+  "note": "51 حلقة قصيرة (2–22 دقيقة) بالعربية. فحصت 3 لقطات تلقائية من كل حلقة (عند 25% و50% و75%) وكلها شرائح أو تسجيل شاشة بصوت رجل؛ لا تظهر أي امرأة. الحلقة 50 فقط تظهر الشيخ نفسه في صورة الغلاف. سلسلة الاستعاذة والبسملة غير موجودة فيها، فأُضيف مقطع د. أيمن سويد.",
+  "episodes": [
+   {
+    "topic": "الاستعاذة والبسملة",
+    "title": "أحكام الاستعاذة والبسملة في بداية ووسط السور | د.أيمن سويد",
+    "url": "https://www.youtube.com/watch?v=Gf2rGo6FRbI",
+    "note": "ليست ضمن سلسلة أبو العنين؛ مقطع من برنامج «الإتقان لتلاوة القرآن» (قناة اقرأ الرسمية @iqraa) — د. أيمن سويد على الشاشة وحده"
+   },
+   {
+    "topic": "مخارج الحروف",
+    "title": "مخارج الحروف خطوة بخطوة -الشرح الذى يبحث عنه الجميع |  تعلم مخارج الحروف بطريقة ممتعة وسهلة  جدا .",
+    "url": "https://www.youtube.com/watch?v=WTDwNgST7KA&list=PLhSrwfCNArc69Wixtzt9v4dLth6k7DrWh"
+   },
+   {
+    "topic": "التفخيم والترقيق",
+    "title": "تعليم التجويد للمبتدئين-حلقة28-التفخيم والترقيق",
+    "url": "https://www.youtube.com/watch?v=qVTfv_z7qvU&list=PLhSrwfCNArc69Wixtzt9v4dLth6k7DrWh"
+   },
+   {
+    "topic": "القلقلة",
+    "title": "تعليم التجويد للمبتدئين/الحلقة 39/القلقلة-حروف القلقلة قطب جد",
+    "url": "https://www.youtube.com/watch?v=j_zdH6BM-iE&list=PLhSrwfCNArc69Wixtzt9v4dLth6k7DrWh"
+   },
+   {
+    "topic": "أحكام النون الساكنة والتنوين (مقدمة)",
+    "title": "أحكام النون الساكنة والتنوين  بشكل مبسط ، الإظهار الحلقى و الإدغام و الإقلاب و الإخفاء الحقيقي",
+    "url": "https://www.youtube.com/watch?v=BWpFofORR_M&list=PLhSrwfCNArc69Wixtzt9v4dLth6k7DrWh"
+   },
+   {
+    "topic": "النون الساكنة: الإظهار",
+    "title": "الإظهار الحلقى ولماذا سمى حلقيا ، الجزء الأول",
+    "url": "https://www.youtube.com/watch?v=pHFVEzo6ESc&list=PLhSrwfCNArc69Wixtzt9v4dLth6k7DrWh"
+   },
+   {
+    "topic": "النون الساكنة: الإدغام",
+    "title": "الإدغام بكل سهولة ، وقسميه إدغام  بغنة و إدغام بغير غنة",
+    "url": "https://www.youtube.com/watch?v=TpX2SPaE2yA&list=PLhSrwfCNArc69Wixtzt9v4dLth6k7DrWh"
+   },
+   {
+    "topic": "النون الساكنة: الإقلاب",
+    "title": "الإقلاب ، وتطبيق عملى عليه ، الكيفية الصحيحة للإقلاب",
+    "url": "https://www.youtube.com/watch?v=BqFxf-WspTc&list=PLhSrwfCNArc69Wixtzt9v4dLth6k7DrWh"
+   },
+   {
+    "topic": "النون الساكنة: الإخفاء",
+    "title": "ما هو الاخفاء الحقيقى، الكيفية الصحيحة لغنة الإخفاء الحقيقي",
+    "url": "https://www.youtube.com/watch?v=jRkCorsrOmE&list=PLhSrwfCNArc69Wixtzt9v4dLth6k7DrWh"
+   },
+   {
+    "topic": "الميم الساكنة",
+    "title": "أحكام الميم الساكنة الإظهار و الإدغام و الإخفاء",
+    "url": "https://www.youtube.com/watch?v=1JfhDW81O2A&list=PLhSrwfCNArc69Wixtzt9v4dLth6k7DrWh"
+   },
+   {
+    "topic": "الغنة (النون والميم المشددتان)",
+    "title": "أحكام النون والميم المشددتين",
+    "url": "https://www.youtube.com/watch?v=XfDdA9UgOVQ&list=PLhSrwfCNArc69Wixtzt9v4dLth6k7DrWh"
+   },
+   {
+    "topic": "اللام الشمسية والقمرية",
+    "title": "تعليم التجويد للمبتدئين الحلقة 25 - لام ال",
+    "url": "https://www.youtube.com/watch?v=8V4AvDEqIos&list=PLhSrwfCNArc69Wixtzt9v4dLth6k7DrWh"
+   },
+   {
+    "topic": "الراء (التفخيم والترقيق)",
+    "title": "تعليم احكام التجويد للمبتدئين-30- التفخيم والترقيق فى حرف الراء",
+    "url": "https://www.youtube.com/watch?v=EfLP3y-mOuA&list=PLhSrwfCNArc69Wixtzt9v4dLth6k7DrWh"
+   },
+   {
+    "topic": "المد الطبيعي",
+    "title": "أحكام المد(ماهوالمد؟ وماهى حروفه ؟) ما هو المد الطبيعى",
+    "url": "https://www.youtube.com/watch?v=UaL0pJa7Qcc&list=PLhSrwfCNArc69Wixtzt9v4dLth6k7DrWh"
+   },
+   {
+    "topic": "المد المتصل والمنفصل",
+    "title": "الفرق بين المد المتصل والمد المنفصل ، لن تتسى المد المتصل و المنفصل  بعد الآن  بإذن الله.",
+    "url": "https://www.youtube.com/watch?v=xBwq2NCXcrM&list=PLhSrwfCNArc69Wixtzt9v4dLth6k7DrWh"
+   },
+   {
+    "topic": "المد العارض للسكون",
+    "title": "المد العارض للسكون #أحكام_المد  #أحكام_التجويد",
+    "url": "https://www.youtube.com/watch?v=IJRPIOkrS7g&list=PLhSrwfCNArc69Wixtzt9v4dLth6k7DrWh"
+   },
+   {
+    "topic": "مد اللين",
+    "title": "تعليم احكام التجويد للمبتدئين- درس24_مد اللين",
+    "url": "https://www.youtube.com/watch?v=1ULk-9YksZE&list=PLhSrwfCNArc69Wixtzt9v4dLth6k7DrWh"
+   },
+   {
+    "topic": "مد البدل",
+    "title": "ما هو مد البدل ؟ وما الفرق بين المد الواجب  المتصل و مد البدل؟ #أحكام_التجويد  #أحكام_المد",
+    "url": "https://www.youtube.com/watch?v=BHFZEpmn9PU&list=PLhSrwfCNArc69Wixtzt9v4dLth6k7DrWh"
+   },
+   {
+    "topic": "مد الصلة",
+    "title": "تعليم التجويد للمبتدئين | حلقة 40(مد الصلة الصغرى والكبرى)-هاء الكناية 1",
+    "url": "https://www.youtube.com/watch?v=S454AtoCo0U&list=PLhSrwfCNArc69Wixtzt9v4dLth6k7DrWh"
+   },
+   {
+    "topic": "المد اللازم (الكلمي)",
+    "title": "المد اللازم ، المد اللازم الكلمى ، المد اللازم الكلمى المثقل و المد اللازم الكلمى المخفف",
+    "url": "https://www.youtube.com/watch?v=08Jc5xNqF3k&list=PLhSrwfCNArc69Wixtzt9v4dLth6k7DrWh"
+   },
+   {
+    "topic": "المد اللازم (الحرفي)",
+    "title": "المد اللازم الحرفى، حروف كم عسل نقص",
+    "url": "https://www.youtube.com/watch?v=u--JrAtyJgY&list=PLhSrwfCNArc69Wixtzt9v4dLth6k7DrWh"
+   },
+   {
+    "topic": "الإدغام: المتماثلان والمتجانسان والمتقاربان",
+    "title": "شرح علاقات الحروف في التجويد كاملة  فى مقطع واحد  | المثلين – المتجانسين – المتقاربين بأسلوب سهل جدا",
+    "url": "https://www.youtube.com/watch?v=wJoKI_jmHsY&list=PLhSrwfCNArc69Wixtzt9v4dLth6k7DrWh"
+   },
+   {
+    "topic": "الوقف والابتداء (علامات الوقف)",
+    "title": "العلامات و الرموز  فى المصحف| علامات ورموز  الوقف فى القرآن ،شرح مبسط لعلامات الوقف فى المصحف الشريف",
+    "url": "https://www.youtube.com/watch?v=Yk5XG0lUr-0&list=PLhSrwfCNArc69Wixtzt9v4dLth6k7DrWh"
+   },
+   {
+    "topic": "الوقف والابتداء (شرح الباب)",
+    "title": "شرح كتاب التجويد المصور || الحلقة ( 19 ) || باب الوقف والابتداء || د. أيمن سويد",
+    "url": "https://www.youtube.com/watch?v=tOW9ZVAI0eU&list=PLJi21Zen45zQ-p3e38-Wb94LhDKIZ7sac",
+    "note": "من سلسلة د. أيمن سويد الرسمية (مستوى أعلى، للمعلم)"
+   }
+  ],
+  "alternatives": [
+   {
+    "series": "شرح كتاب التجويد المصور (45 حلقة)",
+    "presenter": "د. أيمن رشدي سويد — القناة الرسمية @Dr.AymanSwaid",
+    "url": "https://www.youtube.com/playlist?list=PLJi21Zen45zQ-p3e38-Wb94LhDKIZ7sac",
+    "note": "محاضرات للكبار (مستوى أعلى، مناسب للمعلم وليس للأطفال مباشرة). اللقطات المفحوصة: الشيخ وحده على المنصة وشرائح الكتاب."
+   },
+   {
+    "series": "تعليم الاستعاذة والبسملة (بديل)",
+    "presenter": "فارس عنتر (@FarisAntar)",
+    "url": "https://www.youtube.com/watch?v=IU-asPDUDsw",
+    "note": "رجل أمام سبورة؛ لقطات مفحوصة."
+   }
+  ]
+ },
+ "reading_videos": {
+  "series": "شرح دروس القاعدة النورانية",
+  "presenter": "الشيخ محمود أبو الدكتور (قناة «محمود أبوالدكتور تجويد» @Mahmoud33)",
+  "url": "https://www.youtube.com/playlist?list=PLjZ-DAvHG0cj-HRKSpOjHECReG56jwUgJ",
+  "note": "19 مقطعًا تغطي الدروس من الأول حتى الأخير. شيخ واحد على الشاشة أمام سبورة؛ فحصت 3 لقطات من كل مقطع ولا تظهر أي امرأة.",
+  "episodes": [
+   {
+    "topic": "الدرس الأول",
+    "title": "شرح الدرس الأول من القاعدة النورانية",
+    "url": "https://www.youtube.com/watch?v=oXdWFih5RN8&list=PLjZ-DAvHG0cj-HRKSpOjHECReG56jwUgJ"
+   },
+   {
+    "topic": "الدرس الثاني",
+    "title": "شرح الدرس الثاني من القاعدة النورانية - حروف الهجاء المركبة.",
+    "url": "https://www.youtube.com/watch?v=PRAFTPB1W0U&list=PLjZ-DAvHG0cj-HRKSpOjHECReG56jwUgJ"
+   },
+   {
+    "topic": "الدرس الثالث (1/2)",
+    "title": "شرح الدرس الثالث من القاعدة النورانية- شرح سهل ومميز جدا (١ من ٢) محمود أبوالدكتور",
+    "url": "https://www.youtube.com/watch?v=n9GOTTrzwi8&list=PLjZ-DAvHG0cj-HRKSpOjHECReG56jwUgJ"
+   },
+   {
+    "topic": "الدرس الثالث (2/2)",
+    "title": "شرح الدرس الثالث من القاعدة النورانية- شرح سهل ومميز جدا (٢ من ٢)",
+    "url": "https://www.youtube.com/watch?v=mqK_qd2VcT8&list=PLjZ-DAvHG0cj-HRKSpOjHECReG56jwUgJ"
+   },
+   {
+    "topic": "الدرس الرابع",
+    "title": "شرح الدرس الرابع من القاعدة النورانية- شرح سهل ومميز جدا",
+    "url": "https://www.youtube.com/watch?v=i6PZOHM9GZY&list=PLjZ-DAvHG0cj-HRKSpOjHECReG56jwUgJ"
+   },
+   {
+    "topic": "الدرس الخامس",
+    "title": "القاعدة النورانية شرح الدرس الخامس شرح سهل ومميز جدا",
+    "url": "https://www.youtube.com/watch?v=b9xaAvQ8vpI&list=PLjZ-DAvHG0cj-HRKSpOjHECReG56jwUgJ"
+   },
+   {
+    "topic": "الدرس السادس",
+    "title": "شرح الدرس السادس من القاعدة النورانية و6 تنبيهات",
+    "url": "https://www.youtube.com/watch?v=gh86p-soe1Y&list=PLjZ-DAvHG0cj-HRKSpOjHECReG56jwUgJ"
+   },
+   {
+    "topic": "الدرس السابع",
+    "title": "شرح الدرس السابع من القاعدة النورانية و6 ملاحظات",
+    "url": "https://www.youtube.com/watch?v=Sy1uMhuHg04&list=PLjZ-DAvHG0cj-HRKSpOjHECReG56jwUgJ"
+   },
+   {
+    "topic": "الدرس الثامن",
+    "title": "شرح الدرس الثامن من القاعدة النورانية و7 ملاحظات",
+    "url": "https://www.youtube.com/watch?v=h7uSOEP2V6k&list=PLjZ-DAvHG0cj-HRKSpOjHECReG56jwUgJ"
+   },
+   {
+    "topic": "الدرس التاسع",
+    "title": "شرح الدرس التاسع من القاعدة النورانية و6 ملاحظات",
+    "url": "https://www.youtube.com/watch?v=7Xj8Y0j_2MA&list=PLjZ-DAvHG0cj-HRKSpOjHECReG56jwUgJ"
+   },
+   {
+    "topic": "الدرس العاشر",
+    "title": "شرح الدرس العاشر من القاعدة النورانية السكون  و3 ملاحظات",
+    "url": "https://www.youtube.com/watch?v=yzz0CBVHHQ0&list=PLjZ-DAvHG0cj-HRKSpOjHECReG56jwUgJ"
+   },
+   {
+    "topic": "الدرس الحادي عشر",
+    "title": "شرح الدرس الحادي عشر من القاعدة النورانية تدريبات على السكون  و10 ملاحظات",
+    "url": "https://www.youtube.com/watch?v=NbqUhvQsGGw&list=PLjZ-DAvHG0cj-HRKSpOjHECReG56jwUgJ"
+   },
+   {
+    "topic": "الدرس الثاني عشر",
+    "title": "شرح الدرس الثاني عشر من القاعدة النورانية الشدة و5  ملاحظات",
+    "url": "https://www.youtube.com/watch?v=9DGknxPb0oc&list=PLjZ-DAvHG0cj-HRKSpOjHECReG56jwUgJ"
+   },
+   {
+    "topic": "الدرس الثالث عشر",
+    "title": "شرح الدرس الثالث عشر من القاعدة النورانية تدريبات على الشدة و7 ملاحظات",
+    "url": "https://www.youtube.com/watch?v=caYHG_8npok&list=PLjZ-DAvHG0cj-HRKSpOjHECReG56jwUgJ"
+   },
+   {
+    "topic": "الدرس الرابع عشر",
+    "title": "شرح الدرس الرابع عشر من القاعدة النورانية تدريبات على الشدة والسكون و5 ملاحظات",
+    "url": "https://www.youtube.com/watch?v=c1jk8p9tziY&list=PLjZ-DAvHG0cj-HRKSpOjHECReG56jwUgJ"
+   },
+   {
+    "topic": "الدرس الخامس عشر",
+    "title": "شرح الدرس الخامس عشر من القاعدة النورانية و 8 ملاحظات",
+    "url": "https://www.youtube.com/watch?v=Ix0gs_terzQ&list=PLjZ-DAvHG0cj-HRKSpOjHECReG56jwUgJ"
+   },
+   {
+    "topic": "الدرس السادس عشر",
+    "title": "القاعدة النورانية شرح الدرس السادس عشر و٧ ملاحظات",
+    "url": "https://www.youtube.com/watch?v=2Dgw76dYkH0&list=PLjZ-DAvHG0cj-HRKSpOjHECReG56jwUgJ"
+   },
+   {
+    "topic": "الدرس الأخير (1)",
+    "title": "شرح الدرس الأخير من القاعدة النورانية 1",
+    "url": "https://www.youtube.com/watch?v=Hmagf7-o-fo&list=PLjZ-DAvHG0cj-HRKSpOjHECReG56jwUgJ"
+   },
+   {
+    "topic": "الدرس الأخير (2)",
+    "title": "شرح الدرس الأخير من القاعدة النورانية 2 تهجي الإقلاب والإخفاء الشفوي وأحكام أخرى",
+    "url": "https://www.youtube.com/watch?v=kcZKB7Gldu0&list=PLjZ-DAvHG0cj-HRKSpOjHECReG56jwUgJ"
+   }
+  ],
+  "alternatives": [
+   {
+    "series": "دروس القاعدة النورانية - قراءة معلم (17 درسًا)",
+    "presenter": "القناة الرسمية «القاعدة النورانية®» @qaidahnuraniah — بصوت د. محمد فاروق الراعي (كما هو مكتوب على الشاشة)",
+    "url": "https://www.youtube.com/playlist?list=PLDGSJOlM3XL8aPMnm4riNMab33Jnra0hz",
+    "note": "صفحات الكتاب مع تمييز الحرف وصوت رجل، دون أشخاص على الشاشة. مناسبة ليقرأ الطفل مع المعلم.",
+    "episodes": [
+     {
+      "topic": "الدرس 1",
+      "title": "القاعدة النورانية - الدرس 1 (الأول) - قراءة معلم - Nuraniah -  Lesson 1 - Teacher",
+      "url": "https://www.youtube.com/watch?v=wO2DRVC-g9w&list=PLDGSJOlM3XL8aPMnm4riNMab33Jnra0hz"
+     },
+     {
+      "topic": "الدرس 2",
+      "title": "القاعدة النورانية - الدرس 2 (الثاني) - قراءة معلم - Nuraniah -  Lesson 2 - Teacher",
+      "url": "https://www.youtube.com/watch?v=gY_BOUVMqxI&list=PLDGSJOlM3XL8aPMnm4riNMab33Jnra0hz"
+     },
+     {
+      "topic": "الدرس 3",
+      "title": "القاعدة النورانية - الدرس 3 (الثالث) - قراءة معلم - Nuraniah -  Lesson 3 - Teacher",
+      "url": "https://www.youtube.com/watch?v=dXmgVgDnSQ4&list=PLDGSJOlM3XL8aPMnm4riNMab33Jnra0hz"
+     },
+     {
+      "topic": "الدرس 4",
+      "title": "القاعدة النورانية - الدرس 4 (الرابع) - قراءة معلم - Nuraniah -  Lesson 4 - Teacher",
+      "url": "https://www.youtube.com/watch?v=d5T5sUkZnx0&list=PLDGSJOlM3XL8aPMnm4riNMab33Jnra0hz"
+     },
+     {
+      "topic": "الدرس 5",
+      "title": "القاعدة النورانية - الدرس 5 (الخامس) - قراءة معلم - Nuraniah -  Lesson 5 - Teacher",
+      "url": "https://www.youtube.com/watch?v=NltqYdG1D-E&list=PLDGSJOlM3XL8aPMnm4riNMab33Jnra0hz"
+     },
+     {
+      "topic": "الدرس 6",
+      "title": "القاعدة النورانية - الدرس 6 (السادس) - قراءة معلم - Nuraniah - Lesson 6 - Teacher",
+      "url": "https://www.youtube.com/watch?v=MkkP3D8z7kI&list=PLDGSJOlM3XL8aPMnm4riNMab33Jnra0hz"
+     },
+     {
+      "topic": "الدرس 7",
+      "title": "القاعدة النورانية - الدرس 7 (السابع) - قراءة معلم - Nuraniah - Lesson 7 - Teacher",
+      "url": "https://www.youtube.com/watch?v=4PyxmO2vO-M&list=PLDGSJOlM3XL8aPMnm4riNMab33Jnra0hz"
+     },
+     {
+      "topic": "الدرس 8",
+      "title": "القاعدة النورانية - الدرس 8 (الثامن) - قراءة معلم - Nuraniah - Lesson 8 - Teacher",
+      "url": "https://www.youtube.com/watch?v=IRSimXTF9-c&list=PLDGSJOlM3XL8aPMnm4riNMab33Jnra0hz"
+     },
+     {
+      "topic": "الدرس 9",
+      "title": "القاعدة النورانية - الدرس 9 (التاسع) - قراءة معلم - Nuraniah - Lesson 9 - Teacher",
+      "url": "https://www.youtube.com/watch?v=mNYli6aW_v8&list=PLDGSJOlM3XL8aPMnm4riNMab33Jnra0hz"
+     },
+     {
+      "topic": "الدرس 10",
+      "title": "القاعدة النورانية - الدرس 10 (العاشر) - قراءة معلم - Nuraniah - Lesson 10 - Teacher",
+      "url": "https://www.youtube.com/watch?v=tGjkXsazIQM&list=PLDGSJOlM3XL8aPMnm4riNMab33Jnra0hz"
+     },
+     {
+      "topic": "الدرس 11",
+      "title": "القاعدة النورانية - الدرس 11 (الحادي عشر) - قراءة معلم - Nuraniah - Lesson 11 - Teacher",
+      "url": "https://www.youtube.com/watch?v=EqJredlgbDA&list=PLDGSJOlM3XL8aPMnm4riNMab33Jnra0hz"
+     },
+     {
+      "topic": "الدرس 12",
+      "title": "القاعدة النورانية - الدرس 12 (الثاني عشر) - قراءة معلم - Nuraniah - Lesson 12 - Teacher",
+      "url": "https://www.youtube.com/watch?v=oH6_jLcvzUc&list=PLDGSJOlM3XL8aPMnm4riNMab33Jnra0hz"
+     },
+     {
+      "topic": "الدرس 13",
+      "title": "القاعدة النورانية - الدرس 13 (الثالث عشر) - قراءة معلم - Nuraniah - Lesson 13 - Teacher",
+      "url": "https://www.youtube.com/watch?v=p97yuoQu4hQ&list=PLDGSJOlM3XL8aPMnm4riNMab33Jnra0hz"
+     },
+     {
+      "topic": "الدرس 14",
+      "title": "القاعدة النورانية - الدرس 14 (الرابع عشر) - قراءة معلم - Nuraniah - Lesson 14 - Teacher",
+      "url": "https://www.youtube.com/watch?v=vkdsx8S2y0c&list=PLDGSJOlM3XL8aPMnm4riNMab33Jnra0hz"
+     },
+     {
+      "topic": "الدرس 15",
+      "title": "القاعدة النورانية - الدرس 15 (الخامس عشر) - قراءة معلم - Nuraniah - Lesson 15 - Teacher",
+      "url": "https://www.youtube.com/watch?v=0gINW5vhOU0&list=PLDGSJOlM3XL8aPMnm4riNMab33Jnra0hz"
+     },
+     {
+      "topic": "الدرس 16",
+      "title": "القاعدة النورانية - الدرس 16 (السادس عشر) - قراءة معلم - Nuraniah - Lesson 16 - Teacher",
+      "url": "https://www.youtube.com/watch?v=YFDac5KAyCQ&list=PLDGSJOlM3XL8aPMnm4riNMab33Jnra0hz"
+     },
+     {
+      "topic": "الدرس 17",
+      "title": "القاعدة النورانية - الدرس 17 (الأخير) - قراءة معلم - Nuraniah - Lesson Last 17 - Teacher",
+      "url": "https://www.youtube.com/watch?v=DxMCM3ujfZc&list=PLDGSJOlM3XL8aPMnm4riNMab33Jnra0hz"
+     }
+    ]
+   }
+  ]
+ },
+ "mushaf_tools": [
+  {
+   "name": "Quran.com — فتح سورة أو مقطع",
+   "url": "https://quran.com/112",
+   "note": "سورة كاملة: quran.com/112 — آيات محددة: quran.com/2/1-5 (البقرة 1 إلى 5، تم التحقق) — بالعربية: quran.com/ar/112. اختيار القارئ: من مشغل الصوت أسفل الصفحة ← الإعدادات ← اختيار القارئ (Select Reciter). البديل الأسهل للأطفال: رابط القارئ مع السورة مباشرة، مثل quran.com/reciters/168/112 (المنشاوي مع الأطفال – الإخلاص)."
+  },
+  {
+   "name": "مصحف المدينة النبوية (حفص) – طبعة مجمع الملك فهد 1441هـ PDF (نسخة على archive.org)",
+   "url": "https://archive.org/details/MushafMadinaHafsGreen1441",
+   "note": "المجمع مذكور ناشرًا، وترقيم الصفحات مطابق للمصحف المطبوع. الملف المتوسط MushafMadinaHafsGreen1441.pdf حجمه نحو 62MB، والملف عالي الجودة HQ حجمه نحو 465MB. هذه نسخة رفعها مستخدم وليست موقع المجمع نفسه، فموقع المجمع qurancomplex.gov.sa لم يُفتح من بيئة التحقق."
+  },
+  {
+   "name": "Quran for Android (قرآن أندرويد) – مجاني ومفتوح المصدر",
+   "url": "https://play.google.com/store/apps/details?id=com.quran.labs.androidquran",
+   "note": "صفحات مصحف المدينة، وتلاوة مع تظليل الآية، وتكرار الآية أو السورة لعدد مرات تحدده («number of times to repeat ayat/surat»). الموقع: https://quran.app/"
+  },
+  {
+   "name": "Ayah – Quran App (iPhone/iPad)",
+   "url": "https://apps.apple.com/us/app/ayah-quran-app/id706037876",
+   "note": "آخر طبعة لمصحف المدينة، وتكرار قابل للضبط (customizable repeat options)، ومجاني مع مشتريات داخل التطبيق."
+  },
+  {
+   "name": "EveryAyah – ملفات صوت آية بآية",
+   "url": "https://everyayah.com/data/",
+   "note": "مفيد لصنع مقاطع تكرار؛ الملف = رقم السورة 3 خانات + رقم الآية 3 خانات، مثل 112001.mp3"
+  }
+ ],
+ "rejected": [
+  {
+   "name": "الدورة المجيدية في شرح كتاب نور البيان (قناة سلسلة نور البيان التعليمية)",
+   "reason": "مقطع المقدمة فيه رسم كرتوني لبنت بحجاب. باقي اللقطات شرائح فقط، لكن السلسلة رُفضت احتياطًا."
+  },
+  {
+   "name": "قوائم القاعدة النورانية / نور البيان التي تقدّمها معلمات (miss tota، الأستاذة أمينة أنفلوس، Ayat Nawar، معلمة المدينة المنورة، مس رباب ...)",
+   "reason": "المقدِّمة امرأة."
+  },
+  {
+   "name": "سلسلة التجويد الميسر للأطفال (سارة والأطفال)",
+   "reason": "المقدِّمة امرأة."
+  },
+  {
+   "name": "التجويد الميسر للأطفال – المستوى الأول (16 درسًا)",
+   "reason": "لم يتم التحقق من المقدم أو اللقطات، فلم تُدرج."
+  },
+  {
+   "name": "كرتون «حكاية التجويد» وكرتون «أحكام القرآن»",
+   "reason": "لم يُفحص خلوها من شخصيات نسائية؛ وكرتون «أحكام القرآن» عن الفقه لا التجويد."
+  },
+  {
+   "name": "«التجويد المصوّر» لأيمن سويد كسلسلة أساسية للأطفال",
+   "reason": "متاح وموافق للشرط لكنه محاضرات طويلة للكبار؛ وُضع بديلًا للمعلم."
+  },
+  {
+   "name": "رابط PDF مباشر من موقع مجمع الملك فهد",
+   "reason": "لم يُفتح الموقع من بيئة التحقق، وصفحة epub ممنوعة على الزاحف، فاستُخدمت نسخة archive.org."
+  }
+ ]
+}
