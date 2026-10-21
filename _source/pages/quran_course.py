@@ -72,7 +72,7 @@ body{padding-bottom:64px}
         if m.get("how_to_use"): inner += "<h2>طريقة الاستخدام</h2><ul class='lst'>" + "".join(f"<li>{_QE(x)}</li>" for x in m["how_to_use"]) + "</ul>"
         if m.get("can_do"): inner += "<h2>في نهاية هذا الجزء</h2><ul class='lst'>" + "".join(f"<li>{_QE(x)}</li>" for x in m["can_do"]) + "</ul>"
         _pdfn = {"quran-reading": "Quran-Reading.pdf", "quran-tajweed": "Quran-Tajweed.pdf"}[prefix]
-        inner += f'<p><a class="btn" href="{prefix}-1.html">ابدأ الدرس الأول</a> <a class="btn ghost" href="files/{_pdfn}" download>حمّل الدروس كاملة PDF</a></p>'
+        inner += f'<p><a class="btn" href="{prefix}-1.html">ابدأ الدرس الأول</a> <a class="btn ghost" href="files/{_pdfn}" download>حمّل الدروس كاملة للطباعة</a></p>'
         inner += f"<h2>الدروس</h2><ul class='grid'>{lst}</ul>"
         _qpage(f"{prefix}.html", f"{part_name} — القرآن الكريم من الألف للياء", f"{part_name}: دروس أسبوعية مبسطة لولي الأمر والطفل بأمثلة من القرآن وتمارين.",
                "القرآن الكريم من الألف للياء", _QE(m.get("title", part_name)), "دروس أسبوعية مبسطة بأمثلة من القرآن الكريم وتمارين بالإجابات", inner)
@@ -136,7 +136,7 @@ body{padding-bottom:64px}
         _pdf = f"files/Quran-Hifz-Level-{_lv['level']}.pdf"
         _inner = (f"<p><b>المقدار اليومي:</b> {_QE(_lv['pace'])}. خمسة أيام حفظ، ويوم تسميع، ويوم راحة واستماع. كل يوم: حفظ جديد + مراجعة قريبة (آخر ٥ أيام) + مراجعة بعيدة (من الحفظ القديم بالتناوب).</p>"
                   f"<p>أرقام الصفحات حسب مصحف المدينة النبوية (٦٠٤ صفحة) برواية حفص عن عاصم.</p>"
-                  f'<p><a class="btn" href="{_pre}-week-1.html">ابدأ الأسبوع الأول</a> <a class="btn ghost" href="files/Quran-Hifz-Level-{_lv["level"]}.pdf" download>حمّل خطة المستوى PDF</a></p>'
+                  f'<p><a class="btn" href="{_pre}-week-1.html">ابدأ الأسبوع الأول</a> <a class="btn ghost" href="files/Quran-Hifz-Level-{_lv["level"]}.pdf" download>حمّل خطة المستوى للطباعة</a></p>'
                   f"<h2>أسابيع المستوى</h2><ul class='grid'>{_lst}<li><a href='{_pre}-test.html'><small>بعد كل جزء</small>اختبار التسميع</a></li></ul>")
         _qpage(f"{_pre}.html", f"{_lv['title']} — حفظ القرآن الكريم", f"خطة حفظ {_lv['title']}: {len(_lv['weeks'])} أسبوعًا مع المراجعة اليومية واختبار التسميع.",
                "القرآن الكريم من الألف للياء · الحفظ", _QE(_lv["title"]), f"{_qr.ar(len(_lv['weeks']))} أسبوعًا · {_QE(_lv['pace'])}", _inner)
@@ -149,7 +149,7 @@ body{padding-bottom:64px}
         for _s in _g["sections"]:
             _inner += f"<h2>{_QE(_s['title'])}</h2>" + "".join(f"<p>{_QE(p)}</p>" for p in _s.get("paragraphs", []))
             if _s.get("bullets"): _inner += "<ul class='lst'>" + "".join(f"<li>{_QE(b)}</li>" for b in _s["bullets"]) + "</ul>"
-        _inner = '<p><a class="btn ghost" href="files/Quran-Parent-Guide.pdf" download>حمّل الدليل PDF (مع جدول متابعة للطباعة)</a></p>' + _inner
+        _inner = '<p><a class="btn ghost" href="files/Quran-Parent-Guide.pdf" download>حمّل الدليل للطباعة (مع جدول متابعة)</a></p>' + _inner
         _qpage("quran-guide.html", "دليل ولي الأمر لتحفيظ القرآن", "دليل عملي مبسط لولي الأمر: كيف يحفّظ ابنه القرآن ويراجع معه ويسمّع له ويحفّزه.",
                "القرآن الكريم من الألف للياء", _QE(_g.get("title", "دليل ولي الأمر")), "كيف تحفّظ ابنك القرآن خطوة بخطوة", _inner)
 
