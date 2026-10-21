@@ -169,7 +169,17 @@ def build(level_dir, out):
 <h3>The 4-step listening method</h3>
 {tbl(["#","Step"],[["1","Listen only. Don't read. Try to catch the general idea."],["2","Listen and read the script or subtitles. Underline new words."],["3","Shadow: pause after each sentence and repeat it with the same sound and speed."],["4","Listen again without the text. You will understand much more!"]])}
 <div class="tip">Too fast? On YouTube tap ⚙ Settings → Playback speed → 0.75 and turn on English subtitles (CC) — not Arabic. After Weeks 4, 8 and 12 there is a Progress Check: score 16/20 or more to move on.</div>
-<h2>All Your Links in One Place</h2><p>Every resource in this book is free. Tap a title in the weekly plan to find it, or use these main links:</p>{lis}
+<section class="week" dir="rtl" lang="ar" style="direction:rtl;text-align:right;font-family:'Noto Naskh Arabic',serif;font-size:10.5pt"><h2>إزاي تذاكر الكورس ده؟ (اقرا الصفحة دي الأول)</h2>
+<p>ذاكر <b>30 دقيقة كل يوم، 6 أيام في الأسبوع</b>، واليوم السابع راحة أو استماع لقصة. كل أسبوع فيه: كلمات بمعناها بالعربي، وجمل تحفظها، وقاعدة مشروحة بالعربي، وتمارين، وخطة استماع لكل يوم.</p>
+<h3>الـ 30 دقيقة بتوع كل يوم</h3><table><tr><td class=d>5 دقايق</td><td>راجع كلمات وجمل امبارح: غطّي الإنجليزي وقول الكلمة من العربي.</td></tr>
+<tr><td class=d>8 دقايق</td><td>احفظ 6 كلمات وجملتين جداد، وقول كل واحدة بصوت عالي 5 مرات واكتبها في الكشكول.</td></tr>
+<tr><td class=d>10 دقايق</td><td>اسمع أو اتفرج على درس النهارده من خطة الأسبوع (عمود Listen / Watch).</td></tr>
+<tr><td class=d>5 دقايق</td><td>حل تمرين النهارده بالقلم الرصاص، وصحّح من الإجابات في آخر الكتاب.</td></tr>
+<tr><td class=d>2 دقيقة</td><td>اتكلم: قول 3 جمل عن يومك بكلمات النهارده.</td></tr></table>
+<h3>طريقة الاستماع في 4 خطوات</h3><ol><li>اسمع بس من غير ما تقرا، وافهم الفكرة العامة.</li><li>اسمع واقرا النص أو الترجمة الإنجليزي، وحط خط تحت الكلمات الجديدة.</li><li>ردّد وراه: وقّف بعد كل جملة وقولها بنفس الصوت والسرعة.</li><li>اسمع تاني من غير النص.</li></ol>
+<h3>إزاي تستخدم المصادر؟</h3><ul class="t"><li>دوس على اسم الدرس في خطة الأسبوع، أو اكتبه بالظبط في جوجل أو يوتيوب، وافتح النتيجة من الموقع نفسه.</li><li><b>(podcast)</b> أو <b>(audio)</b> = صوت بس، <b>(video)</b> = فيديو، <b>(reading)</b> = قراءة، <b>(listening)</b> = استماع بالنص.</li><li>لو الكلام سريع: في يوتيوب ⚙ ← Playback speed ← 0.75، وشغّل الترجمة الإنجليزي مش العربي.</li></ul>
+<h3>قبل ما تبدأ</h3><ul class="t"><li>اعمل اختبار مستوى مجاني واكتب نتيجتك، وكرّره في آخر الكورس.</li><li>جهّز كشكول: الإنجليزي على الشمال والعربي على اليمين، صفحة لكل أسبوع.</li><li>نزّل تطبيق كروت مجاني زي Anki وحط فيه كلمات كل يوم.</li><li>بعد الأسبوع الرابع والثامن والثاني عشر فيه اختبار: لو جبت 16 من 20 أو أكتر كمّل، لو أقل راجع جمل الأسابيع دي 3 أيام وحاول تاني.</li><li><b>القاعدة الذهبية:</b> مش لازم تفهم كل كلمة. افهم الفكرة وكمّل.</li></ul></section>
+<section class="week"><h2>All Your Links in One Place</h2><p>Every resource in this book is free. Tap a title in the weekly plan to find it, or use these main links:</p>{lis}
 <div class="tip">If a link ever stops working, search the exact title in YouTube or Google — every lesson in this book has its exact name.</div></section>
 '''
     for i, w in enumerate(weeks):

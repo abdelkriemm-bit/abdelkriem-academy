@@ -42,20 +42,20 @@ def _lv_week(L, meta, d):
         a = "\n".join(ex.get("answers", []))
         ans = f'<details><summary>Show the answers</summary><div class="ans">{_E(a)}</div></details>' if a else ""
         exs += f'<div class="ex"><h3>{_E(ex["title"])}</h3><ol>{items}</ol>{ans}</div>'
-    ws = f'<div class="wk-sec"><h2>Write &amp; Speak</h2><div class="ws">{_E(d["write_speak"])}</div></div>' if d.get("write_speak") else ""
+    ws = f'<div class="wk-sec"><h2>Write &amp; Speak · اكتب واتكلم</h2><p class="arhint" dir="rtl" lang="ar">اكتب الموضوع في الكشكول بنفسك، وبص على المثال لو احتجت، وبعدين اقراه بصوت عالي أو سجّل نفسك.</p><div class="ws">{_E(d["write_speak"])}</div></div>' if d.get("write_speak") else ""
     other = "".join(f'<p class="note">{_E(o)}</p>' for o in d.get("other", []))
     prev_link = f'<a href="{pre}-week-{n-1}.html">← Week {n-1}</a>' if n > 1 else f'<a href="{pre}.html">← Level {L} overview</a>'
     if n in (5, 9):
         prev_link = f'<a href="{pre}-check-{(n-1)//4}.html">← Progress Check {(n-1)//4}</a>'
     next_link = f'<a href="{pre}-check-{n//4}.html">Progress Check {n//4} →</a>' if n in (4, 8, 12) else f'<a href="{pre}-week-{n+1}.html">Week {n+1} →</a>'
     kick = f'English Course · Level {L} ({_E(meta["cefr"])}) · Week {n} of 12'
-    body = _WEEK_CSS + pagehead(kick, _E(d["title"]), _E(d.get("grammar_title", ""))) + f'''
+    body = AR_HINT_CSS + _WEEK_CSS + pagehead(kick, _E(d["title"]), _E(d.get("grammar_title", ""))) + f'''
 <section class="block"><div class="wrap">
-<div class="wk-sec"><h2>This week's plan</h2>{plan}<p class="note">30 minutes a day: review, learn, listen, practise, speak. Day 7 is a free day. Tap a resource to find it.</p></div>
-<div class="wk-sec" id="words"><h2>30 words to learn</h2><button class="toggle" type="button" data-toggle-ar="words" aria-pressed="false">Hide the Arabic (test yourself)</button><div class="sets">{sets}</div></div>
-<div class="wk-sec" id="sents"><h2>10 sentences to memorise</h2><button class="toggle" type="button" data-toggle-ar="sents" aria-pressed="false">Hide the Arabic (test yourself)</button><ol class="sents">{sents}</ol></div>
-<div class="wk-sec"><h2>{_E(d.get("grammar_title", "Grammar"))}</h2><div class="gbox">{"".join(gp)}</div></div>
-<div class="wk-sec"><h2>Exercises</h2>{exs}<p class="note">Do each exercise in pencil first, then open the answers to check.</p></div>
+<div class="wk-sec"><h2>This week's plan · خطة الأسبوع</h2><p class="arhint" dir="rtl" lang="ar">كل يوم 30 دقيقة: نفّذ الصف بتاع اليوم. <b>Learn</b> = احفظ الكلمات والجمل المكتوبة، <b>Listen / Watch</b> = اسمع أو اتفرج على الدرس (دوس على اسمه)، <b>Practise</b> = حل التمرين. اليوم السابع راحة.</p>{plan}<p class="note">30 minutes a day: review, learn, listen, practise, speak. Day 7 is a free day. Tap a resource to find it.</p></div>
+<div class="wk-sec" id="words"><h2>30 words to learn · كلمات الأسبوع</h2><p class="arhint" dir="rtl" lang="ar">احفظ مجموعة واحدة (6 كلمات) كل يوم. قول كل كلمة بصوت عالي واكتبها في الكشكول. دوس الزرار عشان تخفي العربي وتختبر نفسك.</p><button class="toggle" type="button" data-toggle-ar="words" aria-pressed="false">Hide the Arabic (test yourself)</button><div class="sets">{sets}</div></div>
+<div class="wk-sec" id="sents"><h2>10 sentences to memorise · جمل تحفظها</h2><p class="arhint" dir="rtl" lang="ar">احفظ جملتين كل يوم، وقول كل جملة بصوت عالي 5 مرات لحد ما تطلع منك لوحدها.</p><button class="toggle" type="button" data-toggle-ar="sents" aria-pressed="false">Hide the Arabic (test yourself)</button><ol class="sents">{sents}</ol></div>
+<div class="wk-sec"><h2>{_E(d.get("grammar_title", "Grammar"))}</h2><p class="arhint" dir="rtl" lang="ar">اقرا الشرح بالعربي الأول، وبعدين بص على الجدول والأمثلة. لو مش فاهم، اسمع درس الجرامر اللي في خطة الأسبوع.</p><div class="gbox">{"".join(gp)}</div></div>
+<div class="wk-sec"><h2>Exercises · تمارين</h2><p class="arhint" dir="rtl" lang="ar">حل كل تمرين في يومه بالقلم الرصاص، وبعدين دوس «Show the answers» وصحّح لنفسك. اكتب أخطاءك في الكشكول وراجعها في اليوم السادس.</p>{exs}<p class="note">Do each exercise in pencil first, then open the answers to check.</p></div>
 {ws}{other}
 <nav class="wk-nav" aria-label="Weeks">{prev_link}{next_link}</nav>
 </div></section>''' + _TOGGLE_JS
@@ -74,7 +74,7 @@ def _lv_check(L, meta, n, c):
         ans = f'<details><summary>Show the answers</summary><div class="ans">{_E(a)}</div></details>' if a else ""
         secs += f'<div class="ex"><h3>{_E(s["title"])}</h3>{ins}<ol>{items}</ol>{ans}</div>'
     nxt = f'<a href="{pre}-week-{n*4+1}.html">Week {n*4+1} →</a>' if n < 3 else (f'<a href="english-level-{L+1}.html">Level {L+1} →</a>' if (L + 1) in PUBLISHED_LEVELS else f'<a href="{pre}.html">Level {L} overview →</a>')
-    body = _WEEK_CSS + pagehead(f"English Course · Level {L} ({_E(meta['cefr'])}) · Weeks {n*4-3}–{n*4}", _E(c["title"]), _E(c.get("subtitle", ""))) + f'''
+    body = AR_HINT_CSS + _WEEK_CSS + pagehead(f"English Course · Level {L} ({_E(meta['cefr'])}) · Weeks {n*4-3}–{n*4}", _E(c["title"]), _E(c.get("subtitle", ""))) + f'''
 <section class="block"><div class="wrap">
 <p class="note">{_E(c.get("score", "Score 16/20 or more to move on."))}</p>
 {secs}
@@ -107,6 +107,7 @@ def _lv_overview(L, meta, weeks):
 </div>
 <div class="part"><h3>After this level you can…</h3><ul class="ticks">{can}</ul></div>
 </div></section>
+'''+AR_GUIDE.replace('block alt','block')+f'''
 <section id="plan" class="block alt"><div class="wrap">
 <h2>The 12-week plan</h2><p class="sub">Each week has 30 words, 10 sentences to memorise, one grammar point, daily listening and exercises with answers.</p>
 <ol class="weeks">{wl}</ol>
@@ -139,3 +140,11 @@ if PUBLISHED_LEVELS:
         if _o2.path.exists(_p):
             _h = open(_p, encoding="utf-8").read()
             open(_p, "w", encoding="utf-8").write(_h.replace("</main>", _strip + "</main>", 1))
+
+
+# Stop browsers from auto-translating the Arabic explanations into English on the English course pages.
+import glob as _eg
+for _ep in _eg.glob(f"{OUT}/english-*.html") + [f"{OUT}/improve-english.html"]:
+    _eh = open(_ep, encoding="utf-8").read()
+    if 'name="google" content="notranslate"' not in _eh:
+        open(_ep, "w", encoding="utf-8").write(_eh.replace("<head>", '<head>\n<meta name="google" content="notranslate">', 1))
