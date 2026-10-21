@@ -46,5 +46,6 @@ for n, ix in M.items():
     p = f'{OUT}/lesson{n}.json'
     if not os.path.exists(p): continue
     L = json.load(open(p))
-    L['listen'] = [ep[i]['title'] + ' (video)' for i in ix] + [R['reciters'][0]['name'] + ' (audio)']
+    rc = R['reciters'][0]
+    L['listen'] = [f"فيديو: «{ep[i]['title']}» — {ep[i]['url']}" for i in ix] + [f"استماع: «{rc['name']}» — {rc['url']}"]
     open(p, 'w', encoding='utf-8').write(json.dumps(L, ensure_ascii=False, indent=1))

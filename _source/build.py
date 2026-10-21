@@ -9,7 +9,7 @@ PL = {
  "ielts": "PLZn-QO9NSjZSuQZSRDvkmDOOnINQqF56t", "situations": "PLZn-QO9NSjZTVogFkUdSRhjTNpm7PjPLX",
 }
 NAV = [("index.html","Home","الرئيسية"),("british.html","British & IGCSE",""),("baccalaureate.html","تانية بكالوريا English",""),
-       ("quran.html","Quran",""),("improve-english.html","Improve Your English",""),("about.html","About","")]
+       ("quran.html","Quran · حفظ القرآن",""),("improve-english.html","English · من الصفر للاحتراف",""),("about.html","About","")]
 
 def head(title, desc, rtl=False):
     d = 'dir="rtl" lang="ar"' if rtl else 'lang="en"'
@@ -42,7 +42,7 @@ def header(active):
 
 FOOT = f'''<footer class="foot" dir="ltr"><div class="wrap fgrid">
 <div><b>Abdelkriem Academy</b><p>Free educational resources for students and parents — Cambridge and Oxford English, the Egyptian Baccalaureate, Quran and more — by Mohamed Abdelkriem.</p></div>
-<div><b>Sections</b><a href="british.html">British &amp; IGCSE</a><a href="baccalaureate.html">تانية بكالوريا English</a><a href="quran.html">Quran</a><a href="improve-english.html">Improve Your English</a></div>
+<div><b>Sections</b><a href="british.html">British &amp; IGCSE</a><a href="baccalaureate.html">تانية بكالوريا English</a><a href="quran.html">Quran · حفظ القرآن</a><a href="improve-english.html">English · من الصفر للاحتراف</a></div>
 <div><b>Academy</b><a href="about.html">About</a><a href="contact.html">Contact</a><a href="privacy.html">Privacy Policy</a><a href="terms.html">Terms of Use</a></div>
 <div><b>Follow</b><a href="{YT}" target="_blank" rel="noopener">YouTube</a><a href="https://www.facebook.com/" target="_blank" rel="noopener">Facebook</a><a href="https://www.tiktok.com/" target="_blank" rel="noopener">TikTok</a></div>
 </div><p class="copy">© 2026 Abdelkriem Academy · No English exam left standing.</p></footer>
@@ -75,7 +75,7 @@ COURSES = [
  ("IGCSE English 0510","Reading skills, reading and writing, and listening for Year 9.","year-9-0510.html","Cambridge IGCSE"),
  ("Oxford International GCSE","Reading, writing, speaking and listening for Year 10.","year-10-oxford.html","OxfordAQA 9280"),
  ("Quran: Reading, Tajweed &amp; Memorisation","A complete free Quran course for children and parents: learning to read, all the tajweed rules, and a daily plan to memorise the whole Quran.","quran.html","القرآن الكريم من الألف للياء"),
- ("Improve Your English","Grammar, vocabulary, speaking and real-life English for anyone.","improve-english.html","General English"),
+ ("English: From Zero to Pro","A complete free English course in 5 levels, from your first word to fluent English, with Arabic explanations.","improve-english.html","إنجليزي من الصفر للاحتراف"),
 ]
 PARENTS = [
  ("Choosing a school system","IGCSE, American, National or the new Baccalaureate — what each one means for your child."),
@@ -193,7 +193,7 @@ q = pagehead("Section 3","Quran by Levels","A calm, step-by-step path. Start at 
 page("quran.html","Quran by Levels — Abdelkriem Academy","Learn Quran step by step, organised by level: letters, reading, tajweed basics and memorisation.", q)
 
 # ---------- IMPROVE ENGLISH ----------
-ie = pagehead("Section 4","Improve Your English","For students, parents and anyone who wants better everyday English — no exam needed.") + f'''
+ie = pagehead("Section 4","English: From Zero to Pro<span class='ar-title' lang='ar' dir='rtl'>إنجليزي من الصفر للاحتراف</span>","For students, parents and anyone who wants better everyday English — no exam needed.") + f'''
 <section class="block"><div class="wrap"><a class="feature" href="english-in-90-days.html"><span class="tag">Free beginner course</span><h2>English Course: From Zero<span class="ar-title" lang="ar" dir="rtl">طوّر الإنجليزي بتاعك من الصفر</span></h2><p>12 weeks · 30 minutes a day · 360 words · 120 key sentences · 48 video lessons · 60 exercises with answers. Explained in English and Arabic.</p><span class="btn">Start the course</span></a></div></section>
 <section class="block"><div class="wrap grid4">
 {card("Grammar","Tenses, sentence types and the rules that actually matter.")}
@@ -202,7 +202,7 @@ ie = pagehead("Section 4","Improve Your English","For students, parents and anyo
 {card("English through Situations","Learn the English you need in real daily situations.")}
 </div></section>
 <section class="block alt"><div class="wrap split"><div><h2>Classic stories, retold</h2><p>Famous short stories told as cinematic summaries — great listening practice and literature revision.</p></div>{yt(PL["lit"],"Literature stories playlist")}</div></section>'''
-page("improve-english.html","Improve Your English — Abdelkriem Academy","Free lessons to improve your general English: grammar, vocabulary, speaking, pronunciation and real-life English.", ie)
+page("improve-english.html","English: From Zero to Pro — إنجليزي من الصفر للاحتراف | Abdelkriem Academy","A free English course from zero to fluent in 5 levels (A1–B2): words, sentences, grammar, exercises with answers and daily listening, with Arabic explanations.", ie)
 
 # ---------- ABOUT / CONTACT / PRIVACY / TERMS ----------
 about = pagehead("About","About Abdelkriem Academy","Free educational resources made by a working classroom teacher.") + '''

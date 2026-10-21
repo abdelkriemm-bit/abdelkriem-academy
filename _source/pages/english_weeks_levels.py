@@ -4,7 +4,7 @@
 # (Set the environment variable PREVIEW_ALL_LEVELS=1 to build every level that has content, for checking before publishing.)
 import json as _j2, os as _o2, urllib.parse as _up
 
-PUBLISHED_LEVELS = []
+PUBLISHED_LEVELS = [2, 3, 4, 5]
 _LVL_ROOT = _o2.path.join(_o2.path.dirname(PAGES_DIR), "course")
 if _o2.environ.get("PREVIEW_ALL_LEVELS"):
     PUBLISHED_LEVELS = [n for n in range(2, 10) if _o2.path.exists(_o2.path.join(_LVL_ROOT, f"level{n}", "meta.json"))]

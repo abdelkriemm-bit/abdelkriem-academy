@@ -3,6 +3,7 @@ import os, sys, json, html, re
 HERE = os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0, HERE)
 import qdata
 E = html.escape
+WEB = True  # make_quran_pdf sets False (no buttons in PDFs)
 AR_DIG = str.maketrans("0123456789", "٠١٢٣٤٥٦٧٨٩")
 def ar(n): return str(n).translate(AR_DIG)
 
@@ -45,7 +46,7 @@ def ayah_block(s, a, word=None, note=None):
     h, ok = highlight(t, word) if word else (E(t), True)
     ref = f'<span class="ref">﴿سورة {E(sname(s))} – الآية {ar(a)}﴾</span>'
     nt = f'<div class="enote">{E(note)}</div>' if note else ""
-    return f'<div class="ayah"><p class="q" lang="ar">{h} <span class="an">﴿{ar(a)}﴾</span></p>{ref}{nt}</div>', ok
+    return f'<div class="ayah"><p class="q" lang="ar">{h} <span class="an">﴿{ar(a)}﴾</span></p>{ref}{nt}{play_btn(s, a, a, "استمع للآية") if WEB else ""}</div>', ok
 
 def portion_text(s, a1, a2):
     return '<p class="q" lang="ar">' + " ".join(f'{E(qdata.ayah_text(s, a))} <span class="an">﴿{ar(a)}﴾</span>' for a in range(a1, a2 + 1)) + "</p>"
@@ -95,3 +96,58 @@ def check_examples(folder):
                 _, ok = highlight(qdata.ayah_text(ex["surah"], ex["ayah"]), ex.get("word", ""))
                 if not ok: bad.append((f, ex["surah"], ex["ayah"], ex.get("word")))
     return bad
+
+# ---------- audio, colours, tafsir, surah intros ----------
+_MUY = None
+def tafsir(s, a):
+    global _MUY
+    if _MUY is None:
+        _MUY = json.load(open(os.path.join(HERE, "muyassar.json"), encoding="utf-8"))["data"]["surahs"]
+    return _MUY[s - 1]["ayahs"][a - 1]["text"]
+
+def tafsir_block(s, a1, a2):
+    items = "".join(f'<li><b>﴿{ar(a)}﴾</b> {E(tafsir(s, a))}</li>' for a in range(a1, a2 + 1))
+    return f'<details class="tfs"><summary>معنى الآيات (التفسير الميسر – مجمع الملك فهد)</summary><ul>{items}</ul></details>'
+
+def play_btn(s, a1, a2, label="استمع وردّد"):
+    return f'<button class="play" type="button" data-s="{s}" data-a1="{a1}" data-a2="{a2}">▶ {E(label)}</button>'
+
+COLORS = {"h": "#9aa5ab", "s": "#9aa5ab", "l": "#9aa5ab", "n": "#d08a1e", "p": "#e0612f", "m": "#a3191b", "o": "#c2402e",
+          "q": "#1f6fd1", "c": "#1d9a5b", "f": "#1d9a5b", "w": "#7a4fd1", "i": "#0f8f9e", "a": "#169c3b", "u": "#7d8b2c",
+          "d": "#9b6a2f", "b": "#9b6a2f", "g": "#ff7e1e"}
+def colored_ayah(s, a):
+    raw = qdata._T[s - 1]["ayahs"][a - 1]["text"]
+    plain, spans = qdata.parse_tajweed(raw)
+    out, pos = [], 0
+    for code, st, en in spans:
+        if (s, a) == (75, 27) and code == 'u': continue  # Hafs: سكت on «من راق», not idgham
+        out.append(E(plain[pos:st])); out.append(f'<span class="tj tj-{code}">{E(plain[st:en])}</span>'); pos = en
+    out.append(E(plain[pos:]))
+    return "".join(out)
+
+def portion_colored(s, a1, a2):
+    return '<p class="q qc" lang="ar">' + " ".join(f'{colored_ayah(s, a)} <span class="an">﴿{ar(a)}﴾</span>' for a in range(a1, a2 + 1)) + "</p>"
+
+_INTRO = None
+def surah_intro(s):
+    global _INTRO
+    p = os.path.join(HERE, "surah_intros.json")
+    if _INTRO is None:
+        _INTRO = json.load(open(p, encoding="utf-8")) if os.path.exists(p) else {}
+    d = _INTRO.get(str(s))
+    if not d: return ""
+    v = f'<p><b>فضلها:</b> {E(d["virtue"])}</p>' if d.get("virtue") else ""
+    return (f'<div class="sintro"><h3>تعرّف على سورة {E(sname(s))}</h3><p><b>{E(d.get("type",""))}</b> · عدد آياتها {ar(d.get("ayahs",""))} · '
+            f'{E(d.get("name_meaning",""))}</p><p>{E(d.get("about",""))}</p><p><b>درس لك:</b> {E(d.get("lesson",""))}</p>{v}</div>')
+
+PLAYER_JS = """<div class="qplayer" id="qplayer"><label>القارئ <select id="qrec"><option value="Husary_Muallim_128kbps">الحصري (المصحف المعلّم)</option><option value="Minshawy_Teacher_128kbps">المنشاوي مع ترديد الأطفال</option><option value="Husary_128kbps">الحصري مرتّل</option></select></label>
+<label>كرّر كل آية <select id="qrep"><option>1</option><option selected>3</option><option>5</option></select></label><button type="button" id="qstop">■ إيقاف</button><span id="qnow"></span></div>
+<script>(function(){var au=new Audio(),q=[],i=0,r=0;function pad(n){return ('00'+n).slice(-3)}
+function play(){if(i>=q.length){document.getElementById('qnow').textContent='';return}var rec=document.getElementById('qrec').value;au.src='https://everyayah.com/data/'+rec+'/'+q[i];au.play();document.getElementById('qnow').textContent='الآية '+(+q[i].slice(3,6))}
+au.addEventListener('ended',function(){r++;var rep=+document.getElementById('qrep').value;if(r>=rep){r=0;i++}play()});
+document.querySelectorAll('button.play').forEach(function(b){b.addEventListener('click',function(){q=[];for(var a=+b.dataset.a1;a<=+b.dataset.a2;a++)q.push(pad(b.dataset.s)+pad(a)+'.mp3');i=0;r=0;play()})});
+document.getElementById('qstop').addEventListener('click',function(){au.pause();q=[];document.getElementById('qnow').textContent=''});
+document.querySelectorAll('button.tjt').forEach(function(b){b.addEventListener('click',function(){document.body.classList.toggle('tj-on');b.textContent=document.body.classList.contains('tj-on')?'إخفاء ألوان التجويد':'اعرض ألوان التجويد'})});})();</script>"""
+
+def colors_css():
+    return "".join(f"body.tj-on .tj-{k}{{color:{v}}}" for k, v in COLORS.items()) + ".qc{display:none}body.tj-on .qc{display:block}body.tj-on .qp{display:none}"

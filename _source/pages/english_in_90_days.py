@@ -30,7 +30,7 @@ course = pagehead("Free beginner course · 12 weeks · 30 minutes a day", "Engli
 <section class="block"><div class="wrap split">
 <div>
 <ul class="stats dark"><li><b>360</b><span>words</span></li><li><b>120</b><span>key sentences</span></li><li><b>12</b><span>grammar points</span></li><li><b>48</b><span>exercises + answers</span></li></ul>
-<div class="ctas"><a class="btn" href="english-week-1.html">Start Week 1</a><a class="btn ghost" href="#plan">See the 12-week plan</a></div>
+<div class="ctas"><a class="btn" href="english-week-1.html">Start Week 1</a><a class="btn ghost" href="{PDF}" download="{PDF_NAME}">Download the PDF · حمّل الكورس PDF</a></div>
 <p class="ar" dir="rtl" lang="ar">كورس إنجليزي للمبتدئين — ٣ شهور، ٣٠ دقيقة يوميًا. الكتاب فيه كل اللي محتاجه: الكلمات والجمل والقواعد والتمارين بالإجابات، وخطة استماع لكل يوم بالروابط.</p>
 </div>
 <div class="part">

@@ -3,6 +3,7 @@
 import os, sys, json
 HERE = os.path.dirname(os.path.abspath(__file__)); sys.path.insert(0, HERE)
 import qrender as R, qdata
+R.WEB = False
 from weasyprint import HTML
 E = R.E; ar = R.ar
 
