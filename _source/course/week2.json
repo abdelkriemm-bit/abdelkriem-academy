@@ -1,0 +1,52 @@
+{
+  "week": 2,
+  "title": "My Family and Friends",
+  "grammar_title": "Grammar: have / has · my, your, his, her · 's",
+  "plan": [
+    {"day": "Day 1", "learn": "Words: Family 1 · Sentences 1–2", "listen": "VOA Lesson 5: Where Are You?", "practise": "Exercise 1"},
+    {"day": "Day 2", "learn": "Words: Family 2 · Sentences 3–4", "listen": "VOA Lesson 6: Where Is the Gym?", "practise": "Exercise 2"},
+    {"day": "Day 3", "learn": "Words: Family 3 · Sentences 5–6", "listen": "ELLLO: “Talk about a family member”", "practise": "Exercise 3"},
+    {"day": "Day 4", "learn": "Words: Describing people · Sentences 7–8", "listen": "VOA Lesson 7: What Are You Doing? + British Council: “Talking about other people” (speaking video)", "practise": "Exercise 4"},
+    {"day": "Day 5", "learn": "Words: Appearance · Sentences 9–10", "listen": "VOA Lesson 8: Are You Busy?", "practise": "Write & Speak"},
+    {"day": "Day 6", "learn": "Review all 30 words + 10 sentences", "listen": "British Council: “Meeting people at a dinner” (listening)", "practise": "Redo mistakes"},
+    {"day": "Day 7", "learn": "Free day ☺", "listen": "BBC Real Easy English: “Family” (video)", "practise": "Tick your tracker"}
+  ],
+  "word_sets": [
+    {"name": "Set 1 · Family 1", "words": [["father", "أب"], ["mother", "أم"], ["brother", "أخ"], ["sister", "أخت"], ["son", "ابن"], ["daughter", "ابنة"]]},
+    {"name": "Set 2 · Family 2", "words": [["husband", "زوج"], ["wife", "زوجة"], ["parents", "الوالدان"], ["children", "أطفال / أبناء"], ["uncle", "عم / خال"], ["aunt", "عمة / خالة"]]},
+    {"name": "Set 3 · Family 3", "words": [["grandfather", "جَد"], ["grandmother", "جَدة"], ["cousin", "ابن / ابنة العم أو الخال"], ["married", "متزوج"], ["single", "أعزب"], ["baby", "طفل رضيع"]]},
+    {"name": "Set 4 · Describing people", "words": [["tall", "طويل"], ["short", "قصير"], ["young", "صغير السن"], ["old", "كبير السن"], ["kind", "طيب / لطيف"], ["funny", "مَرِح / مضحك"]]},
+    {"name": "Set 5 · Appearance", "words": [["hair", "شَعر"], ["eyes", "عيون"], ["beard", "لحية"], ["glasses", "نظارة"], ["smile", "ابتسامة"], ["look like", "يُشبِه"]]}
+  ],
+  "sentences": [
+    ["I have two brothers and one sister.", "لديّ أخوان وأخت واحدة."],
+    ["My father's name is Hassan.", "اسم أبي حسن."],
+    ["She has a big family.", "لديها عائلة كبيرة."],
+    ["Are you married? — No, I'm single.", "هل أنت متزوج؟ — لا، أنا أعزب."],
+    ["This is my wife, Mona.", "هذه زوجتي منى."],
+    ["We have three children.", "لدينا ثلاثة أطفال."],
+    ["My brother is tall and funny.", "أخي طويل ومرح."],
+    ["He has short black hair.", "لديه شعر أسود قصير."],
+    ["I look like my mother.", "أنا أشبه أمي."],
+    ["Do you have any brothers or sisters?", "هل لديك إخوة أو أخوات؟"]
+  ],
+  "grammar": {
+    "intro_en": "",
+    "intro_ar": "his تُستخدم إذا كان المالك ذكرًا، و her إذا كان المالك أنثى — العبرة بصاحب الشيء وليس بالشيء نفسه: Sara loves her father.",
+    "tables": [
+      {"headers": ["have", "has", "Possessives"],
+       "rows": [
+         ["I / you / we / they have", "he / she / it has", "I → my · you → your · he → his · she → her · we → our · they → their"]
+       ]}
+    ],
+    "notes": ["'s = owner: Ali's car (سيارة علي) · my father's name (اسم أبي)"]
+  },
+  "exercises": [
+    {"title": "Exercise 1 — Complete with have or has.", "instructions": "Complete with have or has.", "items": ["1. I ___ a car.", "2. My sister ___ two children.", "3. We ___ a small house.", "4. He ___ blue eyes.", "5. They ___ a new baby.", "6. Mona ___ long hair."]},
+    {"title": "Exercise 2 — Complete with my, his, her or their.", "instructions": "Complete with my, his, her or their.", "items": ["1. Ahmed is my friend. ___ wife is a doctor.", "2. Sara loves ___ mother.", "3. My parents live in Tanta. ___ house is big.", "4. I love ___ children.", "5. Omar and ___ brother are tall.", "6. This is Nour, and this is ___ husband."]},
+    {"title": "Exercise 3 — Rewrite with 's.", "instructions": "Rewrite with 's.", "items": ["1. the name of my father", "2. the phone of Sara", "3. the room of my brother", "4. the friend of Omar"]},
+    {"title": "Exercise 4 — Translate into English.", "instructions": "Translate into English.", "items": ["1. لدي ابن وابنة.", "2. اسم أختي سارة.", "3. جدي كبير في السن وطيب.", "4. هل لديك أطفال؟"]}
+  ],
+  "write_speak": "Write & Speak — Write 6 sentences about your family. Then show a family photo to someone and say them aloud.\nExample: I have a small family. My father's name is Mahmoud. He is kind and funny. My mother is a teacher. I have one sister. Her name is Hana and she has long black hair.",
+  "other": []
+}

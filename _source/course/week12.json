@@ -1,0 +1,309 @@
+{
+ "week": 12,
+ "title": "Health, Travel and Asking for Help",
+ "grammar_title": "should / shouldn't · Could you…? May I…? · instructions",
+ "plan": [
+  {
+   "day": "Day 1",
+   "learn": "Words: Health · Sentences 1–2",
+   "listen": "VOA Lesson 45: This Land Is Your Land",
+   "practise": "Exercise 1"
+  },
+  {
+   "day": "Day 2",
+   "learn": "Words: Body · Sentences 3–4",
+   "listen": "VOA Lesson 46: May I Borrow That?",
+   "practise": "Exercise 2"
+  },
+  {
+   "day": "Day 3",
+   "learn": "Words: Getting help · Sentences 5–6",
+   "listen": "British Council: “An airport departures board” (reading)",
+   "practise": "Exercise 3"
+  },
+  {
+   "day": "Day 4",
+   "learn": "Words: Travel · Sentences 7–8",
+   "listen": "VOA Lesson 47: How Can I Help? + BBC Real Easy English: “Talking about airports” (video)",
+   "practise": "Exercise 4"
+  },
+  {
+   "day": "Day 5",
+   "learn": "Words: Being polite · Sentences 9–10",
+   "listen": "VOA Lesson 48: Have You Ever...?",
+   "practise": "Write & Speak"
+  },
+  {
+   "day": "Day 6",
+   "learn": "Review all 30 words + 10 sentences",
+   "listen": "Video: at the doctor's — beginner conversation",
+   "practise": "Redo mistakes"
+  },
+  {
+   "day": "Day 7",
+   "learn": "Free day ☺",
+   "listen": "BBC 6 Minute English — try your first episode!",
+   "practise": "Tick your tracker"
+  }
+ ],
+ "word_sets": [
+  {
+   "name": "Set 1 · Health",
+   "words": [
+    [
+     "headache",
+     "صداع"
+    ],
+    [
+     "fever",
+     "حُمّى / سخونية"
+    ],
+    [
+     "cough",
+     "كحة / سعال"
+    ],
+    [
+     "cold",
+     "برد / زكام"
+    ],
+    [
+     "medicine",
+     "دواء"
+    ],
+    [
+     "appointment",
+     "موعد"
+    ]
+   ]
+  },
+  {
+   "name": "Set 2 · Body",
+   "words": [
+    [
+     "head",
+     "رأس"
+    ],
+    [
+     "stomach",
+     "معدة / بطن"
+    ],
+    [
+     "back",
+     "ظهر"
+    ],
+    [
+     "tooth / teeth",
+     "سن / أسنان"
+    ],
+    [
+     "arm",
+     "ذراع"
+    ],
+    [
+     "leg",
+     "ساق / رِجل"
+    ]
+   ]
+  },
+  {
+   "name": "Set 3 · Getting help",
+   "words": [
+    [
+     "problem",
+     "مشكلة"
+    ],
+    [
+     "lost",
+     "تائه / ضائع"
+    ],
+    [
+     "emergency",
+     "طوارئ"
+    ],
+    [
+     "call",
+     "يتصل"
+    ],
+    [
+     "ask",
+     "يسأل"
+    ],
+    [
+     "explain",
+     "يشرح"
+    ]
+   ]
+  },
+  {
+   "name": "Set 4 · Travel",
+   "words": [
+    [
+     "map",
+     "خريطة"
+    ],
+    [
+     "ticket office",
+     "شباك التذاكر"
+    ],
+    [
+     "taxi",
+     "تاكسي"
+    ],
+    [
+     "platform",
+     "رصيف (المحطة)"
+    ],
+    [
+     "arrive",
+     "يصل"
+    ],
+    [
+     "return ticket",
+     "تذكرة ذهاب وعودة"
+    ]
+   ]
+  },
+  {
+   "name": "Set 5 · Being polite",
+   "words": [
+    [
+     "Could you…?",
+     "هل يمكنك من فضلك…؟"
+    ],
+    [
+     "May I…?",
+     "هل تسمح لي أن…؟"
+    ],
+    [
+     "Excuse me",
+     "عفوًا / لو سمحت"
+    ],
+    [
+     "Of course",
+     "بالطبع"
+    ],
+    [
+     "No problem",
+     "لا مشكلة"
+    ],
+    [
+     "You're welcome",
+     "العفو"
+    ]
+   ]
+  }
+ ],
+ "sentences": [
+  [
+   "I have a headache.",
+   "عندي صداع."
+  ],
+  [
+   "My stomach hurts.",
+   "معدتي تؤلمني."
+  ],
+  [
+   "You should see a doctor.",
+   "يجب أن تذهب إلى الطبيب."
+  ],
+  [
+   "You shouldn't drink cold water.",
+   "لا يجب أن تشرب ماءً باردًا."
+  ],
+  [
+   "I'd like to make an appointment, please.",
+   "أود أن أحجز موعدًا من فضلك."
+  ],
+  [
+   "Could you speak more slowly, please?",
+   "هل يمكنك أن تتكلم ببطء أكثر من فضلك؟"
+  ],
+  [
+   "Excuse me, I'm lost. Could you help me?",
+   "لو سمحت، أنا تائه. هل يمكنك مساعدتي؟"
+  ],
+  [
+   "A return ticket to Aswan, please.",
+   "تذكرة ذهاب وعودة إلى أسوان من فضلك."
+  ],
+  [
+   "What time does the train arrive?",
+   "متى يصل القطار؟"
+  ],
+  [
+   "Thank you so much. — You're welcome!",
+   "شكرًا جزيلًا. — العفو!"
+  ]
+ ],
+ "grammar": {
+  "intro_en": "",
+  "intro_ar": "بعد should و could و may يأتي الفعل بدون to وبدون s: He should rest (وليس should to rest).",
+  "tables": [
+   {
+    "headers": [
+     "Advice",
+     "Instructions",
+     "Polite requests"
+    ],
+    "rows": [
+     [
+      "You should rest. You shouldn't smoke.",
+      "Take this medicine. Don't eat fast food.",
+      "Could you open the door, please? May I sit here?"
+     ]
+    ]
+   }
+  ],
+  "notes": []
+ },
+ "exercises": [
+  {
+   "title": "Exercise 1 · Complete with should or shouldn't.",
+   "instructions": "Complete with should or shouldn't.",
+   "items": [
+    "1) You have a fever. You ___ go to work.",
+    "2) He has a toothache. He ___ see a dentist.",
+    "3) You're tired. You ___ sleep early.",
+    "4) You have a cough. You ___ smoke.",
+    "5) She's lost. She ___ ask a police officer.",
+    "6) You ___ eat a lot of sugar."
+   ]
+  },
+  {
+   "title": "Exercise 2 · Make these polite.",
+   "instructions": "Make these polite.",
+   "items": [
+    "1) Open the window.",
+    "2) Give me the menu.",
+    "3) I want to sit here.",
+    "4) Repeat that."
+   ]
+  },
+  {
+   "title": "Exercise 3 · Put the conversation at the doctor's in order.",
+   "instructions": "Put the conversation at the doctor's in order.",
+   "items": [
+    "1) a) What's the matter?",
+    "2) b) Good morning, doctor.",
+    "3) c) I have a fever and a bad cough.",
+    "4) d) Take this medicine three times a day, and you should rest.",
+    "5) e) Thank you, doctor.",
+    "6) f) Good morning. Please sit down."
+   ]
+  },
+  {
+   "title": "Exercise 4 · Translate into English.",
+   "instructions": "Translate into English.",
+   "items": [
+    "1) عندي ألم في ظهري.",
+    "2) يجب أن تشرب الكثير من الماء.",
+    "3) لو سمحت، أين شباك التذاكر؟",
+    "4) هل يمكنك أن تتصل بطبيب؟"
+   ]
+  }
+ ],
+ "write_speak": "Write & Speak — FINAL PROJECT: record a 2-minute voice note about yourself — name, family, home, job, daily routine, last weekend and your plans. Use something from every week!",
+ "other": [
+  "Example: Hello! My name is … I'm … years old and I live in … I have … My flat is … Every day I … Last weekend I … Next month I'm going to … My English is better now and I'm going to continue!"
+ ]
+}

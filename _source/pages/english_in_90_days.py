@@ -19,17 +19,17 @@ CHECKS = {4: "Progress Check 1 · Weeks 1–4", 8: "Progress Check 2 · Weeks 5�
 def _weeks():
     out = ""
     for n, title, grammar in WEEKS:
-        out += f'<li class="wk"><span class="wn">Week {n}</span><div><h3>{title}</h3><p>Grammar: {grammar}</p></div></li>'
+        out += f'<li class="wk"><span class="wn">Week {n}</span><div><h3><a href="english-week-{n}.html">{title}</a></h3><p>Grammar: {grammar}</p></div></li>'
         if n in CHECKS:
-            out += f'<li class="chk">✓ {CHECKS[n]} — score 16/20 to move on</li>'
+            out += f'<li class="chk"><a href="english-progress-check-{n//4}.html">✓ {CHECKS[n]}</a> — score 16/20 to move on</li>'
     return out
 
-course = pagehead("Improve Your English · Free course", "English in 90 Days",
-    "A complete beginner course you can do at home: 12 weeks, 30 minutes a day. Words, sentences to memorise, grammar, exercises with answers and a daily listening plan — explained in English and Arabic.") + f'''
+course = pagehead("Free beginner course · 12 weeks · 30 minutes a day", "English Course: From Zero<span class='ar-title' lang='ar' dir='rtl'>طوّر الإنجليزي بتاعك من الصفر</span>",
+    "Start English from zero at home: 12 weeks, 30 minutes a day. Words, sentences to memorise, grammar, exercises with answers and a daily listening plan — explained in English and Arabic.") + f'''
 <section class="block"><div class="wrap split">
 <div>
 <ul class="stats dark"><li><b>360</b><span>words</span></li><li><b>120</b><span>key sentences</span></li><li><b>48</b><span>video lessons</span></li><li><b>60</b><span>exercises + answers</span></li></ul>
-<div class="ctas"><a class="btn" href="{PDF}" download>Download the course (PDF)</a><a class="btn ghost" href="#plan">See the 12-week plan</a></div>
+<div class="ctas"><a class="btn" href="english-week-1.html">Start Week 1</a><a class="btn ghost" href="{PDF}" download>Download the PDF</a></div>
 <p class="ar" dir="rtl" lang="ar">كورس إنجليزي للمبتدئين — ٣ شهور، ٣٠ دقيقة يوميًا. الكتاب فيه كل اللي محتاجه: الكلمات والجمل والقواعد والتمارين بالإجابات، وخطة استماع لكل يوم بالروابط.</p>
 </div>
 <div class="part">
@@ -72,7 +72,7 @@ course = pagehead("Improve Your English · Free course", "English in 90 Days",
 </ul>
 <p><b>The golden rule:</b> don't try to understand every word. Understand the idea, keep listening, and the rest comes with time.</p>
 </div></section>'''
-page("english-in-90-days.html", "English in 90 Days — Free Beginner English Course | Abdelkriem Academy",
+page("english-in-90-days.html", "English Course: From Zero — طوّر الإنجليزي بتاعك من الصفر | Abdelkriem Academy",
      "Free beginner English course: 12 weeks, 30 minutes a day, 360 words, 120 key sentences, grammar, exercises with answers and a daily listening plan in English and Arabic.",
      course, "improve-english.html")
 EXTRA_PAGES.append("english-in-90-days.html")

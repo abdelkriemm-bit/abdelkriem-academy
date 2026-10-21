@@ -1,0 +1,314 @@
+{
+ "week": 10,
+ "title": "What Happened?",
+ "grammar_title": "Past simple: regular (-ed) and irregular verbs · didn't · Did…?",
+ "plan": [
+  {
+   "day": "Day 1",
+   "learn": "Words: Regular verbs · Sentences 1–2",
+   "listen": "VOA Lesson 37: Let's Agree to Disagree",
+   "practise": "Exercise 1"
+  },
+  {
+   "day": "Day 2",
+   "learn": "Words: Irregular 1 · Sentences 3–4",
+   "listen": "VOA Lesson 38: She's My Best Friend!",
+   "practise": "Exercise 2"
+  },
+  {
+   "day": "Day 3",
+   "learn": "Words: Irregular 2 · Sentences 5–6",
+   "listen": "Easy Stories in English (Beginner): “The Pumpkin Jug”",
+   "practise": "Exercise 3"
+  },
+  {
+   "day": "Day 4",
+   "learn": "Words: Irregular 3 · Sentences 7–8",
+   "listen": "VOA Lesson 39: It's Unbelievable! + BBC Real Easy English: “Talking about mistakes” (video)",
+   "practise": "Exercise 4"
+  },
+  {
+   "day": "Day 5",
+   "learn": "Words: Telling a story · Sentences 9–10",
+   "listen": "VOA Lesson 40: The Woods Are Alive",
+   "practise": "Write & Speak"
+  },
+  {
+   "day": "Day 6",
+   "learn": "Review all 30 words + 10 sentences",
+   "listen": "Easy Stories in English (Beginner): “Think Fast!”",
+   "practise": "Redo mistakes"
+  },
+  {
+   "day": "Day 7",
+   "learn": "Free day ☺",
+   "listen": "Easy Stories in English (Beginner): “The Freezer Door”",
+   "practise": "Tick your tracker"
+  }
+ ],
+ "word_sets": [
+  {
+   "name": "Set 1 · Regular verbs",
+   "words": [
+    [
+     "walked",
+     "مشى"
+    ],
+    [
+     "worked",
+     "عمل"
+    ],
+    [
+     "watched",
+     "شاهد"
+    ],
+    [
+     "visited",
+     "زار"
+    ],
+    [
+     "called",
+     "اتصل"
+    ],
+    [
+     "stayed",
+     "بقي / أقام"
+    ]
+   ]
+  },
+  {
+   "name": "Set 2 · Irregular 1",
+   "words": [
+    [
+     "go → went",
+     "ذهب"
+    ],
+    [
+     "have → had",
+     "تناول / كان لديه"
+    ],
+    [
+     "eat → ate",
+     "أكل"
+    ],
+    [
+     "drink → drank",
+     "شرب"
+    ],
+    [
+     "see → saw",
+     "رأى"
+    ],
+    [
+     "do → did",
+     "فعل"
+    ]
+   ]
+  },
+  {
+   "name": "Set 3 · Irregular 2",
+   "words": [
+    [
+     "come → came",
+     "جاء"
+    ],
+    [
+     "get → got",
+     "حصل على / وصل"
+    ],
+    [
+     "buy → bought",
+     "اشترى"
+    ],
+    [
+     "make → made",
+     "صنع / عمل"
+    ],
+    [
+     "take → took",
+     "أخذ"
+    ],
+    [
+     "give → gave",
+     "أعطى"
+    ]
+   ]
+  },
+  {
+   "name": "Set 4 · Irregular 3",
+   "words": [
+    [
+     "say → said",
+     "قال"
+    ],
+    [
+     "tell → told",
+     "أخبر"
+    ],
+    [
+     "meet → met",
+     "قابل"
+    ],
+    [
+     "sleep → slept",
+     "نام"
+    ],
+    [
+     "leave → left",
+     "غادر"
+    ],
+    [
+     "find → found",
+     "وجد"
+    ]
+   ]
+  },
+  {
+   "name": "Set 5 · Telling a story",
+   "words": [
+    [
+     "first",
+     "أولًا"
+    ],
+    [
+     "then",
+     "ثم"
+    ],
+    [
+     "after that",
+     "بعد ذلك"
+    ],
+    [
+     "finally",
+     "أخيرًا"
+    ],
+    [
+     "before",
+     "قبل"
+    ],
+    [
+     "later",
+     "لاحقًا"
+    ]
+   ]
+  }
+ ],
+ "sentences": [
+  [
+   "I watched a film last night.",
+   "شاهدت فيلمًا ليلة أمس."
+  ],
+  [
+   "We went to Alexandria last summer.",
+   "ذهبنا إلى الإسكندرية الصيف الماضي."
+  ],
+  [
+   "I didn't sleep well.",
+   "لم أنم جيدًا."
+  ],
+  [
+   "What did you do at the weekend?",
+   "ماذا فعلت في عطلة نهاية الأسبوع؟"
+  ],
+  [
+   "Did you call your mother? — Yes, I did.",
+   "هل اتصلت بأمك؟ — نعم."
+  ],
+  [
+   "She bought a new phone yesterday.",
+   "اشترت هاتفًا جديدًا أمس."
+  ],
+  [
+   "I met an old friend in the street.",
+   "قابلت صديقًا قديمًا في الشارع."
+  ],
+  [
+   "First I had breakfast, then I left home.",
+   "أولًا تناولت الإفطار، ثم غادرت البيت."
+  ],
+  [
+   "He told me about his new job.",
+   "أخبرني عن وظيفته الجديدة."
+  ],
+  [
+   "I lost my keys, but I found them later.",
+   "أضعت مفاتيحي، لكني وجدتها لاحقًا."
+  ]
+ ],
+ "grammar": {
+  "intro_en": "",
+  "intro_ar": "بعد didn't و Did يرجع الفعل لأصله: I didn't go (وليس didn't went) · Did you see? (وليس Did you saw?).",
+  "tables": [
+   {
+    "headers": [
+     "Positive",
+     "Negative",
+     "Question"
+    ],
+    "rows": [
+     [
+      "I worked. She went.",
+      "I didn't work. She didn't go.",
+      "Did you work? Did she go?"
+     ]
+    ]
+   }
+  ],
+  "notes": [
+   "Regular: + ed (worked, stayed) · study → studied · stop → stopped. Irregular verbs: learn them by heart (see the word sets).",
+   "Say -ed as /t/ (walked), /d/ (stayed) or /ɪd/ after t or d (visited, wanted)."
+  ]
+ },
+ "exercises": [
+  {
+   "title": "Exercise 1 · Write the past form.",
+   "instructions": "Write the past form.",
+   "items": [
+    "1) go",
+    "2) eat",
+    "3) buy",
+    "4) watch",
+    "5) see",
+    "6) study",
+    "7) take",
+    "8) meet"
+   ]
+  },
+  {
+   "title": "Exercise 2 · Complete with the past simple.",
+   "instructions": "Complete with the past simple.",
+   "items": [
+    "1) Yesterday I ___ (visit) my uncle.",
+    "2) We ___ (eat) fish for lunch.",
+    "3) She ___ (not go) to work on Monday.",
+    "4) ___ you ___ (see) the match?",
+    "5) He ___ (buy) a car last year.",
+    "6) They ___ (leave) at ten."
+   ]
+  },
+  {
+   "title": "Exercise 3 · Correct the mistake.",
+   "instructions": "Correct the mistake.",
+   "items": [
+    "1) I didn't went to work.",
+    "2) Did you saw him?",
+    "3) She buyed a dress.",
+    "4) We goed to the park."
+   ]
+  },
+  {
+   "title": "Exercise 4 · Translate into English.",
+   "instructions": "Translate into English.",
+   "items": [
+    "1) ذهبت إلى السوق واشتريت بعض الفاكهة.",
+    "2) لم أشاهد التلفاز أمس.",
+    "3) في أي ساعة عدت إلى البيت؟",
+    "4) قابلت زميلي في المحطة."
+   ]
+  }
+ ],
+ "write_speak": "Write & Speak — “My last weekend”: write 8 sentences using first, then, after that and finally. Record yourself reading it.",
+ "other": [
+  "Example: Last Friday was a great day. First, I got up late and had a big breakfast. Then I went to the mosque. After that, I visited my parents and we had lunch together. In the afternoon I met my friends at a café. We drank tea and talked. Finally, I came back home at ten and slept early."
+ ]
+}

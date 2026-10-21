@@ -1,0 +1,45 @@
+{"week": 7, "title": "Work and Skills",
+ "grammar_title": "Grammar: can / can't · Wh- questions (where, when, why, how…)",
+ "plan": [
+  {"day":"Day 1","learn":"Words: Jobs 1 · Sentences 1–2","listen":"VOA Lesson 25: Watch Out!","practise":"Exercise 1"},
+  {"day":"Day 2","learn":"Words: Jobs 2 · Sentences 3–4","listen":"VOA Lesson 26: This Game Is Fun!","practise":"Exercise 2"},
+  {"day":"Day 3","learn":"Words: At work · Sentences 5–6","listen":"British Council: “Meeting a new team member” (listening)","practise":"Exercise 3"},
+  {"day":"Day 4","learn":"Words: Skills · Sentences 7–8","listen":"VOA Lesson 27: I Can't Come In + British Council: “A request from your boss” (listening)","practise":"Exercise 4"},
+  {"day":"Day 5","learn":"Words: More questions · Sentences 9–10","listen":"VOA Lesson 28: I Passed It!","practise":"Write & Speak"},
+  {"day":"Day 6","learn":"Review all 30 words + 10 sentences","listen":"British Council: “Job adverts” (reading)","practise":"Redo mistakes"},
+  {"day":"Day 7","learn":"Free day ☺","listen":"BBC Real Easy English: “Jobs” (video)","practise":"Tick your tracker"}
+ ],
+ "word_sets": [
+  {"name":"Set 1 · Jobs 1","words":[["doctor","طبيب"],["engineer","مهندس"],["accountant","محاسب"],["nurse","ممرض / ممرضة"],["driver","سائق"],["shop assistant","بائع"]]},
+  {"name":"Set 2 · Jobs 2","words":[["manager","مدير"],["worker","عامل"],["lawyer","محامٍ"],["chef","طبّاخ / شيف"],["police officer","ضابط شرطة"],["farmer","مزارع"]]},
+  {"name":"Set 3 · At work","words":[["company","شركة"],["job","وظيفة"],["salary","راتب / مرتب"],["boss","مدير / رئيس العمل"],["colleague","زميل عمل"],["meeting","اجتماع"]]},
+  {"name":"Set 4 · Skills","words":[["speak","يتحدث"],["write","يكتب"],["use a computer","يستخدم الكمبيوتر"],["fix","يُصلِح"],["sell","يبيع"],["teach","يُعلِّم"]]},
+  {"name":"Set 5 · More questions","words":[["when","متى"],["why","لماذا"],["which","أيّ"],["how much","بكم / كم (كمية)"],["how long","كم من الوقت"],["what time","في أي ساعة"]]}
+ ],
+ "sentences": [
+  ["What do you do? — I'm an accountant.","ماذا تعمل؟ — أنا محاسب."],
+  ["I work for a big company.","أعمل في شركة كبيرة."],
+  ["I can use a computer very well.","أستطيع استخدام الكمبيوتر جيدًا جدًا."],
+  ["I can't speak English well — yet!","لا أستطيع التحدث بالإنجليزية جيدًا — حتى الآن!"],
+  ["Can you help me, please?","هل يمكنك مساعدتي من فضلك؟"],
+  ["Where do you work?","أين تعمل؟"],
+  ["Why do you want this job?","لماذا تريد هذه الوظيفة؟"],
+  ["How long does it take to get to work?","كم من الوقت تستغرق للوصول إلى العمل؟"],
+  ["I have a meeting at ten.","لديّ اجتماع الساعة العاشرة."],
+  ["My colleagues are very friendly.","زملائي في العمل ودودون جدًا."]
+ ],
+ "grammar": {
+  "intro_en":"Question order: Wh-word + do/does + person + verb → Where do you work? What does she do?\nWith be: Wh-word + is/are + person → Where is your office?",
+  "intro_ar":"لا تقل Where you work? — السؤال في الإنجليزية يحتاج do أو does: Where do you work? · وبعد can يأتي الفعل بدون s: He can speak.",
+  "tables":[{"headers":["Positive","Negative","Question"],"rows":[["I / He / They can swim.","She can't drive.","Can you cook? — Yes, I can."]]}],
+  "notes":[]
+ },
+ "exercises": [
+  {"title":"Exercise 1 — Make sentences with can / can't / Can…? (✓ = can, ✗ = can't, ? = question).","instructions":"Make sentences with can / can't / Can…? (✓ = can, ✗ = can't, ? = question).","items":["1) she / speak French ✓","2) I / drive ✗","3) he / fix cars ✓","4) they / swim ✗","5) you / use a computer ?"]},
+  {"title":"Exercise 2 — Choose the question word.","instructions":"Choose the question word.","items":["1) ___ do you live? — In Giza.","2) ___ is your boss? — Mr Samir.","3) ___ do you start work? — At 8.","4) ___ do you study English? — Because I need it for my job.","5) ___ is the bus ticket? — Ten pounds.","6) ___ does the meeting take? — One hour."]},
+  {"title":"Exercise 3 — Correct the mistake.","instructions":"Correct the mistake.","items":["1) Where you work?","2) He can speaks English.","3) What does she does?","4) I am work in a bank."]},
+  {"title":"Exercise 4 — Translate into English.","instructions":"Translate into English.","items":["1) أخي مهندس في شركة كبيرة.","2) هل تستطيع أن تصلح هذا؟","3) متى يبدأ الاجتماع؟","4) لا أستطيع قيادة السيارة."]}
+ ],
+ "write_speak":"Write & Speak — Write 6 sentences about your job (or your dream job): what you do, where, and what you can / can't do.\nExample: I am a sales manager. I work for a phone company in Maadi. I start work at nine. I can use a computer and I can speak to customers. I can't speak English very well yet. My colleagues are friendly and helpful.",
+ "other": []
+}

@@ -1,0 +1,45 @@
+{"week": 5, "title": "Free Time and Habits",
+ "grammar_title": "Grammar: Present simple: he / she + s · does / doesn't · always, usually, never…",
+ "plan": [
+  {"day":"Day 1","learn":"Words: How often? · Sentences 1–2","listen":"VOA Lesson 17: Are You Free on Friday?","practise":"Exercise 1"},
+  {"day":"Day 2","learn":"Words: Hobbies · Sentences 3–4","listen":"VOA Lesson 18: She Always Does That","practise":"Exercise 2"},
+  {"day":"Day 3","learn":"Words: Jobs at home · Sentences 5–6","listen":"ELLLO Sound Grammar: “Third Person Singular”","practise":"Exercise 3"},
+  {"day":"Day 4","learn":"Words: Likes · Sentences 7–8","listen":"VOA Lesson 19: When Do I Start? + ELLLO: “Do you play sports?”","practise":"Exercise 4"},
+  {"day":"Day 5","learn":"Words: Time words · Sentences 9–10","listen":"VOA Lesson 20: What Can You Do?","practise":"Write & Speak"},
+  {"day":"Day 6","learn":"Review all 30 words + 10 sentences","listen":"ELLLO: “Where do you go on the weekend?”","practise":"Redo mistakes"},
+  {"day":"Day 7","learn":"Free day ☺","listen":"Easy Stories in English (Beginner): “How the Moon Became Beautiful”","practise":"Tick your tracker"}
+ ],
+ "word_sets": [
+  {"name":"Set 1 · How often?","words":[["always","دائمًا"],["usually","عادةً"],["often","غالبًا"],["sometimes","أحيانًا"],["rarely","نادرًا"],["never","أبدًا"]]},
+  {"name":"Set 2 · Hobbies","words":[["play football","يلعب كرة القدم"],["swim","يسبح"],["walk","يمشي"],["draw","يرسم"],["listen to music","يستمع إلى الموسيقى"],["visit friends","يزور الأصدقاء"]]},
+  {"name":"Set 3 · Jobs at home","words":[["clean","ينظّف"],["wash","يغسل"],["go shopping","يتسوّق"],["study","يذاكر / يدرس"],["drive","يقود (سيارة)"],["help","يساعد"]]},
+  {"name":"Set 4 · Likes","words":[["like","يحب"],["love","يحب جدًا"],["hate","يكره"],["enjoy","يستمتع بـ"],["prefer","يفضّل"],["free time","وقت الفراغ"]]},
+  {"name":"Set 5 · Time words","words":[["every day","كل يوم"],["once a week","مرة في الأسبوع"],["twice a week","مرتين في الأسبوع"],["weekend","عطلة نهاية الأسبوع"],["morning","الصباح"],["afternoon","بعد الظهر"]]}
+ ],
+ "sentences": [
+  ["My brother plays football every Friday.","أخي يلعب كرة القدم كل جمعة."],
+  ["She works in a bank.","هي تعمل في بنك."],
+  ["He doesn't drink coffee.","هو لا يشرب القهوة."],
+  ["Does she speak English? — Yes, she does.","هل تتحدث الإنجليزية؟ — نعم."],
+  ["I usually walk in the evening.","عادةً أمشي في المساء."],
+  ["I sometimes visit my friends at the weekend.","أحيانًا أزور أصدقائي في عطلة نهاية الأسبوع."],
+  ["What do you do in your free time?","ماذا تفعل في وقت فراغك؟"],
+  ["I like listening to music.","أحب الاستماع إلى الموسيقى."],
+  ["How often do you go to the gym?","كم مرة تذهب إلى الجيم؟"],
+  ["I go shopping once a week.","أتسوّق مرة في الأسبوع."]
+ ],
+ "grammar": {
+  "intro_en":"Add -es after ch, sh, s, x, o (watches, washes, goes, does). y → ies (study → studies).\nFrequency words go before the main verb (I usually walk) but after am / is / are (He is never late).",
+  "intro_ar":"بعد doesn't أو Does يرجع الفعل لأصله بدون s: He doesn't work (وليس doesn't works).",
+  "tables":[{"headers":["he / she / it","Negative","Question"],"rows":[["He works. She watches. He goes. She studies.","He doesn't work.","Does he work?"]]}],
+  "notes":[]
+ },
+ "exercises": [
+  {"title":"Exercise 1 — Write the correct form of the verb.","instructions":"Write the correct form of the verb.","items":["1) She (work) ___ in a hospital.","2) My father (watch) ___ the news every night.","3) He (go) ___ to the gym twice a week.","4) Ali (study) ___ English every day.","5) She (not like) ___ coffee.","6) ___ your brother (drive) ___ ?"]},
+  {"title":"Exercise 2 — Put the word in brackets in the right place.","instructions":"Put the word in brackets in the right place.","items":["1) I walk in the morning. (usually)","2) He is late. (never)","3) We visit our grandmother. (often)","4) She drinks tea. (always)"]},
+  {"title":"Exercise 3 — Correct the mistake.","instructions":"Correct the mistake.","items":["1) He work in an office.","2) She don't like football.","3) Does he plays tennis?","4) My mother cook every day."]},
+  {"title":"Exercise 4 — Translate into English.","instructions":"Translate into English.","items":["1) أختي تذهب إلى العمل بالمترو.","2) هو لا يدخّن أبدًا.","3) هل يطبخ زوجك؟","4) أحب السباحة في الصيف."]}
+ ],
+ "write_speak":"Write & Speak — Write 6 sentences about the day of a friend or family member (use he / she).\nExample: My friend Tamer is an engineer. He gets up at six. He always drinks coffee in the morning. He drives to work. He doesn't work on Friday. He plays football twice a week.",
+ "other": []
+}

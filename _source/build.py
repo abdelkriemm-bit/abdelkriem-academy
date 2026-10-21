@@ -68,7 +68,7 @@ def pagehead(kicker, title, sub):
 
 # ---------- HOME ----------
 COURSES = [
- ("English in 90 Days","Beginner English in 12 weeks, 30 minutes a day — words, sentences, grammar and exercises with answers.","english-in-90-days.html","Beginners"),
+ ("English Course: From Zero","Beginner English in 12 weeks, 30 minutes a day, with Arabic explanations — words, sentences, grammar and exercises with answers.","english-in-90-days.html","طوّر الإنجليزي من الصفر"),
  ("تانية بكالوريا English","The whole Ministry curriculum split into 7 skills: grammar, vocabulary, reading, listening, speaking, writing and literature.","baccalaureate.html","Egyptian Baccalaureate"),
  ("Checkpoint 8 English","Fiction and non-fiction reading and writing, exam skills and practice papers with model answers.","checkpoint-8.html","Cambridge 0861"),
  ("Checkpoint 6 English","Reading and writing for fiction and non-fiction, exam skills and practice papers.","checkpoint-6.html","Cambridge Primary"),
@@ -112,7 +112,7 @@ home = f'''
 <p>A British-curriculum teacher in Cairo, teaching Cambridge Checkpoint, IGCSE and Oxford courses in schools and learning centres.</p>
 <ul class="ticks"><li>CELTA (Cambridge)</li><li>Professional Educator Diploma — The American University in Cairo</li><li>Professional Educational Diploma — Ain Shams University</li><li>TEFL Diploma</li></ul>
 <a class="btn ghost" href="about.html">More about the academy</a></div>
-<img class="banner" src="images/mohamed-abdelkriem-banner.jpg" alt="Mohamed Abdelkriem — No English exam left standing, my students on a mission to conquer all." loading="lazy">
+<img class="banner" onerror="this.remove()" src="images/mohamed-abdelkriem-banner.jpg" alt="Mohamed Abdelkriem — No English exam left standing, my students on a mission to conquer all." loading="lazy">
 </div></section>
 '''
 page("index.html","Abdelkriem Academy — Free Educational Resources | Checkpoint, IGCSE, Baccalaureate, Quran",
@@ -194,7 +194,7 @@ page("quran.html","Quran by Levels — Abdelkriem Academy","Learn Quran step by 
 
 # ---------- IMPROVE ENGLISH ----------
 ie = pagehead("Section 4","Improve Your English","For students, parents and anyone who wants better everyday English — no exam needed.") + f'''
-<section class="block"><div class="wrap"><a class="feature" href="english-in-90-days.html"><span class="tag">Free beginner course</span><h2>English in 90 Days</h2><p>12 weeks · 30 minutes a day · 360 words · 120 key sentences · 48 video lessons · 60 exercises with answers. Explained in English and Arabic.</p><span class="btn">Start the course</span></a></div></section>
+<section class="block"><div class="wrap"><a class="feature" href="english-in-90-days.html"><span class="tag">Free beginner course</span><h2>English Course: From Zero<span class="ar-title" lang="ar" dir="rtl">طوّر الإنجليزي بتاعك من الصفر</span></h2><p>12 weeks · 30 minutes a day · 360 words · 120 key sentences · 48 video lessons · 60 exercises with answers. Explained in English and Arabic.</p><span class="btn">Start the course</span></a></div></section>
 <section class="block"><div class="wrap grid4">
 {card("Grammar","Tenses, sentence types and the rules that actually matter.")}
 {card("Vocabulary","Useful words by topic, with examples you can reuse.")}

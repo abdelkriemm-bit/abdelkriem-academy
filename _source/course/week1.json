@@ -1,0 +1,54 @@
+{
+  "week": 1,
+  "title": "Hello! This Is Me",
+  "grammar_title": "Grammar: Verb to be (am / is / are)",
+  "plan": [
+    {"day": "Day 1", "learn": "Words: Greetings · Sentences 1–2", "listen": "VOA Lesson 1: Welcome!", "practise": "Exercise 1"},
+    {"day": "Day 2", "learn": "Words: People · Sentences 3–4", "listen": "VOA Lesson 2: Hello, I'm Anna!", "practise": "Exercise 2"},
+    {"day": "Day 3", "learn": "Words: Personal information · Sentences 5–6", "listen": "ELLLO: “What is your name?”", "practise": "Exercise 3"},
+    {"day": "Day 4", "learn": "Words: How I feel · Sentences 7–8", "listen": "VOA Lesson 3: I'm Here! + ELLLO: “Where are you from?”", "practise": "Exercise 4"},
+    {"day": "Day 5", "learn": "Words: Question words · Sentences 9–10", "listen": "VOA Lesson 4: What Is It?", "practise": "Write & Speak"},
+    {"day": "Day 6", "learn": "Review all 30 words + 10 sentences", "listen": "British Council: “Meeting new people” (speaking video)", "practise": "Redo mistakes"},
+    {"day": "Day 7", "learn": "Free day ☺", "listen": "ELLLO: “Ten Things about Me!”", "practise": "Tick your tracker"}
+  ],
+  "word_sets": [
+    {"name": "Set 1 · Greetings", "words": [["hello", "مرحبًا"], ["goodbye", "مع السلامة"], ["please", "من فضلك"], ["thank you", "شكرًا لك"], ["sorry", "آسف"], ["welcome", "أهلًا بك"]]},
+    {"name": "Set 2 · People", "words": [["name", "اسم"], ["man", "رجل"], ["woman", "امرأة"], ["friend", "صديق"], ["teacher", "مُعلِّم"], ["student", "طالب"]]},
+    {"name": "Set 3 · Personal information", "words": [["age", "العُمر"], ["address", "العنوان"], ["phone number", "رقم الهاتف"], ["email", "البريد الإلكتروني"], ["country", "بلد / دولة"], ["city", "مدينة"]]},
+    {"name": "Set 4 · How I feel", "words": [["happy", "سعيد"], ["tired", "مُتعَب"], ["fine", "بخير"], ["busy", "مشغول"], ["hungry", "جائع"], ["new", "جديد"]]},
+    {"name": "Set 5 · Question words", "words": [["what", "ماذا / ما"], ["where", "أين"], ["who", "مَن"], ["how", "كيف"], ["how old", "كم العُمر"], ["from", "مِن (مكان)"]]}
+  ],
+  "sentences": [
+    ["Hello, my name is Ahmed.", "مرحبًا، اسمي أحمد."],
+    ["Nice to meet you.", "تشرفت بمعرفتك."],
+    ["How are you? — I'm fine, thank you.", "كيف حالك؟ — أنا بخير، شكرًا."],
+    ["Where are you from? — I'm from Egypt.", "من أين أنت؟ — أنا من مصر."],
+    ["I live in Cairo.", "أعيش في القاهرة."],
+    ["I am 30 years old.", "عمري ٣٠ سنة."],
+    ["What's your phone number?", "ما رقم هاتفك؟"],
+    ["Sorry, I don't understand.", "آسف، لا أفهم."],
+    ["Can you say that again, please?", "هل يمكنك أن تقولها مرة أخرى من فضلك؟"],
+    ["See you tomorrow!", "أراك غدًا!"]
+  ],
+  "grammar": {
+    "intro_en": "",
+    "intro_ar": "في العربية نقول «أنا سعيد» بدون فعل، لكن في الإنجليزية لا بد من am / is / are: نقول I am happy وليس I happy.",
+    "tables": [
+      {"headers": ["Positive", "Short form", "Negative", "Question"],
+       "rows": [
+         ["I am", "I'm", "I'm not", "Am I…?"],
+         ["You / We / They are", "you're / we're / they're", "aren't", "Are you…?"],
+         ["He / She / It is", "he's / she's / it's", "isn't", "Is she…?"]
+       ]}
+    ],
+    "notes": []
+  },
+  "exercises": [
+    {"title": "Exercise 1 — Complete with am, is or are.", "instructions": "Complete with am, is or are.", "items": ["1. I ___ a student.", "2. She ___ my teacher.", "3. They ___ from Alexandria.", "4. We ___ tired.", "5. My name ___ Omar.", "6. You ___ my friend."]},
+    {"title": "Exercise 2 — Correct the mistake in each sentence.", "instructions": "Correct the mistake in each sentence.", "items": ["1. I from Egypt.", "2. She are happy.", "3. He is 25 years.", "4. What your name?", "5. They is busy.", "6. I am fine, thanks you."]},
+    {"title": "Exercise 3 — Write the short form.", "instructions": "Write the short form.", "items": ["1. I am", "2. she is", "3. they are", "4. we are not", "5. he is not", "6. it is"]},
+    {"title": "Exercise 4 — Translate into English.", "instructions": "Translate into English.", "items": ["1. أنا مشغول اليوم.", "2. من أين صديقك؟", "3. هي ليست جائعة.", "4. ما عنوانك؟"]}
+  ],
+  "write_speak": "Write & Speak — Write 5 sentences about you: your name, age, country, city and job. Read them aloud 3 times.\nExample: My name is Karim. I am 28 years old. I am from Egypt. I live in Giza. I am an accountant.",
+  "other": []
+}

@@ -1,0 +1,45 @@
+{"week": 8, "title": "Right Now: Weather and Clothes",
+ "grammar_title": "Grammar: Present continuous (am / is / are + -ing)",
+ "plan": [
+  {"day":"Day 1","learn":"Words: Weather · Sentences 1–2","listen":"VOA Lesson 29: A Long Time Ago","practise":"Exercise 1"},
+  {"day":"Day 2","learn":"Words: Seasons · Sentences 3–4","listen":"VOA Lesson 30: Rolling on the River","practise":"Exercise 2"},
+  {"day":"Day 3","learn":"Words: Clothes · Sentences 5–6","listen":"British Council: “Shopping for clothes” (listening)","practise":"Exercise 3"},
+  {"day":"Day 4","learn":"Words: Colours · Sentences 7–8","listen":"VOA Lesson 31: Take Me Out to the Ball Game + British Council: “A voicemail message” (listening)","practise":"Exercise 4"},
+  {"day":"Day 5","learn":"Words: Now words · Sentences 9–10","listen":"VOA Lesson 32: Welcome to the Treehouse!","practise":"Write & Speak"},
+  {"day":"Day 6","learn":"Review all 30 words + 10 sentences","listen":"British Council: “Checking understanding” (speaking video)","practise":"Redo mistakes"},
+  {"day":"Day 7","learn":"Free day ☺","listen":"BBC Real Easy English: “Talking about autumn” (video)","practise":"Tick your tracker"}
+ ],
+ "word_sets": [
+  {"name":"Set 1 · Weather","words":[["hot","حار"],["cold","بارد"],["warm","دافئ"],["sunny","مشمس"],["windy","فيه رياح"],["raining","تُمطر"]]},
+  {"name":"Set 2 · Seasons","words":[["summer","الصيف"],["winter","الشتاء"],["spring","الربيع"],["autumn","الخريف"],["sky","السماء"],["cloud","سحابة"]]},
+  {"name":"Set 3 · Clothes","words":[["shirt","قميص"],["trousers","بنطلون"],["dress","فستان"],["shoes","حذاء / جزمة"],["jacket","جاكيت"],["scarf","كوفية / وشاح"]]},
+  {"name":"Set 4 · Colours","words":[["black","أسود"],["white","أبيض"],["red","أحمر"],["blue","أزرق"],["green","أخضر"],["brown","بنّي"]]},
+  {"name":"Set 5 · Now words","words":[["now","الآن"],["right now","في هذه اللحظة"],["at the moment","حاليًا"],["today","اليوم"],["wear","يرتدي"],["wait","ينتظر"]]}
+ ],
+ "sentences": [
+  ["What are you doing? — I'm studying English.","ماذا تفعل؟ — أنا أذاكر الإنجليزية."],
+  ["It's raining today.","إنها تمطر اليوم."],
+  ["It's very hot in summer in Egypt.","الجو حار جدًا في الصيف في مصر."],
+  ["I'm waiting for the bus.","أنا أنتظر الحافلة."],
+  ["She's wearing a blue dress.","إنها ترتدي فستانًا أزرق."],
+  ["He isn't working today.","هو لا يعمل اليوم."],
+  ["Are you listening to me?","هل تستمع إليّ؟"],
+  ["What's the weather like?","كيف الجو؟"],
+  ["I'm looking for a black jacket.","أبحث عن جاكيت أسود."],
+  ["Wait a minute, I'm coming!","انتظر دقيقة، أنا قادم!"]
+ ],
+ "grammar": {
+  "intro_en":"Spelling: make → making · sit → sitting · study → studying\nHabit vs now: I usually wear a suit, but today I'm wearing jeans.",
+  "intro_ar":"العربية تستخدم نفس الفعل للعادة وللآن، أما الإنجليزية فتستخدم am / is / are + ing لما يحدث الآن فقط.",
+  "tables":[{"headers":["Positive","Negative","Question"],"rows":[["I am working. She is cooking. They are playing.","He isn't working.","Are you listening?"]]}],
+  "notes":[]
+ },
+ "exercises": [
+  {"title":"Exercise 1 — Use the present continuous.","instructions":"Use the present continuous.","items":["1) She ___ (cook) dinner now.","2) I ___ (read) a book at the moment.","3) They ___ (play) football right now.","4) We ___ (not watch) TV.","5) ___ you ___ (wait) for me?","6) It ___ (rain)."]},
+  {"title":"Exercise 2 — Present simple or present continuous?","instructions":"Present simple or present continuous?","items":["1) I usually (drink) ___ tea, but today I (drink) ___ coffee.","2) Listen! The baby (cry) ___.","3) He (go) ___ to work every day.","4) Look! She (wear) ___ a red scarf."]},
+  {"title":"Exercise 3 — Correct the mistake.","instructions":"Correct the mistake.","items":["1) I am work now.","2) She wearing a hat.","3) Are you understand?","4) It raining."]},
+  {"title":"Exercise 4 — Translate into English.","instructions":"Translate into English.","items":["1) ماذا ترتدي اليوم؟","2) أنا أطبخ الآن.","3) هم لا ينامون؛ إنهم يشاهدون التلفاز.","4) الجو بارد في الشتاء."]}
+ ],
+ "write_speak":"Write & Speak — Look out of your window or around a café. Write 6 sentences about what is happening now, and what the weather is like.\nExample: It's sunny and warm today. A man is selling fruit in the street. Two boys are playing football. A woman is waiting for the bus. She is wearing a green scarf. I am drinking tea and writing this.",
+ "other": []
+}
