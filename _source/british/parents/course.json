@@ -1,0 +1,30 @@
+{
+ "hub": null,
+ "back": "index.html#parents",
+ "active": "index.html",
+ "rtl": true,
+ "short": "دليل أولياء الأمور",
+ "kicker": "For parents",
+ "title": "دليل أولياء الأمور",
+ "summary": "",
+ "labels": {
+  "prev": "→ اللي فات",
+  "next": "اللي بعده ←",
+  "back": "→ رجوع لـ",
+  "done": "رجوع لـ",
+  "toc": "كل مقالات أولياء الأمور",
+  "start": "ابدأ",
+  "crumb": "<a href=\"index.html\">Home</a> › "
+ },
+ "sections": [
+  {
+   "title": "دليل أولياء الأمور",
+   "pages": [
+    "parents-choosing-a-school-system",
+    "parents-preparing-for-checkpoint",
+    "parents-the-new-baccalaureate",
+    "parents-universities-and-careers"
+   ]
+  }
+ ]
+}

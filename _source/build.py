@@ -69,19 +69,19 @@ def pagehead(kicker, title, sub):
 # ---------- HOME ----------
 COURSES = [
  ("English Course: From Zero","Beginner English in 12 weeks, 30 minutes a day, with Arabic explanations — words, sentences, grammar and exercises with answers.","english-in-90-days.html","طوّر الإنجليزي من الصفر"),
- ("تانية بكالوريا English","The whole Ministry curriculum split into 7 skills: grammar, vocabulary, reading, listening, speaking, writing and literature.","baccalaureate.html","Egyptian Baccalaureate"),
- ("Checkpoint 8 English","Fiction and non-fiction reading and writing, exam skills and practice papers with model answers.","checkpoint-8.html","Cambridge 0861"),
- ("Checkpoint 6 English","Reading and writing for fiction and non-fiction, exam skills and practice papers.","checkpoint-6.html","Cambridge Primary"),
- ("IGCSE English 0510","Reading skills, reading and writing, and listening for Year 9.","year-9-0510.html","Cambridge IGCSE"),
- ("Oxford International GCSE","Reading, writing, speaking and listening for Year 10.","year-10-oxford.html","OxfordAQA 9280"),
+ ("تانية بكالوريا English","92 lessons covering the whole Ministry curriculum, explained in simple English and Arabic: grammar, vocabulary, reading, listening, speaking, writing and The Lost World chapter by chapter.","baccalaureate.html","Egyptian Baccalaureate"),
+ ("Checkpoint 8 English","48 lessons: every grammar, punctuation and reading topic, plus a writing pack for every fiction and non-fiction genre with strong 350+ word samples.","checkpoint-8.html","Cambridge 0861"),
+ ("Checkpoint 6 English","43 lessons for Year 6: grammar, punctuation and reading skills, and a writing pack for every fiction and non-fiction genre with model samples.","checkpoint-6.html","Cambridge Primary 0058"),
+ ("IGCSE English 0510","The complete course: the exam explained, Exercises 1-6 step by step, a pack for every writing genre, listening and speaking, with full-mark models.","year-9-0510.html","Cambridge IGCSE"),
+ ("Oxford International GCSE","The complete 9280 course: reading question types, every writing task from the picture to the article, listening and speaking with model answers.","year-10-oxford.html","OxfordAQA 9280"),
  ("Quran: Reading, Tajweed &amp; Memorisation","A complete free Quran course for children and parents: learning to read, all the tajweed rules, and a daily plan to memorise the whole Quran.","quran.html","القرآن الكريم من الألف للياء"),
  ("English: From Zero to Pro","A complete free English course in 5 levels, from your first word to fluent English, with Arabic explanations.","improve-english.html","إنجليزي من الصفر للاحتراف"),
 ]
 PARENTS = [
- ("Choosing a school system","IGCSE, American, National or the new Baccalaureate — what each one means for your child."),
- ("Preparing for Checkpoint","What the Cambridge Checkpoint exams test and how to support your child at home."),
- ("The new Baccalaureate","How English is taught and assessed in تانية بكالوريا, explained simply."),
- ("Universities and careers","Fees, entry requirements and choosing a major after school."),
+ ("Choosing a school system","IGCSE, American, National or the new Baccalaureate — what each one means for your child.","parents-choosing-a-school-system.html"),
+ ("Preparing for Checkpoint","What the Cambridge Checkpoint exams test and how to support your child at home.","parents-preparing-for-checkpoint.html"),
+ ("The new Baccalaureate","How English is taught and assessed in تانية بكالوريا, explained simply.","parents-the-new-baccalaureate.html"),
+ ("Universities and careers","Entry requirements, equivalency rules and choosing a major after school.","parents-universities-and-careers.html"),
 ]
 home = f'''
 <section class="hero"><div class="wrap hgrid">
@@ -104,7 +104,7 @@ home = f'''
 <section id="parents" class="block alt"><div class="wrap">
 <p class="kicker">For parents</p><h2>Know exactly what your child needs</h2>
 <p class="sub">Short, honest guidance in Egyptian Arabic — no jargon.</p>
-<div class="grid4">{"".join(card(t,d,None,None) for t,d in PARENTS)}</div>
+<div class="grid4">{"".join(card(t,d,h if os.path.exists(os.path.join(os.path.dirname(os.path.abspath(__file__)),"british","parents",h[:-5]+".json")) else None,"دليل بالعربي") for t,d,h in PARENTS)}</div>
 </div></section>
 
 <section class="block"><div class="wrap split">
@@ -121,10 +121,10 @@ page("index.html","Abdelkriem Academy — Free Educational Resources | Checkpoin
 # ---------- BRITISH HUB ----------
 brit = pagehead("Section 1","British &amp; IGCSE English","Cambridge and Oxford English, organised by year. Pick your level to see its resources.") + f'''
 <section class="block"><div class="wrap grid4">
-{card("Checkpoint 6","Cambridge Primary Checkpoint English — Year 6.","checkpoint-6.html","Year 6")}
-{card("Checkpoint 8","Cambridge Lower Secondary English 0861 — Year 8.","checkpoint-8.html","Year 8")}
-{card("IGCSE 0510","Cambridge IGCSE English as a Second Language — Year 9.","year-9-0510.html","Year 9")}
-{card("Oxford International GCSE","OxfordAQA English as a Second Language 9280 — Year 10.","year-10-oxford.html","Year 10")}
+{card("Checkpoint 6","Cambridge Primary Checkpoint English (0058) — the complete Year 6 course, 43 lessons.","checkpoint-6.html","Year 6")}
+{card("Checkpoint 8","Cambridge Lower Secondary English 0861 — the complete Year 8 course, 48 lessons.","checkpoint-8.html","Year 8")}
+{card("IGCSE 0510","Cambridge IGCSE English as a Second Language — the complete course, 15 lessons.","year-9-0510.html","Year 9")}
+{card("Oxford International GCSE","OxfordAQA English as a Second Language 9280 — the complete course, 18 lessons.","year-10-oxford.html","Year 10")}
 </div></section>
 <section class="block alt"><div class="wrap split"><div><h2>Writing skills</h2><p>Step-by-step lessons for every text type: persuasive writing, articles, reports, biographies and more.</p></div>{yt(PL["writing"],"Writing skills playlist")}</div></section>'''
 page("british.html","British & IGCSE English — Abdelkriem Academy","Free resources for Cambridge Checkpoint 6 & 8, IGCSE 0510 and Oxford International GCSE English.", brit)

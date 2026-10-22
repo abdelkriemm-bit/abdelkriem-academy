@@ -5,7 +5,7 @@
 import json as _bj, os as _bo, re as _bre, html as _bh
 
 _BR_ROOT = _bo.path.join(_bo.path.dirname(PAGES_DIR), "british")
-_BR_COURSES = [c for c in _bo.environ.get("BRITISH_COURSES", "oxford,0510,cp8,cp6,bac").split(",") if c]
+_BR_COURSES = [c for c in _bo.environ.get("BRITISH_COURSES", "oxford,0510,cp8,cp6,bac,parents").split(",") if c]
 
 _BR_CSS = """<style>
 .bc{max-width:860px;margin:0 auto}
@@ -73,6 +73,7 @@ _BR_CSS = """<style>
 def _bE(s):
     s = _bh.escape(str(s))
     s = _bre.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", s)
+    s = _bre.sub(r"(https?://[^\s<]+[^\s<.,)])", r'<a href="\1" target="_blank" rel="noopener nofollow" dir="ltr">\1</a>', s)
     return s
 
 def _bAr(s):
