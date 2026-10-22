@@ -88,7 +88,7 @@ home = f'''
 <div class="htext">
 <p class="kicker">Abdelkriem Academy · Educate Me Up</p>
 <h1>Free educational resources that get students <em>exam-ready.</em></h1>
-<p class="lead">Free courses, notes, practice and model answers for students and parents: Cambridge and Oxford English, تانية بكالوريا, Quran by levels and everyday English — prepared by Mohamed Abdelkriem, a British-curriculum teacher with 11 years in the classroom.</p>
+<p class="lead">Free courses, notes, practice and model answers for students and parents: Cambridge and Oxford English, تانية بكالوريا, a complete Quran course (reading, tajweed and memorisation) and English from zero to pro — prepared by Mohamed Abdelkriem, a British-curriculum teacher with 11 years in the classroom.</p>
 <div class="ctas"><a class="btn" href="#courses">Browse the courses</a><a class="btn ghost" href="#parents">For parents</a></div>
 <ul class="stats"><li><b>11</b><span>years teaching</span></li><li><b>8</b><span>free courses</span></li><li><b>100%</b><span>free to use</span></li></ul>
 </div>
@@ -116,7 +116,7 @@ home = f'''
 </div></section>
 '''
 page("index.html","Abdelkriem Academy — Free Educational Resources | Checkpoint, IGCSE, Baccalaureate, Quran",
-     "Free educational resources by Mohamed Abdelkriem: notes, practice and video lessons for Cambridge Checkpoint 6 & 8, IGCSE 0510, Oxford GCSE, تانية بكالوريا, Quran by levels and general English.", home)
+     "Free educational resources by Mohamed Abdelkriem: notes, practice and video lessons for Cambridge Checkpoint 6 & 8, IGCSE 0510, Oxford GCSE, تانية بكالوريا, a complete Quran course and English from zero to pro.", home)
 
 # ---------- BRITISH HUB ----------
 brit = pagehead("Section 1","British &amp; IGCSE English","Cambridge and Oxford English, organised by year. Pick your level to see its resources.") + f'''
@@ -239,6 +239,7 @@ terms = pagehead("Legal","Terms of Use","Last updated: October 2026") + '''
 <p>All notes, worksheets and model answers on Abdelkriem Academy are free for personal study and classroom use. Please do not resell them or republish them as your own.</p>
 <p>Resources are provided for learning. We work hard to keep them accurate, but always check official syllabus documents from your exam board.</p>
 <p>Links to external websites are provided for convenience; we are not responsible for their content.</p>
+<h2>Independence</h2><p>Abdelkriem Academy is an independent educational website. It is not affiliated with, endorsed by or connected to Cambridge University Press &amp; Assessment, OxfordAQA, Pearson, the International Baccalaureate or the Egyptian Ministry of Education. Exam names and codes are used only to describe what each resource helps students prepare for. All practice texts, questions and model answers are original unless stated otherwise.</p>
 </div></section>'''
 page("terms.html","Terms of Use — Abdelkriem Academy","Terms of use for Abdelkriem Academy.", terms, "about.html")
 

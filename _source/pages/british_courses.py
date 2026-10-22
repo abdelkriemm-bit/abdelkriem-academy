@@ -8,7 +8,8 @@ _BR_ROOT = _bo.path.join(_bo.path.dirname(PAGES_DIR), "british")
 _BR_COURSES = [c for c in _bo.environ.get("BRITISH_COURSES", "oxford,0510,cp8,cp6,bac,parents").split(",") if c]
 
 _BR_CSS = """<style>
-.bc{max-width:860px;margin:0 auto}
+.bc{max-width:860px;margin:0 auto;overflow-wrap:break-word}
+.bc li,.bc p,.bc td,.bc th,.bc summary{overflow-wrap:anywhere}
 .bc h2{margin:2.2rem 0 .7rem;font-size:1.45rem}
 .bc p{line-height:1.7}
 .bc ul,.bc ol{line-height:1.7;padding-left:1.4rem}
@@ -59,7 +60,7 @@ _BR_CSS = """<style>
 .blist a{display:block;height:100%;border:1px solid #d9d4c7;border-radius:12px;padding:.9rem 1rem;text-decoration:none;background:#fff}
 .blist a b{display:block;margin-bottom:.25rem}
 .blist a span{font-size:.9rem;opacity:.8;line-height:1.5}
-.bc[dir=rtl] ul,.bc[dir=rtl] ol{padding-left:0;padding-right:1.4rem}
+.bc[dir=rtl] ul,.bc[dir=rtl] ol{padding-left:1.3rem;padding-right:1.4rem}
 .bc[dir=rtl]{font-family:Cairo,Inter,sans-serif}
 .bc[dir=rtl] .bx.ar{border-right:0;border-inline-start:5px solid #c49a3a}
 .bc .exs{list-style:none;padding:0!important;margin:1rem 0}

@@ -21,7 +21,8 @@
 <button class="menu" aria-label="Menu" onclick="document.body.classList.toggle('nav-open')">☰</button>
 <nav dir="ltr"><a href="index.html">Home</a><a href="british.html" class=on>British & IGCSE</a><a href="baccalaureate.html">تانية بكالوريا English</a><a href="quran.html">Quran · حفظ القرآن</a><a href="improve-english.html">English · من الصفر للاحتراف</a><a href="about.html">About</a></nav></div></header>
 <main><style>
-.bc{max-width:860px;margin:0 auto}
+.bc{max-width:860px;margin:0 auto;overflow-wrap:break-word}
+.bc li,.bc p,.bc td,.bc th,.bc summary{overflow-wrap:anywhere}
 .bc h2{margin:2.2rem 0 .7rem;font-size:1.45rem}
 .bc p{line-height:1.7}
 .bc ul,.bc ol{line-height:1.7;padding-left:1.4rem}
@@ -72,7 +73,7 @@
 .blist a{display:block;height:100%;border:1px solid #d9d4c7;border-radius:12px;padding:.9rem 1rem;text-decoration:none;background:#fff}
 .blist a b{display:block;margin-bottom:.25rem}
 .blist a span{font-size:.9rem;opacity:.8;line-height:1.5}
-.bc[dir=rtl] ul,.bc[dir=rtl] ol{padding-left:0;padding-right:1.4rem}
+.bc[dir=rtl] ul,.bc[dir=rtl] ol{padding-left:1.3rem;padding-right:1.4rem}
 .bc[dir=rtl]{font-family:Cairo,Inter,sans-serif}
 .bc[dir=rtl] .bx.ar{border-right:0;border-inline-start:5px solid #c49a3a}
 .bc .exs{list-style:none;padding:0!important;margin:1rem 0}
