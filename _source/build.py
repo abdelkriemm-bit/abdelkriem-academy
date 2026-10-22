@@ -92,7 +92,7 @@ home = f'''
 <div class="ctas"><a class="btn" href="#courses">Browse the courses</a><a class="btn ghost" href="#parents">For parents</a></div>
 <ul class="stats"><li><b>11</b><span>years teaching</span></li><li><b>8</b><span>free courses</span></li><li><b>100%</b><span>free to use</span></li></ul>
 </div>
-<figure class="portrait"><img src="images/mohamed-abdelkriem.jpg" alt="Mohamed Abdelkriem, teacher" onerror="this.parentNode.classList.add('noimg')"><span class="ph">Mohamed<br>Abdelkriem</span>
+<figure class="portrait"><img src="images/mohamed-abdelkriem.jpg" width="1294" height="1618" alt="Mohamed Abdelkriem, teacher" onerror="this.parentNode.classList.add('noimg')"><span class="ph">Mohamed<br>Abdelkriem</span>
 <figcaption>“No English exam left standing — my students are on a mission to conquer all.”</figcaption></figure>
 </div></section>
 
@@ -112,7 +112,7 @@ home = f'''
 <p>A British-curriculum teacher in Cairo, teaching Cambridge Checkpoint, IGCSE and Oxford courses in schools and learning centres.</p>
 <ul class="ticks"><li>CELTA (Cambridge)</li><li>Professional Educator Diploma — The American University in Cairo</li><li>Professional Educational Diploma — Ain Shams University</li><li>TEFL Diploma</li></ul>
 <a class="btn ghost" href="about.html">More about the academy</a></div>
-<img class="banner" onerror="this.remove()" src="images/mohamed-abdelkriem-banner.jpg" alt="Mohamed Abdelkriem — No English exam left standing, my students on a mission to conquer all." loading="lazy">
+<img class="banner" onerror="this.remove()" src="images/mohamed-abdelkriem-banner.jpg" width="1942" height="809" alt="Mohamed Abdelkriem — No English exam left standing, my students on a mission to conquer all." loading="lazy">
 </div></section>
 '''
 page("index.html","Abdelkriem Academy — Free Educational Resources | Checkpoint, IGCSE, Baccalaureate, Quran",

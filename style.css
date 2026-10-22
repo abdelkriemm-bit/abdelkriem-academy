@@ -132,3 +132,7 @@ html[dir=rtl] .tag{letter-spacing:0}
 .weeks h3 a:hover,.weeks .chk a:hover{color:var(--gold-2);text-decoration:underline}
 .ar-title{display:block;font-family:Cairo,sans-serif;font-weight:800;font-size:.62em;color:var(--gold);margin-top:.25em}
 .feature .ar-title{color:var(--gold)}
+
+/* readable gold text on light backgrounds (contrast) */
+.tag,.card .go,.weeks .wn{color:#7f5c1c}
+.banner{height:auto}
