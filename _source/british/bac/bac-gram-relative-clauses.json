@@ -1,0 +1,652 @@
+{
+ "slug": "bac-gram-relative-clauses",
+ "title": "Relative Clauses (who, which, that)",
+ "kicker": "تانية بكالوريا · Grammar · Unit 1",
+ "summary": "إزاي نوصف اسم أو نعرّفه بـ who / which / that (يعني «اللي»)، ونستخدمها علشان نعرّف المصطلحات ونقدّم الدليل.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "الدرس ده عن إيه؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "A **relative clause** is a part of a sentence that starts with **who**, **which** or **that**. It comes after a noun and gives us more information about it."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الدرس ده عن جملة صغيرة بتدخل جوه الجملة الكبيرة علشان **توصف اسم** أو تعرّفنا هو مين بالظبط. الجملة الصغيرة دي بتبدأ بكلمة زي **who / which / that**، ومعناها في العربي ببساطة: **«اللي»**."
+  },
+  {
+   "type": "p",
+   "text": "في الكتاب الدرس ده موجود في **Unit 1 : Living Well in a Complex World** ، جزء **Grammar Focus: Participial Phrases and Relative Clauses** (صفحة 24-25)، وبعدها في **Consolidation Review A**. الكتاب بيقول إننا بنستخدمها علشان **نعرّف (define)** و**نوضّح (clarify)** و**نضيف دليل (add evidence)** للكلام اللي بنقوله في الـ argument."
+  },
+  {
+   "type": "h2",
+   "text": "الفكرة ببساطة: «اللي»"
+  },
+  {
+   "type": "en",
+   "text": [
+    "We use a relative clause to join two short sentences into one. The relative pronoun (who / which / that) replaces the repeated noun."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "تخيل إنك بتقول لصاحبك: «الولد **اللي** قاعد جنب الشباك ده ابن خالتي». كلمة «اللي قاعد جنب الشباك» دي بتحدد إحنا بنتكلم عن أنهي ولد. هي دي بالظبط الـ relative clause."
+  },
+  {
+   "type": "p",
+   "text": "في الإنجليزي بدل ما نكرر الاسم مرتين في جملتين، بنحط **who** أو **which** أو **that** مكانه ونخليهم جملة واحدة:"
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "Teenagers exercise regularly. **These teenagers** sleep more deeply.",
+     "ar": "جملتين، والاسم teenagers متكرر."
+    },
+    {
+     "en": "Teenagers **who exercise regularly** sleep more deeply.",
+     "ar": "جملة واحدة: المراهقين **اللي** بيتمرنوا بانتظام بيناموا نوم أعمق. who خدت مكان «These teenagers»."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "خطوات الدمج (combine) في 3 خطوات:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "دوّر على **الاسم المتكرر** في الجملتين (أو الضمير اللي بيرجع عليه زي he / she / it / they).",
+    "اختار الكلمة المناسبة: **who** لو الاسم ده **ناس**، **which** لو **حاجة أو حيوان أو فكرة**، و**that** للاتنين.",
+    "حط الـ relative clause **بعد الاسم على طول**، واشيل الضمير المتكرر (he / it / they) خالص."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "h2",
+   "text": "الكلمات اللي بتبدأ بيها الـ Relative Clause"
+  },
+  {
+   "type": "en",
+   "text": [
+    "**who** = people, **which** = things and animals, **that** = people or things. At this level you may also meet **whose** (possession), **where** (places) and **when** (times)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الكتاب في الوحدة دي بيركز على **who / which / that**. بس هتقابل في القراءة كلمات تانية من نفس العيلة، فخليك عارفها:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "الكلمة",
+    "بنستخدمها مع",
+    "معناها بالعربي",
+    "مثال"
+   ],
+   "rows": [
+    [
+     "**who**",
+     "ناس (people)",
+     "اللي (لشخص)",
+     "a nutritionist **who** gives advice"
+    ],
+    [
+     "**which**",
+     "حاجات، حيوانات، أفكار",
+     "اللي (لحاجة)",
+     "an app **which** tracks screen time"
+    ],
+    [
+     "**that**",
+     "ناس أو حاجات (من غير فاصلة)",
+     "اللي (للاتنين)",
+     "habits **that** improve sleep"
+    ],
+    [
+     "**whose**",
+     "ملكية (بتاع مين)",
+     "اللي … بتاعه / بتاعها",
+     "a girl **whose** photos look perfect"
+    ],
+    [
+     "**where**",
+     "مكان",
+     "اللي فيه / المكان اللي",
+     "the café **where** we met"
+    ],
+    [
+     "**when**",
+     "وقت",
+     "اللي فيه (وقت)",
+     "the day **when** I deleted the app"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "حيلة للحفظ",
+   "items": [
+    "**who** فيها حرف **h** زي **h**uman = إنسان.",
+    "**which** = **w**hat **th**ing = حاجة.",
+    "**that** = «الجوكر»: بتنفع للناس والحاجات، بس **ممنوع بعد فاصلة**."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "أمثلة من موضوعات الوحدة"
+  },
+  {
+   "type": "p",
+   "text": "الأمثلة دي كلها عن موضوعات Unit 1: الـ well-being، السوشيال ميديا وصورتنا عن نفسنا، أسلوب الحياة الحديث، والصحة النفسية."
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "Adolescents **who sleep fewer than seven hours** are more likely to feel anxious.",
+     "ar": "المراهقين **اللي** بيناموا أقل من 7 ساعات معرضين أكتر للقلق. who لأنهم ناس."
+    },
+    {
+     "en": "Processed food is food **which has been changed from its natural state**.",
+     "ar": "الأكل المصنّع هو أكل **اللي** اتغيّر عن حالته الطبيعية. هنا الـ clause **بتعرّف** مصطلح (define)."
+    },
+    {
+     "en": "Social media shows images **that create unrealistic expectations**.",
+     "ar": "السوشيال ميديا بتعرض صور **بتعمل** توقعات مش واقعية. that مع حاجة (images)."
+    },
+    {
+     "en": "Students **that join sports clubs** often feel more confident.",
+     "ar": "الطلبة **اللي** بيشتركوا في نوادي رياضية غالبًا بيحسوا بثقة أكبر. that مع ناس صح، بس who أحسن."
+    },
+    {
+     "en": "Mindfulness is a skill **which helps people focus on the present moment**.",
+     "ar": "الـ mindfulness مهارة بتساعد الناس يركزوا في اللحظة الحالية."
+    },
+    {
+     "en": "The influencer **whose posts I used to follow** admitted that she edits her photos.",
+     "ar": "الإنفلونسر **اللي بوستاتها** كنت متابعها اعترفت إنها بتعدل صورها. whose = بتاعها."
+    },
+    {
+     "en": "This is the park **where my family walks every Friday**.",
+     "ar": "ده الجنينة **اللي** عيلتي بتتمشى **فيها** كل جمعة. where للمكان."
+    },
+    {
+     "en": "I still remember the week **when I stopped checking my phone at night**.",
+     "ar": "لسه فاكر الأسبوع **اللي** بطلت فيه أبص على موبايلي بالليل. when للوقت."
+    },
+    {
+     "en": "Psychologists **who study teenagers** warn about constant social comparison.",
+     "ar": "علماء النفس **اللي** بيدرسوا المراهقين بيحذروا من المقارنة المستمرة بالناس."
+    },
+    {
+     "en": "The app **which I downloaded last week** reminds me to drink water.",
+     "ar": "الأبليكيشن **اللي** نزلته الأسبوع اللي فات بيفكرني أشرب مية. خلي بالك: مفيش it بعد downloaded."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "نوعين: Defining و Non-defining"
+  },
+  {
+   "type": "en",
+   "text": [
+    "A **defining** relative clause tells us exactly which person or thing we mean. It has no commas. A **non-defining** relative clause only adds extra information. It goes between commas, and we cannot use **that** in it."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "فيه نوعين، والفرق بينهم مهم جدًا:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "النوع",
+    "وظيفته",
+    "الفاصلة",
+    "الكلمات المسموحة",
+    "مثال"
+   ],
+   "rows": [
+    [
+     "**Defining** (بتحدد)",
+     "بتقولك أنهي واحد بالظبط. لو شلتها المعنى يبوظ.",
+     "من غير فاصلة",
+     "who / which / that",
+     "Students **who use phones late** sleep less."
+    ],
+    [
+     "**Non-defining** (معلومة زيادة)",
+     "بتضيف معلومة زيادة عن حاجة معروفة. لو شلتها الجملة تفضل مفهومة.",
+     "بين فاصلتين (pair of commas)",
+     "who / which بس — **ممنوع that**",
+     "Instagram, **which millions of teenagers use**, is very popular."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "بص على الفرق في المعنى:"
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "Teenagers **who spend hours on social media** may feel lonely.",
+     "ar": "مش كل المراهقين: بس **اللي** بيقضوا ساعات على السوشيال ميديا. الـ clause بتحدد مين بالظبط، فمفيش فواصل."
+    },
+    {
+     "en": "My brother, **who is a nutritionist**, never drinks fizzy drinks.",
+     "ar": "أنا عارف أخويا خلاص، و«اللي هو أخصائي تغذية» دي **معلومة زيادة** بين فاصلتين. لو شلناها الجملة لسه مفهومة."
+    },
+    {
+     "en": "Sleep, **which is often underestimated**, supports brain development.",
+     "ar": "النوم (اللي ناس كتير مش مقدّرة أهميته) بيساعد على نمو المخ. معلومة زيادة، فاستخدمنا which مش that."
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "خلي بالك",
+   "text": "بعد الفاصلة **مينفعش** تكتب that أبدًا. ✗ Sleep, that is important, … ✓ Sleep, **which** is important, …"
+  },
+  {
+   "type": "h2",
+   "text": "إمتى نقدر نشيل who / which / that؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "When the relative pronoun is the **object** of the clause (a new subject comes after it), we can leave it out in defining clauses. When it is the **subject** (a verb comes after it), we must keep it."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "بص على الكلمة اللي جاية **بعد** who / which / that:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "بعدها إيه؟",
+    "اسمها",
+    "ينفع نشيلها؟",
+    "مثال"
+   ],
+   "rows": [
+    [
+     "**فعل** على طول",
+     "subject",
+     "لأ، لازم تفضل",
+     "The app **which tracks** my sleep is free."
+    ],
+    [
+     "**فاعل جديد + فعل** (I / we / people…)",
+     "object",
+     "أيوه، في الـ defining بس",
+     "The app (**which**) **I use** is free. = The app I use is free."
+    ]
+   ]
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "The advice (that) **the doctor gave** me was simple.",
+     "ar": "بعد that جه فاعل جديد (the doctor)، فينفع نشيل that: The advice the doctor gave me was simple."
+    },
+    {
+     "en": "People **who eat** healthy food stay active.",
+     "ar": "بعد who جه فعل (eat) على طول، فمينفعش نشيلها. ✗ People eat healthy food stay active."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "حرف الجر (Preposition) في الآخر"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Sometimes a preposition belongs to the verb in the clause. In everyday English it goes at the end. In formal English it can go before **which** or **whom**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "لو الفعل محتاج حرف جر (زي talk **to**، depend **on**، worry **about**) بنحطه في **آخر** الـ clause. وفي الكتابة الرسمية ممكن نقدّمه قبل which أو whom (whom = who بس رسمية وبعد حرف الجر)."
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "The friend **who I talk to** every night always listens.",
+     "ar": "الصاحب اللي بكلمه كل ليلة. حرف الجر to في الآخر (عادي ومنتشر)."
+    },
+    {
+     "en": "The friend **to whom I talk** every night always listens.",
+     "ar": "نفس المعنى بس رسمي. بعد حرف الجر بنستخدم **whom** مش who."
+    },
+    {
+     "en": "Exercise is a habit **which many people depend on**.",
+     "ar": "عادي: on في الآخر."
+    },
+    {
+     "en": "Exercise is a habit **on which many people depend**.",
+     "ar": "رسمي: on قبل which. **ممنوع** تقول on that."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Relative Clause ولا Participial Phrase؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "The book compares the two structures. A relative clause (**who eat**) can often be shortened to a participial phrase (**eating**). Both add precision to your sentence."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الكتاب بيحط الدرسين جنب بعض. كتير ممكن نختصر الـ relative clause لـ participial phrase بإننا نشيل who / which والفعل المساعد:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Relative clause",
+    "Participial phrase",
+    "الطريقة"
+   ],
+   "rows": [
+    [
+     "People **who eat** healthy food stay fit.",
+     "People **eating** healthy food stay fit.",
+     "معنى مبني للمعلوم: الفعل يبقى **-ing**"
+    ],
+    [
+     "Photos **which are edited** carefully look perfect.",
+     "Photos **edited** carefully look perfect.",
+     "مبني للمجهول: نشيل which are ونسيب **-ed** (التصريف التالت)"
+    ],
+    [
+     "Students **who were motivated** by the talk joined the club.",
+     "Students **motivated** by the talk joined the club.",
+     "نشيل who were ونسيب الـ -ed"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي نستخدمها في الـ JRE والكتابة"
+  },
+  {
+   "type": "en",
+   "text": [
+    "In academic writing, use relative clauses to **define key terms**, **introduce and cite evidence**, and **add detail** to your claims."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الكتاب بيعلّمك تكتب بطريقة **JRE = Justify – Reasoning – Evidence** (رأيك، السبب، الدليل). الـ relative clause بتنفعك في 3 حاجات:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**تعرّف مصطلح**: Self-efficacy is the belief **which helps a person feel able to succeed**.",
+    "**تقدّم دليل**: A study **which was published in 2019** found that…",
+    "**تحدد كلامك بدقة**: Teenagers **who spend more than four hours online** … (مش كل المراهقين)."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "شوف الفقرة دي، والـ relative clauses مكتوبة بالـ bold:"
+  },
+  {
+   "type": "en",
+   "text": [
+    "**Justify:** Limiting screen time is one of the best ways to protect teenagers' mental health. **Reason:** This is because teenagers **who spend less time online** compare themselves less with others. **Evidence:** For example, research **that followed young people for a year** found that those **who reduced their social media use** felt more confident about their bodies."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "لاحظ إن كل clause جت **بعد الاسم اللي بتوصفه على طول**: teenagers who… / research that… / those who…"
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "أشهر الأخطاء (غلط ← صح)",
+   "items": [
+    "✗ People **which** exercise sleep better. ← ✓ People **who** exercise sleep better. (ناس = who)",
+    "✗ The photo which I posted **it** got many likes. ← ✓ The photo which I posted got many likes. (متكررش الضمير)",
+    "✗ My mother, **that** is a doctor, … ← ✓ My mother, **who** is a doctor, … (ممنوع that بعد فاصلة)",
+    "✗ The app **what** I use is useful. ← ✓ The app **which / that** I use is useful. (what مش relative pronoun بعد اسم)",
+    "✗ The girl **who her** photos are edited … ← ✓ The girl **whose** photos are edited … (بتاعها = whose)",
+    "✗ The school **which** I study is big. ← ✓ The school **where** I study / The school **which I study at** is big.",
+    "✗ Students who sleeps late … ← ✓ Students who **sleep** late … (الفعل يتبع الاسم اللي قبل who: students جمع)"
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "إزاي تجاوب بسرعة في الامتحان",
+   "items": [
+    "بص على **الكلمة اللي قبل الفراغ**: ناس؟ who. حاجة؟ which. مكان؟ where. ملكية؟ whose.",
+    "فيه **فاصلة** قبل الفراغ؟ يبقى that مستبعدة.",
+    "لو في اختيارات فيها **ضمير متكرر** (it / him / them) بعد الفعل، غالبًا دي الغلط.",
+    "في الدمج: الـ clause **بعد الاسم على طول** حتى لو جت في نص الجملة."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي بييجي في الأسئلة؟"
+  },
+  {
+   "type": "p",
+   "text": "الأسئلة في الكتاب والمراجعات بتيجي بالأشكال دي. هنحل مثال لكل شكل:"
+  },
+  {
+   "type": "p",
+   "text": "**1) Only one sentence in each group is grammatically correct. Choose the correct answer.**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "a. Teenagers which practise mindfulness manage stress better.",
+    "b. Teenagers who practise mindfulness manage stress better.",
+    "c. Teenagers who practise mindfulness they manage stress better.",
+    "d. Teenagers who practises mindfulness manage stress better."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**الإجابة: b.** ليه؟ (a) which مع ناس غلط. (c) كررنا they. (d) الفعل practises مفرد والـ teenagers جمع."
+  },
+  {
+   "type": "p",
+   "text": "**2) Combine each pair of sentences using a relative clause.**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Hind changed her online habits. She now feels more confident."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**الإجابة:** Hind, **who changed her online habits**, now feels more confident. ليه؟ Hind اسم شخص معروف، فالمعلومة **زيادة** وتتحط بين فاصلتين ونستخدم who. وممكن كمان: Hind, who now feels more confident, changed her online habits."
+  },
+  {
+   "type": "p",
+   "text": "**3) Find examples of relative clauses in the text and underline them.** (زي Grammar in Context A في الكتاب)"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Many young people follow accounts which show only perfect moments. Those who compare themselves with these accounts often feel that their own lives are ordinary."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**الإجابة:** which show only perfect moments (بتوصف accounts) + who compare themselves with these accounts (بتوصف Those)."
+  },
+  {
+   "type": "h2",
+   "text": "تدريب"
+  },
+  {
+   "type": "p",
+   "text": "**A. Choose the correct answer from a, b, c or d.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "1. Teenagers ______ sleep fewer than eight hours often feel tired at school.\na. which  b. who  c. whose  d. where",
+     "a": "**b. who** — teenagers ناس، وبعد الفراغ فعل (sleep)."
+    },
+    {
+     "q": "2. The app ______ I downloaded last week tracks my screen time.\na. who  b. whose  c. which  d. where",
+     "a": "**c. which** — app حاجة."
+    },
+    {
+     "q": "3. A nutritionist is a health expert ______ gives advice on what to eat.\na. who  b. which  c. what  d. when",
+     "a": "**a. who** — بنعرّف مصطلح عن شخص (expert)."
+    },
+    {
+     "q": "4. Instagram, ______ many teenagers use every day, can affect self-image.\na. that  b. who  c. which  d. what",
+     "a": "**c. which** — فيه فاصلة، فـ that ممنوعة، وInstagram حاجة."
+    },
+    {
+     "q": "5. Nadia unfollowed an influencer ______ photos made her feel less confident.\na. who  b. whose  c. which  d. that",
+     "a": "**b. whose** — الصور **بتاعة** الإنفلونسر (ملكية)."
+    },
+    {
+     "q": "6. The gym ______ my brother trains is near our house.\na. which  b. who  c. where  d. when",
+     "a": "**c. where** — مكان، والجملة بعدها كاملة (my brother trains). ولو عايز which لازم تقول which my brother trains at."
+    },
+    {
+     "q": "7. Posts ______ show only perfect moments can create unrealistic expectations.\na. who  b. what  c. that  d. whom",
+     "a": "**c. that** — posts حاجات ومفيش فاصلة. what مش بتيجي بعد اسم."
+    },
+    {
+     "q": "8. The counsellor to ______ I spoke gave me useful advice.\na. who  b. whom  c. that  d. which",
+     "a": "**b. whom** — بعد حرف الجر to مع شخص بنستخدم whom."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**B. Only one sentence in each group is grammatically correct. Choose the correct answer.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "9. a. The influencer which I follow shares realistic stories.\nb. The influencer who I follow him shares realistic stories.\nc. The influencer who I follow shares realistic stories.\nd. The influencer, that I follow, shares realistic stories.",
+     "a": "**c** — (a) which مع شخص، (b) كررنا him، (d) that بعد فاصلة."
+    },
+    {
+     "q": "10. a. Social media, which connects millions of people, can also cause stress.\nb. Social media, that connects millions of people, can also cause stress.\nc. Social media which it connects millions of people can also cause stress.\nd. Social media, who connects millions of people, can also cause stress.",
+     "a": "**a** — معلومة زيادة بين فاصلتين بـ which. (b) that بعد فاصلة، (c) كررنا it، (d) who لحاجة."
+    },
+    {
+     "q": "11. a. Students who sleeps late feel tired.\nb. Students who sleep late feel tired.\nc. Students sleep late who feel tired.\nd. Students which sleep late feel tired.",
+     "a": "**b** — students جمع فالفعل sleep من غير s، والـ clause بعد الاسم على طول."
+    },
+    {
+     "q": "12. a. On the day which I deleted the app, I felt free.\nb. On the day where I deleted the app, I felt free.\nc. On the day when I deleted the app, I felt free.\nd. On the day who I deleted the app, I felt free.",
+     "a": "**c** — when للوقت، والجملة كاملة بحرف الجر On في الأول. (a) which مع الوقت محتاجة حرف جر (the day on which)، (b) where للمكان مش الوقت، (d) who للناس بس."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**C. Combine each pair of sentences using who, which, that, whose or where.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "13. Many students join sports clubs. These clubs help them reduce stress.",
+     "a": "Many students join sports clubs **which / that help them reduce stress**. — clubs حاجات، وشلنا «These clubs»."
+    },
+    {
+     "q": "14. The psychologist gave a talk at our school. She studies teenage anxiety.",
+     "a": "The psychologist **who studies teenage anxiety** gave a talk at our school. — الـ clause دخلت بعد الاسم على طول (في نص الجملة)."
+    },
+    {
+     "q": "15. I deleted the app. It kept me awake at night.",
+     "a": "I deleted the app **which / that kept me awake at night**. — شلنا It."
+    },
+    {
+     "q": "16. My father is a doctor. He walks for an hour every morning.",
+     "a": "My father, **who is a doctor**, walks for an hour every morning. — أبويا معروف، فالمعلومة زيادة بين فاصلتين ومفيش that."
+    },
+    {
+     "q": "17. This is the café. Nadia and Jana had cake there.",
+     "a": "This is the café **where Nadia and Jana had cake**. — مكان، وشلنا there."
+    },
+    {
+     "q": "18. I have a friend. Her mother is a nutritionist.",
+     "a": "I have a friend **whose mother is a nutritionist**. — her mother = whose mother (ملكية)."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**D. Find the mistake and correct it. Then rewrite or write the sentence as asked.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "19. Find and correct the mistake: People which exercise regularly sleep more deeply.",
+     "a": "which ← **who**: People **who** exercise regularly sleep more deeply. — people ناس."
+    },
+    {
+     "q": "20. Find and correct the mistake: The photo that I posted it yesterday received many likes.",
+     "a": "نشيل **it**: The photo that I posted yesterday received many likes. — that خدت مكان it خلاص."
+    },
+    {
+     "q": "21. Find and correct the mistake: Sleep, that is often underestimated, is vital for teenagers.",
+     "a": "that ← **which**: Sleep, **which** is often underestimated, is vital for teenagers. — ممنوع that بعد فاصلة."
+    },
+    {
+     "q": "22. Rewrite using a participial phrase: Students who use their phones before bed sleep less.",
+     "a": "Students **using** their phones before bed sleep less. — شلنا who وخلينا الفعل -ing."
+    },
+    {
+     "q": "23. Rewrite leaving out the relative pronoun if possible: The advice which my teacher gave me was helpful.",
+     "a": "The advice **my teacher gave me** was helpful. — ينفع نشيلها لأن بعدها فاعل جديد (my teacher)."
+    },
+    {
+     "q": "24. Define 'mindfulness' in one sentence using a relative clause.",
+     "a": "Mindfulness is a skill **which helps people pay careful attention to the present moment**. — الكتاب بيقول نستخدم الـ relative clause علشان **نعرّف key terms**."
+    },
+    {
+     "q": "25. Write a claim about screen time with evidence. Use at least ONE relative clause.",
+     "a": "مثال: Reducing screen time can improve teenagers' well-being. This is because teenagers **who spend less time online** usually sleep better. For instance, a study **which tested a bedtime routine without screens** found that sleep quality improved. — J ثم R ثم E، والـ relative clauses بتحدد مين وبتقدّم الدليل."
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "ملخص الدرس في سطرين",
+   "items": [
+    "**who** للناس، **which** للحاجات، **that** للاتنين (من غير فاصلة). وكمان whose للملكية، where للمكان، when للوقت.",
+    "الـ clause تيجي **بعد الاسم على طول**، و**متكررش** الضمير (it / him / them).",
+    "معلومة زيادة = **بين فاصلتين** و**ممنوع that**.",
+    "ينفع تشيل who / which / that لو بعدها **فاعل جديد**، ومينفعش لو بعدها **فعل**.",
+    "في الكتابة استخدمها علشان **تعرّف مصطلح** و**تقدّم دليل** في الـ JRE."
+   ]
+  }
+ ]
+}

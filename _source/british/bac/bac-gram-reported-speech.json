@@ -1,0 +1,843 @@
+{
+ "slug": "bac-gram-reported-speech",
+ "title": "Reported Speech",
+ "kicker": "تانية بكالوريا · Grammar · Unit 6",
+ "summary": "إزاي ننقل كلام حد تاني بأسلوبنا (said / told / asked) ونغيّر الزمن والضمائر والوقت، وننقل الأسئلة صح.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "الدرس ده عن إيه؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "**Reported speech** is how we tell someone what another person said, without repeating their exact words. We report the **idea**, not the exact sentence."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الدرس ده عن إزاي **تنقل كلام حد تاني**. يعني بدل ما تقول الكلام بالحرف بين علامات تنصيص، بتحكيه بأسلوبك: «هو قال إن…»، «هي سألت إذا كان…»."
+  },
+  {
+   "type": "p",
+   "text": "في الكتاب الدرس ده موجود في **Book 2 · Unit 6: The Space We Share**، جزء **Grammar Focus: Reported Speech** (صفحة 12-15)، وبييجي تاني في **Consolidation Review C**. الكتاب بيقول إنه مفيد جدًا علشان **ننقل رأي الـ conservationists** (الناس اللي بتحمي الطبيعة) والفلاحين والصيادين والعلماء، وعلشان ننقل **الادعاءات (claims)** والأدلة في الـ JRE."
+  },
+  {
+   "type": "h2",
+   "text": "الفكرة ببساطة: كلام مباشر وكلام منقول"
+  },
+  {
+   "type": "en",
+   "text": [
+    "**Direct speech** repeats the exact words inside inverted commas. **Reported speech** has no inverted commas: it starts with a reporting verb (said, told, explained…) and the words change to fit the reporter's point of view."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "تخيل إن صاحبك قالك في التليفون: «أنا تعبان النهارده». وبعدين مامتك سألتك هو قال إيه، فإنت قلت: «قال إنه **كان** تعبان **اليوم ده**». لاحظ إن فيه 3 حاجات اتغيرت:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**الضمير**: «أنا» بقت «هو» (I ← he).",
+    "**الزمن**: رجع خطوة لورا (am ← was). ودي اسمها **backshift**.",
+    "**كلمة الوقت**: «النهارده» بقت «اليوم ده» (today ← that day)."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "\"I protect this wetland,\" she said.",
+     "ar": "**Direct speech**: الكلام بالحرف بين علامات تنصيص (inverted commas)."
+    },
+    {
+     "en": "She said (that) she **protected that** wetland.",
+     "ar": "**Reported speech**: مفيش علامات تنصيص. I بقت she، وprotect بقت protected، وthis بقت that."
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "اسأل نفسك 3 أسئلة وإنت بتحوّل",
+   "items": [
+    "**مين** بيتكلم دلوقتي؟ ← غيّر الضمائر (I / my / we / our).",
+    "**إمتى** الكلام اتقال؟ ← رجّع الزمن خطوة لورا لو فعل القول ماضي (said / told).",
+    "**فين** و**إمتى** دلوقتي؟ ← غيّر كلمات المكان والوقت (here / now / today …)."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "أفعال القول (Reporting Verbs) و say ولا tell؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "A reported sentence begins with a reporting verb such as **said, told, explained, added, replied** or **claimed**, followed by **(that)** and a clause. **That** is optional and often dropped in speech."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "أشهر غلطة في الدرس ده هي الفرق بين **say** و**tell**. القاعدة بسيطة:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "الشكل",
+    "الشرح بالعربي",
+    "مثال"
+   ],
+   "rows": [
+    [
+     "Subject + **said** (that) + clause",
+     "**say** مش بييجي بعده شخص على طول.",
+     "The farmer **said (that)** he needed more land."
+    ],
+    [
+     "Subject + **said to** + person + (that) …",
+     "لو عايز تذكر الشخص مع say لازم تحط **to**.",
+     "The farmer **said to the officer** that he needed more land."
+    ],
+    [
+     "Subject + **told** + person + (that) + clause",
+     "**tell** لازم يجي بعده **شخص** على طول ومن غير to.",
+     "The farmer **told the officer (that)** he needed more land."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "وفيه أفعال تانية بتخلي كلامك أدق، لأن كل فعل بيوضح **نوع** الكلام:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "الفعل",
+    "معناه بالعربي",
+    "بنستخدمه لما…"
+   ],
+   "rows": [
+    [
+     "**explained** (that)",
+     "شرح / وضّح",
+     "حد بيوضح سبب أو فكرة"
+    ],
+    [
+     "**added** (that)",
+     "أضاف",
+     "حد بيكمّل كلام قاله"
+    ],
+    [
+     "**replied** (that)",
+     "رد",
+     "حد بيرد على سؤال"
+    ],
+    [
+     "**claimed** (that)",
+     "ادّعى / زعم",
+     "كلام **محتاج دليل** ولسه مش متأكدين منه"
+    ],
+    [
+     "**warned** (that)",
+     "حذّر",
+     "حد بيقول إن فيه خطر"
+    ],
+    [
+     "**argued** (that)",
+     "جادل / قال كحجة",
+     "حد بيدافع عن رأي"
+    ],
+    [
+     "**predicted** (that)",
+     "توقّع",
+     "كلام عن المستقبل"
+    ],
+    [
+     "**asked** (+ person)",
+     "سأل",
+     "الأسئلة والطلبات"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "حيلة للحفظ",
+   "text": "**tell** فيها «**t**» زي «**t**o someone» في دماغك، بس من غير ما تكتب to: tell **someone**. أما **say** فهي «لوحدها»: say **something**."
+  },
+  {
+   "type": "h2",
+   "text": "تغيير الزمن: Backshift (خطوة لورا)"
+  },
+  {
+   "type": "en",
+   "text": [
+    "When the reporting verb is in the past (said, told, explained…), the verb in the reported clause usually moves **one step back** into the past. This is called **backshift**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "فكّر في الأزمنة كأنها سلّم. لما فعل القول يكون ماضي، كل فعل في الكلام المنقول **بينزل درجة واحدة** لتحت ناحية الماضي:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "الكلام المباشر (Direct)",
+    "الكلام المنقول (Reported)",
+    "مثال"
+   ],
+   "rows": [
+    [
+     "present simple: **depend**",
+     "past simple: **depended**",
+     "\"We depend on this land.\" ← They said they **depended** on that land."
+    ],
+    [
+     "present continuous: **am/is/are trying**",
+     "past continuous: **was/were trying**",
+     "\"I'm trying to save the turtles.\" ← She said she **was trying** to save the turtles."
+    ],
+    [
+     "present perfect: **have lost**",
+     "past perfect: **had lost**",
+     "\"We have lost half the fish.\" ← They said they **had lost** half the fish."
+    ],
+    [
+     "past simple: **destroyed**",
+     "past perfect: **had destroyed** (أو تفضل زي ما هي)",
+     "\"The flood destroyed my crops.\" ← He said the flood **had destroyed** his crops."
+    ],
+    [
+     "**will**",
+     "**would**",
+     "\"We will lose our income.\" ← They said they **would** lose their income."
+    ],
+    [
+     "**can**",
+     "**could**",
+     "\"We can protect the wetland.\" ← She said they **could** protect the wetland."
+    ],
+    [
+     "**may**",
+     "**might**",
+     "\"The birds may not return.\" ← He warned that the birds **might** not return."
+    ],
+    [
+     "**must**",
+     "**had to**",
+     "\"Countries must cooperate.\" ← She said countries **had to** cooperate."
+    ],
+    [
+     "**is/are going to**",
+     "**was/were going to**",
+     "\"We're going to plant trees.\" ← They said they **were going to** plant trees."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "خلي بالك: **would / could / should / might** مش بيتغيروا، لأنهم أصلاً «ماضي» ومفيش درجة تحتهم."
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "\"Fishing **is** our livelihood,\" the fisherman said. → The fisherman said (that) fishing **was** their livelihood.",
+     "ar": "is ← was، وour ← their (لأنه بيتكلم عن نفسه وعن الصيادين اللي زيه)."
+    },
+    {
+     "en": "\"Elephants **destroy** my crops every year,\" Grace said. → Grace said that elephants **destroyed** her crops every year.",
+     "ar": "destroy ← destroyed، وmy ← her لأن Grace بنت."
+    },
+    {
+     "en": "\"The river **is drying up**,\" the farmer explained. → The farmer explained that the river **was drying up**.",
+     "ar": "is drying ← was drying (present continuous ← past continuous)."
+    },
+    {
+     "en": "\"Funding **will decrease**,\" the experts warned. → The experts warned that funding **would decrease**.",
+     "ar": "will ← would. وwarned أدق من said لأن الكلام فيه خطر."
+    },
+    {
+     "en": "\"Farms and reserves **can be managed** together,\" researchers said. → Researchers said that farms and reserves **could be managed** together.",
+     "ar": "can be ← could be. لاحظ إن **be + managed** فضلوا زي ما هم (مبني للمجهول)."
+    },
+    {
+     "en": "\"We **have built** a corridor for elephants,\" the officer said. → The officer said they **had built** a corridor for elephants.",
+     "ar": "have built ← had built (present perfect ← past perfect)."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "تغيير الضمائر والملكية"
+  },
+  {
+   "type": "en",
+   "text": [
+    "We are now speaking **about** the person, not **as** the person, so pronouns and possessive adjectives usually change to match the reporter's point of view."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "إنت دلوقتي بتتكلم **عن** الشخص، مش **بلسانه**. فالضمائر لازم تتغير حسب مين بيحكي ومين اتقال عنه:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "في الكلام المباشر",
+    "بيبقى في المنقول (غالبًا)",
+    "مثال"
+   ],
+   "rows": [
+    [
+     "**I / me / my**",
+     "he / him / his أو she / her / her",
+     "\"**My** livelihood is at risk,\" he said. ← He said **his** livelihood was at risk."
+    ],
+    [
+     "**we / us / our**",
+     "they / them / their",
+     "\"**We** depend on this land.\" ← The farmers said **they** depended on that land."
+    ],
+    [
+     "**you / your** (للي بيسمع)",
+     "I / me / my أو he / she … حسب الشخص",
+     "\"Are **you** happy?\" my friend asked. ← My friend asked if **I** was happy."
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "خلي بالك",
+   "text": "الضمير **مش بيتغير دايمًا بشكل أوتوماتيك**. لو إنت اللي قلت الكلام وبتنقله عن نفسك: \"I am tired,\" I said. ← I said I **was** tired. هنا I فضلت I، والزمن بس اللي اتغير. فكّر دايمًا: مين بيتكلم عن مين؟"
+  },
+  {
+   "type": "h2",
+   "text": "تغيير كلمات الوقت والمكان"
+  },
+  {
+   "type": "en",
+   "text": [
+    "When the moment of reporting is different from the moment of speaking, time and place words usually shift too, because \"now\" for the speaker may not be \"now\" for the reporter."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "لو الكلام اتقال من أسبوع، فكلمة «بكرة» اللي قالها الشخص مبقتش «بكرة» بالنسبالك. علشان كده بنغيرها:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Direct",
+    "Reported",
+    "المعنى"
+   ],
+   "rows": [
+    [
+     "now",
+     "then / at that time",
+     "وقتها"
+    ],
+    [
+     "today",
+     "that day",
+     "اليوم ده"
+    ],
+    [
+     "tonight",
+     "that night",
+     "الليلة دي"
+    ],
+    [
+     "tomorrow",
+     "the next day / the following day",
+     "اليوم اللي بعده"
+    ],
+    [
+     "yesterday",
+     "the day before / the previous day",
+     "اليوم اللي قبله"
+    ],
+    [
+     "next week",
+     "the following week / the week after",
+     "الأسبوع اللي بعده"
+    ],
+    [
+     "last month",
+     "the month before / the previous month",
+     "الشهر اللي قبله"
+    ],
+    [
+     "ago",
+     "before / earlier",
+     "قبلها بـ…"
+    ],
+    [
+     "this wetland / this reserve",
+     "that wetland / that reserve",
+     "ده (القريب) ← ده (البعيد)"
+    ],
+    [
+     "these",
+     "those",
+     "دول (القريبين) ← دول (البعاد)"
+    ],
+    [
+     "here",
+     "there",
+     "هنا ← هناك"
+    ]
+   ]
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "\"We will release the turtles **tomorrow**,\" Nour said. → Nour said they would release the turtles **the next day**.",
+     "ar": "tomorrow ← the next day، وwill ← would."
+    },
+    {
+     "en": "\"The birds arrived **here** two days **ago**,\" the guide said. → The guide said the birds had arrived **there** two days **before**.",
+     "ar": "here ← there، ago ← before، وarrived ← had arrived."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إمتى مانرجّعش الزمن؟ (When NOT to backshift)"
+  },
+  {
+   "type": "en",
+   "text": [
+    "The tense does not need to change when the situation is **still true**, a **general fact**, or a **scientific / permanent truth**. Backshifting could wrongly suggest the situation has ended."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "لو الكلام لسه **صح لحد دلوقتي** أو **حقيقة علمية**، مش لازم نرجّع الزمن. ليه؟ لأن لو قلنا depended ممكن اللي بيسمع يفهم إن الكلام ده **خلص** وبقى مش صحيح."
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "The conservationist said that migratory birds **depend** on wetlands.",
+     "ar": "حقيقة عامة لسه صحيحة، فسيبنا depend زي ما هي. (depended كمان مش غلط، بس depend أوضح.)"
+    },
+    {
+     "en": "Our teacher explained that water **boils** at 100°C.",
+     "ar": "حقيقة علمية ثابتة: مفيش backshift."
+    },
+    {
+     "en": "The scientist **says** that the Nile **is** the longest river in Africa.",
+     "ar": "فعل القول هنا **مضارع (says)**، فمفيش backshift خالص."
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "إزاي تعرف في الامتحان؟",
+   "items": [
+    "لو فعل القول **said / told / asked** (ماضي) وفيه اختيار بزمن ماضي ← غالبًا ده الصح.",
+    "لو الكلام **حقيقة علمية** أو عامة ← المضارع مقبول.",
+    "لو فعل القول **says / tells** (مضارع) ← الزمن مايتغيرش."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "نقل الأسئلة (Reported Questions)"
+  },
+  {
+   "type": "en",
+   "text": [
+    "When we report a question, we change the question word order to **statement order**: subject + verb. We do not use **do / does / did**, and there is **no question mark**. For yes/no questions we use **if** or **whether**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "ده أهم جزء في الامتحان. السؤال لما يتنقل **مايبقاش سؤال**. يعني:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "الترتيب يبقى زي الجملة العادية: **الفاعل الأول وبعده الفعل** (she was / I had finished).",
+    "**نشيل** do / does / did خالص.",
+    "**مفيش علامة استفهام** في الآخر، نحط نقطة.",
+    "فعل القول بيبقى **asked** (أو wanted to know / wondered)."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "table",
+   "headers": [
+    "نوع السؤال",
+    "الشكل",
+    "مثال"
+   ],
+   "rows": [
+    [
+     "**Yes / No** (إجابته أيوه أو لأ)",
+     "asked (+ person) + **if / whether** + subject + verb",
+     "\"Are you happy to have a pet?\" ← My friend asked **if I was** happy to have a pet."
+    ],
+    [
+     "**Wh- question** (what, where, why, how, when, who…)",
+     "asked (+ person) + **wh- word** + subject + verb",
+     "\"What's your favourite hobby?\" ← Nada asked Dina **what her favourite hobby was**."
+    ]
+   ]
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "\"Do you live near the river?\" the officer asked me. → The officer asked me **if I lived** near the river.",
+     "ar": "do ← اتشالت، وlive ← lived، وyou ← I."
+    },
+    {
+     "en": "\"Have you finished your homework?\" Ali asked. → Ali asked **if I had finished** my homework.",
+     "ar": "have you finished ← I had finished (الترتيب اتعدل والزمن رجع)."
+    },
+    {
+     "en": "\"Where are you going?\" she asked. → She asked **where I was going**.",
+     "ar": "مش ✗ where was I going. الفاعل (I) قبل الفعل (was)."
+    },
+    {
+     "en": "\"Why did the fish disappear?\" the student asked. → The student asked **why the fish had disappeared**.",
+     "ar": "did اتشالت، وdisappear ← had disappeared."
+    },
+    {
+     "en": "\"How old are you?\" Zeina asked Mariam. → Zeina asked Mariam **how old she was**.",
+     "ar": "you ← she لأن Mariam بنت، وare ← was."
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "خلي بالك",
+   "text": "في الأسئلة المنقولة **ممنوع** تكتب did أو does بعد كلمة السؤال. ✗ She asked where did I go. ✓ She asked where I **had gone** / where I **went**."
+  },
+  {
+   "type": "h2",
+   "text": "نقل الأوامر والطلبات (زيادة على الكتاب)"
+  },
+  {
+   "type": "en",
+   "text": [
+    "To report a command or a request, use **told / asked + person + to + verb**. For a negative, use **not to + verb**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الكتاب بيركز على الجمل والأسئلة، بس هتقابل الأوامر والطلبات كتير، خصوصًا مع الـ formal email في نفس الوحدة. الطريقة سهلة جدًا:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Direct",
+    "Reported",
+    "القاعدة"
+   ],
+   "rows": [
+    [
+     "\"Plant more trees,\" the teacher said.",
+     "The teacher **told us to plant** more trees.",
+     "أمر: told + شخص + **to** + فعل"
+    ],
+    [
+     "\"Don't throw rubbish in the river.\"",
+     "The guide **told us not to throw** rubbish in the river.",
+     "نفي: **not to** + فعل"
+    ],
+    [
+     "\"Please send us the report.\"",
+     "The council **asked us to send** them the report.",
+     "طلب مؤدب: asked + شخص + to"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي نستخدمه في الـ JRE والكتابة"
+  },
+  {
+   "type": "en",
+   "text": [
+    "In academic writing and JRE answers, reported speech helps you present **evidence**: what experts, officials or local people said or claimed."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الكتاب بيعلّمك تكتب بـ **JRE = Justify – Reasoning – Evidence**. الـ reported speech بيخدمك في الـ **Evidence**: بدل ما تقول «أنا شايف كده» وبس، تقول «العلماء قالوا…»، «الصيادين وضحوا…». كده كلامك يبقى أقوى وأكتر إقناعًا. شوف المثال ده:"
+  },
+  {
+   "type": "en",
+   "text": [
+    "**Justify:** Protecting wetlands must be a shared responsibility between countries. **Reason:** This is because migratory birds cross many borders during a single journey. **Evidence:** For example, a conservationist **explained that the birds needed safe stopovers in every country they visited**. She also **warned that one destroyed wetland could break the whole route**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "لاحظ إن الدليل جاي في صورة **reported speech**: explained that the birds **needed** / warned that one destroyed wetland **could** break …"
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "استخدم claimed بذكاء",
+   "text": "في جزء **Media Literacy** في الوحدة بتتعلم تقيّم الكلام المبالغ فيه على النت. لو الكلام مش مؤكد قول **claimed** (ادّعى) بدل said: A website **claimed that** one tree **could** clean all the air in a city. كده بتوضح إن الكلام ده محتاج دليل."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "أشهر الأخطاء (غلط ← صح)",
+   "items": [
+    "✗ He **said me** that he was tired. ← ✓ He **told me** / He **said to me** that he was tired.",
+    "✗ She **told that** the river was polluted. ← ✓ She **said that** / She **told us that** the river was polluted.",
+    "✗ She asked where **was I** going. ← ✓ She asked where **I was** going.",
+    "✗ Ali asked if **had I** finished. ← ✓ Ali asked if **I had** finished.",
+    "✗ He asked me **do I** like birds. ← ✓ He asked me **if I liked** birds.",
+    "✗ They said they **will** help. ← ✓ They said they **would** help.",
+    "✗ She said that she **trying** to help. ← ✓ She said that she **was trying** to help. (متنساش was)",
+    "✗ The farmer said that fishing **were** their livelihood. ← ✓ … fishing **was** … (fishing مفرد)",
+    "✗ He asked me where I lived**?** ← ✓ He asked me where I lived**.** (مفيش علامة استفهام)"
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "إزاي تجاوب بسرعة في الامتحان",
+   "items": [
+    "دوّر على فعل القول: **said / told / asked** ماضي؟ يبقى الفعل اللي بعده **ماضي** (درجة لورا).",
+    "سؤال منقول؟ استبعد أي اختيار فيه **فعل قبل الفاعل** (was I / had I / did I).",
+    "شوف **will ← would** و**can ← could** و**is trying ← was trying**: دول أكتر حاجات بتتسأل.",
+    "اتأكد إن الفعل **مكتمل**: could **be** managed مش could managed، was **trying** مش trying لوحدها."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي بييجي في الأسئلة؟"
+  },
+  {
+   "type": "p",
+   "text": "الأسئلة في الكتاب والمراجعات بتيجي بالأشكال دي. هنحل مثال لكل شكل:"
+  },
+  {
+   "type": "p",
+   "text": "**1) Which sentence is grammatically correct? Circle the correct answer from a, b, c or d.**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "a. The ranger said that the turtles will return in spring.",
+    "b. The ranger said that the turtles would return in spring.",
+    "c. The ranger said that the turtles return will in spring.",
+    "d. The ranger said that the turtles would returned in spring."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**الإجابة: b.** ليه؟ said ماضي فـ will ترجع **would**. (a) will مارجعتش، (c) ترتيب غلط، (d) بعد would الفعل يفضل في المصدر (return) مش returned."
+  },
+  {
+   "type": "p",
+   "text": "**2) Fill in the gaps with the correct reported form of the verb in brackets.**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "The fishermen explained that the lake (1) ______ (be) their only source of income."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**الإجابة: (1) was.** ليه؟ explained ماضي، وthe lake مفرد، فـ is ترجع **was**."
+  },
+  {
+   "type": "p",
+   "text": "**3) Report the question.**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "\"Where do the storks spend the winter?\" Omar asked the guide."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**الإجابة:** Omar asked the guide **where the storks spent the winter**. ليه؟ شلنا do، والفاعل (the storks) جه قبل الفعل، وspend رجعت spent، ومفيش علامة استفهام. (ولأنها حقيقة عامة، spend من غير backshift مقبولة كمان)"
+  },
+  {
+   "type": "h2",
+   "text": "تدريب"
+  },
+  {
+   "type": "p",
+   "text": "**A. Choose the correct answer from a, b, c or d.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "1. The conservationist ______ us that the wetland needed protection.\na. said  b. told  c. explained  d. added",
+     "a": "**b. told** — بعد الفراغ شخص (us) على طول، فلازم tell. said وexplained وadded مايجيش بعدهم شخص مباشرة."
+    },
+    {
+     "q": "2. The farmer said that he ______ more water for his fields.\na. needs  b. is needing  c. needed  d. need",
+     "a": "**c. needed** — said ماضي، فـ needs ترجع needed."
+    },
+    {
+     "q": "3. The experts predicted that protecting birds ______ more cooperation in the future.\na. will require  b. would require  c. requires  d. require",
+     "a": "**b. would require** — توقّع عن المستقبل بفعل قول ماضي: will ← would."
+    },
+    {
+     "q": "4. My friend asked me ______ I had visited the nature reserve.\na. that  b. what  c. if  d. did",
+     "a": "**c. if** — سؤال yes/no منقول بيبدأ بـ if أو whether."
+    },
+    {
+     "q": "5. She asked me where ______.\na. did I live  b. I lived  c. do I live  d. I do live",
+     "a": "**b. I lived** — ترتيب جملة عادية (فاعل + فعل)، ومن غير did."
+    },
+    {
+     "q": "6. \"We can share the river fairly,\" the officials said. → The officials said that they ______ the river fairly.\na. can share  b. could share  c. could shared  d. shared can",
+     "a": "**b. could share** — can ← could، والفعل بعدها في المصدر (share)."
+    },
+    {
+     "q": "7. \"I am cleaning the beach today,\" Hoda said. → Hoda said that she was cleaning the beach ______.\na. today  b. tomorrow  c. that day  d. the day before",
+     "a": "**c. that day** — today ← that day."
+    },
+    {
+     "q": "8. The teacher said that the Earth ______ around the Sun.\na. goes  b. had gone  c. will go  d. is going",
+     "a": "**a. goes** — حقيقة علمية ثابتة، فمش لازم backshift."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**B. Only one sentence in each group is grammatically correct. Choose the correct answer.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "9. a. The fisherman said me that the fish had gone.\nb. The fisherman told that the fish had gone.\nc. The fisherman told me that the fish had gone.\nd. The fisherman told to me that the fish had gone.",
+     "a": "**c** — tell + شخص من غير to. (a) said me غلط، (b) told من غير شخص، (d) told to me غلط."
+    },
+    {
+     "q": "10. a. Sara asked why were the birds leaving.\nb. Sara asked why the birds were leaving.\nc. Sara asked why did the birds leave.\nd. Sara asked why the birds are leaving?",
+     "a": "**b** — الفاعل (the birds) قبل الفعل (were)، ومن غير did، ومن غير علامة استفهام."
+    },
+    {
+     "q": "11. a. The volunteers said that they have planted fifty trees.\nb. The volunteers said that they had planted fifty trees.\nc. The volunteers said that they had plant fifty trees.\nd. The volunteers said that they planting fifty trees.",
+     "a": "**b** — have planted ← had planted، والتصريف التالت planted."
+    },
+    {
+     "q": "12. a. The ranger told us not to feed the animals.\nb. The ranger told us don't feed the animals.\nc. The ranger said us not to feed the animals.\nd. The ranger told us to not feeding the animals.",
+     "a": "**a** — أمر بالنفي: told + شخص + **not to** + فعل."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**C. Read what the speakers said. Then fill in the gaps with the correct reported form of the verb in brackets.**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Scientist 1: \"The river is losing water every year.\" Scientist 2: \"The farmers use too much water in summer.\" Village leader: \"People don't have any other choice.\" The scientists: \"We will return next month with a new plan.\"",
+    "Last week, a group of scientists visited our village. They explained that the river (13) ______ (lose) water every year. One scientist added that the farmers (14) ______ (use) too much water in summer. The village leader replied that people (15) ______ (not / have) any other choice. Finally, the scientists said they (16) ______ (return) the following month with a new plan."
+   ]
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "13. the river ______ (lose)",
+     "a": "**was losing** — \"is losing\" (present continuous) ← was losing (past continuous)."
+    },
+    {
+     "q": "14. the farmers ______ (use)",
+     "a": "**used** — \"use\" (present simple) ← used (past simple)."
+    },
+    {
+     "q": "15. people ______ (not / have)",
+     "a": "**did not have** (didn't have) — \"People don't have any other choice\" ← didn't have."
+    },
+    {
+     "q": "16. they ______ (return)",
+     "a": "**would return** — \"We will return next month\" ← would return the following month."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**D. Change the following into reported speech.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "17. \"Our livelihood depends on this lake,\" the fishermen said.",
+     "a": "The fishermen said (that) **their** livelihood **depended** on **that** lake. — our ← their، depends ← depended، this ← that."
+    },
+    {
+     "q": "18. \"I am writing an email to the council,\" Karim told me.",
+     "a": "Karim told me (that) **he was writing** an email to the council. — I am writing ← he was writing."
+    },
+    {
+     "q": "19. \"Will the new dam affect the farmers?\" the student asked.",
+     "a": "The student asked **if / whether the new dam would affect** the farmers. — سؤال yes/no: if + ترتيب عادي + will ← would."
+    },
+    {
+     "q": "20. \"What are you doing to protect the turtles?\" the journalist asked Nour.",
+     "a": "The journalist asked Nour **what she was doing** to protect the turtles. — you ← she، are doing ← was doing، الفاعل قبل الفعل."
+    },
+    {
+     "q": "21. \"We saw hundreds of storks here yesterday,\" the guide said.",
+     "a": "The guide said (that) they **had seen** hundreds of storks **there the day before**. — saw ← had seen، here ← there، yesterday ← the day before."
+    },
+    {
+     "q": "22. \"Please don't cut down the trees,\" the villagers said to the company.",
+     "a": "The villagers **asked the company not to cut down** the trees. — طلب منفي: asked + شخص + not to."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**E. Find the mistake and correct it. Then write as asked.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "23. Find and correct the mistake: The officer asked me where did I find the injured bird.",
+     "a": "did I find ← **I had found** (أو I found): The officer asked me where **I had found** the injured bird. — مفيش did في السؤال المنقول."
+    },
+    {
+     "q": "24. Find and correct the mistake: The officials said that the new park could opened next year.",
+     "a": "could opened ← **could be opened**: محتاجين **be** علشان المعنى مبني للمجهول (الجنينة **هتتفتح**، مش هي اللي بتفتح)."
+    },
+    {
+     "q": "25. JRE: Should countries share the water of a river fairly? Write a claim, a reason and evidence. Use reported speech in your evidence.",
+     "a": "مثال: Countries should share river water fairly. This is because farmers, fishermen and wildlife on both sides depend on the same river. For example, a water expert **explained that** unfair sharing **could** lead to conflict, and local farmers **said that** they **were losing** their crops in dry years. — الدليل منقول بـ explained that / said that مع backshift."
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "ملخص الدرس في سطرين",
+   "items": [
+    "**said (that)** من غير شخص، و**told + شخص (that)**. ✗ said me ✓ told me.",
+    "فعل القول ماضي؟ رجّع الزمن **خطوة لورا**: is ← was، will ← would، can ← could، have done ← had done.",
+    "غيّر **الضمائر** (I ← he/she) و**الوقت والمكان** (today ← that day، here ← there، this ← that).",
+    "السؤال المنقول: **if / whether** أو كلمة السؤال + **فاعل + فعل**، من غير do/did ومن غير علامة استفهام.",
+    "الحقيقة العلمية أو الكلام اللي لسه صح **مش لازم** يرجع زمنه. واستخدم الـ reported speech كـ **Evidence** في الـ JRE."
+   ]
+  }
+ ]
+}

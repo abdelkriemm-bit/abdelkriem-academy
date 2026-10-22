@@ -1,0 +1,600 @@
+{
+ "slug": "bac-writ-opinion-paragraph",
+ "title": "Opinion Paragraph",
+ "kicker": "تانية بكالوريا · Writing · Unit 2 · Unit 4",
+ "summary": "إزاي تكتب فقرة رأي (150-180 كلمة): رأي واضح، أسباب، أمثلة، رأي معارض، وخاتمة، مع قواعد الوحدة.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "الدرس ده عن إيه؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "An **opinion paragraph** is a short piece of writing where you give your opinion about a topic and support it with reasons and examples."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الـ **Opinion Paragraph** يعني فقرة **رأي**: حد بيسألك «إنت شايف إيه؟» وإنت تقول رأيك بوضوح، وتدّي **أسباب** و**أمثلة أو أدلة**، وتختم بتأكيد رأيك. ده تعريف الكتاب نفسه تقريبًا."
+  },
+  {
+   "type": "p",
+   "text": "في الكتاب: **Unit 2: Leisure Time**، صفحة **Writing: How to Structure an Opinion Paragraph** (صفحة 52)، والـ **Summative Assessment** صفحة 64، والمطلوب **(150-180) words**. وفي **Unit 4: The Power of Choice** الكتاب بيرجع يطلب «**write clear opinion paragraphs**» ويضيف **linking words** و**fronting** و**JRE** في الكلام عن البراندات وهدر الأكل والتسوق."
+  },
+  {
+   "type": "h2",
+   "text": "الفكرة ببساطة"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Opinion → Reason → Example / Evidence → Conclusion. It is like JRE: your opinion is the **J**, the reason is the **R**, and the example is the **E**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "تخيل صاحبك سألك: «الموبايل بيضيع وقت الشباب؟» إنت هترد: «أيوه طبعًا (رأي)، **علشان** السكرول سهل ومش محتاج مجهود (سبب)، **مثلًا** المراهقين بيقضوا حوالي 7 ساعات على الشاشات من غير وقت المدرسة (دليل). **علشان كده** لازم نوازن (خاتمة)». مبروك، إنت كده كتبت Opinion Paragraph بالعربي!"
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "حيلة للحفظ: O-R-E-C",
+   "text": "**O**pinion – **R**eason – **E**xample – **C**onclusion. وهي نفس فكرة **JRE** اللي في الكتاب كله: رأيك = J، السبب = R، المثال = E."
+  },
+  {
+   "type": "h2",
+   "text": "الهيكل زي ما الكتاب بيشرحه"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "الجزء",
+    "الكتاب بيقول",
+    "يعني إيه بالعربي",
+    "مثال (موضوع الشاشات)"
+   ],
+   "rows": [
+    [
+     "1. **Opinion (Claim)**",
+     "State your opinion clearly.",
+     "قول رأيك من أول جملة",
+     "In my opinion, teenagers spend too much time on screens."
+    ],
+    [
+     "2. **Reason**",
+     "Give a reason to support your opinion.",
+     "ليه؟",
+     "This is because scrolling is easy and needs no effort."
+    ],
+    [
+     "3. **Example / Evidence**",
+     "Add an example or explanation.",
+     "مثال أو رقم أو شرح",
+     "For example, teenagers spend about seven hours a day on screens outside school."
+    ],
+    [
+     "(كرر) **Reason 2 + Example**",
+     "—",
+     "سبب تاني ومثال تاني علشان توصل للعدد",
+     "Moreover, creative hobbies reduce stress…"
+    ],
+    [
+     "(اختياري) **Counter-argument**",
+     "U2: acknowledge counter-arguments",
+     "اعترف برأي تاني ورد عليه",
+     "Admittedly, screens help us learn. However, …"
+    ],
+    [
+     "4. **Conclusion**",
+     "Restate your opinion in a different way.",
+     "قول رأيك تاني بكلام مختلف",
+     "In conclusion, young people need a better balance."
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "خلي بالك",
+   "text": "الكتاب بيقول في الخاتمة **restate your opinion in a different way**: يعني ماتنسخش أول جملة بالحرف. غيّر الكلمات: too much time on screens ← need a better balance between screens and active leisure."
+  },
+  {
+   "type": "h2",
+   "text": "الفرق بين Opinion Paragraph و Analytical Paragraph و Opinion Article"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "",
+    "Opinion paragraph (U2 · U4)",
+    "Analytical paragraph (U1)",
+    "Opinion article (U4)"
+   ],
+   "rows": [
+    [
+     "الهدف",
+     "رأيك الشخصي بأسباب وأمثلة",
+     "تحليل سؤال بدليل من النص",
+     "رأيك لمجلة المدرسة"
+    ],
+    [
+     "الشكل",
+     "فقرة واحدة",
+     "فقرة واحدة",
+     "عنوان + مقدمة + 2 body + concession + خاتمة"
+    ],
+    [
+     "الصوت",
+     "شخصي: I believe / In my opinion",
+     "أكاديمي: It can be argued that",
+     "شخصي ومقنع"
+    ],
+    [
+     "الدليل",
+     "أمثلة من الحياة أو النص",
+     "لازم من النص",
+     "أمثلة وأدلة"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "يعني الـ opinion paragraph أبسط وأكتر شخصية، بس لسه محتاج **سبب ودليل** لكل رأي."
+  },
+  {
+   "type": "h2",
+   "text": "عبارات مفيدة"
+  },
+  {
+   "type": "p",
+   "text": "أول مجموعة هي **Useful Expressions** اللي في الكتاب صفحة 52، وبعدها عبارات الـ Writing Frame صفحة 64، وبعدها linking words اللي Unit 4 بيطلبها:"
+  },
+  {
+   "type": "phrases",
+   "groups": [
+    {
+     "title": "Useful expressions (from the book)",
+     "items": [
+      "I believe that …",
+      "In my opinion, …",
+      "This is because …",
+      "For example, …",
+      "In conclusion, …"
+     ]
+    },
+    {
+     "title": "Writing frame (Summative, U2)",
+     "items": [
+      "The question of … is widely debated today.",
+      "This paragraph examines … using evidence from the text.",
+      "I believe that … because …",
+      "This is an important issue as …",
+      "One reason is that …",
+      "This means that …",
+      "For instance, …",
+      "In conclusion, I strongly believe that …"
+     ]
+    },
+    {
+     "title": "More ways to give an opinion",
+     "items": [
+      "From my point of view, …",
+      "Personally, I think that …",
+      "I strongly agree / disagree that …",
+      "It seems to me that …"
+     ]
+    },
+    {
+     "title": "Linking words (U4)",
+     "items": [
+      "Firstly, … / Secondly, …",
+      "Moreover, … / In addition, …",
+      "As a result, … / Consequently, …",
+      "However, … / On the other hand, …"
+     ]
+    },
+    {
+     "title": "Counter-argument",
+     "items": [
+      "Admittedly, …; however, …",
+      "Some people argue that … However, …",
+      "Although …, I still believe that …"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "القواعد اللي الكتاب بيطلبها جوه الفقرة"
+  },
+  {
+   "type": "en",
+   "text": [
+    "In Unit 2 the writing task asks for **at least two verbs + gerund**, **at least two verbs + infinitive** and **at least one verb whose meaning changes** (stop, remember, try). In Unit 4 you can add **fronting** and the **present perfect**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "ده مهم جدًا: الكتاب في Unit 2 مش بيقولك «اكتب رأيك» وخلاص، بيقولك **استخدم قواعد الوحدة**. بص على الأمثلة:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "المطلوب",
+    "أفعال مشهورة",
+    "مثال في فقرة رأي"
+   ],
+   "rows": [
+    [
+     "Verb + **gerund (-ing)**",
+     "enjoy, avoid, admit, finish, suggest, practise, keep",
+     "Many teenagers **avoid going** outside after school."
+    ],
+    [
+     "Verb + **to + infinitive**",
+     "want, decide, hope, need, plan, refuse, agree",
+     "Young people **need to find** a balance."
+    ],
+    [
+     "Verb بيتغير معناه",
+     "**stop / remember / try**",
+     "If we **stop checking** our phones, we will have more free time."
+    ],
+    [
+     "(U4) **Fronting**",
+     "As a result, / In Egypt, / Unlike …,",
+     "**In Egypt,** food waste is a serious problem."
+    ],
+    [
+     "(U4) **Present perfect**",
+     "have + p.p. (since, for, already, never)",
+     "Brands **have become** part of teenagers' identity."
+    ]
+   ]
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "I **enjoy drawing** because it helps me relax.",
+     "ar": "enjoy + -ing (gerund)."
+    },
+    {
+     "en": "Teenagers should **avoid using** their phones before bed.",
+     "ar": "avoid + -ing."
+    },
+    {
+     "en": "I have **decided to join** the school football team.",
+     "ar": "decide + to + infinitive."
+    },
+    {
+     "en": "We **hope to spend** less time online this summer.",
+     "ar": "hope + to + infinitive."
+    },
+    {
+     "en": "**Stop comparing** yourself to others online.",
+     "ar": "stop + -ing = بطّل تعمل الحاجة دي خالص."
+    },
+    {
+     "en": "He **stopped to buy** a drawing book on his way home.",
+     "ar": "stop + to = وقف **علشان** يعمل حاجة تانية (غرض)."
+    },
+    {
+     "en": "I **remember seeing** a documentary about street art.",
+     "ar": "remember + -ing = فاكر حاجة حصلت فعلًا."
+    },
+    {
+     "en": "**Remember to switch off** your phone at ten.",
+     "ar": "remember + to = افتكر تعمل حاجة (لسه هتتعمل)."
+    },
+    {
+     "en": "**Try to set** a daily screen-time limit.",
+     "ar": "try + to = حاول (مجهود)."
+    },
+    {
+     "en": "**Try turning off** notifications and see what happens.",
+     "ar": "try + -ing = جرّب كتجربة."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي تكتب خطوة بخطوة"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**اقرا السؤال** وقرر: موافق ولا مش موافق؟ (مثلًا: Do young people spend too much time on screens?).",
+    "**اكتب في الهامش**: رأيي + سببين + مثال لكل سبب + رأي معارض واحد.",
+    "**اكتب قائمة صغيرة بالقواعد المطلوبة** (2 gerunds – 2 infinitives – 1 stop/remember/try) علشان ماتنساهاش.",
+    "**الجملة الأولى = الرأي**: In my opinion, … / I believe that …",
+    "**السبب الأول + مثال**: This is because … For example, …",
+    "**السبب التاني + مثال**: Moreover, … According to research, … This means that …",
+    "**رأي معارض ورد**: Admittedly, … However, …",
+    "**الخاتمة**: In conclusion, … (نفس الرأي بكلمات مختلفة).",
+    "**راجع**: القواعد المطلوبة موجودة؟ عدد الكلمات 150-180؟ مفيش semicolon غلط؟"
+   ],
+   "ordered": true
+  },
+  {
+   "type": "h2",
+   "text": "موديل كامل"
+  },
+  {
+   "type": "p",
+   "text": "ده موديل على Writing Task اللي في الكتاب صفحة 52، وفيه القواعد اللي الكتاب طلبها."
+  },
+  {
+   "type": "model",
+   "title": "Model opinion paragraph",
+   "task": "Do you think young people today spend too much time on screens and not enough time on creative or physical activities? Write an opinion paragraph of (150-180) words expressing your opinion and supporting it with reasons and evidence. Include at least two verbs + gerunds, two verbs + infinitives and one verb whose meaning changes.",
+   "text": [
+    "In my opinion, young people today spend far too much time on screens and not enough time on creative or physical activities. This is because scrolling is easy and instant, while painting, playing football or learning an instrument requires real effort. For example, research shows that teenagers spend about seven hours a day on screens outside school, yet many of them say they have no time to exercise. Moreover, studies suggest that even thirty minutes of creative activity a day can reduce stress hormones. This means that the hours lost online are not only wasted time but also a missed chance to grow. Admittedly, screens can be useful for learning and keeping in touch with friends. However, I believe that teenagers should try to set clear limits. If they stop checking their phones every few minutes, they will discover how much free time they really have. Personally, I have decided to join the school orchestra, and I have started to enjoy practising every afternoon. In conclusion, young people need to balance their screen time with active and creative leisure."
+   ],
+   "word_count": 179,
+   "notes": [
+    "**Opinion**: أول جملة «In my opinion, young people…» رأي واضح وبكلمات السؤال (screens, creative, physical).",
+    "**Reason**: «This is because scrolling is easy and instant, while…» سبب منطقي فيه مقارنة (while).",
+    "**Example / Evidence 1**: رقم «about seven hours a day on screens outside school» من تسجيل Unit 2 عن الشاشات.",
+    "**Evidence 2**: «thirty minutes of creative activity a day can reduce stress hormones» من مقال الـ creative arts. وبعدها **This means that…** شرح.",
+    "**Counter-argument**: «Admittedly, screens can be useful… However, …» اعتراف بالرأي التاني ورد عليه.",
+    "**Verbs + gerund (2+)**: keeping (after for)، **stop checking**، **enjoy practising**.",
+    "**Verbs + infinitive (2+)**: **try to set**، **decided to join**، **started to enjoy**، **need to balance**.",
+    "**Verb whose meaning changes**: **stop checking** (بطّل خالص) و **try to set** (حاول).",
+    "**Conclusion**: «In conclusion, young people need to balance…» نفس الرأي بكلمات مختلفة زي ما الكتاب طالب.",
+    "**عدد الكلمات**: 179 كلمة (المطلوب 150-180)."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "أشهر الأخطاء (غلط ← صح)",
+   "items": [
+    "✗ ماتقولش رأيك غير في الآخر. ✓ رأيك في **أول جملة**.",
+    "✗ In my opinion, I think that… (تكرار). ✓ **In my opinion, …** أو **I think that…** واحدة بس.",
+    "✗ أسباب من غير أمثلة. ✓ بعد كل سبب: **For example / For instance**.",
+    "✗ I enjoy to draw. ✓ I **enjoy drawing**.",
+    "✗ I decided joining the club. ✓ I **decided to join** the club.",
+    "✗ الخاتمة نسخة من أول جملة. ✓ **Restate in a different way.**",
+    "✗ Firstly, Secondly, Thirdly, Fourthly… في فقرة 150 كلمة. ✓ سببين قويين أحسن من 4 ضعاف."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "إزاي تجاوب في الامتحان",
+   "items": [
+    "اختار الرأي اللي **عندك ليه أمثلة أكتر**، مش الرأي اللي «أحلى».",
+    "حط القواعد المطلوبة **بطريقة طبيعية**. مش لازم تعملها bold في الامتحان، بس اتأكد إنها موجودة.",
+    "جملة **Admittedly…; however…** أو **Although…** بتبين إنك شايف الرأيين (U2 بيطلب acknowledge counter-arguments).",
+    "في Unit 4 جرّب **fronting** في جملة الدليل: **As a result of** clever advertising, teenagers buy more than they need."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي بييجي في الأسئلة؟"
+  },
+  {
+   "type": "p",
+   "text": "الأسئلة في الكتاب والمراجعات بتيجي بالأشكال دي:"
+  },
+  {
+   "type": "p",
+   "text": "**1) سؤال رأي قصير (2-3 sentences)** زي اللي في Unit 4: «\"The more aware we are of how brands shape our thinking, the better our choices become.\" Do you agree? Write 2-3 sentences giving your opinion with a reason.»"
+  },
+  {
+   "type": "en",
+   "text": [
+    "**Answer:** I strongly agree with this idea. This is because teenagers who understand advertising tricks are less likely to buy a product just to feel that they belong. For example, I have stopped buying expensive trainers only for the logo."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الشرح: رأي (agree) + سبب (This is because) + مثال شخصي بـ present perfect (have stopped buying) وفيه gerund."
+  },
+  {
+   "type": "p",
+   "text": "**2) Writing Task: Opinion paragraph (150-180) words** مع شروط قواعد، زي الموديل."
+  },
+  {
+   "type": "p",
+   "text": "**3) Summative Assessment** بأسئلة زي «Should young people be held responsible for their own leisure choices, or does society play a greater role?» ومعاها **Writing Frame** تكمله. مثال تكملة:"
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "The question of **who is responsible for teenagers' leisure choices** is widely debated today.",
+     "ar": "البداية."
+    },
+    {
+     "en": "I believe that **young people are mainly responsible** because **they choose how to spend their free time**.",
+     "ar": "الرأي + السبب."
+    },
+    {
+     "en": "One reason is that **teenagers can decide to put their phones away**.",
+     "ar": "سبب، وفيه decide to."
+    },
+    {
+     "en": "For instance, **many students enjoy joining clubs when schools offer them**.",
+     "ar": "مثال، وفيه enjoy + -ing."
+    },
+    {
+     "en": "This means that **society also plays a role by giving them options**.",
+     "ar": "شرح ورأي تاني."
+    },
+    {
+     "en": "In conclusion, I strongly believe that **responsibility is shared, but the final choice belongs to the teenager**.",
+     "ar": "الخاتمة."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "تدريب"
+  },
+  {
+   "type": "p",
+   "text": "**A. Which part of the opinion paragraph is each sentence? (Opinion / Reason / Example / Counter-argument / Conclusion)**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "1. For instance, Egyptian families often throw away leftover food after big celebrations.",
+     "a": "**Example** — For instance + مثال محدد."
+    },
+    {
+     "q": "2. In conclusion, reducing food waste begins with simple choices at home.",
+     "a": "**Conclusion** — In conclusion + الرأي بكلام مختلف."
+    },
+    {
+     "q": "3. I believe that schools should give students more time for creative activities.",
+     "a": "**Opinion** — I believe that."
+    },
+    {
+     "q": "4. Admittedly, extra art lessons may take time from exam subjects.",
+     "a": "**Counter-argument** — Admittedly."
+    },
+    {
+     "q": "5. This is because creative arts help teenagers express themselves and reduce stress.",
+     "a": "**Reason** — This is because."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**B. Complete with the correct form of the verb in brackets (gerund or infinitive).**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "6. Many teenagers avoid ______ (go) outside on hot afternoons.",
+     "a": "**going** — avoid + -ing."
+    },
+    {
+     "q": "7. I have decided ______ (spend) less time on social media.",
+     "a": "**to spend** — decide + to."
+    },
+    {
+     "q": "8. Our teacher suggested ______ (start) a photography club.",
+     "a": "**starting** — suggest + -ing."
+    },
+    {
+     "q": "9. If you want ______ (feel) calmer, try ______ (walk) for twenty minutes and see what happens.",
+     "a": "**to feel** — want + to / **walking** — try + -ing = جرّب كتجربة."
+    },
+    {
+     "q": "10. Please remember ______ (switch) off your phone before the exam.",
+     "a": "**to switch** — remember + to = حاجة لسه هتتعمل."
+    },
+    {
+     "q": "11. She stopped ______ (play) video games late at night, and now she sleeps better.",
+     "a": "**playing** — stop + -ing = بطّلت خالص."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**C. Choose the correct answer.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "12. ______, I think that brand culture has more negative effects than positive ones.\na. For example  b. In my opinion  c. In conclusion  d. However",
+     "a": "**b. In my opinion** — بداية رأي."
+    },
+    {
+     "q": "13. Many students enjoy sport. ______, it helps them make new friends.\na. Moreover  b. However  c. In conclusion  d. Although",
+     "a": "**a. Moreover** — إضافة سبب تاني."
+    },
+    {
+     "q": "14. Screens can be useful for learning. ______, too much screen time may harm sleep.\na. For example  b. As a result  c. However  d. Firstly",
+     "a": "**c. However** — تناقض."
+    },
+    {
+     "q": "15. Which sentence is the best conclusion?\na. For example, I play football.  b. In conclusion, active leisure deserves a bigger place in our daily lives.  c. This is because sport is fun.  d. Firstly, sport is healthy.",
+     "a": "**b** — In conclusion + الرأي بكلام جديد."
+    },
+    {
+     "q": "16. Which sentence uses fronting for emphasis (Unit 4)?\na. Bread goes bad quickly because of poor storage.  b. As a result of poor storage, bread goes bad quickly.  c. Bread goes bad quickly.  d. Poor storage is a problem.",
+     "a": "**b** — العبارة As a result of… اتقدمت لأول الجملة."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**D. Find the mistake and correct it.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "17. In my opinion, I think that sales make people buy things they don't need.",
+     "a": "شيل **I think that** أو **In my opinion**: In my opinion, sales make people buy things they don't need."
+    },
+    {
+     "q": "18. Teenagers should avoid to buy products only for the logo.",
+     "a": "to buy ← **buying**: avoid + -ing."
+    },
+    {
+     "q": "19. I hope joining the drama club next term.",
+     "a": "joining ← **to join**: hope + to."
+    },
+    {
+     "q": "20. Young people spend too much time online, for example they need balance.",
+     "a": "for example غلط هنا (مفيش مثال). ✓ … online. **Therefore,** they need more balance."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**E. Writing tasks: write an opinion paragraph of (150-180) words.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "21. (Unit 2) What does it mean to have a balanced leisure life in today's world?",
+     "a": "خطة مقترحة: **Opinion**: a balanced leisure life mixes screens, creative arts and physical activity. **Reason 1**: each one helps a different part of well-being. **Example**: drawing reduces stress / sport builds teamwork. **Reason 2**: some screen time is fine (learning, family calls). **Counter**: Admittedly, it is hard with homework. **Conclusion**. قواعد: enjoy + -ing, decide to, stop + -ing."
+    },
+    {
+     "q": "22. (Unit 4) Brands influence teenagers more than parents do. Do you agree?",
+     "a": "خطة مقترحة: **Opinion**: I partly agree. **Reason 1**: brands sell a feeling of belonging. **Example**: teenagers want to wear the same trainers as their friends. **Reason 2**: social media has made brands visible all day (present perfect). **Counter**: However, parents still shape values and pay for purchases. **Conclusion**: awareness is the key. جرّب fronting: **Unlike parents,** brands speak to teenagers every minute online."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Checklist قبل ما تسلّم"
+  },
+  {
+   "type": "list",
+   "items": [
+    "رأيي واضح في **أول جملة**.",
+    "فيه **سبب** واحد على الأقل (والأحسن اتنين).",
+    "كل سبب معاه **مثال أو دليل** (For example / For instance / According to…).",
+    "اعترفت **برأي معارض** ورديت عليه (Admittedly… However…).",
+    "**الخاتمة** بتقول رأيي تاني بكلام مختلف.",
+    "استخدمت القواعد المطلوبة (U2: **2 gerunds + 2 infinitives + stop/remember/try** — U4: **linking words / fronting / present perfect**).",
+    "فقرة **واحدة** و**150-180** كلمة."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "ملخص الدرس في سطرين",
+   "items": [
+    "Opinion paragraph = **Opinion – Reason – Example – Conclusion** (O-R-E-C)، وده نفس منطق JRE.",
+    "عبارات الكتاب: **I believe that / In my opinion / This is because / For example / In conclusion**.",
+    "كرر **السبب + المثال** مرتين، وزوّد **counter-argument** علشان توصل لـ **150-180**.",
+    "في Unit 2 لازم **gerunds + infinitives + stop/remember/try**، وفي Unit 4 **linking words + fronting**.",
+    "الخاتمة = **نفس الرأي بكلام مختلف**."
+   ]
+  }
+ ]
+}

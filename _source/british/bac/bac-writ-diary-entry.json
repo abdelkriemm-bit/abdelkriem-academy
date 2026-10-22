@@ -1,0 +1,595 @@
+{
+ "slug": "bac-writ-diary-entry",
+ "title": "Diary Entry",
+ "kicker": "تانية بكالوريا · Writing · Unit 2 · Unit 10",
+ "summary": "إزاي تكتب صفحة مذكرات (150-180 كلمة): حصل إيه، حسيت بإيه، واتعلمت إيه، بالأزمنة السردية وتشبيه ومقارنة.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "الدرس ده عن إيه؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "A **diary entry** is a personal piece of writing in which you describe an experience, your thoughts and your feelings. It is written in the first person (I, me, my, we), usually after an important, surprising or emotional experience, and it ends with a reflection on what you learned."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الـ **Diary Entry** يعني «صفحة في المذكرات اليومية». إنت بتكتب لنفسك عن يوم مهم أو موقف غريب أو مؤثر حصلك: **حصل إيه، حسيت بإيه، واتعلمت إيه**. القارئ هنا **إنت نفسك**، فالكتابة صادقة وشخصية."
+  },
+  {
+   "type": "p",
+   "text": "في الكتاب الدرس ده جه مرتين:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Unit 2: Leisure Time** صفحة 62-63: **How to Structure Your Diary Entry** (جدول مفصل) + Writing Task + **Diary Entry Checklist**، والمطلوب **(150-180) words** بأسلوب «engaging and reflective». وفي صفحة 65 فيه **diary entry language checklist**: narrative tenses، كلمات الدرس، **simile**، **contrast**، صوت شخصي، و**reflection**.",
+    "**Unit 10: Behind the Buy** صفحة 150-151: تعريف الـ diary entry + **Suggested Structure** في 3 فقرات + Writing Task عن «Buy Nothing» swap + **Rubric**، والمطلوب **about (150-180) words**."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "الدايري بيفيدك في إيه؟"
+  },
+  {
+   "type": "p",
+   "text": "الكتاب في Unit 2 بيقول إن الدايري ليها وظايف: **مكان آمن تفضفض فيه (a safe outlet)**، و**تأمل ووضوح (self-reflection and clarity)**، و**نمو إبداعي (creative growth)**. القارئ هو **Yourself**، والهدف إنك **تفهم يومك (to reflect and make sense of the day)**."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "حيلة للحفظ: 3 أسئلة",
+   "text": "أي دايري بترد على 3 أسئلة: **What happened?** (حصل إيه؟) – **How did I feel?** (حسيت بإيه؟) – **What did I learn?** (اتعلمت إيه؟). لو جاوبتهم بالترتيب ده، إنت كتبت دايري صح."
+  },
+  {
+   "type": "h2",
+   "text": "الهيكل زي ما الكتاب بيشرحه"
+  },
+  {
+   "type": "p",
+   "text": "**1) الجدول المفصل في Unit 2** (صفحة 62):"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "الجزء (Section)",
+    "الكتاب بيقول تحط إيه",
+    "يعني إيه بالعربي"
+   ],
+   "rows": [
+    [
+     "**Date and salutation**",
+     "e.g. Dear Diary, Friday…",
+     "التاريخ فوق، وبعده **Dear Diary,**"
+    ],
+    [
+     "**Opening**",
+     "Set the scene: where you were, what you had just done.",
+     "إنت فين ولسه عامل إيه (past perfect / present perfect)"
+    ],
+    [
+     "**The story**",
+     "Recount the main events in order using narrative tenses: the positive start, the difficulty, the decision to keep going.",
+     "الأحداث بالترتيب: بداية حلوة ← مشكلة ← قرار إنك تكمل"
+    ],
+    [
+     "**Turning point**",
+     "The moment you most wanted to stop. What stopped you? Use Past Continuous to show what was happening around you.",
+     "اللحظة اللي كنت عايز تبطل فيها، وإيه اللي خلاك تكمل. استخدم **was/were + -ing** للي بيحصل حواليك"
+    ],
+    [
+     "**The ending**",
+     "How did it feel when you finally stopped? Use a simile or vivid detail.",
+     "إحساسك في الآخر، بـ **تشبيه (simile)** أو تفصيلة حية"
+    ],
+    [
+     "**Reflection**",
+     "What did this experience teach you about yourself? About leisure? Make it personal and honest.",
+     "الرسالة: اتعلمت إيه عن نفسك"
+    ],
+    [
+     "**Final sentence**",
+     "A memorable line that captures your key insight: funny, philosophical, or both.",
+     "جملة أخيرة تتحفظ: ظريفة أو حكيمة"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**2) الهيكل المختصر في Unit 10** (صفحة 150):"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "الفقرة",
+    "Suggested Structure",
+    "يعني إيه"
+   ],
+   "rows": [
+    [
+     "Paragraph 1",
+     "Introduce the experience.",
+     "إيه الموقف ده؟ إمتى وفين؟"
+    ],
+    [
+     "Paragraph 2",
+     "Describe what happened.",
+     "الأحداث بالترتيب"
+    ],
+    [
+     "Paragraph 3",
+     "Express your feelings and reflection.",
+     "مشاعرك واتعلمت إيه"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الاتنين نفس الفكرة: جدول Unit 2 هو نسخة **مفصلة** من الـ 3 فقرات بتوع Unit 10. استخدم اللي يناسب السؤال: لو السؤال عن **تجربة فيها تحدي** امشي على جدول Unit 2، ولو عن **موقف بسيط** (زي إنك اتبرعت بحاجة) امشي على الـ 3 فقرات."
+  },
+  {
+   "type": "h2",
+   "text": "اللغة اللي الكتاب عايزها"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Use **narrative tenses** (past simple, past continuous, past perfect), the **first person**, **feelings words**, a **simile**, a **contrast**, and end with a **reflection**. In Unit 10, also use **stative verbs** correctly and **quantifiers**."
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "الأداة",
+    "بنستخدمها علشان",
+    "مثال"
+   ],
+   "rows": [
+    [
+     "**Past simple**",
+     "الأحداث الأساسية بالترتيب",
+     "We **reached** the top at noon."
+    ],
+    [
+     "**Past continuous**",
+     "اللي كان بيحصل حواليك (خلفية المشهد)",
+     "The others **were laughing** while I **was counting** every step."
+    ],
+    [
+     "**Past perfect**",
+     "حاجة حصلت قبل حاجة تانية في الماضي",
+     "I **had planned** to stay at home."
+    ],
+    [
+     "**Present perfect** (في الأول)",
+     "لسه عامل حاجة دلوقتي وإنت بتكتب",
+     "I **have just come** home."
+    ],
+    [
+     "**Simile** (تشبيه بـ like / as … as)",
+     "تخلّي الوصف حي",
+     "My legs felt **like jelly**."
+    ],
+    [
+     "**Contrast**",
+     "تبين التغيير في المشاعر",
+     "I was exhausted, **yet** I felt proud."
+    ],
+    [
+     "**Feelings words**",
+     "الصوت الشخصي",
+     "nervous, relieved, proud, frustrated, grateful"
+    ],
+    [
+     "(U10) **Stative verbs**",
+     "أفعال حالة ماتجيش -ing غالبًا",
+     "I **love** that jacket. (✗ I am loving)"
+    ],
+    [
+     "(U10) **Quantifiers**",
+     "كميات",
+     "**too many** clothes, **a large amount of** waste, **few** people, **little** money"
+    ]
+   ]
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "I **had never thought** that a desert walk could be fun.",
+     "ar": "past perfect: قبل التجربة."
+    },
+    {
+     "en": "While my cousins **were taking** photos, I **was trying** to breathe.",
+     "ar": "past continuous: المشهد في لحظة الـ turning point (زي ما الكتاب طالب)."
+    },
+    {
+     "en": "Suddenly, I **saw** the top of the hill.",
+     "ar": "past simple: حدث جديد."
+    },
+    {
+     "en": "The valley looked **like a golden carpet**.",
+     "ar": "simile بـ like."
+    },
+    {
+     "en": "I felt **as light as a feather** after I donated the bag.",
+     "ar": "simile بـ as … as."
+    },
+    {
+     "en": "At first I **was** nervous, **but** by the end I **felt** confident.",
+     "ar": "contrast بين البداية والنهاية."
+    },
+    {
+     "en": "I **own too many** T-shirts that I never wear.",
+     "ar": "U10: own = stative verb + too many (quantifier)."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "عبارات مفيدة"
+  },
+  {
+   "type": "phrases",
+   "groups": [
+    {
+     "title": "Opening (البداية)",
+     "items": [
+      "Dear Diary,",
+      "What a day!",
+      "I have just come back from …",
+      "I can't believe what happened today.",
+      "I'm writing this from my bed, and I'm still …"
+     ]
+    },
+    {
+     "title": "Telling the story (الأحداث)",
+     "items": [
+      "At first, … / In the beginning, …",
+      "Then, … / After that, …",
+      "Suddenly, …",
+      "As the morning wore on, …",
+      "By the time …, I had …"
+     ]
+    },
+    {
+     "title": "Turning point (اللحظة الصعبة)",
+     "items": [
+      "At one point, I seriously considered …",
+      "I almost gave up when …",
+      "But something stopped me: …",
+      "I kept going because …"
+     ]
+    },
+    {
+     "title": "Feelings (المشاعر)",
+     "items": [
+      "I felt so … that …",
+      "My heart was beating like a drum.",
+      "I was exhausted, yet strangely satisfied.",
+      "I have never felt so proud."
+     ]
+    },
+    {
+     "title": "Reflection (التأمل)",
+     "items": [
+      "Today taught me that …",
+      "I have realised that …",
+      "Looking back, …",
+      "Next time, I will …"
+     ]
+    },
+    {
+     "title": "Final line (جملة الختام)",
+     "items": [
+      "Lesson learned: …",
+      "Who knew that …?",
+      "Goodnight, Diary. …"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي تكتب خطوة بخطوة"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**اقرا المهمة** وحدد النقط المطلوبة (مثلًا في Unit 10: the item – why special – why donate – feelings – lesson). كل نقطة لازم تظهر.",
+    "**اكتب خطة من 5 كلمات**: بداية حلوة ← مشكلة ← لحظة صعبة ← نهاية ← درس.",
+    "**ابدأ بالتاريخ** في سطر، وبعده **Dear Diary,** في سطر لوحده.",
+    "**Opening**: فين كنت ولسه عامل إيه (I have just… / I had planned to…).",
+    "**الأحداث بالترتيب** بـ past simple، وفي اللحظة الصعبة استخدم **past continuous** للخلفية.",
+    "**حط simile واحد** و**contrast واحد** على الأقل (زي ما الـ checklist بتطلب).",
+    "**المشاعر**: قول حسيت بإيه في كل مرحلة، مش في الآخر بس.",
+    "**Reflection + final line**: اتعلمت إيه، وجملة أخيرة تفضل في الدماغ.",
+    "**راجع**: ضمير I؟ ترتيب واضح؟ الأزمنة صح؟ 150-180 كلمة؟"
+   ],
+   "ordered": true
+  },
+  {
+   "type": "h2",
+   "text": "موديل كامل"
+  },
+  {
+   "type": "p",
+   "text": "ده موديل على مهمة شبه مهمة Unit 2 (تجربة leisure فيها مجهود)، ماشي على جدول الكتاب بالظبط."
+  },
+  {
+   "type": "model",
+   "title": "Model diary entry",
+   "task": "Write a diary entry about a day when you tried an outdoor activity that you did not expect to enjoy. Describe what happened, how you felt, and what you have learned about leisure and happiness. Write in an engaging and reflective style (150-180) words.",
+   "text": [
+    "Friday, 6 March",
+    "Dear Diary,",
+    "I have just come home from Wadi Degla, and my legs are still shaking. This morning my cousin Karim persuaded me to go on a desert hike. I had planned to spend the day on my phone, so I was not exactly excited.",
+    "At the start, the walk was a pleasant surprise. The air was cool, and the rocks were glowing orange. By eleven o'clock, however, the path had become steep and the heat was getting worse. While Karim was marching ahead as if he were in a shopping centre, I kept stopping to drink water. At one point, I nearly begged him to turn back.",
+    "I did not, though. Perhaps I did not want to be the one who gave up. When we finally reached the top, the valley lay below us like a giant golden carpet. I was exhausted, yet I felt prouder than I have ever felt after a day of gaming.",
+    "Today taught me that the best leisure is not always the easiest. Next Friday, my phone stays at home!"
+   ],
+   "word_count": 179,
+   "notes": [
+    "**Date and salutation**: «Friday, 6 March» في سطر و «Dear Diary,» في سطر لوحده.",
+    "**Opening**: «I have just come home…» (present perfect) و «I had planned to…» (past perfect) بيحطوا القارئ في المشهد: كان فين ولسه عامل إيه.",
+    "**The story**: بداية حلوة (a pleasant surprise) ← صعوبة (the path had become steep and the heat was getting worse) بالترتيب، وبـ past simple و past perfect.",
+    "**Turning point + past continuous**: «While Karim was marching ahead…, I kept stopping to drink water. At one point, I nearly begged him to turn back.» دي اللحظة اللي كان عايز يبطل فيها، والـ past continuous بيوصف اللي بيحصل حواليه زي ما جدول الكتاب طالب.",
+    "**Decision**: «I did not, though. Perhaps I did not want to be the one who gave up.» إيه اللي منعه يبطل.",
+    "**Simile**: «like a giant golden carpet» = التفصيلة الحية في الـ ending.",
+    "**Contrast**: «I was exhausted, yet I felt prouder than…». وفيه contrast تاني في الأحداث: By eleven o'clock, however, …",
+    "**Feelings words**: shaking, not exactly excited, pleasant surprise, exhausted, prouder. المشاعر موجودة في كل مرحلة مش في الآخر بس.",
+    "**Reflection + final sentence**: «the best leisure is not always the easiest» + جملة ختام ظريفة «my phone stays at home!».",
+    "**عدد الكلمات**: 179 كلمة مع التاريخ و Dear Diary (المطلوب 150-180)."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "أشهر الأخطاء (غلط ← صح)",
+   "items": [
+    "✗ نسيت التاريخ أو Dear Diary. ✓ أول سطرين: **التاريخ** ثم **Dear Diary,**",
+    "✗ كتبت زي الإيميل: Dear Diary, How are you? ✓ الدايري **مش رسالة لحد**. ادخل في الموقف على طول.",
+    "✗ كل الأفعال present: Today I go to the desert and I walk. ✓ **Today I went… / I was walking…**",
+    "✗ أحداث من غير مشاعر. ✓ بعد كل مرحلة جملة مشاعر: **I felt…**",
+    "✗ خلصت من غير درس. ✓ لازم **Reflection**: Today taught me that…",
+    "✗ (U10) I am loving this jacket / I am owning many clothes. ✓ I **love** this jacket. I **own** many clothes.",
+    "✗ (U10) too much clothes / too many money. ✓ **too many clothes / too much money**."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "إزاي تجاوب في الامتحان",
+   "items": [
+    "اعمل **تشييك** على النقط المطلوبة في المهمة واحدة واحدة. نقطة ناقصة = إجابة ناقصة.",
+    "الـ **simile** والـ **contrast** والـ **past continuous** حاجات صغيرة بس بتبين إنك مطبق checklist الكتاب.",
+    "خلي الجملة الأخيرة قصيرة وقوية. هي آخر حاجة المصحح بيقراها.",
+    "استخدم **كلمات الوحدة** (Unit 2: insisted, kept going, a sense of achievement… / Unit 10: swap, mindful, donate, second-hand…)."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي بييجي في الأسئلة؟"
+  },
+  {
+   "type": "p",
+   "text": "الأسئلة في الكتاب بتيجي بالشكلين دول:"
+  },
+  {
+   "type": "p",
+   "text": "**1) دايري من وجهة نظر شخصية في قصة قريتها** (Unit 2): «You are the narrator of the extract. Write a diary entry from Saturday evening. Describe what happened, how you felt, and what you have learned about leisure and happiness.»"
+  },
+  {
+   "type": "p",
+   "text": "هنا لازم تلتزم **بأحداث القصة** (رحلة العجل جنب النيل: بداية هادية، الشمس والتعب، كان عايز يطلب تاكسي، كمّل، والإحساس بالإنجاز في الآخر) بس **بكلامك إنت** وبصوت «أنا». ماتنسخش جمل القصة."
+  },
+  {
+   "type": "p",
+   "text": "**2) دايري عن موقف متخيل** (Unit 10): «Imagine that you donated an item that was special to you at a 'Buy Nothing' community swap…». هنا الـ 4 نقط المطلوبة هي الخطة بتاعتك."
+  },
+  {
+   "type": "p",
+   "text": "مثال بداية لكل نقطة في مهمة Unit 10:"
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "The item: **It was the blue football shirt that my grandfather had given me when I was ten.**",
+     "ar": "حاجة مميزة + past perfect."
+    },
+    {
+     "en": "Why special: **I wore it to every match, and it still smelt of the club where we used to play.**",
+     "ar": "ليه مميزة."
+    },
+    {
+     "en": "Why donate: **It had been in my wardrobe for years, and I realised that I own too many clothes.**",
+     "ar": "السبب + quantifier."
+    },
+    {
+     "en": "Feelings: **When I saw a little boy wearing it in the park, my heart felt as warm as tea on a winter night.**",
+     "ar": "مشاعر + simile."
+    },
+    {
+     "en": "Lesson: **I have learned that things matter more when someone uses them.**",
+     "ar": "reflection."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "تدريب"
+  },
+  {
+   "type": "p",
+   "text": "**A. Which section of the diary entry is each sentence? (Opening / Story / Turning point / Ending / Reflection / Final sentence)**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "1. Who knew that a heavy bag of old books could make me feel so light?",
+     "a": "**Final sentence** — جملة ذكية فيها الفكرة الأساسية."
+    },
+    {
+     "q": "2. I have just got back from the community swap at the youth centre.",
+     "a": "**Opening** — بيحدد المكان ولسه عامل إيه."
+    },
+    {
+     "q": "3. At one point, while everyone was cheering, I seriously thought about leaving the race.",
+     "a": "**Turning point** — اللحظة اللي كان عايز يبطل فيها + past continuous."
+    },
+    {
+     "q": "4. This experience has taught me that I am stronger than I thought.",
+     "a": "**Reflection** — اتعلم إيه عن نفسه."
+    },
+    {
+     "q": "5. When I crossed the finish line, I felt like a balloon that had finally landed.",
+     "a": "**Ending** — إحساس النهاية + simile."
+    },
+    {
+     "q": "6. We left early, and for the first hour the road was quiet and shady.",
+     "a": "**Story** — بداية الأحداث بالترتيب."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**B. Complete with the correct narrative tense of the verb in brackets.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "7. When I arrived at the park, my friends ______ (already / start) the game.",
+     "a": "**had already started** — past perfect: حصلت قبل ما أوصل."
+    },
+    {
+     "q": "8. While we ______ (cycle) along the Nile, the sun grew stronger.",
+     "a": "**were cycling** — past continuous: خلفية."
+    },
+    {
+     "q": "9. Suddenly, my phone ______ (ring), and I almost fell off my bike.",
+     "a": "**rang** — past simple: حدث مفاجئ."
+    },
+    {
+     "q": "10. I ______ (never / feel) so tired before that day.",
+     "a": "**had never felt** — past perfect: قبل اليوم ده."
+    },
+    {
+     "q": "11. Dear Diary, I ______ (just / come) back from the swap, and I'm still smiling.",
+     "a": "**have just come** — present perfect في الـ opening."
+    },
+    {
+     "q": "12. I ______ (love) that jacket, so donating it was not easy.",
+     "a": "**loved** — love فعل حالة (stative)، مش was loving."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**C. Choose the correct answer.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "13. Which is the correct way to start a diary entry?\na. Dear Sir,  b. Hi Diary! How are you?  c. Dear Diary,  d. To whom it may concern,",
+     "a": "**c. Dear Diary,** — زي الـ checklist بتاعة الكتاب."
+    },
+    {
+     "q": "14. Which sentence contains a simile?\na. I was very tired.  b. My legs felt like stones.  c. I kept going.  d. The road was long.",
+     "a": "**b** — like stones = تشبيه."
+    },
+    {
+     "q": "15. Which sentence shows contrast?\na. I was nervous, but I was also excited.  b. I went home.  c. Then we ate lunch.  d. It was Friday.",
+     "a": "**a** — but بتجمع إحساسين عكس بعض."
+    },
+    {
+     "q": "16. A diary entry is mainly written for:\na. a teacher  b. a company  c. yourself  d. a newspaper",
+     "a": "**c. yourself** — الكتاب بيقول القارئ هو Yourself."
+    },
+    {
+     "q": "17. I have ______ clothes that I never wear.\na. too much  b. too many  c. a little  d. much",
+     "a": "**b. too many** — clothes معدود (countable)."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**D. Find the mistake and correct it.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "18. Yesterday I go to the swap and I give my old bag.",
+     "a": "**went / gave** — حاجة خلصت في الماضي."
+    },
+    {
+     "q": "19. While I was walk home, I saw my old toy in a shop window.",
+     "a": "was walk ← **was walking**."
+    },
+    {
+     "q": "20. I am owning too many trainers.",
+     "a": "am owning ← **own**: own فعل حالة."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**E. Writing tasks: write a diary entry of (150-180) words.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "21. (Unit 2) You are the narrator of the cycling extract. Write a diary entry from Saturday evening: what happened, how you felt, what you learned about leisure and happiness.",
+     "a": "خطة مقترحة: **Date + Dear Diary**. **Opening**: just got home, legs aching. **Story**: friend insisted / quiet morning by the Nile / sun stronger, road longer. **Turning point**: almost called a taxi while friend was cycling easily (past continuous). **Ending**: exhausted but satisfied by the river + **simile بتاعك إنت** (ماتنسخش تشبيه القصة like warm sand). **Reflection**: leisure is not always comfort. **Final line**: funny or wise."
+    },
+    {
+     "q": "22. (Unit 10) You donated a special item at a 'Buy Nothing' community swap. A few days later, you saw another family using and enjoying it.",
+     "a": "خطة مقترحة: **P1**: the item + why special (past perfect: had given me). **P2**: why you donated (too many / few chances to use it) + the moment you saw the family (was playing / were laughing). **P3**: feelings (simile + contrast: sad at first, yet happy) + what you learned about mindful consumption. اتأكد من stative verbs (love, own, need)."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Checklist قبل ما تسلّم"
+  },
+  {
+   "type": "p",
+   "text": "دي الـ Diary Entry Checklist بتاعة الكتاب (Unit 2) + الـ Rubric بتاعة Unit 10 + language checklist صفحة 65:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "كتبت **التاريخ** في الأول.",
+    "بدأت بتحية مناسبة: **Dear Diary,**",
+    "وصفت **تجربة شخصية واضحة** بضمير **I**.",
+    "شرحت **حصل إيه** بترتيب واضح.",
+    "عبرت عن **مشاعري وأفكاري** بوضوح.",
+    "استخدمت **narrative tenses** (past simple / past continuous / past perfect).",
+    "فيه **simile** واحد و**contrast** واحد على الأقل، وكلمات من الوحدة.",
+    "شرحت **اتعلمت إيه** (reflection) وختمت بجملة قوية.",
+    "عدد الكلمات **150-180**، وراجعت الإملاء وعلامات الترقيم والقواعد."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "ملخص الدرس في سطرين",
+   "items": [
+    "Diary entry = **حصل إيه + حسيت بإيه + اتعلمت إيه**، بضمير I، والقارئ هو إنت.",
+    "الشكل: **التاريخ** ثم **Dear Diary,** ثم Opening – Story – Turning point – Ending – Reflection – Final sentence (أو 3 فقرات في Unit 10).",
+    "الأزمنة: **past simple** للأحداث، **past continuous** للخلفية في اللحظة الصعبة، **past perfect** للي حصل قبلها.",
+    "زوّد **simile** و**contrast** وكلمات الوحدة.",
+    "الطول **150-180** كلمة، واختم بجملة تفضل في الدماغ."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,506 @@
+{
+ "slug": "bac-read-vocabulary-in-context",
+ "title": "Vocabulary in Context",
+ "kicker": "تانية بكالوريا · Reading · All units",
+ "summary": "إزاي تفهم معنى كلمة صعبة من الكلام اللي حواليها من غير قاموس، وتجاوب أسئلة «closest in meaning to» والمرادفات والأضداد.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "الدرس ده عن إيه؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "**Vocabulary in context** means guessing the meaning of a new word from the words and sentences around it. The context is like a set of clues."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "في الامتحان مفيش قاموس. وأكيد هتقابل كلمات أول مرة تشوفها. الدرس ده بيعلمك تبقى «**محقق**»: تدوّر على **الأدلة (clues)** اللي حوالين الكلمة علشان تعرف معناها."
+  },
+  {
+   "type": "p",
+   "text": "الأسئلة دي موجودة في **كل الوحدات** وفي المراجعات. أمثلة لشكلها في الكتاب: «What does **verified** mean **in this context**?»، و«The expression \"low-pressure\" in paragraph 3 is **closest in meaning to**…»، و«The underlined adjective is closest in meaning to…»، وكمان «Match the following words with their meanings» و«Find a word in the text that means…» و«find antonyms / synonyms»."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "ليه «in this context» مهمة؟",
+   "text": "كلمات كتير ليها **أكتر من معنى**. كلمة **spoil** مثلًا معناها «يبوظ» مع الأكل (Milk spoils quickly) ومعناها «يدلّع» مع الأطفال (Don't spoil the child). السؤال بيقولك «in this context» علشان عايز **المعنى اللي في الجملة دي بالذات**، مش أشهر معنى للكلمة."
+  },
+  {
+   "type": "h2",
+   "text": "أنواع الأدلة (Context Clues)"
+  },
+  {
+   "type": "en",
+   "text": [
+    "There are five main kinds of clues: definition, synonym, antonym (contrast), example, and general sense. Word parts (prefixes and suffixes) can help too."
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "نوع الدليل",
+    "بيبان إزاي",
+    "كلمات بتدلّك",
+    "مثال (الكلمة الصعبة bold)"
+   ],
+   "rows": [
+    [
+     "**Definition** (تعريف)",
+     "الكاتب نفسه بيشرح الكلمة",
+     "which means / that is / is called / or / بين شرطتين أو قوسين أو فاصلتين",
+     "The coral turns white, a process known as **bleaching**."
+    ],
+    [
+     "**Synonym** (مرادف)",
+     "الكاتب بيستخدم كلمة معناها قريب في نفس الجملة أو اللي بعدها",
+     "also / and / in other words / like",
+     "The papyrus is **fragile**. It is so delicate that it can tear."
+    ],
+    [
+     "**Antonym / Contrast** (عكس)",
+     "الكاتب بيقارنها بعكسها",
+     "but / however / unlike / while / instead of / not … but",
+     "Unlike his **reluctant** classmates, Omar was eager to join."
+    ],
+    [
+     "**Example** (أمثلة)",
+     "الأمثلة بتوضّح المعنى العام",
+     "such as / for example / including / like",
+     "**Renewable** sources, such as sun and wind, never run out."
+    ],
+    [
+     "**General sense** (منطق الجملة)",
+     "تفهم من الموقف كله",
+     "مفيش كلمات معينة",
+     "After the long march, the soldiers were **exhausted** and fell asleep at once."
+    ],
+    [
+     "**Word parts** (أجزاء الكلمة)",
+     "prefix أو suffix معروف",
+     "un-, dis-, re-, -less, -ful, -able",
+     "**un**reliable = مش موثوق، care**less** = مهمل"
+    ]
+   ]
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "The coral turns white, a process known as **bleaching**.",
+     "ar": "**تعريف**: «a process known as» بتقولك إن bleaching = تحوّل المرجان للأبيض (ابيضاض)."
+    },
+    {
+     "en": "Mindfulness involves paying **deliberate** attention — on purpose, not by accident — to the present moment.",
+     "ar": "**تعريف بين شرطتين** (pair of dashes = extra information): on purpose, not by accident يعني deliberate = مقصود / متعمَّد."
+    },
+    {
+     "en": "Some students were **reluctant** to try vocational courses, but Salma was eager to start.",
+     "ar": "**عكس**: but + eager (متحمس). يبقى reluctant = متردد / مش عايز."
+    },
+    {
+     "en": "**Perishable** foods, such as milk, fish and fresh fruit, must be kept cold.",
+     "ar": "**أمثلة**: لبن وسمك وفاكهة كلها بتبوظ بسرعة. يبقى perishable = سريع التلف."
+    },
+    {
+     "en": "The museum guide was so **knowledgeable** that she could answer every question.",
+     "ar": "**منطق الجملة**: جاوبت على كل سؤال، يبقى knowledgeable = عندها معرفة كبيرة. وكمان الجذر knowledge."
+    },
+    {
+     "en": "Sharing a post without checking it is **irresponsible**.",
+     "ar": "**أجزاء الكلمة**: ir- (مش) + responsible (مسؤول) + -ible. يبقى = مش مسؤول / تصرف مستهتر."
+    },
+    {
+     "en": "Sea levels are rising at an **alarming** rate.",
+     "ar": "**منطق**: الكلمة بتوصف سرعة بتقلق. alarming = مقلق / مثير للقلق (من alarm = إنذار)."
+    },
+    {
+     "en": "Unlike fast fashion, slow fashion encourages people to buy fewer, **durable** clothes.",
+     "ar": "**عكس**: fast fashion هدومه بتبوظ بسرعة، فالعكس durable = متين / بيعيش كتير."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "علامات الترقيم بتساعدك"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Punctuation often signals that the writer is explaining a word."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الكتّاب بيستخدموا علامات ترقيم معينة علشان يضيفوا **شرح أو معلومة زيادة** للكلمة. لو شفت العلامات دي بعد كلمة صعبة، غالبًا الشرح جاي:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "العلامة",
+    "وظيفتها هنا",
+    "مثال"
+   ],
+   "rows": [
+    [
+     "**pair of dashes** (— … —)",
+     "معلومة زيادة (extra information) بتشرح",
+     "Methane — a gas far stronger than carbon dioxide — is released by landfill."
+    ],
+    [
+     "**brackets** ( … )",
+     "معلومة زيادة",
+     "Many teens suffer from FOMO (the fear of missing out)."
+    ],
+    [
+     "**pair of commas** ( , … , )",
+     "معلومة زيادة",
+     "Biodiversity, the variety of plant and animal life, is falling."
+    ],
+    [
+     "**colon** ( : )",
+     "شرح أو توضيح بعدها",
+     "The club had one rule: no phones."
+    ],
+    [
+     "**inverted commas** (\" \")",
+     "اقتباس كلام حد (quotation)، أو تعبير مش بمعناه الحرفي، أو اسم مش الاسم الحقيقي",
+     "It was a \"low-pressure\" project, so nobody felt forced."
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "خلي بالك من التعبيرات اللي مش حرفية",
+   "text": "تعبير زي «**low-pressure**» في نص عن مشروع مدرسي مش معناه «ضغط جوي واطي». معناه «**من غير ما حد يحس بضغط أو إحراج**». ولما الكلمة تكون بين علامات تنصيص (inverted commas) فده معناه واحدة من 3: **اقتباس** كلام حد، أو كلمة **مش بمعناها الحرفي**، أو **اسم مش حقيقي**. لو مش اقتباس، غالبًا المعنى مش حرفي. ارجع للجملة وشوف الكلام عن إيه."
+  },
+  {
+   "type": "h2",
+   "text": "إزاي تجاوب سؤال «closest in meaning to»؟ (5 خطوات)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**ارجع للنص** واقرا الجملة اللي فيها الكلمة + الجملة اللي **قبلها** واللي **بعدها**.",
+    "**اعرف نوع الكلمة**: اسم ولا فعل ولا صفة؟ (بعد a / the = اسم، بعد very / so = صفة، بعد فاعل = فعل). الإجابة الصح لازم تكون **نفس النوع**.",
+    "**دوّر على الدليل**: تعريف؟ عكس؟ أمثلة؟ مرادف قريب؟",
+    "**خمّن المعنى بالعربي** قبل ما تبص على الاختيارات.",
+    "**اختبار الاستبدال (Replace test):** حط كل اختيار مكان الكلمة في الجملة. اللي يخلي الجملة منطقية ومعناها ميتغيرش هو الإجابة."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "فخوخ الاختيارات",
+   "items": [
+    "اختيار بيدّي **أشهر معنى** للكلمة بس مش المعنى اللي في الجملة. ✗",
+    "اختيار **عكس** المعنى (الامتحان بيحطه علشان يلخبطك). ✗",
+    "اختيار كلمة **موجودة في النص** جنب الكلمة بس ملهاش علاقة بمعناها. ✗",
+    "اختيار من **نوع كلمة تاني** (فعل بدل صفة مثلًا). ✗"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "نص للشرح"
+  },
+  {
+   "type": "p",
+   "text": "النص ده مكتوب للتدريب على موضوع التعليم الفني والشغف (vocational education & passion). الكلمات اللي هنشتغل عليها **bold**."
+  },
+  {
+   "type": "en",
+   "text": [
+    "**From Hobby to Career**",
+    "(1) When Ahmed told his friends that he had chosen a technical school, some of them looked at him with **pity**, as if he had failed. Ahmed, however, was **confident** about his decision. He had been repairing bicycles since the age of ten, and he wanted to turn that **passion** into a profession.",
+    "(2) At first, the course was **demanding**. Students spent long hours in workshops, and every task had to be **precise**: a single wrong measurement could ruin an engine. Ahmed often went home **exhausted**, but he never thought about quitting.",
+    "(3) His teacher, Mr Samir, became a **mentor** — someone who guided him, corrected his mistakes and believed in him. \"Mistakes are not the end,\" he used to say. \"They are the **raw material** of skill.\"",
+    "(4) Today, Ahmed is twenty-two and runs a small workshop that employs four young technicians. The friends who once pitied him now ask him for advice. \"A skill is something nobody can take away from you,\" Ahmed says. \"It is the most **durable** thing I own.\""
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "تفكيك الكلمات"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "الكلمة",
+    "الدليل من النص",
+    "نوع الدليل",
+    "المعنى"
+   ],
+   "rows": [
+    [
+     "pity (n)",
+     "as if he had failed",
+     "منطق الجملة",
+     "شفقة"
+    ],
+    [
+     "confident (adj)",
+     "however (عكس نظرة الشفقة) + كان بيصلّح عجل من وهو عنده 10 سنين",
+     "عكس",
+     "واثق"
+    ],
+    [
+     "demanding (adj)",
+     "long hours / exhausted",
+     "منطق + أمثلة",
+     "صعب ومحتاج مجهود"
+    ],
+    [
+     "precise (adj)",
+     "a single wrong measurement could ruin an engine",
+     "شرح بعد الـ colon",
+     "دقيق جدًا"
+    ],
+    [
+     "exhausted (adj)",
+     "long hours in workshops + but he never thought about quitting",
+     "منطق",
+     "مرهق جدًا"
+    ],
+    [
+     "mentor (n)",
+     "— someone who guided him, corrected his mistakes —",
+     "تعريف بين شرطتين",
+     "مرشد / معلم ناصح"
+    ],
+    [
+     "raw material (expression)",
+     "Mistakes … skill",
+     "تعبير مش حرفي",
+     "الأساس اللي بتتبني منه المهارة"
+    ],
+    [
+     "durable (adj)",
+     "nobody can take away from you",
+     "منطق",
+     "دائم / بيعيش كتير"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "لاحظ إن **raw material** في الأصل معناها «مادة خام» (زي القطن للقماش). هنا الكاتب استخدمها **مجازًا**: الأخطاء هي «المادة الخام» اللي بتتعمل منها المهارة. علشان كده المعنى **in this context** = الأساس أو نقطة البداية."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "أشهر الأخطاء (غلط ← صح)",
+   "items": [
+    "✗ بتختار المعنى من غير ما ترجع للنص. ← ✓ دايمًا ارجع للجملة نفسها، الكلمة ممكن يكون ليها معنى تاني هنا.",
+    "✗ «Find a word that means *tired*» وتكتب **tiring**. ← ✓ الكلمة لازم تكون **نفس النوع** ومن النص: **exhausted**.",
+    "✗ بتكتب كلمة من فقرة غير اللي السؤال حددها. ← ✓ لو السؤال قال «paragraph 2» دوّر فيها بس.",
+    "✗ بتكتب جملة كاملة لما السؤال طالب **كلمة**. ← ✓ اكتب الكلمة بالظبط زي ما هي في النص.",
+    "✗ بتخلط بين **synonym** (مرادف) و**antonym** (عكس). ← ✓ syn = **s**ame ، ant = **a**gainst."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي بييجي في الأسئلة؟"
+  },
+  {
+   "type": "p",
+   "text": "**النوع 1 — closest in meaning to:**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "The word \"demanding\" in paragraph 2 is closest in meaning to ______",
+    "a. asking  b. difficult  c. boring  d. expensive"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الإجابة **b**. أشهر معنى لـ demand هو «يطلب» (asking) وده **الفخ**. لكن في الجملة: long hours + exhausted يبقى المقصود «صعب ومحتاج مجهود». اختبار الاستبدال: «the course was **difficult**» ✓ منطقية."
+  },
+  {
+   "type": "p",
+   "text": "**النوع 2 — What does … mean in this context?**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "What does \"mentor\" mean in this context?",
+    "a. a person who repairs engines",
+    "b. an experienced person who guides and supports someone",
+    "c. a student who makes mistakes",
+    "d. a customer of a workshop"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الإجابة **b**. التعريف موجود بين الشرطتين: «someone who guided him, corrected his mistakes and believed in him»."
+  },
+  {
+   "type": "p",
+   "text": "**النوع 3 — Find a word / antonym / synonym:**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Find a word in paragraph 1 that is opposite in meaning to \"unsure\".",
+    "Answer: **confident**"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "unsure = مش متأكد، والعكس **confident** (واثق). لاحظ إن الكلمة صفة والإجابة صفة."
+  },
+  {
+   "type": "h2",
+   "text": "تدريب"
+  },
+  {
+   "type": "p",
+   "text": "**التدريب الأول:** خمّن معنى الكلمة اللي **bold** من الدليل، وقول نوع الدليل."
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "1. Many teenagers feel **isolated**, but joining a club helped Laila feel part of a group again.",
+     "a": "**isolated** = معزول / وحيد. الدليل: **عكس** (but + feel part of a group)."
+    },
+    {
+     "q": "2. The museum keeps **artefacts**, such as ancient jewellery, tools and pottery.",
+     "a": "**artefacts** = قطع أثرية / مصنوعات قديمة. الدليل: **أمثلة** (such as)."
+    },
+    {
+     "q": "3. **Overconsumption** — buying and using far more than we need — is a major cause of waste.",
+     "a": "**overconsumption** = الاستهلاك الزيادة. الدليل: **تعريف** بين شرطتين، وكمان over- = زيادة عن اللزوم."
+    },
+    {
+     "q": "4. The birds' route is so **reliable** that birdwatchers can predict, almost to the week, when they will arrive.",
+     "a": "**reliable** = ثابت ويُعتمد عليه. الدليل: **منطق الجملة** (يقدروا يتوقعوا بالأسبوع)."
+    },
+    {
+     "q": "5. The jacket looked new, but its stitching was **flimsy** and came apart after one wash.",
+     "a": "**flimsy** = ضعيف / مش متين. الدليل: **منطق** (اتفك بعد غسلة واحدة)."
+    },
+    {
+     "q": "6. Instead of **discarding** old uniforms, the students gave them to younger pupils.",
+     "a": "**discarding** = رمي / التخلص من. الدليل: **عكس** (Instead of … gave them)."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**التدريب التاني:** Choose the correct answer (من نص «From Hobby to Career»)."
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "7. The word \"precise\" in paragraph 2 is closest in meaning to ______\na. quick  b. exact  c. dangerous  d. cheap",
+     "a": "**b** — الشرح بعد الـ colon: غلطة واحدة في القياس تبوّظ الموتور، يبقى لازم يكون **دقيق**."
+    },
+    {
+     "q": "8. The word \"pity\" in paragraph 1 suggests that his friends ______\na. admired his choice  b. felt sorry for him  c. were jealous of him  d. wanted to join him",
+     "a": "**b** — «as if he had failed» = كأنه فشل، فحسّوا بالشفقة."
+    },
+    {
+     "q": "9. The expression \"raw material\" in paragraph 3 is closest in meaning to ______\na. cheap metal  b. the starting point from which something is built  c. food that is not cooked  d. a final product",
+     "a": "**b** — تعبير مجازي: الأخطاء هي الأساس اللي بتتبني منه المهارة. (a) و(c) معنى حرفي."
+    },
+    {
+     "q": "10. The word \"durable\" in paragraph 4 is opposite in meaning to ______\na. lasting  b. strong  c. temporary  d. valuable",
+     "a": "**c** — durable = بيعيش كتير، والعكس **temporary** (مؤقت). (a) و(b) مرادفات مش أضداد."
+    },
+    {
+     "q": "11. \"Before sharing the old photograph, Salma **verified** its date and source.\" What does *verified* mean in this context?\na. shared it widely  b. checked that it was true  c. changed its size  d. added a caption",
+     "a": "**b** — «Before sharing» + «date and source» = اتأكدت منها قبل ما تنشر."
+    },
+    {
+     "q": "12. \"Hosts often cook far more food than guests can eat, which results in **excessive** waste.\" *Excessive* means ______\na. small  b. too much  c. necessary  d. healthy",
+     "a": "**b** — far more than guests can eat = أكتر من اللازم. excess = زيادة."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**التدريب التالت:** اقرا النص ده (Unit 3: الآثار والمتاحف) ولاقي الكلمات المطلوبة."
+  },
+  {
+   "type": "en",
+   "text": [
+    "**A Museum That Speaks**",
+    "(1) For years, the small museum in the old town was almost empty. Its rooms were dark, its labels were tiny, and visitors left after a few minutes. Then a team of young volunteers decided to **revive** it.",
+    "(2) Their first step was simple: they replaced the long, technical labels with short stories about the people who had used each object. A clay pot was no longer just \"Pot, 1200 BC\". It became the cooking pot of a family who had lived by the Nile. Visitors who had once been **indifferent** suddenly became curious.",
+    "(3) The volunteers also created a **hands-on** corner, where children could touch copies of ancient tools. Because the original objects are **fragile**, they stayed behind glass, but the copies allowed visitors to feel the weight of history in their own hands.",
+    "(4) Within a year, the number of visitors had tripled. The museum had not bought a single new object. It had simply learned to tell its stories in a way that people could **relate to**."
+   ]
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "13. Find a word in paragraph 1 that means \"bring back to life\".",
+     "a": "**revive** — كان فاضي وبعدين المتطوعين قرروا يرجّعوه للحياة."
+    },
+    {
+     "q": "14. Find a word in paragraph 2 that is opposite in meaning to \"curious\".",
+     "a": "**indifferent** (مش مهتم) — «Visitors who had once been indifferent suddenly became curious» = عكس."
+    },
+    {
+     "q": "15. The expression \"hands-on\" in paragraph 3 is closest in meaning to ______\na. dangerous  b. involving touching and doing things yourself  c. for adults only  d. closed to the public",
+     "a": "**b** — «where children could touch copies» = تجربة عملية باللمس."
+    },
+    {
+     "q": "16. Find a word in paragraph 3 that means \"easily broken\".",
+     "a": "**fragile** — علشان كده فضلت ورا الزجاج."
+    },
+    {
+     "q": "17. The phrase \"relate to\" in paragraph 4 means ______\na. tell a story to  b. feel connected to and understand  c. be a relative of  d. pay for",
+     "a": "**b** — القصص بقت قريبة من حياة الناس فحسّوا بيها. (c) فخ: relative = قريب في العيلة."
+    },
+    {
+     "q": "18. In paragraph 2, \"Pot, 1200 BC\" is written in inverted commas. Why?",
+     "a": "علشان ده **نقل حرفي** لكلام اللافتة القديمة (quotation). الكاتب عايز يوريك قد إيه كانت مملة قبل التغيير."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**التدريب الرابع:** حط الكلمة في جملة من عندك، أو اختار الكلمة من الصندوق."
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "19. Choose from the box to complete the sentence: **(perishable – reluctant – revive – durable)**\nVolunteers hope to ______ interest in traditional crafts among young people.",
+     "a": "**revive** — يرجّع الاهتمام من تاني."
+    },
+    {
+     "q": "20. Complete: ______ foods, such as yoghurt and fresh meat, should be eaten quickly.",
+     "a": "**Perishable** — الأمثلة (yoghurt, meat) أكل بيبوظ بسرعة."
+    },
+    {
+     "q": "21. Complete: Good boots are expensive, but they are ______ and last for years.",
+     "a": "**durable** — «last for years» = مرادف."
+    },
+    {
+     "q": "22. Write a sentence of your own using the word \"mentor\" in a context that shows its meaning.",
+     "a": "Model: My older cousin became my mentor when I started learning to code. He checked my work every week and showed me how to fix my mistakes. — الجملة فيها دليل (checked / showed me) بيوضح المعنى."
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "ملخص الدرس في سطرين",
+   "items": [
+    "معنى الكلمة **in this context** = معناها في الجملة دي بالذات، مش أشهر معنى.",
+    "دوّر على الدليل: **تعريف** (which means / — … — / brackets)، **مرادف**، **عكس** (but / unlike / instead of)، **أمثلة** (such as)، **منطق الجملة**.",
+    "الإجابة لازم تكون **نفس نوع الكلمة** (اسم / فعل / صفة).",
+    "اعمل **اختبار الاستبدال**: حط الاختيار مكان الكلمة، لو المعنى سليم يبقى صح.",
+    "الكلمة بين **inverted commas** = اقتباس، أو **مش بمعناها الحرفي**، أو اسم مش حقيقي."
+   ]
+  }
+ ]
+}

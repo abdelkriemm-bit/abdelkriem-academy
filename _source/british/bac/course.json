@@ -1,0 +1,162 @@
+{
+ "hub": null,
+ "rtl": true,
+ "short": "تانية بكالوريا English",
+ "kicker": "تانية بكالوريا English",
+ "title": "تانية بكالوريا English",
+ "summary": "",
+ "sections": [
+  {
+   "title": "Grammar · القواعد",
+   "desc": "القواعد اللي في الكتابين، بترتيب الوحدات.",
+   "pages": [
+    "bac-gram-participial-phrases",
+    "bac-gram-relative-clauses",
+    "bac-gram-conditionals-hedging",
+    "bac-gram-gerunds-and-infinitives",
+    "bac-gram-narrative-tenses",
+    "bac-gram-prepositional-phrases-of-place-and-time",
+    "bac-gram-concession-clauses",
+    "bac-gram-the-passive-voice-for-formal-reporting",
+    "bac-gram-the-present-perfect",
+    "bac-gram-fronting-for-emphasis",
+    "bac-gram-cause-and-effect-structures",
+    "bac-gram-modal-verbs",
+    "bac-gram-adverbials-of-degree-and-frequency",
+    "bac-gram-reported-speech",
+    "bac-gram-used-to-would",
+    "bac-gram-the-present-continuous",
+    "bac-gram-linking-words-and-logical-connectors",
+    "bac-gram-the-causative",
+    "bac-gram-so-that-such-that",
+    "bac-gram-stative-verbs-vs-action-verbs",
+    "bac-gram-quantifiers"
+   ],
+   "key": "grammar"
+  },
+  {
+   "title": "Vocabulary & Language · الكلمات واللغة",
+   "desc": "كلمات كل Unit، والـ Language اللي بيتقيّم عليها الطالب في القراية والكتابة.",
+   "pages": [
+    "bac-lang-well-being-and-mental-health",
+    "bac-lang-leisure-screen-time-arts-and-sport",
+    "bac-lang-history-heritage-and-museums",
+    "bac-lang-brands-food-waste-and-sales-culture",
+    "bac-lang-climate-change-and-renewable-energy",
+    "bac-lang-global-responsibility-and-advocacy",
+    "bac-lang-passion-hobbies-and-community",
+    "bac-lang-vocational-education-and-careers",
+    "bac-lang-belonging-and-inclusion",
+    "bac-lang-hidden-costs-and-fast-fashion",
+    "bac-lang-persuasive-and-biased-language",
+    "bac-lang-hedging-and-neutral-language",
+    "bac-lang-tone-evaluative-language-and-selective-framing",
+    "bac-lang-concession-language",
+    "bac-lang-media-literacy"
+   ],
+   "key": "language"
+  },
+  {
+   "title": "Reading · القراية",
+   "desc": "مهارات القراية وأنواع النصوص اللي في الكتابين.",
+   "pages": [
+    "bac-read-reading-for-gist-and-key-detail",
+    "bac-read-true-false-not-given-with-justification",
+    "bac-read-fact-opinion-and-biased-claims",
+    "bac-read-identifying-bias-in-media-texts",
+    "bac-read-rhetorical-devices-and-their-effects",
+    "bac-read-the-writer-s-viewpoint-and-tone",
+    "bac-read-main-argument-and-supporting-points",
+    "bac-read-cause-and-effect-in-informational-texts",
+    "bac-read-text-types",
+    "bac-read-vocabulary-in-context",
+    "bac-read-evaluating-the-reliability-of-online-content"
+   ],
+   "key": "reading"
+  },
+  {
+   "title": "Listening · الاستماع",
+   "desc": "أنواع التسجيلات والمهارات المطلوبة.",
+   "pages": [
+    "bac-list-broadcasts-podcasts-radio-programmes-and-media",
+    "bac-list-listening-for-main-ideas-and-specific",
+    "bac-list-stated-vs-unstated-information",
+    "bac-list-the-speaker-s-perspective",
+    "bac-list-technical-terms-in-context"
+   ],
+   "key": "listening"
+  },
+  {
+   "title": "Speaking · الكلام",
+   "desc": "كل مهام الـ Speaking والـ Presentations.",
+   "pages": [
+    "bac-spea-giving-and-justifying-an-opinion",
+    "bac-spea-acknowledging-an-opposing-viewpoint",
+    "bac-spea-structured-presentations",
+    "bac-spea-pair-and-group-discussions",
+    "bac-spea-debates",
+    "bac-spea-role-plays-and-pitches",
+    "bac-spea-reporting-other-people-s-views"
+   ],
+   "key": "speaking"
+  },
+  {
+   "title": "Writing · الكتابة",
+   "desc": "كل أنواع الـ Writing اللي في الكتابين — أغلبها 150–180 كلمة.",
+   "pages": [
+    "bac-writ-the-jre-analytical-paragraph",
+    "bac-writ-reflective-writing",
+    "bac-writ-opinion-paragraph",
+    "bac-writ-diary-entry",
+    "bac-writ-discursive-paragraph",
+    "bac-writ-opinion-article",
+    "bac-writ-review",
+    "bac-writ-argumentative-paragraph",
+    "bac-writ-informational-leaflet",
+    "bac-writ-formal-email",
+    "bac-writ-persuasive-email",
+    "bac-writ-proposal",
+    "bac-writ-discursive-essay",
+    "bac-writ-blog-post",
+    "bac-writ-recommendation-report",
+    "bac-writ-personal-development-plan",
+    "bac-writ-personal-narrative",
+    "bac-writ-problem-solution-paragraph"
+   ],
+   "key": "writing"
+  },
+  {
+   "title": "Literature · الأدب والقصة",
+   "desc": "القصة المقررة والنصوص الأدبية اللي في الوحدات.",
+   "pages": [
+    "bac-lite-the-lost-world",
+    "bac-lite-lost-world-ch01",
+    "bac-lite-lost-world-ch02",
+    "bac-lite-lost-world-ch03",
+    "bac-lite-lost-world-ch04",
+    "bac-lite-lost-world-ch05",
+    "bac-lite-lost-world-ch06",
+    "bac-lite-lost-world-ch07",
+    "bac-lite-lost-world-ch08",
+    "bac-lite-lost-world-ch09",
+    "bac-lite-lost-world-ch10",
+    "bac-lite-literary-extract",
+    "bac-lite-narrative-techniques",
+    "bac-lite-mood-tone-and-the-narrator-s",
+    "bac-lite-characters-themes-and-key-events"
+   ],
+   "key": "literature"
+  }
+ ],
+ "back": "baccalaureate.html",
+ "active": "baccalaureate.html",
+ "labels": {
+  "prev": "→ الدرس اللي فات",
+  "next": "الدرس اللي بعده ←",
+  "back": "→ رجوع لـ",
+  "done": "خلصت! رجوع لـ",
+  "toc": "كل دروس المنهج",
+  "start": "ابدأ",
+  "crumb": ""
+ }
+}

@@ -1,0 +1,660 @@
+{
+ "slug": "bac-writ-formal-email",
+ "title": "Formal Email",
+ "kicker": "تانية بكالوريا · Writing · Unit 6",
+ "summary": "إزاي تكتب إيميل رسمي (حوالي 150-180 كلمة) تطلب فيه دعم لحماية مورد طبيعي، بعبارات الكتاب وجملة شرطية مؤدبة.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "الدرس ده عن إيه؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "A **formal email** makes a clear, polite request to someone you do not know personally, such as an official, an organisation or a local authority. It should be well organised, respectful in tone and specific about what you are asking for."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الـ **formal email** يعني **إيميل رسمي**: بتبعته لحد **متعرفوش شخصيًا** زي مدير، مسؤول في الحي، جمعية، أو مكتب البيئة. هدفه غالبًا **طلب** بأدب ووضوح: «لو سمحت ساعدونا في كذا»."
+  },
+  {
+   "type": "p",
+   "text": "في الكتاب الدرس ده في **Unit 6: The Space We Share** (Concept 6: A World for All)، صفحة **Writing a Formal Email** (صفحة 20). المهمة: كطالب مهتم، اكتب إيميل رسمي **حوالي (150-180) words** لمكتب البيئة المحلي تطلب دعم لحماية **مورد طبيعي مشترك** (wetland أو الثروة السمكية fish stocks)، واستخدم **جملة شرطية واحدة على الأقل (conditional)** في الطلب."
+  },
+  {
+   "type": "p",
+   "text": "وبعده في نفس الوحدة فيه **persuasive email** (صفحة 30) وإيميل الـ **Summative** (صفحة 31). الفرق: الـ formal email هدفه **طلب مهذب**، والـ persuasive بيبني **حجة** علشان القارئ يوافق. الدرس ده بيركز على الـ formal، وهنشوف الفرق تحت."
+  },
+  {
+   "type": "h2",
+   "text": "رسمي ولا ودّي؟ الفرق ببساطة"
+  },
+  {
+   "type": "en",
+   "text": [
+    "A formal email uses polite, complete sentences, no short forms and no slang. An informal email to a friend is relaxed and personal."
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "",
+    "Formal email (رسمي)",
+    "Informal email (لصاحبك)"
+   ],
+   "rows": [
+    [
+     "لمين",
+     "مسؤول / جهة / حد متعرفوش",
+     "صاحب / قريب"
+    ],
+    [
+     "البداية",
+     "Dear Sir or Madam, / Dear Mr Hassan,",
+     "Hi Omar, / Dear Omar,"
+    ],
+    [
+     "أول جملة",
+     "I am writing to …",
+     "How are you? Sorry I haven’t written for ages!"
+    ],
+    [
+     "اللغة",
+     "**من غير اختصارات**: I am / do not / would",
+     "I’m / don’t / can’t عادي"
+    ],
+    [
+     "الطلب",
+     "I would be grateful if … / Would it be possible to …?",
+     "Can you …?"
+    ],
+    [
+     "النهاية",
+     "I look forward to hearing from you. / Yours faithfully,",
+     "Write back soon! / Love, / Cheers,"
+    ],
+    [
+     "التوقيع",
+     "**الاسم الكامل** (وممكن الصفة)",
+     "الاسم الأول بس"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "قاعدة Faithfully و Sincerely",
+   "items": [
+    "لو بدأت بـ **Dear Sir or Madam,** (مش عارف الاسم) ← اختم بـ **Yours faithfully,**",
+    "لو بدأت بـ **Dear Mr / Ms + الاسم** (عارف الاسم) ← اختم بـ **Yours sincerely,**",
+    "حيلة: **S**ir ≠ **S**incerely. لما تكتب Sir متكتبش Sincerely. (الحرفين متشابهين بس مينفعوش مع بعض)."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "الهيكل زي ما الكتاب بيعلّمه"
+  },
+  {
+   "type": "p",
+   "text": "الكتاب بيدّي **7 أجزاء**، وكل جزء معاه عبارات جاهزة:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Section",
+    "Purpose / Useful phrases (من الكتاب)",
+    "بالعربي"
+   ],
+   "rows": [
+    [
+     "**Subject line**",
+     "Clear and specific, e.g. ‘Request for Support: School Wetland Awareness Day’",
+     "عنوان الإيميل: واضح ومحدد، فيه **نوع الإيميل + الموضوع**."
+    ],
+    [
+     "**Greeting**",
+     "Dear Mr/Ms [Name], / Dear Sir or Madam,",
+     "التحية الرسمية + فاصلة."
+    ],
+    [
+     "**Opening**",
+     "I am writing to … / I am writing on behalf of …",
+     "إنت مين (باختصار) + **بتكتب ليه** من أول جملة."
+    ],
+    [
+     "**Making a request**",
+     "I would be grateful if … / Would it be possible to …",
+     "الطلب بأدب، وهنا تحط الـ **conditional**."
+    ],
+    [
+     "**Giving reasons**",
+     "This is important because … / As a result …",
+     "ليه الطلب ده مهم (أسباب + نتايج)."
+    ],
+    [
+     "**Closing**",
+     "I look forward to hearing from you. / Please let me know if you require further information.",
+     "جملة ختام مهذبة."
+    ],
+    [
+     "**Sign-off**",
+     "Yours faithfully, (unknown name) / Yours sincerely, (named person)",
+     "الختام + الاسم الكامل تحته."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "في الكتابة الفعلية، الـ request والـ reasons ممكن يتبدلوا: ناس بتشرح المشكلة والأسباب الأول وبعدين تطلب، وناس بتطلب وبعدين تشرح. **الاتنين صح** طالما كل حاجة في فقرة واضحة."
+  },
+  {
+   "type": "h2",
+   "text": "العبارات المفيدة"
+  },
+  {
+   "type": "phrases",
+   "groups": [
+    {
+     "title": "Subject line (العنوان)",
+     "items": [
+      "Request for Support: …",
+      "Request for Information about …",
+      "Protecting … : A Request from Local Students",
+      "Proposal: …"
+     ]
+    },
+    {
+     "title": "Greeting (التحية)",
+     "items": [
+      "Dear Sir or Madam,",
+      "Dear Mr Adel,",
+      "Dear Ms Nour,",
+      "Dear Head of the Environmental Office,"
+     ]
+    },
+    {
+     "title": "Opening (البداية)",
+     "items": [
+      "I am writing to request your support for …",
+      "I am writing on behalf of the Environment Club at … School.",
+      "I am a Year 2 Baccalaureate student at …, and I am writing to …"
+     ]
+    },
+    {
+     "title": "Making a request (الطلب)",
+     "items": [
+      "I would be grateful if you could …",
+      "Would it be possible to …?",
+      "If you could …, we would …",
+      "We would greatly appreciate it if …",
+      "I would like to ask whether …"
+     ]
+    },
+    {
+     "title": "Giving reasons (الأسباب)",
+     "items": [
+      "This is important because …",
+      "As a result, …",
+      "According to local fishermen, …",
+      "Many residents have told us that …",
+      "If no action is taken, …"
+     ]
+    },
+    {
+     "title": "Closing (الختام)",
+     "items": [
+      "I look forward to hearing from you.",
+      "Please let me know if you require further information.",
+      "Thank you for your time and consideration.",
+      "I would welcome the chance to discuss this further."
+     ]
+    },
+    {
+     "title": "Sign-off (التوقيع)",
+     "items": [
+      "Yours faithfully,",
+      "Yours sincerely,",
+      "(Full name)",
+      "(Position, e.g. Environment Club President)"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "القواعد اللي الكتاب طالبها: Conditional و Reported Speech"
+  },
+  {
+   "type": "en",
+   "text": [
+    "The task asks for **at least one conditional sentence** in your request. Unit 6 also teaches **reported speech**, which is useful for giving evidence: *Local fishermen told us that their catch had fallen.*"
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "التركيب",
+    "الشكل",
+    "معناه",
+    "مثال للإيميل"
+   ],
+   "rows": [
+    [
+     "**First conditional**",
+     "If + present, … will / can …",
+     "شرط ممكن يحصل",
+     "**If** your office **provides** bins, our club **will** empty them every week."
+    ],
+    [
+     "**Second conditional (polite)**",
+     "If + past, … would …",
+     "طلب مؤدب جدًا",
+     "**If** you **could** send an expert, we **would** be very grateful."
+    ],
+    [
+     "**Polite conditional**",
+     "I would be grateful if you could …",
+     "هكون ممتن لو …",
+     "I **would be grateful if** you **could** place warning signs near the lake."
+    ],
+    [
+     "**Warning (cause & effect)**",
+     "If no action is taken, …will …",
+     "لو محدش اتحرك …",
+     "**If** no action **is taken**, the birds **will** stop visiting the wetland."
+    ],
+    [
+     "**Reported speech**",
+     "said / told us (that) + backshift",
+     "نقل كلام حد كدليل",
+     "A fisherman **told us that** he **had caught** fewer fish that year."
+    ]
+   ]
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "I am writing on behalf of the students of Al-Amal Secondary School.",
+     "ar": "on behalf of = بالنيابة عن. بتقول إنت بتكتب باسم مين."
+    },
+    {
+     "en": "Would it be possible to organise a clean-up day next month?",
+     "ar": "سؤال مؤدب جدًا للطلب = هل ممكن …؟"
+    },
+    {
+     "en": "I would be grateful if you could visit our school.",
+     "ar": "هكون ممتن لو تقدر تزور مدرستنا. Conditional مؤدب."
+    },
+    {
+     "en": "If you agreed to support us, fifty students would volunteer.",
+     "ar": "Second conditional: لو وافقت تساعدنا، 50 طالب هيتطوعوا."
+    },
+    {
+     "en": "The fishermen said that their income was falling.",
+     "ar": "Reported speech: الصيادين قالوا إن دخلهم بيقل. (is ← was)."
+    },
+    {
+     "en": "This is important because the wetland is a home for migratory birds.",
+     "ar": "سبب: ده مهم لأن الأرض الرطبة بيت للطيور المهاجرة."
+    },
+    {
+     "en": "Please let me know if you require further information.",
+     "ar": "عرّفني لو محتاج معلومات زيادة. جملة ختام رسمية."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي تكتب الإيميل الرسمي خطوة بخطوة"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**اقرا الـ Role كويس**: إنت مين؟ (concerned student / club leader). بتكتب لمين؟ (local environmental office / principal / council). عايز إيه بالظبط؟",
+    "**اكتب Subject line** واضح: Request for Support: + الموضوع.",
+    "**التحية**: مش عارف الاسم؟ Dear Sir or Madam, عارفه؟ Dear Mr/Ms + الاسم,",
+    "**الفقرة الأولى (Opening)**: جملة واحدة أو اتنين: إنت مين + بتكتب ليه (I am writing on behalf of … to request …).",
+    "**الفقرة التانية (Reasons)**: المشكلة + ليه مهمة + دليل (مثلًا كلام الصيادين بالـ reported speech) + نتيجة (As a result).",
+    "**الفقرة التالتة (Request)**: 2-3 طلبات **محددة** بأدب (I would be grateful if … / Would it be possible to …?) + **جملة شرطية** واحدة على الأقل (If you could …, we would …).",
+    "**الختام**: Please let me know if you require further information. + I look forward to hearing from you.",
+    "**التوقيع**: Yours faithfully, / Yours sincerely, على سطر، والاسم الكامل على السطر اللي تحته.",
+    "**راجع**: مفيش اختصارات؟ الختام مناسب للتحية؟ فيه conditional؟ الطلب واضح؟ **150-180** كلمة؟"
+   ],
+   "ordered": true
+  },
+  {
+   "type": "h2",
+   "text": "نموذج كامل (Model Answer)"
+  },
+  {
+   "type": "p",
+   "text": "ده إيميل رسمي على **مهمة الكتاب نفسها** (حماية الـ wetland). اقرا وبص على الشرح."
+  },
+  {
+   "type": "model",
+   "title": "Model formal email: protecting a wetland",
+   "task": "Role: As a concerned student, write a formal email of about (150-180) words to your local environmental office requesting support for protecting a shared local resource (a wetland or local fish stocks). Use at least ONE conditional sentence for your request.",
+   "text": [
+    "Subject: Request for Support: Protecting the Wetland Near Our School",
+    "Dear Sir or Madam,",
+    "I am writing on behalf of the Environment Club at Al-Nour Secondary School to request your support in protecting the wetland on the edge of our town.",
+    "Over the past two years, our members have noticed that more and more rubbish is being dumped near the water. In addition, local fishermen told us that their catch had fallen sharply. This is important because the wetland is home to many migratory birds, and it also provides an income for local families. As a result, any damage to it affects both people and wildlife.",
+    "I would be grateful if your office could place warning signs and recycling bins around the area. Would it be possible to send an expert to speak to our students? If you could support a clean-up day next month, we would gladly provide fifty volunteers.",
+    "Please let me know if you require further information. I look forward to hearing from you.",
+    "Yours faithfully,",
+    "Mariam Hassan",
+    "President, Environment Club"
+   ],
+   "word_count": 174,
+   "marks": "يحقق كل أجزاء الإيميل الرسمي في الكتاب + جملة شرطية (✓)",
+   "notes": [
+    "**Subject line:** واضح ومحدد: نوع الإيميل (Request for Support) + الموضوع (Protecting the Wetland). الـ colon هنا بتقدّم **توضيح** للطلب.",
+    "**Greeting:** Dear Sir or Madam, لأننا **مش عارفين اسم** الموظف، وبعدها فاصلة على نفس السطر.",
+    "**Opening:** جملة واحدة فيها **إحنا مين** (on behalf of the Environment Club) و**عايزين إيه** (to request your support). القارئ فهم الهدف من أول سطر.",
+    "**Giving reasons:** المشكلة (رمي زبالة) + **دليل بالـ reported speech**: local fishermen told us that their catch **had fallen** (backshift) + **This is important because** + نتيجة بـ **As a result**. والـ present perfect (have noticed) بيبيّن إن المشكلة لسه مستمرة.",
+    "**Making a request:** 3 طلبات **محددة** (لافتات وصناديق، خبير، يوم تنضيف) بالعبارات المؤدبة: I would be grateful if … / Would it be possible to …? + **جملة شرطية**: If you could support …, we would gladly provide … ده بالظبط شرط الكتاب.",
+    "**Closing:** جملتين من الكتاب: Please let me know if you require further information. / I look forward to hearing from you.",
+    "**Sign-off:** **Yours faithfully,** لأن التحية كانت Dear Sir or Madam. والاسم **الكامل** على السطر اللي بعده + الصفة.",
+    "**Tone:** رسمي ومحترم، **مفيش اختصارات** (I am / do not)، ومفيش كلام عاطفي زيادة. عدد الكلمات داخل في **150-180**."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Formal email ولا Persuasive email؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Both are formal. A **formal email** focuses on a clear, polite request. A **persuasive email** builds a stronger case with evidence and answers a possible concern before asking for support."
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "",
+    "Formal email (صفحة 20)",
+    "Persuasive email (صفحة 30)"
+   ],
+   "rows": [
+    [
+     "الهدف",
+     "طلب واضح ومؤدب",
+     "طلب + **إقناع** القارئ يقول «أيوه»"
+    ],
+    [
+     "Opening",
+     "I am writing to … / on behalf of …",
+     "I am writing to propose … / Our club has recently …"
+    ],
+    [
+     "الطلب",
+     "I would be grateful if … / Would it be possible to …",
+     "I would really appreciate your support in … / Specifically, we are requesting …"
+    ],
+    [
+     "الدليل",
+     "This is important because …",
+     "According to … / One volunteer explained that …"
+    ],
+    [
+     "إضافة مهمة",
+     "conditional للطلب",
+     "**Addressing a concern**: Although some may argue that …, …"
+    ],
+    [
+     "الختام",
+     "I look forward to hearing from you.",
+     "Thank you for considering this request. / I would welcome the chance to discuss this further."
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "الـ Checklist — راجع بيها قبل ما تسلّم"
+  },
+  {
+   "type": "list",
+   "items": [
+    "فيه **Subject line** واضح ومحدد؟",
+    "التحية رسمية (**Dear Sir or Madam,** أو **Dear Mr/Ms + الاسم,**)؟",
+    "أول جملة بتقول **إنت مين وبتكتب ليه** (I am writing to / on behalf of)؟",
+    "فيه **أسباب** (This is important because / As a result)؟",
+    "الطلب **محدد ومؤدب** (I would be grateful if / Would it be possible to)؟",
+    "فيه **جملة شرطية واحدة على الأقل** (If you could …, we would …)؟",
+    "فيه **جملة ختام** (I look forward to hearing from you.)؟",
+    "الختام مناسب: **faithfully** مع Sir or Madam، **sincerely** مع الاسم؟ والاسم الكامل تحته؟",
+    "**مفيش اختصارات** ولا كلام عامي؟ وعدد الكلمات **150-180**؟"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "أشهر الأخطاء (غلط ← صح)",
+   "items": [
+    "✗ Hi Sir! / Hello, ← ✓ **Dear Sir or Madam,**",
+    "✗ Dear Sir or Madam, … Yours sincerely, ← ✓ Dear Sir or Madam, … **Yours faithfully,**",
+    "✗ How are you? I hope you are fine. ← ✓ ابدأ على طول: **I am writing to …** (الإيميل الرسمي مش بيسأل عن الصحة).",
+    "✗ I want you to put bins. ← ✓ **I would be grateful if you could** place recycling bins. (أدب).",
+    "✗ I’m / don’t / can’t / gonna ← ✓ **I am / do not / cannot / going to**.",
+    "✗ Subject: Hello / Subject: Email ← ✓ **Subject: Request for Support: Protecting …**",
+    "✗ Yours faithfully, Mariam (على نفس السطر) ← ✓ Yours faithfully, على سطر، و**Mariam Hassan** على السطر اللي تحته.",
+    "✗ If you will send an expert, we will … ← ✓ **If you send** an expert, we will … / **If you could send** …, we would … (مفيش will بعد if)."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "إزاي تجاوب في الامتحان",
+   "items": [
+    "احفظ «الهيكل العظمي» ده واملاه: Subject ← Dear Sir or Madam, ← I am writing on behalf of … to request … ← This is important because … ← I would be grateful if … If you could …, we would … ← Please let me know … I look forward to hearing from you. ← Yours faithfully, ← Full name",
+    "الهيكل ده لوحده حوالي **60 كلمة**. يعني محتاج تزود حوالي **100 كلمة** بس من المشكلة والأسباب والطلبات.",
+    "استخدم **Writing Frame** الكتاب في الـ Summative: Subject … / Dear …, I am writing to … regarding … / This matters because … Evidence from … shows that … / Although …, it is also true that … / If …, then … / I would therefore recommend … / I look forward to …"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي بييجي في الأسئلة؟"
+  },
+  {
+   "type": "p",
+   "text": "الأسئلة في الكتاب بتيجي كمهمة كتابة بـ **Role** (إنت مين وبتكتب لمين) + شرط لغوي (conditional أو concession). ومعاها أسئلة صغيرة على العبارات. مثالين:"
+  },
+  {
+   "type": "p",
+   "text": "**1) Choose the correct answer from a, b, c or d.**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "You started your email with ‘Dear Ms Salma Adel,’. How should you end it?",
+    "a. Yours faithfully,",
+    "b. Yours sincerely,",
+    "c. Love,",
+    "d. See you soon,"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**الإجابة: b.** ليه؟ إنت عارف الاسم (Ms Salma Adel) ← Yours sincerely. (c) و(d) لصاحبك مش رسمي."
+  },
+  {
+   "type": "p",
+   "text": "**2) Rewrite this request to make it polite and formal, using a conditional.**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Send us some trees for our school. We need them now."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**الإجابة:** I would be grateful if you could provide some trees for our school. If they arrived before the end of the month, our students would plant them during the Green Week. ليه؟ شلنا فعل الأمر (Send) وحطينا عبارة مؤدبة + جملة شرطية."
+  },
+  {
+   "type": "h2",
+   "text": "تدريب"
+  },
+  {
+   "type": "p",
+   "text": "**A. Choose the correct answer from a, b, c or d.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "1. A formal email is usually written to ______.\na. a close friend  b. someone you do not know personally  c. your brother  d. a classmate",
+     "a": "**b** — official / organisation / local authority."
+    },
+    {
+     "q": "2. Which is the best subject line?\na. Hello  b. Important!!!  c. Request for Support: Beach Clean-up Day  d. Email",
+     "a": "**c** — clear and specific."
+    },
+    {
+     "q": "3. ‘I am writing ______ behalf of the Environment Club.’\na. in  b. on  c. at  d. for",
+     "a": "**b. on** — on behalf of = بالنيابة عن."
+    },
+    {
+     "q": "4. ‘I would be grateful ______ you could send us more information.’\na. that  b. when  c. if  d. so",
+     "a": "**c. if** — I would be grateful if …"
+    },
+    {
+     "q": "5. If you ______ us, our club would organise a campaign.\na. support  b. supported  c. will support  d. supporting",
+     "a": "**b. supported** — second conditional: If + past, … would."
+    },
+    {
+     "q": "6. If no action is taken, the fish stocks ______ disappear.\na. will  b. would have  c. had  d. are",
+     "a": "**a. will** — first conditional: If + present, … will."
+    },
+    {
+     "q": "7. ‘The fisherman said, “Our income is falling.”’ → The fisherman said that their income ______.\na. is falling  b. was falling  c. has fallen  d. falls",
+     "a": "**b. was falling** — reported speech: is ← was (backshift)."
+    },
+    {
+     "q": "8. Which sentence is the best closing for a formal email?\na. Bye for now!  b. Write back soon.  c. I look forward to hearing from you.  d. Take care!",
+     "a": "**c** — من عبارات الكتاب الرسمية."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**B. Formal or informal? Rewrite the informal ones in a formal way.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "9. Hi there! How’s it going?",
+     "a": "**Informal** ← ✓ Dear Sir or Madam,"
+    },
+    {
+     "q": "10. I want you to fix the broken water pipes.",
+     "a": "**Informal/rude** ← ✓ I would be grateful if you could repair the broken water pipes."
+    },
+    {
+     "q": "11. Please let me know if you require further information.",
+     "a": "**Formal** ✓ — مفيش تغيير."
+    },
+    {
+     "q": "12. Can’t wait to hear from you!",
+     "a": "**Informal** ← ✓ I look forward to hearing from you."
+    },
+    {
+     "q": "13. Thanks a lot, Ahmed",
+     "a": "**Informal** ← ✓ Yours faithfully, / Yours sincerely, (سطر) + Ahmed Samir (سطر)."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**C. Put the parts of the formal email in the correct order.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "14. A. Yours sincerely,  B. I am writing to request permission to start a recycling project.  C. Dear Mr Kamal,  D. I would be grateful if you could provide two large bins.  E. Subject: Request: School Recycling Project  F. I look forward to hearing from you.  G. This is important because our school produces a lot of plastic waste.",
+     "a": "**E – C – B – D – G – F – A** — Subject ← Greeting ← Opening ← Request ← Reasons ← Closing ← Sign-off (وبعدها الاسم الكامل)، وده ترتيب جدول الكتاب. ولو كتبت **E – C – B – G – D – F – A** (الأسباب قبل الطلب) برضه صح. ولاحظ: Dear Mr Kamal ← Yours **sincerely**."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**D. Complete each sentence to make a polite request with a conditional.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "15. If your office could provide some gloves and bags, ______.",
+     "a": "… **we would** clean the beach every Friday. (second conditional)"
+    },
+    {
+     "q": "16. I would be grateful if ______.",
+     "a": "… **you could** visit the wetland with our club next week."
+    },
+    {
+     "q": "17. If we receive your support, ______.",
+     "a": "… **we will** plant one hundred trees along the river. (first conditional)"
+    },
+    {
+     "q": "18. Would it be possible ______?",
+     "a": "… **to arrange** a meeting with your team next month?"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**E. Report what these people said to use as evidence in your email.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "19. “We depend on this lake,” the farmers said.",
+     "a": "The farmers said (that) they **depended** on **that** lake."
+    },
+    {
+     "q": "20. “Fewer birds come here every year,” a local guide said.",
+     "a": "A local guide said (that) fewer birds **came** there every year. (here ← there)"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**F. Writing tasks.** اكتب إيميل رسمي **حوالي (150-180) words**."
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "21. As a concerned student, write a formal email to your local environmental office requesting support for protecting **local fish stocks**. Use at least one conditional sentence.",
+     "a": "**خطة:** Subject: Request for Support: Protecting Fish Stocks in … – Dear Sir or Madam, – Opening: on behalf of … to request … – Reasons: الصيادين قالوا إن الصيد قل (reported speech) + overfishing + This is important because … families depend on fishing – Request: حملة توعية + قوانين لمواسم الصيد + If you could …, we would … – Closing + Yours faithfully, + full name."
+    },
+    {
+     "q": "22. (Summative A) Write an email to your local council, arguing that protecting shared natural resources (like wetlands) should be a higher priority than rapid economic development.",
+     "a": "**خطة:** Subject: Protecting Our Wetlands: A Request from Local Students – Dear Sir or Madam, I am writing to … regarding … – This matters because … Evidence from … shows that … – Although development creates jobs, it is also true that … (concession) – If the wetland is destroyed, then … – I would therefore recommend … – I look forward to hearing from you. Yours faithfully, …"
+    },
+    {
+     "q": "23. As a student, write a formal email to the manager of a local company asking it to sponsor a tree-planting day at your school.",
+     "a": "**خطة:** Subject: Request for Sponsorship: School Tree-Planting Day – Dear Mr/Ms + الاسم, – Opening + Reasons (shade, clean air, students learn responsibility) – Request: 100 trees + tools + If your company could sponsor the event, we would display your name on our banner – Closing – **Yours sincerely,** + full name."
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "ملخص الدرس في سطرين",
+   "items": [
+    "الإيميل الرسمي = **طلب واضح ومؤدب** لحد متعرفوش.",
+    "الترتيب زي جدول الكتاب: **Subject – Greeting – Opening – Request – Reasons – Closing – Sign-off** (وينفع الأسباب تيجي قبل الطلب زي النموذج).",
+    "Dear Sir or Madam ← **Yours faithfully** / Dear Mr/Ms + اسم ← **Yours sincerely**.",
+    "الطلب: **I would be grateful if … / Would it be possible to …** + **جملة شرطية** (If you could …, we would …).",
+    "مفيش اختصارات ولا عامية، و**150-180** كلمة تقريبًا."
+   ]
+  }
+ ]
+}

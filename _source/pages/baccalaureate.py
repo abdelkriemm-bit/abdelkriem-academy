@@ -15,7 +15,14 @@ BAC_CSS = """<style>
 .skhead .count{margin-inline-start:auto;font-size:.85rem;color:var(--gold-2);background:#fbf1dc;border-radius:999px;padding:4px 12px;white-space:nowrap}
 .topics{list-style:none;padding:0;margin:0 0 14px;display:grid;grid-template-columns:repeat(2,1fr);gap:8px}
 .topics li{display:flex;justify-content:space-between;gap:12px;align-items:center;border:1px solid var(--line);border-radius:10px;padding:10px 14px;background:var(--paper);font-family:Inter,sans-serif}
+.topics li.ready{padding:0}
+.topics li.ready a{display:flex;justify-content:space-between;gap:12px;align-items:center;width:100%;padding:10px 14px;text-decoration:none;color:var(--navy)}
+.topics li.ready{border-color:var(--gold);background:#fffaf0}
+.topics li.ready:hover{box-shadow:0 2px 8px rgba(0,0,0,.08)}
+.topics li.ready .tt::after{content:' ← الشرح';color:var(--gold-2);font-weight:700;font-size:.85rem;font-family:Cairo,sans-serif}
 .topics .u{flex:none;font-size:.78rem;color:var(--muted);background:#fff;border:1px solid var(--line);border-radius:999px;padding:2px 8px}
+.official ul{margin:6px 0;padding-right:20px}
+.official a{color:var(--navy);font-weight:600}
 .unit .sec{margin:12px 0 4px}
 .unit ul{margin:0 0 6px;padding-left:20px;color:var(--muted)}
 .unit .rv{color:#a3342b;font-weight:600;margin:8px 0 0}
@@ -71,7 +78,17 @@ BAC_SKILLS = [
   ("Personal Development Plan", "U8"), ("Personal Narrative", "U9"), ("Problem-Solution Paragraph", "U10"),
  ]),
  ("literature", "Literature", "القصة المقررة والنصوص الأدبية اللي في الوحدات.", [
-  ("The Lost World — the set novel", "Novel"), ("Literary Extract: “Not Exactly a Relaxing Day”", "U2"),
+  ("The Lost World — the set novel", "Novel"),
+  ("The Lost World · Chapter 1: A Dream of Adventure", "Novel"),
+  ("The Lost World · Chapter 2: Professor Challenger's Secret", "Novel"),
+  ("The Lost World · Chapter 3: The Expedition Is Chosen", "Novel"),
+  ("The Lost World · Chapter 4: Into the Unknown", "Novel"),
+  ("The Lost World · Chapter 5: Trapped in the Lost World", "Novel"),
+  ("The Lost World · Chapter 6: Malone's Night Adventure", "Novel"),
+  ("The Lost World · Chapter 7: Prisoners of the Ape-Men", "Novel"),
+  ("The Lost World · Chapter 8: The Battle for the Plateau", "Novel"),
+  ("The Lost World · Chapter 9: The Hidden Way Home", "Novel"),
+  ("The Lost World · Chapter 10: Proof Before the World", "Novel"), ("Literary Extract: “Not Exactly a Relaxing Day”", "U2"),
   ("Narrative Techniques: simile, contrast and personal voice", "U2"), ("Mood, Tone and the Narrator's Shifting Feelings", "U2"),
   ("Characters, Themes and Key Events", "Novel"),
  ]),
@@ -97,12 +114,27 @@ BAC_UNITS = [
 def _skill_nav():
     return '<nav class="skillnav" dir="ltr">' + "".join(f'<a href="#{k}" dir="ltr">{t}</a>' for k, t, _, _ in BAC_SKILLS) + '</nav>'
 
+import json as _bacj, os as _baco
+_BAC_DIR = _baco.path.join(_baco.path.dirname(PAGES_DIR), "british", "bac")
+_BAC_SLUG = {}
+try:
+    for _s, _v in _bacj.load(open(_baco.path.join(_BAC_DIR, "TOPICS.json"), encoding="utf-8")).items():
+        if _baco.path.exists(_baco.path.join(_BAC_DIR, _s + ".json")) and not (_baco.environ.get("BRITISH_SKIP") and __import__("re").search(_baco.environ["BRITISH_SKIP"], _s)):
+            _BAC_SLUG[(_v["skill"], _v["title"])] = _s
+except FileNotFoundError:
+    pass
+
+def _topic_li(key, t, u):
+    s = _BAC_SLUG.get((key, t.replace("&amp;", "&")))
+    inner = f'<span class="tt">{t}</span><span class="u">{u}</span>'
+    return f'<li dir="ltr" class="ready"><a href="{s}.html">{inner}</a></li>' if s else f'<li dir="ltr">{inner}</li>'
+
 def _skills():
     out = ""
     for i, (key, title, sub, topics) in enumerate(BAC_SKILLS, 1):
-        items = "".join(f'<li dir="ltr"><span class="tt">{t}</span><span class="u">{u}</span></li>' for t, u in topics)
+        items = "".join(_topic_li(key, t, u) for t, u in topics)
         out += f'''<section id="{key}" class="skill"><div class="skhead"><span class="num">{i}</span><div><h2 dir="ltr">{title}</h2><p>{sub}</p></div><span class="count" dir="ltr">{len(topics)} topics</span></div>
-<ul class="topics" dir="ltr">{items}</ul><span class="soon">الشرح والتدريبات قريبًا</span></section>'''
+<ul class="topics" dir="ltr">{items}</ul>{'<p class="howto" style="margin:0">دوس على أي Topic عشان تفتح الشرح بالعربي والتدريبات.</p>' if any((key, t.replace("&amp;", "&")) in _BAC_SLUG for t, _ in topics) else '<span class="soon">الشرح والتدريبات قريبًا</span>'}</section>'''
     return out
 
 def _units():
@@ -121,6 +153,13 @@ bac2 = BAC_CSS + '''<section class="phead"><div class="wrap"><p class="kicker">�
 <section class="block"><div class="wrap">
 {_skill_nav()}
 <div class="howto"><p><b>إزاي تذاكر:</b> اختار المهارة، وذاكر التوبكس بالترتيب. الحروف اللي جنب كل Topic (U1, U2…) بتقولك هو في أنهي Unit في الكتاب.</p></div>
+<div class="howto official"><p><b>كتب الوزارة الرسمية (PDF من موقع الوزارة):</b></p>
+<ul>
+<li><a href="https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/Eng-L1-EB-Part1.pdf" target="_blank" rel="noopener" dir="ltr">English — Part 1 (Units 1–5)</a></li>
+<li><a href="https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/Eng-L1-EB-Part2.pdf" target="_blank" rel="noopener" dir="ltr">English — Part 2 (Units 6–10)</a></li>
+<li><a href="https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/Story-En-EB-L1.pdf" target="_blank" rel="noopener" dir="ltr">The Lost World — Adapted for Grade 11 (القصة)</a></li>
+</ul>
+<p>أسئلة التدريب في الدروس معمولة بنفس شكل أسئلة الـ Consolidation Reviews اللي في كتاب الوزارة.</p></div>
 {_skills()}
 </div></section>
 

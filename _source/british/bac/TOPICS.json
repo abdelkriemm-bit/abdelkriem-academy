@@ -1,0 +1,462 @@
+{
+ "bac-gram-participial-phrases": {
+  "title": "Participial Phrases (-ing / -ed)",
+  "units": "U1",
+  "skill": "grammar"
+ },
+ "bac-gram-relative-clauses": {
+  "title": "Relative Clauses (who, which, that)",
+  "units": "U1",
+  "skill": "grammar"
+ },
+ "bac-gram-conditionals-hedging": {
+  "title": "Conditionals (If… will / would / would have) + hedging",
+  "units": "U1",
+  "skill": "grammar"
+ },
+ "bac-gram-gerunds-and-infinitives": {
+  "title": "Gerunds and Infinitives",
+  "units": "U2",
+  "skill": "grammar"
+ },
+ "bac-gram-narrative-tenses": {
+  "title": "Narrative Tenses",
+  "units": "U2",
+  "skill": "grammar"
+ },
+ "bac-gram-prepositional-phrases-of-place-and-time": {
+  "title": "Prepositional Phrases of Place and Time",
+  "units": "U3",
+  "skill": "grammar"
+ },
+ "bac-gram-concession-clauses": {
+  "title": "Concession Clauses",
+  "units": "U3",
+  "skill": "grammar"
+ },
+ "bac-gram-the-passive-voice-for-formal-reporting": {
+  "title": "The Passive Voice for Formal Reporting",
+  "units": "U3",
+  "skill": "grammar"
+ },
+ "bac-gram-the-present-perfect": {
+  "title": "The Present Perfect (since, for, just, already, yet, ever, never)",
+  "units": "U4",
+  "skill": "grammar"
+ },
+ "bac-gram-fronting-for-emphasis": {
+  "title": "Fronting for Emphasis",
+  "units": "U4",
+  "skill": "grammar"
+ },
+ "bac-gram-cause-and-effect-structures": {
+  "title": "Cause-and-Effect Structures",
+  "units": "U5",
+  "skill": "grammar"
+ },
+ "bac-gram-modal-verbs": {
+  "title": "Modal Verbs (could, should, may, must)",
+  "units": "U5",
+  "skill": "grammar"
+ },
+ "bac-gram-adverbials-of-degree-and-frequency": {
+  "title": "Adverbials of Degree and Frequency",
+  "units": "U5",
+  "skill": "grammar"
+ },
+ "bac-gram-reported-speech": {
+  "title": "Reported Speech",
+  "units": "U6",
+  "skill": "grammar"
+ },
+ "bac-gram-used-to-would": {
+  "title": "Used to / Would (Past Habits)",
+  "units": "U7",
+  "skill": "grammar"
+ },
+ "bac-gram-the-present-continuous": {
+  "title": "The Present Continuous",
+  "units": "U8",
+  "skill": "grammar"
+ },
+ "bac-gram-linking-words-and-logical-connectors": {
+  "title": "Linking Words and Logical Connectors",
+  "units": "U4 · U8",
+  "skill": "grammar"
+ },
+ "bac-gram-the-causative": {
+  "title": "The Causative: have / get something done",
+  "units": "U9",
+  "skill": "grammar"
+ },
+ "bac-gram-so-that-such-that": {
+  "title": "So… that / Such… that",
+  "units": "U9",
+  "skill": "grammar"
+ },
+ "bac-gram-stative-verbs-vs-action-verbs": {
+  "title": "Stative Verbs vs Action Verbs",
+  "units": "U10",
+  "skill": "grammar"
+ },
+ "bac-gram-quantifiers": {
+  "title": "Quantifiers (too much / too many, a large amount of, few / little)",
+  "units": "U10",
+  "skill": "grammar"
+ },
+ "bac-lang-well-being-and-mental-health": {
+  "title": "Well-being and Mental Health",
+  "units": "U1",
+  "skill": "language"
+ },
+ "bac-lang-leisure-screen-time-arts-and-sport": {
+  "title": "Leisure, Screen Time, Arts and Sport",
+  "units": "U2",
+  "skill": "language"
+ },
+ "bac-lang-history-heritage-and-museums": {
+  "title": "History, Heritage and Museums",
+  "units": "U3",
+  "skill": "language"
+ },
+ "bac-lang-brands-food-waste-and-sales-culture": {
+  "title": "Brands, Food Waste and Sales Culture",
+  "units": "U4",
+  "skill": "language"
+ },
+ "bac-lang-climate-change-and-renewable-energy": {
+  "title": "Climate Change and Renewable Energy",
+  "units": "U5",
+  "skill": "language"
+ },
+ "bac-lang-global-responsibility-and-advocacy": {
+  "title": "Global Responsibility and Advocacy",
+  "units": "U6",
+  "skill": "language"
+ },
+ "bac-lang-passion-hobbies-and-community": {
+  "title": "Passion, Hobbies and Community",
+  "units": "U7",
+  "skill": "language"
+ },
+ "bac-lang-vocational-education-and-careers": {
+  "title": "Vocational Education and Careers",
+  "units": "U8",
+  "skill": "language"
+ },
+ "bac-lang-belonging-and-inclusion": {
+  "title": "Belonging and Inclusion",
+  "units": "U9",
+  "skill": "language"
+ },
+ "bac-lang-hidden-costs-and-fast-fashion": {
+  "title": "Hidden Costs and Fast Fashion",
+  "units": "U10",
+  "skill": "language"
+ },
+ "bac-lang-persuasive-and-biased-language": {
+  "title": "Persuasive and Biased Language: intensifiers, rhetorical questions, absolute language",
+  "units": "U1",
+  "skill": "language"
+ },
+ "bac-lang-hedging-and-neutral-language": {
+  "title": "Hedging and Neutral Language",
+  "units": "U1",
+  "skill": "language"
+ },
+ "bac-lang-tone-evaluative-language-and-selective-framing": {
+  "title": "Tone, Evaluative Language and Selective Framing",
+  "units": "U3 · U6 · U9",
+  "skill": "language"
+ },
+ "bac-lang-concession-language": {
+  "title": "Concession Language",
+  "units": "U3 · U6 · U7",
+  "skill": "language"
+ },
+ "bac-lang-media-literacy": {
+  "title": "Media Literacy: fact, opinion, bias and greenwashing",
+  "units": "U1 · U3 · U10",
+  "skill": "language"
+ },
+ "bac-read-reading-for-gist-and-key-detail": {
+  "title": "Reading for Gist and Key Detail",
+  "units": "All units",
+  "skill": "reading"
+ },
+ "bac-read-true-false-not-given-with-justification": {
+  "title": "True / False / Not Given with justification",
+  "units": "All units",
+  "skill": "reading"
+ },
+ "bac-read-fact-opinion-and-biased-claims": {
+  "title": "Fact, Opinion and Biased Claims",
+  "units": "U1 · U2 · U4",
+  "skill": "reading"
+ },
+ "bac-read-identifying-bias-in-media-texts": {
+  "title": "Identifying Bias in Media Texts",
+  "units": "U1",
+  "skill": "reading"
+ },
+ "bac-read-rhetorical-devices-and-their-effects": {
+  "title": "Rhetorical Devices and Their Effects",
+  "units": "U1",
+  "skill": "reading"
+ },
+ "bac-read-the-writer-s-viewpoint-and-tone": {
+  "title": "The Writer's Viewpoint and Tone",
+  "units": "U3 · U6",
+  "skill": "reading"
+ },
+ "bac-read-main-argument-and-supporting-points": {
+  "title": "Main Argument and Supporting Points",
+  "units": "U1 · U4",
+  "skill": "reading"
+ },
+ "bac-read-cause-and-effect-in-informational-texts": {
+  "title": "Cause and Effect in Informational Texts",
+  "units": "U4 · U5",
+  "skill": "reading"
+ },
+ "bac-read-text-types": {
+  "title": "Text Types: reports, articles, opinion articles, narratives and profiles",
+  "units": "All units",
+  "skill": "reading"
+ },
+ "bac-read-vocabulary-in-context": {
+  "title": "Vocabulary in Context",
+  "units": "All units",
+  "skill": "reading"
+ },
+ "bac-read-evaluating-the-reliability-of-online-content": {
+  "title": "Evaluating the Reliability of Online Content",
+  "units": "U3 · U6 · U7 · U9",
+  "skill": "reading"
+ },
+ "bac-list-broadcasts-podcasts-radio-programmes-and-media": {
+  "title": "Broadcasts, Podcasts, Radio Programmes and Media Reports",
+  "units": "All units",
+  "skill": "listening"
+ },
+ "bac-list-listening-for-main-ideas-and-specific": {
+  "title": "Listening for Main Ideas and Specific Information",
+  "units": "U2 · U4 · U5",
+  "skill": "listening"
+ },
+ "bac-list-stated-vs-unstated-information": {
+  "title": "Stated vs Unstated Information",
+  "units": "U3 · U6 · U7 · U8 · U9 · U10",
+  "skill": "listening"
+ },
+ "bac-list-the-speaker-s-perspective": {
+  "title": "The Speaker's Perspective",
+  "units": "U1 · U5",
+  "skill": "listening"
+ },
+ "bac-list-technical-terms-in-context": {
+  "title": "Technical Terms in Context",
+  "units": "U1 · U5",
+  "skill": "listening"
+ },
+ "bac-spea-giving-and-justifying-an-opinion": {
+  "title": "Giving and Justifying an Opinion (JRE)",
+  "units": "All units",
+  "skill": "speaking"
+ },
+ "bac-spea-acknowledging-an-opposing-viewpoint": {
+  "title": "Acknowledging an Opposing Viewpoint",
+  "units": "U2 · U3 · U6–U10",
+  "skill": "speaking"
+ },
+ "bac-spea-structured-presentations": {
+  "title": "Structured Presentations (3–5 minutes)",
+  "units": "U3 · U4 · U6–U10",
+  "skill": "speaking"
+ },
+ "bac-spea-pair-and-group-discussions": {
+  "title": "Pair and Group Discussions",
+  "units": "All units",
+  "skill": "speaking"
+ },
+ "bac-spea-debates": {
+  "title": "Debates",
+  "units": "U4 · U5 · U10",
+  "skill": "speaking"
+ },
+ "bac-spea-role-plays-and-pitches": {
+  "title": "Role-plays and Pitches",
+  "units": "U8 · U10",
+  "skill": "speaking"
+ },
+ "bac-spea-reporting-other-people-s-views": {
+  "title": "Reporting Other People's Views",
+  "units": "U5 · U6",
+  "skill": "speaking"
+ },
+ "bac-writ-the-jre-analytical-paragraph": {
+  "title": "The JRE Analytical Paragraph",
+  "units": "U1",
+  "skill": "writing"
+ },
+ "bac-writ-reflective-writing": {
+  "title": "Reflective Writing",
+  "units": "U1",
+  "skill": "writing"
+ },
+ "bac-writ-opinion-paragraph": {
+  "title": "Opinion Paragraph",
+  "units": "U2 · U4",
+  "skill": "writing"
+ },
+ "bac-writ-diary-entry": {
+  "title": "Diary Entry",
+  "units": "U2 · U10",
+  "skill": "writing"
+ },
+ "bac-writ-discursive-paragraph": {
+  "title": "Discursive Paragraph",
+  "units": "U3",
+  "skill": "writing"
+ },
+ "bac-writ-opinion-article": {
+  "title": "Opinion Article",
+  "units": "U4",
+  "skill": "writing"
+ },
+ "bac-writ-review": {
+  "title": "Review",
+  "units": "U4",
+  "skill": "writing"
+ },
+ "bac-writ-argumentative-paragraph": {
+  "title": "Argumentative Paragraph",
+  "units": "U5",
+  "skill": "writing"
+ },
+ "bac-writ-informational-leaflet": {
+  "title": "Informational Leaflet",
+  "units": "U5",
+  "skill": "writing"
+ },
+ "bac-writ-formal-email": {
+  "title": "Formal Email",
+  "units": "U6",
+  "skill": "writing"
+ },
+ "bac-writ-persuasive-email": {
+  "title": "Persuasive Email",
+  "units": "U6",
+  "skill": "writing"
+ },
+ "bac-writ-proposal": {
+  "title": "Proposal",
+  "units": "U7",
+  "skill": "writing"
+ },
+ "bac-writ-discursive-essay": {
+  "title": "Discursive Essay",
+  "units": "U7 · U9 · U10",
+  "skill": "writing"
+ },
+ "bac-writ-blog-post": {
+  "title": "Blog Post",
+  "units": "U8",
+  "skill": "writing"
+ },
+ "bac-writ-recommendation-report": {
+  "title": "Recommendation Report",
+  "units": "U8",
+  "skill": "writing"
+ },
+ "bac-writ-personal-development-plan": {
+  "title": "Personal Development Plan",
+  "units": "U8",
+  "skill": "writing"
+ },
+ "bac-writ-personal-narrative": {
+  "title": "Personal Narrative",
+  "units": "U9",
+  "skill": "writing"
+ },
+ "bac-writ-problem-solution-paragraph": {
+  "title": "Problem-Solution Paragraph",
+  "units": "U10",
+  "skill": "writing"
+ },
+ "bac-lite-the-lost-world": {
+  "title": "The Lost World — the set novel",
+  "units": "Novel",
+  "skill": "literature"
+ },
+ "bac-lite-lost-world-ch01": {
+  "title": "The Lost World · Chapter 1: A Dream of Adventure",
+  "units": "Novel",
+  "skill": "literature"
+ },
+ "bac-lite-lost-world-ch02": {
+  "title": "The Lost World · Chapter 2: Professor Challenger's Secret",
+  "units": "Novel",
+  "skill": "literature"
+ },
+ "bac-lite-lost-world-ch03": {
+  "title": "The Lost World · Chapter 3: The Expedition Is Chosen",
+  "units": "Novel",
+  "skill": "literature"
+ },
+ "bac-lite-lost-world-ch04": {
+  "title": "The Lost World · Chapter 4: Into the Unknown",
+  "units": "Novel",
+  "skill": "literature"
+ },
+ "bac-lite-lost-world-ch05": {
+  "title": "The Lost World · Chapter 5: Trapped in the Lost World",
+  "units": "Novel",
+  "skill": "literature"
+ },
+ "bac-lite-lost-world-ch06": {
+  "title": "The Lost World · Chapter 6: Malone's Night Adventure",
+  "units": "Novel",
+  "skill": "literature"
+ },
+ "bac-lite-lost-world-ch07": {
+  "title": "The Lost World · Chapter 7: Prisoners of the Ape-Men",
+  "units": "Novel",
+  "skill": "literature"
+ },
+ "bac-lite-lost-world-ch08": {
+  "title": "The Lost World · Chapter 8: The Battle for the Plateau",
+  "units": "Novel",
+  "skill": "literature"
+ },
+ "bac-lite-lost-world-ch09": {
+  "title": "The Lost World · Chapter 9: The Hidden Way Home",
+  "units": "Novel",
+  "skill": "literature"
+ },
+ "bac-lite-lost-world-ch10": {
+  "title": "The Lost World · Chapter 10: Proof Before the World",
+  "units": "Novel",
+  "skill": "literature"
+ },
+ "bac-lite-literary-extract": {
+  "title": "Literary Extract: “Not Exactly a Relaxing Day”",
+  "units": "U2",
+  "skill": "literature"
+ },
+ "bac-lite-narrative-techniques": {
+  "title": "Narrative Techniques: simile, contrast and personal voice",
+  "units": "U2",
+  "skill": "literature"
+ },
+ "bac-lite-mood-tone-and-the-narrator-s": {
+  "title": "Mood, Tone and the Narrator's Shifting Feelings",
+  "units": "U2",
+  "skill": "literature"
+ },
+ "bac-lite-characters-themes-and-key-events": {
+  "title": "Characters, Themes and Key Events",
+  "units": "Novel",
+  "skill": "literature"
+ }
+}

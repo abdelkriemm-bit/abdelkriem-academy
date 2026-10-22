@@ -1,0 +1,643 @@
+{
+ "slug": "bac-writ-persuasive-email",
+ "title": "Persuasive Email",
+ "kicker": "تانية بكالوريا · Writing · Unit 6",
+ "summary": "إزاي تكتب إيميل رسمي يطلب حاجة محددة ويقنع القارئ يوافق: دليل، رد على الاعتراض، ودعوة للتصرف في 150-180 كلمة.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "الدرس ده عن إيه؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "A **persuasive email** makes a clear request and builds a strong case for why the reader should say **yes**. It uses evidence, a specific request and it answers the reader's possible worries."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الدرس ده عن نوع من الكتابة اسمه **Persuasive Email** يعني **إيميل إقناع**. إنت بتكتب لحد (مدير المدرسة، المحافظة، مجلس المدينة…) علشان **تطلب منه حاجة محددة** و**تقنعه** إنه يوافق."
+  },
+  {
+   "type": "p",
+   "text": "في الكتاب الدرس ده في **Unit 6: The Space We Share** (Concept 6: A World for All)، صفحة **Writing a Persuasive Email** (صفحة 30)، وبعدها مهمة الكتابة في **6.5 Summative Assessment** (صفحة 31). الكتاب بيطلب إيميل **of about (150-180) words**."
+  },
+  {
+   "type": "p",
+   "text": "موضوعات الوحدة اللي هتكتب عنها: مشاركة الموارد الطبيعية (wetlands, rivers, coastlines)، الطيور المهاجرة، الصياد والسلحفاة البحرية، أشجار المانجروف، وإزاي **عمل صغير محلي** يأثر على الكوكب كله."
+  },
+  {
+   "type": "h2",
+   "text": "يعني إيه Persuasive Email؟ وإيه الفرق بينه وبين الـ Formal Email؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Both emails are formal and polite. A formal email **asks** for something. A persuasive email **asks and argues**: it gives evidence, answers a concern and ends with a call to action."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "في نفس الوحدة إنت درست **Formal Email** (صفحة 20). الاتنين رسميين ومؤدبين. الفرق إن الـ persuasive email **مش بس بيطلب**، ده **بيدافع عن الطلب**: بيجيب دليل، وبيرد على اعتراض القارئ قبل ما يقوله، وبيخلص بـ **call to action** يعني «دعوة للتصرف»."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "النقطة",
+    "Formal Email",
+    "Persuasive Email"
+   ],
+   "rows": [
+    [
+     "الهدف",
+     "طلب مؤدب (request)",
+     "طلب + **إقناع** (request + argument)"
+    ],
+    [
+     "الدليل (evidence)",
+     "مش لازم كتير",
+     "**لازم**: According to… / One volunteer explained that…"
+    ],
+    [
+     "رأي الطرف التاني",
+     "مش مطلوب",
+     "**لازم** ترد على قلق القارئ: Although some may argue that…"
+    ],
+    [
+     "النهاية",
+     "I look forward to hearing from you.",
+     "**call to action**: I would welcome the chance to discuss this further."
+    ],
+    [
+     "النبرة (tone)",
+     "رسمية ومحترمة",
+     "رسمية ومحترمة **وكمان متحمسة ومقنعة**"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "تخيلها كده: إنت داخل مكتب المدير ومعاك فكرة. لو قلتله «عايزين نزرع شجر» وخلاص، ممكن يقولك لأ. لكن لو قلتله **«عايزين نزرع شجر، وده الدليل إنه مفيد، وعارفين إن حضرتك قلقان على وقت الحصص، فإحنا هنعمله يوم السبت»**، فرصة إنه يوافق بتبقى أكبر بكتير. ده بالظبط الـ persuasive email."
+  },
+  {
+   "type": "h2",
+   "text": "أجزاء الإيميل زي ما الكتاب بيعلمها"
+  },
+  {
+   "type": "en",
+   "text": [
+    "The book divides the persuasive email into seven sections. Each section has a purpose and some useful phrases."
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "الجزء (Section)",
+    "وظيفته بالعربي",
+    "Useful Phrases من الكتاب"
+   ],
+   "rows": [
+    [
+     "**Subject line**",
+     "عنوان الإيميل: قصير وواضح ومحمّس، بيقول إنت عايز إيه.",
+     "Request: Support to Expand Our Mangrove Project"
+    ],
+    [
+     "**Greeting**",
+     "التحية الرسمية بالاسم أو اللقب، وبعدها فاصلة.",
+     "Dear [Name/Title],"
+    ],
+    [
+     "**Opening / Hook**",
+     "أول جملتين: إنت مين، وبتكتب ليه، وحاجة تشد القارئ (إنجاز عملتوه).",
+     "I am writing to propose… / Our club has recently…"
+    ],
+    [
+     "**The Ask**",
+     "الطلب نفسه: **محدد** (إيه بالظبط، إمتى، قد إيه).",
+     "I would really appreciate your support in… / Specifically, we are requesting…"
+    ],
+    [
+     "**Supporting evidence**",
+     "الدليل: حقيقة، رقم، أو كلام حد قاله (reported speech).",
+     "According to…, … / One volunteer explained that…"
+    ],
+    [
+     "**Addressing a concern**",
+     "تذكر اعتراض ممكن القارئ يقوله، وبعدين ترد عليه.",
+     "Although some may argue that…, …"
+    ],
+    [
+     "**Closing call to action**",
+     "تشكره وتطلب منه خطوة جاية (مقابلة، رد، موافقة).",
+     "Thank you for considering this request. / I would welcome the chance to discuss this further."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "وفي آخر الإيميل **Sign-off** زي أي إيميل رسمي: **Yours sincerely,** لو بتكتب لحد عارف اسمه (Dear Mr Kamal)، و**Yours faithfully,** لو مش عارف اسمه (Dear Sir or Madam). وبعدها اسمك ووظيفتك (Environmental Club Leader). الكتاب في صفحة 31 كمان بيدي **Best wishes,** لو بتكتب لصديق."
+  },
+  {
+   "type": "h2",
+   "text": "جمل جاهزة تستخدمها (Useful Phrases)"
+  },
+  {
+   "type": "p",
+   "text": "دي جمل من الكتاب (صفحة 30 و31) وجمل زيادة من نفس المستوى. احفظ من كل مجموعة جملتين على الأقل."
+  },
+  {
+   "type": "phrases",
+   "groups": [
+    {
+     "title": "Subject line",
+     "items": [
+      "Request: Support to Expand Our Mangrove Project",
+      "Proposal: A Monthly Beach Clean-Up for Our School",
+      "Request for Approval: Wetland Awareness Week"
+     ]
+    },
+    {
+     "title": "Greeting",
+     "items": [
+      "Dear Mr Kamal,",
+      "Dear Ms Salma,",
+      "Dear Sir or Madam,",
+      "Dear Members of the Local Council,"
+     ]
+    },
+    {
+     "title": "Opening / Hook",
+     "items": [
+      "I am writing to propose…",
+      "I am writing on behalf of our school's Environmental Club regarding…",
+      "Our club has recently…",
+      "Over the past few months, our members have…"
+     ]
+    },
+    {
+     "title": "The Ask",
+     "items": [
+      "I would really appreciate your support in…",
+      "Specifically, we are requesting…",
+      "We would be grateful if the school could…",
+      "Would it be possible to…?"
+     ]
+    },
+    {
+     "title": "Supporting evidence (reported speech)",
+     "items": [
+      "According to…, …",
+      "One volunteer explained that…",
+      "A local fisherman told us that…",
+      "Evidence from… shows that…",
+      "This matters because…"
+     ]
+    },
+    {
+     "title": "Addressing a concern",
+     "items": [
+      "Although some may argue that…, …",
+      "Although…, it is also true that…",
+      "We understand that… However, …",
+      "If…, then…"
+     ]
+    },
+    {
+     "title": "Closing call to action + sign-off",
+     "items": [
+      "I would therefore recommend / suggest that…",
+      "Thank you for considering this request.",
+      "I would welcome the chance to discuss this further.",
+      "I look forward to hearing from you.",
+      "Yours sincerely, / Yours faithfully, / Best wishes,"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي تكتب الإيميل خطوة بخطوة"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Plan first, then write section by section. Keep it formal, specific and polite, and stay between 150 and 180 words."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "**اقرا السؤال كويس وحدد 3 حاجات:** إنت مين (Role)، بتكتب لمين (Reader)، وعايز إيه بالظبط (Request). مثلًا: رئيس نادي البيئة ← مدير المدرسة ← دعم لمشروع زرع المانجروف.",
+    "**اكتب Subject line** فيه كلمة Request أو Proposal + الطلب في كلمات قليلة.",
+    "**التحية:** Dear + اللقب والاسم + فاصلة. مثال: Dear Mr Kamal,",
+    "**Opening / Hook:** جملة بتقول إنت بتكتب ليه، وجملة فيها **إنجاز** عملتوه قبل كده يشد القارئ (Our club has recently…).",
+    "**The Ask:** اطلب طلب **محدد**: كام فلوس؟ إمتى؟ كام مرة؟ استخدم Specifically, we are requesting…",
+    "**Supporting evidence:** هات دليل أو اتنين. أحسن طريقة إنك تنقل كلام حد بالـ **reported speech** (قاعدة الوحدة): One volunteer explained that…",
+    "**Addressing a concern:** فكّر: المدير ممكن يرفض ليه؟ (وقت الحصص؟ الفلوس؟ الأمان؟). قول الاعتراض بـ Although some may argue that… ورد عليه على طول.",
+    "**Closing call to action:** اشكره، واطلب خطوة جاية (اجتماع، رد). وبعدين Yours sincerely, + اسمك + منصبك.",
+    "**راجع:** عدّ الكلمات (150-180)، شوف مفيش اختصارات زي I'm أو can't، ومفيش كلام عامي زي Hi أو Thanks a lot."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "قاعدة الوحدة في الإيميل: Reported Speech",
+   "items": [
+    "الوحدة دي بتدرّس **reported speech**، والإيميل ده أحسن مكان تستخدمها فيه كـ **دليل**.",
+    "Direct: \"The beach makes me feel responsible,\" a volunteer said. ← Reported: One volunteer explained that the beach **made** her feel responsible.",
+    "لو الكلام **لسه صحيح** أو **حقيقة عامة** مش لازم ترجّع الزمن: The expert said that mangroves **protect** the coast.",
+    "أفعال التقرير المفيدة: explained that / told us that / claimed that / warned that / pointed out that."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "ينفع أستخدم PEEL في جزء الدليل؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Yes. Because this is **persuasive** writing, you can build your evidence paragraph with **PEEL**: Point, Evidence, Explain, Link. The book's own framework for arguments is **JRE** (Justify, Reasoning, Evidence), and both work together."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الـ **PEEL** طريقة لبناء فقرة الإقناع، وبنستخدمها **في الكتابة الإقناعية بس**، وده بالظبط نوع الإيميل ده. والكتاب في الوحدة بيستخدم **JRE** للمناقشات. الاتنين بيوصلوا لنفس الحاجة: رأي واضح ← سبب ← دليل."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "حرف",
+    "يعني إيه",
+    "مثال جوه الإيميل"
+   ],
+   "rows": [
+    [
+     "**P** = Point",
+     "النقطة: ليه طلبك مهم",
+     "This matters because plastic waste is harming local marine life."
+    ],
+    [
+     "**E** = Evidence",
+     "الدليل: رقم أو كلام حد",
+     "According to a fisherman we interviewed, his catch has fallen sharply."
+    ],
+    [
+     "**E** = Explain",
+     "اشرح الدليل ده بيثبت إيه",
+     "This shows that pollution affects people as well as wildlife."
+    ],
+    [
+     "**L** = Link",
+     "ارجع للطلب بتاعك",
+     "That is why our clean-up project deserves the school's support."
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "PEEL و JRE مع بعض",
+   "text": "**J** (Justify) = الـ Point بتاعك، **R** (Reasoning) = الـ Explain، **E** (Evidence) = الدليل. يعني لو المدرس طلب JRE أو إنت استخدمت PEEL، فقرة الدليل بتاعتك هتبقى كاملة في الحالتين."
+  },
+  {
+   "type": "h2",
+   "text": "الإيميل النموذجي (Model Answer)"
+  },
+  {
+   "type": "p",
+   "text": "ده إيميل كامل على مهمة زي مهمة الكتاب. اقراه الأول بالإنجليزي، وبعدين اقرا الملاحظات بالعربي تحت علشان تفهم كل جزء بيعمل إيه. عدد الكلمات محسوب على الإيميل كله من الـ Subject لحد التوقيع."
+  },
+  {
+   "type": "model",
+   "title": "Model persuasive email: adopting a stretch of coastline",
+   "task": "As the leader of your school's Environmental Club, write a persuasive email of about (150-180) words to your school principal asking for support to adopt a stretch of the local coastline. Acknowledge at least one possible concern before responding to it.",
+   "text": [
+    "Subject: Request: Support to Adopt Our Local Coastline",
+    "Dear Mr Kamal,",
+    "I am writing to propose a next step for our Environmental Club. Last term, our members collected forty bags of plastic from the beach near our school, and we now hope to adopt a 500-metre stretch of it.",
+    "Specifically, we are requesting permission to hold a clean-up every month, a small budget for gloves and bins, and one assembly to raise awareness.",
+    "This matters because plastic waste is harming the marine life that local fishermen depend on. According to a fisherman we interviewed, his catch had fallen noticeably since the beach became polluted. This shows that pollution affects local families as well as wildlife, so our project deserves the school's support.",
+    "Although some may argue that this could take time away from lessons, all clean-ups would take place on Saturday mornings. If the school supports us, then students will learn responsibility outside the classroom.",
+    "Thank you for considering this request. I would welcome the chance to discuss it further.",
+    "Yours sincerely,",
+    "Youssef Adel",
+    "Environmental Club Leader"
+   ],
+   "word_count": 177,
+   "notes": [
+    "**Subject line:** فيه كلمة Request والطلب واضح من أول نظرة: Support to Adopt Our Local Coastline.",
+    "**Greeting:** Dear + Mr + الاسم + فاصلة. علشان عارفين اسم المدير، النهاية لازم تبقى Yours sincerely.",
+    "**Opening / Hook:** «I am writing to propose…» بتقول الهدف، و«collected forty bags of plastic» إنجاز حقيقي بيشد القارئ ويثبت إن النادي جاد.",
+    "**The Ask:** «Specifically, we are requesting…» وبعدها 3 طلبات **محددة**: clean-up كل شهر، ميزانية صغيرة، assembly واحدة. الطلب المحدد أسهل في الموافقة.",
+    "**Supporting evidence:** الدليل بالـ **reported speech** (قاعدة الوحدة): «According to a fisherman we interviewed, his catch **had fallen**…». لاحظ رجوع الزمن (backshift) خطوة لورا.",
+    "**PEEL في نفس الفقرة:** Point = This matters because…، Evidence = According to a fisherman…، Explain = This shows that pollution affects local families as well as wildlife، Link = so our project deserves the school's support (رجع للطلب).",
+    "**Addressing a concern:** «Although some may argue that…» ذكر اعتراض المدير (وقت الحصص) ورد عليه على طول (يوم السبت). وبعدها جملة شرطية If…, then… بتوضح الفايدة.",
+    "**Closing call to action:** شكر + طلب خطوة جاية (discuss it further). وبعدها Yours sincerely, + الاسم + المنصب كل واحد في سطر.",
+    "**اللغة:** رسمية من غير اختصارات، فيها relative clause (the marine life that local fishermen depend on)، وروابط واضحة (Although / If…, then / so). ومفيش ولا جملة عامية."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "تعال نشوف الإيميل جزء جزء"
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "Subject: Request: Support to Adopt Our Local Coastline",
+     "ar": "**Subject line**: «طلب: دعم لتبنّي الساحل اللي جنبنا». قصير وفيه الطلب."
+    },
+    {
+     "en": "I am writing to propose a next step for our Environmental Club.",
+     "ar": "**Opening**: «أنا بكتب علشان أقترح خطوة جاية لنادي البيئة بتاعنا». قالنا الهدف من أول جملة."
+    },
+    {
+     "en": "Last term, our members collected forty bags of plastic from the beach near our school.",
+     "ar": "**Hook**: «الترم اللي فات أعضاءنا جمعوا 40 شنطة بلاستيك». إنجاز بيقنع المدير إننا قد المسؤولية."
+    },
+    {
+     "en": "Specifically, we are requesting permission to hold a clean-up every month.",
+     "ar": "**The Ask**: «بالتحديد إحنا بنطلب إذن نعمل حملة تنظيف كل شهر». كلمة Specifically معناها «بالتحديد»."
+    },
+    {
+     "en": "According to a fisherman we interviewed, his catch had fallen noticeably.",
+     "ar": "**Evidence**: «حسب كلام صياد قابلناه، الصيد بتاعه قلّ بشكل واضح». ده reported speech."
+    },
+    {
+     "en": "Although some may argue that this could take time away from lessons, all clean-ups would take place on Saturday mornings.",
+     "ar": "**Concern**: «مع إن فيه ناس ممكن تقول إن المشروع هياخد من وقت الحصص، الحملات كلها هتبقى يوم السبت الصبح». اعتراض + رد في جملة واحدة."
+    },
+    {
+     "en": "If the school supports us, then students will learn responsibility outside the classroom.",
+     "ar": "**If…, then…**: «لو المدرسة دعمتنا، الطلبة هيتعلموا المسؤولية بجد برة الفصل». جملة من الـ Writing Frame في الكتاب."
+    },
+    {
+     "en": "I would welcome the chance to discuss it further.",
+     "ar": "**Call to action**: «يسعدني تكون فيه فرصة نتكلم في الموضوع أكتر». بتطلب خطوة جاية بأدب."
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "أشهر الأخطاء (غلط ← صح)",
+   "items": [
+    "Hi Mr Kamal, ← **Dear Mr Kamal,** — Hi عامية، الإيميل ده رسمي.",
+    "I'm writing to ask… ← **I am writing to ask…** — ممنوع الاختصارات في الإيميل الرسمي.",
+    "We want money for the project. ← **Specifically, we are requesting a small budget for gloves and bins.** — اطلب بأدب وبشكل محدد.",
+    "Yours sincerely, Youssef (في نفس السطر) ← **Yours sincerely,** في سطر وبعده **Youssef Adel** في السطر اللي تحته.",
+    "Dear Sir or Madam, … Yours sincerely, ← **Yours faithfully,** — لو مش عارف الاسم استخدم faithfully.",
+    "One volunteer explained that the clean-ups make her feel responsible yesterday. ← **…had made her feel responsible.** — خلي بالك من رجوع الزمن في الـ reported speech.",
+    "نسيان الاعتراض خالص ← لازم جملة **Although some may argue that…** وبعدها الرد. الكتاب بيطلب كده صراحة في المهمة.",
+    "كتابة 300 كلمة أو 90 كلمة ← الكتاب بيطلب **about (150-180) words**. اكتب جوه الحدود دي."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "إزاي تفتكر الترتيب؟",
+   "text": "احفظ الجملة دي: **«S-G-O-A-E-C-C»** = **S**ubject، **G**reeting، **O**pening، **A**sk، **E**vidence، **C**oncern، **C**losing. أو بالعربي: **عنوان، سلام، سبب، طلب، دليل، اعتراض، شكر**. سبع خطوات، كل خطوة جملة أو اتنين."
+  },
+  {
+   "type": "h2",
+   "text": "إزاي بييجي في الأسئلة؟"
+  },
+  {
+   "type": "p",
+   "text": "الأسئلة في الكتاب والمراجعات بتيجي بالشكل ده: سؤال اختيار من متعدد عن مميزات النوع، أو تكميل جملة بالـ phrase المناسب، أو مهمة كتابة كاملة of about (150-180) words."
+  },
+  {
+   "type": "p",
+   "text": "**النوع الأول: Choose the correct answer from a, b, c or d.**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Which sentence is the best way to address a concern in a persuasive email?",
+    "a. Thanks a lot for reading my email.",
+    "b. Although some may argue that the project is expensive, most materials would be donated.",
+    "c. I am writing to tell you about our club.",
+    "d. Yours faithfully,"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**الإجابة: b** — لأنها فيها اعتراض (Although some may argue…) والرد عليه في نفس الجملة. (a) عامية، (c) Opening مش Concern، (d) Sign-off."
+  },
+  {
+   "type": "p",
+   "text": "**النوع التاني: Complete with the appropriate phrase.**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "______, we are requesting two hours every Thursday to train new volunteers."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**الإجابة: Specifically** — لأن بعدها الطلب المحدد (The Ask). كلمة Specifically بتقول للقارئ «ده بالظبط اللي عايزينه»."
+  },
+  {
+   "type": "p",
+   "text": "**النوع التالت: Rewrite using reported speech.** (بيربط القاعدة بالكتابة)"
+  },
+  {
+   "type": "en",
+   "text": [
+    "\"Wetlands protect our village from floods,\" the farmer said."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**الإجابة:** The farmer said that wetlands **protect** their village from floods. — مرجعناش الزمن لأنها **حقيقة لسه صحيحة**، ودي قاعدة الكتاب في «When NOT to Backshift». وغيرنا our ← their."
+  },
+  {
+   "type": "h2",
+   "text": "تدريب"
+  },
+  {
+   "type": "p",
+   "text": "**A. Choose the correct answer from a, b, c or d.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "1. The main purpose of a persuasive email is to…\na. tell a funny story to a friend\nb. make a clear request and convince the reader to say yes\nc. describe your holiday\nd. complain without giving reasons",
+     "a": "**b** — ده تعريف الكتاب: makes a clear request while building a genuine case for why the reader should say yes."
+    },
+    {
+     "q": "2. Which subject line is the most suitable?\na. Hello!!\nb. Something important\nc. Request: Support to Start a Wetland Awareness Campaign\nd. Please read this now",
+     "a": "**c** — واضح ومحدد وفيه كلمة Request. الباقي مش بيقول إنت عايز إيه."
+    },
+    {
+     "q": "3. You are writing to \"Dear Sir or Madam,\". How should you end the email?\na. Yours faithfully,\nb. Yours sincerely,\nc. Love,\nd. See you,",
+     "a": "**a** — مش عارف اسم الشخص يبقى Yours faithfully."
+    },
+    {
+     "q": "4. \"Our club has recently planted 200 mangrove seedlings.\" This sentence belongs to the…\na. sign-off\nb. opening / hook\nc. subject line\nd. concern",
+     "a": "**b** — إنجاز بيشد القارئ في أول الإيميل، والكتاب بيدي Our club has recently… كـ Opening / Hook."
+    },
+    {
+     "q": "5. Which sentence gives supporting evidence?\na. Thank you for your time.\nb. Dear Ms Salma,\nc. According to the local fishing union, catches have dropped since the river was polluted.\nd. I am writing to propose a new project.",
+     "a": "**c** — According to… هي phrase الدليل في جدول الكتاب."
+    },
+    {
+     "q": "6. Which ending is a clear call to action?\na. Bye for now.\nb. I would welcome the chance to discuss this further.\nc. That's all.\nd. I am writing to you.",
+     "a": "**b** — بتطلب من القارئ خطوة جاية (نقاش)، ودي من جمل الكتاب."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**B. Complete the email with the appropriate phrase from the box.**\n(Although some may argue / Specifically / I am writing to / According to / Thank you for considering / Yours sincerely)"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "7. Dear Ms Nadia, ______ ask for your support in starting a river clean-up campaign.",
+     "a": "**I am writing to** — دي بداية الـ Opening."
+    },
+    {
+     "q": "8. ______, we are requesting a small budget and one free afternoon a month.",
+     "a": "**Specifically** — قبل الطلب المحدد (The Ask)."
+    },
+    {
+     "q": "9. ______ a report by our science department, the river near our school contains high levels of plastic.",
+     "a": "**According to** — بتقدم دليل من مصدر."
+    },
+    {
+     "q": "10. ______ that students are too busy, our volunteers have already planned the work for the weekends.",
+     "a": "**Although some may argue** — اعتراض وبعده الرد."
+    },
+    {
+     "q": "11. ______ this request.",
+     "a": "**Thank you for considering** — شكر في الـ Closing."
+    },
+    {
+     "q": "12. ______,\nHana Mostafa\nHead of the Green Team",
+     "a": "**Yours sincerely** — لأننا بدأنا بـ Dear Ms Nadia (اسم معروف)."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**C. Rewrite the sentences in reported speech to use them as evidence.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "13. \"I have seen fewer birds at the lake this year,\" a birdwatcher said.",
+     "a": "A birdwatcher said that he **had seen** fewer birds at the lake **that** year. — have seen ← had seen، و this ← that."
+    },
+    {
+     "q": "14. \"Plastic nets kill sea turtles,\" the marine biologist explained.",
+     "a": "The marine biologist explained that plastic nets **kill** sea turtles. — مفيش backshift لأنها حقيقة عامة لسه صحيحة."
+    },
+    {
+     "q": "15. \"We will plant more trees next month,\" the volunteers told us.",
+     "a": "The volunteers told us that they **would** plant more trees **the following month**. — will ← would و next month ← the following month."
+    },
+    {
+     "q": "16. \"The clean-up is changing the way I see my town,\" a student said.",
+     "a": "A student said that the clean-up **was changing** the way **she saw her** town. — is changing ← was changing."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**D. Find the mistake and correct it. Then write.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "17. Find and correct the mistake: Hi Mr Hassan, I'm writing to ask for help.",
+     "a": "**Dear Mr Hassan, I am writing to ask for help.** — Hi عامية، و I'm اختصار. الاتنين ممنوعين في الإيميل الرسمي."
+    },
+    {
+     "q": "18. Find and correct the mistake: Dear Mr Hassan, … Yours faithfully,",
+     "a": "**Yours sincerely,** — بدأنا باسم معروف يبقى sincerely."
+    },
+    {
+     "q": "19. Find and correct the mistake: We want you to give us money now.",
+     "a": "مثال: **We would be grateful if the school could provide a small budget.** — الطلب لازم يبقى مؤدب ومحدد."
+    },
+    {
+     "q": "20. Write ONE sentence that addresses this concern: \"The project is too expensive.\"",
+     "a": "مثال: **Although some may argue that the project is too expensive, local businesses have already offered to donate seedlings.** — اعتراض + رد في جملة واحدة."
+    },
+    {
+     "q": "21. Write ONE sentence using If…, then… to show the benefit of your project.",
+     "a": "مثال: **If the council protects the wetland, then migratory birds will continue to visit our area every winter.** — من الـ Writing Frame في الكتاب."
+    },
+    {
+     "q": "22. Write a PEEL evidence paragraph (3-4 sentences) about why a school should support a tree-planting project.",
+     "a": "مثال: **This matters because trees cool our playground in summer. According to our science teacher, shaded areas can feel several degrees cooler. This shows that planting trees would make break time healthier. That is why the project deserves your support.** — Point ← Evidence ← Explain ← Link."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Checklist قبل ما تسلّم"
+  },
+  {
+   "type": "list",
+   "items": [
+    "كتبت **Subject line** واضح فيه الطلب؟",
+    "بدأت بـ **Dear + الاسم/اللقب +** فاصلة؟",
+    "الـ **Opening** بيقول أنا مين وبكتب ليه، وفيه حاجة تشد القارئ؟",
+    "الطلب **محدد** (Specifically, we are requesting…)؟",
+    "فيه **دليل** واحد على الأقل (According to… / One volunteer explained that…)؟",
+    "ذكرت **اعتراض واحد على الأقل** ورديت عليه (Although some may argue that…)؟",
+    "خلصت بـ **call to action** وشكر؟",
+    "الـ Sign-off صح (sincerely مع الاسم المعروف، faithfully مع Sir or Madam)، والاسم في سطر لوحده؟",
+    "مفيش اختصارات (I'm, don't) ولا كلام عامي؟",
+    "عدد الكلمات بين **150 و180**؟"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "مهام كتابة للتدريب"
+  },
+  {
+   "type": "p",
+   "text": "اختار مهمة واكتب إيميل **of about (150-180) words**. تحت كل مهمة خطة قصيرة تساعدك تبدأ."
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "Task 1: As a student environmental club leader, write a persuasive email to your school principal asking for support to start a wetland awareness campaign. Acknowledge at least one concern.",
+     "a": "**خطة:** Subject: Request: Approval for a Wetland Awareness Week ← Opening: نادينا عمل رحلة للبحيرة الترم اللي فات ← Ask: أسبوع توعية + معرض صور + حصة واحدة ← Evidence: A birdwatcher told us that fewer birds had visited the lake… ← Concern: الامتحانات قربت ← رد: الأسبوع هيبقى بعد الامتحانات ← Call to action: نتقابل نتكلم."
+    },
+    {
+     "q": "Task 2: Write an email to your local council arguing that protecting a local wetland should be a higher priority than building new houses on it.",
+     "a": "**خطة:** Dear Members of the Local Council, ← Opening: بكتب علشان أطلب حماية الـ wetland ← Ask: وقف البناء ودراسة مكان تاني ← Evidence: صيادين بيعتمدوا عليها + الطيور المهاجرة ← Concern: Although some may argue that families need new homes… ← رد: فيه أرض تانية مش مستخدمة ← Yours faithfully, (لو مش عارف الأسماء)."
+    },
+    {
+     "q": "Task 3: Write an email to your school community persuading them that small local actions, like clean-ups or planting trees, can make a real difference to global problems.",
+     "a": "**خطة:** Subject: Small Actions, Big Difference: Join Our Saturday Clean-Up ← Opening: إنجاز النادي ← Ask: كل فصل يبعت 5 متطوعين ← Evidence: reported speech من متطوع أو مدرس ← Concern: Although some may argue that one school cannot save the planet… ← رد: الأعمال الصغيرة لما تتجمع بتفرق ← Call to action: سجّل اسمك قبل الخميس."
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "ملخص الدرس في سطرين",
+   "items": [
+    "الـ persuasive email = **طلب محدد + دليل + رد على اعتراض + call to action**، وكله بلغة رسمية ومؤدبة.",
+    "الترتيب: **Subject ← Greeting ← Opening/Hook ← The Ask ← Evidence ← Concern ← Closing + Sign-off**.",
+    "الدليل أحسن يبقى بالـ **reported speech** (One volunteer explained that…)، وفقرة الدليل ممكن تتبني بـ **PEEL**.",
+    "الاعتراض بـ **Although some may argue that…** وبعده الرد على طول.",
+    "**Yours sincerely** مع الاسم المعروف، **Yours faithfully** مع Sir or Madam، وعدد الكلمات **150-180**."
+   ]
+  }
+ ]
+}

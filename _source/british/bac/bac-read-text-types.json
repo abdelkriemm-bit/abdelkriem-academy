@@ -1,0 +1,514 @@
+{
+ "slug": "bac-read-text-types",
+ "title": "Text Types: reports, articles, opinion articles, narratives and profiles",
+ "kicker": "تانية بكالوريا · Reading · All units",
+ "summary": "إزاي تعرف نوع النص (تقرير، مقال، مقال رأي، قصة/سرد، بروفايل) من هدفه وشكله ولغته، وده بيساعدك تفهمه وتجاوب أسئلته.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "الدرس ده عن إيه؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Every text has a **purpose** (why it was written), an **audience** (who will read it) and **features** (how it looks and sounds). These three things tell us the **text type**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الكتاب مليان أنواع نصوص مختلفة: في **Unit 2** الكتاب بيقول «Through a **research report**, **magazine articles**, and a **literary extract**…» وبعدها «read a **personal narrative**». في **Unit 4** فيه **formal report** عن هدر الأكل و**opinion article** وكمان review. وفي **Units 6 و7 و8** فيه نصوص من «**profile series**» زي قصة Grace مع الأفيال وقصة Mariam اللي بتزيّن الكيك. وفي آخر Unit 3 الكتاب بيقول: «read and identify key details across **all the text types** in this unit»."
+  },
+  {
+   "type": "p",
+   "text": "ليه ده مهم؟ لأنك لو عرفت نوع النص من أول سطرين هتعرف **تدوّر على إيه**: في التقرير هتدوّر على أرقام ونتايج، في مقال الرأي هتدوّر على رأي الكاتب، في القصة هتدوّر على الشخصيات ومشاعرهم. وكمان الامتحان بيسأل أسئلة زي **The writer mainly aims to…** أو **This text is most likely taken from…**"
+  },
+  {
+   "type": "h2",
+   "text": "3 أسئلة بتكشف نوع أي نص"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Purpose (الهدف):** الكاتب كتب ليه؟ علشان **يدّي معلومات** (inform)؟ ولا **يقنعك** (persuade)؟ ولا **يحكي حكاية ويمتّعك** (entertain / tell a story)؟ ولا **يعرّفك بشخص** (describe a person)؟",
+    "**Audience (الجمهور):** مين اللي هيقرا؟ مدير ومسؤولين (رسمي جدًا)؟ قرّاء مجلة (أخف شوية)؟ طلبة زيك؟",
+    "**Features (الشكل واللغة):** فيه عناوين فرعية؟ أرقام؟ «I»؟ حوار؟ أزمنة ماضي؟ أسئلة للقارئ؟"
+   ],
+   "ordered": true
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "حيلة للحفظ: PAF",
+   "text": "**P**urpose – **A**udience – **F**eatures. قبل ما تجاوب أي سؤال عن نوع النص اسأل نفسك الـ 3 دول بالترتيب ده."
+  },
+  {
+   "type": "h2",
+   "text": "الخمس أنواع في جدول واحد"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Each text type has a main purpose and typical features. Use this table to recognise them quickly."
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "النوع",
+    "الهدف",
+    "الشكل",
+    "اللغة",
+    "كلمات تدلّك عليه"
+   ],
+   "rows": [
+    [
+     "**Report** (research / formal report)",
+     "يدّي معلومات ونتايج بشكل محايد ويقدّم توصيات",
+     "عنوان واضح، مقدمة (purpose)، عناوين فرعية، أرقام وجداول، findings، conclusion / recommendations",
+     "رسمية، third person، مبني للمجهول كتير، مفيهاش مشاعر",
+     "This report examines / The findings show / It is recommended that"
+    ],
+    [
+     "**Article** (magazine / informational article)",
+     "يشرح موضوع ويخلّيه ممتع للقارئ",
+     "headline جذاب، أحيانًا subheadings، مقدمة بتشد، أمثلة وكلام خبراء",
+     "شبه رسمية، أحيانًا بتكلم القارئ (you)، أسئلة",
+     "Have you ever wondered…? / Experts say / Here's why"
+    ],
+    [
+     "**Opinion article**",
+     "يقنعك برأي الكاتب",
+     "headline فيه رأي، رأي واضح في الأول، أسباب وأدلة، رد على الرأي التاني، خاتمة فيها نصيحة أو call to action",
+     "I / In my view / should / must، كلمات قوية، rhetorical questions",
+     "I believe / It is time to / We must / However"
+    ],
+    [
+     "**Narrative** (story / personal narrative / literary extract)",
+     "يحكي أحداث ويخليك تحس بمشاعر الشخصيات",
+     "بداية – مشكلة – ذروة – نهاية، شخصيات، حوار، وصف",
+     "أزمنة الماضي (narrative tenses)، first person (I) أو third person، تشبيهات ووصف",
+     "When I / Suddenly / As soon as / I remember / my heart"
+    ],
+    [
+     "**Profile**",
+     "يعرّفك بشخص حقيقي: هو مين وعمل إيه وليه مهم",
+     "اسم الشخص في الأول، خلفيته، إنجازاته، اقتباسات من كلامه، وأحيانًا خطته للمستقبل",
+     "third person (she / he)، ماضي للقصة ومضارع للوضع الحالي، اقتباسات بين علامات تنصيص",
+     "At thirteen, she… / Today, he… / \"I never expected…\" she says."
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "الفرق بين article و opinion article",
+   "text": "الاتنين ممكن يكونوا في مجلة أو جرنال. **Article** عادي (informational) هدفه **يشرح** وبيعرض أكتر من جانب من غير ما الكاتب يفرض رأيه. **Opinion article** هدفه **يقنع**: الكاتب بيقول **رأيه هو** بوضوح (I believe / we should) ويدافع عنه. اسأل نفسك: الكاتب واخد صف ولا لأ؟"
+  },
+  {
+   "type": "h2",
+   "text": "موضوع واحد في خمس أنواع نصوص"
+  },
+  {
+   "type": "p",
+   "text": "علشان تشوف الفرق بعينك، الخمس نصوص الصغيرة دي كلها عن **نفس الموضوع**: نادي قراءة من غير موبايلات في مدرسة (موضوع الـ screen time والـ well-being). اقرا كل واحد ولاحظ الفرق."
+  },
+  {
+   "type": "p",
+   "text": "**1. Report**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "**Reading Club Pilot: Findings and Recommendations**",
+    "This report examines the results of a six-week phone-free reading club at a secondary school. Forty-two students took part. Attendance remained above 85% throughout the programme. Participants reported an average increase of 40 minutes of sleep per night. It is recommended that the club be extended to all year groups."
+   ]
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "This report examines…",
+     "ar": "جملة الهدف (purpose) في أول التقرير."
+    },
+    {
+     "en": "Forty-two students / above 85% / 40 minutes",
+     "ar": "**أرقام** = معلومات دقيقة ومحايدة."
+    },
+    {
+     "en": "It is recommended that the club be extended…",
+     "ar": "**توصية** بلغة رسمية ومبني للمجهول. من غير «I think»."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**2. Article**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "**Can a Book Beat a Screen?**",
+    "Have you ever picked up your phone \"just for a minute\" and looked up an hour later? You are not alone. At one Cairo school, students are trying something unusual: a weekly club where phones stay in a box and books come out. Teachers say the room is quieter than any classroom, and sleep experts believe that reading on paper before bed can help the brain relax."
+   ]
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "Have you ever…? / You are not alone.",
+     "ar": "الكاتب **بيكلم القارئ** علشان يشدّه. ده من علامات الـ magazine article."
+    },
+    {
+     "en": "Teachers say… / sleep experts believe…",
+     "ar": "بيعرض كلام ناس تانية، **مش** رأيه هو."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**3. Opinion article**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "**Every School Needs a Phone-Free Hour**",
+    "I believe every school in Egypt should introduce a phone-free reading hour. Our students are exhausted by endless notifications, and a single hour without screens could give them back their focus. Some say teenagers will simply refuse. However, the students at one Cairo school queue to join their club. It is time we gave all young people the same chance."
+   ]
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "I believe every school … should…",
+     "ar": "رأي واضح من أول سطر + should."
+    },
+    {
+     "en": "Some say… However…",
+     "ar": "رأي المخالفين والرد عليه."
+    },
+    {
+     "en": "It is time we gave all young people the same chance.",
+     "ar": "**call to action** (دعوة للتصرف) في الآخر."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**4. Narrative**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "**The Box**",
+    "I stared at the cardboard box as if it were a cage. My phone was inside, and it had buzzed twice since I had put it there. My hands felt empty. I opened the novel on my desk and read the first line three times. Then, slowly, something strange happened: the room disappeared, and I was standing on a ship in a storm. When the bell rang, I realised I had not thought about my phone for forty minutes."
+   ]
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "I stared… / had buzzed / had put",
+     "ar": "**narrative tenses**: past simple + past perfect، و first person (I)."
+    },
+    {
+     "en": "as if it were a cage",
+     "ar": "**تشبيه** بيوصف شعوره. الوصف والمشاعر من علامات الـ narrative."
+    },
+    {
+     "en": "When the bell rang, I realised…",
+     "ar": "النهاية فيها **تغيير** في مشاعر الشخصية (من الضيق للاستمتاع)."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**5. Profile**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "**Nour Adel: The Girl Who Put Phones in a Box**",
+    "At fifteen, Nour Adel was spending six hours a day on social media. Today, she runs one of the most popular clubs at her school. The idea came after a sleepless exam week. \"I realised my phone was choosing my day for me,\" she says. With the help of her English teacher, she collected second-hand novels and set up a weekly phone-free hour. Next year, Nour hopes to help three other schools start their own clubs."
+   ]
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "Nour Adel: The Girl Who…",
+     "ar": "**اسم شخص حقيقي** في العنوان = علامة قوية على الـ profile."
+    },
+    {
+     "en": "At fifteen, Nour… / Today, she runs…",
+     "ar": "ماضي للخلفية ومضارع للوضع دلوقتي."
+    },
+    {
+     "en": "\"I realised my phone was choosing my day for me,\" she says.",
+     "ar": "**اقتباس** من كلام الشخص نفسه."
+    },
+    {
+     "en": "Next year, Nour hopes to…",
+     "ar": "خطط المستقبل: حاجة متكررة في نهاية الـ profiles."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي النوع بيساعدك في الأسئلة؟"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "النوع",
+    "أسئلة متوقعة",
+    "ركّز على"
+   ],
+   "rows": [
+    [
+     "Report",
+     "What do the findings show? What does the report recommend?",
+     "الأرقام، النتايج، التوصيات"
+    ],
+    [
+     "Article",
+     "What is the main idea? According to the expert…?",
+     "الفكرة الأساسية والمعلومات"
+    ],
+    [
+     "Opinion article",
+     "What is the writer's main argument? How does the writer respond to…?",
+     "الرأي، الأسباب، الـ counter-argument"
+    ],
+    [
+     "Narrative",
+     "How does the narrator feel? How does the mood change?",
+     "المشاعر، التغيير، الوصف، اللغة المجازية"
+    ],
+    [
+     "Profile",
+     "What motivated her? What challenges did he face? What does the quote show about her?",
+     "الدافع، التحديات، الإنجاز، الصفات"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الكتاب في Unit 2 بيقول: «read a personal narrative for gist and identify how the **narrator's mood shifts** across the text». يعني في القصة السؤال الأهم عن **المشاعر وتغيّرها**. وفي Unit 8: «identify tone and evaluative language in **personal profiles**». يعني في البروفايل ركّز على **الكلمات اللي بتمدح أو بتقيّم** الشخص (زي determined, generous, remarkable)."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "أشهر الأخطاء (غلط ← صح)",
+   "items": [
+    "✗ أي نص فيه «I» يبقى narrative. ← ✓ مقال الرأي كمان فيه I. اسأل: بيحكي أحداث ولا بيقنعني؟",
+    "✗ أي نص فيه أرقام يبقى report. ← ✓ المقالات كمان فيها أرقام. الـ report **رسمي جدًا**، وفيه purpose و findings و recommendations.",
+    "✗ الـ profile = narrative. ← ✓ الـ profile عن **شخص حقيقي** ومكتوب غالبًا بـ **he / she** وفيه اقتباسات. الـ narrative بيركز على **حدث** ومشاعر.",
+    "✗ «The writer mainly aims to entertain» لمقال رأي. ← ✓ هدف مقال الرأي **to persuade**.",
+    "✗ تختار «to criticise» أو «to prove» لنص بيعرض الجانبين. ← ✓ نص بيعرض الإيجابي والسلبي هدفه **to evaluate / to inform**."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "كلمات الهدف في سؤال «The writer mainly aims to…»",
+   "items": [
+    "**inform / explain / describe** = يدّي معلومات (report / article).",
+    "**persuade / convince / argue / encourage readers to** = يقنع (opinion article).",
+    "**entertain / tell a story / share an experience** = يحكي (narrative).",
+    "**introduce / celebrate / show how a person…** = يعرّف بشخص (profile).",
+    "**evaluate (both the value and the limits)** = يقيّم الإيجابي والسلبي (زي سؤال المراجعة في Book 2)."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي بييجي في الأسئلة؟"
+  },
+  {
+   "type": "p",
+   "text": "**النوع 1 — The writer mainly aims to:**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "(Text 5 above) The writer mainly aims to ______",
+    "a. persuade every school to ban phones",
+    "b. show how one student turned a personal problem into a project that helps others",
+    "c. report statistics about students' sleep",
+    "d. tell a frightening story about a storm"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الإجابة **b**: ده profile عن Nour، بيحكي مشكلتها (6 ساعات سوشيال ميديا) وإزاي عملت نادي وعايزة تساعد مدارس تانية. (a) مفيش رأي للكاتب. (c) ده الـ report. (d) العاصفة كانت في خيال الراوي في Text 4."
+  },
+  {
+   "type": "p",
+   "text": "**النوع 2 — This text is most likely taken from:**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "This text (Text 1) is most likely taken from ______",
+    "a. a school's official evaluation document",
+    "b. a novel for teenagers",
+    "c. a personal diary",
+    "d. a social media post"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الإجابة **a**: لغة رسمية، أرقام، «It is recommended that». ده شكل التقرير الرسمي."
+  },
+  {
+   "type": "p",
+   "text": "**النوع 3 — Give TWO features that show this is a …:**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Q: Give TWO features that show Text 4 is a narrative.",
+    "Model answer: First, it is written in the first person and in past tenses (\"I stared\", \"had buzzed\"). Second, it describes the narrator's feelings, using a simile: \"as if it were a cage\"."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "تدريب"
+  },
+  {
+   "type": "p",
+   "text": "**التدريب الأول:** اقرا كل جزء واكتب نوعه: **report / article / opinion article / narrative / profile**، وقول الدليل."
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "1. \"This report presents the results of a survey on food waste in 300 households. The findings indicate that bread is the item most frequently discarded.\"",
+     "a": "**Report** — «This report presents», «findings indicate»، أرقام، لغة رسمية."
+    },
+    {
+     "q": "2. \"It is time to stop pretending that fast fashion is harmless. I refuse to buy a new T-shirt every month, and you should too.\"",
+     "a": "**Opinion article** — رأي قوي (It is time / I refuse / you should)."
+    },
+    {
+     "q": "3. \"The wind howled outside as Karim pushed open the heavy museum door. Somewhere in the darkness, a statue seemed to move.\"",
+     "a": "**Narrative** — أحداث بالماضي، وصف، تشويق، شخصية (Karim)."
+    },
+    {
+     "q": "4. \"At seventeen, Omar Hany repairs more phones in a week than some shops do. 'I started by breaking my own,' he laughs. Today, he trains younger students every Thursday.\"",
+     "a": "**Profile** — اسم شخص حقيقي، عمره، اقتباس، he، ماضي + Today."
+    },
+    {
+     "q": "5. \"Why do migrating birds fly over Egypt every autumn? Scientists say the answer lies in a chain of wetlands stretching across three continents.\"",
+     "a": "**Article** (informational) — سؤال للقارئ، معلومات، كلام علماء، من غير رأي شخصي."
+    },
+    {
+     "q": "6. \"Respondents aged 15-18 spent an average of 6.2 hours a day online. It is recommended that schools review their homework policies.\"",
+     "a": "**Report** — Respondents، متوسطات، recommendation."
+    },
+    {
+     "q": "7. \"I remember the first day I walked into the vocational school. My stomach was in knots, and I was sure everyone was staring at me.\"",
+     "a": "**Narrative** (personal narrative) — I remember، مشاعر، ماضي."
+    },
+    {
+     "q": "8. \"Some people claim that museums are boring. They could not be more wrong. A well-designed museum is the most exciting classroom a child can visit.\"",
+     "a": "**Opinion article** — رأي المخالفين ورد قوي (They could not be more wrong)."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**التدريب التاني:** Choose the correct answer."
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "9. Which feature is most typical of a report?\na. dialogue between characters\nb. headings, data and recommendations\nc. rhetorical questions and strong opinions\nd. similes and metaphors",
+     "a": "**b** — دي علامات التقرير. (a) و(d) narrative. (c) opinion article."
+    },
+    {
+     "q": "10. A text about a young Egyptian chef that includes her childhood, her challenges and quotes from her is most likely ______\na. a report  b. a profile  c. an opinion article  d. a leaflet",
+     "a": "**b** — شخص حقيقي + تحديات + اقتباسات = profile."
+    },
+    {
+     "q": "11. The main purpose of an opinion article is to ______\na. entertain readers with a story\nb. give neutral data\nc. persuade readers to accept a point of view\nd. describe a person's life",
+     "a": "**c** — persuade."
+    },
+    {
+     "q": "12. In a personal narrative, the writer usually ______\na. uses the passive to sound objective\nb. describes events and feelings in the past\nc. lists recommendations\nd. avoids the word \"I\"",
+     "a": "**b** — ماضي + مشاعر + غالبًا I."
+    },
+    {
+     "q": "13. \"The writer mainly aims to evaluate both the benefits and the limits of a school recycling project.\" This text is probably ______\na. a narrative  b. a balanced article or report  c. a poem  d. an advertisement",
+     "a": "**b** — evaluate both = بيعرض الجانبين بشكل متوازن."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**التدريب التالت:** State whether the statement is True (T) or False (F). Justify your answer from the five texts in this lesson."
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "14. Text 2 (the article) tells readers what the writer personally believes schools should do.",
+     "a": "**False** — الكاتب بيعرض كلام الناس: «**Teachers say**… sleep experts **believe**…» من غير ما يقول رأيه هو."
+    },
+    {
+     "q": "15. Text 3 (the opinion article) responds to an opposing view.",
+     "a": "**True** — «**Some say teenagers will simply refuse. However**, the students … queue to join»."
+    },
+    {
+     "q": "16. Text 5 (the profile) includes the person's own words.",
+     "a": "**True** — «\"**I realised my phone was choosing my day for me,\" she says.**»"
+    },
+    {
+     "q": "17. The narrator in Text 4 feels relaxed from the beginning to the end.",
+     "a": "**False** — في الأول «stared at the box **as if it were a cage** … hands **felt empty**» وبعدين اتغير. المود **shifts** من الضيق للاستمتاع."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**التدريب الرابع:** جاوب في جملتين أو تلاتة."
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "18. Give TWO features that show Text 1 is a report and not an article.",
+     "a": "Model: It uses formal, objective language with data such as \"Forty-two students\" and \"above 85%\". It also ends with a formal recommendation: \"It is recommended that the club be extended\"."
+    },
+    {
+     "q": "19. How does the mood of the narrator change in Text 4? Give evidence.",
+     "a": "Model: At first, the narrator feels trapped and uncomfortable: the narrator stares at the box \"as if it were a cage\", and the narrator's hands \"felt empty\". By the end, the narrator feels absorbed and calm: \"I had not thought about my phone for forty minutes\"."
+    },
+    {
+     "q": "20. What does the quote in Text 5 show about Nour?",
+     "a": "Model: It shows that she is self-aware and honest. She realised that her phone was controlling her time, and this realisation motivated her to change."
+    },
+    {
+     "q": "21. You want to persuade your head teacher to start a school garden. Which text type would you choose? Why?",
+     "a": "Model: I would write an opinion article (or a formal proposal) because my purpose is to persuade. I would state my opinion clearly, give reasons with evidence, and end with a call to action."
+    },
+    {
+     "q": "22. Rewrite this report sentence as it might appear in an opinion article: \"Students who attended the club slept 40 minutes longer on average.\"",
+     "a": "Model: \"Imagine giving every student forty extra minutes of sleep a night. That is exactly what this club did, and every school should copy it.\" — بقت فيها مخاطبة للقارئ ورأي و should."
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "ملخص الدرس في سطرين",
+   "items": [
+    "اسأل **PAF**: Purpose (الهدف) – Audience (الجمهور) – Features (الشكل واللغة).",
+    "**Report** = معلومات رسمية + أرقام + recommendations. **Article** = يشرح ويشد القارئ. **Opinion article** = يقنع (I believe / should).",
+    "**Narrative** = أحداث بالماضي + مشاعر + وصف. **Profile** = شخص حقيقي + خلفية + إنجاز + اقتباسات.",
+    "سؤال **The writer mainly aims to** = اختار فعل الهدف المناسب للنوع: inform / persuade / entertain / introduce / evaluate.",
+    "النوع بيحدد إنت **تدوّر على إيه**: أرقام؟ رأي؟ مشاعر؟ دوافع الشخص؟"
+   ]
+  }
+ ]
+}

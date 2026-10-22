@@ -1,0 +1,600 @@
+{
+ "slug": "bac-writ-opinion-article",
+ "title": "Opinion Article",
+ "kicker": "تانية بكالوريا · Writing · Unit 4",
+ "summary": "إزاي تكتب مقال رأي (150-180 كلمة) بعنوان جذاب ورأي واضح وسببين ونقطة للرأي التاني وخاتمة قوية، زي ما الكتاب بيعلّمه.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "الدرس ده عن إيه؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "An **opinion article** gives your view on a topic and supports it with reasons. It is usually written for a magazine, a newspaper or a website, so it has a catchy **headline** and speaks to many readers."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الـ **opinion article** يعني **مقال رأي**: إنت بتكتب رأيك في موضوع معيّن، وبتقنع القارئ بيه بأسباب وأمثلة. زي المقال اللي بيتنشر في **مجلة المدرسة** أو جرنال أو موقع."
+  },
+  {
+   "type": "p",
+   "text": "في الكتاب الدرس ده في **Unit 4: The Power of Choice** (Concept 4: Consumption and Choice)، صفحة **Writing — Opinion Article** (صفحة 116)، والمهمة فيها: مقال **(150-180) words** لمجلة المدرسة عن الـ brand culture. وبيرجع تاني في الـ **Summative Assessment** آخر الوحدة (صفحة 130) بنفس عدد الكلمات."
+  },
+  {
+   "type": "p",
+   "text": "الوحدة كلها عن **الاستهلاك والاختيار**: الماركات (brand culture)، الأكل اللي بيترمي (food waste)، الأوكازيونات زي Black Friday (sale events)، والوقت اللي بنضيعه على الشاشات (digital consumption). فالمقالات غالبًا هتكون عن الموضوعات دي."
+  },
+  {
+   "type": "h2",
+   "text": "يعني إيه مقال رأي؟ وإيه الفرق بينه وبين الـ paragraph؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "An opinion paragraph is one block of writing. An opinion article is longer and has **six parts**: a headline, an introduction, two body paragraphs, a concession and a conclusion."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "فكّر فيها كده: الـ **opinion paragraph** زي **أوضة واحدة**، كل حاجة جواها. أما الـ **opinion article** فهو **شقة كاملة**: ليها باب (العنوان)، صالة (المقدمة)، أوضتين (فقرتين للأسباب)، وأوضة صغيرة للرأي التاني (concession)، وفي الآخر باب الخروج (الخاتمة)."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "",
+    "Opinion paragraph",
+    "Opinion article"
+   ],
+   "rows": [
+    [
+     "الشكل",
+     "فقرة واحدة",
+     "عنوان + كذا فقرة"
+    ],
+    [
+     "العنوان (headline)",
+     "مفيش",
+     "**لازم** عنوان قصير وجذاب"
+    ],
+    [
+     "القارئ",
+     "المدرس / الامتحان",
+     "قرّاء مجلة أو جرنال (ناس كتير)"
+    ],
+    [
+     "الأسلوب",
+     "رسمي ومباشر",
+     "رسمي بس فيه حيوية: سؤال، مثال من الحياة، جملة قوية في الآخر"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "خلي بالك من كلمة «رأي»",
+   "text": "المقال ده **مش** مقارنة محايدة بين الرأيين. إنت **واخد صف واحد** من الأول للآخر. بتذكر الرأي التاني مرة واحدة بس (في الـ concession) علشان **ترد عليه** وتبيّن إن رأيك أقوى."
+  },
+  {
+   "type": "h2",
+   "text": "الهيكل زي ما الكتاب بيعلّمه (6 أجزاء)"
+  },
+  {
+   "type": "en",
+   "text": [
+    "The book's **Writing Guide** gives six parts. Each part has one job."
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "الجزء",
+    "What to include (English)",
+    "يعني إيه بالعربي",
+    "عبارات مفيدة"
+   ],
+   "rows": [
+    [
+     "1. **Headline**",
+     "a short, catchy title that shows your opinion",
+     "عنوان قصير وجذاب، **يبيّن رأيك** من أوله",
+     "Black Friday: A Bargain That Costs Us More"
+    ],
+    [
+     "2. **Introduction**",
+     "give the topic and state your main opinion clearly",
+     "قدّم الموضوع في جملة أو اتنين، وبعدين **قول رأيك بوضوح**",
+     "The issue of … affects many young people today. / In this article, I will argue that … / In my opinion, …"
+    ],
+    [
+     "3. **Body paragraph 1**",
+     "first reason + example or evidence",
+     "السبب الأول + مثال أو دليل",
+     "First of all, … / For example, … / As a result, …"
+    ],
+    [
+     "4. **Body paragraph 2**",
+     "second reason + example or evidence",
+     "السبب التاني + مثال أو دليل",
+     "Furthermore, … / In addition, … / Research has shown that …"
+    ],
+    [
+     "5. **Concession**",
+     "mention one point from the other side",
+     "اذكر **نقطة واحدة** من الرأي التاني، ورد عليها",
+     "Admittedly, … However, … / On the other hand, some people argue that … However, …"
+    ],
+    [
+     "6. **Conclusion**",
+     "restate your opinion and end with a strong final sentence",
+     "**كرّر رأيك بكلام تاني**، واقفل بجملة قوية تفضل في دماغ القارئ",
+     "In conclusion, … / To sum up, … / Next time you …, ask yourself …"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الكتاب كمان بيقول إن كاتب المقال الكويس **مبيكتفيش يتفرج على المشكلة**: بيشخّص المشكلة (diagnose) وبعدين **يقترح حل واضح** (prescribe the cure). يعني في الخاتمة أو في الفقرات حاول تقول للقارئ **يعمل إيه**."
+  },
+  {
+   "type": "h2",
+   "text": "عبارات مفيدة لكل جزء"
+  },
+  {
+   "type": "p",
+   "text": "العبارات دي من الكتاب (Writing Guide والـ Writing Frame في الـ Summative) ومن لغة الوحدة. احفظ 2-3 من كل مجموعة."
+  },
+  {
+   "type": "phrases",
+   "groups": [
+    {
+     "title": "Headline (العنوان)",
+     "items": [
+      "Brands: Are We Buying Products or Feelings?",
+      "Stop Scrolling, Start Living",
+      "Why Our Bins Are Fuller Than Our Plates",
+      "The Real Price of a Logo"
+     ]
+    },
+    {
+     "title": "Introduction (المقدمة + الرأي)",
+     "items": [
+      "The issue of … is something that affects many young people today.",
+      "In this article, I will argue that …",
+      "In my opinion, …",
+      "I strongly believe that …",
+      "There is no doubt that …"
+     ]
+    },
+    {
+     "title": "Body paragraphs (الأسباب والأدلة)",
+     "items": [
+      "First of all, … / To begin with, …",
+      "Furthermore, … / In addition, … / Moreover, …",
+      "For example, … / For instance, …",
+      "Research has shown that …",
+      "As a result, … / This shows that …",
+      "Although …, it is also important to consider that …"
+     ]
+    },
+    {
+     "title": "Concession (الرأي التاني والرد عليه)",
+     "items": [
+      "On the other hand, some people argue that … However, …",
+      "Admittedly, … However, …",
+      "It is true that … Nevertheless, …",
+      "While some believe that …, this is only partly true because …"
+     ]
+    },
+    {
+     "title": "Conclusion (الخاتمة)",
+     "items": [
+      "In conclusion, …",
+      "To sum up, …",
+      "For all these reasons, I firmly believe that …",
+      "Next time you …, ask yourself …",
+      "It is time we …"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "القواعد اللي بتخلي مقالك أقوى (من نفس الوحدة)"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Unit 4 teaches three language points that you should use in your article: **linking words**, the **present perfect** and **fronting**."
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "القاعدة",
+    "بتعمل إيه في المقال",
+    "مثال"
+   ],
+   "rows": [
+    [
+     "**Linking words** (أدوات ربط)",
+     "بتربط الأفكار وتخلي المقال مترتب",
+     "**Furthermore**, cheap clothes are thrown away quickly."
+    ],
+    [
+     "**Present perfect** (have/has + p.p.)",
+     "بتتكلم عن حاجة حصلت ولسه أثرها موجود دلوقتي، أو تجربة شخصية",
+     "Food waste **has become** a serious problem in recent years."
+    ],
+    [
+     "**Fronting** (تقديم جزء من الجملة)",
+     "بتقدّم عبارة (وقت / نتيجة / مقارنة) لأول الجملة علشان **تأكيد** وأسلوب رسمي",
+     "**As a result of clever adverts**, many teenagers buy things they do not need."
+    ]
+   ]
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "**Unlike careful shoppers**, impulse buyers rarely check the price.",
+     "ar": "Fronting للمقارنة: قدّمنا Unlike careful shoppers لأول الجملة علشان نلفت النظر للفرق."
+    },
+    {
+     "en": "**In Egyptian schools**, a lot of bread ends up in the bin.",
+     "ar": "Fronting لمكان: بدل ما نقول A lot of bread ends up in the bin in Egyptian schools."
+    },
+    {
+     "en": "Many teenagers **have spent** more on brands than on books this year.",
+     "ar": "Present perfect: this year لسه مخلصتش، فالنتيجة لسه موجودة."
+    },
+    {
+     "en": "**Since** I deleted the shopping app, I **have saved** a lot of money.",
+     "ar": "Present perfect + since: من ساعة ما مسحت الأبليكيشن، وفّرت فلوس كتير (ولسه بوفّر)."
+    },
+    {
+     "en": "Brands sell feelings, **not just** products. **As a result**, we pay more for a logo.",
+     "ar": "As a result = نتيجة لكده. أداة ربط بتوضح السبب والنتيجة."
+    },
+    {
+     "en": "**Although** sales seem attractive, they often encourage unnecessary spending.",
+     "ar": "Although = بالرغم من إن. ممتازة في الـ concession."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي تكتب مقال الرأي خطوة بخطوة"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**اقرا السؤال كويس** (دقيقة): الموضوع إيه؟ القارئ مين (مجلة المدرسة؟)؟ عدد الكلمات **150-180**. لو السؤال «How much do you agree?» يبقى لازم تحدد موافق ولا لأ.",
+    "**اختار صفّك**: موافق ولا مش موافق. اختار الرأي اللي **عندك ليه أسباب أكتر**، مش اللي إنت مقتنع بيه أكتر.",
+    "**اعمل خطة صغيرة (Plan)** في 4 سطور: رأيي – السبب 1 + مثال – السبب 2 + مثال – نقطة الرأي التاني وردّي عليها.",
+    "**اكتب العنوان**: 3-8 كلمات، يبيّن رأيك. ينفع سؤال (Are We…?) أو جملة قوية (Stop …, Start …).",
+    "**اكتب المقدمة** (2-3 جمل، حوالي 30-35 كلمة): جملة تقدم الموضوع + جملة فيها رأيك بوضوح.",
+    "**اكتب فقرتين للأسباب** (كل واحدة حوالي 35-45 كلمة): ابدأ بأداة ربط + السبب + مثال أو دليل + نتيجة (As a result …).",
+    "**اكتب الـ concession** (2 جمل، حوالي 25 كلمة): اذكر رأي الطرف التاني بأدب، وبعدين **However** وردّك عليه.",
+    "**اكتب الخاتمة** (2 جمل، حوالي 30 كلمة): كرّر رأيك **بكلام مختلف** + جملة أخيرة قوية (نصيحة أو سؤال للقارئ).",
+    "**راجع** بالـ Checklist، وعدّ كلماتك: لو أقل من 150 زوّد مثال، لو أكتر من 180 شيل جملة مكررة."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "حيلة توزيع الكلمات",
+   "items": [
+    "عنوان (5) + مقدمة (35) + سبب أول (40) + سبب تاني (35) + concession (25) + خاتمة (30) = حوالي **170 كلمة**.",
+    "كده إنت في النص بالظبط بين 150 و180، ومش هتحتاج تعد كتير."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "نموذج كامل (Model Answer)"
+  },
+  {
+   "type": "p",
+   "text": "ده مقال كامل عن موضوع من موضوعات الوحدة (sale events). اقراه الأول بالإنجليزي، وبعدين بص على الشرح تحته."
+  },
+  {
+   "type": "model",
+   "title": "Model opinion article: sale events",
+   "task": "Write an opinion article of (150-180) words for your school magazine on this topic: ‘Big sale events like Black Friday do more harm than good to young shoppers.’",
+   "text": [
+    "**Black Friday: A Bargain That Costs Us More**",
+    "Every November, shops and apps fill with signs promising huge discounts, and young people rush to buy. In my opinion, however, events like Black Friday do far more harm than good, because they push us to buy things we do not need.",
+    "First of all, sales create a false sense of urgency. Countdown clocks and messages such as ‘Only two left!’ make shoppers panic. As a result, many teenagers buy without thinking. My cousin bought three hoodies last year, and she has worn only one.",
+    "Furthermore, these events encourage waste. Cheap clothes are soon thrown away, which harms the planet. Unlike careful shopping, impulse buying fills our wardrobes and empties our pockets.",
+    "Admittedly, sales can help families buy expensive items, such as a laptop, for less. However, this is only true when the purchase is planned.",
+    "To sum up, Black Friday is not about saving. It is a trick to make us spend. Next time you see a ‘50% off’ sign, ask yourself one question: do I really need this?"
+   ],
+   "word_count": 178,
+   "marks": "يحقق كل نقاط الـ Writing Checklist بتاعة الكتاب (6/6)",
+   "notes": [
+    "**العنوان (Headline):** قصير (8 كلمات) وفيه رأي واضح: الأوكازيون «بيكلفنا أكتر». مجرد قراية العنوان تعرف الكاتب ضد Black Friday.",
+    "**المقدمة:** الجملة الأولى بتقدم الموضوع بصورة من الحياة (اليفط في المحلات والأبليكيشنز والشباب اللي بيجروا يشتروا)، والتانية فيها **رأي الكاتب بوضوح**: In my opinion, … do far more harm than good.",
+    "**Body 1:** بيبدأ بـ **First of all** + السبب (false sense of urgency) + مثال (countdown clocks و‘Only two left!’) + نتيجة بـ **As a result** + مثال شخصي فيه **present perfect**: she has worn only one.",
+    "**Body 2:** بيبدأ بـ **Furthermore** + السبب التاني (waste) + دليل (الهدوم الرخيصة بتترمي بسرعة) + جملة فيها **fronting للمقارنة**: Unlike careful shopping, …",
+    "**Concession:** **Admittedly** = «لازم أعترف إن». ذكر نقطة واحدة من الرأي التاني بعدل (الأوكازيون بيساعد في الحاجات الغالية)، وبعدين **However** ورد عليها: ده صح بس لو الشراء متخطط له.",
+    "**الخاتمة:** **To sum up** + رأيه بكلام جديد (الموضوع مش توفير، ده خدعة) + جملة أخيرة قوية فيها **حل للقارئ**: اسأل نفسك سؤال واحد. ده بالظبط «diagnose, then prescribe» اللي في الكتاب.",
+    "**علامات الترقيم:** الـ inverted commas حوالين ‘Only two left!’ و‘50% off’ علشان دي **كلام منقول** من اليفط. والـ colon قبل do I really need this? بتقدّم **توضيح** للسؤال.",
+    "**عدد الكلمات:** المقال كله داخل في **150-180** كلمة، ومفيش ولا جملة بره الموضوع."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "الـ Checklist (من الكتاب) — راجع بيها قبل ما تسلّم"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "#",
+    "Writing Checklist",
+    "بتسأل نفسك"
+   ],
+   "rows": [
+    [
+     "1",
+     "I write a short, catchy title that shows my opinion.",
+     "العنوان قصير وجذاب وبيبيّن رأيي؟"
+    ],
+    [
+     "2",
+     "I state my main opinion in the introduction.",
+     "رأيي مكتوب بوضوح في المقدمة؟"
+    ],
+    [
+     "3",
+     "I support it with an example or evidence.",
+     "السبب الأول معاه مثال أو دليل؟"
+    ],
+    [
+     "4",
+     "I give a second reason with an example.",
+     "فيه سبب تاني ومعاه مثال؟"
+    ],
+    [
+     "5",
+     "I mention one point from the other side.",
+     "ذكرت نقطة من الرأي التاني ورديت عليها؟"
+    ],
+    [
+     "6",
+     "I restate my opinion.",
+     "كرّرت رأيي في الخاتمة بكلام مختلف؟"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "عدد الكلمات بين **150 و180**؟",
+    "استخدمت **3 أدوات ربط** على الأقل (First of all / Furthermore / However / As a result)؟",
+    "استخدمت **present perfect** مرة و**fronting** مرة على الأقل؟",
+    "مفيش اختصارات زي don't / can't؟ (اكتب do not / cannot علشان الأسلوب رسمي)."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "أشهر الأخطاء (غلط ← صح)",
+   "items": [
+    "✗ عنوان طويل أو من غير رأي: «An Article About Brands» ← ✓ «The Real Price of a Logo» (قصير وفيه رأي).",
+    "✗ تأجيل الرأي للآخر ← ✓ رأيك **لازم** يبان في المقدمة.",
+    "✗ تقف مع الرأيين: «Brands are good and bad.» ← ✓ اختار صف واحد، والرأي التاني يتذكر مرة واحدة في الـ concession.",
+    "✗ تكرار نفس جملة الرأي حرفيًا في الخاتمة ← ✓ قولها بكلام تاني: «Brands harm us» ← «A logo should not decide how we feel about ourselves.»",
+    "✗ سبب من غير مثال: «Brands are bad because they are bad.» ← ✓ سبب + مثال أو دليل + نتيجة.",
+    "✗ أسلوب الكلام العادي: «Guys, brands are sooo bad!!» ← ✓ «Many young people are influenced by brands more than they realise.»",
+    "✗ فاصلة قبل However بين جملتين كاملتين: «… a lower price, however, it …» ← ✓ نقطة وجملة جديدة: «… a lower price. However, …» (أو semicolon بيربط الجملتين الكاملتين: «…; however, …»). وماتستخدمش الـ semicolon في قائمة أبدًا."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "إزاي تجاوب في الامتحان",
+   "items": [
+    "أول حاجة اكتب **الخطة** في 4 سطور. دي بتوفر عليك وقت وبتمنع إنك تخرج بره الموضوع.",
+    "ابدأ كل فقرة بأداة ربط مختلفة: First of all → Furthermore → Admittedly … However → To sum up.",
+    "لو مش لاقي دليل من الأرقام، استخدم **مثال من الحياة** (صاحبك، أخوك، مدرستك). ده مقبول ومقنع.",
+    "الجملة الأخيرة: **سؤال** للقارئ أو **نصيحة** (Next time you …). دي اللي بتخلي المقال «قوي»."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي بييجي في الأسئلة؟"
+  },
+  {
+   "type": "p",
+   "text": "الأسئلة في الكتاب والمراجعات بتيجي بالشكل ده: مهمة كتابة «Write an opinion article of (150-180) words» على موضوع من الوحدة، وأحيانًا تختار من سؤالين، وأحيانًا تيجي أسئلة صغيرة على أجزاء المقال والعبارات. هنحل مثالين:"
+  },
+  {
+   "type": "p",
+   "text": "**1) Choose the correct answer from a, b, c or d.**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Which sentence is the best **concession** for an article against long screen time?",
+    "a. To sum up, screens are harmful.",
+    "b. Admittedly, some apps help students learn. However, most teenagers use their phones for entertainment, not study.",
+    "c. First of all, screens damage our sleep.",
+    "d. Stop Scrolling, Start Living"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**الإجابة: b.** ليه؟ الـ concession = نقطة من الرأي التاني (التطبيقات بتساعد في التعلم) + رد عليها بـ However. (a) خاتمة، (c) سبب أول، (d) عنوان."
+  },
+  {
+   "type": "p",
+   "text": "**2) Writing task with a plan.**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "‘Modern consumption is making people less happy, not more.’ How much do you agree? Write an opinion article of (150-180) words."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**الخطة:** (الرأي) موافق إلى حد كبير. (سبب 1) المقارنة بالماركات بتخلّي الشباب مش راضيين + مثال: لبس زمايلهم. (سبب 2) الشاشات بتاخد وقت العيلة والنوم + دليل: notifications بتشتت حتى لو مفتحناهاش (من درس الوحدة). (concession) الشراء بيدّي سعادة سريعة، However السعادة دي بتخلص بسرعة. (خاتمة) السعادة في التجارب والناس مش في الحاجات + نصيحة: قضّي يوم في الأسبوع من غير شراء."
+  },
+  {
+   "type": "h2",
+   "text": "تدريب"
+  },
+  {
+   "type": "p",
+   "text": "**A. Choose the correct answer from a, b, c or d.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "1. The first part of an opinion article is the ______.\na. conclusion  b. headline  c. concession  d. evidence",
+     "a": "**b. headline** — المقال بيبدأ بعنوان قصير وجذاب."
+    },
+    {
+     "q": "2. In which part do you state your main opinion clearly?\na. the introduction  b. the concession  c. the headline only  d. the signature",
+     "a": "**a. the introduction** — الكتاب بيقول: give the topic and state your main opinion clearly."
+    },
+    {
+     "q": "3. ‘Admittedly, school uniforms can be expensive.’ This sentence belongs to the ______.\na. headline  b. introduction  c. concession  d. first reason",
+     "a": "**c. concession** — Admittedly بتقدم نقطة من الرأي التاني."
+    },
+    {
+     "q": "4. Which headline is the best for an article against brand culture?\na. Brands  b. Some Information About Clothes  c. The Real Price of a Logo  d. I Am Writing About Brands Today",
+     "a": "**c** — قصير وجذاب و**بيبيّن رأي**: الماركة ليها «تمن حقيقي» (ضرر)."
+    },
+    {
+     "q": "5. ______, many supermarkets throw away tonnes of bread every day.\na. In Egypt  b. Egypt  c. At Egypt  d. To Egypt",
+     "a": "**a. In Egypt** — ده fronting لعبارة مكان في أول الجملة."
+    },
+    {
+     "q": "6. Food waste ______ a bigger problem since 2000.\na. became  b. has become  c. becomes  d. is becoming",
+     "a": "**b. has become** — since + present perfect."
+    },
+    {
+     "q": "7. ______, cheap clothes are often thrown away after a few weeks.\na. Furthermore  b. Because of  c. Although  d. Unless",
+     "a": "**a. Furthermore** — بتضيف سبب جديد، وبعدها فاصلة وجملة كاملة."
+    },
+    {
+     "q": "8. Which sentence is the best final sentence for a conclusion?\na. First of all, brands are popular.\nb. Next time you buy a hoodie, ask yourself whether you are paying for the cotton or the logo.\nc. Some people argue that brands mean quality.\nd. Brands: Are We Buying Feelings?",
+     "a": "**b** — جملة قوية فيها **نصيحة/سؤال للقارئ**. (a) سبب، (c) concession، (d) عنوان."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**B. Read each sentence and say which part of the article it comes from (headline / introduction / body / concession / conclusion).**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "9. In this article, I will argue that schools should teach students how to reduce food waste.",
+     "a": "**Introduction** — فيها «In this article, I will argue that» = رأي الكاتب في المقدمة."
+    },
+    {
+     "q": "10. On the other hand, some people argue that phones are necessary for safety. However, a basic phone can do this job.",
+     "a": "**Concession** — رأي الطرف التاني + However والرد."
+    },
+    {
+     "q": "11. Stop Scrolling, Start Living",
+     "a": "**Headline** — قصير وجذاب وفيه رأي (بطّل سكرول)."
+    },
+    {
+     "q": "12. For example, a study showed that students who switched off notifications concentrated better in class.",
+     "a": "**Body paragraph** — مثال/دليل بيدعم سبب."
+    },
+    {
+     "q": "13. To sum up, the time we give to screens is time we take from our families.",
+     "a": "**Conclusion** — To sum up + الرأي بكلام جديد."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**C. Find the mistake and correct it.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "14. Brands are bad. Brands are bad because they are bad for us.",
+     "a": "مفيش سبب حقيقي ولا مثال. ✓ Brands can harm young people because they link our value to what we wear. For example, …"
+    },
+    {
+     "q": "15. I think brands is good and bad, so I don't know.",
+     "a": "الكاتب مخدش صف + غلطة (is ← are) + اختصار. ✓ I strongly believe that brands do more harm than good."
+    },
+    {
+     "q": "16. Shops has used countdown clocks for years.",
+     "a": "Shops جمع ← **have used**. ✓ Shops have used countdown clocks for years."
+    },
+    {
+     "q": "17. Conclusion that repeats the introduction word for word: «In conclusion, sale events do far more harm than good.»",
+     "a": "لازم تعيد الرأي **بكلام مختلف**. ✓ To sum up, a sale is not a gift. It is a clever way to make us spend more."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**D. Rewrite each sentence using fronting (start with the phrase in bold).**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "18. Many families waste food because of poor planning. (start: **Because of**)",
+     "a": "**Because of poor planning**, many families waste food."
+    },
+    {
+     "q": "19. Small shops cannot offer big discounts, unlike online stores. (start: **Unlike**)",
+     "a": "**Unlike online stores**, small shops cannot offer big discounts."
+    },
+    {
+     "q": "20. Teenagers check their phones more than eighty times a day in many countries. (start: **In many countries**)",
+     "a": "**In many countries**, teenagers check their phones more than eighty times a day."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**E. Writing tasks.** اكتب مقال **(150-180) words**. تحت كل مهمة خطة صغيرة تساعدك."
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "21. (من الكتاب) Write an opinion article for your school magazine: ‘Brand culture has more negative effects than positive effects on young people today.’",
+     "a": "**خطة:** العنوان: The Real Price of a Logo. المقدمة: الماركات في كل حتة + رأيي: موافق، ضررها أكبر. سبب 1: بتخلي قيمة الشاب مربوطة باللبس + مثال: الطالب اللي بيتريق عليه علشان جزمته. سبب 2: بتخلينا ندفع فلوس أكتر على «إحساس» مش جودة + الشركات بتصرف على الـ emotional storytelling (من نص الوحدة). Concession: الماركات أحيانًا معناها جودة، However فيه منتجات محلية بنفس الجودة وأرخص. الخاتمة: اختار المنتج مش اللوجو + نصيحة للقارئ."
+    },
+    {
+     "q": "22. (Summative B) Which of the four topics in this unit — brand culture, food waste, sale events or digital consumption — is the biggest challenge for young people today? Argue your case.",
+     "a": "**خطة:** اختار موضوع واحد بس (مثلًا digital consumption). العنوان: Our Phones Are Eating Our Time. سبب 1: الـ infinite scroll والـ autoplay معمولين علشان يخلونا online. سبب 2: النوم والمذاكرة بيتأثروا. Concession: باقي المشاكل زي food waste خطيرة، However الشاشات بتأثر على كل شاب كل يوم. الخاتمة: حدد ساعة يوميًا من غير موبايل."
+    },
+    {
+     "q": "23. ‘Schools should ban mobile phones during the school day.’ Write an opinion article for a school website.",
+     "a": "**خطة:** الرأي: موافق. سبب 1: التركيز في الفصل + الـ notifications بتشتت حتى لو مفتوحتش. سبب 2: الطلبة هيتكلموا مع بعض أكتر في الفسحة. Concession: الأهالي محتاجين يكلموا ولادهم، However مكتب المدرسة عنده تليفون. الخاتمة: المدرسة مكان للتعلم والصحاب مش للشاشات."
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "ملخص الدرس في سطرين",
+   "items": [
+    "مقال الرأي = **6 أجزاء**: Headline – Introduction – Body 1 – Body 2 – Concession – Conclusion.",
+    "رأيك **واضح في المقدمة**، وكل سبب معاه **مثال أو دليل**.",
+    "الـ concession: نقطة واحدة من الرأي التاني + **However** + ردّك.",
+    "الخاتمة: رأيك **بكلام جديد** + جملة أخيرة قوية (نصيحة أو سؤال).",
+    "**150-180** كلمة، وأسلوب رسمي، واستخدم linking words و present perfect و fronting."
+   ]
+  }
+ ]
+}

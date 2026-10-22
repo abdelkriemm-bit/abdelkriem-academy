@@ -1,0 +1,390 @@
+{
+ "slug": "bac-list-stated-vs-unstated-information",
+ "title": "Stated vs Unstated Information",
+ "kicker": "تانية بكالوريا · Listening · Units 3, 6–10",
+ "summary": "إزاي تفرّق بين اللي اتقال صريح واللي مفهوم ضمنيًا واللي مش موجود خالص، وتحل True / False / Not Given مع التبرير.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "الدرس ده عن إيه؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "**Stated information** is said directly in the recording. **Unstated information** is not said in words: either the speaker **suggests** it (we can infer it), or it is simply **not in the recording at all** (Not Given)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الدرس ده عن سؤال من أكتر الأسئلة اللي بتتكرر في الكتاب: **True / False / Not Given + Justify**. علشان تحله لازم تفرّق بين: حاجة **اتقالت صريح**، وحاجة **مفهومة من الكلام بس متقالتش**، وحاجة **مش موجودة في التسجيل خالص**."
+  },
+  {
+   "type": "p",
+   "text": "في الكتاب المهارة دي في **Unit 3** («distinguish between stated and unstated information» في الـ media reports عن الاكتشافات)، وفي **Units 6, 7, 8, 9, 10**: المزارعة والأفيال، مجموعة الدراجات بتاعة Youssef، التعليم الفني، العلاقات اللي بتساعدنا نكبر، والـ swap events. وكل مرة تحت الجدول فيه **NOTE** بتقولك: لو اخترت NG، اكتب التسجيل كان لازم يقول إيه علشان تقرر T أو F."
+  },
+  {
+   "type": "h2",
+   "text": "الفكرة ببساطة: 3 أنواع معلومات"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "النوع",
+    "يعني إيه؟",
+    "مثال (التسجيل قال…)",
+    "الجملة في السؤال"
+   ],
+   "rows": [
+    [
+     "**Stated** (مذكورة)",
+     "اتقالت صريح بالكلام ده أو بنفس المعنى",
+     "«The swap takes place on the first Saturday of every month.»",
+     "The swap is held once a month. ← **True**"
+    ],
+    [
+     "**Implied** (ضمنية، مش متقالة بس مفهومة)",
+     "مقالهاش بالحرف، بس الكلام يوصلك ليها بالعقل",
+     "«Every week we run out of chairs.»",
+     "The event is popular. ← **مفهومة** (inference)"
+    ],
+    [
+     "**Not Given** (مش موجودة)",
+     "التسجيل مقالش حاجة عنها خالص، لا أيوه ولا لأ",
+     "(مفيش أي كلام عن الأسعار)",
+     "Items at the swap are cheap. ← **NG**"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**خلي بالك في سؤال T / F / NG:** لو المعنى الضمني **واضح جدًا ومفيش تفسير غيره** (زي «the first Saturday of every month» = once a month) بيتحسب **True**. لكن لو محتاج **تخمين** ومش متأكد منه، يبقى **Not Given**. ماتبنيش True على رأيك أو توقعك."
+  },
+  {
+   "type": "p",
+   "text": "**مثال من الحياة:** صاحبك قالك «أنا صحيت 7 الصبح ونزلت التمرين». ده **stated**. لو قالك «أنا مش قادر أفتح عيني» تفهم إنه **تعبان أو منمش كويس**: ده **implied**. لكن لو سألتك «هو فطر إيه؟» محدش قال حاجة عن الفطار: ده **Not Given**."
+  },
+  {
+   "type": "h2",
+   "text": "True ولا False ولا Not Given؟ إزاي تقرر"
+  },
+  {
+   "type": "en",
+   "text": [
+    "**True**: the recording says the same thing (often in different words). **False**: the recording says the **opposite**. **Not Given**: the recording does not give enough information to say true or false."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "**ارجع للكلمة المفتاحية** في الجملة (اسم، رقم، فعل) واستنى الجزء اللي بيتكلم عنها.",
+    "**قارن المعنى مش الكلمات:** «a monthly event» = «the first Saturday of every month» ← True.",
+    "**لو التسجيل قال العكس** ← False. مثال: الجملة «more frequent» والتسجيل «less often».",
+    "**لو التسجيل اتكلم عن الموضوع بس مقالش النقطة دي بالذات** ← Not Given. مثال: اتكلم عن عدد الأعضاء بس مقالش كام واحد بيحضر.",
+    "**اكتب Justify:** للـ T والـ F اكتب **الجملة من التسجيل**. للـ NG اكتب **التسجيل كان لازم يقول إيه** (زي الـ NOTE في الكتاب)."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "أشهر الفخاخ (اقرا الكلمات الصغيرة!)",
+   "items": [
+    "**الكلمات المطلقة: only, always, never, all, completely, entirely, guarantees** ← لو التسجيل قال «many» أو «sometimes» أو «can help» تبقى الجملة **False** غالبًا.",
+    "**المقارنة: more / less / faster / the most** ← لازم التسجيل يقارن فعلًا. لو قال «it is fast» بس، الـ «faster than» ممكن تبقى **NG**.",
+    "**الأرقام والأزمنة:** «over twenty years» والتسجيل «eighteen years» ← **False**. «last year» ← اتأكد من الزمن.",
+    "**مين قال؟** لو الجملة «The speaker believes…» والتسجيل قال «Critics believe…» ← مش رأي المتكلم.",
+    "**متستخدمش معلوماتك:** حتى لو انت عارف إن المعلومة صح في الحقيقة، لو التسجيل مقالهاش ← **NG**."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي تكتب الـ Justify"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "الإجابة",
+    "تكتب إيه؟",
+    "مثال"
+   ],
+   "rows": [
+    [
+     "**T**",
+     "الجملة اللي في التسجيل اللي بتثبت كده",
+     "T – The reporter says the swap happens 'on the first Saturday of every month'."
+    ],
+    [
+     "**F**",
+     "الجملة اللي بتقول العكس + التصحيح",
+     "F – She says organisers found it hardest to convince people to **take** things, not to give."
+    ],
+    [
+     "**NG**",
+     "التسجيل اتكلم عن إيه + كان لازم يقول إيه",
+     "NG – The report mentions the items, but it does not say whether they are repaired. It would need to say 'volunteers repair items before…'."
+    ]
+   ]
+  },
+  {
+   "type": "phrases",
+   "groups": [
+    {
+     "title": "جمل للـ Justify",
+     "items": [
+      "The speaker clearly states that…",
+      "According to the report, …",
+      "The recording says the opposite: …",
+      "This is not mentioned. The audio would need to say…",
+      "The speaker only mentions…, not…"
+     ]
+    },
+    {
+     "title": "جمل للمعلومة الضمنية (Inference)",
+     "items": [
+      "This suggests that…",
+      "The speaker implies that…",
+      "We can infer that…",
+      "This shows that…, although it is not said directly."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "تطبيق 1: Media report عن اكتشاف – Unit 3"
+  },
+  {
+   "type": "p",
+   "text": "**نص التسجيل 1: The Hidden Mosaic – Evening News Report**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "REPORTER: Good evening. I'm standing on a small site near Alexandria, where a team of Egyptian archaeology students has just finished three weeks of work beside a small storage building. Last Tuesday, while clearing sand from an old floor, one of them noticed a few coloured stones. By the end of the week, the team had uncovered part of a mosaic showing fish and birds.",
+    "The head of the team, Dr. Tarek Mansour, has taught archaeology for eighteen years. He told us the mosaic is probably from a private house, not a temple. 'We have to be careful,' he said. 'We have uncovered only about a quarter of it. The rest may be damaged or may not exist at all.'",
+    "Within hours, photos of the stones appeared online. One post, shared more than ten thousand times, claimed the mosaic was 'the biggest discovery of the year'. Dr. Mansour smiled when I read it to him. 'People love a big headline,' he said, 'but we will need months of careful documentation before we can say what it really is.'",
+    "Not everyone is happy about the online attention. A local guard explained that, since the photos appeared, groups of visitors have arrived at the gate every evening. The site is still closed to the public.",
+    "The team will return in the spring with conservation experts. Until then, the mosaic has been covered with sand again to protect it. For Evening News, near Alexandria."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**ملحوظة:** نصوص التسجيل في الدرس ده مكتوبة مخصوص للتدريب، والأسماء والأرقام اللي فيها للتمرين بس. اقرا النص بصوت عالي أو خلي حد يقراه لك وانت مقفّل الكتاب."
+  },
+  {
+   "type": "h2",
+   "text": "إزاي بييجي في الأسئلة؟ (أمثلة محلولة)"
+  },
+  {
+   "type": "p",
+   "text": "**نوع 1: True / False / Not Given + Justify**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "1. Dr. Mansour has taught archaeology for over twenty years.",
+    "2. The team has uncovered the whole mosaic.",
+    "3. The students used special cameras to find the mosaic."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**1. False.** التسجيل قال «for **eighteen** years» والجملة بتقول over twenty ← عكس. **2. False.** قال «only about **a quarter** of it». كلمة **whole** فخ. **3. Not Given.** التسجيل قال إن واحد منهم «noticed a few coloured stones» وهو بيشيل الرمل، لكن مقالش أي حاجة عن كاميرات لا أيوه ولا لأ. كان لازم يقول «The team used special cameras…» علشان تبقى True."
+  },
+  {
+   "type": "p",
+   "text": "**نوع 2: Stated or unstated? (Inference)**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "What does Dr. Mansour's reaction to the online post suggest about his opinion of it?"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**الإجابة:** It suggests he thinks the post exaggerates. He smiled and said 'People love a big headline' and that they need months of documentation. — مقالش «the post is wrong» صريح، بس **ابتسامته وكلامه** بيوصّلوا المعنى ده. ده **implied**."
+  },
+  {
+   "type": "h2",
+   "text": "تطبيق 2: Media report عن مبادرة – Unit 10"
+  },
+  {
+   "type": "p",
+   "text": "**نص التسجيل 2: Fix It, Don't Bin It – A Community Report**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "REPORTER: It's a Friday afternoon in a youth centre in Heliopolis, and the room is full of noise: the buzz of a small drill, a fan being tested and lots of conversation. This is the 'Fix It, Don't Bin It' repair café, which opens on the last Friday of every month.",
+    "The idea is simple. People bring broken things, such as lamps, radios, school bags and small electrical items, and volunteers try to repair them for free. The café was started two years ago by Nour Hamdy, a university student studying mechanical engineering. 'At first, only my friends came,' she said. 'Now we usually have around forty visitors each time.'",
+    "Visitors don't just watch. They are asked to sit next to the volunteer and learn how the repair is done. 'The aim is to teach skills, not just to fix objects,' Nour explained.",
+    "According to the volunteers' own records, the café has saved more than eight hundred items from being thrown away. However, not all repairs succeed. Some modern devices are designed in a way that makes them very difficult to open, and spare parts can be expensive.",
+    "Critics say small projects like this cannot solve the problem of waste on their own, because factories keep producing cheap products that break quickly. Nour agrees that bigger changes are needed. 'But we can't wait for factories,' she said. 'We can start with the lamp on your desk.'"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "تدريب"
+  },
+  {
+   "type": "p",
+   "text": "**A. True (T), False (F) or Not Given (NG)? Justify your answer. (Transcript 1)**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "1. The team worked at the site for three weeks.",
+     "a": "**T** — «has just finished three weeks of work»."
+    },
+    {
+     "q": "2. The mosaic shows animals from the sea and the sky.",
+     "a": "**T** — «showing fish and birds». نفس المعنى بكلام تاني (paraphrase)."
+    },
+    {
+     "q": "3. Dr. Mansour is certain that the mosaic came from a temple.",
+     "a": "**F** — قال «probably from a private house, **not a temple**». وكمان كلمة certain غلط لأنه قال probably."
+    },
+    {
+     "q": "4. The online post was shared more than ten thousand times.",
+     "a": "**T** — «shared more than ten thousand times»."
+    },
+    {
+     "q": "5. The online post was written by one of the students.",
+     "a": "**NG** — التسجيل قال «One post… claimed» بس مقالش **مين** كتبه. كان لازم يقول «a student posted…»."
+    },
+    {
+     "q": "6. The site is now open to visitors in the evenings.",
+     "a": "**F** — «The site is still **closed** to the public». الزوار بيجوا للبوابة بس مش بيدخلوا."
+    },
+    {
+     "q": "7. The mosaic will be moved to a museum in the spring.",
+     "a": "**NG** — قال إن الفريق «will return in the spring with conservation experts» بس مقالش حاجة عن متحف. كان لازم يقول «the mosaic will be taken to a museum»."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**B. True (T), False (F) or Not Given (NG)? Justify your answer. (Transcript 2)**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "8. The repair café opens every Friday.",
+     "a": "**F** — «opens on the **last Friday of every month**»: مرة في الشهر مش كل جمعة."
+    },
+    {
+     "q": "9. Volunteers charge a small fee for each repair.",
+     "a": "**F** — «volunteers try to repair them **for free**»."
+    },
+    {
+     "q": "10. Nour Hamdy studies mechanical engineering.",
+     "a": "**T** — «a university student studying mechanical engineering»."
+    },
+    {
+     "q": "11. Most visitors are older than fifty.",
+     "a": "**NG** — قال «around forty visitors» بس مقالش أعمارهم. كان لازم يذكر سن الزوار."
+    },
+    {
+     "q": "12. Every item brought to the café is repaired successfully.",
+     "a": "**F** — «However, **not all** repairs succeed». كلمة every فخ مطلق."
+    },
+    {
+     "q": "13. The café has saved over eight hundred items from the bin.",
+     "a": "**T** — «saved more than eight hundred items from being thrown away». over = more than."
+    },
+    {
+     "q": "14. Nour believes factories do not need to change.",
+     "a": "**F** — «Nour agrees that bigger changes are needed»."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**C. Stated or implied? Answer the questions.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "15. Is it stated or implied that the repair café has grown? How do you know?",
+     "a": "**Implied** — مقالتش «the café has grown» بالحرف، بس قالت «At first, only my friends came… Now we usually have around forty visitors». المقارنة دي بتوصّل المعنى."
+    },
+    {
+     "q": "16. What does the guard's comment suggest about the online photos?",
+     "a": "**It suggests the photos caused a problem**: they attracted visitors to a closed site, which might be risky for the mosaic. — ضمني، مقالش «the photos are dangerous»."
+    },
+    {
+     "q": "17. Why was the mosaic covered with sand again? Is this stated?",
+     "a": "**Stated**: «to protect it». السبب اتقال صريح بعد to."
+    },
+    {
+     "q": "18. What can we infer about Nour's personality from her last words?",
+     "a": "We can infer that she is **practical and determined**: she does not wait for others and starts with small actions ('We can start with the lamp on your desk'). — صفة مش متقالة، بنستنتجها من كلامها."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**D. NOTE task: for each NG answer, write what the audio would need to say.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "19. Statement: 'The repair café is supported by the local council.' (NG)",
+     "a": "The audio would need to say something like: 'The local council gives the café money or a room.' — التسجيل اتكلم عن youth centre بس مقالش مين بيدعم."
+    },
+    {
+     "q": "20. Statement: 'The students found the mosaic using old maps.' (NG)",
+     "a": "The audio would need to say: 'The team used old maps to choose where to dig.' — اللي اتقال إن واحد منهم لاحظ الحجارة وهو بيشيل الرمل، لكن مقالش هما اختاروا مكان الشغل إزاي."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**E. Answer in full sentences (Evaluate / JRE).**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "21. Why is it important to separate stated from unstated information when you hear news online?",
+     "a": "مثال: It is important because online posts often add claims that the original source never made. For example, the post called the mosaic 'the biggest discovery of the year', but the expert only said it was probably from a private house. — JRE: claim + reason + evidence."
+    },
+    {
+     "q": "22. JRE: To what extent can small community projects like 'Fix It, Don't Bin It' reduce waste? Use stated information from the report.",
+     "a": "مثال: They can reduce waste to some extent (J), because they repair items and teach skills that people can use again (R). The report states that the café has saved more than eight hundred items, but it also says that not all repairs succeed and that critics believe factories must change too (E)."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي تتدرّب في البيت؟"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**BBC Learning English – 6 Minute English (audio):** بعد ما تسمع، اكتب لنفسك 3 جمل: واحدة True، وواحدة False، وواحدة Not Given، وارجع للتسجيل وبرّر.",
+    "**BBC World Service – news reports:** في كل خبر اسأل: «إيه اللي اتقال صريح؟ وإيه اللي أنا فهمته بس؟».",
+    "**BBC Sounds podcasts:** اختار حلقة فيها رأيين، واكتب جملة لرأي كل واحد، واتأكد إنك مخلطتش بين رأي المذيع ورأي الضيف.",
+    "**تمرين الكلمات المطلقة:** اكتب جمل فيها only / always / completely / never وجرّب تغيّرها لـ some / often / partly. الفرق ده هو فخ الـ False."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "ملخص الدرس في سطرين",
+   "items": [
+    "**Stated** = اتقال صريح (بنفس الكلام أو بمعنى قريب). **Implied** = مفهوم من الكلام. **Not Given** = مفيش معلومة خالص.",
+    "**True** = نفس المعنى. **False** = التسجيل قال **العكس**. **NG** = التسجيل اتكلم عن الموضوع بس **ماقالش النقطة دي**.",
+    "خلي بالك من الكلمات المطلقة (only, always, completely, every) والأرقام ومين اللي قال الرأي.",
+    "**Justify** دايمًا: للـ T/F اكتب كلام التسجيل، وللـ NG اكتب **التسجيل كان لازم يقول إيه** (زي الـ NOTE في الكتاب).",
+    "متستخدمش معلوماتك الشخصية: الحكم على **التسجيل بس**."
+   ]
+  }
+ ]
+}

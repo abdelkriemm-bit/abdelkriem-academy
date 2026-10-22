@@ -1,0 +1,573 @@
+{
+ "slug": "bac-list-broadcasts-podcasts-radio-programmes-and-media",
+ "title": "Broadcasts, Podcasts, Radio Programmes and Media Reports",
+ "kicker": "تانية بكالوريا · Listening · All units",
+ "summary": "تعرف كل نوع من التسجيلات اللي في الكتاب شكله إيه، وإزاي تستخدم كلمات الإشارة وتسمع 3 مرات علشان تجاوب صح.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "الدرس ده عن إيه؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "In this course you listen to many kinds of **audio texts**: broadcasts, radio programmes, podcasts, research reports and media reports. Each type has its own shape. If you know the shape, you can follow it more easily and answer the questions better."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "في كل وحدة من وحدات الكتاب فيه جزء **Listening**، وكل مرة الكتاب بيقولك تسمع حاجة: **broadcast** عن السوشيال ميديا (Unit 1)، **research report** عن الـ screen time (Unit 2)، **media report** عن الاكتشافات الأثرية (Unit 3)، **radio programme** عن الاستهلاك أونلاين (Unit 4)، **expert podcast** عن الطاقة المتجددة (Unit 5)، ومن Unit 6 لـ Unit 10 **media reports** عن الحياة البرية والشغف والتعليم الفني والانتماء والاستهلاك."
+  },
+  {
+   "type": "p",
+   "text": "الدرس ده بيعرّفك **كل نوع من دول شكله إيه**، مين اللي بيتكلم فيه، وبيبدأ وبيخلص إزاي، والكلمات اللي بتقولك «خلي بالك، فيه فكرة جديدة جاية». ولما تفهم الشكل ده، هتعرف تتوقع المعلومة قبل ما تيجي."
+  },
+  {
+   "type": "h2",
+   "text": "ليه لازم أعرف نوع التسجيل؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "The type of audio tells you **who is speaking**, **why** they are speaking and **what kind of information** to expect."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "تخيل إنك داخل فيلم وانت عارف إنه كوميدي، هتبقى مستني الضحك. نفس الفكرة: لو عارف إن ده **podcast فيه ضيف خبير**، هتبقى مستني **أسئلة من المذيع وإجابات فيها أرقام وأمثلة**. ولو عارف إنه **media report**، هتبقى مستني **خبر + آراء ناس + رأي خبراء + نهاية فيها رسالة**."
+  },
+  {
+   "type": "list",
+   "items": [
+    "النوع بيقولك **الهدف (purpose)**: يعلّم؟ يحذّر؟ يقنع؟ يعرض رأيين؟",
+    "النوع بيقولك **عدد المتكلمين**: واحد بس، ولا مذيع وضيف، ولا ناس كتير.",
+    "النوع بيقولك **فين المعلومة المهمة**: غالبًا في **البداية** (الموضوع) وفي **النهاية** (الرسالة أو الخلاصة)."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "أنواع التسجيلات في الكتاب"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "النوع (English)",
+    "يعني إيه؟",
+    "مين بيتكلم؟",
+    "تستنى تسمع إيه؟"
+   ],
+   "rows": [
+    [
+     "**broadcast**",
+     "برنامج بيتذاع في الراديو أو التلفزيون لناس كتير",
+     "مذيع واحد غالبًا",
+     "موضوع عام + أرقام + رسالة في الآخر"
+    ],
+    [
+     "**radio programme**",
+     "برنامج راديو له اسم ومواعيد",
+     "مذيع، وأحيانًا ضيف أو مستمعين",
+     "مقدمة، فقرات، نصايح، «stay with us»"
+    ],
+    [
+     "**podcast**",
+     "حلقة صوتية بتسمعها أونلاين في أي وقت",
+     "مذيع (host) + ضيف (guest) غالبًا خبير",
+     "سؤال وجواب، رأي الخبير، أمثلة، «next episode»"
+    ],
+    [
+     "**research report**",
+     "تقرير بيعرض نتايج دراسة",
+     "متكلم واحد بيشرح",
+     "عينة (sample)، نسب مئوية، نتايج، توصيات"
+    ],
+    [
+     "**media report / news report**",
+     "تقرير إخباري عن حدث أو مبادرة",
+     "مراسل (reporter) + آراء ناس",
+     "إيه اللي حصل، فين، إمتى، رأي ناس، رأي ناقدين"
+    ],
+    [
+     "**interview**",
+     "مقابلة: حد بيسأل وحد بيجاوب",
+     "اتنين",
+     "أسئلة مباشرة، قصة شخصية، خبرة"
+    ],
+    [
+     "**discussion / conference**",
+     "نقاش بين أكتر من حد",
+     "3 أو أكتر",
+     "آراء مختلفة، اتفاق واختلاف"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "حيلة سريعة: العنوان بيكشف النوع",
+   "items": [
+    "لو العنوان فيه **(Research Report)** أو الكتاب قال **study** ← استنى أرقام و**sample**.",
+    "لو قال **podcast** وفيه اسمين (زي Dr. Layla Hussain و Marcus Green) ← استنى **host وguest**.",
+    "لو قال **media report** ← استنى **حكاية حقيقية + رأي ناس + رأي ناقدين (critics)**."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "الشكل الثابت لأي تسجيل: بداية، وسط، نهاية"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Most broadcasts and podcasts follow the same plan: an **introduction** (topic and speakers), the **body** (main points with evidence) and a **conclusion** (key message or what comes next)."
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "الجزء",
+    "بيحصل فيه إيه؟",
+    "جمل بتسمعها"
+   ],
+   "rows": [
+    [
+     "**Introduction** المقدمة",
+     "المذيع بيرحب وبيقول الموضوع واسم الضيف",
+     "Welcome to… / Today we're looking at… / Joining me is…"
+    ],
+    [
+     "**Main points** النقاط الأساسية",
+     "كل فكرة ومعاها دليل: رقم، مثال، دراسة",
+     "First of all… / Another reason… / According to a study…"
+    ],
+    [
+     "**Other side** الرأي التاني",
+     "ناقدين أو مشكلة أو تحدي",
+     "However… / Critics argue that… / On the other hand…"
+    ],
+    [
+     "**Conclusion** الخاتمة",
+     "الرسالة الأساسية أو نصيحة",
+     "So, the key message is… / To sum up… / The first step is…"
+    ],
+    [
+     "**What's next** اللي جاي",
+     "الحلقة الجاية أو الجزء الجاي",
+     "In the next part, we'll discuss… / Stay with us…"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "خلي بالك من آخر جزء ده: الكتاب سأل في Unit 5 سؤال زي «What will the next part of the podcast discuss?». الإجابة دايمًا بتكون في **آخر جملتين** في التسجيل."
+  },
+  {
+   "type": "h2",
+   "text": "كلمات الإشارة (Signposting language)"
+  },
+  {
+   "type": "en",
+   "text": [
+    "**Signposts** are words and phrases that tell the listener what is coming next: a new point, an example, a contrast or a conclusion."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "كلمات الإشارة دي زي **يافطات الطريق**. مش بتديك المعلومة نفسها، لكن بتقولك «المعلومة جاية دلوقتي». لما تسمع واحدة منهم، ركّز جامد."
+  },
+  {
+   "type": "phrases",
+   "groups": [
+    {
+     "title": "بداية الموضوع (Introducing the topic)",
+     "items": [
+      "Welcome to…",
+      "In today's episode, we're talking about…",
+      "Joining me in the studio is…",
+      "Our topic this week is…"
+     ]
+    },
+    {
+     "title": "فكرة جديدة (Adding a point)",
+     "items": [
+      "First of all…",
+      "Secondly…",
+      "Another important point is…",
+      "What's more…",
+      "On top of that…"
+     ]
+    },
+    {
+     "title": "مثال أو دليل (Giving evidence)",
+     "items": [
+      "For example…",
+      "According to a recent study…",
+      "Research shows that…",
+      "The figures tell us that…",
+      "Take the case of…"
+     ]
+    },
+    {
+     "title": "عكس أو مشكلة (Contrast)",
+     "items": [
+      "However…",
+      "On the other hand…",
+      "Critics say…",
+      "Although…",
+      "But here's the problem…"
+     ]
+    },
+    {
+     "title": "تلخيص ورسالة (Concluding)",
+     "items": [
+      "So, what does this mean?",
+      "The key message is…",
+      "To sum up…",
+      "In the end…",
+      "That's all for today."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "**According to a recent survey**, four in ten families throw away bread every week.",
+     "ar": "«حسب استطلاع رأي حديث»: معناها جاي **رقم أو دليل** ← اكتبه بسرعة."
+    },
+    {
+     "en": "**However**, not everyone agrees with this idea.",
+     "ar": "«لكن»: جاي **رأي تاني أو مشكلة**، وده مكان أسئلة True/False كتير."
+    },
+    {
+     "en": "**Joining me today is** Dr. Karim Nabil, an energy engineer.",
+     "ar": "«معايا النهارده»: جاي **اسم الضيف ووظيفته**، وبييجي عليها سؤال Identify."
+    },
+    {
+     "en": "**The key message is** simple: plan before you shop.",
+     "ar": "«الرسالة الأساسية»: دي إجابة سؤال **main message / main purpose**."
+    },
+    {
+     "en": "**In next week's episode**, we'll look at fast fashion.",
+     "ar": "«في حلقة الأسبوع الجاي»: إجابة سؤال **What will the next part discuss?**"
+    },
+    {
+     "en": "**Take the case of** a school in Assiut.",
+     "ar": "«خد مثلًا»: جاي **مثال حقيقي** (اسم مكان أو شخص)."
+    },
+    {
+     "en": "**Critics argue that** one event cannot change a whole system.",
+     "ar": "«الناقدين بيقولوا»: ده **رأي معارض**، مش رأي المتكلم نفسه."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي تسمع خطوة بخطوة (3 مرات زي الكتاب)"
+  },
+  {
+   "type": "en",
+   "text": [
+    "The book usually asks you to listen **three times**: first for the general idea, then for details, then for deeper analysis."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "**قبل ما تسمع:** اقرا العنوان والأسئلة كلها. حط خط تحت الكلمات المهمة (names, numbers, why, how). اتوقع الإجابة.",
+    "**المرة الأولى (A):** اسمع **الفكرة العامة**: الموضوع إيه؟ مين بيتكلم؟ الهدف إيه؟ متقفش عند كلمة مش فاهمها.",
+    "**المرة التانية (B):** اسمع **التفاصيل**: أرقام، أسماء، الكلمة الناقصة في الجملة. اكتب أول حرفين بس وكمّل بعدين.",
+    "**المرة التالتة (C):** جاوب أسئلة **Explain / Analyse / Evaluate** بجمل كاملة، واستخدم دليل من التسجيل.",
+    "**بعد ما تسمع:** راجع الإجابات: الجرامر صح؟ الكلمة مكتوبة صح؟ الإجابة على قد السؤال؟"
+   ],
+   "ordered": true
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "أشهر الأخطاء",
+   "items": [
+    "✗ تقف عند كلمة مش فاهمها وتضيّع الجملة اللي بعدها ← ✓ كمّل وانت بتسمع، المعنى بيبان من الكلام اللي حواليها.",
+    "✗ تختار إجابة فيها كلمة سمعتها بالظبط ← ✓ الإجابة الصح غالبًا **بنفس المعنى بكلام تاني (paraphrase)**.",
+    "✗ تخلط بين رأي **الناقدين** ورأي **المتكلم** ← ✓ لما تسمع «Critics say / Some people believe» ده مش رأيه هو.",
+    "✗ تكتب في الفراغ كلمة مش مناسبة في الجرامر ← ✓ اتأكد: الفراغ محتاج اسم ولا فعل ولا صفة؟",
+    "✗ تهمل آخر التسجيل ← ✓ آخر جزء فيه الرسالة الأساسية وإيه اللي جاي."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "تطبيق 1: برنامج راديو (Radio programme) – Unit 4"
+  },
+  {
+   "type": "p",
+   "text": "**نص التسجيل 1: Waste Less, Live More – Radio Nile Youth**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "PRESENTER: Good evening and welcome to **Waste Less, Live More** on Radio Nile Youth, the programme that helps young people waste less and save more. I'm Ahmed Fathy. Tonight we're asking one simple question: why do Egyptian families throw away so much food during special occasions?",
+    "First of all, the numbers. According to a recent survey of 600 households in Cairo and Giza, nearly half of families said they cook more food than they need when guests visit. Bread and rice were the foods thrown away most often, followed by vegetables. The survey also found that waste almost doubles during Ramadan and the Eid holidays.",
+    "So why does this happen? Many listeners told us that cooking a lot is part of our hospitality. Nobody wants a guest to think the table is empty. However, the problem is not generosity itself. The problem is planning. Food experts say that most of the waste happens because families buy too much at once and do not store leftovers properly.",
+    "Here are three tips from our nutrition expert. One: write a shopping list and count your guests before you go to the market. Two: keep leftovers in clean, closed boxes in the fridge and use them within two days. Three: share extra food with neighbours or local charities on the same day.",
+    "The key message tonight is clear: you can be generous and careful at the same time. In next week's programme, we'll look at food waste in school canteens, so stay tuned. This has been Waste Less, Live More. Good night."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**ملحوظة:** نصوص التسجيل في الدرس ده مكتوبة مخصوص للتدريب، والأسماء والأرقام اللي فيها للتمرين بس. اقرا النص بصوت عالي أو خلي حد يقراه لك وانت مقفّل الكتاب."
+  },
+  {
+   "type": "p",
+   "text": "**لاحظ الشكل:** ترحيب واسم البرنامج ← السؤال الرئيسي ← أرقام من survey ← السبب ← However (المشكلة الحقيقية) ← نصايح مرقمة (One, Two, Three) ← الرسالة ← الحلقة الجاية."
+  },
+  {
+   "type": "h2",
+   "text": "إزاي بييجي في الأسئلة؟ (أمثلة محلولة)"
+  },
+  {
+   "type": "p",
+   "text": "**نوع 1: Choose the correct answer from a, b, c or d**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "What is the main purpose of the programme?",
+    "a. To advertise a new supermarket.",
+    "b. To explain why families waste food on special occasions and how to reduce it.",
+    "c. To prove that hospitality is a bad tradition.",
+    "d. To describe traditional Ramadan recipes."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**الإجابة: b.** ليه؟ المذيع قال السؤال في الأول («why do Egyptian families throw away so much food…») وفي الآخر ادّى نصايح. **c** غلط لأنه قال بوضوح «the problem is not generosity itself». خلي بالك: الإجابة الغلط ساعات بتكون **عكس** كلام المتكلم."
+  },
+  {
+   "type": "p",
+   "text": "**نوع 2: Listen again and complete the statements**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Food experts say that most of the waste happens because families buy too much at once and do not ________ leftovers properly."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**الإجابة: store.** ليه؟ الفراغ بعد do not يبقى محتاج **فعل في المصدر**، والكلمة اللي اتقالت هي store."
+  },
+  {
+   "type": "p",
+   "text": "**نوع 3: Answer in full sentences (Analyse)**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Why does the presenter say 'the problem is not generosity itself'? What does this imply?"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**إجابة نموذجية:** The presenter says this because he does not want to criticise Egyptian hospitality. He implies that people can keep their generous traditions but should plan better, for example by writing a shopping list. — لاحظ: جاوبنا **ليه** + **يعني إيه ضمنيًا** + **دليل** من التسجيل."
+  },
+  {
+   "type": "h2",
+   "text": "تطبيق 2: بودكاست فيه خبير (Expert podcast) – Unit 5"
+  },
+  {
+   "type": "p",
+   "text": "**نص التسجيل 2: Green Rooftops – The Sustainable Egypt Podcast, Episode 12**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "HOST (Marwan): Hello and welcome to episode twelve of The Sustainable Egypt Podcast. I'm Marwan Adel. Joining me today is Dr. Karim Nabil, an energy engineer who has worked on solar projects in Aswan and Alexandria. Dr. Nabil, welcome.",
+    "DR. NABIL: Thank you, Marwan. It's a pleasure to be here.",
+    "HOST: Let's start with the big question. Can ordinary buildings, like schools, really make a difference to Egypt's energy future?",
+    "DR. NABIL: Absolutely, but only if we think about them as a network. One school roof can't power a city, of course. However, a pilot project in Aswan put solar panels on the roofs of fifteen schools. Together, they now produce about forty per cent of the electricity those schools use during the day. That money can be spent on books and laboratories instead of bills.",
+    "HOST: That sounds impressive. But what about the night, when there's no sun?",
+    "DR. NABIL: Good question. That's what we call intermittency: the sun doesn't shine all the time. At the moment, most of these schools are still connected to the national grid, so they use normal electricity at night. Batteries are becoming cheaper, but I'd say we're probably five to ten years away from making them affordable for every school.",
+    "HOST: So what's the first step for a school that wants to go green?",
+    "DR. NABIL: Measure before you buy. Every school should check how much energy it uses and where it wastes it. Sometimes simply switching off computers and air conditioners after the last lesson saves more than people expect.",
+    "HOST: Dr. Nabil, thank you. Listeners, in part two of this episode, we'll hear from students in Alexandria who started their own recycling club. Don't go away."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**لاحظ الشكل:** Host + Guest ← تعريف الضيف ووظيفته ← سؤال كبير ← إجابة فيها مثال حقيقي ورقم ← سؤال صعب (التحدي) ← مصطلح علمي مشروح (intermittency) ← نصيحة ← الجزء الجاي."
+  },
+  {
+   "type": "h2",
+   "text": "تدريب"
+  },
+  {
+   "type": "p",
+   "text": "**A. Choose the correct answer from a, b, c or d. (Transcripts 1 and 2)**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "1. What type of audio text is Transcript 1?\na. a podcast interview  b. a radio programme  c. a research report  d. a conference discussion",
+     "a": "**b. a radio programme** — المذيع قال «on Radio Nile Youth, the programme that…» واتكلم لوحده تقريبًا."
+    },
+    {
+     "q": "2. Which foods were thrown away most often, according to the survey?\na. meat and fish  b. sweets and cakes  c. bread and rice  d. fruit and juice",
+     "a": "**c. bread and rice** — قال «Bread and rice were the foods thrown away most often»."
+    },
+    {
+     "q": "3. In Transcript 2, who is Dr. Karim Nabil?\na. the host of the podcast  b. a school head teacher  c. an energy engineer  d. a student in Alexandria",
+     "a": "**c. an energy engineer** — المذيع عرّفه: «an energy engineer who has worked on solar projects»."
+    },
+    {
+     "q": "4. How much of the schools' daytime electricity do the solar panels in Aswan produce?\na. about 14%  b. about 40%  c. about 50%  d. all of it",
+     "a": "**b. about 40%** — قال «about forty per cent». خلي بالك: forty = 40 مش fourteen = 14."
+    },
+    {
+     "q": "5. What will part two of the podcast discuss?\na. batteries for schools  b. solar projects in Aswan  c. a student recycling club in Alexandria  d. food waste in canteens",
+     "a": "**c** — آخر جملة: «we'll hear from students in Alexandria who started their own recycling club». و**d** ده موضوع الحلقة الجاية في **الراديو** مش البودكاست."
+    },
+    {
+     "q": "6. What is Dr. Nabil's first piece of advice for schools?\na. Buy batteries immediately.  b. Measure energy use before buying anything.  c. Disconnect from the national grid.  d. Close the school earlier.",
+     "a": "**b** — قال «Measure before you buy». الإجابة بنفس المعنى بكلام تاني."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**B. Listen again and complete the statements. (One word or a number)**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "7. The survey included ________ households in Cairo and Giza.",
+     "a": "**600** — «a recent survey of 600 households»."
+    },
+    {
+     "q": "8. Food waste almost ________ during Ramadan and the Eid holidays.",
+     "a": "**doubles** — الفراغ بعد almost وقبل during محتاج فعل مع he/it ← doubles."
+    },
+    {
+     "q": "9. Leftovers should be used within ________ days.",
+     "a": "**two** — النصيحة التانية: «use them within two days»."
+    },
+    {
+     "q": "10. The solar pilot project in Aswan covered the roofs of ________ schools.",
+     "a": "**fifteen** — «the roofs of fifteen schools»."
+    },
+    {
+     "q": "11. Dr. Nabil thinks affordable batteries for every school are five to ________ years away.",
+     "a": "**ten** — «five to ten years away»."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**C. True (T) or False (F)? Correct the false ones.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "12. The radio presenter believes Egyptian hospitality is the real cause of food waste.",
+     "a": "**F** — قال «the problem is not generosity itself. The problem is planning». التصحيح: He believes poor planning is the real cause."
+    },
+    {
+     "q": "13. The radio programme gives listeners three practical tips.",
+     "a": "**T** — قال «Here are three tips» وعدّهم One, Two, Three."
+    },
+    {
+     "q": "14. The schools in Aswan no longer need the national grid at all.",
+     "a": "**F** — قال «most of these schools are still connected to the national grid». التصحيح: They still use the grid at night."
+    },
+    {
+     "q": "15. Dr. Nabil says switching off devices can save a lot of energy.",
+     "a": "**T** — «simply switching off computers and air conditioners… saves more than people expect»."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**D. Signposting: what comes next? Choose: evidence / contrast / conclusion / introducing a guest / next episode.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "16. «Joining me today is…»",
+     "a": "**introducing a guest** — بعدها اسم الضيف ووظيفته."
+    },
+    {
+     "q": "17. «According to a recent survey…»",
+     "a": "**evidence** — بعدها رقم أو نتيجة."
+    },
+    {
+     "q": "18. «However, the problem is not…»",
+     "a": "**contrast** — بعدها فكرة عكس اللي قبلها."
+    },
+    {
+     "q": "19. «The key message tonight is clear…»",
+     "a": "**conclusion** — بعدها الرسالة الأساسية."
+    },
+    {
+     "q": "20. «In next week's programme, we'll look at…»",
+     "a": "**next episode** — بعدها موضوع الحلقة الجاية."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**E. Answer in full sentences (Analyse / Evaluate).**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "21. Why does the host in Transcript 2 ask about 'the night, when there's no sun'?",
+     "a": "مثال: He asks this because it is the main weakness of solar energy. It makes the podcast more balanced, and it lets Dr. Nabil explain intermittency. — المذيع الشاطر بيسأل عن **التحدي** علشان الحلقة متبقاش إعلان."
+    },
+    {
+     "q": "22. How are the two transcripts similar in structure? Give TWO points.",
+     "a": "مثال: Both start by introducing the topic and the programme, and both end by telling listeners what the next part will discuss. Both also give practical advice. — مقارنة الشكل: بداية + نهاية + نصيحة."
+    },
+    {
+     "q": "23. JRE: To what extent can a radio programme change people's habits? Use evidence from Transcript 1.",
+     "a": "مثال: A radio programme can change habits to some extent (J). This is because it reaches many families and gives simple steps (R). For example, Waste Less, Live More suggests writing a shopping list and sharing extra food on the same day (E). However, people must choose to follow the tips. — Justify ثم Reasoning ثم Evidence."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي تتدرّب في البيت؟"
+  },
+  {
+   "type": "p",
+   "text": "الاستماع زي العضلة: لازم تمرين كل يوم، حتى لو 10 دقايق بس. استخدم مصادر **صوت بس (audio)** وركّز على ودنك:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**BBC Learning English – 6 Minute English:** حلقات صوتية قصيرة (6 دقايق) فيها مذيعين بيتكلموا عن موضوع واحد وبيشرحوا كلمات جديدة. ابدأ بيها.",
+    "**BBC Sounds:** فيها برامج راديو وبودكاست كتير، دوّر على مواضيع الوحدات: science, environment, health, technology.",
+    "**BBC World Service (radio):** نشرات أخبار وتقارير قصيرة، شبه الـ media reports اللي في الكتاب.",
+    "**الطريقة:** اسمع مرة للفكرة العامة واكتب الموضوع في سطر. اسمع تاني واكتب 3 أرقام أو أسماء. اسمع تالت واكتب كلمات الإشارة اللي سمعتها (However, For example…).",
+    "**تحدّي الأسبوع:** بعد كل حلقة اسأل نفسك: النوع إيه؟ مين بيتكلم؟ الرسالة إيه؟ الجزء الجاي عن إيه؟"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "ملخص الدرس في سطرين",
+   "items": [
+    "اعرف النوع: **broadcast / radio programme / podcast / research report / media report**، والنوع بيقولك مين بيتكلم وبيقول إيه.",
+    "أي تسجيل: **مقدمة ← نقاط ودليل ← رأي تاني (However) ← رسالة ← الجزء الجاي**.",
+    "كلمات الإشارة (According to, However, The key message…) بتقولك المعلومة المهمة جاية.",
+    "اسمع 3 مرات: **فكرة عامة ← تفاصيل ← تحليل بجمل كاملة ودليل**.",
+    "الإجابة الصح غالبًا **بنفس المعنى بكلام تاني**، ورأي الناقدين مش رأي المتكلم."
+   ]
+  }
+ ]
+}

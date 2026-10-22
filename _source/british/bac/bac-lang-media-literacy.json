@@ -1,0 +1,538 @@
+{
+ "slug": "bac-lang-media-literacy",
+ "title": "Media Literacy: fact, opinion, bias and greenwashing",
+ "kicker": "تانية بكالوريا · Language · Unit 1 · Unit 3 · Unit 10",
+ "summary": "إزاي تفرّق بين الحقيقة والرأي والادعاء المنحاز، وتكشف البوست المضلل بجدول الـ reliability، وتعرف يعني إيه greenwashing.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "الدرس ده عن إيه؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "**Media literacy** is the ability to read media texts (posts, adverts, articles, videos) critically: to separate **facts** from **opinions**, to spot **bias**, and to judge whether a source is **reliable** before believing or sharing it."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الدرس ده عن إزاي تبقى **«محقق صغير» (fact-checker)** وانت بتقلّب على الموبايل. مش كل بوست عليه مليون لايك يبقى صح! هنتعلم نفرّق بين **الحقيقة** و**الرأي** و**الادعاء المنحاز**، ونكشف البوستات المضللة، ونعرف يعني إيه **greenwashing**."
+  },
+  {
+   "type": "p",
+   "text": "في الكتاب المهارة دي في **Unit 1** («distinguish between a fact, an opinion, and a biased claim in a social media post or article» + بوست الـ 5 الصبح صفحة 18)، و**Unit 3** (بوست «Dendera lightbulb» وجدول **Reliability and Language** صفحة 92 + Presentation Task كـ young fact-checker)، و**Unit 6** (بوست أسماك القرش صفحة 24)، و**Unit 10: Behind the Buy** (مقال الـ fast fashion وكلمة **greenwashing** صفحة 141 + بوست TrendVibe صفحة 144-145). وكمان في **Consolidation Review E**."
+  },
+  {
+   "type": "h2",
+   "text": "أولًا: Fact ولا Opinion ولا Biased claim؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "A **fact** can be checked and proved true or false. An **opinion** is what someone thinks or feels. A **biased claim** is an opinion presented as if it were a fact, usually one-sided and without evidence."
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "",
+    "Fact (حقيقة)",
+    "Opinion (رأي)",
+    "Biased claim (ادعاء منحاز)"
+   ],
+   "rows": [
+    [
+     "يعني إيه؟",
+     "معلومة ممكن **تتأكد منها**",
+     "رأي أو إحساس شخصي",
+     "رأي متقدّم **كأنه حقيقة**، ناحية واحدة، من غير دليل"
+    ],
+    [
+     "إشاراته",
+     "أرقام، تواريخ، أماكن، مصدر واضح",
+     "I think, in my view, best, beautiful, should",
+     "always, all, everyone, proves, the truth, NO excuses"
+    ],
+    [
+     "Example",
+     "The GEM is near the Giza pyramids.",
+     "The GEM is the most beautiful museum I have visited.",
+     "Everyone agrees the GEM is the only museum worth visiting."
+    ],
+    [
+     "نعمل معاه إيه؟",
+     "نتأكد من المصدر",
+     "نحترمه ونقارنه بآراء تانية",
+     "نشك فيه ونطلب دليل"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "اختبار سريع: «أقدر أتأكد منها؟»",
+   "items": [
+    "لو تقدر تتأكد منها (من كتاب، موقع رسمي، دراسة، قياس) = **fact**. حتى لو طلعت غلط، هي **factual claim** ممكن تتراجع.",
+    "لو فيها **كلمة حكم** (best, terrible, amazing, should) = **opinion**.",
+    "لو فيها **رأي + كلمة مطلقة + مفيش دليل** = **biased claim**.",
+    "خلي بالك: جملة واحدة ممكن يكون فيها fact + opinion: «The museum, **which opened in 2025**, is **wonderful**.»"
+   ]
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "Fast fashion items are often discarded after only a few wears.",
+     "ar": "**Fact** (claim ممكن يتأكد منها: الكتاب بيقول إن متوسط القطعة بتتلبس 7-10 مرات)."
+    },
+    {
+     "en": "Second-hand clothes are more stylish than new ones.",
+     "ar": "**Opinion** — stylish = حكم شخصي."
+    },
+    {
+     "en": "All fashion brands are liars who destroy the planet.",
+     "ar": "**Biased claim** — all + liars + destroy + مفيش دليل."
+    },
+    {
+     "en": "Growing cotton for one T-shirt can need over two and a half thousand litres of water.",
+     "ar": "**Fact** — رقم ممكن نتأكد منه (الرقم ده في مقال Unit 10)."
+    },
+    {
+     "en": "I think schools should teach media literacy.",
+     "ar": "**Opinion** — I think + should."
+    },
+    {
+     "en": "Experts CONFIRM our rivers will have NO fish left by next year!",
+     "ar": "**Biased claim** — CONFIRM من غير اسم خبير أو دراسة + NO fish = مبالغة ومطلق."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "تانيًا: جدول الـ Reliability (إزاي تكشف البوست المضلل)"
+  },
+  {
+   "type": "en",
+   "text": [
+    "The book uses a reliability table to analyse posts. Learn each feature, what to look for, and a typical example."
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Feature",
+    "What to look for",
+    "بالعربي",
+    "Typical example"
+   ],
+   "rows": [
+    [
+     "**Emotional language**",
+     "words designed to provoke, excite or alarm",
+     "كلمات بتخوّف أو بتحمّس",
+     "SHOCKING, COLLAPSING, MIND-BLOWING, guilt-free"
+    ],
+    [
+     "**Absolute language**",
+     "claims with no qualification or evidence",
+     "كلام 100% من غير دليل",
+     "100% SUSTAINABLE, every fishing boat, PROVE"
+    ],
+    [
+     "**Urgency signals**",
+     "language creating panic, secrecy or pressure to act now",
+     "ضغط إنك تتصرف دلوقتي",
+     "Share before this gets deleted! Shop NOW, limited stock"
+    ],
+    [
+     "**Selective evidence**",
+     "using only part of the image / information",
+     "جزء من الحقيقة بس",
+     "one carved picture used as \"proof\""
+    ],
+    [
+     "**Conspiracy framing**",
+     "suggesting hidden or suppressed truth",
+     "«فيه حد بيخبّي عليك الحقيقة»",
+     "Modern science is hiding the truth!"
+    ],
+    [
+     "**Missing information**",
+     "no named source, study or specific data",
+     "مفيش مصدر ولا أرقام",
+     "\"Scientists confirm\" with no names"
+    ],
+    [
+     "**Oversimplification**",
+     "a complex issue reduced to one villain or one cause",
+     "مشكلة كبيرة متلخصة في سبب واحد",
+     "Blaming every fishing boat equally"
+    ],
+    [
+     "**Contradiction**",
+     "a claim that conflicts with the brand's own behaviour",
+     "الكلام عكس الفعل",
+     "\"sustainable\" + \"new drop every week\""
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "ملاحظة مهمة: **عدد اللايكات والمشاركات مش دليل على الصحة**. البوستات اللي في الكتاب عليها مئات الآلاف من اللايكات وتقييمها في الآخر **MISLEADING** (مضلل). والمراجعة E بتسأل: إحنا بندوّر على إيه في البوست؟ الإجابة: **emotional language, missing evidence and misleading claims** مش عدد اللايكات."
+  },
+  {
+   "type": "h2",
+   "text": "تالتًا: يعني إيه Greenwashing؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "**Greenwashing** is the practice of making a product or company appear more environmentally friendly than it really is. (This is the definition in Unit 10.)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الكلمة جاية من **green** (أخضر = صديق للبيئة) + **whitewashing** (إنك «تبيّض» صورة حاجة وحشة). يعني الشركة بـ«**تدهن نفسها أخضر**» من برا، وهي من جوه زي ما هي."
+  },
+  {
+   "type": "p",
+   "text": "مقال **Unit 10** بيشرح مثال: براندات بتعمل كولكشن صغير اسمه «**sustainable**» أو «**conscious**»، بس الكولكشن ده **جزء صغير جدًا** من إنتاجها، والشغل الأساسي (موضة سريعة ورخيصة وكتير) **متغيرش**. كده الشركة **تبان** مسؤولة من غير ما تتغير فعلًا."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Greenwashing sign",
+    "يعني إيه؟",
+    "Example"
+   ],
+   "rows": [
+    [
+     "Vague green words",
+     "كلمات حلوة من غير تفاصيل",
+     "eco-friendly, natural, green, conscious, planet-loving"
+    ],
+    [
+     "Big claims, no proof",
+     "أرقام مطلقة من غير جهة بتتأكد",
+     "100% SUSTAINABLE!"
+    ],
+    [
+     "Small green part, big normal business",
+     "حاجة صغيرة خضرا بتغطي على الباقي",
+     "one recycled-bottle jacket in a collection of thousands"
+    ],
+    [
+     "Missing information",
+     "مفيش كلام عن المواد أو العمال أو المية",
+     "no mention of factories, wages or water use"
+    ],
+    [
+     "Contradiction",
+     "الكلام عكس الفعل",
+     "\"sustainable\" + a new collection every week"
+    ],
+    [
+     "Green images and feelings",
+     "صور ورق شجر وكلمة guilt-free علشان تحس إنك مش غلطان",
+     "Shop guilt-free!"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "5 أسئلة تكشف بيها الـ greenwashing",
+   "items": [
+    "**What exactly?** إيه اللي sustainable بالظبط؟ القماش؟ التغليف؟ ولا الكلمة بس؟",
+    "**How much?** نسبة قد إيه من الإنتاج كله؟",
+    "**Who checked it?** فيه جهة مستقلة اتأكدت ولا الشركة بتقول عن نفسها؟",
+    "**What is missing?** فيه كلام عن العمال والمية والمخلفات؟",
+    "**Does it match the behaviour?** الشركة بتنتج كولكشن جديد كل أسبوع؟ يبقى فيه contradiction."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي تبقى Fact-checker: 5 خطوات قبل ما تعمل Share"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Before believing or sharing a post, follow these steps."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Stop:** لو البوست خلاك تحس بخوف أو غضب أو حماس شديد، **استنى**. ده غالبًا مقصود (emotional language + urgency).",
+    "**Check the source:** مين كاتب البوست؟ جهة معروفة؟ خبير؟ ولا حساب بيدوّر على لايكات؟",
+    "**Look for evidence:** فيه اسم دراسة؟ أرقام؟ تاريخ؟ ولا «Scientists confirm» وخلاص؟",
+    "**Compare:** دوّر على نفس الخبر في **مصادر تانية موثوقة** (مواقع رسمية، متاحف، جرايد معروفة).",
+    "**Ask who benefits:** مين المستفيد لو صدقت؟ براند عايز يبيع؟ حساب عايز متابعين؟"
+   ],
+   "ordered": true
+  },
+  {
+   "type": "h2",
+   "text": "مثال محلول: تحليل بوست بالجدول"
+  },
+  {
+   "type": "p",
+   "text": "الأسئلة في الكتاب والمراجعات بتيجي بالشكل ده: بوست خيالي + جدول + حكم. اقرا البوست:"
+  },
+  {
+   "type": "en",
+   "text": [
+    "@LeafLineWear (1.8M followers) — \"Our NEW Earth Collection is 100% ECO-FRIENDLY! Made with love for nature. Every piece saves the planet. Hurry — only 48 hours left, new styles every Monday! #GreenLiving #GuiltFree\"  (310,000 likes · 52,000 reposts)"
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Feature",
+    "Example from the post",
+    "Why it is unreliable"
+   ],
+   "rows": [
+    [
+     "Emotional language",
+     "\"Made with love for nature\", \"#GuiltFree\"",
+     "It makes buyers feel good instead of giving information."
+    ],
+    [
+     "Absolute language",
+     "\"100% ECO-FRIENDLY\", \"Every piece saves the planet\"",
+     "No product is 100% harmless, and there is no evidence."
+    ],
+    [
+     "Urgency signals",
+     "\"Hurry — only 48 hours left\"",
+     "It pushes people to buy before they think."
+    ],
+    [
+     "Missing information",
+     "no materials, factories, wages or water use",
+     "Readers cannot check the claim."
+    ],
+    [
+     "Contradiction",
+     "\"eco-friendly\" + \"new styles every Monday\"",
+     "Producing new clothes every week creates more waste."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**الحكم بالـ JRE:**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "**J:** The post is unreliable and is a clear example of greenwashing.",
+    "**R:** It uses vague green words and emotional language to make the brand look responsible, but it gives no details that can be checked.",
+    "**E:** For instance, it claims to be \"100% ECO-FRIENDLY\" while also promising \"new styles every Monday\", which contradicts the idea of sustainability."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Model: بوست للـ media club (Fact-checker)"
+  },
+  {
+   "type": "model",
+   "title": "Model — Fact-checker post for the school media club",
+   "task": "Write a post for your school media club page. Choose ONE viral post that calls a product 'green' or 'sustainable' and judge how reliable it is. Admit that some companies are really trying to change, then tell readers how to test a green claim before they trust it. Write about 150-180 words.",
+   "text": [
+    "**Is \"100% Eco-Friendly\" Too Good to Be True?**",
+    "This week, a viral post from a clothing brand called LeafLine reached over 300,000 likes. It claims that its new collection is \"100% eco-friendly\" and that \"every piece saves the planet\". However, the post gives no details about materials, factory conditions or water use. It also uses urgency signals such as \"only 48 hours left\" to push followers to buy quickly. Most importantly, it promises new styles every Monday, which contradicts its green message.",
+    "**Admittedly**, a few brands are taking real steps, such as using recycled fabric or repairing old clothes. **Nevertheless**, many others rely on vague green words to look responsible while their business stays the same. This practice is called greenwashing, and it makes it harder for shoppers to recognise brands that are really trying to change.",
+    "So, before you believe a sustainability claim, ask three questions. What exactly is sustainable? Who has checked it? Does the brand's behaviour match its words? A claim that cannot answer these questions probably deserves your doubt, not your money.",
+    "#ThinkBeforeYouShop #MediaLiteracy"
+   ],
+   "word_count": 178,
+   "notes": [
+    "**العنوان سؤال بلاغي** بيشد القارئ (rhetorical question) ومناسب للبوست.",
+    "**Evaluate**: اسم البوست + الاقتباسات + 4 features من جدول الـ reliability (absolute, missing information, urgency, contradiction).",
+    "**Concede**: Admittedly, … Nevertheless, … = المطلوب في التاسك بالظبط (زي Unit 10).",
+    "**كلمة greenwashing** متعرّفة جوه النص ببساطة.",
+    "**Conclusion**: 3 أسئلة عملية للتأكد + جملة أخيرة فيها hedging (probably) ومش مبالغة.",
+    "الـ hashtags مناسبة لبوست الـ media club."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "أشهر الأخطاء (غلط ← صح)",
+   "items": [
+    "✗ البوست عليه لايكات كتير يبقى صح. ← ✓ اللايكات **مش دليل**. الدليل = مصدر + أرقام + جهة مستقلة.",
+    "✗ أي جملة فيها رقم = fact. ← ✓ الرقم لازم يكون **ليه مصدر**، وممكن يكون **selective** (جزء من الحقيقة).",
+    "✗ Opinion = كذب. ← ✓ الرأي **مش كذب**، بس محتاج نعرف إنه رأي. اللي يضلل هو الرأي المتقدّم **كأنه حقيقة**.",
+    "✗ Greenwashing = recycling. ← ✓ greenwashing = إن الشركة **تبان** صديقة للبيئة **أكتر من الحقيقة**.",
+    "✗ تكتب «the post is fake» وخلاص. ← ✓ اكتب **feature + example + why** زي الجدول."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "تدريب"
+  },
+  {
+   "type": "p",
+   "text": "**A. Fact (F), Opinion (O) or Biased claim (B)?**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "1. The Rosetta Stone helped scholars understand hieroglyphs.",
+     "a": "**F** — معلومة تاريخية ممكن نتأكد منها."
+    },
+    {
+     "q": "2. Visiting museums is more fun than going to the cinema.",
+     "a": "**O** — more fun = رأي شخصي."
+    },
+    {
+     "q": "3. Every influencer who talks about sustainability is lying.",
+     "a": "**B** — every + lying + مفيش دليل."
+    },
+    {
+     "q": "4. In my view, schools should have a media literacy class.",
+     "a": "**O** — In my view + should."
+    },
+    {
+     "q": "5. Modern science is hiding the real history of Egypt!",
+     "a": "**B** — conspiracy framing + مفيش دليل."
+    },
+    {
+     "q": "6. The survey asked 500 shoppers about their buying habits.",
+     "a": "**F** — رقم ومعلومة ممكن نتأكد منها."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**B. Choose the correct answer from a, b, c or d.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "7. A company calls its plastic bottles \"planet-friendly\" but gives no proof and has not changed how it makes them. This is called\na. mutual aid  b. citizen journalism  c. greenwashing  d. a concession",
+     "a": "**c. greenwashing** — الشركة بتبان صديقة للبيئة أكتر من الحقيقة: كلمة حلوة من غير دليل ومن غير تغيير."
+    },
+    {
+     "q": "8. Which of these is the BEST sign that a post may be unreliable?\na. It has more than 100,000 likes.  b. It names no source and uses words like SHOCKING and PROVES.  c. It uses a colourful picture.  d. It has three hashtags.",
+     "a": "**b** — مفيش مصدر (missing information) + emotional و absolute language. اللايكات والصور والهاشتاجات مش دليل على الصحة ولا على الكذب."
+    },
+    {
+     "q": "9. \"Read this before they take it down!\" is an example of\na. selective evidence  b. an urgency signal  c. hedging  d. neutral language",
+     "a": "**b. an urgency signal** — ضغط إنك تتصرف بسرعة + إحساس بالسرّية."
+    },
+    {
+     "q": "10. A post says that one factory is the only reason the whole river is polluted. This is\na. oversimplification  b. a fact  c. a concession  d. citizen journalism",
+     "a": "**a. oversimplification** — مشكلة كبيرة في سبب واحد."
+    },
+    {
+     "q": "11. Which claim is the most reliable?\na. Experts CONFIRM the lake is DYING!\nb. Doctors agree this drink cures everything.\nc. A 2025 report by the city water department found that 30% of samples were polluted.\nd. Everyone knows the river is dead.",
+     "a": "**c** — مصدر محدد + سنة + رقم."
+    },
+    {
+     "q": "12. A brand says it is \"sustainable\" but releases a new collection every week. This is an example of\na. contradiction  b. hedging  c. neutral language  d. a rhetorical question",
+     "a": "**a. contradiction** — الكلام عكس الفعل."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**C. Read the post and complete the analysis.**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "@AncientSecretsDaily — \"UNBELIEVABLE! A photo shows a mobile phone carved on a temple wall in Luxor. This PROVES ancient Egyptians had modern technology! Experts don't want you to know this. Share NOW before it disappears!\""
+   ]
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "13. Find an example of emotional language.",
+     "a": "\"**UNBELIEVABLE!**\" — بيثير الحماس والدهشة."
+    },
+    {
+     "q": "14. Find an example of absolute language and explain why it is a problem.",
+     "a": "\"This **PROVES** ancient Egyptians had modern technology\" — one photo cannot prove such a big claim, and no evidence is given."
+    },
+    {
+     "q": "15. Find an example of conspiracy framing.",
+     "a": "\"**Experts don't want you to know this.**\" — بيوحي إن فيه حد بيخبّي الحقيقة."
+    },
+    {
+     "q": "16. What information is missing?",
+     "a": "The name of the temple, the date of the photo, who took it, and any expert explanation of the carving. — مفيش مصدر ولا تفاصيل."
+    },
+    {
+     "q": "17. Is the post reliable? Answer using JRE.",
+     "a": "**J:** The post is unreliable. **R:** It uses emotional and absolute language instead of evidence and tries to push people to share quickly. **E:** It says one photo \"PROVES\" a huge claim and ends with \"Share NOW before it disappears!\", which is an urgency signal."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**D. Read the short text, then answer.**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "FreshThreads has launched a 'Planet First' line made from recycled cotton. The line makes up about 2% of the clothes the company sells. The company releases around 400 new designs every month and has not published information about its factory wages."
+   ]
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "18. True or False? Justify: Most of FreshThreads' clothes are made from recycled cotton.",
+     "a": "**False** — the 'Planet First' line \"makes up about 2%\" of its clothes."
+    },
+    {
+     "q": "19. True, False or Not Given? Justify: The 'Planet First' line was checked by an independent organisation.",
+     "a": "**Not Given** — the text does not say who checked it. (علشان نقول True أو False النص لازم يذكر جهة اتأكدت أو يقول إن مفيش)"
+    },
+    {
+     "q": "20. Why might the 'Planet First' line be an example of greenwashing? Give TWO reasons.",
+     "a": "1) It is only **2%** of production, so the core business does not change. 2) The company releases **400 new designs a month** (contradiction) and gives **no information about wages** (missing information)."
+    },
+    {
+     "q": "21. Write ONE sentence conceding a positive point about FreshThreads, then giving your judgement.",
+     "a": "مثال: **Although using recycled cotton is a positive step, the 'Planet First' line is too small to make FreshThreads a responsible company.** — concession + حكم."
+    },
+    {
+     "q": "22. Write a neutral, hedged sentence about FreshThreads that a fact-checker could publish.",
+     "a": "مثال: **The available information suggests that FreshThreads' green line may represent only a small part of its overall production.** — suggests + may + مفيش مبالغة."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**E. Writing task**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "23. You are a fact-checker for your school media club. Write a post (about 150-180 words) about ONE viral post that warns of an environmental disaster. Accept that some environmental problems really are serious, then show readers how to check such a post before they share it.",
+     "a": "Plan مقترح: **Title** (سؤال بلاغي). → **Describe the post**: الحساب + الادعاء + عدد اللايكات. → **Evaluate**: 3 features من الجدول (emotional language / absolute language / missing information / urgency) مع اقتباسات. → **Concede**: Although some environmental problems are truly serious, exaggerated posts can make people stop trusting real scientists. → **How to check**: Stop – Source – Evidence – Compare – Who benefits. → **Closing** + 2-3 hashtags. — استخدم hedging في الحكم (probably / may) واعدّ الكلمات."
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "ملخص الدرس في سطرين",
+   "items": [
+    "**Fact** = ممكن تتأكد منه. **Opinion** = رأي أو إحساس. **Biased claim** = رأي متقدّم كأنه حقيقة من غير دليل.",
+    "جدول الـ reliability: **emotional language, absolute language, urgency signals, selective evidence, conspiracy framing, missing information, oversimplification, contradiction**.",
+    "**Greenwashing** = الشركة تبان صديقة للبيئة أكتر من الحقيقة: كلمات غامضة، 100%، جزء صغير أخضر، معلومات ناقصة، تناقض.",
+    "اللايكات **مش دليل**. قبل الـ share: Stop – Source – Evidence – Compare – Who benefits.",
+    "في الإجابة: **feature + example + why**، والحكم بالـ **JRE**، ولو التاسك قال Concede استخدم **Although / Admittedly**."
+   ]
+  }
+ ]
+}

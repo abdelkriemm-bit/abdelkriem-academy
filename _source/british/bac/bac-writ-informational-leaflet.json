@@ -1,0 +1,608 @@
+{
+ "slug": "bac-writ-informational-leaflet",
+ "title": "Informational Leaflet",
+ "kicker": "تانية بكالوريا · Writing · Unit 5",
+ "summary": "إزاي تكتب نشرة معلومات (leaflet) عن الطاقة المتجددة: عنوان جذاب، عناوين فرعية، نقط قصيرة، modals، ودعوة للعمل.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "الدرس ده عن إيه؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "An **informational leaflet** is a printed or digital document that gives **concise, factual and easy-to-read** information about a topic, a product, a service or an organisation. Its purpose is to educate the reader, raise awareness or explain a process quickly."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الـ **leaflet** يعني **نشرة / مطوية** زي الورقة اللي بياخدها الناس في الشارع أو في المستشفى أو اللي بتتنشر أونلاين: **عنوان كبير**، **عناوين صغيرة**، **نقط قصيرة**، وفي الآخر **دعوة للعمل** «اعمل كذا النهارده!». هدفها إن القارئ **يفهم بسرعة** ويتحرك."
+  },
+  {
+   "type": "p",
+   "text": "في الكتاب الدرس ده في **Unit 5: The Greenhouse Effect**، درس **Can Nature Power the World?** عن الطاقة المتجددة، صفحة **Writing – Informational Leaflet** (صفحة 155) وبعدها نموذج **Green Energy Guide** عن الطاقة الشمسية (صفحة 156). الكتاب بيقول كمان: **استخدم الـ modal verbs** في الـ leaflet علشان تقدّم نصايح وتقيّم حلول الطاقة **بحذر**، ومتقولش كل حاجة كأنها حقيقة مطلقة."
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "عدد الكلمات",
+   "text": "الكتاب في صفحة الـ leaflet **مش محدد عدد كلمات**. علشان كده النموذج هنا معمول في حدود **150-180 كلمة**، زي باقي مهام الكتابة في الوحدة. لو السؤال حدد عدد كلمات، التزم بيه."
+  },
+  {
+   "type": "h2",
+   "text": "الـ leaflet بيختلف عن المقال في إيه؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "An article is written in full paragraphs. A leaflet is written in **short sections** with **subheadings** and **bullet points**, so the reader can scan it in a few seconds."
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "",
+    "مقال / فقرة",
+    "Leaflet"
+   ],
+   "rows": [
+    [
+     "الشكل",
+     "فقرات كاملة",
+     "عنوان + عناوين فرعية + نقط"
+    ],
+    [
+     "طول الجمل",
+     "جمل طويلة ومترابطة",
+     "جمل **قصيرة ومباشرة**"
+    ],
+    [
+     "طريقة القراية",
+     "من الأول للآخر",
+     "القارئ **بيبص بسرعة** (scan) على اللي يهمه"
+    ],
+    [
+     "الهدف",
+     "إقناع برأي",
+     "**معلومات** + توعية + دعوة للعمل"
+    ],
+    [
+     "الأسلوب",
+     "رسمي",
+     "**ودود بس فيه معلومات** (friendly yet informative)"
+    ],
+    [
+     "القارئ",
+     "مدرس / قراء مجلة",
+     "بيتكلم معاه مباشرة بـ **you**"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "المميزات الأساسية زي ما الكتاب بيعلّمها (Key Features)"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Feature",
+    "Description (English)",
+    "بالعربي",
+    "مثال"
+   ],
+   "rows": [
+    [
+     "**Eye-catching headline**",
+     "Grabs the reader’s attention immediately — use a question or bold statement.",
+     "عنوان بيشد العين على طول: **سؤال** أو **جملة قوية**.",
+     "Can the Wind Keep Your Lights On?"
+    ],
+    [
+     "**Subheadings**",
+     "Organise content into clear, easy-to-navigate sections.",
+     "عناوين صغيرة بتقسّم الكلام لأجزاء.",
+     "What is wind energy? / What can you do?"
+    ],
+    [
+     "**Bullet points**",
+     "Present key information concisely and accessibly.",
+     "نقط قصيرة، كل نقطة معلومة واحدة.",
+     "• The wind is free."
+    ],
+    [
+     "**Call to action**",
+     "Encourages the reader to do something specific.",
+     "جملة بتطلب من القارئ يعمل حاجة **محددة**.",
+     "Switch off chargers today!"
+    ],
+    [
+     "**Tone and register**",
+     "Matches the intended audience — friendly yet informative for young people.",
+     "الأسلوب مناسب للقارئ: ودود ومفيد للشباب.",
+     "You can make a difference."
+    ],
+    [
+     "**Visuals**",
+     "Images or diagrams support and enhance the written text.",
+     "صور أو رسوم بتدعم الكلام.",
+     "[Picture: wind turbines by the sea]"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "في الامتحان أو الكراسة ممكن **متقدرش ترسم**. حط مكان الصورة وصف صغير بين **brackets** زي: [Picture: solar panels on a school roof]. الـ brackets هنا = **معلومة زيادة** للقارئ."
+  },
+  {
+   "type": "h2",
+   "text": "الهيكل اللي تمشي عليه (من نموذج الكتاب)"
+  },
+  {
+   "type": "p",
+   "text": "نموذج الكتاب (Green Energy Guide) ماشي بالترتيب ده. امشي عليه في أي leaflet:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "الجزء",
+    "بتكتب فيه إيه",
+    "عبارات مفيدة"
+   ],
+   "rows": [
+    [
+     "1. **Headline**",
+     "سؤال أو جملة قوية تشد القارئ",
+     "Why are you still …? / Did you know …? / … : The Future Is Here!"
+    ],
+    [
+     "2. **Sub-title / Introduction**",
+     "جملة أو اتنين: الـ leaflet ده عن إيه وليه يهم القارئ",
+     "Everything you need to know about … / A quick guide to …"
+    ],
+    [
+     "3. **Subheading 1: What is …?**",
+     "تعريف بسيط + 2-3 نقط معلومات",
+     "… is … / It works by …"
+    ],
+    [
+     "4. **Subheading 2: Why does it matter? / Why should you care?**",
+     "الفوايد أو الأسباب (cause & effect)",
+     "This leads to … / As a result, … / It could …"
+    ],
+    [
+     "5. **Subheading 3: Challenges** (اختياري)",
+     "مشكلة أو اتنين بحذر (modals)",
+     "… may … / … might … / However, …"
+    ],
+    [
+     "6. **Subheading 4: How can you help? / How do you get started?**",
+     "خطوات عملية للقارئ",
+     "Start small: … / Talk to … / You should …"
+    ],
+    [
+     "7. **Call to action**",
+     "جملة أخيرة قوية فيها طلب محدد",
+     "Act today! / Join us! / Switch to … today!"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "العبارات واللغة المفيدة"
+  },
+  {
+   "type": "phrases",
+   "groups": [
+    {
+     "title": "Headlines (عناوين)",
+     "items": [
+      "Why are you still wasting energy?",
+      "Did you know that …?",
+      "Can the Sun Power Your School?",
+      "Small Steps, Big Change!",
+      "Clean Energy: Your Future Starts Now"
+     ]
+    },
+    {
+     "title": "Subheadings (عناوين فرعية)",
+     "items": [
+      "What is …?",
+      "How does it work?",
+      "Why should young people care?",
+      "What are the challenges?",
+      "How can you help?",
+      "Top tips"
+     ]
+    },
+    {
+     "title": "Facts & cause-effect (معلومات)",
+     "items": [
+      "… converts sunlight into electricity.",
+      "Burning fossil fuels leads to …",
+      "As a result, …",
+      "Because of …, …",
+      "According to experts, …"
+     ]
+    },
+    {
+     "title": "Modal verbs (بحذر ونصيحة)",
+     "items": [
+      "Solar energy could power …",
+      "You should …",
+      "Battery storage may solve …",
+      "This might be expensive at first, but …",
+      "We must act now."
+     ]
+    },
+    {
+     "title": "Calls to action (دعوة للعمل)",
+     "items": [
+      "Switch to … today!",
+      "Join our school clean-energy club!",
+      "Ask your teacher to …",
+      "Start small: …",
+      "Act today, protect tomorrow."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "Solar panels **convert** sunlight **into** electricity.",
+     "ar": "convert … into = بيحوّل … لـ. جملة تعريف قصيرة ومناسبة لنقطة."
+    },
+    {
+     "en": "Wind farms **could** cut carbon emissions significantly.",
+     "ar": "could = إمكانية. الكتاب بيقول: قدّم الحلول بحذر."
+    },
+    {
+     "en": "You **should** switch off lights when you leave a room.",
+     "ar": "should = نصيحة مباشرة للقارئ."
+    },
+    {
+     "en": "Batteries **may** solve the problem of intermittency.",
+     "ar": "may = احتمال. intermittency = إن الطاقة مش مستمرة (الشمس بتغيب، الهوا بيقف)."
+    },
+    {
+     "en": "Burning coal **leads to** air pollution.",
+     "ar": "cause & effect: سبب ← نتيجة."
+    },
+    {
+     "en": "**Did you know** that Egypt enjoys sunshine on most days of the year?",
+     "ar": "سؤال يشد القارئ. (ممتاز كعنوان أو أول جملة)."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي تكتب الـ leaflet خطوة بخطوة"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**حدد الموضوع والقارئ**: عن إيه؟ (solar / wind / saving energy …) ولمين؟ (طلبة، أهالي، أهل الحي). ده بيحدد الأسلوب.",
+    "**اكتب العنوان**: سؤال أو جملة قوية (Why …? / Did you know …? / … Today!).",
+    "**اكتب سطر تحت العنوان** يقول الـ leaflet ده هيقدّم إيه للقارئ.",
+    "**اختار 3-4 عناوين فرعية**: What is …? – Why does it matter? – Challenges – How can you help?",
+    "**تحت كل عنوان 2-3 نقط قصيرة**: كل نقطة معلومة واحدة، جملة واحدة غالبًا.",
+    "**استخدم modals** (could / should / may / must) و**cause & effect** (leads to / as a result).",
+    "**اختم بـ call to action** محدد وقصير: «Switch off chargers today!»",
+    "**ضيف visual** بوصف بين brackets لو مش هترسم، وراجع بالـ checklist."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "h2",
+   "text": "نموذج كامل (Model Answer)"
+  },
+  {
+   "type": "p",
+   "text": "ده leaflet عن **طاقة الرياح** (wind energy) لطلبة المدرسة. لاحظ العنوان والعناوين الفرعية والنقط والـ call to action. (النقط مكتوبة بـ • والعناوين الفرعية بالـ bold زي ما هتكتبها في الورقة.)"
+  },
+  {
+   "type": "model",
+   "title": "Model informational leaflet: wind energy",
+   "task": "Your school’s environment club is preparing a campaign on renewable energy. Write an informational leaflet for students about one renewable energy source. Use modal verbs to make recommendations and evaluate it carefully.",
+   "text": [
+    "**Can the Wind Keep Your Lights On?**",
+    "A quick guide to wind energy in Egypt — and how you can be part of it.",
+    "[Picture: wind turbines by the Red Sea]",
+    "**What is wind energy?**",
+    "• Wind turbines use the kinetic energy of moving air to produce electricity.",
+    "• The wind is free, and it will never run out.",
+    "**Why does it matter?**",
+    "• Burning fossil fuels leads to carbon emissions and global warming.",
+    "• Wind farms produce almost no emissions while they work, so they could reduce pollution significantly.",
+    "• Egypt already has large wind farms on the Gulf of Suez, where the wind is strong and steady.",
+    "**What are the challenges?**",
+    "• The wind does not always blow, so batteries may be needed to store energy.",
+    "• Turbines might harm migrating birds, so wind farms should be planned carefully.",
+    "**How can you help?**",
+    "• Learn about clean energy and share it with your family.",
+    "• Save electricity at home: switch off lights and chargers you are not using.",
+    "• Ask your teacher to organise a talk about renewable energy.",
+    "**The future is blowing your way. Choose clean energy today!**"
+   ],
+   "word_count": 180,
+   "marks": "فيه كل الـ Key Features الست اللي في الكتاب (6/6)",
+   "notes": [
+    "**Eye-catching headline:** العنوان **سؤال** بيشد القارئ ويخليه عايز يعرف الإجابة: هل الهوا ممكن يشغّل النور في بيتك؟",
+    "**Sub-title:** سطر تحت العنوان بيقول الـ leaflet هيقدّم إيه (a quick guide) وبيكلّم القارئ مباشرة (you). الـ dash هنا للـ **emphasis** على الجزء الأخير: and how you can be part of it.",
+    "**Visuals:** وصف الصورة بين **brackets** لأننا مش هنرسم. ده بيوضح إن الكاتب عارف إن الـ leaflet محتاج صور.",
+    "**Subheadings:** 4 عناوين فرعية على شكل أسئلة (What / Why / What are the challenges / How can you help) بتخلّي القارئ يلاقي اللي عايزه بسرعة.",
+    "**Bullet points:** كل نقطة = معلومة واحدة في جملة واحدة. مفيش فقرات طويلة.",
+    "**Cause & effect + modals:** leads to (سبب ← نتيجة)، **could** reduce (إمكانية)، **may** be needed و**might** harm (حذر)، **should** be planned (نصيحة). ده بالظبط الـ Writing Reflection في الكتاب: متقولش كل حاجة كأنها حقيقة مطلقة.",
+    "**Balanced information:** فيه جزء للتحديات (challenges) وده بيخلي المعلومات **أمينة** ومش دعاية بس.",
+    "**Call to action:** النقط تحت How can you help فيها خطوات **محددة** (switch off chargers، ask your teacher)، والجملة الأخيرة قوية ومحددة: Choose clean energy today!",
+    "**Tone:** ودود ومفيد للشباب (you / your family / your teacher)، والـ colon في Save electricity at home: بتقدّم **توضيح**. عدد الكلمات حوالي 150-180."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "الـ Checklist — راجع بيها قبل ما تسلّم"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "#",
+    "Feature",
+    "بتسأل نفسك"
+   ],
+   "rows": [
+    [
+     "1",
+     "Eye-catching headline",
+     "العنوان سؤال أو جملة قوية بتشد العين؟"
+    ],
+    [
+     "2",
+     "Subheadings",
+     "فيه 3-4 عناوين فرعية واضحة؟"
+    ],
+    [
+     "3",
+     "Bullet points",
+     "المعلومات في نقط قصيرة، كل نقطة فكرة واحدة؟"
+    ],
+    [
+     "4",
+     "Call to action",
+     "فيه طلب **محدد** من القارئ في الآخر؟"
+    ],
+    [
+     "5",
+     "Tone and register",
+     "الأسلوب ودود ومناسب للقارئ وفيه معلومات حقيقية؟"
+    ],
+    [
+     "6",
+     "Visuals",
+     "حطيت صورة أو وصف صورة بين brackets؟"
+    ],
+    [
+     "+",
+     "Modal verbs",
+     "استخدمت could / should / may / must علشان أقدّم النصايح بحذر؟"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "أشهر الأخطاء (غلط ← صح)",
+   "items": [
+    "✗ تكتب الـ leaflet فقرات طويلة زي المقال ← ✓ **عناوين فرعية + نقط قصيرة**.",
+    "✗ عنوان عادي: «Wind Energy» ← ✓ «Can the Wind Keep Your Lights On?» (سؤال يشد).",
+    "✗ call to action عام: «Help the planet.» ← ✓ «Switch off chargers you are not using today!» (محدد).",
+    "✗ «Solar energy will solve all our problems.» ← ✓ «Solar energy **could** solve many of our problems.» (بحذر).",
+    "✗ معلومات من غير ترتيب، كل حاجة تحت عنوان واحد ← ✓ كل عنوان فرعي له نوع معلومات واحد.",
+    "✗ أسلوب ناشف جدًا أو أسلوب شات «Hey guys!!!» ← ✓ **friendly yet informative**: You can make a real difference.",
+    "✗ تستخدم semicolon بين النقط ← ✓ كل نقطة جملة لوحدها تبدأ بـ •."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "إزاي تجاوب في الامتحان",
+   "items": [
+    "احفظ الأربع عناوين الفرعية الجاهزة: **What is …? / Why does it matter? / What are the challenges? / How can you help?** وتنفع لأي موضوع.",
+    "النقطة = **جملة واحدة**. كده بتوفر وقت وكلمات.",
+    "آخر سطر **call to action** بعلامة تعجب ومعاه فعل أمر: Switch / Join / Start / Ask."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي بييجي في الأسئلة؟"
+  },
+  {
+   "type": "p",
+   "text": "الكتاب بيطلب منك تكتب leaflet عن الطاقة المتجددة، وممكن أسئلة على المميزات (features). مثالين:"
+  },
+  {
+   "type": "p",
+   "text": "**1) Choose the correct answer from a, b, c or d.**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Which of the following is the best **call to action** for a leaflet about saving water?",
+    "a. Water is important.",
+    "b. What is water saving?",
+    "c. Turn off the tap while you brush your teeth — start tonight!",
+    "d. Water covers most of the Earth."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**الإجابة: c.** ليه؟ فيها **طلب محدد** (اقفل الحنفية) وفعل أمر ووقت (tonight). (a) و(d) معلومات، (b) عنوان فرعي."
+  },
+  {
+   "type": "p",
+   "text": "**2) Identify the features in this extract.**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Is Your Classroom Too Hot?",
+    "Why should we plant trees?",
+    "• Trees give shade and cool the air.",
+    "Plant a tree in your schoolyard this week!"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**الإجابة:** Is Your Classroom Too Hot? = **eye-catching headline** (سؤال). Why should we plant trees? = **subheading**. • Trees give shade … = **bullet point**. Plant a tree … this week! = **call to action**."
+  },
+  {
+   "type": "h2",
+   "text": "تدريب"
+  },
+  {
+   "type": "p",
+   "text": "**A. Choose the correct answer from a, b, c or d.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "1. The main purpose of an informational leaflet is to ______.\na. tell a story  b. educate the reader quickly  c. describe a character  d. write a letter to a friend",
+     "a": "**b** — to educate the reader, raise awareness or explain a process."
+    },
+    {
+     "q": "2. Which is the most eye-catching headline?\na. Information About Energy  b. Energy  c. Is Your Roof Wasting Free Energy?  d. A Leaflet",
+     "a": "**c** — سؤال قوي بيشد القارئ."
+    },
+    {
+     "q": "3. Bullet points are used to ______.\na. present key information concisely  b. write long stories  c. give the title  d. sign the leaflet",
+     "a": "**a** — concisely and accessibly."
+    },
+    {
+     "q": "4. The tone of a leaflet for young people should be ______.\na. angry  b. friendly yet informative  c. very formal and difficult  d. sad",
+     "a": "**b** — من جدول الـ Key Features."
+    },
+    {
+     "q": "5. Electric buses ______ reduce air pollution in Cairo, but they are still expensive to buy.\na. must  b. may  c. should  d. has",
+     "a": "**b. may** — احتمال (مش متأكدين)، وبعدها but they are still expensive."
+    },
+    {
+     "q": "6. Households ______ switch to renewable energy sources. (recommendation)\na. should  b. might  c. can’t  d. may not",
+     "a": "**a. should** — نصيحة/توصية."
+    },
+    {
+     "q": "7. Which subheading fits a section that gives the reader practical steps?\na. What is solar energy?  b. How do you get started?  c. History of energy  d. The end",
+     "a": "**b** — بيقدّم خطوات عملية للقارئ."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**B. Name the feature (headline / subheading / bullet point / call to action / visual).**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "8. Join the school recycling team today!",
+     "a": "**Call to action** — فعل أمر + today."
+    },
+    {
+     "q": "9. [Diagram: how a solar panel works]",
+     "a": "**Visual** — وصف رسم بين brackets."
+    },
+    {
+     "q": "10. What are the benefits?",
+     "a": "**Subheading** — بيقسّم الأجزاء."
+    },
+    {
+     "q": "11. • Geothermal energy uses the Earth’s heat to power turbines.",
+     "a": "**Bullet point** — معلومة واحدة قصيرة."
+    },
+    {
+     "q": "12. Small Steps, Big Change!",
+     "a": "**Headline** — جملة قوية وقصيرة."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**C. Rewrite each long sentence as two short bullet points.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "13. Solar water heaters use sunlight to warm water, and they can cut a family's electricity bill.",
+     "a": "• Solar water heaters use sunlight to warm water.\n• They can cut a family's electricity bill."
+    },
+    {
+     "q": "14. Hydropower uses moving water to drive turbines and it provides stable power regardless of the weather.",
+     "a": "• Hydropower uses moving water to drive turbines.\n• It provides stable power in any weather."
+    },
+    {
+     "q": "15. You can help by turning off the air conditioner when you leave a room and by using a fan on cooler days.",
+     "a": "• Turn off the air conditioner when you leave a room.\n• Use a fan on cooler days."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**D. Make each statement more careful by using a modal verb (could / may / might / should).**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "16. Wind energy will power the whole of Egypt.",
+     "a": "Wind energy **could** power a large part of Egypt."
+    },
+    {
+     "q": "17. Solar panels are too expensive for every family.",
+     "a": "Solar panels **may** be expensive for some families at first."
+    },
+    {
+     "q": "18. Schools install solar panels. (make it a recommendation)",
+     "a": "Schools **should** install solar panels to reduce energy costs."
+    },
+    {
+     "q": "19. New technology solves storage problems.",
+     "a": "New technology **might** solve storage problems in the future."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**E. Writing tasks.** اكتب leaflet فيه الـ Key Features الست (حوالي 150-180 كلمة لو مفيش عدد محدد)."
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "20. Write an informational leaflet for young people about solar energy in Egypt.",
+     "a": "**خطة:** Headline: Can the Sun Power Your School? – Sub-title: A quick guide for students. – What is solar energy? (convert sunlight into electricity) – Why does it matter? (Benban Solar Park + less pollution) – Challenges (cost at first, may need storage) – How can you help? (solar charger, talk to school) – Call to action: Let the sun in — switch to solar today!"
+    },
+    {
+     "q": "21. Write a leaflet for your neighbourhood about saving electricity at home.",
+     "a": "**خطة:** Headline: Is Your Electricity Bill Too High? – Why save energy? (fossil fuels leads to emissions + bills) – Easy tips (switch off, LED bulbs, unplug chargers) – Did you know? (معلومة قصيرة) – Call to action: Start tonight: switch off one thing you are not using!"
+    },
+    {
+     "q": "22. Write a leaflet inviting students to join a tree-planting day at your school.",
+     "a": "**خطة:** Headline: Small Trees, Big Shade! – What is the event? (اليوم والمكان) – Why plant trees? (shade, clean air, cause & effect) – What should you bring? (gloves, water) – Call to action: Sign up with your class teacher by Thursday!"
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "ملخص الدرس في سطرين",
+   "items": [
+    "الـ leaflet = **معلومات قصيرة وسهلة** بتتقري بسرعة.",
+    "الـ 6 Key Features: **Headline – Subheadings – Bullet points – Call to action – Tone – Visuals**.",
+    "العناوين الجاهزة: What is …? / Why does it matter? / Challenges / How can you help?",
+    "استخدم **modals** (could / should / may / must) علشان تقدّم المعلومات **بحذر** والنصايح بوضوح.",
+    "اختم بـ **call to action محدد**: فعل أمر + طلب واضح."
+   ]
+  }
+ ]
+}

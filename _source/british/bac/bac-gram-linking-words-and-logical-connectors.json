@@ -1,0 +1,729 @@
+{
+ "slug": "bac-gram-linking-words-and-logical-connectors",
+ "title": "Linking Words and Logical Connectors",
+ "kicker": "تانية بكالوريا · Grammar · Unit 4 · Unit 8",
+ "summary": "إزاي نربط الأفكار ببعض بكلمات زي however / therefore / although / because of، ونعرف إيه اللي بييجي بعد كل كلمة.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "الدرس ده عن إيه؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "**Linking words** (also called **connectors**) join ideas and show the **relationship** between them: adding, contrasting, giving a reason, showing a result, giving an example, ordering points or concluding."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الدرس ده عن **كلمات الربط**: الكلمات الصغيرة اللي بتوصل فكرة بفكرة وبتقول للقارئ **العلاقة** بينهم إيه. يعني هل أنا **بضيف** فكرة؟ ولا **بعارض**؟ ولا بقول **سبب**؟ ولا **نتيجة**؟ من غيرها الكلام بيبقى جمل مقطّعة ومش مترابطة."
+  },
+  {
+   "type": "p",
+   "text": "في الكتاب الموضوع ده موجود في مكانين: **Book 1 · Unit 4: The Power of Choice** (الهدف: «Use linking words to connect ideas clearly in writing»، وبيتطلب في الـ opinion article والـ review)، و**Book 2 · Unit 8: Pathways to Progress** (الـ Personal Development Plan لازم يكون فيه **connectors** زي because, since, therefore, furthermore, in addition). وبييجي في **Consolidation Review B** و**Review D** في الاختيار من متعدد وفي «اختار الجملة الصح»."
+  },
+  {
+   "type": "h2",
+   "text": "الفكرة ببساطة: إشارات المرور في الكلام"
+  },
+  {
+   "type": "en",
+   "text": [
+    "A connector is like a **road sign** for the reader. It tells them what is coming next before they read it."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "تخيل إنك سايق والطريق مليان يافطات: «**انتبه، منعطف**»، «**كمّل على طول**»، «**نهاية الطريق**». كلمات الربط هي اليافطات دي في الكلام:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Furthermore / In addition** = «كمّل على طول»: جاي فكرة تانية في نفس الاتجاه.",
+    "**However / On the other hand** = «انتبه، منعطف»: جاي فكرة عكس اللي فاتت.",
+    "**Therefore / As a result** = «وصلنا»: جاية النتيجة.",
+    "**In conclusion** = «نهاية الطريق»: هنلخّص."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "The phone is expensive. Many teenagers buy it.",
+     "ar": "جملتين من غير ربط: مش واضح العلاقة بينهم."
+    },
+    {
+     "en": "The phone is expensive. **However**, many teenagers buy it.",
+     "ar": "**However** وضحت إن فيه تناقض: غالي **ومع ذلك** بيشتروه."
+    },
+    {
+     "en": "The phone is expensive. **Therefore**, few teenagers buy it.",
+     "ar": "**Therefore** وضحت إن التانية **نتيجة** الأولى: غالي **علشان كده** قليلين بيشتروه."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "جدول كلمات الربط حسب الوظيفة"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Choose the connector by its **job**. Each group below has a different meaning."
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "الوظيفة",
+    "كلمات الربط",
+    "المعنى بالعربي",
+    "مثال"
+   ],
+   "rows": [
+    [
+     "**Addition** (إضافة)",
+     "and, also, in addition, furthermore, moreover, besides, as well as",
+     "وكمان / بالإضافة لكده / علاوة على ذلك",
+     "Brands sell products. **Furthermore**, they sell feelings."
+    ],
+    [
+     "**Contrast** (تناقض)",
+     "but, however, nevertheless, on the other hand, whereas, while, yet",
+     "لكن / ومع ذلك / من ناحية تانية / في حين إن",
+     "Sales look attractive. **However**, they encourage waste."
+    ],
+    [
+     "**Concession** (اعتراف بالرأي التاني)",
+     "although, even though, though, despite, in spite of, admittedly",
+     "بالرغم من / مع إن / لازم نعترف إن",
+     "**Although** the course is hard, it is useful."
+    ],
+    [
+     "**Cause / Reason** (سبب)",
+     "because, since, as, because of, due to, owing to",
+     "علشان / لأن / بسبب",
+     "Food is wasted **because** families buy too much."
+    ],
+    [
+     "**Result** (نتيجة)",
+     "so, therefore, as a result, consequently, thus",
+     "علشان كده / ونتيجة لكده",
+     "Prices fell. **As a result**, people bought more."
+    ],
+    [
+     "**Example** (مثال)",
+     "for example, for instance, such as, like",
+     "على سبيل المثال / زي",
+     "Soft skills, **such as** teamwork, matter."
+    ],
+    [
+     "**Sequence** (ترتيب)",
+     "first(ly), second(ly), then, next, after that, finally",
+     "أولاً / تانيًا / بعد كده / وأخيرًا",
+     "**Firstly**, set a goal. **Then**, make a plan."
+    ],
+    [
+     "**Similarity** (تشابه)",
+     "similarly, likewise, in the same way",
+     "بنفس الطريقة / وكذلك",
+     "**Similarly**, phone brands sell an image."
+    ],
+    [
+     "**Conclusion** (خاتمة)",
+     "in conclusion, to sum up, overall, all in all",
+     "في الختام / باختصار / بشكل عام",
+     "**In conclusion**, we should buy less."
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "حيلة للحفظ: سؤال الوظيفة",
+   "text": "قبل ما تختار، اسأل: **الجملة التانية بتعمل إيه في الأولى؟** بتزود عليها؟ (Addition) بتعارضها؟ (Contrast) بتشرح سببها؟ (Cause) هي نتيجتها؟ (Result) بتديها مثال؟ (Example). الإجابة دي بتحدد المجموعة، وبعدين اختار الكلمة المناسبة للقواعد."
+  },
+  {
+   "type": "h2",
+   "text": "القواعد: إيه اللي بييجي بعد كل كلمة؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Connectors are not all used in the same way. Some are followed by a **full clause** (subject + verb), some by a **noun / -ing**, and some start a **new sentence** followed by a comma."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "ده أهم جزء في الدرس، ومنه بتيجي معظم أسئلة «اختار الجملة الصح». كلمات الربط **3 أنواع** حسب اللي بييجي بعدها:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "النوع",
+    "الكلمات",
+    "بييجي بعدها",
+    "مثال"
+   ],
+   "rows": [
+    [
+     "**1. بتربط جوه نفس الجملة** (conjunctions)",
+     "because, since, as, although, even though, while, whereas, and, but, so",
+     "**جملة كاملة** (فاعل + فعل)",
+     "**Although the job is tiring**, it pays well."
+    ],
+    [
+     "**2. حروف جر** (prepositions)",
+     "because of, due to, owing to, despite, in spite of, as well as, such as",
+     "**اسم** أو **-ing**",
+     "**Because of the heat**, … / **Despite being** expensive, …"
+    ],
+    [
+     "**3. بتبدأ جملة جديدة** (sentence connectors)",
+     "however, therefore, furthermore, moreover, in addition, as a result, consequently, nevertheless, on the other hand, for example, in conclusion",
+     "**فاصلة** + جملة كاملة",
+     "Prices fell. **As a result,** people bought more."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "النوع التالت ممكن ييجي بطريقتين:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**أول جملة جديدة** بعد نقطة: The job is tiring. **However,** it pays well.",
+    "بعد **فاصلة منقوطة (semicolon)** بتربط **جملتين كاملتين** مع بعض: The job is tiring**; however,** it pays well. الفاصلة المنقوطة هنا **وظيفتها إنها تربط جملتين كاملتين** مرتبطين ببعض، والكلمة اللي بتوضح التناقض هي **however**."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "خلي بالك",
+   "text": "however و therefore **مش بيربطوا جملتين بفاصلة عادية**. ✗ The job is tiring, however it pays well. ✓ The job is tiring. However, it pays well. ✓ The job is tiring; however, it pays well."
+  },
+  {
+   "type": "h2",
+   "text": "أزواج بتلخبط (Confusing Pairs)"
+  },
+  {
+   "type": "p",
+   "text": "**1) because ولا because of؟**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "**because** + clause (subject + verb). **because of / due to / owing to** + noun or noun phrase."
+   ]
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "Many families waste bread **because they buy** too much.",
+     "ar": "because + جملة (they buy)."
+    },
+    {
+     "en": "Much bread is wasted **because of poor planning**.",
+     "ar": "because of + اسم (poor planning). ✗ because of they buy."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**2) although ولا despite؟**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "**although / even though** + clause. **despite / in spite of** + noun or **-ing**. Never say **despite of**."
+   ]
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "**Although** the sale price **was** low, Ziad did not buy the shoes.",
+     "ar": "although + جملة كاملة (the sale price was low)."
+    },
+    {
+     "en": "**Despite** the low sale price, Ziad did not buy the shoes.",
+     "ar": "despite + اسم (the low sale price)."
+    },
+    {
+     "en": "**In spite of being** tired, Hana finished her training.",
+     "ar": "in spite of + -ing. ✗ despite of."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**3) although ولا however؟**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "**although** joins two ideas in **one** sentence. **however** starts the **second** sentence, followed by a comma."
+   ]
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "**Although** brands are expensive, teenagers love them.",
+     "ar": "جملة واحدة، وalthough في أولها، والفاصلة في النص."
+    },
+    {
+     "en": "Brands are expensive. **However,** teenagers love them.",
+     "ar": "جملتين، وhowever في أول التانية وبعدها فاصلة."
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "خلي بالك: although و but مايجوش مع بعض",
+   "text": "✗ **Although** the course is hard, **but** it is useful. ✓ **Although** the course is hard, it is useful. ✓ The course is hard, **but** it is useful. اختار واحدة بس."
+  },
+  {
+   "type": "p",
+   "text": "**4) so ولا therefore؟**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Both show a result. **so** joins two clauses in one sentence (often after a comma). **therefore** is more formal and usually starts a new sentence or comes after a semicolon."
+   ]
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "The job market is changing, **so** students need adaptable skills.",
+     "ar": "so: عادي وبيربط جوه نفس الجملة."
+    },
+    {
+     "en": "The job market is changing rapidly. **Therefore,** students need to develop adaptable skills.",
+     "ar": "therefore: رسمي أكتر، مناسب للـ report والمقال."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**5) for example ولا such as؟**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "**for example / for instance** + a full sentence (with a comma). **such as** + nouns, inside the sentence."
+   ]
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "Employers value soft skills. **For example,** they look for good communicators.",
+     "ar": "for example + جملة كاملة."
+    },
+    {
+     "en": "Employers value soft skills **such as** teamwork and communication.",
+     "ar": "such as + أسماء على طول ومن غير فاصلة بعدها."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**6) whereas / while** للمقارنة بين حاجتين:"
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "Branded shoes cost a lot, **whereas** unbranded ones are much cheaper.",
+     "ar": "whereas = «في حين إن»: بتقارن حاجتين مختلفين في نفس الجملة."
+    },
+    {
+     "en": "Some students prefer university, **while** others choose technical education.",
+     "ar": "while هنا بمعنى whereas (مقارنة)، مش «في أثناء»."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "أمثلة من موضوعات الوحدتين"
+  },
+  {
+   "type": "p",
+   "text": "الأمثلة دي عن موضوعات **Unit 4** (البراندات، الأكل المهدر، العروض والتخفيضات، وقت الشاشة) و**Unit 8** (التعليم الفني، سوق العمل، المهارات)."
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "Brands do not only sell products. **In addition**, they sell the feeling of belonging.",
+     "ar": "إضافة: البراندات مش بتبيع منتجات بس، كمان بتبيع إحساس الانتماء."
+    },
+    {
+     "en": "Branded products are more expensive. **Nevertheless**, many teenagers still choose them.",
+     "ar": "تناقض رسمي: ومع ذلك بيختاروها."
+    },
+    {
+     "en": "**Due to** countdown clocks, shoppers feel they must buy quickly.",
+     "ar": "سبب + اسم: بسبب عدادات الوقت التنازلية."
+    },
+    {
+     "en": "Apps send frequent notifications. **Consequently**, users check their phones more often.",
+     "ar": "نتيجة رسمية: ونتيجة لكده."
+    },
+    {
+     "en": "**Admittedly**, not everyone is equally influenced by brand image.",
+     "ar": "اعتراف بالرأي التاني: لازم نعترف إن مش كل الناس بتتأثر بنفس الدرجة."
+    },
+    {
+     "en": "Some families waste food **since** they cook more than they need.",
+     "ar": "since هنا = because (سبب)، مش «من ساعة»."
+    },
+    {
+     "en": "Vocational education is growing in Egypt. **Furthermore**, it supports the economy.",
+     "ar": "إضافة رسمية."
+    },
+    {
+     "en": "Omar improved his communication skills **because** he joined a debate club.",
+     "ar": "because + جملة."
+    },
+    {
+     "en": "**Firstly**, I will take an online course. **After that**, I will look for an internship.",
+     "ar": "ترتيب الخطوات في الـ Personal Development Plan."
+    },
+    {
+     "en": "**On the other hand**, some people argue that sales help families save money.",
+     "ar": "الرأي التاني في الـ opinion article."
+    },
+    {
+     "en": "**To sum up**, mindful shopping protects both our money and our planet.",
+     "ar": "خاتمة."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي نستخدمها في الكتابة والـ JRE"
+  },
+  {
+   "type": "en",
+   "text": [
+    "In an opinion article, a review or a plan, connectors guide the reader through your argument: your opinion, your reasons, the other side, and your conclusion."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الكتاب بيدّيك قالب للـ opinion article في Unit 4 فيه: **Although … / As a result … / Furthermore … / On the other hand … However … / In conclusion …**. وفي Unit 8 الـ rubric بيطلب **connectors** على الأقل اتنين. استخدمهم كده:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "الجزء",
+    "وظيفته",
+    "كلمات ربط مناسبة"
+   ],
+   "rows": [
+    [
+     "**Justify** (رأيك)",
+     "تقول رأيك بوضوح",
+     "It is clear that … / In my opinion, …"
+    ],
+    [
+     "**Reason** (السبب)",
+     "تشرح ليه",
+     "because, since, This is because …"
+    ],
+    [
+     "**Evidence** (الدليل)",
+     "تدّي مثال أو معلومة",
+     "For example, … / For instance, … / such as …"
+    ],
+    [
+     "نقطة تانية",
+     "تزود حجة",
+     "Furthermore, … / In addition, … / Moreover, …"
+    ],
+    [
+     "الرأي التاني والرد عليه",
+     "تعترف بالرأي المعاكس وترد عليه",
+     "On the other hand, … However, … / Although …, …"
+    ],
+    [
+     "الخاتمة",
+     "تلخّص وتأكد رأيك",
+     "In conclusion, … / To sum up, … / Therefore, …"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "شوف الفقرة دي (الـ connectors مكتوبة بالـ bold):"
+  },
+  {
+   "type": "en",
+   "text": [
+    "It is clear that sale events such as Black Friday encourage young people to waste money. **This is because** countdown clocks and \"limited\" offers make shoppers feel they must buy immediately. **For example**, many teenagers buy clothes they never wear **simply because** the price looks low. **Furthermore**, cheap products often break quickly, **so** they end up as waste. **On the other hand**, some people argue that sales help families save money on things they really need. **However**, this is only true when shoppers plan carefully. **In conclusion**, sales can be useful, **but** only for buyers who think before they click."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "لاحظ: كل connector **في مكانه الصح**: because / so / but جوه الجملة، وFor example / Furthermore / However / In conclusion في أول الجملة وبعدهم **فاصلة**."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "أشهر الأخطاء (غلط ← صح)",
+   "items": [
+    "✗ Families waste food **because of they cook** too much. ← ✓ … **because they cook** … (because of + اسم بس)",
+    "✗ **Although** the job is tiring**;** it pays well. ← ✓ Although the job is tiring**,** it pays well. (بعد although جملة مش كاملة لوحدها، فالفاصلة المنقوطة غلط)",
+    "✗ **Although** it is cheap, **but** I won't buy it. ← ✓ Although it is cheap, I won't buy it.",
+    "✗ **Despite of** the price, … ← ✓ **Despite** the price, … / **In spite of** the price, …",
+    "✗ **Despite** it was expensive, … ← ✓ **Although** it was expensive, … / **Despite** the high price, …",
+    "✗ **In the other hand**, … ← ✓ **On the other hand**, …",
+    "✗ The app is useful, **however** it wastes time. ← ✓ The app is useful. **However,** it wastes time.",
+    "✗ **Firstly**, … **Secondly**, … **In the end**, … (في الكتابة الرسمية) ← ✓ **Finally**, … / **In conclusion**, … (in the end = «في الآخر» في الحكايات)"
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "إزاي تجاوب بسرعة في الامتحان",
+   "items": [
+    "**أولاً المعنى**: حدد العلاقة بين الجملتين (إضافة / تناقض / سبب / نتيجة).",
+    "**تانيًا القواعد**: بص على اللي بعد الفراغ: **جملة كاملة**؟ ← because / although. **اسم**؟ ← because of / despite / due to.",
+    "الفراغ بعد **نقطة أو فاصلة منقوطة** وبعده **فاصلة**؟ ← however / therefore / as a result.",
+    "استبعد أي اختيار فيه **although + but** أو **despite of** أو **because of + جملة**."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي بييجي في الأسئلة؟"
+  },
+  {
+   "type": "p",
+   "text": "الأسئلة في الكتاب والمراجعات بتيجي بالأشكال دي. هنحل مثال لكل شكل:"
+  },
+  {
+   "type": "p",
+   "text": "**1) Choose the correct answer from a, b, c or d.**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Many people know that fast food is unhealthy; ______, they still eat it every week.",
+    "a. therefore  b. however  c. because of  d. due to"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**الإجابة: b. however.** ليه؟ المعنى **تناقض** (عارفين إنه مضر **ومع ذلك** لسه بياكلوه). therefore نتيجة (عكس المعنى)، وbecause of وdue to محتاجين اسم."
+  },
+  {
+   "type": "p",
+   "text": "**2) Only one sentence in each group is grammatically correct.**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "a. The shop offered a big discount; therefore, many customers came early.",
+    "b. The shop offered a big discount because of many customers came early.",
+    "c. The shop offered a big discount; therefore many customers comes early.",
+    "d. The shop offered a big discount owing to many customers came early."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**الإجابة: a.** ليه؟ therefore بعد فاصلة منقوطة بتربط جملتين كاملتين وبعدها فاصلة. (b) و(d) because of / owing to مايجيش بعدهم جملة. (c) ناقصها فاصلة بعد therefore، وcustomers comes غلط (came ماضي وcustomers جمع)."
+  },
+  {
+   "type": "p",
+   "text": "**3) Fill in the blanks with the correct connector from the box.**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "[ Because of — Although — Furthermore — Therefore ]",
+    "______ the high demand, the school opened a new electronics class."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**الإجابة: Because of.** ليه؟ بعد الفراغ **اسم** (the high demand) والمعنى **سبب**."
+  },
+  {
+   "type": "h2",
+   "text": "تدريب"
+  },
+  {
+   "type": "p",
+   "text": "**A. Choose the correct answer from a, b, c or d.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "1. Many factories are using new machines; ______, workers need to learn digital skills.\na. although  b. as a result  c. because of  d. in spite of",
+     "a": "**b. as a result** — التانية **نتيجة** الأولى، وبعد فاصلة منقوطة وقبل فاصلة."
+    },
+    {
+     "q": "2. ______ online shopping is convenient, it can make us buy things we do not need.\na. Despite  b. Because of  c. Although  d. As a result",
+     "a": "**c. Although** — تناقض + بعدها جملة كاملة (online shopping is)."
+    },
+    {
+     "q": "3. Many people buy branded shoes ______ their high price.\na. although  b. despite  c. because  d. however",
+     "a": "**b. despite** — تناقض + بعدها اسم (their high price)."
+    },
+    {
+     "q": "4. Bread is often wasted ______ families buy more than they need.\na. because  b. because of  c. due to  d. therefore",
+     "a": "**a. because** — سبب + جملة كاملة (families buy)."
+    },
+    {
+     "q": "5. Employers value soft skills ______ teamwork and adaptability.\na. for example  b. such as  c. however  d. therefore",
+     "a": "**b. such as** — بعدها أسماء على طول ومن غير فاصلة."
+    },
+    {
+     "q": "6. Technical schools teach practical skills. ______, they help students find jobs quickly.\na. Furthermore  b. Although  c. Despite  d. Because of",
+     "a": "**a. Furthermore** — إضافة فكرة تانية إيجابية، وفي أول الجملة وبعدها فاصلة."
+    },
+    {
+     "q": "7. Some students enjoy theory, ______ others prefer hands-on training.\na. because  b. whereas  c. therefore  d. due to",
+     "a": "**b. whereas** — مقارنة بين مجموعتين في نفس الجملة."
+    },
+    {
+     "q": "8. ______ heavy rain, the volunteers continued the food donation campaign.\na. Although  b. In spite of  c. Because  d. However",
+     "a": "**b. In spite of** — تناقض + اسم (heavy rain)."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**B. Only one sentence in each group is grammatically correct. Choose the correct answer.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "9. a. Although the job is tiring, but it pays well.\nb. Although the job is tiring, it pays well.\nc. Despite the job is tiring, it pays well.\nd. Although of the job is tiring, it pays well.",
+     "a": "**b** — although + جملة، ومن غير but. (c) despite محتاجة اسم، (d) although of مش موجودة."
+    },
+    {
+     "q": "10. a. Food is wasted because of people cook too much.\nb. Food is wasted due to people cook too much.\nc. Food is wasted because people cook too much.\nd. Food is wasted owing people cook too much.",
+     "a": "**c** — because + جملة كاملة."
+    },
+    {
+     "q": "11. a. Screens are useful, however they waste time.\nb. Screens are useful. However, they waste time.\nc. Screens are useful however, they waste time.\nd. However screens are useful, they waste time.",
+     "a": "**b** — however في أول جملة جديدة وبعدها فاصلة."
+    },
+    {
+     "q": "12. a. Despite of the discount, I didn't buy the jacket.\nb. Despite the discount, I didn't buy the jacket.\nc. Despite there was a discount, I didn't buy the jacket.\nd. In spite the discount, I didn't buy the jacket.",
+     "a": "**b** — despite + اسم ومن غير of. (d) in spite محتاجة **of**."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**C. Complete the text with the correct connector from the box. Use each one once.**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "[ For instance — Owing to — Consequently — On the other hand — In conclusion ]",
+    "Many teenagers spend more than five hours a day on screens. (13) ______, they sleep less and feel tired at school. (14) ______ endless scrolling, they also have less time for hobbies. (15) ______, some students use apps to learn new skills such as coding. (16) ______, Salma learnt graphic design from free online videos. (17) ______, screens can harm or help us, depending on how we use them."
+   ]
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "13. ______, they sleep less …",
+     "a": "**Consequently** — نتيجة الساعات الكتير."
+    },
+    {
+     "q": "14. ______ endless scrolling, …",
+     "a": "**Owing to** — سبب + اسم (endless scrolling)."
+    },
+    {
+     "q": "15. ______, some students use apps to learn …",
+     "a": "**On the other hand** — الجانب الإيجابي، عكس اللي قبله."
+    },
+    {
+     "q": "16. ______, Salma learnt graphic design …",
+     "a": "**For instance** — مثال على الجملة اللي قبلها، وبعدها جملة كاملة."
+    },
+    {
+     "q": "17. ______, screens can harm or help us …",
+     "a": "**In conclusion** — خاتمة الفقرة."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**D. Join each pair of sentences using the word in brackets. Make any necessary changes.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "18. The phone was expensive. Nour bought it. (although)",
+     "a": "**Although the phone was expensive, Nour bought it.** — although + جملة، وفاصلة في النص، ومن غير but."
+    },
+    {
+     "q": "19. The phone was expensive. Nour bought it. (despite)",
+     "a": "**Despite the high price of the phone, Nour bought it.** / **Despite the phone being expensive, …** — despite + اسم أو -ing."
+    },
+    {
+     "q": "20. Karim joined a training course. He wanted to improve his English. (because)",
+     "a": "**Karim joined a training course because he wanted to improve his English.**"
+    },
+    {
+     "q": "21. The factory introduced smart machines. Workers needed new digital skills. (as a result)",
+     "a": "**The factory introduced smart machines. As a result, workers needed new digital skills.** — جملة جديدة + فاصلة. (أو بفاصلة منقوطة: … machines; as a result, workers …)"
+    },
+    {
+     "q": "22. Supermarkets throw away a lot of food. Restaurants waste huge amounts too. (in addition)",
+     "a": "**Supermarkets throw away a lot of food. In addition, restaurants waste huge amounts.** — شلنا too لأن in addition أدت المعنى."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**E. Correct the mistake, then write.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "23. Find and correct the mistake: In the other hand, sales help families save money.",
+     "a": "**On** the other hand — الصح on مش in."
+    },
+    {
+     "q": "24. Find and correct the mistake: Many students choose this school because of it has modern workshops.",
+     "a": "because of ← **because**: … this school **because** it has modern workshops. — أو: … **because of** its modern workshops."
+    },
+    {
+     "q": "25. Write a short paragraph (4-5 sentences) for your Personal Development Plan. Use at least THREE different connectors.",
+     "a": "مثال: One skill I would like to improve is public speaking **because** I feel nervous in front of others. **Firstly**, I plan to join the school debate club. **In addition**, I will practise short presentations at home every week. **Therefore**, I will feel more confident in job interviews in the future. — سبب + ترتيب + إضافة + نتيجة."
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "ملخص الدرس في سطرين",
+   "items": [
+    "اختار كلمة الربط حسب **الوظيفة**: إضافة (furthermore)، تناقض (however)، سبب (because)، نتيجة (therefore)، مثال (for example)، خاتمة (in conclusion).",
+    "**because / although** + جملة كاملة، و**because of / due to / despite** + اسم أو -ing.",
+    "**however / therefore / furthermore** في أول جملة جديدة + **فاصلة** (أو بعد فاصلة منقوطة بتربط جملتين كاملتين).",
+    "**ممنوع**: although + but، despite of، in the other hand، because of + جملة.",
+    "في الكتابة: رتّب حجتك بالـ connectors (Firstly / Furthermore / On the other hand … However / In conclusion)."
+   ]
+  }
+ ]
+}

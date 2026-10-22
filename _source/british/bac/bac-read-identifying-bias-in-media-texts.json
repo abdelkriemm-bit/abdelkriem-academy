@@ -1,0 +1,458 @@
+{
+ "slug": "bac-read-identifying-bias-in-media-texts",
+ "title": "Identifying Bias in Media Texts",
+ "kicker": "تانية بكالوريا · Reading · Unit 1",
+ "summary": "إزاي تكشف التحيز في البوستات والإعلانات والأخبار: علامات اللغة المتحيزة، والمعلومة الناقصة، وإزاي تحكم إذا كان النص balanced ولا biased.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "الدرس ده عن إيه؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "**Bias** means presenting only one side of an issue in an unfair way. A **media text** is any text made for the public: a social media post, an advert, a news article, a video caption. To identify bias, we look at the **language** and at **what is missing**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الدرس ده بيعلّمك تبقى **قارئ ذكي** للبوستات والمقالات والإعلانات: تعرف إمتى الكلام **متحيز (biased)**، يعني بيوريك جانب واحد بس وبيحاول يأثر عليك بطريقة مش عادلة."
+  },
+  {
+   "type": "p",
+   "text": "ده أول هدف للقراءة في **Unit 1: Living Well in a Complex World** (Section A: Social Reflection and Self-Image): «**identify bias in media texts**». الكتاب بيحلل بوست لواحد بيقول إنه صحي ومثالي، وبيتكلم عن الـ **highlight reel effect** والـ **social comparison**. ونفس المهارة بترجع في Unit 3 (بوستات التاريخ الـ viral) وUnit 6 (بوستات البيئة المبالغ فيها)."
+  },
+  {
+   "type": "h2",
+   "text": "الفكرة ببساطة: الكاميرا اللي بتختار الزاوية"
+  },
+  {
+   "type": "en",
+   "text": [
+    "A biased text is like a camera that shows only the best (or the worst) angle. It is not always a lie, but it is **not the whole picture**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "تخيل حد بيصوّر أوضته: بيصوّر الركن النضيف بس ويسيب الكركبة برا الصورة. الصورة **مش كدب**، بس **مش الحقيقة كلها**. ده بالظبط الـ **highlight reel effect** اللي الكتاب بيتكلم عنه: الناس بتنزّل أحلى لحظاتها بس، فتبان حياتهم مثالية."
+  },
+  {
+   "type": "p",
+   "text": "وبعدين احنا بنعمل **social comparison** (يعني بنقارن نفسنا بالناس دي)، فنحس إننا أقل. علشان كده لازم نعرف نكشف التحيز."
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "bias / biased",
+     "تحيز / متحيز: بيعرض جانب واحد بطريقة مش عادلة"
+    ],
+    [
+     "neutral",
+     "محايد: متوازن ومن غير رأي قوي"
+    ],
+    [
+     "media text",
+     "أي نص للجمهور: بوست، إعلان، خبر، كابشن"
+    ],
+    [
+     "highlight reel effect",
+     "إن الناس بتنزّل أحلى اللحظات بس، فتبان الحياة مثالية"
+    ],
+    [
+     "social comparison",
+     "إنك تقيس نفسك بمقارنتها بغيرك"
+    ],
+    [
+     "evaluative adjective",
+     "صفة فيها حكم أو رأي: amazing / toxic / perfect"
+    ],
+    [
+     "selective framing",
+     "إنك تختار تفاصيل معينة تعرضها وتخبي غيرها علشان توجّه رأي الناس"
+    ],
+    [
+     "reliable",
+     "موثوق فيه"
+    ],
+    [
+     "fact-check",
+     "مراجعة المعلومة للتأكد إنها صح"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "علامات التحيز في الـ Media (الجدول المهم)"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Look for these **features** in any post or article. Each one is a warning sign."
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "العلامة (Feature)",
+    "يعني إيه؟",
+    "كلمات أو شكل بيظهر بيه",
+    "مثال"
+   ],
+   "rows": [
+    [
+     "**Evaluative / emotional language**",
+     "كلمات بتحرّك المشاعر: تخوّف، تبهر، تعصّب",
+     "amazing, shocking, toxic, disaster, destroy",
+     "This SHOCKING habit is destroying your brain!"
+    ],
+    [
+     "**Absolute language**",
+     "تعميم كامل من غير أي استثناء أو دليل",
+     "all, every, never, always, no excuses, everyone",
+     "Every healthy person eats this breakfast."
+    ],
+    [
+     "**Intensifiers**",
+     "كلمات بتقوّي الكلام وتكبّره",
+     "very, extremely, totally, completely",
+     "It is completely impossible to be happy without it."
+    ],
+    [
+     "**Urgency signals**",
+     "بيضغط عليك تعمل حاجة دلوقتي حالًا",
+     "NOW, share before it's deleted, last chance",
+     "Share before they delete this!"
+    ],
+    [
+     "**Missing information**",
+     "مفيش مصدر، ولا اسم بحث، ولا أرقام حقيقية",
+     "Scientists say… / Experts confirm… (من غير أسماء)",
+     "Doctors CONFIRM it works."
+    ],
+    [
+     "**Selective evidence / framing**",
+     "بيعرض جزء من المعلومة بس اللي بيخدم رأيه",
+     "صورة واحدة، رقم واحد، حالة واحدة",
+     "Showing one perfect photo out of 50"
+    ],
+    [
+     "**Oversimplification**",
+     "مشكلة معقدة بيخليها سبب واحد أو شرير واحد",
+     "It's all because of…",
+     "Pollution is all the fault of one factory."
+    ],
+    [
+     "**Conspiracy framing**",
+     "بيقول إن في حد بيخبي الحقيقة عنك",
+     "They don't want you to know…",
+     "The truth they are hiding from you!"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "خلي بالك كمان من **الشكل**: الحروف الكبيرة كلها (CAPITALS)، وعلامات التعجب الكتير (!!!)، والإيموجي، كلها بتستخدم علشان **تأثر على مشاعرك** مش عقلك."
+  },
+  {
+   "type": "h2",
+   "text": "5 أسئلة تسألها لأي Media Text"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Who made it? Why? What is missing? Where is the evidence? What would the other side say?"
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Who?** مين اللي كتبه؟ (مؤثر بيبيع منتج؟ صفحة عايزة لايكات؟ جهة رسمية؟)",
+    "**Why?** هدفه إيه (purpose)؟ يعلّم؟ يبيع؟ يجيب تفاعل؟ يقنعك برأي؟",
+    "**What is missing?** إيه اللي **مش** باين؟ الجانب التاني؟ اللحظات العادية؟ العيوب؟",
+    "**Where is the evidence?** فيه مصدر حقيقي؟ اسم بحث؟ أرقام نقدر نتأكد منها؟",
+    "**What would the other side say?** لو حد مختلف معاه، هيقول إيه؟"
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "الكتاب بيسأل في Unit 1 سؤال مهم: «**How does the writer's purpose affect the language choices they make?**» يعني: الهدف بيغيّر الكلام. اللي بيبيع منتج هيستخدم كلمات زي amazing وno excuses، واللي بيكتب تقرير علمي هيستخدم may وresearch suggests."
+  },
+  {
+   "type": "h2",
+   "text": "متحيز ولا محايد؟ نفس المعلومة بطريقتين"
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "Biased: Social media is RUINING an entire generation!",
+     "ar": "كلمة ruining + an entire generation + حروف كبيرة = مشاعر وتعميم."
+    },
+    {
+     "en": "Neutral: Research suggests that heavy social media use may affect some teenagers' self-esteem.",
+     "ar": "Research suggests + may + some = حذر وعادل."
+    },
+    {
+     "en": "Biased: This museum is a boring waste of money.",
+     "ar": "boring وwaste = رأي قاسي مكتوب كأنه حقيقة."
+    },
+    {
+     "en": "Neutral: Some visitors feel the museum needs more interactive displays.",
+     "ar": "Some visitors + needs more = نقد عادل ومحدد."
+    },
+    {
+     "en": "Biased: Black Friday deals are always fake.",
+     "ar": "always = تعميم."
+    },
+    {
+     "en": "Neutral: Some Black Friday discounts may be smaller than they first appear.",
+     "ar": "some + may = عادل."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "بوست للتحليل"
+  },
+  {
+   "type": "p",
+   "text": "اقرا البوست ده (بوست أصلي، مش من الكتاب) وطبّق الجدول عليه."
+  },
+  {
+   "type": "en",
+   "text": [
+    "**@FitLifeKing** · 1.4M followers",
+    "\"Honestly, my life changed FOREVER when I started drinking my green detox juice every morning!!! I lost 8 kilos in two weeks and I have never felt so amazing. Doctors don't want you to know this, but sugar is literally poison and every single person who eats bread will regret it. If you're tired all the time, it's YOUR fault. No excuses! Only 50 bottles left at 30% off — order NOW before they're gone!\"",
+    "212,000 likes · 31,000 shares · 9,800 comments"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي بييجي في الأسئلة؟ (أمثلة محلولة)"
+  },
+  {
+   "type": "p",
+   "text": "**سؤال 1:** Find ONE example of each feature in the post: absolute language, urgency signals, conspiracy framing."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Feature",
+    "Example from the post",
+    "الشرح"
+   ],
+   "rows": [
+    [
+     "Absolute language",
+     "\"every single person who eats bread will regret it\" / \"No excuses!\"",
+     "تعميم على كل الناس من غير دليل"
+    ],
+    [
+     "Urgency signals",
+     "\"Only 50 bottles left… order NOW before they're gone!\"",
+     "بيضغط عليك تشتري دلوقتي"
+    ],
+    [
+     "Conspiracy framing",
+     "\"Doctors don't want you to know this\"",
+     "بيقول إن الدكاترة بيخبوا الحقيقة"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**سؤال 2:** What is the writer's purpose, and how does it affect the language?"
+  },
+  {
+   "type": "en",
+   "text": [
+    "**Answer:** The writer's main purpose is to **sell** the detox juice. That is why he uses emotional words such as \"amazing\" and \"FOREVER\", absolute claims and urgency signals to push followers to buy quickly without thinking."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**سؤال 3:** Is the post balanced or biased? Support your judgement with evidence from the text."
+  },
+  {
+   "type": "en",
+   "text": [
+    "**Answer:** The post is clearly biased. It shows only one side: the writer's own success. For example, he claims he lost \"8 kilos in two weeks\" but gives no evidence, and he blames tired people (\"it's YOUR fault\") without mentioning other causes such as lack of sleep or illness."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "أشهر الأخطاء",
+   "items": [
+    "تفتكر إن **البوست اللي عليه لايكات كتير** = موثوق ← عدد اللايكات مش دليل.",
+    "تفتكر إن الـ bias = **كدب** ← الـ bias ممكن يبقى معلومة صح بس **ناقصة** أو **مبالغ فيها**.",
+    "تكتب «The post is biased» وبس ← لازم **تقتبس** كلمة أو جملة من البوست وتسمي الـ **feature**.",
+    "تخلط بين **hedging** (may / might = علامة **عدل**) و**absolute** (always / never = علامة **تحيز**).",
+    "تفتكر إن أي رأي = تحيز ← الرأي العادل اللي فيه سبب ودليل ويعترف بالجانب التاني **مش** متحيز."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "قالب إجابة سهل",
+   "items": [
+    "**Feature** + **quotation** + **effect**:",
+    "The writer uses **absolute language**, such as \"**every single person**\", **to make** the claim sound certain, **although** there is no evidence.",
+    "The post is **biased because** it shows only… and it does not mention… ."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "تدريب"
+  },
+  {
+   "type": "p",
+   "text": "**A. Read the post by @FitLifeKing again. Answer the questions.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "1. Find TWO evaluative or emotional words in the post.",
+     "a": "Any two: **amazing**, **FOREVER**, **poison**, **regret**. — كلمات بتحرّك المشاعر."
+    },
+    {
+     "q": "2. Why does the writer use capital letters in \"FOREVER\", \"YOUR\" and \"NOW\"?",
+     "a": "To make the words look stronger and more emotional, and to grab attention. — شكل الكتابة جزء من الـ bias."
+    },
+    {
+     "q": "3. \"Sugar is literally poison.\" Which feature is this? Explain.",
+     "a": "Either answer is accepted: **oversimplification** or **emotional language** — it turns a complex health topic into one \"evil\" thing, and \"literally poison\" is an exaggeration with no evidence."
+    },
+    {
+     "q": "4. What important information is missing from the post?",
+     "a": "Any reasonable answer: no doctor or study is named, no information about how the 8 kilos were lost, no side effects, and nothing about other healthy habits like sleep or exercise."
+    },
+    {
+     "q": "5. How might this post affect a teenager who reads it? Use the term \"social comparison\".",
+     "a": "مثال: A teenager may compare himself to the writer and feel lazy or unsuccessful (**social comparison**), especially because the post says tiredness is \"YOUR fault\". He might also waste money on the juice."
+    },
+    {
+     "q": "6. Rewrite \"If you're tired all the time, it's YOUR fault. No excuses!\" in neutral language.",
+     "a": "مثال: Feeling tired can have many causes, such as poor sleep, stress or diet, so it may help to speak to a doctor."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**B. Biased or Neutral? Choose and say why.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "7. Studies suggest that some teenagers who use phones late at night sleep less.",
+     "a": "**Neutral** — Studies suggest + some = حذر ومعاه مصدر."
+    },
+    {
+     "q": "8. Phones are totally destroying our children's brains!",
+     "a": "**Biased** — totally + destroying + علامة تعجب."
+    },
+    {
+     "q": "9. Many visitors enjoy the new galleries, although some find the tickets expensive.",
+     "a": "**Neutral** — بيعرض الجانبين."
+    },
+    {
+     "q": "10. Every environmental group is lying about climate change.",
+     "a": "**Biased** — Every + lying = تعميم واتهام من غير دليل."
+    },
+    {
+     "q": "11. This is the ONLY diet that works. Share before it's banned!",
+     "a": "**Biased** — absolute (ONLY) + urgency + conspiracy (before it's banned)."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**C. Read this viral history post, then answer.**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "**@SecretsOfThePharaohs** · 2.6M followers",
+    "\"UNBELIEVABLE!!! A new photo PROVES that the Sphinx was carved by a lost civilisation 20,000 years ago! Historians have been hiding this for centuries. Look at the picture: you can clearly see the marks of giant machines. Share this with everyone before it disappears!\""
+   ]
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "12. Find an example of conspiracy framing.",
+     "a": "\"Historians have been hiding this for centuries.\""
+    },
+    {
+     "q": "13. Find an example of urgency signals.",
+     "a": "\"Share this with everyone before it disappears!\""
+    },
+    {
+     "q": "14. What is wrong with the evidence in the post?",
+     "a": "It is **selective evidence**: one photo is used to \"prove\" a huge claim, there is no named expert or source, and a photo can easily be edited or taken out of context."
+    },
+    {
+     "q": "15. Give the post a fact-check rating (Reliable / Misleading / False) and justify it.",
+     "a": "مثال: **Misleading / False** — the claim is not supported by any historical source, it relies on one photo, and it uses emotional and conspiracy language instead of evidence."
+    },
+    {
+     "q": "16. Write ONE question a careful reader should ask before sharing this post.",
+     "a": "Any: Who took this photo, and where was it first published? / Which historians or studies support this claim? / What do museum experts say?"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**D. Choose the correct answer.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "17. \"Choosing which details to include or exclude to shape the audience's understanding\" is called…  a. hedging  b. selective framing  c. a rhetorical question  d. neutral language",
+     "a": "**b** — ده تعريف الـ selective framing."
+    },
+    {
+     "q": "18. Which sentence is the most neutral?  a. Fast fashion is a disaster.  b. Everyone hates fast fashion.  c. Fast fashion may increase textile waste.  d. Fast fashion must be banned NOW!",
+     "a": "**c** — may + معلومة محددة، من غير مشاعر."
+    },
+    {
+     "q": "19. \"Experts confirm it\" (with no names) is an example of…  a. missing information  b. strong evidence  c. a fact  d. neutral language",
+     "a": "**a** — مفيش اسم ولا بحث، فالمعلومة ناقصة."
+    },
+    {
+     "q": "20. The \"highlight reel effect\" means…  a. posting only the best moments online  b. watching football highlights  c. comparing prices  d. writing a neutral report",
+     "a": "**a** — زي ما الكتاب عرّفه: بننزّل أحلى اللحظات بس فتطلع صورة مش حقيقية."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**E. JRE question.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "21. Does social media show life as it really is? Give your claim and support it with a reason and evidence from this lesson's posts.",
+     "a": "مثال: **(Claim)** In my view, social media often gives an unrealistic picture of life. **(Reason)** This is because many users post only their best moments and use biased language to look perfect. **(Evidence)** For instance, @FitLifeKing describes his life as \"amazing\" and says there are \"No excuses\", but he hides any difficulties and gives no evidence. However, some accounts, like museum or science pages that name their sources, can be more balanced."
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "ملخص الدرس في سطرين",
+   "items": [
+    "**Bias** = جانب واحد بطريقة مش عادلة. ممكن تبقى معلومة صح بس ناقصة أو مبالغ فيها.",
+    "علامات التحيز: **emotional words, absolute language, intensifiers, urgency, missing information, selective framing, oversimplification, conspiracy**.",
+    "اسأل: **مين كتب؟ ليه؟ إيه الناقص؟ فين الدليل؟ الجانب التاني بيقول إيه؟**",
+    "في الإجابة: سمّي الـ **feature** + **اقتبس** من النص + قول **تأثيره** على القارئ."
+   ]
+  }
+ ]
+}

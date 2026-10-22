@@ -1,0 +1,556 @@
+{
+ "slug": "bac-spea-debates",
+ "title": "Debates",
+ "kicker": "تانية بكالوريا · Speaking · Units 4, 5, 6, 10",
+ "summary": "إزاي تشارك في مناظرة: تقدّم حججك بأدلة، ترد على الفريق التاني باحترام (rebuttal)، وتوصل لحل وسط في المناظرة الثنائية.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "الدرس ده عن إيه؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "A **debate** is a structured argument about a statement called the **motion**. One side argues **for** it and the other side argues **against** it. Each speaker gives claims with evidence and **responds respectfully** to the other side's points."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الدرس ده عن **المناظرة (debate)**: فيه جملة اسمها **motion** (الموضوع اللي بنتناظر عليه)، وفريق **مع** (For) وفريق **ضد** (Against). كل فريق بيقدّم حججه بأدلة، وبعدين **يرد** على حجج الفريق التاني باحترام. الفرق بينها وبين المناقشة إن هنا كل واحد **له دور محدد ووقت محدد**، والهدف تقنع الحَكَم أو الفصل."
+  },
+  {
+   "type": "p",
+   "text": "في الكتاب: **Unit 4** فيه مناظرة للفصل كله: *Social media platforms do more harm than good for teenagers* (كل متحدث ٢ – ٣ دقايق وبعدين الفصل يصوّت)، وكمان *Should shops be required to donate unsold food?*. **Unit 5**: *Government projects are more effective than individual actions in Egypt* (لازم claims بأدلة، أمثلة من مشروعات حقيقية في مصر، والرد باحترام وبـ counter-evidence). **Unit 6** و**Unit 10** فيهم **مناظرة ثنائية** (Farms vs. Wildlife Corridors / Free Returns) بهيكل من ٣ خطوات."
+  },
+  {
+   "type": "h2",
+   "text": "كلمات لازم تعرفها"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "motion",
+     "الجملة / الموضوع اللي بنتناظر عليه — *The motion is: \"Fast fashion should be taxed.\"*"
+    ],
+    [
+     "for / proposition",
+     "الفريق المؤيد للـ motion"
+    ],
+    [
+     "against / opposition",
+     "الفريق المعارض للـ motion"
+    ],
+    [
+     "opening statement",
+     "الكلمة الافتتاحية: موقفك وأهم حججك"
+    ],
+    [
+     "argument / claim",
+     "حجة / ادعاء لازم يتثبت"
+    ],
+    [
+     "evidence",
+     "دليل (أرقام، أمثلة، معلومة من النص)"
+    ],
+    [
+     "rebuttal / to rebut",
+     "الرد على حجة الفريق التاني وإثبات إنها ضعيفة"
+    ],
+    [
+     "counter-evidence",
+     "دليل بيعارض دليل الطرف التاني"
+    ],
+    [
+     "opponent",
+     "المنافس / اللي في الفريق التاني"
+    ],
+    [
+     "closing statement / summary",
+     "الكلمة الختامية: تلخيص وليه فريقك كسب"
+    ],
+    [
+     "compromise",
+     "حل وسط يرضي الطرفين"
+    ],
+    [
+     "to vote",
+     "يصوّت"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "شكلين للمناظرة في الكتاب"
+  },
+  {
+   "type": "p",
+   "text": "**١) مناظرة الفصل (Team debate)** — زي Unit 4 وUnit 5:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "المرحلة",
+    "بيحصل إيه؟",
+    "نصيحة"
+   ],
+   "rows": [
+    [
+     "تقسيم الفصل",
+     "فريق For وفريق Against",
+     "مش لازم تكون مقتنع بموقفك: المهم تدافع عنه كويس"
+    ],
+    [
+     "التحضير",
+     "كل فريق يكتب حججه وأدلته، ويتوقع حجج الفريق التاني",
+     "حضّر رد (rebuttal) على كل حجة متوقعة"
+    ],
+    [
+     "الخطب",
+     "كل متحدث ٢ – ٣ دقايق (حسب الكتاب في Unit 4)",
+     "قسّموا الحجج: كل متحدث حجة مختلفة"
+    ],
+    [
+     "الرد",
+     "المتحدثين يردوا على نقط الفريق التاني",
+     "اقتبس كلامهم الأول: *My opponent said…*"
+    ],
+    [
+     "التصويت",
+     "الفصل يصوّت مين أقنع أكتر",
+     "الإقناع بالدليل والأدب، مش بالصوت العالي"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**٢) مناظرة ثنائية قصيرة (Pair debate)** — زي Unit 6 وUnit 10 (الهيكل مكتوب في الكتاب):"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "الخطوة",
+    "English",
+    "بتعمل إيه؟"
+   ],
+   "rows": [
+    [
+     "١",
+     "Opening statement (30 seconds)",
+     "كل واحد يقول موقفه وأقوى حجة"
+    ],
+    [
+     "٢",
+     "Respond directly to one point the other made",
+     "ترد على **نقطة واحدة محددة** قالها زميلك"
+    ],
+    [
+     "٣",
+     "Together, agree on ONE rule / policy",
+     "توصلوا لـ **حل وسط** واحد يرضي الطرفين"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "هيكل الخطبة في المناظرة (٢ – ٣ دقايق)"
+  },
+  {
+   "type": "en",
+   "text": [
+    "A debate speech has four parts: **state your side**, give **arguments with evidence**, **rebut** the other side, then **conclude** and ask the audience to support you."
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "الجزء",
+    "جمل جاهزة"
+   ],
+   "rows": [
+    [
+     "١. قول موقفك وفريقك",
+     "Good morning. We strongly believe that the motion is right / wrong. Today, I will prove that…"
+    ],
+    [
+     "٢. حججك بالـ JRE (اتنين)",
+     "Our first argument is that… This is because… For example,… This proves that…"
+    ],
+    [
+     "٣. الرد على الفريق التاني (rebuttal)",
+     "Our opponents argue that… However, this ignores the fact that…"
+    ],
+    [
+     "٤. الخاتمة",
+     "For all these reasons, we urge you to vote for / against the motion. Thank you."
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي ترد على حجة (Rebuttal) في ٣ خطوات"
+  },
+  {
+   "type": "en",
+   "text": [
+    "To rebut: **(1) repeat** the opponent's point fairly, **(2) show the problem** in it, **(3) give counter-evidence**."
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "**كرر حجتهم بأمانة:** *My opponent said that social media helps people stay connected.*",
+    "**وضّح المشكلة فيها:** *However, being connected online is not the same as having real relationships.*",
+    "**هات دليل مضاد:** *In fact, apps use infinite scroll to keep users online, and many teenagers feel lonelier after hours of scrolling.*"
+   ],
+   "ordered": true
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "حيلة للحفظ: «قالوا… بس… والدليل…»",
+   "text": "أي rebuttal = **They said…** ← **But…** ← **In fact / The evidence shows…**. ولو الحجة فيها جزء صح، اعترف بيه الأول (*It is true that…, but…*) ده بيخليك أقوى مش أضعف."
+  },
+  {
+   "type": "phrases",
+   "groups": [
+    {
+     "title": "الافتتاح (Opening)",
+     "items": [
+      "Good morning, everyone. The motion today is …",
+      "We strongly believe that …",
+      "Our team is for / against the motion because …",
+      "Today, I will prove that …"
+     ]
+    },
+    {
+     "title": "تقديم الحجج",
+     "items": [
+      "Our first argument is that …",
+      "Secondly, …",
+      "The evidence clearly shows that …",
+      "Let me give you an example from Egypt: …"
+     ]
+    },
+    {
+     "title": "الرد (Rebuttal)",
+     "items": [
+      "My opponent said that … However, …",
+      "Our opponents argue that … but this ignores …",
+      "That may be true in some cases, but …",
+      "This argument is weak because …",
+      "In fact, the evidence shows the opposite."
+     ]
+    },
+    {
+     "title": "الرد باحترام",
+     "items": [
+      "I respect my opponent's view, but …",
+      "I understand your concern, but …",
+      "That's a fair point. Nevertheless, …"
+     ]
+    },
+    {
+     "title": "الحل الوسط (في المناظرة الثنائية)",
+     "items": [
+      "A fair rule would be that both sides …",
+      "A fair compromise might be …",
+      "Perhaps we could agree that …"
+     ]
+    },
+    {
+     "title": "الخاتمة",
+     "items": [
+      "For all these reasons, …",
+      "We urge you to vote for / against the motion.",
+      "In conclusion, the evidence is clear: …",
+      "Thank you."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "أمثلة"
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "The motion today is: \"Social media platforms do more harm than good for teenagers.\"",
+     "ar": "بيقدّم الموضوع في الأول."
+    },
+    {
+     "en": "We strongly believe that the motion is right.",
+     "ar": "إحنا فريق For (موافقين)."
+    },
+    {
+     "en": "Our first argument is that notifications damage concentration during studying.",
+     "ar": "أول حجة."
+    },
+    {
+     "en": "My opponent said that individuals create change from the ground up.",
+     "ar": "بكرر حجة المنافس بأمانة (Unit 5)."
+    },
+    {
+     "en": "However, large-scale projects like the Benban Solar Park make a much bigger impact.",
+     "ar": "بوضح المشكلة وبجيب دليل مضاد من مصر."
+    },
+    {
+     "en": "That may be true in some cases, but most returned items are not resold.",
+     "ar": "اعتراف جزئي + رد (Unit 10)."
+    },
+    {
+     "en": "A fair rule would be that farmers use safe fences and leave a corridor for wildlife.",
+     "ar": "حل وسط في المناظرة الثنائية (Unit 6)."
+    },
+    {
+     "en": "For all these reasons, we urge you to vote against the motion.",
+     "ar": "خاتمة وطلب التصويت."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "نموذج ١: خطبة فريق For (حوالي ٢ دقيقة)"
+  },
+  {
+   "type": "model",
+   "title": "Model debate speech (Team FOR)",
+   "task": "Class debate. Motion: \"Social media platforms do more harm than good for teenagers.\" You are the first speaker for the FOR team (2–3 minutes).",
+   "text": [
+    "Good morning, everyone. The motion today is: \"Social media platforms do more harm than good for teenagers.\" Our team **strongly believes** that this motion is right, and today I will prove it with two arguments.",
+    "**Our first argument is that** social media is designed to trap users online. This is because platforms use infinite scroll and autoplay, so there is no natural moment to stop. For example, many students open an app \"for five minutes\" and close it an hour later. This proves that the problem is not a lack of self-control. It is the design itself.",
+    "**Secondly**, social media damages concentration. Every notification pulls our attention away from studying, and it takes time to focus again. By the age of seventeen, many teenagers have spent more time on social media than in school. That time could have been used for sport, family or sleep.",
+    "**Our opponents will argue that** social media helps people stay connected and gives access to educational content. **That may be true in some cases, but** being connected online is not the same as real friendship. In fact, the platforms profit from our attention, and most teenagers use them for entertainment, not for learning.",
+    "**For all these reasons**, the evidence is clear: the harm is greater than the benefit. We urge you to vote **for** the motion. Thank you."
+   ],
+   "word_count": 223,
+   "notes": [
+    "**الافتتاح:** قدّم الـ motion وقال موقف الفريق ووعد بحجتين.",
+    "**حجة ١ بالـ JRE:** claim ← *This is because* ← مثال من الحياة ← *This proves that*.",
+    "**حجة ٢:** استخدم نقط الكتاب نفسها (notifications / time on social media) بكلامه هو.",
+    "**Rebuttal مسبق:** توقّع حجة الفريق التاني (*Our opponents will argue that…*) ورد عليها قبل ما يقولوها، بأدب (*That may be true in some cases, but…*).",
+    "**الخاتمة:** *For all these reasons* + طلب التصويت + شكر. مفيش هجوم على أشخاص، الرد على الأفكار بس."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "نموذج ٢: مناظرة ثنائية (بنفس هيكل الكتاب)"
+  },
+  {
+   "type": "model",
+   "title": "Model pair debate: opening – response – agreement",
+   "task": "In pairs: Should free returns really be free? Partner A argues online stores should keep free, unlimited returns. Partner B argues free returns should be limited. Follow the 3-step structure.",
+   "text": [
+    "**Step 1 – Opening statements (30 seconds each)**",
+    "**Partner A:** From a customer's point of view, free returns are fair. When we shop online, we cannot touch the product or try it on. If it doesn't fit or it looks different from the photo, we shouldn't have to pay again to send it back. Free returns make online shopping safe for everyone.",
+    "**Partner B:** However, from an environmental point of view, free returns are a serious problem. Many returned items are not resold. They are simply destroyed because checking and repacking them costs too much. In addition, every return means another delivery van on the road. So free returns should be limited.",
+    "**Step 2 – Responding to one point**",
+    "**Partner A:** You said that returned items are destroyed. I understand your concern, but that is the store's decision, not the customer's fault. Stores could donate or resell these items instead.",
+    "**Partner B:** That's a fair point, but you said free returns make shopping safe. In fact, they also encourage people to order three sizes and return two, because it costs them nothing. That creates waste on purpose.",
+    "**Step 3 – Agreeing on ONE fair policy**",
+    "**Partner A:** So, a fair compromise might be free returns for faulty or wrong items only.",
+    "**Partner B:** I agree, and customers who return items they simply changed their minds about could pay a small fee. That way, customers are protected and waste is reduced."
+   ],
+   "word_count": 237,
+   "notes": [
+    "**الافتتاح:** كل واحد استخدم جملة الكتاب (*From a customer's / an environmental point of view*) وقال حجته في ٣ – ٤ جمل.",
+    "**الرد:** كل واحد بدأ بـ *You said that…* ← رد على **نقطة واحدة محددة** زي ما الكتاب بيطلب.",
+    "**الأدب:** *I understand your concern, but… / That's a fair point, but…* = رد باحترام.",
+    "**الاتفاق:** *A fair compromise might be…* ← قاعدة واحدة واضحة ترضي الطرفين، وده آخر خطوة في هيكل الكتاب."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "أشهر الأخطاء",
+   "items": [
+    "✗ *You are wrong and your idea is silly!* ← ✓ *I respect your view, but the evidence shows…* (ناقش الفكرة مش الشخص)",
+    "✗ تقرأ حججك ومترُدّش على الفريق التاني ← ✓ لازم **rebuttal**: *My opponent said… However,…*",
+    "✗ رأي من غير دليل: *Social media is bad.* ← ✓ *Social media can damage concentration. For example,…*",
+    "✗ تغير موقفك في نص المناظرة ← ✓ افضل على موقف فريقك حتى لو اعترفت بنقطة صغيرة.",
+    "✗ تعدّي الوقت ← ✓ تمرن بالساعة: ٣٠ ثانية للافتتاح في المناظرة الثنائية.",
+    "✗ في المناظرة الثنائية تنسوا خطوة ٣ ← ✓ لازم توصلوا لـ **قاعدة واحدة** مشتركة."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي بييجي في الأسئلة؟"
+  },
+  {
+   "type": "p",
+   "text": "**١) Motion بجدول For / Against جاهز** (Unit 4، Unit 5): الكتاب بيدّيك نقط لكل فريق. **اختار نقطتين**، وزوّد عليهم دليل ومثال من عندك، وحضّر رد على نقطة واحدة على الأقل من الفريق التاني."
+  },
+  {
+   "type": "en",
+   "text": [
+    "You must: present arguments with clear claims and supporting evidence • give examples from real projects in Egypt • respond to opposing ideas with respect and counter-evidence."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**الحل باختصار (فريق Against في Unit 5):** *Our first argument is that individual actions add up. For example, the Nile clean-up in Luxor started with five friends and grew to over two hundred volunteers. My opponent said that the government has more resources. That's true, but resources are not enough if people don't change their daily habits.*"
+  },
+  {
+   "type": "p",
+   "text": "**٢) Role-play debate** (Unit 4): *Student A: a supermarket manager. Student B: an environmental activist. Should shops be required to donate unsold food?* ← كل واحد يتكلم من وجهة نظر **دوره**."
+  },
+  {
+   "type": "p",
+   "text": "**٣) مناظرة ثنائية من ٣ خطوات** (Unit 6، Unit 10) ← زي نموذج ٢ بالظبط."
+  },
+  {
+   "type": "h2",
+   "text": "تدريب"
+  },
+  {
+   "type": "p",
+   "text": "**A) Choose the correct answer from a, b, c or d.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "1. The statement that is debated is called the:\na. rebuttal\nb. motion\nc. vote\nd. summary",
+     "a": "**b** — motion = الموضوع."
+    },
+    {
+     "q": "2. Answering the other team's argument and showing it is weak is called:\na. rebuttal\nb. opening\nc. compromise\nd. evidence",
+     "a": "**a** — rebuttal = الرد."
+    },
+    {
+     "q": "3. Which is the most respectful rebuttal?\na. That's nonsense.\nb. You never know anything.\nc. I respect my opponent's view, but the evidence shows the opposite.\nd. Stop talking.",
+     "a": "**c** — رد على الفكرة باحترام."
+    },
+    {
+     "q": "4. In the book's pair debate, step 3 is to:\na. vote\nb. agree on ONE rule that could apply fairly to both sides\nc. write an essay\nd. repeat the opening",
+     "a": "**b** — ده هيكل الكتاب في Unit 6 و10."
+    },
+    {
+     "q": "5. \"______, we urge you to vote against the motion.\"\na. Firstly\nb. For example\nc. For all these reasons\nd. My opponent said",
+     "a": "**c** — جملة خاتمة."
+    },
+    {
+     "q": "6. In the Unit 5 debate, you must give examples from:\na. other planets\nb. real projects in Egypt\nc. films\nd. your imagination",
+     "a": "**b** — الكتاب بيقول *Give examples from real projects in Egypt*."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**B) Write a short rebuttal (They said… But… In fact…).**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "7. Opponent: \"Black Friday helps families save money.\"",
+     "a": "*My opponent said that Black Friday helps families save money. However, many people buy things they don't need. In fact, impulse buying often means spending more, not less.*"
+    },
+    {
+     "q": "8. Opponent: \"The government has more resources than individuals.\"",
+     "a": "*That's true, but resources alone don't change daily habits. For example, a solar project cannot stop people wasting electricity at home.*"
+    },
+    {
+     "q": "9. Opponent: \"Shops cannot donate food because it is too complicated.\"",
+     "a": "*I understand your concern, but many charities already collect food from shops. A clear system would make donation easy.*"
+    },
+    {
+     "q": "10. Opponent: \"Social media gives teenagers access to educational content.\"",
+     "a": "*That may be true in some cases, but most teenagers use social media for entertainment. The educational content is often lost in endless scrolling.*"
+    },
+    {
+     "q": "11. Opponent: \"Wildlife corridors take land that farmers need.\"",
+     "a": "*I see your point, but without corridors, animals cross farms anyway and damage crops. Corridors actually protect farms too.*"
+    },
+    {
+     "q": "12. Opponent: \"Fast fashion lets poor families buy clothes.\"",
+     "a": "*That's a fair point. Nevertheless, cheap clothes wear out quickly, so families buy again and again. Fewer, better clothes or second-hand clothes can cost less in the long term.*"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**C) For or Against? Decide which side each argument supports.** Motion: *\"Schools should ban mobile phones.\"*"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "13. Phones distract students during lessons.",
+     "a": "**For** — بيدعم المنع."
+    },
+    {
+     "q": "14. Parents need to contact their children in emergencies.",
+     "a": "**Against** — سبب علشان نسيب الموبايل."
+    },
+    {
+     "q": "15. Students can use phones to search for information quickly.",
+     "a": "**Against**."
+    },
+    {
+     "q": "16. Without phones, students talk to each other more during breaks.",
+     "a": "**For**."
+    },
+    {
+     "q": "17. Cyberbullying often happens through phones at school.",
+     "a": "**For**."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**D) Debate practice: اختار فريق وحضّر حجتين ورد واحد.** (أفكار نموذجية)"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "18. (Unit 4) Motion: \"Social media platforms do more harm than good for teenagers.\" (AGAINST)",
+     "a": "**Arg 1:** it keeps people connected globally. **Arg 2:** it supports creativity and self-expression. **Rebuttal:** they say apps trap users, but being aware of how platforms work puts users in control."
+    },
+    {
+     "q": "19. (Unit 4) Should shops be required to donate unsold food? (Supermarket manager / Activist)",
+     "a": "**Manager:** donation costs time and transport, and food safety is a risk. **Activist:** throwing away safe food while people are hungry is wrong. **Compromise:** a law with support from charities that collect the food."
+    },
+    {
+     "q": "20. (Unit 5) Motion: \"Government projects are more effective than individual actions in Egypt.\" (FOR)",
+     "a": "**Arg 1:** more resources (Benban Solar Park). **Arg 2:** policy creates systematic change. **Rebuttal:** individual actions add up, but they are slow without laws and big projects."
+    },
+    {
+     "q": "21. (Unit 5) Motion: \"Renewable energy can replace fossil fuels in Egypt.\" (AGAINST)",
+     "a": "**Arg 1:** intermittency: the sun and wind are not available all the time. **Arg 2:** building new systems takes years. **Rebuttal:** they say solar is cheap now, but storage is still expensive. (You can still accept a gradual change.)"
+    },
+    {
+     "q": "22. (Unit 6) Farms vs. Wildlife Corridors (pair debate).",
+     "a": "**A:** farmers must protect their income and food. **B:** wildlife needs safe routes or species disappear. **Rule:** farmers can use safe fences, and the government pays for corridors."
+    },
+    {
+     "q": "23. (Unit 8) Motion: \"Vocational education is as valuable as university education.\" (FOR)",
+     "a": "**Arg 1:** the job market needs practical skills (tourism, cybersecurity, marine engineering). **Arg 2:** students start working and earning sooner. **Rebuttal:** some say university gives higher status, but skills, not titles, build the economy."
+    },
+    {
+     "q": "24. (Unit 10) Motion: \"Fast fashion should be taxed.\" (FOR)",
+     "a": "**Arg 1:** it causes pollution and uses huge amounts of water. **Arg 2:** a tax would push brands to produce better quality. **Rebuttal:** they say prices will rise for poor families, but the tax could fund repair cafés and swap events."
+    },
+    {
+     "q": "25. (Unit 10) Should free returns really be free? (pair debate)",
+     "a": "**A:** customers cannot try products online. **B:** many returns are destroyed and add transport emissions. **Policy:** free returns for faulty items only, a small fee for change-of-mind returns."
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "ملخص الدرس في سطرين",
+   "items": [
+    "المناظرة = **motion** + فريق **For** وفريق **Against** + حجج بأدلة + **rebuttal**.",
+    "الخطبة: موقفك ← حجتين بالـ JRE ← رد على الفريق التاني ← *For all these reasons, vote for / against*.",
+    "الـ rebuttal: **They said… ← But… ← In fact…** وبأدب: *I respect my opponent's view, but…*",
+    "المناظرة الثنائية في الكتاب: **افتتاح ٣٠ ثانية ← رد على نقطة واحدة ← اتفاق على قاعدة واحدة**.",
+    "في Unit 5: لازم **أمثلة من مشروعات حقيقية في مصر**."
+   ]
+  }
+ ]
+}

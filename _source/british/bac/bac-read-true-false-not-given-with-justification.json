@@ -1,0 +1,429 @@
+{
+ "slug": "bac-read-true-false-not-given-with-justification",
+ "title": "True / False / Not Given with justification",
+ "kicker": "تانية بكالوريا · Reading · كل الوحدات",
+ "summary": "إزاي تفرّق بين True وFalse وNot Given، وإزاي تكتب التبرير (justification) من القطعة زي ما الكتاب طالب.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "الدرس ده عن إيه؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "In a **True / False / Not Given** task, you compare each statement with the text. You must choose T, F or NG **and justify your answer** with evidence from the text."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الدرس ده عن سؤال من أشهر أسئلة القراءة والاستماع في الكتاب: يديك جمل، وانت تقول كل جملة **صح (True)** ولا **غلط (False)** ولا **مش مذكورة (Not Given)**، و**تبرر (justify)** إجابتك من القطعة."
+  },
+  {
+   "type": "p",
+   "text": "السؤال ده موجود في **كل وحدة** تقريبًا: بعد قطعة الـ well-being في Unit 1، وبعد الـ research report في Unit 2، وبعد مقال الـ Black Friday في Unit 4، وفي وحدات الكتاب التاني كمان. والكتاب دايمًا بيكتب: «**State whether each statement is True (T), False (F), or Not Given (NG). Justify your answer.**»"
+  },
+  {
+   "type": "h2",
+   "text": "الفرق بين الـ 3 إجابات"
+  },
+  {
+   "type": "en",
+   "text": [
+    "**True** = the text says the same thing (often in different words). **False** = the text says the opposite. **Not Given** = the text does not say, so we cannot know."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "فكّر فيها كإنك **قاضي** والقطعة هي **الشاهد** الوحيد. ممنوع تحكم بمعلوماتك أو رأيك. بتسأل الشاهد بس:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "الإجابة",
+    "يعني إيه؟",
+    "سؤال تسأله لنفسك",
+    "التبرير بيبقى إزاي؟"
+   ],
+   "rows": [
+    [
+     "**True (T)**",
+     "القطعة بتقول **نفس المعنى** (حتى لو بكلمات تانية)",
+     "هل القطعة **بتأكد** الجملة دي؟",
+     "تنقل الجملة اللي بتأكدها"
+    ],
+    [
+     "**False (F)**",
+     "القطعة بتقول **عكس** الجملة، أو حاجة **مينفعش** تتجمع معاها",
+     "هل القطعة **بتنفي** الجملة دي؟",
+     "تنقل الجملة اللي بتنفيها"
+    ],
+    [
+     "**Not Given (NG)**",
+     "القطعة **ماقالتش** المعلومة دي خالص، ومنقدرش نعرف صح ولا غلط",
+     "هل أقدر **أثبت أو أنفي** من القطعة؟ لأ؟",
+     "تكتب في سطر: القطعة كانت **محتاجة تقول إيه** علشان تحكم، و**دورت فين**"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الكتاب نفسه بيقول في الملاحظة تحت الجدول: لو اخترت **NG** اكتب في سطر واحد **«what the text would need to say»** علشان تحكم إنها T أو F، و**where in the text you looked**. يعني لازم توضّح إنك دورت فعلًا."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "حيلة للحفظ: إشارة المرور",
+   "items": [
+    "**True** = أخضر: القطعة موافقة.",
+    "**False** = أحمر: القطعة بتقول العكس.",
+    "**Not Given** = إشارة مطفية: القطعة ساكتة، مفيش معلومة."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "أهم فرق: False ولا Not Given؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Ask yourself: **Does the text give information that goes against the statement?** If yes → False. If the text is simply silent → Not Given."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "ده أصعب حتة في السؤال. الطالب ساعات يقول False لما الجملة **مش مكتوبة**. ده غلط. False معناها القطعة **قالت حاجة عكسها**. لكن لو القطعة **ماتكلمتش أصلًا** عن النقطة دي، يبقى Not Given."
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "Text: \"The museum opens at 9 a.m. every day.\"  Statement: The museum opens at 10 a.m.",
+     "ar": "**False**: القطعة قالت 9، الجملة قالت 10. القطعة **بتنفي**."
+    },
+    {
+     "en": "Text: \"The museum opens at 9 a.m. every day.\"  Statement: Tickets are cheaper for students.",
+     "ar": "**Not Given**: القطعة ماتكلمتش عن التذاكر خالص."
+    },
+    {
+     "en": "Text: \"The museum opens at 9 a.m. every day.\"  Statement: Visitors can enter the museum in the morning.",
+     "ar": "**True**: الساعة 9 الصبح = in the morning. نفس المعنى بكلام مختلف."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "الفخاخ (Traps) اللي لازم تاخد بالك منها"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "الفخ",
+    "يعني إيه؟",
+    "مثال"
+   ],
+   "rows": [
+    [
+     "**كلمات مطلقة** (absolute words): all, always, never, only, every, completely",
+     "الجملة بتعمم، والقطعة غالبًا قالت some / many / often ← الإجابة غالبًا **False** (أو NG لو القطعة ساكتة)",
+     "Text: **many** teenagers… ← Statement: **all** teenagers… = **F**"
+    ],
+    [
+     "**الموضوع مذكور بس التفصيلة لأ**",
+     "القطعة بتتكلم عن الموضوع، بس مش عن الحتة اللي الجملة بتسأل عنها ← **NG**",
+     "Text talks about sleep. Statement says sleep **was studied in 2015** ← مفيش سنة = **NG**"
+    ],
+    [
+     "**مرادفات** (synonyms)",
+     "الجملة بتغيّر الكلمات بس المعنى نفسه ← **T**",
+     "decrease = fall / go down"
+    ],
+    [
+     "**السبب والنتيجة**",
+     "القطعة قالت إن في علاقة، بس الجملة قلبتها أو زودت سبب",
+     "Text: exercise **improves** sleep. Statement: sleep **causes** people to exercise ← **F** أو **NG** حسب القطعة"
+    ],
+    [
+     "**درجة اليقين** (may / might / could)",
+     "القطعة قالت «ممكن» والجملة قالت «أكيد»",
+     "Text: **may** reduce stress. Statement: **always** reduces stress = **F**"
+    ],
+    [
+     "**معلوماتك الشخصية**",
+     "الجملة صح في الحياة بس القطعة ماقالتهاش ← **NG**",
+     "Cairo is the capital of Egypt. لو مش مكتوبة في القطعة = **NG**"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي تكتب التبرير (Justification)؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "For T and F, quote the exact words from the text (short!). For NG, write one line: what the text would need to say + where you looked."
+   ]
+  },
+  {
+   "type": "phrases",
+   "groups": [
+    {
+     "title": "لـ True / False",
+     "items": [
+      "Text: \"…\"  (اكتب الجزء اللي في القطعة بين علامات تنصيص)",
+      "The text says that…",
+      "According to paragraph 2, \"…\"",
+      "The text states the opposite: \"…\""
+     ]
+    },
+    {
+     "title": "لـ Not Given",
+     "items": [
+      "The text does not mention… It would need to say \"…\" for me to decide. I looked in paragraph…",
+      "Paragraph 3 talks about…, but it does not say whether…"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "خلي بالك: الكتاب في مثال الـ Unit 2 كاتب التبرير كده: **«Text: The seven-hour figure excludes school screen time.»** يعني جملة قصيرة من القطعة تثبت كلامك، مش فقرة كاملة."
+  },
+  {
+   "type": "h2",
+   "text": "قطعة للتطبيق"
+  },
+  {
+   "type": "p",
+   "text": "اقرا القطعة دي (قطعة أصلية عن موضوع Unit 6: The Space We Share). بعدين بص على الأمثلة المحلولة."
+  },
+  {
+   "type": "en",
+   "text": [
+    "**A Wetland Without Borders**",
+    "[1] Every autumn, thousands of birds leave their summer homes in Europe and Asia and fly south. For many of them, the wetlands on Egypt's northern coast are a vital stop. Here, after flying for days over the sea, they rest and feed before continuing their journey to Africa. Some species return to exactly the same wetland every year.",
+    "[2] These birds do not recognise national borders. A single bird may depend on a lake in Russia, a marsh in Egypt and a river in Sudan within the same year. If any one of these places is damaged, the whole journey becomes more dangerous. For this reason, scientists often describe migratory birds as a \"shared responsibility\": no single country can protect them alone.",
+    "[3] The wetlands face several threats. Some areas have been drained to build farms and roads, and plastic waste from nearby towns often ends up in the water. In addition, illegal hunting remains a problem in some places, although it has decreased in recent years thanks to stricter controls.",
+    "[4] Local communities are beginning to play a bigger role. In one fishing village, young volunteers now count the birds twice a year and share their numbers with researchers. A local teacher, Hany Mostafa, takes his students to the lake every term. \"When children see the birds with their own eyes,\" he says, \"they stop thinking of nature as something far away.\"",
+    "[5] Protecting a wetland is not simple, because people also need land, water and fish to earn a living. However, many experts believe that careful planning could allow both people and birds to share the same space."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي بييجي في الأسئلة؟ (أمثلة محلولة)"
+  },
+  {
+   "type": "p",
+   "text": "**مثال 1:** The wetlands give birds a place to rest and eat during their journey."
+  },
+  {
+   "type": "en",
+   "text": [
+    "**T** — Text: \"they rest and feed before continuing their journey\" (paragraph 1)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الجملة قالت rest and **eat** والقطعة قالت rest and **feed**: نفس المعنى. **True**."
+  },
+  {
+   "type": "p",
+   "text": "**مثال 2:** Illegal hunting has completely stopped in Egypt."
+  },
+  {
+   "type": "en",
+   "text": [
+    "**F** — Text: \"illegal hunting **remains a problem** in some places\" (paragraph 3)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الجملة فيها **completely stopped** (كلمة مطلقة). القطعة قالت إنه **لسه مشكلة** وإنه **قل** بس. يعني بتنفي الجملة. **False**."
+  },
+  {
+   "type": "p",
+   "text": "**مثال 3:** Hany Mostafa teaches science."
+  },
+  {
+   "type": "en",
+   "text": [
+    "**NG** — The text says he is \"a local teacher\" but does not say what subject he teaches. It would need to say \"Hany Mostafa, a science teacher…\". I looked in paragraph 4."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "القطعة قالت إنه مدرس بس **ماقالتش مادة إيه**. ممكن يكون علوم وممكن لأ، منقدرش نعرف. **Not Given** + التبرير بالشكل اللي الكتاب طالبه."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "أشهر الأخطاء",
+   "items": [
+    "تقول **False** لأن المعلومة مش موجودة ← لو القطعة ساكتة = **Not Given**.",
+    "تقول **True** لأن الجملة صح في الحقيقة ← القاضي بيسمع للقطعة بس.",
+    "تكتب T أو F **من غير تبرير** ← الكتاب طالب Justify دايمًا.",
+    "تنقل **فقرة كاملة** كتبرير ← انقل **الكلمات اللي بتثبت** بس.",
+    "تفوّت كلمة صغيرة زي **only / all / never / may** ← دي اللي بتقلب الإجابة.",
+    "تكتب NG وخلاص ← لازم تكتب القطعة **كانت محتاجة تقول إيه** و**دورت فين**."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "خطوات الحل في الامتحان",
+   "items": [
+    "حط خط تحت **الكلمات المفتاحية** والكلمات المطلقة في الجملة.",
+    "دوّر على الجزء ده في القطعة (الجمل غالبًا **بترتيب القطعة**).",
+    "قارن **معنى بمعنى**، مش كلمة بكلمة.",
+    "اسأل: القطعة **موافقة**؟ ← T. **بتنفي**؟ ← F. **ساكتة**؟ ← NG.",
+    "اكتب التبرير على طول قبل ما تنسى المكان."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "تدريب"
+  },
+  {
+   "type": "p",
+   "text": "**A. Read \"A Wetland Without Borders\". State whether each statement is True (T), False (F) or Not Given (NG). Justify your answer.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "1. The birds travel south in autumn.",
+     "a": "**T** — Text: \"Every autumn, thousands of birds… fly south.\" (paragraph 1)"
+    },
+    {
+     "q": "2. The birds fly over the sea before reaching Egypt.",
+     "a": "**T** — Text: \"after flying for days over the sea\". (paragraph 1)"
+    },
+    {
+     "q": "3. All migratory birds return to the same wetland every year.",
+     "a": "**F** — Text: \"**Some** species return to exactly the same wetland\". الجملة قالت **All** والقطعة قالت **Some**. (paragraph 1)"
+    },
+    {
+     "q": "4. A bird may use places in several different countries in one year.",
+     "a": "**T** — Text: \"a lake in Russia, a marsh in Egypt and a river in Sudan within the same year\". (paragraph 2)"
+    },
+    {
+     "q": "5. Scientists believe one country can protect migratory birds on its own.",
+     "a": "**F** — Text: \"no single country can protect them alone\". القطعة بتقول العكس. (paragraph 2)"
+    },
+    {
+     "q": "6. Plastic waste is the biggest threat to the wetlands.",
+     "a": "**NG** — The text lists plastic as one of \"several threats\" but does not say which is the biggest. It would need to say \"the biggest threat is plastic\". I looked in paragraph 3."
+    },
+    {
+     "q": "7. Illegal hunting has become less common recently.",
+     "a": "**T** — Text: \"it has **decreased** in recent years\". less common = decreased. (paragraph 3)"
+    },
+    {
+     "q": "8. The volunteers count the birds every month.",
+     "a": "**F** — Text: \"count the birds **twice a year**\". (paragraph 4)"
+    },
+    {
+     "q": "9. The researchers pay the young volunteers.",
+     "a": "**NG** — The text says volunteers \"share their numbers with researchers\" but says nothing about payment. It would need to say whether they are paid. I looked in paragraph 4. (وكمان كلمة volunteer عادة معناها من غير فلوس، بس ده من معلوماتنا، مش من القطعة.)"
+    },
+    {
+     "q": "10. Hany Mostafa thinks seeing birds changes how children think about nature.",
+     "a": "**T** — Text: \"they stop thinking of nature as something far away\". (paragraph 4)"
+    },
+    {
+     "q": "11. The writer says that people's needs are not important.",
+     "a": "**F** — Text: \"people also need land, water and fish to earn a living\". الكاتب بيعترف إن احتياجات الناس مهمة. (paragraph 5)"
+    },
+    {
+     "q": "12. Experts are certain that people and birds will share the wetlands successfully.",
+     "a": "**F** — Text: \"many experts believe that careful planning **could** allow…\". could = ممكن، مش certain = أكيد. (paragraph 5)"
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**B. Read this short text, then answer T / F / NG with justification.**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "**History in Your Pocket**",
+    "Ten years ago, news of an archaeological discovery usually reached the public weeks later, through newspapers or television. Today, a photo of a new find can appear online within minutes. This speed has clear benefits: more young people now follow archaeology and visit museums. However, experts warn that some posts are shared without any explanation, and images are sometimes taken out of context. Short videos and stories may also disappear after a day, so they cannot replace careful documentation by specialists."
+   ]
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "13. News of discoveries reaches the public faster today than in the past.",
+     "a": "**T** — Text: \"weeks later\" in the past ← now \"within minutes\"."
+    },
+    {
+     "q": "14. Television no longer reports archaeological discoveries.",
+     "a": "**NG** — The text says TV was used \"ten years ago\" but does not say whether it still reports them. It would need to say \"TV has stopped reporting discoveries\"."
+    },
+    {
+     "q": "15. Social media has made archaeology more popular with young people.",
+     "a": "**T** — Text: \"more young people now follow archaeology and visit museums\"."
+    },
+    {
+     "q": "16. All posts about discoveries include a clear explanation.",
+     "a": "**F** — Text: \"some posts are shared **without any explanation**\". كلمة All غلط."
+    },
+    {
+     "q": "17. Short videos are a permanent record of discoveries.",
+     "a": "**F** — Text: \"Short videos and stories may also **disappear after a day**\"."
+    },
+    {
+     "q": "18. Experts think social media is more accurate than museums.",
+     "a": "**NG** — The text does not compare the accuracy of social media and museums. It would need to say which is more accurate. I looked at the last two sentences."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**C. These statements are False. Correct them using the texts.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "19. Illegal hunting has increased in recent years. (Text 1)",
+     "a": "Illegal hunting **has decreased** in recent years thanks to stricter controls."
+    },
+    {
+     "q": "20. Only scientists help to protect the wetlands. (Text 1)",
+     "a": "**Local communities, such as young volunteers and teachers,** also help to protect the wetlands."
+    },
+    {
+     "q": "21. Social media posts can fully replace documentation by specialists. (Text 2)",
+     "a": "Social media posts **cannot replace** careful documentation by specialists."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**D. Write ONE statement of your own about Text 1 for each answer.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "22. Write a TRUE statement, a FALSE statement and a NOT GIVEN statement about Text 1. Justify each one.",
+     "a": "مثال: **T**: Some wetland areas were drained to build farms. (Text: \"drained to build farms and roads\") — **F**: The wetlands face no threats. (Text: \"The wetlands face several threats\") — **NG**: The village has a school with 500 students. (The text does not mention the size of the school.) — لما تكتب الأسئلة بنفسك بتفهم السؤال من جوه."
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "ملخص الدرس في سطرين",
+   "items": [
+    "**T** = القطعة بتقول **نفس المعنى**. **F** = القطعة بتقول **العكس**. **NG** = القطعة **ساكتة**.",
+    "ماتخلطش F بـ NG: لو مش مكتوبة = **NG**، مش False.",
+    "ركّز على الكلمات الصغيرة: **all / only / never / always / may / could**.",
+    "دايمًا **برّر**: لـ T وF انقل الكلمات من القطعة، ولـ NG قول القطعة كانت **محتاجة تقول إيه** و**دورت فين**."
+   ]
+  }
+ ]
+}

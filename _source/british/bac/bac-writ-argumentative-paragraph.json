@@ -1,0 +1,546 @@
+{
+ "slug": "bac-writ-argumentative-paragraph",
+ "title": "Argumentative Paragraph",
+ "kicker": "تانية بكالوريا · Writing · Unit 5",
+ "summary": "إزاي تكتب فقرة إقناع واحدة (150-180 كلمة) عن قضية بيئية: رأي واضح، أسباب وأدلة، رد على الرأي المعاكس، وخاتمة.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "الدرس ده عن إيه؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "An **argumentative paragraph** is a structured unit of writing that focuses on **one debatable claim** supported by evidence, reasoning and analysis. Its purpose is to **persuade** the reader to accept a viewpoint or take a particular action."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الـ **argumentative paragraph** يعني **فقرة جدلية / فقرة إقناع**: فقرة **واحدة** فيها **رأي واحد** ممكن الناس تختلف عليه (debatable claim)، وإنت بتثبته بأسباب وأدلة، وبترد على الرأي المعاكس، علشان تقنع القارئ يوافقك أو يعمل حاجة."
+  },
+  {
+   "type": "p",
+   "text": "في الكتاب الدرس ده في **Unit 5: The Greenhouse Effect** (Concept 5: Sharing the Planet)، صفحة **Argumentative Paragraph** (صفحة 148-149)، وبيتكرر في درس **Greening Egypt** (صفحة 161) وفي الـ **Summative Assessment** (صفحة 167). وفي كل مرة المطلوب: فقرة **(150-180) words** عن موضوع بيئي."
+  },
+  {
+   "type": "p",
+   "text": "الوحدة عن **أزمة المناخ**: الـ greenhouse effect، الـ fossil fuels، الطاقة المتجددة (solar, wind, hydro, geothermal)، ومشروعات مصر الخضرا زي **Benban Solar Park**."
+  },
+  {
+   "type": "h2",
+   "text": "الفكرة ببساطة: محامي في فقرة واحدة"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Think of yourself as a lawyer: you state your case, give your evidence, answer the other side, and then repeat your case in new words."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "تخيل نفسك **محامي** في المحكمة: (1) بتقول طلبك بوضوح «موكلي بريء». (2) بتقدم الأدلة واحد ورا التاني. (3) بتذكر كلام المحامي التاني **وترد عليه** «هو بيقول كذا، **لكن** …». (4) بتقفل: «إذن واضح إن موكلي بريء»."
+  },
+  {
+   "type": "p",
+   "text": "ده بالظبط الـ argumentative paragraph. والفرق بينه وبين الـ **discursive paragraph** (اللي أخدته قبل كده) إن الـ discursive بيعرض **الرأيين بالتساوي**، أما الـ argumentative فـ **واخد صف واحد** ومن أول جملة."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "قواعد الكتاب الذهبية (Remember)",
+   "items": [
+    "**Always start with a clear opinion** in the Topic Sentence. = ابدأ دايمًا برأي واضح.",
+    "**Use linking words**: First / Furthermore / However / As a result / In conclusion.",
+    "**The Concluding Sentence must RESTATE the opinion** — not copy it word for word. = كرّر الرأي بكلام تاني.",
+    "**One paragraph = ONE main idea only.** = فقرة واحدة = فكرة رئيسية واحدة."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "الهيكل زي ما الكتاب بيعلّمه (4 أجزاء)"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "الجزء",
+    "What to write",
+    "بالعربي",
+    "Useful language"
+   ],
+   "rows": [
+    [
+     "1. **Topic Sentence**",
+     "State your opinion clearly. This is the MAIN IDEA of the paragraph.",
+     "رأيك بوضوح في أول جملة، ودي الفكرة الرئيسية.",
+     "It is clear that … / I strongly believe … / There is no doubt that …"
+    ],
+    [
+     "2. **Supporting Sentences**",
+     "Give 2-3 reasons or pieces of evidence to support your opinion.",
+     "2-3 أسباب أو أدلة.",
+     "First, … / Furthermore, … / In addition, … / As a result, … / Because of this, …"
+    ],
+    [
+     "3. **Concession**",
+     "Mention the opposite view, then refute it. This makes your argument stronger.",
+     "اذكر الرأي المعاكس وبعدين **فنّده** (رد عليه وبيّن إنه ضعيف).",
+     "Although some people believe … / While it is true that … / However, …"
+    ],
+    [
+     "4. **Concluding Sentence**",
+     "Restate your opinion in different words. Do NOT introduce a new idea.",
+     "كرّر رأيك بكلام مختلف، **ومتدخلش فكرة جديدة**.",
+     "In conclusion, … / To sum up, … / Therefore, it is evident that …"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "كلمة مهمة: **refute** = تفنّد / ترد على رأي وتبيّن إنه مش مقنع. يعني مش بس تقول «بعض الناس بيقولوا كذا» وتسكت، لازم تكمّل: **However / Nevertheless** + ردّك."
+  },
+  {
+   "type": "h2",
+   "text": "القواعد اللي الكتاب طالبها جوه الفقرة"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Unit 5 asks you to use **cause-and-effect structures**, **modal verbs**, and **adverbials of degree and frequency** in your argumentative paragraphs."
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "القاعدة",
+    "أمثلة",
+    "بتعمل إيه",
+    "مثال من المناخ"
+   ],
+   "rows": [
+    [
+     "**Cause & effect** (سبب ونتيجة)",
+     "leads to / as a result / because of / due to / owing to / since / therefore",
+     "بتربط السبب بالنتيجة",
+     "Burning fossil fuels **leads to** higher carbon emissions."
+    ],
+    [
+     "**Modal verbs** (أفعال ناقصة)",
+     "could / should / may / might / must",
+     "إمكانية، نصيحة، عدم تأكد، ضرورة",
+     "Governments **must** invest in clean energy now."
+    ],
+    [
+     "**Adverbials of degree** (درجة)",
+     "extremely / significantly / highly / clearly / undoubtedly / arguably",
+     "بتقوّي أو بتحدد قوة الكلام",
+     "Solar power has **significantly** reduced costs."
+    ],
+    [
+     "**Adverbials of frequency** (تكرار)",
+     "always / often / increasingly / rarely / currently / generally",
+     "بتقول الحاجة بتحصل قد إيه",
+     "Heatwaves are **increasingly** common in Egypt."
+    ]
+   ]
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "**Because of** rising temperatures, crop yields are falling in many regions.",
+     "ar": "Because of + اسم: بسبب ارتفاع الحرارة، المحاصيل بتقل. (بعد because of **اسم** مش جملة)."
+    },
+    {
+     "en": "Factories burn coal. **As a result**, the air in many cities is polluted.",
+     "ar": "As a result + جملة: نتيجة لكده الهوا ملوث."
+    },
+    {
+     "en": "Deforestation **leads to** the loss of habitats.",
+     "ar": "leads to + اسم = بيؤدي لـ."
+    },
+    {
+     "en": "**Since** solar energy is free, households **could** save a lot of money.",
+     "ar": "Since = علشان (سبب). could = إمكانية."
+    },
+    {
+     "en": "Schools **should** install solar panels to reduce energy costs.",
+     "ar": "should = نصيحة / توصية."
+    },
+    {
+     "en": "Better batteries **may** store solar power for use at night in the future.",
+     "ar": "may = احتمال (مش متأكدين 100%). الكتاب بيقول: متقولش كل حاجة كأنها حقيقة مطلقة."
+    },
+    {
+     "en": "**Clearly**, planting trees alone cannot stop global warming.",
+     "ar": "Clearly = بوضوح. adverbial بيبيّن رأي الكاتب (stance)."
+    },
+    {
+     "en": "Egypt is **increasingly** relying on renewable energy.",
+     "ar": "increasingly = بشكل متزايد. adverbial of frequency/تطور."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "العبارات المفيدة"
+  },
+  {
+   "type": "phrases",
+   "groups": [
+    {
+     "title": "Topic sentence (الرأي)",
+     "items": [
+      "It is clear that …",
+      "I strongly believe that …",
+      "There is no doubt that …",
+      "The issue of … is highly debated today. However, I firmly believe that …"
+     ]
+    },
+    {
+     "title": "Supporting sentences (الأسباب والأدلة)",
+     "items": [
+      "First, … / Firstly, …",
+      "Furthermore, … / In addition, …",
+      "This is because …",
+      "For example, … / For instance, …",
+      "As a result, … / Because of this, … / Therefore, …",
+      "This leads to … / This shows that …"
+     ]
+    },
+    {
+     "title": "Concession + refutation (الرأي المعاكس والرد)",
+     "items": [
+      "Although some people believe that …, …",
+      "While it is true that …, …",
+      "Some people claim that … However, …",
+      "Although this may be true, I believe that … because …",
+      "Nevertheless, …"
+     ]
+    },
+    {
+     "title": "Concluding sentence (الخاتمة)",
+     "items": [
+      "In conclusion, …",
+      "To sum up, …",
+      "Therefore, it is evident that …",
+      "In conclusion, I strongly believe that … because …",
+      "While other views exist, … remains more convincing."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي تكتب الفقرة خطوة بخطوة"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**اقرا السؤال** وحدد: الموضوع البيئي إيه؟ المطلوب رأي في إيه بالظبط؟ وفيه شروط زيادة؟ (مثلًا: استخدم cause-and-effect مرتين، أو اذكر مشروعين في مصر، أو adverbials of degree/frequency).",
+    "**اختار رأيك** واكتبه في جملة واحدة واضحة. ده هيبقى الـ **topic sentence**.",
+    "**دوّر على 2-3 أسباب**، ولكل سبب **دليل** (رقم، مثال، مشروع حقيقي، أو نتيجة معروفة).",
+    "**فكّر في الرأي المعاكس**: إيه أقوى حاجة ممكن حد يقولها ضدك؟ وإيه ردّك عليها؟",
+    "**اكتب الفقرة** بالترتيب: Topic sentence ← First … ← Furthermore … ← As a result … ← Although … However … ← In conclusion …",
+    "**الخاتمة**: نفس الرأي **بكلام تاني**، وممكن نصيحة عملية، بس **من غير فكرة جديدة**.",
+    "**راجع بالـ Checklist** واعد كلماتك: **150-180**. وخلي بالك: **فقرة واحدة** مش كذا فقرة."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "حيلة الـ 8 جمل",
+   "items": [
+    "1 جملة رأي + 2 جمل سبب أول + 2 جمل سبب تاني + 2 جمل concession ورد + 1 جملة خاتمة = **8 جمل** × حوالي 20 كلمة = حوالي **160-170 كلمة**."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "نموذج كامل (Model Answer)"
+  },
+  {
+   "type": "p",
+   "text": "دي فقرة واحدة كاملة عن قضية بيئية. لاحظ إنها **فقرة واحدة** من غير ما نقسمها."
+  },
+  {
+   "type": "model",
+   "title": "Model argumentative paragraph: plastic bags",
+   "task": "Write a structured argumentative paragraph of (150-180) words about an environmental issue of your choice. Include a clear topic sentence, a clear cause-and-effect relationship, at least TWO cause-and-effect structures, and a concluding sentence that reinforces your argument.",
+   "text": [
+    "There is no doubt that single-use plastic bags should be banned in Egyptian supermarkets. First, plastic bags take hundreds of years to break down. As a result, they pile up in our streets, canals and seas. Furthermore, plastic in the sea leads to the death of turtles and fish, which often mistake floating bags for food. Because of this damage, several countries, such as Kenya and Rwanda, have already banned plastic bags. In addition, cloth bags can be used hundreds of times, so a ban would actually save shoppers money in the long term. Although some people believe that a ban would harm small shop owners, this argument is not convincing. However, shops could easily sell cheap reusable bags, and the government could support them during the change. In fact, doing nothing would cost far more because of the damage to fishing and tourism. In conclusion, it is evident that saying goodbye to plastic bags is a small step that would bring huge benefits to our environment and our economy."
+   ],
+   "word_count": 170,
+   "marks": "يحقق كل نقاط الـ Writing Task Checklist بتاعة الكتاب (6/6)",
+   "notes": [
+    "**Topic sentence:** «There is no doubt that … should be banned» = رأي **واضح ومباشر** من أول جملة، وبعبارة رسمية من الكتاب (There is no doubt that).",
+    "**Supporting sentences:** 3 أسباب، كل واحد بأداة ربط: **First** (البلاستيك مبيتحللش) ← **Furthermore** (بيموّت الحيوانات البحرية) ← **In addition** (الشنط القماش بتوفر فلوس).",
+    "**Cause & effect:** الكتاب طالب اتنين على الأقل، والفقرة فيها أكتر: **As a result** ، **leads to** ، **Because of** (مرتين)، و**so**. وده بيوضح علاقة السبب والنتيجة.",
+    "**Evidence:** دليل حقيقي: دول زي **Kenya and Rwanda** منعت الشنط البلاستيك. والـ present perfect (have already banned) بيبيّن إن ده حصل ولسه ساري.",
+    "**Concession + refutation:** «**Although** some people believe that a ban would harm small shop owners» = الرأي المعاكس، وبعدين **الرد**: this argument is not convincing + **However** وحل عملي (المحلات تبيع شنط رخيصة والحكومة تساعد) + **In fact** = «وفي الحقيقة» بتقوّي الرد بحجة أخيرة.",
+    "**Modal verbs:** **should** (توصية) في الأول، **could** (إمكانية) في الرد، **would** (نتيجة متوقعة). ده بالظبط اللي الكتاب طالبه في الوحدة.",
+    "**Concluding sentence:** **In conclusion, it is evident that** + نفس الرأي **بكلام مختلف** (saying goodbye to plastic bags is a small step …) ومفيش فكرة جديدة.",
+    "**One paragraph = ONE main idea:** كل الجمل بتخدم فكرة واحدة: منع الشنط البلاستيك. وعدد الكلمات داخل في **150-180**."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "الـ Checklist (من الكتاب)"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "#",
+    "Writing Task Checklist",
+    "في النموذج"
+   ],
+   "rows": [
+    [
+     "1",
+     "My first sentence states my opinion clearly and directly.",
+     "There is no doubt that … should be banned …"
+    ],
+    [
+     "2",
+     "I use a formal opener: It is clear that … / There is no doubt that …",
+     "There is no doubt that"
+    ],
+    [
+     "3",
+     "I use cause and effect connectors: As a result … / Due to … / Therefore …",
+     "As a result / leads to / Because of"
+    ],
+    [
+     "4",
+     "I mention the opposite view: Although … / Some people believe …",
+     "Although some people believe that …"
+    ],
+    [
+     "5",
+     "I refute it: However, … / Nevertheless, …",
+     "this argument is not convincing. However, …"
+    ],
+    [
+     "6",
+     "I use: In conclusion, … / To sum up, … / Therefore, it is clear that …",
+     "In conclusion, it is evident that …"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "وفي درس **Egypt’s Green Future** (صفحة 161) الـ Checklist بيزود شروط: **مثالين لمشروعات خضرا حقيقية في مصر**، **اقتراحاتك للتحسين**، **cause-and-effect** مرة على الأقل، **adverbials of degree** مرتين، و**adverbials of frequency** مرتين. اقرا الشروط دي في السؤال كويس."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "أشهر الأخطاء (غلط ← صح)",
+   "items": [
+    "✗ تكتب 3-4 فقرات ← ✓ ده **paragraph واحد**: كل الجمل ورا بعض في فقرة واحدة.",
+    "✗ تبدأ بمقدمة طويلة عن المناخ من غير رأي ← ✓ أول جملة = **رأيك** (It is clear that …).",
+    "✗ تذكر الرأي المعاكس وتسكت ← ✓ لازم **refute**: However / Nevertheless + ردّك.",
+    "✗ فكرة جديدة في الخاتمة: «In conclusion, … and we should also stop eating meat.» ← ✓ الخاتمة = نفس الرأي بكلام تاني بس.",
+    "✗ «Because of factories burn coal, …» ← ✓ «Because of **coal burning**, …» أو «**Because** factories burn coal, …» (because of + اسم، because + جملة).",
+    "✗ «Solar energy will definitely solve all our problems.» ← ✓ «Solar energy **could** solve many of our problems.» (الكتاب: متقولش كل حاجة كأنها حقيقة مطلقة).",
+    "✗ تنقل جملة الرأي بالحرف في الآخر ← ✓ غيّر الكلمات: should be banned ← saying goodbye to … is a small step that would bring huge benefits."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "إزاي تجاوب في الامتحان",
+   "items": [
+    "اكتب على الهامش: **رأي – سبب 1 – سبب 2 – (سبب 3) – Although/However – In conclusion**. واملا الفراغات.",
+    "استخدم **Writing Frame** الكتاب لو اتلخبطت: The issue of … is highly debated today. Firstly, I believe that … This is because … For example, … However, some people claim that … Although this may be true, … In conclusion, …",
+    "مصر عندها أمثلة ممتازة للدليل: **Benban Solar Park** (من نص الوحدة). استخدمها في أي سؤال عن الطاقة."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي بييجي في الأسئلة؟"
+  },
+  {
+   "type": "p",
+   "text": "الأسئلة في الكتاب والمراجعات بتيجي كمهمة «Write an argumentative paragraph of (150-180) words» بشروط، وكمان أسئلة اختيار على أجزاء الفقرة (زي سؤال الـ topic sentence في Consolidation Review B). مثالين:"
+  },
+  {
+   "type": "p",
+   "text": "**1) Choose the correct answer from a, b, c or d.**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "What is the purpose of the **concession** in an argumentative paragraph?",
+    "a. To introduce a new idea at the end.",
+    "b. To mention the opposite view and then refute it.",
+    "c. To list references.",
+    "d. To give the title."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**الإجابة: b.** الكتاب بيقول: Mention the opposite view, then refute it. This makes your argument stronger."
+  },
+  {
+   "type": "p",
+   "text": "**2) Read the paragraph and find the mistake in its structure.**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "It is clear that cities need more trees. First, trees clean the air. Furthermore, they reduce heat in summer. Some people say trees cost too much money. In conclusion, we should also recycle more plastic."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**الإجابة:** فيه غلطتين: (1) الرأي المعاكس اتذكر **من غير refutation** (مفيش However …). (2) الخاتمة فيها **فكرة جديدة** (recycle plastic) بدل ما تكرر الرأي. التصحيح: «… However, trees save money in the long term because they reduce the need for air conditioning. In conclusion, it is evident that planting more trees is one of the best investments a city can make.»"
+  },
+  {
+   "type": "h2",
+   "text": "تدريب"
+  },
+  {
+   "type": "p",
+   "text": "**A. Choose the correct answer from a, b, c or d.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "1. The topic sentence of an argumentative paragraph should ______.\na. tell a story  b. state your opinion clearly  c. give the opposite view  d. list references",
+     "a": "**b** — This is the MAIN IDEA of the paragraph."
+    },
+    {
+     "q": "2. ______ some people believe that renewable energy is too expensive, its costs have dropped sharply.\na. Because of  b. Although  c. As a result  d. Therefore",
+     "a": "**b. Although** — بتقدّم الرأي المعاكس في نفس الجملة مع الرد."
+    },
+    {
+     "q": "3. Burning fossil fuels ______ higher carbon emissions.\na. leads to  b. because  c. although  d. as a result",
+     "a": "**a. leads to** + اسم."
+    },
+    {
+     "q": "4. ______ rising sea levels, many coastal areas are in danger.\na. Because  b. Because of  c. Therefore  d. Although",
+     "a": "**b. Because of** + اسم (rising sea levels)."
+    },
+    {
+     "q": "5. The concluding sentence must ______.\na. introduce a new idea  b. copy the topic sentence word for word  c. restate the opinion in different words  d. ask a question only",
+     "a": "**c** — Restate your opinion in different words."
+    },
+    {
+     "q": "6. Governments ______ invest in clean energy now, before it is too late. (strong necessity)\na. might  b. could  c. must  d. may",
+     "a": "**c. must** — ضرورة قوية واستعجال."
+    },
+    {
+     "q": "7. Heatwaves are becoming ______ common in Egypt.\na. increasingly  b. increase  c. increasing  d. increased",
+     "a": "**a. increasingly** — محتاجين adverb قبل الصفة common."
+    },
+    {
+     "q": "8. Which sentence refutes the opposite view?\na. Some people think solar panels are ugly.\nb. However, modern panels can be fitted neatly on rooftops.\nc. First, solar energy is clean.\nd. It is clear that we need solar energy.",
+     "a": "**b** — However + رد على الرأي المعاكس."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**B. Label each sentence: Topic sentence (T), Supporting sentence (S), Concession (C) or Concluding sentence (CS).**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "9. While it is true that wind turbines can be noisy, new designs are much quieter.",
+     "a": "**C** — While it is true that + رد."
+    },
+    {
+     "q": "10. There is no doubt that Egypt should invest more in solar energy.",
+     "a": "**T** — رأي واضح بعبارة رسمية."
+    },
+    {
+     "q": "11. For example, Benban Solar Park produces clean electricity for many homes.",
+     "a": "**S** — دليل ومثال."
+    },
+    {
+     "q": "12. Therefore, it is evident that the sun is Egypt’s greatest natural resource for the future.",
+     "a": "**CS** — Therefore, it is evident that + الرأي بكلام جديد."
+    },
+    {
+     "q": "13. As a result, the country would depend less on imported fuel.",
+     "a": "**S** — نتيجة بتدعم الرأي."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**C. Join the sentences using the word in brackets.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "14. Forests are cut down. Many animals lose their homes. (as a result)",
+     "a": "Forests are cut down. **As a result**, many animals lose their homes."
+    },
+    {
+     "q": "15. There is a lack of rain. Some fertile regions are becoming dry. (because of)",
+     "a": "**Because of** the lack of rain, some fertile regions are becoming dry."
+    },
+    {
+     "q": "16. Cars burn petrol. This increases air pollution. (leads to)",
+     "a": "Burning petrol in cars **leads to** more air pollution."
+    },
+    {
+     "q": "17. Some people say recycling is a waste of time. It reduces rubbish in our streets. (although)",
+     "a": "**Although** some people say recycling is a waste of time, it reduces rubbish in our streets."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**D. Rewrite the weak concluding sentences so that they restate the opinion without a new idea.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "18. Topic sentence: ‘It is clear that schools should use solar energy.’ Weak conclusion: ‘In conclusion, schools should use solar energy and also plant gardens.’",
+     "a": "✓ In conclusion, installing solar panels is a smart and responsible choice for every school. (شيلنا فكرة الجناين الجديدة وغيرنا الكلمات)."
+    },
+    {
+     "q": "19. Topic sentence: ‘I strongly believe that we must reduce car use in cities.’ Weak conclusion: ‘In conclusion, I strongly believe that we must reduce car use in cities.’",
+     "a": "✓ To sum up, fewer cars would mean cleaner air and healthier citizens. (نفس الرأي بكلام تاني)."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**E. Writing tasks.** اكتب **argumentative paragraph واحد (150-180) words**."
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "20. (من الكتاب) Write an argumentative paragraph about Egypt’s Green Future. Use degree adverbials to strengthen your claims and frequency adverbials to describe how environmental efforts are progressing.",
+     "a": "**خطة:** T: It is clear that Egypt is **increasingly** moving towards a greener future. S1: **Benban Solar Park** + طاقة نظيفة. S2: مشروع أخضر تاني (مثلًا زراعة الأشجار في المدن أو مزارع الرياح). نتيجة بـ As a result. اقتراحاتك: المدارس should install solar panels. C: Although some people believe the progress is slow, … However, … CS: Therefore, it is **undoubtedly** a hopeful time for Egypt’s environment. (حط adverbials زي significantly, undoubtedly, often, increasingly)."
+    },
+    {
+     "q": "21. (Summative A) What does it mean to take responsibility for the environment in today’s world?",
+     "a": "**خطة:** T: I strongly believe that taking responsibility means acting, not only talking. S1: أفعال فردية (توفير كهربا، تقليل البلاستيك). S2: مسؤولية الحكومات والشركات + cause & effect. C: Some people claim one person cannot make a difference. However, small actions add up. CS: To sum up, …"
+    },
+    {
+     "q": "22. ‘Renewable energy should replace fossil fuels completely within the next twenty years.’ Argue for or against.",
+     "a": "**خطة:** اختار صف. لو مع: الطاقة الشمسية رخصت + الوقود الأحفوري leads to emissions. Concession: intermittency (الشمس والهوا مش دايمًا موجودين) However battery storage may solve this. CS: Therefore, it is evident that …"
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "ملخص الدرس في سطرين",
+   "items": [
+    "**فقرة واحدة = فكرة واحدة**، و**150-180** كلمة.",
+    "الترتيب: **Topic sentence** (رأي) ← **Supporting sentences** (2-3 أسباب + أدلة) ← **Concession** (رأي معاكس + رد) ← **Concluding sentence**.",
+    "استخدم **cause & effect** (As a result / leads to / because of) و**modals** (should / could / must / may).",
+    "الخاتمة: الرأي **بكلام مختلف** ومن غير فكرة جديدة."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,646 @@
+{
+ "slug": "bac-writ-blog-post",
+ "title": "Blog Post",
+ "kicker": "تانية بكالوريا · Writing · Unit 8",
+ "summary": "إزاي تكتب تدوينة شخصية جذابة عن وظيفة أحلامك في التعليم الفني: عنوان جذاب، مهارات، فايدة للمجتمع، وأهداف، في 150-180 كلمة.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "الدرس ده عن إيه؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "A **reflective blog post** is personal, engaging and easy to read. The writer uses the first person (I, my, me) to share thoughts and experiences about a topic that matters to them."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الدرس ده عن الـ **Blog Post**، وبالتحديد **Reflective Blog Post** يعني **تدوينة شخصية بتفكر فيها بصوت عالي**. إنت بتكتب على مدونة (blog) عن حاجة تخصك، بأسلوبك إنت (I, my, me)، بطريقة سهلة وممتعة للقارئ."
+  },
+  {
+   "type": "p",
+   "text": "في الكتاب الدرس ده في **Unit 8: Pathways to Progress**، صفحة **How to Write a Reflective Blog Post** (صفحة 79)، والمهمة **My Vocational Dream** (صفحة 80): تكتب **reflective blog post (150-180) words** عن **وظيفة أحلامك** في مجال **تعليم فني / مهني (vocational)**."
+  },
+  {
+   "type": "p",
+   "text": "موضوعات الوحدة: التعليم الفني والمهني، المهارات اللي سوق العمل محتاجها، الطاقة المتجددة، الأمن السيبراني، الفندقة، الهندسة البحرية، فنون الطبخ، الزراعة، وإزاي المهارات دي بتساعد **اقتصاد مصر**."
+  },
+  {
+   "type": "h2",
+   "text": "يعني إيه Reflective Blog Post؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "**Reflective** means you think about your own experiences and feelings and explain what they mean to you. A blog post is **less formal** than an essay or a report, but it is still well organised and correct."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "كلمة **reflective** معناها «تأملي»: يعني بتبص جواك وتقول **إنت حاسس بإيه، وليه، والتجربة دي علمتك إيه**. والـ blog أسلوبه **أخف** من المقال أو التقرير: بتكلم القارئ كأنه صاحبك، ممكن تسأله سؤال، بس برضه **منظم ولغته صح**."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "النقطة",
+    "Discursive Essay",
+    "Reflective Blog Post"
+   ],
+   "rows": [
+    [
+     "الصوت",
+     "موضوعي (it can be argued that…)",
+     "**شخصي**: I, my, me"
+    ],
+    [
+     "العنوان",
+     "مش ضروري",
+     "**لازم عنوان جذاب (catchy title)**"
+    ],
+    [
+     "النبرة",
+     "رسمية ومتوازنة",
+     "**ودودة وجذابة**، بس من غير كلام سوقي"
+    ],
+    [
+     "القارئ",
+     "مصحح أو قارئ عام",
+     "متابعين المدونة: ممكن تسألهم سؤال (Have you ever…?)"
+    ],
+    [
+     "النهاية",
+     "رأي متوازن",
+     "**فكرة أخيرة، نصيحة، أو أمنية للمستقبل**"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "مميزات الـ Blog Post زي ما الكتاب بيعلمها (Key Characteristics)"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "الميزة",
+    "يعني إيه بالعربي",
+    "مثال"
+   ],
+   "rows": [
+    [
+     "**Catchy Title**",
+     "عنوان يشد عين القارئ ويخليه عايز يقرا.",
+     "Chasing the Sun: My Dream of Becoming a Solar Technician"
+    ],
+    [
+     "**Personal Voice**",
+     "تكتب بضمير المتكلم (I, my, me) وتحكي أفكارك وتجربتك.",
+     "I still remember the day I…"
+    ],
+    [
+     "**Clear Purpose**",
+     "تعرّف الموضوع وتقول **ليه مهم بالنسبالك**.",
+     "That is why I dream of studying…"
+    ],
+    [
+     "**Organised Ideas**",
+     "تقسم أفكارك في فقرات منطقية فيها تفاصيل وأمثلة.",
+     "First the career, then the skills, then why it matters."
+    ],
+    [
+     "**Engaging Conclusion**",
+     "تخلص بفكرة أخيرة، نصيحة، أو تأمل.",
+     "What is your vocational dream?"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "الهيكل المقترح من الكتاب (Suggested Structure)"
+  },
+  {
+   "type": "en",
+   "text": [
+    "The book suggests four parts: a title, an introduction, a body paragraph and a conclusion."
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "الجزء",
+    "تكتب فيه إيه (من الكتاب)",
+    "بالعربي"
+   ],
+   "rows": [
+    [
+     "**Title**",
+     "Write a catchy title.",
+     "عنوان جذاب."
+    ],
+    [
+     "**Introduction**",
+     "Introduce your dream career. Explain why it interests you.",
+     "عرّف الوظيفة اللي بتحلم بيها، وقول ليه بتشدك (قصة صغيرة أحسن)."
+    ],
+    [
+     "**Body Paragraph**",
+     "Describe the skills needed. Explain how the career helps society or the economy.",
+     "المهارات المطلوبة، وإزاي الوظيفة دي بتفيد المجتمع أو الاقتصاد. (ممكن تقسمها لفقرتين.)"
+    ],
+    [
+     "**Conclusion**",
+     "Summarise your opinion. Explain your future goals.",
+     "لخص رأيك، وقول أهدافك في المستقبل."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "والمهمة في صفحة 80 بتطلب 4 حاجات لازم يكونوا موجودين: **المجال الفني اللي عايز تدرسه**، **المهارات المطلوبة للنجاح**، **إزاي المجال بيساعد المجتمع أو الاقتصاد**، و**ليه الوظيفة دي بتشدك**."
+  },
+  {
+   "type": "h2",
+   "text": "جمل جاهزة تستخدمها (Useful Phrases)"
+  },
+  {
+   "type": "phrases",
+   "groups": [
+    {
+     "title": "Catchy titles",
+     "items": [
+      "Chasing the Sun: My Dream of Becoming a Solar Technician",
+      "From My Grandmother's Kitchen to a Professional Chef",
+      "Why I Want to Protect the Internet",
+      "Engines, Oceans and Me"
+     ]
+    },
+    {
+     "title": "Introduction (hook + why it interests you)",
+     "items": [
+      "Have you ever wondered…?",
+      "I still remember the day I…",
+      "Ever since I was a child, I have been fascinated by…",
+      "That is why I dream of studying… at a technical school.",
+      "My interest started when…"
+     ]
+    },
+    {
+     "title": "Skills needed",
+     "items": [
+      "Success in this field requires…",
+      "A good… needs practical skills, such as…",
+      "Problem-solving and teamwork are also essential because…",
+      "At the moment, I am improving my…"
+     ]
+    },
+    {
+     "title": "How it helps society / the economy",
+     "items": [
+      "This career matters because…",
+      "More and more companies are looking for…",
+      "Skilled workers in this field are helping Egypt to…",
+      "Every… reduces / creates / improves…"
+     ]
+    },
+    {
+     "title": "Engaging conclusion + future goals",
+     "items": [
+      "To sum up, I believe…",
+      "My goal is to…",
+      "One day, I hope to…",
+      "What is your dream career? Share it in the comments!"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "قاعدة الوحدة جوه الـ Blog: Present Continuous"
+  },
+  {
+   "type": "en",
+   "text": [
+    "The book's checklist asks you to use the **present continuous** (am / is / are + verb-ing). Use it for actions happening **now or around now**, and for **changing situations and trends**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الـ Writing Checklist في الكتاب أول نقطة فيه: **I use the present continuous form**. يعني لازم تستخدم **am / is / are + فعل بـ -ing**. وأحسن مكانين ليه في الـ blog:"
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "At the moment, I **am improving** my maths because technicians need accurate measurements.",
+     "ar": "«دلوقتي أنا بحسّن الرياضيات بتاعتي». حاجة بتحصل **الفترة دي** (at the moment)."
+    },
+    {
+     "en": "I **am reading** a lot about renewable energy this year.",
+     "ar": "«أنا بقرا كتير عن الطاقة المتجددة السنة دي». فترة حالية مش لحظة بالظبط."
+    },
+    {
+     "en": "More homes and farms **are installing** solar panels.",
+     "ar": "«بيوت ومزارع أكتر **بتركّب** ألواح شمسية». **trend** يعني اتجاه بيتغير."
+    },
+    {
+     "en": "The job market **is changing** rapidly.",
+     "ar": "«سوق العمل بيتغير بسرعة». موقف بيتغير، وده من جمل الوحدة."
+    },
+    {
+     "en": "More technical schools **are building** partnerships with local factories.",
+     "ar": "«مدارس فنية أكتر **بتعمل** شراكات مع مصانع في منطقتها». trend بيحصل الفترة دي."
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "خلي بالك: أفعال الحالة",
+   "items": [
+    "أفعال زي **want, like, love, know, believe, need** مش بتيجي في الـ continuous غالبًا.",
+    "I am wanting to be a chef. ✗ ← **I want to be a chef.** ✓",
+    "I am knowing a lot about engines. ✗ ← **I know a lot about engines.** ✓",
+    "متنساش الـ am / is / are: I improving my English. ✗ ← **I am improving** my English. ✓"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي تكتب الـ Blog Post خطوة بخطوة"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**اختار المجال (vocational field):** طاقة متجددة، فنون طبخ، أمن سيبراني، فندقة، هندسة بحرية، زراعة، تمريض، ميكانيكا سيارات…",
+    "**اكتب عنوان جذاب:** استخدم سؤال، أو صورة (Chasing the Sun)، أو نقطتين (Title: subtitle).",
+    "**Introduction:** ابدأ بـ hook (سؤال أو ذكرى)، وقول الوظيفة، واحكي **إزاي بدأ اهتمامك** (My interest started when…).",
+    "**Body 1 ← المهارات:** مهارتين أو تلاتة (عملية + شخصية) وليه مهمين، وحط جملة present continuous عن اللي بتعمله دلوقتي.",
+    "**Body 2 ← الفايدة للمجتمع والاقتصاد:** وظايف جديدة، بيئة أنضف، خدمة للناس… وهنا present continuous للـ trends.",
+    "**Conclusion:** لخص رأيك + هدفك في المستقبل + سؤال للقراء أو نصيحة.",
+    "**استخدم كلمات المجال (field-specific vocabulary):** زي renewable energy, technician, install, electrical output, apprenticeship.",
+    "**راجع:** العنوان موجود؟ I/my/me؟ present continuous؟ الفقرات منظمة؟ العدد **150-180 كلمة**؟"
+   ],
+   "ordered": true
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "ودّي ومش سوقي",
+   "text": "الـ blog أخف من المقال، فينفع تقول **Have you ever…?** أو **I have to admit…**، وينفع اختصار بسيط زي **I'm**. بس **ممنوع** الكلام السوقي زي gonna, wanna, LOL، وممنوع الأخطاء. ولو مش متأكد، اكتب الكلمة كاملة: I am."
+  },
+  {
+   "type": "h2",
+   "text": "الـ Blog Post النموذجي (Model Answer)"
+  },
+  {
+   "type": "p",
+   "text": "ده blog post كامل على مهمة الكتاب My Vocational Dream. العنوان محسوب في عدد الكلمات."
+  },
+  {
+   "type": "model",
+   "title": "Model reflective blog post: My Vocational Dream",
+   "task": "My Vocational Dream: Write a reflective blog post (150-180) words about your dream career. Include the vocational field you would like to study, the skills required for success, how the field contributes to society or the economy, and why the career interests you.",
+   "text": [
+    "**Chasing the Sun: My Dream of Becoming a Solar Technician**",
+    "Have you ever looked at a rooftop and imagined it producing electricity? I have, and that is why I dream of studying renewable energy at a technical school. My interest started when a team installed solar panels on my uncle's farm in Fayoum. I watched them for hours and asked endless questions.",
+    "Success in this field requires more than enthusiasm. A solar technician needs practical skills, such as wiring and measuring electrical output, as well as problem-solving and teamwork. Safety awareness is essential too, because technicians often work on high roofs. At the moment, I am improving my maths and I am reading about how solar systems work.",
+    "This career matters because clean energy is changing our economy. More homes and farms are installing solar systems, so skilled workers are needed everywhere. Every panel lowers electricity bills and reduces pollution.",
+    "To sum up, I believe vocational careers deserve real respect. My goal is to earn my diploma and one day run my own installation company. What is your vocational dream?"
+   ],
+   "word_count": 180,
+   "notes": [
+    "**Catchy Title:** «Chasing the Sun» صورة جميلة بتشد القارئ، وبعد النقطتين بيقول الموضوع بوضوح.",
+    "**Introduction + hook:** بدأ بسؤال للقارئ «Have you ever…?»، وبعدين قال الوظيفة (renewable energy) وحكى **إزاي بدأ اهتمامه** (عمه في الفيوم). ده الـ **Clear Purpose** و**Personal Voice**.",
+    "**Body 1 ← المهارات:** مهارات عملية (wiring, measuring electrical output) ومهارات شخصية (problem-solving, teamwork) وسبب أهمية الأمان. ده بيجاوب نقطة «The skills required for success».",
+    "**Present continuous:** «I **am improving** my maths»، «I **am reading**»، «clean energy **is changing**»، «More homes… **are installing**». ده أول نقطة في الـ Writing Checklist.",
+    "**Body 2 ← الفايدة:** وظايف لعمال مهرة، فواتير كهربا أقل، تلوث أقل. ده بيجاوب «How the field contributes to society or the economy».",
+    "**Engaging Conclusion:** لخص رأيه (vocational careers deserve real respect)، قال هدفه (diploma + شركة)، وخلص بسؤال للقراء يخليهم يتفاعلوا.",
+    "**Field-specific vocabulary:** renewable energy, technical school, solar panels, technician, wiring, electrical output, installation. ده تاني نقطة في الـ Checklist.",
+    "**Organised ideas:** 4 فقرات، كل فقرة فكرة واحدة. ده تالت نقطة في الـ Checklist (I organise my ideas)."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "كلمات المجالات (Field-specific Vocabulary)"
+  },
+  {
+   "type": "p",
+   "text": "الـ Checklist بيقول: **My blog post includes field-specific vocabulary**. دي كلمات تساعدك حسب المجال اللي تختاره:"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "renewable energy",
+     "طاقة متجددة (شمس، رياح). Egypt is investing in renewable energy."
+    ],
+    [
+     "technician",
+     "فني متخصص. A solar technician installs and repairs panels."
+    ],
+    [
+     "cybersecurity",
+     "الأمن السيبراني: حماية الأنظمة والشبكات. Cybersecurity experts protect banks from hackers."
+    ],
+    [
+     "culinary arts",
+     "فنون الطبخ. She is studying culinary arts to become a chef."
+    ],
+    [
+     "hospitality management",
+     "إدارة الفنادق والسياحة. Hospitality management is important for tourism."
+    ],
+    [
+     "marine engineering",
+     "الهندسة البحرية (السفن). Marine engineering offers jobs in ports."
+    ],
+    [
+     "agricultural",
+     "زراعي. An agricultural school teaches modern farming."
+    ],
+    [
+     "apprenticeship",
+     "تدريب عملي عند صاحب شغل. I hope to do an apprenticeship with a local company."
+    ],
+    [
+     "employability skills",
+     "مهارات التوظيف (تواصل، شغل جماعي، حل مشاكل)."
+    ],
+    [
+     "hands-on",
+     "عملي بإيدك. Vocational training is very hands-on."
+    ],
+    [
+     "workforce",
+     "القوى العاملة. Egypt needs a skilled workforce."
+    ],
+    [
+     "economic development",
+     "التنمية الاقتصادية. Skilled workers support economic development."
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "أشهر الأخطاء (غلط ← صح)",
+   "items": [
+    "مفيش عنوان ← الـ blog **لازم** catchy title.",
+    "Title: Blog Post ← عنوان ممل. ← **From Flour to Future: Why I Want to Be a Pastry Chef**",
+    "كتابته زي تقرير رسمي (It is recommended that…) ← الـ blog **شخصي**: I, my, me.",
+    "I am wanting to study cooking. ← **I want to study cooking.** — want فعل حالة.",
+    "نسيان نقطة من الأربعة (المجال، المهارات، الفايدة، ليه بتحبه) ← المهمة بتطلبهم كلهم.",
+    "كل الكلام في فقرة واحدة طويلة ← قسم: مقدمة، مهارات، فايدة، خاتمة.",
+    "gonna / wanna / LOL ← ممنوع. الأسلوب ودود بس محترم."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "حيلة للحفظ: T-I-S-B-G",
+   "text": "**T**itle (عنوان جذاب) ← **I**nterest (ليه بحب المجال ده) ← **S**kills (المهارات) ← **B**enefit (الفايدة للمجتمع والاقتصاد) ← **G**oals (أهدافي). وافتكر الكتاب: **catchy، personal، clear، organised، engaging**."
+  },
+  {
+   "type": "h2",
+   "text": "إزاي بييجي في الأسئلة؟"
+  },
+  {
+   "type": "p",
+   "text": "الأسئلة في الكتاب والمراجعات بتيجي بالشكل ده: سؤال اختيار من متعدد عن مميزات الـ blog (زي أسئلة Review D عن مميزات الأنواع)، أو تكميل بالـ present continuous، أو مهمة كتابة (150-180) words."
+  },
+  {
+   "type": "p",
+   "text": "**النوع الأول: Choose the correct answer from a, b, c or d.**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Why does a blogger often end a post with a question such as 'What is your dream career?'",
+    "a. To make the post more formal.",
+    "b. To invite readers to think and respond.",
+    "c. To repeat the title.",
+    "d. To list every source used."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**الإجابة: b** — الكتاب بيطلب **Engaging Conclusion**: فكرة أخيرة أو تأمل، والسؤال بيخلي القارئ يفكر ويرد. (a) غلط لأن السؤال بيخلي الأسلوب أخف مش أرسم."
+  },
+  {
+   "type": "p",
+   "text": "**النوع التاني: Complete with the correct form of the verb in brackets.**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "At the moment, I ______ (learn) basic coding skills online."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**الإجابة: am learning** — At the moment علامة الـ present continuous."
+  },
+  {
+   "type": "p",
+   "text": "**النوع التالت: Which sentence shows a personal voice?**"
+  },
+  {
+   "type": "en",
+   "text": [
+    "a. It is recommended that students choose vocational schools.",
+    "b. I still remember the first time I fixed a car engine with my father."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**الإجابة: b** — فيها I و my وذكرى شخصية. (a) لغة تقرير رسمي."
+  },
+  {
+   "type": "h2",
+   "text": "تدريب"
+  },
+  {
+   "type": "p",
+   "text": "**A. Choose the correct answer from a, b, c or d.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "1. A reflective blog post is…\na. formal and impersonal\nb. personal, engaging and easy to read\nc. a list of facts with no opinions\nd. a letter to a company",
+     "a": "**b** — ده تعريف الكتاب: personal, engaging, and easy to read."
+    },
+    {
+     "q": "2. Which pronouns show a personal voice?\na. it, they\nb. one, someone\nc. I, my, me\nd. he, she",
+     "a": "**c** — الكتاب: Use the first person (I, my, me)."
+    },
+    {
+     "q": "3. Which is the best blog title?\na. Blog\nb. Code Breaker: Why I Want to Protect the Internet\nc. Report Number 3\nd. Dear Readers",
+     "a": "**b** — جذاب ومحدد وبيقول الموضوع."
+    },
+    {
+     "q": "4. In the suggested structure, the body paragraph should…\na. describe the skills needed and how the career helps society\nb. end with your signature\nc. only give the title again\nd. tell a fictional story",
+     "a": "**a** — من الـ Suggested Structure في الكتاب."
+    },
+    {
+     "q": "5. Which is an engaging conclusion?\na. The end.\nb. That is all I have to say.\nc. My goal is to open my own restaurant one day. What is your dream?\nd. Yours faithfully,",
+     "a": "**c** — هدف للمستقبل + سؤال للقراء."
+    },
+    {
+     "q": "6. These days, more young Egyptians ______ technical careers seriously.\na. considered\nb. considers\nc. is considering\nd. are considering",
+     "a": "**d** — present continuous لـ trend بيحصل الفترة دي (These days)، والفاعل جمع (young Egyptians)."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**B. Complete with the present continuous of the verb in brackets.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "7. These days, I ______ (practise) cooking new dishes every weekend.",
+     "a": "**am practising** — These days = الفترة دي."
+    },
+    {
+     "q": "8. The tourism sector ______ (grow) quickly in Egypt.",
+     "a": "**is growing** — trend، والفاعل مفرد."
+    },
+    {
+     "q": "9. More companies ______ (look) for cybersecurity experts.",
+     "a": "**are looking** — فاعل جمع."
+    },
+    {
+     "q": "10. My cousin ______ (train) as a marine engineer at the moment.",
+     "a": "**is training** — at the moment."
+    },
+    {
+     "q": "11. Technology ______ (change) the way farmers work.",
+     "a": "**is changing** — موقف بيتغير."
+    },
+    {
+     "q": "12. I ______ (want) to become a nurse. (Be careful!)",
+     "a": "**want** — فعل حالة، مش بييجي continuous."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**C. Match each sentence to the part of the blog post (Title / Introduction / Skills / Benefit / Conclusion).**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "13. \"Hospitality workers need patience, good communication and foreign languages.\"",
+     "a": "**Skills** — بيوصف المهارات المطلوبة."
+    },
+    {
+     "q": "14. \"Ever since I was ten, I have loved welcoming guests at my family's café.\"",
+     "a": "**Introduction** — بيقول إزاي بدأ الاهتمام."
+    },
+    {
+     "q": "15. \"Tourism creates thousands of jobs and brings money into our economy.\"",
+     "a": "**Benefit** — الفايدة للاقتصاد."
+    },
+    {
+     "q": "16. \"Welcome to My World: Why I Want to Work in Hotels\"",
+     "a": "**Title** — عنوان جذاب."
+    },
+    {
+     "q": "17. \"One day, I hope to manage a hotel in Luxor. Which career would you choose?\"",
+     "a": "**Conclusion** — هدف للمستقبل + سؤال للقراء."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**D. Correct the mistake, then write.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "18. Correct the mistake: I am liking engines very much.",
+     "a": "**I like engines very much.** — like فعل حالة."
+    },
+    {
+     "q": "19. Correct the mistake: At the moment, I studying English for my career.",
+     "a": "**At the moment, I am studying English for my career.** — نسي am."
+    },
+    {
+     "q": "20. Rewrite in a personal voice: \"Culinary arts is a useful field.\"",
+     "a": "مثال: **I have always believed that culinary arts is a wonderful field, because cooking makes me happy.** — حطينا I ومشاعر."
+    },
+    {
+     "q": "21. Write a catchy title for a blog post about becoming a car mechanic.",
+     "a": "مثال: **Under the Bonnet: My Journey to Becoming a Mechanic** — صورة + موضوع واضح."
+    },
+    {
+     "q": "22. Write an introduction (2-3 sentences) for a blog about cybersecurity.",
+     "a": "مثال: **Have you ever had your social media account hacked? My friend has, and that day I decided to study cybersecurity. I want to protect people like him.** — سؤال hook + سبب شخصي."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Checklist قبل ما تسلّم (Writing Checklist)"
+  },
+  {
+   "type": "p",
+   "text": "أول تلات نقط هي الـ Writing Checklist اللي في الكتاب (صفحة 80)."
+  },
+  {
+   "type": "list",
+   "items": [
+    "I use the present continuous form. (استخدمت am / is / are + -ing؟)",
+    "My blog post includes field-specific vocabulary. (كلمات المجال؟)",
+    "I organise my ideas. (فقرات منظمة؟)",
+    "فيه **catchy title**؟",
+    "كتبت بـ **I, my, me** وقلت ليه الوظيفة بتشدني؟",
+    "ذكرت **المجال + المهارات + الفايدة للمجتمع أو الاقتصاد + سبب اهتمامي**؟",
+    "الخاتمة فيها **رأيي وأهدافي** (وممكن سؤال للقراء)؟",
+    "مفيش كلام سوقي ولا أفعال حالة في الـ continuous؟",
+    "عدد الكلمات بين **150 و180**؟"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "مهام كتابة للتدريب"
+  },
+  {
+   "type": "p",
+   "text": "اختار مهمة واكتب **reflective blog post (150-180) words**. تحت كل مهمة خطة قصيرة."
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "Task 1: My Vocational Dream: write about becoming a professional chef (culinary arts).",
+     "a": "**خطة:** Title: From My Grandmother's Kitchen to a Professional Chef ← Intro: ذكرى مع جدتك في المطبخ ← Skills: creativity, food safety, working under pressure + I am practising new recipes… ← Benefit: السياحة والمطاعم بتوفر شغل، Egypt's food is becoming popular… ← Conclusion: هدف: مطعم مصري حديث + سؤال للقراء."
+    },
+    {
+     "q": "Task 2: Write a reflective blog post about a career in cybersecurity.",
+     "a": "**خطة:** Title: Why I Want to Protect the Internet ← Intro: حساب صاحبك اتسرق ← Skills: coding, attention to detail, honesty + I am learning basic coding… ← Benefit: البنوك والشركات محتاجة حماية، more businesses are moving online ← Conclusion: شهادة + شغل في شركة كبيرة."
+    },
+    {
+     "q": "Task 3: Write a reflective blog post about a career in agriculture or marine engineering.",
+     "a": "**خطة:** Title: Engines, Oceans and Me (أو Growing Egypt's Future) ← Intro: زيارة ميناء أو مزرعة ← Skills: مهارات عملية + teamwork + safety ← Benefit: الأمن الغذائي أو التجارة، Egypt is developing its ports/farms… ← Conclusion: هدفك + نصيحة لزمايلك يحترموا التعليم الفني."
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "ملخص الدرس في سطرين",
+   "items": [
+    "الـ reflective blog post = **شخصي (I, my, me)، جذاب، سهل، ومنظم**.",
+    "الهيكل: **Catchy Title ← Introduction (الوظيفة + ليه بتشدك) ← Body (المهارات + الفايدة للمجتمع والاقتصاد) ← Conclusion (رأيك + أهدافك)**.",
+    "استخدم **present continuous** (I am improving… / More companies are looking for…)، ومن غير أفعال الحالة.",
+    "حط **كلمات المجال** (field-specific vocabulary) وقسم أفكارك في فقرات.",
+    "عدد الكلمات **150-180**."
+   ]
+  }
+ ]
+}

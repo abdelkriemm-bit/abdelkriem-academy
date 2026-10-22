@@ -1,0 +1,569 @@
+{
+ "slug": "bac-spea-reporting-other-people-s-views",
+ "title": "Reporting Other People's Views",
+ "kicker": "تانية بكالوريا · Speaking · Units 5, 6",
+ "summary": "إزاي تنقل كلام ورأي غيرك وإنت بتتكلم (خبير، نص، زميل، مجموعتك) بأفعال النقل والـ reported speech، وتستخدمه كدليل.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "الدرس ده عن إيه؟"
+  },
+  {
+   "type": "en",
+   "text": [
+    "In discussions, debates and presentations you often need to tell others what **someone else** said or thinks: an expert, a character in a text, a classmate or your group. We do this with **reporting verbs** (said, explained, warned…) and **reported speech**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "الدرس ده عن إنك **تنقل كلام أو رأي حد تاني** وإنت بتتكلم: خبير في نص قريته، شخص في تسجيل سمعته، زميلك في المجموعة، أو رأي مجموعتك كلها للفصل. بدل ما تعيد كلامه بالحرف، بتقول: «هو **قال إن**…»، «هي **حذرت إن**…»، «**حسب** الخبير…»."
+  },
+  {
+   "type": "p",
+   "text": "في الكتاب: **Unit 5** بيقول في هدف الكلام: *employing reported speech to present the viewpoints of others*، وفيه نص *Young Egyptians Taking Action for Our Planet* مليان أفعال زي *said, added, told, explained, replied, warned, encouraged, reminded*. و**Unit 6** فيه شرح **Reported Speech** (القواعد والـ backshift وتغيير الضماير والوقت والمكان والأسئلة)، وفي **The Wetland Meeting** لازم كل طالب يستخدم **جملة reported speech واحدة على الأقل**."
+  },
+  {
+   "type": "h2",
+   "text": "ليه أنقل رأي حد تاني وأنا بتكلم؟"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**كدليل (Evidence) في الـ JRE:** *The engineer explained that the heater could cut bills by up to forty percent.* ← كلام خبير بيقوّي رأيك.",
+    "**علشان تعترف بالرأي التاني:** *The developer told us that people needed homes, but…*",
+    "**علشان ترد في مناقشة أو مناظرة:** *Nour said that one person can't stop climate change. However,…*",
+    "**لما تكون المتحدث باسم مجموعتك:** *Ali suggested starting with a clean-up, and everyone agreed.*"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "طريقتين لنقل الرأي"
+  },
+  {
+   "type": "en",
+   "text": [
+    "**1. Present reporting** (for opinions that are still true now, often from texts or experts): *The writer **argues** that…* / *According to Dr Hussain,…*  **2. Past reported speech** (for what someone said at a certain time): *Omar **said** that his team **had designed** a heater.*"
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "",
+    "١. نقل بالمضارع",
+    "٢. Reported speech بالماضي"
+   ],
+   "rows": [
+    [
+     "إمتى؟",
+     "رأي لسه موجود دلوقتي، كاتب نص، باحث، كتاب",
+     "كلام اتقال في وقت معين (مؤتمر، اجتماع، مناقشة امبارح)"
+    ],
+    [
+     "الفعل",
+     "argues / claims / believes / suggests / explains",
+     "said / told / explained / warned / added"
+    ],
+    [
+     "الزمن بعده",
+     "**مبيتغيرش**",
+     "بيرجع خطوة لورا (**backshift**)"
+    ],
+    [
+     "مثال",
+     "The text **suggests** that teenagers **need** more sleep.",
+     "Farida **said** that she **had started** a Nile clean-up."
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "أسهل طريقة في الكلام: According to",
+   "text": "لو خايف من الـ backshift، فيه جملة سحرية مبتغيرش أي حاجة: **According to + الشخص / النص, + الجملة زي ما هي**. مثال: *According to the conservationist, migratory birds depend on wetlands.* سهلة ومظبوطة ومناسبة جدًا كدليل."
+  },
+  {
+   "type": "h2",
+   "text": "أفعال النقل (Reporting Verbs) ومعانيها"
+  },
+  {
+   "type": "en",
+   "text": [
+    "Choose the reporting verb that shows **how** the person spoke: Did they explain, warn, suggest, claim or agree? Each verb has its own pattern."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "بدل ما تقول *said* كل شوية، اختار الفعل اللي بيوصف **طريقة** الكلام. وخلي بالك من اللي بييجي **بعد** كل فعل:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "الفعل",
+    "معناه",
+    "بييجي بعده",
+    "مثال"
+   ],
+   "rows": [
+    [
+     "**say**",
+     "قال",
+     "(that) + جملة — **من غير شخص** (أو *said to* + شخص)",
+     "She **said (that)** the river was changing."
+    ],
+    [
+     "**tell**",
+     "قال لـ",
+     "**شخص** + (that) + جملة",
+     "He **told the audience (that)** his team had designed a heater."
+    ],
+    [
+     "**explain**",
+     "شرح / وضّح",
+     "(that) + جملة",
+     "He **explained that** the device could reduce bills."
+    ],
+    [
+     "**add**",
+     "أضاف",
+     "(that) + جملة",
+     "She **added that** solutions were being developed."
+    ],
+    [
+     "**reply**",
+     "رد",
+     "(that) + جملة",
+     "Omar **replied that** the materials cost less than 3,000 pounds."
+    ],
+    [
+     "**claim**",
+     "ادّعى (ومش متأكدين إنه صح)",
+     "(that) + جملة",
+     "The post **claimed that** the collection was 100% sustainable."
+    ],
+    [
+     "**warn**",
+     "حذّر",
+     "(that) + جملة",
+     "She **warned that** the river was changing rapidly."
+    ],
+    [
+     "**argue**",
+     "جادل / قال كحجة",
+     "(that) + جملة",
+     "The farmer **argued that** he needed more land."
+    ],
+    [
+     "**suggest**",
+     "اقترح",
+     "-ing / (that) + someone + فعل",
+     "Ali **suggested starting** with a clean-up."
+    ],
+    [
+     "**encourage**",
+     "شجّع",
+     "شخص + to + فعل",
+     "She **encouraged everyone to take** action."
+    ],
+    [
+     "**remind**",
+     "فكّر حد بحاجة",
+     "شخص + (that) + جملة",
+     "She **reminded the delegates that** Egypt was well positioned."
+    ],
+    [
+     "**agree / disagree**",
+     "وافق / رفض",
+     "(that) + جملة",
+     "Mariam **agreed that** young people needed support."
+    ],
+    [
+     "**ask**",
+     "سأل",
+     "(شخص) + if / whether / wh- + ترتيب جملة عادية",
+     "A journalist **asked him whether** the technology **was** affordable."
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "say ولا tell؟",
+   "text": "**say** مبييجيش بعده شخص على طول: ✗ *She said me that…* ← ✓ *She **said that**…* أو ✓ *She **said to me that**…* أو ✓ *She **told me that**…*. و**tell** لازم بعده شخص: ✗ *He told that…* ← ✓ *He **told us that**…*"
+  },
+  {
+   "type": "h2",
+   "text": "قواعد الـ Reported Speech بسرعة (من Unit 6)"
+  },
+  {
+   "type": "p",
+   "text": "لما فعل النقل يكون **ماضي** (said, told…) بنعمل ٣ تغييرات:"
+  },
+  {
+   "type": "p",
+   "text": "**١) الزمن يرجع خطوة لورا (backshift):**"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "الكلام الأصلي",
+    "في الـ reported speech",
+    "مثال"
+   ],
+   "rows": [
+    [
+     "present simple",
+     "past simple",
+     "\"Fishing **is** our livelihood.\" ← he said fishing **was** their livelihood."
+    ],
+    [
+     "present continuous",
+     "past continuous",
+     "\"I **am trying**…\" ← she said she **was trying**…"
+    ],
+    [
+     "past simple / present perfect",
+     "past perfect",
+     "\"We **designed** / **have designed** a heater.\" ← he said they **had designed** a heater. (الـ past simple ممكن كمان يفضل زي ما هو: *designed*)"
+    ],
+    [
+     "will",
+     "would",
+     "\"We **will lose** our income.\" ← they said they **would lose** their income."
+    ],
+    [
+     "can",
+     "could",
+     "\"We **can protect** the wetland.\" ← she said they **could protect** the wetland."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**٢) الضماير تتغير** حسب مين بيتكلم دلوقتي: *\"**My** livelihood is at risk,\" he said.* ← *He said that **his** livelihood was at risk.*"
+  },
+  {
+   "type": "p",
+   "text": "**٣) كلمات الوقت والمكان تتغير:** now ← then، today ← that day، tomorrow ← the next day، yesterday ← the day before، this ← that، here ← there."
+  },
+  {
+   "type": "p",
+   "text": "**والأسئلة:** نستخدم **if / whether** لسؤال Yes/No، وكلمة السؤال لـ wh-، و**نرجّع الترتيب لجملة عادية** (من غير do/did): *\"Is it affordable?\"* ← *He asked **if it was** affordable.* / *\"What's your favourite hobby?\"* ← *She asked **what my favourite hobby was**.*"
+  },
+  {
+   "type": "p",
+   "text": "**إمتى منعملش backshift؟** لو المعلومة **لسه صحيحة** أو حقيقة عامة: *The conservationist said that migratory birds **depend** on wetlands.* (ده لسه صح، فمش لازم نغير)."
+  },
+  {
+   "type": "h2",
+   "text": "أمثلة من الوحدات"
+  },
+  {
+   "type": "ex",
+   "items": [
+    {
+     "en": "Ms Karim said that she had never seen so much determination from young Egyptians.",
+     "ar": "قالت إنها عمرها ما شافت إصرار زي ده (\"I have never seen\" ← had never seen)."
+    },
+    {
+     "en": "Omar told the audience that his team had designed a low-cost solar water heater.",
+     "ar": "told + شخص (the audience) + that."
+    },
+    {
+     "en": "Farida warned that the river was changing rapidly.",
+     "ar": "warn = حذّر، و\"is changing\" بقت was changing."
+    },
+    {
+     "en": "She encouraged everyone to take action in their local community.",
+     "ar": "encourage + شخص + to + فعل."
+    },
+    {
+     "en": "The farmers said that they would lose their income.",
+     "ar": "\"will\" بقت would، و\"we\" بقت they."
+    },
+    {
+     "en": "My friend asked if I was happy to have a pet.",
+     "ar": "سؤال Yes/No ← if + ترتيب جملة عادية (I was)."
+    },
+    {
+     "en": "According to Dr Hussain, the cost of solar panels has fallen a lot in the last decade.",
+     "ar": "According to: من غير أي تغيير في الزمن."
+    },
+    {
+     "en": "The post claimed that the clothes were 100% sustainable, but it gave no evidence.",
+     "ar": "claim بيبين إننا **مش مصدقين** الكلام أوي."
+    },
+    {
+     "en": "Ali suggested starting the workshop with a beach clean-up.",
+     "ar": "suggest + -ing."
+    },
+    {
+     "en": "Nour agreed that young people needed support from governments.",
+     "ar": "agree that = وافق إن."
+    }
+   ]
+  },
+  {
+   "type": "phrases",
+   "groups": [
+    {
+     "title": "نقل رأي خبير أو نص (كدليل)",
+     "items": [
+      "According to …, …",
+      "The text states / suggests that …",
+      "The writer argues that …",
+      "Experts explain that …",
+      "In the podcast, Dr … said that …"
+     ]
+    },
+    {
+     "title": "نقل رأي زميل في المناقشة",
+     "items": [
+      "As Omar said, …",
+      "Mariam mentioned that …",
+      "Nour made a good point when she said that …",
+      "Ali asked whether …"
+     ]
+    },
+    {
+     "title": "نقل الرأي التاني قبل الرد",
+     "items": [
+      "Some people claim that … However, …",
+      "The developer told us that … but …",
+      "My opponent said that … In fact, …"
+     ]
+    },
+    {
+     "title": "المتحدث باسم المجموعة (reporter)",
+     "items": [
+      "Our group discussed …",
+      "Ali suggested …, and most of us agreed.",
+      "Nour disagreed. She argued that …",
+      "In the end, we all agreed that …"
+     ]
+    },
+    {
+     "title": "نقل سؤال",
+     "items": [
+      "He asked if / whether …",
+      "She wanted to know why …",
+      "A journalist asked him how …"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "نموذج: المتحدث باسم المجموعة بعد The Wetland Meeting"
+  },
+  {
+   "type": "p",
+   "text": "بعد الـ role-play في **Unit 6** الكتاب بيقول: *agree as a group on ONE final decision and be ready to explain your reasons to the class*. ده نموذج للطالب اللي بيقدّم رأي المجموعة، وفيه رأي كل شخصية بالـ reported speech:"
+  },
+  {
+   "type": "model",
+   "title": "Model spoken report (reporter for the group, about 1½ minutes)",
+   "task": "After the role-play \"The Wetland Meeting\", report to the class what each member of your group said and explain the group's final decision. Use reported speech.",
+   "text": [
+    "Our group held a meeting about the future of a wetland that migratory birds depend on. Each of us played a different role.",
+    "First, the conservationist **said that** the wetland **needed** full protection. She **explained that** thousands of birds **stopped** there every year to rest and feed, and she **warned that** they **would lose** a vital part of their journey if it disappeared.",
+    "Then, the local developer **told us that** many families in the area **needed** homes. He **argued that** part of the land **was** flat and well-irrigated, so it **was** perfect for building. He also **asked whether** the birds really **needed** the whole wetland.",
+    "After that, the member of the fishing community **reminded everyone that** her family **depended** on the wetland's fish and clean water for their daily income. She **said that** new buildings **could** pollute the water.",
+    "Finally, after a long discussion, we **agreed that** a fair compromise **was** to protect the water and the main bird areas, and to allow a small number of houses only on dry land at the edge. The developer **suggested adding** a green zone between the houses and the water, and everyone **agreed**.",
+    "So our final decision protects the birds and the fishermen, and it still gives some families new homes."
+   ],
+   "word_count": 209,
+   "notes": [
+    "**تنظيم:** *First / Then / After that / Finally* ← الفصل يقدر يتابع كل شخصية.",
+    "**أفعال نقل متنوعة:** *said, explained, warned, told us, argued, asked whether, reminded everyone, agreed, suggested* بدل *said* كل مرة.",
+    "**Backshift صح:** *needs ← needed، will lose ← would lose، can pollute ← could pollute*.",
+    "**سؤال منقول:** *asked whether the birds really needed…* ← ترتيب جملة عادية من غير do.",
+    "**الأنماط صح:** *told **us** that* (tell + شخص)، *reminded **everyone** that*، *suggested **adding*** (suggest + -ing).",
+    "**الخاتمة:** القرار النهائي والسبب، زي ما الكتاب طالب (*explain your reasons to the class*)."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "أشهر الأخطاء",
+   "items": [
+    "✗ She **said me** that… ← ✓ She **told me** that… / She **said** that…",
+    "✗ He told **that** he was tired. ← ✓ He told **us** that he was tired.",
+    "✗ He asked **if did I finish** my homework. ← ✓ He asked **if I had finished** my homework.",
+    "✗ She asked where **was I** going. ← ✓ She asked where **I was** going.",
+    "✗ He said that he **will** help. ← ✓ He said that he **would** help.",
+    "✗ The farmers said that **we** needed land. ← ✓ … that **they** needed land. (غيّر الضمير)",
+    "✗ She **suggested to start** early. ← ✓ She **suggested starting** early.",
+    "✗ *According to the expert said…* ← ✓ *According to the expert,…* (من غير said)"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "إزاي بييجي في الأسئلة؟"
+  },
+  {
+   "type": "p",
+   "text": "**١) Role-play بشرط reported speech** (Unit 6): *using at least one reported speech sentence* ← استخدم جملة زي *The fisherman told us that fishing was their livelihood.*"
+  },
+  {
+   "type": "p",
+   "text": "**٢) أسئلة MCQ على الجرامر** (Unit 6): *Which sentence is grammatically correct? Circle a, b, c or d.* ← دوّر على backshift صح + ترتيب الجملة في السؤال + say / tell."
+  },
+  {
+   "type": "p",
+   "text": "**٣) سؤال فهم على نص فيه reporting verbs** (Unit 5): زي *According to the text, what did Omar reply when he was asked about the cost?* ← جاوب بالـ reported speech: *He replied that the materials cost less than three thousand pounds.*"
+  },
+  {
+   "type": "h2",
+   "text": "تدريب"
+  },
+  {
+   "type": "p",
+   "text": "**A) Choose the correct answer from a, b, c or d.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "1. \"We depend on this land,\" the farmers said.\na. The farmers said that they depend on this land.\nb. The farmers said that they depended on that land.\nc. The farmers said that we depended on this land.\nd. The farmers told that they depended on that land.",
+     "a": "**b** — backshift (depend ← depended) + we ← they + this ← that."
+    },
+    {
+     "q": "2. \"Can you help us?\" the volunteer asked me.\na. The volunteer asked me if I could help them.\nb. The volunteer asked me can I help them.\nc. The volunteer asked me if could I help them.\nd. The volunteer said me if I could help them.",
+     "a": "**a** — if + ترتيب جملة عادية + can ← could."
+    },
+    {
+     "q": "3. She ______ me that the event had been cancelled.\na. said\nb. told\nc. asked\nd. suggested",
+     "a": "**b** — بعدها شخص (me)، يبقى told."
+    },
+    {
+     "q": "4. The expert ______ that rising temperatures would harm coral reefs.\na. warned\nb. encouraged\nc. asked\nd. told",
+     "a": "**a** — warn that = حذّر. (told محتاجة شخص، وencourage محتاجة شخص + to)"
+    },
+    {
+     "q": "5. ______ the podcast, the cost of solar panels has fallen.\na. According to\nb. As said\nc. Told by\nd. Said",
+     "a": "**a** — According to + المصدر."
+    },
+    {
+     "q": "6. Ali suggested ______ a swap event at school.\na. to organise\nb. organising\nc. organise\nd. organised",
+     "a": "**b** — suggest + -ing."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**B) Report these sentences. Start with the words given.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "7. \"I am collecting old uniforms for the swap event,\" said Hana. → Hana said that…",
+     "a": "Hana said that **she was collecting** old uniforms for the swap event."
+    },
+    {
+     "q": "8. \"We will plant fifty trees tomorrow,\" the eco-team said. → The eco-team said that…",
+     "a": "The eco-team said that **they would plant** fifty trees **the next day**."
+    },
+    {
+     "q": "9. \"Our hobby has become a small business,\" the brothers told us. → The brothers told us that…",
+     "a": "The brothers told us that **their** hobby **had become** a small business."
+    },
+    {
+     "q": "10. \"Why do you buy so many clothes?\" my mother asked me. → My mother asked me…",
+     "a": "My mother asked me **why I bought** so many clothes."
+    },
+    {
+     "q": "11. \"Is this post reliable?\" the student asked. → The student asked…",
+     "a": "The student asked **if / whether that post was** reliable."
+    },
+    {
+     "q": "12. \"Wetlands are home to many species,\" the guide said. (general fact) → The guide said that…",
+     "a": "The guide said that wetlands **are** home to many species. — حقيقة عامة، فمش لازم backshift (ولو قلت *were* برضه مقبولة)."
+    },
+    {
+     "q": "13. \"Take action, however small,\" Farida told the audience. → Farida encouraged…",
+     "a": "Farida **encouraged the audience to take** action, however small."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**C) Choose the best reporting verb: claimed / warned / explained / replied / reminded.**"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "14. \"Remember that the deadline is Friday,\" the teacher said. → The teacher ______ us that the deadline was Friday.",
+     "a": "**reminded** — remind + شخص + that."
+    },
+    {
+     "q": "15. \"This cream makes you look ten years younger!\" the advert said. → The advert ______ that the cream made people look ten years younger.",
+     "a": "**claimed** — ادعاء من غير دليل، وclaim بتبين إننا مش مصدقين."
+    },
+    {
+     "q": "16. \"Be careful, the beach is dangerous after storms,\" the lifeguard said. → The lifeguard ______ that the beach was dangerous after storms.",
+     "a": "**warned** — تحذير."
+    },
+    {
+     "q": "17. \"It works by using sunlight to heat the water,\" the engineer said. → The engineer ______ that it worked by using sunlight to heat the water.",
+     "a": "**explained** — شرح طريقة الشغل."
+    },
+    {
+     "q": "18. \"Yes, it's cheap: less than three thousand pounds,\" Omar answered. → Omar ______ that it was cheap.",
+     "a": "**replied** — رد على سؤال."
+    }
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**D) Speaking practice: انقل رأي حد تاني واستخدمه في كلامك.** (أفكار نموذجية)"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "19. (Unit 5) Report what young Egyptian activists said at an environment conference, then give your opinion.",
+     "a": "*A student told the audience that his team had designed a cheap solar heater. A girl from Luxor said that her clean-up campaign had grown to hundreds of volunteers.* **Opinion:** *This shows that young people can lead real change.*"
+    },
+    {
+     "q": "20. (Unit 5) Interview two classmates: \"What is one action you can take for the environment?\" Report their answers.",
+     "a": "*Sara said that she would stop using plastic bags. Youssef told me that he was trying to save electricity at home. Both of them agreed that small actions add up.*"
+    },
+    {
+     "q": "21. (Unit 6) Report the three views from the Wetland Meeting in one minute.",
+     "a": "*The conservationist said the wetland needed protection. The developer argued that families needed homes. The fisherwoman reminded us that her income depended on the fish.* **Decision:** protect the water, build only on the edge."
+    },
+    {
+     "q": "22. (Unit 6) Use a reported expert view as evidence: Should countries share responsibility for migratory birds?",
+     "a": "*Yes. Conservationists explained that birds needed protection in every country they visited, and experts warned that funding could decrease. So international cooperation is essential.*"
+    },
+    {
+     "q": "23. (Unit 9) Report what a new student told you about her first week at school.",
+     "a": "*She told me that she had felt invisible at first, but she said that joining the library volunteers had helped her make friends.*"
+    },
+    {
+     "q": "24. (Unit 10) Report a misleading post and react to it.",
+     "a": "*The post claimed that the new collection was 100% sustainable. It said that shoppers could buy \"guilt-free\". However, it didn't explain how the clothes were made, so I wouldn't trust it.*"
+    },
+    {
+     "q": "25. (Any unit) As your group's reporter, summarise a discussion where members disagreed.",
+     "a": "*Mariam argued that social media created unrealistic expectations. Omar disagreed. He said that it also helped people find support. In the end, we agreed that it depends on how people use it.*"
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "ملخص الدرس في سطرين",
+   "items": [
+    "انقل رأي غيرك كـ **دليل** أو علشان **تعترف بالرأي التاني** أو وإنت **بتتكلم باسم مجموعتك**.",
+    "**According to …,** و*The writer argues that…* (مضارع) من غير backshift. أسهل طريقة.",
+    "بعد *said / told* الماضي: **backshift** (is ← was، will ← would، can ← could، have done ← had done) + غيّر الضماير والوقت والمكان.",
+    "**say** (that) من غير شخص، **tell** + شخص. والسؤال: **if / whether** + ترتيب جملة عادية.",
+    "نوّع الأفعال: *explained, warned, claimed, suggested (+ -ing), encouraged (+ someone + to), reminded*."
+   ]
+  }
+ ]
+}
