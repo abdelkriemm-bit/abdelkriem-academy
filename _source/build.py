@@ -211,7 +211,7 @@ about = pagehead("About","About Abdelkriem Academy","Free educational resources 
 <section class="block"><div class="wrap prose">
 <p>Abdelkriem Academy is a free educational resources website by Mohamed Abdelkriem, an English teacher with 11 years of experience in British-system schools and learning centres in Cairo. He teaches Cambridge Checkpoint, Cambridge IGCSE English as a Second Language (0510) and OxfordAQA International GCSE courses, and creates English video lessons for students and parents.</p>
 <h2>Qualifications</h2>
-<ul class="ticks"><li>CELTA — Cambridge English</li><li>Professional Educator Diploma — The American University in Cairo</li><li>Professional Educational Diploma — Ain Shams University</li><li>TEFL Diploma — AIPS Academy, USA</li><li>Bachelor's in Management — Arab Open University / The Open University (UK)</li></ul>
+<ul class="ticks"><li>CELTA — Cambridge English</li><li>Professional Educator Diploma — The American University in Cairo</li><li>Professional Educational Diploma — Ain Shams University</li><li>TEFL Diploma — AIPS Academy, USA</li><li>Bachelor's degree in Management</li></ul>
 <h2>Our promise</h2>
 <p>Every resource here is written for real classrooms: clear notes, honest exam advice and model answers you can learn from. Everything is free to use for personal study.</p>
 </div></section>'''
