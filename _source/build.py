@@ -90,9 +90,9 @@ home = f'''
 <div class="htext">
 <p class="kicker">Abdelkriem Academy · Educate Me Up</p>
 <h1>Free educational resources that get students <em>exam-ready.</em></h1>
-<p class="lead">Free courses, notes, practice and model answers for students and parents: Cambridge and Oxford English, تانية بكالوريا, a complete Quran course (reading, tajweed and memorisation) and English from zero to pro — prepared by Mohamed Abdelkriem, a British-curriculum teacher with 11 years in the classroom.</p>
+<p class="lead">Free courses, notes, practice and model answers for students and parents: Cambridge and Oxford English, تانية بكالوريا, a complete Quran course (reading, tajweed and memorisation) and English from zero to pro — prepared by Mohamed Abdelkriem, a British-curriculum teacher with 14 years in the classroom.</p>
 <div class="ctas"><a class="btn" href="#courses">Browse the courses</a><a class="btn ghost" href="#parents">For parents</a></div>
-<ul class="stats"><li><b>11</b><span>years teaching</span></li><li><b>8</b><span>free courses</span></li><li><b>100%</b><span>free to use</span></li></ul>
+<ul class="stats"><li><b>14</b><span>years teaching</span></li><li><b>8</b><span>free courses</span></li><li><b>100%</b><span>free to use</span></li></ul>
 </div>
 <figure class="portrait"><img src="images/mohamed-abdelkriem.jpg" width="1294" height="1618" alt="Mohamed Abdelkriem, teacher" onerror="this.parentNode.classList.add('noimg')"><span class="ph">Mohamed<br>Abdelkriem</span>
 <figcaption>“No English exam left standing — my students are on a mission to conquer all.”</figcaption></figure>
@@ -209,9 +209,9 @@ page("improve-english.html","English: From Zero to Pro — إنجليزي من �
 # ---------- ABOUT / CONTACT / PRIVACY / TERMS ----------
 about = pagehead("About","About Abdelkriem Academy","Free educational resources made by a working classroom teacher.") + '''
 <section class="block"><div class="wrap prose">
-<p>Abdelkriem Academy is a free educational resources website by Mohamed Abdelkriem, an English teacher with 11 years of experience in British-system schools and learning centres in Cairo. He teaches Cambridge Checkpoint, Cambridge IGCSE English as a Second Language (0510) and OxfordAQA International GCSE courses, and creates English video lessons for students and parents.</p>
+<p>Abdelkriem Academy is a free educational resources website by Mohamed Abdelkriem, an English teacher with 14 years of experience in British-system schools and learning centres in Cairo. He teaches Cambridge Checkpoint, Cambridge IGCSE English as a Second Language (0510) and OxfordAQA International GCSE courses, and creates English video lessons for students and parents.</p>
 <h2>Qualifications</h2>
-<ul class="ticks"><li>CELTA — Cambridge English</li><li>Professional Educator Diploma — The American University in Cairo</li><li>Professional Educational Diploma — Ain Shams University</li><li>TEFL Diploma — AIPS Academy, USA</li><li>Bachelor's degree in Management</li></ul>
+<ul class="ticks"><li>CELTA — Cambridge English</li><li>Professional Educator Diploma — The American University in Cairo</li><li>Professional Educational Diploma — Ain Shams University</li><li>TEFL Diploma — AIPS Academy, USA</li><li>Bachelor's degree in Management — dual certificate (Egypt and the UK)</li></ul>
 <h2>Our promise</h2>
 <p>Every resource here is written for real classrooms: clear notes, honest exam advice and model answers you can learn from. Everything is free to use for personal study.</p>
 </div></section>'''
