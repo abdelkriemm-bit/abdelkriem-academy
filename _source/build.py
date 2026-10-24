@@ -28,6 +28,8 @@ def head(title, desc, rtl=False):
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;800&family=Fraunces:opsz,wght@9..144,600;9..144,800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
+<meta name="google-adsense-account" content="ca-pub-8885402561273130">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8885402561273130" crossorigin="anonymous"></script>
 </head>
 <body>
 '''
@@ -245,6 +247,7 @@ page("terms.html","Terms of Use — Abdelkriem Academy","Terms of use for Abdelk
 
 with open(f"{OUT}/images/favicon.svg","w") as f:
     f.write('<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#0f1b33"/><text x="32" y="42" font-family="Georgia,serif" font-size="28" font-weight="700" text-anchor="middle" fill="#d4a24c">AA</text></svg>')
+with open(f"{OUT}/ads.txt","w") as f: f.write("google.com, pub-8885402561273130, DIRECT, f08c47fec0942fa0\n")
 with open(f"{OUT}/robots.txt","w") as f: f.write("User-agent: *\nAllow: /\nSitemap: https://abdelkriemacademy.com/sitemap.xml\n")
 EXTRA_PAGES = []
 PAGES_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "pages")
