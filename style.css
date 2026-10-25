@@ -28,12 +28,12 @@ html[dir=rtl] .kicker{letter-spacing:0;font-size:.95rem}
 .brand b{display:block;font-family:Fraunces,serif;font-size:1.1rem;letter-spacing:.01em}
 .brand small{display:block;color:var(--gold);font-size:.72rem;letter-spacing:.16em;text-transform:uppercase}
 .mark{width:40px;height:40px;border-radius:10px;background:var(--gold);color:var(--navy);display:grid;place-items:center;font-family:Fraunces,serif;font-weight:800}
-.top nav{display:flex;gap:4px;flex-wrap:wrap}
+.top nav{display:flex;gap:4px;flex-wrap:nowrap}
 .top nav a{text-decoration:none;font-size:.92rem;padding:8px 12px;border-radius:999px;color:#d9deea;white-space:nowrap}
 .top nav a:hover{background:rgba(255,255,255,.08);color:#fff}
 .top nav a.on{background:var(--gold);color:var(--navy);font-weight:600}
 .menu{display:none;background:none;border:1px solid rgba(255,255,255,.25);color:#fff;border-radius:10px;font-size:1.2rem;padding:6px 12px;cursor:pointer}
-@media (max-width:960px){
+@media (max-width:1120px){
   .menu{display:block}
   .top nav{display:none;position:absolute;top:68px;left:0;right:0;background:var(--navy);flex-direction:column;padding:12px 20px 20px}
   .nav-open .top nav{display:flex}
@@ -136,5 +136,3 @@ html[dir=rtl] .tag{letter-spacing:0}
 /* readable gold text on light backgrounds (contrast) */
 .tag,.card .go,.weeks .wn{color:#7f5c1c}
 .banner{height:auto}
-@media (min-width:961px) and (max-width:1400px){.top nav{gap:2px;flex-wrap:nowrap}.top nav a{padding:7px 9px;font-size:.85rem}.brand small{display:none}}
-@media (min-width:961px) and (max-width:1180px){.top nav a{padding:6px 7px;font-size:.8rem}.brand b{font-size:.95rem}}

@@ -8,8 +8,8 @@ PL = {
  "parents": "PLZn-QO9NSjZSQsQLpm2O2QVnymKTOJ-hD", "tips": "PLZn-QO9NSjZQhhfkg0HBadGcs9Kfn0IRv",
  "ielts": "PLZn-QO9NSjZSuQZSRDvkmDOOnINQqF56t", "situations": "PLZn-QO9NSjZTVogFkUdSRhjTNpm7PjPLX",
 }
-NAV = [("index.html","Home","الرئيسية"),("british.html","British & IGCSE",""),("american.html","American Diploma",""),("baccalaureate.html","تانية بكالوريا English",""),
-       ("quran.html","Quran · حفظ القرآن",""),("improve-english.html","English · من الصفر للاحتراف",""),("about.html","About","")]
+NAV = [("index.html","Home","الرئيسية"),("british.html","British &amp; IGCSE",""),("american.html","American Diploma",""),("baccalaureate.html","تانية بكالوريا",""),
+       ("quran.html","Quran",""),("improve-english.html","English from Zero",""),("about.html","About","")]
 
 def head(title, desc, rtl=False):
     d = 'dir="rtl" lang="ar"' if rtl else 'lang="en"'
