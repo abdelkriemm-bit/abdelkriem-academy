@@ -95,7 +95,7 @@
     ],
     [
      "**Planetary systems**",
-     "Many stars have planets and other objects orbiting them. Our planetary system is the Solar System. Astronomers have already found more than 5000 planets orbiting other stars."
+     "Many stars have planets and other objects orbiting them. Our planetary system is the Solar System. Astronomers have already found more than 6000 planets orbiting other stars."
     ],
     [
      "**Stellar dust**",
@@ -137,6 +137,15 @@
    "ordered": false
   },
   {
+   "type": "photo",
+   "src": "images/sci/cp8s-galaxies-asteroids-1.webp",
+   "alt": "The Milky Way as a bright arch of stars across a dark night sky",
+   "caption": "The Milky Way seen from a dark desert in Chile: the bright band is the disc of our galaxy, with dark dust clouds; the two small smudges on the left are the Magellanic Clouds.",
+   "credit": "Photo: Bruno Gilli/ESO / Wikimedia Commons, CC BY 4.0",
+   "w": 800,
+   "h": 242
+  },
+  {
    "type": "p",
    "text": "**Other galaxies:** the Universe contains at least hundreds of billions of galaxies. They have different shapes:"
   },
@@ -164,6 +173,15 @@
      "The Large and Small Magellanic Clouds, small galaxies near the Milky Way"
     ]
    ]
+  },
+  {
+   "type": "photo",
+   "src": "images/sci/cp8s-galaxies-asteroids-2.webp",
+   "alt": "The Andromeda Galaxy, a large spiral galaxy seen at an angle",
+   "caption": "The Andromeda Galaxy, a spiral galaxy about 2.5 million light-years away; the light from it left about 2.5 million years ago.",
+   "credit": "Photo: Adam Evans / Wikimedia Commons, CC BY 2.0",
+   "w": 800,
+   "h": 526
   },
   {
    "type": "p",
@@ -212,6 +230,15 @@
      "less than 1 km"
     ]
    ]
+  },
+  {
+   "type": "photo",
+   "src": "images/sci/cp8s-galaxies-asteroids-3.webp",
+   "alt": "The cratered, lumpy surface of the asteroid Vesta",
+   "caption": "Vesta, about 525 km across, photographed by NASA's Dawn spacecraft: it is cratered and not perfectly round.",
+   "credit": "Photo: NASA/JPL-Caltech/UCLA/MPS/DLR/IDA / Wikimedia Commons, public domain",
+   "w": 800,
+   "h": 686
   },
   {
    "type": "p",
@@ -289,6 +316,15 @@
   {
    "type": "p",
    "text": "Because asteroids have hardly changed since then, they are like **time capsules**. Spacecraft from Japan and the USA have collected tiny samples from asteroids and brought them back to the Earth to learn what the early Solar System was made of."
+  },
+  {
+   "type": "photo",
+   "src": "images/sci/cp8s-galaxies-asteroids-4.webp",
+   "alt": "The asteroid Bennu, a dark grey rocky body covered in boulders",
+   "caption": "The small asteroid Bennu, photographed by NASA's OSIRIS-REx spacecraft, which brought a sample of its rock back to the Earth in 2023.",
+   "credit": "Photo: NASA/Goddard/University of Arizona / Wikimedia Commons, public domain",
+   "w": 800,
+   "h": 450
   },
   {
    "type": "box",

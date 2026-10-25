@@ -153,6 +153,15 @@
    "ordered": false
   },
   {
+   "type": "photo",
+   "src": "images/sci/cp6s-rock-cycle-1.webp",
+   "alt": "A piece of dark, fine-grained basalt rock",
+   "caption": "Basalt, an igneous rock made when lava cooled quickly at the surface: its crystals are too small to see without a hand lens.",
+   "credit": "Photo: Jan Nyssen / Wikimedia Commons, CC BY-SA 4.0",
+   "w": 800,
+   "h": 810
+  },
+  {
    "type": "h2",
    "text": "Erosion — breaking rocks down and moving them"
   },
@@ -161,12 +170,30 @@
    "text": "When rocks are at the surface, the weather slowly breaks them into pieces (**weathering**): rain gets into cracks; in deserts, rocks heat up by day and cool at night, so the outside layers crack and flake off; plant roots grow into cracks and split rock apart. The pieces are then carried away by rivers, wind, waves and ice (**erosion**). As they are carried, they knock against each other and become **smaller and rounder** — that is why sedimentary rocks have **rounded grains**."
   },
   {
+   "type": "photo",
+   "src": "images/sci/cp6s-rock-cycle-2.webp",
+   "alt": "White chalk rock towers standing in a sandy desert",
+   "caption": "The White Desert near Farafra, Egypt: wind and blown sand have weathered and eroded the soft white chalk into towers, leaving sand and rock pieces around them.",
+   "credit": "Photo: Vyacheslav Argenberg / Wikimedia Commons, CC BY 4.0",
+   "w": 800,
+   "h": 533
+  },
+  {
    "type": "h2",
    "text": "Sedimentation and burial — making sedimentary rock"
   },
   {
    "type": "p",
    "text": "When a river reaches a lake or the sea it slows down and **drops** its load. The sediment **settles** in flat layers (**sedimentation**). Over millions of years more layers are laid on top (**burial**). The weight of the layers above presses the grains together and squeezes out the water (compaction), and dissolved minerals glue the grains together (cementation). The sediment has become **sedimentary rock**."
+  },
+  {
+   "type": "photo",
+   "src": "images/sci/cp6s-rock-cycle-3.webp",
+   "alt": "Canyon walls made of many horizontal bands of red and cream rock",
+   "caption": "Layers of sedimentary rock in the Grand Canyon, USA: each band was once sediment laid down flat, and the lowest layers are the oldest.",
+   "credit": "Photo: Mx. Granger / Wikimedia Commons, CC0",
+   "w": 800,
+   "h": 514
   },
   {
    "type": "svg",

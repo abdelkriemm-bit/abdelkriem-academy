@@ -113,6 +113,15 @@
    "caption": "Blood seen through a microscope. Red blood cells are far more common than white blood cells."
   },
   {
+   "type": "photo",
+   "src": "images/sci/cp8s-blood-1.webp",
+   "alt": "Stained blood seen through a light microscope",
+   "caption": "Real blood under a light microscope (stained): many pale red blood cells with no nucleus, and one white blood cell with a large purple nucleus.",
+   "credit": "Photo: Echinaceapallida / Wikimedia Commons, CC BY-SA 4.0",
+   "w": 800,
+   "h": 600
+  },
+  {
    "type": "h2",
    "text": "Red blood cells: carrying oxygen"
   },
@@ -124,6 +133,15 @@
    "type": "svg",
    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 240\" width=\"560\" font-family=\"Arial, sans-serif\" font-size=\"15\"><circle cx=\"80.0\" cy=\"80.0\" r=\"40\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"80.0\" cy=\"80.0\" r=\"18.0\" fill=\"#f3b3b0\"/><path d=\"M40.0 170.0C40.0 158.0 55.0 158.0 65.0 164.0C75.0 168.0 85.0 168.0 95.0 164.0C105.0 158.0 120.0 158.0 120.0 170.0C120.0 182.0 105.0 182.0 95.0 176.0C85.0 172.0 75.0 172.0 65.0 176.0C55.0 182.0 40.0 182.0 40.0 170.0Z\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"80\" y=\"225\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">Red blood cell</text><text x=\"80\" y=\"22\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">from above</text><text x=\"80\" y=\"145\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">from the side</text><line x1=\"98\" y1=\"82\" x2=\"160\" y2=\"60\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"165\" y=\"52\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">thin centre (dimple)</text><text x=\"165\" y=\"69\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">no nucleus</text><line x1=\"124\" y1=\"165\" x2=\"160\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"165\" y=\"146\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">biconcave disc</text><text x=\"165\" y=\"163\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">large surface area</text><circle cx=\"430.0\" cy=\"110.0\" r=\"55\" fill=\"#efe6f7\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"409.1\" cy=\"115.5\" r=\"16.5\" fill=\"#8e6bb8\"/><circle cx=\"430.0\" cy=\"93.5\" r=\"16.5\" fill=\"#8e6bb8\"/><circle cx=\"450.9\" cy=\"115.5\" r=\"16.5\" fill=\"#8e6bb8\"/><text x=\"430\" y=\"225\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">White blood cell</text><line x1=\"430\" y1=\"77\" x2=\"400\" y2=\"30\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"398\" y=\"24\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">nucleus</text><text x=\"430\" y=\"190\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">bigger than a red cell</text></svg>",
    "caption": "A red blood cell from above and from the side, and a white blood cell."
+  },
+  {
+   "type": "photo",
+   "src": "images/sci/cp8s-blood-2.webp",
+   "alt": "Electron microscope image of a red blood cell, a white blood cell and a platelet",
+   "caption": "Electron microscope image with colours added: a red blood cell (red) showing its dimpled, biconcave shape, a white blood cell (blue) and a platelet (yellow).",
+   "credit": "Photo: Electron Microscopy Facility, NCI-Frederick / Wikimedia Commons, public domain",
+   "w": 500,
+   "h": 326
   },
   {
    "type": "table",

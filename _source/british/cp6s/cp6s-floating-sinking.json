@@ -112,12 +112,30 @@
    "text": "This is why huge ships made of steel float. A solid block of steel would sink, but a ship is a hollow shape full of air. The steel is spread out into a wide hull that pushes aside a very large amount of water."
   },
   {
+   "type": "photo",
+   "src": "images/sci/cp6s-floating-sinking-1.webp",
+   "alt": "A huge container ship in the Suez Canal seen from space",
+   "caption": "A steel container ship about 400 m long in Egypt's Suez Canal, photographed from the International Space Station: its wide, hollow hull pushes aside enough water to float.",
+   "credit": "Photo: NASA JSC ISS image library / Wikimedia Commons, public domain",
+   "w": 800,
+   "h": 554
+  },
+  {
    "type": "h2",
    "text": "4. How mass affects floating"
   },
   {
    "type": "p",
    "text": "Now keep the **shape** the same and change the **mass**. Put cargo into a floating boat: the boat sits **lower** in the water, because more of it must be under water to push aside enough water to balance the bigger weight. Keep adding cargo and at last the boat cannot push aside enough water — water comes over the sides and the boat **sinks**."
+  },
+  {
+   "type": "photo",
+   "src": "images/sci/cp6s-floating-sinking-2.webp",
+   "alt": "White load-line marks painted on the side of a ship",
+   "caption": "Load-line marks on a ship's side: the more cargo it carries, the lower it sits, and the water must never rise above the correct line, or the ship could sink.",
+   "credit": "Photo: Niels Johannes / Wikimedia Commons, CC BY-SA 4.0",
+   "w": 800,
+   "h": 533
   },
   {
    "type": "svg",

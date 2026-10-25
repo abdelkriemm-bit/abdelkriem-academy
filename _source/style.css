@@ -137,3 +137,4 @@ html[dir=rtl] .tag{letter-spacing:0}
 .tag,.card .go,.weeks .wn{color:#7f5c1c}
 .banner{height:auto}
 .dia{margin:1.2rem auto;text-align:center}.dia svg{max-width:100%;height:auto;background:#fff;border:1px solid #e6e0d2;border-radius:10px}.dia figcaption{font-size:.9rem;color:#5b6170;margin-top:.4rem}
+.photo{margin:1.2rem auto;max-width:560px;text-align:center}.photo img{width:100%;height:auto;border-radius:12px;border:1px solid #e6e0d2;background:#fff}.photo figcaption{font-size:.9rem;color:#5b6170;margin-top:.4rem}.photo .credit{display:block;font-size:.75rem;opacity:.75;margin-top:.2rem}

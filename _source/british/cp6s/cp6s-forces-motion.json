@@ -150,8 +150,26 @@
    ]
   },
   {
+   "type": "photo",
+   "src": "images/sci/cp6s-forces-motion-1.webp",
+   "alt": "A bicycle brake block next to the metal rim of a wheel",
+   "caption": "A bicycle brake: when the rider brakes, the rubber block presses on the wheel rim, and friction between the two surfaces acts against the motion and slows the bicycle.",
+   "credit": "Photo: jburgin (Flickr) / Wikimedia Commons, CC BY 2.0",
+   "w": 490,
+   "h": 450
+  },
+  {
    "type": "p",
    "text": "Notice the pattern: **friction, air resistance and water resistance always act against the movement.** If an object moves to the right, these forces point to the left. Air resistance and water resistance get **bigger when the object moves faster**, and they are smaller for **streamlined** shapes (smooth, pointed shapes like a fish or a racing car)."
+  },
+  {
+   "type": "photo",
+   "src": "images/sci/cp6s-forces-motion-2.webp",
+   "alt": "A dolphin swimming underwater",
+   "caption": "A dolphin's smooth, pointed, streamlined shape gives it less water resistance, so it can move quickly through the water.",
+   "credit": "Photo: Tony Hisgett from Birmingham, UK / Wikimedia Commons, CC BY 2.0",
+   "w": 800,
+   "h": 682
   },
   {
    "type": "h2",

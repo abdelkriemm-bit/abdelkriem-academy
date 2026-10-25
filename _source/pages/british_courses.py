@@ -100,6 +100,15 @@ def _bblock(b):
     if t == "list":
         tag = "ol" if b.get("ordered") else "ul"
         return f"<{tag}>" + "".join(f'<li dir="auto">{_bE(i)}</li>' for i in b["items"]) + f"</{tag}>"
+    if t == "photo":
+        src = str(b.get("src", ""))
+        if not _bre.match(r"^images/[a-z0-9/_.-]+\.(webp|jpg|jpeg|png)$", src):
+            return ""
+        w, h = b.get("w"), b.get("h")
+        wh = f' width="{int(w)}" height="{int(h)}"' if w and h else ""
+        cap = _bE(b.get("caption", ""))
+        cr = f'<small class="credit">{_bE(b["credit"])}</small>' if b.get("credit") else ""
+        return f'<figure class="photo"><img src="{src}" alt="{_bh.escape(b.get("alt", ""))}" loading="lazy"{wh}><figcaption>{cap}{cr}</figcaption></figure>'
     if t == "svg":
         g = str(b.get("svg", ""))
         if not g.lstrip().lower().startswith("<svg") or "<script" in g.lower() or _bre.search(r"\son\w+=", g):

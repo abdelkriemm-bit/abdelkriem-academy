@@ -366,6 +366,24 @@
    ]
   },
   {
+   "type": "photo",
+   "src": "images/sci/cp6s-working-scientifically-1.webp",
+   "alt": "Water in a glass measuring cylinder, showing the curved surface",
+   "caption": "The water surface curves down in the middle (the meniscus): read the scale at the bottom of the curve, with your eye level with it.",
+   "credit": "Photo: Milda 444 / Wikimedia Commons, CC BY-SA 4.0",
+   "w": 800,
+   "h": 700
+  },
+  {
+   "type": "photo",
+   "src": "images/sci/cp6s-working-scientifically-2.webp",
+   "alt": "A mechanical stopwatch",
+   "caption": "A stopwatch measures short times far more accurately than a wall clock; count what one small division on its dial is worth before you read it.",
+   "credit": "Photo: Al Riaz Uddin / Wikimedia Commons, CC BY-SA 4.0",
+   "w": 520,
+   "h": 520
+  },
+  {
    "type": "svg",
    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 520 305\" width=\"520\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M102 94 Q130 106 158 94 L158 280 L102 280 Z\" fill=\"#cfe3f7\" stroke=\"none\"/><path d=\"M102 94 Q130 106 158 94\" fill=\"none\" stroke=\"#2b5fb4\" stroke-width=\"2\"/><path d=\"M100 18 L100 282 M160 18 L160 282\" stroke=\"#0f1b33\" stroke-width=\"2.5\" fill=\"none\"/><path d=\"M80 282 H180 V294 H80 Z\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M100 280h18M100 270h10M100 260h10M100 250h10M100 240h10M100 230h18M100 220h10M100 210h10M100 200h10M100 190h10M100 180h18M100 170h10M100 160h10M100 150h10M100 140h10M100 130h18M100 120h10M100 110h10M100 100h10M100 90h10M100 80h18M100 70h10M100 60h10M100 50h10M100 40h10M100 30h18\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"94\" y=\"235\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">10</text><text x=\"94\" y=\"185\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">20</text><text x=\"94\" y=\"135\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">30</text><text x=\"94\" y=\"85\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">40</text><text x=\"94\" y=\"35\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">50</text><text x=\"64\" y=\"150\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">ml</text><line x1=\"165\" y1=\"100\" x2=\"300\" y2=\"100\" stroke=\"#c0392b\" stroke-width=\"1.5\" stroke-dasharray=\"5 4\"/><ellipse cx=\"318\" cy=\"100\" rx=\"14\" ry=\"8\" fill=\"#fff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"314\" cy=\"100\" r=\"4\" fill=\"#0f1b33\"/><text x=\"345\" y=\"82\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">eye level with the</text><text x=\"345\" y=\"98\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">bottom of the curve</text><text x=\"345\" y=\"114\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">(the meniscus)</text><text x=\"345\" y=\"230\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">Each small mark = 2 ml</text></svg>",
    "caption": "The scale goes up in 2 ml for each small mark. The bottom of the meniscus is on the 36 ml line, so the volume is 36 ml."

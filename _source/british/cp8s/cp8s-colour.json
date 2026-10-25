@@ -72,6 +72,15 @@
    "text": "Light from the Sun or a bright lamp looks white, but it is really a **mixture of many colours**. You can show this with a glass **prism**: shine a narrow beam of white light into one side and a band of colours comes out of the other side. This splitting of white light into colours is called **dispersion**, and the band of colours is called a **spectrum**."
   },
   {
+   "type": "photo",
+   "src": "images/sci/cp8s-colour-1.webp",
+   "alt": "A glass prism splitting a beam of white light into a band of colours",
+   "caption": "A glass prism disperses white light into a spectrum, from red (bent least) to violet (bent most).",
+   "credit": "Photo: Kelvinsong / Wikimedia Commons, CC0",
+   "w": 800,
+   "h": 800
+  },
+  {
    "type": "svg",
    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 300\" width=\"560\" font-family=\"Arial, sans-serif\" font-size=\"16\"><polygon points=\"190,30 80,250 300,250\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"39.9\" y1=\"159.2\" x2=\"140.5\" y2=\"129\" stroke=\"#0f1b33\" stroke-width=\"3.5\"/><polygon points=\"90.2,144.1 81.7,151.1 79.3,142.9\" fill=\"#0f1b33\"/><polyline points=\"140.5,129 239,127.9 470,187.4\" fill=\"none\" stroke=\"#e53935\" stroke-width=\"2.6\"/><polyline points=\"140.5,129 239.3,128.6 470,194\" fill=\"none\" stroke=\"#fb8c00\" stroke-width=\"2.6\"/><polyline points=\"140.5,129 239.6,129.2 470,200.7\" fill=\"none\" stroke=\"#f2c200\" stroke-width=\"2.6\"/><polyline points=\"140.5,129 239.9,129.9 470,207.6\" fill=\"none\" stroke=\"#43a047\" stroke-width=\"2.6\"/><polyline points=\"140.5,129 240.2,130.5 470,214.7\" fill=\"none\" stroke=\"#1e88e5\" stroke-width=\"2.6\"/><polyline points=\"140.5,129 240.5,131.1 470,222.1\" fill=\"none\" stroke=\"#3949ab\" stroke-width=\"2.6\"/><polyline points=\"140.5,129 240.8,131.7 470,229.8\" fill=\"none\" stroke=\"#8e24aa\" stroke-width=\"2.6\"/><rect x=\"470\" y=\"157.4\" width=\"8\" height=\"102.3\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"10\" y=\"118\" font-weight=\"bold\">white light</text><text x=\"190\" y=\"285\" text-anchor=\"middle\">glass prism</text><text x=\"464\" y=\"273.8\" text-anchor=\"end\">screen</text><line x1=\"480\" y1=\"187.4\" x2=\"494\" y2=\"149.6\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"497\" y=\"154.6\" font-size=\"16\">red</text><line x1=\"480\" y1=\"194\" x2=\"494\" y2=\"169.6\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"497\" y=\"174.6\" font-size=\"16\">orange</text><line x1=\"480\" y1=\"200.7\" x2=\"494\" y2=\"189.6\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"497\" y=\"194.6\" font-size=\"16\">yellow</text><line x1=\"480\" y1=\"207.6\" x2=\"494\" y2=\"209.6\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"497\" y=\"214.6\" font-size=\"16\">green</text><line x1=\"480\" y1=\"214.7\" x2=\"494\" y2=\"229.6\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"497\" y=\"234.6\" font-size=\"16\">blue</text><line x1=\"480\" y1=\"222.1\" x2=\"494\" y2=\"249.6\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"497\" y=\"254.6\" font-size=\"16\">indigo</text><line x1=\"480\" y1=\"229.8\" x2=\"494\" y2=\"269.6\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"497\" y=\"274.6\" font-size=\"16\">violet</text></svg>",
    "caption": "Dispersion: white light enters a glass prism and is split into a spectrum. Red is refracted least and violet is refracted most."
@@ -128,6 +137,15 @@
    "style": "tip",
    "title": "Rainbows",
    "text": "A rainbow is dispersion in nature. Sunlight enters raindrops, is refracted, reflects off the back of the drop and is refracted again as it leaves. Each colour is bent by a different amount, so you see a spectrum. You can only see a rainbow when the Sun is **behind** you and the rain is in front of you."
+  },
+  {
+   "type": "photo",
+   "src": "images/sci/cp8s-colour-2.webp",
+   "alt": "A rainbow arching over green fields under a cloudy sky",
+   "caption": "A rainbow: sunlight is dispersed by raindrops, so red is on the outside of the arc and violet on the inside.",
+   "credit": "Photo: Kreuzschnabel / Wikimedia Commons, CC BY-SA 3.0",
+   "w": 800,
+   "h": 392
   },
   {
    "type": "h2",

@@ -138,6 +138,15 @@
    "ordered": false
   },
   {
+   "type": "photo",
+   "src": "images/sci/cp8s-earth-resources-1.webp",
+   "alt": "A small magnetic compass with a red and silver needle",
+   "caption": "The needle of a compass is a tiny magnet that lines up with the Earth's magnetic field; its red (north-seeking) end is marked.",
+   "credit": "Photo: Evan-Amos / Wikimedia Commons, public domain",
+   "w": 800,
+   "h": 667
+  },
+  {
    "type": "box",
    "style": "ar",
    "title": "ليه الأرض مغناطيس؟",
@@ -207,7 +216,7 @@
     ],
     [
      "Natural gas",
-     "Generating electricity; cooking and heating in homes (gas cylinders and pipes)"
+     "Generating electricity; cooking and heating in homes (supplied through gas pipes)"
     ]
    ]
   },
@@ -272,6 +281,24 @@
   {
    "type": "p",
    "text": "**Egypt as an example:** Egypt has strong sunshine almost all year, so it has built very large solar farms, such as the one at Benban near Aswan. The coast of the Gulf of Suez is very windy, so wind farms have been built there. The Aswan High Dam produces hydroelectric power from the Nile. The Mediterranean and Red Sea have only small tides, so tidal power is not a good choice for Egypt. **The best renewable resource depends on the place.**"
+  },
+  {
+   "type": "photo",
+   "src": "images/sci/cp8s-earth-resources-2.webp",
+   "alt": "Rows of wind turbines in a desert near the Red Sea coast",
+   "caption": "Wind turbines at Zafarana on the Gulf of Suez coast, one of the windiest places in Egypt.",
+   "credit": "Photo: Hatem Moushir / Wikimedia Commons, CC BY-SA 3.0",
+   "w": 800,
+   "h": 530
+  },
+  {
+   "type": "photo",
+   "src": "images/sci/cp8s-earth-resources-3.webp",
+   "alt": "The Aswan High Dam with its power station and electricity pylons",
+   "caption": "The Aswan High Dam: water from Lake Nasser flows through turbines to generate hydroelectric power, which leaves through the switchyard and power lines in front.",
+   "credit": "Photo: Silar / Wikimedia Commons, CC BY-SA 4.0",
+   "w": 800,
+   "h": 534
   },
   {
    "type": "box",

@@ -213,9 +213,36 @@
    ]
   },
   {
+   "type": "photo",
+   "src": "images/sci/cp8s-climate-1.webp",
+   "alt": "A wide U-shaped mountain valley with a lake, seen from the air",
+   "caption": "A U-shaped valley: a glacier carved this wide, flat-bottomed shape, so U-shaped valleys in places with no ice today show that glaciers were once there.",
+   "credit": "Photo: Steve Hillebrand, U.S. Fish and Wildlife Service / Wikimedia Commons, public domain",
+   "w": 800,
+   "h": 1202
+  },
+  {
+   "type": "photo",
+   "src": "images/sci/cp8s-climate-2.webp",
+   "alt": "A large boulder standing in shallow sea water",
+   "caption": "An erratic boulder: ice sheets carried rocks like this far from where they formed and dropped them when the ice melted.",
+   "credit": "Photo: Kurinurm / Wikimedia Commons, CC0",
+   "w": 800,
+   "h": 600
+  },
+  {
    "type": "svg",
    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 320\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\" fill=\"#0f1b33\"><rect x=\"70\" y=\"30\" width=\"90\" height=\"45\" fill=\"#f4f9ff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"70\" y=\"75\" width=\"90\" height=\"45\" fill=\"#dfeaf7\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"70\" y=\"120\" width=\"90\" height=\"45\" fill=\"#f4f9ff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"70\" y=\"165\" width=\"90\" height=\"45\" fill=\"#dfeaf7\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"70\" y=\"210\" width=\"90\" height=\"45\" fill=\"#f4f9ff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"70\" y=\"255\" width=\"90\" height=\"45\" fill=\"#dfeaf7\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"85.9\" cy=\"52.6\" r=\"4\" fill=\"#ffffff\" stroke=\"#2b5fa8\" stroke-width=\"1.2\"/><circle cx=\"114\" cy=\"53.5\" r=\"4\" fill=\"#ffffff\" stroke=\"#2b5fa8\" stroke-width=\"1.2\"/><circle cx=\"143\" cy=\"45.9\" r=\"4\" fill=\"#ffffff\" stroke=\"#2b5fa8\" stroke-width=\"1.2\"/><circle cx=\"84.1\" cy=\"101.7\" r=\"4\" fill=\"#ffffff\" stroke=\"#2b5fa8\" stroke-width=\"1.2\"/><circle cx=\"113.1\" cy=\"93.3\" r=\"4\" fill=\"#ffffff\" stroke=\"#2b5fa8\" stroke-width=\"1.2\"/><circle cx=\"146\" cy=\"96.6\" r=\"4\" fill=\"#ffffff\" stroke=\"#2b5fa8\" stroke-width=\"1.2\"/><circle cx=\"90.7\" cy=\"141.7\" r=\"4\" fill=\"#ffffff\" stroke=\"#2b5fa8\" stroke-width=\"1.2\"/><circle cx=\"116.1\" cy=\"137.1\" r=\"4\" fill=\"#ffffff\" stroke=\"#2b5fa8\" stroke-width=\"1.2\"/><circle cx=\"143.1\" cy=\"147.2\" r=\"4\" fill=\"#ffffff\" stroke=\"#2b5fa8\" stroke-width=\"1.2\"/><circle cx=\"88.2\" cy=\"190.4\" r=\"4\" fill=\"#ffffff\" stroke=\"#2b5fa8\" stroke-width=\"1.2\"/><circle cx=\"116.4\" cy=\"180.9\" r=\"4\" fill=\"#ffffff\" stroke=\"#2b5fa8\" stroke-width=\"1.2\"/><circle cx=\"144.1\" cy=\"188.3\" r=\"4\" fill=\"#ffffff\" stroke=\"#2b5fa8\" stroke-width=\"1.2\"/><circle cx=\"86.4\" cy=\"225.4\" r=\"4\" fill=\"#ffffff\" stroke=\"#2b5fa8\" stroke-width=\"1.2\"/><circle cx=\"117.9\" cy=\"231.6\" r=\"4\" fill=\"#ffffff\" stroke=\"#2b5fa8\" stroke-width=\"1.2\"/><circle cx=\"143.8\" cy=\"237.3\" r=\"4\" fill=\"#ffffff\" stroke=\"#2b5fa8\" stroke-width=\"1.2\"/><circle cx=\"89.7\" cy=\"282.9\" r=\"4\" fill=\"#ffffff\" stroke=\"#2b5fa8\" stroke-width=\"1.2\"/><circle cx=\"114.2\" cy=\"281.2\" r=\"4\" fill=\"#ffffff\" stroke=\"#2b5fa8\" stroke-width=\"1.2\"/><circle cx=\"141.6\" cy=\"283.1\" r=\"4\" fill=\"#ffffff\" stroke=\"#2b5fa8\" stroke-width=\"1.2\"/><line x1=\"40\" y1=\"40\" x2=\"40\" y2=\"281.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"40,290 35.5,280 44.5,280\" fill=\"#0f1b33\"/><text x=\"212\" y=\"60\">Top: newest snow</text><text x=\"212\" y=\"290\">Bottom: oldest ice</text><text x=\"30\" y=\"316\">deeper = older</text><line x1=\"148\" y1=\"142\" x2=\"290\" y2=\"200\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"148\" cy=\"142\" r=\"2.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"212\" y=\"190\"></text><text x=\"296\" y=\"206\">air bubbles: samples of</text><text x=\"296\" y=\"226\">the air from long ago</text><line x1=\"160\" y1=\"100\" x2=\"210\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"212\" y=\"105\">one layer ≈ one year's snow</text></svg>",
    "caption": "An ice core (not to scale). Each year's snow makes a new layer on top, so deeper ice is older. Trapped air bubbles are samples of the ancient atmosphere."
+  },
+  {
+   "type": "photo",
+   "src": "images/sci/cp8s-climate-3.webp",
+   "alt": "The round end of a freshly cut cylinder of ice from an ice core",
+   "caption": "A freshly cut section of an ice core from Greenland: the ice holds tiny bubbles of old air that scientists can analyse.",
+   "credit": "Photo: Helle Astrid Kjær / Wikimedia Commons, CC BY 4.0",
+   "w": 800,
+   "h": 533
   },
   {
    "type": "h2",
@@ -395,6 +422,15 @@
     "This shows that **any change in the atmosphere can change the climate** — warming or cooling."
    ],
    "ordered": true
+  },
+  {
+   "type": "photo",
+   "src": "images/sci/cp8s-climate-4.webp",
+   "alt": "Ash clouds rising from the crater of Mount Pinatubo in 1991",
+   "caption": "Mount Pinatubo erupting in June 1991: ash and gases thrown high into the atmosphere blocked some sunlight and cooled the Earth slightly for about two years.",
+   "credit": "Photo: T. J. Casadevall, U.S. Geological Survey / Wikimedia Commons, public domain",
+   "w": 800,
+   "h": 534
   },
   {
    "type": "box",

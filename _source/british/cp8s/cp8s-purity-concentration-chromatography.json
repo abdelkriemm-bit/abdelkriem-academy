@@ -189,6 +189,15 @@
    "text": "Many coloured substances — inks, food colourings, plant dyes — are really **mixtures** of several dyes. **Paper chromatography** separates them so you can see how many substances are present and identify them."
   },
   {
+   "type": "photo",
+   "src": "images/sci/cp8s-purity-concentration-chromatography-1.webp",
+   "alt": "Paper chromatography of black ink showing red and green bands",
+   "caption": "Black ink after paper chromatography: the solvent has carried its dyes up the paper and separated them into red, green and dark bands, so the ink is a mixture.",
+   "credit": "Photo: Oscar / Wikimedia Commons, CC BY-SA 3.0",
+   "w": 800,
+   "h": 706
+  },
+  {
    "type": "svg",
    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 315\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"13\"><rect x=\"140\" y=\"58\" width=\"200\" height=\"10\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M150 70 L150 300 L330 300 L330 70\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"151\" y=\"262\" width=\"178\" height=\"37\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\"/><line x1=\"150\" y1=\"262\" x2=\"330\" y2=\"262\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"152\" y=\"76\" width=\"176\" height=\"6\" fill=\"#d9d9d9\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"215\" y=\"82\" width=\"50\" height=\"206\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.3\"/><line x1=\"218\" y1=\"245\" x2=\"262\" y2=\"245\" stroke=\"#0f1b33\" stroke-width=\"1.3\"/><ellipse cx=\"230\" cy=\"245\" rx=\"5\" ry=\"4\" fill=\"#0f1b33\"/><ellipse cx=\"250\" cy=\"245\" rx=\"5\" ry=\"4\" fill=\"#0f1b33\"/><line x1=\"340\" y1=\"63\" x2=\"365\" y2=\"63\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"370\" y=\"67\">lid</text><line x1=\"265\" y1=\"150\" x2=\"365\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"370\" y=\"154\">chromatography paper</text><line x1=\"328\" y1=\"79\" x2=\"365\" y2=\"79\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"370\" y=\"83\">glass rod</text><line x1=\"255\" y1=\"245\" x2=\"365\" y2=\"245\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"370\" y=\"249\">spots of the samples</text><line x1=\"330\" y1=\"282\" x2=\"365\" y2=\"280\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"370\" y=\"284\">solvent (below the line)</text><line x1=\"120\" y1=\"245\" x2=\"217\" y2=\"245\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"10\" y=\"241\">pencil start</text><text x=\"10\" y=\"257\">line</text></svg>",
    "caption": "Paper chromatography apparatus."
@@ -204,6 +213,15 @@
     "The solvent soaks up the paper. As it passes the spots, it **dissolves** the substances and carries them upwards. Substances that are **more soluble** in the solvent travel **further**; less soluble ones travel a shorter distance.",
     "Take the paper out **before the solvent reaches the top**. Mark how far the solvent got (the **solvent front**) in pencil, then let the paper dry. The dried paper with its spots is the **chromatogram**."
    ]
+  },
+  {
+   "type": "photo",
+   "src": "images/sci/cp8s-purity-concentration-chromatography-2.webp",
+   "alt": "Four felt-tip ink samples separating on paper hanging in a beaker of water",
+   "caption": "Paper chromatography of four inks. The pencil start line is above the water, and each ink separates into different coloured dyes as the water soaks up the paper.",
+   "credit": "Photo: Pbak4622 / Wikimedia Commons, CC BY 4.0",
+   "w": 800,
+   "h": 761
   },
   {
    "type": "box",

@@ -384,6 +384,15 @@
    ]
   },
   {
+   "type": "photo",
+   "src": "images/sci/cp8s-working-scientifically-2.webp",
+   "alt": "Four Bunsen burner flames, from a yellow flame to a blue flame",
+   "caption": "Bunsen burner flames: with the air hole closed you get the yellow safety flame (1); as the air hole is opened the flame turns blue and much hotter (4).",
+   "credit": "Photo: Arthur Jan Fijałkowski / Wikimedia Commons, CC BY-SA 3.0",
+   "w": 800,
+   "h": 719
+  },
+  {
    "type": "h2",
    "text": "5. Sorting, classifying and keys"
   },
@@ -421,6 +430,15 @@
    "type": "svg",
    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 470 285\" width=\"470\" font-family=\"Arial, sans-serif\" font-size=\"15\"><path d=\"M110 270V90.0Q150.0 102.0 190 90.0V270Z\" fill=\"#cfe2f7\"/><line x1=\"110\" y1=\"15\" x2=\"110\" y2=\"270\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"190\" y1=\"15\" x2=\"190\" y2=\"270\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M110 90.0Q150.0 102.0 190 90.0\" fill=\"none\" stroke=\"#2b5fb4\" stroke-width=\"2\"/><line x1=\"110\" y1=\"250\" x2=\"132\" y2=\"250\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"102\" y=\"255\" text-anchor=\"end\" font-size=\"14\" fill=\"#0f1b33\">20</text><line x1=\"110\" y1=\"239\" x2=\"122\" y2=\"239\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"228\" x2=\"122\" y2=\"228\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"217\" x2=\"122\" y2=\"217\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"206\" x2=\"122\" y2=\"206\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"195\" x2=\"132\" y2=\"195\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"102\" y=\"200\" text-anchor=\"end\" font-size=\"14\" fill=\"#0f1b33\">25</text><line x1=\"110\" y1=\"184\" x2=\"122\" y2=\"184\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"173\" x2=\"122\" y2=\"173\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"162\" x2=\"122\" y2=\"162\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"151\" x2=\"122\" y2=\"151\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"140\" x2=\"132\" y2=\"140\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"102\" y=\"145\" text-anchor=\"end\" font-size=\"14\" fill=\"#0f1b33\">30</text><line x1=\"110\" y1=\"129\" x2=\"122\" y2=\"129\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"118\" x2=\"122\" y2=\"118\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"107\" x2=\"122\" y2=\"107\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"96\" x2=\"122\" y2=\"96\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"85\" x2=\"132\" y2=\"85\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"102\" y=\"90\" text-anchor=\"end\" font-size=\"14\" fill=\"#0f1b33\">35</text><line x1=\"110\" y1=\"74\" x2=\"122\" y2=\"74\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"63\" x2=\"122\" y2=\"63\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"52\" x2=\"122\" y2=\"52\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"41\" x2=\"122\" y2=\"41\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"30\" x2=\"132\" y2=\"30\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"102\" y=\"35\" text-anchor=\"end\" font-size=\"14\" fill=\"#0f1b33\">40</text><text x=\"60\" y=\"20\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">cm³</text><line x1=\"200\" y1=\"96\" x2=\"260\" y2=\"96\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-dasharray=\"5 4\"/><ellipse cx=\"280\" cy=\"96.0\" rx=\"16\" ry=\"9\" fill=\"#fff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"274\" cy=\"96.0\" r=\"5\" fill=\"#0f1b33\"/><text x=\"302\" y=\"78\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">eye level with the</text><text x=\"302\" y=\"94\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">bottom of the meniscus</text></svg>",
    "caption": "Each small division is 1 cm³. The bottom of the meniscus is at 34 cm³."
+  },
+  {
+   "type": "photo",
+   "src": "images/sci/cp8s-working-scientifically-1.webp",
+   "alt": "Close-up of water in a glass burette showing a curved meniscus",
+   "caption": "Water in a glass tube curves down in the middle (a meniscus). Read the scale with your eye level with the bottom of the curve.",
+   "credit": "Photo: Akaniji / Wikimedia Commons, CC BY-SA 3.0",
+   "w": 672,
+   "h": 742
   },
   {
    "type": "p",

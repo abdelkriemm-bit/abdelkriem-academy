@@ -140,6 +140,15 @@
    ]
   },
   {
+   "type": "photo",
+   "src": "images/sci/cp6s-mass-weight-gravity-1.webp",
+   "alt": "The planet Jupiter with coloured cloud bands and the Great Red Spot",
+   "caption": "Jupiter has far more mass than the Earth, so its gravity is much stronger: the same object would weigh about two and a half times as much there.",
+   "credit": "Photo: NASA, ESA, and A. Simon (Goddard Space Flight Center) / Wikimedia Commons, public domain",
+   "w": 800,
+   "h": 800
+  },
+  {
    "type": "svg",
    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 310\" width=\"560\" font-family=\"Arial, sans-serif\" font-size=\"13\"><circle cx=\"280\" cy=\"160\" r=\"85\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"280\" cy=\"160\" r=\"3\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><text x=\"280\" y=\"180\" text-anchor=\"middle\" fill=\"#0f1b33\">centre</text><rect x=\"270\" y=\"53\" width=\"20\" height=\"20\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" transform=\"rotate(0 280 63)\"/><line x1=\"280\" y1=\"69\" x2=\"280\" y2=\"106\" stroke=\"#c0392b\" stroke-width=\"2.5\"/><polygon points=\"280,115 275.5,106 284.5,106\" fill=\"#c0392b\"/><rect x=\"367\" y=\"150\" width=\"20\" height=\"20\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" transform=\"rotate(90 377 160)\"/><line x1=\"371\" y1=\"160\" x2=\"334\" y2=\"160\" stroke=\"#c0392b\" stroke-width=\"2.5\"/><polygon points=\"325,160 334,155.5 334,164.5\" fill=\"#c0392b\"/><rect x=\"270\" y=\"247\" width=\"20\" height=\"20\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" transform=\"rotate(-180 280 257)\"/><line x1=\"280\" y1=\"251\" x2=\"280\" y2=\"214\" stroke=\"#c0392b\" stroke-width=\"2.5\"/><polygon points=\"280,205 284.5,214 275.5,214\" fill=\"#c0392b\"/><rect x=\"173\" y=\"150\" width=\"20\" height=\"20\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" transform=\"rotate(-90 183 160)\"/><line x1=\"189\" y1=\"160\" x2=\"226\" y2=\"160\" stroke=\"#c0392b\" stroke-width=\"2.5\"/><polygon points=\"235,160 226,164.5 226,155.5\" fill=\"#c0392b\"/><text x=\"280\" y=\"30\" text-anchor=\"middle\" fill=\"#0f1b33\">Gravity pulls every object towards the centre of the Earth.</text><text x=\"280\" y=\"300\" text-anchor=\"middle\" fill=\"#0f1b33\">The red arrows show the weight of each object.</text></svg>",
    "caption": "Down means \"towards the centre of the Earth\" — wherever you stand on the Earth, your weight pulls you towards its centre."
@@ -206,6 +215,15 @@
   {
    "type": "p",
    "text": "**Why can astronauts jump so high on the Moon?** Their mass is the same, but the Moon's gravity is about one sixth of the Earth's, so their weight is much smaller. The pull back down is weaker, so they can jump higher and carry heavy backpacks easily."
+  },
+  {
+   "type": "photo",
+   "src": "images/sci/cp6s-mass-weight-gravity-2.webp",
+   "alt": "The full Moon showing grey craters and dark plains",
+   "caption": "The Moon has much less mass than the Earth, so its gravity is only about one sixth as strong: an astronaut's weight is smaller there, but her mass is the same.",
+   "credit": "Photo: Gregory H. Revera / Wikimedia Commons, CC BY-SA 3.0",
+   "w": 800,
+   "h": 760
   },
   {
    "type": "box",

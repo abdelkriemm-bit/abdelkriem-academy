@@ -107,6 +107,24 @@
    ]
   },
   {
+   "type": "photo",
+   "src": "images/sci/cp8s-pressure-diffusion-1.webp",
+   "alt": "Close-up of the wide, padded feet of a camel standing on sand",
+   "caption": "A camel's feet are wide and padded, so its weight is spread over a large area and the pressure on soft sand is small.",
+   "credit": "Photo: A Burqa / Wikimedia Commons, CC BY-SA 4.0",
+   "w": 800,
+   "h": 532
+  },
+  {
+   "type": "photo",
+   "src": "images/sci/cp8s-pressure-diffusion-2.webp",
+   "alt": "A pair of old wooden snowshoes with woven netting",
+   "caption": "Snowshoes have a very large area, which lowers the pressure on the snow so the walker does not sink in.",
+   "credit": "Photo: Billertl / Wikimedia Commons, CC0",
+   "w": 800,
+   "h": 1067
+  },
+  {
    "type": "p",
    "text": "**Rearranging.** Use a formula triangle with F on top and p × A underneath: **force = pressure × area** and **area = force ÷ pressure**."
   },
@@ -220,6 +238,15 @@
     "Even when the mixing is complete, the particles **keep moving** — the mixture just stays evenly mixed.",
     "Diffusion matters in living things: oxygen diffuses from the air in the lungs into the blood, and carbon dioxide diffuses the other way."
    ]
+  },
+  {
+   "type": "photo",
+   "src": "images/sci/cp8s-pressure-diffusion-3.webp",
+   "alt": "Purple potassium permanganate spreading through water in a beaker",
+   "caption": "Purple potassium permanganate spreading through water: with time its particles intermingle with the water particles until the colour is even.",
+   "credit": "Photo: Alessandro e Damiano / Wikimedia Commons, CC BY 4.0",
+   "w": 800,
+   "h": 800
   },
   {
    "type": "svg",

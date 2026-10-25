@@ -115,9 +115,27 @@
    ]
   },
   {
+   "type": "photo",
+   "src": "images/sci/cp8s-skeleton-muscles-1.webp",
+   "alt": "X-ray of a human shoulder joint",
+   "caption": "At the shoulder, the rounded top of the upper arm bone (the ball) sits in a shallow cup of the shoulder blade (the socket), so the arm can move in all directions.",
+   "credit": "Photo: Mikael Häggström / Wikimedia Commons, CC0",
+   "w": 800,
+   "h": 1207
+  },
+  {
    "type": "svg",
    "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 520 380\" width=\"520\" font-family=\"Arial, sans-serif\" font-size=\"15\"><circle cx=\"150\" cy=\"42\" r=\"24\" fill=\"#fff\" stroke=\"#0f1b33\" stroke-width=\"3\"/><line x1=\"150\" y1=\"66\" x2=\"150\" y2=\"82\" stroke=\"#0f1b33\" stroke-width=\"4\"/><line x1=\"106\" y1=\"86\" x2=\"194\" y2=\"86\" stroke=\"#0f1b33\" stroke-width=\"4\"/><line x1=\"150\" y1=\"82\" x2=\"150\" y2=\"196\" stroke=\"#0f1b33\" stroke-width=\"4\"/><line x1=\"120\" y1=\"196\" x2=\"180\" y2=\"196\" stroke=\"#0f1b33\" stroke-width=\"4\"/><line x1=\"106\" y1=\"86\" x2=\"92\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"4\"/><line x1=\"92\" y1=\"150\" x2=\"86\" y2=\"212\" stroke=\"#0f1b33\" stroke-width=\"4\"/><line x1=\"194\" y1=\"86\" x2=\"208\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"4\"/><line x1=\"208\" y1=\"150\" x2=\"214\" y2=\"212\" stroke=\"#0f1b33\" stroke-width=\"4\"/><line x1=\"120\" y1=\"196\" x2=\"116\" y2=\"280\" stroke=\"#0f1b33\" stroke-width=\"4\"/><line x1=\"116\" y1=\"280\" x2=\"114\" y2=\"360\" stroke=\"#0f1b33\" stroke-width=\"4\"/><line x1=\"180\" y1=\"196\" x2=\"184\" y2=\"280\" stroke=\"#0f1b33\" stroke-width=\"4\"/><line x1=\"184\" y1=\"280\" x2=\"186\" y2=\"360\" stroke=\"#0f1b33\" stroke-width=\"4\"/><circle cx=\"106\" cy=\"86\" r=\"9\" fill=\"#f6d5d2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"194\" cy=\"86\" r=\"9\" fill=\"#f6d5d2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"120\" cy=\"196\" r=\"9\" fill=\"#f6d5d2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"180\" cy=\"196\" r=\"9\" fill=\"#f6d5d2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"84\" y=\"142\" width=\"16\" height=\"16\" fill=\"#cfe2f7\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"200\" y=\"142\" width=\"16\" height=\"16\" fill=\"#cfe2f7\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"108\" y=\"272\" width=\"16\" height=\"16\" fill=\"#cfe2f7\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"176\" y=\"272\" width=\"16\" height=\"16\" fill=\"#cfe2f7\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"206\" y1=\"86\" x2=\"290\" y2=\"86\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"296\" y=\"91\" text-anchor=\"start\" font-size=\"14\" fill=\"#0f1b33\">shoulder: ball-and-socket</text><line x1=\"220\" y1=\"150\" x2=\"290\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"296\" y=\"155\" text-anchor=\"start\" font-size=\"14\" fill=\"#0f1b33\">elbow: hinge</text><line x1=\"192\" y1=\"196\" x2=\"290\" y2=\"196\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"296\" y=\"201\" text-anchor=\"start\" font-size=\"14\" fill=\"#0f1b33\">hip: ball-and-socket</text><line x1=\"196\" y1=\"280\" x2=\"290\" y2=\"280\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"296\" y=\"285\" text-anchor=\"start\" font-size=\"14\" fill=\"#0f1b33\">knee: hinge</text><line x1=\"170\" y1=\"30\" x2=\"290\" y2=\"30\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"296\" y=\"26\" text-anchor=\"start\" font-size=\"14\" fill=\"#0f1b33\">skull: fixed joints</text><text x=\"296\" y=\"43\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">(no movement)</text><circle cx=\"300\" cy=\"330\" r=\"9\" fill=\"#f6d5d2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"316\" y=\"335\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">ball-and-socket joint</text><rect x=\"292\" y=\"350\" width=\"16\" height=\"16\" fill=\"#cfe2f7\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"316\" y=\"363\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">hinge joint</text></svg>",
    "caption": "Where the main joints are in the human skeleton (simplified)."
+  },
+  {
+   "type": "photo",
+   "src": "images/sci/cp8s-skeleton-muscles-2.webp",
+   "alt": "X-ray of a bent elbow seen from the side",
+   "caption": "At the elbow, the end of the upper arm bone fits into a curved notch in a forearm bone like a door hinge, so the arm can only bend and straighten.",
+   "credit": "Photo: Mikael Häggström / Wikimedia Commons, CC0",
+   "w": 800,
+   "h": 812
   },
   {
    "type": "h2",
@@ -132,6 +150,15 @@
     "A slippery liquid inside the joint (synovial fluid) **lubricates** it, like oil in a door hinge.",
     "**Tendons** are strong cords that join **muscle to bone**. They do not stretch, so when a muscle shortens the pull is passed to the bone."
    ]
+  },
+  {
+   "type": "photo",
+   "src": "images/sci/cp8s-skeleton-muscles-3.webp",
+   "alt": "X-ray of a knee seen from the side",
+   "caption": "The knee is a hinge joint. The gap between the thigh bone and the shin bone looks empty because cartilage does not show up on an X-ray.",
+   "credit": "Photo: Ptrump16 / Wikimedia Commons, CC BY-SA 4.0",
+   "w": 800,
+   "h": 1072
   },
   {
    "type": "p",
