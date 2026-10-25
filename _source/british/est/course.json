@@ -1,0 +1,39 @@
+{
+ "hub": "est-exam.html",
+ "active": "american.html",
+ "short": "EST",
+ "labels": {
+  "prev": "← Previous",
+  "next": "Next →",
+  "back": "← Back to",
+  "done": "Finished! Back to",
+  "toc": "All pages in this course",
+  "start": "Start the course →",
+  "crumb": "<a href=\"american.html\">American Diploma</a> › "
+ },
+ "kicker": "American Diploma · EST (Egyptian Scholastic Test)",
+ "title": "EST I Literacy — Complete Guide",
+ "summary": "The Egyptian Scholastic Test explained, a guide to both Literacy tests, links to the full grammar and reading lessons, and a timed practice test.",
+ "meta_desc": "Free EST (Egyptian Scholastic Test) guide: EST I Literacy 1 (Writing and Language) and Literacy 2 (Reading), strategies and a timed practice test with explanations.",
+ "sections": [
+  {
+   "title": "Start here",
+   "pages": [
+    "est-overview"
+   ]
+  },
+  {
+   "title": "The two Literacy tests",
+   "pages": [
+    "est-literacy-1-guide",
+    "est-literacy-2-guide"
+   ]
+  },
+  {
+   "title": "Practice test",
+   "pages": [
+    "est-practice-test-1"
+   ]
+  }
+ ]
+}

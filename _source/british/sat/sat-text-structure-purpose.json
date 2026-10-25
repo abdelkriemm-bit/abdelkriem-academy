@@ -1,0 +1,615 @@
+{
+ "slug": "sat-text-structure-purpose",
+ "title": "Text Structure and Purpose",
+ "kicker": "American Diploma · Digital SAT · Reading and Writing · Craft and Structure",
+ "summary": "Learn to name the job of every sentence so you can answer main purpose, overall structure and underlined-sentence function questions quickly and accurately.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Text Structure and Purpose questions ask you to think like a writer. The question is not \"What does the text say?\" but \"What is the text **doing**, and how is it built?\" You read one short passage (25–150 words) and answer one four-option question about the job of the whole text, the order of its ideas, or the job of one underlined sentence."
+  },
+  {
+   "type": "p",
+   "text": "The question usually comes in one of three forms (in our own words):"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Main purpose:** \"Which choice best states the main purpose of the text?\"",
+    "**Overall structure:** \"Which choice best describes the overall structure of the text?\"",
+    "**Function of a part:** \"Which choice best describes the function of the underlined sentence in the text as a whole?\" (Sometimes the underlined part is a phrase or the last sentence.)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "This skill belongs to the **Craft and Structure** domain, together with Words in Context and Cross-Text Connections. Craft and Structure is about 28% of the scored Reading and Writing questions (13–15 questions across both modules). Craft and Structure questions usually come near the start of each module, so these questions are often among the first you see. Passages come from literature, history/social studies, the humanities and science."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "The big idea",
+   "text": "Every sentence in an SAT passage has a **job**. One sentence introduces a topic, the next gives an example, the next challenges an old idea. If you can name each job in two or three words, structure and purpose questions become simple matching."
+  },
+  {
+   "type": "h2",
+   "text": "The method: label every sentence's job"
+  },
+  {
+   "type": "p",
+   "text": "Use this method on every purpose, structure and function question. It takes about 40 seconds once you have practised it."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Read the whole text before the choices.** Do not read the answers first; they are written to sound good.",
+    "**Label each sentence in 2–3 words.** Use a verb: \"states old view\", \"gives example\", \"rejects old view\", \"describes setting\", \"shows feeling changes\". Write the labels on your scratch paper as S1, S2, S3…",
+    "**Find the turn.** Words like however, yet, but, in fact, recently and surprisingly often mark the most important move in the text. The sentence after the turn is usually the author's real point.",
+    "**Answer the exact question.** Purpose = the job of ALL the labels together (usually the main claim). Structure = the labels in order (\"X, then Y\"). Function = the job of ONE sentence in relation to the sentences around it.",
+    "**Predict before you look.** Say your answer in one short line: \"to show that an old belief about dandelions is wrong\".",
+    "**Check the verb first, then the content.** Eliminate any choice whose verb is wrong (\"criticize\" when the text only describes). Then check that every word in the remaining choice is true. A choice that is half right is all wrong."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "**A quick demonstration.** Imagine a four-sentence science text. S1: \"Scientists long believed that X.\" → *states old view*. S2: \"A new study found Y.\" → *gives new evidence*. S3: \"Y cannot happen if X is true.\" → *shows conflict*. S4: \"The authors suggest that X may need revision.\" → *proposes change*. Purpose: to present evidence that challenges an earlier belief. Structure: an old view, new evidence, and a suggested revision. Function of S3: it explains why the new evidence conflicts with the old view."
+  },
+  {
+   "type": "h2",
+   "text": "Function verbs: the vocabulary of the answer choices"
+  },
+  {
+   "type": "p",
+   "text": "The answer choices are built from a small set of verbs. Learn exactly what each one means. Many wrong answers use a verb that is **too strong** (criticize, refute, prove) or simply the wrong kind of move."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Verb",
+    "What the sentence or text does",
+    "Typical signals in the passage"
+   ],
+   "rows": [
+    [
+     "introduce",
+     "presents a topic, person, problem or idea for the first time",
+     "first sentence; \"For years…\"; \"Many people believe…\""
+    ],
+    [
+     "describe",
+     "tells what something is like, with no judgment",
+     "details, adjectives, facts"
+    ],
+    [
+     "explain",
+     "tells how or why something happens",
+     "because, so, as a result, this is why"
+    ],
+    [
+     "illustrate",
+     "gives a specific example of a general point",
+     "for example, for instance, consider, one case"
+    ],
+    [
+     "support",
+     "gives evidence that makes a claim more believable",
+     "a study found, data show, similarly"
+    ],
+    [
+     "elaborate",
+     "adds more detail to the point just made",
+     "in fact, indeed, specifically, also"
+    ],
+    [
+     "contrast",
+     "shows how two things are different",
+     "whereas, while, unlike, but"
+    ],
+    [
+     "qualify",
+     "limits a claim; says it is true only partly or only in some cases",
+     "only, in some cases, at least, under certain conditions"
+    ],
+    [
+     "concede",
+     "admits a point that seems to work against the author's own view",
+     "it is true that, admittedly, of course, although"
+    ],
+    [
+     "challenge / question",
+     "suggests that a claim or assumption may be wrong",
+     "however, yet, but recent research, this assumption"
+    ],
+    [
+     "refute / reject",
+     "says firmly that a claim is wrong (strong!)",
+     "clearly false, no evidence, this is not the case"
+    ],
+    [
+     "criticize",
+     "says something is bad or poorly done (strong attitude)",
+     "flawed, careless, fails to, unfortunately"
+    ],
+    [
+     "propose / suggest",
+     "offers a solution, explanation or idea",
+     "may, might, one possibility, researchers propose"
+    ],
+    [
+     "speculate",
+     "makes a careful guess that is not yet proven",
+     "perhaps, possibly, may explain, if confirmed"
+    ],
+    [
+     "summarize / conclude",
+     "restates the main point or draws the result",
+     "in short, in other words, thus, therefore"
+    ],
+    [
+     "portray / convey (literature)",
+     "shows a character's feelings, a mood or a relationship",
+     "actions, images, dialogue, a shift in tone"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Attitude check",
+   "text": "Before you choose \"criticize\", \"praise\", \"mock\" or \"refute\", find words in the passage that show that attitude. Most SAT science and history texts are fairly neutral: they **describe, explain, present** and **suggest**. An extreme verb with no matching words in the text is a trap."
+  },
+  {
+   "type": "h2",
+   "text": "Literature passages"
+  },
+  {
+   "type": "p",
+   "text": "In fiction, plays and poems, the \"purpose\" is usually to **show** something about a character, a relationship, a setting or a mood. The structure is often a **shift**: from calm to worry, from memory to the present, from outside description to inner feeling. Useful labels:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "\"describes setting\", \"introduces character\", \"shows character's feeling\"",
+    "\"shift in mood\" (often after but, yet, then, suddenly)",
+    "\"flashback / memory\", \"returns to present\"",
+    "\"reveals what character values\", \"ends with a realization\""
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "Literature choices often say \"to portray\", \"to depict\", \"to convey\" or \"to characterize\". Ask: *portray what, exactly?* The right answer names the specific feeling or change that the whole passage shows, not just one image."
+  },
+  {
+   "type": "h2",
+   "text": "Science and social-science passages"
+  },
+  {
+   "type": "p",
+   "text": "Science texts usually follow one of a few patterns. If you recognise the pattern, you can predict the structure answer before reading the choices."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Pattern",
+    "Typical labels",
+    "Typical correct purpose / structure wording"
+   ],
+   "rows": [
+    [
+     "Old view → new finding",
+     "states assumption · gives study · draws conclusion",
+     "to present a finding that challenges a long-held assumption"
+    ],
+    [
+     "Puzzle → explanation",
+     "describes puzzle · offers hypothesis · says what would confirm it",
+     "to describe a puzzle and a possible explanation for it"
+    ],
+    [
+     "Question → experiment → result",
+     "asks how · describes method · gives result",
+     "to describe a study that investigated how…"
+    ],
+    [
+     "Phenomenon → how it works",
+     "introduces ability · explains process · gives effect",
+     "to introduce a feature and explain how it works"
+    ],
+    [
+     "Problem → proposed solution",
+     "describes problem · proposes response · gives reason",
+     "to identify a problem and propose a way to address it"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "القاعدة اللي لازم تفتكرها",
+   "text": "اكتب لكل جملة «وظيفتها» في كلمتين أو تلاتة: بتقدّم فكرة؟ بتدي مثال؟ بتعترض على رأي قديم؟ بعد كده الـ purpose هو شغل النص كله، والـ structure هو الوظايف بالترتيب، والـ function هو شغل الجملة اللي تحتها خط بالنسبة للي قبلها واللي بعدها. ابدأ دايماً بالفعل: لو الفعل في الاختيار غلط (زي criticize والنص بيوصف بس) احذفه على طول."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — Main purpose (science)**"
+  },
+  {
+   "type": "p",
+   "text": "Many gardeners pull up dandelions the moment they appear, treating the plant as nothing more than a weed. Yet in early spring, when few other flowers have opened, dandelions are among the only sources of pollen and nectar available to bees coming out of winter. Agricultural researcher Leila Mansour has suggested that leaving some dandelions in lawns until other plants bloom could give local bee populations a valuable early-season boost."
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice best states the main purpose of the text?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) To argue that dandelions are more attractive than most garden flowers",
+    "B) To present a view of dandelions that challenges a common attitude toward them",
+    "C) To explain the process by which bees collect pollen from early-season plants",
+    "D) To criticize researchers who have ignored the role of weeds in bee survival"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Prediction before looking:** \"to show that dandelions, usually seen as weeds, are useful for bees.\""
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A — ✗ Wrong.** Off-topic / distorted. The text is about the value of dandelions to bees, not about how attractive they look.",
+    "**B — ✓ Correct.** Labels: S1 common attitude (dandelions = weeds) · S2 \"Yet\" → shows their value to bees · S3 researcher suggests keeping some. Together the text pushes against the common attitude. Every part of this choice matches.",
+    "**C — ✗ Wrong.** Too narrow / off-topic. Bees are mentioned, but the text never explains how they collect pollen.",
+    "**D — ✗ Wrong.** Wrong verb and wrong target. The only researcher mentioned (Mansour) is presented positively; no one is criticized."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — Overall structure (literature)**"
+  },
+  {
+   "type": "p",
+   "text": "Amal had rehearsed the speech so often that the words had worn smooth, like stones in a stream. She could recite it in the shower, on the bus, half asleep. But when she stepped onto the stage and saw three hundred faces turned toward her, the first sentence vanished. For a long moment she heard only the hum of the lights. Then she found her father in the fourth row, nodding slowly, and the words came back one by one."
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice best describes the overall structure of the text?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) It describes a character's thorough preparation, presents a moment when that preparation seems to fail her, and then shows how she recovers.",
+    "B) It introduces a character's fear of public speaking and then explains how that fear began in her childhood.",
+    "C) It contrasts a character's careful preparation with her father's lack of interest in her performance.",
+    "D) It describes a stage in detail before revealing the character's reaction to the audience."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: A**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A — ✓ Correct.** Labels: S1–S2 well prepared · S3 \"But\" → mind goes blank · S4 silence · S5 \"Then\" → sees father, recovers. Three parts in the right order: preparation, failure, recovery.",
+    "**B — ✗ Wrong.** Half-right / unsupported. She does freeze, but nothing in the text explains where a fear came from or mentions her childhood.",
+    "**C — ✗ Wrong.** Reversed detail. The father is \"nodding slowly\"; he supports her and helps her recover. He is not uninterested.",
+    "**D — ✗ Wrong.** Wrong structure. The stage is barely described (only the faces and the hum of the lights), and the text starts with her preparation, not the stage."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — Function of an underlined sentence (science)**"
+  },
+  {
+   "type": "p",
+   "text": "Octopuses can change the color of their skin in a fraction of a second, a skill they use both to hide from predators and to signal to one another. Strangely, their eyes appear to lack the types of cells that allow many other animals to tell colors apart. __Some researchers have proposed that light-sensitive proteins found in octopus skin may let the animals sense light through their bodies as well as their eyes.__ If this idea is confirmed, it could help explain how a seemingly color-blind animal can match its surroundings so precisely."
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice best describes the function of the underlined sentence in the text as a whole?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) It describes evidence confirming that octopuses can see color with their eyes.",
+    "B) It challenges the claim that octopuses change color to hide from predators.",
+    "C) It summarizes the findings of a study that settled a long-running debate.",
+    "D) It presents a possible explanation for a puzzle described in the previous sentence."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: D**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A — ✗ Wrong.** Contradicts the text. The previous sentence says their eyes seem to LACK color cells, and the underlined idea is about skin, not eyes.",
+    "**B — ✗ Wrong.** Wrong target. Nothing in the text questions why octopuses change color; the first sentence states it as fact.",
+    "**C — ✗ Wrong.** Too extreme. \"Proposed\", \"may\" and \"If this idea is confirmed\" show the idea is NOT yet settled.",
+    "**D — ✓ Correct.** Labels: S1 amazing ability · S2 \"Strangely\" → puzzle · S3 (underlined) possible answer · S4 what it would explain. \"Proposed… may\" = a possible explanation. Correct."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4 — Function of an underlined sentence (history)**"
+  },
+  {
+   "type": "p",
+   "text": "Historians have often described the printing press as the invention that ended the age of handwritten books. __It is true that printed books quickly became cheaper and more common than manuscripts in fifteenth-century Europe.__ However, scribes continued to copy texts by hand for decades, partly because wealthy buyers valued decorated manuscripts as luxury objects. The shift from pen to press, in other words, was far slower than the familiar story suggests."
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice best describes the function of the underlined sentence in the text as a whole?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) It states the main claim that the author defends throughout the text.",
+    "B) It introduces a counterargument that the author goes on to reject completely.",
+    "C) It acknowledges a fact that supports the common view before the author qualifies that view.",
+    "D) It explains why wealthy buyers preferred decorated manuscripts to printed books."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Signal to notice:** \"It is true that… However…\" is the classic concede-then-qualify move. The sentence after \"It is true that\" is almost always a concession."
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A — ✗ Wrong.** Wrong sentence. The author's main claim is the LAST sentence: the shift was slower than people think.",
+    "**B — ✗ Wrong.** Too extreme. \"It is true that\" means the author ACCEPTS this fact. The author does not reject it but goes on to limit the common story.",
+    "**C — ✓ Correct.** Labels: S1 common view · S2 (underlined) \"It is true that\" → concession · S3 \"However\" → limits the view · S4 author's point. A concession followed by a qualification. Correct.",
+    "**D — ✗ Wrong.** Wrong sentence. The reason about wealthy buyers is in the NEXT sentence, not the underlined one. A true detail from the text, but not this sentence's job."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**Wrong verb:** the content is right but the action is wrong (\"criticize\" for a neutral description; \"prove\" for a suggestion).",
+    "**Half-right:** the first half of the choice matches the text, the second half adds something false or unmentioned. Read every word to the end.",
+    "**Too narrow:** a purpose answer that describes only one sentence or one detail of the text.",
+    "**Wrong sentence:** in function questions, a choice that describes what the NEXT or PREVIOUS sentence does. Ask only what the underlined part does.",
+    "**Reversed:** the right ideas in the wrong order or with the relationship flipped (supports ↔ challenges).",
+    "**Too extreme:** \"settles the debate\", \"proves\", \"completely rejects\" when the text uses may, might, suggests, if confirmed."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Label each sentence in 2–3 words on your scratch paper. It feels slow at first; it is faster than rereading.",
+    "Circle the turn word (however, yet, but, in fact). The sentence after it usually carries the main point.",
+    "For function questions, read one sentence before and one after the underlined part.",
+    "Eliminate by verb first; you can often remove two choices in five seconds.",
+    "If two choices remain, pick the one that is more modest and fully supported. There is no penalty for wrong answers, so never leave a question blank."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الفخ المشهور",
+   "text": "أخطر فخ هو الاختيار «نصّه صح ونصّه غلط». الجزء الأول بيطابق النص فتتشد له، وآخره فيه كلمة زيادة مش في النص. وفي سؤال الـ underlined sentence، خلي بالك من الاختيار اللي بيوصف الجملة اللي بعدها مش الجملة نفسها. واقرأ الاختيار لآخر كلمة قبل ما تختاره."
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Twelve original questions in real test format. Label the sentences first, predict, then choose. Each answer shows an explanation."
+  },
+  {
+   "type": "test",
+   "title": "Text Structure and Purpose — Practice Quiz",
+   "timed": false,
+   "intro": "12 questions · untimed · one short passage per question. Label each sentence's job before you look at the choices.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 15,
+     "questions": [
+      {
+       "p": "Desert ants of the genus Cataglyphis can travel hundreds of meters from their nest in search of food and then return in a nearly straight line. To find out how, researchers attached tiny stilts to some ants' legs, making their steps longer, and shortened the legs of others. The ants on stilts walked past their nest, while the ants with shortened legs stopped before reaching it. The results suggest that the ants keep track of distance by counting their steps.",
+       "q": "Which choice best states the main purpose of the text?",
+       "c": [
+        "To argue that desert ants are better navigators than any other insect",
+        "To describe the physical features that allow desert ants to survive extreme heat",
+        "To describe an experiment that revealed how desert ants may measure distance",
+        "To explain why researchers were unable to discover how desert ants find their nests"
+       ],
+       "a": 2,
+       "e": "The text moves from a question (how do they return?) to an experiment (stilts) to a result (they count steps), so C fits. A is too extreme and never compares other insects; B is off-topic; D contradicts the result.",
+       "s": "Text Structure and Purpose"
+      },
+      {
+       "p": "The house on Shubra Street had been empty for three years when Karim returned to it. Dust lay over the furniture like a gray sheet, and the clock in the hall had stopped at twenty past four. __Yet when he opened the shutters, the smell of his mother's jasmine still drifted in from the courtyard, as strong as he remembered it.__ He stood at the window for a long time before he unpacked anything.",
+       "q": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+       "c": [
+        "It introduces a detail that contrasts with the neglect described in the previous sentence.",
+        "It explains why Karim decided to return to the house after three years.",
+        "It suggests that Karim's mother has recently been living in the house.",
+        "It establishes the setting of the story for the first time."
+       ],
+       "a": 0,
+       "e": "\"Yet\" signals a contrast: dust and a stopped clock (neglect) versus a living, unchanged scent. B: no reason for returning is given. C: unsupported; the house has been empty. D: the setting was already established in the first two sentences.",
+       "s": "Text Structure and Purpose"
+      },
+      {
+       "p": "Economists have traditionally assumed that people make spending decisions by carefully comparing costs and benefits. Studies of everyday shopping, however, show that shoppers are strongly influenced by how choices are presented: a product labeled \"90% fat-free\" often sells better than the same product labeled \"10% fat.\" Findings like these contributed to the development of behavioral economics, a field that combines economic analysis with insights from psychology.",
+       "q": "Which choice best describes the overall structure of the text?",
+       "c": [
+        "It describes a field of study and then lists the researchers who founded it.",
+        "It presents an experiment, explains its weaknesses, and proposes a better method.",
+        "It compares two products and recommends the one that is healthier.",
+        "It presents a traditional assumption, offers evidence that complicates it, and identifies a development that followed."
+       ],
+       "a": 3,
+       "e": "Labels: old assumption → \"however\" evidence against it → new field that grew from such findings. That is D. No researchers are named (A), no weaknesses are discussed (B), and the two labels describe the same product (C).",
+       "s": "Text Structure and Purpose"
+      },
+      {
+       "p": "The following text is from a poem.\nI planted the olive when my hands were young,\nand laughed that I would never taste its fruit.\nNow my grandson climbs its silver limbs\nand shakes the olives down upon my head.\nWho plants a tree plants for a stranger's spring;\nI did not know the stranger would be mine.",
+       "q": "Which choice best states the main purpose of the text?",
+       "c": [
+        "To describe the steps involved in caring for an olive tree",
+        "To reflect on how an act done for the future came to benefit the speaker's own family",
+        "To express bitterness that the speaker's work was enjoyed by a stranger",
+        "To criticize the grandson for damaging the branches of the tree"
+       ],
+       "a": 1,
+       "e": "The speaker planted a tree expecting others to benefit, and the \"stranger\" turned out to be his own grandson, so B. A: no care steps are given. C: the tone is warm, not bitter, and the \"stranger\" is family. D: the grandson's play is described fondly, not criticized.",
+       "s": "Text Structure and Purpose"
+      },
+      {
+       "p": "Many people believe that bats are blind. In fact, every bat species can see, and some fruit bats have excellent vision. __Bats that hunt insects at night, however, rely mainly on echolocation: they produce high-pitched calls and listen for the echoes that bounce back from objects around them.__ This system is so precise that some bats can detect objects as thin as a human hair.",
+       "q": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+       "c": [
+        "It provides evidence that bats are blind after all.",
+        "It adds a qualification by explaining that some bats depend mainly on a sense other than sight.",
+        "It introduces the claim that fruit bats see better than insect-hunting bats.",
+        "It describes how scientists first discovered echolocation."
+       ],
+       "a": 1,
+       "e": "After saying all bats can see, the author limits the point: night insect-hunters rely mainly on echolocation. That is a qualification (B). A contradicts sentence 2. C is never claimed. D: the history of the discovery is not discussed.",
+       "s": "Text Structure and Purpose"
+      },
+      {
+       "p": "At first, the new teacher seemed to Hana like every other adult who had tried to make her love mathematics: cheerful, patient, and certain that a few clever tricks would change her mind. Hana answered his questions politely and waited for him to give up. But in the third week he set aside the textbook and asked the class to design a bridge from forty paper straws. By the end of the lesson, Hana had filled two pages with calculations and had not once looked at the clock.",
+       "q": "Which choice best describes the overall structure of the text?",
+       "c": [
+        "It describes a teacher's methods and then explains why they failed with Hana.",
+        "It presents Hana's love of mathematics and shows how a teacher strengthened it.",
+        "It compares two teachers who used different methods to teach Hana.",
+        "It presents a character's low expectations and then describes an event that changes her attitude."
+       ],
+       "a": 3,
+       "e": "Hana expects nothing (\"waited for him to give up\"); \"But\" introduces the bridge task that absorbs her. That is D. A reverses the outcome; B is wrong because she did not love mathematics; C: only one teacher appears.",
+       "s": "Text Structure and Purpose"
+      },
+      {
+       "p": "When the Egyptian architect Hassan Fathy designed the village of New Gourna in the 1940s, he chose mud brick instead of concrete. Many observers saw the choice as old-fashioned. Fathy, however, argued that mud brick was cheap, could be made by the villagers themselves, and kept homes far cooler in intense heat than concrete did. Today, architects concerned with energy use and local materials often point to his work as an early model of sustainable design.",
+       "q": "Which choice best states the main purpose of the text?",
+       "c": [
+        "To explain the reasoning behind an architect's unusual choice and note how that choice is viewed today",
+        "To argue that concrete should never be used in hot climates",
+        "To describe the daily lives of the villagers of New Gourna",
+        "To criticize observers who preferred modern building materials"
+       ],
+       "a": 0,
+       "e": "Labels: choice → others' doubt → Fathy's reasons → today's view. A covers all of it. B is too extreme; C is off-topic; D uses too strong a verb: the observers are mentioned, not attacked.",
+       "s": "Text Structure and Purpose"
+      },
+      {
+       "p": "Coral reefs cover less than one percent of the ocean floor. __Even so, they are home to roughly a quarter of all known marine species.__ Because so many organisms depend on reefs for food and shelter, damage to a single reef can affect the wider ocean food web.",
+       "q": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+       "c": [
+        "It presents a counterargument to the claim that reefs are important.",
+        "It explains how coral reefs are formed.",
+        "It highlights a contrast between the small area reefs cover and the large number of species they support.",
+        "It offers a solution to the problem of reef damage."
+       ],
+       "a": 2,
+       "e": "\"Even so\" sets the huge number of species against the tiny area: a contrast (C). It supports the importance of reefs rather than arguing against it (A), and the text says nothing about how reefs form (B) or how to fix damage (D).",
+       "s": "Text Structure and Purpose"
+      },
+      {
+       "p": "The following text is written in the style of a nineteenth-century novel.\nMrs. Halloway had resolved that her drawing room should be the most fashionable in the county, and to this end she had purchased, in a single season, three mirrors, two clocks that never agreed, and a parrot that had been taught to say \"Charming!\" in French. Her guests admired the mirrors, ignored the clocks, and, it must be confessed, found the parrot by far the best conversationalist in the room.",
+       "q": "Which choice best states the main purpose of the text?",
+       "c": [
+        "To describe the history of the most famous house in a county",
+        "To show that Mrs. Halloway's guests disliked her parrot",
+        "To explain why fashionable drawing rooms often contained mirrors",
+        "To gently mock a character's efforts to impress others"
+       ],
+       "a": 3,
+       "e": "Details like clocks that \"never agreed\" and a parrot that is the \"best conversationalist\" make fun of Mrs. Halloway's attempts to be fashionable, so D. B reverses the joke (they liked the parrot best); A and C are off-topic.",
+       "s": "Text Structure and Purpose"
+      },
+      {
+       "p": "Tardigrades, microscopic animals about half a millimeter long, are famous for surviving conditions that would kill almost any other creature. When their surroundings dry out, they pull in their legs, lose most of the water in their bodies, and enter a state in which their metabolism nearly stops. In this state, they can survive extreme cold and even the vacuum of space. When water returns, many of them can revive and become active again.",
+       "q": "Which choice best describes the overall structure of the text?",
+       "c": [
+        "It presents a theory about tardigrades and then provides evidence against it.",
+        "It introduces an organism's remarkable ability and then describes how that ability works.",
+        "It compares tardigrades with other microscopic animals and explains why tardigrades are larger.",
+        "It describes an experiment in space and explains why it failed."
+       ],
+       "a": 1,
+       "e": "S1 introduces the survival ability; S2–S4 explain the drying process and recovery. That is B. No theory is challenged (A), no comparison is made (C), and no failed experiment is described (D).",
+       "s": "Text Structure and Purpose"
+      },
+      {
+       "p": "Some city planners argue that adding new lanes to busy roads is the best way to reduce traffic. __Studies in several cities, however, have found that within a few years of a road being widened, traffic often returns to its earlier levels, as the extra space encourages more people to drive.__ For this reason, a growing number of planners now favor investment in buses and trains instead.",
+       "q": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+       "c": [
+        "It presents evidence that challenges the view described in the first sentence.",
+        "It provides support for the claim that new lanes reduce traffic.",
+        "It describes the history of investment in public transport.",
+        "It concedes that widening roads permanently reduces traffic."
+       ],
+       "a": 0,
+       "e": "\"However\" plus study results that traffic returns = evidence against the first sentence's view (A). B is reversed; C describes nothing in the underlined sentence; D contradicts it.",
+       "s": "Text Structure and Purpose"
+      },
+      {
+       "p": "When the Suez Canal opened in 1869, ships traveling between Britain and India no longer had to sail around the southern tip of Africa. The new route shortened the journey by thousands of kilometers. Merchants could move goods faster and more cheaply, and trade between Europe and Asia grew rapidly in the following decades.",
+       "q": "Which choice best states the main purpose of the text?",
+       "c": [
+        "To describe the methods used to build the Suez Canal",
+        "To argue that the Suez Canal harmed trade between Europe and Asia",
+        "To explain a major effect of the opening of the Suez Canal",
+        "To compare the costs charged by different shipping companies in the 1800s"
+       ],
+       "a": 2,
+       "e": "Every sentence describes what changed because the canal opened: shorter route, cheaper goods, more trade. That is C. A and D are off-topic; B reverses the text.",
+       "s": "Text Structure and Purpose"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Label every sentence's job in 2–3 words, using a verb.",
+    "Purpose = the job of the whole text; structure = the jobs in order; function = one sentence's job relative to its neighbours.",
+    "The turn word (however, yet, but) usually introduces the main point.",
+    "Check the verb first: neutral texts need neutral verbs (describe, explain, present, suggest).",
+    "Half-right is all wrong: every word of the choice must match the text."
+   ]
+  }
+ ]
+}

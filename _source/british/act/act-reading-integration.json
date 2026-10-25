@@ -1,0 +1,538 @@
+{
+ "slug": "act-reading-integration",
+ "title": "Integration of Knowledge and Ideas",
+ "kicker": "American Diploma · ACT · Reading",
+ "summary": "Paired passages, passages with tables and charts, and evaluating arguments and evidence on ACT Reading, with worked examples, a full paired-passage practice set and a science passage with data.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Integration of Knowledge and Ideas questions ask you to **combine** information: two passages with each other, or a passage with a chart, graph or table. They also ask you to **judge** how well an author supports a claim. This category is **19–26% of the scored ACT Reading questions** (about 5 to 7 of the 27). Every ACT form contains **either a paired-passage set or a passage with charts or graphs**, so you must be ready for both."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Format",
+    "What it looks like",
+    "Typical stems (in our own words)"
+   ],
+   "rows": [
+    [
+     "Paired passages",
+     "Two shorter texts on the same topic, labelled Passage A and Passage B, sharing one set of 9 questions",
+     "\"Both authors would most likely agree that:\" / \"How would the author of Passage B most likely respond to … in Passage A?\" / \"A difference between the passages is that:\""
+    ],
+    [
+     "Passage with a graphic",
+     "An informational passage plus a table, chart or graph",
+     "\"According to the table, …\" / \"The data in the table most directly support which statement in the passage?\""
+    ],
+    [
+     "Evaluating arguments",
+     "Any passage that makes a claim",
+     "\"The author's count of … is mainly offered as evidence that:\" / \"This limitation most directly weakens which claim?\""
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Method 1: Paired passages"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Read the blurb carefully.** It tells you who wrote each passage (a planner, a shopkeeper, a scientist). Their roles often explain their views.",
+    "**Read Passage A, then answer only the Passage A questions.** They are usually the first questions in the set.",
+    "**Read Passage B, then answer the Passage B questions.**",
+    "**Last, answer the questions about both passages.** Before you do, write one line: \"A thinks … / B thinks … / They agree on …\".",
+    "**Classify the relationship.** Does B agree, disagree, or qualify (agree in part and add conditions)? On the ACT, \"qualify\" is very common: B usually accepts part of A's view.",
+    "**For \"How would author B respond to A?\" questions:** find the line in A, then find the place in B that discusses the same idea, and answer from B's words only."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Relationship",
+    "What it means",
+    "Signal words in Passage B"
+   ],
+   "rows": [
+    [
+     "Agrees",
+     "Same position, maybe new support",
+     "similarly, I share, indeed"
+    ],
+    [
+     "Disagrees",
+     "Opposite position",
+     "but, however, the opposite is true, mistaken"
+    ],
+    [
+     "Qualifies",
+     "Accepts part, adds limits or conditions",
+     "this does not mean …, some … others, it depends on"
+    ],
+    [
+     "Questions the evidence",
+     "Doubts HOW the claim is supported, not necessarily the claim",
+     "a single, not typical, measure before you decide"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "القطعتين المزدوجتين",
+   "text": "اقرا القطعة الأولى وحل أسئلتها، بعدين التانية وحل أسئلتها، وفي الآخر أسئلة الاتنين مع بعض. والنقطة المهمة: الكاتب التاني غالبًا مش بيرفض الأول خالص، هو بيوافق على جزء ويحط شروط (qualifies). ابعد عن الاختيارات اللي فيها always أو completely."
+  },
+  {
+   "type": "h2",
+   "text": "Method 2: Passages with a table, chart or graph"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Read the title, the column headings and the units first** (°C, %, millions, per year). Most data mistakes are unit or column mistakes.",
+    "**Find the exact row and column** the question names. Put your finger (or cursor) on the number before you calculate.",
+    "**Do the arithmetic on paper** for \"how much greater\" or \"what percentage\" questions. Differences and percentages are different things.",
+    "**For text + data questions,** check both halves: the statement must be in the passage AND the numbers must show it.",
+    "**Do not over-read the data.** A table of one week cannot prove a pattern for every season; a correlation is not proof of a cause."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "h2",
+   "text": "Method 3: Evaluating arguments and evidence"
+  },
+  {
+   "type": "p",
+   "text": "To judge an argument, separate the **claim** (what the author wants you to believe) from the **evidence** (what he offers to support it), then ask whether the evidence is strong enough for the claim."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Kind of evidence",
+    "Strength",
+    "Typical limitation the ACT asks about"
+   ],
+   "rows": [
+    [
+     "Personal observation / one event",
+     "Vivid, but limited",
+     "May not be typical (one evening, one place)"
+    ],
+    [
+     "Anecdote or quotation",
+     "Shows an example",
+     "Others may disagree; not representative"
+    ],
+    [
+     "Measurement over time / survey",
+     "Stronger",
+     "Depends on sample size, place and period"
+    ],
+    [
+     "Experiment with a comparison group",
+     "Strongest for cause–effect",
+     "Results may not apply to other conditions"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "The \"weakens\" question",
+   "text": "When a question says a limitation \"most directly weakens\" a claim, look for the claim that goes BEYOND what was measured (other places, other times, everyone, always). Claims that simply repeat what was measured are not weakened."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "Two short texts and a table (shorter than real ACT material, so we can focus on the method)."
+  },
+  {
+   "type": "p",
+   "text": "Text 1 (a museum director): When our museum began opening its doors free of charge on the first Friday of every month, attendance on those evenings tripled. Families pushed prams through galleries that had been almost empty on ordinary weekday evenings. Free entry, I am convinced, is the surest way to bring a museum to people who have never visited one."
+  },
+  {
+   "type": "p",
+   "text": "Text 2 (a researcher who studies museum visitors): Free-entry days are popular, but popularity is not the same as reaching new audiences. When visitors on free days are asked about their habits, many turn out to be regular museum-goers who have simply chosen the cheapest evening. A museum that wants people who have never visited may need to go further, for example by running events in neighbourhoods far from the city centre."
+  },
+  {
+   "type": "p",
+   "text": "Visitors to the museum on two Fridays in March\nDay | Total visitors | First-time visitors\nFree-entry Friday | 1,800 | 270\nOrdinary Friday | 600 | 120"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — how would author B respond?**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** The researcher in Text 2 would most likely respond to the director's final claim in Text 1 by:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) agreeing that free entry is the surest way to attract new visitors.",
+    "B) denying that attendance rose on free-entry evenings.",
+    "C) arguing that museums should charge more on ordinary evenings.",
+    "D) questioning whether the extra visitors were mainly people who had never visited before."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: D.** Text 2 grants that free days are \"popular\" but says \"popularity is not the same as reaching new audiences\" because many free-day visitors are regulars. That is a challenge to the director's conclusion, not to the attendance figures."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A is wrong** — Reversed: the researcher argues that a museum \"may need to go further.\"",
+    "**B is wrong** — Too extreme: Text 2 accepts that free days are popular; it questions who came, not how many.",
+    "**C is wrong** — Outside both texts: prices on ordinary evenings are never discussed."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — what both authors agree on**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Both authors would most likely agree that free-entry days:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) attract large numbers of visitors.",
+    "B) are the best way to reach new audiences.",
+    "C) should be replaced by events in distant neighbourhoods.",
+    "D) are attended mostly by regular museum-goers."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: A.** Text 1: attendance \"tripled.\" Text 2: \"Free-entry days are popular.\" The shared ground is popularity."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**B is wrong** — Only the director believes this.",
+    "**C is wrong** — Too extreme even for the researcher, who suggests going \"further,\" not replacing free days.",
+    "**D is wrong** — Only the researcher says this."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — integrating a table**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which conclusion about the two Fridays is best supported by the table?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) More first-time visitors came on the ordinary Friday than on the free-entry Friday.",
+    "B) First-time visitors made up a smaller percentage of visitors on the free-entry Friday than on the ordinary Friday.",
+    "C) Free entry doubled the total number of visitors.",
+    "D) Every visitor on the free-entry Friday was a regular museum-goer."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B.** Free Friday: 270 ÷ 1,800 = 15%. Ordinary Friday: 120 ÷ 600 = 20%. B is supported, and it fits the researcher's point in Text 2: more people came, but a smaller share were new."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A is wrong** — Reversed: 270 is more than 120 in raw numbers. This trap confuses numbers with percentages.",
+    "**C is wrong** — Wrong arithmetic: 1,800 is three times 600, not double.",
+    "**D is wrong** — Too extreme and contradicted: 270 visitors were first-timers."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4 — evaluating evidence**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** The evidence the director offers in Text 1 is best described as:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) a long-term study comparing several museums.",
+    "B) an expert's survey of visitors' habits.",
+    "C) an observation of attendance at one museum that does not show who the visitors were.",
+    "D) a controlled experiment with first-time visitors."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C.** The director reports attendance (\"tripled\") and what he saw (families with prams). He gives no information about whether the visitors were new, which is exactly the gap Text 2 attacks."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A is wrong** — Too broad: only one museum is described, with no long-term study.",
+    "**B is wrong** — Wrong text: the survey of habits is the researcher's evidence in Text 2.",
+    "**D is wrong** — Nothing in Text 1 is an experiment."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**Mixing up the authors.** A choice that is true for Passage A is offered for a Passage B question. Label each idea A or B in your notes.",
+    "**Assuming total disagreement.** Paired authors usually share some ground; the second often qualifies the first.",
+    "**Wrong column, wrong row, wrong unit.** Read the headings and units before every data question.",
+    "**Numbers vs percentages.** A larger number can be a smaller share (270 of 1,800 vs 120 of 600).",
+    "**Over-reading data.** One week, one place, one group cannot prove \"always\" or \"everywhere\".",
+    "**Attacking the claim instead of the evidence.** \"The festival is not typical\" questions the evidence; it does not say car-free streets are bad."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Paired passages: A questions → B questions → both-passage questions.",
+    "Write a one-line summary of each author's view before the \"both\" questions.",
+    "Graphics: title → headings → units → the exact cell → calculate on paper.",
+    "Evidence questions: name the evidence type (one event, survey, experiment) and its limit.",
+    "EXCEPT questions: cross out each choice you can find in the text; the one left is the answer."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "**Test 1** is a full paired-passage set (two texts of about 350 words) with 9 questions, as on the real test. **Test 2** is a short natural-science passage with a data table and 4 questions. Both are untimed; for the paired set, aim for about 10 minutes."
+  },
+  {
+   "type": "test",
+   "title": "ACT Reading practice — Paired passages",
+   "timed": false,
+   "intro": "Two passages, 9 questions, untimed. Answer the Passage A questions after reading A, the Passage B questions after reading B, and the questions about both passages last.",
+   "sections": [
+    {
+     "name": "Paired passages",
+     "minutes": 10,
+     "questions": [
+      {
+       "p": "These passages discuss closing city-centre streets to cars. Passage A is adapted from an article by an urban planner. Passage B is adapted from a letter by a shopkeeper.\n\n**PASSAGE A**\n\n[1] Every city has a street that its residents love to complain about: too narrow, too noisy, too full of cars that move more slowly than the people walking beside them. My proposal for such streets is simple. Close them to private cars, at least in the city centre, and give them back to people on foot.\n\n[2] Critics always warn that shops will suffer, because customers who cannot park outside will go elsewhere. My own experience suggests the opposite. When a short market street in my city was closed to traffic for a summer festival, I stood at one end on a Friday evening and counted the people entering it: more than two thousand in an hour, many of them families who would never have brought young children onto the street while cars were passing. Shopkeepers I spoke to that night told me they had rarely been so busy.\n\n[3] The reason is not mysterious. A driver passes a shop window in two seconds; a pedestrian may pass it in twenty, and a pedestrian who stops to look is a potential customer. People on foot also return more often. They come for bread on Monday and for shoes on Wednesday, while a driver tends to make one large trip and leave. A street lined with parked cars also hides half of every shop window; a street without them shows the whole shop.\n\n[4] There are other benefits that no shop's accounts will show. The air at street level becomes cleaner. Neighbours can hear each other speak. Children can cross without holding an adult's hand. In the evenings, the pavement that was a narrow strip beside the traffic becomes wide enough for a café's tables, a bookseller's cart, or simply a bench. A street without cars stops being a place you pass through and becomes a place you go to.\n\n[5] Of course, delivery vans must still reach the shops, and ambulances must be able to enter. These are practical problems with practical solutions: deliveries in the early morning, removable barriers for emergencies. They are not reasons to keep a street choked with traffic for the remaining twenty hours of the day.\n\n**PASSAGE B**\n\n[1] I have run a hardware shop on the same street for twenty-two years, and I would welcome fewer cars outside my door. The noise is tiring, and the fumes settle on everything I sell. Some evenings I cannot hear my customers over the horns. But I have learned to be careful with stories about car-free streets that are based on a single busy evening.\n\n[2] A festival is not an ordinary Tuesday. People come to a festival because something special is happening, and they spend money on food and small gifts. My customers buy paint, pipes and bags of cement. Many of them are builders, or older people who cannot carry a heavy box to a bus stop half a kilometre away. If they cannot stop near the shop, some of them will simply drive to a large store on the edge of the city, where parking is free.\n\n[3] This does not mean that closing streets is always a mistake. Some streets, especially those full of cafés, clothing shops and restaurants, may well become busier without cars. Others, where people buy heavy or bulky goods, may lose trade. The difference depends on what is sold, on how good the buses and trains are, and on whether there is parking within a short walk. A street of jewellers is not a street of plumbers' suppliers, and a city with frequent buses is not one where the nearest stop is a long walk away.\n\n[4] What I would ask of the planners is simple: measure before you decide. Count customers and sales on ordinary days, close the street for a trial period of several months, and count again. Ask the shopkeepers to share their figures, and publish the results, whether they are good or bad. Planners who are confident in their idea should have nothing to fear from such a test. A city that tests its ideas honestly will make fewer expensive mistakes, and it will also persuade more people like me. If the figures are good, I will be the first to argue for closing my own street.",
+       "q": "In Passage A, the author's count of people entering the street (paragraph 2) is mainly offered as evidence that:",
+       "c": [
+        "festivals should be held more often in the city centre.",
+        "families with young children prefer to shop in the evening.",
+        "closing a street to cars can bring large numbers of potential customers to it.",
+        "the street was too narrow for the number of people who used it."
+       ],
+       "a": 2,
+       "e": "The count answers the critics' warning that \"shops will suffer\": the closed street was crowded and shopkeepers were busy. A and B are details turned into claims the author never makes; D is reversed (the problem in paragraph 1 is cars, not people).",
+       "s": "Evaluating evidence"
+      },
+      {
+       "p": "These passages discuss closing city-centre streets to cars. Passage A is adapted from an article by an urban planner. Passage B is adapted from a letter by a shopkeeper.\n\n**PASSAGE A**\n\n[1] Every city has a street that its residents love to complain about: too narrow, too noisy, too full of cars that move more slowly than the people walking beside them. My proposal for such streets is simple. Close them to private cars, at least in the city centre, and give them back to people on foot.\n\n[2] Critics always warn that shops will suffer, because customers who cannot park outside will go elsewhere. My own experience suggests the opposite. When a short market street in my city was closed to traffic for a summer festival, I stood at one end on a Friday evening and counted the people entering it: more than two thousand in an hour, many of them families who would never have brought young children onto the street while cars were passing. Shopkeepers I spoke to that night told me they had rarely been so busy.\n\n[3] The reason is not mysterious. A driver passes a shop window in two seconds; a pedestrian may pass it in twenty, and a pedestrian who stops to look is a potential customer. People on foot also return more often. They come for bread on Monday and for shoes on Wednesday, while a driver tends to make one large trip and leave. A street lined with parked cars also hides half of every shop window; a street without them shows the whole shop.\n\n[4] There are other benefits that no shop's accounts will show. The air at street level becomes cleaner. Neighbours can hear each other speak. Children can cross without holding an adult's hand. In the evenings, the pavement that was a narrow strip beside the traffic becomes wide enough for a café's tables, a bookseller's cart, or simply a bench. A street without cars stops being a place you pass through and becomes a place you go to.\n\n[5] Of course, delivery vans must still reach the shops, and ambulances must be able to enter. These are practical problems with practical solutions: deliveries in the early morning, removable barriers for emergencies. They are not reasons to keep a street choked with traffic for the remaining twenty hours of the day.\n\n**PASSAGE B**\n\n[1] I have run a hardware shop on the same street for twenty-two years, and I would welcome fewer cars outside my door. The noise is tiring, and the fumes settle on everything I sell. Some evenings I cannot hear my customers over the horns. But I have learned to be careful with stories about car-free streets that are based on a single busy evening.\n\n[2] A festival is not an ordinary Tuesday. People come to a festival because something special is happening, and they spend money on food and small gifts. My customers buy paint, pipes and bags of cement. Many of them are builders, or older people who cannot carry a heavy box to a bus stop half a kilometre away. If they cannot stop near the shop, some of them will simply drive to a large store on the edge of the city, where parking is free.\n\n[3] This does not mean that closing streets is always a mistake. Some streets, especially those full of cafés, clothing shops and restaurants, may well become busier without cars. Others, where people buy heavy or bulky goods, may lose trade. The difference depends on what is sold, on how good the buses and trains are, and on whether there is parking within a short walk. A street of jewellers is not a street of plumbers' suppliers, and a city with frequent buses is not one where the nearest stop is a long walk away.\n\n[4] What I would ask of the planners is simple: measure before you decide. Count customers and sales on ordinary days, close the street for a trial period of several months, and count again. Ask the shopkeepers to share their figures, and publish the results, whether they are good or bad. Planners who are confident in their idea should have nothing to fear from such a test. A city that tests its ideas honestly will make fewer expensive mistakes, and it will also persuade more people like me. If the figures are good, I will be the first to argue for closing my own street.",
+       "q": "In Passage A, the comparison between drivers and pedestrians in paragraph 3 mainly serves to:",
+       "c": [
+        "explain why people on foot may be more valuable to shops than people in cars.",
+        "show that drivers spend more money on each shopping trip.",
+        "argue that drivers should be charged for parking in the city centre.",
+        "describe the author's own shopping habits during the week."
+       ],
+       "a": 0,
+       "e": "Pedestrians look longer (twenty seconds vs two) and return more often, so they are more likely to buy. B is reversed in emphasis: the author mentions \"one large trip\" only to contrast it with frequent visits. C is outside the passage; D misreads the bread-and-shoes example as personal.",
+       "s": "Function / comparison"
+      },
+      {
+       "p": "These passages discuss closing city-centre streets to cars. Passage A is adapted from an article by an urban planner. Passage B is adapted from a letter by a shopkeeper.\n\n**PASSAGE A**\n\n[1] Every city has a street that its residents love to complain about: too narrow, too noisy, too full of cars that move more slowly than the people walking beside them. My proposal for such streets is simple. Close them to private cars, at least in the city centre, and give them back to people on foot.\n\n[2] Critics always warn that shops will suffer, because customers who cannot park outside will go elsewhere. My own experience suggests the opposite. When a short market street in my city was closed to traffic for a summer festival, I stood at one end on a Friday evening and counted the people entering it: more than two thousand in an hour, many of them families who would never have brought young children onto the street while cars were passing. Shopkeepers I spoke to that night told me they had rarely been so busy.\n\n[3] The reason is not mysterious. A driver passes a shop window in two seconds; a pedestrian may pass it in twenty, and a pedestrian who stops to look is a potential customer. People on foot also return more often. They come for bread on Monday and for shoes on Wednesday, while a driver tends to make one large trip and leave. A street lined with parked cars also hides half of every shop window; a street without them shows the whole shop.\n\n[4] There are other benefits that no shop's accounts will show. The air at street level becomes cleaner. Neighbours can hear each other speak. Children can cross without holding an adult's hand. In the evenings, the pavement that was a narrow strip beside the traffic becomes wide enough for a café's tables, a bookseller's cart, or simply a bench. A street without cars stops being a place you pass through and becomes a place you go to.\n\n[5] Of course, delivery vans must still reach the shops, and ambulances must be able to enter. These are practical problems with practical solutions: deliveries in the early morning, removable barriers for emergencies. They are not reasons to keep a street choked with traffic for the remaining twenty hours of the day.\n\n**PASSAGE B**\n\n[1] I have run a hardware shop on the same street for twenty-two years, and I would welcome fewer cars outside my door. The noise is tiring, and the fumes settle on everything I sell. Some evenings I cannot hear my customers over the horns. But I have learned to be careful with stories about car-free streets that are based on a single busy evening.\n\n[2] A festival is not an ordinary Tuesday. People come to a festival because something special is happening, and they spend money on food and small gifts. My customers buy paint, pipes and bags of cement. Many of them are builders, or older people who cannot carry a heavy box to a bus stop half a kilometre away. If they cannot stop near the shop, some of them will simply drive to a large store on the edge of the city, where parking is free.\n\n[3] This does not mean that closing streets is always a mistake. Some streets, especially those full of cafés, clothing shops and restaurants, may well become busier without cars. Others, where people buy heavy or bulky goods, may lose trade. The difference depends on what is sold, on how good the buses and trains are, and on whether there is parking within a short walk. A street of jewellers is not a street of plumbers' suppliers, and a city with frequent buses is not one where the nearest stop is a long walk away.\n\n[4] What I would ask of the planners is simple: measure before you decide. Count customers and sales on ordinary days, close the street for a trial period of several months, and count again. Ask the shopkeepers to share their figures, and publish the results, whether they are good or bad. Planners who are confident in their idea should have nothing to fear from such a test. A city that tests its ideas honestly will make fewer expensive mistakes, and it will also persuade more people like me. If the figures are good, I will be the first to argue for closing my own street.",
+       "q": "As it is used in Passage A, paragraph 5, the word choked most nearly means:",
+       "c": [
+        "strangled.",
+        "filled so completely that movement is difficult.",
+        "made quiet and silent.",
+        "made dirty by smoke."
+       ],
+       "a": 1,
+       "e": "A street \"choked with traffic\" is blocked by too many cars. \"Strangled\" is the literal meaning for a person (common-meaning trap). C and D describe other effects of traffic, not the meaning of the word.",
+       "s": "Words in context"
+      },
+      {
+       "p": "These passages discuss closing city-centre streets to cars. Passage A is adapted from an article by an urban planner. Passage B is adapted from a letter by a shopkeeper.\n\n**PASSAGE A**\n\n[1] Every city has a street that its residents love to complain about: too narrow, too noisy, too full of cars that move more slowly than the people walking beside them. My proposal for such streets is simple. Close them to private cars, at least in the city centre, and give them back to people on foot.\n\n[2] Critics always warn that shops will suffer, because customers who cannot park outside will go elsewhere. My own experience suggests the opposite. When a short market street in my city was closed to traffic for a summer festival, I stood at one end on a Friday evening and counted the people entering it: more than two thousand in an hour, many of them families who would never have brought young children onto the street while cars were passing. Shopkeepers I spoke to that night told me they had rarely been so busy.\n\n[3] The reason is not mysterious. A driver passes a shop window in two seconds; a pedestrian may pass it in twenty, and a pedestrian who stops to look is a potential customer. People on foot also return more often. They come for bread on Monday and for shoes on Wednesday, while a driver tends to make one large trip and leave. A street lined with parked cars also hides half of every shop window; a street without them shows the whole shop.\n\n[4] There are other benefits that no shop's accounts will show. The air at street level becomes cleaner. Neighbours can hear each other speak. Children can cross without holding an adult's hand. In the evenings, the pavement that was a narrow strip beside the traffic becomes wide enough for a café's tables, a bookseller's cart, or simply a bench. A street without cars stops being a place you pass through and becomes a place you go to.\n\n[5] Of course, delivery vans must still reach the shops, and ambulances must be able to enter. These are practical problems with practical solutions: deliveries in the early morning, removable barriers for emergencies. They are not reasons to keep a street choked with traffic for the remaining twenty hours of the day.\n\n**PASSAGE B**\n\n[1] I have run a hardware shop on the same street for twenty-two years, and I would welcome fewer cars outside my door. The noise is tiring, and the fumes settle on everything I sell. Some evenings I cannot hear my customers over the horns. But I have learned to be careful with stories about car-free streets that are based on a single busy evening.\n\n[2] A festival is not an ordinary Tuesday. People come to a festival because something special is happening, and they spend money on food and small gifts. My customers buy paint, pipes and bags of cement. Many of them are builders, or older people who cannot carry a heavy box to a bus stop half a kilometre away. If they cannot stop near the shop, some of them will simply drive to a large store on the edge of the city, where parking is free.\n\n[3] This does not mean that closing streets is always a mistake. Some streets, especially those full of cafés, clothing shops and restaurants, may well become busier without cars. Others, where people buy heavy or bulky goods, may lose trade. The difference depends on what is sold, on how good the buses and trains are, and on whether there is parking within a short walk. A street of jewellers is not a street of plumbers' suppliers, and a city with frequent buses is not one where the nearest stop is a long walk away.\n\n[4] What I would ask of the planners is simple: measure before you decide. Count customers and sales on ordinary days, close the street for a trial period of several months, and count again. Ask the shopkeepers to share their figures, and publish the results, whether they are good or bad. Planners who are confident in their idea should have nothing to fear from such a test. A city that tests its ideas honestly will make fewer expensive mistakes, and it will also persuade more people like me. If the figures are good, I will be the first to argue for closing my own street.",
+       "q": "The author of Passage B objects to the evidence about the festival mainly because:",
+       "c": [
+        "he did not believe that two thousand people really entered the street.",
+        "he thinks festivals harm the shops on a street.",
+        "he was not invited to speak about his own shop that evening.",
+        "a festival evening is not typical of an ordinary shopping day."
+       ],
+       "a": 3,
+       "e": "\"A festival is not an ordinary Tuesday\": people come for something special and buy different things. A is too extreme: he never doubts the number. B and C are invented.",
+       "s": "Evaluating evidence"
+      },
+      {
+       "p": "These passages discuss closing city-centre streets to cars. Passage A is adapted from an article by an urban planner. Passage B is adapted from a letter by a shopkeeper.\n\n**PASSAGE A**\n\n[1] Every city has a street that its residents love to complain about: too narrow, too noisy, too full of cars that move more slowly than the people walking beside them. My proposal for such streets is simple. Close them to private cars, at least in the city centre, and give them back to people on foot.\n\n[2] Critics always warn that shops will suffer, because customers who cannot park outside will go elsewhere. My own experience suggests the opposite. When a short market street in my city was closed to traffic for a summer festival, I stood at one end on a Friday evening and counted the people entering it: more than two thousand in an hour, many of them families who would never have brought young children onto the street while cars were passing. Shopkeepers I spoke to that night told me they had rarely been so busy.\n\n[3] The reason is not mysterious. A driver passes a shop window in two seconds; a pedestrian may pass it in twenty, and a pedestrian who stops to look is a potential customer. People on foot also return more often. They come for bread on Monday and for shoes on Wednesday, while a driver tends to make one large trip and leave. A street lined with parked cars also hides half of every shop window; a street without them shows the whole shop.\n\n[4] There are other benefits that no shop's accounts will show. The air at street level becomes cleaner. Neighbours can hear each other speak. Children can cross without holding an adult's hand. In the evenings, the pavement that was a narrow strip beside the traffic becomes wide enough for a café's tables, a bookseller's cart, or simply a bench. A street without cars stops being a place you pass through and becomes a place you go to.\n\n[5] Of course, delivery vans must still reach the shops, and ambulances must be able to enter. These are practical problems with practical solutions: deliveries in the early morning, removable barriers for emergencies. They are not reasons to keep a street choked with traffic for the remaining twenty hours of the day.\n\n**PASSAGE B**\n\n[1] I have run a hardware shop on the same street for twenty-two years, and I would welcome fewer cars outside my door. The noise is tiring, and the fumes settle on everything I sell. Some evenings I cannot hear my customers over the horns. But I have learned to be careful with stories about car-free streets that are based on a single busy evening.\n\n[2] A festival is not an ordinary Tuesday. People come to a festival because something special is happening, and they spend money on food and small gifts. My customers buy paint, pipes and bags of cement. Many of them are builders, or older people who cannot carry a heavy box to a bus stop half a kilometre away. If they cannot stop near the shop, some of them will simply drive to a large store on the edge of the city, where parking is free.\n\n[3] This does not mean that closing streets is always a mistake. Some streets, especially those full of cafés, clothing shops and restaurants, may well become busier without cars. Others, where people buy heavy or bulky goods, may lose trade. The difference depends on what is sold, on how good the buses and trains are, and on whether there is parking within a short walk. A street of jewellers is not a street of plumbers' suppliers, and a city with frequent buses is not one where the nearest stop is a long walk away.\n\n[4] What I would ask of the planners is simple: measure before you decide. Count customers and sales on ordinary days, close the street for a trial period of several months, and count again. Ask the shopkeepers to share their figures, and publish the results, whether they are good or bad. Planners who are confident in their idea should have nothing to fear from such a test. A city that tests its ideas honestly will make fewer expensive mistakes, and it will also persuade more people like me. If the figures are good, I will be the first to argue for closing my own street.",
+       "q": "According to Passage B, whether closing a street helps its shops depends on all of the following EXCEPT:",
+       "c": [
+        "the kind of goods the shops sell.",
+        "the quality of the buses and trains.",
+        "whether parking is available within a short walk.",
+        "the age of the buildings on the street."
+       ],
+       "a": 3,
+       "e": "Paragraph 3 lists three conditions: \"what is sold,\" \"how good the buses and trains are,\" and \"parking within a short walk.\" The age of the buildings is never mentioned. In EXCEPT questions, cross out each choice you can find in the text; the survivor is the answer.",
+       "s": "Detail"
+      },
+      {
+       "p": "These passages discuss closing city-centre streets to cars. Passage A is adapted from an article by an urban planner. Passage B is adapted from a letter by a shopkeeper.\n\n**PASSAGE A**\n\n[1] Every city has a street that its residents love to complain about: too narrow, too noisy, too full of cars that move more slowly than the people walking beside them. My proposal for such streets is simple. Close them to private cars, at least in the city centre, and give them back to people on foot.\n\n[2] Critics always warn that shops will suffer, because customers who cannot park outside will go elsewhere. My own experience suggests the opposite. When a short market street in my city was closed to traffic for a summer festival, I stood at one end on a Friday evening and counted the people entering it: more than two thousand in an hour, many of them families who would never have brought young children onto the street while cars were passing. Shopkeepers I spoke to that night told me they had rarely been so busy.\n\n[3] The reason is not mysterious. A driver passes a shop window in two seconds; a pedestrian may pass it in twenty, and a pedestrian who stops to look is a potential customer. People on foot also return more often. They come for bread on Monday and for shoes on Wednesday, while a driver tends to make one large trip and leave. A street lined with parked cars also hides half of every shop window; a street without them shows the whole shop.\n\n[4] There are other benefits that no shop's accounts will show. The air at street level becomes cleaner. Neighbours can hear each other speak. Children can cross without holding an adult's hand. In the evenings, the pavement that was a narrow strip beside the traffic becomes wide enough for a café's tables, a bookseller's cart, or simply a bench. A street without cars stops being a place you pass through and becomes a place you go to.\n\n[5] Of course, delivery vans must still reach the shops, and ambulances must be able to enter. These are practical problems with practical solutions: deliveries in the early morning, removable barriers for emergencies. They are not reasons to keep a street choked with traffic for the remaining twenty hours of the day.\n\n**PASSAGE B**\n\n[1] I have run a hardware shop on the same street for twenty-two years, and I would welcome fewer cars outside my door. The noise is tiring, and the fumes settle on everything I sell. Some evenings I cannot hear my customers over the horns. But I have learned to be careful with stories about car-free streets that are based on a single busy evening.\n\n[2] A festival is not an ordinary Tuesday. People come to a festival because something special is happening, and they spend money on food and small gifts. My customers buy paint, pipes and bags of cement. Many of them are builders, or older people who cannot carry a heavy box to a bus stop half a kilometre away. If they cannot stop near the shop, some of them will simply drive to a large store on the edge of the city, where parking is free.\n\n[3] This does not mean that closing streets is always a mistake. Some streets, especially those full of cafés, clothing shops and restaurants, may well become busier without cars. Others, where people buy heavy or bulky goods, may lose trade. The difference depends on what is sold, on how good the buses and trains are, and on whether there is parking within a short walk. A street of jewellers is not a street of plumbers' suppliers, and a city with frequent buses is not one where the nearest stop is a long walk away.\n\n[4] What I would ask of the planners is simple: measure before you decide. Count customers and sales on ordinary days, close the street for a trial period of several months, and count again. Ask the shopkeepers to share their figures, and publish the results, whether they are good or bad. Planners who are confident in their idea should have nothing to fear from such a test. A city that tests its ideas honestly will make fewer expensive mistakes, and it will also persuade more people like me. If the figures are good, I will be the first to argue for closing my own street.",
+       "q": "The attitude of the author of Passage B toward reducing the number of cars on his street is best described as:",
+       "c": [
+        "firmly opposed, because cars bring him customers.",
+        "open to the idea but asking for evidence from ordinary days first.",
+        "enthusiastic, because a festival made his shop busier.",
+        "indifferent, because his customers rarely drive."
+       ],
+       "a": 1,
+       "e": "He \"would welcome fewer cars\" (open) but asks planners to \"measure before you decide\" (careful). A ignores the first sentence; C uses Passage A's festival story; D is reversed: many of his customers drive.",
+       "s": "Point of view"
+      },
+      {
+       "p": "These passages discuss closing city-centre streets to cars. Passage A is adapted from an article by an urban planner. Passage B is adapted from a letter by a shopkeeper.\n\n**PASSAGE A**\n\n[1] Every city has a street that its residents love to complain about: too narrow, too noisy, too full of cars that move more slowly than the people walking beside them. My proposal for such streets is simple. Close them to private cars, at least in the city centre, and give them back to people on foot.\n\n[2] Critics always warn that shops will suffer, because customers who cannot park outside will go elsewhere. My own experience suggests the opposite. When a short market street in my city was closed to traffic for a summer festival, I stood at one end on a Friday evening and counted the people entering it: more than two thousand in an hour, many of them families who would never have brought young children onto the street while cars were passing. Shopkeepers I spoke to that night told me they had rarely been so busy.\n\n[3] The reason is not mysterious. A driver passes a shop window in two seconds; a pedestrian may pass it in twenty, and a pedestrian who stops to look is a potential customer. People on foot also return more often. They come for bread on Monday and for shoes on Wednesday, while a driver tends to make one large trip and leave. A street lined with parked cars also hides half of every shop window; a street without them shows the whole shop.\n\n[4] There are other benefits that no shop's accounts will show. The air at street level becomes cleaner. Neighbours can hear each other speak. Children can cross without holding an adult's hand. In the evenings, the pavement that was a narrow strip beside the traffic becomes wide enough for a café's tables, a bookseller's cart, or simply a bench. A street without cars stops being a place you pass through and becomes a place you go to.\n\n[5] Of course, delivery vans must still reach the shops, and ambulances must be able to enter. These are practical problems with practical solutions: deliveries in the early morning, removable barriers for emergencies. They are not reasons to keep a street choked with traffic for the remaining twenty hours of the day.\n\n**PASSAGE B**\n\n[1] I have run a hardware shop on the same street for twenty-two years, and I would welcome fewer cars outside my door. The noise is tiring, and the fumes settle on everything I sell. Some evenings I cannot hear my customers over the horns. But I have learned to be careful with stories about car-free streets that are based on a single busy evening.\n\n[2] A festival is not an ordinary Tuesday. People come to a festival because something special is happening, and they spend money on food and small gifts. My customers buy paint, pipes and bags of cement. Many of them are builders, or older people who cannot carry a heavy box to a bus stop half a kilometre away. If they cannot stop near the shop, some of them will simply drive to a large store on the edge of the city, where parking is free.\n\n[3] This does not mean that closing streets is always a mistake. Some streets, especially those full of cafés, clothing shops and restaurants, may well become busier without cars. Others, where people buy heavy or bulky goods, may lose trade. The difference depends on what is sold, on how good the buses and trains are, and on whether there is parking within a short walk. A street of jewellers is not a street of plumbers' suppliers, and a city with frequent buses is not one where the nearest stop is a long walk away.\n\n[4] What I would ask of the planners is simple: measure before you decide. Count customers and sales on ordinary days, close the street for a trial period of several months, and count again. Ask the shopkeepers to share their figures, and publish the results, whether they are good or bad. Planners who are confident in their idea should have nothing to fear from such a test. A city that tests its ideas honestly will make fewer expensive mistakes, and it will also persuade more people like me. If the figures are good, I will be the first to argue for closing my own street.",
+       "q": "Both authors would most likely agree that:",
+       "c": [
+        "some city streets could become busier if they were closed to cars.",
+        "every street in the city centre should be closed to cars immediately.",
+        "shops that sell heavy goods will gain trade on car-free streets.",
+        "festivals give an accurate picture of a street's normal trade."
+       ],
+       "a": 0,
+       "e": "Passage A argues that closed streets attract shoppers; Passage B grants that some streets \"may well become busier without cars.\" B is too extreme for Passage B. C contradicts Passage B. D is exactly what Passage B denies.",
+       "s": "Comparing passages"
+      },
+      {
+       "p": "These passages discuss closing city-centre streets to cars. Passage A is adapted from an article by an urban planner. Passage B is adapted from a letter by a shopkeeper.\n\n**PASSAGE A**\n\n[1] Every city has a street that its residents love to complain about: too narrow, too noisy, too full of cars that move more slowly than the people walking beside them. My proposal for such streets is simple. Close them to private cars, at least in the city centre, and give them back to people on foot.\n\n[2] Critics always warn that shops will suffer, because customers who cannot park outside will go elsewhere. My own experience suggests the opposite. When a short market street in my city was closed to traffic for a summer festival, I stood at one end on a Friday evening and counted the people entering it: more than two thousand in an hour, many of them families who would never have brought young children onto the street while cars were passing. Shopkeepers I spoke to that night told me they had rarely been so busy.\n\n[3] The reason is not mysterious. A driver passes a shop window in two seconds; a pedestrian may pass it in twenty, and a pedestrian who stops to look is a potential customer. People on foot also return more often. They come for bread on Monday and for shoes on Wednesday, while a driver tends to make one large trip and leave. A street lined with parked cars also hides half of every shop window; a street without them shows the whole shop.\n\n[4] There are other benefits that no shop's accounts will show. The air at street level becomes cleaner. Neighbours can hear each other speak. Children can cross without holding an adult's hand. In the evenings, the pavement that was a narrow strip beside the traffic becomes wide enough for a café's tables, a bookseller's cart, or simply a bench. A street without cars stops being a place you pass through and becomes a place you go to.\n\n[5] Of course, delivery vans must still reach the shops, and ambulances must be able to enter. These are practical problems with practical solutions: deliveries in the early morning, removable barriers for emergencies. They are not reasons to keep a street choked with traffic for the remaining twenty hours of the day.\n\n**PASSAGE B**\n\n[1] I have run a hardware shop on the same street for twenty-two years, and I would welcome fewer cars outside my door. The noise is tiring, and the fumes settle on everything I sell. Some evenings I cannot hear my customers over the horns. But I have learned to be careful with stories about car-free streets that are based on a single busy evening.\n\n[2] A festival is not an ordinary Tuesday. People come to a festival because something special is happening, and they spend money on food and small gifts. My customers buy paint, pipes and bags of cement. Many of them are builders, or older people who cannot carry a heavy box to a bus stop half a kilometre away. If they cannot stop near the shop, some of them will simply drive to a large store on the edge of the city, where parking is free.\n\n[3] This does not mean that closing streets is always a mistake. Some streets, especially those full of cafés, clothing shops and restaurants, may well become busier without cars. Others, where people buy heavy or bulky goods, may lose trade. The difference depends on what is sold, on how good the buses and trains are, and on whether there is parking within a short walk. A street of jewellers is not a street of plumbers' suppliers, and a city with frequent buses is not one where the nearest stop is a long walk away.\n\n[4] What I would ask of the planners is simple: measure before you decide. Count customers and sales on ordinary days, close the street for a trial period of several months, and count again. Ask the shopkeepers to share their figures, and publish the results, whether they are good or bad. Planners who are confident in their idea should have nothing to fear from such a test. A city that tests its ideas honestly will make fewer expensive mistakes, and it will also persuade more people like me. If the figures are good, I will be the first to argue for closing my own street.",
+       "q": "How would the author of Passage B most likely respond to the claim in Passage A, paragraph 3, that people on foot \"come for bread on Monday and for shoes on Wednesday\"?",
+       "c": [
+        "He would reject it, because pedestrians never return to the same street.",
+        "He would agree, and add that hardware shops benefit most from such visits.",
+        "He would say it may be true for everyday purchases but not for customers buying heavy goods.",
+        "He would say the claim is impossible to test with any kind of measurement."
+       ],
+       "a": 2,
+       "e": "Passage B separates shops like cafés and clothing shops from shops selling \"heavy or bulky goods\" like his own paint and cement. A is too extreme; B is reversed for hardware; D contradicts his call to \"count customers and sales.\"",
+       "s": "Comparing passages"
+      },
+      {
+       "p": "These passages discuss closing city-centre streets to cars. Passage A is adapted from an article by an urban planner. Passage B is adapted from a letter by a shopkeeper.\n\n**PASSAGE A**\n\n[1] Every city has a street that its residents love to complain about: too narrow, too noisy, too full of cars that move more slowly than the people walking beside them. My proposal for such streets is simple. Close them to private cars, at least in the city centre, and give them back to people on foot.\n\n[2] Critics always warn that shops will suffer, because customers who cannot park outside will go elsewhere. My own experience suggests the opposite. When a short market street in my city was closed to traffic for a summer festival, I stood at one end on a Friday evening and counted the people entering it: more than two thousand in an hour, many of them families who would never have brought young children onto the street while cars were passing. Shopkeepers I spoke to that night told me they had rarely been so busy.\n\n[3] The reason is not mysterious. A driver passes a shop window in two seconds; a pedestrian may pass it in twenty, and a pedestrian who stops to look is a potential customer. People on foot also return more often. They come for bread on Monday and for shoes on Wednesday, while a driver tends to make one large trip and leave. A street lined with parked cars also hides half of every shop window; a street without them shows the whole shop.\n\n[4] There are other benefits that no shop's accounts will show. The air at street level becomes cleaner. Neighbours can hear each other speak. Children can cross without holding an adult's hand. In the evenings, the pavement that was a narrow strip beside the traffic becomes wide enough for a café's tables, a bookseller's cart, or simply a bench. A street without cars stops being a place you pass through and becomes a place you go to.\n\n[5] Of course, delivery vans must still reach the shops, and ambulances must be able to enter. These are practical problems with practical solutions: deliveries in the early morning, removable barriers for emergencies. They are not reasons to keep a street choked with traffic for the remaining twenty hours of the day.\n\n**PASSAGE B**\n\n[1] I have run a hardware shop on the same street for twenty-two years, and I would welcome fewer cars outside my door. The noise is tiring, and the fumes settle on everything I sell. Some evenings I cannot hear my customers over the horns. But I have learned to be careful with stories about car-free streets that are based on a single busy evening.\n\n[2] A festival is not an ordinary Tuesday. People come to a festival because something special is happening, and they spend money on food and small gifts. My customers buy paint, pipes and bags of cement. Many of them are builders, or older people who cannot carry a heavy box to a bus stop half a kilometre away. If they cannot stop near the shop, some of them will simply drive to a large store on the edge of the city, where parking is free.\n\n[3] This does not mean that closing streets is always a mistake. Some streets, especially those full of cafés, clothing shops and restaurants, may well become busier without cars. Others, where people buy heavy or bulky goods, may lose trade. The difference depends on what is sold, on how good the buses and trains are, and on whether there is parking within a short walk. A street of jewellers is not a street of plumbers' suppliers, and a city with frequent buses is not one where the nearest stop is a long walk away.\n\n[4] What I would ask of the planners is simple: measure before you decide. Count customers and sales on ordinary days, close the street for a trial period of several months, and count again. Ask the shopkeepers to share their figures, and publish the results, whether they are good or bad. Planners who are confident in their idea should have nothing to fear from such a test. A city that tests its ideas honestly will make fewer expensive mistakes, and it will also persuade more people like me. If the figures are good, I will be the first to argue for closing my own street.",
+       "q": "Which choice best describes a difference in the kinds of evidence the two authors rely on?",
+       "c": [
+        "Passage A relies on official sales figures, while Passage B relies on interviews with customers.",
+        "Passage A relies mainly on observation of a single event, while Passage B calls for measurement over a longer period.",
+        "Passage A relies on expert opinion, while Passage B relies on the history of the city.",
+        "Both passages rely mainly on surveys of large numbers of shoppers."
+       ],
+       "a": 1,
+       "e": "Passage A counts people for one hour at a festival and quotes shopkeepers that night; Passage B asks for counts \"on ordinary days\" and a trial \"of several months.\" A reverses the roles: Passage B asks for sales figures, it does not have them. C and D describe evidence neither author uses.",
+       "s": "Evaluating evidence"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "test",
+   "title": "ACT Reading practice — Science passage with a table",
+   "timed": false,
+   "intro": "A short natural-science passage with a data table and 4 questions, untimed. Read the table's title, headings and units before you answer.",
+   "sections": [
+    {
+     "name": "Science passage",
+     "minutes": 5,
+     "questions": [
+      {
+       "p": "NATURAL SCIENCE: This passage is adapted from a report by a school science club.\n\n[1] On a hot afternoon, anyone who has walked barefoot from a lawn onto a car park knows that the ground can be far hotter than the air. Cities, with their roads, roofs and pavements, tend to stay warmer than the countryside around them, an effect known as the urban heat island. Dark, hard surfaces absorb much of the sunlight that falls on them and release the stored heat slowly, while grass and trees use part of the sun's energy to evaporate water, which cools the surface.\n\n[2] To see how large these differences were in their own schoolyard, members of a school science club measured four surfaces at 2 p.m. every day for one week in June: a black asphalt car park, a light-coloured concrete path, a lawn in full sun, and a lawn shaded by trees. They used an infrared thermometer to record the temperature of each surface and an ordinary thermometer held 1.5 metres above the ground to record the air temperature. The table shows their averages for the week.\n\n[3] The students were struck less by the hottest number than by the pattern. The surfaces differed enormously from one another, but the air a short distance above them differed much less, because moving air mixes heat from many places. Even so, the shaded lawn was the coolest place in the schoolyard both at ground level and at head height, a result the club has used to argue that the school should plant more trees near the car park.\n\nAverage temperatures at 2 p.m. (one week in June)\nSurface | Surface temperature (°C) | Air temperature at 1.5 m (°C)\nBlack asphalt, full sun | 52 | 37\nLight concrete, full sun | 41 | 36\nLawn, full sun | 33 | 34\nLawn, shaded by trees | 27 | 31",
+       "q": "According to the table, by how many degrees did the average surface temperature of the black asphalt exceed that of the shaded lawn?",
+       "c": [
+        "6°C",
+        "11°C",
+        "19°C",
+        "25°C"
+       ],
+       "a": 3,
+       "e": "52 − 27 = 25. 6°C is the difference in AIR temperature (37 − 31), the wrong column trap; 11°C is asphalt minus concrete; 19°C is asphalt minus the sunny lawn.",
+       "s": "Reading a table"
+      },
+      {
+       "p": "NATURAL SCIENCE: This passage is adapted from a report by a school science club.\n\n[1] On a hot afternoon, anyone who has walked barefoot from a lawn onto a car park knows that the ground can be far hotter than the air. Cities, with their roads, roofs and pavements, tend to stay warmer than the countryside around them, an effect known as the urban heat island. Dark, hard surfaces absorb much of the sunlight that falls on them and release the stored heat slowly, while grass and trees use part of the sun's energy to evaporate water, which cools the surface.\n\n[2] To see how large these differences were in their own schoolyard, members of a school science club measured four surfaces at 2 p.m. every day for one week in June: a black asphalt car park, a light-coloured concrete path, a lawn in full sun, and a lawn shaded by trees. They used an infrared thermometer to record the temperature of each surface and an ordinary thermometer held 1.5 metres above the ground to record the air temperature. The table shows their averages for the week.\n\n[3] The students were struck less by the hottest number than by the pattern. The surfaces differed enormously from one another, but the air a short distance above them differed much less, because moving air mixes heat from many places. Even so, the shaded lawn was the coolest place in the schoolyard both at ground level and at head height, a result the club has used to argue that the school should plant more trees near the car park.\n\nAverage temperatures at 2 p.m. (one week in June)\nSurface | Surface temperature (°C) | Air temperature at 1.5 m (°C)\nBlack asphalt, full sun | 52 | 37\nLight concrete, full sun | 41 | 36\nLawn, full sun | 33 | 34\nLawn, shaded by trees | 27 | 31",
+       "q": "The data in the table most directly support which statement from the passage?",
+       "c": [
+        "The surfaces differed enormously from one another, but the air above them differed much less.",
+        "Dark, hard surfaces release stored heat slowly.",
+        "Moving air mixes heat from many places.",
+        "The school should plant more trees near the car park."
+       ],
+       "a": 0,
+       "e": "Surface temperatures range from 27 to 52 (25 degrees), air temperatures only from 31 to 37 (6 degrees). B is about how slowly heat is released over time, which a single 2 p.m. reading cannot show; C is an explanation the table does not test; D is a recommendation, not something data can show by themselves.",
+       "s": "Integrating text and data"
+      },
+      {
+       "p": "NATURAL SCIENCE: This passage is adapted from a report by a school science club.\n\n[1] On a hot afternoon, anyone who has walked barefoot from a lawn onto a car park knows that the ground can be far hotter than the air. Cities, with their roads, roofs and pavements, tend to stay warmer than the countryside around them, an effect known as the urban heat island. Dark, hard surfaces absorb much of the sunlight that falls on them and release the stored heat slowly, while grass and trees use part of the sun's energy to evaporate water, which cools the surface.\n\n[2] To see how large these differences were in their own schoolyard, members of a school science club measured four surfaces at 2 p.m. every day for one week in June: a black asphalt car park, a light-coloured concrete path, a lawn in full sun, and a lawn shaded by trees. They used an infrared thermometer to record the temperature of each surface and an ordinary thermometer held 1.5 metres above the ground to record the air temperature. The table shows their averages for the week.\n\n[3] The students were struck less by the hottest number than by the pattern. The surfaces differed enormously from one another, but the air a short distance above them differed much less, because moving air mixes heat from many places. Even so, the shaded lawn was the coolest place in the schoolyard both at ground level and at head height, a result the club has used to argue that the school should plant more trees near the car park.\n\nAverage temperatures at 2 p.m. (one week in June)\nSurface | Surface temperature (°C) | Air temperature at 1.5 m (°C)\nBlack asphalt, full sun | 52 | 37\nLight concrete, full sun | 41 | 36\nLawn, full sun | 33 | 34\nLawn, shaded by trees | 27 | 31",
+       "q": "Based on the table, which surface had a surface temperature LOWER than the air temperature 1.5 metres above it?",
+       "c": [
+        "Light concrete, full sun",
+        "Black asphalt, full sun",
+        "Both lawns",
+        "None of the four surfaces"
+       ],
+       "a": 2,
+       "e": "Sunny lawn 33 < 34 and shaded lawn 27 < 31. Both asphalt (52 > 37) and concrete (41 > 36) were hotter than the air above them, so A and B fail, and D is contradicted by the two lawns.",
+       "s": "Reading a table"
+      },
+      {
+       "p": "NATURAL SCIENCE: This passage is adapted from a report by a school science club.\n\n[1] On a hot afternoon, anyone who has walked barefoot from a lawn onto a car park knows that the ground can be far hotter than the air. Cities, with their roads, roofs and pavements, tend to stay warmer than the countryside around them, an effect known as the urban heat island. Dark, hard surfaces absorb much of the sunlight that falls on them and release the stored heat slowly, while grass and trees use part of the sun's energy to evaporate water, which cools the surface.\n\n[2] To see how large these differences were in their own schoolyard, members of a school science club measured four surfaces at 2 p.m. every day for one week in June: a black asphalt car park, a light-coloured concrete path, a lawn in full sun, and a lawn shaded by trees. They used an infrared thermometer to record the temperature of each surface and an ordinary thermometer held 1.5 metres above the ground to record the air temperature. The table shows their averages for the week.\n\n[3] The students were struck less by the hottest number than by the pattern. The surfaces differed enormously from one another, but the air a short distance above them differed much less, because moving air mixes heat from many places. Even so, the shaded lawn was the coolest place in the schoolyard both at ground level and at head height, a result the club has used to argue that the school should plant more trees near the car park.\n\nAverage temperatures at 2 p.m. (one week in June)\nSurface | Surface temperature (°C) | Air temperature at 1.5 m (°C)\nBlack asphalt, full sun | 52 | 37\nLight concrete, full sun | 41 | 36\nLawn, full sun | 33 | 34\nLawn, shaded by trees | 27 | 31",
+       "q": "The club's teacher points out that all the measurements were taken in one schoolyard, at one time of day, during a single week in June. This limitation most directly weakens which of the following claims?",
+       "c": [
+        "At 2 p.m. in that June week, the shaded lawn was cooler than the asphalt.",
+        "The same pattern of differences would be found in every season and at every hour.",
+        "The black asphalt was the hottest surface the students measured.",
+        "The students measured air temperature 1.5 metres above the ground."
+       ],
+       "a": 1,
+       "e": "One week, one place and one hour cannot show what happens in other seasons or at night. A, C and D describe exactly what was measured, so the limitation does not weaken them.",
+       "s": "Evaluating evidence"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Integration of Knowledge and Ideas = 19–26% of scored ACT Reading questions; every form has either a paired-passage set or a passage with charts or graphs.",
+    "Paired passages: A, then B, then both. The second author often qualifies the first rather than rejecting it.",
+    "Data: title, headings, units, exact cell; check both the text and the numbers.",
+    "Evaluate evidence by its type and its limits: one event is weaker than measurement over time.",
+    "A limitation weakens only the claims that go beyond what was actually measured."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,521 @@
+{
+ "slug": "act-relevance-add-delete",
+ "title": "Relevance: Add, Delete and Writer's Goal",
+ "kicker": "American Diploma · ACT · English: Production of Writing",
+ "summary": "How to answer \"Should the writer add/delete this sentence?\", \"Which choice best accomplishes the goal?\" and \"Suppose the writer's goal had been…\" — a clear method, worked items and a 10-question ACT-style essay.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Relevance questions belong to **Production of Writing**, the largest of the three reporting categories on the ACT English test (38–43% of the English score, the same range as Conventions of Standard English). This category is about **topic development**: does each sentence help the essay do its job? Grammar is not the point here. Every choice is usually grammatically correct; only one fits the writer's purpose."
+  },
+  {
+   "type": "p",
+   "text": "You will meet three kinds of stems, always in your own words like these:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Question type",
+    "What the stem says (typical wording)",
+    "What you do"
+   ],
+   "rows": [
+    [
+     "Add or delete",
+     "\"At this point, the writer is considering adding the following sentence: … Should the writer make this addition here?\" or \"The writer is considering deleting the underlined sentence. Should the sentence be kept or deleted?\"",
+     "Decide Yes/No (Kept/Deleted), then choose the RIGHT reason."
+    ],
+    [
+     "Writer's goal",
+     "\"The writer wants to emphasise / show / provide a specific example of … Which choice best accomplishes this goal?\" or \"Which choice most effectively …?\"",
+     "Find the exact goal words and choose the option that does exactly that."
+    ],
+    [
+     "Essay as a whole",
+     "\"Suppose the writer's goal had been to write an essay that … Would this essay accomplish that goal?\"",
+     "Compare the stated goal with what the essay really does."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "These questions often appear at a numbered point in the passage with no underline (for an addition), on an underlined sentence (for a deletion), or at the end of the essay (for the whole-essay question)."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "اسأل: الجملة دي بتخدم إيه؟",
+   "text": "في أسئلة relevance مفيش جرامر. السؤال: الجملة دي ليها علاقة بفكرة الفقرة ولا لأ؟ حدد فكرة الفقرة الأول، وبعدين شوف الجملة بتدعمها ولا بتبعدنا عنها. والسبب في الاختيار أهم من Yes أو No."
+  },
+  {
+   "type": "h2",
+   "text": "The method for add/delete questions"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Name the focus of the paragraph** in five or six words (\"how we measured the paper,\" \"why the bakery closed\"). Look at the sentence before and the sentence after the point.",
+    "**Read the new (or underlined) sentence.** Ask: does it support, explain or give an example of that focus? Or does it drift to a side topic?",
+    "**Decide Yes/No** (or Kept/Deleted). Cross out the two choices on the wrong side.",
+    "**Choose between the two reasons left.** The correct reason must be TRUE about the sentence and must be the real reason. One of the two is usually inaccurate (it describes the sentence wrongly) or irrelevant (true but not why we keep/delete it)."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "**Usually right to add/keep** a sentence that: gives a specific example or evidence for the claim just made; explains a term or idea the reader needs; makes a needed link between two sentences."
+  },
+  {
+   "type": "p",
+   "text": "**Usually right to delete/not add** a sentence that: introduces a new or side topic; repeats what has already been said; gives a detail that is interesting but not connected to the paragraph's point; contradicts the essay; breaks the flow between two sentences that belong together."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Reason in the choice",
+    "When it is right",
+    "Trap version"
+   ],
+   "rows": [
+    [
+     "\"…because it provides a specific example of …\"",
+     "The sentence really is an example of the claim before it.",
+     "It is an example — but of a different idea."
+    ],
+    [
+     "\"…because it explains …\"",
+     "The sentence gives the cause or meaning the reader needs.",
+     "The sentence does not explain anything; it just adds a fact."
+    ],
+    [
+     "\"…because it is not relevant to / distracts from the paragraph's focus on …\"",
+     "The sentence is off-topic.",
+     "The focus named in the choice is wrong."
+    ],
+    [
+     "\"…because it repeats information …\"",
+     "The same fact really appears earlier.",
+     "Nothing like it appears earlier."
+    ],
+    [
+     "\"…because it contradicts …\"",
+     "The sentence says the opposite of something stated.",
+     "It only adds a new detail — no real contradiction."
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "اختيار السبب",
+   "text": "بعد ما تقرر Yes أو No، هيفضل عندك اختيارين. شوف أنهي سبب صح فعلاً بالنسبة للجملة: هي فعلاً بتدي مثال؟ فعلاً بتكرر حاجة اتقالت؟ فعلاً بتناقض؟ لو السبب مش حقيقي، الاختيار غلط حتى لو Yes/No صح."
+  },
+  {
+   "type": "h2",
+   "text": "The method for writer's-goal questions"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Underline the goal words** in the stem: emphasise dedication, show the principal was persuaded by evidence, give the most specific location, introduce the main topic.",
+    "**Ignore whether the choices are true or nice.** All four are usually grammatical and pleasant. Only one does the exact job.",
+    "**Test each choice against the goal words.** Ask: \"Does this show dedication?\" — not \"Is this a good sentence?\"",
+    "**Watch the precise focus.** \"Volunteers from several grades\" shows variety, not dedication. \"She smiled warmly\" shows kindness, not persuasion by evidence."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "Common goals and what to look for:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Goal in the stem",
+    "The right choice usually …"
+   ],
+   "rows": [
+    [
+     "most specific / most detailed",
+     "has names, numbers, exact places or concrete images"
+    ],
+    [
+     "help the reader picture / visualise",
+     "uses a comparison or sensory detail"
+    ],
+    [
+     "show contrast with the previous sentence",
+     "contains an opposite idea, not just a new one"
+    ],
+    [
+     "introduce the paragraph / the essay",
+     "names the topic that the following sentences develop"
+    ],
+    [
+     "conclude by linking to the opening",
+     "repeats an image, word or idea from the first paragraph"
+    ],
+    [
+     "transition to the next paragraph",
+     "mentions both the old idea and the new one"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "The method for \"Suppose the writer's goal had been…\" questions"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Read the hypothetical goal carefully: what topic, and what kind of essay (explain, argue, compare, tell a personal story)?",
+    "In one sentence, say what the essay actually does (\"a student tells how her school started recycling paper\").",
+    "If they match, Yes; if not, No. On the ACT the answer is often No, because the goal is usually slightly different from the real essay — but do not guess; check.",
+    "Choose the reason that describes the essay accurately. Wrong reasons often mention a small detail from the essay as if it were the main point, or describe the essay in a way that is false."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — add a sentence**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: The Aswan High Dam changed farming along the Nile. Before it was built, the river flooded every summer and left a layer of rich mud on the fields. After the dam was completed, the floods stopped. [?] Farmers had to start buying chemical fertilisers to replace the natural mud.\nAt point [?], the writer is considering adding: \"Without the yearly flood, the fields no longer received fresh mud.\""
+  },
+  {
+   "type": "p",
+   "text": "**Should the writer make this addition here?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) Yes, because it explains the link between the end of the floods and the farmers' need for fertiliser.",
+    "B) Yes, because it gives the exact year the dam was finished.",
+    "C) No, because it repeats the information in the previous sentence.",
+    "D) No, because it shifts the focus from farming to the history of the dam."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: A**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✓ Correct: The new sentence bridges the gap: floods stopped → no new mud → fertiliser needed. True and the real reason.",
+    "B) ✗ Wrong: Inaccurate reason: the sentence contains no year.",
+    "C) ✗ Wrong: The previous sentence says the floods stopped, not that the mud stopped arriving — it adds a new step.",
+    "D) ✗ Wrong: It stays on farming."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — delete a sentence**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: Mona's first job was at a small radio station in Alexandria. She read the weather report at six every morning. __The city is known for its long seafront promenade.__ Within a year, she was presenting her own music programme."
+  },
+  {
+   "type": "p",
+   "text": "**The writer is considering deleting the underlined sentence. Should it be kept or deleted?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) Kept, because it describes where Mona worked.",
+    "B) Kept, because it explains why Mona became a presenter.",
+    "C) Deleted, because it interrupts the account of Mona's career with an unrelated detail.",
+    "D) Deleted, because it contradicts the information about the radio station."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: Half-right: it describes the city, not the station or her work.",
+    "B) ✗ Wrong: Inaccurate: the promenade has nothing to do with her promotion.",
+    "C) ✓ Correct: The paragraph traces her career step by step; the seafront breaks that sequence.",
+    "D) ✗ Wrong: No contradiction — just irrelevance."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — writer's goal**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: Wildlife officers in the Red Sea count the dugongs that feed on sea grass near the coast. __The animals are hard to see.__"
+  },
+  {
+   "type": "p",
+   "text": "**The writer wants to give a specific reason why counting the dugongs is difficult. Which choice best accomplishes this goal?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) The animals are shy and can stay underwater for several minutes at a time.",
+    "C) The dugong is a relative of the manatee.",
+    "D) Many tourists hope to see a dugong."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: True but vague — it gives no specific reason.",
+    "B) ✓ Correct: Two specific reasons the animals are hard to count.",
+    "C) ✗ Wrong: Off-topic fact about the species.",
+    "D) ✗ Wrong: Off-topic: tourists, not counting."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4 — essay as a whole**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: (Imagine an essay in which a student describes her grandfather's carpentry workshop: the smell of wood, the tools on the wall, and the chair he built for her tenth birthday.)"
+  },
+  {
+   "type": "p",
+   "text": "**Suppose the writer's goal had been to write a personal essay about a family member's craft. Would this essay accomplish that goal?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) Yes, because it describes the grandfather's workshop and a piece of furniture he made for the writer.",
+    "B) Yes, because it explains the history of carpentry in Egypt.",
+    "C) No, because it focuses on the writer's own hobby.",
+    "D) No, because it gives instructions for building a chair."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: A**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✓ Correct: The essay is personal and is about the grandfather's craft — an exact match.",
+    "B) ✗ Wrong: False description: the essay has no history of carpentry.",
+    "C) ✗ Wrong: False: the craft is the grandfather's, not the writer's.",
+    "D) ✗ Wrong: False: it describes a chair; it does not give instructions."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**Right decision, wrong reason:** \"Yes\" is correct, but the reason given describes the sentence wrongly. Always check the reason.",
+    "**\"Interesting\" is not a reason.** A fascinating fact that is off-topic should still be deleted.",
+    "**Half-right reason:** part of the sentence is relevant (the teacher lent the scale), but most of it is not (basketball).",
+    "**Close-but-different goal:** variety instead of dedication, kindness instead of persuasion.",
+    "**Vague choice for a \"specific\" goal:** \"a large amount,\" \"near the gate,\" \"many people.\"",
+    "**Small detail as the main point** in \"Suppose…\" questions: one mention of a company does not make an essay about factories.",
+    "**Fake contradiction / fake repetition:** a reason claiming the sentence contradicts or repeats something when it does not."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Before reading the choices, say the paragraph's focus in a few words.",
+    "For add/delete: decide Yes/No first, cut two choices, then test the two reasons for truth.",
+    "For goal questions: circle the goal words and test every choice only against them.",
+    "Answer the \"Suppose…\" question after you finish the whole essay, when you know what it is about.",
+    "If two reasons both seem true, choose the one that names the paragraph's actual focus."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Read the essay and answer the 10 questions. Numbers in brackets mark either an underlined portion or a point where the writer is considering a change. Question 10 asks about the essay as a whole."
+  },
+  {
+   "type": "test",
+   "title": "Relevance — ACT-style practice",
+   "timed": false,
+   "intro": "One essay, 10 questions on adding, deleting and choosing content for a goal. Explanations appear after you answer.",
+   "sections": [
+    {
+     "name": "English",
+     "minutes": 8,
+     "questions": [
+      {
+       "p": "Paper Mountains\n\nWhen I joined the student council at my school in Cairo, the first thing I noticed was the paper. Every classroom had a bin overflowing with worksheets, drafts, and printed notices. Most of it went into the general rubbish and, from there, to a landfill outside the city. [1]\n\nI decided to find out exactly how much paper we were throwing away. For one week, two friends and I weighed the contents of every classroom bin before the cleaners emptied them. The total was 32 kilograms, [2] __about the weight of a ten-year-old child__. [3] __Our science teacher, who lent us the scale, also coaches the basketball team, which won a trophy last year.__\n\nWe presented our numbers to the principal and asked for a blue recycling box in every classroom. [4] __She agreed__, but on one condition: the council had to organise the collection. Every Thursday, [5] __volunteers__ carried the full boxes to a collection point [6] __near the gate__, where a recycling company picked them up.\n\nThe project was not easy at first. [7] __Some students complained that the boxes took up too much space, but the complaints stopped once we moved the boxes under the teachers' desks.__ By the end of the term, however, the school was recycling almost all of its paper. [8]\n\n[9] __I am proud of what our council achieved.__\n\n[10]",
+       "q": "Question 1: At point [1], the writer is considering adding the following sentence:\n\"The school was founded in 1985 and now has three buildings.\"\nShould the writer make this addition here?",
+       "c": [
+        "Yes, because it explains why the school produces so much paper.",
+        "Yes, because it gives useful background about the size of the school.",
+        "No, because it repeats information given earlier in the paragraph.",
+        "No, because it adds a detail that does not relate to the paragraph's focus on paper waste."
+       ],
+       "a": 3,
+       "e": "The paragraph is about the paper being thrown away; the school's history is off-topic. A and B invent a link the sentence never makes; C is wrong because the date and buildings were not mentioned before.",
+       "s": "Add/delete — relevance"
+      },
+      {
+       "p": "Paper Mountains\n\nWhen I joined the student council at my school in Cairo, the first thing I noticed was the paper. Every classroom had a bin overflowing with worksheets, drafts, and printed notices. Most of it went into the general rubbish and, from there, to a landfill outside the city. [1]\n\nI decided to find out exactly how much paper we were throwing away. For one week, two friends and I weighed the contents of every classroom bin before the cleaners emptied them. The total was 32 kilograms, [2] __about the weight of a ten-year-old child__. [3] __Our science teacher, who lent us the scale, also coaches the basketball team, which won a trophy last year.__\n\nWe presented our numbers to the principal and asked for a blue recycling box in every classroom. [4] __She agreed__, but on one condition: the council had to organise the collection. Every Thursday, [5] __volunteers__ carried the full boxes to a collection point [6] __near the gate__, where a recycling company picked them up.\n\nThe project was not easy at first. [7] __Some students complained that the boxes took up too much space, but the complaints stopped once we moved the boxes under the teachers' desks.__ By the end of the term, however, the school was recycling almost all of its paper. [8]\n\n[9] __I am proud of what our council achieved.__\n\n[10]",
+       "q": "Question 2: Which choice most effectively helps the reader picture how much paper was thrown away?",
+       "c": [
+        "NO CHANGE",
+        "a fairly large amount",
+        "which we wrote down in a notebook",
+        "more than we had expected"
+       ],
+       "a": 0,
+       "e": "Comparing the paper with a child's weight gives a concrete picture. B and D are vague opinions; C tells us how they recorded it, not how much it was.",
+       "s": "Writer's goal"
+      },
+      {
+       "p": "Paper Mountains\n\nWhen I joined the student council at my school in Cairo, the first thing I noticed was the paper. Every classroom had a bin overflowing with worksheets, drafts, and printed notices. Most of it went into the general rubbish and, from there, to a landfill outside the city. [1]\n\nI decided to find out exactly how much paper we were throwing away. For one week, two friends and I weighed the contents of every classroom bin before the cleaners emptied them. The total was 32 kilograms, [2] __about the weight of a ten-year-old child__. [3] __Our science teacher, who lent us the scale, also coaches the basketball team, which won a trophy last year.__\n\nWe presented our numbers to the principal and asked for a blue recycling box in every classroom. [4] __She agreed__, but on one condition: the council had to organise the collection. Every Thursday, [5] __volunteers__ carried the full boxes to a collection point [6] __near the gate__, where a recycling company picked them up.\n\nThe project was not easy at first. [7] __Some students complained that the boxes took up too much space, but the complaints stopped once we moved the boxes under the teachers' desks.__ By the end of the term, however, the school was recycling almost all of its paper. [8]\n\n[9] __I am proud of what our council achieved.__\n\n[10]",
+       "q": "Question 3: The writer is considering deleting the underlined sentence. Should the sentence be kept or deleted?",
+       "c": [
+        "Kept, because it shows that the teachers supported the project.",
+        "Kept, because it adds an interesting detail about school life.",
+        "Deleted, because it shifts the focus away from measuring the paper waste.",
+        "Deleted, because it contradicts the information about the bins."
+       ],
+       "a": 2,
+       "e": "The basketball trophy has nothing to do with weighing the paper, so it distracts. A is half-right: lending the scale is relevant, but the sentence is mainly about basketball. B — \"interesting\" is not a reason to keep off-topic material. D — there is no contradiction.",
+       "s": "Add/delete — relevance"
+      },
+      {
+       "p": "Paper Mountains\n\nWhen I joined the student council at my school in Cairo, the first thing I noticed was the paper. Every classroom had a bin overflowing with worksheets, drafts, and printed notices. Most of it went into the general rubbish and, from there, to a landfill outside the city. [1]\n\nI decided to find out exactly how much paper we were throwing away. For one week, two friends and I weighed the contents of every classroom bin before the cleaners emptied them. The total was 32 kilograms, [2] __about the weight of a ten-year-old child__. [3] __Our science teacher, who lent us the scale, also coaches the basketball team, which won a trophy last year.__\n\nWe presented our numbers to the principal and asked for a blue recycling box in every classroom. [4] __She agreed__, but on one condition: the council had to organise the collection. Every Thursday, [5] __volunteers__ carried the full boxes to a collection point [6] __near the gate__, where a recycling company picked them up.\n\nThe project was not easy at first. [7] __Some students complained that the boxes took up too much space, but the complaints stopped once we moved the boxes under the teachers' desks.__ By the end of the term, however, the school was recycling almost all of its paper. [8]\n\n[9] __I am proud of what our council achieved.__\n\n[10]",
+       "q": "Question 4: The writer wants to show that the principal was persuaded by the evidence the students collected. Which choice best accomplishes this goal?",
+       "c": [
+        "NO CHANGE",
+        "After studying our chart of the week's totals, she agreed",
+        "She agreed quickly, as she usually does",
+        "She smiled warmly and agreed"
+       ],
+       "a": 1,
+       "e": "Only B connects her decision to the students' data (\"our chart of the week's totals\"). C suggests she agrees to everything — the opposite of being persuaded by evidence; A and D mention no evidence.",
+       "s": "Writer's goal"
+      },
+      {
+       "p": "Paper Mountains\n\nWhen I joined the student council at my school in Cairo, the first thing I noticed was the paper. Every classroom had a bin overflowing with worksheets, drafts, and printed notices. Most of it went into the general rubbish and, from there, to a landfill outside the city. [1]\n\nI decided to find out exactly how much paper we were throwing away. For one week, two friends and I weighed the contents of every classroom bin before the cleaners emptied them. The total was 32 kilograms, [2] __about the weight of a ten-year-old child__. [3] __Our science teacher, who lent us the scale, also coaches the basketball team, which won a trophy last year.__\n\nWe presented our numbers to the principal and asked for a blue recycling box in every classroom. [4] __She agreed__, but on one condition: the council had to organise the collection. Every Thursday, [5] __volunteers__ carried the full boxes to a collection point [6] __near the gate__, where a recycling company picked them up.\n\nThe project was not easy at first. [7] __Some students complained that the boxes took up too much space, but the complaints stopped once we moved the boxes under the teachers' desks.__ By the end of the term, however, the school was recycling almost all of its paper. [8]\n\n[9] __I am proud of what our council achieved.__\n\n[10]",
+       "q": "Question 5: The writer wants to emphasise how dedicated the volunteers were. Which choice best accomplishes this goal?",
+       "c": [
+        "NO CHANGE",
+        "a group of volunteers",
+        "volunteers, who did not miss a single week even during exams,",
+        "volunteers from several different grades"
+       ],
+       "a": 2,
+       "e": "Never missing a week, even during exams, shows dedication. B adds nothing; D shows variety, not dedication — a relevant-sounding but wrong goal.",
+       "s": "Writer's goal"
+      },
+      {
+       "p": "Paper Mountains\n\nWhen I joined the student council at my school in Cairo, the first thing I noticed was the paper. Every classroom had a bin overflowing with worksheets, drafts, and printed notices. Most of it went into the general rubbish and, from there, to a landfill outside the city. [1]\n\nI decided to find out exactly how much paper we were throwing away. For one week, two friends and I weighed the contents of every classroom bin before the cleaners emptied them. The total was 32 kilograms, [2] __about the weight of a ten-year-old child__. [3] __Our science teacher, who lent us the scale, also coaches the basketball team, which won a trophy last year.__\n\nWe presented our numbers to the principal and asked for a blue recycling box in every classroom. [4] __She agreed__, but on one condition: the council had to organise the collection. Every Thursday, [5] __volunteers__ carried the full boxes to a collection point [6] __near the gate__, where a recycling company picked them up.\n\nThe project was not easy at first. [7] __Some students complained that the boxes took up too much space, but the complaints stopped once we moved the boxes under the teachers' desks.__ By the end of the term, however, the school was recycling almost all of its paper. [8]\n\n[9] __I am proud of what our council achieved.__\n\n[10]",
+       "q": "Question 6: Which choice gives the most specific information about the location of the collection point?",
+       "c": [
+        "NO CHANGE",
+        "outside",
+        "somewhere on the school grounds",
+        "beside the main gate, next to the guard's room"
+       ],
+       "a": 3,
+       "e": "D names two exact landmarks. A is less specific, and B and C are vague.",
+       "s": "Writer's goal — specific detail"
+      },
+      {
+       "p": "Paper Mountains\n\nWhen I joined the student council at my school in Cairo, the first thing I noticed was the paper. Every classroom had a bin overflowing with worksheets, drafts, and printed notices. Most of it went into the general rubbish and, from there, to a landfill outside the city. [1]\n\nI decided to find out exactly how much paper we were throwing away. For one week, two friends and I weighed the contents of every classroom bin before the cleaners emptied them. The total was 32 kilograms, [2] __about the weight of a ten-year-old child__. [3] __Our science teacher, who lent us the scale, also coaches the basketball team, which won a trophy last year.__\n\nWe presented our numbers to the principal and asked for a blue recycling box in every classroom. [4] __She agreed__, but on one condition: the council had to organise the collection. Every Thursday, [5] __volunteers__ carried the full boxes to a collection point [6] __near the gate__, where a recycling company picked them up.\n\nThe project was not easy at first. [7] __Some students complained that the boxes took up too much space, but the complaints stopped once we moved the boxes under the teachers' desks.__ By the end of the term, however, the school was recycling almost all of its paper. [8]\n\n[9] __I am proud of what our council achieved.__\n\n[10]",
+       "q": "Question 7: The writer is considering deleting the underlined sentence. Should the sentence be kept or deleted?",
+       "c": [
+        "Kept, because it proves that every student supported the project from the start.",
+        "Kept, because it gives an example of the early difficulties mentioned in the previous sentence.",
+        "Deleted, because it does not relate to the recycling project.",
+        "Deleted, because it contradicts the claim that the project was a success."
+       ],
+       "a": 1,
+       "e": "The sentence before says the project was \"not easy at first\"; the complaints are the example. A is reversed (students complained); C is false (the boxes are the project); D — the problem was solved, so there is no contradiction.",
+       "s": "Add/delete — relevance"
+      },
+      {
+       "p": "Paper Mountains\n\nWhen I joined the student council at my school in Cairo, the first thing I noticed was the paper. Every classroom had a bin overflowing with worksheets, drafts, and printed notices. Most of it went into the general rubbish and, from there, to a landfill outside the city. [1]\n\nI decided to find out exactly how much paper we were throwing away. For one week, two friends and I weighed the contents of every classroom bin before the cleaners emptied them. The total was 32 kilograms, [2] __about the weight of a ten-year-old child__. [3] __Our science teacher, who lent us the scale, also coaches the basketball team, which won a trophy last year.__\n\nWe presented our numbers to the principal and asked for a blue recycling box in every classroom. [4] __She agreed__, but on one condition: the council had to organise the collection. Every Thursday, [5] __volunteers__ carried the full boxes to a collection point [6] __near the gate__, where a recycling company picked them up.\n\nThe project was not easy at first. [7] __Some students complained that the boxes took up too much space, but the complaints stopped once we moved the boxes under the teachers' desks.__ By the end of the term, however, the school was recycling almost all of its paper. [8]\n\n[9] __I am proud of what our council achieved.__\n\n[10]",
+       "q": "Question 8: At point [8], the writer is considering adding the following sentence:\n\"The number of rubbish bags leaving the school each day fell from twelve to three.\"\nShould the writer make this addition here?",
+       "c": [
+        "Yes, because it supports the claim in the previous sentence with specific evidence.",
+        "Yes, because it explains how the recycling company processed the paper.",
+        "No, because it shifts the focus from the school to the cleaners.",
+        "No, because it contradicts the previous sentence."
+       ],
+       "a": 0,
+       "e": "Fewer rubbish bags is concrete proof that the school was recycling most of its paper. B describes something the sentence does not say; C and D misread it — it supports, not shifts or contradicts.",
+       "s": "Add/delete — relevance"
+      },
+      {
+       "p": "Paper Mountains\n\nWhen I joined the student council at my school in Cairo, the first thing I noticed was the paper. Every classroom had a bin overflowing with worksheets, drafts, and printed notices. Most of it went into the general rubbish and, from there, to a landfill outside the city. [1]\n\nI decided to find out exactly how much paper we were throwing away. For one week, two friends and I weighed the contents of every classroom bin before the cleaners emptied them. The total was 32 kilograms, [2] __about the weight of a ten-year-old child__. [3] __Our science teacher, who lent us the scale, also coaches the basketball team, which won a trophy last year.__\n\nWe presented our numbers to the principal and asked for a blue recycling box in every classroom. [4] __She agreed__, but on one condition: the council had to organise the collection. Every Thursday, [5] __volunteers__ carried the full boxes to a collection point [6] __near the gate__, where a recycling company picked them up.\n\nThe project was not easy at first. [7] __Some students complained that the boxes took up too much space, but the complaints stopped once we moved the boxes under the teachers' desks.__ By the end of the term, however, the school was recycling almost all of its paper. [8]\n\n[9] __I am proud of what our council achieved.__\n\n[10]",
+       "q": "Question 9: The writer wants to end the essay by returning to the image described in the first paragraph. Which choice best accomplishes this goal?",
+       "c": [
+        "NO CHANGE",
+        "Now, when I walk into a classroom, the bin is nearly empty, and the blue box beside it is full.",
+        "Recycling is important for every country in the world.",
+        "Next year, the council plans to start a gardening club."
+       ],
+       "a": 1,
+       "e": "The essay began with overflowing classroom bins; B shows the same bins now nearly empty. A is a general feeling; C is too broad; D introduces a new topic.",
+       "s": "Writer's goal — conclusion"
+      },
+      {
+       "p": "Paper Mountains\n\nWhen I joined the student council at my school in Cairo, the first thing I noticed was the paper. Every classroom had a bin overflowing with worksheets, drafts, and printed notices. Most of it went into the general rubbish and, from there, to a landfill outside the city. [1]\n\nI decided to find out exactly how much paper we were throwing away. For one week, two friends and I weighed the contents of every classroom bin before the cleaners emptied them. The total was 32 kilograms, [2] __about the weight of a ten-year-old child__. [3] __Our science teacher, who lent us the scale, also coaches the basketball team, which won a trophy last year.__\n\nWe presented our numbers to the principal and asked for a blue recycling box in every classroom. [4] __She agreed__, but on one condition: the council had to organise the collection. Every Thursday, [5] __volunteers__ carried the full boxes to a collection point [6] __near the gate__, where a recycling company picked them up.\n\nThe project was not easy at first. [7] __Some students complained that the boxes took up too much space, but the complaints stopped once we moved the boxes under the teachers' desks.__ By the end of the term, however, the school was recycling almost all of its paper. [8]\n\n[9] __I am proud of what our council achieved.__\n\n[10]",
+       "q": "Question 10: Suppose the writer's goal had been to write an essay explaining how paper is recycled in factories. Would this essay accomplish that goal?",
+       "c": [
+        "Yes, because it describes the company that collects the paper.",
+        "Yes, because it gives the exact weight of the paper the students measured.",
+        "No, because it focuses on one school's effort to collect paper, not on the process used in factories.",
+        "No, because it argues that recycling is too difficult for schools to manage."
+       ],
+       "a": 2,
+       "e": "The essay is a personal account of a school project; it never explains factory recycling. A and B point to small details that do not make the essay about factories; D is a false reason — the project succeeded.",
+       "s": "Essay as a whole — goal"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "First name the paragraph's focus; a sentence belongs only if it supports that focus.",
+    "Add/delete: decide Yes/No, then pick the reason that is TRUE and is the real reason.",
+    "Goal questions: match the exact goal words — not just a nice, true sentence.",
+    "\"Suppose…\" questions: compare the goal with what the whole essay actually does.",
+    "Off-topic, repeated or contradicting = delete; example, evidence or needed explanation = keep."
+   ]
+  }
+ ]
+}

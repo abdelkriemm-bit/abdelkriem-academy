@@ -1,0 +1,553 @@
+{
+ "slug": "act-organization-order",
+ "title": "Organisation: Order and Transitions",
+ "kicker": "American Diploma · ACT · English: Production of Writing",
+ "summary": "Transition words by logic family, sentence placement, paragraph order, and introduction, conclusion and transition sentences — with a method, worked items and a 10-question ACT-style essay.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Organisation questions belong to **Production of Writing**, the reporting category that is 38–43% of the ACT English score. Production of Writing covers topic development (see the Relevance page) and **organisation, unity and cohesion** — putting ideas in a logical order and linking them so the reader can follow."
+  },
+  {
+   "type": "p",
+   "text": "On the test, organisation appears in five forms:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Form",
+    "Typical stem (your own words)"
+   ],
+   "rows": [
+    [
+     "Transition words",
+     "An underlined \"However,\" \"Therefore,\" \"For example,\" with NO CHANGE and three other transitions."
+    ],
+    [
+     "Sentence placement",
+     "\"For the sake of logic and cohesion, Sentence 3 should be placed: where it is now / before Sentence 1 / after Sentence 1 / after Sentence 4.\""
+    ],
+    [
+     "Adding a sentence in the right place",
+     "\"The writer wants to add the following sentence … The sentence would most logically be placed after: …\""
+    ],
+    [
+     "Paragraph order",
+     "\"For the sake of logic and cohesion, Paragraph 3 should be placed: …\" (asked at the end of the essay)"
+    ],
+    [
+     "Introduction, conclusion and transition sentences",
+     "\"Which choice most effectively introduces the essay / concludes the paragraph / provides the best transition to the next paragraph?\""
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "When an essay has a sentence-placement or paragraph-order question, the sentences or paragraphs are **numbered** in the passage, like (1), (2), (3) or [Paragraph 1]. That number is your signal to think about order."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الكلمات الصغيرة بتكشف الترتيب",
+   "text": "في أسئلة ترتيب الجمل دوّر على الكلمات اللي بترجع لحاجة قبلها: this / that / these / he / she / they / such / also / the + اسم اتذكر قبل كده. الجملة اللي فيها الكلمات دي لازم تيجي بعد الحاجة اللي بتشاور عليها."
+  },
+  {
+   "type": "h2",
+   "text": "Transition words: the logic families"
+  },
+  {
+   "type": "p",
+   "text": "A transition word tells the reader **how two ideas are related.** The ACT gives you four transitions that each mean something different, and only one fits the logic. Learn the families:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Logic family",
+    "Use it when the second idea…",
+    "Words"
+   ],
+   "rows": [
+    [
+     "Addition",
+     "adds another point of the same kind",
+     "also, in addition, moreover, furthermore, besides"
+    ],
+    [
+     "Contrast",
+     "goes against or differs from the first",
+     "however, but, yet, in contrast, on the other hand, whereas"
+    ],
+    [
+     "Concession / unexpected result",
+     "happens despite the first idea",
+     "even so, nevertheless, still, nonetheless, despite this, although"
+    ],
+    [
+     "Cause → effect",
+     "is the result of the first",
+     "therefore, as a result, consequently, thus, so, for this reason"
+    ],
+    [
+     "Example",
+     "is an example of the first",
+     "for example, for instance, such as, to illustrate"
+    ],
+    [
+     "Restatement / clarification",
+     "says the first idea again more clearly",
+     "in other words, that is, in short"
+    ],
+    [
+     "Emphasis",
+     "makes the first idea stronger",
+     "in fact, indeed, above all, especially"
+    ],
+    [
+     "Similarity",
+     "is like the first",
+     "similarly, likewise, in the same way"
+    ],
+    [
+     "Time / sequence",
+     "comes later in time or in order",
+     "then, next, later, eventually, finally, meanwhile, afterwards"
+    ],
+    [
+     "Conclusion",
+     "sums up",
+     "in the end, ultimately, overall"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Method:** cover the transition. Read the sentence before and the sentence with the blank. Say in your own words how they connect (\"the second is the result,\" \"the second is surprising after the first\"). Then pick the family, then the word."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ The ferry was full; **as a result**, we waited for the next one. (effect)",
+    "✓ The ferry was full; **even so**, the captain let three more passengers on. (unexpected)",
+    "✗ The ferry was full; **for example**, we waited for the next one. (waiting is not an example of being full)",
+    "✗ The museum is free on Fridays; **however**, many students visit then. (no contrast — use \"as a result\")"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Two ACT tricks:** (1) If two choices are in the same family (\"therefore\" and \"thus\"), neither can be the only right answer, so both are usually wrong. (2) Sometimes no transition is needed; if a choice removes it, check whether the logic is clear without one."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "عائلات الـ transitions",
+   "text": "قبل ما تبص على الاختيارات، قول بالعربي العلاقة بين الجملتين: عكس؟ نتيجة؟ مثال؟ إضافة؟ ترتيب زمني؟ وبعدين اختار الكلمة من العيلة الصح. لو لقيت كلمتين بنفس المعنى في الاختيارات، غالباً الاتنين غلط."
+  },
+  {
+   "type": "h2",
+   "text": "Sentence placement: a step-by-step method"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Read the sentence to be placed** and circle its \"pointing\" words: this, that, these, such, also, then, the + noun already introduced, he/she/they, a time word (later, first).",
+    "**Find what each pointing word points to.** \"Railways changed that\" points to a situation; \"Some had two minute hands\" points to clocks just mentioned.",
+    "**Check the neighbours.** The sentence must follow what it refers to and must fit before what comes next.",
+    "**Test your choice** by reading the three sentences in a row. If the flow is smooth and every pronoun has a clear partner, you are right.",
+    "**Remember \"where it is now\" is often correct.** Check it first; do not move a sentence unless there is a problem."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Clue in the sentence",
+    "What it tells you"
+   ],
+   "rows": [
+    [
+     "this / these / such + noun",
+     "the idea must appear just before"
+    ],
+    [
+     "he, she, they, it",
+     "the person or thing must be named before"
+    ],
+    [
+     "also, another, too",
+     "a first one must come before"
+    ],
+    [
+     "for example",
+     "the general claim comes before"
+    ],
+    [
+     "first / then / finally / later / by 1900",
+     "follow the time order"
+    ],
+    [
+     "a new name with a full description (\"a farmer named Ali\")",
+     "Ali is being introduced — so it is early"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Paragraph order"
+  },
+  {
+   "type": "p",
+   "text": "Paragraph-order questions work like sentence placement on a larger scale. Look at the **first sentence** of the paragraph in question and the **last sentence** of the one before. Look for:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "time order (1840s before 1883);",
+    "problem before solution, cause before effect;",
+    "an idea introduced before it is discussed (\"this method\" needs the method first);",
+    "general before specific, and the conclusion last."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Introductions, conclusions and transition sentences"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Job",
+    "What the right choice does",
+    "Wrong choices usually…"
+   ],
+   "rows": [
+    [
+     "Introduce the essay or paragraph",
+     "Names the specific topic the sentences after it develop",
+     "are too broad (\"Clocks come in many shapes\"), off-topic, or only about one small detail"
+    ],
+    [
+     "Conclude the paragraph",
+     "Sums up or completes the paragraph's point",
+     "start a new topic or repeat a detail"
+    ],
+    [
+     "Conclude the essay",
+     "Returns to the main idea or opening image; may connect to today",
+     "add a new fact, or are general statements about the world"
+    ],
+    [
+     "Transition between paragraphs",
+     "Mentions the idea before AND points to the idea after",
+     "only look back or only look forward"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — transition word**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: The new metro line cut the journey from Heliopolis to downtown from an hour to twenty minutes. __However,__ many families who had driven to work started taking the train."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) As a result,",
+    "C) For example,",
+    "D) In other words,"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: No contrast: a faster journey and more passengers go together.",
+    "B) ✓ Correct: Faster trips caused families to switch — cause → effect.",
+    "C) ✗ Wrong: Families switching is not an example of a shorter journey.",
+    "D) ✗ Wrong: The second sentence does not restate the first."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — sentence placement**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: (1) My uncle opened his first shop in Mansoura in 1990. (2) Within ten years, he had added a printing service and a second branch. (3) It sold only notebooks and pens. (4) Today he owns six shops across the Delta."
+  },
+  {
+   "type": "p",
+   "text": "**For the sake of logic and cohesion, Sentence 3 should be placed:**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) where it is now.",
+    "B) before Sentence 1.",
+    "C) after Sentence 1.",
+    "D) after Sentence 4."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: \"It\" would seem to refer to the second branch, and the time order would jump back from \"within ten years\" to the beginning.",
+    "B) ✗ Wrong: \"It\" would have nothing to refer to — the shop has not been mentioned yet.",
+    "C) ✓ Correct: \"It\" = his first shop. The order becomes: the first shop (1990) → what it sold → ten years later → today. Pointing word and time order both work.",
+    "D) ✗ Wrong: \"It\" would refer to the six shops (plural), and the essay would end going back in time."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — transition sentence between paragraphs**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: Paragraph A explains how sand dunes move a few metres each year in the Western Desert. Paragraph B begins: \"__________ Engineers now plant rows of hardy shrubs to hold the sand in place.\""
+  },
+  {
+   "type": "p",
+   "text": "**Which choice provides the best transition into Paragraph B?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) Sand is made of tiny pieces of rock.",
+    "B) Because moving dunes can bury roads and farms, people have looked for ways to stop them.",
+    "C) The Western Desert is very large.",
+    "D) Some dunes are taller than buildings."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: Off-topic fact — no link to stopping dunes.",
+    "B) ✓ Correct: Looks back (moving dunes) and forward (ways to stop them) — exactly what a transition sentence must do.",
+    "C) ✗ Wrong: Too general; no link to the shrubs.",
+    "D) ✗ Wrong: A detail about dunes that does not lead to the solution."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**Same-family twins:** two choices mean the same (therefore / thus) — usually both wrong.",
+    "**The automatic \"However\":** students pick a contrast word without checking for a real contrast.",
+    "**Moving a sentence that is fine:** \"where it is now\" is often correct — check it first.",
+    "**Orphan pronoun:** a placement that leaves \"it,\" \"this\" or \"they\" with nothing to point to.",
+    "**Too-broad introduction:** \"Clocks come in many shapes and sizes\" is about clocks, not the essay's topic.",
+    "**One-way transition:** a sentence that only repeats the old paragraph or only starts the new one.",
+    "**New-topic conclusion:** a final sentence that opens a new subject instead of closing the essay."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Transition words: cover the choices, name the relationship, then choose the family.",
+    "Sentence placement: circle the pointing words (this, it, also, then) and find their partners.",
+    "When you see numbered sentences, keep their questions in mind as you read — the problem is often obvious on first reading.",
+    "Leave paragraph-order questions until you have read the whole essay.",
+    "For introductions and conclusions, first say the essay's main idea in one sentence; then find the choice that matches it."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Read the essay and answer the 10 questions. Sentences in Paragraphs 2 and 3 are numbered for the placement questions. Question 10 asks about the essay as a whole."
+  },
+  {
+   "type": "test",
+   "title": "Organisation — ACT-style practice",
+   "timed": false,
+   "intro": "One essay, 10 questions on transitions, sentence and paragraph order, introductions and conclusions. Explanations appear after you answer.",
+   "sections": [
+    {
+     "name": "English",
+     "minutes": 8,
+     "questions": [
+      {
+       "p": "When Trains Set the Clocks\n\n[Paragraph 1]\n[1] __Clocks come in many shapes and sizes.__ For most of history, each town kept its own time: noon was simply the moment when the sun stood highest over that town. Because the sun reaches its highest point a little later as one travels west, noon did not arrive everywhere at once. [2] __However,__ two towns only a few dozen kilometres apart could disagree by several minutes.\n\n[Paragraph 2]\n(1) For a farmer or a shopkeeper, these small differences hardly mattered. (2) A train that left one town at 9:00 by the local clock could reach the next town at a time that made no sense on that town's clocks. (3) Railways changed that. (4) Timetables became confusing, and passengers missed connections. (5) Worse, when two trains shared a single track, a mistake about the time could cause a collision. [3]\n\n[Paragraph 3]\n(1) [4] __The railway companies found a solution.__ (2) In the 1840s, British railway companies began to run their trains on London time, which was based on the observatory at Greenwich. (3) This change was not welcomed everywhere at first. (4) For a time, many town clocks showed both kinds of time at once. (5) [5] __In contrast,__ most towns gave up their local time altogether and set their clocks to match the trains. [6]\n\n[Paragraph 4]\n[7] __Trains in the United States were often larger than British trains.__ On 18 November 1883, American railroads divided the country into four standard time zones. In many cities, clocks were reset at noon that day, so in some places noon came twice. The zones were not required by national law at first; [8] __therefore,__ many cities soon adopted them. [9] __Some people did not like the change.__\n\n[10]",
+       "q": "Question 1: Which choice most effectively introduces the main topic of the essay?",
+       "c": [
+        "NO CHANGE",
+        "Today, it seems natural that every clock in a city shows the same time, but this was not always the case.",
+        "Many people collect old clocks as a hobby.",
+        "The sun has always been important to farmers."
+       ],
+       "a": 1,
+       "e": "The essay is about how shared clock time replaced local time; B sets up exactly that contrast. A, C and D are about clocks or the sun in general — too broad or off-topic.",
+       "s": "Introductions"
+      },
+      {
+       "p": "When Trains Set the Clocks\n\n[Paragraph 1]\n[1] __Clocks come in many shapes and sizes.__ For most of history, each town kept its own time: noon was simply the moment when the sun stood highest over that town. Because the sun reaches its highest point a little later as one travels west, noon did not arrive everywhere at once. [2] __However,__ two towns only a few dozen kilometres apart could disagree by several minutes.\n\n[Paragraph 2]\n(1) For a farmer or a shopkeeper, these small differences hardly mattered. (2) A train that left one town at 9:00 by the local clock could reach the next town at a time that made no sense on that town's clocks. (3) Railways changed that. (4) Timetables became confusing, and passengers missed connections. (5) Worse, when two trains shared a single track, a mistake about the time could cause a collision. [3]\n\n[Paragraph 3]\n(1) [4] __The railway companies found a solution.__ (2) In the 1840s, British railway companies began to run their trains on London time, which was based on the observatory at Greenwich. (3) This change was not welcomed everywhere at first. (4) For a time, many town clocks showed both kinds of time at once. (5) [5] __In contrast,__ most towns gave up their local time altogether and set their clocks to match the trains. [6]\n\n[Paragraph 4]\n[7] __Trains in the United States were often larger than British trains.__ On 18 November 1883, American railroads divided the country into four standard time zones. In many cities, clocks were reset at noon that day, so in some places noon came twice. The zones were not required by national law at first; [8] __therefore,__ many cities soon adopted them. [9] __Some people did not like the change.__\n\n[10]",
+       "q": "Question 2: Choose the best version of underlined portion [2]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "Similarly,",
+        "As a result,",
+        "In contrast,"
+       ],
+       "a": 2,
+       "e": "Because noon came at different moments in different places, towns disagreed — cause and effect. A and D signal a contrast that is not there; B signals a similar, parallel idea.",
+       "s": "Transition words"
+      },
+      {
+       "p": "When Trains Set the Clocks\n\n[Paragraph 1]\n[1] __Clocks come in many shapes and sizes.__ For most of history, each town kept its own time: noon was simply the moment when the sun stood highest over that town. Because the sun reaches its highest point a little later as one travels west, noon did not arrive everywhere at once. [2] __However,__ two towns only a few dozen kilometres apart could disagree by several minutes.\n\n[Paragraph 2]\n(1) For a farmer or a shopkeeper, these small differences hardly mattered. (2) A train that left one town at 9:00 by the local clock could reach the next town at a time that made no sense on that town's clocks. (3) Railways changed that. (4) Timetables became confusing, and passengers missed connections. (5) Worse, when two trains shared a single track, a mistake about the time could cause a collision. [3]\n\n[Paragraph 3]\n(1) [4] __The railway companies found a solution.__ (2) In the 1840s, British railway companies began to run their trains on London time, which was based on the observatory at Greenwich. (3) This change was not welcomed everywhere at first. (4) For a time, many town clocks showed both kinds of time at once. (5) [5] __In contrast,__ most towns gave up their local time altogether and set their clocks to match the trains. [6]\n\n[Paragraph 4]\n[7] __Trains in the United States were often larger than British trains.__ On 18 November 1883, American railroads divided the country into four standard time zones. In many cities, clocks were reset at noon that day, so in some places noon came twice. The zones were not required by national law at first; [8] __therefore,__ many cities soon adopted them. [9] __Some people did not like the change.__\n\n[10]",
+       "q": "Question 3: For the sake of logic and cohesion, Sentence 3 of Paragraph 2 should be placed:",
+       "c": [
+        "where it is now.",
+        "before Sentence 1.",
+        "after Sentence 1.",
+        "after Sentence 5."
+       ],
+       "a": 2,
+       "e": "\"Railways changed that\" must follow the idea it changes (\"these small differences hardly mattered\") and come before the train example. Where it is now, it interrupts the example; before Sentence 1 or after Sentence 5, \"that\" has nothing logical to refer to.",
+       "s": "Sentence placement"
+      },
+      {
+       "p": "When Trains Set the Clocks\n\n[Paragraph 1]\n[1] __Clocks come in many shapes and sizes.__ For most of history, each town kept its own time: noon was simply the moment when the sun stood highest over that town. Because the sun reaches its highest point a little later as one travels west, noon did not arrive everywhere at once. [2] __However,__ two towns only a few dozen kilometres apart could disagree by several minutes.\n\n[Paragraph 2]\n(1) For a farmer or a shopkeeper, these small differences hardly mattered. (2) A train that left one town at 9:00 by the local clock could reach the next town at a time that made no sense on that town's clocks. (3) Railways changed that. (4) Timetables became confusing, and passengers missed connections. (5) Worse, when two trains shared a single track, a mistake about the time could cause a collision. [3]\n\n[Paragraph 3]\n(1) [4] __The railway companies found a solution.__ (2) In the 1840s, British railway companies began to run their trains on London time, which was based on the observatory at Greenwich. (3) This change was not welcomed everywhere at first. (4) For a time, many town clocks showed both kinds of time at once. (5) [5] __In contrast,__ most towns gave up their local time altogether and set their clocks to match the trains. [6]\n\n[Paragraph 4]\n[7] __Trains in the United States were often larger than British trains.__ On 18 November 1883, American railroads divided the country into four standard time zones. In many cities, clocks were reset at noon that day, so in some places noon came twice. The zones were not required by national law at first; [8] __therefore,__ many cities soon adopted them. [9] __Some people did not like the change.__\n\n[10]",
+       "q": "Question 4: Which choice most effectively connects the problems described in Paragraph 2 with the information in Paragraph 3?",
+       "c": [
+        "NO CHANGE",
+        "Trains in Britain were often painted in bright colours.",
+        "Collisions, however, were very rare.",
+        "Some travellers still preferred horse-drawn coaches."
+       ],
+       "a": 0,
+       "e": "Paragraph 2 lists problems; Paragraph 3 describes the fix. \"The railway companies found a solution\" links the two. B and D are off-topic; C contradicts the danger just described.",
+       "s": "Transition sentences"
+      },
+      {
+       "p": "When Trains Set the Clocks\n\n[Paragraph 1]\n[1] __Clocks come in many shapes and sizes.__ For most of history, each town kept its own time: noon was simply the moment when the sun stood highest over that town. Because the sun reaches its highest point a little later as one travels west, noon did not arrive everywhere at once. [2] __However,__ two towns only a few dozen kilometres apart could disagree by several minutes.\n\n[Paragraph 2]\n(1) For a farmer or a shopkeeper, these small differences hardly mattered. (2) A train that left one town at 9:00 by the local clock could reach the next town at a time that made no sense on that town's clocks. (3) Railways changed that. (4) Timetables became confusing, and passengers missed connections. (5) Worse, when two trains shared a single track, a mistake about the time could cause a collision. [3]\n\n[Paragraph 3]\n(1) [4] __The railway companies found a solution.__ (2) In the 1840s, British railway companies began to run their trains on London time, which was based on the observatory at Greenwich. (3) This change was not welcomed everywhere at first. (4) For a time, many town clocks showed both kinds of time at once. (5) [5] __In contrast,__ most towns gave up their local time altogether and set their clocks to match the trains. [6]\n\n[Paragraph 4]\n[7] __Trains in the United States were often larger than British trains.__ On 18 November 1883, American railroads divided the country into four standard time zones. In many cities, clocks were reset at noon that day, so in some places noon came twice. The zones were not required by national law at first; [8] __therefore,__ many cities soon adopted them. [9] __Some people did not like the change.__\n\n[10]",
+       "q": "Question 5: Choose the best version of underlined portion [5]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "Eventually,",
+        "For instance,",
+        "In other words,"
+       ],
+       "a": 1,
+       "e": "The sentences move through time: at first some resisted, for a time clocks showed both times, and in the end towns gave up local time. A wrongly signals a contrast; C signals an example; D signals a restatement.",
+       "s": "Transition words"
+      },
+      {
+       "p": "When Trains Set the Clocks\n\n[Paragraph 1]\n[1] __Clocks come in many shapes and sizes.__ For most of history, each town kept its own time: noon was simply the moment when the sun stood highest over that town. Because the sun reaches its highest point a little later as one travels west, noon did not arrive everywhere at once. [2] __However,__ two towns only a few dozen kilometres apart could disagree by several minutes.\n\n[Paragraph 2]\n(1) For a farmer or a shopkeeper, these small differences hardly mattered. (2) A train that left one town at 9:00 by the local clock could reach the next town at a time that made no sense on that town's clocks. (3) Railways changed that. (4) Timetables became confusing, and passengers missed connections. (5) Worse, when two trains shared a single track, a mistake about the time could cause a collision. [3]\n\n[Paragraph 3]\n(1) [4] __The railway companies found a solution.__ (2) In the 1840s, British railway companies began to run their trains on London time, which was based on the observatory at Greenwich. (3) This change was not welcomed everywhere at first. (4) For a time, many town clocks showed both kinds of time at once. (5) [5] __In contrast,__ most towns gave up their local time altogether and set their clocks to match the trains. [6]\n\n[Paragraph 4]\n[7] __Trains in the United States were often larger than British trains.__ On 18 November 1883, American railroads divided the country into four standard time zones. In many cities, clocks were reset at noon that day, so in some places noon came twice. The zones were not required by national law at first; [8] __therefore,__ many cities soon adopted them. [9] __Some people did not like the change.__\n\n[10]",
+       "q": "Question 6: The writer wants to add the following sentence to Paragraph 3:\n\"Some had two minute hands, one for local time and one for London time.\"\nThe sentence would most logically be placed after:",
+       "c": [
+        "Sentence 1.",
+        "Sentence 2.",
+        "Sentence 3.",
+        "Sentence 4."
+       ],
+       "a": 3,
+       "e": "\"Some\" refers to the town clocks in Sentence 4 that \"showed both kinds of time at once\"; the new sentence explains how. Nowhere else are clocks mentioned for \"some\" to refer to.",
+       "s": "Sentence placement"
+      },
+      {
+       "p": "When Trains Set the Clocks\n\n[Paragraph 1]\n[1] __Clocks come in many shapes and sizes.__ For most of history, each town kept its own time: noon was simply the moment when the sun stood highest over that town. Because the sun reaches its highest point a little later as one travels west, noon did not arrive everywhere at once. [2] __However,__ two towns only a few dozen kilometres apart could disagree by several minutes.\n\n[Paragraph 2]\n(1) For a farmer or a shopkeeper, these small differences hardly mattered. (2) A train that left one town at 9:00 by the local clock could reach the next town at a time that made no sense on that town's clocks. (3) Railways changed that. (4) Timetables became confusing, and passengers missed connections. (5) Worse, when two trains shared a single track, a mistake about the time could cause a collision. [3]\n\n[Paragraph 3]\n(1) [4] __The railway companies found a solution.__ (2) In the 1840s, British railway companies began to run their trains on London time, which was based on the observatory at Greenwich. (3) This change was not welcomed everywhere at first. (4) For a time, many town clocks showed both kinds of time at once. (5) [5] __In contrast,__ most towns gave up their local time altogether and set their clocks to match the trains. [6]\n\n[Paragraph 4]\n[7] __Trains in the United States were often larger than British trains.__ On 18 November 1883, American railroads divided the country into four standard time zones. In many cities, clocks were reset at noon that day, so in some places noon came twice. The zones were not required by national law at first; [8] __therefore,__ many cities soon adopted them. [9] __Some people did not like the change.__\n\n[10]",
+       "q": "Question 7: Which choice provides the most effective transition from Paragraph 3 to Paragraph 4?",
+       "c": [
+        "NO CHANGE",
+        "Trains became faster with every decade.",
+        "Railway time was popular with passengers.",
+        "Britain is small enough for one time to work across the whole country, but the United States, which stretches across thousands of kilometres, needed a different solution."
+       ],
+       "a": 3,
+       "e": "D mentions both the British solution (old idea) and why America needed something new — the time zones (new idea). A, B and C do not lead into the zones.",
+       "s": "Transition sentences"
+      },
+      {
+       "p": "When Trains Set the Clocks\n\n[Paragraph 1]\n[1] __Clocks come in many shapes and sizes.__ For most of history, each town kept its own time: noon was simply the moment when the sun stood highest over that town. Because the sun reaches its highest point a little later as one travels west, noon did not arrive everywhere at once. [2] __However,__ two towns only a few dozen kilometres apart could disagree by several minutes.\n\n[Paragraph 2]\n(1) For a farmer or a shopkeeper, these small differences hardly mattered. (2) A train that left one town at 9:00 by the local clock could reach the next town at a time that made no sense on that town's clocks. (3) Railways changed that. (4) Timetables became confusing, and passengers missed connections. (5) Worse, when two trains shared a single track, a mistake about the time could cause a collision. [3]\n\n[Paragraph 3]\n(1) [4] __The railway companies found a solution.__ (2) In the 1840s, British railway companies began to run their trains on London time, which was based on the observatory at Greenwich. (3) This change was not welcomed everywhere at first. (4) For a time, many town clocks showed both kinds of time at once. (5) [5] __In contrast,__ most towns gave up their local time altogether and set their clocks to match the trains. [6]\n\n[Paragraph 4]\n[7] __Trains in the United States were often larger than British trains.__ On 18 November 1883, American railroads divided the country into four standard time zones. In many cities, clocks were reset at noon that day, so in some places noon came twice. The zones were not required by national law at first; [8] __therefore,__ many cities soon adopted them. [9] __Some people did not like the change.__\n\n[10]",
+       "q": "Question 8: Choose the best version of underlined portion [8]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "for example,",
+        "even so,",
+        "similarly,"
+       ],
+       "a": 2,
+       "e": "The zones were not required, yet cities adopted them — a contrast with an unexpected result. A wrongly says the lack of a law caused the adoption; B and D do not show contrast.",
+       "s": "Transition words"
+      },
+      {
+       "p": "When Trains Set the Clocks\n\n[Paragraph 1]\n[1] __Clocks come in many shapes and sizes.__ For most of history, each town kept its own time: noon was simply the moment when the sun stood highest over that town. Because the sun reaches its highest point a little later as one travels west, noon did not arrive everywhere at once. [2] __However,__ two towns only a few dozen kilometres apart could disagree by several minutes.\n\n[Paragraph 2]\n(1) For a farmer or a shopkeeper, these small differences hardly mattered. (2) A train that left one town at 9:00 by the local clock could reach the next town at a time that made no sense on that town's clocks. (3) Railways changed that. (4) Timetables became confusing, and passengers missed connections. (5) Worse, when two trains shared a single track, a mistake about the time could cause a collision. [3]\n\n[Paragraph 3]\n(1) [4] __The railway companies found a solution.__ (2) In the 1840s, British railway companies began to run their trains on London time, which was based on the observatory at Greenwich. (3) This change was not welcomed everywhere at first. (4) For a time, many town clocks showed both kinds of time at once. (5) [5] __In contrast,__ most towns gave up their local time altogether and set their clocks to match the trains. [6]\n\n[Paragraph 4]\n[7] __Trains in the United States were often larger than British trains.__ On 18 November 1883, American railroads divided the country into four standard time zones. In many cities, clocks were reset at noon that day, so in some places noon came twice. The zones were not required by national law at first; [8] __therefore,__ many cities soon adopted them. [9] __Some people did not like the change.__\n\n[10]",
+       "q": "Question 9: Which choice most effectively concludes the essay by connecting its subject to the present day?",
+       "c": [
+        "NO CHANGE",
+        "Today, whenever we check a phone that shows exactly the same time as everyone else's in our zone, we are using a system that began with the trains.",
+        "Trains are still used in many countries.",
+        "The four zones were given different names."
+       ],
+       "a": 1,
+       "e": "B links shared time today to the railway story and echoes the essay's opening idea. A and D add small details; C is about trains in general, not time.",
+       "s": "Conclusions"
+      },
+      {
+       "p": "When Trains Set the Clocks\n\n[Paragraph 1]\n[1] __Clocks come in many shapes and sizes.__ For most of history, each town kept its own time: noon was simply the moment when the sun stood highest over that town. Because the sun reaches its highest point a little later as one travels west, noon did not arrive everywhere at once. [2] __However,__ two towns only a few dozen kilometres apart could disagree by several minutes.\n\n[Paragraph 2]\n(1) For a farmer or a shopkeeper, these small differences hardly mattered. (2) A train that left one town at 9:00 by the local clock could reach the next town at a time that made no sense on that town's clocks. (3) Railways changed that. (4) Timetables became confusing, and passengers missed connections. (5) Worse, when two trains shared a single track, a mistake about the time could cause a collision. [3]\n\n[Paragraph 3]\n(1) [4] __The railway companies found a solution.__ (2) In the 1840s, British railway companies began to run their trains on London time, which was based on the observatory at Greenwich. (3) This change was not welcomed everywhere at first. (4) For a time, many town clocks showed both kinds of time at once. (5) [5] __In contrast,__ most towns gave up their local time altogether and set their clocks to match the trains. [6]\n\n[Paragraph 4]\n[7] __Trains in the United States were often larger than British trains.__ On 18 November 1883, American railroads divided the country into four standard time zones. In many cities, clocks were reset at noon that day, so in some places noon came twice. The zones were not required by national law at first; [8] __therefore,__ many cities soon adopted them. [9] __Some people did not like the change.__\n\n[10]",
+       "q": "Question 10: For the sake of logic and cohesion, Paragraph 3 should be placed:",
+       "c": [
+        "where it is now.",
+        "before Paragraph 1.",
+        "after Paragraph 1.",
+        "after Paragraph 4."
+       ],
+       "a": 0,
+       "e": "Paragraph 3 presents the solution to the problems in Paragraph 2 and leads into the American story in Paragraph 4. Moved earlier, the solution would come before the problem; moved last, it would follow the conclusion.",
+       "s": "Paragraph order"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Name the logic first (contrast, cause, example, addition, time), then pick the transition word.",
+    "Pointing words (this, it, they, also, such) must come after the thing they point to.",
+    "Order clues: time, problem before solution, general before specific, idea introduced before discussed.",
+    "Introductions name the specific topic; conclusions close it; transitions look back and forward.",
+    "\"Where it is now\" and NO CHANGE are real answers — check them first."
+   ]
+  }
+ ]
+}

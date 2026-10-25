@@ -1,0 +1,638 @@
+{
+ "slug": "est-literacy-1-guide",
+ "title": "EST Literacy Test 1: Writing and Language",
+ "kicker": "American Diploma · EST I · Literacy Test 1",
+ "summary": "The skills, a pacing plan for 44 questions in 35 minutes, the 15 rules to know by heart and a passage-style practice quiz.",
+ "blocks": [
+  {
+   "type": "p",
+   "text": "Literacy Test 1 is the **Writing and Language** part of EST I. You act as an editor: you read texts and choose the version of a sentence, a punctuation mark, a word or a transition that makes the writing correct, clear and logical. This guide shows exactly which skills to master, how to pace yourself, the 15 rules to know by heart, and where each rule is fully taught on this site."
+  },
+  {
+   "type": "h2",
+   "text": "What this test tests"
+  },
+  {
+   "type": "p",
+   "text": "As published by schools, Literacy Test 1 has **44 multiple-choice questions in 35 minutes**. Every question has four choices and asks you to improve the writing. Typical question stems (in our own words) look like this:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "\"Which choice completes the text so that it follows the rules of Standard English?\" (grammar and punctuation)",
+    "\"Which choice is the most concise and still keeps the meaning?\" (concision)",
+    "\"Which choice gives the most logical transition?\" (transitions)",
+    "\"Where is the most logical place for this sentence?\" or \"Should the writer add this sentence?\" (organisation and relevance)",
+    "\"Which choice best fits the tone of the passage?\" (word choice)"
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Important",
+   "text": "These figures are as published by schools; check the latest official EST candidate guide on est.moe.gov.eg before your test. The official question layout is not described in the published school information, so this page trains you on both formats you may meet: short texts with a blank and longer passages with numbered, underlined parts."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Skill",
+    "What it checks",
+    "Mini example (✗ → ✓)"
+   ],
+   "rows": [
+    [
+     "Grammar",
+     "Agreement, verb forms, pronouns, modifiers",
+     "The list of names **are** long ✗ → **is** long ✓"
+    ],
+    [
+     "Punctuation",
+     "Commas, semicolons, colons, dashes, apostrophes",
+     "My brother, likes chess ✗ → My brother likes chess ✓"
+    ],
+    [
+     "Sentence structure",
+     "Complete sentences, no run-ons or fragments",
+     "It rained, we stayed in ✗ → It rained, so we stayed in ✓"
+    ],
+    [
+     "Concision",
+     "No repetition or empty words",
+     "return back again ✗ → return ✓"
+    ],
+    [
+     "Transitions",
+     "The logical link between ideas",
+     "It was cheap; therefore, nobody bought it ✗ → however ✓"
+    ],
+    [
+     "Organisation",
+     "Sentence order, adding or deleting, introductions and conclusions",
+     "A detail about a different topic ✗ → delete it ✓"
+    ],
+    [
+     "Word choice",
+     "Precise meaning and suitable tone",
+     "The results were super cool ✗ → remarkable ✓ (formal text)"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Strategy: 44 questions in 35 minutes"
+  },
+  {
+   "type": "p",
+   "text": "35 minutes ÷ 44 questions ≈ **48 seconds per question**. That is tight, but grammar questions are fast once you know the rules. The secret is not to read faster — it is to **recognise the rule quickly**."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Checkpoint",
+    "Where you should be"
+   ],
+   "rows": [
+    [
+     "8 minutes",
+     "Question 11 finished"
+    ],
+    [
+     "16 minutes",
+     "Question 22 finished"
+    ],
+    [
+     "25 minutes",
+     "Question 33 finished"
+    ],
+    [
+     "33 minutes",
+     "Question 44 finished — 2 minutes left to check flagged questions"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "**Look at the choices first.** What changes between them? Commas only → punctuation. Verb forms → agreement or tense. Whole sentences → concision or organisation. The choices tell you the topic.",
+    "**Read the whole sentence**, not only the underlined part or the blank — the rule usually depends on words before and after it.",
+    "**Name the rule** in your head (\"two complete sentences\", \"subject is singular\", \"extra information needs a pair\").",
+    "**Eliminate** every choice that breaks the rule. Usually two go immediately.",
+    "**Prefer the shortest correct choice.** If two choices are both grammatical and mean the same, the shorter one is usually right.",
+    "**Plug it back in** and read the sentence once more. Then move on — no second-guessing.",
+    "**Do not get stuck.** If a question takes more than about a minute, choose your best answer, flag it and come back at the end if time allows."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "السر في الوقت",
+   "text": "عندك أقل من دقيقة لكل سؤال. ابدأ بالاختيارات: شوف إيه اللي بيتغير بينهم — علامات ترقيم؟ فعل؟ كلمة ربط؟ كده عرفت القاعدة المطلوبة. طبّق القاعدة، شيل الغلط، واختار أقصر إجابة صح ومعناها كامل."
+  },
+  {
+   "type": "h2",
+   "text": "The 15 rules to know by heart"
+  },
+  {
+   "type": "p",
+   "text": "As general guidance, these are the rules that appear again and again in writing-and-language tests. Learn each one with its ✓/✗ pair. The teacher's punctuation rules used on this site match what the test expects."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "#",
+    "Rule",
+    "✗ Wrong",
+    "✓ Right"
+   ],
+   "rows": [
+    [
+     "1",
+     "Two complete sentences cannot be joined by a comma alone (comma splice). Use a full stop, a semicolon, or a comma + and/but/so.",
+     "The bus was late, we missed the start.",
+     "The bus was late; we missed the start. / The bus was late, so we missed the start."
+    ],
+    [
+     "2",
+     "Never put a single comma between a subject and its verb, or between a verb and its object.",
+     "The students in my class, wrote a play.",
+     "The students in my class wrote a play."
+    ],
+    [
+     "3",
+     "Extra (non-essential) information needs a matching pair: comma…comma, dash…dash or bracket…bracket.",
+     "My uncle — a pilot, flies every week.",
+     "My uncle, a pilot, flies every week."
+    ],
+    [
+     "4",
+     "Essential information (it tells you which one) takes no commas.",
+     "Students, who finish early, may leave.",
+     "Students who finish early may leave."
+    ],
+    [
+     "5",
+     "A colon comes after a complete sentence and introduces a list, an explanation, emphasis or extra information.",
+     "We need: flour, eggs and milk.",
+     "We need three things: flour, eggs and milk."
+    ],
+    [
+     "6",
+     "A semicolon joins two independent, closely related clauses — both sides must be complete sentences.",
+     "She trained hard; hoping to win.",
+     "She trained hard; she hoped to win."
+    ],
+    [
+     "7",
+     "A verb agrees with its real subject. Ignore phrases like \"of the…\" between them.",
+     "The box of old letters were found.",
+     "The box of old letters was found."
+    ],
+    [
+     "8",
+     "A pronoun agrees with the noun it replaces. A company, team or club is singular: it / its.",
+     "The team lost their first match.",
+     "The team lost its first match."
+    ],
+    [
+     "9",
+     "its = belonging to it; it's = it is. their = belonging to them; they're = they are; there = a place.",
+     "The cat licked it's paw.",
+     "The cat licked its paw."
+    ],
+    [
+     "10",
+     "Plural = -s, no apostrophe. Possessive = 's (singular) or s' (plural).",
+     "The teacher's gave us books.",
+     "The teachers gave us books. / The teachers' room is upstairs."
+    ],
+    [
+     "11",
+     "Keep verb tenses consistent unless the time really changes.",
+     "Yesterday she opens the door and walked in.",
+     "Yesterday she opened the door and walked in."
+    ],
+    [
+     "12",
+     "Every sentence needs a finite main verb. An -ing word or \"to + verb\" alone is not enough.",
+     "The scientists studying the river for years.",
+     "The scientists have studied the river for years."
+    ],
+    [
+     "13",
+     "A modifier at the start of a sentence must describe the subject that comes right after the comma (no dangling modifiers).",
+     "Walking to school, the rain started.",
+     "Walking to school, I felt the rain start."
+    ],
+    [
+     "14",
+     "Be concise: do not say the same thing twice.",
+     "Each and every student must return the forms back.",
+     "Every student must return the forms."
+    ],
+    [
+     "15",
+     "Choose the transition that shows the real relationship: addition, contrast, result or example.",
+     "The road was closed; therefore, we drove on it.",
+     "The road was closed; therefore, we took another route."
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Semicolons — the rule for this site",
+   "text": "The semicolon has one main job: it joins two independent, closely related clauses. It never \"shows contrast\" by itself; the contrast comes from words such as however. (The SAT/ACT lessons also teach one exam-specific extra use for lists whose items already contain commas — see Colons, Dashes and Semicolons (sat-colons-dashes-semicolons.html).)"
+  },
+  {
+   "type": "h2",
+   "text": "Organisation, relevance and word choice"
+  },
+  {
+   "type": "p",
+   "text": "Not every question is about a rule. Some ask you to think like the writer:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**Add or delete?** Keep a sentence only if it supports the paragraph's main point. A true but off-topic detail should be deleted. Read the reason in each choice — the right answer gives the right reason.",
+    "**Sentence order.** Look for pointing words: this, these, such, however, then, also. A sentence beginning \"These changes…\" must come after the changes are described.",
+    "**Introductions and conclusions.** The best first sentence introduces the paragraph's topic; the best last sentence sums it up or links back to the opening.",
+    "**Word choice and tone.** Match the passage: a formal article needs formal words (considerable, not huge); a precise word beats a vague one (increased by half, not changed a lot)."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Example 1.** Passage: \"The volunteers cleaned the beach for six hours ______ by sunset, they had filled more than forty bags with rubbish.\" Question: Which choice completes the text so that it follows the rules of Standard English? A) hours, B) hours C) hours; D) hours, and,"
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C.** Both sides are complete sentences (\"The volunteers cleaned the beach for six hours\" / \"by sunset, they had filled…\"), so a semicolon joins them correctly. **A** is a comma splice. **B** is a run-on (no punctuation at all). **D** has the right idea (comma + and) but adds a wrong comma after \"and\"."
+  },
+  {
+   "type": "p",
+   "text": "**Example 2.** Passage: \"The new library app __allows students to borrow books and also lets them borrow books__ from their phones.\" Question: Which choice is most concise? A) NO CHANGE B) allows students to borrow books C) allows and permits students to borrow books D) allows students, in addition, to borrow books"
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B.** The original says \"borrow books\" twice. **C** repeats the same idea with two verbs (allows and permits). **D** adds \"in addition\", which adds nothing. B keeps the full meaning in the fewest words — the classic \"shortest correct choice\" pattern."
+  },
+  {
+   "type": "p",
+   "text": "**Example 3.** Passage: \"[1] Our neighbourhood bakery opens at five every morning. [2] These loaves are usually sold out before seven. [3] By then, the baker has already made two hundred loaves of bread.\" Question: For the most logical order, sentence 2 should be placed: A) where it is now B) before sentence 1 C) after sentence 3 D) at the start of a new paragraph"
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C.** \"These loaves\" must come after the loaves are mentioned, and they are first mentioned in sentence 3. **A** leaves \"these loaves\" pointing at nothing. **B** is worse — the reader does not yet know about the bakery. **D** separates the sentence from the idea it depends on."
+  },
+  {
+   "type": "p",
+   "text": "**Example 4.** Passage: \"Many people believe that camels store water in their humps. ______, the humps store fat, which the animal can use for energy when food is scarce.\" A) For example B) In fact C) Similarly D) As a result"
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B.** The second sentence corrects a common belief, and \"In fact\" introduces the real situation. **A** (example) and **C** (similarity) do not fit a correction. **D** (result) says the belief caused the fat — illogical."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**The comma splice:** a comma between two complete sentences looks natural but is always wrong.",
+    "**The lonely comma:** one comma between subject and verb (\"The girl in the red coat, waved\").",
+    "**The mismatched pair:** extra information opened with a dash and closed with a comma.",
+    "**The distractor noun:** \"The quality of the photos are…\" — the subject is quality, so is.",
+    "**The longer-sounds-smarter trap:** wordy choices with repeated ideas are almost always wrong.",
+    "**The right answer with the wrong reason:** in add/delete questions, Yes/No is only half the answer; check the reason."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Read the choices first to find the rule.",
+    "Two complete sentences? Full stop, semicolon or comma + and/but/so.",
+    "Extra information? Matching pair. Essential? No commas.",
+    "Same meaning, all correct? Choose the shortest.",
+    "Hit your checkpoints: Q11 at 8 min, Q22 at 16, Q33 at 25."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "أشهر فخ: الـ comma splice",
+   "text": "لو قبل العلامة جملة كاملة وبعدها جملة كاملة، الفاصلة لوحدها غلط. الحل: نقطة، أو semicolon (;)، أو فاصلة + and / but / so. وماتحطّش أبدًا فاصلة واحدة بين الفاعل والفعل."
+  },
+  {
+   "type": "h2",
+   "text": "Where each skill is fully taught on this site"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Skill",
+    "SAT lesson",
+    "ACT lesson"
+   ],
+   "rows": [
+    [
+     "Sentence boundaries, run-ons, fragments",
+     "sat-sentence-boundaries.html",
+     "act-sentence-structure.html"
+    ],
+    [
+     "Commas and extra information",
+     "sat-commas-extra-info.html",
+     "act-punctuation.html"
+    ],
+    [
+     "Colons, dashes, semicolons",
+     "sat-colons-dashes-semicolons.html",
+     "act-punctuation.html"
+    ],
+    [
+     "Subject–verb agreement",
+     "sat-subject-verb.html",
+     "act-grammar-usage.html"
+    ],
+    [
+     "Pronouns",
+     "sat-pronouns.html",
+     "act-grammar-usage.html"
+    ],
+    [
+     "Verb tense and finiteness",
+     "sat-verb-tense-finiteness.html",
+     "act-grammar-usage.html"
+    ],
+    [
+     "Modifiers",
+     "sat-modifiers.html",
+     "act-sentence-structure.html"
+    ],
+    [
+     "Possessives and plurals, its/it's",
+     "sat-possessives-plurals.html",
+     "act-punctuation.html"
+    ],
+    [
+     "Transitions",
+     "sat-transitions.html",
+     "act-organization-order.html"
+    ],
+    [
+     "Concision",
+     "—",
+     "act-concision-redundancy.html"
+    ],
+    [
+     "Add/delete, relevance",
+     "sat-rhetorical-synthesis.html",
+     "act-relevance-add-delete.html"
+    ],
+    [
+     "Sentence order, organisation",
+     "—",
+     "act-organization-order.html"
+    ],
+    [
+     "Word choice and tone",
+     "sat-words-in-context.html",
+     "act-word-choice-tone.html"
+    ],
+    [
+     "Strategy and pacing",
+     "sat-strategy-time.html",
+     "act-english-strategy.html"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "The same lessons by title:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Sentence Boundaries (sat-sentence-boundaries.html)",
+    "Commas and Extra Information (sat-commas-extra-info.html)",
+    "Colons, Dashes and Semicolons (sat-colons-dashes-semicolons.html)",
+    "Subject–Verb Agreement (sat-subject-verb.html)",
+    "Pronouns (sat-pronouns.html)",
+    "Verb Tense, Aspect and Finiteness (sat-verb-tense-finiteness.html)",
+    "Modifiers, Parallel Structure and Comparisons (sat-modifiers.html)",
+    "Plurals and Possessives (sat-possessives-plurals.html)",
+    "Transitions (sat-transitions.html)",
+    "Rhetorical Synthesis (Student Notes) (sat-rhetorical-synthesis.html)",
+    "Words in Context (sat-words-in-context.html)",
+    "Time Strategy and How to Attack Every Question (sat-strategy-time.html)",
+    "How to Attack ACT English (act-english-strategy.html)",
+    "ACT Punctuation (act-punctuation.html)",
+    "ACT Grammar and Usage (act-grammar-usage.html)",
+    "Sentence Structure (act-sentence-structure.html)",
+    "Concision and Redundancy (act-concision-redundancy.html)",
+    "Relevance: Add, Delete and Writer's Goal (act-relevance-add-delete.html)",
+    "Organisation: Order and Transitions (act-organization-order.html)",
+    "Word Choice and Tone (act-word-choice-tone.html)"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Two short passages with numbered, underlined parts. For each question, choose the best version of the underlined part, or answer the question about the passage. \"NO CHANGE\" means the original is best. Untimed — but try to stay near 48 seconds per question."
+  },
+  {
+   "type": "test",
+   "title": "Literacy 1 practice: two passages",
+   "timed": false,
+   "intro": "12 questions on two short passages. Choose the best version of each underlined, numbered part.",
+   "sections": [
+    {
+     "name": "Passages 1–2",
+     "minutes": 10,
+     "questions": [
+      {
+       "p": "Green Roofs in the City\nIn many Egyptian cities, flat rooftops are a familiar sight. For decades, most of these roofs [1] __was used__ for storage, satellite dishes and water tanks. Recently, however, some families have discovered a new purpose for this space[2] __: growing__ their own vegetables.\nA rooftop garden does not need expensive equipment. Old plastic containers, wooden boxes and even worn-out tyres can [3] __serve as planters, these are filled__ with soil and compost. Tomatoes, mint and molokhia grow especially well in the strong sunlight [4] __that shines brightly and strongly on rooftops.__\nGardeners also benefit in less obvious ways. Plants absorb some of the heat that would otherwise reach the rooms below. [5] __For example,__ the top-floor flat can stay a little cooler in summer. [6]\nFamilies who start with a few pots often find that, within a year, the roof has become their favourite place in the house.",
+       "q": "[1] Choose the best version of the underlined part.",
+       "c": [
+        "NO CHANGE",
+        "were used",
+        "is used",
+        "being used"
+       ],
+       "a": 1,
+       "e": "The subject \"most of these roofs\" is plural, and \"for decades\" describes the past, so \"were used\". A and C are singular; D has no finite verb.",
+       "s": "Subject–verb agreement"
+      },
+      {
+       "p": "Green Roofs in the City\nIn many Egyptian cities, flat rooftops are a familiar sight. For decades, most of these roofs [1] __was used__ for storage, satellite dishes and water tanks. Recently, however, some families have discovered a new purpose for this space[2] __: growing__ their own vegetables.\nA rooftop garden does not need expensive equipment. Old plastic containers, wooden boxes and even worn-out tyres can [3] __serve as planters, these are filled__ with soil and compost. Tomatoes, mint and molokhia grow especially well in the strong sunlight [4] __that shines brightly and strongly on rooftops.__\nGardeners also benefit in less obvious ways. Plants absorb some of the heat that would otherwise reach the rooms below. [5] __For example,__ the top-floor flat can stay a little cooler in summer. [6]\nFamilies who start with a few pots often find that, within a year, the roof has become their favourite place in the house.",
+       "q": "[2] Choose the best version of the underlined part.",
+       "c": [
+        "NO CHANGE",
+        "; growing",
+        ", which is growing",
+        ". Growing"
+       ],
+       "a": 0,
+       "e": "A colon after a complete sentence introduces the explanation of the \"new purpose\". B uses a semicolon before a fragment; C wrongly says the space is growing vegetables; D creates a fragment.",
+       "s": "Colons"
+      },
+      {
+       "p": "Green Roofs in the City\nIn many Egyptian cities, flat rooftops are a familiar sight. For decades, most of these roofs [1] __was used__ for storage, satellite dishes and water tanks. Recently, however, some families have discovered a new purpose for this space[2] __: growing__ their own vegetables.\nA rooftop garden does not need expensive equipment. Old plastic containers, wooden boxes and even worn-out tyres can [3] __serve as planters, these are filled__ with soil and compost. Tomatoes, mint and molokhia grow especially well in the strong sunlight [4] __that shines brightly and strongly on rooftops.__\nGardeners also benefit in less obvious ways. Plants absorb some of the heat that would otherwise reach the rooms below. [5] __For example,__ the top-floor flat can stay a little cooler in summer. [6]\nFamilies who start with a few pots often find that, within a year, the roof has become their favourite place in the house.",
+       "q": "[3] Choose the best version of the underlined part.",
+       "c": [
+        "NO CHANGE",
+        "serve as planters they are filled",
+        "serve as planters once they are filled",
+        "serve as planters; once filled"
+       ],
+       "a": 2,
+       "e": "\"Once\" turns the second idea into a dependent clause, so the sentence is correct. A is a comma splice, B a run-on, and D puts a fragment after a semicolon.",
+       "s": "Sentence boundaries"
+      },
+      {
+       "p": "Green Roofs in the City\nIn many Egyptian cities, flat rooftops are a familiar sight. For decades, most of these roofs [1] __was used__ for storage, satellite dishes and water tanks. Recently, however, some families have discovered a new purpose for this space[2] __: growing__ their own vegetables.\nA rooftop garden does not need expensive equipment. Old plastic containers, wooden boxes and even worn-out tyres can [3] __serve as planters, these are filled__ with soil and compost. Tomatoes, mint and molokhia grow especially well in the strong sunlight [4] __that shines brightly and strongly on rooftops.__\nGardeners also benefit in less obvious ways. Plants absorb some of the heat that would otherwise reach the rooms below. [5] __For example,__ the top-floor flat can stay a little cooler in summer. [6]\nFamilies who start with a few pots often find that, within a year, the roof has become their favourite place in the house.",
+       "q": "[4] Choose the best version of the underlined part.",
+       "c": [
+        "NO CHANGE",
+        "that falls on rooftops.",
+        "that shines in a bright and strong way on rooftops.",
+        "that is bright and that shines strongly on rooftops."
+       ],
+       "a": 1,
+       "e": "\"Strong sunlight\" already tells us it is bright and strong, so A, C and D repeat the idea. B is concise and keeps the meaning.",
+       "s": "Concision"
+      },
+      {
+       "p": "Green Roofs in the City\nIn many Egyptian cities, flat rooftops are a familiar sight. For decades, most of these roofs [1] __was used__ for storage, satellite dishes and water tanks. Recently, however, some families have discovered a new purpose for this space[2] __: growing__ their own vegetables.\nA rooftop garden does not need expensive equipment. Old plastic containers, wooden boxes and even worn-out tyres can [3] __serve as planters, these are filled__ with soil and compost. Tomatoes, mint and molokhia grow especially well in the strong sunlight [4] __that shines brightly and strongly on rooftops.__\nGardeners also benefit in less obvious ways. Plants absorb some of the heat that would otherwise reach the rooms below. [5] __For example,__ the top-floor flat can stay a little cooler in summer. [6]\nFamilies who start with a few pots often find that, within a year, the roof has become their favourite place in the house.",
+       "q": "[5] Choose the best version of the underlined part.",
+       "c": [
+        "NO CHANGE",
+        "However,",
+        "As a result,",
+        "In contrast,"
+       ],
+       "a": 2,
+       "e": "The cooler flat is the result of plants absorbing heat, so \"As a result\". A treats it as an example; B and D signal a contrast that is not there.",
+       "s": "Transitions"
+      },
+      {
+       "p": "Green Roofs in the City\nIn many Egyptian cities, flat rooftops are a familiar sight. For decades, most of these roofs [1] __was used__ for storage, satellite dishes and water tanks. Recently, however, some families have discovered a new purpose for this space[2] __: growing__ their own vegetables.\nA rooftop garden does not need expensive equipment. Old plastic containers, wooden boxes and even worn-out tyres can [3] __serve as planters, these are filled__ with soil and compost. Tomatoes, mint and molokhia grow especially well in the strong sunlight [4] __that shines brightly and strongly on rooftops.__\nGardeners also benefit in less obvious ways. Plants absorb some of the heat that would otherwise reach the rooms below. [5] __For example,__ the top-floor flat can stay a little cooler in summer. [6]\nFamilies who start with a few pots often find that, within a year, the roof has become their favourite place in the house.",
+       "q": "[6] The writer is considering adding this sentence at point [6]: \"Some satellite dishes are much larger than others.\" Should the writer make this addition?",
+       "c": [
+        "Yes, because it explains why roofs were used for storage.",
+        "Yes, because it adds a precise detail to the paragraph.",
+        "No, because it repeats information given in the first paragraph.",
+        "No, because it moves away from the paragraph's focus on the benefits of rooftop gardens."
+       ],
+       "a": 3,
+       "e": "The paragraph is about less obvious benefits of gardens; dish sizes are off-topic. A gives a false reason, B ignores relevance, and C is wrong because dish size was never mentioned.",
+       "s": "Relevance"
+      },
+      {
+       "p": "On Air Before the Bell\nLast year, the students of our school [7] __launches__ a morning radio programme. [8] __Speaking into a borrowed microphone, the first episode was recorded by three Grade 11 students.__ The show began with just the weather and the day's timetable, but it soon grew. Mariam Adel[9] __, the team's producer,__ chose the music and invited guests from different school clubs. Each club now gets two minutes on air to announce [10] __their__ events.\nThe programme has changed the start of the school day[11] __; students__ now arrive early to hear the news, the football results and a short story read by a teacher. [12] __The hosts hope to get better grades next year.__",
+       "q": "[7] Choose the best version of the underlined part.",
+       "c": [
+        "NO CHANGE",
+        "will launch",
+        "are launching",
+        "launched"
+       ],
+       "a": 3,
+       "e": "\"Last year\" shows a finished past action, so the simple past \"launched\". The present (A, C) and future (B) do not fit.",
+       "s": "Verb tense"
+      },
+      {
+       "p": "On Air Before the Bell\nLast year, the students of our school [7] __launches__ a morning radio programme. [8] __Speaking into a borrowed microphone, the first episode was recorded by three Grade 11 students.__ The show began with just the weather and the day's timetable, but it soon grew. Mariam Adel[9] __, the team's producer,__ chose the music and invited guests from different school clubs. Each club now gets two minutes on air to announce [10] __their__ events.\nThe programme has changed the start of the school day[11] __; students__ now arrive early to hear the news, the football results and a short story read by a teacher. [12] __The hosts hope to get better grades next year.__",
+       "q": "[8] Choose the best version of the underlined part.",
+       "c": [
+        "NO CHANGE",
+        "Speaking into a borrowed microphone, three Grade 11 students recorded the first episode.",
+        "Speaking into a borrowed microphone, the recording of the first episode was done by three Grade 11 students.",
+        "Speaking into a borrowed microphone, it was three Grade 11 students' first episode."
+       ],
+       "a": 1,
+       "e": "The person speaking must come right after the comma: the students were speaking, so B. In A and C the episode or the recording seems to speak; in D \"it\" speaks — all dangling modifiers.",
+       "s": "Modifiers"
+      },
+      {
+       "p": "On Air Before the Bell\nLast year, the students of our school [7] __launches__ a morning radio programme. [8] __Speaking into a borrowed microphone, the first episode was recorded by three Grade 11 students.__ The show began with just the weather and the day's timetable, but it soon grew. Mariam Adel[9] __, the team's producer,__ chose the music and invited guests from different school clubs. Each club now gets two minutes on air to announce [10] __their__ events.\nThe programme has changed the start of the school day[11] __; students__ now arrive early to hear the news, the football results and a short story read by a teacher. [12] __The hosts hope to get better grades next year.__",
+       "q": "[9] Choose the best version of the underlined part.",
+       "c": [
+        "NO CHANGE",
+        ", the team's producer",
+        "— the team's producer,",
+        " the team's producer,"
+       ],
+       "a": 0,
+       "e": "\"The team's producer\" is extra information, so it needs a matching pair of commas, as in the original. B has no closing comma, C mixes a dash with a comma, and D has only a closing comma between subject and verb.",
+       "s": "Extra information"
+      },
+      {
+       "p": "On Air Before the Bell\nLast year, the students of our school [7] __launches__ a morning radio programme. [8] __Speaking into a borrowed microphone, the first episode was recorded by three Grade 11 students.__ The show began with just the weather and the day's timetable, but it soon grew. Mariam Adel[9] __, the team's producer,__ chose the music and invited guests from different school clubs. Each club now gets two minutes on air to announce [10] __their__ events.\nThe programme has changed the start of the school day[11] __; students__ now arrive early to hear the news, the football results and a short story read by a teacher. [12] __The hosts hope to get better grades next year.__",
+       "q": "[10] Choose the best version of the underlined part.",
+       "c": [
+        "NO CHANGE",
+        "it's",
+        "there",
+        "its"
+       ],
+       "a": 3,
+       "e": "The pronoun refers to \"each club\", which is singular, so the possessive \"its\". A is plural, B means \"it is\", and C is a place word.",
+       "s": "Pronouns"
+      },
+      {
+       "p": "On Air Before the Bell\nLast year, the students of our school [7] __launches__ a morning radio programme. [8] __Speaking into a borrowed microphone, the first episode was recorded by three Grade 11 students.__ The show began with just the weather and the day's timetable, but it soon grew. Mariam Adel[9] __, the team's producer,__ chose the music and invited guests from different school clubs. Each club now gets two minutes on air to announce [10] __their__ events.\nThe programme has changed the start of the school day[11] __; students__ now arrive early to hear the news, the football results and a short story read by a teacher. [12] __The hosts hope to get better grades next year.__",
+       "q": "[11] Choose the best version of the underlined part.",
+       "c": [
+        "NO CHANGE",
+        ", students",
+        " students",
+        ", and, students"
+       ],
+       "a": 0,
+       "e": "Both sides are complete sentences, so the semicolon is correct. B is a comma splice, C a run-on, and D adds an extra comma after \"and\".",
+       "s": "Sentence boundaries"
+      },
+      {
+       "p": "On Air Before the Bell\nLast year, the students of our school [7] __launches__ a morning radio programme. [8] __Speaking into a borrowed microphone, the first episode was recorded by three Grade 11 students.__ The show began with just the weather and the day's timetable, but it soon grew. Mariam Adel[9] __, the team's producer,__ chose the music and invited guests from different school clubs. Each club now gets two minutes on air to announce [10] __their__ events.\nThe programme has changed the start of the school day[11] __; students__ now arrive early to hear the news, the football results and a short story read by a teacher. [12] __The hosts hope to get better grades next year.__",
+       "q": "[12] Which choice best concludes the passage by linking back to how the programme began?",
+       "c": [
+        "NO CHANGE",
+        "Many people still listen to the radio in their cars.",
+        "What began with one borrowed microphone has become a daily voice for the whole school.",
+        "The school library has also received new books this year."
+       ],
+       "a": 2,
+       "e": "C links the \"borrowed microphone\" from the opening to the programme's success. A, B and D introduce unrelated topics.",
+       "s": "Organisation"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Literacy Test 1 = Writing and Language, 44 questions in 35 minutes as published by schools (check the official candidate guide): about 48 seconds each.",
+    "Read the choices first — they tell you which rule is being tested.",
+    "Two complete sentences need a full stop, a semicolon or a comma + and/but/so; never a comma alone.",
+    "Extra information = matching pair; never a single comma between subject and verb.",
+    "When all choices are correct, pick the shortest one that keeps the meaning."
+   ]
+  }
+ ]
+}

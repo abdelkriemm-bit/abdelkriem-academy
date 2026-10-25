@@ -1,0 +1,703 @@
+{
+ "slug": "sat-pronouns",
+ "title": "Pronouns",
+ "kicker": "American Diploma · Digital SAT · Standard English Conventions",
+ "summary": "Match every pronoun to its antecedent, choose the right form (who/whom, I/me), avoid unclear pronouns and never confuse its/it's, their/they're/there or your/you're.",
+ "blocks": [
+  {
+   "type": "p",
+   "text": "A pronoun (it, they, its, their, who, him …) stands in for a noun. On the Digital SAT, pronoun questions check three things: that the pronoun **matches** the noun it replaces, that it is in the right **form** (subject, object or possessive), and that the reader can tell **which noun** it means. The rules are few and fixed, so this is one of the easiest places on the test to gain points quickly."
+  },
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Pronoun questions belong to **Standard English Conventions**, which is about **26%** of the scored Reading and Writing questions (about **11–15 questions**). The official skill list for **Form, Structure, and Sense** includes **pronoun–antecedent agreement** and the confusing pairs **its/it's, their/they're/there** and **your/you're**. These questions **usually** come in the later part of each module, after Information and Ideas."
+  },
+  {
+   "type": "p",
+   "text": "The stem is always: **\"Which choice completes the text so that it conforms to the conventions of Standard English?\"** You know it is a pronoun question when the four choices are pronouns or pronoun look-alikes, for example:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "its / it's / their / they're",
+    "who / whom / which / whose",
+    "it / they / this / the device",
+    "I / me / myself / us"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "The key word is **antecedent**: the noun a pronoun refers back to. In \"The **museum** reopened **its** doors\", the antecedent of *its* is *museum*. Almost every pronoun question is solved by finding the antecedent first."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "أول خطوة دايمًا",
+   "text": "قبل ما تختار الضمير، دوّر على **الاسم اللي بيرجع له** (الـ antecedent). لو الاسم مفرد (شركة، جامعة، فريق، حيوان واحد) يبقى **it / its**. لو جمع يبقى **they / their**. الشركة **مش** they حتى لو فيها آلاف الموظفين."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 1: Pronoun–antecedent agreement (number)"
+  },
+  {
+   "type": "p",
+   "text": "A singular antecedent takes a singular pronoun; a plural antecedent takes a plural pronoun. The test makes this hard in two ways: it puts the antecedent far from the pronoun, and it uses nouns that **feel** plural but are grammatically singular."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Antecedent",
+    "Pronoun",
+    "✓ Correct",
+    "✗ Wrong"
+   ],
+   "rows": [
+    [
+     "One company, university, museum, government, team, committee, organization, city, country",
+     "**it / its**",
+     "The **company** moved **its** factory to Sadat City.",
+     "The company moved their factory."
+    ],
+    [
+     "A species or one animal described in general (the fennec fox, the honeybee)",
+     "**it / its**",
+     "The **fennec fox** uses **its** large ears to lose heat.",
+     "The fennec fox uses their large ears."
+    ],
+    [
+     "Plural nouns (scientists, turtles, the pyramids)",
+     "**they / them / their**",
+     "The **turtles** return to **their** home beach.",
+     "The turtles return to its home beach."
+    ],
+    [
+     "each, every, either, neither, one + of + plural",
+     "**it / its** (for things)",
+     "**Each** of the bridges has **its** own toll.",
+     "Each of the bridges has their own toll."
+    ],
+    [
+     "A and B",
+     "**they / their**",
+     "**Cairo and Giza** share **their** water supply.",
+     "Cairo and Giza share its water supply."
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "British school students: groups",
+   "text": "British English often says \"The team have won **their** match.\" The SAT follows American Standard English: a team, company, university, government or band is **one** thing, so it takes **it/its** — \"The team has won **its** match.\" Look for clues in the passage: if another sentence already says \"its\", keep \"its\"."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 2: Clear antecedents — no confusing pronouns"
+  },
+  {
+   "type": "p",
+   "text": "A pronoun is wrong if the reader cannot be sure which noun it means. This happens when two or more nouns of the same number come before the pronoun. On the test, the correct choice is often **a specific noun** instead of a pronoun."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "✗ Unclear",
+    "Why",
+    "✓ Clear"
+   ],
+   "rows": [
+    [
+     "When the scientist showed the robot to the engineer, **she** was impressed.",
+     "She = scientist or engineer?",
+     "When the scientist showed the robot to the engineer, **the engineer** was impressed."
+    ],
+    [
+     "The new lamps replaced the old ones, and **they** use less electricity.",
+     "They = new lamps or old ones?",
+     "… and **the new lamps** use less electricity."
+    ],
+    [
+     "The report compared the two dams. **This** surprised the government.",
+     "This = the report? the comparison? a result?",
+     "**This comparison** surprised the government."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**How to decide:** list every noun before the pronoun that has the same number. If there is only one, the pronoun is fine. If there are two or more, choose the choice that names the noun. Do not choose the noun version when the pronoun is already clear — the SAT does not reward extra words for no reason."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 3: Subject, object and possessive forms (case)"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Subject form (does the action)",
+    "Object form (receives the action / after a preposition)",
+    "Possessive (no apostrophe!)"
+   ],
+   "rows": [
+    [
+     "I",
+     "me",
+     "my / mine"
+    ],
+    [
+     "he",
+     "him",
+     "his"
+    ],
+    [
+     "she",
+     "her",
+     "her / hers"
+    ],
+    [
+     "we",
+     "us",
+     "our / ours"
+    ],
+    [
+     "they",
+     "them",
+     "their / theirs"
+    ],
+    [
+     "who",
+     "whom",
+     "whose"
+    ],
+    [
+     "it",
+     "it",
+     "its"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Two people trick:** cover the other person. \"Salma and (I / me) won\" → \"I won\" → **Salma and I won**. \"The coach thanked Salma and (I / me)\" → \"thanked me\" → **Salma and me**.",
+    "**After a preposition** (between, for, with, to, from, among, like) use the object form: **between you and me**, **for him and her**.",
+    "**Comparisons with than / as:** finish the sentence in your head: \"She runs faster than (he / him)\" → \"than he runs\" → **than he** (or \"than he does\").",
+    "**Myself / himself** (reflexive) only when the subject does the action to itself or for emphasis: \"I taught **myself**.\" ✗ \"Karim and myself presented.\" Words like *hisself* and *theirselves* do not exist."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Rule 4: Who, whom, which, that, whose"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Word",
+    "Use",
+    "✓ Example"
+   ],
+   "rows": [
+    [
+     "**who**",
+     "a person, as the **subject** of its clause (he/she/they)",
+     "The poet **who** wrote the anthem … (she wrote it)"
+    ],
+    [
+     "**whom**",
+     "a person, as the **object** of its clause (him/her/them), or after a preposition",
+     "The poet **whom** the committee honored … (honored her) / the poet **to whom** it was dedicated"
+    ],
+    [
+     "**which**",
+     "things and animals, never people",
+     "The bridge, **which** opened in 2019, …"
+    ],
+    [
+     "**that**",
+     "people or things, in essential clauses (no commas)",
+     "The tool **that** they used …"
+    ],
+    [
+     "**whose**",
+     "possession, for people or things",
+     "a city **whose** streets flood easily"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**The he/him test:** take the words after the blank and make a small sentence with he or him. If **he** fits, use **who**; if **him** fits, use **whom**. Note the m: hi**m** = who**m**."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "who ولا whom؟",
+   "text": "جرّب تحط **he** أو **him** مكان الفراغ في الجملة الصغيرة اللي بعده. لو ينفع **he** (هو اللي عمل الفعل) يبقى **who**. لو ينفع **him** (الفعل وقع عليه) يبقى **whom** — الاتنين آخرهم حرف **m**. ومتستخدمش **which** للأشخاص أبدًا."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 5: Its/it's, their/there/they're, your/you're, whose/who's"
+  },
+  {
+   "type": "p",
+   "text": "Possessive pronouns **never** have an apostrophe. An apostrophe in a pronoun always means a **contraction** (two words joined). Test every apostrophe by opening it up."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Word",
+    "Means",
+    "Test",
+    "✓ Example"
+   ],
+   "rows": [
+    [
+     "**its**",
+     "belonging to it",
+     "—",
+     "The city cleaned **its** canals."
+    ],
+    [
+     "**it's**",
+     "it is / it has",
+     "Can you say \"it is\"?",
+     "**It's** been a dry year."
+    ],
+    [
+     "**their**",
+     "belonging to them",
+     "—",
+     "The students lost **their** keys."
+    ],
+    [
+     "**there**",
+     "a place / \"there is\"",
+     "Can you say \"here\"?",
+     "Leave the boxes **there**. **There** are two exits."
+    ],
+    [
+     "**they're**",
+     "they are",
+     "Can you say \"they are\"?",
+     "**They're** arriving tomorrow."
+    ],
+    [
+     "**your / you're**",
+     "belonging to you / you are",
+     "Can you say \"you are\"?",
+     "**You're** late for **your** exam."
+    ],
+    [
+     "**whose / who's**",
+     "belonging to whom / who is",
+     "Can you say \"who is\"?",
+     "**Who's** the author **whose** book won?"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Rule 6: Stay consistent — one / you / we"
+  },
+  {
+   "type": "p",
+   "text": "Once a passage chooses a pronoun for people in general, keep it. If the sentence begins with **one**, continue with **one** (or *one's*), not *you*. If it begins with **you**, continue with **you**. Do not switch between *we*, *you* and *one* inside the same sentence."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ If **one** wants to see the sunrise, **one** should start early.",
+    "✗ If **one** wants to see the sunrise, **you** should start early.",
+    "✓ If **you** want to see the sunrise, **you** should start early."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "The 5-step method for test day"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Read the choices.** Pronouns or look-alikes? It is a pronoun question.",
+    "**Find the antecedent.** Go back in the sentence (or the sentence before) and ask \"Who or what does this pronoun mean?\"",
+    "**Check number:** singular antecedent → it/its/he/she; plural → they/their. Remember companies, teams and species are singular.",
+    "**Check form:** subject or object (he/him test, cover the other person)? possessive or contraction (open the apostrophe)?",
+    "**Check clarity:** if two nouns could be the antecedent, pick the choice that names the noun."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "h2",
+   "text": "Worked example 1: a company is \"it\""
+  },
+  {
+   "type": "p",
+   "text": "**Passage:** \"The textile company began as a small workshop in El-Mahalla El-Kubra in the 1950s. Today, ______ products are sold in more than thirty countries, although most of its cotton is still grown in the Nile Delta.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice completes the text so that it conforms to the conventions of Standard English?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) their",
+    "B) its",
+    "C) it's",
+    "D) they're"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B) its.** The antecedent is \"The textile company\" — one company, so it is singular. A possessive is needed (\"the company's products\"), so \"its\" is correct. The passage confirms it later: \"its cotton\"."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A) their** — Plural. A company is one thing on the SAT, even though many people work for it.",
+    "**C) it's** — \"It's\" = \"it is\": \"it is products are sold\" makes no sense.",
+    "**D) they're** — \"They're\" = \"they are\", and it is plural."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Worked example 2: they're vs their vs there"
+  },
+  {
+   "type": "p",
+   "text": "**Passage:** \"Honeybees share the location of food through a movement called the waggle dance. When forager bees return to the hive, ______ able to show both the direction and the distance of a flower patch through the angle and length of their dance.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice completes the text so that it conforms to the conventions of Standard English?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) its",
+    "B) their",
+    "C) they're",
+    "D) there"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C) they're.** The clause needs a subject and a verb: \"the forager bees **are** able to show\". \"They're\" = \"they are\", and \"they\" agrees with the plural \"forager bees\"."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A) its** — \"Its\" is possessive and singular; there would be no verb (\"its able\").",
+    "**B) their** — \"Their\" is possessive; \"their able\" has no verb.",
+    "**D) there** — \"There able\" has no subject or verb."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Worked example 3: unclear pronoun"
+  },
+  {
+   "type": "p",
+   "text": "**Passage:** \"In the 1820s, Jean-François Champollion compared the Greek text on the Rosetta Stone with the hieroglyphic text above it. Since scholars could already read the Greek, ______ helped him identify the hieroglyphic signs for royal names such as Ptolemy.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice completes the text so that it conforms to the conventions of Standard English?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) it",
+    "B) they",
+    "C) this",
+    "D) the Greek inscription"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: D) the Greek inscription.** Three singular nouns come before the blank: the Rosetta Stone, the hieroglyphic text and the Greek. A pronoun would not make clear which one helped. Only the noun \"the Greek inscription\" removes the doubt."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A) it** — Unclear: \"it\" could mean the stone, the Greek text or the hieroglyphic text.",
+    "**B) they** — Plural, and the only plural noun, \"scholars\", is not what helped him: the readable Greek text did.",
+    "**C) this** — Vague: \"this\" does not name what it refers to."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Worked example 4: who vs whom"
+  },
+  {
+   "type": "p",
+   "text": "**Passage:** \"The engineer ______ the city hired to design the new pedestrian bridge had already worked on several projects along the Nile Corniche. Her design, which uses lightweight steel cables, was chosen from more than forty proposals.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice completes the text so that it conforms to the conventions of Standard English?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) who",
+    "B) whom",
+    "C) which",
+    "D) whose"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B) whom.** Make the small sentence: \"the city hired ___\" → \"the city hired **her**\" (object form). Object = \"whom\". The engineer receives the action of \"hired\"; \"the city\" is the subject."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A) who** — \"Who\" is the subject form; but the subject of \"hired\" is \"the city\", not the engineer.",
+    "**C) which** — \"Which\" is for things, never for people.",
+    "**D) whose** — \"Whose\" shows possession: \"whose the city hired\" makes no sense."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**\"Their\" for a company or group:** company, university, museum, team, committee, government → **its**.",
+    "**Apostrophe trap:** its, their, your, whose have **no** apostrophe. it's / they're / you're / who's are always two words.",
+    "**Far antecedent:** the noun is at the start of a long sentence; a closer noun with a different number is the bait.",
+    "**\"Me\" vs \"I\" with two people:** cover the other person and test each pronoun alone.",
+    "**\"Which\" for people:** always wrong; use who/whom/that.",
+    "**Unclear \"they\" / \"it\" / \"this\":** if two nouns could be meant, the choice that names the noun wins.",
+    "**Switching one ↔ you:** keep the same pronoun for people in general."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Point to the antecedent before reading the choices; say it with the pronoun (\"the company … its\").",
+    "For apostrophes, open the contraction: \"it is\", \"they are\", \"you are\". If it does not make sense, the possessive is correct.",
+    "For who/whom, use the he/him test on the words after the blank.",
+    "Choose a noun instead of a pronoun only when there really are two possible antecedents.",
+    "Target time: 30–40 seconds per question."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الأبوستروف في الضمائر",
+   "text": "لو لقيت **'** في ضمير يبقى معناه **اختصار** لكلمتين: it's = it is، they're = they are، you're = you are. الملكية في الضمائر **من غير** أبوستروف خالص: its, their, your, whose. افتح الاختصار في دماغك: لو الجملة باظت، يبقى الصح هو الملكية."
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Twelve original test-style questions. Find the antecedent first, then check number, form and clarity. Explanations appear at the end."
+  },
+  {
+   "type": "test",
+   "title": "Pronouns: practice quiz",
+   "timed": false,
+   "intro": "12 original questions in Digital SAT format, untimed. Find the antecedent first in every question.",
+   "sections": [
+    {
+     "name": "Quiz",
+     "minutes": 15,
+     "questions": [
+      {
+       "p": "Founded in the tenth century, the university is one of the oldest in the world still operating today. Over the centuries, ______ libraries have collected thousands of manuscripts on law, astronomy, and medicine.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "their",
+        "its",
+        "it's",
+        "they're"
+       ],
+       "a": 1,
+       "e": "The antecedent is \"the university\" (singular), and a possessive is needed (\"the university's libraries\"), so \"its\" is correct. \"Their\" and \"they're\" are plural; \"it's\" means \"it is\".",
+       "s": "Pronoun–antecedent agreement"
+      },
+      {
+       "p": "Sea turtles often return to the same beach where they hatched in order to lay ______ own eggs, sometimes traveling thousands of kilometers across the ocean. Scientists believe the turtles use Earth's magnetic field to find their way.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "its",
+        "it's",
+        "there",
+        "their"
+       ],
+       "a": 3,
+       "e": "The antecedent is \"Sea turtles\" (plural), and a possessive is needed, so \"their\" is correct. \"Its\" is singular, \"it's\" means \"it is\", and \"there\" is a place word.",
+       "s": "Pronoun–antecedent agreement"
+      },
+      {
+       "p": "Hypatia of Alexandria was a mathematician and philosopher ______ taught students from across the Mediterranean world around the year 400. Later writers described her lectures on geometry and astronomy as among the most popular in the city.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "who",
+        "whom",
+        "which",
+        "whose"
+       ],
+       "a": 0,
+       "e": "Small-sentence test: \"___ taught students\" → \"she taught students\". Subject form = \"who\". \"Whom\" is the object form, \"which\" is not used for people, and \"whose\" shows possession.",
+       "s": "Pronoun case (who/whom, I/me)"
+      },
+      {
+       "p": "After the regional science fair, the judges invited two finalists to present their project at a national conference. Salma and ______ spent the following month improving our model of a solar-powered water filter.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "me",
+        "myself",
+        "I",
+        "us"
+       ],
+       "a": 2,
+       "e": "Cover \"Salma and\": \"___ spent the following month\" needs the subject form \"I\". \"Me\" and \"us\" are object forms, and \"myself\" can only be used when \"I\" is already the subject.",
+       "s": "Pronoun case (who/whom, I/me)"
+      },
+      {
+       "p": "The coach divided the remaining training sessions between Karim and ______, since we were the only two runners on the team preparing for the 1,500-meter race. Each of us would train on alternate mornings.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "I",
+        "myself",
+        "me",
+        "we"
+       ],
+       "a": 2,
+       "e": "After the preposition \"between\", the object form is needed: \"between Karim and me\". \"I\" and \"we\" are subject forms, and \"myself\" is reflexive, which does not fit here.",
+       "s": "Pronoun case (who/whom, I/me)"
+      },
+      {
+       "p": "Many people believe that the Moon has a \"dark side\" that never receives sunlight. In fact, ______ only the far side that we never see from Earth; over the course of a month, that side receives as much sunlight as the side facing us.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "it's",
+        "its",
+        "it",
+        "their"
+       ],
+       "a": 0,
+       "e": "The sentence needs a subject and a verb: \"it is only the far side that we never see\". \"It's\" = \"it is\". \"Its\" is possessive, \"it\" alone leaves the clause without a verb, and \"their\" is a plural possessive.",
+       "s": "Possessives and contractions"
+      },
+      {
+       "p": "When the city replaced its old streetlights with LED lamps, residents noticed that the new lamps lit the sidewalks more evenly than the old ones. According to a city report, ______ also use about half as much electricity, which saves money each year.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "they",
+        "it",
+        "this",
+        "the LED lamps"
+       ],
+       "a": 3,
+       "e": "Three plural nouns come before the blank (residents, the new lamps, the old ones), so \"they\" or \"this\" would be unclear. Only \"the LED lamps\" makes the meaning clear. \"It\" is singular.",
+       "s": "Pronoun clarity"
+      },
+      {
+       "p": "The village of Tunis in the Fayoum is famous for its pottery. Visitors who stop at the workshops ______ can watch potters shape clay on wheels and paint bowls with bright designs of birds and fish.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "their",
+        "there",
+        "they're",
+        "its"
+       ],
+       "a": 1,
+       "e": "A place word is needed: \"the workshops there\" (in the village). \"Their\" and \"its\" are possessives with no noun after them, and \"they're\" means \"they are\".",
+       "s": "Possessives and contractions"
+      },
+      {
+       "p": "Mountain guides on Mount Sinai give hikers simple advice for the night climb to the summit: if one wants to watch the sunrise from the top, ______ should start walking by about two o'clock in the morning.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "one",
+        "you",
+        "they",
+        "we"
+       ],
+       "a": 0,
+       "e": "The sentence has already chosen \"one\" for people in general (\"if one wants\"), so it must continue with \"one\". Switching to \"you\", \"they\" or \"we\" breaks pronoun consistency.",
+       "s": "Pronoun consistency"
+      },
+      {
+       "p": "A sign at the entrance to the museum's royal mummies hall gives visitors a clear instruction: \"If ______ planning to enter this hall, please switch off your phone. The room is kept quiet out of respect for the ancient kings and queens.\"",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "your",
+        "you're",
+        "you",
+        "yours"
+       ],
+       "a": 1,
+       "e": "The clause needs a subject and a verb: \"If you are planning\". \"You're\" = \"you are\". \"Your\" and \"yours\" are possessives, and \"you planning\" has no helping verb.",
+       "s": "Possessives and contractions"
+      },
+      {
+       "p": "The poet ______ the festival committee honored this year writes in both Arabic and English. In her acceptance speech, she explained that moving between the two languages helps her hear the sound of each word more clearly.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "who",
+        "which",
+        "whose",
+        "whom"
+       ],
+       "a": 3,
+       "e": "Small-sentence test: \"the committee honored ___\" → \"honored her\". Object form = \"whom\". \"Who\" is the subject form, \"which\" is not for people, and \"whose\" shows possession.",
+       "s": "Pronoun case (who/whom, I/me)"
+      },
+      {
+       "p": "Although Nour started learning the oud two years after her brother did, many listeners agree that she now plays more expressively than ______. Their teacher credits her habit of recording and replaying every practice session.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "him",
+        "himself",
+        "he does",
+        "his"
+       ],
+       "a": 2,
+       "e": "Finish the comparison: \"she plays more expressively than he does\". The subject form with its verb, \"he does\", is correct. \"Him\" is an object form, \"himself\" is reflexive, and \"his\" is possessive with no noun.",
+       "s": "Pronoun case (who/whom, I/me)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Find the **antecedent** first. Singular (including company, university, team, species) → **it/its**; plural → **they/their**.",
+    "If two nouns could be the antecedent, choose the answer that **names the noun**.",
+    "Subject form (I, he, who) does the action; object form (me, him, whom) receives it or follows a preposition. Cover the other person to test.",
+    "Possessive pronouns have **no apostrophe**: its, their, your, whose. it's / they're / you're / who's = two words.",
+    "Keep the same pronoun for people in general: one … one, you … you."
+   ]
+  }
+ ]
+}

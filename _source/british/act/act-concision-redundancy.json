@@ -1,0 +1,684 @@
+{
+ "slug": "act-concision-redundancy",
+ "title": "Concision and Redundancy",
+ "kicker": "American Diploma · ACT · English: Knowledge of Language",
+ "summary": "Redundant pairs, wordy phrases, active vs passive and the \"shortest correct answer\" rule with its exceptions — worked items and a 12-question ACT-style essay.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Concision questions belong to **Knowledge of Language**, one of the three reporting categories of the ACT English test. On the enhanced ACT, Knowledge of Language is 18–23% of the English score. It is about using language **effectively**: saying things clearly, precisely and without waste. (Word choice and tone, on the next page, are part of the same category.)"
+  },
+  {
+   "type": "p",
+   "text": "The English test has 50 questions (40 scored) in 35 minutes across five essays. A concision question looks exactly like a grammar question: an underlined portion, four choices, and usually **NO CHANGE** first. Often there is no question stem. Sometimes the last choice is **\"DELETE the underlined portion\"** or **\"OMIT the underlined portion.\"** Sometimes a stem says: \"Which choice is the most concise way to express the idea?\""
+  },
+  {
+   "type": "p",
+   "text": "The key insight: in a concision item, **all four choices are often grammatically correct.** They usually say the same thing. Three of them just use extra words, repeat an idea, or hide the doer of the action. Your job is to find the version that says the idea once, clearly, and completely."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "القاعدة الذهبية",
+   "text": "لو كل الاختيارات صح جراماتيكلي وبتقول نفس المعنى، اختار الأقصر. بس خلي بالك: الأقصر لازم يكون جملة سليمة ومش بيغيّر المعنى ولا بيشيل معلومة مهمة."
+  },
+  {
+   "type": "h2",
+   "text": "The \"shortest correct answer\" rule"
+  },
+  {
+   "type": "p",
+   "text": "When the choices differ only in length, follow this order of checks:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Is it grammatical?** Throw out any choice with a fragment, comma splice, wrong verb form or broken modifier — even if it is the shortest.",
+    "**Does it keep the meaning?** Throw out any choice that changes what the writer is saying or removes a detail the sentence needs.",
+    "**Of the choices left, pick the shortest.** Extra words that add no meaning are wrong on the ACT."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "Notice the order: **correct first, then short.** The shortest choice wins only when it survives the first two checks. Many students lose points because they choose the shortest answer automatically."
+  },
+  {
+   "type": "h2",
+   "text": "Error 1: Redundancy — saying the same thing twice"
+  },
+  {
+   "type": "p",
+   "text": "Redundancy means one word or phrase repeats the meaning of another. The ACT hides these pairs inside normal sentences. Learn to spot them:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Redundant",
+    "Why",
+    "Concise"
+   ],
+   "rows": [
+    [
+     "annually each year",
+     "annually = each year",
+     "annually / each year"
+    ],
+    [
+     "first originally suggested",
+     "first = originally",
+     "first suggested"
+    ],
+    [
+     "return back",
+     "return = go back",
+     "return"
+    ],
+    [
+     "repeat again",
+     "repeat = do again",
+     "repeat"
+    ],
+    [
+     "a new innovation",
+     "innovations are new",
+     "an innovation"
+    ],
+    [
+     "past history / past experience",
+     "history and experience are in the past",
+     "history / experience"
+    ],
+    [
+     "completely finished / totally destroyed",
+     "finished and destroyed are already complete",
+     "finished / destroyed"
+    ],
+    [
+     "the reason is because",
+     "reason already means 'because'",
+     "the reason is that / because"
+    ],
+    [
+     "each and every",
+     "same idea twice",
+     "each / every"
+    ],
+    [
+     "at 8 a.m. in the morning",
+     "a.m. = in the morning",
+     "at 8 a.m."
+    ],
+    [
+     "joined together / combined together",
+     "joining puts together",
+     "joined / combined"
+    ],
+    [
+     "rarely and not often",
+     "rarely = not often",
+     "rarely"
+    ],
+    [
+     "she quickly hurried",
+     "hurry = move quickly",
+     "she hurried"
+    ],
+    [
+     "a sum total / end result / final outcome",
+     "sum, result and outcome already mean total/end/final",
+     "a total / a result / the outcome"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Look outside the underline too.** Often the repeated idea is in the words just before or after the underlined part:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ The festival, which happens __every year__, is held annually in October.",
+    "✓ The festival is held annually in October.",
+    "✗ Since the museum opened in 1998, it has __since__ welcomed millions of visitors.",
+    "✓ Since the museum opened in 1998, it has welcomed millions of visitors."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Extra information that everybody knows** is also redundant on the ACT: \"Saturdays, which are the sixth day of the week,\" \"the Nile, which is a river,\" \"at noon, the middle of the day.\" If the reader already knows it, delete it."
+  },
+  {
+   "type": "h2",
+   "text": "Error 2: Wordiness — many words for a small idea"
+  },
+  {
+   "type": "p",
+   "text": "Wordy phrases are not wrong in meaning; they are just long. Replace them with the short version:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Wordy",
+    "Concise"
+   ],
+   "rows": [
+    [
+     "due to the fact that / owing to the fact that",
+     "because"
+    ],
+    [
+     "in spite of the fact that",
+     "although"
+    ],
+    [
+     "at this point in time / in this day and age",
+     "now / today"
+    ],
+    [
+     "in order to",
+     "to"
+    ],
+    [
+     "for the purpose of",
+     "to / for"
+    ],
+    [
+     "has the ability to / is able to",
+     "can"
+    ],
+    [
+     "in the event that",
+     "if"
+    ],
+    [
+     "with regard to / in reference to",
+     "about"
+    ],
+    [
+     "a large number of",
+     "many"
+    ],
+    [
+     "make a decision / come to a conclusion",
+     "decide / conclude"
+    ],
+    [
+     "there are many people who believe",
+     "many people believe"
+    ],
+    [
+     "it is important to note that / it should be said that",
+     "(delete)"
+    ],
+    [
+     "in the final analysis, when all is said and done",
+     "in the end / finally / (delete)"
+    ],
+    [
+     "the fact that he was late",
+     "his lateness / he was late"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Empty openers such as **\"There is/are … that/who\"** and **\"It is … that\"** usually add words without meaning: ✗ There are three volunteers who open the shop. ✓ Three volunteers open the shop."
+  },
+  {
+   "type": "h2",
+   "text": "Error 3: Passive vs active — when it matters"
+  },
+  {
+   "type": "p",
+   "text": "In the **active voice**, the doer comes first: \"The students painted the wall.\" In the **passive voice**, the receiver comes first and the doer is added with \"by,\" or hidden: \"The wall was painted (by the students).\""
+  },
+  {
+   "type": "p",
+   "text": "The passive is **not a grammar error.** The ACT prefers the active voice when:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "the active version is **shorter and clearer**, and",
+    "the **doer is important** to the meaning (the person or group the paragraph is about)."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ A new route was discovered by the explorers. → ✓ The explorers discovered a new route.",
+    "✗ It was decided by the committee that the event would move. → ✓ The committee decided to move the event."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**When the passive is fine (or better):** the doer is unknown or unimportant, or the paragraph is about the thing that receives the action. \"The temple was built in the thirteenth century BCE\" is fine — the essay is about the temple, and the builders are not the topic. If all four choices are passive except one awkward active choice that changes the focus, do not force the active."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الـ passive مش غلط",
+   "text": "المبني للمجهول مش غلطة جرامر. بس لو الفاعل مهم والجملة بالـ active أقصر وأوضح، اختار الـ active. لو الفاعل مش معروف أو مش مهم، الـ passive عادي."
+  },
+  {
+   "type": "h2",
+   "text": "The exceptions: when the shortest answer is wrong"
+  },
+  {
+   "type": "p",
+   "text": "Here is where good students get trapped. The shortest choice is **wrong** when:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Exception",
+    "Example of the short trap",
+    "Why it fails"
+   ],
+   "rows": [
+    [
+     "It makes a grammar error",
+     "\"…and its pasta makers especially popular with families.\"",
+     "The verb was cut — the clause has no main verb."
+    ],
+    [
+     "It changes or loses the meaning",
+     "\"Borrowers must return tools within a week; they pay a late fee.\"",
+     "Now everyone pays a fee; the condition \"otherwise\" is gone."
+    ],
+    [
+     "It removes a detail the sentence needs",
+     "\"The bridge is 3 kilometres long and was finished in 2010\" → \"The bridge was finished.\"",
+     "Facts the paragraph depends on are deleted."
+    ],
+    [
+     "It breaks the logic or a needed transition",
+     "Deleting \"however\" in a sentence that contrasts with the one before.",
+     "The reader loses the relationship between ideas."
+    ],
+    [
+     "DELETE leaves a broken sentence",
+     "\"She put the keys __on the table__.\" → \"She put the keys.\"",
+     "Some verbs (put, place, give) need the words that follow them."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Method for a DELETE choice:** read the sentence aloud without the underlined part. Is it still a complete, correct sentence? Did it lose anything the reader needs? If it is fine and nothing important is lost, DELETE is usually right. The ACT offers DELETE often, and it is correct often — but never automatically."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — redundancy hidden outside the underline**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: The bakery on our street has served the neighbourhood for fifty years. Every morning at 5 a.m., the owner __opens the doors early__ for the first customers."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) early opens the doors",
+    "C) opens the doors",
+    "D) opens the doors, which is early,"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: \"Early\" repeats \"at 5 a.m.\" — redundant.",
+    "B) ✗ Wrong: Same redundancy, just moved.",
+    "C) ✓ Correct: \"At 5 a.m.\" already tells us it is early, so the plain verb is enough.",
+    "D) ✗ Wrong: Wordy and redundant: adds a clause to say the obvious."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — passive vs active**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: The students in the robotics club worked for months on their machine. __The final design was chosen by the students__ after three failed versions."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) The students chose the final design",
+    "C) The final design, by the students, was chosen",
+    "D) It was the students who were the ones choosing the final design"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: Grammatical, but passive and longer, and the paragraph is about the students — so the doer should come first.",
+    "B) ✓ Correct: Active, clear and shortest; the doer (the students) is the topic of the paragraph.",
+    "C) ✗ Wrong: Passive and awkward word order.",
+    "D) ✗ Wrong: Very wordy: \"It was … who were the ones.\""
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — the shortest choice breaks grammar**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: Engineers tested the new bus lane for six months, and the results __were encouraging__: average trips became ten minutes shorter."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) encouraging",
+    "C) were encouraging and positive",
+    "D) were, in a word, encouraging"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: A**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✓ Correct: Clear and complete: the clause \"the results were encouraging\" has a subject and verb.",
+    "B) ✗ Wrong: Shortest, but the clause after \"and\" now has no verb — a grammar error.",
+    "C) ✗ Wrong: Redundant: encouraging results are positive.",
+    "D) ✗ Wrong: Wordy filler (\"in a word\")."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4 — DELETE**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: Our class visited the Egyptian Museum in Cairo, __a museum in Egypt,__ to see the Tutankhamun collection before it moved."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) an Egyptian museum,",
+    "C) which is located in Cairo, Egypt,",
+    "D) DELETE the underlined portion."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: D**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: Repeats what \"the Egyptian Museum in Cairo\" already says.",
+    "B) ✗ Wrong: Same repetition in different words.",
+    "C) ✗ Wrong: Repeats \"in Cairo\" and is wordy.",
+    "D) ✓ Correct: Without it: \"Our class visited the Egyptian Museum in Cairo to see…\" — complete, correct and nothing lost."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**Shortest but broken:** the shortest choice drops a verb or creates a fragment.",
+    "**Shortest but changed:** the shortest choice removes \"not,\" \"only,\" \"otherwise,\" a number or a condition.",
+    "**Hidden repeat:** the redundancy is with words outside the underline (\"every year … annually\").",
+    "**Fancy filler:** long, formal-sounding phrases (\"in the final analysis,\" \"it is important to note that\") feel smart but are just wordy.",
+    "**Synonym pairs:** \"each and every,\" \"brought together and united,\" \"small and minor\" — two words, one idea.",
+    "**The obvious explained:** \"the sun, which is a star,\" \"Saturday, the sixth day of the week.\"",
+    "**Passive with a hidden doer** when the paragraph is about that doer."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "When the four choices look like the same idea in different lengths, it is a concision item — check the shortest first.",
+    "Test the shortest choice: grammatical? same meaning? nothing needed lost? If yes, choose it and move on (10–15 seconds).",
+    "If it fails, test the next shortest.",
+    "For DELETE: read the sentence without the underline. Complete and nothing lost → DELETE.",
+    "Read one sentence before and after: the repeated idea is often there.",
+    "Do not change correct wording just because it is long; length is a problem only when words add nothing."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Read the essay and answer the 12 questions. Some questions test redundancy and wordiness, some test active and passive, and some test the exceptions to the shortest-answer rule."
+  },
+  {
+   "type": "test",
+   "title": "Concision and Redundancy — ACT-style practice",
+   "timed": false,
+   "intro": "One essay, 12 questions. Choose the best version of each underlined portion. NO CHANGE keeps the original. Explanations appear after you answer.",
+   "sections": [
+    {
+     "name": "English",
+     "minutes": 9,
+     "questions": [
+      {
+       "p": "The Tool Library\n\nIn 2019, residents of the town of Oakfield opened a tool library, a place where neighbours can borrow drills, ladders, and garden shears instead of buying them. [1] __The idea was first originally suggested__ by a retired carpenter named Hal Brooks. Brooks had noticed that most households [2] __own expensive tools that they use only rarely and not very often__.\n\n[3] __At this point in time,__ the library has more than 900 members. Each member pays a small fee [4] __annually every year__, and the money is used to repair broken equipment. [5] __Mistakes were made by new volunteers__ in the first year, so Brooks wrote a simple checklist for them. Borrowers must return tools within a week; [6] __otherwise, they pay a small late fee__. The library is open on [7] __Saturdays, which are the sixth day of the week,__ and on Wednesday evenings.\n\n[8] __Due to the fact that__ many members are elderly, volunteers also deliver heavy tools to their homes. Last spring, the library added kitchen equipment, and its pasta makers [9] __have proved especially popular__ with families. Brooks says the library has [10] __brought neighbours together__. People who [11] __had never before spoken to each other previously__ now share advice about repairs and recipes. [12] __In the final analysis, when all is said and done,__ the tool library shows that sharing can save money and build friendships.",
+       "q": "Question 1: Choose the best version of underlined portion [1]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "The idea was first suggested",
+        "Originally, the idea was first suggested",
+        "The idea, at first, was originally suggested"
+       ],
+       "a": 1,
+       "e": "\"First\" and \"originally\" mean the same thing here, so keep only one. A, C and D all say it twice.",
+       "s": "Redundancy"
+      },
+      {
+       "p": "The Tool Library\n\nIn 2019, residents of the town of Oakfield opened a tool library, a place where neighbours can borrow drills, ladders, and garden shears instead of buying them. [1] __The idea was first originally suggested__ by a retired carpenter named Hal Brooks. Brooks had noticed that most households [2] __own expensive tools that they use only rarely and not very often__.\n\n[3] __At this point in time,__ the library has more than 900 members. Each member pays a small fee [4] __annually every year__, and the money is used to repair broken equipment. [5] __Mistakes were made by new volunteers__ in the first year, so Brooks wrote a simple checklist for them. Borrowers must return tools within a week; [6] __otherwise, they pay a small late fee__. The library is open on [7] __Saturdays, which are the sixth day of the week,__ and on Wednesday evenings.\n\n[8] __Due to the fact that__ many members are elderly, volunteers also deliver heavy tools to their homes. Last spring, the library added kitchen equipment, and its pasta makers [9] __have proved especially popular__ with families. Brooks says the library has [10] __brought neighbours together__. People who [11] __had never before spoken to each other previously__ now share advice about repairs and recipes. [12] __In the final analysis, when all is said and done,__ the tool library shows that sharing can save money and build friendships.",
+       "q": "Question 2: Choose the best version of underlined portion [2]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "own tools, expensive ones, that they rarely use, not often",
+        "own expensive tools that they use only rarely",
+        "own expensive tools that are rarely and infrequently used"
+       ],
+       "a": 2,
+       "e": "\"Rarely\" already means \"not very often.\" A, B and D repeat the idea (and D also adds a weak passive).",
+       "s": "Redundancy"
+      },
+      {
+       "p": "The Tool Library\n\nIn 2019, residents of the town of Oakfield opened a tool library, a place where neighbours can borrow drills, ladders, and garden shears instead of buying them. [1] __The idea was first originally suggested__ by a retired carpenter named Hal Brooks. Brooks had noticed that most households [2] __own expensive tools that they use only rarely and not very often__.\n\n[3] __At this point in time,__ the library has more than 900 members. Each member pays a small fee [4] __annually every year__, and the money is used to repair broken equipment. [5] __Mistakes were made by new volunteers__ in the first year, so Brooks wrote a simple checklist for them. Borrowers must return tools within a week; [6] __otherwise, they pay a small late fee__. The library is open on [7] __Saturdays, which are the sixth day of the week,__ and on Wednesday evenings.\n\n[8] __Due to the fact that__ many members are elderly, volunteers also deliver heavy tools to their homes. Last spring, the library added kitchen equipment, and its pasta makers [9] __have proved especially popular__ with families. Brooks says the library has [10] __brought neighbours together__. People who [11] __had never before spoken to each other previously__ now share advice about repairs and recipes. [12] __In the final analysis, when all is said and done,__ the tool library shows that sharing can save money and build friendships.",
+       "q": "Question 3: Choose the best version of underlined portion [3]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "At the present time now,",
+        "Today,",
+        "In this current day and age,"
+       ],
+       "a": 2,
+       "e": "\"Today\" says the same thing in one word. A is wordy; B and D are wordy and redundant (present time + now; current + this day).",
+       "s": "Wordiness"
+      },
+      {
+       "p": "The Tool Library\n\nIn 2019, residents of the town of Oakfield opened a tool library, a place where neighbours can borrow drills, ladders, and garden shears instead of buying them. [1] __The idea was first originally suggested__ by a retired carpenter named Hal Brooks. Brooks had noticed that most households [2] __own expensive tools that they use only rarely and not very often__.\n\n[3] __At this point in time,__ the library has more than 900 members. Each member pays a small fee [4] __annually every year__, and the money is used to repair broken equipment. [5] __Mistakes were made by new volunteers__ in the first year, so Brooks wrote a simple checklist for them. Borrowers must return tools within a week; [6] __otherwise, they pay a small late fee__. The library is open on [7] __Saturdays, which are the sixth day of the week,__ and on Wednesday evenings.\n\n[8] __Due to the fact that__ many members are elderly, volunteers also deliver heavy tools to their homes. Last spring, the library added kitchen equipment, and its pasta makers [9] __have proved especially popular__ with families. Brooks says the library has [10] __brought neighbours together__. People who [11] __had never before spoken to each other previously__ now share advice about repairs and recipes. [12] __In the final analysis, when all is said and done,__ the tool library shows that sharing can save money and build friendships.",
+       "q": "Question 4: Choose the best version of underlined portion [4]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "each year annually",
+        "yearly, every year",
+        "every year"
+       ],
+       "a": 3,
+       "e": "\"Annually\" means \"every year,\" so A, B and C say the same thing twice. D says it once.",
+       "s": "Redundancy"
+      },
+      {
+       "p": "The Tool Library\n\nIn 2019, residents of the town of Oakfield opened a tool library, a place where neighbours can borrow drills, ladders, and garden shears instead of buying them. [1] __The idea was first originally suggested__ by a retired carpenter named Hal Brooks. Brooks had noticed that most households [2] __own expensive tools that they use only rarely and not very often__.\n\n[3] __At this point in time,__ the library has more than 900 members. Each member pays a small fee [4] __annually every year__, and the money is used to repair broken equipment. [5] __Mistakes were made by new volunteers__ in the first year, so Brooks wrote a simple checklist for them. Borrowers must return tools within a week; [6] __otherwise, they pay a small late fee__. The library is open on [7] __Saturdays, which are the sixth day of the week,__ and on Wednesday evenings.\n\n[8] __Due to the fact that__ many members are elderly, volunteers also deliver heavy tools to their homes. Last spring, the library added kitchen equipment, and its pasta makers [9] __have proved especially popular__ with families. Brooks says the library has [10] __brought neighbours together__. People who [11] __had never before spoken to each other previously__ now share advice about repairs and recipes. [12] __In the final analysis, when all is said and done,__ the tool library shows that sharing can save money and build friendships.",
+       "q": "Question 5: Choose the best version of underlined portion [5]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "New volunteers made mistakes",
+        "Mistakes, by new volunteers, were made",
+        "There were mistakes that were made by new volunteers"
+       ],
+       "a": 1,
+       "e": "The doer (new volunteers) matters to the story, so the active voice is clearer and shorter. A is a weak passive; C is passive and awkward; D adds the empty opener \"There were … that.\"",
+       "s": "Active vs passive"
+      },
+      {
+       "p": "The Tool Library\n\nIn 2019, residents of the town of Oakfield opened a tool library, a place where neighbours can borrow drills, ladders, and garden shears instead of buying them. [1] __The idea was first originally suggested__ by a retired carpenter named Hal Brooks. Brooks had noticed that most households [2] __own expensive tools that they use only rarely and not very often__.\n\n[3] __At this point in time,__ the library has more than 900 members. Each member pays a small fee [4] __annually every year__, and the money is used to repair broken equipment. [5] __Mistakes were made by new volunteers__ in the first year, so Brooks wrote a simple checklist for them. Borrowers must return tools within a week; [6] __otherwise, they pay a small late fee__. The library is open on [7] __Saturdays, which are the sixth day of the week,__ and on Wednesday evenings.\n\n[8] __Due to the fact that__ many members are elderly, volunteers also deliver heavy tools to their homes. Last spring, the library added kitchen equipment, and its pasta makers [9] __have proved especially popular__ with families. Brooks says the library has [10] __brought neighbours together__. People who [11] __had never before spoken to each other previously__ now share advice about repairs and recipes. [12] __In the final analysis, when all is said and done,__ the tool library shows that sharing can save money and build friendships.",
+       "q": "Question 6: Choose the best version of underlined portion [6]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "otherwise, a small late fee",
+        "otherwise, they pay a small, minor late fee",
+        "they pay"
+       ],
+       "a": 0,
+       "e": "The original is clear and complete. B has no verb after the semicolon (not a complete sentence); C is redundant (small, minor); D is shortest but changes the meaning — it says everyone pays a fee.",
+       "s": "Shortest-answer exception"
+      },
+      {
+       "p": "The Tool Library\n\nIn 2019, residents of the town of Oakfield opened a tool library, a place where neighbours can borrow drills, ladders, and garden shears instead of buying them. [1] __The idea was first originally suggested__ by a retired carpenter named Hal Brooks. Brooks had noticed that most households [2] __own expensive tools that they use only rarely and not very often__.\n\n[3] __At this point in time,__ the library has more than 900 members. Each member pays a small fee [4] __annually every year__, and the money is used to repair broken equipment. [5] __Mistakes were made by new volunteers__ in the first year, so Brooks wrote a simple checklist for them. Borrowers must return tools within a week; [6] __otherwise, they pay a small late fee__. The library is open on [7] __Saturdays, which are the sixth day of the week,__ and on Wednesday evenings.\n\n[8] __Due to the fact that__ many members are elderly, volunteers also deliver heavy tools to their homes. Last spring, the library added kitchen equipment, and its pasta makers [9] __have proved especially popular__ with families. Brooks says the library has [10] __brought neighbours together__. People who [11] __had never before spoken to each other previously__ now share advice about repairs and recipes. [12] __In the final analysis, when all is said and done,__ the tool library shows that sharing can save money and build friendships.",
+       "q": "Question 7: Choose the best version of underlined portion [7]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "Saturdays, the day after Friday,",
+        "Saturdays, a weekend day,",
+        "Saturdays"
+       ],
+       "a": 3,
+       "e": "Every reader knows what Saturday is, so the extra description adds nothing. A, B and C all explain the obvious.",
+       "s": "Redundancy"
+      },
+      {
+       "p": "The Tool Library\n\nIn 2019, residents of the town of Oakfield opened a tool library, a place where neighbours can borrow drills, ladders, and garden shears instead of buying them. [1] __The idea was first originally suggested__ by a retired carpenter named Hal Brooks. Brooks had noticed that most households [2] __own expensive tools that they use only rarely and not very often__.\n\n[3] __At this point in time,__ the library has more than 900 members. Each member pays a small fee [4] __annually every year__, and the money is used to repair broken equipment. [5] __Mistakes were made by new volunteers__ in the first year, so Brooks wrote a simple checklist for them. Borrowers must return tools within a week; [6] __otherwise, they pay a small late fee__. The library is open on [7] __Saturdays, which are the sixth day of the week,__ and on Wednesday evenings.\n\n[8] __Due to the fact that__ many members are elderly, volunteers also deliver heavy tools to their homes. Last spring, the library added kitchen equipment, and its pasta makers [9] __have proved especially popular__ with families. Brooks says the library has [10] __brought neighbours together__. People who [11] __had never before spoken to each other previously__ now share advice about repairs and recipes. [12] __In the final analysis, when all is said and done,__ the tool library shows that sharing can save money and build friendships.",
+       "q": "Question 8: Choose the best version of underlined portion [8]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "Because",
+        "Because of the fact that",
+        "Owing to the reason that"
+       ],
+       "a": 1,
+       "e": "\"Because\" does the whole job in one word. A, C and D are wordy versions of the same idea.",
+       "s": "Wordiness"
+      },
+      {
+       "p": "The Tool Library\n\nIn 2019, residents of the town of Oakfield opened a tool library, a place where neighbours can borrow drills, ladders, and garden shears instead of buying them. [1] __The idea was first originally suggested__ by a retired carpenter named Hal Brooks. Brooks had noticed that most households [2] __own expensive tools that they use only rarely and not very often__.\n\n[3] __At this point in time,__ the library has more than 900 members. Each member pays a small fee [4] __annually every year__, and the money is used to repair broken equipment. [5] __Mistakes were made by new volunteers__ in the first year, so Brooks wrote a simple checklist for them. Borrowers must return tools within a week; [6] __otherwise, they pay a small late fee__. The library is open on [7] __Saturdays, which are the sixth day of the week,__ and on Wednesday evenings.\n\n[8] __Due to the fact that__ many members are elderly, volunteers also deliver heavy tools to their homes. Last spring, the library added kitchen equipment, and its pasta makers [9] __have proved especially popular__ with families. Brooks says the library has [10] __brought neighbours together__. People who [11] __had never before spoken to each other previously__ now share advice about repairs and recipes. [12] __In the final analysis, when all is said and done,__ the tool library shows that sharing can save money and build friendships.",
+       "q": "Question 9: Choose the best version of underlined portion [9]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "especially popular",
+        "have proved especially and particularly popular",
+        "have, it should be noted, proved especially popular"
+       ],
+       "a": 0,
+       "e": "The original is already concise. B is shortest but removes the verb, so the clause after \"and\" has no main verb; C is redundant; D adds filler.",
+       "s": "Shortest-answer exception"
+      },
+      {
+       "p": "The Tool Library\n\nIn 2019, residents of the town of Oakfield opened a tool library, a place where neighbours can borrow drills, ladders, and garden shears instead of buying them. [1] __The idea was first originally suggested__ by a retired carpenter named Hal Brooks. Brooks had noticed that most households [2] __own expensive tools that they use only rarely and not very often__.\n\n[3] __At this point in time,__ the library has more than 900 members. Each member pays a small fee [4] __annually every year__, and the money is used to repair broken equipment. [5] __Mistakes were made by new volunteers__ in the first year, so Brooks wrote a simple checklist for them. Borrowers must return tools within a week; [6] __otherwise, they pay a small late fee__. The library is open on [7] __Saturdays, which are the sixth day of the week,__ and on Wednesday evenings.\n\n[8] __Due to the fact that__ many members are elderly, volunteers also deliver heavy tools to their homes. Last spring, the library added kitchen equipment, and its pasta makers [9] __have proved especially popular__ with families. Brooks says the library has [10] __brought neighbours together__. People who [11] __had never before spoken to each other previously__ now share advice about repairs and recipes. [12] __In the final analysis, when all is said and done,__ the tool library shows that sharing can save money and build friendships.",
+       "q": "Question 10: Choose the best version of underlined portion [10]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "brought neighbours together and united them",
+        "united and brought together neighbours",
+        "brought together neighbours, uniting them"
+       ],
+       "a": 0,
+       "e": "The original says it once. \"Brought together\" and \"united\" mean the same thing, so B, C and D repeat themselves.",
+       "s": "Redundancy"
+      },
+      {
+       "p": "The Tool Library\n\nIn 2019, residents of the town of Oakfield opened a tool library, a place where neighbours can borrow drills, ladders, and garden shears instead of buying them. [1] __The idea was first originally suggested__ by a retired carpenter named Hal Brooks. Brooks had noticed that most households [2] __own expensive tools that they use only rarely and not very often__.\n\n[3] __At this point in time,__ the library has more than 900 members. Each member pays a small fee [4] __annually every year__, and the money is used to repair broken equipment. [5] __Mistakes were made by new volunteers__ in the first year, so Brooks wrote a simple checklist for them. Borrowers must return tools within a week; [6] __otherwise, they pay a small late fee__. The library is open on [7] __Saturdays, which are the sixth day of the week,__ and on Wednesday evenings.\n\n[8] __Due to the fact that__ many members are elderly, volunteers also deliver heavy tools to their homes. Last spring, the library added kitchen equipment, and its pasta makers [9] __have proved especially popular__ with families. Brooks says the library has [10] __brought neighbours together__. People who [11] __had never before spoken to each other previously__ now share advice about repairs and recipes. [12] __In the final analysis, when all is said and done,__ the tool library shows that sharing can save money and build friendships.",
+       "q": "Question 11: Choose the best version of underlined portion [11]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "had not ever previously before spoken to each other",
+        "had never spoken to each other",
+        "never spoke, before, previously, to each other"
+       ],
+       "a": 2,
+       "e": "The past perfect \"had never spoken\" already means \"before now.\" A, B and D add \"before\" and/or \"previously\" for nothing.",
+       "s": "Redundancy"
+      },
+      {
+       "p": "The Tool Library\n\nIn 2019, residents of the town of Oakfield opened a tool library, a place where neighbours can borrow drills, ladders, and garden shears instead of buying them. [1] __The idea was first originally suggested__ by a retired carpenter named Hal Brooks. Brooks had noticed that most households [2] __own expensive tools that they use only rarely and not very often__.\n\n[3] __At this point in time,__ the library has more than 900 members. Each member pays a small fee [4] __annually every year__, and the money is used to repair broken equipment. [5] __Mistakes were made by new volunteers__ in the first year, so Brooks wrote a simple checklist for them. Borrowers must return tools within a week; [6] __otherwise, they pay a small late fee__. The library is open on [7] __Saturdays, which are the sixth day of the week,__ and on Wednesday evenings.\n\n[8] __Due to the fact that__ many members are elderly, volunteers also deliver heavy tools to their homes. Last spring, the library added kitchen equipment, and its pasta makers [9] __have proved especially popular__ with families. Brooks says the library has [10] __brought neighbours together__. People who [11] __had never before spoken to each other previously__ now share advice about repairs and recipes. [12] __In the final analysis, when all is said and done,__ the tool library shows that sharing can save money and build friendships.",
+       "q": "Question 12: Choose the best version of underlined portion [12]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "Ultimately, in the end,",
+        "In conclusion, finally,",
+        "In the end,"
+       ],
+       "a": 3,
+       "e": "One short concluding phrase is enough. A, B and C each pile two phrases with the same meaning.",
+       "s": "Redundancy"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Correct first, then short: the shortest choice wins only if it is grammatical and keeps the meaning.",
+    "Redundancy = one idea said twice — check the words outside the underline too.",
+    "Replace wordy phrases (due to the fact that, at this point in time) with one word (because, now).",
+    "Prefer the active voice when the doer matters; the passive is fine when the doer is unknown or unimportant.",
+    "DELETE is right when the sentence stays complete and nothing the reader needs is lost."
+   ]
+  }
+ ]
+}

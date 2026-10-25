@@ -1,0 +1,568 @@
+{
+ "slug": "sat-overview",
+ "title": "The Digital SAT: Complete Overview",
+ "kicker": "American Diploma · Digital SAT · Start here",
+ "summary": "How the Digital SAT is built, how the adaptive modules and scoring work, what every Reading and Writing question looks like, and a 6–8 week plan to use this course.",
+ "blocks": [
+  {
+   "type": "p",
+   "text": "This page explains the whole Digital SAT in one place: how the test is built, how the adaptive modules work, what every Reading and Writing question looks like, how scoring works, and how to use this course to prepare in 6–8 weeks. Read it once carefully before you start the lessons. Parents can read it too: everything here is written so that you can follow your son's or daughter's preparation."
+  },
+  {
+   "type": "h2",
+   "text": "The test at a glance"
+  },
+  {
+   "type": "p",
+   "text": "The Digital SAT has two sections. **Reading and Writing (RW)** always comes first. After it there is a **10-minute break**, and then the **Math** section. The whole test is **134 minutes** long and has **98 questions**. This course covers the Reading and Writing section completely."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Part",
+    "Questions",
+    "Time",
+    "Notes"
+   ],
+   "rows": [
+    [
+     "Reading and Writing — Module 1",
+     "27 (25 scored + 2 unscored)",
+     "32 minutes",
+     "A broad mix of easy, medium and hard questions"
+    ],
+    [
+     "Reading and Writing — Module 2",
+     "27 (25 scored + 2 unscored)",
+     "32 minutes",
+     "Harder or easier, depending on how you did in Module 1"
+    ],
+    [
+     "Break",
+     "—",
+     "10 minutes",
+     "Between the two sections"
+    ],
+    [
+     "Math (two modules)",
+     "44 (the rest of the 98)",
+     "70 minutes (the rest of the 134)",
+     "Not covered in this course"
+    ],
+    [
+     "Whole test",
+     "98",
+     "134 minutes",
+     "Reading and Writing section = 54 questions, 50 of them scored"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Two numbers to remember for the Reading and Writing section: **27 questions in 32 minutes per module**, which is **about 1 minute 11 seconds per question**. That is enough time if you work steadily, but not enough time to read every passage three times. The strategy page that follows this one shows you how to spend those seconds well."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Unscored questions",
+   "text": "Each module contains 2 pretest questions that do not count towards your score. You cannot tell which ones they are, so treat every question as if it counts."
+  },
+  {
+   "type": "h2",
+   "text": "How the adaptive modules work"
+  },
+  {
+   "type": "p",
+   "text": "The Digital SAT is **adaptive by module** (the official name is multistage adaptive). This means the computer does not change the difficulty after every single question. Instead, it changes the difficulty of the **whole second module**:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Module 1** is the same kind of broad mix for everyone: easy, medium and hard questions.",
+    "When Module 1 ends, your performance decides which version of **Module 2** you get: a **harder** one or an **easier** one.",
+    "So Module 1 matters a lot: careless mistakes on easy questions there can decide which Module 2 you receive.",
+    "**You cannot go back to Module 1** once Module 2 starts.",
+    "**Inside a module** you can move back and forth freely, change answers, and **mark questions for review** to come back to them before the module's time runs out."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "فكرة الاختبار التكيّفي",
+   "text": "الامتحان بيتغيّر مستواه بعد الموديول الأول كله، مش بعد كل سؤال. لو أداؤك كويس في Module 1 هيجيلك Module 2 أصعب، وده اللي يوصّلك لأعلى درجات. عشان كده ركّز جدًا في الموديول الأول ومتستعجلش في الأسئلة السهلة. وخلي بالك: مفيش رجوع للموديول الأول بعد ما يخلص."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "A common myth",
+   "text": "Some students think: \"If Module 2 feels hard, I am doing badly.\" The opposite is usually true. A hard Module 2 normally means you did well in Module 1. Stay calm and keep working."
+  },
+  {
+   "type": "h2",
+   "text": "Where you take it: the Bluebook app"
+  },
+  {
+   "type": "p",
+   "text": "The test is taken in College Board's **Bluebook** app on a laptop or tablet. In Bluebook you answer the questions on screen, you can see the time remaining, and you can mark any question for review. There is a built-in Desmos graphing calculator, but it only matters for the Math section."
+  },
+  {
+   "type": "p",
+   "text": "Before test day, install Bluebook and take the official full-length practice tests in it, so that the screen, the timer and the review tools feel familiar. The official information page is **satsuite.collegeboard.org**."
+  },
+  {
+   "type": "h2",
+   "text": "The four content domains of Reading and Writing"
+  },
+  {
+   "type": "p",
+   "text": "Every scored Reading and Writing question belongs to one of four **content domains**. Questions from all four domains appear in both modules. The table shows the approximate share of the 50 scored questions and the question types (skills) inside each domain."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Domain",
+    "Share of scored questions",
+    "About how many",
+    "Question types inside it"
+   ],
+   "rows": [
+    [
+     "Craft and Structure",
+     "≈ 28%",
+     "13–15",
+     "Words in Context; Text Structure and Purpose; Cross-Text Connections"
+    ],
+    [
+     "Information and Ideas",
+     "≈ 26%",
+     "12–14",
+     "Central Ideas and Details; Command of Evidence — Textual; Command of Evidence — Quantitative (tables and graphs); Inferences"
+    ],
+    [
+     "Standard English Conventions",
+     "≈ 26%",
+     "11–15",
+     "Boundaries (punctuation between and inside sentences); Form, Structure, and Sense (agreement, verb forms, tense, modifiers, possessives and plurals)"
+    ],
+    [
+     "Expression of Ideas",
+     "≈ 20%",
+     "8–12",
+     "Transitions; Rhetorical Synthesis (using a student's notes to write a sentence that achieves a goal)"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Two of these domains are mainly **reading** (Craft and Structure, Information and Ideas) and two are mainly **writing** (Standard English Conventions, Expression of Ideas). Together the reading domains are a little more than half of the section, so a strong reader has a big advantage. But the grammar domain is the fastest one to improve: there is a fixed list of rules, and once you know them, those questions become quick, sure points."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "أسهل طريق لرفع الدرجة",
+   "text": "أسئلة الجرامر وعلامات الترقيم (Standard English Conventions) قواعدها ثابتة ومحدودة. اتعلم القواعد دي كويس الأول، هتكسب نقط مضمونة بسرعة، وبعدين اشتغل على مهارات القراءة اللي محتاجة وقت أطول."
+  },
+  {
+   "type": "h2",
+   "text": "What a Reading and Writing question looks like"
+  },
+  {
+   "type": "p",
+   "text": "The old paper SAT had long passages with many questions each. The Digital SAT is different: **every question has its own short passage**. The passage is **25 to 150 words** long (sometimes a pair of short passages), and it is followed by **one** multiple-choice question with **four options**. Passages come from literature, history and social studies, the humanities, and science. Some include a table or a graph."
+  },
+  {
+   "type": "p",
+   "text": "Here is the shape of a typical item (original example):"
+  },
+  {
+   "type": "p",
+   "text": "**Passage:** \"For decades, historians assumed that medieval trade routes across the Sahara carried mostly gold and salt. Recent excavations of caravan stops, however, have uncovered large amounts of glass beads, copper tools and cotton cloth, suggesting that the routes carried a far ______ range of goods than once believed.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice completes the text with the most logical and precise word or phrase?   A) narrower   B) wider   C) costlier   D) older"
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** B. The passage contrasts the old belief (\"mostly gold and salt\") with a discovery of many other goods, so the range was **wider**. \"Narrower\" reverses the logic; \"costlier\" and \"older\" are not supported by anything in the text."
+  },
+  {
+   "type": "p",
+   "text": "Notice three things. First, the passage is short, so you can read **all** of it — and you should. Second, the question stem tells you exactly what job to do. Third, the correct answer is always supported by the words on the screen, not by your outside knowledge."
+  },
+  {
+   "type": "h2",
+   "text": "The usual order of question types in a module"
+  },
+  {
+   "type": "p",
+   "text": "Inside each module, questions are grouped by type. The order is **usually** the same in every module, so after a little practice you will always know what is coming next:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Craft and Structure** — Words in Context first, then Text Structure and Purpose, then Cross-Text Connections (two short passages).",
+    "**Information and Ideas** — Central Ideas and Details, Command of Evidence (textual and quantitative), and Inferences.",
+    "**Standard English Conventions** — Boundaries and Form, Structure, and Sense (the grammar questions).",
+    "**Expression of Ideas** — Transitions, and usually last of all, Rhetorical Synthesis (the \"student's notes\" questions)."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "This order helps your time plan: the grammar and transitions questions near the end of the module are usually faster than the inference and evidence questions in the middle, so never let the clock run out before you reach them."
+  },
+  {
+   "type": "h2",
+   "text": "Scoring"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Score",
+    "Range",
+    "Steps"
+   ],
+   "rows": [
+    [
+     "Reading and Writing section",
+     "200–800",
+     "10 points"
+    ],
+    [
+     "Math section",
+     "200–800",
+     "10 points"
+    ],
+    [
+     "Total score",
+     "400–1600",
+     "10 points"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "**There is no penalty for wrong answers.** A wrong answer and a blank answer both earn zero, so you must **answer every question**, even with a guess.",
+    "The practice quizzes on this site show the number correct and your result by skill. That is a practice score, not an official scaled score."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "How to use this course"
+  },
+  {
+   "type": "p",
+   "text": "The course follows the four domains of the test. Every lesson page teaches one question type completely: what it tests, the rules or the reading method step by step, worked examples with every wrong choice explained, the classic traps, a fast test-day strategy and a practice quiz in real test format."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Course part",
+    "What you learn",
+    "Pages"
+   ],
+   "rows": [
+    [
+     "Start here",
+     "The test format (this page) and time strategy",
+     "2"
+    ],
+    [
+     "Craft and Structure",
+     "Words in context, the vocabulary toolkit, text structure and purpose, cross-text connections",
+     "4"
+    ],
+    [
+     "Information and Ideas",
+     "Central ideas, textual and quantitative evidence, inferences",
+     "4"
+    ],
+    [
+     "Standard English Conventions",
+     "Every grammar and punctuation rule the test checks",
+     "8"
+    ],
+    [
+     "Expression of Ideas",
+     "Transitions and rhetorical synthesis",
+     "2"
+    ],
+    [
+     "Full practice tests",
+     "Three timed tests: two modules, 54 questions each, with your result by skill",
+     "3"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**How to study a lesson page:** read the method, cover the answers of the worked examples and try them yourself, then read every explanation (including why the wrong choices are wrong). Only then take the practice quiz. After the quiz, write each mistake in a notebook with the name of the trap that caught you. That notebook becomes your personal revision list."
+  },
+  {
+   "type": "h2",
+   "text": "A 6–8 week study plan"
+  },
+  {
+   "type": "p",
+   "text": "Plan for about **45–60 minutes a day, 5 days a week**. If you have 8 weeks, use the extra two weeks for the full tests and for the weakest domain in your mistake notebook. If you only have 6 weeks, follow the plan as it is and do not skip the full tests."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Week",
+    "Focus",
+    "What to do"
+   ],
+   "rows": [
+    [
+     "1",
+     "Format, strategy, vocabulary",
+     "This page and the time-strategy page. Words in Context and the Vocabulary Toolkit; learn about 20 words a day from the toolkit."
+    ],
+    [
+     "2",
+     "Craft and Structure",
+     "Text Structure and Purpose, Cross-Text Connections. Keep revising vocabulary every day."
+    ],
+    [
+     "3",
+     "Grammar part 1",
+     "Sentence boundaries, commas and extra information, colons, dashes and semicolons."
+    ],
+    [
+     "4",
+     "Grammar part 2",
+     "Subject–verb agreement, pronouns, verb tense and finiteness, modifiers, possessives and plurals."
+    ],
+    [
+     "5",
+     "Information and Ideas + Expression of Ideas",
+     "Central ideas, textual and quantitative evidence, inferences, transitions, rhetorical synthesis."
+    ],
+    [
+     "6",
+     "Full test 1 + review",
+     "Practice Test 1 under timed conditions. Review every mistake and re-read the lesson for each weak skill."
+    ],
+    [
+     "7 (optional)",
+     "Full test 2 + weak skills",
+     "Practice Test 2. Redo the quizzes of your two weakest skills."
+    ],
+    [
+     "8 (optional)",
+     "Full test 3 + official practice",
+     "Practice Test 3, then an official full-length practice test in Bluebook. Light review only in the last two days."
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Daily routine that works",
+   "items": [
+    "10 minutes: vocabulary revision (yesterday's words, then today's).",
+    "30–40 minutes: one lesson section or one quiz.",
+    "10 minutes: write your mistakes and the trap names in your notebook.",
+    "Once a week: redo last week's mistakes without looking at the answers."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Mistakes students make in preparation",
+   "items": [
+    "Doing hundreds of questions without reading the explanations. You learn from the explanation, not from the question.",
+    "Leaving grammar until the end. It is the fastest domain to improve, so start it early.",
+    "Never practising with a timer. From week 3, do at least one timed quiz per week (about 71 seconds per question).",
+    "Taking the first full test only a few days before the real one. Take it by week 6 at the latest."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Check your understanding"
+  },
+  {
+   "type": "p",
+   "text": "This short untimed test has two parts. Questions 1–8 check that you understand how the test works. Questions 9–12 are sample Reading and Writing items, one from each content domain, so you can see real test format before you start the lessons."
+  },
+  {
+   "type": "test",
+   "title": "Digital SAT format check + 4 sample items",
+   "timed": false,
+   "intro": "12 questions, untimed. Questions 1–8: how the test works. Questions 9–12: one sample Reading and Writing item from each domain. Read the explanation for every question at the end.",
+   "sections": [
+    {
+     "name": "Format check",
+     "minutes": 15,
+     "questions": [
+      {
+       "q": "How many questions does each Reading and Writing module contain?",
+       "c": [
+        "25, all of them scored",
+        "27, of which 25 are scored",
+        "32, one for each minute",
+        "54, of which 50 are scored"
+       ],
+       "a": 1,
+       "e": "Each module has 27 questions: 25 scored and 2 unscored pretest questions. 54 (50 scored) is the total for the whole section, and 32 is the number of minutes per module, not questions.",
+       "s": "Test format"
+      },
+      {
+       "q": "About how much time do you have per question in a Reading and Writing module?",
+       "c": [
+        "About 1 minute 11 seconds",
+        "About 30 seconds",
+        "About 2 minutes 30 seconds",
+        "Exactly 1 minute, because each module is 27 minutes long"
+       ],
+       "a": 0,
+       "e": "32 minutes ÷ 27 questions ≈ 71 seconds, or about 1 minute 11 seconds. Each module is 32 minutes long, not 27.",
+       "s": "Test format"
+      },
+      {
+       "q": "What decides whether a student receives the harder or the easier version of Module 2?",
+       "c": [
+        "The score the student chose when registering",
+        "How fast the student finished Module 1",
+        "The student's performance on Module 1",
+        "The student's answers to the first five questions of Module 2"
+       ],
+       "a": 2,
+       "e": "The test is adaptive by module: your performance on all of Module 1 decides the difficulty of Module 2. Speed does not decide it, and the difficulty does not change question by question inside Module 2.",
+       "s": "Adaptive modules"
+      },
+      {
+       "q": "A student has 4 minutes left in Module 2 and three questions she has not answered. What should she do?",
+       "c": [
+        "Give an answer to all three, guessing if necessary, because wrong answers are not penalized",
+        "Leave them blank, because a wrong answer lowers the score",
+        "Answer only the one she is most sure of",
+        "Go back to Module 1 to check her earlier answers"
+       ],
+       "a": 0,
+       "e": "There is no penalty for wrong answers, so a blank is always a wasted chance. She also cannot return to Module 1 once Module 2 has started.",
+       "s": "Scoring"
+      },
+      {
+       "q": "Which statement about moving around inside the test is accurate?",
+       "c": [
+        "You must answer the questions in order and can never go back.",
+        "You can return to Module 1 at any time during Module 2.",
+        "Mark for review is only available in the Math section.",
+        "Inside a module you can go back, change answers and use mark for review, but once Module 2 starts you cannot return to Module 1."
+       ],
+       "a": 3,
+       "e": "Within a module you can move freely and mark questions for review. The only locked door is between modules: Module 1 is closed once Module 2 begins.",
+       "s": "Adaptive modules"
+      },
+      {
+       "q": "What is the score range for the Reading and Writing section?",
+       "c": [
+        "0–100",
+        "200–800",
+        "400–1600",
+        "1–36"
+       ],
+       "a": 1,
+       "e": "Each section is scored 200–800 in 10-point steps. 400–1600 is the total for both sections together, and 1–36 is an ACT scale.",
+       "s": "Scoring"
+      },
+      {
+       "q": "Which content domain has the largest share of the scored Reading and Writing questions?",
+       "c": [
+        "Expression of Ideas (about 20%)",
+        "Standard English Conventions (about 26%)",
+        "Craft and Structure (about 28%)",
+        "Information and Ideas (about 26%)"
+       ],
+       "a": 2,
+       "e": "Craft and Structure is about 28% (13–15 questions). Information and Ideas and Standard English Conventions are each about 26%, and Expression of Ideas is about 20%.",
+       "s": "Content domains"
+      },
+      {
+       "q": "Which description matches a typical Reading and Writing question?",
+       "c": [
+        "One long passage of about 700 words followed by ten questions",
+        "A sentence with an error that you must rewrite in your own words",
+        "Two pages of text with five questions about each page",
+        "One short passage of 25–150 words (or a pair of short passages) followed by one question with four choices"
+       ],
+       "a": 3,
+       "e": "Every Reading and Writing question has its own short passage (25–150 words, sometimes a pair of passages) and one four-option multiple-choice question. Long multi-question passages belong to older or different tests.",
+       "s": "Test format"
+      },
+      {
+       "p": "Marine biologist Tomasz Wierzba's claim that a small reef fish could recognize individual human divers was at first dismissed by many of his colleagues. However, when three independent research teams repeated his experiments and obtained nearly identical results, the new studies ______ his original findings.",
+       "q": "Which choice completes the text with the most logical and precise word or phrase?",
+       "c": [
+        "concealed",
+        "corroborated",
+        "anticipated",
+        "exaggerated"
+       ],
+       "a": 1,
+       "e": "Repeating the experiments and getting \"nearly identical results\" confirms the findings, so \"corroborated\" (confirmed with new evidence) is precise. \"Concealed\" and \"exaggerated\" are not supported, and \"anticipated\" is the wrong timing: the new studies came after the original findings.",
+       "s": "Words in Context (Craft and Structure)"
+      },
+      {
+       "p": "In many cities, rooftop gardens are promoted mainly as a way to grow fresh vegetables. A three-year study of rooftops in a hot, dry city found that buildings with gardens needed up to 15% less electricity for air conditioning in summer than similar buildings with bare roofs, because the soil and plants absorbed heat that would otherwise have entered the top floors. These results suggest that ______",
+       "q": "Which choice most logically completes the text?",
+       "c": [
+        "rooftop gardens may offer an energy benefit in addition to the food they produce.",
+        "rooftop gardens grow more vegetables in hot cities than in cool ones.",
+        "bare roofs should be banned in all cities.",
+        "air conditioning is no longer needed in buildings that have rooftop gardens."
+       ],
+       "a": 0,
+       "e": "The study found lower electricity use for cooling, a benefit beyond the vegetables mentioned first. The study did not measure vegetable harvests (off-topic), \"banned in all cities\" is too extreme, and \"no longer needed\" goes far beyond \"up to 15% less.\"",
+       "s": "Inferences (Information and Ideas)"
+      },
+      {
+       "p": "The ancient city of Petra, in present-day Jordan, was carved directly into rose-colored sandstone ______ its builders, the Nabataeans, also designed channels and cisterns to collect the region's scarce rainwater.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "cliffs,",
+        "cliffs",
+        "cliffs, and,",
+        "cliffs;"
+       ],
+       "a": 3,
+       "e": "Both parts are complete sentences (independent clauses), so a semicolon correctly joins them. A comma alone creates a comma splice, no punctuation creates a run-on sentence, and the comma after \"and\" is not standard.",
+       "s": "Boundaries (Standard English Conventions)"
+      },
+      {
+       "p": "The poet Hala Mansour published her first collection when she was only nineteen, and critics praised its bold images. ______ her second book, released twelve years later, received little attention at first, even though many readers now consider it her finest work.",
+       "q": "Which choice completes the text with the most logical transition?",
+       "c": [
+        "For example,",
+        "Therefore,",
+        "By contrast,",
+        "Similarly,"
+       ],
+       "a": 2,
+       "e": "The first book was praised; the second received little attention, so the sentences contrast. \"For example\" and \"Similarly\" signal agreement or illustration, and \"Therefore\" wrongly says the second book's poor reception was caused by the first book's praise.",
+       "s": "Transitions (Expression of Ideas)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Reading and Writing: 2 modules × 27 questions × 32 minutes ≈ 71 seconds per question.",
+    "Module 1 decides whether Module 2 is harder or easier; you cannot go back to Module 1.",
+    "Every question = one short passage (25–150 words) + one question with 4 choices. The answer is always supported by the text.",
+    "Four domains: Craft and Structure ≈28%, Information and Ideas ≈26%, Standard English Conventions ≈26%, Expression of Ideas ≈20%.",
+    "No penalty for wrong answers: answer every question. Scores: 200–800 per section, 400–1600 total."
+   ]
+  }
+ ]
+}

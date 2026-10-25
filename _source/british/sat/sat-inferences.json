@@ -1,0 +1,466 @@
+{
+ "slug": "sat-inferences",
+ "title": "Inferences",
+ "kicker": "American Diploma · Digital SAT · Reading and Writing · Information and Ideas",
+ "summary": "Learn to complete a text with the most logical conclusion: find the gap in the argument, handle if/only-if and contrast logic, and avoid too-strong endings — with four worked examples and a 12-question quiz.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "In an Inferences question, the passage builds an argument or explains a set of facts, and then stops. The last sentence ends with a blank: ______. The question (in our words) is always close to: **\"Which choice most logically completes the text?\"** The four choices are possible endings. You must choose the one that follows logically from what the passage has already said — no more and no less."
+  },
+  {
+   "type": "p",
+   "text": "Inferences is part of the **Information and Ideas** domain, together with Central Ideas and Details, Command of Evidence — Textual, and Command of Evidence — Quantitative. These four skills together make up about 26% of the scored Reading and Writing questions (12–14 questions across both modules). Each question has one short passage of 25–150 words — often science or social science, sometimes history or the humanities — and four choices."
+  },
+  {
+   "type": "p",
+   "text": "Many students find these the hardest Reading questions, because the passage often describes a study or a debate in dense, academic language. But the logic is usually simple. Do not confuse this with a vocabulary blank: in a Words in Context question the blank is a word; in an Inferences question the blank is the **conclusion** of an argument, usually a whole clause."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الفكرة في جملة واحدة",
+   "text": "الفراغ هو نهاية منطقية للكلام اللي فات. اسأل نفسك: \"القطعة بتمهد لإيه؟\" الإجابة الصح بتكمّل نفس الاتجاه، ومش بتزود معلومة جديدة من برّه القطعة، ومش بتبالغ (زي always / never / proves / all)."
+  },
+  {
+   "type": "h2",
+   "text": "The method: find the gap in the argument"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "**Read the whole passage once for the story.** Who thought what? What was discovered? Most passages follow one of these shapes: \"Old belief → new evidence → so…\", \"Rule → case → so…\", or \"Fact A + fact B → so…\".",
+    "**Look hard at the sentence with the blank.** Its first words tell you the job: \"Therefore / Thus / This suggests that\" = a conclusion; \"However\" or \"but\" = a contrast; \"If… then\" = a condition.",
+    "**Find the gap.** Ask: \"What has the passage set up but not yet said?\" Which two facts have not yet been connected? That connection is the answer.",
+    "**Predict an answer in your own words before you read the choices.** Keep it modest: \"So maybe X is not the only reason.\"",
+    "**Match and eliminate.** Choose the choice closest to your prediction. Cross out choices that contradict the passage, go beyond it (too strong), bring in outside information, or reverse the logic.",
+    "**Final check: read the passage + your choice as one paragraph.** Does every step follow? Could the author have written exactly this?"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Three kinds of logic you must know"
+  },
+  {
+   "type": "p",
+   "text": "**1. Old view → new evidence.** The passage describes what scientists or historians used to think, then reports a new finding that does not fit. The blank almost always says the old view **may be wrong or incomplete**. Words to notice: \"long assumed\", \"traditionally\", \"However, a recent study…\"."
+  },
+  {
+   "type": "p",
+   "text": "**2. Conditional logic (if / only if / unless).** These need care, because the test checks whether you confuse a necessary condition with a sufficient one."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "The passage says",
+    "You CAN conclude",
+    "You CANNOT conclude"
+   ],
+   "rows": [
+    [
+     "\"If it rains, the match is cancelled.\"",
+     "No cancellation → it did not rain.",
+     "Cancelled → it rained. (Something else may have cancelled it.)"
+    ],
+    [
+     "\"A plant blooms only if it gets 12 hours of darkness.\"",
+     "No 12 hours of darkness → no bloom.",
+     "12 hours of darkness → it will bloom. (Darkness is needed, but may not be enough.)"
+    ],
+    [
+     "\"Unless you register, you cannot vote.\" (= only if you register)",
+     "Voted → registered.",
+     "Registered → voted."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**3. Contrast logic.** When the passage says \"Although X…\", \"However…\", \"Yet…\", \"Unlike…\", the conclusion turns AGAINST what came before the contrast word. Ask: \"What does the surprising fact change?\" If most cold-climate animals are large, but one is small and survives anyway, the conclusion is that it must survive by another method — not that size never matters."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How strong should the answer be?",
+   "items": [
+    "Correct answers often use careful words: **may, might, suggests, likely, partly, some, not only, more than**.",
+    "Wrong answers often use extreme words: **always, never, all, none, proves, only, entirely, impossible** — unless the passage itself is that strong.",
+    "Careful words are a clue, not a rule. A cautious answer that is off-topic is still wrong. Logic first, wording second."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — Old view → new evidence**"
+  },
+  {
+   "type": "p",
+   "text": "Because the dinosaur Kelvosaurus had unusually long hind legs, paleontologists long assumed that it was a fast runner. A recent study, however, examined a set of its fossilized footprints. The prints were short and closely spaced, and they were left in firm mud that would not have slowed the animal down. Therefore, ______"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice most logically completes the text?"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) long legs do not help any animal to run fast.",
+    "B) Kelvosaurus may have moved more slowly than paleontologists had previously believed.",
+    "C) Kelvosaurus could not run at all and spent most of its life standing still.",
+    "D) the mud must have been much softer than the researchers thought."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**A — ✗ Wrong.** Too broad. The study is about one dinosaur; it says nothing about every animal.",
+    "**B — ✓ Correct.** This connects the new evidence (short, close steps in firm mud) to the old belief (fast runner) and correctly concludes the old belief may be wrong. Note the careful word \"may\".",
+    "**C — ✗ Wrong.** Too strong. One set of slow footprints shows it was walking slowly at that time; it does not prove it could never run.",
+    "**D — ✗ Wrong.** Contradicts the passage, which says the mud was firm."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Note:** the detail \"firm mud that would not have slowed the animal down\" closes a possible escape route (the animal might have been slowed by the ground). Details like this are there to make one conclusion the only logical one."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — Conditional logic**"
+  },
+  {
+   "type": "p",
+   "text": "The flame lily, a flowering plant grown in greenhouses, will produce flowers only if it receives at least 12 hours of uninterrupted darkness for several nights in a row. In one greenhouse, gardeners kept a group of flame lilies under lamps for 16 hours every day, and none of the plants flowered. Gardeners who want flame lilies to flower in time for a winter festival should therefore ______"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice most logically completes the text?"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) make sure that the plants receive at least 12 hours of uninterrupted darkness each night for several nights before the festival.",
+    "B) increase the number of hours that the plants spend under the lamps each day.",
+    "C) place the plants in darkness for 12 hours on a single night, which will guarantee that they flower.",
+    "D) stop growing the plants in greenhouses, since greenhouse plants never flower."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer: A**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**A — ✓ Correct.** Darkness is a necessary condition (\"only if\"), and 16 hours of light leaves only 8 hours of darkness. So gardeners must meet the condition: 12+ hours of uninterrupted darkness for several nights.",
+    "**B — ✗ Wrong.** Reversed. More light means even less darkness.",
+    "**C — ✗ Wrong.** Two errors: one night is not \"several nights\", and a necessary condition is not a guarantee. This is the classic \"only if\" trap.",
+    "**D — ✗ Wrong.** Too strong and unsupported. Only one group failed, and the passage explains why."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "فخ only if",
+   "text": "لو القطعة قالت إن حاجة بتحصل only if شرط معين اتحقق، يبقى الشرط ده لازم، بس مش معناه إنه كفاية. يعني من غير الشرط → مش هتحصل أكيد. لكن لو الشرط اتحقق → ممكن تحصل وممكن لأ. أي إجابة فيها guarantee أو will definitely غالباً غلط."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — Contrast logic**"
+  },
+  {
+   "type": "p",
+   "text": "Among mammals that live in cold climates, larger body size is common, since a large body loses heat more slowly than a small one. The arctic fox, however, is smaller than many fox species that live in warmer regions. Researchers studying the arctic fox found that it has extremely thick fur, short legs, short ears, and a short muzzle, all of which reduce the amount of body surface that loses heat. Thus, the arctic fox's ability to survive extreme cold most likely ______"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice most logically completes the text?"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) shows that body size has no effect on heat loss in any mammal.",
+    "B) depends on its larger body size compared with foxes in warmer regions.",
+    "C) results from its habit of moving to warmer regions every winter.",
+    "D) depends more on features such as its fur and body shape than on large body size."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer: D**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**A — ✗ Wrong.** Too strong. One exception does not cancel a general rule for all mammals.",
+    "**B — ✗ Wrong.** Contradicts the passage: the arctic fox is SMALLER than many warm-climate foxes.",
+    "**C — ✗ Wrong.** Outside information. The passage never mentions migration.",
+    "**D — ✓ Correct.** The contrast word \"however\" tells us size cannot be the explanation; the next sentence gives other heat-saving features. D joins these two facts."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4 — History: what the evidence can and cannot show**"
+  },
+  {
+   "type": "p",
+   "text": "Historians have used the surviving letters of Hassan al-Tajir, a merchant in eighteenth-century Cairo, to describe daily life in his household. Yet almost all of the letters were written to business partners in other cities, and they deal mainly with prices, shipments, and debts; al-Tajir mentions his wife and children in only a handful of brief lines. Historians who rely on these letters to describe his household ______"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice most logically completes the text?"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) should conclude that al-Tajir had little contact with his family.",
+    "B) know more about his family life than about his business.",
+    "C) may be missing important information about his family life.",
+    "D) should stop using the letters as a source for any historical question."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**A — ✗ Wrong.** Too strong. Few mentions in BUSINESS letters do not show little contact; the letters had another purpose.",
+    "**B — ✗ Wrong.** Reversed. The letters are mostly about business, so historians know more about his business.",
+    "**C — ✓ Correct.** The gap: the letters were written for business, so they say little about the home. Using them to describe the household is therefore likely to leave things out.",
+    "**D — ✗ Wrong.** Too extreme. The letters are still very useful for his trade; the problem is only with family life."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**Too strong / too broad:** the choice goes further than the evidence (\"proves\", \"all mammals\", \"could not run at all\").",
+    "**Reversed logic:** the choice says the opposite of what the passage sets up, often by missing a \"however\" or \"not\".",
+    "**Necessary vs sufficient:** treating \"only if\" as a guarantee, or turning \"if A then B\" into \"if B then A\".",
+    "**Outside information:** the choice may sound smart and true in real life, but the passage never gives it.",
+    "**Repeats a detail:** the choice restates something the passage already said instead of drawing the conclusion.",
+    "**Contradiction:** the choice conflicts with one small detail in the passage (\"firm mud\", \"smaller than\")."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Read the sentence with the blank first, so you know if you need a conclusion, a contrast or a condition. Then read the whole passage.",
+    "Write a quick prediction in your head before you look at the choices.",
+    "Circle (mentally) every contrast word and every \"only\", \"if\", \"unless\" — they decide the answer.",
+    "Eliminate extreme and outside-information choices first; usually two choices remain.",
+    "Read the passage + your final choice as one paragraph. If it sounds like a smooth, careful argument, click it, mark it if you are unsure, and move on."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Inferences — Practice Quiz",
+   "timed": false,
+   "intro": "12 questions in Digital SAT style. Before you look at the choices, predict the ending in your own words. Watch for \"however\", \"only if\" and extreme words.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 15,
+     "questions": [
+      {
+       "p": "On small islands with no ground predators, brown anole lizards spend most of their time on the ground and low tree trunks. When researchers introduced a ground-hunting lizard that eats anoles to several of these islands, the anoles there began spending much more time on high, thin branches. Thin branches are harder to grip than trunks. The researchers therefore expect that, over many generations, anoles on these islands ______",
+       "q": "Which choice most logically completes the text?",
+       "c": [
+        "will stop climbing trees altogether.",
+        "will become extinct on every island where the predator was introduced.",
+        "will grow longer tails so that they can run faster than the predator on the ground.",
+        "may develop features that improve their grip, such as larger toe pads."
+       ],
+       "a": 3,
+       "e": "The gap: anoles now live on thin branches, which are hard to grip, so better gripping would help them. A reverses the behavior; B is too strong; C is not supported (they are escaping by climbing, not running).",
+       "s": "Inferences"
+      },
+      {
+       "p": "A city library offers free museum passes, but only to cardholders who have no overdue books. Passes were available all day yesterday. Karim, who has a valid library card, asked for a museum pass yesterday and was refused. It can most reasonably be concluded that Karim ______",
+       "q": "Which choice most logically completes the text?",
+       "c": [
+        "had at least one overdue book at that time.",
+        "does not actually have a library card.",
+        "had already visited the museum earlier that week.",
+        "had returned every book he had borrowed on time."
+       ],
+       "a": 0,
+       "e": "Having no overdue books is a necessary condition; passes were available and he has a card, so the only reason left is an overdue book. B and D contradict the passage; C is outside information.",
+       "s": "Inferences"
+      },
+      {
+       "p": "Honeybees tell other bees where food is by performing a \"waggle dance.\" Biologists long assumed that young bees perform the dance correctly by instinct alone. In a recent experiment, however, young bees that had never watched older bees dance made many errors in direction and distance. Their dances improved as they grew older, even without watching others, but never became fully accurate. These results suggest that the waggle dance ______",
+       "q": "Which choice most logically completes the text?",
+       "c": [
+        "is learned entirely by watching older bees.",
+        "is performed correctly by instinct alone, as biologists assumed.",
+        "depends partly on instinct and partly on learning from other bees.",
+        "is not actually used by bees to share information about food."
+       ],
+       "a": 2,
+       "e": "The bees improved without watching (instinct plays a part) but never became fully accurate without watching (learning plays a part). A ignores the improvement; B is the old view the study challenges; D contradicts the first sentence.",
+       "s": "Inferences"
+      },
+      {
+       "p": "When the city of Marlow doubled its downtown parking prices, officials expected that fewer people would drive downtown. Instead, the number of cars entering downtown each day stayed about the same. However, the average time each car stayed parked fell by 30 percent, and each parking space was used by more different drivers during the day. These observations suggest that the higher prices ______",
+       "q": "Which choice most logically completes the text?",
+       "c": [
+        "reduced the number of people who drove downtown.",
+        "changed how long people stayed parked rather than whether they drove downtown.",
+        "had no effect at all on the behavior of drivers.",
+        "caused many downtown shops to lose customers and close."
+       ],
+       "a": 1,
+       "e": "The number of cars stayed the same, but parking time fell: the prices changed how long, not whether. A and C contradict the data; D is outside information.",
+       "s": "Inferences"
+      },
+      {
+       "p": "Art critics have often described the late paintings of Nikolai Varga as gloomy and argued that they reveal his unhappiness in his final years. Yet Varga's notebooks show that during those years he could afford only cheap, dark pigments, and his letters to friends speak of the \"great joy\" his work gave him. The dark colors of Varga's late paintings therefore ______",
+       "q": "Which choice most logically completes the text?",
+       "c": [
+        "may reflect the painter's limited materials more than his mood.",
+        "prove that Varga was deeply unhappy in his final years.",
+        "were chosen to please the critics of his time.",
+        "show that Varga never used bright colors in any period of his career."
+       ],
+       "a": 0,
+       "e": "Two new facts (cheap dark paints, joyful letters) offer another explanation for the dark colors. B is the critics' old view and too strong; C is unsupported; D is too strong — the passage discusses only the late works.",
+       "s": "Inferences"
+      },
+      {
+       "p": "A hunting group in the ancient Sahara made its stone tools from a type of rock found only at an outcrop about 200 kilometers from the group's main camp. Archaeologists have found no traded goods, such as shells or beads, at the main camp. However, they have discovered smaller seasonal campsites beside the distant outcrop, with tools in exactly the group's style. These findings suggest that the group ______",
+       "q": "Which choice most logically completes the text?",
+       "c": [
+        "had no contact of any kind with other groups.",
+        "made most of its tools from rock found near its main camp.",
+        "lived all year at the rock outcrop instead of at the main camp.",
+        "traveled to the outcrop itself to collect the rock rather than getting it through trade."
+       ],
+       "a": 3,
+       "e": "No trade goods + the group's own camps at the outcrop → the group went there itself. A is too strong; B contradicts the first sentence; C contradicts \"seasonal\" campsites.",
+       "s": "Inferences"
+      },
+      {
+       "p": "In a two-year study, a new fertilizer increased wheat yields, but only in fields where the soil contained enough water; in dry fields, the fertilizer had no measurable effect. A farmer in a region that is suffering a severe drought, and who has no way of watering her fields, is thinking of buying the fertilizer. Based on the study, the farmer ______",
+       "q": "Which choice most logically completes the text?",
+       "c": [
+        "could expect the fertilizer to double her wheat yield this season.",
+        "is unlikely to see a higher wheat yield from using the fertilizer this season.",
+        "should use twice the normal amount of fertilizer to make up for the dry soil.",
+        "would damage her wheat crop by using the fertilizer during a drought."
+       ],
+       "a": 1,
+       "e": "Enough water is a necessary condition, and her fields are dry, so the fertilizer probably will not help. A ignores the condition; C is unsupported; D goes too far — the study found no effect, not harm.",
+       "s": "Inferences"
+      },
+      {
+       "p": "Psychologists asked one group of adults to write down three things they were grateful for every evening for two weeks. A second group wrote down three ordinary events from their day, such as what they ate for lunch. At the end of the study, both groups reported that they were sleeping better than before, and the improvement was the same in both groups. This finding suggests that the improvement in sleep may have resulted from ______",
+       "q": "Which choice most logically completes the text?",
+       "c": [
+        "thinking about things one is grateful for, and nothing else.",
+        "the harmful effects of writing late in the evening.",
+        "the regular evening writing routine itself rather than from feeling grateful.",
+        "a natural change in sleep that is not affected by any evening activity."
+       ],
+       "a": 2,
+       "e": "Both groups improved equally, so gratitude was not the key difference — what they shared was the writing routine. A ignores the second group; B reverses the result; D is too strong.",
+       "s": "Inferences"
+      },
+      {
+       "p": "In a group of related island languages, the word for \"salt\" has two main forms: \"mara\" and \"tasi.\" Islands first settled by people from the north use \"mara,\" while islands first settled from the east use \"tasi.\" On the island of Vela, older villagers say \"mara,\" but younger villagers increasingly say \"tasi,\" after many decades of trade with eastern islands. This pattern suggests that Vela was most likely ______",
+       "q": "Which choice most logically completes the text?",
+       "c": [
+        "first settled by people from the east.",
+        "never visited by traders from the eastern islands.",
+        "first settled from the north, with the \"tasi\" form arriving later through contact.",
+        "settled at the same time by people from both the north and the east."
+       ],
+       "a": 2,
+       "e": "The older form on Vela is \"mara\" (the northern form); \"tasi\" is spreading recently through trade. A reverses this; B contradicts the trade; D is not supported by the age pattern.",
+       "s": "Inferences"
+      },
+      {
+       "p": "Sea ice reflects most of the sunlight that reaches it, which helps keep the ocean below cool. In summer, however, pools of meltwater called melt ponds form on the surface of the ice. These ponds are darker than ice, so they absorb more sunlight, and the extra heat speeds up the melting of the ice around them. An increase in the number of melt ponds is therefore likely to ______",
+       "q": "Which choice most logically completes the text?",
+       "c": [
+        "slow down the melting of sea ice during the summer.",
+        "stop new sea ice from forming in any future winter.",
+        "have no effect on the temperature of the ocean below the ice.",
+        "speed up the loss of sea ice."
+       ],
+       "a": 3,
+       "e": "More dark ponds → more sunlight absorbed → faster melting. A reverses the chain; B is too strong (winter is not discussed); C contradicts the passage.",
+       "s": "Inferences"
+      },
+      {
+       "p": "A historian studying a city in the 1890s noticed that its newspapers reported almost no crimes in the wealthy Hillcrest district. However, the newspapers were owned by families who lived in Hillcrest, and letters from the period show that the owners sometimes refused to print stories that might embarrass their neighbors. The low number of reported crimes in Hillcrest therefore ______",
+       "q": "Which choice most logically completes the text?",
+       "c": [
+        "may not accurately reflect how many crimes actually took place there.",
+        "proves that Hillcrest was completely free of crime in the 1890s.",
+        "shows that the newspapers reported every crime in the other districts.",
+        "means that the newspaper owners themselves committed many crimes."
+       ],
+       "a": 0,
+       "e": "If owners hid embarrassing stories, the newspaper record may be incomplete. B is the conclusion the passage questions (and too strong); C and D are not supported.",
+       "s": "Inferences"
+      },
+      {
+       "p": "Many frog species call more loudly when they live near loud background noise. Males of one frog species that live beside waterfalls, however, do not call more loudly. Instead, they wave their back legs in the air, a visual signal that females can see from a distance. Researchers observed that males of the same species that live beside quiet streams rarely wave their legs. This suggests that males of this species ______",
+       "q": "Which choice most logically completes the text?",
+       "c": [
+        "never call at all when they live near waterfalls.",
+        "use leg waving mainly when their calls are likely to be drowned out by noise.",
+        "wave their legs because the females of the species cannot hear.",
+        "wave their legs more often beside quiet streams than beside waterfalls."
+       ],
+       "a": 1,
+       "e": "Waving happens near noisy waterfalls and rarely near quiet streams, so it is used mainly where calls are hard to hear. A is too strong (they simply do not call louder); C is unsupported; D reverses the observation.",
+       "s": "Inferences"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "The blank is the logical next step of the passage: find what has been set up but not yet said.",
+    "Old view + new evidence usually → the old view may be wrong or incomplete.",
+    "\"Only if\" gives a necessary condition, not a guarantee; \"if A then B\" does not mean \"if B then A\".",
+    "After \"however\" or \"yet\", the conclusion turns against what came before.",
+    "Reject choices that are too strong, reversed, contradicted by a detail, or based on outside information."
+   ]
+  }
+ ]
+}

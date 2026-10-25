@@ -1,0 +1,603 @@
+{
+ "slug": "act-word-choice-tone",
+ "title": "Word Choice and Tone",
+ "kicker": "American Diploma · ACT · English: Knowledge of Language",
+ "summary": "Precision, formal vs casual register, consistent tone, idioms and vague vs specific wording — five checks, worked items and a 10-question ACT-style essay.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Word-choice and tone questions belong to **Knowledge of Language**, the ACT English reporting category that is 18–23% of the English score. Knowledge of Language is about using words **precisely and appropriately**: the exact word for the meaning, a style that fits the essay, and wording that stays consistent from start to finish. (Concision — cutting unnecessary words — is part of the same category; see the Concision page.)"
+  },
+  {
+   "type": "p",
+   "text": "These questions look like any other ACT English item: an underlined word or phrase and four choices, usually with **NO CHANGE** first. Sometimes there is no stem; sometimes you see stems such as \"Which choice best maintains the style and tone of the essay?\", \"Which choice is the most precise?\", or the NOT form, \"Which of the following alternatives would NOT be acceptable?\""
+  },
+  {
+   "type": "p",
+   "text": "The difficulty: wrong choices are often **real English words that almost fit.** You must judge meaning, register and idiom, not just grammar. This page gives you five checks."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "اقرا الكلمة في جملتها",
+   "text": "في أسئلة word choice الاختيارات كلها ممكن تكون كلمات صحيحة لوحدها، بس واحدة بس بتدّي المعنى الدقيق وبتناسب أسلوب المقال. اسأل: الكلمة دي معناها مظبوط هنا؟ رسمية زي باقي المقال؟ الحرف اللي بعدها (of / on / to) صح؟"
+  },
+  {
+   "type": "h2",
+   "text": "Check 1: Precision — the exact meaning"
+  },
+  {
+   "type": "p",
+   "text": "The right word means **exactly** what the writer intends. Many wrong choices are words with a similar look or a related meaning."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Pair",
+    "Meaning",
+    "Example"
+   ],
+   "rows": [
+    [
+     "affect / effect",
+     "affect = verb (to influence); effect = noun (a result)",
+     "Rain affects the harvest. Rain has an effect on the harvest."
+    ],
+    [
+     "accept / except",
+     "accept = receive, agree; except = not including",
+     "She accepted every invitation except one."
+    ],
+    [
+     "imply / infer",
+     "imply = suggest (speaker); infer = conclude (listener)",
+     "Her smile implied approval; I inferred that she agreed."
+    ],
+    [
+     "eminent / imminent",
+     "eminent = famous; imminent = about to happen",
+     "An eminent scientist warned that a storm was imminent."
+    ],
+    [
+     "distinctive / distinguished",
+     "distinctive = easy to recognise; distinguished = respected",
+     "a distinctive smell / a distinguished professor"
+    ],
+    [
+     "respectively / respectfully",
+     "respectively = in the order given; respectfully = with respect",
+     "Ali and Sara came first and second, respectively."
+    ],
+    [
+     "continual / continuous",
+     "continual = repeated with breaks; continuous = without stopping",
+     "continual interruptions / a continuous line"
+    ],
+    [
+     "economic / economical",
+     "economic = about the economy; economical = saves money",
+     "economic growth / an economical car"
+    ],
+    [
+     "principal / principle",
+     "principal = main, head of school; principle = a rule or belief",
+     "The principal explained the principle."
+    ],
+    [
+     "adapt / adopt",
+     "adapt = change to fit; adopt = take as your own",
+     "The school adopted a new timetable and students adapted to it."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Precision is also about **logic in context.** A word may be correct alone but wrong in the sentence: \"The scientists **guessed** the results after three years of careful measurement\" — \"guessed\" contradicts \"careful measurement\"; \"confirmed\" is precise."
+  },
+  {
+   "type": "h2",
+   "text": "Check 2: Register — formal vs casual"
+  },
+  {
+   "type": "p",
+   "text": "Most ACT essays are written in a **clear, neutral-to-formal** style, the style of a good magazine or textbook. Slang and chatty speech are wrong in that style, even when the meaning is right."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Too casual ✗",
+    "Better ✓"
+   ],
+   "rows": [
+    [
+     "pretty cool, awesome, super neat",
+     "remarkable, impressive, striking"
+    ],
+    [
+     "a bunch of, tons of, loads of",
+     "many, a large number of, a series of"
+    ],
+    [
+     "kind of, sort of, basically (as filler)",
+     "(delete) or somewhat, rather"
+    ],
+    [
+     "stuff, things, whatever",
+     "a precise noun: equipment, ideas, materials"
+    ],
+    [
+     "totally, big time, way (slower)",
+     "completely, greatly, much (slower)"
+    ],
+    [
+     "get (in many uses)",
+     "receive, become, obtain, understand"
+    ],
+    [
+     "a real drag, no big deal, kicked off",
+     "a problem, unimportant, began"
+    ],
+    [
+     "So, yeah, …   / dude",
+     "(delete)"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**But formal does not mean pompous.** The ACT also rejects choices that are too grand or too dramatic for a plain essay: \"The yeast greedily devours the sugars\" in a science essay, \"The committee's illustrious and magnificent decision\" in a report. The best choice matches the essay — not always the fanciest word."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "رسمي بس مش متكلّف",
+   "text": "المقال على الـ ACT غالباً أسلوبه رسمي بسيط. شيل أي كلام عامي زي stuff / kind of / awesome / dude. بس كمان متختارش كلمة تقيلة ومبالغ فيها لو المقال بسيط. الصح هو اللي شبه باقي المقال."
+  },
+  {
+   "type": "h2",
+   "text": "Check 3: Consistent tone with the essay"
+  },
+  {
+   "type": "p",
+   "text": "Tone is the writer's attitude: serious, enthusiastic, warm, neutral, humorous. The right choice keeps the tone the essay already has. A **personal narrative** can be warmer and use \"I\" and simple everyday words; an **informational** essay is neutral; an **argumentative** essay is confident but fair. Before you answer, read two or three sentences around the underline and ask, \"How does this writer sound?\""
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ (in a respectful article about a scientist) Her research was a total game-changer.",
+    "✓ Her research transformed the field.",
+    "✗ (in a warm personal story) My grandmother's kitchen exhibited a pervasive aroma of cardamom.",
+    "✓ My grandmother's kitchen always smelled of cardamom."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Check 4: Idioms — the right small word"
+  },
+  {
+   "type": "p",
+   "text": "An **idiom** is a fixed combination, often a verb or adjective + preposition. There is no logic rule; you must know the pair. Here are combinations that appear often in test-style sentences:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Correct",
+    "Wrong",
+    "Correct",
+    "Wrong"
+   ],
+   "rows": [
+    [
+     "capable of doing",
+     "capable to do",
+     "depend on / rely on",
+     "depend to / rely to"
+    ],
+    [
+     "interested in",
+     "interested about",
+     "consist of",
+     "consist from"
+    ],
+    [
+     "different from",
+     "different than (avoid on the ACT)",
+     "in contrast to / with",
+     "in contrast of"
+    ],
+    [
+     "responsible for",
+     "responsible of",
+     "succeed in doing",
+     "succeed to do"
+    ],
+    [
+     "prefer A to B",
+     "prefer A than B",
+     "insist on",
+     "insist to"
+    ],
+    [
+     "aware of",
+     "aware about",
+     "comply with",
+     "comply to"
+    ],
+    [
+     "prohibit from doing",
+     "prohibit to do",
+     "the reason is that",
+     "the reason is because (redundant)"
+    ],
+    [
+     "try to",
+     "try and (casual)",
+     "regard as",
+     "regard to be"
+    ],
+    [
+     "as … as",
+     "as … than",
+     "not only … but also",
+     "not only … and"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Method:** read the phrase with each preposition in your head. If one sounds strange, it probably is. If all sound possible, think about meaning: \"agree **with** a person, agree **to** a plan, agree **on** a decision.\""
+  },
+  {
+   "type": "h2",
+   "text": "Check 5: Vague vs specific"
+  },
+  {
+   "type": "p",
+   "text": "When the question asks for precision or detail, a vague word loses. Vague: **a certain temperature, some people, a lot, things, stuff, good, nice, very big.** Specific: **25 to 30 degrees Celsius, the city's three hospitals, 40 per cent, a 12-metre wall.** Choose the specific option when the sentence is meant to inform, unless it adds information that is off-topic (that is a Relevance problem)."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — precision**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: After studying the soil samples for two years, the team __guessed__ that the old lake had dried up about 5,000 years ago."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) hoped",
+    "C) concluded",
+    "D) imagined"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: \"Guessed\" suggests no evidence — it contradicts two years of study.",
+    "B) ✗ Wrong: \"Hoped\" is about wishes, not evidence.",
+    "C) ✓ Correct: \"Concluded\" means reached a judgement from evidence — exactly what the study did.",
+    "D) ✗ Wrong: \"Imagined\" means invented in the mind; again no evidence."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — register**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: The city council's report describes the new park in detail. It will include a running track, a library kiosk, and __a ton of__ shaded seating areas."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice best maintains the style and tone of the essay?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) loads of",
+    "C) several",
+    "D) a whole bunch of"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: Casual expression in a formal report.",
+    "B) ✗ Wrong: Casual.",
+    "C) ✓ Correct: Neutral and formal, matching \"report\" and \"in detail.\"",
+    "D) ✗ Wrong: Casual and wordy."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — idiom**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: Many students in my class are interested __about__ robotics, so our teacher started an after-school club."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) in",
+    "C) for",
+    "D) with"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: \"Interested about\" is not standard English.",
+    "B) ✓ Correct: The idiom is \"interested in.\"",
+    "C) ✗ Wrong: \"Interested for\" is not standard.",
+    "D) ✗ Wrong: \"Interested with\" is not standard."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4 — tone (too dramatic)**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: The museum's new guide explains how the mummies were prepared. Each body was dried with natron, a natural salt, and then __the ghastly, horrifying corpse was__ wrapped in linen."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) the gruesome dead thing was",
+    "C) it was",
+    "D) the creepy body was totally"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: Overly dramatic language that clashes with a calm, informational guide.",
+    "B) ✗ Wrong: Dramatic and vague (\"thing\").",
+    "C) ✓ Correct: Neutral, clear and concise — \"it\" clearly means the body.",
+    "D) ✗ Wrong: Casual and dramatic (\"creepy,\" \"totally\")."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**The look-alike:** distinguished for distinctive, imminent for eminent, affect for effect.",
+    "**The fancy trap:** the longest, most impressive word is not automatically right — it must match the meaning and the tone.",
+    "**The drama trap:** emotional or exaggerated words in a neutral essay.",
+    "**The slang trap:** a choice with the right meaning but casual words (a bunch of, kind of, stuff).",
+    "**The preposition trap:** capable to, interested about, different than, prefer … than.",
+    "**The vague trap:** \"a certain,\" \"some,\" \"things\" when the sentence wants information.",
+    "**The context trap:** a word that is fine alone but contradicts nearby details (guessed after years of study)."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Decide the essay's tone in the first paragraph (formal? personal? neutral?) and keep it in mind.",
+    "Cross out any choice with slang first — it is almost never right in an ACT essay.",
+    "For similar-looking words, say each meaning in a few words and test it in the sentence.",
+    "For idioms, read the whole phrase aloud in your head; trust standard pairs you have learned.",
+    "If two choices remain, choose the one that is more precise and fits the tone — not the one that sounds more impressive.",
+    "On a NOT question, three choices are acceptable; look for the one with a wrong meaning, wrong idiom or wrong register."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Read the essay and answer the 10 questions. The essay is informational, so its tone is clear and fairly formal."
+  },
+  {
+   "type": "test",
+   "title": "Word Choice and Tone — ACT-style practice",
+   "timed": false,
+   "intro": "One essay, 10 questions on precision, register, tone, idioms and specific wording. NO CHANGE keeps the original. Explanations appear after you answer.",
+   "sections": [
+    {
+     "name": "English",
+     "minutes": 7,
+     "questions": [
+      {
+       "p": "The Quiet Chemistry of Bread\n\nA loaf of bread may look simple, but it is the result of a [1] __pretty cool__ chemical process. When a baker mixes wheat flour with water, two proteins in the flour join to form gluten, a stretchy network [2] __that kind of works like a bunch of tiny balloons__.\n\nYeast, a living fungus, [3] __consumes__ the sugars in the dough and releases carbon dioxide gas. The gas is trapped by the gluten, and the dough slowly rises. Bakers have long been [4] __capable to control__ this process. They know, for instance, that yeast is very active at [5] __a certain temperature__. A cold kitchen, by contrast, [6] __totally slows things down big time__.\n\nSalt also has an important [7] __affect__ on dough: it strengthens the gluten and slows the yeast slightly. Sourdough bakers depend [8] __on__ wild yeast and bacteria collected in a \"starter,\" a mixture of flour and water that is fed every day. Because wild yeast works more slowly, sourdough may need many hours to rise. The wait is not wasted: during those hours, the bacteria produce acids that give the bread its [9] __distinctive__ tangy flavour.\n\n[10] __So, yeah, next time you grab a sandwich,__ remember that each slice holds millions of tiny pockets of gas, left behind by a living organism that did its work quietly while the dough rested.",
+       "q": "Question 1: Choose the best version of underlined portion [1]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "remarkable",
+        "super neat",
+        "kind of awesome"
+       ],
+       "a": 1,
+       "e": "The essay is clear and formal, so it needs a formal adjective. A, C and D are casual spoken English.",
+       "s": "Register / tone"
+      },
+      {
+       "p": "The Quiet Chemistry of Bread\n\nA loaf of bread may look simple, but it is the result of a [1] __pretty cool__ chemical process. When a baker mixes wheat flour with water, two proteins in the flour join to form gluten, a stretchy network [2] __that kind of works like a bunch of tiny balloons__.\n\nYeast, a living fungus, [3] __consumes__ the sugars in the dough and releases carbon dioxide gas. The gas is trapped by the gluten, and the dough slowly rises. Bakers have long been [4] __capable to control__ this process. They know, for instance, that yeast is very active at [5] __a certain temperature__. A cold kitchen, by contrast, [6] __totally slows things down big time__.\n\nSalt also has an important [7] __affect__ on dough: it strengthens the gluten and slows the yeast slightly. Sourdough bakers depend [8] __on__ wild yeast and bacteria collected in a \"starter,\" a mixture of flour and water that is fed every day. Because wild yeast works more slowly, sourdough may need many hours to rise. The wait is not wasted: during those hours, the bacteria produce acids that give the bread its [9] __distinctive__ tangy flavour.\n\n[10] __So, yeah, next time you grab a sandwich,__ remember that each slice holds millions of tiny pockets of gas, left behind by a living organism that did its work quietly while the dough rested.",
+       "q": "Question 2: Choose the best version of underlined portion [2]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "that is sort of like balloons, basically",
+        "that can trap gas much like a series of tiny balloons",
+        "that does balloon stuff"
+       ],
+       "a": 2,
+       "e": "C is formal and precise: it says what the network does (traps gas). A, B and D are casual and vague (kind of, sort of, stuff).",
+       "s": "Register / precision"
+      },
+      {
+       "p": "The Quiet Chemistry of Bread\n\nA loaf of bread may look simple, but it is the result of a [1] __pretty cool__ chemical process. When a baker mixes wheat flour with water, two proteins in the flour join to form gluten, a stretchy network [2] __that kind of works like a bunch of tiny balloons__.\n\nYeast, a living fungus, [3] __consumes__ the sugars in the dough and releases carbon dioxide gas. The gas is trapped by the gluten, and the dough slowly rises. Bakers have long been [4] __capable to control__ this process. They know, for instance, that yeast is very active at [5] __a certain temperature__. A cold kitchen, by contrast, [6] __totally slows things down big time__.\n\nSalt also has an important [7] __affect__ on dough: it strengthens the gluten and slows the yeast slightly. Sourdough bakers depend [8] __on__ wild yeast and bacteria collected in a \"starter,\" a mixture of flour and water that is fed every day. Because wild yeast works more slowly, sourdough may need many hours to rise. The wait is not wasted: during those hours, the bacteria produce acids that give the bread its [9] __distinctive__ tangy flavour.\n\n[10] __So, yeah, next time you grab a sandwich,__ remember that each slice holds millions of tiny pockets of gas, left behind by a living organism that did its work quietly while the dough rested.",
+       "q": "Question 3: Choose the best version of underlined portion [3]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "devours greedily",
+        "gobbles up",
+        "chows down on"
+       ],
+       "a": 0,
+       "e": "\"Consumes\" is accurate and neutral. B is overly dramatic for a science explanation; C and D are informal.",
+       "s": "Tone"
+      },
+      {
+       "p": "The Quiet Chemistry of Bread\n\nA loaf of bread may look simple, but it is the result of a [1] __pretty cool__ chemical process. When a baker mixes wheat flour with water, two proteins in the flour join to form gluten, a stretchy network [2] __that kind of works like a bunch of tiny balloons__.\n\nYeast, a living fungus, [3] __consumes__ the sugars in the dough and releases carbon dioxide gas. The gas is trapped by the gluten, and the dough slowly rises. Bakers have long been [4] __capable to control__ this process. They know, for instance, that yeast is very active at [5] __a certain temperature__. A cold kitchen, by contrast, [6] __totally slows things down big time__.\n\nSalt also has an important [7] __affect__ on dough: it strengthens the gluten and slows the yeast slightly. Sourdough bakers depend [8] __on__ wild yeast and bacteria collected in a \"starter,\" a mixture of flour and water that is fed every day. Because wild yeast works more slowly, sourdough may need many hours to rise. The wait is not wasted: during those hours, the bacteria produce acids that give the bread its [9] __distinctive__ tangy flavour.\n\n[10] __So, yeah, next time you grab a sandwich,__ remember that each slice holds millions of tiny pockets of gas, left behind by a living organism that did its work quietly while the dough rested.",
+       "q": "Question 4: Choose the best version of underlined portion [4]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "capable of controlling",
+        "capable for controlling",
+        "capable in controlling"
+       ],
+       "a": 1,
+       "e": "The idiom is \"capable of + -ing.\" The other prepositions and \"capable to\" are not standard English.",
+       "s": "Idioms"
+      },
+      {
+       "p": "The Quiet Chemistry of Bread\n\nA loaf of bread may look simple, but it is the result of a [1] __pretty cool__ chemical process. When a baker mixes wheat flour with water, two proteins in the flour join to form gluten, a stretchy network [2] __that kind of works like a bunch of tiny balloons__.\n\nYeast, a living fungus, [3] __consumes__ the sugars in the dough and releases carbon dioxide gas. The gas is trapped by the gluten, and the dough slowly rises. Bakers have long been [4] __capable to control__ this process. They know, for instance, that yeast is very active at [5] __a certain temperature__. A cold kitchen, by contrast, [6] __totally slows things down big time__.\n\nSalt also has an important [7] __affect__ on dough: it strengthens the gluten and slows the yeast slightly. Sourdough bakers depend [8] __on__ wild yeast and bacteria collected in a \"starter,\" a mixture of flour and water that is fed every day. Because wild yeast works more slowly, sourdough may need many hours to rise. The wait is not wasted: during those hours, the bacteria produce acids that give the bread its [9] __distinctive__ tangy flavour.\n\n[10] __So, yeah, next time you grab a sandwich,__ remember that each slice holds millions of tiny pockets of gas, left behind by a living organism that did its work quietly while the dough rested.",
+       "q": "Question 5: Choose the best version of underlined portion [5]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "some temperatures",
+        "temperatures of roughly 25 to 30 degrees Celsius",
+        "the right sort of temperature"
+       ],
+       "a": 2,
+       "e": "C gives specific, useful information. A, B and D are vague — the reader learns nothing about which temperature.",
+       "s": "Vague vs specific"
+      },
+      {
+       "p": "The Quiet Chemistry of Bread\n\nA loaf of bread may look simple, but it is the result of a [1] __pretty cool__ chemical process. When a baker mixes wheat flour with water, two proteins in the flour join to form gluten, a stretchy network [2] __that kind of works like a bunch of tiny balloons__.\n\nYeast, a living fungus, [3] __consumes__ the sugars in the dough and releases carbon dioxide gas. The gas is trapped by the gluten, and the dough slowly rises. Bakers have long been [4] __capable to control__ this process. They know, for instance, that yeast is very active at [5] __a certain temperature__. A cold kitchen, by contrast, [6] __totally slows things down big time__.\n\nSalt also has an important [7] __affect__ on dough: it strengthens the gluten and slows the yeast slightly. Sourdough bakers depend [8] __on__ wild yeast and bacteria collected in a \"starter,\" a mixture of flour and water that is fed every day. Because wild yeast works more slowly, sourdough may need many hours to rise. The wait is not wasted: during those hours, the bacteria produce acids that give the bread its [9] __distinctive__ tangy flavour.\n\n[10] __So, yeah, next time you grab a sandwich,__ remember that each slice holds millions of tiny pockets of gas, left behind by a living organism that did its work quietly while the dough rested.",
+       "q": "Question 6: Choose the best version of underlined portion [6]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "makes stuff way slower",
+        "is a real drag for the yeast",
+        "slows the process considerably"
+       ],
+       "a": 3,
+       "e": "D matches the essay's formal tone and is precise. A is casual and redundant (totally … big time); B and C are slang.",
+       "s": "Register / tone"
+      },
+      {
+       "p": "The Quiet Chemistry of Bread\n\nA loaf of bread may look simple, but it is the result of a [1] __pretty cool__ chemical process. When a baker mixes wheat flour with water, two proteins in the flour join to form gluten, a stretchy network [2] __that kind of works like a bunch of tiny balloons__.\n\nYeast, a living fungus, [3] __consumes__ the sugars in the dough and releases carbon dioxide gas. The gas is trapped by the gluten, and the dough slowly rises. Bakers have long been [4] __capable to control__ this process. They know, for instance, that yeast is very active at [5] __a certain temperature__. A cold kitchen, by contrast, [6] __totally slows things down big time__.\n\nSalt also has an important [7] __affect__ on dough: it strengthens the gluten and slows the yeast slightly. Sourdough bakers depend [8] __on__ wild yeast and bacteria collected in a \"starter,\" a mixture of flour and water that is fed every day. Because wild yeast works more slowly, sourdough may need many hours to rise. The wait is not wasted: during those hours, the bacteria produce acids that give the bread its [9] __distinctive__ tangy flavour.\n\n[10] __So, yeah, next time you grab a sandwich,__ remember that each slice holds millions of tiny pockets of gas, left behind by a living organism that did its work quietly while the dough rested.",
+       "q": "Question 7: Choose the best version of underlined portion [7]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "affecting",
+        "effecting",
+        "effect"
+       ],
+       "a": 3,
+       "e": "After \"an important\" we need a noun: \"effect\" (a result). \"Affect\" is normally a verb; B and C are verb forms.",
+       "s": "Precision — commonly confused words"
+      },
+      {
+       "p": "The Quiet Chemistry of Bread\n\nA loaf of bread may look simple, but it is the result of a [1] __pretty cool__ chemical process. When a baker mixes wheat flour with water, two proteins in the flour join to form gluten, a stretchy network [2] __that kind of works like a bunch of tiny balloons__.\n\nYeast, a living fungus, [3] __consumes__ the sugars in the dough and releases carbon dioxide gas. The gas is trapped by the gluten, and the dough slowly rises. Bakers have long been [4] __capable to control__ this process. They know, for instance, that yeast is very active at [5] __a certain temperature__. A cold kitchen, by contrast, [6] __totally slows things down big time__.\n\nSalt also has an important [7] __affect__ on dough: it strengthens the gluten and slows the yeast slightly. Sourdough bakers depend [8] __on__ wild yeast and bacteria collected in a \"starter,\" a mixture of flour and water that is fed every day. Because wild yeast works more slowly, sourdough may need many hours to rise. The wait is not wasted: during those hours, the bacteria produce acids that give the bread its [9] __distinctive__ tangy flavour.\n\n[10] __So, yeah, next time you grab a sandwich,__ remember that each slice holds millions of tiny pockets of gas, left behind by a living organism that did its work quietly while the dough rested.",
+       "q": "Question 8: Choose the best version of underlined portion [8]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "to",
+        "from",
+        "at"
+       ],
+       "a": 0,
+       "e": "The idiom is \"depend on.\" \"Depend to/from/at\" is not standard English.",
+       "s": "Idioms"
+      },
+      {
+       "p": "The Quiet Chemistry of Bread\n\nA loaf of bread may look simple, but it is the result of a [1] __pretty cool__ chemical process. When a baker mixes wheat flour with water, two proteins in the flour join to form gluten, a stretchy network [2] __that kind of works like a bunch of tiny balloons__.\n\nYeast, a living fungus, [3] __consumes__ the sugars in the dough and releases carbon dioxide gas. The gas is trapped by the gluten, and the dough slowly rises. Bakers have long been [4] __capable to control__ this process. They know, for instance, that yeast is very active at [5] __a certain temperature__. A cold kitchen, by contrast, [6] __totally slows things down big time__.\n\nSalt also has an important [7] __affect__ on dough: it strengthens the gluten and slows the yeast slightly. Sourdough bakers depend [8] __on__ wild yeast and bacteria collected in a \"starter,\" a mixture of flour and water that is fed every day. Because wild yeast works more slowly, sourdough may need many hours to rise. The wait is not wasted: during those hours, the bacteria produce acids that give the bread its [9] __distinctive__ tangy flavour.\n\n[10] __So, yeah, next time you grab a sandwich,__ remember that each slice holds millions of tiny pockets of gas, left behind by a living organism that did its work quietly while the dough rested.",
+       "q": "Question 9: Choose the best version of underlined portion [9]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "distinguished",
+        "differing",
+        "distinct-looking"
+       ],
+       "a": 0,
+       "e": "\"Distinctive\" means special and easy to recognise — right for a flavour. B means respected or famous (used for people); C means changing or varying; D refers to appearance, not taste.",
+       "s": "Precision"
+      },
+      {
+       "p": "The Quiet Chemistry of Bread\n\nA loaf of bread may look simple, but it is the result of a [1] __pretty cool__ chemical process. When a baker mixes wheat flour with water, two proteins in the flour join to form gluten, a stretchy network [2] __that kind of works like a bunch of tiny balloons__.\n\nYeast, a living fungus, [3] __consumes__ the sugars in the dough and releases carbon dioxide gas. The gas is trapped by the gluten, and the dough slowly rises. Bakers have long been [4] __capable to control__ this process. They know, for instance, that yeast is very active at [5] __a certain temperature__. A cold kitchen, by contrast, [6] __totally slows things down big time__.\n\nSalt also has an important [7] __affect__ on dough: it strengthens the gluten and slows the yeast slightly. Sourdough bakers depend [8] __on__ wild yeast and bacteria collected in a \"starter,\" a mixture of flour and water that is fed every day. Because wild yeast works more slowly, sourdough may need many hours to rise. The wait is not wasted: during those hours, the bacteria produce acids that give the bread its [9] __distinctive__ tangy flavour.\n\n[10] __So, yeah, next time you grab a sandwich,__ remember that each slice holds millions of tiny pockets of gas, left behind by a living organism that did its work quietly while the dough rested.",
+       "q": "Question 10: Choose the best version of underlined portion [10]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "Next time you grab a sandwich, dude,",
+        "The next time you eat a slice of bread,",
+        "Whenever you're munching on bread or whatever,"
+       ],
+       "a": 2,
+       "e": "C keeps the clear, polished tone of the rest of the essay. A, B and D add slang (yeah, dude, whatever) that clashes with it.",
+       "s": "Tone consistency"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Precise = the exact meaning in this context; watch look-alike words.",
+    "Register: no slang in a formal essay — but no over-dramatic words either.",
+    "Keep the tone the essay already has.",
+    "Learn the common idioms: capable of, depend on, interested in, different from, prefer A to B.",
+    "Specific beats vague when the sentence is meant to inform."
+   ]
+  }
+ ]
+}

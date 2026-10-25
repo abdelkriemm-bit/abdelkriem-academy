@@ -1,0 +1,79 @@
+{
+ "hub": "digital-sat.html",
+ "active": "american.html",
+ "short": "Digital SAT",
+ "labels": {
+  "prev": "← Previous",
+  "next": "Next →",
+  "back": "← Back to",
+  "done": "Finished! Back to",
+  "toc": "All pages in this course",
+  "start": "Start the course →",
+  "crumb": "<a href=\"american.html\">American Diploma</a> › "
+ },
+ "kicker": "American Diploma · Digital SAT · Reading and Writing",
+ "title": "Digital SAT Reading and Writing — Complete Course",
+ "summary": "Every Reading and Writing question type on the Digital SAT, taught step by step with original examples, a practice quiz on every page and full timed practice tests.",
+ "meta_desc": "Free complete Digital SAT Reading and Writing course: test overview, every question type, all grammar rules, transitions, rhetorical synthesis, and timed full-length practice tests with explanations.",
+ "sections": [
+  {
+   "title": "Start here",
+   "desc": "How the test works and how to manage your time.",
+   "pages": [
+    "sat-overview",
+    "sat-strategy-time"
+   ]
+  },
+  {
+   "title": "Craft and Structure",
+   "desc": "Words in context, purpose and structure, and comparing two texts.",
+   "pages": [
+    "sat-words-in-context",
+    "sat-vocab-toolkit",
+    "sat-text-structure-purpose",
+    "sat-cross-text"
+   ]
+  },
+  {
+   "title": "Information and Ideas",
+   "desc": "Main ideas, evidence from texts and from data, and logical conclusions.",
+   "pages": [
+    "sat-central-ideas",
+    "sat-evidence-textual",
+    "sat-evidence-quantitative",
+    "sat-inferences"
+   ]
+  },
+  {
+   "title": "Standard English Conventions",
+   "desc": "Every grammar and punctuation rule the test checks.",
+   "pages": [
+    "sat-sentence-boundaries",
+    "sat-commas-extra-info",
+    "sat-colons-dashes-semicolons",
+    "sat-subject-verb",
+    "sat-pronouns",
+    "sat-verb-tense-finiteness",
+    "sat-modifiers",
+    "sat-possessives-plurals"
+   ]
+  },
+  {
+   "title": "Expression of Ideas",
+   "desc": "Transitions and rhetorical synthesis (notes questions).",
+   "pages": [
+    "sat-transitions",
+    "sat-rhetorical-synthesis"
+   ]
+  },
+  {
+   "title": "Full practice tests",
+   "desc": "Timed, two modules, 54 questions each, with your score by skill and an explanation for every question.",
+   "pages": [
+    "sat-practice-test-1",
+    "sat-practice-test-2",
+    "sat-practice-test-3"
+   ]
+  }
+ ]
+}

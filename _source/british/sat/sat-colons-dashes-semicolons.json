@@ -1,0 +1,607 @@
+{
+ "slug": "sat-colons-dashes-semicolons",
+ "title": "Colons, Dashes and Semicolons",
+ "kicker": "American Diploma · Digital SAT · Standard English Conventions",
+ "summary": "Exactly what each mark is allowed to do, the SAT/ACT semicolon rule for complicated lists, and a step-by-step method for choosing between , ; : and — with 12 practice questions.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Colons, dashes and semicolons are tested in the **Boundaries** skill of the **Standard English Conventions** domain (about 26% of the scored Reading and Writing questions, 11–15 questions). These marks appear in questions about linking clauses, separating list items and setting off supplements — and in many questions they are the *wrong* answers, placed in the choices to trap students who use them “for style.”"
+  },
+  {
+   "type": "p",
+   "text": "The question looks like every other conventions item: a short passage (25–150 words) with a blank, and the stem **“Which choice completes the text so that it conforms to the conventions of Standard English?”** The four choices often show four different marks in the same place — for example “ingredients,” / “ingredients;” / “ingredients:” / “ingredients” — and you must know exactly what each mark is allowed to do."
+  },
+  {
+   "type": "p",
+   "text": "This page goes deeper than the Sentence Boundaries page. You will learn each mark's jobs, the one extra semicolon rule that the SAT and ACT use, and a clear method for choosing between , ; : — when more than one looks possible."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "اسأل عن الجزء اللي قبل العلامة",
+   "text": "النقطتين (:) والفاصلة المنقوطة (;) الاتنين لازم يكون قبلهم جملة كاملة. الفرق في اللي بعدهم: الفاصلة المنقوطة لازم بعدها جملة كاملة كمان، أما النقطتين فممكن بعدها كلمة أو قائمة أو جملة بتشرح اللي قبلها."
+  },
+  {
+   "type": "h2",
+   "text": "The colon ( : )"
+  },
+  {
+   "type": "p",
+   "text": "**The rule:** a colon comes after a **complete sentence** and introduces a **list, an explanation, emphasis or extra information** about what came before it."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Job",
+    "Example"
+   ],
+   "rows": [
+    [
+     "List",
+     "✓ The recipe needs only three ingredients: flour, water, and salt."
+    ],
+    [
+     "Explanation",
+     "✓ The match was cancelled for one reason: the stadium lights had failed."
+    ],
+    [
+     "Explanation (full clause)",
+     "✓ The results surprised the team: the smallest plants produced the most seeds."
+    ],
+    [
+     "Emphasis",
+     "✓ After weeks of debate, the committee chose the project's name: Horizon."
+    ],
+    [
+     "Extra information",
+     "✓ The guide gave us one piece of advice: carry more water than you think you need."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**The test before every colon:** stop at the colon and read only the part before it. Could it end with a period? If not, the colon is wrong."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ The recipe needs: flour, water, and salt. (“The recipe needs.” is not complete — the verb has no object)",
+    "✗ The kit includes items such as: a map and a compass. (never after “such as,” “including,” “for example”)",
+    "✗ The winners were: Hana, Omar, and Rana. (never between a verb and its complement)",
+    "✓ The kit includes two essential items: a map and a compass.",
+    "✓ The winners were the following students: Hana, Omar, and Rana."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "The colon “points” forward",
+   "text": "Think of the colon as an arrow: the first sentence makes a promise (“one reason,” “three ingredients,” “something unusual”), and what comes after the colon delivers it. If nothing after the mark explains or lists what came before, a colon is not the right choice."
+  },
+  {
+   "type": "h2",
+   "text": "The dash ( — )"
+  },
+  {
+   "type": "p",
+   "text": "The dash has two kinds of use. Count the dashes in the sentence first."
+  },
+  {
+   "type": "h2",
+   "text": "A pair of dashes = extra information"
+  },
+  {
+   "type": "p",
+   "text": "Two dashes work exactly like a pair of commas or a pair of brackets: they set off extra (non-essential) information. The pair must match — dash … dash."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ The novel's narrator—a retired lighthouse keeper—tells the story through letters.",
+    "✗ The novel's narrator—a retired lighthouse keeper, tells the story through letters.",
+    "Removal test: “The novel's narrator tells the story through letters.” ✓ still complete."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "A single dash = emphasis or a sudden break"
+  },
+  {
+   "type": "p",
+   "text": "One dash is used to give **emphasis** to what comes after it (often at the end of a sentence), or to show a **sudden break or interruption** in a thought or in speech. When it is used for emphasis, the part before the dash should normally be a complete sentence — just like with a colon."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ After months of testing, the engineers finally found the cause of the failure—a single loose screw. (emphasis)",
+    "✓ The rare tortoise was seen in the reserve for the first time in fifty years—a sign that the protection program was working. (emphasis on the final idea)",
+    "✓ “I think the answer is—” Laila began, but the bell rang. (interruption in speech)",
+    "✓ We had planned everything perfectly—or so we thought. (sudden break)",
+    "✗ The engineers found—the cause of the failure. (a single dash cannot split a verb from its object)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Do not use a dash for “style”",
+   "text": "A dash is not a stronger comma that you can put anywhere. If there is no extra information to set off, no emphasis on a final idea and no sudden break, the dash is wrong. On the SAT, a dash placed between a subject and its verb, or between a verb and its object, is always wrong."
+  },
+  {
+   "type": "h2",
+   "text": "The semicolon ( ; )"
+  },
+  {
+   "type": "p",
+   "text": "**The main job (the teacher's rule):** a semicolon joins **two independent clauses** that are closely related. Both sides must be complete sentences. If you could replace the semicolon with a period, the semicolon is correct; if you could not, it is wrong."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ Marble is a metamorphic rock; it forms when limestone is exposed to great heat and pressure.",
+    "✓ Some desert plants store water in their thick leaves; others store it in underground stems.",
+    "✓ The road was closed; as a result, the bus took a longer route. (semicolon before a conjunctive adverb)",
+    "✗ Because the road was closed; the bus took a longer route. (left side is a dependent clause)",
+    "✗ The volunteers worked through the night; because the water was rising. (right side is a dependent clause)",
+    "✗ The road was closed; and the bus took a longer route. (use “, and” — not a semicolon with FANBOYS)",
+    "✗ Many dishes; such as koshari and ful, use beans. (a semicolon cannot introduce examples)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "SAT/ACT extra rule — semicolons in a complicated list",
+   "items": [
+    "This is an exam rule for the SAT and the ACT. It is the ONLY other use of the semicolon you need for these tests.",
+    "When the items in a list **already contain commas**, use semicolons to separate the items, so the reader can see where each item ends.",
+    "✓ The tour visits three cities: Luxor, Egypt; Amman, Jordan; and Tunis, Tunisia.",
+    "✓ The panel included Dr. Salma Adel, a geologist; Dr. Youssef Amin, a chemist; and Dr. Rana Farid, an engineer.",
+    "✗ The tour visits three cities: Luxor, Egypt, Amman, Jordan, and Tunis, Tunisia. (confusing — how many cities?)",
+    "Be consistent: if one break between items uses a semicolon, every break between items must use a semicolon. The commas INSIDE each item stay commas."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Choosing between , ; : — when two look correct"
+  },
+  {
+   "type": "p",
+   "text": "Use this decision method. It works for almost every question where the choices offer different marks in the same place."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Read the part before the blank.** Is it a complete sentence? If NO → ; and : are both wrong (and a single dash for emphasis is wrong too). You need a comma or nothing.",
+    "**Read the part after the blank.** Is it a complete sentence? If YES (and the left side is complete too) → , alone is wrong (comma splice). You need ; or . or , + FANBOYS — or : if the second clause explains the first.",
+    "**If the part after is NOT a complete sentence** (a list, a word, a phrase) → ; is wrong. Use : or a single — (if the left side is complete), or a comma if the phrase is extra information.",
+    "**Is there a pair to close?** If extra information opened with a comma, dash or bracket earlier, the blank must close it with the same mark.",
+    "**Still two choices?** They cannot both be correct. Look for a second difference (an extra comma, a missing word, “and” after a semicolon)."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Left side",
+    "Right side",
+    "Allowed",
+    "Not allowed"
+   ],
+   "rows": [
+    [
+     "Complete sentence",
+     "Complete sentence",
+     ". or ; or , + FANBOYS; : if the 2nd explains the 1st",
+     ", alone (comma splice) / nothing (run-on)"
+    ],
+    [
+     "Complete sentence",
+     "List, word or phrase that explains",
+     ": or a single — (emphasis)",
+     "; (right side is not a clause)"
+    ],
+    [
+     "Complete sentence",
+     "Extra information at the end",
+     ", or — (or brackets)",
+     ";"
+    ],
+    [
+     "Dependent clause / phrase",
+     "Complete sentence",
+     ",",
+     "; : . —"
+    ],
+    [
+     "Subject",
+     "Its verb",
+     "nothing",
+     "any mark"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Colon, dash or comma at the end of a sentence?",
+   "text": "When a complete sentence is followed by an explaining phrase, a colon and a single dash can both be correct — so the SAT normally offers only one of them. If you see both a colon and a dash in the choices, check the rest of each choice for another error. A comma can also add a final descriptive phrase (“…in the reserve, a sign that …”), but a semicolon never can."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — colon after an incomplete clause**"
+  },
+  {
+   "type": "p",
+   "text": "Text: Members of a desert research expedition must carry everything they need for ten days, because there are no shops for hundreds of kilometers. The expedition's supply list included ______ water filters, solar lamps, and several kilograms of dried dates."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text so that it conforms to the conventions of Standard English?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) included:",
+    "B) included",
+    "C) included;",
+    "D) included—"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: “The expedition's supply list included” is not a complete sentence — the verb has no object. A colon cannot follow it.",
+    "B) ✓ Correct: No punctuation: the verb “included” goes straight to its object, the list “water filters, solar lamps, and … dates.”",
+    "C) ✗ Wrong: A semicolon needs a complete sentence on both sides; neither side is one.",
+    "D) ✗ Wrong: A dash cannot separate a verb from its object."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — SAT/ACT extra rule (semicolons in a list)**"
+  },
+  {
+   "type": "p",
+   "text": "Text: An international conference for young scientists will be held in a different Arab country each year. Over the next three years, the conference will visit three cities: Luxor, Egypt ______ Amman, Jordan; and Tunis, Tunisia."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text so that it conforms to the conventions of Standard English?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) Egypt,",
+    "B) Egypt;",
+    "C) Egypt:",
+    "D) Egypt"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: Each item already contains a comma (“Luxor, Egypt”), and the text uses a semicolon later (“Jordan; and”), so this break between items must also be a semicolon.",
+    "B) ✓ Correct: Semicolons separate list items that contain commas, and the choice is consistent with “Jordan; and Tunis.”",
+    "C) ✗ Wrong: There is already a colon introducing the list; a second colon in the middle of the list is wrong.",
+    "D) ✗ Wrong: With no mark, “Egypt Amman” runs two items together."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — single dash for emphasis**"
+  },
+  {
+   "type": "p",
+   "text": "Text: A new electric train in a factory test kept stopping without warning, and nobody could explain why. After months of testing, the engineers finally found the cause of the failure ______ a single loose screw inside the motor."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text so that it conforms to the conventions of Standard English?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) failure;",
+    "B) failure, it was",
+    "C) failure—",
+    "D) failure, which"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: After a semicolon you need a complete sentence; “a single loose screw inside the motor” is only a phrase.",
+    "B) ✗ Wrong: “It was a single loose screw” is an independent clause joined with only a comma: comma splice.",
+    "C) ✓ Correct: The first part is complete, and the single dash gives emphasis to the surprising answer.",
+    "D) ✗ Wrong: “Which a single loose screw inside the motor” has no verb and makes no sense."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4 — semicolon between two clauses**"
+  },
+  {
+   "type": "p",
+   "text": "Text: Plants that live in very dry places have developed different ways of surviving long periods without rain. Some desert plants store water in their thick, fleshy leaves ______ store it in large underground stems that stay cool below the sand."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text so that it conforms to the conventions of Standard English?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) leaves, others",
+    "B) leaves; others",
+    "C) leaves others",
+    "D) leaves: others,"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: Both sides are independent clauses (“others store it …” is complete), so a comma alone makes a comma splice.",
+    "B) ✓ Correct: A semicolon joins two closely related independent clauses.",
+    "C) ✗ Wrong: No punctuation between two independent clauses is a run-on.",
+    "D) ✗ Wrong: The second clause does not explain the first (it gives a second, parallel fact), and the comma after “others” wrongly separates the subject from its verb."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**Colon after an incomplete clause:** “The list included:” / “such as:” / “The winners were:” — the part before a colon must be a complete sentence.",
+    "**Semicolon before a phrase:** “; a sign that …” or “; such as …” — the right side of a semicolon must be a complete sentence (except in the SAT/ACT list rule).",
+    "**Semicolon + dependent clause:** “; because …”, “; which …”, “; although …”.",
+    "**Mismatched dashes:** a dash opens extra information and a comma closes it.",
+    "**Mixed list punctuation:** semicolons between some items and commas between others in the same list.",
+    "**Thinking a semicolon shows a change of meaning:** it does not. A semicolon only tells you that two complete, related sentences are joined; the words (however, instead, but) carry the meaning."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Stop at the blank and read the left side: complete sentence? If not, cross out ; and : immediately.",
+    "Read the right side: complete sentence? If yes, cross out a comma alone. If no, cross out ;.",
+    "A list with commas inside the items → semicolons between all the items (SAT/ACT extra rule).",
+    "Check for a pair to close (comma…comma, dash…dash, bracket…bracket).",
+    "If two choices seem equally good, find the second difference — only one answer is ever correct."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الفاصلة المنقوطة في القوائم",
+   "text": "قاعدة إضافية خاصة بامتحانات SAT و ACT: لو عناصر القائمة نفسها فيها فواصل (زي Luxor, Egypt)، نفصل بين العناصر بـ ; عشان القارئ يعرف كل عنصر بيبدأ وينتهي فين. غير كده، الفاصلة المنقوطة دورها الأساسي إنها توصل بين جملتين كاملتين وبس."
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Twelve original SAT-style questions. Before you choose, test the left side and the right side of every blank."
+  },
+  {
+   "type": "test",
+   "title": "Colons, Dashes and Semicolons — Practice Quiz",
+   "timed": false,
+   "intro": "12 questions · untimed. Test the left and right side of every blank before you choose.",
+   "sections": [
+    {
+     "name": "Practice set",
+     "minutes": 15,
+     "questions": [
+      {
+       "p": "Beans and lentils have been a main part of the Egyptian diet for thousands of years. Many traditional Egyptian dishes ______ ful medames, koshari, and ta'meya, rely heavily on these cheap and healthy ingredients.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "such as:",
+        ", such as:",
+        "; such as",
+        ", such as"
+       ],
+       "a": 3,
+       "e": "“Such as ful medames, koshari, and ta'meya” is extra information, opened by a comma here and closed by the comma after “ta'meya.” A colon never follows “such as” (A, B), and a semicolon cannot introduce examples (C).",
+       "s": "Boundaries (colons, dashes, semicolons)"
+      },
+      {
+       "p": "In 1783, two French brothers tested a large hot-air balloon in front of a crowd at the palace of Versailles. It was the first balloon flight to carry living passengers ______ passengers were a sheep, a duck, and a rooster.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "passengers, the",
+        "passengers; the",
+        "passengers the",
+        "passengers, and, the"
+       ],
+       "a": 1,
+       "e": "Both sides are independent clauses, so a semicolon joins them correctly. A is a comma splice, C is a run-on, and D adds a wrong comma after “and.”",
+       "s": "Boundaries (colons, dashes, semicolons)"
+      },
+      {
+       "p": "A popular cooking channel recently showed viewers how to bake bread at home without any special equipment. According to the chef, the basic recipe calls for only three ingredients ______ flour, water, and salt.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "ingredients;",
+        "ingredients, these are",
+        "ingredients:",
+        "ingredients"
+       ],
+       "a": 2,
+       "e": "The first part is a complete sentence that promises “three ingredients,” and the colon introduces the list. A puts a semicolon before a list that is not a clause; B is a comma splice; D gives no mark at all to introduce the list after a complete sentence.",
+       "s": "Boundaries (colons, dashes, semicolons)"
+      },
+      {
+       "p": "A new national program will fund research on water use in agriculture. The selection panel included Dr. Salma Adel, a geologist ______ Dr. Youssef Amin, a chemist; and Dr. Rana Farid, an engineer who designs irrigation systems.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "geologist;",
+        "geologist,",
+        "geologist:",
+        "geologist"
+       ],
+       "a": 0,
+       "e": "SAT/ACT extra rule: the list items already contain commas, and the text uses a semicolon later (“chemist; and”), so every break between items must be a semicolon. B makes the list confusing and inconsistent; C adds a colon inside a list; D runs two items together.",
+       "s": "Boundaries (colons, dashes, semicolons)"
+      },
+      {
+       "p": "The Egyptian tortoise is one of the smallest tortoises in the world, and it is critically endangered. Last spring, rangers at a small nature reserve spotted a young tortoise of this species, which had not been seen there for decades ______ sign that conservation efforts there may be working.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "decades—a",
+        "decades; a",
+        "decades a",
+        "decades. A"
+       ],
+       "a": 0,
+       "e": "The first part is complete, and the single dash gives emphasis to the final idea. B puts a semicolon before a phrase; C runs the phrase on with no mark; D turns “A sign that …” into a fragment.",
+       "s": "Boundaries (colons, dashes, semicolons)"
+      },
+      {
+       "p": "The school's after-school clubs were very popular this term, and a survey asked students to name the activities they enjoyed most. The students' favorite activities were ______ painting, robotics, and debate.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "were:",
+        "were;",
+        "were",
+        "were—"
+       ],
+       "a": 2,
+       "e": "“The students' favorite activities were” is not a complete sentence; the verb needs its complement. No mark can come between “were” and the list.",
+       "s": "Boundaries (colons, dashes, semicolons)"
+      },
+      {
+       "p": "The book has been translated into twelve languages since it was first published. The novel's narrator—a retired lighthouse keeper living alone on a rocky island ______ tells the story through a series of letters to his grandson.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "island,",
+        "island—",
+        "island;",
+        "island"
+       ],
+       "a": 1,
+       "e": "The extra information opens with a dash after “narrator,” so it must close with a dash. A mixes dash and comma; C puts a semicolon where no clause ends; D leaves the pair unclosed.",
+       "s": "Boundaries (colons, dashes, semicolons)"
+      },
+      {
+       "p": "Coins appeared in Egypt only late in its ancient history. For most of the pharaonic period, the ancient Egyptians did not use coins at all ______ they traded goods and services directly or measured value in weights of copper and grain.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        ", instead,",
+        ", instead",
+        "instead,",
+        "; instead,"
+       ],
+       "a": 3,
+       "e": "“Instead” is a conjunctive adverb starting the second independent clause, so it needs a semicolon before it and a comma after it. A and B are comma splices; C is a run-on.",
+       "s": "Boundaries (colons, dashes, semicolons)"
+      },
+      {
+       "p": "Heavy rain upstream caused the river to rise very quickly on Thursday evening. In a small village near the river, volunteers filled sandbags and worked through the night ______ the flood water had reached the edge of the village.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "night; because",
+        "night: because",
+        "night because",
+        "night. Because"
+       ],
+       "a": 2,
+       "e": "“Because the flood water had reached …” is a dependent clause, so it attaches to the main clause with no punctuation. A semicolon (A) and a colon (B) cannot come before a dependent clause, and D leaves “Because …” as a fragment.",
+       "s": "Boundaries (colons, dashes, semicolons)"
+      },
+      {
+       "p": "The city's new science center needed a name that would appeal to young visitors. After weeks of debate and a vote by local students, the committee finally announced the project's new name ______ Horizon.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "name;",
+        "name, it was",
+        "name was",
+        "name:"
+       ],
+       "a": 3,
+       "e": "The first part is a complete sentence, and the colon gives emphasis to the single word that follows. A puts a semicolon before one word; B is a comma splice; C gives the sentence two verbs (“announced … was”) and makes it ungrammatical.",
+       "s": "Boundaries (colons, dashes, semicolons)"
+      },
+      {
+       "p": "Many famous buildings, from the Taj Mahal to ancient Roman temples, are made of the same beautiful stone. Marble is a metamorphic rock ______ forms when limestone is exposed to great heat and pressure deep underground.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "rock; it",
+        "rock, it",
+        "rock it",
+        "rock; and it"
+       ],
+       "a": 0,
+       "e": "Both sides are independent clauses; the semicolon joins them. B is a comma splice, C is a run-on, and D uses a semicolon together with “and” (use “, and” instead).",
+       "s": "Boundaries (colons, dashes, semicolons)"
+      },
+      {
+       "p": "Scientists tracked a group of migrating birds for three years using tiny GPS tags. Many had expected the birds to fly along the Red Sea coast. The researcher's conclusion, however, was simple ______ the birds were following the river, not the coastline.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "simple,",
+        "simple:",
+        "simple",
+        "simple; that"
+       ],
+       "a": 1,
+       "e": "The first part is a complete sentence, and the second clause explains the conclusion, so a colon is correct. A is a comma splice; C is a run-on; D makes a fragment after the semicolon (“that the birds were following …” is a dependent clause).",
+       "s": "Boundaries (colons, dashes, semicolons)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Colon: complete sentence before it; then a list, an explanation, emphasis or extra information.",
+    "Semicolon: two closely related complete sentences. SAT/ACT extra rule: between list items that already contain commas.",
+    "Pair of dashes = extra information (must match). Single dash = emphasis or a sudden break.",
+    "Never a colon after “such as,” “including,” or a verb; never a semicolon before a dependent clause or a phrase.",
+    "If two choices look correct, find the second difference — the test always has exactly one right answer."
+   ]
+  }
+ ]
+}

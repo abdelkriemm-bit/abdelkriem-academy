@@ -1,0 +1,826 @@
+{
+ "slug": "act-grammar-usage",
+ "title": "ACT Grammar and Usage",
+ "kicker": "American Diploma · ACT · English: Conventions",
+ "summary": "Subject–verb agreement, pronoun case and agreement, who/whom, verb forms, adjectives and adverbs, comparisons, idioms and confused words — with worked items and an ACT-style quiz.",
+ "blocks": [
+  {
+   "type": "p",
+   "text": "Usage questions test whether each word has the **right form**: a verb that agrees with its subject, a pronoun in the right case, the correct past participle, an adverb where an adverb is needed, the right preposition after a word. These errors often **sound natural** in everyday speech, which is exactly why the test uses them. This page gives you a rule and a quick check for each one."
+  },
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Usage belongs to **Conventions of Standard English**, which is **38–43%** of the 40 scored English questions (about **15–17 questions**, together with punctuation and sentence structure). The question looks like any other ACT English question: an underlined word or phrase and four versions, usually with **NO CHANGE** first. When the vertical scan shows that the choices differ in **the form of one word** (is/are, he/him, went/gone, careful/carefully, larger/largest, of/for), you are looking at a usage question."
+  },
+  {
+   "type": "p",
+   "text": "The method is always the same: **find the word the underlined portion depends on** (its subject, its noun, its antecedent, the word before the preposition), then apply the rule."
+  },
+  {
+   "type": "h2",
+   "text": "1. Subject–verb agreement"
+  },
+  {
+   "type": "p",
+   "text": "A singular subject takes a singular verb (is, was, has, goes); a plural subject takes a plural verb (are, were, have, go). The test hides the subject. **Cross out everything between the subject and the verb**, then check."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Rule",
+    "✗ Wrong",
+    "✓ Right"
+   ],
+   "rows": [
+    [
+     "Ignore phrases between subject and verb (of…, in…, with…)",
+     "The walls of the oven holds the heat.",
+     "The walls of the oven hold the heat."
+    ],
+    [
+     "each, every, one, either, neither, everyone = singular",
+     "Each of the blocks were numbered.",
+     "Each of the blocks was numbered."
+    ],
+    [
+     "A + B joined by and = plural",
+     "My brother and my cousin plays football.",
+     "My brother and my cousin play football."
+    ],
+    [
+     "along with / as well as / together with do not add to the subject",
+     "The coach, along with the players, are here.",
+     "The coach, along with the players, is here."
+    ],
+    [
+     "either…or / neither…nor: the verb agrees with the nearer subject",
+     "Neither the students nor the teacher are ready.",
+     "Neither the students nor the teacher is ready."
+    ],
+    [
+     "Inverted order (there is/are, here…, a prepositional phrase first): find the subject after the verb",
+     "There is three reasons for this.",
+     "There are three reasons for this."
+    ],
+    [
+     "The number of = singular; a number of = plural",
+     "The number of visitors have grown.",
+     "The number of visitors has grown."
+    ],
+    [
+     "A clause or a gerund as subject = singular",
+     "Reading long novels help my vocabulary.",
+     "Reading long novels helps my vocabulary."
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "اتفاق الفاعل والفعل",
+   "text": "امسح أي كلام بين الفاعل والفعل (زي of the oven أو in the box) وبعدين اسأل: الفاعل مفرد ولا جمع؟ Each وEvery وOne دايمًا مفرد حتى لو بعدها جمع."
+  },
+  {
+   "type": "h2",
+   "text": "2. Pronoun case: I or me? he or him?"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Subject forms",
+    "Object forms",
+    "Possessive"
+   ],
+   "rows": [
+    [
+     "I, he, she, we, they, who",
+     "me, him, her, us, them, whom",
+     "my/mine, his, her/hers, our/ours, their/theirs, whose"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Cover the other person.** \"He taught Karim and I\" → \"He taught I\" ✗ → \"He taught Karim and **me**\" ✓.",
+    "**After a preposition use the object form.** ✓ between you and **me** ✗ between you and I; ✓ for her and **me**.",
+    "**Comparisons with than/as: finish the sentence.** ✓ She is taller than **I** (am). ✓ He helped you more than (he helped) **me**.",
+    "**Reflexive pronouns (myself, himself) only when the subject does the action to itself or for emphasis.** ✓ I hurt myself. ✗ Karim and myself fixed it. ✓ Karim and I fixed it."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "3. Who or whom?"
+  },
+  {
+   "type": "p",
+   "text": "**Who** is a subject (like he); **whom** is an object (like him). Turn the clause into a short sentence and test with he/him:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "\"My grandfather, ___ repaired radios…\" → **he** repaired radios → **who**.",
+    "\"The doctor ___ we visited…\" → we visited **him** → **whom**.",
+    "\"To ___ should I send the form?\" → send it to **him** → **whom**.",
+    "\"The girl ___ I think won the prize…\" → ignore \"I think\": **she** won → **who**."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "4. Pronoun agreement and clear reference"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A pronoun must agree in number with the noun it replaces (its **antecedent**). ✗ The company raised their prices. ✓ The company raised **its** prices. ✗ The Great Temple faces east, and the engineers made sure that they still did. ✓ …that **it** still did.",
+    "The pronoun must clearly point to **one** noun. ✗ When Ali met Hassan, he was nervous. (Who was nervous?) ✓ Ali was nervous when he met Hassan.",
+    "Do not switch person in the middle of a passage. ✗ If one studies daily, you will improve. ✓ If you study daily, you will improve.",
+    "**its / it's** and **their / they're / there** are tested here too: its = belonging to it; it's = it is."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "5. Verb tense and verb forms"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Keep the tense consistent** with the rest of the paragraph unless the time really changes. ✗ Yesterday we visit the museum and saw the mummies. ✓ Yesterday we **visited** the museum and saw the mummies.",
+    "**Past perfect (had + past participle)** = the earlier of two past actions. ✓ By the time the water arrived, the workers **had taken** the last block away.",
+    "**Present perfect (has/have + past participle)** = from the past until now, often with since or for. ✓ Since 2020 she **has written** three books.",
+    "**Conditionals:** ✓ If I **had known**, I would have helped. ✗ If I would have known…",
+    "**would have / could have / should have**, never would of. ✓ We **should have** left earlier."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Irregular past participles** are a favourite trap: after has/have/had you need the third form, not the simple past."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Base",
+    "Simple past",
+    "Past participle (after has/have/had)"
+   ],
+   "rows": [
+    [
+     "go",
+     "went",
+     "gone — ✓ had gone ✗ had went"
+    ],
+    [
+     "write",
+     "wrote",
+     "written — ✓ had written ✗ had wrote"
+    ],
+    [
+     "take",
+     "took",
+     "taken — ✓ had taken ✗ had took"
+    ],
+    [
+     "begin",
+     "began",
+     "begun — ✓ has begun ✗ has began"
+    ],
+    [
+     "choose",
+     "chose",
+     "chosen"
+    ],
+    [
+     "break",
+     "broke",
+     "broken"
+    ],
+    [
+     "see",
+     "saw",
+     "seen — ✓ I have seen ✗ I have saw / I seen"
+    ],
+    [
+     "drink · swim · ring",
+     "drank · swam · rang",
+     "drunk · swum · rung"
+    ],
+    [
+     "rise",
+     "rose",
+     "risen"
+    ],
+    [
+     "lie (rest)",
+     "lay",
+     "lain"
+    ],
+    [
+     "lay (put)",
+     "laid",
+     "laid"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "6. Adjectives vs adverbs"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Adjectives** describe nouns: a **careful** worker, a **quick** reply.",
+    "**Adverbs** describe verbs, adjectives and other adverbs, and often end in -ly: she worked **carefully**; an **extremely** quick reply.",
+    "✗ The blocks were cut very careful. ✓ The blocks were cut very **carefully**.",
+    "✗ The new design is incredible efficient. ✓ The new design is **incredibly** efficient. (\"incredibly\" describes the adjective \"efficient\")",
+    "After **linking verbs** (be, seem, look, feel, taste, sound, become) use an adjective: ✓ The soup tastes **good**. ✓ I feel **bad**. ✗ I feel badly about it (when you mean your feeling).",
+    "**good** = adjective; **well** = adverb (and the adjective for health): ✓ She sings **well**. ✓ He did a **good** job."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "7. Comparatives vs superlatives"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Comparing…",
+    "Use",
+    "✓ Example"
+   ],
+   "rows": [
+    [
+     "two things",
+     "-er / more",
+     "Of the two temples, the Great Temple is **larger**."
+    ],
+    [
+     "three or more",
+     "-est / most",
+     "It is the **largest** of the three pyramids."
+    ],
+    [
+     "never both",
+     "—",
+     "✗ more larger, most largest, more better"
+    ],
+    [
+     "countable nouns",
+     "fewer",
+     "**fewer** cars, **fewer** mistakes"
+    ],
+    [
+     "uncountable nouns",
+     "less",
+     "**less** traffic, **less** water"
+    ],
+    [
+     "between two / among three or more",
+     "between / among",
+     "between the two cities; among the five students"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Also check that a comparison compares **like with like**: ✗ Cairo's population is larger than Alexandria. ✓ Cairo's population is larger than **Alexandria's** (or than **that of** Alexandria)."
+  },
+  {
+   "type": "h2",
+   "text": "8. Idioms and prepositions"
+  },
+  {
+   "type": "p",
+   "text": "Some words must be followed by one particular preposition. There is no rule to work out — you learn them. When the vertical scan shows only the preposition changing, say each choice in your head and pick the standard one."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "✓ Standard",
+    "✗ Common error"
+   ],
+   "rows": [
+    [
+     "capable **of** doing",
+     "capable to do"
+    ],
+    [
+     "different **from**",
+     "different with / different of"
+    ],
+    [
+     "interested **in**",
+     "interested about"
+    ],
+    [
+     "responsible **for**",
+     "responsible of"
+    ],
+    [
+     "consist **of**",
+     "consist from"
+    ],
+    [
+     "depend **on**",
+     "depend of"
+    ],
+    [
+     "insist **on** going",
+     "insist to go"
+    ],
+    [
+     "prefer X **to** Y",
+     "prefer X than Y"
+    ],
+    [
+     "similar **to**",
+     "similar with"
+    ],
+    [
+     "aware **of**",
+     "aware about"
+    ],
+    [
+     "succeed **in** doing",
+     "succeed to do"
+    ],
+    [
+     "prevent someone **from** doing",
+     "prevent someone to do"
+    ],
+    [
+     "focus **on**",
+     "focus in"
+    ],
+    [
+     "contribute **to**",
+     "contribute in"
+    ],
+    [
+     "apologise **for**",
+     "apologise about"
+    ],
+    [
+     "regard X **as** Y",
+     "regard X to be Y"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "9. Commonly confused words"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Pair",
+    "Meaning",
+    "✓ Example"
+   ],
+   "rows": [
+    [
+     "affect / effect",
+     "affect = verb (to influence); effect = noun (a result)",
+     "The noise **affected** my sleep. / It had a strange **effect** on me."
+    ],
+    [
+     "than / then",
+     "than = comparison; then = time (next)",
+     "better **than** Karim / First we ate, **then** we left."
+    ],
+    [
+     "lie / lay",
+     "lie = rest (no object): lie – lay – lain; lay = put (needs an object): lay – laid – laid",
+     "He would **lie** down. / She **laid** the book on the desk."
+    ],
+    [
+     "accept / except",
+     "accept = agree to receive; except = apart from",
+     "I **accept** your offer. / everyone **except** Ali"
+    ],
+    [
+     "lose / loose",
+     "lose = stop having; loose = not tight",
+     "Don't **lose** your key. / a **loose** shirt"
+    ],
+    [
+     "principal / principle",
+     "principal = head, main; principle = rule, belief",
+     "the school **principal** / a moral **principle**"
+    ],
+    [
+     "imply / infer",
+     "imply = suggest; infer = conclude",
+     "Her smile **implied** approval. / I **inferred** that she agreed."
+    ],
+    [
+     "its / it's · whose / who's",
+     "possessive / contraction",
+     "**Its** roots are deep. / **Who's** there?"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "Lie ولا Lay؟",
+   "text": "lie يعني \"يتمدد/يرتاح\" ومالهاش مفعول: He would lie down. أما lay يعني \"يحط حاجة\" ولازم بعدها مفعول: Lay the book on the table. خلي بالك: lay كمان هي الماضي بتاع lie، فبعد would أو to استخدم lie."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "Each example is part of an ACT-style essay. The underlined portion is shown in **bold**."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1.** \"The collection of old maps in the university library **attract** researchers from all over the world.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) attracts",
+    "C) are attracting",
+    "D) have attracted"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**B is correct.** Cross out \"of old maps in the university library\": the subject is \"collection\" (singular) → \"attracts\".",
+    "**A, C and D** are all plural forms; they agree with \"maps\" or \"library\", the nearest nouns, which is the trap.",
+    "**Trap name:** the nearest-noun trap."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2.** \"By the time the guests arrived, my mother **had already went** to the airport to collect my aunt.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) has already went",
+    "C) had already gone",
+    "D) already gone"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**C is correct.** The going happened before the arrival, so we need the past perfect: had + past participle. The participle of go is **gone**.",
+    "**A** uses the simple past \"went\" after \"had\".",
+    "**B** has the same participle error and the wrong tense (present perfect in a past story).",
+    "**D** has no helping verb, so the sentence has no complete verb."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3.** \"The committee chose two students, Mona and **I**, to represent the school.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) me",
+    "C) myself",
+    "D) mine"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**B is correct.** \"Mona and ___\" renames \"two students\", the object of \"chose\". Test: the committee chose **me** → object form.",
+    "**A** is the subject form.",
+    "**C** is reflexive, but the subject (the committee) is not the same as the object.",
+    "**D** is possessive."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4.** \"Many young engineers are **capable to design** buildings that use far less energy.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) capable in designing",
+    "C) capable of designing",
+    "D) capable for design"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**C is correct.** The idiom is \"capable **of** + -ing\".",
+    "**A** uses \"to\", **B** uses \"in\", and **D** uses \"for\" — all non-standard after \"capable\".",
+    "**Trap name:** idiom error; it only sounds wrong if you have learned the pair, so learn the table above."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5.** \"Of all the dishes at the festival, the koshari from the small stall near the gate was the **more popular**.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) most popular",
+    "C) popularest",
+    "D) most popularest"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**B is correct.** \"Of all the dishes\" compares many items, so the superlative \"most popular\" is needed.",
+    "**A** is a comparative, used only for two items.",
+    "**C** and **D** are not correct English forms; long adjectives use most, and you never combine most with -est."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**Nearest-noun trap:** the verb is made to agree with a noun in a phrase between the subject and the verb.",
+    "**Sounds-polite trap:** \"between you and I\", \"Karim and myself\" — they sound formal but are wrong.",
+    "**Simple past after had:** had went, had took, has began.",
+    "**Adjective where an adverb is needed:** cut very careful, incredible fast.",
+    "**Superlative for two:** \"the best of the two\" → the better of the two.",
+    "**Wrong preposition:** different with, capable to, consist from.",
+    "**Twin words:** affect/effect, than/then, lie/lay — check the part of speech."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Verb choices? Cross out the phrase in the middle and find the real subject.",
+    "Pronoun choices? Cover the other person, or replace with he/him.",
+    "After had/has/have? Use the third form (gone, written, taken).",
+    "Describing a verb or an adjective? Adverb. Describing a noun or after a linking verb? Adjective.",
+    "Two things → -er/more; three or more → -est/most.",
+    "Only the preposition changes? Say each one; choose the standard idiom."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "Who ولا Whom؟",
+   "text": "حوّل الجملة لجملة قصيرة وجرّب he و him. لو he مناسبة استخدم who، ولو him مناسبة استخدم whom. مثال: My grandfather, ___ repaired radios → he repaired → who."
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Two ACT-style essays with 6 questions each. The numbers in brackets match the question numbers. For more practice on agreement, pronouns and verb forms, see the grammar lessons in the SAT course."
+  },
+  {
+   "type": "test",
+   "title": "ACT Grammar and Usage quiz",
+   "timed": false,
+   "intro": "Two ACT-style essays with 6 questions each, testing agreement, pronouns, verb forms, modifiers, comparisons, idioms and confused words.",
+   "sections": [
+    {
+     "name": "Passages I–II",
+     "minutes": 9,
+     "questions": [
+      {
+       "q": "[1] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "was",
+        "have been",
+        "are"
+       ],
+       "a": 1,
+       "e": "The subject is \"Each\", which is always singular; \"of the stone blocks\" is only a phrase in between. Singular subject → \"was\". A, C and D are plural, and D also changes the tense.",
+       "s": "Subject–verb agreement",
+       "p": "Moving a Mountain\n\nIn the 1960s, the rising waters of Lake Nasser threatened the temples of Abu Simbel, which had been carved into a cliff beside the Nile more than three thousand years earlier. Engineers decided on a bold plan: they would cut the temples into huge blocks and rebuild them on higher ground.\n\nEach of the stone blocks __were__ [1] numbered so that it could be returned to exactly the right position. The cutting had to be done __very carefully__ [2], because even a small crack could ruin the face of one of the giant statues. By the time the water reached the old site, the workers __had took__ [3] the last block away to safety.\n\nThe Great Temple was built to face the rising sun, and the engineers made sure that __they__ [4] still did after the move. Twice a year, sunlight still enters the temple and lights the statues deep inside.\n\nVisitors today find the new site hardly __different with__ [5] the original. Of the two temples, the Great Temple is the __largest__ [6], and its four seated statues of Ramses II still look out over the lake."
+      },
+      {
+       "q": "[2] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "very careful",
+        "very much careful",
+        "more careful"
+       ],
+       "a": 0,
+       "e": "The word describes how the cutting was done (the verb \"be done\"), so it must be an adverb: \"carefully\". B, C and D use the adjective \"careful\"; D also makes a comparison with nothing to compare.",
+       "s": "Adjectives vs adverbs",
+       "p": "Moving a Mountain\n\nIn the 1960s, the rising waters of Lake Nasser threatened the temples of Abu Simbel, which had been carved into a cliff beside the Nile more than three thousand years earlier. Engineers decided on a bold plan: they would cut the temples into huge blocks and rebuild them on higher ground.\n\nEach of the stone blocks __were__ [1] numbered so that it could be returned to exactly the right position. The cutting had to be done __very carefully__ [2], because even a small crack could ruin the face of one of the giant statues. By the time the water reached the old site, the workers __had took__ [3] the last block away to safety.\n\nThe Great Temple was built to face the rising sun, and the engineers made sure that __they__ [4] still did after the move. Twice a year, sunlight still enters the temple and lights the statues deep inside.\n\nVisitors today find the new site hardly __different with__ [5] the original. Of the two temples, the Great Temple is the __largest__ [6], and its four seated statues of Ramses II still look out over the lake."
+      },
+      {
+       "q": "[3] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "have took",
+        "taken",
+        "had taken"
+       ],
+       "a": 3,
+       "e": "After \"had\" or \"have\" you need the past participle. The participle of \"take\" is \"taken\" (take – took – taken). The past perfect \"had taken\" is right because the workers finished before the water arrived. A and B use the simple past \"took\" after had/have; C has no helping verb, so the clause has no complete verb.",
+       "s": "Verb forms (past participles)",
+       "p": "Moving a Mountain\n\nIn the 1960s, the rising waters of Lake Nasser threatened the temples of Abu Simbel, which had been carved into a cliff beside the Nile more than three thousand years earlier. Engineers decided on a bold plan: they would cut the temples into huge blocks and rebuild them on higher ground.\n\nEach of the stone blocks __were__ [1] numbered so that it could be returned to exactly the right position. The cutting had to be done __very carefully__ [2], because even a small crack could ruin the face of one of the giant statues. By the time the water reached the old site, the workers __had took__ [3] the last block away to safety.\n\nThe Great Temple was built to face the rising sun, and the engineers made sure that __they__ [4] still did after the move. Twice a year, sunlight still enters the temple and lights the statues deep inside.\n\nVisitors today find the new site hardly __different with__ [5] the original. Of the two temples, the Great Temple is the __largest__ [6], and its four seated statues of Ramses II still look out over the lake."
+      },
+      {
+       "q": "[4] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "them",
+        "it",
+        "one"
+       ],
+       "a": 2,
+       "e": "The pronoun refers to \"the Great Temple\" (one thing), which faced the sun, so it must be singular: \"it still did\". A is plural and seems to mean the engineers; B is plural and an object form; D does not refer clearly to the temple.",
+       "s": "Pronoun agreement",
+       "p": "Moving a Mountain\n\nIn the 1960s, the rising waters of Lake Nasser threatened the temples of Abu Simbel, which had been carved into a cliff beside the Nile more than three thousand years earlier. Engineers decided on a bold plan: they would cut the temples into huge blocks and rebuild them on higher ground.\n\nEach of the stone blocks __were__ [1] numbered so that it could be returned to exactly the right position. The cutting had to be done __very carefully__ [2], because even a small crack could ruin the face of one of the giant statues. By the time the water reached the old site, the workers __had took__ [3] the last block away to safety.\n\nThe Great Temple was built to face the rising sun, and the engineers made sure that __they__ [4] still did after the move. Twice a year, sunlight still enters the temple and lights the statues deep inside.\n\nVisitors today find the new site hardly __different with__ [5] the original. Of the two temples, the Great Temple is the __largest__ [6], and its four seated statues of Ramses II still look out over the lake."
+      },
+      {
+       "q": "[5] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "different from",
+        "differently from",
+        "different at"
+       ],
+       "a": 1,
+       "e": "The standard idiom is \"different from\". A and D use the wrong preposition; C uses the adverb \"differently\", but the word describes the noun \"site\", so it must be the adjective \"different\".",
+       "s": "Idioms / prepositions",
+       "p": "Moving a Mountain\n\nIn the 1960s, the rising waters of Lake Nasser threatened the temples of Abu Simbel, which had been carved into a cliff beside the Nile more than three thousand years earlier. Engineers decided on a bold plan: they would cut the temples into huge blocks and rebuild them on higher ground.\n\nEach of the stone blocks __were__ [1] numbered so that it could be returned to exactly the right position. The cutting had to be done __very carefully__ [2], because even a small crack could ruin the face of one of the giant statues. By the time the water reached the old site, the workers __had took__ [3] the last block away to safety.\n\nThe Great Temple was built to face the rising sun, and the engineers made sure that __they__ [4] still did after the move. Twice a year, sunlight still enters the temple and lights the statues deep inside.\n\nVisitors today find the new site hardly __different with__ [5] the original. Of the two temples, the Great Temple is the __largest__ [6], and its four seated statues of Ramses II still look out over the lake."
+      },
+      {
+       "q": "[6] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "most large",
+        "larger",
+        "more larger"
+       ],
+       "a": 2,
+       "e": "\"Of the two temples\" compares only two things, so the comparative \"larger\" is correct. A and B are superlatives (for three or more); D is a double comparative.",
+       "s": "Comparatives vs superlatives",
+       "p": "Moving a Mountain\n\nIn the 1960s, the rising waters of Lake Nasser threatened the temples of Abu Simbel, which had been carved into a cliff beside the Nile more than three thousand years earlier. Engineers decided on a bold plan: they would cut the temples into huge blocks and rebuild them on higher ground.\n\nEach of the stone blocks __were__ [1] numbered so that it could be returned to exactly the right position. The cutting had to be done __very carefully__ [2], because even a small crack could ruin the face of one of the giant statues. By the time the water reached the old site, the workers __had took__ [3] the last block away to safety.\n\nThe Great Temple was built to face the rising sun, and the engineers made sure that __they__ [4] still did after the move. Twice a year, sunlight still enters the temple and lights the statues deep inside.\n\nVisitors today find the new site hardly __different with__ [5] the original. Of the two temples, the Great Temple is the __largest__ [6], and its four seated statues of Ramses II still look out over the lake."
+      },
+      {
+       "q": "[7] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "whose",
+        "which",
+        "who"
+       ],
+       "a": 3,
+       "e": "The pronoun is the subject of \"repaired\" (he repaired radios), so it must be the subject form \"who\". \"Whom\" (A) is the object form; \"whose\" (B) shows possession; \"which\" (C) is not used for people.",
+       "s": "Who / whom",
+       "p": "The Radio on the Shelf\n\nMy grandfather, __whom__ [7] repaired radios in a tiny shop in Mansoura for forty years, never threw anything away. His shelves were covered with old valves, coils of copper wire and radios that had stopped working decades earlier. One summer he taught my cousin Karim and __I__ [8] how to open a radio without breaking it.\n\nHe worked slowly. After lunch he would __lay__ [9] down on the old sofa for exactly twenty minutes, and then he would return to his bench and explain each part to us as if it were a living thing.\n\nThose afternoons had a strange __effect__ [10] on me. At school I had always found science difficult, but in the shop the ideas suddenly made sense. By August I understood the circuits better __then__ [11] Karim did, even though he was two years older.\n\nMy grandfather died three years ago, but his workbench now stands in my bedroom. Since that summer, I __have repaired__ [12] more than twenty radios, and every one of them still plays."
+      },
+      {
+       "q": "[8] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "myself",
+        "me",
+        "mine"
+       ],
+       "a": 2,
+       "e": "\"My cousin Karim and ___\" is the object of \"taught\". Remove \"my cousin Karim and\": he taught me, not he taught I. B is reflexive, which is only used when the subject and the object are the same person; D is possessive.",
+       "s": "Pronoun case",
+       "p": "The Radio on the Shelf\n\nMy grandfather, __whom__ [7] repaired radios in a tiny shop in Mansoura for forty years, never threw anything away. His shelves were covered with old valves, coils of copper wire and radios that had stopped working decades earlier. One summer he taught my cousin Karim and __I__ [8] how to open a radio without breaking it.\n\nHe worked slowly. After lunch he would __lay__ [9] down on the old sofa for exactly twenty minutes, and then he would return to his bench and explain each part to us as if it were a living thing.\n\nThose afternoons had a strange __effect__ [10] on me. At school I had always found science difficult, but in the shop the ideas suddenly made sense. By August I understood the circuits better __then__ [11] Karim did, even though he was two years older.\n\nMy grandfather died three years ago, but his workbench now stands in my bedroom. Since that summer, I __have repaired__ [12] more than twenty radios, and every one of them still plays."
+      },
+      {
+       "q": "[9] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "lie",
+        "laid",
+        "lain"
+       ],
+       "a": 1,
+       "e": "\"Lie\" means to rest your body (no object): he would lie down. \"Lay\" (A) means to put something down and needs an object; it is also the past tense of \"lie\", but after \"would\" we need the base form. C is the past of \"lay\"; D is the past participle of \"lie\" and needs \"have\".",
+       "s": "Commonly confused words (lie/lay)",
+       "p": "The Radio on the Shelf\n\nMy grandfather, __whom__ [7] repaired radios in a tiny shop in Mansoura for forty years, never threw anything away. His shelves were covered with old valves, coils of copper wire and radios that had stopped working decades earlier. One summer he taught my cousin Karim and __I__ [8] how to open a radio without breaking it.\n\nHe worked slowly. After lunch he would __lay__ [9] down on the old sofa for exactly twenty minutes, and then he would return to his bench and explain each part to us as if it were a living thing.\n\nThose afternoons had a strange __effect__ [10] on me. At school I had always found science difficult, but in the shop the ideas suddenly made sense. By August I understood the circuits better __then__ [11] Karim did, even though he was two years older.\n\nMy grandfather died three years ago, but his workbench now stands in my bedroom. Since that summer, I __have repaired__ [12] more than twenty radios, and every one of them still plays."
+      },
+      {
+       "q": "[10] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "affect",
+        "effects",
+        "affecting"
+       ],
+       "a": 0,
+       "e": "After \"a strange\" we need a noun, and the noun meaning \"a result\" is \"effect\". \"Affect\" (B) is normally a verb; C is plural after \"a\"; D is a verb form.",
+       "s": "Commonly confused words (affect/effect)",
+       "p": "The Radio on the Shelf\n\nMy grandfather, __whom__ [7] repaired radios in a tiny shop in Mansoura for forty years, never threw anything away. His shelves were covered with old valves, coils of copper wire and radios that had stopped working decades earlier. One summer he taught my cousin Karim and __I__ [8] how to open a radio without breaking it.\n\nHe worked slowly. After lunch he would __lay__ [9] down on the old sofa for exactly twenty minutes, and then he would return to his bench and explain each part to us as if it were a living thing.\n\nThose afternoons had a strange __effect__ [10] on me. At school I had always found science difficult, but in the shop the ideas suddenly made sense. By August I understood the circuits better __then__ [11] Karim did, even though he was two years older.\n\nMy grandfather died three years ago, but his workbench now stands in my bedroom. Since that summer, I __have repaired__ [12] more than twenty radios, and every one of them still plays."
+      },
+      {
+       "q": "[11] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "then that",
+        "as",
+        "than"
+       ],
+       "a": 3,
+       "e": "A comparison with \"better\" needs \"than\". \"Then\" (A, B) is a time word (first… then…); \"as\" (C) is used in \"as good as\", not after \"better\".",
+       "s": "Commonly confused words (than/then)",
+       "p": "The Radio on the Shelf\n\nMy grandfather, __whom__ [7] repaired radios in a tiny shop in Mansoura for forty years, never threw anything away. His shelves were covered with old valves, coils of copper wire and radios that had stopped working decades earlier. One summer he taught my cousin Karim and __I__ [8] how to open a radio without breaking it.\n\nHe worked slowly. After lunch he would __lay__ [9] down on the old sofa for exactly twenty minutes, and then he would return to his bench and explain each part to us as if it were a living thing.\n\nThose afternoons had a strange __effect__ [10] on me. At school I had always found science difficult, but in the shop the ideas suddenly made sense. By August I understood the circuits better __then__ [11] Karim did, even though he was two years older.\n\nMy grandfather died three years ago, but his workbench now stands in my bedroom. Since that summer, I __have repaired__ [12] more than twenty radios, and every one of them still plays."
+      },
+      {
+       "q": "[12] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "repaired",
+        "had repaired",
+        "am repairing"
+       ],
+       "a": 0,
+       "e": "\"Since that summer\" describes a period that started in the past and continues now, so the present perfect \"have repaired\" is correct. B is simple past, which does not fit with \"since\"; C would place the action before another past event; D cannot be used with a number of finished repairs.",
+       "s": "Verb tense",
+       "p": "The Radio on the Shelf\n\nMy grandfather, __whom__ [7] repaired radios in a tiny shop in Mansoura for forty years, never threw anything away. His shelves were covered with old valves, coils of copper wire and radios that had stopped working decades earlier. One summer he taught my cousin Karim and __I__ [8] how to open a radio without breaking it.\n\nHe worked slowly. After lunch he would __lay__ [9] down on the old sofa for exactly twenty minutes, and then he would return to his bench and explain each part to us as if it were a living thing.\n\nThose afternoons had a strange __effect__ [10] on me. At school I had always found science difficult, but in the shop the ideas suddenly made sense. By August I understood the circuits better __then__ [11] Karim did, even though he was two years older.\n\nMy grandfather died three years ago, but his workbench now stands in my bedroom. Since that summer, I __have repaired__ [12] more than twenty radios, and every one of them still plays."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Find the true subject: cross out the middle phrase; each/every/one = singular.",
+    "Subject form: I, he, who. Object form (after verbs and prepositions): me, him, whom. Cover the other person to test.",
+    "After has/have/had use the past participle: gone, written, taken, begun.",
+    "Adverbs describe verbs and adjectives; adjectives describe nouns and follow linking verbs.",
+    "Two → -er/more, three+ → -est/most; learn the idioms (capable of, different from) and the twins (affect/effect, than/then, lie/lay)."
+   ]
+  }
+ ]
+}

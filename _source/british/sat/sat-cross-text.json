@@ -1,0 +1,482 @@
+{
+ "slug": "sat-cross-text",
+ "title": "Cross-Text Connections",
+ "kicker": "American Diploma · Digital SAT · Reading and Writing · Craft and Structure",
+ "summary": "Master the paired-text questions: summarise each text, name the relationship between them, and predict how one author would respond to the other.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Cross-Text Connections is the only SAT Reading and Writing question type with **two passages**. You read a short Text 1 and a short Text 2 on the same topic (each passage or pair of passages on the test is short: 25–150 words), and you answer one question about how the two texts relate. Usually one text makes a claim or reports a finding, and the other text responds to that topic in some way: by agreeing, disagreeing, adding a condition, or offering a different explanation."
+  },
+  {
+   "type": "p",
+   "text": "Typical question stems (in our own words):"
+  },
+  {
+   "type": "list",
+   "items": [
+    "\"Based on the texts, how would the author of Text 2 most likely respond to the claim in Text 1?\"",
+    "\"Based on the texts, how would [the researcher named in Text 2] most likely respond to the conclusion of the researchers in Text 1?\"",
+    "\"Based on the texts, both authors would most likely agree with which statement?\"",
+    "\"Based on the texts, how would the author of Text 2 most likely describe the approach discussed in Text 1?\""
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "This skill is part of the **Craft and Structure** domain, with Words in Context and Text Structure and Purpose. Craft and Structure makes up about 28% of the scored Reading and Writing questions (13–15 questions across both modules). Cross-Text questions usually appear near the start of a module, among the other Craft and Structure questions."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "The big idea",
+   "text": "You are a referee in a conversation. Text 2's author has NOT read the question; you must imagine what that author would say to Text 1 using ONLY what Text 2 actually says. The correct answer is the most modest, best-supported reply."
+  },
+  {
+   "type": "h2",
+   "text": "The method in six steps"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Read the question first** (just the stem). Note who responds to whom, and to what: \"Text 2 → the claim in Text 1\", or \"both agree\".",
+    "**Summarise Text 1 in one line:** WHO claims WHAT, and on what basis. Example: \"Ecologists: city foxes are bold because of inherited change.\"",
+    "**Summarise Text 2 in one line,** focusing on what it says about the same point. Example: \"Saleh: city cubs moved to the country became cautious → boldness is learned.\"",
+    "**Name the relationship** with one word: agree, disagree, qualify, extend, alternative explanation, or question the method/evidence (see the table below).",
+    "**Predict the reply** in your own words, as if Text 2's author were speaking: \"You're right that city foxes are bold, but it's learning, not genes.\"",
+    "**Eliminate** choices that misstate either text, swap who said what, use a reason Text 2 never gives, or are more extreme than Text 2."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Read Text 1 carefully too",
+   "text": "Many wrong answers describe Text 2 correctly but describe Text 1 wrongly (or the other way around). An answer can only be right if it is true to BOTH texts."
+  },
+  {
+   "type": "h2",
+   "text": "The language of relationships"
+  },
+  {
+   "type": "p",
+   "text": "Text 2 almost never says \"I disagree with Text 1.\" You must infer the relationship from signals. Learn these patterns:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Relationship",
+    "What Text 2 does",
+    "Signals in Text 2",
+    "Typical right-answer wording"
+   ],
+   "rows": [
+    [
+     "Agree / support",
+     "gives more evidence for the same claim",
+     "similarly, also found, confirms, consistent with",
+     "\"would see the finding as consistent with her own results\""
+    ],
+    [
+     "Disagree / reject",
+     "says the claim is wrong",
+     "however, in fact, contrary to, this view ignores",
+     "\"would argue that the claim is mistaken because…\""
+    ],
+    [
+     "Qualify",
+     "accepts part of the claim but limits it",
+     "it is true that… but; only when; not enough on its own",
+     "\"would agree in part but argue that… alone is not sufficient\""
+    ],
+    [
+     "Extend",
+     "applies the claim to new cases or adds a further consequence",
+     "also, even, other species/groups, more broadly",
+     "\"would suggest that the effect also applies to…\""
+    ],
+    [
+     "Alternative explanation",
+     "accepts the facts but explains them differently",
+     "rather than, instead, may actually be due to",
+     "\"would argue that another factor better explains…\""
+    ],
+    [
+     "Question the method / evidence",
+     "says the study cannot support its conclusion",
+     "cannot rule out, did not account for, only a correlation, small sample",
+     "\"would caution that the evidence does not establish…\""
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Correlation and causation:** a very common Text 2 move is to point out that Text 1 found two things happening together (more time outdoors and better mood) and then assumed that one causes the other. If Text 2 says the study \"cannot rule out\" another cause, the answer will be about the evidence being insufficient, not about the claim being false."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الفكرة اللي لازم تمسكها",
+   "text": "لخّص كل نص في سطر واحد: مين قال إيه؟ بعد كده اسأل: النص التاني موافق؟ معترض؟ موافق بس بشرط (qualify)؟ ولا بيقول إن في سبب تاني للنتيجة؟ وتخيّل كاتب Text 2 بيرد على كاتب Text 1 بكلامه هو بس. الإجابة الصح عمرها ما تكون أقوى من كلام النص التاني."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — Alternative explanation (science)**"
+  },
+  {
+   "type": "p",
+   "text": "**Text 1:** Some ecologists have argued that urban foxes are bolder than rural foxes because city life has favored individuals that are less fearful of people. In this view, generations of living near humans have changed fox behavior in a lasting, inherited way.  **Text 2:** Biologist Omar Saleh studied young foxes born in cities and in the countryside. He found that city-born cubs that were moved to rural areas soon became as cautious as rural foxes. Saleh concludes that boldness in urban foxes is mainly learned from experience with people rather than inherited."
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Based on the texts, how would Saleh (Text 2) most likely respond to the ecologists' view presented in Text 1?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) He would agree with it, since his study confirmed that city foxes are bolder than rural foxes.",
+    "B) He would argue that the boldness of urban foxes is better explained by learning than by inherited change.",
+    "C) He would claim that rural foxes are in fact bolder than urban foxes.",
+    "D) He would suggest that the ecologists studied too few foxes to reach any conclusion."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Summary lines:** T1 = boldness inherited. T2 = boldness learned. Relationship = alternative explanation."
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A — ✗ Wrong.** Half-right. Saleh accepts that city foxes are bold, but he rejects the ecologists' EXPLANATION (inheritance). Agreeing with \"the view\" is wrong.",
+    "**B — ✓ Correct.** Text 1: bold because of inherited change. Text 2: cubs became cautious when moved → learned, \"rather than inherited.\" Same facts, different explanation. Correct.",
+    "**C — ✗ Wrong.** Reversed / unsupported. Neither text says rural foxes are bolder.",
+    "**D — ✗ Wrong.** Wrong reason. Saleh never comments on sample size; he answers with his own experiment's result."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — Qualify (literary criticism)**"
+  },
+  {
+   "type": "p",
+   "text": "**Text 1:** Critics often praise the novelist Nadia Rostom for her realistic dialogue. Her characters, they say, speak exactly as ordinary people do, with all the hesitations and interruptions of real conversation.  **Text 2:** Rostom's dialogue certainly feels natural on the page. But a careful reading shows that her characters rarely waste a word: every line, however casual it sounds, reveals something about the speaker or moves the plot forward. Real conversation is far less efficient. Rostom's achievement is not to copy everyday speech but to create the illusion of it."
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Based on the texts, how would the author of Text 2 most likely respond to the critics' claim in Text 1?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) By agreeing that Rostom's characters speak exactly as real people do",
+    "B) By arguing that Rostom's dialogue sounds unnatural and should be revised",
+    "C) By claiming that the critics have not actually read Rostom's novels",
+    "D) By accepting that the dialogue seems realistic while arguing that it is more carefully shaped than ordinary speech"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Signal:** \"certainly… But…\" is the qualify pattern: agree with the surface, correct the detail."
+  },
+  {
+   "type": "p",
+   "text": "**Answer: D**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A — ✗ Wrong.** Too much agreement. Text 2 says her dialogue is NOT exact copying: \"Real conversation is far less efficient.\"",
+    "**B — ✗ Wrong.** Too extreme / reversed. Text 2 says the dialogue \"certainly feels natural\" and calls it an \"achievement\".",
+    "**C — ✗ Wrong.** Unsupported. Text 2 disagrees with an interpretation; it never accuses the critics of not reading.",
+    "**D — ✓ Correct.** \"Certainly feels natural\" (accepts) + \"But… rarely waste a word\" (limits) = qualify. Correct."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — Both authors agree (education research)**"
+  },
+  {
+   "type": "p",
+   "text": "**Text 1:** Several schools have moved the start of the school day for teenage students from 7:30 to 8:30 a.m. A study of three such schools found that afterward students slept longer and missed fewer first-period classes. The researchers recommend that other schools make the same change.  **Text 2:** Sleep researcher Dina Fouad agrees that teenagers need more sleep but warns that later start times alone may not be enough. In her study, students who started school later but kept using their phones late at night gained little extra sleep. Fouad argues that schools should combine later start times with guidance about evening screen use."
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Based on the texts, the researchers in Text 1 and Fouad (Text 2) would most likely agree with which statement?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) Teenagers' lack of sleep is worth addressing, and later school start times can be part of the solution.",
+    "B) Later school start times alone are enough to solve teenagers' sleep problems.",
+    "C) Phone use at night is the main cause of poor sleep among teenagers.",
+    "D) Schools should not change their start times until more research has been done."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Rule for \"both agree\" questions:** find the overlap. The answer must be supported by Text 1 AND by Text 2. Anything mentioned in only one text is out."
+  },
+  {
+   "type": "p",
+   "text": "**Answer: A**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A — ✓ Correct.** Text 1 recommends later starts; Fouad wants later starts COMBINED with screen guidance. Both accept the problem and see later starts as useful. Correct.",
+    "**B — ✗ Wrong.** Fouad rejects this directly: \"alone may not be enough.\"",
+    "**C — ✗ Wrong.** Only Text 2 discusses phones, and even Fouad does not say phones are the MAIN cause. A \"both agree\" answer needs support in both texts.",
+    "**D — ✗ Wrong.** Neither text says this; both actually support later start times."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4 — Question the evidence (social science)**"
+  },
+  {
+   "type": "p",
+   "text": "**Text 1:** Linguist Samir Haddad surveyed 2,000 university students and found that those who grew up speaking two languages scored higher on a test of attention control than those who grew up speaking one. Haddad concludes that bilingualism improves attention.  **Text 2:** Studies like this can be hard to interpret. In many countries, children who grow up bilingual are more likely to come from families with higher incomes and more years of schooling, factors that are themselves linked to stronger test performance. Unless researchers account for such differences, they cannot be sure that bilingualism, rather than family background, explains the results."
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Based on the texts, how would the author of Text 2 most likely respond to Haddad's conclusion?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) By pointing out that Haddad's test of attention control was too difficult for most students",
+    "B) By agreeing that bilingualism is the only factor that explains the students' scores",
+    "C) By cautioning that the higher scores might be explained by other differences between the two groups",
+    "D) By arguing that students who speak one language have better attention control than bilingual students"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A — ✗ Wrong.** Unsupported. Text 2 never discusses how hard the test was.",
+    "**B — ✗ Wrong.** Reversed. Text 2's whole point is that OTHER factors might explain the scores.",
+    "**C — ✓ Correct.** Text 2 says researchers \"cannot be sure\" because of family background. That is a caution about evidence, not a rejection of the result. Correct.",
+    "**D — ✗ Wrong.** Too extreme. Text 2 does not claim the opposite result; it only says the cause is uncertain."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**Swapped texts:** the choice gives Text 2's idea to Text 1, or describes Text 1 incorrectly.",
+    "**Too strong:** Text 2 only questions or qualifies, but the choice says it \"rejects completely\" or \"proves wrong\".",
+    "**Too much agreement:** Text 2 accepts the facts but not the explanation; a choice saying \"would agree\" is half-right.",
+    "**New reason:** the choice gives a criticism Text 2 never makes (sample size, cost, cruelty, test difficulty).",
+    "**One-text-only (\"both agree\" questions):** an idea mentioned in only one text cannot be something both authors agree on.",
+    "**Off-topic response:** the choice answers a different part of Text 1 than the one the question asks about."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Read the stem first so you know who is responding to what.",
+    "Write two summary lines: T1 = …, T2 = …. Then one relationship word.",
+    "Find Text 2's signal words: but, however, rather than, alone, cannot rule out, also, even.",
+    "Prefer the most modest choice that both texts fully support.",
+    "If stuck between two, test each against Text 1 as well as Text 2; the wrong one usually misstates Text 1. Never leave a question blank: there is no penalty for wrong answers."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الفخ المشهور",
+   "text": "أشهر فخ: النص التاني موافق على «الحقيقة» بس مختلف في «التفسير». ساعتها الاختيار اللي بيقول «He would agree» يبقى نصّه صح بس غلط. وفي سؤال «both would agree» الإجابة لازم تكون موجودة في النصين مع بعض، مش في نص واحد بس."
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Ten original paired-text questions in real test format. Summarise each text in one line, name the relationship, then choose."
+  },
+  {
+   "type": "test",
+   "title": "Cross-Text Connections — Practice Quiz",
+   "timed": false,
+   "intro": "10 questions · untimed · each question has a pair of short texts. Summarise each text in one line before you read the choices.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 14,
+     "questions": [
+      {
+       "p": "Text 1\nArchaeologist Laila Barakat argues that the small clay figures found at an ancient settlement were children's toys. She notes that the figures are simple, are often broken, and were found mostly near houses rather than in temples.\n\nText 2\nOther researchers point out that similar figures from the same period have been found in graves, placed carefully beside the dead. To these researchers, this suggests that the figures had a religious meaning, and their presence near houses may reflect worship that took place inside the home.",
+       "q": "Based on the texts, how would the researchers in Text 2 most likely respond to Barakat's argument in Text 1?",
+       "c": [
+        "They would agree that the figures were toys, since many of them were found broken.",
+        "They would argue that the places where similar figures were found point to a religious purpose rather than play.",
+        "They would claim that the figures were made in temples and later sold to families.",
+        "They would reject the claim that the figures were found near houses."
+       ],
+       "a": 1,
+       "e": "Text 2 accepts where the figures were found but reads the evidence (graves, home worship) as religious: an alternative explanation (B). A contradicts Text 2; C is never said; D is wrong because Text 2 accepts the location and reinterprets it.",
+       "s": "Cross-Text Connections"
+      },
+      {
+       "p": "Text 1\nA study of honeybees found that bees exposed to low doses of a widely used pesticide had more difficulty finding their way back to the hive after collecting food.\n\nText 2\nEntomologist Karim Nabil tested the same pesticide on bumblebees and on wild solitary bees. He found similar navigation problems in both groups, and the effect was even stronger in solitary bees, which have no colony to replace individuals that fail to return.",
+       "q": "Based on the texts, how would Nabil most likely respond to the findings described in Text 1?",
+       "c": [
+        "He would argue that honeybees are not affected by the pesticide.",
+        "He would claim that the study in Text 1 measured navigation incorrectly.",
+        "He would suggest that the pesticide harms honeybees more than any other kind of bee.",
+        "He would note that the problem it describes also affects other kinds of bees, in some cases more severely."
+       ],
+       "a": 3,
+       "e": "Nabil found \"similar navigation problems\" in other bees, \"even stronger\" in solitary bees: he extends the finding (D). A and B contradict or criticize without support; C reverses his result.",
+       "s": "Cross-Text Connections"
+      },
+      {
+       "p": "Text 1\nSome music teachers believe that students should master reading sheet music before they are allowed to play by ear. In their view, students who learn by ear too early will struggle later with complex written pieces.\n\nText 2\nMusic educator Youssef Amin reports that his students who began by playing familiar songs by ear, and only later learned to read notation, became confident readers of music within two years. Many of them, he adds, continued studying music longer because their early lessons were enjoyable.",
+       "q": "Based on the texts, how would Amin most likely respond to the view of the teachers in Text 1?",
+       "c": [
+        "By suggesting that learning by ear first does not prevent students from becoming skilled readers of music",
+        "By agreeing that students should learn to read notation before they play by ear",
+        "By arguing that reading sheet music is unnecessary for serious musicians",
+        "By claiming that the teachers in Text 1 are unable to play by ear themselves"
+       ],
+       "a": 0,
+       "e": "The teachers fear ear-first learners will struggle with notation; Amin's ear-first students became confident readers. A is the modest, supported reply. B is reversed; C is too extreme (his students did learn notation); D is unsupported.",
+       "s": "Cross-Text Connections"
+      },
+      {
+       "p": "Text 1\nUrban trees do more than make streets attractive. By shading pavement and releasing water through their leaves, they can lower summer temperatures in a neighborhood by several degrees.\n\nText 2\nPlanting trees is a popular way for cities to fight heat, but young trees need years of watering and care before they provide much shade. Planner Mariam Zaki therefore argues that cities should focus on protecting existing large trees, which already provide the greatest cooling, rather than relying mainly on new planting.",
+       "q": "Based on the texts, both authors would most likely agree with which statement?",
+       "c": [
+        "Cities should stop planting new trees.",
+        "Young trees cool neighborhoods as effectively as large, mature trees.",
+        "Trees can help reduce heat in cities.",
+        "Attractive streets matter more to residents than cooler temperatures."
+       ],
+       "a": 2,
+       "e": "Text 1 says trees lower temperatures; Text 2 says large trees \"provide the greatest cooling.\" Both support C. Text 2 says \"rather than relying mainly on\" new planting, not stop it (A); B contradicts Text 2; D appears in neither.",
+       "s": "Cross-Text Connections"
+      },
+      {
+       "p": "Text 1\nResearchers asked 50 volunteers to keep a diary of their moods for one week. Volunteers who spent more time outdoors reported feeling happier. The researchers conclude that spending time outdoors improves mood.\n\nText 2\nDiary studies have a known weakness: people who already feel cheerful may simply be more likely to go outside. Psychologist Hoda Ramzy argues that only an experiment that randomly assigns some people to spend time outdoors can show whether being outdoors actually causes better moods.",
+       "q": "Based on the texts, how would Ramzy most likely respond to the researchers' conclusion in Text 1?",
+       "c": [
+        "She would agree that the diary study proves that time outdoors improves mood.",
+        "She would argue that time outdoors makes most people less happy.",
+        "She would say the study cannot rule out the possibility that happier people choose to spend more time outdoors.",
+        "She would claim that the diary study included too many volunteers."
+       ],
+       "a": 2,
+       "e": "Ramzy questions the direction of cause: cheerful people may go outside more. That is C. A is the opposite; B is too extreme (she does not claim the reverse effect); D gives a reason she never mentions.",
+       "s": "Cross-Text Connections"
+      },
+      {
+       "p": "Text 1\nMany readers see the poet Farida Nour's late poems as darker than her early work, filled with images of winter, endings, and loss.\n\nText 2\nIt is true that winter appears often in Nour's late poems. Yet in nearly every one, the cold season is followed by images of returning birds or rivers breaking free of ice. Her late work is less a turn toward darkness than a meditation on how endings give way to renewal.",
+       "q": "Based on the texts, how would the author of Text 2 most likely respond to the readers' view described in Text 1?",
+       "c": [
+        "By acknowledging the images those readers notice while arguing that the images lead toward a more hopeful theme",
+        "By denying that Nour's late poems contain images of winter",
+        "By agreeing that the late poems are mainly about loss",
+        "By arguing that Nour's early poems are darker than her late ones"
+       ],
+       "a": 0,
+       "e": "\"It is true that winter appears often… Yet…\" = concede and qualify. The author accepts the images but reads them as leading to renewal (A). B contradicts \"It is true\"; C is the view Text 2 corrects; D: Text 2 never discusses the early poems.",
+       "s": "Cross-Text Connections"
+      },
+      {
+       "p": "Text 1\nPopular histories often credit the telephone to a single inventor, presenting it as the work of one brilliant individual.\n\nText 2\nHistorian Adel Mostafa points out that several inventors in different countries were working on ways to send speech by wire during the same years, and many of them built on one another's published ideas. Mostafa argues that major inventions usually emerge from the efforts of many people rather than from one person alone.",
+       "q": "Based on the texts, how would Mostafa most likely respond to the account described in Text 1?",
+       "c": [
+        "He would argue that the telephone was never truly invented.",
+        "He would agree that the telephone was the work of one brilliant individual.",
+        "He would claim that the inventor credited in popular histories copied his ideas from a single rival.",
+        "He would say that the account oversimplifies the telephone's development by overlooking the work of other inventors."
+       ],
+       "a": 3,
+       "e": "Mostafa says inventions come from \"many people rather than from one person alone,\" so he would call the single-inventor story an oversimplification (D). A is absurd; B is reversed; C accuses one person of copying, which Text 2 never says.",
+       "s": "Cross-Text Connections"
+      },
+      {
+       "p": "Text 1\nSome researchers believe that the decline of a lake's fish population was caused by overfishing, since the decline began in the same decade that commercial fishing boats arrived.\n\nText 2\nEcologist Sara Wahba measured the lake's water over the same period and found that runoff from nearby farms had greatly increased the amount of algae, which reduced the oxygen that fish need. She also notes that fish numbers fell in parts of the lake where fishing was banned.",
+       "q": "Based on the texts, how would Wahba most likely respond to the researchers' explanation in Text 1?",
+       "c": [
+        "She would agree with it, because the decline began in the decade the fishing boats arrived.",
+        "She would point out that the decline in areas closed to fishing suggests another cause, such as low oxygen linked to algae.",
+        "She would argue that commercial fishing boats increased the amount of algae in the lake.",
+        "She would claim that the lake's fish population never actually declined."
+       ],
+       "a": 1,
+       "e": "Fish declined even where fishing was banned, and Wahba found an oxygen problem caused by farm runoff: an alternative explanation (B). A ignores her evidence; C links algae to boats, but she links it to farms; D contradicts both texts.",
+       "s": "Cross-Text Connections"
+      },
+      {
+       "p": "Text 1\nSupporters of handwritten note-taking argue that students who write by hand remember lectures better, because writing slowly forces them to summarize ideas in their own words instead of copying everything.\n\nText 2\nEducation researcher Tamer Lotfy found that students who typed notes on laptops also remembered lectures well, as long as they were told to summarize rather than copy the speaker's exact words. For Lotfy, the tool matters less than whether students process the ideas themselves.",
+       "q": "Based on the texts, the supporters of handwriting in Text 1 and Lotfy (Text 2) would most likely agree with which statement?",
+       "c": [
+        "Putting ideas into one's own words helps students remember what they hear.",
+        "Laptops should not be allowed in lecture halls.",
+        "Handwriting is always better than typing for taking notes.",
+        "Copying a speaker's exact words is the most effective way to take notes."
+       ],
+       "a": 0,
+       "e": "Text 1's reason is summarizing \"in their own words\"; Lotfy says processing ideas yourself matters most. Both support A. B and C go against Lotfy; D goes against both.",
+       "s": "Cross-Text Connections"
+      },
+      {
+       "p": "Text 1\nTo study how crows solve problems, researchers usually test the birds in laboratory cages, using puzzle boxes with food hidden inside.\n\nText 2\nBiologist Nour El-Din spent three years watching wild crows in city parks. She recorded crows dropping nuts onto roads so that passing cars would crack them, then waiting for the traffic lights to change before collecting the pieces. Such behavior, she argues, shows abilities that laboratory puzzles may never reveal.",
+       "q": "Based on the texts, how would El-Din most likely describe the approach discussed in Text 1?",
+       "c": [
+        "As the only reliable way to measure how intelligent crows are",
+        "As cruel to the birds and something researchers should abandon",
+        "As more informative than observing crows in the wild",
+        "As limited, because it may miss some problem-solving abilities that crows show in natural settings"
+       ],
+       "a": 3,
+       "e": "El-Din says laboratory puzzles \"may never reveal\" some abilities: the method is limited (D). A and C are reversed; B gives a criticism (cruelty) that Text 2 never makes.",
+       "s": "Cross-Text Connections"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Summarise each text in one line: who claims what, based on what.",
+    "Name the relationship: agree, disagree, qualify, extend, alternative explanation, or question the evidence.",
+    "Text 2 often accepts the facts but changes the explanation; \"would agree\" is then a half-right trap.",
+    "For \"both agree\", the answer must be supported by BOTH texts.",
+    "Choose the most modest reply that uses only what Text 2 actually says."
+   ]
+  }
+ ]
+}

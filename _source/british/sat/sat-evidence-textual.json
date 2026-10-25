@@ -1,0 +1,520 @@
+{
+ "slug": "sat-evidence-textual",
+ "title": "Command of Evidence: Textual",
+ "kicker": "American Diploma · Digital SAT · Reading and Writing · Information and Ideas",
+ "summary": "Learn how to choose the finding that supports or weakens a hypothesis and the quotation that best illustrates a claim, with a clear method, four worked examples and a 12-question practice quiz.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Command of Evidence: Textual questions check one thing: can you find the piece of evidence that fits a claim exactly? The passage gives you a claim — a scientist's hypothesis, a historian's argument, or a critic's reading of a poem or novel. The four choices are possible pieces of evidence. Your job is to pick the one that most directly **supports**, **weakens** or **illustrates** that claim."
+  },
+  {
+   "type": "p",
+   "text": "These questions appear in two main forms:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Form",
+    "What the stem looks like (in our words)",
+    "What you do"
+   ],
+   "rows": [
+    [
+     "Finding / data in words",
+     "\"Which finding, if true, would most directly support the researcher's hypothesis?\" or \"…would most directly weaken the claim?\"",
+     "Imagine each choice is true. Ask: does it prove or damage the exact claim?"
+    ],
+    [
+     "Quotation",
+     "\"Which quotation from the poem / novel / essay most effectively illustrates the claim?\"",
+     "Pick the quotation whose words show every part of the claim."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "On the Digital SAT, Command of Evidence — Textual belongs to the **Information and Ideas** domain, together with Central Ideas and Details, Command of Evidence — Quantitative, and Inferences. These four skills together make up about 26% of the scored Reading and Writing questions (12–14 questions across both modules). Each question has one short passage of 25–150 words and four choices. Inside a module, Information and Ideas questions usually come after the Craft and Structure questions (vocabulary, purpose, two texts) and before the grammar questions."
+  },
+  {
+   "type": "p",
+   "text": "The good news: these questions are very learnable. You do not need outside knowledge about birds, history or poetry. Everything you need is in the passage. What you need is a careful **method**, because the wrong choices are designed to look relevant."
+  },
+  {
+   "type": "h2",
+   "text": "The method: claim → parts → match"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "**Find the exact claim.** Read the last one or two sentences first — the claim is usually there (\"The researchers hypothesize that…\", \"The critic argues that…\"). Underline it in your head. Do not use the topic of the passage; use the claim.",
+    "**Check the direction.** Read the question stem: support, weaken, or illustrate? Many students lose points by choosing a perfect supporter when the question asked for a weakener.",
+    "**Split the claim into parts.** Most claims have two or three parts: a cause and an effect, a group and a result, a feeling and its object, or a \"both X and Y\". Write them mentally as Part 1 + Part 2.",
+    "**Predict what the perfect evidence would look like.** Before you read the choices, finish this sentence: \"The researcher would be happy to learn that…\" (support) or \"The researcher would be worried to learn that…\" (weaken).",
+    "**Test each choice against ALL parts.** A choice that matches only one part is wrong, even if it uses the same words as the passage. Cross out off-topic and half-right choices.",
+    "**Choose the most direct link.** If two choices seem possible, pick the one that needs no extra assumptions. The SAT word \"directly\" means: you should not have to add a missing step yourself."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "القاعدة اللي لازم تفتكرها",
+   "text": "ما تختارش الإجابة عشان فيها نفس كلمات القطعة. اقسم الـ claim لجزئين أو تلاتة (مين؟ عمل إيه؟ والنتيجة إيه؟)، والإجابة الصح لازم تغطي كل الأجزاء مع بعض. لو الإجابة بتغطي جزء واحد بس، تبقى غلط حتى لو شكلها قريبة."
+  },
+  {
+   "type": "h2",
+   "text": "Support vs weaken: the logic"
+  },
+  {
+   "type": "p",
+   "text": "Most hypothesis questions are about **cause and effect**: \"X causes Y\" or \"X happens because of Y\". Learn the four patterns below — they cover almost every support/weaken question."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Claim: \"X causes Y\"",
+    "Pattern",
+    "Example idea"
+   ],
+   "rows": [
+    [
+     "SUPPORTS",
+     "When X is present, Y appears; when X is removed, Y disappears (or the reverse) — and other things stay the same.",
+     "Plants given the new fertilizer grew taller than identical plants without it."
+    ],
+    [
+     "SUPPORTS",
+     "The mechanism (the \"how\") is shown to work.",
+     "The fertilizer was found to increase the nitrogen the roots absorb."
+    ],
+    [
+     "WEAKENS",
+     "Y happens even without X.",
+     "Plants grew just as tall in fields where no fertilizer was used."
+    ],
+    [
+     "WEAKENS",
+     "Y started BEFORE X, or another cause explains Y.",
+     "The plants were already growing faster before the fertilizer was added, because the rainy season began."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Two more ideas help a lot:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**A comparison needs a control group.** \"Students who used the app scored 80%\" proves nothing alone. \"Students who used the app scored 80%, while similar students who did not use it scored 65%\" supports the app.",
+    "**Weakening is not the same as being unrelated.** A choice that is simply off-topic does not weaken anything. To weaken, the choice must make the claim less likely to be true.",
+    "**Strength does not matter as much as fit.** A choice does not need to prove the claim 100%; it needs to be the one that bears most directly on the claim."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Quotation questions (poems, novels, plays, essays)"
+  },
+  {
+   "type": "p",
+   "text": "In a quotation question, the passage tells you what a critic or a student says about a literary text, then asks which quotation from that text best illustrates the claim. Use the same method, but think about **meaning in the words**:"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Find the claim and name its parts: for example, \"the speaker feels **both** pride **and** sadness about **leaving home**\" has three parts (pride, sadness, leaving home).",
+    "Read each quotation literally first. What does it actually say? Then ask: which words show Part 1? Which show Part 2?",
+    "Reject quotations that only describe the setting, mention the topic without the feeling, or show only one of the feelings.",
+    "Be careful with figurative language: \"my heart was a stone\" shows coldness or sadness, not anger. Translate the image into a simple feeling before you match it."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Words that signal parts of a claim",
+   "items": [
+    "**both… and…** / **while** / **yet** → two parts; you need both.",
+    "**changes from X to Y** / **comes to** / **over time** → you need a before AND an after.",
+    "**more than** / **rather than** → you need a comparison, not just one side.",
+    "**only** / **mainly** / **specifically** → the evidence must point to this cause, not to a general one."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — Support a hypothesis**"
+  },
+  {
+   "type": "p",
+   "text": "Great tits are small songbirds found in both forests and cities. Traffic produces a deep, low-pitched rumble that can cover up low notes in a bird's song. Ecologist Lina Moretti hypothesizes that great tits living in cities sing at a higher pitch **specifically** so that their songs can be heard over traffic noise."
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which finding, if true, would most directly support Moretti's hypothesis?"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) Great tits living in cities have a larger average body size than great tits living in forests.",
+    "B) Great tits living in cities sing more songs per hour than great tits living in forests do.",
+    "C) Within the same city, great tits near busy roads sang at a higher pitch than great tits in quiet parks, and the birds near roads lowered their pitch on days when the roads were closed to cars.",
+    "D) Several other bird species that live in cities have songs that are naturally lower in pitch than the songs of great tits."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**A — ✗ Wrong.** Off-topic. Body size is not part of the claim, which is about pitch and traffic noise.",
+    "**B — ✗ Wrong.** Half-right trap. It compares city and forest birds, but it is about the NUMBER of songs, not their pitch, and says nothing about traffic.",
+    "**C — ✓ Correct.** It matches all parts: higher pitch (Part 1) linked to traffic noise (Part 2). Both comparisons keep everything else the same (same city, same birds), and pitch drops when the noise is removed — exactly the pattern for \"X causes Y\".",
+    "**D — ✗ Wrong.** Irrelevant comparison. Other species' natural pitch tells us nothing about why great tits change their pitch."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Lesson:** notice the word \"specifically\". A choice that only shows \"city birds sing higher than forest birds\" would be weaker than C, because cities differ from forests in many ways (light, food, buildings). C isolates traffic noise."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — Weaken a claim**"
+  },
+  {
+   "type": "p",
+   "text": "In 1852, a railway line reached the small textile town of Haverbrook. By 1870, Haverbrook had become one of the largest towns in its region. Historian Samuel Okafor argues that the railway was the main cause of the town's rapid population growth, because it allowed the mills to send cloth cheaply to distant markets."
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which finding, if true, would most directly weaken Okafor's argument?"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) Haverbrook's population had already doubled in the ten years before the railway arrived and grew more slowly in the ten years after 1852.",
+    "B) Most of the goods carried on the Haverbrook railway in the 1850s were rolls of cloth headed for coastal ports.",
+    "C) Several other textile towns in the region also grew quickly after railway lines reached them.",
+    "D) Haverbrook's mills employed thousands of workers, many of whom had moved from nearby farms."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer: A**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**A — ✓ Correct.** The claim says the railway caused the fast growth. If the fastest growth happened BEFORE the railway, and growth slowed afterwards, the cause must be something else. Pattern: \"Y started before X\".",
+    "**B — ✗ Wrong.** Reversed direction. This supports Okafor: it shows the railway was used to send cloth to markets.",
+    "**C — ✗ Wrong.** Reversed direction. A similar pattern in other towns makes the railway explanation more believable, not less.",
+    "**D — ✗ Wrong.** Neutral fact. Workers moving to mills explains how people came, but it does not show that the railway was or was not the main cause."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — Quotation from a poem (two-part claim)**"
+  },
+  {
+   "type": "p",
+   "text": "In the poem \"The House on Mill Street,\" the speaker returns to her childhood home after many years. A student claims that the speaker feels **both** affection **and** frustration toward the old house."
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which quotation from the poem most effectively illustrates the student's claim?"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) \"The window where I watched the swallows nest / still catches the gold of every late afternoon.\"",
+    "B) \"Seven rooms, a stair of fourteen steps, / a kitchen painted green the year I left.\"",
+    "C) \"The door still sticks, the roof still leaks its grief / onto the hallway floor I swept for years.\"",
+    "D) \"I curse the stubborn lock that never turns, / and yet I hold its key against my heart.\""
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer: D**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**A — ✗ Wrong.** Half-right. The warm memory of the swallows and the gold light shows affection, but there is no frustration.",
+    "**B — ✗ Wrong.** Off-topic description. A list of rooms shows neither feeling; it only describes the setting.",
+    "**C — ✗ Wrong.** Half-right. A sticking door and leaking roof suggest frustration (and maybe sadness), but nothing shows affection.",
+    "**D — ✓ Correct.** Both parts in one quotation: \"I curse the stubborn lock\" = frustration; \"and yet I hold its key against my heart\" = affection. The words \"and yet\" signal the two feelings together."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4 — Quotation from a novel (matching the right meaning)**"
+  },
+  {
+   "type": "p",
+   "text": "In a novel set in Alexandria in the 1950s, Nadia runs a small fabric shop with her brother. A literary critic argues that Nadia is portrayed as extremely careful with money."
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which quotation from the novel most effectively illustrates the critic's claim?"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) \"Nadia was careful on the stairs, always holding the rail, since the steps were old and uneven.\"",
+    "B) \"Each evening Nadia counted the coins twice, wrote the total in her notebook, and refused to buy new thread until the old spool was empty.\"",
+    "C) \"Nadia's brother spent his wages on cinema tickets and sweets for the neighborhood children.\"",
+    "D) \"The shop's shelves were stacked with silk from Damascus and cotton from the Delta.\""
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**A — ✗ Wrong.** Word-match trap. It uses the word \"careful\", but she is careful about her safety, not about money.",
+    "**B — ✓ Correct.** It shows exactly the claim: counting the money twice, recording it, and refusing to spend until it is necessary are all signs of being extremely careful with money.",
+    "**C — ✗ Wrong.** Wrong character. This describes her brother's spending; at most it hints at a contrast, but it says nothing directly about Nadia.",
+    "**D — ✗ Wrong.** Setting only. The shop's stock tells us nothing about how Nadia handles money."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**Half-right:** the choice matches one part of the claim (pitch) but not the other (traffic noise). The most common trap of all.",
+    "**Word match:** the choice repeats a word from the claim (\"careful\", \"growth\", \"noise\") but with a different meaning or about a different thing.",
+    "**Reversed direction:** the question asks for a weakener and the choice supports — or the opposite. Re-read the stem before you click.",
+    "**True but irrelevant:** a fact that could be true and is about the same topic, but does not affect the claim at all.",
+    "**Wrong group or wrong character:** the evidence is about other birds, other towns, or another person in the story.",
+    "**Setting / description only:** in quotation questions, a pretty line about the place that shows no feeling or trait."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الفخ المشهور",
+   "text": "السؤال ممكن يقول weaken وانت تختار إجابة بتأيد (support) من غير ما تاخد بالك. قبل ما تدوس على الإجابة، ارجع اقرأ السؤال تاني: هو عايز يقوّي الفكرة ولا يضعّفها؟ وافتكر: الإجابة اللي ملهاش علاقة بالموضوع ما بتضعّفش حاجة، هي بس بعيدة عن الموضوع."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Read the claim sentence first, then the stem, then the rest of the passage. You save time and know what to look for.",
+    "Say the claim in 5–8 simple words: \"traffic noise → higher pitch\". Keep this short version in your head.",
+    "For each choice ask one question: \"Does this touch BOTH parts?\" Eliminate fast.",
+    "For support/weaken, imagine telling the researcher the finding. Happy face = support, worried face = weaken, no reaction = irrelevant.",
+    "For quotations, translate each line into one simple feeling or action before you compare it with the claim.",
+    "Aim for about one minute. If two choices remain, choose the one that needs no extra assumption, mark the question for review and move on — there is no penalty for a wrong answer, so never leave it blank."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Command of Evidence: Textual — Practice Quiz",
+   "timed": false,
+   "intro": "12 questions in Digital SAT style. Take your time: use the claim → parts → match method on every question. You will see your score and an explanation for each answer at the end.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 15,
+     "questions": [
+      {
+       "p": "Sea otters eat sea urchins, and sea urchins feed on kelp, a large seaweed that forms underwater forests. Marine biologist Rosa Delgado hypothesizes that sea otters protect kelp forests by keeping sea urchin populations low.",
+       "q": "Which finding, if true, would most directly support Delgado's hypothesis?",
+       "c": [
+        "Sea otters spend a large part of each day resting on their backs in kelp beds.",
+        "In bays where sea otters were reintroduced, urchin numbers fell and kelp cover increased over the next decade, while nearby bays without otters showed no such change.",
+        "Sea urchins are eaten by several kinds of fish as well as by sea otters.",
+        "Kelp grows more quickly in cold water than it does in warm water."
+       ],
+       "a": 1,
+       "e": "B links all parts: otters arrive → urchins fall → kelp grows, with a comparison group of bays without otters. A only shows otters use kelp; C and D are true-but-irrelevant facts.",
+       "s": "Command of Evidence: Textual"
+      },
+      {
+       "p": "In 2024, a city opened a network of protected bike lanes downtown. That same year, the number of car accidents downtown dropped by 18 percent. A transport researcher claims that the new bike lanes caused the drop in accidents.",
+       "q": "Which finding, if true, would most directly weaken the researcher's claim?",
+       "c": [
+        "The number of people cycling downtown rose sharply after the bike lanes opened.",
+        "In a survey, many residents said that they felt safer cycling downtown than before.",
+        "The bike lanes were built mostly on the downtown streets that had the highest accident rates before 2024.",
+        "Car accidents fell by a similar amount in 2024 in nearby districts where no new bike lanes were built."
+       ],
+       "a": 3,
+       "e": "If accidents fell just as much where there were no bike lanes, something else probably caused the drop (\"Y happens without X\"). A, B and C do not weaken the claim; C even makes the lanes a more likely cause.",
+       "s": "Command of Evidence: Textual"
+      },
+      {
+       "p": "In a novel, the narrator, a young clerk, is invited to a grand dinner at the home of his wealthy employer. A critic argues that the narrator feels out of place among the other guests.",
+       "q": "Which quotation from the novel most effectively illustrates the critic's claim?",
+       "c": [
+        "\"I held my fork as if it might bite me, and I watched the others closely to learn which spoon came next.\"",
+        "\"The dining hall was lit by forty candles, and their light trembled on the silver dishes.\"",
+        "\"Mrs. Ardley laughed loudly at a joke that her husband had already told twice that evening.\"",
+        "\"After the meal, the guests moved to the music room, where a grand piano stood waiting.\""
+       ],
+       "a": 0,
+       "e": "A shows the narrator's discomfort and his need to copy others — he does not know the rules of this world. B and D only describe the setting; C is about other characters.",
+       "s": "Command of Evidence: Textual"
+      },
+      {
+       "p": "Many students study vocabulary by rereading word lists. Psychologist Amir Haddad hypothesizes that students remember new words better when they test themselves on the words than when they simply reread the lists.",
+       "q": "Which finding, if true, would most directly support Haddad's hypothesis?",
+       "c": [
+        "Most students in the study said that they preferred rereading because it felt easier.",
+        "Students who reread the lists spent more total time studying than students who tested themselves.",
+        "One week later, students who had tested themselves recalled significantly more words than students who had reread the same lists for the same amount of time.",
+        "Students who tested themselves said that they felt less confident immediately after studying."
+       ],
+       "a": 2,
+       "e": "C compares the two methods on the exact outcome in the claim (remembering words), with time held equal. A and D are about feelings, not memory; B is about study time.",
+       "s": "Command of Evidence: Textual"
+      },
+      {
+       "p": "In the poem \"Crossing,\" the speaker describes the river near her village. A student claims that the speaker presents the river as both beautiful and dangerous.",
+       "q": "Which quotation from the poem most effectively illustrates the student's claim?",
+       "c": [
+        "\"Silver it runs beneath the morning sky,\"",
+        "\"It took the mill the spring that I was nine,\"",
+        "\"So bright, it hides the current pulling down,\"",
+        "\"The ferryman counts coins upon its shore,\""
+       ],
+       "a": 2,
+       "e": "C has both parts: \"so bright\" shows beauty, \"the current pulling down\" shows danger. A shows only beauty, B only danger, and D shows neither.",
+       "s": "Command of Evidence: Textual"
+      },
+      {
+       "p": "Archaeologists found more than two hundred clay pots at an ancient village site. Archaeologist Hana Ruiz claims that the pots were made by people in the village itself rather than brought there through trade.",
+       "q": "Which finding, if true, would most directly weaken Ruiz's claim?",
+       "c": [
+        "Chemical tests show that the clay in the pots matches clay found 300 kilometers away and does not match the clay near the village.",
+        "Pieces of the pots were found inside almost every house at the site.",
+        "The site contains several kilns, ovens that were used to harden clay pots.",
+        "The pots are decorated with patterns that also appear on the village's wall paintings."
+       ],
+       "a": 0,
+       "e": "If the clay came from far away, the pots were probably made elsewhere and brought in — the opposite of Ruiz's claim. C and D support local making; B is neutral.",
+       "s": "Command of Evidence: Textual"
+      },
+      {
+       "p": "Some stores charge shoppers a small fee for each plastic bag, while others give a small discount to shoppers who bring their own bags. Economist Yusuf Adeyemi hypothesizes that charging a fee reduces plastic bag use more than offering a discount of the same amount.",
+       "q": "Which finding, if true, would most directly support Adeyemi's hypothesis?",
+       "c": [
+        "Shoppers at both kinds of stores said that they cared about protecting the environment.",
+        "The store that offered a discount sold more reusable bags during the first month of the study.",
+        "Plastic bag use went down at both kinds of stores during the study.",
+        "At a store that charged a 5-cent fee, plastic bag use fell by 40 percent, while at a similar store that offered a 5-cent discount, it fell by only 5 percent."
+       ],
+       "a": 3,
+       "e": "The claim is a comparison (fee MORE than discount, same amount). Only D compares the two with equal amounts. C shows both work but not which works better; A and B do not measure plastic bag use by both methods.",
+       "s": "Command of Evidence: Textual"
+      },
+      {
+       "p": "In a novel, Elias Brandt is a bank manager in a small town. A literary critic argues that Elias cares more about his reputation in the town than about his family's comfort.",
+       "q": "Which quotation from the novel most effectively illustrates the critic's claim?",
+       "c": [
+        "\"Elias rose before dawn each day and walked the two miles to the bank, whatever the weather.\"",
+        "\"'The children can wear last year's coats,' Elias said, 'but the neighbors must see fresh paint on our front door.'\"",
+        "\"Elias's wife sewed by the front window in the afternoons, where the light was best.\"",
+        "\"Elias was proud of his roses, which had won first prize at the county fair.\""
+       ],
+       "a": 1,
+       "e": "B puts the two things side by side: the family's comfort (warm new coats) is less important than what the neighbors see. A shows hard work, C is about his wife, and D shows pride but no choice against his family.",
+       "s": "Command of Evidence: Textual"
+      },
+      {
+       "p": "A desert beetle lives in a region with almost no rain but frequent morning fog. Biologists have claimed that the beetle gets most of the water it needs by collecting fog droplets on the bumpy surface of its back.",
+       "q": "Which finding, if true, would most directly weaken the biologists' claim?",
+       "c": [
+        "Beetles kept in fog-free enclosures for several weeks kept the same body water levels as beetles exposed to fog every morning.",
+        "On foggy mornings, the beetles stand on ridges and tilt their backs into the wind.",
+        "Water droplets collect more easily on the bumps of the beetle's back than on smooth surfaces.",
+        "Fog covers the beetle's desert habitat on most mornings of the year."
+       ],
+       "a": 0,
+       "e": "If beetles without fog stay just as hydrated, fog cannot be their main water source (\"Y without X\"). B, C and D all make the fog explanation more believable.",
+       "s": "Command of Evidence: Textual"
+      },
+      {
+       "p": "Researchers tested a new medicine for migraine headaches on groups of adults and children. Based on early results, the researchers hypothesize that the medicine reduces migraines in adults but not in children.",
+       "q": "Which finding, if true, would most directly support the researchers' hypothesis?",
+       "c": [
+        "Adults who took the medicine had fewer migraines than adults who took a placebo, a pill with no medicine in it.",
+        "Some children who took the medicine reported a mild stomachache.",
+        "Adults who took the medicine had 50 percent fewer migraines than adults who took a placebo, while children who took the medicine had about the same number of migraines as children who took a placebo.",
+        "Both adults and children who took the medicine had fewer migraines than those who took a placebo."
+       ],
+       "a": 2,
+       "e": "The hypothesis has two parts (works for adults; does not work for children). C matches both. A is half-right (adults only), B is off-topic, and D contradicts the second part.",
+       "s": "Command of Evidence: Textual"
+      },
+      {
+       "p": "In her memoir, a writer describes moving from a quiet farming village to a large, noisy city at the age of eighteen. A reviewer claims that the writer's attitude toward the city changes from fear to affection over time.",
+       "q": "Which quotation from the memoir most effectively illustrates the reviewer's claim?",
+       "c": [
+        "\"In my first weeks, the city's noise kept me awake until nearly dawn.\"",
+        "\"The traffic that had once frightened me became, by my second winter, a kind of lullaby.\"",
+        "\"I loved the bakery on the corner, where the owner soon learned my name.\"",
+        "\"The city had seven bridges and more than a million people.\""
+       ],
+       "a": 1,
+       "e": "A change needs a before and an after: \"once frightened me\" (fear) → \"a kind of lullaby\" (comfort, affection). A shows only the early fear, C only the later affection, and D is a neutral fact.",
+       "s": "Command of Evidence: Textual"
+      },
+      {
+       "p": "Bilingual children often switch between two languages many times a day. Researcher Mei Lin hypothesizes that this constant language switching makes bilingual children better than monolingual children at switching between different mental tasks.",
+       "q": "Which finding, if true, would most directly support Lin's hypothesis?",
+       "c": [
+        "Bilingual children in the study knew more words in their stronger language than monolingual children did.",
+        "Monolingual children in the study completed a reading test faster than bilingual children did.",
+        "Bilingual children in the study said that they enjoyed puzzle games more than monolingual children did.",
+        "Bilingual children were faster than monolingual children at a task that required switching between sorting cards by color and by shape, and the children who switched languages most often at home were the fastest of all."
+       ],
+       "a": 3,
+       "e": "D shows both parts: bilingual children are better at task switching, and more language switching goes with better task switching — the cause the hypothesis names. A, B and C are not about switching between tasks.",
+       "s": "Command of Evidence: Textual"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Find the exact claim (usually at the end of the passage) and check the direction: support, weaken or illustrate.",
+    "Split the claim into parts; the right answer matches ALL of them.",
+    "\"X causes Y\" is supported when Y follows X and disappears without X; it is weakened when Y happens without X or before X.",
+    "In quotation questions, translate each line into a simple feeling or action and reject setting-only lines.",
+    "Watch for half-right, word-match, reversed and true-but-irrelevant choices."
+   ]
+  }
+ ]
+}

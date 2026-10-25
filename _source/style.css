@@ -136,3 +136,5 @@ html[dir=rtl] .tag{letter-spacing:0}
 /* readable gold text on light backgrounds (contrast) */
 .tag,.card .go,.weeks .wn{color:#7f5c1c}
 .banner{height:auto}
+@media (min-width:961px) and (max-width:1400px){.top nav{gap:2px;flex-wrap:nowrap}.top nav a{padding:7px 9px;font-size:.85rem}.brand small{display:none}}
+@media (min-width:961px) and (max-width:1180px){.top nav a{padding:6px 7px;font-size:.8rem}.brand b{font-size:.95rem}}

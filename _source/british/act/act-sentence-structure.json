@@ -1,0 +1,712 @@
+{
+ "slug": "act-sentence-structure",
+ "title": "Sentence Structure",
+ "kicker": "American Diploma · ACT · English: Conventions of Standard English",
+ "summary": "Fragments, run-ons and comma splices, joining clauses, modifiers, parallelism, comparisons and shifts — each rule with ✓/✗ examples, five worked items and a 12-question ACT-style essay.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Sentence-structure questions belong to the **Conventions of Standard English** reporting category of the ACT English test. On the enhanced ACT this category is 38–43% of the English score, together with punctuation and usage. The English test has **50 questions (40 scored) in 35 minutes** — about 42 seconds per question — spread over five essays: three of about 340 words with 10 questions each and two of about 185 words with 5 questions each."
+  },
+  {
+   "type": "p",
+   "text": "You will not see a question like \"Find the fragment.\" Instead, a part of the essay is **underlined** and numbered. Next to it are four versions of that part, and the first choice is usually **NO CHANGE**. Most sentence-structure items have no question stem at all: you simply pick the version that makes a correct, clear sentence. Sometimes a stem appears, such as \"Which choice is NOT acceptable?\" — read it carefully, because then you are looking for the one WRONG version."
+  },
+  {
+   "type": "p",
+   "text": "This page covers seven problems that the ACT tests again and again: **fragments, run-ons and comma splices, joining clauses, misplaced and dangling modifiers, parallelism, faulty comparisons, and shifts in point of view and verb tense.** Learn the rule, then the trap, then practise."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الفكرة الأساسية",
+   "text": "في أسئلة sentence structure الجزء اللي تحته خط لازم يعمل جملة سليمة وواضحة مع الكلام اللي حواليه. اقرا الجملة كلها مش الجزء المسطّر بس، واسأل: فيها فاعل وفعل أساسي؟ الجملتين متوصّلين صح؟ الكلام اللي بيوصف حاجة جنبها مباشرة؟ الحاجات اللي في القائمة شبه بعض؟"
+  },
+  {
+   "type": "h2",
+   "text": "Rule 1: Every sentence needs a subject and a main verb (fragments)"
+  },
+  {
+   "type": "p",
+   "text": "A **fragment** is a group of words that starts with a capital letter and ends with a period but is not a complete sentence. A complete sentence needs a **subject**, a **main (finite) verb**, and a **complete thought**. The ACT builds fragments in four ways:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Fragment type",
+    "✗ Fragment",
+    "✓ Fixed"
+   ],
+   "rows": [
+    [
+     "Dependent clause alone (starts with because, although, when, which…)",
+     "Although the bridge was repaired in May.",
+     "Although the bridge was repaired in May, it closed again in June."
+    ],
+    [
+     "-ing or -ed word instead of a main verb",
+     "The new ferry, carrying more than 300 passengers.",
+     "The new ferry carries more than 300 passengers."
+    ],
+    [
+     "Noun + who/which/that clause, but no main verb",
+     "A festival that attracts visitors from every province.",
+     "The festival attracts visitors from every province."
+    ],
+    [
+     "To + verb instead of a main verb",
+     "The goal of the project to plant one thousand trees.",
+     "The goal of the project was to plant one thousand trees."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Quick test:** cross out everything between commas and any who/which/that clause. Is there still a subject and a verb that could stand alone? If not, it is a fragment."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 2: Run-ons and comma splices"
+  },
+  {
+   "type": "p",
+   "text": "An **independent clause** can stand alone as a sentence. When you put two of them together, you must join them correctly. Two common mistakes:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Run-on (fused sentence)** — no punctuation at all. ✗ The museum opened in 2004 it now has two million objects.",
+    "**Comma splice** — only a comma. ✗ The museum opened in 2004, it now has two million objects."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "Watch for second clauses that begin with **it, this, they, he, she, there** — these words start a new independent clause, so a comma alone is never enough before them. In contrast, **which** and **who** start dependent clauses, so a comma is fine: ✓ The museum opened in 2004, which makes it one of the newest in the city."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 3: The correct ways to join clauses"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Pattern",
+    "Punctuation",
+    "Example"
+   ],
+   "rows": [
+    [
+     "Independent. Independent.",
+     "Period",
+     "The storm passed. The ferry left the harbour."
+    ],
+    [
+     "Independent; independent.",
+     "Semicolon (two closely related complete sentences)",
+     "The storm passed; the ferry left the harbour."
+    ],
+    [
+     "Independent, FANBOYS independent.",
+     "Comma + for, and, nor, but, or, yet, so",
+     "The storm passed, so the ferry left the harbour."
+    ],
+    [
+     "Independent: independent that explains the first.",
+     "Colon after a complete sentence",
+     "The captain had one rule: no ferry left during a storm."
+    ],
+    [
+     "Dependent clause, independent.",
+     "Comma after the dependent clause",
+     "When the storm passed, the ferry left the harbour."
+    ],
+    [
+     "Independent dependent.",
+     "Usually no comma before because, when, if, until…",
+     "The ferry waited until the storm passed."
+    ],
+    [
+     "Independent; however, independent.",
+     "Semicolon (or period) before however/therefore/still…, comma after",
+     "The storm passed; however, the ferry stayed in port."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "The teacher's rule for the **semicolon**: it joins two independent clauses that are closely related — both sides must be complete sentences. If you could not put a period there, you cannot put a semicolon there. (SAT/ACT extra rule: a semicolon may also separate list items that already contain commas, e.g. \"Cairo, Egypt; Rabat, Morocco; and Tunis, Tunisia.\" This is the only other use.)"
+  },
+  {
+   "type": "p",
+   "text": "**Conjunctive adverbs** — however, therefore, still, instead, as a result, moreover, consequently, otherwise — are not FANBOYS. They cannot join two clauses with only a comma."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ The road was closed, therefore, we walked.",
+    "✓ The road was closed; therefore, we walked.",
+    "✓ The road was closed, so we walked.",
+    "✓ We, therefore, walked. (one clause — the adverb is just extra information inside a pair of commas)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "طرق توصيل جملتين كاملتين",
+   "text": "لو عندك جملتين كاملتين: يا نقطة، يا فاصلة منقوطة (;)، يا فاصلة + and/but/so، يا colon لو الجملة التانية بتشرح الأولى. الفاصلة لوحدها = comma splice = غلط. وكلمات زي however و therefore محتاجة قبلها ; أو نقطة."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 4: Modifiers go next to what they describe"
+  },
+  {
+   "type": "p",
+   "text": "A **modifier** is a word or phrase that describes something. On the ACT it must sit as close as possible to the thing it describes."
+  },
+  {
+   "type": "p",
+   "text": "**Dangling modifier.** An opening phrase (often -ing, -ed, or \"As a…\") describes the subject that comes right after the comma. If that subject is the wrong thing, the modifier dangles."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ Walking along the beach, the shells looked beautiful. (the shells were not walking)",
+    "✓ Walking along the beach, Nadia thought the shells looked beautiful.",
+    "✗ Built in the 1920s, visitors still admire the theatre. (the visitors were not built)",
+    "✓ Built in the 1920s, the theatre is still admired by visitors.",
+    "✗ As a young engineer, the bridge design was Hoda's first big project.",
+    "✓ As a young engineer, Hoda designed her first big project: a bridge."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Possessive trap:** \"Walking along the beach, Nadia's phone rang.\" Nadia's phone was not walking. The subject is \"phone,\" not Nadia. The ACT loves this trap."
+  },
+  {
+   "type": "p",
+   "text": "**Misplaced modifier.** A word such as only, nearly, almost, just, even changes meaning depending on where it sits. A phrase can also be placed so that it seems to describe the wrong noun."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ She almost read the whole book. (she did not start?)",
+    "✓ She read almost the whole book.",
+    "✗ The chef served soup to the guests in plastic bowls that was cold.",
+    "✓ The chef served cold soup to the guests in plastic bowls."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Rule 5: Parallelism — items in a series must match"
+  },
+  {
+   "type": "p",
+   "text": "When a sentence lists two or more items, or uses a pair such as **not only … but also, either … or, neither … nor, both … and, whether … or**, every item must have the same grammatical form."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ The club teaches students to code, design games, and how to present them.",
+    "✓ The club teaches students to code, design games, and present them.",
+    "✗ The library is popular not only for its books but also because it is quiet.",
+    "✓ The library is popular not only for its books but also for its quiet rooms.",
+    "✗ She prefers swimming to run.",
+    "✓ She prefers swimming to running."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Method:** find the first item, note its form (to + verb? -ing? noun? adjective? for + noun?), and make every other item copy it."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 6: Faulty comparisons — compare like with like"
+  },
+  {
+   "type": "p",
+   "text": "A comparison must compare two things of the same kind: a city with a city, a population with a population, a person's work with another person's work."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ The population of Alexandria is smaller than Cairo. (population vs city)",
+    "✓ The population of Alexandria is smaller than that of Cairo.",
+    "✓ Alexandria's population is smaller than Cairo's.",
+    "✗ Like many birds, the falcon's eyesight is excellent. (birds vs eyesight)",
+    "✓ Like many birds, the falcon has excellent eyesight.",
+    "✗ Her essay was longer than any student in the class. (essay vs student; and she is in the class)",
+    "✓ Her essay was longer than that of any other student in the class."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "Also check the words: **than** (comparison) vs **then** (time); **fewer** for countable things, **less** for amounts; **between** two, **among** three or more; **-er/more** for two things, **-est/most** for three or more."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "المقارنة الغلط",
+   "text": "قارن حاجة بحاجة من نفس النوع: سكان بسكان، مقال بمقال، مش مقال بطالب. استخدم that of / those of عشان تكرر الحاجة اللي بتقارنها. وخلي بالك: Like + اسم … لازم الاسم اللي بعد الفاصلة يكون من نفس النوع."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 7: No unnecessary shifts in point of view or verb tense"
+  },
+  {
+   "type": "p",
+   "text": "**Point of view (pronoun shifts).** If a sentence or paragraph starts with \"one,\" \"a student,\" or \"people,\" it should not suddenly switch to \"you\" or \"we.\""
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ When a visitor enters the temple, you notice the painted ceiling.",
+    "✓ When a visitor enters the temple, he or she notices the painted ceiling.",
+    "✓ When visitors enter the temple, they notice the painted ceiling."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Verb tense.** Keep the same time frame unless the meaning really changes. Look for time clues: dates, \"last year,\" \"today,\" \"since,\" \"by the time.\" Also match the tense of the verbs around the underlined part."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ In 1952, the family moved to Aswan and opens a small bakery.",
+    "✓ In 1952, the family moved to Aswan and opened a small bakery.",
+    "✓ The bakery opened in 1952 and still sells bread today. (a real change in time: past → present)",
+    "✗ By the time the guests arrived, the children already ate the cake.",
+    "✓ By the time the guests arrived, the children had already eaten the cake. (past perfect — had + past participle — for the earlier of two past actions)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "A 4-step method for every sentence-structure item"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Read the whole sentence** — and the sentence before it if the underline is at the start. Many errors only appear when you see the full sentence.",
+    "**Spot what changes in the choices.** Commas → semicolons? -ing → past tense? Word order? The difference between the choices tells you the rule being tested.",
+    "**Apply the rule:** find subjects and verbs, count the independent clauses, check what each modifier touches, line up the list items, check the comparison and the time frame.",
+    "**Plug your answer back in** and read the sentence once more. If two choices still seem correct, choose the one that is clearer and shorter — but never the shorter one if it breaks a rule."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — comma splice**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: The Siwa Oasis lies far from any large city. For centuries, travellers crossed the desert by camel to reach __it, the journey took__ several weeks."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) it; the journey took",
+    "C) it, the journey taking took",
+    "D) it the journey took"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: Comma splice: \"travellers crossed the desert…\" and \"the journey took several weeks\" are both independent clauses joined only by a comma.",
+    "B) ✓ Correct: A semicolon joins two closely related independent clauses.",
+    "C) ✗ Wrong: Nonsense verb form (\"taking took\") — two verbs for one subject.",
+    "D) ✗ Wrong: Run-on: two independent clauses with no punctuation."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — dangling modifier (possessive trap)**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: __Trained as an architect in Cairo, Hassan Fathy's buildings__ used mud brick, an ancient material."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) Trained as an architect in Cairo, Hassan Fathy designed buildings that",
+    "C) Hassan Fathy trained as an architect in Cairo, his buildings",
+    "D) Having trained as an architect in Cairo, the buildings of Hassan Fathy"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: Possessive trap: the subject is \"buildings,\" and buildings were not trained as architects.",
+    "B) ✓ Correct: The person who trained (Hassan Fathy) comes right after the modifier, and \"that used mud brick\" correctly describes the buildings.",
+    "C) ✗ Wrong: Comma splice: two independent clauses joined with a comma.",
+    "D) ✗ Wrong: Still dangling: the buildings, not Fathy, follow the modifier."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — parallelism**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: Volunteers at the turtle centre clean the tanks, feed the young turtles, and __they are also recording__ each animal's weight."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) also recording",
+    "C) record",
+    "D) to record"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: Breaks the list: two plain present verbs (clean, feed) then a new clause in a different form.",
+    "B) ✗ Wrong: -ing form does not match clean and feed.",
+    "C) ✓ Correct: Three matching present-tense verbs: clean, feed, record.",
+    "D) ✗ Wrong: To + verb does not match the other two verbs."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4 — faulty comparison and tense together**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: Last summer, the price of mangoes in the market __rises higher than bananas__."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) rose higher than bananas",
+    "C) rises higher than that of bananas",
+    "D) rose higher than that of bananas"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: D**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: Two errors: present tense with \"last summer,\" and price compared with fruit.",
+    "B) ✗ Wrong: Tense fixed, but the comparison is still price vs bananas.",
+    "C) ✗ Wrong: Comparison fixed, but the tense is still wrong.",
+    "D) ✓ Correct: Past tense matches \"last summer,\" and \"that of bananas\" compares price with price. When two errors are tested, you need the choice that fixes both."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5 — a NOT question**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: My grandmother never wrote down her __recipes. She kept__ them all in her head and cooked from memory every day."
+  },
+  {
+   "type": "p",
+   "text": "**Which of the following alternatives to the underlined portion would NOT be acceptable?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) recipes; she kept",
+    "B) recipes: she kept",
+    "C) recipes, she kept",
+    "D) recipes. Instead, she kept"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✓ Acceptable: A semicolon correctly joins two closely related independent clauses.",
+    "B) ✓ Acceptable: The colon comes after a complete sentence, and the second clause explains the first (how she managed without writing).",
+    "C) ✗ The answer: NOT acceptable: a comma alone between two independent clauses is a comma splice. On a NOT question, the error IS the answer.",
+    "D) ✓ Acceptable: Two separate sentences, and \"Instead\" logically links not writing the recipes down with keeping them in her head."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**The possessive dangler:** \"Born in Tanta, Ali's paintings…\" looks fine because Ali is mentioned — but the subject is \"paintings.\"",
+    "**The pronoun splice:** a comma before it / this / they / there that starts a new clause = comma splice.",
+    "**The fake joiner:** however, therefore, still, instead after a comma cannot join two sentences.",
+    "**The semicolon + dependent clause:** \"; because…\", \"; although…\", \"; which…\" — the side after a semicolon must be a complete sentence.",
+    "**The -ing fragment:** \"The museum, holding over 5,000 coins.\" No main verb — fragment.",
+    "**The half-fix:** a choice that corrects one error but keeps a second one (right tense, wrong comparison).",
+    "**The broken pair:** \"not only … and also,\" \"either … nor,\" \"between … or.\"",
+    "**The \"you\" shift:** an essay about \"a visitor\" or \"students\" that suddenly says \"you.\""
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Read to the end of the sentence before choosing — never decide from the underlined words alone.",
+    "Compare the four choices first: the difference shows you the rule (punctuation? verb form? word order?).",
+    "For any period, semicolon or comma choice: ask \"Is the left side a complete sentence? Is the right side?\"",
+    "For an opening phrase + comma: ask \"Who or what is doing this?\" — that noun must come right after the comma.",
+    "For a list: underline the first item and copy its form.",
+    "For a comparison: name the two things being compared. Same kind? If not, look for that of / those of / 's.",
+    "Choose NO CHANGE when nothing is wrong — on the ACT it is correct about as often as any other letter.",
+    "Do not spend more than about 40 seconds on one item; mark it and come back."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Read the essay and answer the 12 questions. Each question refers to the numbered underlined portion. The questions mix all seven rules, just like the real test."
+  },
+  {
+   "type": "test",
+   "title": "Sentence Structure — ACT-style practice",
+   "timed": false,
+   "intro": "One essay, 12 questions. Choose the best version of each underlined portion. NO CHANGE keeps the original. Explanations appear after you answer.",
+   "sections": [
+    {
+     "name": "English",
+     "minutes": 9,
+     "questions": [
+      {
+       "p": "The Keeper's Logbook\n\nIn 1889, a lighthouse keeper named Ezra Pell began a daily logbook on a small, rocky island off a northern coast. For forty years, he recorded the weather, the ships that passed, and the condition of the lamp. Today, the logbook is kept at a local museum, [1] __and scientists are reading it, they want__ to learn how the climate of the region has changed.\n\nPell's entries are short but careful. [2] __Writing in pencil every evening, the pages were filled by Pell__ with notes about wind, waves, and fog. On a typical day, he would measure the wind, [3] __count the passing boats, and then he wrote__ a short description of the sky. His descriptions of fog are more detailed [4] __than any other keeper__ on that coast.\n\nLast year, a team from a nearby university [5] __begins__ comparing his notes with modern weather records. The team found that Pell recorded far more foggy days in the 1890s than keepers record today. [6] __A difference that surprised__ the researchers. If a reader studies the logbook closely, [7] __you will notice__ that Pell's handwriting changes after 1910. Experts believe that Pell injured his hand that year, yet he [8] __nearly wrote an entry every single day__ until he retired. He missed only eleven days in four [9] __decades most of them were__ during a long illness in 1917.\n\nThe logbook is valuable not only for its data [10] __but also for its voice__. Pell rarely wrote about [11] __himself; still, his__ personality appears in small comments. [12] __Like the diaries of other keepers, Pell's logbook__ mentions loneliness only rarely. On one winter evening in 1902, however, he wrote a single line: \"No ship, no voice, only the lamp and me.\"",
+       "q": "Question 1: Choose the best version of underlined portion [1]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "scientists are reading it, wanting",
+        "where scientists are reading it because they want",
+        "and scientists are reading it; because they want"
+       ],
+       "a": 2,
+       "e": "C turns the second part into a dependent \"where\" clause and links the reason with \"because\" — no splice. A is a comma splice (\"scientists are reading it, they want\"); B is still a comma splice after \"museum\"; D puts a dependent \"because\" clause after a semicolon.",
+       "s": "Comma splices / joining clauses"
+      },
+      {
+       "p": "The Keeper's Logbook\n\nIn 1889, a lighthouse keeper named Ezra Pell began a daily logbook on a small, rocky island off a northern coast. For forty years, he recorded the weather, the ships that passed, and the condition of the lamp. Today, the logbook is kept at a local museum, [1] __and scientists are reading it, they want__ to learn how the climate of the region has changed.\n\nPell's entries are short but careful. [2] __Writing in pencil every evening, the pages were filled by Pell__ with notes about wind, waves, and fog. On a typical day, he would measure the wind, [3] __count the passing boats, and then he wrote__ a short description of the sky. His descriptions of fog are more detailed [4] __than any other keeper__ on that coast.\n\nLast year, a team from a nearby university [5] __begins__ comparing his notes with modern weather records. The team found that Pell recorded far more foggy days in the 1890s than keepers record today. [6] __A difference that surprised__ the researchers. If a reader studies the logbook closely, [7] __you will notice__ that Pell's handwriting changes after 1910. Experts believe that Pell injured his hand that year, yet he [8] __nearly wrote an entry every single day__ until he retired. He missed only eleven days in four [9] __decades most of them were__ during a long illness in 1917.\n\nThe logbook is valuable not only for its data [10] __but also for its voice__. Pell rarely wrote about [11] __himself; still, his__ personality appears in small comments. [12] __Like the diaries of other keepers, Pell's logbook__ mentions loneliness only rarely. On one winter evening in 1902, however, he wrote a single line: \"No ship, no voice, only the lamp and me.\"",
+       "q": "Question 2: Choose the best version of underlined portion [2]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "Writing in pencil every evening, Pell's pages were filled",
+        "Pell wrote in pencil every evening, the pages filled",
+        "Writing in pencil every evening, Pell filled the pages"
+       ],
+       "a": 3,
+       "e": "The person writing is Pell, so \"Pell\" must come right after the opening modifier. A and B make the pages (or Pell's pages) do the writing — dangling modifiers. C is a comma splice.",
+       "s": "Dangling modifiers"
+      },
+      {
+       "p": "The Keeper's Logbook\n\nIn 1889, a lighthouse keeper named Ezra Pell began a daily logbook on a small, rocky island off a northern coast. For forty years, he recorded the weather, the ships that passed, and the condition of the lamp. Today, the logbook is kept at a local museum, [1] __and scientists are reading it, they want__ to learn how the climate of the region has changed.\n\nPell's entries are short but careful. [2] __Writing in pencil every evening, the pages were filled by Pell__ with notes about wind, waves, and fog. On a typical day, he would measure the wind, [3] __count the passing boats, and then he wrote__ a short description of the sky. His descriptions of fog are more detailed [4] __than any other keeper__ on that coast.\n\nLast year, a team from a nearby university [5] __begins__ comparing his notes with modern weather records. The team found that Pell recorded far more foggy days in the 1890s than keepers record today. [6] __A difference that surprised__ the researchers. If a reader studies the logbook closely, [7] __you will notice__ that Pell's handwriting changes after 1910. Experts believe that Pell injured his hand that year, yet he [8] __nearly wrote an entry every single day__ until he retired. He missed only eleven days in four [9] __decades most of them were__ during a long illness in 1917.\n\nThe logbook is valuable not only for its data [10] __but also for its voice__. Pell rarely wrote about [11] __himself; still, his__ personality appears in small comments. [12] __Like the diaries of other keepers, Pell's logbook__ mentions loneliness only rarely. On one winter evening in 1902, however, he wrote a single line: \"No ship, no voice, only the lamp and me.\"",
+       "q": "Question 3: Choose the best version of underlined portion [3]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "count the passing boats, and write",
+        "counting the passing boats, and write",
+        "count the passing boats, and writing"
+       ],
+       "a": 1,
+       "e": "The list after \"would\" needs three base verbs: measure, count, write. A switches to a new clause (\"then he wrote\"); C and D mix -ing forms into the list.",
+       "s": "Parallelism"
+      },
+      {
+       "p": "The Keeper's Logbook\n\nIn 1889, a lighthouse keeper named Ezra Pell began a daily logbook on a small, rocky island off a northern coast. For forty years, he recorded the weather, the ships that passed, and the condition of the lamp. Today, the logbook is kept at a local museum, [1] __and scientists are reading it, they want__ to learn how the climate of the region has changed.\n\nPell's entries are short but careful. [2] __Writing in pencil every evening, the pages were filled by Pell__ with notes about wind, waves, and fog. On a typical day, he would measure the wind, [3] __count the passing boats, and then he wrote__ a short description of the sky. His descriptions of fog are more detailed [4] __than any other keeper__ on that coast.\n\nLast year, a team from a nearby university [5] __begins__ comparing his notes with modern weather records. The team found that Pell recorded far more foggy days in the 1890s than keepers record today. [6] __A difference that surprised__ the researchers. If a reader studies the logbook closely, [7] __you will notice__ that Pell's handwriting changes after 1910. Experts believe that Pell injured his hand that year, yet he [8] __nearly wrote an entry every single day__ until he retired. He missed only eleven days in four [9] __decades most of them were__ during a long illness in 1917.\n\nThe logbook is valuable not only for its data [10] __but also for its voice__. Pell rarely wrote about [11] __himself; still, his__ personality appears in small comments. [12] __Like the diaries of other keepers, Pell's logbook__ mentions loneliness only rarely. On one winter evening in 1902, however, he wrote a single line: \"No ship, no voice, only the lamp and me.\"",
+       "q": "Question 4: Choose the best version of underlined portion [4]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "than those of any other keeper",
+        "then those of any other keeper",
+        "than any other keeper does"
+       ],
+       "a": 1,
+       "e": "Compare descriptions with descriptions: \"those of any other keeper.\" A and D compare descriptions with a person; C uses \"then\" (time) instead of \"than\" (comparison).",
+       "s": "Faulty comparisons"
+      },
+      {
+       "p": "The Keeper's Logbook\n\nIn 1889, a lighthouse keeper named Ezra Pell began a daily logbook on a small, rocky island off a northern coast. For forty years, he recorded the weather, the ships that passed, and the condition of the lamp. Today, the logbook is kept at a local museum, [1] __and scientists are reading it, they want__ to learn how the climate of the region has changed.\n\nPell's entries are short but careful. [2] __Writing in pencil every evening, the pages were filled by Pell__ with notes about wind, waves, and fog. On a typical day, he would measure the wind, [3] __count the passing boats, and then he wrote__ a short description of the sky. His descriptions of fog are more detailed [4] __than any other keeper__ on that coast.\n\nLast year, a team from a nearby university [5] __begins__ comparing his notes with modern weather records. The team found that Pell recorded far more foggy days in the 1890s than keepers record today. [6] __A difference that surprised__ the researchers. If a reader studies the logbook closely, [7] __you will notice__ that Pell's handwriting changes after 1910. Experts believe that Pell injured his hand that year, yet he [8] __nearly wrote an entry every single day__ until he retired. He missed only eleven days in four [9] __decades most of them were__ during a long illness in 1917.\n\nThe logbook is valuable not only for its data [10] __but also for its voice__. Pell rarely wrote about [11] __himself; still, his__ personality appears in small comments. [12] __Like the diaries of other keepers, Pell's logbook__ mentions loneliness only rarely. On one winter evening in 1902, however, he wrote a single line: \"No ship, no voice, only the lamp and me.\"",
+       "q": "Question 5: Choose the best version of underlined portion [5]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "begin",
+        "began",
+        "will begin"
+       ],
+       "a": 2,
+       "e": "\"Last year\" fixes the action in the past, and the next sentence uses \"found.\" A and D are the wrong time; B is also the wrong tense and does not agree with the singular \"team.\"",
+       "s": "Verb tense shifts"
+      },
+      {
+       "p": "The Keeper's Logbook\n\nIn 1889, a lighthouse keeper named Ezra Pell began a daily logbook on a small, rocky island off a northern coast. For forty years, he recorded the weather, the ships that passed, and the condition of the lamp. Today, the logbook is kept at a local museum, [1] __and scientists are reading it, they want__ to learn how the climate of the region has changed.\n\nPell's entries are short but careful. [2] __Writing in pencil every evening, the pages were filled by Pell__ with notes about wind, waves, and fog. On a typical day, he would measure the wind, [3] __count the passing boats, and then he wrote__ a short description of the sky. His descriptions of fog are more detailed [4] __than any other keeper__ on that coast.\n\nLast year, a team from a nearby university [5] __begins__ comparing his notes with modern weather records. The team found that Pell recorded far more foggy days in the 1890s than keepers record today. [6] __A difference that surprised__ the researchers. If a reader studies the logbook closely, [7] __you will notice__ that Pell's handwriting changes after 1910. Experts believe that Pell injured his hand that year, yet he [8] __nearly wrote an entry every single day__ until he retired. He missed only eleven days in four [9] __decades most of them were__ during a long illness in 1917.\n\nThe logbook is valuable not only for its data [10] __but also for its voice__. Pell rarely wrote about [11] __himself; still, his__ personality appears in small comments. [12] __Like the diaries of other keepers, Pell's logbook__ mentions loneliness only rarely. On one winter evening in 1902, however, he wrote a single line: \"No ship, no voice, only the lamp and me.\"",
+       "q": "Question 6: Choose the best version of underlined portion [6]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "This difference surprised",
+        "A difference, which surprised",
+        "Being a difference that surprised"
+       ],
+       "a": 1,
+       "e": "B gives the sentence a subject (\"This difference\") and a main verb (\"surprised\"). A and C are noun phrases with only a dependent clause — fragments. D has no main verb either.",
+       "s": "Fragments"
+      },
+      {
+       "p": "The Keeper's Logbook\n\nIn 1889, a lighthouse keeper named Ezra Pell began a daily logbook on a small, rocky island off a northern coast. For forty years, he recorded the weather, the ships that passed, and the condition of the lamp. Today, the logbook is kept at a local museum, [1] __and scientists are reading it, they want__ to learn how the climate of the region has changed.\n\nPell's entries are short but careful. [2] __Writing in pencil every evening, the pages were filled by Pell__ with notes about wind, waves, and fog. On a typical day, he would measure the wind, [3] __count the passing boats, and then he wrote__ a short description of the sky. His descriptions of fog are more detailed [4] __than any other keeper__ on that coast.\n\nLast year, a team from a nearby university [5] __begins__ comparing his notes with modern weather records. The team found that Pell recorded far more foggy days in the 1890s than keepers record today. [6] __A difference that surprised__ the researchers. If a reader studies the logbook closely, [7] __you will notice__ that Pell's handwriting changes after 1910. Experts believe that Pell injured his hand that year, yet he [8] __nearly wrote an entry every single day__ until he retired. He missed only eleven days in four [9] __decades most of them were__ during a long illness in 1917.\n\nThe logbook is valuable not only for its data [10] __but also for its voice__. Pell rarely wrote about [11] __himself; still, his__ personality appears in small comments. [12] __Like the diaries of other keepers, Pell's logbook__ mentions loneliness only rarely. On one winter evening in 1902, however, he wrote a single line: \"No ship, no voice, only the lamp and me.\"",
+       "q": "Question 7: Choose the best version of underlined portion [7]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "you would notice",
+        "we will notice",
+        "he or she will notice"
+       ],
+       "a": 3,
+       "e": "The sentence starts in the third person (\"a reader\"), so it must stay there: \"he or she.\" A and C shift to \"you\"/\"we\"; B shifts person and breaks the if-clause pattern (studies … would).",
+       "s": "Shifts in point of view"
+      },
+      {
+       "p": "The Keeper's Logbook\n\nIn 1889, a lighthouse keeper named Ezra Pell began a daily logbook on a small, rocky island off a northern coast. For forty years, he recorded the weather, the ships that passed, and the condition of the lamp. Today, the logbook is kept at a local museum, [1] __and scientists are reading it, they want__ to learn how the climate of the region has changed.\n\nPell's entries are short but careful. [2] __Writing in pencil every evening, the pages were filled by Pell__ with notes about wind, waves, and fog. On a typical day, he would measure the wind, [3] __count the passing boats, and then he wrote__ a short description of the sky. His descriptions of fog are more detailed [4] __than any other keeper__ on that coast.\n\nLast year, a team from a nearby university [5] __begins__ comparing his notes with modern weather records. The team found that Pell recorded far more foggy days in the 1890s than keepers record today. [6] __A difference that surprised__ the researchers. If a reader studies the logbook closely, [7] __you will notice__ that Pell's handwriting changes after 1910. Experts believe that Pell injured his hand that year, yet he [8] __nearly wrote an entry every single day__ until he retired. He missed only eleven days in four [9] __decades most of them were__ during a long illness in 1917.\n\nThe logbook is valuable not only for its data [10] __but also for its voice__. Pell rarely wrote about [11] __himself; still, his__ personality appears in small comments. [12] __Like the diaries of other keepers, Pell's logbook__ mentions loneliness only rarely. On one winter evening in 1902, however, he wrote a single line: \"No ship, no voice, only the lamp and me.\"",
+       "q": "Question 8: Choose the best version of underlined portion [8]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "wrote nearly an entry every single day",
+        "wrote an entry nearly every single day",
+        "wrote an entry every nearly single day"
+       ],
+       "a": 2,
+       "e": "\"Nearly\" describes \"every single day,\" so it goes right before it. A says he \"nearly wrote\" (almost wrote, but did not); B and D put the word next to the wrong words.",
+       "s": "Misplaced modifiers"
+      },
+      {
+       "p": "The Keeper's Logbook\n\nIn 1889, a lighthouse keeper named Ezra Pell began a daily logbook on a small, rocky island off a northern coast. For forty years, he recorded the weather, the ships that passed, and the condition of the lamp. Today, the logbook is kept at a local museum, [1] __and scientists are reading it, they want__ to learn how the climate of the region has changed.\n\nPell's entries are short but careful. [2] __Writing in pencil every evening, the pages were filled by Pell__ with notes about wind, waves, and fog. On a typical day, he would measure the wind, [3] __count the passing boats, and then he wrote__ a short description of the sky. His descriptions of fog are more detailed [4] __than any other keeper__ on that coast.\n\nLast year, a team from a nearby university [5] __begins__ comparing his notes with modern weather records. The team found that Pell recorded far more foggy days in the 1890s than keepers record today. [6] __A difference that surprised__ the researchers. If a reader studies the logbook closely, [7] __you will notice__ that Pell's handwriting changes after 1910. Experts believe that Pell injured his hand that year, yet he [8] __nearly wrote an entry every single day__ until he retired. He missed only eleven days in four [9] __decades most of them were__ during a long illness in 1917.\n\nThe logbook is valuable not only for its data [10] __but also for its voice__. Pell rarely wrote about [11] __himself; still, his__ personality appears in small comments. [12] __Like the diaries of other keepers, Pell's logbook__ mentions loneliness only rarely. On one winter evening in 1902, however, he wrote a single line: \"No ship, no voice, only the lamp and me.\"",
+       "q": "Question 9: Choose the best version of underlined portion [9]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "decades, most of them were",
+        "decades; most of them",
+        "decades, most of them"
+       ],
+       "a": 3,
+       "e": "D adds a short phrase with no verb (\"most of them during a long illness\"), which a comma can attach. A is a run-on; B is a comma splice; C puts a phrase that is not a complete sentence after a semicolon.",
+       "s": "Run-ons / joining clauses"
+      },
+      {
+       "p": "The Keeper's Logbook\n\nIn 1889, a lighthouse keeper named Ezra Pell began a daily logbook on a small, rocky island off a northern coast. For forty years, he recorded the weather, the ships that passed, and the condition of the lamp. Today, the logbook is kept at a local museum, [1] __and scientists are reading it, they want__ to learn how the climate of the region has changed.\n\nPell's entries are short but careful. [2] __Writing in pencil every evening, the pages were filled by Pell__ with notes about wind, waves, and fog. On a typical day, he would measure the wind, [3] __count the passing boats, and then he wrote__ a short description of the sky. His descriptions of fog are more detailed [4] __than any other keeper__ on that coast.\n\nLast year, a team from a nearby university [5] __begins__ comparing his notes with modern weather records. The team found that Pell recorded far more foggy days in the 1890s than keepers record today. [6] __A difference that surprised__ the researchers. If a reader studies the logbook closely, [7] __you will notice__ that Pell's handwriting changes after 1910. Experts believe that Pell injured his hand that year, yet he [8] __nearly wrote an entry every single day__ until he retired. He missed only eleven days in four [9] __decades most of them were__ during a long illness in 1917.\n\nThe logbook is valuable not only for its data [10] __but also for its voice__. Pell rarely wrote about [11] __himself; still, his__ personality appears in small comments. [12] __Like the diaries of other keepers, Pell's logbook__ mentions loneliness only rarely. On one winter evening in 1902, however, he wrote a single line: \"No ship, no voice, only the lamp and me.\"",
+       "q": "Question 10: Choose the best version of underlined portion [10]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "but also because of how it sounds",
+        "but it also has a voice",
+        "and also its voice"
+       ],
+       "a": 0,
+       "e": "\"Not only for its data but also for its voice\" is perfectly parallel (for + noun / for + noun). B and C break the pattern; D replaces the required pair \"not only … but also\" with \"and also.\"",
+       "s": "Parallelism"
+      },
+      {
+       "p": "The Keeper's Logbook\n\nIn 1889, a lighthouse keeper named Ezra Pell began a daily logbook on a small, rocky island off a northern coast. For forty years, he recorded the weather, the ships that passed, and the condition of the lamp. Today, the logbook is kept at a local museum, [1] __and scientists are reading it, they want__ to learn how the climate of the region has changed.\n\nPell's entries are short but careful. [2] __Writing in pencil every evening, the pages were filled by Pell__ with notes about wind, waves, and fog. On a typical day, he would measure the wind, [3] __count the passing boats, and then he wrote__ a short description of the sky. His descriptions of fog are more detailed [4] __than any other keeper__ on that coast.\n\nLast year, a team from a nearby university [5] __begins__ comparing his notes with modern weather records. The team found that Pell recorded far more foggy days in the 1890s than keepers record today. [6] __A difference that surprised__ the researchers. If a reader studies the logbook closely, [7] __you will notice__ that Pell's handwriting changes after 1910. Experts believe that Pell injured his hand that year, yet he [8] __nearly wrote an entry every single day__ until he retired. He missed only eleven days in four [9] __decades most of them were__ during a long illness in 1917.\n\nThe logbook is valuable not only for its data [10] __but also for its voice__. Pell rarely wrote about [11] __himself; still, his__ personality appears in small comments. [12] __Like the diaries of other keepers, Pell's logbook__ mentions loneliness only rarely. On one winter evening in 1902, however, he wrote a single line: \"No ship, no voice, only the lamp and me.\"",
+       "q": "Question 11: Choose the best version of underlined portion [11]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "himself, still, his",
+        "himself still his",
+        "himself, still his"
+       ],
+       "a": 0,
+       "e": "Both sides are independent clauses, so the semicolon is correct, with a comma after \"still.\" B and D are comma splices; C is a run-on.",
+       "s": "Joining clauses"
+      },
+      {
+       "p": "The Keeper's Logbook\n\nIn 1889, a lighthouse keeper named Ezra Pell began a daily logbook on a small, rocky island off a northern coast. For forty years, he recorded the weather, the ships that passed, and the condition of the lamp. Today, the logbook is kept at a local museum, [1] __and scientists are reading it, they want__ to learn how the climate of the region has changed.\n\nPell's entries are short but careful. [2] __Writing in pencil every evening, the pages were filled by Pell__ with notes about wind, waves, and fog. On a typical day, he would measure the wind, [3] __count the passing boats, and then he wrote__ a short description of the sky. His descriptions of fog are more detailed [4] __than any other keeper__ on that coast.\n\nLast year, a team from a nearby university [5] __begins__ comparing his notes with modern weather records. The team found that Pell recorded far more foggy days in the 1890s than keepers record today. [6] __A difference that surprised__ the researchers. If a reader studies the logbook closely, [7] __you will notice__ that Pell's handwriting changes after 1910. Experts believe that Pell injured his hand that year, yet he [8] __nearly wrote an entry every single day__ until he retired. He missed only eleven days in four [9] __decades most of them were__ during a long illness in 1917.\n\nThe logbook is valuable not only for its data [10] __but also for its voice__. Pell rarely wrote about [11] __himself; still, his__ personality appears in small comments. [12] __Like the diaries of other keepers, Pell's logbook__ mentions loneliness only rarely. On one winter evening in 1902, however, he wrote a single line: \"No ship, no voice, only the lamp and me.\"",
+       "q": "Question 12: Choose the best version of underlined portion [12]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "Like other keepers, Pell's logbook",
+        "Like other keepers, the logbook of Pell",
+        "Similar to other keepers, Pell's logbook"
+       ],
+       "a": 0,
+       "e": "A compares diaries with a logbook — two written records. B, C and D compare people (keepers) with a book, a faulty comparison.",
+       "s": "Faulty comparisons"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Complete sentence = subject + main verb + complete thought. Watch -ing words and lonely because/which clauses.",
+    "Two independent clauses: period, semicolon, comma + FANBOYS, or a colon that explains. Never a comma alone.",
+    "Opening modifier → the doer comes right after the comma; only/nearly/almost go right before the word they describe.",
+    "Lists and pairs (not only … but also) must match in form; comparisons must compare like with like.",
+    "Keep the same point of view and the same time frame unless the meaning really changes."
+   ]
+  }
+ ]
+}

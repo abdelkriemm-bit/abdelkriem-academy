@@ -8,7 +8,7 @@ PL = {
  "parents": "PLZn-QO9NSjZSQsQLpm2O2QVnymKTOJ-hD", "tips": "PLZn-QO9NSjZQhhfkg0HBadGcs9Kfn0IRv",
  "ielts": "PLZn-QO9NSjZSuQZSRDvkmDOOnINQqF56t", "situations": "PLZn-QO9NSjZTVogFkUdSRhjTNpm7PjPLX",
 }
-NAV = [("index.html","Home","الرئيسية"),("british.html","British & IGCSE",""),("baccalaureate.html","تانية بكالوريا English",""),
+NAV = [("index.html","Home","الرئيسية"),("british.html","British & IGCSE",""),("american.html","American Diploma",""),("baccalaureate.html","تانية بكالوريا English",""),
        ("quran.html","Quran · حفظ القرآن",""),("improve-english.html","English · من الصفر للاحتراف",""),("about.html","About","")]
 
 def head(title, desc, rtl=False):
@@ -44,7 +44,7 @@ def header(active):
 
 FOOT = f'''<footer class="foot" dir="ltr"><div class="wrap fgrid">
 <div><b>Abdelkriem Academy</b><p>Free educational resources for students and parents — Cambridge and Oxford English, the Egyptian Baccalaureate, Quran and more — by Mohamed Abdelkriem.</p></div>
-<div><b>Sections</b><a href="british.html">British &amp; IGCSE</a><a href="baccalaureate.html">تانية بكالوريا English</a><a href="quran.html">Quran · حفظ القرآن</a><a href="improve-english.html">English · من الصفر للاحتراف</a></div>
+<div><b>Sections</b><a href="british.html">British &amp; IGCSE</a><a href="american.html">American Diploma · SAT · ACT · EST</a><a href="baccalaureate.html">تانية بكالوريا English</a><a href="quran.html">Quran · حفظ القرآن</a><a href="improve-english.html">English · من الصفر للاحتراف</a></div>
 <div><b>Academy</b><a href="about.html">About</a><a href="contact.html">Contact</a><a href="privacy.html">Privacy Policy</a><a href="terms.html">Terms of Use</a></div>
 <div><b>Follow</b><a href="{YT}" target="_blank" rel="noopener">YouTube</a><a href="https://www.facebook.com/" target="_blank" rel="noopener">Facebook</a><a href="https://www.tiktok.com/" target="_blank" rel="noopener">TikTok</a></div>
 </div><p class="copy">© 2026 Abdelkriem Academy · No English exam left standing.</p></footer>
@@ -76,6 +76,7 @@ COURSES = [
  ("Checkpoint 6 English","43 lessons for Year 6: grammar, punctuation and reading skills, and a writing pack for every fiction and non-fiction genre with model samples.","checkpoint-6.html","Cambridge Primary 0058"),
  ("IGCSE English 0510","The complete course: the exam explained, Exercises 1-6 step by step, a pack for every writing genre, listening and speaking, with full-mark models.","year-9-0510.html","Cambridge IGCSE"),
  ("Oxford International GCSE","The complete 9280 course: reading question types, every writing task from the picture to the article, listening and speaking with model answers.","year-10-oxford.html","OxfordAQA 9280"),
+("American Diploma: SAT · ACT · EST","Complete English courses for the Digital SAT Reading and Writing, ACT English and Reading, and the EST Literacy tests, with full timed practice tests.","american.html","SAT · ACT · EST"),
  ("Quran: Reading, Tajweed &amp; Memorisation","A complete free Quran course for children and parents: learning to read, all the tajweed rules, and a daily plan to memorise the whole Quran.","quran.html","القرآن الكريم من الألف للياء"),
  ("English: From Zero to Pro","A complete free English course in 5 levels, from your first word to fluent English, with Arabic explanations.","improve-english.html","إنجليزي من الصفر للاحتراف"),
 ]
@@ -92,7 +93,7 @@ home = f'''
 <h1>Free educational resources that get students <em>exam-ready.</em></h1>
 <p class="lead">Free courses, notes, practice and model answers for students and parents: Cambridge and Oxford English, تانية بكالوريا, a complete Quran course (reading, tajweed and memorisation) and English from zero to pro — prepared by Mohamed Abdelkriem, a British-curriculum teacher with 14 years in the classroom.</p>
 <div class="ctas"><a class="btn" href="#courses">Browse the courses</a><a class="btn ghost" href="#parents">For parents</a></div>
-<ul class="stats"><li><b>14</b><span>years teaching</span></li><li><b>8</b><span>free courses</span></li><li><b>100%</b><span>free to use</span></li></ul>
+<ul class="stats"><li><b>14</b><span>years teaching</span></li><li><b>11</b><span>free courses</span></li><li><b>100%</b><span>free to use</span></li></ul>
 </div>
 <figure class="portrait"><img src="images/mohamed-abdelkriem.jpg" width="1294" height="1618" alt="Mohamed Abdelkriem, teacher" onerror="this.parentNode.classList.add('noimg')"><span class="ph">Mohamed<br>Abdelkriem</span>
 <figcaption>“No English exam left standing — my students are on a mission to conquer all.”</figcaption></figure>

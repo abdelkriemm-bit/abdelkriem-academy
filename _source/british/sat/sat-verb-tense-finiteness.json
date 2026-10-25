@@ -1,0 +1,674 @@
+{
+ "slug": "sat-verb-tense-finiteness",
+ "title": "Verb Tense, Aspect and Finiteness",
+ "kicker": "American Diploma · Digital SAT · Standard English Conventions",
+ "summary": "Choose the right tense from time clues and the rest of the passage, and know when a sentence needs a finite main verb and when an -ing or to-verb form is correct.",
+ "blocks": [
+  {
+   "type": "p",
+   "text": "Two related skills share this page. **Tense and aspect** questions ask *when* an action happens and how it relates to other actions (did, has done, had done, was doing, will have done). **Finiteness** questions ask whether a verb form can be the **main verb** of a sentence at all (completes / completed vs completing / to complete). Both are on the official list for **Form, Structure, and Sense**, and both are solved with short, reliable checks."
+  },
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "These questions belong to **Standard English Conventions**, about **26%** of the scored Reading and Writing questions (about **11–15 questions**). The official skills include **verb tense and aspect** and **verb finiteness** (gerunds, participles and infinitives versus finite verbs). They **usually** appear in the later part of each module."
+  },
+  {
+   "type": "p",
+   "text": "The stem is: **\"Which choice completes the text so that it conforms to the conventions of Standard English?\"** Look at the four choices to see which skill is being tested:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "The choices look like …",
+    "The question tests …",
+    "Your first check"
+   ],
+   "rows": [
+    [
+     "discovered / has discovered / had discovered / will discover",
+     "Tense and aspect",
+     "Time clues and the other verbs in the passage"
+    ],
+    [
+     "attracts / attracting / to attract / having attracted",
+     "Finiteness",
+     "Does the sentence already have a main verb?"
+    ],
+    [
+     "is / are / was / were",
+     "Agreement + tense",
+     "Subject first (see Subject–Verb Agreement), then tense"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "بص على الاختيارات الأول",
+   "text": "لو الاختيارات نفس الفعل في **أزمنة مختلفة** (did / has done / had done) دوّر على **كلمات الوقت** والأفعال التانية في القطعة. لو الاختيارات فيها **‎-ing** و **to** والتصريف التالت، اسأل نفسك: هل الجملة فيها **فعل أساسي** ولا لأ؟ الجملة من غير فعل أساسي = جملة ناقصة (fragment)."
+  },
+  {
+   "type": "h2",
+   "text": "Part A — Tense and aspect"
+  },
+  {
+   "type": "p",
+   "text": "**Tense** is the time (past, present, future). **Aspect** adds information about the action: is it **simple** (a fact or a complete action), **progressive** (in progress: be + -ing) or **perfect** (completed before a certain point: have + past participle)? The SAT tests the forms below."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Form",
+    "Structure",
+    "Use",
+    "✓ Example"
+   ],
+   "rows": [
+    [
+     "Simple present",
+     "studies / study",
+     "Facts, habits, general truths; what a text, author or study **says**",
+     "Water **boils** at 100°C. The author **argues** that …"
+    ],
+    [
+     "Simple past",
+     "studied",
+     "A finished action at a **stated past time**",
+     "The temple **was** moved in 1968."
+    ],
+    [
+     "Present perfect",
+     "has / have studied",
+     "From the past **up to now** (since, for, so far, recently); past action with no stated time",
+     "Scientists **have studied** the reef **since** 2010."
+    ],
+    [
+     "Past perfect",
+     "had studied",
+     "The **earlier** of two past actions; \"by the time\" + past",
+     "**By the time** the rescue team arrived, the fire **had spread**."
+    ],
+    [
+     "Present progressive",
+     "is / are studying",
+     "In progress **now**, currently",
+     "Engineers **are testing** the new design."
+    ],
+    [
+     "Past progressive",
+     "was / were studying",
+     "In progress when something else happened",
+     "She **was scanning** the sky **when** she saw the comet."
+    ],
+    [
+     "Future / future perfect",
+     "will study / will have studied",
+     "Later; completed **before** a future point (by 2030)",
+     "**By 2030**, the city **will have finished** the line."
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "How to choose the tense: three clues"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Time words.** They are the strongest clue. Learn the table below.",
+    "**The other verbs in the passage.** If the passage tells a past story, stay in the past unless a time word moves you. If it states facts or describes a study, the present is normal.",
+    "**The order of events.** Two past events? The one that happened first may need **had + past participle**."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Time clue",
+    "Usual form",
+    "✓ Example",
+    "✗ Trap"
+   ],
+   "rows": [
+    [
+     "in 1990, last year, two weeks ago, yesterday, in the 1800s",
+     "Simple past",
+     "The canal **opened in 1869**.",
+     "The canal has opened in 1869."
+    ],
+    [
+     "since + point, for + period (still true), so far, recently, over the past decade",
+     "Present perfect",
+     "**Since 2015**, visitor numbers **have risen**.",
+     "Since 2015, visitor numbers rose."
+    ],
+    [
+     "by the time / before / after + past event; already (in a past story)",
+     "Past perfect",
+     "**By the time** the dam was finished, the temple **had been moved**.",
+     "By the time the dam was finished, the temple has been moved."
+    ],
+    [
+     "when / while + another past action",
+     "Past progressive (the longer action)",
+     "He **was reading when** the lights went out.",
+     "He reads when the lights went out."
+    ],
+    [
+     "currently, now, at present, these days",
+     "Present (simple or progressive)",
+     "The museum **is currently restoring** the boat.",
+     "The museum currently restored the boat."
+    ],
+    [
+     "by + future date, by the end of next year",
+     "Future perfect",
+     "**By 2030**, they **will have planted** a million trees.",
+     "By 2030, they had planted …"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Literary present",
+   "text": "When a passage describes what a book, author, poem or study **says or shows**, the SAT uses the present tense: \"In the novel, the narrator **remembers** her childhood.\" But events *inside* a story can still be told in the past: \"Every evening, they **sat** on the roof.\" Follow the tense the passage itself uses for the story."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Do not over-use \"had\"",
+   "text": "The past perfect (had done) is only correct when there is a **second, later** past moment in the sentence or passage. If there is just one past event at a stated time, use the simple past: \"In 1799, soldiers **discovered** the stone\" — not \"had discovered\"."
+  },
+  {
+   "type": "h2",
+   "text": "Part B — Finiteness: every sentence needs a real main verb"
+  },
+  {
+   "type": "p",
+   "text": "A **finite verb** shows tense and can be the main verb of a clause: *walks, walked, is walking, has walked, will walk, can walk*. A **non-finite** form cannot do this job alone:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Non-finite form",
+    "Looks like",
+    "Can it be the main verb alone?",
+    "✗ Fragment",
+    "✓ Fixed"
+   ],
+   "rows": [
+    [
+     "Infinitive",
+     "to + verb (to protect)",
+     "No",
+     "The new wall **to protect** the village.",
+     "The new wall **protects** the village."
+    ],
+    [
+     "-ing form (gerund / present participle)",
+     "protecting",
+     "No",
+     "The engineers **testing** the bridge for months.",
+     "The engineers **tested** the bridge for months."
+    ],
+    [
+     "Past participle",
+     "protected, written, built",
+     "No (without has/had/is/was)",
+     "The ancient city, **built** near the river.",
+     "The ancient city **was built** near the river."
+    ],
+    [
+     "Perfect participle",
+     "having + past participle",
+     "No",
+     "The team **having completed** the survey.",
+     "The team **had completed** the survey."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**The finiteness test:** find the subject, then find its verb. If there is no finite verb for that subject, the blank must supply one. If the subject already has a finite verb, the blank is usually a **non-finite** modifier (or needs a joining word like *and* or *which*)."
+  },
+  {
+   "type": "h2",
+   "text": "The long-subject trap"
+  },
+  {
+   "type": "p",
+   "text": "The SAT often builds a very long subject with modifiers, so that you forget a main verb is still needed. Strip the sentence down:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "\"The Great Library of Alexandria, **founded** in the third century BCE and **supported** by the Ptolemaic kings, ______ scholars from across the Mediterranean.\"",
+    "Cross out the extra information between the commas: \"The Great Library ______ scholars.\"",
+    "The subject **Library** has no verb yet → the blank needs a finite verb: **attracted**. *Founded* and *supported* are participles in the modifier, not main verbs."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "When a non-finite form IS correct"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Situation",
+    "✓ Example"
+   ],
+   "rows": [
+    [
+     "The sentence already has a main verb, and a phrase after a comma describes the result or the manner",
+     "The river flooded, **forcing** hundreds of families to leave."
+    ],
+    [
+     "A phrase at the start describes the subject",
+     "**Working** through the night, the engineers finished the repair."
+    ],
+    [
+     "Purpose (in order to)",
+     "Farmers flood the fields **to stop** weeds."
+    ],
+    [
+     "After verbs that take an infinitive or -ing",
+     "They decided **to build** … / She avoided **using** …"
+    ],
+    [
+     "After a helping or modal verb",
+     "has **built**, was **building**, can **build**, will **have built**"
+    ],
+    [
+     "A participle after a noun (reduced relative clause)",
+     "The tablets **found** at Amarna are letters. (= that were found)"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "فخ الجملة الطويلة",
+   "text": "لما الفاعل يكون طويل ومعاه كلام كتير بين فاصلتين، شيل الكلام ده واسأل: الفاعل ده **فعله فين**؟ لو مفيش فعل لسه، يبقى الفراغ محتاج **فعل كامل** زي attracted / is / give. لكن لو الجملة فيها فعلها خلاص، يبقى الفراغ غالبًا ‎-ing أو to + فعل (معلومة زيادة)، ولو حطيت فعل كامل بعد فاصلة هتعمل **comma splice**."
+  },
+  {
+   "type": "h2",
+   "text": "The method for test day"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Read the choices.** Different times → tense. -ing / to / participle mixed with finite verbs → finiteness.",
+    "**Finiteness first:** find the subject of the clause with the blank. Does it already have a finite verb? No → choose a finite verb. Yes → choose a non-finite form (or the choice with a joining word).",
+    "**Then tense:** underline time words (since, by the time, in 1990, currently) and the tense of the other verbs.",
+    "**Check agreement** if the finite choices differ in -s / is–are / has–have.",
+    "**Read the full sentence** with your answer. It should be one complete sentence, not a fragment and not a comma splice."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "h2",
+   "text": "Worked example 1: by the time → past perfect"
+  },
+  {
+   "type": "p",
+   "text": "**Passage:** \"By the time the Aswan High Dam was completed in 1970, engineers and archaeologists ______ the temples of Abu Simbel to higher ground, saving them from the rising waters of Lake Nasser.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice completes the text so that it conforms to the conventions of Standard English?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) moved",
+    "B) have moved",
+    "C) had moved",
+    "D) will have moved"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C) had moved.** \"By the time\" + a past event (the dam was completed in 1970) tells you the moving happened **before** that past moment. The earlier of two past actions takes the past perfect: \"had moved\"."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A) moved** — Simple past does not show that the move was already complete before 1970; with \"by the time\" the SAT expects the past perfect.",
+    "**B) have moved** — Present perfect connects to now, but the passage is about a finished past period.",
+    "**D) will have moved** — Future perfect is for a future point, not 1970."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Worked example 2: since → present perfect"
+  },
+  {
+   "type": "p",
+   "text": "**Passage:** \"The Cairo International Book Fair first opened in 1969. Since then, the event ______ into one of the largest book fairs in the Arab world, attracting many publishers and readers every year.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice completes the text so that it conforms to the conventions of Standard English?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) grew",
+    "B) has grown",
+    "C) had grown",
+    "D) grows"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B) has grown.** \"Since then\" describes a period from the past **up to now**, and the fair still happens \"every year\". That is the present perfect: \"has grown\"."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A) grew** — Simple past is for a finished action at a stated time; it does not fit \"since\".",
+    "**C) had grown** — Past perfect needs a later past moment; the period continues to the present.",
+    "**D) grows** — Simple present does not show growth over a period that started in 1969."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Worked example 3: missing main verb"
+  },
+  {
+   "type": "p",
+   "text": "**Passage:** \"The Great Library of Alexandria, founded in the third century BCE and supported by the Ptolemaic kings, ______ scholars from across the Mediterranean who came to study its enormous collection of scrolls.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice completes the text so that it conforms to the conventions of Standard English?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) attracting",
+    "B) to attract",
+    "C) attracted",
+    "D) having attracted"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C) attracted.** Cross out the modifier between the commas: \"The Great Library ______ scholars.\" The subject has no main verb yet, so the blank must be a finite verb. Only \"attracted\" is finite (past tense, fits the historical context)."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A) attracting** — An -ing form cannot be the main verb alone; the sentence becomes a fragment.",
+    "**B) to attract** — An infinitive cannot be the main verb; fragment.",
+    "**D) having attracted** — \"Having attracted\" is a participle; still no main verb, so it is a fragment."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Worked example 4: the main verb is already there"
+  },
+  {
+   "type": "p",
+   "text": "**Passage:** \"Last spring, volunteers planted thousands of mangrove seedlings along the Red Sea coast near Hurghada, ______ to protect the shoreline from erosion and to give young fish a safe place to grow.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice completes the text so that it conforms to the conventions of Standard English?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) they hoped",
+    "B) hoping",
+    "C) hopes",
+    "D) and hoping"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B) hoping.** The sentence already has its subject and finite verb: \"volunteers **planted**\". After the comma we need a modifier that describes the volunteers, not a second main verb. The participle \"hoping\" does this correctly."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A) they hoped** — \"They hoped\" is a complete clause after a comma with no joining word: a comma splice.",
+    "**C) hopes** — \"Hopes\" is a finite verb with no subject of its own, and it is singular and present.",
+    "**D) and hoping** — \"And hoping\" is not parallel: \"planted … and hoping\" joins a finite verb with an -ing form."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**Fragment trap:** a long subject with participles (founded, built, located, including) and no main verb. Choose the finite verb.",
+    "**Comma-splice trap:** the sentence already has a main verb, and a choice adds a second subject + verb after a comma (\", they hoped\"). Choose the -ing / to form.",
+    "**\"Had\" trap:** past perfect when there is only one past time. Use the simple past with a stated date.",
+    "**\"Since\" trap:** simple past with since / for (still true). Use has / have + past participle.",
+    "**Tense-switch trap:** a present verb in the middle of a past story (or the opposite) with no time clue for the change.",
+    "**Being / having trap:** \"being\" and \"having + past participle\" are almost never the main verb the SAT wants."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "First ask \"Does this clause have its main verb?\" — it decides finite vs non-finite in five seconds.",
+    "Circle the time words: since → has/have; by the time + past → had; in + year → simple past; by + future date → will have.",
+    "When there are no time words, copy the tense of the nearest verbs in the passage.",
+    "Read the sentence once with your choice: it must be one complete sentence — no fragment, no splice.",
+    "Target time: 30–45 seconds."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Twelve original test-style questions mixing tense and finiteness. Decide first whether the blank needs a main verb, then check the time clues."
+  },
+  {
+   "type": "test",
+   "title": "Verb tense and finiteness: practice quiz",
+   "timed": false,
+   "intro": "12 original questions in Digital SAT format, untimed. First decide whether the blank needs a main verb; then check the time clues.",
+   "sections": [
+    {
+     "name": "Quiz",
+     "minutes": 15,
+     "questions": [
+      {
+       "p": "In 1799, French soldiers rebuilding a fort near the town of Rashid ______ a large stone slab covered with three kinds of writing. That slab, later called the Rosetta Stone, became the key to reading hieroglyphs.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "discover",
+        "have discovered",
+        "had been discovering",
+        "discovered"
+       ],
+       "a": 3,
+       "e": "The subject \"soldiers\" needs a main verb (\"rebuilding\" is only a participle), and \"In 1799\" is a stated past time, so the simple past \"discovered\" is correct. \"Discover\" is present, \"have discovered\" does not fit a stated past date, and \"had been discovering\" needs an earlier past reference.",
+       "s": "Verb tense and aspect"
+      },
+      {
+       "p": "Seagrass meadows in the Red Sea provide the main food source for dugongs, large marine mammals related to manatees. Since the early 2000s, marine biologists ______ where these animals feed in each season, and their records now guide conservation plans.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "recorded",
+        "have recorded",
+        "had recorded",
+        "record"
+       ],
+       "a": 1,
+       "e": "\"Since the early 2000s\" describes a period from the past up to now, and \"now guide\" confirms the present connection, so the present perfect \"have recorded\" is correct. Simple past and simple present do not fit \"since\", and past perfect needs a later past moment.",
+       "s": "Verb tense and aspect"
+      },
+      {
+       "p": "The ancient Egyptian board game senet, which was played on a grid of thirty squares, ______ among the oldest known board games in the world. Sets of the game have been found in several tombs, including that of Tutankhamun.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "being",
+        "to be",
+        "is",
+        "having been"
+       ],
+       "a": 2,
+       "e": "Cross out the relative clause: \"The board game senet ______ among the oldest games.\" The subject has no main verb, so a finite verb is needed. \"Is\" is finite and fits the present-tense fact. \"Being\", \"to be\" and \"having been\" are non-finite and leave a fragment.",
+       "s": "Verb finiteness"
+      },
+      {
+       "p": "The astronomer ______ the night sky with a small telescope when she noticed a faint, fuzzy object that did not appear on any of her star charts. The object turned out to be a comet that no one had recorded before.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "was scanning",
+        "has scanned",
+        "scans",
+        "is scanning"
+       ],
+       "a": 0,
+       "e": "Scanning was in progress when another past action happened (\"when she noticed\"), so the past progressive \"was scanning\" is correct. \"Has scanned\", \"scans\" and \"is scanning\" are present forms in a past story.",
+       "s": "Verb tense and aspect"
+      },
+      {
+       "p": "Each spring, many rice farmers in the Nile Delta cover their fields with a shallow layer of water ______ weeds from growing between the young plants. The water also helps keep the soil warm during cool nights.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "prevents",
+        "to prevent",
+        "they prevent",
+        "prevented"
+       ],
+       "a": 1,
+       "e": "The sentence already has its main verb (\"farmers cover\"). The blank expresses purpose, so the infinitive \"to prevent\" is correct. \"Prevents\" and \"they prevent\" add a second finite verb with no joining word, and \"prevented\" changes the meaning and the tense.",
+       "s": "Verb finiteness"
+      },
+      {
+       "p": "In her memoir, the novelist describes the summers she spent in her grandmother's house in Aswan. Every evening, the two of them sat on the roof, and her grandmother ______ stories about the boatmen who had worked on the Nile for generations.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "tells",
+        "will tell",
+        "has told",
+        "told"
+       ],
+       "a": 3,
+       "e": "The story events are told in the past (\"spent\", \"sat\"), and \"told\" keeps the same tense as \"sat\" in the same sentence. \"Describes\" is present only because it describes what the memoir does. \"Tells\", \"will tell\" and \"has told\" switch tense without a reason.",
+       "s": "Verb tense and aspect"
+      },
+      {
+       "p": "The hundreds of clay tablets discovered in the ruins of the ancient city of Amarna, many of them letters sent between Egyptian pharaohs and foreign kings, ______ historians a rare view of diplomacy in the fourteenth century BCE.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "give",
+        "giving",
+        "to give",
+        "having given"
+       ],
+       "a": 0,
+       "e": "Strip the sentence: \"The hundreds of clay tablets ______ historians a rare view.\" \"Discovered\" and \"sent\" are participles, so the subject still needs a finite verb. \"Give\" is finite and plural. The other three choices are non-finite and create a fragment.",
+       "s": "Verb finiteness"
+      },
+      {
+       "p": "When the explorers finally reached the source of the river, they were disappointed to discover that another expedition ______ there only a few weeks earlier and had left a marker on a nearby rock.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "arrives",
+        "has arrived",
+        "had arrived",
+        "will arrive"
+       ],
+       "a": 2,
+       "e": "The other expedition arrived before the explorers discovered it — the earlier of two past actions — and the sentence continues with \"had left\". The past perfect \"had arrived\" is correct. The other choices are present or future.",
+       "s": "Verb tense and aspect"
+      },
+      {
+       "p": "The volcano erupted without warning in the early morning, ______ a column of ash nearly ten kilometers into the sky and forcing nearby villages to evacuate within hours.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "sent",
+        "it sent",
+        "sending",
+        "sends"
+       ],
+       "a": 2,
+       "e": "The main verb is already there (\"The volcano erupted\"). The phrase after the comma describes the results, and it must be parallel with \"forcing\", so \"sending\" is correct. \"It sent\" creates a comma splice, and \"sent\" / \"sends\" are not parallel with \"forcing\".",
+       "s": "Verb finiteness"
+      },
+      {
+       "p": "The city's new water treatment plant is being built in three stages. If the work continues on schedule, by the end of 2030 engineers ______ all three stages, and the plant will supply clean water to two million residents.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "completed",
+        "have completed",
+        "had completed",
+        "will have completed"
+       ],
+       "a": 3,
+       "e": "\"By the end of 2030\" is a future point, and the work will be finished before it, so the future perfect \"will have completed\" is correct. The other three choices are past or present forms.",
+       "s": "Verb tense and aspect"
+      },
+      {
+       "p": "Camels can go many days without drinking because their bodies are extremely good at saving water. When a thirsty camel finally reaches a well, it ______ up to 100 liters of water in about ten minutes.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "can drink",
+        "could have drunk",
+        "drinking",
+        "had drunk"
+       ],
+       "a": 0,
+       "e": "The passage states general facts in the present (\"can go\", \"are\", \"reaches\"), so \"can drink\" keeps the same time. \"Drinking\" is non-finite and leaves the clause without a main verb; \"could have drunk\" and \"had drunk\" are past forms.",
+       "s": "Verb tense and aspect"
+      },
+      {
+       "p": "Although the giant tortoise ______ very slowly, it can cover a surprising distance in a single day while searching for grasses, leaves, and fallen fruit on its island home.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "moving",
+        "moves",
+        "to move",
+        "having moved"
+       ],
+       "a": 1,
+       "e": "A clause that begins with \"Although\" needs its own subject and finite verb: \"Although the giant tortoise moves very slowly\". \"Moves\" is finite, singular and present. \"Moving\", \"to move\" and \"having moved\" are non-finite and leave the clause incomplete.",
+       "s": "Verb finiteness"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Every clause needs a **finite** main verb. -ing, to + verb and a past participle alone cannot be the main verb.",
+    "If the clause already has its main verb, the blank is usually a non-finite modifier; adding a second subject + verb after a comma is a comma splice.",
+    "Time clues decide tense: **in 1990** → did; **since / for** → has done; **by the time + past** → had done; **when + past action** → was doing; **by + future date** → will have done.",
+    "With no time clue, keep the tense of the passage. Descriptions of what a text or study says use the present.",
+    "Check finiteness first, tense second, agreement third."
+   ]
+  }
+ ]
+}

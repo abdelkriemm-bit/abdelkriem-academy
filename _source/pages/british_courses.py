@@ -5,7 +5,7 @@
 import json as _bj, os as _bo, re as _bre, html as _bh
 
 _BR_ROOT = _bo.path.join(_bo.path.dirname(PAGES_DIR), "british")
-_BR_COURSES = [c for c in _bo.environ.get("BRITISH_COURSES", "oxford,0510,cp8,cp6,bac,parents").split(",") if c]
+_BR_COURSES = [c for c in _bo.environ.get("BRITISH_COURSES", "oxford,0510,cp8,cp6,bac,parents,sat,act,est").split(",") if c]
 
 _BR_CSS = """<style>
 .bc{max-width:860px;margin:0 auto;overflow-wrap:break-word}
@@ -75,6 +75,7 @@ def _bE(s):
     s = _bh.escape(str(s))
     s = _bre.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", s)
     s = _bre.sub(r"(https?://[^\s<]+[^\s<.,)])", r'<a href="\1" target="_blank" rel="noopener nofollow" dir="ltr">\1</a>', s)
+    s = _bre.sub(r"\(((?:sat|act|est)-[a-z0-9-]+)\.html\)", r'(<a href="\1.html">open lesson</a>)', s)
     return s
 
 def _bAr(s):
@@ -131,6 +132,11 @@ def _bblock(b):
             for i in b["items"]) + "</ul>"
     if t == "en":
         return "".join(f'<p class="en-p" lang="en">{_bE(x)}</p>' for x in b["text"])
+    if t == "test":
+        _BR_STATE["has_test"] = True
+        data = _bj.dumps(b, ensure_ascii=False).replace("</", "<\\/")
+        n = sum(len(x["questions"]) for x in b["sections"])
+        return f'<div class="ptest"><script type="application/json">{data}</script><noscript><p>{_bE(b["title"])} · {n} questions. Turn on JavaScript to take this practice test.</p></noscript></div>'
     raise ValueError(f"unknown block type {t!r}")
 
 def _bload(course, name):
@@ -190,7 +196,11 @@ for _bc in _BR_COURSES:
             toc += f'<p><b>{_bE(sec["title"])}</b></p><ul>' + "".join(
                 f'<li{" class=on" if x == s else ""}><a href="{x}.html" dir="auto">{_bE(_pages[x]["title"])}</a></li>' for x in sec["pages"]) + "</ul>"
         toc += "</details>"
+        _BR_STATE.pop("has_test", None)
         blocks = "".join(_bblock(b) for b in d["blocks"])
+        if _BR_STATE.get("has_test"):
+            _eng = _bo.path.join(_BR_ROOT, "_engine")
+            blocks += "<style>" + open(_bo.path.join(_eng, "test.css"), encoding="utf-8").read() + "</style><script>" + open(_bo.path.join(_eng, "test.js"), encoding="utf-8").read() + "</script>"
         body = _BR_CSS + pagehead(_bE(d["kicker"]), _bE(d["title"]), _bE(d.get("summary", ""))) + f'''
 <section class="block"><div class="wrap"><div class="bc"{_dir}>
 <p class="crumb">{_L["crumb"]}<a href="{_hub}">{_bE(_cfg["title"])}</a></p>

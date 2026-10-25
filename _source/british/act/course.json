@@ -1,0 +1,67 @@
+{
+ "hub": "act-english.html",
+ "active": "american.html",
+ "short": "ACT English & Reading",
+ "labels": {
+  "prev": "← Previous",
+  "next": "Next →",
+  "back": "← Back to",
+  "done": "Finished! Back to",
+  "toc": "All pages in this course",
+  "start": "Start the course →",
+  "crumb": "<a href=\"american.html\">American Diploma</a> › "
+ },
+ "kicker": "American Diploma · ACT · English and Reading",
+ "title": "ACT English and Reading — Complete Course",
+ "summary": "Everything on the enhanced ACT English and Reading sections: grammar, punctuation, style and organisation, every Reading question type, and timed practice tests with explanations.",
+ "meta_desc": "Free complete ACT English and Reading course for the enhanced ACT: punctuation, grammar, sentence structure, concision, relevance, organisation, reading strategies and timed practice tests.",
+ "sections": [
+  {
+   "title": "Start here",
+   "desc": "The enhanced ACT and how to attack the English section.",
+   "pages": [
+    "act-overview",
+    "act-english-strategy"
+   ]
+  },
+  {
+   "title": "English: Conventions of Standard English",
+   "desc": "Punctuation, usage and sentence structure.",
+   "pages": [
+    "act-punctuation",
+    "act-grammar-usage",
+    "act-sentence-structure"
+   ]
+  },
+  {
+   "title": "English: Production of Writing and Knowledge of Language",
+   "desc": "Concision, relevance, organisation, word choice and tone.",
+   "pages": [
+    "act-concision-redundancy",
+    "act-relevance-add-delete",
+    "act-organization-order",
+    "act-word-choice-tone"
+   ]
+  },
+  {
+   "title": "Reading",
+   "desc": "A method for long passages and every question category.",
+   "pages": [
+    "act-reading-strategy",
+    "act-reading-key-ideas",
+    "act-reading-craft-structure",
+    "act-reading-integration"
+   ]
+  },
+  {
+   "title": "Practice tests",
+   "desc": "Timed English and Reading tests with explanations.",
+   "pages": [
+    "act-english-test-1",
+    "act-english-test-2",
+    "act-reading-test-1",
+    "act-reading-test-2"
+   ]
+  }
+ ]
+}

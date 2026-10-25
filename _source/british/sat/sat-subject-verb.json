@@ -1,0 +1,715 @@
+{
+ "slug": "sat-subject-verb",
+ "title": "Subject–Verb Agreement",
+ "kicker": "American Diploma · Digital SAT · Standard English Conventions",
+ "summary": "Find the true subject every time — even when it is hidden behind phrases, inverted, collective or Latin — and choose the verb form the SAT expects.",
+ "blocks": [
+  {
+   "type": "p",
+   "text": "Subject–verb agreement is the most frequently tested grammar rule in the **Form, Structure, and Sense** part of the Digital SAT. The rule itself is short — a singular subject takes a singular verb and a plural subject takes a plural verb — but the test hides the subject so well that strong students still lose points. This page teaches you how to find the **true subject** every time, lists every tricky subject the test likes, and then trains you with worked examples and a 12-question quiz."
+  },
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Subject–verb agreement belongs to the **Standard English Conventions** domain, which is about **26%** of the scored Reading and Writing questions (about **11–15 questions** across the two modules). Inside that domain, the skill is called **Form, Structure, and Sense**, together with pronouns, verb tense, finiteness, modifiers and plural/possessive nouns. These questions **usually** come after the Information and Ideas questions in each module."
+  },
+  {
+   "type": "p",
+   "text": "Every question has one short passage (25–150 words) with a blank, and the stem is always the same: **\"Which choice completes the text so that it conforms to the conventions of Standard English?\"** You can recognise an agreement question in two seconds by looking at the choices: they are the **same verb** in different forms, for example:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "is / are / was / were",
+    "show / shows / have shown / has shown",
+    "provides / provide / are providing / has provided"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "When two choices are singular and two are plural, the question is mainly about agreement. When the choices also change tense (has / had / will), you must check the tense as well — see the page on Verb Tense, Aspect and Finiteness. Often one step removes two choices (wrong number) and the second step removes one more (wrong tense)."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الفكرة في سطر واحد",
+   "text": "الفعل لازم يتفق مع **الفاعل الحقيقي**، مش مع أقرب اسم قبله. امتحان الـ SAT بيحط بين الفاعل والفعل كلام كتير (of …، which …، بين فاصلتين) عشان يلخبطك. شيل الكلام ده كله، واقرأ الفاعل + الفعل لوحدهم: The **box** of old letters **is** … ✓"
+  },
+  {
+   "type": "h2",
+   "text": "The basic rule — and the \"-s\" confusion"
+  },
+  {
+   "type": "p",
+   "text": "In the present tense, a **singular** subject (he, she, it, one thing) takes a verb **with -s**; a **plural** subject (they, two or more things) takes a verb **without -s**. This is the opposite of nouns, where -s usually means plural. Students who are not native speakers often mix this up, so learn the table."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Subject",
+    "Present",
+    "Present perfect",
+    "Past of be",
+    "Present of be"
+   ],
+   "rows": [
+    [
+     "Singular: the scientist / it",
+     "**studies**",
+     "**has** studied",
+     "**was**",
+     "**is**"
+    ],
+    [
+     "Plural: the scientists / they",
+     "**study**",
+     "**have** studied",
+     "**were**",
+     "**are**"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Only these forms change with number: present simple (-s), **is/are**, **was/were**, **has/have**, **does/do**. The simple past of normal verbs (studied, showed) and modal verbs (can, will, must) are the same for singular and plural — so a past-tense or modal choice is never wrong because of agreement alone."
+  },
+  {
+   "type": "h2",
+   "text": "Step 1: Find the true subject"
+  },
+  {
+   "type": "p",
+   "text": "Ask: **\"Who or what does the action of this verb?\"** Then remove everything that is not the subject. The test usually puts one of these between the subject and the verb:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "What to cross out",
+    "Signal words",
+    "✓ Correct",
+    "✗ Wrong (the trap)"
+   ],
+   "rows": [
+    [
+     "Prepositional phrase",
+     "of, in, on, at, with, for, from, among, between, near, about",
+     "The **list** of new rules **is** on the board.",
+     "The list of new **rules are** on the board."
+    ],
+    [
+     "Appositive / extra information between commas, dashes or brackets",
+     ", a … , / — … —",
+     "The **pharaoh**, together with his advisers, **was** buried nearby.",
+     "The pharaoh, together with his **advisers, were** buried nearby."
+    ],
+    [
+     "Relative clause",
+     "who, which, that, whose, where",
+     "The **students** who joined the club **meet** on Mondays.",
+     "The students who joined the **club meets** on Mondays."
+    ],
+    [
+     "Participle phrase",
+     "-ing / -ed phrase after the noun",
+     "The **samples** collected from the lake **contain** algae.",
+     "The samples collected from the **lake contains** algae."
+    ],
+    [
+     "\"Fake\" joining phrases",
+     "along with, as well as, together with, in addition to, including, like",
+     "**Rania**, as well as her sisters, **plays** the piano.",
+     "Rania, as well as her **sisters, play** the piano."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "After crossing out, read the **skeleton sentence**: subject + verb + rest. \"The **collection** [of rare coins found in the tomb] **is** …\" The skeleton must sound right on its own."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Only \"and\" makes a plural",
+   "text": "**A and B** = plural (The **teacher and the student are** ready). Phrases like **as well as, along with, together with, in addition to** do NOT add to the subject; they are extra information, so the verb follows the first noun only."
+  },
+  {
+   "type": "h2",
+   "text": "Step 2: Know the tricky subjects"
+  },
+  {
+   "type": "p",
+   "text": "Once you have the subject, check whether it is one of the special cases below. Each one appears regularly on the test."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Subject type",
+    "Rule",
+    "✓ Example",
+    "✗ Example"
+   ],
+   "rows": [
+    [
+     "**each, every, either, neither, one, everyone, someone, nobody, anything**",
+     "Always singular — even with \"of + plural\" after them",
+     "**Each** of the samples **was** tested.",
+     "Each of the samples were tested."
+    ],
+    [
+     "**every / each + A and B**",
+     "Singular",
+     "**Every** student and teacher **has** a badge.",
+     "Every student and teacher have a badge."
+    ],
+    [
+     "**both, few, many, several**",
+     "Always plural",
+     "**Several** of the vases **are** cracked.",
+     "Several of the vases is cracked."
+    ],
+    [
+     "**all, most, some, none, any, half + of**",
+     "Look at the noun after \"of\"",
+     "**Most** of the **water is** salty. / **Most** of the **wells are** dry.",
+     "Most of the wells is dry."
+    ],
+    [
+     "**either … or / neither … nor / not only … but also / … or …**",
+     "The verb agrees with the subject **closer** to it",
+     "Neither the coach nor **the players were** told.\nNeither the players nor **the coach was** told.",
+     "Neither the coach nor the players was told."
+    ],
+    [
+     "**Collective nouns**: team, committee, jury, family, class, staff, audience, government, company, band, public, population, flock, colony",
+     "Singular in American English (the SAT standard)",
+     "The **committee has** approved the plan.",
+     "The committee have approved the plan."
+    ],
+    [
+     "**the number of** + plural noun",
+     "Singular (the subject is \"number\")",
+     "**The number** of visitors **has** doubled.",
+     "The number of visitors have doubled."
+    ],
+    [
+     "**a number of** + plural noun",
+     "Plural (it means \"many\")",
+     "**A number of** visitors **have** complained.",
+     "A number of visitors has complained."
+    ],
+    [
+     "**-ing / to-verb / clause as subject**",
+     "Singular",
+     "**Collecting** fossils **requires** patience.\n**Whether** the drug works **remains** unclear.",
+     "Collecting fossils require patience."
+    ],
+    [
+     "**Words that end in -s but are singular**: news, mathematics, physics, economics, measles",
+     "Singular",
+     "The **news was** surprising.",
+     "The news were surprising."
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "British school students: collective nouns",
+   "text": "At British schools you may have learned \"The team **are** playing well.\" British English allows this. The SAT tests **American** Standard English, where a collective noun is one unit: \"The team **is** playing well\" and \"The team won **its** match.\" Follow the American rule on this test."
+  },
+  {
+   "type": "h2",
+   "text": "Step 3: Plural words from Latin and Greek"
+  },
+  {
+   "type": "p",
+   "text": "Science passages love these words. Their plural does **not** end in -s, so students think they are singular. Learn both columns."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Singular (one)",
+    "Plural (more than one)",
+    "✓ Example"
+   ],
+   "rows": [
+    [
+     "phenomenon",
+     "**phenomena**",
+     "These phenomena **are** rare."
+    ],
+    [
+     "criterion",
+     "**criteria**",
+     "The criteria **were** published in advance."
+    ],
+    [
+     "bacterium",
+     "**bacteria**",
+     "Some bacteria **survive** boiling water."
+    ],
+    [
+     "medium",
+     "**media**",
+     "The new media **have** changed how news spreads."
+    ],
+    [
+     "analysis / hypothesis / thesis",
+     "**analyses / hypotheses / theses**",
+     "Both hypotheses **predict** the same result."
+    ],
+    [
+     "nucleus / fungus / stimulus",
+     "**nuclei / fungi / stimuli**",
+     "The fungi **grow** in damp soil."
+    ],
+    [
+     "datum (rare)",
+     "**data**",
+     "In formal scientific writing: These data **show** a clear pattern."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "A note on **data**: in everyday English many people say \"the data is\", but formal scientific writing treats **data** as plural. A well-made question will not depend on \"data is\" versus \"data are\" alone, but if a passage already treats data as plural (\"these data\"), keep it plural. Words like **phenomena, criteria and bacteria** are always plural."
+  },
+  {
+   "type": "h2",
+   "text": "Step 4: Inverted sentences — the subject comes after the verb"
+  },
+  {
+   "type": "p",
+   "text": "Sometimes the verb comes **before** its subject. The SAT uses three patterns. In each one, find the noun **after** the verb and turn the sentence around in your head."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Pattern",
+    "✓ Correct",
+    "Turned around",
+    "✗ Trap"
+   ],
+   "rows": [
+    [
+     "**There is / There are** (there is never the subject)",
+     "There **are** three **reasons** for the delay.",
+     "Three reasons are …",
+     "There is three reasons …"
+    ],
+    [
+     "**Among / Of / Inside / On + place + verb + subject**",
+     "Among the findings **was** a carved ivory **comb**.",
+     "A carved ivory comb was among the findings.",
+     "Among the findings were a carved ivory comb."
+    ],
+    [
+     "**Here + verb + subject**, **Only then / Not only + verb + subject**",
+     "Here **are** the **results**.",
+     "The results are here.",
+     "Here is the results."
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الجملة المقلوبة",
+   "text": "لما الجملة تبدأ بـ There أو Among أو On the wall أو Inside the box، الفاعل بييجي **بعد** الفعل. اقلب الجملة في دماغك: Among the findings **was** a comb ← A comb **was** among the findings. وخلّي بالك: findings اسم جمع بس هو **مش** الفاعل."
+  },
+  {
+   "type": "h2",
+   "text": "Step 5: Relative clauses — agree with the noun before \"who / which / that\""
+  },
+  {
+   "type": "p",
+   "text": "The verb **inside** a relative clause agrees with the noun the pronoun refers to. \"The **wells that supply** the village **are** old.\" Here **that supply** agrees with *wells*, and the main verb **are** also agrees with *wells*. Check both verbs separately."
+  },
+  {
+   "type": "h2",
+   "text": "The 6-step method for test day"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Read the choices first.** Same verb, singular vs plural? It is an agreement question.",
+    "**Find the verb's subject.** Ask \"Who or what ___?\" Do not trust the nearest noun.",
+    "**Cross out** prepositional phrases, extra information between commas or dashes, relative clauses, and \"as well as\" phrases.",
+    "**Check the special list**: each/every/neither, either…or, collective nouns, the number of / a number of, Latin plurals, -ing subjects, inverted sentences.",
+    "**Eliminate the two choices with the wrong number.** Then choose between the remaining two by **tense**: match the time clues and the other verbs in the passage.",
+    "**Read the skeleton sentence** (subject + chosen verb) once to confirm."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "h2",
+   "text": "Worked example 1: the long subject"
+  },
+  {
+   "type": "p",
+   "text": "**Passage:** \"The ancient trade routes of the Sahara, which connected salt mines in the north with gold-producing regions in the south, ______ for far more than the exchange of goods. Historians note that ideas, languages, and religious practices also traveled along them.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice completes the text so that it conforms to the conventions of Standard English?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) was responsible",
+    "B) is responsible",
+    "C) were responsible",
+    "D) has been responsible"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C) were responsible.** Cross out the prepositional phrase \"of the Sahara\" and the relative clause \"which connected … in the south\". The skeleton is \"The **routes** … **were** responsible\" — plural. The routes are historical and the passage uses past tense (\"traveled\"), so the plural past form is correct."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A) was responsible** — Nearest-noun trap: singular, as if the subject were \"the south\" or \"the Sahara\".",
+    "**B) is responsible** — Singular, and present tense does not fit the historical context.",
+    "**D) has been responsible** — Singular \"has\"; the subject \"routes\" needs \"have\"."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Worked example 2: neither … nor"
+  },
+  {
+   "type": "p",
+   "text": "**Passage:** \"Nobody knows why the eastern arch of the old stone bridge is lower than the western one. Neither the original architect nor the engineers who later restored the bridge ______ any written record explaining the difference.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice completes the text so that it conforms to the conventions of Standard English?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) has left",
+    "B) have left",
+    "C) leaves",
+    "D) was leaving"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B) have left.** With **neither … nor**, the verb agrees with the subject **closer** to it. The closer subject is \"the engineers\" (plural), so the verb must be plural: \"have left\". (Cross out \"who later restored the bridge\" first.)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A) has left** — Agrees with \"architect\", the farther subject. Neither…nor follows the closer subject.",
+    "**C) leaves** — Singular, and present simple does not fit a finished action in the past.",
+    "**D) was leaving** — Singular \"was\", and the progressive form makes no sense for leaving a record."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Worked example 3: the number of"
+  },
+  {
+   "type": "p",
+   "text": "**Passage:** \"In the Fayoum Oasis, a small team of bird researchers has counted migratory birds at Lake Qarun every winter since 2015. The number of species recorded at the lake ______ grown steadily, a trend the researchers link to cleaner water.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice completes the text so that it conforms to the conventions of Standard English?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) have",
+    "B) has",
+    "C) are",
+    "D) were"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B) has.** **The number of** + plural noun is singular: the subject is \"number\", not \"species\". The time clue \"since 2015\" and the word \"grown\" need the present perfect: \"has grown\"."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A) have** — Plural — the classic trap of agreeing with \"species\".",
+    "**C) are** — \"Are grown\" is a passive form that changes the meaning, and it is plural.",
+    "**D) were** — Plural, and \"were grown\" is passive past — it does not fit \"since 2015\"."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Worked example 4: inverted sentence"
+  },
+  {
+   "type": "p",
+   "text": "**Passage:** \"Divers surveying coral reefs in the Red Sea found that many colonies had lost their color after a hot summer. Among the most surprising results of the survey ______ several healthy colonies near the Gulf of Aqaba that seemed to resist the heat.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice completes the text so that it conforms to the conventions of Standard English?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) was",
+    "B) is",
+    "C) has been",
+    "D) were"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: D) were.** The sentence is inverted. Turn it around: \"Several healthy **colonies** … **were** among the most surprising results.\" The subject is \"colonies\" (plural), and the passage is in the past (\"found\", \"had lost\"), so \"were\" is correct."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A) was** — Singular. The trap is treating \"the survey\" (the nearest noun, singular) as the subject.",
+    "**B) is** — Singular and present tense.",
+    "**C) has been** — Singular \"has\"."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**Nearest-noun trap:** the noun right before the blank is in a prepositional phrase or relative clause. Always cross out and find the real subject.",
+    "**\"As well as\" trap:** along with / as well as / together with do not make a plural subject. Only \"and\" does.",
+    "**Collective-noun trap:** team, committee, jury, company and government are singular on the SAT, even if the members are many.",
+    "**Number trap:** \"the number of\" = singular (has, is); \"a number of\" = plural (have, are).",
+    "**Latin-plural trap:** phenomena, criteria, bacteria, hypotheses are plural even without -s.",
+    "**Inversion trap:** in \"There are …\" and \"Among the … was …\", the subject is after the verb.",
+    "**\"Each of the\" trap:** each, every, either, neither and one stay singular even when followed by a plural noun."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Look at the choices first; if singular and plural forms are mixed, put your finger on the subject before reading anything else.",
+    "Treat everything between two commas or two dashes as invisible.",
+    "Say the skeleton in your head: \"The number … has\", \"Each … was\", \"The routes … were\".",
+    "If two choices have the correct number, the tense decides — look at the other verbs and time words in the passage.",
+    "These questions should take 30–45 seconds. Save the extra time for reading questions."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "فخ مهم: as well as",
+   "text": "as well as / along with / together with معناهم «بالإضافة لـ» بس **مش** بيخلّوا الفاعل جمع. Ahmed, as well as his brothers, **plays** football ✓. الوحيدة اللي بتعمل جمع هي **and**: Ahmed and his brothers **play** football ✓."
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Twelve original test-style questions. Use the 6-step method on each one. At the end you will see your score, the correct answers and an explanation for every question."
+  },
+  {
+   "type": "test",
+   "title": "Subject–verb agreement: practice quiz",
+   "timed": false,
+   "intro": "12 original questions in Digital SAT format, untimed. For each one, find the true subject before you look at the choices.",
+   "sections": [
+    {
+     "name": "Quiz",
+     "minutes": 15,
+     "questions": [
+      {
+       "p": "The collection of handwritten letters donated to the city library last year ______ a rare view of daily life in Alexandria during the 1920s. Archivists are now scanning each page so that researchers around the world can read the letters online.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "offer",
+        "have offered",
+        "offers",
+        "are offering"
+       ],
+       "a": 2,
+       "e": "Cross out \"of handwritten letters donated to the city library last year\". The subject is \"collection\" (singular), so \"offers\" is correct. \"Offer\", \"have offered\" and \"are offering\" are plural forms that wrongly agree with \"letters\".",
+       "s": "Subject–verb agreement"
+      },
+      {
+       "p": "The dung beetle, an insect that rolls balls of animal waste many times heavier than its own body, ______ the light of the Milky Way to keep its path straight at night. Researchers discovered this by placing tiny caps over the beetles' eyes.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "uses",
+        "use",
+        "are using",
+        "have used"
+       ],
+       "a": 0,
+       "e": "Cross out the appositive between the commas. The subject is \"The dung beetle\" (singular), so \"uses\" is correct. \"Use\", \"are using\" and \"have used\" are all plural forms.",
+       "s": "Subject–verb agreement"
+      },
+      {
+       "p": "When the granite statue was found in a museum storeroom in 1998, no catalogue entry described it. Neither the archaeologists who examined it nor the museum's director ______ able to say exactly when it had been moved there from the temple.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "were",
+        "have been",
+        "are",
+        "was"
+       ],
+       "a": 3,
+       "e": "With neither…nor, the verb agrees with the closer subject, \"the museum's director\" (singular). The story is in the past, so \"was\" is correct. \"Were\" agrees with the farther subject; \"have been\" and \"are\" are plural and the wrong tense.",
+       "s": "Subject–verb agreement"
+      },
+      {
+       "p": "The jury for this year's national short-film festival ______ of five directors, two actors, and a film critic. After watching all forty finalists, it will choose one winner for the grand prize.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "consist",
+        "consists",
+        "are consisting",
+        "have consisted"
+       ],
+       "a": 1,
+       "e": "\"Jury\" is a collective noun and is singular in American English; the passage confirms this with \"it will choose\". \"Consists\" is singular present. The other choices are plural, and \"consist\" is not used in the progressive.",
+       "s": "Subject–verb agreement"
+      },
+      {
+       "p": "Since the new metro line opened, a number of small cafés ______ near its stations, hoping to serve commuters who want a quick breakfast before work. City planners see this growth as a sign that the line is changing how residents use the neighborhood.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "have appeared",
+        "has appeared",
+        "appears",
+        "is appearing"
+       ],
+       "a": 0,
+       "e": "\"A number of\" means \"many\" and takes a plural verb. \"Since the metro line opened\" calls for the present perfect, so \"have appeared\" is correct. The other three choices are singular.",
+       "s": "Subject–verb agreement"
+      },
+      {
+       "p": "Auroras, the colorful lights sometimes seen in the night sky near the North and South Poles, are caused by charged particles from the Sun striking gases high in Earth's atmosphere. These phenomena ______ most visible during periods of high solar activity, when more particles reach the planet.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "is",
+        "was",
+        "are",
+        "has been"
+       ],
+       "a": 2,
+       "e": "\"Phenomena\" is the plural of \"phenomenon\", so it needs a plural verb. The passage states a general scientific fact in the present tense (\"are caused\", \"reach\"), so \"are\" is correct. \"Is\", \"was\" and \"has been\" are singular.",
+       "s": "Subject–verb agreement"
+      },
+      {
+       "p": "Although the sandfish lizard spends much of its time on the desert surface, there ______ several features of its body that suit it perfectly for diving into sand: a wedge-shaped snout, smooth scales, and short, strong legs.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "is",
+        "are",
+        "was",
+        "has been"
+       ],
+       "a": 1,
+       "e": "In a \"there is/are\" sentence, the subject comes after the verb: \"several features\" (plural). The passage is in the present (\"spends\"), so \"are\" is correct. \"Is\", \"was\" and \"has been\" are singular.",
+       "s": "Subject–verb agreement"
+      },
+      {
+       "p": "The school's robotics club gave twelve teams the same box of parts and two weeks to build a machine that could sort colored balls. Each of the teams ______ a short video explaining its design before the final competition.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "submit",
+        "have submitted",
+        "were submitting",
+        "submitted"
+       ],
+       "a": 3,
+       "e": "\"Each\" is singular even when followed by \"of the teams\"; the passage confirms this with \"its design\". The passage is in the past (\"gave\"), and \"submitted\" works for a singular subject. \"Submit\", \"have submitted\" and \"were submitting\" are plural forms.",
+       "s": "Subject–verb agreement"
+      },
+      {
+       "p": "The Egyptian vulture, as well as several other scavenging birds, ______ an important role in keeping the environment clean by eating the remains of dead animals. Conservationists warn that its numbers have fallen sharply in recent decades.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "play",
+        "have played",
+        "are playing",
+        "plays"
+       ],
+       "a": 3,
+       "e": "\"As well as several other scavenging birds\" is extra information and does not make the subject plural. The subject is \"The Egyptian vulture\" (singular), so \"plays\" is correct. The other choices are plural.",
+       "s": "Subject–verb agreement"
+      },
+      {
+       "p": "The coastal wetlands that protect the city of Rosetta from storm waves ______ also home to hundreds of species of fish and birds. Scientists argue that protecting these wetlands costs less than building concrete sea walls.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "are",
+        "is",
+        "has been",
+        "was"
+       ],
+       "a": 0,
+       "e": "Cross out the relative clause \"that protect … storm waves\". The subject is \"wetlands\" (plural), and the passage is in the present, so \"are\" is correct. \"Is\", \"has been\" and \"was\" are singular — the trap is agreeing with \"Rosetta\" or \"city\".",
+       "s": "Subject–verb agreement"
+      },
+      {
+       "p": "Learning to read ancient Egyptian hieroglyphs ______ years of study, since the writing system includes hundreds of signs that can stand for sounds, whole words, or ideas. Even so, many beginners can recognize the most common signs within a few weeks.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "require",
+        "requires",
+        "are requiring",
+        "have required"
+       ],
+       "a": 1,
+       "e": "An -ing phrase used as a subject (\"Learning to read …\") is singular, so \"requires\" is correct. \"Require\", \"are requiring\" and \"have required\" are plural; \"hieroglyphs\" is not the subject.",
+       "s": "Subject–verb agreement"
+      },
+      {
+       "p": "Inside the small wooden chest that divers recovered from the shipwreck ______ two brass navigation instruments and a bundle of letters, all remarkably well preserved after nearly two centuries underwater.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "was",
+        "has been",
+        "were",
+        "is"
+       ],
+       "a": 2,
+       "e": "The sentence is inverted. Turn it around: \"Two brass navigation instruments and a bundle of letters were inside the chest.\" Two things joined by \"and\" make a plural subject, and the event is in the past, so \"were\" is correct. The other choices are singular.",
+       "s": "Subject–verb agreement"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "The verb agrees with the **true subject**, not the nearest noun: cross out prepositional phrases, extra information and relative clauses.",
+    "Only **and** makes a plural subject; **as well as / along with** do not. With **either…or / neither…nor**, follow the closer subject.",
+    "Singular: each, every, either, neither, collective nouns (team, committee), **the number of**, -ing subjects. Plural: **a number of**, both, several, phenomena, criteria, bacteria.",
+    "In **There is/are** and **Among the … was/were** sentences, the subject comes after the verb.",
+    "Fix the number first, then let the passage's time clues decide the tense."
+   ]
+  }
+ ]
+}

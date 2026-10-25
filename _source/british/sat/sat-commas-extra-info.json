@@ -1,0 +1,707 @@
+{
+ "slug": "sat-commas-extra-info",
+ "title": "Commas and Extra Information",
+ "kicker": "American Diploma · Digital SAT · Standard English Conventions",
+ "summary": "Essential vs extra information, matching pairs, appositives, names and titles, which vs that, lists — and every place a comma is NOT allowed, with 12 practice questions.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Comma questions are part of the **Boundaries** skill in the **Standard English Conventions** domain (about 26% of the scored Reading and Writing questions, 11–15 questions in total). The College Board describes this skill as punctuation inside sentences: separating list items, setting off **supplements** such as appositives and parenthetical phrases, and knowing when **no punctuation** is needed — for example, never between a subject and its verb."
+  },
+  {
+   "type": "p",
+   "text": "The format is always the same: one short passage (25–150 words) with a blank and the question **“Which choice completes the text so that it conforms to the conventions of Standard English?”** The four choices usually contain the same words with commas, dashes or brackets in different places — or with no punctuation at all. Very often the correct answer is the one with **less** punctuation."
+  },
+  {
+   "type": "p",
+   "text": "To answer these questions you need two skills: (1) deciding whether a piece of information is **essential** or **extra**, and (2) knowing the places where a comma is **never** allowed."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "القاعدة اللي هتنقذك",
+   "text": "المعلومة الإضافية (اللي لو شلتها الجملة تفضل صح ومعناها الأساسي ما يتغيرش) بتتحط بين علامتين متشابهتين: فاصلة…فاصلة أو شرطة…شرطة أو قوس…قوس. وممنوع تحط فاصلة واحدة بين الفاعل والفعل، أو بين الفعل والمفعول به."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 1: Essential vs non-essential information — the removal test"
+  },
+  {
+   "type": "p",
+   "text": "**Non-essential (extra) information** adds detail, but the sentence still makes sense and keeps its main meaning without it. It is set off with punctuation. **Essential information** tells us *which one* we are talking about; without it the meaning changes or becomes unclear. Essential information takes **no** punctuation."
+  },
+  {
+   "type": "p",
+   "text": "**The removal test:** cover the words you think are extra. Read what is left."
+  },
+  {
+   "type": "list",
+   "items": [
+    "If the sentence is still complete and still says the same main thing → the words are **extra** → put them between a matching pair of punctuation marks.",
+    "If the sentence breaks, or the meaning changes → the words are **essential** → no commas."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Sentence",
+    "Removal test",
+    "Result"
+   ],
+   "rows": [
+    [
+     "My grandfather, a retired engineer, still repairs radios.",
+     "“My grandfather still repairs radios.” Still complete, same meaning.",
+     "Extra → commas ✓"
+    ],
+    [
+     "Students who finish early may leave.",
+     "“Students may leave.” Meaning changes: now ALL students may leave.",
+     "Essential → no commas ✓"
+    ],
+    [
+     "The Nile, which flows north, ends in the Mediterranean.",
+     "“The Nile ends in the Mediterranean.” Still clear.",
+     "Extra → commas ✓"
+    ],
+    [
+     "The phone that I bought yesterday is broken.",
+     "“The phone is broken.” Which phone? Unclear.",
+     "Essential → no commas ✓"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Rule 2: Matching pairs — comma…comma, dash…dash, bracket…bracket"
+  },
+  {
+   "type": "p",
+   "text": "Extra information in the middle of a sentence needs punctuation on **both** sides, and the two marks must **match**. You may choose commas, dashes or brackets, but you cannot open with one and close with another."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ The festival, held every spring, attracts thousands of visitors.",
+    "✓ The festival—held every spring—attracts thousands of visitors.",
+    "✓ The festival (held every spring) attracts thousands of visitors.",
+    "✗ The festival, held every spring—attracts thousands of visitors. (comma … dash)",
+    "✗ The festival—held every spring, attracts thousands of visitors. (dash … comma)",
+    "✗ The festival, held every spring attracts thousands of visitors. (pair not closed — now a comma separates the subject from the verb)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "If the extra information comes at the **end** of the sentence, you need only the opening mark; the period closes it: “The prize went to Hana Fouad, a young engineer from Aswan.”"
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Look back to find the first mark",
+   "text": "When the blank comes right after some extra information, look back to the start of that information. Did it begin with a comma, a dash or a bracket? Your answer must close it with the same mark."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 3: Appositives (a noun that renames another noun)"
+  },
+  {
+   "type": "p",
+   "text": "An **appositive** is a noun phrase that renames the noun next to it: “Naguib Mahfouz, **a Nobel Prize winner**, was born in Cairo.” Most appositives are extra information and take a pair of commas (or dashes)."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ Aswan, a city on the Nile, is famous for its granite.",
+    "✓ The class read Animal Farm, a short novel by George Orwell.",
+    "✗ Aswan a city on the Nile, is famous for its granite. (opening comma missing)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Rule 4: Names and titles — “the biologist Maria Lopez” vs “the biologist, Maria Lopez,”"
+  },
+  {
+   "type": "p",
+   "text": "This is one of the most tested comma rules on the SAT, and many students get it wrong because their ear wants a pause. Learn it as a set of patterns:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Pattern",
+    "Punctuation",
+    "Example"
+   ],
+   "rows": [
+    [
+     "Title or job label directly before a name (no “the”/“a”)",
+     "No commas",
+     "✓ Biologist Maria Lopez studied the reef."
+    ],
+    [
+     "“the” + a general label + name (there are many biologists, so the name tells us which one)",
+     "No commas — the name is essential",
+     "✓ The biologist Maria Lopez studied the reef."
+    ],
+    [
+     "A description that fits only one person + name",
+     "Pair of commas — the name is extra",
+     "✓ The team's only biologist, Maria Lopez, studied the reef."
+    ],
+    [
+     "Name first, then the description",
+     "Pair of commas around the description",
+     "✓ Maria Lopez, a biologist, studied the reef."
+    ],
+    [
+     "One comma only between label and name",
+     "✗ Never",
+     "✗ Biologist, Maria Lopez studied the reef. / ✗ The biologist Maria Lopez, studied the reef."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Why? In “the biologist Maria Lopez,” the name identifies which biologist out of many — remove it and you only have “the biologist,” which is unclear. In “the team's only biologist, Maria Lopez,” we already know exactly who it is, so the name is extra."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "The label + name trap",
+   "text": "Choices such as “author, Ahmed Khaled” or “painter, Laila Said,” look natural but are wrong when the label has no article or is a general job title. A label directly before a name is part of the name's “title” — no comma between them."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 5: Relative clauses — which, that, who"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Word",
+    "Use",
+    "Punctuation",
+    "Example"
+   ],
+   "rows": [
+    [
+     "which",
+     "Extra information about things",
+     "Comma(s) before (and after, if the sentence continues)",
+     "✓ The Cairo Metro, which opened in 1987, carries millions of passengers."
+    ],
+    [
+     "that",
+     "Essential information about things",
+     "Never a comma before “that”",
+     "✓ The line that runs to Helwan is the oldest."
+    ],
+    [
+     "who",
+     "People — can be essential or extra",
+     "Commas only when extra",
+     "✓ Students who study daily improve fastest. / ✓ My teacher, who studies daily, improved fast."
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ The line, that runs to Helwan, is the oldest. (“that” never takes commas)",
+    "✗ The Cairo Metro which opened in 1987, carries millions of passengers. (pair not opened)",
+    "✓ After a named person, a who-clause is usually extra: “Dr. Nadia Samir, who leads the project, …”"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Rule 6: Introductory words, phrases and clauses"
+  },
+  {
+   "type": "p",
+   "text": "Put a comma after an introductory element that comes before the main clause: a dependent clause, a long phrase, or a transition word."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ Because the road was flooded, the bus took a different route.",
+    "✓ After three years of careful restoration work, the old station reopened.",
+    "✓ However, the results were not final.",
+    "✓ Opened in 1869, the Suez Canal shortened the trip from Europe to Asia.",
+    "✗ Because the road was flooded; the bus took a different route. (a semicolon needs a complete sentence on both sides)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Rule 7: Items in a list (the serial comma)"
+  },
+  {
+   "type": "p",
+   "text": "Separate three or more items with commas. The comma before the final “and” or “or” is called the **serial comma** (or Oxford comma). Using it is always safe, and it often prevents confusion."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ The kit contains a compass, a flashlight, and a first-aid manual.",
+    "✗ The kit contains a compass a flashlight, and a first-aid manual. (missing comma between the first two items)",
+    "✗ The kit contains, a compass, a flashlight, and a first-aid manual. (no comma between the verb and its object — see below)",
+    "✓ Two items only: “a compass and a flashlight” — no comma."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "When the list items themselves contain commas, the SAT may use semicolons between items — that special rule is taught on the next page (Colons, Dashes and Semicolons)."
+  },
+  {
+   "type": "h2",
+   "text": "When NOT to use a comma — the big list"
+  },
+  {
+   "type": "p",
+   "text": "On the SAT, an unnecessary comma is wrong, not “a matter of style.” Many questions are built so that three choices add a comma in a forbidden place and only one choice has no punctuation. Learn these **no-comma zones**:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "No comma between …",
+    "✗ Wrong",
+    "✓ Right"
+   ],
+   "rows": [
+    [
+     "Subject and its verb (even a long subject)",
+     "The students who planted the trees in the school garden, watered them every day.",
+     "The students who planted the trees in the school garden watered them every day."
+    ],
+    [
+     "Verb and its object",
+     "The engineer designed, a small robot.",
+     "The engineer designed a small robot."
+    ],
+    [
+     "Verb and a that-clause",
+     "The survey found, that most teens sleep too little.",
+     "The survey found that most teens sleep too little."
+    ],
+    [
+     "A preposition and its object / before a prepositional phrase that completes the verb",
+     "Storks rest along, the shores of the lake. / Storks rest, along the shores of the lake.",
+     "Storks rest along the shores of the lake."
+    ],
+    [
+     "Two verbs that share one subject (compound predicate)",
+     "She wrote the report, and sent it to the director.",
+     "She wrote the report and sent it to the director."
+    ],
+    [
+     "Two items joined by “and”",
+     "The museum displays statues, and jewelry.",
+     "The museum displays statues and jewelry."
+    ],
+    [
+     "A FANBOYS word and the clause after it",
+     "The road was closed but, the bus found another route.",
+     "The road was closed, but the bus found another route."
+    ],
+    [
+     "An adjective and its noun",
+     "It was a long, difficult, journey.",
+     "It was a long, difficult journey."
+    ],
+    [
+     "“such as” / “like” and its examples",
+     "Spices such as, cumin and coriander are common.",
+     "Spices such as cumin and coriander are common."
+    ],
+    [
+     "Before essential information (that-clause, essential who-clause, essential name)",
+     "The plants, that received extra light, grew faster.",
+     "The plants that received extra light grew faster."
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Strip the sentence to its skeleton",
+   "text": "Cross out every piece of extra information, then read the skeleton: subject → verb → object. If a choice puts any punctuation between those three parts, it is wrong. Example: “The researchers (who studied the ancient grain samples from the Fayoum) concluded that …” — no comma can stand between “Fayoum” and “concluded,” because that would split the subject from the verb."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الأقل غالبًا هو الصح",
+   "text": "في أسئلة الفواصل، لو مش متأكد، جرّب تشيل الفاصلة: لو الجملة ماشية من غير ما تتقطع بين الفاعل والفعل أو الفعل والمفعول، يبقى الاختيار اللي من غير ترقيم غالبًا هو الصح. الامتحان بيحب يحط فواصل زيادة عشان يوقعك."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — matching pair**"
+  },
+  {
+   "type": "p",
+   "text": "Text: Many visitors to Egypt never travel west of the Nile Valley, but those who do are rarely disappointed. The Siwa Oasis—famous for its dates, olives, and the ruins of an ancient oracle temple ______ lies about 50 kilometers from the Libyan border."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text so that it conforms to the conventions of Standard English?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) temple,",
+    "B) temple—",
+    "C) temple",
+    "D) temple;"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: The extra information opened with a dash after “Oasis,” so it must close with a dash, not a comma. Comma … dash is a mismatched pair.",
+    "B) ✓ Correct: A dash closes the dash that opened the extra information. Remove it and the skeleton is complete: “The Siwa Oasis lies about 50 kilometers from the Libyan border.”",
+    "C) ✗ Wrong: With no closing mark, the reader cannot see where the extra information ends.",
+    "D) ✗ Wrong: A semicolon needs a complete sentence before it; “The Siwa Oasis—famous for …” is not one."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — subject and verb**"
+  },
+  {
+   "type": "p",
+   "text": "Text: Archaeologists have long debated when people in Egypt first began to farm. The researchers who studied the ancient grain samples from the Fayoum ______ that farming in the region began earlier than many experts had expected."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text so that it conforms to the conventions of Standard English?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) Fayoum, concluded",
+    "B) Fayoum concluded",
+    "C) Fayoum, concluded,",
+    "D) Fayoum; concluded"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: “Who studied the ancient grain samples from the Fayoum” is essential (it tells us which researchers), so there is no opening comma — and a single comma here separates the subject from its verb.",
+    "B) ✓ Correct: No punctuation: subject (“The researchers who studied … Fayoum”) → verb (“concluded”) → object (“that farming …”).",
+    "C) ✗ Wrong: Two errors: a comma between subject and verb and a comma between the verb and its that-clause object.",
+    "D) ✗ Wrong: A semicolon would need a complete sentence on both sides; the left side has no main verb."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — label + name**"
+  },
+  {
+   "type": "p",
+   "text": "Text: Rising water temperatures are a growing concern for fish farmers along the Nile. In 2015, ______ completed a study of how Nile tilapia respond to warmer water, and her results are now used by farms across the region."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text so that it conforms to the conventions of Standard English?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) marine biologist, Hana Fouad",
+    "B) marine biologist Hana Fouad",
+    "C) marine biologist Hana Fouad,",
+    "D) marine, biologist Hana Fouad"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: A job title directly before a name is not separated from it by a comma.",
+    "B) ✓ Correct: “Marine biologist Hana Fouad” works like a title + name: no comma. The subject then goes straight to the verb “completed.”",
+    "C) ✗ Wrong: The comma after “Fouad” separates the subject from its verb “completed.”",
+    "D) ✗ Wrong: “Marine biologist” is a single job label; a comma between the adjective and the noun breaks it."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4 — which-clause**"
+  },
+  {
+   "type": "p",
+   "text": "Text: Alexandria was home to the most famous library of the ancient world. Today, the city has a modern successor. The Bibliotheca Alexandrina ______ opened in 2002 near the site of the ancient library, has space for millions of books."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text so that it conforms to the conventions of Standard English?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) , that",
+    "B) which",
+    "C) , which",
+    "D) that"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: “That” is never used with commas, and it introduces essential information. Here, the information is extra, closed by the comma after “library.”",
+    "B) ✗ Wrong: The clause is closed by a comma after “library,” so it needs an opening comma too.",
+    "C) ✓ Correct: “Which” introduces extra information, and the comma before it matches the comma after “library.” Remove the clause: “The Bibliotheca Alexandrina has space for millions of books.” ✓",
+    "D) ✗ Wrong: No opening comma, and “that” cannot introduce information that is closed by a comma."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**The lonely comma:** one comma between a long subject and its verb. Your ear hears a pause; grammar does not allow it.",
+    "**The mixed pair:** extra information that opens with a dash and closes with a comma (or the reverse).",
+    "**The missing partner:** an opening comma with no closing comma, so the extra information never ends.",
+    "**The title trap:** “author, Ahmed Khaled” / “the painter Laila Said,” — commas wrongly split a label from a name or the subject from the verb.",
+    "**“, that”:** a comma before “that” is almost always wrong on the test.",
+    "**Comma after “such as,” “that,” or a FANBOYS word:** punctuation goes before these words, never right after them.",
+    "**The semicolon after an introduction:** “Because …; the …” — an introductory dependent clause takes a comma."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Find the skeleton: subject, verb, object. No punctuation may separate them.",
+    "Find any extra information and check it has a matching pair of marks (comma…comma, dash…dash, bracket…bracket).",
+    "Use the removal test for which/who/name questions: if the sentence still works and keeps its meaning, the information is extra.",
+    "When in doubt, prefer the choice with fewer marks — but only if it does not create a run-on or leave a pair unclosed.",
+    "Ignore choices that differ only by a style difference you are unsure about; one choice will always have a clear error that you can prove."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Twelve original SAT-style questions. Use the skeleton test and the removal test on each one."
+  },
+  {
+   "type": "test",
+   "title": "Commas and Extra Information — Practice Quiz",
+   "timed": false,
+   "intro": "12 questions · untimed. For each one, find the skeleton (subject–verb–object) and check any extra information has a matching pair.",
+   "sections": [
+    {
+     "name": "Practice set",
+     "minutes": 15,
+     "questions": [
+      {
+       "p": "The old tram station in Heliopolis had been closed for more than a decade, and many residents thought it would be torn down. After three years of careful restoration work ______ reopened to visitors in March as a small museum of the city's transport history.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "work the station",
+        "work, the station",
+        "work, the station,",
+        "work; the station"
+       ],
+       "a": 1,
+       "e": "A long introductory phrase is followed by a comma before the main clause. A has no comma after the introduction; C adds a comma between the subject “the station” and its verb “reopened”; D uses a semicolon after a phrase that is not a complete sentence.",
+       "s": "Boundaries (commas)"
+      },
+      {
+       "p": "Cleaning dust from solar panels in desert regions can use large amounts of water. To solve this problem, a young engineer from Aswan ______ a small robot that cleans the panels with soft brushes and only a cup of water.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "designed,",
+        "designed:",
+        "designed—",
+        "designed"
+       ],
+       "a": 3,
+       "e": "No punctuation can come between a verb (“designed”) and its object (“a small robot”). A, B and C all separate the verb from its object; a colon or dash also needs a complete sentence before it.",
+       "s": "Boundaries (commas)"
+      },
+      {
+       "p": "Egyptian literature reached readers around the world in the twentieth century. Naguib Mahfouz, the author of the novels known as the Cairo Trilogy ______ won the Nobel Prize in Literature in 1988, the first Arabic-language writer to do so.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "Trilogy,",
+        "Trilogy",
+        "Trilogy—",
+        "Trilogy;"
+       ],
+       "a": 0,
+       "e": "The appositive “the author of … Cairo Trilogy” opens with a comma, so it must close with a comma. B leaves the pair unclosed, C mixes a comma with a dash, and D puts a semicolon where no independent clause ends.",
+       "s": "Boundaries (commas)"
+      },
+      {
+       "p": "In a school science project, students grew forty bean plants under different conditions. Half of the plants were placed under an extra lamp each evening. The plants ______ received extra light grew almost twice as tall as the others.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        ", that",
+        ", which",
+        "that",
+        "which,"
+       ],
+       "a": 2,
+       "e": "“That received extra light” is essential: it tells us which plants grew taller. Essential clauses take no commas, and “that” is the correct word. A and B add a comma (and B gives no closing comma); D puts a comma between “which” and its verb.",
+       "s": "Boundaries (commas)"
+      },
+      {
+       "p": "Students at two universities in the city used to spend more than an hour on crowded buses each morning. The new bus line (the first to connect the two campuses directly ______ runs every ten minutes during rush hour.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "campuses—",
+        "campuses,",
+        "campuses)",
+        "campuses"
+       ],
+       "a": 2,
+       "e": "The extra information opens with a bracket, so it must close with a bracket. A and B mix marks; D never closes the bracket.",
+       "s": "Boundaries (commas)"
+      },
+      {
+       "p": "Before the hiking trip, the club leader checked every student's emergency kit. Each kit contains a compass ______ a flashlight, and a small first-aid manual with instructions in both Arabic and English.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        ",",
+        ";",
+        ":",
+        "—"
+       ],
+       "a": 0,
+       "e": "This is a simple list of three items, so the items are separated by commas. A semicolon is only used between list items that already contain commas; a colon or dash here would cut the first item off from the rest of the list.",
+       "s": "Boundaries (commas)"
+      },
+      {
+       "p": "Every autumn, millions of birds fly south from Europe to Africa. Thousands of migrating white storks ______ the shores of Lake Nasser, where they find shallow water and plenty of fish before continuing their journey.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "stop, along",
+        "stop along,",
+        "stop: along",
+        "stop along"
+       ],
+       "a": 3,
+       "e": "No punctuation belongs between the verb “stop” and the prepositional phrase “along the shores,” or between a preposition and its object. A, B and C each add a forbidden mark.",
+       "s": "Boundaries (commas)"
+      },
+      {
+       "p": "Whale sharks are the largest fish in the sea, yet little is known about their movements. A new study of the species was led by ______ who has spent a decade tracking whale sharks in the Red Sea with satellite tags.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "ecologist, Karim Nabil,",
+        "ecologist Karim Nabil,",
+        "ecologist Karim Nabil",
+        "ecologist, Karim Nabil"
+       ],
+       "a": 1,
+       "e": "No comma goes between a job label and the name (“ecologist Karim Nabil”). The who-clause after a named person is extra information, so it needs a comma before “who.” A and D wrongly split the label from the name; C is missing the comma before the extra who-clause.",
+       "s": "Boundaries (commas)"
+      },
+      {
+       "p": "The school changed its morning rules this year to reduce interruptions in first-period classes. Students who arrive after the first bell ______ sign in at the front office and collect a late pass before going to class.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "must",
+        ", must",
+        "—must",
+        ", must,"
+       ],
+       "a": 0,
+       "e": "“Who arrive after the first bell” is essential — it tells us which students — so it takes no commas. The subject “Students who arrive after the first bell” then goes straight to its verb “must sign.” B, C and D separate the subject from the verb.",
+       "s": "Boundaries (commas)"
+      },
+      {
+       "p": "Many ancient manuscripts are damaged quickly by heat and humidity. Because the museum's air-conditioning system failed during the hottest week of the summer ______ several fragile manuscripts were moved to a cooler room in the basement.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "summer;",
+        "summer:",
+        "summer,",
+        "summer, and"
+       ],
+       "a": 2,
+       "e": "An introductory dependent clause (“Because …”) is followed by a comma before the main clause. A and B need a complete sentence before the mark; D adds “and,” which leaves the sentence with no main clause.",
+       "s": "Boundaries (commas)"
+      },
+      {
+       "p": "A national survey asked more than three thousand secondary-school students about their study habits. The survey ______ most students prefer studying in the early evening rather than late at night or early in the morning.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "found, that",
+        "found that,",
+        "found: that",
+        "found that"
+       ],
+       "a": 3,
+       "e": "“That most students prefer …” is the object of the verb “found,” so no punctuation goes between the verb and “that” or after “that.” A, B and C each insert a forbidden mark.",
+       "s": "Boundaries (commas)"
+      },
+      {
+       "p": "The Nile has shaped life in northeastern Africa for thousands of years. The Nile ______ which flows north through eleven countries before reaching the Mediterranean Sea—is one of the longest rivers in the world.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "Nile,",
+        "Nile—",
+        "Nile",
+        "Nile ("
+       ],
+       "a": 1,
+       "e": "The extra information closes with a dash after “Sea,” so it must open with a dash. A and D mix different marks; C has no opening mark at all.",
+       "s": "Boundaries (commas)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Removal test: if the sentence still works and keeps its meaning without the words, they are extra → matching pair (, … , / — … — / ( … )).",
+    "Never mix the pair, and never forget the closing mark.",
+    "No comma between subject and verb, verb and object, a preposition and its object, or before “that.”",
+    "Label + name = no comma (“biologist Maria Lopez”); unique description + name = pair of commas.",
+    "“which” + commas = extra; “that” + no commas = essential."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,661 @@
+{
+ "title": "Transitions",
+ "kicker": "American Diploma · Digital SAT · Expression of Ideas",
+ "summary": "The logic families, the exact meaning of every common transition, the before-and-after method, the same-family trap, four worked examples and a 12-question practice quiz.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Transition questions belong to **Expression of Ideas**, the domain that makes up about 20% of the scored Reading and Writing questions (usually 8–12 questions, shared between transitions and rhetorical synthesis). In each module they usually come near the end, after the grammar questions and just before the student-notes (rhetorical synthesis) questions."
+  },
+  {
+   "type": "p",
+   "text": "Each question is a short text (25–150 words) with a blank at the start of a sentence or after a semicolon, and the stem **\"Which choice completes the text with the most logical transition?\"** The four choices are transition words or phrases such as *However,* / *Therefore,* / *For example,* / *Similarly,*. Grammar is never the issue — every choice is punctuated correctly. The question tests **logic**: what is the relationship between the idea before the blank and the idea after it?"
+  },
+  {
+   "type": "h2",
+   "text": "The method: name the relationship before you look"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "**Cover the choices.** If you read them first, every one will start to sound possible.",
+    "**Read the sentence BEFORE the blank and the sentence (or clause) AFTER it.** In longer texts, read from the beginning — the logic may connect to an idea two sentences back.",
+    "**Name the relationship in your own simple words:** \"same direction, more\", \"opposite\", \"surprising — despite that\", \"because of that\", \"an example\", \"later in time\", \"the same thing in other words\", \"the same is true of something else\".",
+    "**Uncover the choices and eliminate every family that does not match.** Usually two or three choices disappear at once.",
+    "**If two choices are from the same family, choose the precise one** using the exact meanings in the table below (for example, *by contrast* vs *nevertheless*, *meanwhile* vs *subsequently*).",
+    "**Read the full sentence with your choice.** It should sound like something a careful writer would say."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الطريقة في جملة",
+   "text": "غطّي الاختيارات الأول. اقرأ الجملة اللي قبل الفراغ واللي بعده، وقول لنفسك العلاقة بالعربي: «عكس»؟ «زيادة»؟ «مثال»؟ «نتيجة»؟ «بالرغم من كده»؟ «بعدها»؟ وبعدين بس بص على الاختيارات وشيل أي كلمة من عيلة تانية. لو فضل كلمتين من نفس العيلة، اختار الأدق في المعنى."
+  },
+  {
+   "type": "h2",
+   "text": "The logic families"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Family",
+    "The relationship in simple words",
+    "Main words"
+   ],
+   "rows": [
+    [
+     "Addition / continuation",
+     "same direction — here is another point",
+     "moreover, furthermore, in addition, additionally, also, besides"
+    ],
+    [
+     "Emphasis / intensifying",
+     "same direction — and even stronger, or the real truth",
+     "in fact, indeed, actually, above all"
+    ],
+    [
+     "Example",
+     "a specific case of the general idea",
+     "for example, for instance, to illustrate"
+    ],
+    [
+     "Clarification / restatement",
+     "the same idea, said more clearly or more precisely",
+     "in other words, that is, specifically, in short"
+    ],
+    [
+     "Contrast",
+     "opposite or different",
+     "however, by contrast, in contrast, on the other hand, conversely, instead, rather"
+    ],
+    [
+     "Concession",
+     "even though that is true, this still happens",
+     "nevertheless, nonetheless, still, even so, granted, admittedly, regardless"
+    ],
+    [
+     "Cause / result",
+     "because of that, this happened",
+     "therefore, thus, consequently, as a result, hence, accordingly, for this reason"
+    ],
+    [
+     "Sequence / time",
+     "order in time",
+     "first, next, then, subsequently, afterward, later, previously, meanwhile, eventually, finally, ultimately"
+    ],
+    [
+     "Similarity",
+     "another thing is the same in this way",
+     "likewise, similarly, in the same way, by the same token"
+    ],
+    [
+     "Summary / conclusion",
+     "putting it all together",
+     "in summary, overall, in conclusion, ultimately"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "The big table: exact meanings"
+  },
+  {
+   "type": "p",
+   "text": "Hard transition questions are decided by **precise meaning**. Learn what each word really requires in the text around it."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Transition",
+    "Exact meaning — what the text must contain",
+    "Example"
+   ],
+   "rows": [
+    [
+     "however",
+     "general contrast: the next idea goes against or differs from the last",
+     "The plan was popular. **However,** it was too expensive."
+    ],
+    [
+     "by contrast / in contrast",
+     "compares **two different things** side by side and shows how they differ",
+     "Frogs lay eggs in water. **By contrast,** the coqui lays them on land."
+    ],
+    [
+     "on the other hand",
+     "the other side of the same question; often after \"on the one hand\" or a first point",
+     "The job pays well. **On the other hand,** the hours are long."
+    ],
+    [
+     "conversely",
+     "the reverse situation is also true",
+     "Heat expands metal; **conversely,** cold shrinks it."
+    ],
+    [
+     "instead",
+     "**replacement**: the first option was rejected or did not happen, and this happened in its place",
+     "The council considered a garage. **Instead,** it expanded bus service."
+    ],
+    [
+     "rather",
+     "corrects a wrong idea: not X but Y",
+     "The sound is not a song. **Rather,** it is a warning call."
+    ],
+    [
+     "nevertheless / nonetheless",
+     "**despite** the problem just mentioned, the result still happened (surprising result)",
+     "She was injured. **Nevertheless,** she finished the race."
+    ],
+    [
+     "still / even so",
+     "same as nevertheless, a little less formal",
+     "The tickets were costly. **Still,** the hall was full."
+    ],
+    [
+     "granted / admittedly",
+     "the writer **admits** a point against his or her own view, usually before answering it",
+     "**Granted,** the ending is sudden. Yet it is memorable."
+    ],
+    [
+     "regardless",
+     "it does not matter; the thing mentioned has no effect",
+     "Some fans complained. **Regardless,** the club kept the new kit."
+    ],
+    [
+     "moreover / furthermore / in addition",
+     "adds **another point in the same direction**, usually supporting the same argument",
+     "Trees cool streets. **Moreover,** they absorb noise."
+    ],
+    [
+     "in fact",
+     "adds a **stronger or more surprising** detail, or **corrects** a belief just mentioned",
+     "People think octopuses live alone. **In fact,** some share dens."
+    ],
+    [
+     "indeed",
+     "**confirms** the previous statement and backs it up strongly",
+     "Arabic shaped Spanish. **Indeed,** thousands of words come from it."
+    ],
+    [
+     "for example / for instance",
+     "the next sentence is **one specific case** of the general idea before",
+     "Some foods were accidents. **For example,** …"
+    ],
+    [
+     "specifically",
+     "gives **more exact detail** about the same thing (not a new case)",
+     "The team studied birds — **specifically,** desert owls."
+    ],
+    [
+     "in other words / that is",
+     "**restates** the previous idea in simpler or clearer words; no new information",
+     "The drug had no effect. **In other words,** it did not work."
+    ],
+    [
+     "therefore / thus / consequently / as a result",
+     "the next idea is a **result or logical conclusion** of the last",
+     "Sunlight peaks at noon. **Therefore,** panels make most power then."
+    ],
+    [
+     "for this reason / accordingly",
+     "because of the reason just given, this action was taken",
+     "Demand rose. **Accordingly,** the factory added a shift."
+    ],
+    [
+     "likewise / similarly",
+     "another subject does **the same** thing or has the same feature",
+     "Bees signal food by dancing. **Similarly,** ants leave trails."
+    ],
+    [
+     "meanwhile",
+     "**at the same time**, usually somewhere else or in another situation",
+     "Workers dug the canal. **Meanwhile,** in Europe, ships were designed."
+    ],
+    [
+     "subsequently / afterward / later",
+     "**after** the event just described",
+     "Carter found the tomb. **Subsequently,** he spent years recording it."
+    ],
+    [
+     "previously / earlier",
+     "**before** the event just described",
+     "The site is a park now. **Previously,** it was a factory."
+    ],
+    [
+     "eventually / ultimately",
+     "in the end, after a long time or many steps",
+     "**Ultimately,** the city chose the cheaper plan."
+    ],
+    [
+     "in summary / overall",
+     "sums up the whole text",
+     "**Overall,** the results support the theory."
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Same family, different meaning: the pairs that decide hard questions"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "If you are choosing between…",
+    "Choose the first when…",
+    "Choose the second when…"
+   ],
+   "rows": [
+    [
+     "however / by contrast",
+     "one idea simply goes against another",
+     "two different subjects are compared on the same feature"
+    ],
+    [
+     "by contrast / nevertheless",
+     "two things are different",
+     "an obstacle did NOT stop a result (\"despite this\")"
+    ],
+    [
+     "however / instead",
+     "simple contrast",
+     "a rejected option is replaced by another"
+    ],
+    [
+     "moreover / in fact",
+     "just one more supporting point",
+     "the new point is stronger, surprising, or corrects a belief"
+    ],
+    [
+     "for example / specifically",
+     "a new case of a general group",
+     "more detail about the very same thing"
+    ],
+    [
+     "for example / indeed",
+     "the sentence is clearly one case",
+     "the sentence confirms and strengthens the claim"
+    ],
+    [
+     "thus / moreover",
+     "the second idea is caused by the first",
+     "the second idea is just another, separate point"
+    ],
+    [
+     "meanwhile / subsequently",
+     "both events happen at the same time",
+     "the second event happens later"
+    ],
+    [
+     "similarly / likewise vs moreover",
+     "a second subject shares the same feature",
+     "more information about the same subject"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الفخ الأشهر",
+   "items": [
+    "By contrast مش معناها «بالرغم من». معناها مقارنة بين حاجتين مختلفتين جنب بعض (الضفادع العادية ↔ ضفدع الكوكي).",
+    "Nevertheless / Still معناها «ومع ذلك، رغم المشكلة اللي فاتت، النتيجة حصلت».",
+    "Instead لازم يكون فيه اختيار اترفض أو ما حصلش، والجملة الجديدة هي البديل."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1: cause and result**"
+  },
+  {
+   "type": "p",
+   "text": "Mangrove forests along the Red Sea coast trap sand and mud with their tangled roots, which slows the erosion of the shoreline. ______ when mangroves are cleared for hotels and roads, nearby beaches often begin to shrink within a few years."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text with the most logical transition?**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) For instance,",
+    "B) Likewise,",
+    "C) Consequently,",
+    "D) Nevertheless,"
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Answer: C) Consequently,",
+   "items": [
+    "Relationship in my own words: the roots protect the shore → so removing them makes beaches shrink. That is a result, so \"Consequently\" (C) is correct.",
+    "A is wrong: the second sentence is not one case of the first idea; it describes what happens when the protection is removed (wrong family: example).",
+    "B is wrong: \"Likewise\" needs another subject that does the same thing; nothing here is similar (wrong family: similarity).",
+    "D is wrong: \"Nevertheless\" signals a surprising result despite the first fact, but shrinking beaches are the expected result (reversed logic)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2: concession vs contrast**"
+  },
+  {
+   "type": "p",
+   "text": "The first electric buses tested in the city cost nearly twice as much as diesel buses. ______ the transport authority decided to buy fifty more, arguing that lower fuel and repair costs would save money over the buses' working lives."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text with the most logical transition?**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) Nevertheless,",
+    "B) By contrast,",
+    "C) Similarly,",
+    "D) For example,"
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Answer: A) Nevertheless,",
+   "items": [
+    "Relationship: the buses were expensive → despite that, the authority bought more. A surprising action despite an obstacle = concession. \"Nevertheless\" (A).",
+    "B is the same-family trap: \"By contrast\" needs two different subjects compared side by side (for example, diesel buses vs electric buses on one feature). Here the second sentence is a decision made despite the cost.",
+    "C is wrong: nothing is similar to anything (wrong family).",
+    "D is wrong: buying fifty more buses is not an example of the high cost (wrong family)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3: example**"
+  },
+  {
+   "type": "p",
+   "text": "Some plants can defend themselves by releasing chemical signals into the air when they are attacked. ______ when caterpillars begin chewing on the leaves of a tomato plant, the plant releases scents that attract wasps that attack caterpillars."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text with the most logical transition?**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) In fact,",
+    "B) For instance,",
+    "C) Moreover,",
+    "D) Instead,"
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Answer: B) For instance,",
+   "items": [
+    "Relationship: general claim (some plants release signals) → one specific case (the tomato plant). \"For instance\" (B).",
+    "A is wrong: \"In fact\" adds a stronger or surprising point or corrects a belief; the tomato is simply one case of the claim, not a stronger claim.",
+    "C is wrong: \"Moreover\" adds a separate new point; this sentence is a case of the same point (example vs addition).",
+    "D is wrong: \"Instead\" needs a rejected option; nothing is replaced."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4: sequence in time**"
+  },
+  {
+   "type": "p",
+   "text": "In November 1922, archaeologist Howard Carter uncovered the entrance to the tomb of Tutankhamun in the Valley of the Kings. ______ he spent nearly a decade carefully recording, photographing and removing the thousands of objects inside."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text with the most logical transition?**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) Meanwhile,",
+    "B) Previously,",
+    "C) Likewise,",
+    "D) Subsequently,"
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Answer: D) Subsequently,",
+   "items": [
+    "Relationship: first he found the entrance → after that he spent years on the objects. Later in time = \"Subsequently\" (D).",
+    "A is the same-family trap: \"Meanwhile\" means at the same time, but the recording came after the discovery.",
+    "B is reversed: \"Previously\" means before the discovery, but he could not remove objects before finding the tomb.",
+    "C is wrong: no second subject does the same thing (wrong family)."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**Same-family trap:** two contrast words or two time words. Use the exact meaning: by contrast (two subjects compared) ≠ nevertheless (despite an obstacle); meanwhile (same time) ≠ subsequently (later).",
+    "**Reading only one sentence:** the blank connects two ideas. Always read before AND after.",
+    "**Reversed logic:** choosing a result word (therefore) when the result is surprising (nevertheless), or vice versa.",
+    "**\"Moreover\" for everything:** addition is only right when the new sentence is another separate point in the same direction.",
+    "**Instead without a rejected option:** \"instead\" needs something that did not happen or was refused.",
+    "**For example vs in fact / indeed:** ask \"Is the sentence one case of a general group?\" If yes → example.",
+    "**Sounding smart:** \"conversely\", \"accordingly\" or \"hence\" are not better because they sound formal."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Cover the choices and say the relationship in two or three words.",
+    "Ask: same direction, opposite direction, or time? That splits the choices quickly.",
+    "Same direction → addition, emphasis, example, restatement, similarity, result. Opposite → contrast or concession.",
+    "If two words survive, use the pair table: who is being compared? Is there an obstacle? Same time or later?",
+    "Aim for about 45 seconds per question; transitions are short texts, so they help you save time."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Transitions — Practice Quiz",
+   "timed": false,
+   "intro": "12 questions in Digital SAT format. Untimed: cover the choices, name the relationship, then choose the most precise transition.",
+   "sections": [
+    {
+     "name": "Practice set",
+     "minutes": 12,
+     "questions": [
+      {
+       "p": "Many people assume that octopuses are solitary animals that avoid one another except to mate. ______ divers off the eastern coast of Australia have observed groups of gloomy octopuses living close together in shared dens on the sea floor.",
+       "q": "Which choice completes the text with the most logical transition?",
+       "c": [
+        "In fact,",
+        "Likewise,",
+        "As a result,",
+        "For example,"
+       ],
+       "a": 0,
+       "e": "The second sentence corrects a common belief, which is the job of \"in fact\". It is not similar (B), not a result (C), and not an example of the belief (D) — it goes against it.",
+       "s": "Transitions"
+      },
+      {
+       "p": "Most frogs lay their eggs in water, where the eggs hatch into swimming tadpoles that slowly grow legs. ______ the coqui frog of Puerto Rico lays its eggs on land, and the young hatch as tiny, fully formed frogs.",
+       "q": "Which choice completes the text with the most logical transition?",
+       "c": [
+        "Therefore,",
+        "In contrast,",
+        "Similarly,",
+        "For example,"
+       ],
+       "a": 1,
+       "e": "Two different subjects (most frogs vs the coqui) are compared on the same feature, so \"In contrast\" fits. The coqui is not a result (A), not similar (C), and not an example of most frogs (D).",
+       "s": "Transitions"
+      },
+      {
+       "p": "Rooftop solar panels produce the most electricity around midday, when sunlight is strongest. Most households, however, use the most power in the evening, after people return home. ______ many homeowners who install solar panels also buy batteries to store midday energy for later use.",
+       "q": "Which choice completes the text with the most logical transition?",
+       "c": [
+        "In addition,",
+        "Likewise,",
+        "Nevertheless,",
+        "For this reason,"
+       ],
+       "a": 3,
+       "e": "The mismatch between production and use is the reason people buy batteries, so a cause–result transition is needed. A adds an unrelated point, B needs a similar subject, C wrongly suggests a surprising result.",
+       "s": "Transitions"
+      },
+      {
+       "p": "Some critics argue that the novel's ending is too sudden. ______ the final chapter does leave several questions about the main characters unanswered. Yet that openness, many readers feel, is exactly what makes the book so memorable.",
+       "q": "Which choice completes the text with the most logical transition?",
+       "c": [
+        "Consequently,",
+        "For instance,",
+        "Granted,",
+        "In contrast,"
+       ],
+       "a": 2,
+       "e": "The writer admits the critics' point before answering it with \"Yet…\", which is a concession: \"Granted\". The unanswered questions are not a result (A), an example (B) or a contrast (D) with the critics' view — they agree with it.",
+       "s": "Transitions"
+      },
+      {
+       "p": "Planting trees along city streets lowers summer temperatures by shading pavements and buildings. ______ trees absorb some of the traffic noise that would otherwise reach nearby homes and schools, making busy streets more pleasant.",
+       "q": "Which choice completes the text with the most logical transition?",
+       "c": [
+        "Instead,",
+        "Nevertheless,",
+        "For instance,",
+        "Moreover,"
+       ],
+       "a": 3,
+       "e": "The text gives a second, separate benefit of trees in the same direction, so \"Moreover\" adds it. Nothing was rejected (A), there is no obstacle (B), and noise reduction is not an example of cooling (C).",
+       "s": "Transitions"
+      },
+      {
+       "p": "During the 1860s, thousands of workers in Egypt were digging the final sections of the Suez Canal. ______ in Europe, shipping companies were already designing larger steamships to take advantage of the much shorter route to Asia that the canal would create.",
+       "q": "Which choice completes the text with the most logical transition?",
+       "c": [
+        "Meanwhile,",
+        "Subsequently,",
+        "Therefore,",
+        "In other words,"
+       ],
+       "a": 0,
+       "e": "The two activities happened at the same time in different places (\"were already designing\"), so \"Meanwhile\" is precise. \"Subsequently\" (B) wrongly places the designing after the digging; C and D are the wrong families.",
+       "s": "Transitions"
+      },
+      {
+       "p": "The city council considered building a large new parking garage downtown to reduce traffic jams. ______ it chose to expand bus service and add protected bicycle lanes, arguing that more parking spaces would only attract more cars to the area.",
+       "q": "Which choice completes the text with the most logical transition?",
+       "c": [
+        "Similarly,",
+        "Instead,",
+        "For instance,",
+        "Indeed,"
+       ],
+       "a": 1,
+       "e": "The garage was considered but rejected, and buses and bike lanes were chosen in its place — a replacement, so \"Instead\". There is no similar subject (A), no example (C), and the decision does not confirm the first idea (D).",
+       "s": "Transitions"
+      },
+      {
+       "p": "Arabic has had a lasting influence on the vocabulary of Spanish, a result of centuries of contact in the Iberian Peninsula. ______ thousands of everyday Spanish words, including aceite (\"oil\") and almohada (\"pillow\"), come from Arabic.",
+       "q": "Which choice completes the text with the most logical transition?",
+       "c": [
+        "However,",
+        "Likewise,",
+        "Indeed,",
+        "Meanwhile,"
+       ],
+       "a": 2,
+       "e": "The second sentence confirms and strengthens the claim with strong evidence, the job of \"Indeed\". It does not go against the claim (A), compare a second subject (B) or describe a simultaneous event (D).",
+       "s": "Transitions"
+      },
+      {
+       "p": "The marathon runner injured her ankle two weeks before the race and could barely train during that time. ______ she finished the race in under three hours, just four minutes slower than her personal best.",
+       "q": "Which choice completes the text with the most logical transition?",
+       "c": [
+        "By contrast,",
+        "Therefore,",
+        "Likewise,",
+        "Still,"
+       ],
+       "a": 3,
+       "e": "The injury was an obstacle, and she did well despite it: concession, \"Still\". \"By contrast\" (A) needs two subjects compared; \"Therefore\" (B) suggests the injury caused the good result; C needs a similar subject.",
+       "s": "Transitions"
+      },
+      {
+       "p": "Honeybees perform a \"waggle dance\" inside the hive to tell other bees the direction and distance of a good source of flowers. ______ some species of ants leave chemical trails on the ground that guide their nestmates from the colony to a new food source.",
+       "q": "Which choice completes the text with the most logical transition?",
+       "c": [
+        "Thus,",
+        "Similarly,",
+        "Meanwhile,",
+        "Specifically,"
+       ],
+       "a": 1,
+       "e": "A second subject (ants) does the same kind of thing (guides others to food), so \"Similarly\". The ants' behavior is not a result of the bees' dance (A), not linked in time (C), and not more detail about the bees (D).",
+       "s": "Transitions"
+      },
+      {
+       "p": "Several foods that are popular around the world today were first created by accident. ______ potato chips, according to a well-known story, were invented when a chef sliced potatoes extremely thin to annoy a customer who complained that his fried potatoes were too thick.",
+       "q": "Which choice completes the text with the most logical transition?",
+       "c": [
+        "For example,",
+        "Nonetheless,",
+        "As a result,",
+        "In contrast,"
+       ],
+       "a": 0,
+       "e": "Potato chips are one specific case of foods created by accident, so \"For example\". There is no obstacle (B), the chips are not a result of the general fact (C), and they do not differ from it (D).",
+       "s": "Transitions"
+      },
+      {
+       "p": "In a clinical trial, researchers found that a new drug had no measurable effect on patients' blood pressure when compared with a placebo. ______ the patients who received the real drug did no better than those who received a sugar pill.",
+       "q": "Which choice completes the text with the most logical transition?",
+       "c": [
+        "For example,",
+        "Moreover,",
+        "In other words,",
+        "Even so,"
+       ],
+       "a": 2,
+       "e": "The second sentence restates the first in simpler words (a placebo = a sugar pill), with no new information, so \"In other words\". It is not a separate case (A) or a new point (B), and there is no surprising result (D).",
+       "s": "Transitions"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Read the sentence before AND after the blank, and name the relationship before looking at the choices.",
+    "First decide the direction: same, opposite, or time.",
+    "By contrast compares two subjects; nevertheless/still means \"despite this\"; instead replaces a rejected option.",
+    "In fact adds something stronger or corrects a belief; indeed confirms; for example gives one case.",
+    "Meanwhile = same time; subsequently = later; previously = before."
+   ]
+  }
+ ],
+ "slug": "sat-transitions"
+}
