@@ -1,0 +1,516 @@
+{
+ "slug": "cp8m-probability",
+ "title": "Probability: Complementary and Combined Events",
+ "kicker": "Cambridge Lower Secondary · Mathematics 0862 · Stage 8 · Statistics and Probability",
+ "summary": "Use P(not A) = 1 − P(A), list all outcomes of two events with lists, tree diagrams and sample-space tables, find theoretical probabilities of combined events, and compare experiments and simulations with theory.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Know that **complementary events** are two events whose probabilities add up to **1**, so P(not A) = 1 − P(A) (8Sp.01)",
+    "Use **tables, diagrams and lists** to find **all** the outcomes of **combined events** (two independent events, such as a coin and a dice) (8Sp.02)",
+    "Find **theoretical probabilities** of combined events when all outcomes are **equally likely** (8Sp.03)",
+    "**Design and carry out** chance experiments or simulations with small and large numbers of trials, and **compare** experimental probabilities with theoretical ones (8Sp.04)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Probability measures how likely something is, on a scale from **0** (impossible) to **1** (certain). Probabilities are written as fractions, decimals or percentages — never as “1 in 4” or “1 : 4” in an answer. At Stage 8 you work with complementary events, outcomes of **two** things happening together, and experiments."
+  },
+  {
+   "type": "h2",
+   "text": "Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "outcome",
+     "ناتج — one possible result, e.g. rolling a 5"
+    ],
+    [
+     "event",
+     "حدث — one or more outcomes, e.g. “rolling an even number”"
+    ],
+    [
+     "equally likely",
+     "متساوية الاحتمال — every outcome has the same chance"
+    ],
+    [
+     "mutually exclusive",
+     "متنافية — cannot happen at the same time (rolling a 2 and rolling a 5 on one roll)"
+    ],
+    [
+     "complementary events",
+     "حدثان متكاملان — an event and “not” that event; their probabilities add to 1"
+    ],
+    [
+     "combined events",
+     "أحداث مركبة — two experiments together, e.g. flipping a coin and rolling a dice"
+    ],
+    [
+     "independent",
+     "مستقلة — the result of one does not change the chances of the other"
+    ],
+    [
+     "sample space",
+     "فضاء العينة — the list or table of all possible outcomes"
+    ],
+    [
+     "relative frequency (experimental probability)",
+     "التكرار النسبي / الاحتمال التجريبي — number of times it happened ÷ number of trials"
+    ],
+    [
+     "trial",
+     "محاولة — doing the experiment once"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. Theoretical probability and complementary events"
+  },
+  {
+   "type": "p",
+   "text": "When all outcomes are **equally likely**: **P(event) = number of outcomes in the event ÷ total number of outcomes.** A fair dice has 6 equally likely outcomes, so P(4) = 1/6 and P(even) = 3/6 = 1/2."
+  },
+  {
+   "type": "p",
+   "text": "An event and its opposite — A and **not A** — are **complementary**: exactly one of them must happen, so their probabilities add up to 1."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 130\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"30\" y1=\"60\" x2=\"510\" y2=\"60\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"30\" y1=\"52\" x2=\"30\" y2=\"68\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"30\" y=\"86\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">0</text><line x1=\"150\" y1=\"52\" x2=\"150\" y2=\"68\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"150\" y=\"86\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">1/4</text><line x1=\"270\" y1=\"52\" x2=\"270\" y2=\"68\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"270\" y=\"86\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">1/2</text><line x1=\"390\" y1=\"52\" x2=\"390\" y2=\"68\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"390\" y=\"86\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">3/4</text><line x1=\"510\" y1=\"52\" x2=\"510\" y2=\"68\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"510\" y=\"86\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">1</text><text x=\"30\" y=\"42\" font-size=\"13\" text-anchor=\"start\">impossible</text><text x=\"150\" y=\"42\" font-size=\"13\" text-anchor=\"middle\">unlikely</text><text x=\"270\" y=\"42\" font-size=\"13\" text-anchor=\"middle\">even chance</text><text x=\"390\" y=\"42\" font-size=\"13\" text-anchor=\"middle\">likely</text><text x=\"510\" y=\"42\" font-size=\"13\" text-anchor=\"end\">certain</text><circle cx=\"174\" cy=\"60\" r=\"6\" fill=\"#1f5fbf\"/><circle cx=\"366\" cy=\"60\" r=\"6\" fill=\"#b3261e\"/><text x=\"174\" y=\"110\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#1f5fbf\">P(A) = 0.3</text><text x=\"366\" y=\"110\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#b3261e\">P(not A) = 0.7</text></svg>",
+   "caption": "If P(A) = 0.3, then P(not A) = 1 − 0.3 = 0.7. The two points are the same distance from the ends of the scale."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "P(A)",
+    "P(not A) = 1 − P(A)"
+   ],
+   "rows": [
+    [
+     "0.35",
+     "0.65"
+    ],
+    [
+     "3/8",
+     "5/8"
+    ],
+    [
+     "72%",
+     "28%"
+    ],
+    [
+     "0.08",
+     "0.92"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**More than two outcomes.** If the outcomes are mutually exclusive and cover every possibility, **all** their probabilities add to 1. A bag holds red, blue and green counters only; P(red) = 0.25 and P(blue) = 0.4. Then P(green) = 1 − (0.25 + 0.4) = 0.35. Also P(not red) = 1 − 0.25 = 0.75 — the complement of “red” is “blue or green”."
+  },
+  {
+   "type": "p",
+   "text": "**Careful:** two events are complementary only if they cover **every** outcome and cannot both happen. “Rain tomorrow” and “sunny tomorrow” are **not** complementary — it could be cloudy and dry. The complement of “rain” is “no rain”."
+  },
+  {
+   "type": "h2",
+   "text": "2. Listing outcomes of combined events"
+  },
+  {
+   "type": "p",
+   "text": "When two things happen together — a coin and a spinner, two dice, two spinners — find **all** the outcomes **systematically** so you do not miss or repeat any. Three tools:"
+  },
+  {
+   "type": "p",
+   "text": "**(a) A systematic list.** Fix the first item, go through every option for the second, then change the first. Coin (H, T) and spinner (red, blue, green): HR, HB, HG, TR, TB, TG — 2 × 3 = **6** outcomes."
+  },
+  {
+   "type": "p",
+   "text": "**(b) A tree diagram (for listing).** Each branch is one choice; follow every path from left to right to read off an outcome."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 460 275\" width=\"460\" font-family=\"Arial, sans-serif\" font-size=\"14\"><circle cx=\"30\" cy=\"150\" r=\"4\" fill=\"#0f1b33\"/><line x1=\"30\" y1=\"150\" x2=\"140\" y2=\"90\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"156\" y=\"95\" font-size=\"15\" text-anchor=\"middle\" font-weight=\"bold\">H</text><line x1=\"170\" y1=\"90\" x2=\"270\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"284\" y=\"55\" font-size=\"15\" text-anchor=\"middle\" font-weight=\"bold\">R</text><text x=\"330\" y=\"55\" font-size=\"15\" text-anchor=\"start\" font-weight=\"bold\" fill=\"#1f5fbf\">HR</text><line x1=\"170\" y1=\"90\" x2=\"270\" y2=\"90\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"284\" y=\"95\" font-size=\"15\" text-anchor=\"middle\" font-weight=\"bold\">B</text><text x=\"330\" y=\"95\" font-size=\"15\" text-anchor=\"start\" font-weight=\"bold\" fill=\"#1f5fbf\">HB</text><line x1=\"170\" y1=\"90\" x2=\"270\" y2=\"130\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"284\" y=\"135\" font-size=\"15\" text-anchor=\"middle\" font-weight=\"bold\">G</text><text x=\"330\" y=\"135\" font-size=\"15\" text-anchor=\"start\" font-weight=\"bold\" fill=\"#1f5fbf\">HG</text><line x1=\"30\" y1=\"150\" x2=\"140\" y2=\"210\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"156\" y=\"215\" font-size=\"15\" text-anchor=\"middle\" font-weight=\"bold\">T</text><line x1=\"170\" y1=\"210\" x2=\"270\" y2=\"170\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"284\" y=\"175\" font-size=\"15\" text-anchor=\"middle\" font-weight=\"bold\">R</text><text x=\"330\" y=\"175\" font-size=\"15\" text-anchor=\"start\" font-weight=\"bold\" fill=\"#1f5fbf\">TR</text><line x1=\"170\" y1=\"210\" x2=\"270\" y2=\"210\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"284\" y=\"215\" font-size=\"15\" text-anchor=\"middle\" font-weight=\"bold\">B</text><text x=\"330\" y=\"215\" font-size=\"15\" text-anchor=\"start\" font-weight=\"bold\" fill=\"#1f5fbf\">TB</text><line x1=\"170\" y1=\"210\" x2=\"270\" y2=\"250\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"284\" y=\"255\" font-size=\"15\" text-anchor=\"middle\" font-weight=\"bold\">G</text><text x=\"330\" y=\"255\" font-size=\"15\" text-anchor=\"start\" font-weight=\"bold\" fill=\"#1f5fbf\">TG</text><text x=\"156\" y=\"20\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#c76a00\">Coin</text><text x=\"284\" y=\"20\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#c76a00\">Spinner</text><text x=\"365\" y=\"20\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#c76a00\">Outcome</text></svg>",
+   "caption": "Listing the outcomes of a coin and a three-colour spinner: 2 × 3 = 6 outcomes."
+  },
+  {
+   "type": "p",
+   "text": "**(c) A sample-space table (possibility diagram)** — the best tool for two dice or two spinners with numbers. Put one experiment along the top and the other down the side, and fill each cell with the combined outcome (the pair, the sum, the product…)."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 330 300\" width=\"330\" font-family=\"Arial, sans-serif\" font-size=\"14\"><text x=\"184\" y=\"22\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">Second dice</text><text x=\"22\" y=\"174\" font-size=\"14\" font-weight=\"bold\" text-anchor=\"middle\" transform=\"rotate(-90 22 174)\">First dice</text><text x=\"89\" y=\"50\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">1</text><text x=\"58\" y=\"84\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">1</text><text x=\"127\" y=\"50\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">2</text><text x=\"58\" y=\"122\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">2</text><text x=\"165\" y=\"50\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">3</text><text x=\"58\" y=\"160\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">3</text><text x=\"203\" y=\"50\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">4</text><text x=\"58\" y=\"198\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">4</text><text x=\"241\" y=\"50\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">5</text><text x=\"58\" y=\"236\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">5</text><text x=\"279\" y=\"50\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">6</text><text x=\"58\" y=\"274\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">6</text><text x=\"89\" y=\"84\" text-anchor=\"middle\">2</text><text x=\"127\" y=\"84\" text-anchor=\"middle\">3</text><text x=\"165\" y=\"84\" text-anchor=\"middle\">4</text><text x=\"203\" y=\"84\" text-anchor=\"middle\">5</text><text x=\"241\" y=\"84\" text-anchor=\"middle\">6</text><rect x=\"260\" y=\"60\" width=\"38\" height=\"38\" fill=\"#fff4d6\"/><text x=\"279\" y=\"84\" text-anchor=\"middle\" font-weight=\"bold\">7</text><text x=\"89\" y=\"122\" text-anchor=\"middle\">3</text><text x=\"127\" y=\"122\" text-anchor=\"middle\">4</text><text x=\"165\" y=\"122\" text-anchor=\"middle\">5</text><text x=\"203\" y=\"122\" text-anchor=\"middle\">6</text><rect x=\"222\" y=\"98\" width=\"38\" height=\"38\" fill=\"#fff4d6\"/><text x=\"241\" y=\"122\" text-anchor=\"middle\" font-weight=\"bold\">7</text><text x=\"279\" y=\"122\" text-anchor=\"middle\">8</text><text x=\"89\" y=\"160\" text-anchor=\"middle\">4</text><text x=\"127\" y=\"160\" text-anchor=\"middle\">5</text><text x=\"165\" y=\"160\" text-anchor=\"middle\">6</text><rect x=\"184\" y=\"136\" width=\"38\" height=\"38\" fill=\"#fff4d6\"/><text x=\"203\" y=\"160\" text-anchor=\"middle\" font-weight=\"bold\">7</text><text x=\"241\" y=\"160\" text-anchor=\"middle\">8</text><text x=\"279\" y=\"160\" text-anchor=\"middle\">9</text><text x=\"89\" y=\"198\" text-anchor=\"middle\">5</text><text x=\"127\" y=\"198\" text-anchor=\"middle\">6</text><rect x=\"146\" y=\"174\" width=\"38\" height=\"38\" fill=\"#fff4d6\"/><text x=\"165\" y=\"198\" text-anchor=\"middle\" font-weight=\"bold\">7</text><text x=\"203\" y=\"198\" text-anchor=\"middle\">8</text><text x=\"241\" y=\"198\" text-anchor=\"middle\">9</text><text x=\"279\" y=\"198\" text-anchor=\"middle\">10</text><text x=\"89\" y=\"236\" text-anchor=\"middle\">6</text><rect x=\"108\" y=\"212\" width=\"38\" height=\"38\" fill=\"#fff4d6\"/><text x=\"127\" y=\"236\" text-anchor=\"middle\" font-weight=\"bold\">7</text><text x=\"165\" y=\"236\" text-anchor=\"middle\">8</text><text x=\"203\" y=\"236\" text-anchor=\"middle\">9</text><text x=\"241\" y=\"236\" text-anchor=\"middle\">10</text><text x=\"279\" y=\"236\" text-anchor=\"middle\">11</text><rect x=\"70\" y=\"250\" width=\"38\" height=\"38\" fill=\"#fff4d6\"/><text x=\"89\" y=\"274\" text-anchor=\"middle\" font-weight=\"bold\">7</text><text x=\"127\" y=\"274\" text-anchor=\"middle\">8</text><text x=\"165\" y=\"274\" text-anchor=\"middle\">9</text><text x=\"203\" y=\"274\" text-anchor=\"middle\">10</text><text x=\"241\" y=\"274\" text-anchor=\"middle\">11</text><text x=\"279\" y=\"274\" text-anchor=\"middle\">12</text><path d=\"M70 60V288M70 60H298M108 60V288M70 98H298M146 60V288M70 136H298M184 60V288M70 174H298M222 60V288M70 212H298M260 60V288M70 250H298M298 60V288M70 288H298\" stroke=\"#0f1b33\" stroke-width=\"1.2\" fill=\"none\"/></svg>",
+   "caption": "Sample space for the total of two fair dice: 6 × 6 = 36 equally likely outcomes. The 6 shaded cells give a total of 7."
+  },
+  {
+   "type": "p",
+   "text": "The number of outcomes is (number of outcomes of the first) × (number of outcomes of the second): coin and dice 2 × 6 = 12; two dice 6 × 6 = 36. The outcomes in the table are **mutually exclusive** (only one cell happens on each go) and, for fair dice, **equally likely**."
+  },
+  {
+   "type": "h2",
+   "text": "3. Probabilities of combined events"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Draw the sample space (list, tree or table) and count the **total** number of outcomes.",
+    "Count (or shade) the outcomes that fit the event.",
+    "P(event) = count ÷ total. Simplify the fraction if you can."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "From the dice table: P(total 7) = 6/36 = 1/6. P(total more than 9) = (3 + 2 + 1)/36 = 6/36 = 1/6 (totals 10, 11, 12). P(total is **not** 7) = 1 − 1/6 = 5/6 — complementary events save counting!"
+  },
+  {
+   "type": "p",
+   "text": "**Independent events:** the coin does not “remember” anything and does not affect the dice. Getting heads three times in a row does not make tails more likely next time — the probability of tails is still 1/2."
+  },
+  {
+   "type": "h2",
+   "text": "4. Experiments, simulations and relative frequency"
+  },
+  {
+   "type": "p",
+   "text": "Sometimes we cannot work out a probability theoretically (a drawing pin landing point up; a biased dice). Then we **experiment**: repeat a trial many times and record the results."
+  },
+  {
+   "type": "p",
+   "text": "**Relative frequency (experimental probability) = number of times the event happened ÷ number of trials.** If a drawing pin lands point up 32 times in 50 throws, the relative frequency is 32/50 = 0.64."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 290\" width=\"500\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"60\" y1=\"220\" x2=\"470\" y2=\"220\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"55\" y1=\"220\" x2=\"60\" y2=\"220\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><text x=\"52\" y=\"225\" font-size=\"13\" text-anchor=\"end\">0</text><line x1=\"60\" y1=\"200\" x2=\"470\" y2=\"200\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"55\" y1=\"200\" x2=\"60\" y2=\"200\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><text x=\"52\" y=\"205\" font-size=\"13\" text-anchor=\"end\">0.1</text><line x1=\"60\" y1=\"180\" x2=\"470\" y2=\"180\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"55\" y1=\"180\" x2=\"60\" y2=\"180\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><text x=\"52\" y=\"185\" font-size=\"13\" text-anchor=\"end\">0.2</text><line x1=\"60\" y1=\"160\" x2=\"470\" y2=\"160\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"55\" y1=\"160\" x2=\"60\" y2=\"160\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><text x=\"52\" y=\"165\" font-size=\"13\" text-anchor=\"end\">0.3</text><line x1=\"60\" y1=\"140\" x2=\"470\" y2=\"140\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"55\" y1=\"140\" x2=\"60\" y2=\"140\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><text x=\"52\" y=\"145\" font-size=\"13\" text-anchor=\"end\">0.4</text><line x1=\"60\" y1=\"120\" x2=\"470\" y2=\"120\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"55\" y1=\"120\" x2=\"60\" y2=\"120\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><text x=\"52\" y=\"125\" font-size=\"13\" text-anchor=\"end\">0.5</text><line x1=\"60\" y1=\"100\" x2=\"470\" y2=\"100\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"55\" y1=\"100\" x2=\"60\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><text x=\"52\" y=\"105\" font-size=\"13\" text-anchor=\"end\">0.6</text><line x1=\"60\" y1=\"80\" x2=\"470\" y2=\"80\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"55\" y1=\"80\" x2=\"60\" y2=\"80\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><text x=\"52\" y=\"85\" font-size=\"13\" text-anchor=\"end\">0.7</text><line x1=\"60\" y1=\"60\" x2=\"470\" y2=\"60\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"55\" y1=\"60\" x2=\"60\" y2=\"60\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><text x=\"52\" y=\"65\" font-size=\"13\" text-anchor=\"end\">0.8</text><line x1=\"60\" y1=\"40\" x2=\"470\" y2=\"40\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"55\" y1=\"40\" x2=\"60\" y2=\"40\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><text x=\"52\" y=\"45\" font-size=\"13\" text-anchor=\"end\">0.9</text><line x1=\"60\" y1=\"20\" x2=\"470\" y2=\"20\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"55\" y1=\"20\" x2=\"60\" y2=\"20\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><text x=\"52\" y=\"25\" font-size=\"13\" text-anchor=\"end\">1</text><line x1=\"60\" y1=\"220\" x2=\"60\" y2=\"14\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"18\" y=\"120\" font-size=\"14\" text-anchor=\"middle\" transform=\"rotate(-90 18 120)\">Relative frequency of heads</text><line x1=\"60\" y1=\"120\" x2=\"470\" y2=\"120\" stroke=\"#b3261e\" stroke-width=\"1.6\" stroke-dasharray=\"6 4\"/><text x=\"466\" y=\"144\" font-size=\"13\" text-anchor=\"end\" font-weight=\"bold\" fill=\"#b3261e\">theoretical 0.5</text><polyline points=\"80.5,160.0 101.0,150.0 121.5,120.0 142.0,130.0 162.5,124.0 183.0,120.0 203.5,114.3 224.0,110.0 244.5,113.3 265.0,110.0 285.5,110.9 306.0,111.7 326.5,112.3 347.0,111.4 367.5,110.7 388.0,112.5 408.5,115.3 429.0,118.9 449.5,121.1 470.0,121.0\" fill=\"none\" stroke=\"#1f5fbf\" stroke-width=\"2\"/><circle cx=\"80.5\" cy=\"160.0\" r=\"3\" fill=\"#1f5fbf\"/><circle cx=\"101.0\" cy=\"150.0\" r=\"3\" fill=\"#1f5fbf\"/><circle cx=\"121.5\" cy=\"120.0\" r=\"3\" fill=\"#1f5fbf\"/><circle cx=\"142.0\" cy=\"130.0\" r=\"3\" fill=\"#1f5fbf\"/><circle cx=\"162.5\" cy=\"124.0\" r=\"3\" fill=\"#1f5fbf\"/><circle cx=\"183.0\" cy=\"120.0\" r=\"3\" fill=\"#1f5fbf\"/><circle cx=\"203.5\" cy=\"114.3\" r=\"3\" fill=\"#1f5fbf\"/><circle cx=\"224.0\" cy=\"110.0\" r=\"3\" fill=\"#1f5fbf\"/><circle cx=\"244.5\" cy=\"113.3\" r=\"3\" fill=\"#1f5fbf\"/><circle cx=\"265.0\" cy=\"110.0\" r=\"3\" fill=\"#1f5fbf\"/><circle cx=\"285.5\" cy=\"110.9\" r=\"3\" fill=\"#1f5fbf\"/><circle cx=\"306.0\" cy=\"111.7\" r=\"3\" fill=\"#1f5fbf\"/><circle cx=\"326.5\" cy=\"112.3\" r=\"3\" fill=\"#1f5fbf\"/><circle cx=\"347.0\" cy=\"111.4\" r=\"3\" fill=\"#1f5fbf\"/><circle cx=\"367.5\" cy=\"110.7\" r=\"3\" fill=\"#1f5fbf\"/><circle cx=\"388.0\" cy=\"112.5\" r=\"3\" fill=\"#1f5fbf\"/><circle cx=\"408.5\" cy=\"115.3\" r=\"3\" fill=\"#1f5fbf\"/><circle cx=\"429.0\" cy=\"118.9\" r=\"3\" fill=\"#1f5fbf\"/><circle cx=\"449.5\" cy=\"121.1\" r=\"3\" fill=\"#1f5fbf\"/><circle cx=\"470.0\" cy=\"121.0\" r=\"3\" fill=\"#1f5fbf\"/><line x1=\"60\" y1=\"220\" x2=\"476\" y2=\"220\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"60\" y1=\"220\" x2=\"60\" y2=\"225\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><text x=\"60\" y=\"239\" font-size=\"13\" text-anchor=\"middle\">0</text><line x1=\"142\" y1=\"220\" x2=\"142\" y2=\"225\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><text x=\"142\" y=\"239\" font-size=\"13\" text-anchor=\"middle\">40</text><line x1=\"224\" y1=\"220\" x2=\"224\" y2=\"225\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><text x=\"224\" y=\"239\" font-size=\"13\" text-anchor=\"middle\">80</text><line x1=\"306\" y1=\"220\" x2=\"306\" y2=\"225\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><text x=\"306\" y=\"239\" font-size=\"13\" text-anchor=\"middle\">120</text><line x1=\"388\" y1=\"220\" x2=\"388\" y2=\"225\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><text x=\"388\" y=\"239\" font-size=\"13\" text-anchor=\"middle\">160</text><line x1=\"470\" y1=\"220\" x2=\"470\" y2=\"225\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><text x=\"470\" y=\"239\" font-size=\"13\" text-anchor=\"middle\">200</text><text x=\"265\" y=\"260\" font-size=\"14\" text-anchor=\"middle\">Number of flips</text></svg>",
+   "caption": "Relative frequency of heads in one experiment with a coin, worked out after every 10 flips. With few flips it jumps about; with more flips it settles near the theoretical probability 0.5."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**Small numbers of trials** give results that can be far from the theoretical probability — just by chance.",
+    "**Large numbers of trials** give a relative frequency that is usually close to the theoretical probability. So more trials → a **more reliable** estimate.",
+    "**Expected number** = probability × number of trials. A fair dice rolled 60 times: expect about 1/6 × 60 = 10 sixes — but not exactly 10 every time.",
+    "If a large experiment gives a relative frequency far from the theoretical value, the object may be **biased** (not fair)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Simulations.** A simulation uses something easy (a dice, a spinner, random numbers on a calculator or spreadsheet) to copy a chance situation. Example: a footballer scores 1 penalty in every 4 (probability 1/4). Simulate 5 penalties by generating 5 random whole numbers from 1 to 4: let 1 = score, and 2, 3, 4 = miss. Repeat many times to estimate, say, the probability that she scores at least 2 of the 5. **Designing** an experiment means deciding: what is one trial, how many trials, how you will record results (a tally chart), and how you will compare with the theory."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "بالعربي: أهم قاعدتين",
+   "items": [
+    "الحدثان المتكاملان: P(مش A) = 1 − P(A). مثلًا لو احتمال المطر 0.35 يبقى احتمال عدم المطر 0.65.",
+    "حدثين مع بعض (عملة + زهر، زهرين): اعمل جدول أو قائمة منظمة بكل النواتج، وبعدين الاحتمال = عدد النواتج المطلوبة ÷ العدد الكلي.",
+    "التكرار النسبي = عدد مرات حدوث الحدث ÷ عدد المحاولات. كل ما زادت المحاولات، كل ما قرب من الاحتمال النظري."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — Complementary events  [1 mark]\nThe probability that a train is late is 0.15. What is the probability that the train is **not** late?"
+  },
+  {
+   "type": "p",
+   "text": "P(not late) = 1 − 0.15 = **0.85**.\n**Common mistake:** a slip such as 1 − 0.15 = 0.95. Always check: 0.15 + 0.85 = 1 ✓"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — Probabilities that add to 1  [2 marks]\nA spinner can land on red, blue or green only. P(red) = 0.25 and P(blue) = 0.4. (a) Find P(green). (b) Find P(not blue)."
+  },
+  {
+   "type": "p",
+   "text": "(a) 1 − (0.25 + 0.4) = 1 − 0.65 = **0.35**. (b) 1 − 0.4 = **0.6** (check: red + green = 0.25 + 0.35 = 0.6 ✓)."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — Listing outcomes  [2 marks]\nA fair coin is flipped and a fair spinner numbered 1, 2, 3 is spun. (a) List all the possible outcomes. (b) Find the probability of getting a head and an odd number."
+  },
+  {
+   "type": "p",
+   "text": "(a) H1, H2, H3, T1, T2, T3 (6 outcomes). (b) Head and odd: H1, H3 → 2 outcomes. P = 2/6 = **1/3**.\n**Common mistake:** adding instead of combining: P(head) + P(odd) = 1/2 + 2/3 is more than 1, which is impossible here."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — Two dice  [2 marks]\nTwo fair dice are rolled and the scores are added. Find the probability that the total is more than 9."
+  },
+  {
+   "type": "p",
+   "text": "From the sample-space table: total 10 → 3 cells, 11 → 2 cells, 12 → 1 cell. 6 out of 36. P = 6/36 = **1/6**.\n**Common mistake:** using 11 possible totals (2 to 12) as if they were equally likely. They are not: there is one way to get 12 but six ways to get 7."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — Two spinners, product  [2 marks]\nSpinner A is numbered 1, 2, 3, 4. Spinner B is numbered 1, 2, 3. Both are fair. The two numbers are multiplied. Find the probability that the product is even."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "× (A down, B across)",
+    "1",
+    "2",
+    "3"
+   ],
+   "rows": [
+    [
+     "1",
+     "1",
+     "**2**",
+     "3"
+    ],
+    [
+     "2",
+     "**2**",
+     "**4**",
+     "**6**"
+    ],
+    [
+     "3",
+     "3",
+     "**6**",
+     "9"
+    ],
+    [
+     "4",
+     "**4**",
+     "**8**",
+     "**12**"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "12 outcomes, 8 even products (bold). P(even) = 8/12 = **2/3**."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** — Experiment v. theory  [3 marks]\nLeila rolls a dice 60 times and gets a six 18 times. (a) Work out the relative frequency of a six. (b) How many sixes would you expect from a fair dice in 60 rolls? (c) Leila says: “The dice is biased.” Comment on her statement."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) 18 ÷ 60 = **0.3**.",
+    "(b) 1/6 × 60 = **10** sixes.",
+    "(c) 18 is quite a lot more than 10, so the dice **might** be biased, but 60 rolls is not many and results vary by chance. She should roll it many more times (for example 600) and see if the relative frequency of a six stays well above 1/6 ≈ 0.17."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Common mistake:** deciding a dice is biased (or fair) from a small number of trials without mentioning that more trials are needed."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Writing probabilities as “1 in 6”, “1 : 6” or “6/1”. Use a fraction, decimal or percentage between 0 and 1.",
+    "Calling events complementary when they do not cover all outcomes (rain / sunny).",
+    "Missing or repeating outcomes because the list is not systematic. Use a table for two dice or two spinners.",
+    "Treating totals 2 to 12 on two dice as equally likely.",
+    "Forgetting to simplify, or simplifying wrongly (6/36 = 1/6, not 1/3).",
+    "Thinking that after several heads, tails is “due”. Independent events have no memory.",
+    "Expecting experimental results to match theory exactly, especially with few trials."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "“The probability that … is 0.38. Work out the probability that … does not …” — one quick mark: 1 − 0.38.",
+    "“Complete the table to show all the possible outcomes” then “Find the probability that …” — fill the table neatly first, then count.",
+    "“List all the possible outcomes” — be systematic; marks are lost for a missing outcome.",
+    "Experiment tables: “Work out the relative frequency”, “Which result is the most reliable? Explain” (the one with the most trials).",
+    "“Is … correct? Explain your answer.” — e.g. a claim that a dice is biased after 20 rolls.",
+    "Give answers as fractions in simplest form unless the question says otherwise; decimals are fine if exact."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Probability — practice",
+   "timed": false,
+   "intro": "13 questions from easy to Checkpoint-hard. Fractions can be typed like 5/36. For the explain questions, mark yourself with the mark scheme shown after you finish.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 25,
+     "calc": false,
+     "questions": [
+      {
+       "q": "The probability that Huda wins a game is 0.7. What is the probability that she does **not** win?",
+       "c": [
+        "0.07",
+        "0.3",
+        "1.7",
+        "0.7"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Complementary events",
+       "e": "P(not win) = 1 − 0.7 = 0.3."
+      },
+      {
+       "t": "num",
+       "q": "The probability that a bus is full is 2/9. Write the probability that the bus is **not** full, as a fraction.",
+       "ans": [
+        "7/9"
+       ],
+       "tol": 0.001,
+       "m": 1,
+       "s": "Complementary events",
+       "e": "1 − 2/9 = 9/9 − 2/9 = 7/9."
+      },
+      {
+       "t": "num",
+       "q": "A bag contains only red, blue and green beads. P(red) = 0.15 and P(blue) = 0.5. Work out P(green).",
+       "ans": [
+        0.35
+       ],
+       "tol": 0,
+       "m": 2,
+       "s": "Probabilities add to 1",
+       "e": "P(green) = 1 − (0.15 + 0.5) = 1 − 0.65 = 0.35."
+      },
+      {
+       "t": "num",
+       "q": "A fair coin is flipped and a fair six-sided dice is rolled. How many different outcomes are possible?",
+       "ans": [
+        12
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Combined events",
+       "e": "2 outcomes for the coin × 6 for the dice = 12 (H1 … H6, T1 … T6)."
+      },
+      {
+       "q": "Two coins are flipped. Which list shows **all** the possible outcomes?",
+       "c": [
+        "HH, TT",
+        "HH, HT, TT",
+        "HH, HT, TH, TT",
+        "HT, TH"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Listing outcomes",
+       "e": "First coin H with second H or T: HH, HT. First coin T with second H or T: TH, TT. HT and TH are different outcomes, so there are 4."
+      },
+      {
+       "t": "num",
+       "q": "Two fair dice are rolled. What is the probability of rolling a double (both dice show the same number)? Give your answer as a fraction in its simplest form.",
+       "ans": [
+        "1/6"
+       ],
+       "tol": 0.001,
+       "m": 2,
+       "s": "Two dice",
+       "e": "Doubles: (1,1), (2,2), (3,3), (4,4), (5,5), (6,6) — 6 out of 36. 6/36 = 1/6."
+      },
+      {
+       "t": "num",
+       "q": "Two fair dice are rolled and the scores are added. Work out the probability that the total is 8.",
+       "ans": [
+        "5/36"
+       ],
+       "tol": 0.001,
+       "m": 2,
+       "s": "Two dice",
+       "e": "Totals of 8: (2,6), (3,5), (4,4), (5,3), (6,2) — 5 outcomes out of 36. P = 5/36."
+      },
+      {
+       "t": "num",
+       "q": "Two fair spinners are each numbered 1, 2, 3. Both are spun and the numbers are added. Work out the probability that the total is 4.",
+       "ans": [
+        "1/3"
+       ],
+       "tol": 0.001,
+       "m": 2,
+       "s": "Combined events",
+       "e": "3 × 3 = 9 outcomes. Total 4: (1,3), (2,2), (3,1) — 3 outcomes. P = 3/9 = 1/3."
+      },
+      {
+       "t": "num",
+       "q": "A drawing pin is dropped 50 times. It lands point up 32 times. Work out the relative frequency of landing point up.",
+       "ans": [
+        0.64,
+        "32/50"
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Relative frequency",
+       "e": "32 ÷ 50 = 0.64."
+      },
+      {
+       "t": "num",
+       "q": "The probability that a spinner lands on red is 0.2. The spinner is spun 150 times. How many times would you expect it to land on red?",
+       "ans": [
+        30
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Expected number",
+       "e": "0.2 × 150 = 30."
+      },
+      {
+       "q": "Four students each roll the same dice to estimate P(six). Whose estimate is most reliable?",
+       "c": [
+        "Ali: 10 rolls, 3 sixes",
+        "Mona: 50 rolls, 9 sixes",
+        "Salma: 100 rolls, 20 sixes",
+        "Tarek: 1000 rolls, 171 sixes"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Number of trials",
+       "e": "The more trials, the more reliable the relative frequency. Tarek did 1000 rolls."
+      },
+      {
+       "t": "open",
+       "q": "Dina rolls a dice 30 times and gets 9 fives. She says: “I expected 5 fives, so this dice must be biased.” Is she right? Explain.",
+       "m": 2,
+       "s": "Experiment v. theory",
+       "ms": "1 mark: not necessarily / she cannot be sure. 1 mark: a reason — 30 rolls is a small number of trials; results vary by chance; she should do many more rolls (e.g. several hundred) and see whether the relative frequency of five stays far from 1/6. Do not accept “yes, because 9 is more than 5” alone.",
+       "e": "She cannot be sure. 9 out of 30 = 0.3, which is higher than 1/6 ≈ 0.17, but with only 30 rolls the results can vary a lot by chance. She should roll it many more times; if the relative frequency of five stays well above 1/6, the dice is probably biased."
+      },
+      {
+       "t": "open",
+       "q": "Sam says: “The probability it rains tomorrow is 0.4 and the probability it is sunny tomorrow is 0.6, because the two probabilities must add up to 1.” Explain what is wrong with Sam’s reasoning.",
+       "m": 1,
+       "s": "Complementary events",
+       "ms": "1 mark: rain and sunny are not complementary (they are not the only possibilities / it could be cloudy and dry / both could happen on the same day), so the probabilities need not add to 1; the complement of rain is “no rain”, with probability 0.6.",
+       "e": "Only an event and its opposite must add up to 1. The opposite of “rain” is “no rain”, so P(no rain) = 0.6. “Sunny” is not the same as “no rain” — it could be cloudy and dry, or rainy and sunny in the same day."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "P(event) = favourable outcomes ÷ total outcomes, when outcomes are equally likely.",
+    "Complementary events: P(not A) = 1 − P(A). Mutually exclusive outcomes that cover everything add up to 1.",
+    "For two events, list outcomes systematically, or use a tree or a sample-space table: total outcomes = first × second.",
+    "Relative frequency = times it happened ÷ number of trials. Expected number = probability × number of trials.",
+    "More trials → a more reliable estimate, closer to the theoretical probability. A big difference after many trials suggests bias."
+   ]
+  }
+ ]
+}
