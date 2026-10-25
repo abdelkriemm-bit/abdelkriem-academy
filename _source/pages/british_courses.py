@@ -74,6 +74,8 @@ _BR_CSS = """<style>
 def _bE(s):
     s = _bh.escape(str(s))
     s = _bre.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", s)
+    s = _bre.sub(r"\^\{(.+?)\}", r"<sup>\1</sup>", s)
+    s = _bre.sub(r"_\{(.+?)\}", r"<sub>\1</sub>", s)
     s = _bre.sub(r"(https?://[^\s<]+[^\s<.,)])", r'<a href="\1" target="_blank" rel="noopener nofollow" dir="ltr">\1</a>', s)
     s = _bre.sub(r"\(((?:sat|act|est)-[a-z0-9-]+)\.html\)", r'(<a href="\1.html">open lesson</a>)', s)
     return s
@@ -90,6 +92,12 @@ def _bblock(b):
     if t == "list":
         tag = "ol" if b.get("ordered") else "ul"
         return f"<{tag}>" + "".join(f'<li dir="auto">{_bE(i)}</li>' for i in b["items"]) + f"</{tag}>"
+    if t == "svg":
+        g = str(b.get("svg", ""))
+        if not g.lstrip().lower().startswith("<svg") or "<script" in g.lower() or _bre.search(r"\son\w+=", g):
+            return ""
+        cap = f'<figcaption>{_bE(b["caption"])}</figcaption>' if b.get("caption") else ""
+        return f'<figure class="dia">{g}{cap}</figure>'
     if t == "table":
         h = "".join(f"<th>{_bE(x)}</th>" for x in b.get("headers", []))
         r = "".join("<tr>" + "".join(f'<td dir="auto">{_bE(c)}</td>' for c in row) + "</tr>" for row in b.get("rows", []))

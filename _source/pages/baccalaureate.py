@@ -173,4 +173,4 @@ bac2 = BAC_CSS + '''<section class="phead"><div class="wrap"><p class="kicker">�
 
 page("baccalaureate.html", "تانية بكالوريا English — المنهج متقسم على 7 مهارات | Abdelkriem Academy",
      "منهج English تانية بكالوريا مصرية متقسم على 7 مهارات: Grammar وVocabulary وReading وListening وSpeaking وWriting وLiterature، مع خريطة الـ 10 Units.",
-     bac2, rtl=True)
+     bac2, "egyptian-baccalaureate.html", rtl=True)

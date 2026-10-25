@@ -21,3 +21,16 @@
 @media (max-width:760px){.pt-body.two{grid-template-columns:minmax(0,1fr)}.pt-pass{max-height:none}}
 
 .pt-blank{display:inline-block;min-width:4.5em;border-bottom:2px solid currentColor;margin:0 .15em;vertical-align:baseline}
+.pt-pass.stem{max-height:none}
+.pt-img{margin:.4rem 0 .8rem;text-align:center}.pt-img svg{max-width:100%;height:auto;background:#fff;border:1px solid #e6e0d2;border-radius:8px}
+.pt-in{display:flex;align-items:center;gap:.5rem;flex-wrap:wrap}
+.pt-tx{font:inherit;font-size:1.05rem;border:1px solid #9a927e;border-radius:8px;padding:.55rem .7rem;width:min(16rem,100%)}
+.pt-ta{font:inherit;border:1px solid #9a927e;border-radius:8px;padding:.6rem;width:100%;resize:vertical}
+.pt-tx:focus,.pt-ta:focus{outline:2px solid #0f1b33;outline-offset:1px}
+.pt-unit{font-weight:600}.pt-hint{display:block;opacity:.7;margin-top:.4rem}
+.pt-pdf a{font-weight:600}
+.pt-rev>li.op{border-left:5px solid #c79a2b}
+.pt-yours{margin:.3rem 0}.pt-right{margin:.3rem 0;color:#1b5e20}
+.pt-ms{background:#fff8e6;border-radius:8px;padding:.6rem;margin-top:.4rem}
+.pt-self{margin:.5rem 0}.pt-sm{font:inherit;min-width:2.2rem;height:2.1rem;margin-right:.3rem;border:1px solid #0f1b33;border-radius:6px;background:#fff;cursor:pointer}.pt-sm.on{background:#0f1b33;color:#fff}
+.pt-warn2{background:#fff4d6;border-radius:8px;padding:.6rem;font-weight:600}

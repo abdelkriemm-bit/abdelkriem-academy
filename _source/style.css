@@ -33,7 +33,7 @@ html[dir=rtl] .kicker{letter-spacing:0;font-size:.95rem}
 .top nav a:hover{background:rgba(255,255,255,.08);color:#fff}
 .top nav a.on{background:var(--gold);color:var(--navy);font-weight:600}
 .menu{display:none;background:none;border:1px solid rgba(255,255,255,.25);color:#fff;border-radius:10px;font-size:1.2rem;padding:6px 12px;cursor:pointer}
-@media (max-width:1120px){
+@media (max-width:1180px){
   .menu{display:block}
   .top nav{display:none;position:absolute;top:68px;left:0;right:0;background:var(--navy);flex-direction:column;padding:12px 20px 20px}
   .nav-open .top nav{display:flex}
@@ -136,3 +136,4 @@ html[dir=rtl] .tag{letter-spacing:0}
 /* readable gold text on light backgrounds (contrast) */
 .tag,.card .go,.weeks .wn{color:#7f5c1c}
 .banner{height:auto}
+.dia{margin:1.2rem auto;text-align:center}.dia svg{max-width:100%;height:auto;background:#fff;border:1px solid #e6e0d2;border-radius:10px}.dia figcaption{font-size:.9rem;color:#5b6170;margin-top:.4rem}

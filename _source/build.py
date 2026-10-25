@@ -8,7 +8,7 @@ PL = {
  "parents": "PLZn-QO9NSjZSQsQLpm2O2QVnymKTOJ-hD", "tips": "PLZn-QO9NSjZQhhfkg0HBadGcs9Kfn0IRv",
  "ielts": "PLZn-QO9NSjZSuQZSRDvkmDOOnINQqF56t", "situations": "PLZn-QO9NSjZTVogFkUdSRhjTNpm7PjPLX",
 }
-NAV = [("index.html","Home","الرئيسية"),("british.html","British &amp; IGCSE",""),("american.html","American Diploma",""),("baccalaureate.html","تانية بكالوريا",""),
+NAV = [("index.html","Home","الرئيسية"),("british.html","British &amp; IGCSE",""),("american.html","American Diploma",""),("egyptian-baccalaureate.html","Egyptian Baccalaureate",""),
        ("quran.html","Quran",""),("improve-english.html","English from Zero",""),("about.html","About","")]
 
 def head(title, desc, rtl=False):
@@ -27,7 +27,7 @@ def head(title, desc, rtl=False):
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;800&family=Fraunces:opsz,wght@9..144,600;9..144,800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css?v=20261025">
+<link rel="stylesheet" href="style.css?v=20261025b">
 <meta name="google-adsense-account" content="ca-pub-8885402561273130">
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8885402561273130" crossorigin="anonymous"></script>
 </head>
@@ -44,7 +44,7 @@ def header(active):
 
 FOOT = f'''<footer class="foot" dir="ltr"><div class="wrap fgrid">
 <div><b>Abdelkriem Academy</b><p>Free educational resources for students and parents — Cambridge and Oxford English, the Egyptian Baccalaureate, Quran and more — by Mohamed Abdelkriem.</p></div>
-<div><b>Sections</b><a href="british.html">British &amp; IGCSE</a><a href="american.html">American Diploma · SAT · ACT · EST</a><a href="baccalaureate.html">تانية بكالوريا English</a><a href="quran.html">Quran · حفظ القرآن</a><a href="improve-english.html">English · من الصفر للاحتراف</a></div>
+<div><b>Sections</b><a href="british.html">British &amp; IGCSE</a><a href="american.html">American Diploma · SAT · ACT · EST</a><a href="egyptian-baccalaureate.html">Egyptian Baccalaureate · البكالوريا المصرية</a><a href="quran.html">Quran · حفظ القرآن</a><a href="improve-english.html">English · من الصفر للاحتراف</a></div>
 <div><b>Academy</b><a href="about.html">About</a><a href="contact.html">Contact</a><a href="privacy.html">Privacy Policy</a><a href="terms.html">Terms of Use</a></div>
 <div><b>Follow</b><a href="{YT}" target="_blank" rel="noopener">YouTube</a><a href="https://www.facebook.com/" target="_blank" rel="noopener">Facebook</a><a href="https://www.tiktok.com/" target="_blank" rel="noopener">TikTok</a></div>
 </div><p class="copy">© 2026 Abdelkriem Academy · No English exam left standing.</p></footer>
@@ -71,7 +71,7 @@ def pagehead(kicker, title, sub):
 # ---------- HOME ----------
 COURSES = [
  ("English Course: From Zero","Beginner English in 12 weeks, 30 minutes a day, with Arabic explanations — words, sentences, grammar and exercises with answers.","english-in-90-days.html","طوّر الإنجليزي من الصفر"),
- ("تانية بكالوريا English","92 lessons covering the whole Ministry curriculum, explained in simple English and Arabic: grammar, vocabulary, reading, listening, speaking, writing and The Lost World chapter by chapter.","baccalaureate.html","Egyptian Baccalaureate"),
+ ("Egyptian Baccalaureate: English","تانية بكالوريا English — 92 lessons covering the whole Ministry curriculum, explained in simple English and Arabic: grammar, vocabulary, reading, listening, speaking, writing and The Lost World chapter by chapter.","baccalaureate.html","البكالوريا المصرية"),
  ("Checkpoint 8 English","48 lessons: every grammar, punctuation and reading topic, plus a writing pack for every fiction and non-fiction genre with strong 350+ word samples.","checkpoint-8.html","Cambridge 0861"),
  ("Checkpoint 6 English","43 lessons for Year 6: grammar, punctuation and reading skills, and a writing pack for every fiction and non-fiction genre with model samples.","checkpoint-6.html","Cambridge Primary 0058"),
  ("IGCSE English 0510","The complete course: the exam explained, Exercises 1-6 step by step, a pack for every writing genre, listening and speaking, with full-mark models.","year-9-0510.html","Cambridge IGCSE"),

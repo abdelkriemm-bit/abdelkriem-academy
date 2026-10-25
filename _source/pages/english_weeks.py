@@ -87,11 +87,24 @@ def _week_page(d, total_pages):
     gparts += [_table(t) for t in g.get("tables", [])]
     gparts += [f'<p>{_E(x)}</p>' for x in g.get("notes", [])]
     exs = ""
-    for ex in d.get("exercises", []):
+    _l1ex = []
+    for _xi, ex in enumerate(d.get("exercises", [])):
+        _its = [_r1.sub(r"^\s*\d+[.)]\s*", "", i) for i in ex.get("items", [])]
         items = "".join(f"<li dir=\"auto\">{_E(i)}</li>" for i in ex.get("items", []))
         a = _answers(n, ex.get("title", ""))
+        _parsed = {}
+        if a:
+            for _pp in _r1.split(r"\s·\s", a.strip()):
+                _m = _r1.match(r"^(\d+)\)\s*(.*)$", _pp.strip())
+                if _m: _parsed[int(_m.group(1))] = [x.strip() for x in _m.group(2).split(" / ")]
+        _alist = [_parsed.get(k + 1) for k in range(len(_its))] if len(_parsed) == len(_its) else None
+        _mode = "open" if _alist and any(len(x.split()) > 3 for al in _alist if al for x in al) else "closed"
+        _l1ex.append({"answers": _alist, "mode": _mode, "strict": "short form" in (ex.get("title","") + ex.get("instructions","")).lower()})
         ans = f'<details><summary>Show the answers</summary><div class="ans">{_E(a)}</div></details>' if a else ""
-        exs += f'<div class="ex"><h3>{_E(ex.get("title",""))}</h3><ol>{items}</ol>{ans}</div>'
+        exs += f'<div class="ex" data-ex="{_xi}"><h3>{_E(ex.get("title",""))}</h3><ol>{items}</ol>{ans}</div>'
+    _l1data = _json.dumps({"week": n, "words": [w for s_ in d.get("word_sets", []) for w in s_["words"]], "sentences": d.get("sentences", []), "exercises": _l1ex}, ensure_ascii=False).replace("</", "<\\/")
+    _l1 = f'<script type="application/json" id="l1-data">{_l1data}</script><style>{open(_os.path.join(_CDIR, "l1_practice.css"), encoding="utf-8").read()}</style>'
+    _l1js = f'<script>{open(_os.path.join(_CDIR, "l1_practice.js"), encoding="utf-8").read()}</script>'
     ws = f'<div class="wk-sec"><h2>Write &amp; Speak · اكتب واتكلم</h2><p class="arhint" dir="rtl" lang="ar">اكتب الموضوع في الكشكول بنفسك، وبص على المثال لو احتجت، وبعدين اقراه بصوت عالي أو سجّل نفسك.</p><div class="ws">{_E(d["write_speak"])}</div></div>' if d.get("write_speak") else ""
     other = "".join(f'<p class="note">{_E(o)}</p>' for o in d.get("other", []))
     prev_link = f'<a href="english-week-{n-1}.html">← Week {n-1}</a>' if n > 1 else '<a href="english-in-90-days.html">← Course overview</a>'
@@ -104,32 +117,59 @@ def _week_page(d, total_pages):
 <div class="wk-sec" id="words"><h2>30 words to learn · كلمات الأسبوع</h2><p class="arhint" dir="rtl" lang="ar">احفظ مجموعة واحدة (6 كلمات) كل يوم. قول كل كلمة بصوت عالي واكتبها في الكشكول. دوس الزرار عشان تخفي العربي وتختبر نفسك.</p><button class="toggle" type="button" data-toggle-ar="words" aria-pressed="false">Hide the Arabic (test yourself)</button><div class="sets">{sets}</div></div>
 <div class="wk-sec" id="sents"><h2>10 sentences to memorise · جمل تحفظها</h2><p class="arhint" dir="rtl" lang="ar">احفظ جملتين كل يوم، وقول كل جملة بصوت عالي 5 مرات لحد ما تطلع منك لوحدها.</p><button class="toggle" type="button" data-toggle-ar="sents" aria-pressed="false">Hide the Arabic (test yourself)</button><ol class="sents">{sents}</ol></div>
 <div class="wk-sec"><h2>{_E(d.get("grammar_title","Grammar"))}</h2><p class="arhint" dir="rtl" lang="ar">اقرا الشرح بالعربي الأول، وبعدين بص على الجدول والأمثلة. لو مش فاهم، اسمع درس الجرامر اللي في خطة الأسبوع.</p><div class="gbox">{"".join(gparts)}</div></div>
-<div class="wk-sec"><h2>Exercises · تمارين</h2><p class="arhint" dir="rtl" lang="ar">حل كل تمرين في يومه بالقلم الرصاص، وبعدين دوس «Show the answers» وصحّح لنفسك. اكتب أخطاءك في الكشكول وراجعها في اليوم السادس.</p>{exs}<p class="note">Do each exercise in pencil first, then open the answers to check.</p></div>
+<div class="wk-sec" id="practise"><h2>Practise online · اتمرن هنا على الموقع</h2><p class="arhint" dir="rtl" lang="ar">اتمرن على كلمات وجمل الأسبوع هنا: بطاقات بالصوت، واختبار سريع للكلمات، ورتّب الجملة، واسمع واكتب. اعمل كل نشاط أكتر من مرة لحد ما تجيب الدرجة كاملة.</p>{_l1}<div id="l1-practice"></div></div>
+<div class="wk-sec"><h2>Exercises · تمارين</h2><p class="arhint" dir="rtl" lang="ar">اكتب إجابتك في المربع تحت كل سؤال ودوس «صحّح»، والموقع هيقولك الصح والغلط. تقدر برضه تحلها في الكشكول وتفتح «Show the answers». اكتب أخطاءك وراجعها في اليوم السادس.</p>{exs}<p class="note">Do each exercise in pencil first, then open the answers to check.</p></div>
 {ws}{other}
 <nav class="wk-nav" aria-label="Weeks">{prev_link}{next_link}</nav>
-</div></section>''' + _TOGGLE_JS
+</div></section>''' + _TOGGLE_JS + _l1js
     page(f"english-week-{n}.html", f"Week {n}: {d['title']} — English Course: From Zero | Abdelkriem Academy",
          f"Free beginner English, week {n}: {d['title']}. 30 words with Arabic, 10 key sentences, {d.get('grammar_title','grammar')}, exercises with answers.",
          body, "improve-english.html")
     EXTRA_PAGES.append(f"english-week-{n}.html")
 
 def _check_page(n, d):
+    import re as _r2
     secs = ""
-    for s in d.get("sections", []):
+    a = (_KEY.get("progress_checks") or {}).get(str(n))
+    a = (a if isinstance(a, str) else "\n".join(map(str, a))) if a else ""
+    keys = {}
+    for line in a.split("\n"):
+        m = _r2.match(r"^([A-Z]):\s*(.*)$", line.strip())
+        if m: keys[m.group(1)] = m.group(2)
+    exl = []
+    for xi, s in enumerate(d.get("sections", [])):
         items = "".join(f"<li>{_E(i)}</li>" for i in s.get("items", []))
         ins = f'<p>{_E(s["instructions"])}</p>' if s.get("instructions") else ""
-        secs += f'<div class="ex"><h3>{_E(s.get("title",""))}</h3>{ins}<ol>{items}</ol></div>'
-    a = (_KEY.get("progress_checks") or {}).get(str(n))
+        letter = (s.get("title", "") or " ")[0]
+        k = keys.get(letter)
+        ans = None; mode = "closed"
+        if k:
+            parts = {}
+            for pp in _r2.split(r"\s·\s", k):
+                m = _r2.match(r"^(\d+)\)\s*(.*)$", pp.strip())
+                if m: parts[int(m.group(1))] = m.group(2).strip()
+            if len(parts) == len(s.get("items", [])):
+                if "translate" in s.get("title", "").lower():
+                    mode = "open"; ans = [[parts[i + 1]] for i in range(len(parts))]
+                elif "arabic" in s.get("title", "").lower():
+                    mode = "open"; ans = [[parts[i + 1].split("=", 1)[-1].strip()] for i in range(len(parts))]
+                else:
+                    ans = [[x.strip() for x in parts[i + 1].split(" / ")] for i in range(len(parts))]
+        exl.append({"answers": ans, "mode": mode, "strict": False})
+        if "tick" in s.get("title", "").lower():
+            items = "".join(f'<li><label style="display:flex;gap:10px;align-items:center;cursor:pointer"><input type="checkbox" style="width:22px;height:22px">{_E(i.lstrip("☐ ").strip())}</label></li>' for i in s.get("items", []))
+        secs += f'<div class="ex" data-ex="{xi}"><h3>{_E(s.get("title",""))}</h3>{ins}<ol>{items}</ol></div>'
     if a:
-        a = a if isinstance(a, str) else "\n".join(map(str, a))
-        secs += f'<div class="ex"><details><summary>Show the answers</summary><div class="ans">{_E(a)}</div></details></div>'
+        secs += f'<p id="l1-total" class="note" style="font-size:1.1rem"></p><div class="ex"><details><summary>Show all the answers</summary><div class="ans">{_E(a)}</div></details></div>'
+    _d = _json.dumps({"week": f"check{n}", "words": [], "sentences": [], "exercises": exl}, ensure_ascii=False).replace("</", "<\\/")
+    secs = f'<script type="application/json" id="l1-data">{_d}</script><style>{open(_os.path.join(_CDIR, "l1_practice.css"), encoding="utf-8").read()}</style><p class="arhint" dir="rtl" lang="ar">اكتب إجابتك في المربعات ودوس «صحّح» تحت كل جزء. في الترجمة ومعاني الكلمات، لو إجابتك نفس معنى الإجابة النموذجية دوس «Mine is correct».</p>' + secs
     nxt = f'<a href="english-week-{n*4+1}.html">Week {n*4+1} →</a>' if n < 3 else '<a href="english-in-90-days.html">Course overview →</a>'
     body = AR_HINT_CSS + _WEEK_CSS + pagehead(f"English Course: From Zero · Weeks {n*4-3}–{n*4}", _E(d.get("title", f"Progress Check {n}")), _E(d.get("subtitle", "20 marks · no help · 20 minutes"))) + f'''
 <section class="block"><div class="wrap">
 <p class="note">Score 16/20 or more to move on. If not, repeat the sentences of these weeks for 3 days and try again.</p>
 {secs}
 <nav class="wk-nav"><a href="english-week-{n*4}.html">← Week {n*4}</a>{nxt}</nav>
-</div></section>'''
+</div></section>''' + f'<script>{open(_os.path.join(_CDIR, "l1_practice.js"), encoding="utf-8").read()}</script>'
     page(f"english-progress-check-{n}.html", f"Progress Check {n} — English Course: From Zero | Abdelkriem Academy",
          f"Progress Check {n} for the free English Course: From Zero: test weeks {n*4-3}–{n*4} in 20 minutes.", body, "improve-english.html")
     EXTRA_PAGES.append(f"english-progress-check-{n}.html")
