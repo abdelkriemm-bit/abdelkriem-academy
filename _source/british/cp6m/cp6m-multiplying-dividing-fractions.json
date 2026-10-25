@@ -1,0 +1,597 @@
+{
+ "slug": "cp6m-multiplying-dividing-fractions",
+ "title": "Multiplying and Dividing Fractions by Whole Numbers",
+ "kicker": "Checkpoint 6 Maths · Number · Fractions",
+ "summary": "Learn how to estimate, multiply and divide proper fractions by whole numbers, with diagrams that show why the rules work, worked Checkpoint-style examples and a 14-question practice quiz.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Estimate the answer, then multiply a proper fraction by a whole number, e.g. 3/4 × 5 (6Nf.06)",
+    "Estimate the answer, then divide a proper fraction by a whole number, e.g. 3/4 ÷ 2 (6Nf.06)",
+    "Write answers in simplest form and as mixed numbers when the answer is bigger than 1 — skills from Simplest Form (6Nf.03) that Checkpoint expects you to use here"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "In this lesson you learn two short rules — one for multiplying and one for dividing — and, more importantly, **why** they work. A proper fraction is a fraction smaller than 1, like 3/4 or 2/7. Here we only multiply or divide it by a **whole number** (2, 3, 12 …). Checkpoint tests this on Paper 1 (no calculator), so you must be able to do it by hand quickly and check your answer with an estimate."
+  },
+  {
+   "type": "h2",
+   "text": "Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "numerator",
+     "البسط — the top number; it counts how many parts you have"
+    ],
+    [
+     "denominator",
+     "المقام — the bottom number; it tells you the size of each part (how many equal parts make 1 whole)"
+    ],
+    [
+     "proper fraction",
+     "كسر حقيقي — numerator smaller than denominator, e.g. 5/8 (less than 1)"
+    ],
+    [
+     "improper fraction",
+     "كسر غير حقيقي — numerator equal to or bigger than denominator, e.g. 15/4 (1 or more)"
+    ],
+    [
+     "mixed number",
+     "عدد كسري — a whole number and a fraction together, e.g. 3 3/4"
+    ],
+    [
+     "simplest form",
+     "أبسط صورة — numerator and denominator have no common factor except 1, e.g. 6/8 → 3/4"
+    ],
+    [
+     "product",
+     "حاصل الضرب — the answer to a multiplication"
+    ],
+    [
+     "quotient",
+     "خارج القسمة — the answer to a division"
+    ],
+    [
+     "estimate",
+     "تقدير — a quick, rounded answer to check that the real answer is sensible"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. Multiplying a fraction by a whole number"
+  },
+  {
+   "type": "p",
+   "text": "Multiplication is **repeated addition**. 2/7 × 3 means 'three lots of 2/7': 2/7 + 2/7 + 2/7. The parts are all sevenths, so you just count the sevenths: 2 + 2 + 2 = 6 sevenths."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 170\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\"><rect x=\"20\" y=\"30\" width=\"20\" height=\"30\" fill=\"#bcd3f2\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"40\" y=\"30\" width=\"20\" height=\"30\" fill=\"#bcd3f2\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"60\" y=\"30\" width=\"20\" height=\"30\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"80\" y=\"30\" width=\"20\" height=\"30\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"100\" y=\"30\" width=\"20\" height=\"30\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"120\" y=\"30\" width=\"20\" height=\"30\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"140\" y=\"30\" width=\"20\" height=\"30\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"90\" y=\"84\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">2</text><line x1=\"83.66\" y1=\"88\" x2=\"96.34\" y2=\"88\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"90\" y=\"103\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">7</text><rect x=\"200\" y=\"30\" width=\"20\" height=\"30\" fill=\"#ffd98a\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"220\" y=\"30\" width=\"20\" height=\"30\" fill=\"#ffd98a\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"240\" y=\"30\" width=\"20\" height=\"30\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"260\" y=\"30\" width=\"20\" height=\"30\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"280\" y=\"30\" width=\"20\" height=\"30\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"300\" y=\"30\" width=\"20\" height=\"30\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"320\" y=\"30\" width=\"20\" height=\"30\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"270\" y=\"84\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">2</text><line x1=\"263.66\" y1=\"88\" x2=\"276.34\" y2=\"88\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"270\" y=\"103\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">7</text><rect x=\"380\" y=\"30\" width=\"20\" height=\"30\" fill=\"#b9e3bf\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"400\" y=\"30\" width=\"20\" height=\"30\" fill=\"#b9e3bf\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"420\" y=\"30\" width=\"20\" height=\"30\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"440\" y=\"30\" width=\"20\" height=\"30\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"460\" y=\"30\" width=\"20\" height=\"30\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"480\" y=\"30\" width=\"20\" height=\"30\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"500\" y=\"30\" width=\"20\" height=\"30\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"450\" y=\"84\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">2</text><line x1=\"443.66\" y1=\"88\" x2=\"456.34\" y2=\"88\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"450\" y=\"103\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">7</text><text x=\"180\" y=\"52\" text-anchor=\"middle\" font-size=\"20\" fill=\"#0f1b33\">+</text><text x=\"360\" y=\"52\" text-anchor=\"middle\" font-size=\"20\" fill=\"#0f1b33\">+</text><text x=\"175\" y=\"143\" text-anchor=\"middle\" font-size=\"20\" fill=\"#0f1b33\">=</text><rect x=\"200\" y=\"120\" width=\"20\" height=\"30\" fill=\"#bcd3f2\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"220\" y=\"120\" width=\"20\" height=\"30\" fill=\"#bcd3f2\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"240\" y=\"120\" width=\"20\" height=\"30\" fill=\"#ffd98a\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"260\" y=\"120\" width=\"20\" height=\"30\" fill=\"#ffd98a\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"280\" y=\"120\" width=\"20\" height=\"30\" fill=\"#b9e3bf\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"300\" y=\"120\" width=\"20\" height=\"30\" fill=\"#b9e3bf\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"320\" y=\"120\" width=\"20\" height=\"30\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"375\" y=\"131\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">6</text><line x1=\"368.66\" y1=\"135\" x2=\"381.34\" y2=\"135\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"375\" y=\"150\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">7</text><text x=\"420\" y=\"141\" text-anchor=\"start\" font-size=\"14\" fill=\"#0f1b33\">(6 sevenths)</text></svg>",
+   "caption": "2/7 × 3 = 2/7 + 2/7 + 2/7 = 6/7. The size of the parts (sevenths) does not change — only the number of parts does."
+  },
+  {
+   "type": "p",
+   "text": "So the rule is: **multiply the numerator by the whole number and keep the denominator the same.** The denominator only names the size of the pieces, and multiplying does not change the size of the pieces."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "**Estimate** first: is the fraction near 0, near 1/2 or near 1? (see section 3)",
+    "Multiply the **numerator** by the whole number. Keep the **denominator**.",
+    "If the answer is an improper fraction, change it to a **mixed number**: divide the numerator by the denominator; the remainder is the new numerator.",
+    "Write the fraction part in its **simplest form**.",
+    "Compare with your estimate."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Here is a bigger example on a number line: 3/4 × 5 is five jumps of 3/4."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 175\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\"><defs><marker id=\"ah\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#0f1b33\"/></marker></defs><line x1=\"30\" y1=\"110\" x2=\"510\" y2=\"110\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"30\" y1=\"101\" x2=\"30\" y2=\"119\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"30\" y=\"138\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">0</text><line x1=\"60\" y1=\"105\" x2=\"60\" y2=\"115\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"90\" y1=\"105\" x2=\"90\" y2=\"115\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"120\" y1=\"105\" x2=\"120\" y2=\"115\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"150\" y1=\"101\" x2=\"150\" y2=\"119\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"150\" y=\"138\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">1</text><line x1=\"180\" y1=\"105\" x2=\"180\" y2=\"115\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"210\" y1=\"105\" x2=\"210\" y2=\"115\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"240\" y1=\"105\" x2=\"240\" y2=\"115\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"270\" y1=\"101\" x2=\"270\" y2=\"119\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"270\" y=\"138\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">2</text><line x1=\"300\" y1=\"105\" x2=\"300\" y2=\"115\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"330\" y1=\"105\" x2=\"330\" y2=\"115\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"360\" y1=\"105\" x2=\"360\" y2=\"115\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"390\" y1=\"101\" x2=\"390\" y2=\"119\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"390\" y=\"138\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">3</text><line x1=\"420\" y1=\"105\" x2=\"420\" y2=\"115\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"450\" y1=\"105\" x2=\"450\" y2=\"115\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"480\" y1=\"105\" x2=\"480\" y2=\"115\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"510\" y1=\"101\" x2=\"510\" y2=\"119\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"510\" y=\"138\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">4</text><path d=\"M32,107 Q75,63 118,107\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\" marker-end=\"url(#ah)\"/><text x=\"75\" y=\"58\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">3</text><line x1=\"68.97\" y1=\"62\" x2=\"81.03\" y2=\"62\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"75\" y=\"76\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">4</text><path d=\"M122,107 Q165,63 208,107\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\" marker-end=\"url(#ah)\"/><text x=\"165\" y=\"58\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">3</text><line x1=\"158.97\" y1=\"62\" x2=\"171.03\" y2=\"62\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"165\" y=\"76\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">4</text><path d=\"M212,107 Q255,63 298,107\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\" marker-end=\"url(#ah)\"/><text x=\"255\" y=\"58\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">3</text><line x1=\"248.97\" y1=\"62\" x2=\"261.03\" y2=\"62\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"255\" y=\"76\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">4</text><path d=\"M302,107 Q345,63 388,107\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\" marker-end=\"url(#ah)\"/><text x=\"345\" y=\"58\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">3</text><line x1=\"338.97\" y1=\"62\" x2=\"351.03\" y2=\"62\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"345\" y=\"76\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">4</text><path d=\"M392,107 Q435,63 478,107\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\" marker-end=\"url(#ah)\"/><text x=\"435\" y=\"58\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">3</text><line x1=\"428.97\" y1=\"62\" x2=\"441.03\" y2=\"62\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"435\" y=\"76\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">4</text><circle cx=\"480\" cy=\"110\" r=\"5\" fill=\"#ffd98a\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"480\" y=\"162\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">15/4 = 3 3/4</text><text x=\"480\" y=\"144\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">↑</text></svg>",
+   "caption": "Five jumps of 3/4 land on 15/4. 15 ÷ 4 = 3 remainder 3, so 15/4 = 3 3/4."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Calculation",
+    "Multiply the numerator",
+    "Change / simplify",
+    "Answer"
+   ],
+   "rows": [
+    [
+     "2/9 × 4",
+     "8/9",
+     "already proper and simplest",
+     "8/9"
+    ],
+    [
+     "3/4 × 5",
+     "15/4",
+     "15 ÷ 4 = 3 r 3",
+     "3 3/4"
+    ],
+    [
+     "3/8 × 6",
+     "18/8",
+     "18/8 = 9/4; 9 ÷ 4 = 2 r 1",
+     "2 1/4"
+    ],
+    [
+     "2/3 × 12",
+     "24/3",
+     "24 ÷ 3 = 8 exactly",
+     "8"
+    ],
+    [
+     "5/6 × 4",
+     "20/6",
+     "20/6 = 10/3; 10 ÷ 3 = 3 r 1",
+     "3 1/3"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Order does not matter",
+   "text": "3 × 2/5 and 2/5 × 3 give the same answer (6/5), just like 3 × 4 = 4 × 3. Also, 2/3 × 12 is the same as '2/3 of 12' — you can find 1/3 of 12 (= 4) and double it (= 8). Use whichever way is easier."
+  },
+  {
+   "type": "h2",
+   "text": "2. Dividing a fraction by a whole number"
+  },
+  {
+   "type": "p",
+   "text": "Division is **sharing into equal groups**. 4/5 ÷ 2 means 'share 4 fifths between 2'. Each group gets 2 fifths."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 122\" width=\"440\" font-family=\"Arial, sans-serif\" font-size=\"14\"><rect x=\"20\" y=\"30\" width=\"80\" height=\"40\" fill=\"#bcd3f2\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"60\" y=\"56\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">1/5</text><rect x=\"100\" y=\"30\" width=\"80\" height=\"40\" fill=\"#bcd3f2\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"140\" y=\"56\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">1/5</text><rect x=\"180\" y=\"30\" width=\"80\" height=\"40\" fill=\"#ffd98a\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"220\" y=\"56\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">1/5</text><rect x=\"260\" y=\"30\" width=\"80\" height=\"40\" fill=\"#ffd98a\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"300\" y=\"56\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">1/5</text><rect x=\"340\" y=\"30\" width=\"80\" height=\"40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"380\" y=\"56\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">1/5</text><path d=\"M22,78 L22,86 L178,86 L178,78\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M182,78 L182,86 L338,86 L338,78\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"100\" y=\"108\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">group 1: 2/5</text><text x=\"260\" y=\"108\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">group 2: 2/5</text></svg>",
+   "caption": "4/5 ÷ 2 = 2/5: four fifths shared equally into 2 groups gives 2 fifths in each group."
+  },
+  {
+   "type": "p",
+   "text": "**Case A — the numerator divides exactly:** divide the numerator and keep the denominator. 4/5 ÷ 2 = 2/5, 9/10 ÷ 3 = 3/10, 8/9 ÷ 4 = 2/9."
+  },
+  {
+   "type": "p",
+   "text": "**Case B — the numerator does not divide exactly** (for example 3/4 ÷ 2: you cannot share 3 quarters equally into 2 groups of whole quarters). Cut every part into 2 smaller equal parts. Quarters become eighths, and each group gets 3 eighths."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 520 172\" width=\"520\" font-family=\"Arial, sans-serif\" font-size=\"14\"><defs><marker id=\"ah\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#0f1b33\"/></marker></defs><text x=\"120\" y=\"26\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">3/4 is shaded</text><rect x=\"20\" y=\"40\" width=\"50\" height=\"100\" fill=\"#bcd3f2\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"70\" y=\"40\" width=\"50\" height=\"100\" fill=\"#bcd3f2\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"120\" y=\"40\" width=\"50\" height=\"100\" fill=\"#bcd3f2\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"170\" y=\"40\" width=\"50\" height=\"100\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"232\" y1=\"90\" x2=\"290\" y2=\"90\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M282,84 L292,90 L282,96 z\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"261\" y=\"80\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">÷ 2</text><text x=\"400\" y=\"26\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">3/4 ÷ 2 = 3/8</text><rect x=\"300\" y=\"40\" width=\"50\" height=\"50\" fill=\"#ffd98a\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"350\" y=\"40\" width=\"50\" height=\"50\" fill=\"#ffd98a\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"400\" y=\"40\" width=\"50\" height=\"50\" fill=\"#ffd98a\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"450\" y=\"40\" width=\"50\" height=\"50\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"300\" y=\"90\" width=\"50\" height=\"50\" fill=\"#bcd3f2\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"350\" y=\"90\" width=\"50\" height=\"50\" fill=\"#bcd3f2\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"400\" y=\"90\" width=\"50\" height=\"50\" fill=\"#bcd3f2\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"450\" y=\"90\" width=\"50\" height=\"50\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"400\" y=\"160\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">8 equal parts — 3 of them are yellow</text></svg>",
+   "caption": "Cutting each quarter in half makes 8 equal parts (eighths). Half of the shaded 3/4 is 3 of those eighths: 3/4 ÷ 2 = 3/8."
+  },
+  {
+   "type": "p",
+   "text": "So the general rule is: **keep the numerator and multiply the denominator by the whole number.** This rule always works — even in Case A. For example 4/5 ÷ 2 = 4/10, and 4/10 simplifies to 2/5, the same answer as before."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "**Estimate**: the answer must be **smaller** than the fraction you started with.",
+    "If the numerator divides exactly by the whole number, divide it and keep the denominator.",
+    "Otherwise, keep the numerator and **multiply the denominator** by the whole number.",
+    "Simplify if you can.",
+    "Check by multiplying back: answer × whole number should give the starting fraction."
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Calculation",
+    "Method",
+    "Answer",
+    "Check (multiply back)"
+   ],
+   "rows": [
+    [
+     "9/10 ÷ 3",
+     "9 ÷ 3 = 3, keep 10",
+     "3/10",
+     "3/10 × 3 = 9/10 ✓"
+    ],
+    [
+     "3/4 ÷ 2",
+     "keep 3, 4 × 2 = 8",
+     "3/8",
+     "3/8 × 2 = 6/8 = 3/4 ✓"
+    ],
+    [
+     "2/3 ÷ 5",
+     "keep 2, 3 × 5 = 15",
+     "2/15",
+     "2/15 × 5 = 10/15 = 2/3 ✓"
+    ],
+    [
+     "4/7 ÷ 6",
+     "keep 4, 7 × 6 = 42 → 4/42",
+     "2/21",
+     "2/21 × 6 = 12/21 = 4/7 ✓"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Dividing by 3 is the same as finding one third",
+   "text": "3/4 ÷ 3 is the same as 1/3 of 3/4. Dividing by 2 is halving, dividing by 4 is finding a quarter. Word problems often say 'half of', 'a third of' or 'shared equally between' — all of these mean divide."
+  },
+  {
+   "type": "h2",
+   "text": "3. Estimating before you calculate"
+  },
+  {
+   "type": "p",
+   "text": "The curriculum asks you to **estimate** as well as calculate. Compare the fraction with the 'friendly' fractions 0, 1/2 and 1. A fraction is near 1/2 when the numerator is about half of the denominator (4/9, 5/9), and near 1 when the numerator is almost as big as the denominator (7/8, 9/10)."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Calculation",
+    "Think",
+    "Estimate",
+    "Exact answer"
+   ],
+   "rows": [
+    [
+     "7/8 × 11",
+     "7/8 is nearly 1, so a little less than 11",
+     "about 10",
+     "77/8 = 9 5/8"
+    ],
+    [
+     "5/9 × 8",
+     "5/9 is just over 1/2, so just over 4",
+     "about 4 or 5",
+     "40/9 = 4 4/9"
+    ],
+    [
+     "1/10 × 30",
+     "1/10 is small: one tenth of 30",
+     "3",
+     "30/10 = 3"
+    ],
+    [
+     "4/5 ÷ 4",
+     "the answer must be less than 4/5, about a quarter of it",
+     "about 1/5",
+     "1/5"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "proper fraction × whole number → the answer is **smaller than the whole number** (you take only part of it each time).",
+    "proper fraction ÷ whole number → the answer is **smaller than the fraction** you started with.",
+    "If your answer breaks one of these facts, check your working again."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "القاعدة اللي لازم تحفظها",
+   "text": "في الضرب: اضرب البسط بس في العدد الصحيح والمقام زي ما هو (لأن حجم الجزء ماتغيرش، عدد الأجزاء بس اللي زاد). مثال: 2/7 × 3 = 6/7. في القسمة: البسط زي ما هو واضرب المقام في العدد الصحيح (لأنك بتقطع كل جزء لقطع أصغر). مثال: 3/4 ÷ 2 = 3/8. ولو البسط بيقبل القسمة، ممكن تقسمه على طول: 4/5 ÷ 2 = 2/5. وفي الآخر بسّط الكسر وحوّله لعدد كسري لو أكبر من 1."
+  },
+  {
+   "type": "h2",
+   "text": "4. Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — Work out 3/8 × 6. Give your answer as a mixed number in its simplest form. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Estimate: 3/8 is a bit less than 1/2, so the answer is a bit less than 3.",
+    "Multiply the numerator: 3 × 6 = 18, so 3/8 × 6 = 18/8.",
+    "Change to a mixed number: 18 ÷ 8 = 2 remainder 2, so 18/8 = 2 2/8.",
+    "Simplify: 2/8 = 1/4. **Answer: 2 1/4** — a bit less than 3 ✓"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Common mistake: stopping at 2 2/8. The question says simplest form, so 2 2/8 would lose the second mark."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — Work out 6/7 ÷ 3. [1]"
+  },
+  {
+   "type": "p",
+   "text": "6 divides exactly by 3: 6 ÷ 3 = 2. Keep the sevenths. **Answer: 2/7.** Check: 2/7 × 3 = 6/7 ✓. (Using the general rule, 6/21 also simplifies to 2/7.)"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — Work out 2/3 ÷ 5. [1]"
+  },
+  {
+   "type": "p",
+   "text": "2 does not divide by 5, so keep the numerator and multiply the denominator: 3 × 5 = 15. **Answer: 2/15.** Check: 2/15 × 5 = 10/15 = 2/3 ✓. Common mistake: writing 10/3 (multiplying the numerator) — that makes the answer bigger, which is impossible when you divide."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — Ring the best estimate for 7/8 × 11.   5   8   10   13 [1]"
+  },
+  {
+   "type": "p",
+   "text": "7/8 is very close to 1, so 7/8 × 11 is a little less than 11. **Ring 10.** (13 is too big — more than 11 is impossible; 5 would be the estimate for 1/2 × 11.) The exact answer is 77/8 = 9 5/8."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — A jug holds 3/4 litre of juice. Amira pours all of it equally into 6 glasses. What fraction of a litre is in each glass? [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "'Equally into 6 glasses' means divide: 3/4 ÷ 6.",
+    "3 does not divide by 6, so multiply the denominator: 3/24.",
+    "Simplify (÷ 3): 3/24 = 1/8. **Answer: 1/8 litre.**",
+    "Check: 1/8 × 6 = 6/8 = 3/4 ✓ (M1 for 3/4 ÷ 6 or 3/24; A1 for 1/8)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** — Omar says 4/5 ÷ 2 = 4/10. Sara says 4/5 ÷ 2 = 2/5. Who is correct? Explain your answer. [1]"
+  },
+  {
+   "type": "p",
+   "text": "**Both are correct.** 4/10 and 2/5 are equivalent fractions (divide the numerator and denominator of 4/10 by 2 to get 2/5). Omar used 'multiply the denominator', Sara used 'divide the numerator'. Sara's answer is in its simplest form. This is the kind of convincing (TWM) answer Checkpoint likes: say who is right and give the mathematical reason."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 7** — Write the missing number: 2/5 × ☐ = 2 2/5 [1]"
+  },
+  {
+   "type": "p",
+   "text": "Change the mixed number to an improper fraction: 2 2/5 = 10/5 + 2/5 = 12/5. The denominator stays 5, so 2 × ☐ = 12, ☐ = **6**. Check: 2/5 × 6 = 12/5 = 2 2/5 ✓"
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Multiplying both numbers: 2/7 × 3 = 6/21 ✗. That is just an equivalent fraction of 2/7 — nothing was multiplied! Correct: 6/7.",
+    "Dividing the denominator: 3/4 ÷ 2 = 3/2 ✗. Dividing must make the fraction smaller. Correct: 3/8.",
+    "Leaving an improper fraction or an unsimplified answer when the question asks for a mixed number in simplest form (18/8 instead of 2 1/4).",
+    "Wrong remainder when changing to a mixed number: 15/4 = 3 3/4, not 3 1/4. Check: 3 × 4 + 3 = 15 ✓.",
+    "Not reading the word problem: 'shared equally', 'each', 'a third of' → divide; 'how much altogether in 12 bottles' → multiply.",
+    "Not checking with an estimate: an answer like 3/8 × 6 = 18 should look wrong at once, because 3/8 × 6 must be less than 6."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "Short calculations with an answer box: 'Work out 5/6 × 4. Give your answer as a mixed number.' Read the last sentence — it tells you the form of the answer.",
+    "Missing-number boxes: 3/8 × ☐ = 15/8 or 4/9 ÷ ☐ = 4/27. Use the inverse: what was the numerator or denominator multiplied by?",
+    "Ring or tick the best estimate — compare the fraction with 0, 1/2 and 1.",
+    "Word problems (ribbons, juice, recipes, distances) — decide multiply or divide first and write the calculation down: it can earn a method mark even if the arithmetic slips.",
+    "'Explain' or 'Who is correct?' questions — give a reason using maths words: 'dividing makes it smaller', 'the denominator shows the size of the parts', 'these fractions are equivalent'.",
+    "These questions usually appear on Paper 1 (no calculator), so practise doing them by hand. Show your working in the space given."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "إزاي تتأكد من إجابتك",
+   "text": "اسأل نفسك سؤالين: هل الإجابة منطقية؟ كسر أقل من 1 مضروب في عدد صحيح لازم يدي أقل من العدد ده. وكسر مقسوم على عدد صحيح لازم يصغر. وبعدين اعمل العملية العكسية: لو قسمت، اضرب الإجابة في العدد الصحيح ولازم يرجع لك الكسر الأصلي."
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Multiplying and dividing fractions — practice",
+   "timed": false,
+   "intro": "14 questions, from easy to Checkpoint-hard. No calculator. Give fractions as a/b (for example 3/8). For mixed numbers type a space, e.g. 2 1/4. Write your working on paper first.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 20,
+     "calc": false,
+     "questions": [
+      {
+       "q": "Work out 3/10 × 3.",
+       "c": [
+        "9/10",
+        "9/30",
+        "3/30",
+        "6/10"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Multiplying fractions",
+       "e": "Multiply the numerator only: 3 × 3 = 9. The denominator stays 10 (the pieces are still tenths). 3/10 × 3 = **9/10**. (9/30 is wrong: it multiplies the denominator too.)"
+      },
+      {
+       "t": "open",
+       "q": "Without working out the exact answer, explain why 5/8 × 7 must be less than 7 but more than 3.",
+       "m": 2,
+       "s": "Estimating",
+       "ms": "1 mark: 5/8 is less than 1, so 5/8 × 7 is less than 1 × 7 = 7 (oe, e.g. 'you are taking less than the whole of 7'). 1 mark: 5/8 is more than 1/2 (4/8), so the answer is more than 1/2 × 7 = 3.5, which is more than 3. Accept the exact answer 35/8 = 4 3/8 used as a check only if a reason is also given.",
+       "e": "5/8 < 1, so 5/8 × 7 < 7. 5/8 > 4/8 = 1/2, so 5/8 × 7 > 1/2 × 7 = 3 1/2, and 3 1/2 > 3. (Exact answer: 35/8 = 4 3/8 — between 3 and 7.)"
+      },
+      {
+       "t": "text",
+       "q": "Work out 5/6 × 3. Give your answer as a mixed number in its simplest form.",
+       "ans": [
+        "2 1/2",
+        "2½",
+        "2 and 1/2"
+       ],
+       "m": 2,
+       "s": "Multiplying fractions",
+       "e": "5/6 × 3 = 15/6. Simplify: 15/6 = 5/2 (÷ 3). 5 ÷ 2 = 2 remainder 1, so 5/2 = **2 1/2**. (M1 for 15/6 seen; A1 for 2 1/2.)"
+      },
+      {
+       "t": "num",
+       "q": "Work out 8/9 ÷ 4.",
+       "ans": [
+        "2/9"
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Dividing fractions",
+       "e": "8 can be divided by 4: 8 ÷ 4 = 2, denominator stays 9. 8/9 ÷ 4 = **2/9**. Check: 2/9 × 4 = 8/9 ✓"
+      },
+      {
+       "t": "num",
+       "q": "Work out 3/5 ÷ 4.",
+       "ans": [
+        "3/20"
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Dividing fractions",
+       "e": "3 cannot be divided by 4 exactly, so multiply the denominator by 4: 5 × 4 = 20. 3/5 ÷ 4 = **3/20**. Check: 3/20 × 4 = 12/20 = 3/5 ✓"
+      },
+      {
+       "q": "Which is the best estimate for 9/10 × 21?",
+       "c": [
+        "2",
+        "10",
+        "19",
+        "30"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Estimating",
+       "e": "9/10 is just under 1, so the answer is just under 21. 19 is the only choice a little less than 21. (Exact: 189/10 = 18.9.)"
+      },
+      {
+       "t": "num",
+       "p": "Write the missing number.",
+       "q": "4/7 × ☐ = 12/7",
+       "ans": [
+        3
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Multiplying fractions",
+       "e": "The denominator stays 7, so 4 × ☐ = 12. 12 ÷ 4 = **3**."
+      },
+      {
+       "t": "num",
+       "p": "Write the missing number.",
+       "q": "5/6 ÷ ☐ = 5/24",
+       "ans": [
+        4
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Dividing fractions",
+       "e": "The numerator stayed 5, so the denominator was multiplied by the whole number: 6 × ☐ = 24. 24 ÷ 6 = **4**."
+      },
+      {
+       "t": "num",
+       "q": "A ribbon is 4/5 m long. Huda cuts it into 8 equal pieces. What fraction of a metre is each piece? Give your answer in its simplest form.",
+       "ans": [
+        "1/10",
+        0.1
+       ],
+       "tol": 0,
+       "unit": "m",
+       "m": 2,
+       "s": "Dividing fractions",
+       "e": "4/5 ÷ 8: 4 cannot be divided by 8 exactly, so multiply the denominator: 4/40. Simplify (÷ 4): 4/40 = **1/10 m**. (M1 for 4/5 ÷ 8 or 4/40.) Check: 1/10 × 8 = 8/10 = 4/5 ✓"
+      },
+      {
+       "t": "num",
+       "q": "A bottle holds 2/3 litre of water. How many litres of water are in 12 full bottles?",
+       "ans": [
+        8
+       ],
+       "tol": 0,
+       "unit": "litres",
+       "m": 2,
+       "s": "Multiplying fractions",
+       "e": "2/3 × 12 = 24/3 = 24 ÷ 3 = **8 litres**. (Or: 1/3 of 12 is 4, so 2/3 of 12 is 8.)"
+      },
+      {
+       "q": "Which calculation has an answer greater than 3?",
+       "c": [
+        "1/4 × 12",
+        "3/8 × 8",
+        "5/9 × 5",
+        "2/5 × 8"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Multiplying fractions",
+       "e": "1/4 × 12 = 12/4 = 3 (not greater). 3/8 × 8 = 24/8 = 3 (not greater). 5/9 × 5 = 25/9 = 2 7/9 (less). 2/5 × 8 = 16/5 = **3 1/5**, which is greater than 3."
+      },
+      {
+       "t": "open",
+       "q": "Mona writes: 3/4 ÷ 2 = 3/2. Explain her mistake and write the correct answer.",
+       "m": 2,
+       "s": "Dividing fractions",
+       "ms": "1 mark: a correct explanation, e.g. she divided the denominator by 2 instead of multiplying it by 2 / her answer 3/2 is bigger than 3/4 but dividing by 2 must make it smaller / halving quarters gives eighths. 1 mark: 3/8 cao.",
+       "e": "Dividing a proper fraction by a whole number makes it smaller, but 3/2 = 1 1/2 is bigger than 3/4. Mona divided the 4 by 2. Halve each quarter to make eighths: 3/4 ÷ 2 = **3/8**."
+      },
+      {
+       "t": "num",
+       "p": "Question 14\nA recipe for one cake uses 3/4 of a cup of sugar.",
+       "q": "(a) How many cups of sugar are needed for 6 cakes?",
+       "ans": [
+        4.5,
+        "9/2",
+        "18/4"
+       ],
+       "tol": 0,
+       "unit": "cups",
+       "m": 1,
+       "s": "Multiplying fractions",
+       "e": "3/4 × 6 = 18/4 = 9/2 = **4 1/2 cups** (4.5)."
+      },
+      {
+       "t": "num",
+       "p": "Question 14\nA recipe for one cake uses 3/4 of a cup of sugar.",
+       "q": "(b) Laila makes a small cake that needs one third of the sugar for one cake. What fraction of a cup of sugar does she use?",
+       "ans": [
+        "1/4",
+        0.25
+       ],
+       "tol": 0,
+       "unit": "cup",
+       "m": 1,
+       "s": "Dividing fractions",
+       "e": "One third of 3/4 means 3/4 ÷ 3. 3 ÷ 3 = 1, so 3/4 ÷ 3 = **1/4 cup**."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Fraction × whole number: multiply the numerator, keep the denominator (2/7 × 3 = 6/7).",
+    "Fraction ÷ whole number: keep the numerator, multiply the denominator (3/4 ÷ 2 = 3/8) — or divide the numerator if it divides exactly (4/5 ÷ 2 = 2/5).",
+    "Change improper answers to mixed numbers and always simplify.",
+    "Estimate with 0, 1/2 and 1: proper fraction × 11 is less than 11; dividing always makes a proper fraction smaller.",
+    "Check division by multiplying back."
+   ]
+  }
+ ]
+}

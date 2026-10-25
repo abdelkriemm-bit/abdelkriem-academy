@@ -1,0 +1,959 @@
+{
+ "slug": "cp6m-practice-test-1",
+ "title": "Checkpoint 6 Maths — Practice Test 1",
+ "kicker": "Cambridge Primary Checkpoint · Mathematics 0096 · Stage 6 · Practice test",
+ "summary": "A full timed Checkpoint-style Maths test — Paper 1 without a calculator and Paper 2 with one, 45 minutes and 40 marks each — set in a school library, a juice stall, a zoo trip, a garden plan, sports day and a weather chart, with automatic marking, a mark scheme and full worked solutions.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "Before you start"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "This is a full practice test in the style of the **Cambridge Primary Checkpoint Mathematics (0096)** test, which is taken at the end of Stage 6. It covers the whole Stage 6 curriculum: number, geometry and measure, and statistics and probability.",
+    "There are **two papers**. Each paper lasts **45 minutes** and is worth **40 marks** (80 marks in total). The timer starts when you press Start.",
+    "**Paper 1: no calculator.** All the numbers are chosen so that you can work them out on paper. **Paper 2: you may use a calculator.** Paper 2 has more real-life, multi-step problems.",
+    "**Equipment:** a black or dark blue pen, an HB pencil for drawings, a ruler, compasses and a protractor (tracing paper is optional). Keep some squared paper ready to sketch shapes and grids.",
+    "You can **write on paper first** if you like: download the question paper (PDF), do the test the real way, then type in your answers or mark your paper with the mark scheme (PDF).",
+    "**How marking works here:** typed answers (numbers, short answers and multiple choice) are checked automatically. Written answers (explanations, drawings, sketches) you mark yourself at the end: compare your answer with the mark scheme and give yourself only the marks you have really earned.",
+    "**[2] marks** means \"show your working\": in the real test a correct method can still earn 1 mark even if the final answer is wrong. Give units (cm², °C, minutes) where they are asked for.",
+    "Your score is a **practice score** to show you what to revise. It is **not** an official Cambridge result."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "قبل ما تبدأ",
+   "text": "الاختبار ده شبه امتحان Checkpoint Maths بالظبط: ورقتين، كل ورقة ٤٥ دقيقة و٤٠ درجة. الورقة الأولى من غير آلة حاسبة، والتانية مسموح فيها بالآلة الحاسبة. اكتب خطوات الحل في ورقة جنبك، لأن السؤال اللي عليه درجتين بياخد درجة على الطريقة حتى لو الناتج غلط. الإجابات المكتوبة والرسم هتصححها بنفسك من نموذج الإجابة — كن أمين مع نفسك عشان تعرف تذاكر إيه. والدرجة دي للتدريب بس، مش نتيجة رسمية من كامبريدج."
+  },
+  {
+   "type": "test",
+   "title": "Checkpoint 6 Maths — Practice Test 1",
+   "timed": true,
+   "intro": "Two papers, 45 minutes each, 40 marks each. Paper 1: no calculator. Paper 2: calculator allowed. Type coordinates with brackets, for example (2, -1), and fractions with a slash, for example 3/4. Typed answers are marked automatically; written answers and drawings you mark yourself with the mark scheme at the end.",
+   "pdf": [
+    {
+     "label": "Question paper (PDF)",
+     "href": "pdf/cp6m-practice-test-1-paper.pdf"
+    },
+    {
+     "label": "Mark scheme (PDF)",
+     "href": "pdf/cp6m-practice-test-1-mark-scheme.pdf"
+    }
+   ],
+   "sections": [
+    {
+     "name": "Paper 1",
+     "minutes": 45,
+     "calc": false,
+     "questions": [
+      {
+       "t": "num",
+       "p": "Question 1\nThe school library counts its books. It has 2 thousands, 15 hundreds, 3 tens and 8 ones.",
+       "q": "How many books does the library have?",
+       "ans": [
+        3538
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Place value",
+       "e": "Regroup: 15 hundreds = 1 thousand and 5 hundreds.\n2000 + 1500 + 30 + 8 = **3538** books.\nCommon mistake: writing 21 538 by putting the digits 2, 15, 3, 8 side by side."
+      },
+      {
+       "t": "text",
+       "p": "Question 2\nA sequence counts back in steps of the same size.\n2.0,   1.4,   0.8,   ___,   ___",
+       "q": "Write the next two numbers. Type them with a comma between them, for example 5, 3",
+       "ans": [
+        "0.2, -0.4",
+        "0.2,-0.4",
+        "0.2, −0.4",
+        "0.2 and -0.4",
+        "0.2 and −0.4",
+        ".2, -.4"
+       ],
+       "m": 1,
+       "s": "Counting back",
+       "e": "The step is 2.0 − 1.4 = 0.6, so subtract 0.6 each time.\n0.8 − 0.6 = **0.2**\n0.2 − 0.6 = **−0.4** (go past zero: 0.2 takes you to 0, then 0.4 more below zero).\nBoth numbers are needed for the mark."
+      },
+      {
+       "t": "num",
+       "p": "Question 3",
+       "q": "(a) Work out  30 − 4 × 6 ÷ 3",
+       "ans": [
+        22
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Order of operations",
+       "e": "Multiplication and division come before subtraction, working from left to right.\n4 × 6 = 24, then 24 ÷ 3 = 8.\n30 − 8 = **22**.\nCommon mistake: working left to right from the start: 30 − 4 = 26, × 6 = 156, ÷ 3 = 52."
+      },
+      {
+       "t": "open",
+       "p": "Question 3",
+       "q": "(b) Write one pair of brackets to make this calculation correct.\n5 + 3 × 4 − 2 = 30",
+       "ms": "1 mark: (5 + 3) × 4 − 2 = 30. Accept ((5 + 3) × 4) − 2. Do not accept any other position of the brackets.",
+       "m": 1,
+       "s": "Brackets",
+       "e": "Try the brackets in different places:\n(5 + 3) × 4 − 2 = 8 × 4 − 2 = 32 − 2 = **30** ✓\n5 + 3 × (4 − 2) = 5 + 6 = 11 ✗\n(5 + 3) × (4 − 2) uses two pairs, and gives 16 ✗\nWithout brackets: 5 + 12 − 2 = 15 ✗\nSo the brackets go around **5 + 3**."
+      },
+      {
+       "t": "num",
+       "p": "Question 4\nA juice stall sells 1245 cups of juice in April.\nEach cup costs 24 pounds.",
+       "q": "How much money does the stall take for these cups in April? Show your working.",
+       "ans": [
+        29880
+       ],
+       "tol": 0,
+       "unit": "pounds",
+       "m": 2,
+       "s": "Multiplication",
+       "e": "Estimate first: 1200 × 25 = 30 000, so the answer is about 30 000.\n1245 × 20 = 24 900\n1245 × 4 = 4980\n24 900 + 4980 = **29 880 pounds**\nMark scheme: M1 for a complete correct method (for example the two partial products 24 900 and 4980, or a grid method) with no more than one arithmetic error; A1 for 29 880."
+      },
+      {
+       "t": "num",
+       "p": "Question 5\nThe juice stall has 912 oranges. The oranges are packed into bags of 16.",
+       "q": "How many bags can be filled? Show your working.",
+       "ans": [
+        57
+       ],
+       "tol": 0,
+       "unit": "bags",
+       "m": 2,
+       "s": "Division",
+       "e": "Estimate: 900 ÷ 15 = 60, so the answer is a little under 60.\n16 × 50 = 800, leaving 912 − 800 = 112.\n16 × 7 = 112, leaving 0.\n50 + 7 = **57 bags** (exactly, no oranges left over).\nCheck: 57 × 16 = 570 + 342 = 912 ✓\nMark scheme: M1 for a correct method (chunking, short or long division) with at most one error; A1 for 57."
+      },
+      {
+       "t": "text",
+       "p": "Question 6\nOn a class trip to the zoo, the sea-lion show starts every 15 minutes.\nThe parrot show starts every 20 minutes.\nBoth shows start at 10:00",
+       "q": "What is the next time that both shows start together?",
+       "ans": [
+        "11:00",
+        "11.00",
+        "11 am",
+        "11:00 am",
+        "11 o'clock",
+        "1100"
+       ],
+       "m": 1,
+       "s": "Common multiples",
+       "e": "List the start times (minutes after 10:00).\nSea lions: 15, 30, 45, **60**, …\nParrots: 20, 40, **60**, …\nThe first common multiple of 15 and 20 is 60. 60 minutes after 10:00 is **11:00**."
+      },
+      {
+       "p": "Question 7",
+       "q": "Which of these numbers is divisible by 9?",
+       "c": [
+        "1236",
+        "4517",
+        "6024",
+        "2754"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Tests of divisibility",
+       "e": "A number is divisible by 9 when the sum of its digits is divisible by 9.\n1236 → 1 + 2 + 3 + 6 = 12 ✗ (divisible by 3 only)\n4517 → 17 ✗\n6024 → 12 ✗\n2754 → 2 + 7 + 5 + 4 = 18 ✓\nSo **2754** (D). Check: 2754 ÷ 9 = 306."
+      },
+      {
+       "p": "Question 8",
+       "q": "Which of these is a cube number?",
+       "c": [
+        "16",
+        "27",
+        "49",
+        "50"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Cube numbers",
+       "e": "Cube numbers: 1 × 1 × 1 = 1, 2 × 2 × 2 = 8, 3 × 3 × 3 = **27**, 4 × 4 × 4 = 64, 5 × 5 × 5 = 125.\n16 and 49 are square numbers, not cube numbers. 50 is neither. Answer B."
+      },
+      {
+       "t": "num",
+       "p": "Question 9\nIn this sequence, each term is the position number squared, then subtract 1.\nPosition | 1 | 2 | 3 | 4\nTerm | 0 | 3 | 8 | 15",
+       "q": "What is the 9th term?",
+       "ans": [
+        80
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Sequences with square numbers",
+       "e": "9th term = 9² − 1 = 81 − 1 = **80**.\nCheck the rule on the table: 4² − 1 = 16 − 1 = 15 ✓"
+      },
+      {
+       "t": "num",
+       "p": "Question 10\nPupils make a pattern of books on the library display shelves.\nPosition | 1 | 2 | 3 | 4\nNumber of books | 7 | 14 | 21 | 28",
+       "q": "(a) How many books are there in position 20?",
+       "ans": [
+        140
+       ],
+       "tol": 0,
+       "unit": "books",
+       "m": 1,
+       "s": "Position-to-term rules",
+       "e": "Adding 7 each time is the same as multiplying the position by 7.\nRule: number of books = position × 7.\n20 × 7 = **140**.\nCommon mistake: counting on 7 only once more (28 + 7 = 35), or doubling the 10th term from a wrong rule."
+      },
+      {
+       "t": "open",
+       "p": "Question 10\nPupils make a pattern of books on the library display shelves.\nPosition | 1 | 2 | 3 | 4\nNumber of books | 7 | 14 | 21 | 28",
+       "q": "(b) Sara says, \"One of the positions has exactly 150 books.\"\nIs Sara correct? Explain how you know.",
+       "ms": "1 mark: No, with a correct reason, e.g. 150 is not a multiple of 7 / 150 ÷ 7 is not a whole number / 7 × 21 = 147 and 7 × 22 = 154, so 150 is between two terms. Do not accept \"No\" with no reason or an incorrect reason.",
+       "m": 1,
+       "s": "Position-to-term rules",
+       "e": "Every term is position × 7, so every term is a multiple of 7.\n7 × 21 = 147 and 7 × 22 = 154. 150 is between them, so it is **not** a term. Sara is **not correct**."
+      },
+      {
+       "t": "num",
+       "p": "Question 11\nOn the zoo trip there are b boys and g girls.\nb + g = 42",
+       "q": "b = 19. What is the value of g?",
+       "ans": [
+        23
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Letters for quantities",
+       "e": "b + g = 42 and b = 19, so 19 + g = 42.\ng = 42 − 19 = **23**.\nThe letters stand for numbers that can change; here the total stays 42."
+      },
+      {
+       "t": "num",
+       "p": "Question 12\nAt the zoo, the temperature inside the penguin house is −3 °C.\nThe temperature inside the reptile house is 28 °C.",
+       "q": "What is the difference between the two temperatures?",
+       "ans": [
+        31
+       ],
+       "tol": 0,
+       "unit": "°C",
+       "m": 1,
+       "s": "Negative numbers",
+       "e": "From −3 up to 0 is 3 degrees. From 0 up to 28 is 28 degrees.\n3 + 28 = **31 °C**.\nCommon mistake: 28 − 3 = 25 (forgetting that −3 is below zero)."
+      },
+      {
+       "t": "num",
+       "p": "Question 13",
+       "q": "What is the value of the digit 6 in the number 4.316?",
+       "ans": [
+        0.006,
+        "6/1000"
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Place value in decimals",
+       "e": "4.316 = 4 ones + 3 tenths + 1 hundredth + 6 thousandths.\nThe 6 is in the thousandths column, so its value is **0.006** (6 thousandths)."
+      },
+      {
+       "p": "Question 14",
+       "q": "Work out 45 ÷ 1000",
+       "c": [
+        "0.45",
+        "4.5",
+        "0.045",
+        "0.0045"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Multiplying and dividing by 10, 100, 1000",
+       "e": "Dividing by 1000 moves every digit three places to the right (smaller).\n45 → 4.5 (÷ 10) → 0.45 (÷ 100) → **0.045** (÷ 1000). Answer C."
+      },
+      {
+       "t": "open",
+       "p": "Question 15",
+       "q": "(a) Ola says, \"20/32 written in its simplest form is 10/16.\"\nIs Ola correct? Tick (✓) Yes or No and explain your answer.",
+       "ms": "1 mark: No, with a correct explanation, e.g. 10 and 16 still have a common factor of 2 / 10/16 can be simplified again / the simplest form is 5/8. Do not accept \"No\" with no explanation.",
+       "m": 1,
+       "s": "Simplest form",
+       "e": "**No.** 20/32 = 10/16 is correct, but 10/16 is **not** in its simplest form: 10 and 16 still share the factor 2.\n10/16 = 5/8, and 5 and 8 have no common factor except 1, so the simplest form is **5/8**.\nQuick way: divide by the highest common factor of 20 and 32, which is 4."
+      },
+      {
+       "t": "num",
+       "p": "Question 15",
+       "q": "(b) Work out 3/5 of 45",
+       "ans": [
+        27
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Fractions as operators",
+       "e": "1/5 of 45 = 45 ÷ 5 = 9.\n3/5 of 45 = 9 × 3 = **27**."
+      },
+      {
+       "t": "text",
+       "p": "Question 16\nIn the school library, 2/5 of the books are fiction and 1/3 of the books are non-fiction.\nThe rest of the books are magazines.",
+       "q": "What fraction of the books are magazines? Show your working and give your answer in its simplest form.",
+       "ans": [
+        "4/15"
+       ],
+       "m": 2,
+       "s": "Adding and subtracting fractions",
+       "e": "Use a common denominator of 15.\n2/5 = 6/15 and 1/3 = 5/15.\nFiction and non-fiction: 6/15 + 5/15 = 11/15.\nMagazines: 15/15 − 11/15 = **4/15**.\nMark scheme: M1 for 2/5 and 1/3 written with a common denominator (6/15 and 5/15) or 11/15 seen; A1 for 4/15 (oe)."
+      },
+      {
+       "t": "text",
+       "p": "Question 17",
+       "q": "Work out 2/9 × 4",
+       "ans": [
+        "8/9"
+       ],
+       "m": 1,
+       "s": "Multiplying fractions by whole numbers",
+       "e": "2/9 × 4 means 4 lots of 2/9: multiply the numerator by 4.\n2 × 4 = 8, so the answer is **8/9**. (The denominator stays 9.)"
+      },
+      {
+       "t": "open",
+       "p": "Question 18",
+       "q": "Write <, > or = in each box.\n0.7  ☐  3/4\n40%  ☐  2/5",
+       "ms": "1 mark for both correct: 0.7 < 3/4 and 40% = 2/5.",
+       "m": 1,
+       "s": "Comparing fractions, decimals and percentages",
+       "e": "Change everything to decimals (or percentages).\n3/4 = 0.75, and 0.7 = 0.70 is less than 0.75, so **0.7 < 3/4**.\n2/5 = 4/10 = 0.4 = 40%, so **40% = 2/5**."
+      },
+      {
+       "t": "open",
+       "p": "Question 19",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 260 204\" width=\"260\" font-family=\"Arial, sans-serif\" font-size=\"16\"><rect width=\"260\" height=\"204\" fill=\"#ffffff\"/><rect x=\"20\" y=\"14\" width=\"44\" height=\"44\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"20\" y=\"58\" width=\"44\" height=\"44\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"20\" y=\"102\" width=\"44\" height=\"44\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"20\" y=\"146\" width=\"44\" height=\"44\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"64\" y=\"14\" width=\"44\" height=\"44\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"64\" y=\"58\" width=\"44\" height=\"44\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"64\" y=\"102\" width=\"44\" height=\"44\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"64\" y=\"146\" width=\"44\" height=\"44\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"108\" y=\"14\" width=\"44\" height=\"44\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"108\" y=\"58\" width=\"44\" height=\"44\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"108\" y=\"102\" width=\"44\" height=\"44\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"108\" y=\"146\" width=\"44\" height=\"44\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"152\" y=\"14\" width=\"44\" height=\"44\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"152\" y=\"58\" width=\"44\" height=\"44\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"152\" y=\"102\" width=\"44\" height=\"44\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"152\" y=\"146\" width=\"44\" height=\"44\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"196\" y=\"14\" width=\"44\" height=\"44\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"196\" y=\"58\" width=\"44\" height=\"44\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"196\" y=\"102\" width=\"44\" height=\"44\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"196\" y=\"146\" width=\"44\" height=\"44\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/></svg>",
+       "q": "Shade 35% of this grid.",
+       "ms": "1 mark: exactly 7 of the 20 squares shaded (any 7 squares).",
+       "m": 1,
+       "s": "Percentages of shapes",
+       "e": "The grid has 5 × 4 = 20 squares, so each square is 100% ÷ 20 = 5%.\n35% ÷ 5% = 7, so shade **7 squares** (any 7).\nCheck: 7/20 = 35/100 = 35%."
+      },
+      {
+       "t": "num",
+       "p": "Question 20",
+       "q": "Work out 7.3 − 2.86",
+       "ans": [
+        4.44
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Subtracting decimals",
+       "e": "Line up the decimal points and write 7.3 as 7.30.\n7.30 − 2.86 = **4.44**.\nCheck: 4.44 + 2.86 = 7.30 ✓\nCommon mistake: 7.3 − 2.86 = 5.57 (lining the digits up from the right)."
+      },
+      {
+       "t": "num",
+       "p": "Question 21\nThe juice stall makes mango-orange juice.\nIt mixes mango juice and orange juice in the ratio 2 : 5",
+       "q": "The stall uses 6 cups of mango juice. How many cups of orange juice does it use?",
+       "ans": [
+        15
+       ],
+       "tol": 0,
+       "unit": "cups",
+       "m": 1,
+       "s": "Ratio",
+       "e": "2 : 5 is equivalent to 6 : ?\n2 × 3 = 6, so multiply both parts by 3: 5 × 3 = **15 cups** of orange juice.\nRatio 2 : 5 = 6 : 15."
+      },
+      {
+       "t": "num",
+       "p": "Question 22\nThe class trip to the zoo lasts 3.75 hours.",
+       "q": "3.75 hours = 3 hours and how many minutes?",
+       "ans": [
+        45
+       ],
+       "tol": 0,
+       "unit": "minutes",
+       "m": 1,
+       "s": "Time",
+       "e": "0.75 of an hour = 3/4 of 60 minutes = **45 minutes**.\nSo 3.75 hours = 3 hours 45 minutes.\nCommon mistake: 3 hours 75 minutes — the digits after the point are a decimal part of an hour, not minutes."
+      },
+      {
+       "t": "num",
+       "p": "Question 23",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 310 270\" width=\"310\" font-family=\"Arial, sans-serif\" font-size=\"16\"><rect width=\"310\" height=\"270\" fill=\"#ffffff\"/><polygon points=\"40,250 270,250 199.6,45.7\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M74,250 A34,34 0 0 0 60.9,223.2\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M260.2,221.6 A30,30 0 0 0 240,250\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M182.4,67.7 A28,28 0 0 0 208.8,72.1\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"92.1\" y=\"230.6\" text-anchor=\"middle\" fill=\"#0f1b33\">52°</text><text x=\"227.7\" y=\"225.8\" text-anchor=\"middle\" fill=\"#0f1b33\">71°</text><text x=\"191.7\" y=\"99\" text-anchor=\"middle\" fill=\"#0f1b33\" font-style=\"italic\" font-size=\"18\">x</text></svg>",
+       "q": "Work out the size of angle x.",
+       "ans": [
+        57
+       ],
+       "tol": 0,
+       "unit": "°",
+       "m": 1,
+       "s": "Angles in a triangle",
+       "e": "The angles in a triangle add up to 180°.\n52° + 71° = 123°\nx = 180° − 123° = **57°**."
+      },
+      {
+       "t": "open",
+       "p": "Question 24",
+       "q": "Sketch a quadrilateral that has exactly one pair of parallel sides and two right angles.\nWrite the name of your shape.",
+       "ms": "1 mark: a sketch of a right-angled trapezium (one pair of parallel sides, two right angles, the other two sides not parallel) AND the name trapezium. Accept recognisable misspellings. Do not accept a square, rectangle or parallelogram.",
+       "m": 1,
+       "s": "Quadrilaterals",
+       "e": "A **trapezium** has exactly one pair of parallel sides. If the side joining the two parallel sides is at right angles to them, the trapezium has two right angles (a right-angled trapezium).\nSketch: draw a long horizontal bottom side, a shorter horizontal top side starting above its left end, a vertical left side, and a slanting right side.\nA rectangle has two pairs of parallel sides and four right angles, so it is not correct."
+      },
+      {
+       "t": "text",
+       "p": "Question 25\nLook at the circle. The dot is the centre.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 290\" width=\"320\" font-family=\"Arial, sans-serif\" font-size=\"16\"><rect width=\"320\" height=\"290\" fill=\"#ffffff\"/><circle cx=\"170\" cy=\"150\" r=\"115\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"170\" cy=\"150\" r=\"4\" fill=\"#0f1b33\"/><line x1=\"61.9\" y1=\"110.7\" x2=\"278.1\" y2=\"189.3\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"170\" y1=\"150\" x2=\"199.8\" y2=\"38.9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"227.5\" y1=\"249.6\" x2=\"96.1\" y2=\"238.1\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"200.9\" y=\"100.5\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">A</text><text x=\"117.2\" y=\"119.8\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">B</text><text x=\"161.8\" y=\"233.8\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">C</text><line x1=\"58.7\" y1=\"38.7\" x2=\"83.7\" y2=\"63.7\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"48.7\" y=\"34.7\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">D</text></svg>",
+       "q": "Which letter shows a radius of the circle?",
+       "ans": [
+        "A"
+       ],
+       "m": 1,
+       "s": "Parts of a circle",
+       "e": "A radius goes from the centre to the circumference: that is line **A**.\nB passes through the centre from one side to the other, so it is a diameter. C does not pass through the centre (it is a chord). D points to the circumference (the curved edge)."
+      },
+      {
+       "t": "num",
+       "p": "Question 26\nA garden path is made from paving slabs in this shape.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 220 160\" width=\"220\" font-family=\"Arial, sans-serif\" font-size=\"16\"><rect width=\"220\" height=\"160\" fill=\"#ffffff\"/><rect x=\"20\" y=\"20\" width=\"60\" height=\"60\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-dasharray=\"4 3\"/><rect x=\"80\" y=\"20\" width=\"60\" height=\"60\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-dasharray=\"4 3\"/><rect x=\"80\" y=\"80\" width=\"60\" height=\"60\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-dasharray=\"4 3\"/><rect x=\"140\" y=\"80\" width=\"60\" height=\"60\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-dasharray=\"4 3\"/><polygon points=\"20,20 140,20 140,80 200,80 200,140 80,140 80,80 20,80\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/></svg>",
+       "q": "What is the order of rotational symmetry of the shape?",
+       "ans": [
+        2
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Rotational symmetry",
+       "e": "Trace the shape and turn the tracing around its centre. It fits on top of itself after a half turn (180°) and again after a full turn.\nSo it fits **2** times in a full turn: rotational symmetry of **order 2**.\nNote: the shape has no lines of symmetry, but it still has rotational symmetry."
+      },
+      {
+       "t": "text",
+       "p": "Question 27\nA garden plot plan is drawn on a coordinate grid. A, B and C are three corners of a rectangular plot. The square is a shed. P is one corner of the shed.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 410 312\" width=\"410\" font-family=\"Arial, sans-serif\" font-size=\"16\"><rect width=\"410\" height=\"312\" fill=\"#ffffff\"/><path d=\"M40 26v272M74 26v272M108 26v272M142 26v272M176 26v272M210 26v272M244 26v272M278 26v272M312 26v272M346 26v272M380 26v272M40 26h340M40 60h340M40 94h340M40 128h340M40 162h340M40 196h340M40 230h340M40 264h340M40 298h340\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><line x1=\"40\" y1=\"162\" x2=\"380\" y2=\"162\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"210\" y1=\"298\" x2=\"210\" y2=\"26\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><text x=\"40\" y=\"181\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">−5</text><text x=\"74\" y=\"181\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">−4</text><text x=\"108\" y=\"181\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">−3</text><text x=\"142\" y=\"181\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">−2</text><text x=\"176\" y=\"181\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">−1</text><text x=\"244\" y=\"181\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">1</text><text x=\"278\" y=\"181\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">2</text><text x=\"312\" y=\"181\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">3</text><text x=\"346\" y=\"181\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">4</text><text x=\"380\" y=\"181\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">5</text><text x=\"204\" y=\"304\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">−4</text><text x=\"204\" y=\"270\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">−3</text><text x=\"204\" y=\"236\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">−2</text><text x=\"204\" y=\"202\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">−1</text><text x=\"204\" y=\"134\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">1</text><text x=\"204\" y=\"100\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">2</text><text x=\"204\" y=\"66\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">3</text><text x=\"204\" y=\"32\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">4</text><text x=\"204\" y=\"181\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">0</text><text x=\"388\" y=\"168\" text-anchor=\"start\" fill=\"#0f1b33\" font-style=\"italic\">x</text><text x=\"220\" y=\"40\" text-anchor=\"start\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\" font-style=\"italic\">y</text><polyline points=\"74,60 312,60 312,230\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><polygon points=\"108,128 142,128 142,94 108,94\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"74\" cy=\"60\" r=\"4.5\" fill=\"#0f1b33\"/><circle cx=\"312\" cy=\"60\" r=\"4.5\" fill=\"#0f1b33\"/><circle cx=\"312\" cy=\"230\" r=\"4.5\" fill=\"#0f1b33\"/><text x=\"68\" y=\"51\" text-anchor=\"end\" fill=\"#0f1b33\" font-weight=\"bold\">A</text><text x=\"320\" y=\"51\" text-anchor=\"start\" fill=\"#0f1b33\" font-weight=\"bold\">B</text><text x=\"320\" y=\"248\" text-anchor=\"start\" fill=\"#0f1b33\" font-weight=\"bold\">C</text><circle cx=\"108\" cy=\"128\" r=\"4\" fill=\"#0f1b33\"/><text x=\"101\" y=\"145\" text-anchor=\"end\" fill=\"#0f1b33\" font-weight=\"bold\">P</text></svg>",
+       "q": "(a) Write the coordinates of point A.",
+       "ans": [
+        "(-4, 3)",
+        "(-4,3)",
+        "-4,3",
+        "(−4, 3)"
+       ],
+       "m": 1,
+       "s": "Coordinates",
+       "e": "Go across first (x), then up or down (y). A is 4 to the left of 0 and 3 up, so A = **(−4, 3)**."
+      },
+      {
+       "t": "text",
+       "p": "Question 27\nA garden plot plan is drawn on a coordinate grid. A, B and C are three corners of a rectangular plot. The square is a shed. P is one corner of the shed.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 410 312\" width=\"410\" font-family=\"Arial, sans-serif\" font-size=\"16\"><rect width=\"410\" height=\"312\" fill=\"#ffffff\"/><path d=\"M40 26v272M74 26v272M108 26v272M142 26v272M176 26v272M210 26v272M244 26v272M278 26v272M312 26v272M346 26v272M380 26v272M40 26h340M40 60h340M40 94h340M40 128h340M40 162h340M40 196h340M40 230h340M40 264h340M40 298h340\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><line x1=\"40\" y1=\"162\" x2=\"380\" y2=\"162\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"210\" y1=\"298\" x2=\"210\" y2=\"26\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><text x=\"40\" y=\"181\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">−5</text><text x=\"74\" y=\"181\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">−4</text><text x=\"108\" y=\"181\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">−3</text><text x=\"142\" y=\"181\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">−2</text><text x=\"176\" y=\"181\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">−1</text><text x=\"244\" y=\"181\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">1</text><text x=\"278\" y=\"181\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">2</text><text x=\"312\" y=\"181\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">3</text><text x=\"346\" y=\"181\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">4</text><text x=\"380\" y=\"181\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">5</text><text x=\"204\" y=\"304\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">−4</text><text x=\"204\" y=\"270\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">−3</text><text x=\"204\" y=\"236\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">−2</text><text x=\"204\" y=\"202\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">−1</text><text x=\"204\" y=\"134\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">1</text><text x=\"204\" y=\"100\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">2</text><text x=\"204\" y=\"66\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">3</text><text x=\"204\" y=\"32\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">4</text><text x=\"204\" y=\"181\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">0</text><text x=\"388\" y=\"168\" text-anchor=\"start\" fill=\"#0f1b33\" font-style=\"italic\">x</text><text x=\"220\" y=\"40\" text-anchor=\"start\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\" font-style=\"italic\">y</text><polyline points=\"74,60 312,60 312,230\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><polygon points=\"108,128 142,128 142,94 108,94\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"74\" cy=\"60\" r=\"4.5\" fill=\"#0f1b33\"/><circle cx=\"312\" cy=\"60\" r=\"4.5\" fill=\"#0f1b33\"/><circle cx=\"312\" cy=\"230\" r=\"4.5\" fill=\"#0f1b33\"/><text x=\"68\" y=\"51\" text-anchor=\"end\" fill=\"#0f1b33\" font-weight=\"bold\">A</text><text x=\"320\" y=\"51\" text-anchor=\"start\" fill=\"#0f1b33\" font-weight=\"bold\">B</text><text x=\"320\" y=\"248\" text-anchor=\"start\" fill=\"#0f1b33\" font-weight=\"bold\">C</text><circle cx=\"108\" cy=\"128\" r=\"4\" fill=\"#0f1b33\"/><text x=\"101\" y=\"145\" text-anchor=\"end\" fill=\"#0f1b33\" font-weight=\"bold\">P</text></svg>",
+       "q": "(b) D is the fourth corner of the rectangle ABCD. Write the coordinates of D.",
+       "ans": [
+        "(-4, -2)",
+        "(-4,-2)",
+        "-4,-2",
+        "(−4, −2)"
+       ],
+       "m": 1,
+       "s": "Coordinates and shapes",
+       "e": "In a rectangle, D is below A and level with C.\nD has the same x-coordinate as A (−4) and the same y-coordinate as C (−2).\nD = **(−4, −2)**."
+      },
+      {
+       "t": "text",
+       "p": "Question 27\nA garden plot plan is drawn on a coordinate grid. A, B and C are three corners of a rectangular plot. The square is a shed. P is one corner of the shed.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 410 312\" width=\"410\" font-family=\"Arial, sans-serif\" font-size=\"16\"><rect width=\"410\" height=\"312\" fill=\"#ffffff\"/><path d=\"M40 26v272M74 26v272M108 26v272M142 26v272M176 26v272M210 26v272M244 26v272M278 26v272M312 26v272M346 26v272M380 26v272M40 26h340M40 60h340M40 94h340M40 128h340M40 162h340M40 196h340M40 230h340M40 264h340M40 298h340\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><line x1=\"40\" y1=\"162\" x2=\"380\" y2=\"162\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"210\" y1=\"298\" x2=\"210\" y2=\"26\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><text x=\"40\" y=\"181\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">−5</text><text x=\"74\" y=\"181\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">−4</text><text x=\"108\" y=\"181\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">−3</text><text x=\"142\" y=\"181\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">−2</text><text x=\"176\" y=\"181\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">−1</text><text x=\"244\" y=\"181\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">1</text><text x=\"278\" y=\"181\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">2</text><text x=\"312\" y=\"181\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">3</text><text x=\"346\" y=\"181\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">4</text><text x=\"380\" y=\"181\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">5</text><text x=\"204\" y=\"304\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">−4</text><text x=\"204\" y=\"270\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">−3</text><text x=\"204\" y=\"236\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">−2</text><text x=\"204\" y=\"202\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">−1</text><text x=\"204\" y=\"134\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">1</text><text x=\"204\" y=\"100\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">2</text><text x=\"204\" y=\"66\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">3</text><text x=\"204\" y=\"32\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">4</text><text x=\"204\" y=\"181\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">0</text><text x=\"388\" y=\"168\" text-anchor=\"start\" fill=\"#0f1b33\" font-style=\"italic\">x</text><text x=\"220\" y=\"40\" text-anchor=\"start\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\" font-style=\"italic\">y</text><polyline points=\"74,60 312,60 312,230\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><polygon points=\"108,128 142,128 142,94 108,94\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"74\" cy=\"60\" r=\"4.5\" fill=\"#0f1b33\"/><circle cx=\"312\" cy=\"60\" r=\"4.5\" fill=\"#0f1b33\"/><circle cx=\"312\" cy=\"230\" r=\"4.5\" fill=\"#0f1b33\"/><text x=\"68\" y=\"51\" text-anchor=\"end\" fill=\"#0f1b33\" font-weight=\"bold\">A</text><text x=\"320\" y=\"51\" text-anchor=\"start\" fill=\"#0f1b33\" font-weight=\"bold\">B</text><text x=\"320\" y=\"248\" text-anchor=\"start\" fill=\"#0f1b33\" font-weight=\"bold\">C</text><circle cx=\"108\" cy=\"128\" r=\"4\" fill=\"#0f1b33\"/><text x=\"101\" y=\"145\" text-anchor=\"end\" fill=\"#0f1b33\" font-weight=\"bold\">P</text></svg>",
+       "q": "(c) The shed is moved 5 squares to the right and 2 squares down. Write the new coordinates of corner P.",
+       "ans": [
+        "(2, -1)",
+        "(2,-1)",
+        "2,-1",
+        "(2, −1)"
+       ],
+       "m": 1,
+       "s": "Translation",
+       "e": "P = (−3, 1).\n5 to the right: x = −3 + 5 = 2.\n2 down: y = 1 − 2 = −1.\nNew P = **(2, −1)**."
+      },
+      {
+       "p": "Question 28\nA bag has 6 red counters and 2 blue counters. Ali takes one counter without looking.",
+       "q": "Which word best describes the chance that Ali takes a blue counter?",
+       "c": [
+        "unlikely",
+        "impossible",
+        "even chance",
+        "likely"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Probability language",
+       "e": "2 of the 8 counters are blue: 2/8 = 1/4. That is less than an even chance (1/2), but it can happen.\nSo it is **unlikely** (A). It is not impossible, because there are blue counters in the bag."
+      },
+      {
+       "t": "open",
+       "p": "Question 29\nA spinner has eight equal sections numbered 1 to 8. Rana spins it once.",
+       "q": "Explain why the events \"the number is odd\" and \"the number is a multiple of 4\" are mutually exclusive.",
+       "ms": "1 mark: an explanation that the two events cannot happen at the same time because no number on the spinner is both odd and a multiple of 4, e.g. the multiples of 4 are 4 and 8, which are both even. Do not accept just \"they cannot happen together\" with no reference to the numbers.",
+       "m": 1,
+       "s": "Mutually exclusive events",
+       "e": "Odd numbers: 1, 3, 5, 7. Multiples of 4: 4, 8.\nNo number is in both lists (all multiples of 4 are even), so the two events **cannot happen at the same time**. Events like this are called mutually exclusive."
+      },
+      {
+       "t": "num",
+       "p": "Question 30\nSeven pupils write down how many library books they borrowed this term.\n3,   5,   2,   5,   8,   4,   1",
+       "q": "What is the median number of books?",
+       "ans": [
+        4
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Median",
+       "e": "Put the numbers in order: 1, 2, 3, **4**, 5, 5, 8.\nThere are 7 numbers, so the median is the 4th one: **4**.\nCommon mistake: giving 5 (that is the mode) or taking the middle of the unordered list (5)."
+      },
+      {
+       "t": "num",
+       "p": "Question 31\nA flower bed in the garden is a right-angled triangle.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 330 216\" width=\"330\" font-family=\"Arial, sans-serif\" font-size=\"16\"><rect width=\"330\" height=\"216\" fill=\"#ffffff\"/><polygon points=\"50,180 290,180 50,30\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M50 164h16v16\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"170\" y=\"204\" text-anchor=\"middle\" fill=\"#0f1b33\">8 m</text><text x=\"40\" y=\"111\" text-anchor=\"end\" fill=\"#0f1b33\">5 m</text></svg>",
+       "q": "Work out the area of the flower bed.",
+       "ans": [
+        20
+       ],
+       "tol": 0,
+       "unit": "m^{2}",
+       "m": 1,
+       "s": "Area of right-angled triangles",
+       "e": "A right-angled triangle is half of a rectangle.\nRectangle: 8 × 5 = 40 m².\nTriangle: 40 ÷ 2 = **20 m²**."
+      },
+      {
+       "t": "open",
+       "p": "Question 32\nOmar says, \"Every number that is divisible by 3 is also divisible by 6.\"",
+       "q": "Give an example to show that Omar is wrong. Explain your example.",
+       "ms": "1 mark: an odd multiple of 3 (e.g. 3, 9, 15, 21, 27, 33…) with a reason, e.g. 15 ÷ 3 = 5 but 15 is odd so it is not divisible by 6 / 15 ÷ 6 = 2.5. Do not accept an example that is a multiple of 6.",
+       "m": 1,
+       "s": "Divisibility (convincing)",
+       "e": "To be divisible by 6, a number must be divisible by 3 **and** be even.\nExample: **9**. 9 ÷ 3 = 3, but 9 is odd, so 9 ÷ 6 = 1.5 is not a whole number.\nOne counter-example is enough to show that a statement is wrong."
+      }
+     ]
+    },
+    {
+     "name": "Paper 2",
+     "minutes": 45,
+     "calc": true,
+     "questions": [
+      {
+       "t": "num",
+       "p": "Question 1\nAt sports day, seven pupils from Class 6A run 100 m. The table shows their times.\nName | Adam | Karim | Youssef | Omar | Ziad | Hamza | Seif\nTime (seconds) | 15.42 | 14.87 | 16.05 | 15.20 | 14.87 | 15.80 | 15.66",
+       "q": "(a) Round Seif's time to the nearest tenth of a second.",
+       "ans": [
+        15.7
+       ],
+       "tol": 0,
+       "unit": "seconds",
+       "m": 1,
+       "s": "Rounding decimals",
+       "e": "15.66: the tenths digit is 6; look at the hundredths digit, 6. It is 5 or more, so round up.\n15.66 → **15.7 seconds**."
+      },
+      {
+       "t": "num",
+       "p": "Question 1\nAt sports day, seven pupils from Class 6A run 100 m. The table shows their times.\nName | Adam | Karim | Youssef | Omar | Ziad | Hamza | Seif\nTime (seconds) | 15.42 | 14.87 | 16.05 | 15.20 | 14.87 | 15.80 | 15.66",
+       "q": "(b) What is the mode of the times?",
+       "ans": [
+        14.87
+       ],
+       "tol": 0,
+       "unit": "seconds",
+       "m": 1,
+       "s": "Mode",
+       "e": "The mode is the value that appears most often. 14.87 appears twice (Karim and Ziad).\nMode = **14.87 seconds**."
+      },
+      {
+       "t": "num",
+       "p": "Question 1\nAt sports day, seven pupils from Class 6A run 100 m. The table shows their times.\nName | Adam | Karim | Youssef | Omar | Ziad | Hamza | Seif\nTime (seconds) | 15.42 | 14.87 | 16.05 | 15.20 | 14.87 | 15.80 | 15.66",
+       "q": "(c) What is the median time?",
+       "ans": [
+        15.42
+       ],
+       "tol": 0,
+       "unit": "seconds",
+       "m": 1,
+       "s": "Median",
+       "e": "Order the times: 14.87, 14.87, 15.20, **15.42**, 15.66, 15.80, 16.05.\nThe middle (4th) value is **15.42 seconds**."
+      },
+      {
+       "t": "num",
+       "p": "Question 2\nAt sports day, seven pupils from Class 6A run 100 m. The table shows their times.\nName | Adam | Karim | Youssef | Omar | Ziad | Hamza | Seif\nTime (seconds) | 15.42 | 14.87 | 16.05 | 15.20 | 14.87 | 15.80 | 15.66",
+       "q": "Work out the mean time. Show your working.",
+       "ans": [
+        15.41
+       ],
+       "tol": 0,
+       "unit": "seconds",
+       "m": 2,
+       "s": "Mean",
+       "e": "Total = 15.42 + 14.87 + 16.05 + 15.20 + 14.87 + 15.80 + 15.66 = 107.87\nMean = 107.87 ÷ 7 = **15.41 seconds**.\nMark scheme: M1 for 107.87 ÷ 7 (or the total 107.87 seen); A1 for 15.41."
+      },
+      {
+       "t": "open",
+       "p": "Question 3\nAt sports day, seven pupils from Class 6A run 100 m. The table shows their times.\nName | Adam | Karim | Youssef | Omar | Ziad | Hamza | Seif\nTime (seconds) | 15.42 | 14.87 | 16.05 | 15.20 | 14.87 | 15.80 | 15.66\nFor Class 6B the mean time is 15.90 seconds and the range is 0.62 seconds.",
+       "q": "Compare the times of Class 6A and Class 6B. Write two different comparisons.",
+       "ms": "1 mark: Class 6A were faster on average, because their mean is lower (15.41 < 15.90) — FT their mean from Question 2. 1 mark: Class 6B's times were more consistent / closer together / less spread out, because their range is smaller (0.62 < 1.18); accept the range of 6A worked out as 1.18. Do not accept \"6B is faster because 15.90 is bigger\". Each comparison must refer to the mean or the range.",
+       "m": 2,
+       "s": "Comparing data sets",
+       "e": "Mean: 6A = 15.41 s, 6B = 15.90 s. A **lower** time is faster, so **6A were faster on average**.\nRange: 6A = 16.05 − 14.87 = 1.18 s; 6B = 0.62 s. 6B's range is smaller, so **6B's times were more consistent** (closer together).\nExam tip: compare one average AND one measure of spread, and say what each one means in the context."
+      },
+      {
+       "t": "num",
+       "p": "Question 4\nThe weather chart shows the temperature in a town in Sinai, measured every 3 hours on one day in January.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 502 306\" width=\"502\" font-family=\"Arial, sans-serif\" font-size=\"16\"><rect width=\"502\" height=\"306\" fill=\"#ffffff\"/><path d=\"M80 20V244M98.7 20V244M117.3 20V244M136 20V244M154.7 20V244M173.3 20V244M192 20V244M210.7 20V244M229.3 20V244M248 20V244M266.7 20V244M285.3 20V244M304 20V244M322.7 20V244M341.3 20V244M360 20V244M378.7 20V244M397.3 20V244M416 20V244M434.7 20V244M453.3 20V244M472 20V244M80 244H472M80 230H472M80 216H472M80 202H472M80 188H472M80 174H472M80 160H472M80 146H472M80 132H472M80 118H472M80 104H472M80 90H472M80 76H472M80 62H472M80 48H472M80 34H472M80 20H472\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><path d=\"M80 20V244M136 20V244M192 20V244M248 20V244M304 20V244M360 20V244M416 20V244M472 20V244M80 244H472M80 216H472M80 188H472M80 160H472M80 132H472M80 104H472M80 76H472M80 48H472M80 20H472\" stroke=\"#9aa9c2\" stroke-width=\"1\" fill=\"none\"/><line x1=\"80\" y1=\"188\" x2=\"472\" y2=\"188\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"80\" y1=\"244\" x2=\"80\" y2=\"20\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><text x=\"74\" y=\"250\" text-anchor=\"end\" fill=\"#0f1b33\">−4</text><text x=\"74\" y=\"222\" text-anchor=\"end\" fill=\"#0f1b33\">−2</text><text x=\"74\" y=\"194\" text-anchor=\"end\" fill=\"#0f1b33\">0</text><text x=\"74\" y=\"166\" text-anchor=\"end\" fill=\"#0f1b33\">2</text><text x=\"74\" y=\"138\" text-anchor=\"end\" fill=\"#0f1b33\">4</text><text x=\"74\" y=\"110\" text-anchor=\"end\" fill=\"#0f1b33\">6</text><text x=\"74\" y=\"82\" text-anchor=\"end\" fill=\"#0f1b33\">8</text><text x=\"74\" y=\"54\" text-anchor=\"end\" fill=\"#0f1b33\">10</text><text x=\"74\" y=\"26\" text-anchor=\"end\" fill=\"#0f1b33\">12</text><text x=\"80\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\">00:00</text><text x=\"136\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\">03:00</text><text x=\"192\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\">06:00</text><text x=\"248\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\">09:00</text><text x=\"304\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\">12:00</text><text x=\"360\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\">15:00</text><text x=\"416\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\">18:00</text><text x=\"472\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\">21:00</text><polyline points=\"80,202 136,230 192,216 248,132 304,62 360,34 416,104 472,160\" fill=\"none\" stroke=\"#1f5fbf\" stroke-width=\"2.5\"/><circle cx=\"80\" cy=\"202\" r=\"4\" fill=\"#1f5fbf\"/><circle cx=\"136\" cy=\"230\" r=\"4\" fill=\"#1f5fbf\"/><circle cx=\"192\" cy=\"216\" r=\"4\" fill=\"#1f5fbf\"/><circle cx=\"248\" cy=\"132\" r=\"4\" fill=\"#1f5fbf\"/><circle cx=\"304\" cy=\"62\" r=\"4\" fill=\"#1f5fbf\"/><circle cx=\"360\" cy=\"34\" r=\"4\" fill=\"#1f5fbf\"/><circle cx=\"416\" cy=\"104\" r=\"4\" fill=\"#1f5fbf\"/><circle cx=\"472\" cy=\"160\" r=\"4\" fill=\"#1f5fbf\"/><text x=\"276\" y=\"294\" text-anchor=\"middle\" fill=\"#0f1b33\">Time of day</text><text x=\"20\" y=\"132\" text-anchor=\"middle\" fill=\"#0f1b33\" transform=\"rotate(-90 20 132)\">Temperature (°C)</text></svg>",
+       "q": "(a) What was the temperature at 09:00?",
+       "ans": [
+        4
+       ],
+       "tol": 0,
+       "unit": "°C",
+       "m": 1,
+       "s": "Line graphs",
+       "e": "Go up from 09:00 to the line, then across to the temperature axis: **4 °C**."
+      },
+      {
+       "t": "num",
+       "p": "Question 4\nThe weather chart shows the temperature in a town in Sinai, measured every 3 hours on one day in January.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 502 306\" width=\"502\" font-family=\"Arial, sans-serif\" font-size=\"16\"><rect width=\"502\" height=\"306\" fill=\"#ffffff\"/><path d=\"M80 20V244M98.7 20V244M117.3 20V244M136 20V244M154.7 20V244M173.3 20V244M192 20V244M210.7 20V244M229.3 20V244M248 20V244M266.7 20V244M285.3 20V244M304 20V244M322.7 20V244M341.3 20V244M360 20V244M378.7 20V244M397.3 20V244M416 20V244M434.7 20V244M453.3 20V244M472 20V244M80 244H472M80 230H472M80 216H472M80 202H472M80 188H472M80 174H472M80 160H472M80 146H472M80 132H472M80 118H472M80 104H472M80 90H472M80 76H472M80 62H472M80 48H472M80 34H472M80 20H472\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><path d=\"M80 20V244M136 20V244M192 20V244M248 20V244M304 20V244M360 20V244M416 20V244M472 20V244M80 244H472M80 216H472M80 188H472M80 160H472M80 132H472M80 104H472M80 76H472M80 48H472M80 20H472\" stroke=\"#9aa9c2\" stroke-width=\"1\" fill=\"none\"/><line x1=\"80\" y1=\"188\" x2=\"472\" y2=\"188\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"80\" y1=\"244\" x2=\"80\" y2=\"20\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><text x=\"74\" y=\"250\" text-anchor=\"end\" fill=\"#0f1b33\">−4</text><text x=\"74\" y=\"222\" text-anchor=\"end\" fill=\"#0f1b33\">−2</text><text x=\"74\" y=\"194\" text-anchor=\"end\" fill=\"#0f1b33\">0</text><text x=\"74\" y=\"166\" text-anchor=\"end\" fill=\"#0f1b33\">2</text><text x=\"74\" y=\"138\" text-anchor=\"end\" fill=\"#0f1b33\">4</text><text x=\"74\" y=\"110\" text-anchor=\"end\" fill=\"#0f1b33\">6</text><text x=\"74\" y=\"82\" text-anchor=\"end\" fill=\"#0f1b33\">8</text><text x=\"74\" y=\"54\" text-anchor=\"end\" fill=\"#0f1b33\">10</text><text x=\"74\" y=\"26\" text-anchor=\"end\" fill=\"#0f1b33\">12</text><text x=\"80\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\">00:00</text><text x=\"136\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\">03:00</text><text x=\"192\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\">06:00</text><text x=\"248\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\">09:00</text><text x=\"304\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\">12:00</text><text x=\"360\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\">15:00</text><text x=\"416\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\">18:00</text><text x=\"472\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\">21:00</text><polyline points=\"80,202 136,230 192,216 248,132 304,62 360,34 416,104 472,160\" fill=\"none\" stroke=\"#1f5fbf\" stroke-width=\"2.5\"/><circle cx=\"80\" cy=\"202\" r=\"4\" fill=\"#1f5fbf\"/><circle cx=\"136\" cy=\"230\" r=\"4\" fill=\"#1f5fbf\"/><circle cx=\"192\" cy=\"216\" r=\"4\" fill=\"#1f5fbf\"/><circle cx=\"248\" cy=\"132\" r=\"4\" fill=\"#1f5fbf\"/><circle cx=\"304\" cy=\"62\" r=\"4\" fill=\"#1f5fbf\"/><circle cx=\"360\" cy=\"34\" r=\"4\" fill=\"#1f5fbf\"/><circle cx=\"416\" cy=\"104\" r=\"4\" fill=\"#1f5fbf\"/><circle cx=\"472\" cy=\"160\" r=\"4\" fill=\"#1f5fbf\"/><text x=\"276\" y=\"294\" text-anchor=\"middle\" fill=\"#0f1b33\">Time of day</text><text x=\"20\" y=\"132\" text-anchor=\"middle\" fill=\"#0f1b33\" transform=\"rotate(-90 20 132)\">Temperature (°C)</text></svg>",
+       "q": "(b) What is the difference between the highest and the lowest temperature on the chart?",
+       "ans": [
+        14
+       ],
+       "tol": 0,
+       "unit": "°C",
+       "m": 1,
+       "s": "Negative numbers",
+       "e": "Highest: 11 °C (at 15:00). Lowest: −3 °C (at 03:00).\nFrom −3 up to 0 is 3, from 0 up to 11 is 11: 3 + 11 = **14 °C**.\nCommon mistake: 11 − 3 = 8."
+      },
+      {
+       "t": "num",
+       "p": "Question 4\nThe weather chart shows the temperature in a town in Sinai, measured every 3 hours on one day in January.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 502 306\" width=\"502\" font-family=\"Arial, sans-serif\" font-size=\"16\"><rect width=\"502\" height=\"306\" fill=\"#ffffff\"/><path d=\"M80 20V244M98.7 20V244M117.3 20V244M136 20V244M154.7 20V244M173.3 20V244M192 20V244M210.7 20V244M229.3 20V244M248 20V244M266.7 20V244M285.3 20V244M304 20V244M322.7 20V244M341.3 20V244M360 20V244M378.7 20V244M397.3 20V244M416 20V244M434.7 20V244M453.3 20V244M472 20V244M80 244H472M80 230H472M80 216H472M80 202H472M80 188H472M80 174H472M80 160H472M80 146H472M80 132H472M80 118H472M80 104H472M80 90H472M80 76H472M80 62H472M80 48H472M80 34H472M80 20H472\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><path d=\"M80 20V244M136 20V244M192 20V244M248 20V244M304 20V244M360 20V244M416 20V244M472 20V244M80 244H472M80 216H472M80 188H472M80 160H472M80 132H472M80 104H472M80 76H472M80 48H472M80 20H472\" stroke=\"#9aa9c2\" stroke-width=\"1\" fill=\"none\"/><line x1=\"80\" y1=\"188\" x2=\"472\" y2=\"188\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"80\" y1=\"244\" x2=\"80\" y2=\"20\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><text x=\"74\" y=\"250\" text-anchor=\"end\" fill=\"#0f1b33\">−4</text><text x=\"74\" y=\"222\" text-anchor=\"end\" fill=\"#0f1b33\">−2</text><text x=\"74\" y=\"194\" text-anchor=\"end\" fill=\"#0f1b33\">0</text><text x=\"74\" y=\"166\" text-anchor=\"end\" fill=\"#0f1b33\">2</text><text x=\"74\" y=\"138\" text-anchor=\"end\" fill=\"#0f1b33\">4</text><text x=\"74\" y=\"110\" text-anchor=\"end\" fill=\"#0f1b33\">6</text><text x=\"74\" y=\"82\" text-anchor=\"end\" fill=\"#0f1b33\">8</text><text x=\"74\" y=\"54\" text-anchor=\"end\" fill=\"#0f1b33\">10</text><text x=\"74\" y=\"26\" text-anchor=\"end\" fill=\"#0f1b33\">12</text><text x=\"80\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\">00:00</text><text x=\"136\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\">03:00</text><text x=\"192\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\">06:00</text><text x=\"248\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\">09:00</text><text x=\"304\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\">12:00</text><text x=\"360\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\">15:00</text><text x=\"416\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\">18:00</text><text x=\"472\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\">21:00</text><polyline points=\"80,202 136,230 192,216 248,132 304,62 360,34 416,104 472,160\" fill=\"none\" stroke=\"#1f5fbf\" stroke-width=\"2.5\"/><circle cx=\"80\" cy=\"202\" r=\"4\" fill=\"#1f5fbf\"/><circle cx=\"136\" cy=\"230\" r=\"4\" fill=\"#1f5fbf\"/><circle cx=\"192\" cy=\"216\" r=\"4\" fill=\"#1f5fbf\"/><circle cx=\"248\" cy=\"132\" r=\"4\" fill=\"#1f5fbf\"/><circle cx=\"304\" cy=\"62\" r=\"4\" fill=\"#1f5fbf\"/><circle cx=\"360\" cy=\"34\" r=\"4\" fill=\"#1f5fbf\"/><circle cx=\"416\" cy=\"104\" r=\"4\" fill=\"#1f5fbf\"/><circle cx=\"472\" cy=\"160\" r=\"4\" fill=\"#1f5fbf\"/><text x=\"276\" y=\"294\" text-anchor=\"middle\" fill=\"#0f1b33\">Time of day</text><text x=\"20\" y=\"132\" text-anchor=\"middle\" fill=\"#0f1b33\" transform=\"rotate(-90 20 132)\">Temperature (°C)</text></svg>",
+       "q": "(c) Use the graph to estimate the temperature at 08:00.",
+       "ans": [
+        2
+       ],
+       "tol": 0.5,
+       "unit": "°C",
+       "m": 1,
+       "s": "Reading line graphs",
+       "e": "Each small square across is 1 hour. 08:00 is two small squares after 06:00.\nBetween 06:00 (−2 °C) and 09:00 (4 °C) the temperature rises 6 degrees in 3 hours, so 2 degrees each hour.\nAt 08:00: −2 + 2 + 2 = **2 °C** (accept 1.5 to 2.5)."
+      },
+      {
+       "t": "open",
+       "p": "Question 4\nThe weather chart shows the temperature in a town in Sinai, measured every 3 hours on one day in January.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 502 306\" width=\"502\" font-family=\"Arial, sans-serif\" font-size=\"16\"><rect width=\"502\" height=\"306\" fill=\"#ffffff\"/><path d=\"M80 20V244M98.7 20V244M117.3 20V244M136 20V244M154.7 20V244M173.3 20V244M192 20V244M210.7 20V244M229.3 20V244M248 20V244M266.7 20V244M285.3 20V244M304 20V244M322.7 20V244M341.3 20V244M360 20V244M378.7 20V244M397.3 20V244M416 20V244M434.7 20V244M453.3 20V244M472 20V244M80 244H472M80 230H472M80 216H472M80 202H472M80 188H472M80 174H472M80 160H472M80 146H472M80 132H472M80 118H472M80 104H472M80 90H472M80 76H472M80 62H472M80 48H472M80 34H472M80 20H472\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><path d=\"M80 20V244M136 20V244M192 20V244M248 20V244M304 20V244M360 20V244M416 20V244M472 20V244M80 244H472M80 216H472M80 188H472M80 160H472M80 132H472M80 104H472M80 76H472M80 48H472M80 20H472\" stroke=\"#9aa9c2\" stroke-width=\"1\" fill=\"none\"/><line x1=\"80\" y1=\"188\" x2=\"472\" y2=\"188\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"80\" y1=\"244\" x2=\"80\" y2=\"20\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><text x=\"74\" y=\"250\" text-anchor=\"end\" fill=\"#0f1b33\">−4</text><text x=\"74\" y=\"222\" text-anchor=\"end\" fill=\"#0f1b33\">−2</text><text x=\"74\" y=\"194\" text-anchor=\"end\" fill=\"#0f1b33\">0</text><text x=\"74\" y=\"166\" text-anchor=\"end\" fill=\"#0f1b33\">2</text><text x=\"74\" y=\"138\" text-anchor=\"end\" fill=\"#0f1b33\">4</text><text x=\"74\" y=\"110\" text-anchor=\"end\" fill=\"#0f1b33\">6</text><text x=\"74\" y=\"82\" text-anchor=\"end\" fill=\"#0f1b33\">8</text><text x=\"74\" y=\"54\" text-anchor=\"end\" fill=\"#0f1b33\">10</text><text x=\"74\" y=\"26\" text-anchor=\"end\" fill=\"#0f1b33\">12</text><text x=\"80\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\">00:00</text><text x=\"136\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\">03:00</text><text x=\"192\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\">06:00</text><text x=\"248\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\">09:00</text><text x=\"304\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\">12:00</text><text x=\"360\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\">15:00</text><text x=\"416\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\">18:00</text><text x=\"472\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\">21:00</text><polyline points=\"80,202 136,230 192,216 248,132 304,62 360,34 416,104 472,160\" fill=\"none\" stroke=\"#1f5fbf\" stroke-width=\"2.5\"/><circle cx=\"80\" cy=\"202\" r=\"4\" fill=\"#1f5fbf\"/><circle cx=\"136\" cy=\"230\" r=\"4\" fill=\"#1f5fbf\"/><circle cx=\"192\" cy=\"216\" r=\"4\" fill=\"#1f5fbf\"/><circle cx=\"248\" cy=\"132\" r=\"4\" fill=\"#1f5fbf\"/><circle cx=\"304\" cy=\"62\" r=\"4\" fill=\"#1f5fbf\"/><circle cx=\"360\" cy=\"34\" r=\"4\" fill=\"#1f5fbf\"/><circle cx=\"416\" cy=\"104\" r=\"4\" fill=\"#1f5fbf\"/><circle cx=\"472\" cy=\"160\" r=\"4\" fill=\"#1f5fbf\"/><text x=\"276\" y=\"294\" text-anchor=\"middle\" fill=\"#0f1b33\">Time of day</text><text x=\"20\" y=\"132\" text-anchor=\"middle\" fill=\"#0f1b33\" transform=\"rotate(-90 20 132)\">Temperature (°C)</text></svg>",
+       "q": "(d) Explain why a line graph is a good way to show this data.",
+       "ms": "1 mark: temperature is continuous data / it changes all the time (between the readings), so joining the points shows how it changes over time and lets you read values between the times. Do not accept \"it is easy to read\" alone.",
+       "m": 1,
+       "s": "Choosing a representation",
+       "e": "Temperature is **continuous** data: it changes all the time, not only at 00:00, 03:00, … A line graph joins the readings, so it shows the **change over time** and lets you estimate temperatures between the readings (as in part (c))."
+      },
+      {
+       "t": "num",
+       "p": "Question 5\nThe juice stall shows this price list.\nJuice | Price of one cup\nOrange | 18.50 pounds\nMango | 22.75 pounds\nGuava | 15.25 pounds",
+       "q": "Huda buys 3 cups of mango juice and 2 cups of guava juice. She pays with a 200-pound note.\nHow much change does she get? Show your working.",
+       "ans": [
+        101.25
+       ],
+       "tol": 0,
+       "unit": "pounds",
+       "m": 2,
+       "s": "Calculating with decimals",
+       "e": "Mango: 3 × 22.75 = 68.25\nGuava: 2 × 15.25 = 30.50\nTotal: 68.25 + 30.50 = 98.75\nChange: 200 − 98.75 = **101.25 pounds**.\nMark scheme: M1 for 98.75 seen (or 200 − 3 × 22.75 − 2 × 15.25); A1 for 101.25. Accept 101.25 written as 101 pounds 25 piastres."
+      },
+      {
+       "t": "num",
+       "p": "Question 6",
+       "q": "A jug holds 2.4 litres of orange juice. It is poured equally into 8 cups.\nHow much juice is in each cup?",
+       "ans": [
+        0.3
+       ],
+       "tol": 0,
+       "unit": "litres",
+       "m": 1,
+       "s": "Dividing decimals",
+       "e": "2.4 ÷ 8 = **0.3 litres** (that is 300 ml).\nCheck: 0.3 × 8 = 2.4 ✓"
+      },
+      {
+       "t": "num",
+       "p": "Question 7",
+       "q": "The stall uses 6 mangoes to make 4 cups of mango juice.\nHow many mangoes does it need to make 18 cups?",
+       "ans": [
+        27
+       ],
+       "tol": 0,
+       "unit": "mangoes",
+       "m": 1,
+       "s": "Direct proportion",
+       "e": "The number of mangoes and the number of cups are in direct proportion.\n4 cups need 6 mangoes, so 2 cups need 3 mangoes (halve both).\n18 cups = 9 × 2 cups, so 9 × 3 = **27 mangoes**.\n(Or: 6 ÷ 4 = 1.5 mangoes per cup; 18 × 1.5 = 27.)"
+      },
+      {
+       "t": "num",
+       "p": "Question 8",
+       "q": "On Friday the stall sells 240 cups of juice. 35% of them are orange juice.\nHow many cups of orange juice does it sell?",
+       "ans": [
+        84
+       ],
+       "tol": 0,
+       "unit": "cups",
+       "m": 1,
+       "s": "Percentages of amounts",
+       "e": "10% of 240 = 24, so 30% = 72. 5% = 12.\n35% = 72 + 12 = **84 cups**.\n(Calculator: 240 × 35 ÷ 100 = 84.)"
+      },
+      {
+       "t": "num",
+       "p": "Question 9\n152 pupils and 9 teachers go on a class trip to the zoo.",
+       "q": "(a) Each bus can carry 48 people. What is the smallest number of buses they need?",
+       "ans": [
+        4
+       ],
+       "tol": 0,
+       "unit": "buses",
+       "m": 1,
+       "s": "Division in context",
+       "e": "Number of people = 152 + 9 = 161.\n161 ÷ 48 = 3.35…\n3 buses carry only 144 people, so they need **4 buses**. Always round up when everyone must have a seat.\nCommon mistake: answering 3 or 3.35."
+      },
+      {
+       "t": "num",
+       "p": "Question 9\n152 pupils and 9 teachers go on a class trip to the zoo.\nZoo tickets cost 85 pounds for each pupil and 120 pounds for each teacher.",
+       "q": "(b) Work out the total cost of the tickets. Show your working.",
+       "ans": [
+        14000
+       ],
+       "tol": 0,
+       "unit": "pounds",
+       "m": 2,
+       "s": "Multiplication",
+       "e": "Pupils: 152 × 85 = 12 920\nTeachers: 9 × 120 = 1080\nTotal: 12 920 + 1080 = **14 000 pounds**.\nMark scheme: M1 for 152 × 85 + 9 × 120 (or 12 920 or 1080 seen with an attempt to add); A1 for 14 000."
+      },
+      {
+       "t": "num",
+       "p": "Question 10",
+       "q": "The bus journey home takes 1.4 hours.\n1.4 hours = 1 hour and how many minutes?",
+       "ans": [
+        24
+       ],
+       "tol": 0,
+       "unit": "minutes",
+       "m": 1,
+       "s": "Time",
+       "e": "0.4 of an hour = 0.4 × 60 = **24 minutes**.\nSo 1.4 hours = 1 hour 24 minutes (not 1 hour 40 minutes)."
+      },
+      {
+       "t": "num",
+       "p": "Question 11\nThe plan shows a rectangular school garden plot on a square grid. Each square is 1 m by 1 m.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 430 316\" width=\"430\" font-family=\"Arial, sans-serif\" font-size=\"16\"><rect width=\"430\" height=\"316\" fill=\"#ffffff\"/><rect x=\"46\" y=\"16\" width=\"360\" height=\"240\" fill=\"#f2faf2\"/><path d=\"M46 16v240M76 16v240M106 16v240M136 16v240M166 16v240M196 16v240M226 16v240M256 16v240M286 16v240M316 16v240M346 16v240M376 16v240M406 16v240M46 16h360M46 46h360M46 76h360M46 106h360M46 136h360M46 166h360M46 196h360M46 226h360M46 256h360\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><polygon points=\"46,256 226,256 46,136\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"256,106 406,106 406,16 256,16\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"46\" y=\"16\" width=\"360\" height=\"240\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><text x=\"91\" y=\"232\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">F</text><text x=\"331\" y=\"67\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">V</text><text x=\"226\" y=\"280\" text-anchor=\"middle\" fill=\"#0f1b33\">12 m</text><text x=\"38\" y=\"142\" text-anchor=\"end\" fill=\"#0f1b33\">8 m</text><text x=\"46\" y=\"306\" text-anchor=\"start\" fill=\"#0f1b33\" xml:space=\"preserve\">F = flower bed,  V = vegetable bed,  the rest is grass</text></svg>",
+       "q": "(a) Work out the area of the flower bed F.",
+       "ans": [
+        12
+       ],
+       "tol": 0,
+       "unit": "m^{2}",
+       "m": 1,
+       "s": "Area of right-angled triangles",
+       "e": "Count squares: the flower bed is a right-angled triangle 6 m along the bottom and 4 m up the side.\nArea = (6 × 4) ÷ 2 = 24 ÷ 2 = **12 m²**."
+      },
+      {
+       "t": "num",
+       "p": "Question 11\nThe plan shows a rectangular school garden plot on a square grid. Each square is 1 m by 1 m.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 430 316\" width=\"430\" font-family=\"Arial, sans-serif\" font-size=\"16\"><rect width=\"430\" height=\"316\" fill=\"#ffffff\"/><rect x=\"46\" y=\"16\" width=\"360\" height=\"240\" fill=\"#f2faf2\"/><path d=\"M46 16v240M76 16v240M106 16v240M136 16v240M166 16v240M196 16v240M226 16v240M256 16v240M286 16v240M316 16v240M346 16v240M376 16v240M406 16v240M46 16h360M46 46h360M46 76h360M46 106h360M46 136h360M46 166h360M46 196h360M46 226h360M46 256h360\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><polygon points=\"46,256 226,256 46,136\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"256,106 406,106 406,16 256,16\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"46\" y=\"16\" width=\"360\" height=\"240\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><text x=\"91\" y=\"232\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">F</text><text x=\"331\" y=\"67\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">V</text><text x=\"226\" y=\"280\" text-anchor=\"middle\" fill=\"#0f1b33\">12 m</text><text x=\"38\" y=\"142\" text-anchor=\"end\" fill=\"#0f1b33\">8 m</text><text x=\"46\" y=\"306\" text-anchor=\"start\" fill=\"#0f1b33\" xml:space=\"preserve\">F = flower bed,  V = vegetable bed,  the rest is grass</text></svg>",
+       "q": "(b) Work out the area of the grass. Show your working.",
+       "ans": [
+        69
+       ],
+       "tol": 0,
+       "unit": "m^{2}",
+       "m": 2,
+       "s": "Area of compound shapes",
+       "e": "Whole garden: 12 × 8 = 96 m².\nFlower bed: 12 m² (from part a).\nVegetable bed: 5 × 3 = 15 m².\nGrass: 96 − 12 − 15 = **69 m²**.\nMark scheme: M1 for 96 − (their 12) − 15, or 96 and 15 both seen; A1 for 69."
+      },
+      {
+       "t": "num",
+       "p": "Question 11\nThe plan shows a rectangular school garden plot on a square grid. Each square is 1 m by 1 m.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 430 316\" width=\"430\" font-family=\"Arial, sans-serif\" font-size=\"16\"><rect width=\"430\" height=\"316\" fill=\"#ffffff\"/><rect x=\"46\" y=\"16\" width=\"360\" height=\"240\" fill=\"#f2faf2\"/><path d=\"M46 16v240M76 16v240M106 16v240M136 16v240M166 16v240M196 16v240M226 16v240M256 16v240M286 16v240M316 16v240M346 16v240M376 16v240M406 16v240M46 16h360M46 46h360M46 76h360M46 106h360M46 136h360M46 166h360M46 196h360M46 226h360M46 256h360\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><polygon points=\"46,256 226,256 46,136\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"256,106 406,106 406,16 256,16\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"46\" y=\"16\" width=\"360\" height=\"240\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><text x=\"91\" y=\"232\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">F</text><text x=\"331\" y=\"67\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">V</text><text x=\"226\" y=\"280\" text-anchor=\"middle\" fill=\"#0f1b33\">12 m</text><text x=\"38\" y=\"142\" text-anchor=\"end\" fill=\"#0f1b33\">8 m</text><text x=\"46\" y=\"306\" text-anchor=\"start\" fill=\"#0f1b33\" xml:space=\"preserve\">F = flower bed,  V = vegetable bed,  the rest is grass</text></svg>",
+       "q": "(c) The vegetable bed is shared between tomatoes and beans in the ratio 3 : 2\nWhat area is used for tomatoes?",
+       "ans": [
+        9
+       ],
+       "tol": 0,
+       "unit": "m^{2}",
+       "m": 1,
+       "s": "Ratio",
+       "e": "Vegetable bed = 15 m². The ratio 3 : 2 has 3 + 2 = 5 parts.\nOne part = 15 ÷ 5 = 3 m².\nTomatoes = 3 parts = 3 × 3 = **9 m²** (beans = 6 m²)."
+      },
+      {
+       "t": "open",
+       "p": "Question 12",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 284 284\" width=\"284\" font-family=\"Arial, sans-serif\" font-size=\"16\"><rect width=\"284\" height=\"284\" fill=\"#ffffff\"/><path d=\"M16 16v252M52 16v252M88 16v252M124 16v252M160 16v252M196 16v252M232 16v252M268 16v252M16 16h252M16 52h252M16 88h252M16 124h252M16 160h252M16 196h252M16 232h252M16 268h252\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><polygon points=\"52,160 52,52 88,52 124,124\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"16\" y1=\"268\" x2=\"268\" y2=\"16\" stroke=\"#0f1b33\" stroke-width=\"3\" stroke-dasharray=\"9 5\"/><text x=\"201.4\" y=\"30.4\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">mirror line</text></svg>",
+       "q": "Draw the reflection of the shape in the mirror line.",
+       "ms": "1 mark: the correct reflection drawn. Counting squares from the bottom-left corner of the grid (across, up), the image has its vertices at (3, 1), (6, 1), (6, 2) and (4, 3). Accept a correct reflection drawn freehand if the vertices are clearly at these grid points.",
+       "m": 1,
+       "s": "Reflection",
+       "e": "The mirror line is diagonal. For each corner, count squares to the mirror line at right angles to it (diagonally) and go the same distance on the other side.\nA quick way on this grid: label the bottom-left corner (0, 0). The shape's corners are (1, 3), (1, 6), (2, 6), (3, 4). Reflecting in this diagonal swaps the two numbers: (3, 1), (6, 1), (6, 2), (4, 3).\nJoin these points. The image should be the same size and shape, and flipped over the line."
+      },
+      {
+       "t": "open",
+       "p": "Question 13",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 294 268\" width=\"294\" font-family=\"Arial, sans-serif\" font-size=\"16\"><rect width=\"294\" height=\"268\" fill=\"#ffffff\"/><path d=\"M40 30v224M72 30v224M104 30v224M136 30v224M168 30v224M200 30v224M232 30v224M264 30v224M40 30h224M40 62h224M40 94h224M40 126h224M40 158h224M40 190h224M40 222h224M40 254h224\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><line x1=\"40\" y1=\"158\" x2=\"264\" y2=\"158\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"104\" y1=\"254\" x2=\"104\" y2=\"30\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><text x=\"40\" y=\"177\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">−2</text><text x=\"72\" y=\"177\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">−1</text><text x=\"136\" y=\"177\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">1</text><text x=\"168\" y=\"177\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">2</text><text x=\"200\" y=\"177\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">3</text><text x=\"232\" y=\"177\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">4</text><text x=\"264\" y=\"177\" text-anchor=\"middle\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">5</text><text x=\"98\" y=\"260\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">−3</text><text x=\"98\" y=\"228\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">−2</text><text x=\"98\" y=\"196\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">−1</text><text x=\"98\" y=\"132\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">1</text><text x=\"98\" y=\"100\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">2</text><text x=\"98\" y=\"68\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">3</text><text x=\"98\" y=\"36\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">4</text><text x=\"98\" y=\"177\" text-anchor=\"end\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\">0</text><text x=\"272\" y=\"164\" text-anchor=\"start\" fill=\"#0f1b33\" font-style=\"italic\">x</text><text x=\"114\" y=\"44\" text-anchor=\"start\" fill=\"#0f1b33\" stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\" font-style=\"italic\">y</text><polygon points=\"136,126 232,126 136,62\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"136\" cy=\"126\" r=\"5\" fill=\"#0f1b33\"/><text x=\"128\" y=\"117\" text-anchor=\"end\" fill=\"#0f1b33\" font-weight=\"bold\">C</text></svg>",
+       "q": "Rotate the triangle 90° clockwise about the vertex C.\nDraw the new triangle on the grid.",
+       "ms": "1 mark: triangle drawn with vertices at (1, 1), (1, −2) and (3, 1). Do not accept a 90° anticlockwise rotation (vertices (1, 1), (1, 4), (−1, 1)).",
+       "m": 1,
+       "s": "Rotation",
+       "e": "C = (1, 1) stays where it is.\nThe side from C to (4, 1) goes 3 squares right. After a quarter turn clockwise it goes 3 squares **down**: to (1, −2).\nThe side from C to (1, 3) goes 2 squares up. After a quarter turn clockwise it goes 2 squares **right**: to (3, 1).\nNew triangle: **(1, 1), (1, −2), (3, 1)**. Tip: use tracing paper, hold the pencil point on C and turn the paper a quarter turn clockwise."
+      },
+      {
+       "t": "num",
+       "p": "Question 14\nThis shape is made from a cube with a square-based pyramid on top.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 310\" width=\"240\" font-family=\"Arial, sans-serif\" font-size=\"16\"><rect width=\"240\" height=\"310\" fill=\"#ffffff\"/><polygon points=\"40,290 160,290 160,170 40,170\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"160,290 210,255 210,135 160,170\" fill=\"#d5e3f6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"40,170 160,170 125,37.5\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"160,170 210,135 125,37.5\" fill=\"#f6e7bd\" stroke=\"#0f1b33\" stroke-width=\"2\"/></svg>",
+       "q": "How many faces does the shape have?",
+       "ans": [
+        9
+       ],
+       "tol": 0,
+       "unit": "faces",
+       "m": 1,
+       "s": "Compound 3D shapes",
+       "e": "The cube has 6 faces, but its top face is covered by the pyramid: 5 faces show.\nThe pyramid has 5 faces, but its square base is on the cube: 4 triangles show.\n5 + 4 = **9 faces**.\nCommon mistake: 6 + 5 = 11 (counting the two hidden faces where the shapes join)."
+      },
+      {
+       "t": "open",
+       "p": "Question 15",
+       "q": "Sketch a net of a square-based pyramid.",
+       "ms": "1 mark: one square and four triangles, arranged so that they fold into a square-based pyramid (e.g. a triangle on each side of the square). Do not accept a net with the wrong number of faces or with two triangles on the same side of the square.",
+       "m": 1,
+       "s": "Nets",
+       "e": "A square-based pyramid has 1 square face and 4 triangular faces.\nThe usual net: a square in the middle with one triangle on each of its four sides (like a star).\nOther nets also work, for example four triangles joined in a row (alternately pointing up and down) with the square attached to the base of one triangle."
+      },
+      {
+       "p": "Question 16",
+       "q": "Which sentence describes capacity?",
+       "c": [
+        "The amount of space that a solid object takes up",
+        "The amount that a container can hold when it is full",
+        "The total area of all the faces of a 3D shape",
+        "The distance all the way around a 2D shape"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Capacity and volume",
+       "e": "**Capacity** is how much a container can hold when it is full (for example 2 litres of juice) — answer B.\nA describes volume. C describes surface area. D describes perimeter."
+      },
+      {
+       "t": "num",
+       "p": "Question 17\nBooks are delivered to the library in a box shaped like a cuboid. It is 30 cm long, 20 cm wide and 10 cm high.",
+       "q": "Work out the surface area of the box. Show your working.",
+       "ans": [
+        2200
+       ],
+       "tol": 0,
+       "unit": "cm^{2}",
+       "m": 2,
+       "s": "Surface area",
+       "e": "A cuboid has three pairs of equal faces.\nTop and bottom: 30 × 20 = 600, two of them = 1200\nFront and back: 30 × 10 = 300, two of them = 600\nTwo ends: 20 × 10 = 200, two of them = 400\nSurface area = 1200 + 600 + 400 = **2200 cm²**.\nMark scheme: M1 for at least two of 600, 300, 200 (or 1200, 600, 400) seen; A1 for 2200. Common mistake: 1100 (each face counted once) or 6000 (that is the volume)."
+      },
+      {
+       "p": "Question 18",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 200\" width=\"400\" font-family=\"Arial, sans-serif\" font-size=\"16\"><rect width=\"400\" height=\"200\" fill=\"#ffffff\"/><line x1=\"210\" y1=\"175\" x2=\"380\" y2=\"175\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"210\" y1=\"175\" x2=\"105.3\" y2=\"41\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><path d=\"M246,175 A36,36 0 0 0 187.8,146.6\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"235.4\" y=\"128.9\" text-anchor=\"middle\" fill=\"#0f1b33\" font-style=\"italic\" font-size=\"18\">a</text><circle cx=\"210\" cy=\"175\" r=\"3\" fill=\"#0f1b33\"/></svg>",
+       "q": "Estimate the size of angle a.",
+       "c": [
+        "128°",
+        "38°",
+        "52°",
+        "152°"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Estimating angles",
+       "e": "Angle a is **obtuse**: it is more than a right angle (90°) but less than a straight line (180°). So 38° and 52° (acute) are wrong.\nIt is about a right angle plus 40° (90° + 40° = 130°), and still far from a straight line, so **128°** (A) is the best estimate. 152° would be much flatter, close to a straight line."
+      },
+      {
+       "t": "open",
+       "p": "Question 19",
+       "q": "Hassan wants to draw a circle with a diameter of 9 cm using compasses.\nHow far apart should he set the point and the pencil of the compasses? Explain your answer.",
+       "ms": "1 mark: 4.5 cm with a reason, e.g. the compasses draw the radius / the radius is half of the diameter (9 ÷ 2 = 4.5). Do not accept 9 cm.",
+       "m": 1,
+       "s": "Constructing circles",
+       "e": "The distance between the compass point and the pencil is the **radius**.\nRadius = diameter ÷ 2 = 9 ÷ 2 = **4.5 cm**.\nIn the real test you may be asked to draw the circle: put the point on the centre, keep the setting at 4.5 cm and turn the compasses all the way round."
+      },
+      {
+       "t": "open",
+       "p": "Question 20\nAt the zoo shop there is a game with a spinner showing four animals. Mona spins it 100 times. These are her results.\nAnimal | lion | zebra | monkey | giraffe\nFrequency | 12 | 25 | 9 | 54",
+       "q": "(a) Mona's friend says, \"Each animal is equally likely.\"\nDo Mona's results support this? Explain your answer.",
+       "ms": "1 mark: No, with a reason using the results, e.g. if each animal were equally likely each would come up about 25 times out of 100, but giraffe came up 54 times and monkey only 9 times. Do not accept \"No\" with no reason.",
+       "m": 1,
+       "s": "Probability experiments",
+       "e": "If the four animals were equally likely, each would land about 100 ÷ 4 = 25 times.\nGiraffe came up 54 times (more than half) and monkey only 9 times. The results are far from 25 each, so they **do not support** the statement — the spinner seems more likely to land on giraffe."
+      },
+      {
+       "p": "Question 20\nAt the zoo shop there is a game with a spinner showing four animals. Mona spins it 100 times. These are her results.\nAnimal | lion | zebra | monkey | giraffe\nFrequency | 12 | 25 | 9 | 54",
+       "q": "(b) Why is it better to spin the spinner 100 times than 10 times?",
+       "c": [
+        "It makes the spinner fair",
+        "Each animal will then come up the same number of times",
+        "The results give a more reliable estimate of the probability",
+        "The spinner will land on giraffe every time"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Large numbers of trials",
+       "e": "With only a few trials the results can be very different from what we expect, just by chance. A **large number of trials** gives a more reliable estimate of the probability (C).\nMore spins cannot change whether the spinner is fair (A), and the results will not become exactly equal (B)."
+      },
+      {
+       "t": "num",
+       "p": "Question 21\nAt the zoo shop there is a game with a spinner showing four animals. Mona spins it 100 times. These are her results.\nAnimal | lion | zebra | monkey | giraffe\nFrequency | 12 | 25 | 9 | 54",
+       "q": "Mona spins the spinner another 200 times. About how many times should she expect it to land on zebra?",
+       "ans": [
+        50
+       ],
+       "tol": 0,
+       "unit": "times",
+       "m": 1,
+       "s": "Predicting frequency",
+       "e": "Zebra came up 25 times out of 100 (one quarter).\n200 is double 100, so expect about 25 × 2 = **50 times**."
+      },
+      {
+       "p": "Question 22\nPupils collect different kinds of data on sports day.",
+       "q": "Which of these is continuous data?",
+       "c": [
+        "the number of medals each class wins",
+        "each pupil's favourite sport",
+        "the number of pupils in each race",
+        "the time each pupil takes to run 100 m"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Types of data",
+       "e": "Continuous data is measured and can take any value in a range (time, length, mass, temperature).\nTime to run 100 m (for example 15.42 s) is continuous — **D**.\nNumbers of medals and pupils are discrete (counted). Favourite sport is categorical."
+      },
+      {
+       "t": "open",
+       "p": "Question 23",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 244\" width=\"440\" font-family=\"Arial, sans-serif\" font-size=\"16\"><rect width=\"440\" height=\"244\" fill=\"#ffffff\"/><rect x=\"10\" y=\"34\" width=\"420\" height=\"200\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"165\" cy=\"134\" r=\"86\" fill=\"#eaf1fb\"/><circle cx=\"275\" cy=\"134\" r=\"86\" fill=\"#e3f4e5\" fill-opacity=\"0.6\"/><circle cx=\"165\" cy=\"134\" r=\"86\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"275\" cy=\"134\" r=\"86\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"140\" y=\"24\" text-anchor=\"middle\" fill=\"#0f1b33\">factors of 24</text><text x=\"300\" y=\"24\" text-anchor=\"middle\" fill=\"#0f1b33\">factors of 36</text></svg>",
+       "q": "Write the numbers 5, 8, 9, 12 and 18 in the correct places on the Venn diagram.",
+       "ms": "1 mark for all five correct: 8 in 'factors of 24' only; 9 and 18 in 'factors of 36' only; 12 in the overlap; 5 outside both circles (inside the rectangle).",
+       "m": 1,
+       "s": "Venn diagrams and common factors",
+       "e": "Factors of 24: 1, 2, 3, 4, 6, 8, 12, 24. Factors of 36: 1, 2, 3, 4, 6, 9, 12, 18, 36.\n**8** → factors of 24 only.\n**9** and **18** → factors of 36 only.\n**12** → a common factor, so it goes in the overlap.\n**5** → a factor of neither, so it goes outside both circles."
+      },
+      {
+       "t": "num",
+       "p": "Question 24\n7 litres of juice are shared equally between 4 jugs.",
+       "q": "How many litres are in each jug? Give your answer as a mixed number or a decimal.",
+       "ans": [
+        1.75,
+        "7/4",
+        "1 3/4"
+       ],
+       "tol": 0,
+       "unit": "litres",
+       "m": 1,
+       "s": "Fractions as division",
+       "e": "7 ÷ 4 = 7/4 (a fraction is a division of the numerator by the denominator).\n7/4 = **1 3/4 litres** = 1.75 litres."
+      },
+      {
+       "t": "open",
+       "p": "Question 25\nA sequence starts at 2.5 and goes up by 0.75 each time.\n2.5,   3.25,   4,   4.75,   …",
+       "q": "Is 10 a term in this sequence? Explain how you know.",
+       "ms": "1 mark: Yes, with a correct reason, e.g. (10 − 2.5) ÷ 0.75 = 10 steps, a whole number / it is the 11th term / continuing the sequence 5.5, 6.25, 7, 7.75, 8.5, 9.25, 10. Do not accept \"Yes\" with no working.",
+       "m": 1,
+       "s": "Sequences (convincing)",
+       "e": "From 2.5 to 10 is 10 − 2.5 = 7.5.\n7.5 ÷ 0.75 = 10, a whole number of steps, so **yes**, 10 is in the sequence.\nIt is 10 steps after the first term, so it is the **11th term**.\nCheck by counting on: 4.75, 5.5, 6.25, 7, 7.75, 8.5, 9.25, 10 ✓"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "After the test",
+   "items": [
+    "**Check every wrong answer.** Read the worked solution, then cover it and do the question again on paper until you can do it without help.",
+    "**Mark your written answers strictly.** Give yourself a mark only when your answer matches the mark scheme. For [2] questions, check whether your method would have earned the method mark (M1).",
+    "**Sort your mistakes:** a fact you did not know, a calculation slip, a misread question, a missing unit, or a graph or table read wrongly? Slips and misreading are the quickest marks to win back.",
+    "**Number lessons to revisit:** place value and regrouping → *Place Value and Decimals to Thousandths*; sequences and rules → *Counting On and Back and Negative Numbers* and *Sequences, Letters and Position-to-Term Rules*; long multiplication and division → *Multiplying Whole Numbers (up to 10 000 × 2-digit)* and *Dividing Whole Numbers (up to 1000 ÷ 2-digit)*; order of operations → *Order of Operations, Brackets and Laws of Arithmetic*; multiples, factors and divisibility → *Factors, Multiples and Tests of Divisibility*; cube numbers → *Square Numbers and Cube Numbers*; rounding → *Rounding Decimals*.",
+    "**Fractions, decimals and ratio:** *Fractions: Division, Operators and Simplest Form*, *Adding and Subtracting Fractions*, *Multiplying and Dividing Fractions by Whole Numbers*, *Fractions, Decimals and Percentages: Equivalence and Ordering*, *Adding, Subtracting, Multiplying and Dividing Decimals*, *Ratio and Direct Proportion*, and *Time: Decimals and Mixed Units*.",
+    "**Geometry:** *Angles: Measuring, Drawing and Angles in a Triangle*, *Quadrilaterals: Properties and Classification*, *Circles: Parts and Constructing Circles*, *Area of Rectangles and Right-angled Triangles*, *3D Shapes, Compound Shapes and Nets*, *Capacity, Volume and Surface Area*, *Coordinates in Four Quadrants*, *Rotational Symmetry, Translation, Reflection and Rotation*.",
+    "**Statistics and probability:** *Collecting and Representing Data*, *Mode, Median, Mean and Range, and Interpreting Data*, *Probability*. For explaining and convincing questions, reread *Checkpoint 6 Maths: The Test and How to Prepare*.",
+    "When you are ready, try **Practice Test 2** under timed conditions and compare your scores."
+   ]
+  }
+ ]
+}

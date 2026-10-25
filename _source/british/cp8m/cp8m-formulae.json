@@ -1,0 +1,655 @@
+{
+ "slug": "cp8m-formulae",
+ "title": "Writing Expressions and Formulae, and Changing the Subject",
+ "kicker": "Checkpoint 8 Maths · Algebra · Expressions and formulae",
+ "summary": "Translate between words and algebraic expressions or formulae (including fractional coefficients), and use inverse operations to change the subject of a formula.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Change a situation in words into an algebraic expression, and an expression back into words — including expressions with fractions, such as ½n − 3 or 2n/5 (8Ae.04)",
+    "Change a situation in words into a formula with mixed operations, and use inverse operations to change the subject of a formula, e.g. make x the subject of y = 3x − 5 (8Ae.05)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Algebra is a language. On this page you learn to **translate** between English and algebra — turning sentences into expressions and formulae, and reading algebra back as words. Then you learn to **rearrange** a formula so that a different letter is on its own: this is called **changing the subject**, and it uses the same inverse operations you use to solve equations."
+  },
+  {
+   "type": "h2",
+   "text": "Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "expression",
+     "مقدار جبري — terms with no equals sign, e.g. 3n − 8"
+    ],
+    [
+     "formula",
+     "قانون / صيغة — a rule that links quantities, e.g. C = 5 + 3h"
+    ],
+    [
+     "subject of a formula",
+     "موضوع القانون — the letter on its own on one side; in C = 5 + 3h the subject is C"
+    ],
+    [
+     "change the subject (rearrange)",
+     "تغيير موضوع القانون — rewrite the formula so another letter is on its own"
+    ],
+    [
+     "inverse operation",
+     "العملية العكسية — the operation that undoes another: + and −, × and ÷, squaring and square root"
+    ],
+    [
+     "coefficient",
+     "معامل — the number multiplying a letter; in ¾n the coefficient is ¾"
+    ],
+    [
+     "substitute",
+     "يعوّض — replace letters by numbers"
+    ],
+    [
+     "sum, difference, product",
+     "مجموع، فرق، حاصل ضرب — the answers to +, −, ×"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. From words to expressions"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Words",
+    "Expression",
+    "Watch out"
+   ],
+   "rows": [
+    [
+     "5 more than n",
+     "n + 5",
+     ""
+    ],
+    [
+     "5 less than n",
+     "n − 5",
+     "not 5 − n"
+    ],
+    [
+     "n less than 5  /  subtract n from 5",
+     "5 − n",
+     "the order is reversed in English"
+    ],
+    [
+     "twice n  /  double n",
+     "2n",
+     ""
+    ],
+    [
+     "the product of x and y",
+     "xy",
+     ""
+    ],
+    [
+     "a third of n",
+     "n/3  or  ⅓n",
+     "both are correct"
+    ],
+    [
+     "three-quarters of n",
+     "3n/4  or  ¾n",
+     "both are correct"
+    ],
+    [
+     "multiply n by 4, then add 1",
+     "4n + 1",
+     ""
+    ],
+    [
+     "add 1 to n, then multiply by 4",
+     "4(n + 1)",
+     "brackets show 'do this first'"
+    ],
+    [
+     "half of the sum of a and b",
+     "(a + b)/2",
+     "not a + b/2"
+    ],
+    [
+     "the square of n, then multiply by 3",
+     "3n²",
+     "not (3n)²"
+    ],
+    [
+     "n divided by 2, then subtract 3",
+     "n/2 − 3  or  ½n − 3",
+     ""
+    ],
+    [
+     "subtract 3 from n, then divide by 2",
+     "(n − 3)/2",
+     ""
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Key idea:** the order of the instructions decides where the brackets go. If an addition or subtraction must happen **before** a multiplication or division, it needs brackets (or a fraction line over it)."
+  },
+  {
+   "type": "p",
+   "text": "**In context.** A pen costs p cents and a ruler costs 30 cents more: ruler = **p + 30**. Ali has x sweets and gives away a quarter of them: he has **¾x** left. Sara earns $d per day and saves two-fifths of it: she saves **2d/5** (or ⅖d) per day. In 7 days she saves 7 × 2d/5 = **14d/5**."
+  },
+  {
+   "type": "h2",
+   "text": "2. From expressions to words"
+  },
+  {
+   "type": "p",
+   "text": "Read the expression in the **order of operations** (brackets, indices, ×/÷, +/−) and say each step:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Expression",
+    "In words"
+   ],
+   "rows": [
+    [
+     "3x − 7",
+     "multiply x by 3, then subtract 7"
+    ],
+    [
+     "3(x − 7)",
+     "subtract 7 from x, then multiply by 3"
+    ],
+    [
+     "x/4 + 2",
+     "divide x by 4, then add 2"
+    ],
+    [
+     "(x + 2)/4",
+     "add 2 to x, then divide by 4"
+    ],
+    [
+     "⅔x",
+     "two-thirds of x (multiply by 2, divide by 3)"
+    ],
+    [
+     "5x²",
+     "square x, then multiply by 5"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "3. Writing formulae"
+  },
+  {
+   "type": "p",
+   "text": "A formula has a **subject** and an equals sign. Steps: (1) choose letters and say what each one means (with units); (2) write a worked example with numbers; (3) replace the numbers by letters."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Hiring a bike costs $5 plus $3 for each hour. For 4 hours: 5 + 3 × 4 = $17. Formula: **C = 5 + 3h**, where C is the cost in dollars and h the number of hours.",
+    "A taxi charges $2.50 plus $0.80 per kilometre: **C = 2.5 + 0.8k**.",
+    "Average speed s is distance d divided by time t: **s = d/t**.",
+    "The number of fence posts P for a straight fence of length L metres, with a post every 2 m and one extra at the start: **P = L/2 + 1**.",
+    "The perimeter of a rectangle of length l and width w: **P = 2l + 2w** or **P = 2(l + w)**."
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 420 175\" width=\"420\" font-family=\"Arial, sans-serif\" font-size=\"14\"><rect x=\"60\" y=\"30\" width=\"280\" height=\"110\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"200\" y=\"22\" text-anchor=\"middle\" fill=\"#0f1b33\" font-size=\"15\">(3x + 2) cm</text><text x=\"350\" y=\"90\" text-anchor=\"start\" fill=\"#0f1b33\" font-size=\"15\">x cm</text><text x=\"200\" y=\"165\" text-anchor=\"middle\" fill=\"#0f1b33\" font-size=\"13\">NOT TO SCALE</text></svg>",
+   "caption": "A rectangle with length (3x + 2) cm and width x cm, used in Worked example 4."
+  },
+  {
+   "type": "h2",
+   "text": "4. Changing the subject of a formula"
+  },
+  {
+   "type": "p",
+   "text": "To make a different letter the subject, **undo** what has been done to it, in **reverse order**, using inverse operations — and do the same thing to **both sides**. A function machine helps you see the order."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 520 235\" width=\"520\" font-family=\"Arial, sans-serif\" font-size=\"14\"><text x=\"30\" y=\"22\" text-anchor=\"start\" fill=\"#0f1b33\" font-size=\"14\" font-weight=\"bold\">Forwards: start with x, end with y</text><text x=\"30\" y=\"66\" text-anchor=\"middle\" fill=\"#0f1b33\" font-size=\"20\" font-weight=\"bold\" font-style=\"italic\">x</text><rect x=\"105\" y=\"40\" width=\"90\" height=\"40\" fill=\"#d6e6fa\" stroke=\"#0f1b33\" stroke-width=\"2\" rx=\"6\"/><text x=\"150\" y=\"66\" text-anchor=\"middle\" fill=\"#0f1b33\" font-size=\"18\" font-weight=\"bold\">× 3</text><rect x=\"255\" y=\"40\" width=\"90\" height=\"40\" fill=\"#d6e6fa\" stroke=\"#0f1b33\" stroke-width=\"2\" rx=\"6\"/><text x=\"300\" y=\"66\" text-anchor=\"middle\" fill=\"#0f1b33\" font-size=\"18\" font-weight=\"bold\">− 5</text><text x=\"450\" y=\"66\" text-anchor=\"middle\" fill=\"#0f1b33\" font-size=\"20\" font-weight=\"bold\" font-style=\"italic\">y</text><line x1=\"44\" y1=\"60\" x2=\"101\" y2=\"60\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"101.0,60.0 94.6,62.7 94.6,57.3\" fill=\"#0f1b33\"/><line x1=\"199\" y1=\"60\" x2=\"251\" y2=\"60\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"251.0,60.0 244.6,62.7 244.6,57.3\" fill=\"#0f1b33\"/><line x1=\"349\" y1=\"60\" x2=\"436\" y2=\"60\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"436.0,60.0 429.6,62.7 429.6,57.3\" fill=\"#0f1b33\"/><text x=\"30\" y=\"125\" text-anchor=\"start\" fill=\"#1b6e2e\" font-size=\"14\" font-weight=\"bold\">Backwards (inverse): start with y, end with x</text><text x=\"30\" y=\"169\" text-anchor=\"middle\" fill=\"#1b6e2e\" font-size=\"20\" font-weight=\"bold\" font-style=\"italic\">x</text><rect x=\"105\" y=\"143\" width=\"90\" height=\"40\" fill=\"#cfe9d3\" stroke=\"#0f1b33\" stroke-width=\"2\" rx=\"6\"/><text x=\"150\" y=\"169\" text-anchor=\"middle\" fill=\"#0f1b33\" font-size=\"18\" font-weight=\"bold\">÷ 3</text><rect x=\"255\" y=\"143\" width=\"90\" height=\"40\" fill=\"#cfe9d3\" stroke=\"#0f1b33\" stroke-width=\"2\" rx=\"6\"/><text x=\"300\" y=\"169\" text-anchor=\"middle\" fill=\"#0f1b33\" font-size=\"18\" font-weight=\"bold\">+ 5</text><text x=\"450\" y=\"169\" text-anchor=\"middle\" fill=\"#1b6e2e\" font-size=\"20\" font-weight=\"bold\" font-style=\"italic\">y</text><line x1=\"101\" y1=\"163\" x2=\"44\" y2=\"163\" stroke=\"#1b6e2e\" stroke-width=\"2\"/><polygon points=\"44.0,163.0 50.4,160.3 50.4,165.7\" fill=\"#1b6e2e\"/><line x1=\"251\" y1=\"163\" x2=\"199\" y2=\"163\" stroke=\"#1b6e2e\" stroke-width=\"2\"/><polygon points=\"199.0,163.0 205.4,160.3 205.4,165.7\" fill=\"#1b6e2e\"/><line x1=\"436\" y1=\"163\" x2=\"349\" y2=\"163\" stroke=\"#1b6e2e\" stroke-width=\"2\"/><polygon points=\"349.0,163.0 355.4,160.3 355.4,165.7\" fill=\"#1b6e2e\"/><text x=\"270\" y=\"222\" text-anchor=\"middle\" fill=\"#0f1b33\" font-size=\"16\" font-weight=\"bold\">y = 3x − 5   →   x = (y + 5) ÷ 3</text></svg>",
+   "caption": "In y = 3x − 5, x is multiplied by 3 and then 5 is subtracted. To get x back, add 5 and then divide by 3, so x = (y + 5)/3."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Find the letter you want as the new subject.",
+    "List the operations done to it, in order (use BIDMAS).",
+    "Undo them one by one in **reverse order**, doing the same to both sides.",
+    "Write the new subject on the left: x = …",
+    "Check by substituting numbers into both versions."
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Formula",
+    "Make … the subject",
+    "Steps (both sides)",
+    "Answer"
+   ],
+   "rows": [
+    [
+     "y = x + 7",
+     "x",
+     "− 7",
+     "x = y − 7"
+    ],
+    [
+     "P = 4s",
+     "s",
+     "÷ 4",
+     "s = P/4"
+    ],
+    [
+     "y = 3x − 5",
+     "x",
+     "+ 5, then ÷ 3",
+     "x = (y + 5)/3"
+    ],
+    [
+     "y = x/4 + 2",
+     "x",
+     "− 2, then × 4",
+     "x = 4(y − 2)"
+    ],
+    [
+     "A = ½bh",
+     "h",
+     "× 2, then ÷ b",
+     "h = 2A/b"
+    ],
+    [
+     "P = 2l + 2w",
+     "l",
+     "− 2w, then ÷ 2",
+     "l = (P − 2w)/2"
+    ],
+    [
+     "v = u + at",
+     "a",
+     "− u, then ÷ t",
+     "a = (v − u)/t"
+    ],
+    [
+     "y = 10 − x",
+     "x",
+     "+ x, then − y",
+     "x = 10 − y"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Check example:** y = 3x − 5. If x = 4, then y = 7. Put y = 7 into x = (y + 5)/3: (7 + 5)/3 = 4 ✓. When the new formula gives back the number you started with, your rearranging is correct."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "تغيير موضوع القانون",
+   "text": "اسأل نفسك: إيه اللي حصل للحرف اللي عايزه؟ وبالترتيب؟ وبعدين اعكس كل خطوة بالعكس: الجمع يتشال بالطرح، والضرب يتشال بالقسمة — وابدأ بآخر عملية حصلت. وأي حاجة تعملها في ناحية، اعملها في الناحية التانية."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — Write an expression for each.  (a) Multiply n by 3, then subtract 8.  (b) Subtract 8 from n, then multiply by 3.  (c) Two-thirds of n, add 1.  [3]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "(a) **3n − 8**",
+    "(b) The subtraction happens first, so it needs brackets: **3(n − 8)**",
+    "(c) **⅔n + 1** (also accept 2n/3 + 1)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Common mistake: writing 3n − 8 for (b). Without brackets, the multiplication would be done first."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — Amira is x years old. Her brother is 4 years younger than Amira. Her mother is three times as old as Amira.  (a) Write an expression for her brother's age.  (b) Write an expression for her mother's age.  (c) Write and simplify an expression for the total of their three ages.  [3]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "(a) **x − 4**",
+    "(b) **3x**",
+    "(c) x + (x − 4) + 3x = **5x − 4**"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — A taxi company charges a fixed $3 plus $1.20 for each kilometre.  (a) Write a formula for the cost C dollars of a journey of k kilometres.  (b) Find the cost of a 15 km journey.  (c) A journey costs $12.60. How far was it?  [4]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "(a) **C = 3 + 1.2k** (or C = 1.2k + 3).",
+    "(b) C = 3 + 1.2 × 15 = 3 + 18 = **$21**.",
+    "(c) Undo the operations: subtract 3, then divide by 1.2. k = (12.60 − 3) ÷ 1.2 = 9.6 ÷ 1.2 = **8 km**. (Or rearrange first: k = (C − 3)/1.2.)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — The rectangle in the diagram above has length (3x + 2) cm and width x cm.  (a) Write a formula for its perimeter P. Simplify your answer.  (b) Make x the subject of your formula.  (c) Find x when P = 60.  [4]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "(a) P = 2(3x + 2) + 2x = 6x + 4 + 2x → **P = 8x + 4**.",
+    "(b) Operations on x: × 8, then + 4. Undo: − 4, then ÷ 8 → **x = (P − 4)/8**.",
+    "(c) x = (60 − 4)/8 = 56/8 = **7**. Check: length 23, width 7 → 2 × 23 + 2 × 7 = 60 ✓"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — Make x the subject of y = x/5 + 2.  [2]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Operations on x: ÷ 5, then + 2.",
+    "Subtract 2 from both sides: y − 2 = x/5.",
+    "Multiply both sides by 5: **x = 5(y − 2)** (or x = 5y − 10).",
+    "Check: x = 15 gives y = 3 + 2 = 5, and 5(5 − 2) = 15 ✓"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** — (a) Make h the subject of A = ½bh.  (b) Make l the subject of P = 2l + 2w.  [4]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "(a) Multiply both sides by 2: 2A = bh. Divide both sides by b: **h = 2A/b**.",
+    "(b) Subtract 2w: P − 2w = 2l. Divide by 2: **l = (P − 2w)/2** (also correct: l = P/2 − w)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Common mistake in (b): writing l = P − 2w ÷ 2. That means only 2w is divided by 2. Use a bracket or a long fraction line."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 7 (challenge)** — The formula C = 5(F − 32)/9 changes a temperature in °F to °C. Make F the subject.  [3]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Operations on F, in order: − 32, × 5, ÷ 9.",
+    "Undo ÷ 9: 9C = 5(F − 32).",
+    "Undo × 5: 9C/5 = F − 32.",
+    "Undo − 32: **F = 9C/5 + 32**.",
+    "Check: C = 100 → F = 900/5 + 32 = 180 + 32 = 212 ✓ (water boils at 100 °C = 212 °F)."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Reversing 'less than': '5 less than n' is n − 5, not 5 − n.",
+    "Forgetting brackets: 'add 1 to n, then multiply by 4' is 4(n + 1), not 4n + 1.",
+    "Writing a formula without the subject, e.g. '5 + 3h' when asked for a formula for C. Write C = 5 + 3h.",
+    "Undoing operations in the wrong order: for y = 3x − 5, dividing by 3 first gives x = y/3 + 5, which is wrong.",
+    "Doing an operation to only one term: from y − 2 = x/5, multiplying gives 5(y − 2) = x, not 5y − 2.",
+    "Dividing only part of an expression: (P − 2w)/2 is not P − 2w/2.",
+    "Not checking — substituting a pair of numbers takes 20 seconds and catches most errors."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "'Write an expression for…' (no equals sign) versus 'Write a formula for…' (must start 'C = …'). Read the command.",
+    "'Draw lines to match each description with its expression' — check where the brackets go.",
+    "Context questions with ages, costs, perimeters and fixed charges, often in several parts that build on each other.",
+    "'Make x the subject of the formula' — show each step; a correct first step can earn a method mark.",
+    "Fractional coefficients: ½n, ¾x and 2n/5 are all acceptable ways of writing the answer.",
+    "'Rearrange and then find…' — rearrange first, then substitute; or substitute first and solve. Both get the marks if the working is clear."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Expressions and formulae — practice quiz",
+   "timed": false,
+   "intro": "No calculator. Type formulae with an equals sign, e.g. x=(y-3)/4. Use / for division and brackets where they are needed; spaces do not matter.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 25,
+     "calc": false,
+     "questions": [
+      {
+       "q": "Which expression means 'add 4 to n, then multiply by 5'?",
+       "c": [
+        "5n + 4",
+        "5(n + 4)",
+        "4(n + 5)",
+        "n + 20"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Words to expressions",
+       "e": "The addition happens first, so it goes in a bracket: (n + 4), then × 5 → 5(n + 4)."
+      },
+      {
+       "q": "Which expression means 'a quarter of y, minus 6'?",
+       "c": [
+        "y/4 − 6",
+        "(y − 6)/4",
+        "4y − 6",
+        "6 − y/4"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Fractional coefficients",
+       "e": "A quarter of y is y/4 (or ¼y); then subtract 6 → y/4 − 6. (y − 6)/4 would mean subtract first, then take a quarter."
+      },
+      {
+       "t": "text",
+       "q": "Write an expression for 'subtract x from 20'.",
+       "ans": [
+        "20-x",
+        "-x+20"
+       ],
+       "m": 1,
+       "s": "Words to expressions",
+       "e": "'Subtract x from 20' means start with 20 and take away x: 20 − x."
+      },
+      {
+       "t": "text",
+       "q": "Mona has m dollars. Sara has half as much as Mona, plus $5.\nWrite an expression for the amount Sara has, in dollars.",
+       "ans": [
+        "m/2+5",
+        "1/2m+5",
+        "½m+5",
+        "0.5m+5",
+        "5+m/2",
+        "5+1/2m",
+        "5+½m",
+        "5+0.5m",
+        "(1/2)m+5"
+       ],
+       "m": 1,
+       "s": "Words to expressions",
+       "e": "Half of m is m/2 (or ½m); plus 5 → m/2 + 5."
+      },
+      {
+       "q": "Which description matches the expression 2(x − 7)?",
+       "c": [
+        "Multiply x by 2, then subtract 7",
+        "Subtract 2 from x, then multiply by 7",
+        "Subtract x from 7, then multiply by 2",
+        "Subtract 7 from x, then multiply by 2"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Expressions to words",
+       "e": "The bracket is worked out first: x − 7 (subtract 7 from x). Then the result is multiplied by 2."
+      },
+      {
+       "t": "text",
+       "p": "Question 6\nA plumber charges a call-out fee of $40 plus $25 for each hour of work.",
+       "q": "(a) Write a formula for the total charge, T dollars, for h hours of work.",
+       "ans": [
+        "T=40+25h",
+        "T=25h+40",
+        "T=40+25×h",
+        "T=25×h+40"
+       ],
+       "m": 1,
+       "s": "Writing formulae",
+       "e": "Fixed $40 plus 25 for each hour: T = 40 + 25h."
+      },
+      {
+       "t": "num",
+       "p": "Question 6\nA plumber charges a call-out fee of $40 plus $25 for each hour of work.",
+       "q": "(b) The total charge is $115. How many hours did the plumber work?",
+       "ans": [
+        3
+       ],
+       "tol": 0,
+       "unit": "hours",
+       "m": 1,
+       "s": "Using formulae",
+       "e": "115 = 40 + 25h → 75 = 25h → h = 3 hours. (Or h = (T − 40)/25 = 75/25 = 3.)"
+      },
+      {
+       "t": "text",
+       "q": "Make x the subject of y = x − 9",
+       "ans": [
+        "x=y+9",
+        "x=9+y"
+       ],
+       "m": 1,
+       "s": "Changing the subject",
+       "e": "9 was subtracted from x, so add 9 to both sides: x = y + 9."
+      },
+      {
+       "t": "text",
+       "q": "Make x the subject of y = 4x + 3",
+       "ans": [
+        "x=(y-3)/4",
+        "x=(y-3)÷4",
+        "x=y/4-3/4",
+        "x=1/4(y-3)",
+        "x=¼(y-3)",
+        "x=(1/4)(y-3)"
+       ],
+       "m": 2,
+       "s": "Changing the subject",
+       "e": "Operations on x: × 4, then + 3. Undo in reverse: subtract 3 → y − 3 = 4x; divide by 4 → x = (y − 3)/4."
+      },
+      {
+       "t": "text",
+       "q": "Make x the subject of y = x/5 + 2",
+       "ans": [
+        "x=5(y-2)",
+        "x=5y-10",
+        "x=(y-2)×5",
+        "x=(y-2)5",
+        "x=-10+5y"
+       ],
+       "m": 2,
+       "s": "Changing the subject",
+       "e": "Operations on x: ÷ 5, then + 2. Undo: subtract 2 → y − 2 = x/5; multiply by 5 → x = 5(y − 2) = 5y − 10."
+      },
+      {
+       "t": "text",
+       "q": "The formula for the circumference of a circle is C = 2πr.\nMake r the subject. (Type π as pi if you need to.)",
+       "ans": [
+        "r=C/(2π)",
+        "r=C/2π",
+        "r=C÷2π",
+        "r=C÷(2π)",
+        "r=C/(2pi)",
+        "r=C/2pi",
+        "r=C÷2pi",
+        "r=C÷(2pi)"
+       ],
+       "m": 1,
+       "s": "Changing the subject",
+       "e": "r is multiplied by 2π. Divide both sides by 2π: r = C/(2π)."
+      },
+      {
+       "t": "open",
+       "q": "Yusuf makes a the subject of P = 2a + b. He writes:\n  a = P − b ÷ 2\nExplain his mistake and write the correct formula.",
+       "m": 2,
+       "s": "Changing the subject",
+       "ms": "1 mark: explanation that the whole of P − b must be divided by 2 (his answer divides only b by 2 / he needs brackets), oe. 1 mark: a = (P − b)/2 or a = (P − b) ÷ 2 or a = P/2 − b/2, oe.",
+       "e": "From P = 2a + b: subtract b → P − b = 2a; divide by 2 → a = (P − b)/2. Yusuf's version, by the order of operations, divides only b by 2. He needs brackets: a = (P − b) ÷ 2."
+      },
+      {
+       "t": "text",
+       "p": "Question 13\nThe formula v = u + at is used in science.",
+       "q": "(a) Make u the subject of the formula.",
+       "ans": [
+        "u=v-at",
+        "u=-at+v",
+        "u=v-ta"
+       ],
+       "m": 1,
+       "s": "Changing the subject",
+       "e": "at is added to u, so subtract at from both sides: u = v − at."
+      },
+      {
+       "t": "num",
+       "p": "Question 13\nThe formula v = u + at is used in science.",
+       "q": "(b) Find u when v = 30, a = 4 and t = 5.",
+       "ans": [
+        10
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Using formulae",
+       "e": "u = v − at = 30 − 4 × 5 = 30 − 20 = 10. Check: 10 + 4 × 5 = 30 ✓"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "The order of the words decides the brackets: 'add 1, then × 4' = 4(n + 1).",
+    "'5 less than n' = n − 5; 'subtract n from 5' = 5 − n.",
+    "A quarter of n = n/4 = ¼n; fractional coefficients are fine.",
+    "A formula has a subject: C = 5 + 3h. An expression does not.",
+    "Change the subject: undo the operations in reverse order, doing the same to both sides; check with numbers."
+   ]
+  }
+ ]
+}

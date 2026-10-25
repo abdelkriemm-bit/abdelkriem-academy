@@ -1,0 +1,81 @@
+{
+ "hub": "checkpoint-8-science.html",
+ "active": "british.html",
+ "short": "Checkpoint 8 Science",
+ "labels": {
+  "prev": "← Previous",
+  "next": "Next →",
+  "back": "← Back to",
+  "done": "Finished! Back to",
+  "toc": "All pages in this course",
+  "start": "Start the course →",
+  "crumb": "<a href=\"british.html\">British &amp; IGCSE</a> › <a href=\"checkpoint-8.html\">Checkpoint 8</a> › "
+ },
+ "kicker": "Cambridge Lower Secondary · Science 0893 · Stage 8",
+ "title": "Checkpoint 8 Science — Complete Course",
+ "summary": "The whole Cambridge Lower Secondary Stage 8 Science curriculum — biology, chemistry, physics, Earth and space, and working scientifically — with clear diagrams, key words in Arabic, an interactive quiz on every page and full Checkpoint-style end-of-year practice tests with printable PDFs.",
+ "meta_desc": "The whole Cambridge Lower Secondary Stage 8 Science curriculum — biology, chemistry, physics, Earth and space, and working scientifically — with clear diagrams, key words in Arabic, an interactive quiz on every page and full Checkpoint-style end-of-year practice tests with printable PDFs.",
+ "sections": [
+  {
+   "title": "Start here",
+   "desc": "",
+   "pages": [
+    "cp8s-overview",
+    "cp8s-working-scientifically"
+   ]
+  },
+  {
+   "title": "Biology",
+   "desc": "",
+   "pages": [
+    "cp8s-skeleton-muscles",
+    "cp8s-blood",
+    "cp8s-breathing-gas-exchange",
+    "cp8s-diet-health",
+    "cp8s-respiration",
+    "cp8s-ecosystems"
+   ]
+  },
+  {
+   "title": "Chemistry",
+   "desc": "",
+   "pages": [
+    "cp8s-atoms",
+    "cp8s-purity-concentration-chromatography",
+    "cp8s-word-equations-energy",
+    "cp8s-reactivity-of-metals",
+    "cp8s-products-solubility"
+   ]
+  },
+  {
+   "title": "Physics",
+   "desc": "",
+   "pages": [
+    "cp8s-speed-graphs",
+    "cp8s-forces-moments",
+    "cp8s-pressure-diffusion",
+    "cp8s-reflection-refraction",
+    "cp8s-colour",
+    "cp8s-magnetism"
+   ]
+  },
+  {
+   "title": "Earth and space",
+   "desc": "",
+   "pages": [
+    "cp8s-earth-resources",
+    "cp8s-climate",
+    "cp8s-galaxies-asteroids"
+   ]
+  },
+  {
+   "title": "Practice tests",
+   "desc": "End-of-Stage-8 tests in Checkpoint style: Paper 1 and Paper 2, 45 minutes and 50 marks each.",
+   "pages": [
+    "cp8s-practice-test-1",
+    "cp8s-practice-test-2",
+    "cp8s-practice-test-3"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,491 @@
+{
+ "slug": "cp8m-area",
+ "title": "Area of Parallelograms and Trapezia",
+ "kicker": "Checkpoint 8 Maths · Geometry and Measure · 8Gg.04",
+ "summary": "See where the formulae A = bh and A = ½(a + b)h come from, then use them to find areas, missing heights and missing sides in Checkpoint-style problems.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Use what you know about **rectangles, squares and triangles** to work out (derive) the formulae for the area of a **parallelogram** and a **trapezium**. (8Gg.04)",
+    "Use the formulae to **calculate** the area of parallelograms and trapezia, and to find a missing length when the area is known. (8Gg.04)"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "area",
+     "المساحة — the amount of flat space inside a shape, in square units (cm², m², mm²)"
+    ],
+    [
+     "parallelogram",
+     "متوازي أضلاع — two pairs of parallel sides"
+    ],
+    [
+     "trapezium (plural: trapezia)",
+     "شبه منحرف — at least one pair of parallel sides"
+    ],
+    [
+     "base (b)",
+     "القاعدة — the side you measure the height from"
+    ],
+    [
+     "perpendicular height (h)",
+     "الارتفاع العمودي — the distance between the parallel sides, measured at 90°"
+    ],
+    [
+     "slant height / sloping side",
+     "الضلع المائل — a side that leans; it is NOT the height"
+    ],
+    [
+     "derive",
+     "يستنتج — show where a formula comes from"
+    ],
+    [
+     "formula (plural: formulae)",
+     "قانون — a rule written with letters"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "You already know: **area of a rectangle = length × width (b × h)**, **area of a square = side × side**, and **area of a triangle = ½ × base × perpendicular height**. Every formula on this page is built from these."
+  },
+  {
+   "type": "h2",
+   "text": "2. Area of a parallelogram"
+  },
+  {
+   "type": "p",
+   "text": "**Deriving the formula.** Cut a right-angled triangle off one end of the parallelogram (along the dashed height line) and slide it to the other end. The pieces make a **rectangle**. Nothing was added or removed, so the area has not changed."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 510 196\" width=\"510\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"30,140 186,140 238,36 82,36\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"30,140 82,140 82,36\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"30,140 186,140 238,36 82,36\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"82\" y1=\"36\" x2=\"82\" y2=\"140\" stroke=\"#0f1b33\" stroke-width=\"1.8\" stroke-dasharray=\"6 4\"/><polyline points=\"92,140 92,130 82,130\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"90\" y=\"93\" font-weight=\"bold\">h</text><text x=\"108\" y=\"162\" text-anchor=\"middle\" font-weight=\"bold\">b</text><text x=\"48\" y=\"128\" text-anchor=\"middle\" font-size=\"13\">cut</text><line x1=\"255\" y1=\"90\" x2=\"294.6\" y2=\"90\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><polygon points=\"300,90 291,94 291,86\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><text x=\"277\" y=\"75\" text-anchor=\"middle\" font-size=\"13\">move</text><polygon points=\"320,140 476,140 476,36 320,36\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"424,140 476,140 476,36\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"320,140 476,140 476,36 320,36\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><text x=\"398\" y=\"162\" text-anchor=\"middle\" font-weight=\"bold\">b</text><text x=\"312\" y=\"93\" text-anchor=\"end\" font-weight=\"bold\">h</text><polyline points=\"332,140 332,128 320,128\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"140\" y=\"185\" text-anchor=\"middle\" font-size=\"13\">parallelogram</text><text x=\"398\" y=\"185\" text-anchor=\"middle\" font-size=\"13\">rectangle: area = b × h</text></svg>",
+   "caption": "A parallelogram can be cut and rearranged into a rectangle with the same base b and the same height h."
+  },
+  {
+   "type": "p",
+   "text": "The rectangle has length b and width h, so its area is b × h. Therefore:"
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Area of a parallelogram",
+   "text": "**Area = base × perpendicular height**  →  **A = bh**. The height must be measured at **right angles** to the base, not along the sloping side."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 370 182\" width=\"370\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"30,150 246,150 325.6,30 109.6,30\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"109.6\" y1=\"30\" x2=\"109.6\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"1.8\" stroke-dasharray=\"6 4\"/><polyline points=\"119.6,150 119.6,140 109.6,140\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"117.6\" y=\"95\" font-weight=\"bold\">5 cm</text><text x=\"138\" y=\"172\" text-anchor=\"middle\">9 cm</text><text x=\"307.5\" y=\"109.4\" text-anchor=\"middle\">6 cm</text></svg>",
+   "caption": "The height is 5 cm (dashed, at 90° to the base). The sloping side, 6 cm, is not used for the area."
+  },
+  {
+   "type": "p",
+   "text": "**Any side can be the base**, as long as you use the height that is perpendicular to *that* side. A useful result: parallelograms (and rectangles) with the **same base and the same height** always have the **same area**, however much they lean."
+  },
+  {
+   "type": "h2",
+   "text": "3. Area of a trapezium"
+  },
+  {
+   "type": "p",
+   "text": "A trapezium has two **parallel sides** (call them a and b) and a perpendicular height h between them. There are two good ways to derive the formula."
+  },
+  {
+   "type": "p",
+   "text": "**Method 1 — two copies make a parallelogram.** Take two identical trapezia. Turn one upside down (rotate it 180°) and put it next to the other. Together they make a parallelogram with base **(a + b)** and height **h**."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 194\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"20,130 188,130 140,34 44,34\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><text x=\"104\" y=\"152\" text-anchor=\"middle\" font-weight=\"bold\">a</text><text x=\"92\" y=\"26\" text-anchor=\"middle\" font-weight=\"bold\">b</text><line x1=\"74\" y1=\"34\" x2=\"74\" y2=\"130\" stroke=\"#0f1b33\" stroke-width=\"1.8\" stroke-dasharray=\"6 4\"/><polyline points=\"84,130 84,120 74,120\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"82\" y=\"87\" font-weight=\"bold\">h</text><text x=\"105\" y=\"182\" text-anchor=\"middle\" font-size=\"13\">trapezium</text><line x1=\"205\" y1=\"85\" x2=\"234.6\" y2=\"85\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><polygon points=\"240,85 231,89 231,81\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><polygon points=\"250,130 514,130 538,34 274,34\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"418,130 514,130 538,34 370,34\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"250,130 514,130 538,34 274,34\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><text x=\"334\" y=\"152\" text-anchor=\"middle\" font-weight=\"bold\">a</text><text x=\"466\" y=\"152\" text-anchor=\"middle\" font-weight=\"bold\">b</text><text x=\"322\" y=\"26\" text-anchor=\"middle\" font-weight=\"bold\">b</text><text x=\"454\" y=\"26\" text-anchor=\"middle\" font-weight=\"bold\">a</text><text x=\"394\" y=\"182\" text-anchor=\"middle\" font-size=\"13\">parallelogram: base (a + b), height h</text></svg>",
+   "caption": "Two identical trapezia fit together to make a parallelogram with base a + b."
+  },
+  {
+   "type": "p",
+   "text": "Area of the parallelogram = (a + b) × h. One trapezium is **half** of it: area = ½(a + b)h."
+  },
+  {
+   "type": "p",
+   "text": "**Method 2 — split into two triangles.** Draw a diagonal. The trapezium becomes two triangles with the same height h: one has base a, the other has base b."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 185\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"40,150 280,150 205,30\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"40,150 205,30 85,30\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"40\" y1=\"150\" x2=\"205\" y2=\"30\" stroke=\"#c0392b\" stroke-width=\"2\"/><text x=\"160\" y=\"172\" text-anchor=\"middle\" font-weight=\"bold\">a</text><text x=\"145\" y=\"22\" text-anchor=\"middle\" font-weight=\"bold\">b</text><line x1=\"205\" y1=\"30\" x2=\"205\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"1.8\" stroke-dasharray=\"6 4\"/><polyline points=\"215,150 215,140 205,140\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"213\" y=\"95\" font-weight=\"bold\">h</text><text x=\"320\" y=\"60\">yellow triangle: ½ × b × h</text><text x=\"320\" y=\"85\">blue triangle: ½ × a × h</text><text x=\"320\" y=\"120\">total = ½ah + ½bh</text><text x=\"320\" y=\"145\" font-weight=\"bold\">= ½(a + b)h</text></svg>",
+   "caption": "A diagonal splits the trapezium into two triangles with the same height."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Area of a trapezium",
+   "text": "**Area = ½ × (sum of the parallel sides) × perpendicular height**  →  **A = ½(a + b)h**. In words: add the parallel sides, multiply by the height, then halve. (You can halve first if that is easier: ½ of 4 = 2, then 2 × 16 = 32.)"
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "القوانين بالعربي",
+   "items": [
+    "متوازي الأضلاع = القاعدة × الارتفاع العمودي (A = bh). لو قصّيت مثلث من ناحية وحطيته في الناحية التانية هيبقى مستطيل.",
+    "شبه المنحرف = نص × (مجموع الضلعين المتوازيين) × الارتفاع: A = ½(a + b)h. نسختين منه بيعملوا متوازي أضلاع قاعدته a + b.",
+    "الارتفاع لازم يكون عمودي (زاوية 90°) — الضلع المايل مانستخدموش في المساحة."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "4. Method, step by step"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "**Name the shape** and write the formula: A = bh or A = ½(a + b)h.",
+    "**Find the right lengths**: for a parallelogram, the base and the perpendicular height; for a trapezium, the two parallel sides (look for arrows) and the height between them. Cross out any sloping length you do not need.",
+    "**Check the units** are the same (all cm or all m). Convert first if they are not.",
+    "**Substitute and calculate.** Show this line: it earns the method mark.",
+    "**Write square units**: cm², m², mm².",
+    "**Reverse questions** (area given, length missing): substitute what you know, then use inverse operations. For a trapezium, multiply the area by 2 first, then divide by the height (or by the sum of the parallel sides)."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "5. Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** [2 marks]\nWork out the area of the parallelogram in section 2 (base 9 cm, sloping side 6 cm, perpendicular height 5 cm)."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "A = b × h. The height is the perpendicular one: 5 cm.",
+    "A = 9 × 5 = 45",
+    "**Answer: 45 cm²**"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Common mistake:** 9 × 6 = 54 cm². The 6 cm side slopes, so it is not the height."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** [2 marks]\nCalculate the area of this trapezium."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 310 172\" width=\"310\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"30,140 270,140 210,44 66,44\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polyline points=\"219,144.9 226,140 219,135.1\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polyline points=\"178.2,48.9 185.2,44 178.2,39.1\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"116\" y1=\"44\" x2=\"116\" y2=\"140\" stroke=\"#0f1b33\" stroke-width=\"1.8\" stroke-dasharray=\"6 4\"/><polyline points=\"126,140 126,130 116,130\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"124\" y=\"97\" font-weight=\"bold\">4 cm</text><text x=\"150\" y=\"162\" text-anchor=\"middle\">10 cm</text><text x=\"138\" y=\"34\" text-anchor=\"middle\">6 cm</text></svg>",
+   "caption": "Parallel sides 6 cm and 10 cm; perpendicular height 4 cm."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "A = ½(a + b)h = ½ × (6 + 10) × 4",
+    "= ½ × 16 × 4 = 8 × 4 = 32",
+    "**Answer: 32 cm²**"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Common mistake:** ½ × 6 + 10 × 4 = 43. Add the parallel sides **first** (brackets!), then multiply."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** [2 marks]\nA parallelogram has area 56 cm² and base 8 cm. Work out its perpendicular height."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "A = bh, so 56 = 8 × h.",
+    "h = 56 ÷ 8 = 7",
+    "**Answer: 7 cm**"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** [2 marks]\nA trapezium has parallel sides 7 m and 13 m. Its area is 60 m². Find the perpendicular height."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "60 = ½ × (7 + 13) × h = ½ × 20 × h = 10h",
+    "h = 60 ÷ 10 = 6",
+    "**Answer: 6 m**"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** [3 marks]\nA trapezium has area 45 cm² and height 6 cm. One of its parallel sides is 5 cm. Find the length of the other parallel side."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "45 = ½ × (5 + b) × 6 = 3 × (5 + b)",
+    "5 + b = 45 ÷ 3 = 15",
+    "b = 15 − 5 = 10",
+    "**Answer: 10 cm.** Check: ½ × (5 + 10) × 6 = ½ × 15 × 6 = 45 ✓"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** [4 marks]\nA farmer's field is a trapezium. A bag of grass seed covers 50 m² and costs 85 Egyptian pounds. How much will it cost to cover the whole field?"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 182\" width=\"400\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"50,150 338,150 230,37.5 50,37.5\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polyline points=\"62,150 62,138 50,138\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><polyline points=\"62,37.5 62,49.5 50,49.5\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"194\" y=\"172\" text-anchor=\"middle\">64 m</text><text x=\"140\" y=\"27.5\" text-anchor=\"middle\">40 m</text><text x=\"42\" y=\"98.8\" text-anchor=\"end\">25 m</text><text x=\"220\" y=\"20\" text-anchor=\"middle\" font-size=\"13\">NOT TO SCALE</text></svg>",
+   "caption": "The field: parallel sides 40 m and 64 m, perpendicular height 25 m (a right-angled trapezium)."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Area = ½ × (40 + 64) × 25 = ½ × 104 × 25 = 52 × 25 = 1300 m².",
+    "Number of bags = 1300 ÷ 50 = 26 bags (exactly, so no rounding needed).",
+    "Cost = 26 × 85 = 2210.",
+    "**Answer: 2210 Egyptian pounds.**"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "In a right-angled trapezium the height is one of the sides (the side at 90° to both parallel sides). If the number of bags is not a whole number, always round **up**: you cannot buy part of a bag, and rounding down would leave some of the field uncovered."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Using the sloping side instead of the perpendicular height.",
+    "For a trapezium: forgetting to halve, or multiplying the two parallel sides together instead of adding them.",
+    "Using two sides that are not parallel as a and b.",
+    "Giving the area in cm instead of cm² (area always has square units).",
+    "Mixing units, for example a base in m and a height in cm. Change to one unit first.",
+    "In reverse questions, dividing by the height but forgetting to double the trapezium area (or the other way round)."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "\"Calculate the area of the trapezium/parallelogram.\" The diagram is often marked NOT TO SCALE and gives extra lengths (sloping sides) you should not use.",
+    "Reverse questions: \"The area is 60 cm². Work out the height.\" Write the formula with the numbers in, then solve.",
+    "\"Show that…\" questions: show every step and finish with the exact number given, e.g. '= 40 cm² as required'.",
+    "Compound shapes made of rectangles, triangles, parallelograms and trapezia: split, find each area, then add (or subtract).",
+    "Shapes on a square grid: count squares for the base and the perpendicular height.",
+    "Explain or derive: \"Explain why the area of a parallelogram is base × height.\" Describe cutting and moving the triangle to make a rectangle.",
+    "Paper 1 has no calculator: halve the even number first to make the calculation easy."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Area of parallelograms and trapezia — practice",
+   "timed": false,
+   "intro": "14 questions, from easy to Checkpoint-hard. Try them without a calculator first. Give areas in square units.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 25,
+     "calc": false,
+     "questions": [
+      {
+       "t": "num",
+       "q": "A parallelogram has base 12 cm and perpendicular height 7 cm. Work out its area.",
+       "ans": [
+        84
+       ],
+       "tol": 0,
+       "unit": "cm^{2}",
+       "m": 1,
+       "s": "Parallelograms",
+       "e": "A = bh = 12 × 7 = 84 cm²."
+      },
+      {
+       "t": "num",
+       "q": "A trapezium has parallel sides 5 cm and 9 cm. The perpendicular height is 6 cm. Work out its area.",
+       "ans": [
+        42
+       ],
+       "tol": 0,
+       "unit": "cm^{2}",
+       "m": 2,
+       "s": "Trapezia",
+       "e": "A = ½(a + b)h = ½ × (5 + 9) × 6 = ½ × 14 × 6 = 7 × 6 = 42 cm²."
+      },
+      {
+       "q": "a and b are the parallel sides of a trapezium and h is its perpendicular height. Which formula gives its area?",
+       "c": [
+        "½(a + b)h",
+        "(a + b)h",
+        "½abh",
+        "a + b + h"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Trapezia",
+       "e": "Two identical trapezia make a parallelogram with base (a + b) and height h, area (a + b)h. One trapezium is half of this: ½(a + b)h."
+      },
+      {
+       "t": "num",
+       "p": "The diagram shows a parallelogram (NOT TO SCALE).",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 172\" width=\"360\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"30,140 250,140 323,30 103,30\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"173\" y1=\"30\" x2=\"173\" y2=\"140\" stroke=\"#0f1b33\" stroke-width=\"1.8\" stroke-dasharray=\"6 4\"/><polyline points=\"183,140 183,130 173,130\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"181\" y=\"90\" font-weight=\"bold\">5 cm</text><text x=\"140\" y=\"162\" text-anchor=\"middle\">10 cm</text><text x=\"46.5\" y=\"76.7\" text-anchor=\"middle\">6 cm</text></svg>",
+       "q": "Work out its area.",
+       "ans": [
+        50
+       ],
+       "tol": 0,
+       "unit": "cm^{2}",
+       "m": 2,
+       "s": "Parallelograms",
+       "e": "Use the perpendicular height (5 cm), not the sloping side (6 cm): A = 10 × 5 = 50 cm². (10 × 6 = 60 is wrong.)"
+      },
+      {
+       "t": "num",
+       "q": "A parallelogram has area 72 cm² and perpendicular height 8 cm. Work out the length of its base.",
+       "ans": [
+        9
+       ],
+       "tol": 0,
+       "unit": "cm",
+       "m": 2,
+       "s": "Parallelograms",
+       "e": "72 = b × 8, so b = 72 ÷ 8 = 9 cm."
+      },
+      {
+       "t": "num",
+       "q": "A trapezium has area 84 cm². Its parallel sides are 9 cm and 15 cm. Work out its perpendicular height.",
+       "ans": [
+        7
+       ],
+       "tol": 0,
+       "unit": "cm",
+       "m": 2,
+       "s": "Trapezia",
+       "e": "84 = ½ × (9 + 15) × h = ½ × 24 × h = 12h, so h = 84 ÷ 12 = 7 cm."
+      },
+      {
+       "t": "num",
+       "q": "A trapezium has area 50 cm² and perpendicular height 5 cm. One parallel side is 8 cm. How long is the other parallel side?",
+       "ans": [
+        12
+       ],
+       "tol": 0,
+       "unit": "cm",
+       "m": 3,
+       "s": "Trapezia",
+       "e": "50 = ½ × (8 + b) × 5. Double both sides: 100 = (8 + b) × 5. Divide by 5: 8 + b = 20, so b = 12 cm. Check: ½ × 20 × 5 = 50 ✓."
+      },
+      {
+       "t": "num",
+       "p": "Parallelogram PQRS is drawn on a centimetre grid.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 228\" width=\"360\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M30 18v180M60 18v180M90 18v180M120 18v180M150 18v180M180 18v180M210 18v180M240 18v180M270 18v180M300 18v180M330 18v180M30 18h300M30 48h300M30 78h300M30 108h300M30 138h300M30 168h300M30 198h300\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><line x1=\"24\" y1=\"198\" x2=\"342\" y2=\"198\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"30\" y1=\"204\" x2=\"30\" y2=\"6\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"348,198 340,194 340,202\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><polygon points=\"30,0 26,8 34,8\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><text x=\"346\" y=\"190\" text-anchor=\"middle\" font-size=\"15\" font-style=\"italic\">x</text><text x=\"42\" y=\"8\" text-anchor=\"middle\" font-size=\"15\" font-style=\"italic\">y</text><text x=\"60\" y=\"214\" text-anchor=\"middle\" font-size=\"13\">1</text><text x=\"90\" y=\"214\" text-anchor=\"middle\" font-size=\"13\">2</text><text x=\"120\" y=\"214\" text-anchor=\"middle\" font-size=\"13\">3</text><text x=\"150\" y=\"214\" text-anchor=\"middle\" font-size=\"13\">4</text><text x=\"180\" y=\"214\" text-anchor=\"middle\" font-size=\"13\">5</text><text x=\"210\" y=\"214\" text-anchor=\"middle\" font-size=\"13\">6</text><text x=\"240\" y=\"214\" text-anchor=\"middle\" font-size=\"13\">7</text><text x=\"270\" y=\"214\" text-anchor=\"middle\" font-size=\"13\">8</text><text x=\"300\" y=\"214\" text-anchor=\"middle\" font-size=\"13\">9</text><text x=\"330\" y=\"214\" text-anchor=\"middle\" font-size=\"13\">10</text><text x=\"24\" y=\"173\" text-anchor=\"end\" font-size=\"13\">1</text><text x=\"24\" y=\"143\" text-anchor=\"end\" font-size=\"13\">2</text><text x=\"24\" y=\"113\" text-anchor=\"end\" font-size=\"13\">3</text><text x=\"24\" y=\"83\" text-anchor=\"end\" font-size=\"13\">4</text><text x=\"24\" y=\"53\" text-anchor=\"end\" font-size=\"13\">5</text><text x=\"24\" y=\"23\" text-anchor=\"end\" font-size=\"13\">6</text><text x=\"24\" y=\"214\" text-anchor=\"end\" font-size=\"13\">0</text><polygon points=\"60,168 240,168 300,48 120,48\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2.2\" stroke-linejoin=\"round\"/><circle cx=\"60\" cy=\"168\" r=\"4\" fill=\"#0f1b33\"/><text x=\"44\" y=\"184\" font-weight=\"bold\">P</text><circle cx=\"240\" cy=\"168\" r=\"4\" fill=\"#0f1b33\"/><text x=\"246\" y=\"184\" font-weight=\"bold\">Q</text><circle cx=\"300\" cy=\"48\" r=\"4\" fill=\"#0f1b33\"/><text x=\"306\" y=\"42\" font-weight=\"bold\">R</text><circle cx=\"120\" cy=\"48\" r=\"4\" fill=\"#0f1b33\"/><text x=\"104\" y=\"42\" font-weight=\"bold\">S</text></svg>",
+       "q": "Work out the area of PQRS.",
+       "ans": [
+        24
+       ],
+       "tol": 0,
+       "unit": "cm^{2}",
+       "m": 2,
+       "s": "Parallelograms",
+       "e": "Base PQ goes from x = 1 to x = 7: 6 cm. Perpendicular height from y = 1 to y = 5: 4 cm. A = 6 × 4 = 24 cm². (Do not count along the sloping side PS.)"
+      },
+      {
+       "t": "num",
+       "p": "The shape is made from a rectangle and a trapezium (NOT TO SCALE).",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 222\" width=\"360\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"40,190 260,190 260,102 40,102\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"40,102 260,102 216,36 84,36\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polyline points=\"52,190 52,178 40,178\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><polyline points=\"248,190 248,178 260,178\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"150\" y=\"212\" text-anchor=\"middle\">10 cm</text><text x=\"32\" y=\"151\" text-anchor=\"end\">4 cm</text><text x=\"150\" y=\"26\" text-anchor=\"middle\">6 cm</text><line x1=\"150\" y1=\"36\" x2=\"150\" y2=\"102\" stroke=\"#0f1b33\" stroke-width=\"1.8\" stroke-dasharray=\"6 4\"/><polyline points=\"160,102 160,92 150,92\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"158\" y=\"74\" font-weight=\"bold\">3 cm</text><text x=\"280\" y=\"30\" font-size=\"13\">NOT TO</text><text x=\"280\" y=\"48\" font-size=\"13\">SCALE</text></svg>",
+       "q": "Work out the total area of the shape.",
+       "ans": [
+        64
+       ],
+       "tol": 0,
+       "unit": "cm^{2}",
+       "m": 3,
+       "s": "Compound shapes",
+       "e": "Rectangle: 10 × 4 = 40 cm². Trapezium: parallel sides 10 cm and 6 cm, height 3 cm: ½ × (10 + 6) × 3 = 8 × 3 = 24 cm². Total = 40 + 24 = 64 cm²."
+      },
+      {
+       "q": "Which trapezium has an area of exactly 30 cm²? (a and b are the parallel sides, h is the height.)",
+       "c": [
+        "a = 4 cm, b = 6 cm, h = 3 cm",
+        "a = 5 cm, b = 7 cm, h = 4 cm",
+        "a = 2 cm, b = 8 cm, h = 6 cm",
+        "a = 3 cm, b = 9 cm, h = 6 cm"
+       ],
+       "a": 2,
+       "m": 2,
+       "s": "Trapezia",
+       "e": "A: ½ × 10 × 3 = 15. B: ½ × 12 × 4 = 24. C: ½ × 10 × 6 = 30 ✓. D: ½ × 12 × 6 = 36."
+      },
+      {
+       "q": "A parallelogram and a rectangle have the same base and the same perpendicular height. Which statement is true?",
+       "c": [
+        "The parallelogram has the bigger area.",
+        "Their areas are equal.",
+        "The rectangle has the bigger area.",
+        "It depends on how long the sloping side is."
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Parallelograms",
+       "e": "Both areas are base × perpendicular height, so they are equal. The parallelogram can be cut and rearranged into exactly that rectangle."
+      },
+      {
+       "t": "num",
+       "q": "A garden is a trapezium with parallel sides 12 m and 18 m. The distance between the parallel sides is 9 m. One box of fertiliser covers 20 m². How many boxes are needed to cover the whole garden?",
+       "ans": [
+        7
+       ],
+       "tol": 0,
+       "unit": "boxes",
+       "m": 3,
+       "s": "Problem solving",
+       "e": "Area = ½ × (12 + 18) × 9 = 15 × 9 = 135 m². Boxes: 135 ÷ 20 = 6.75, so 7 boxes are needed (6 boxes cover only 120 m²; round up)."
+      },
+      {
+       "t": "open",
+       "q": "Explain how you can use a rectangle to show that the area of a parallelogram is base × perpendicular height. You may draw a diagram.",
+       "m": 2,
+       "s": "Deriving formulae",
+       "ms": "1 mark: cut a (right-angled) triangle off one end of the parallelogram along the perpendicular height and move it to the other end, making a rectangle (a clear diagram is acceptable). 1 mark: the rectangle has the same area, with length = base and width = perpendicular height, so area = b × h.",
+       "e": "Draw the perpendicular height from one top corner down to the base. Cut off the right-angled triangle this makes and slide it to the other end. The two pieces fit together into a rectangle. The rectangle's length is the base b and its width is the perpendicular height h, and no area was lost or added, so area of parallelogram = b × h."
+      },
+      {
+       "t": "open",
+       "p": "Shape A is a trapezium with parallel sides 10 cm and 6 cm and height 5 cm. Shape B is a parallelogram with base 8 cm and height 5 cm.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 180\" width=\"500\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"30,150 210,150 174,60 66,60\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polyline points=\"171,154.9 178,150 171,145.1\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polyline points=\"149.4,64.9 156.4,60 149.4,55.1\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"120\" y=\"170\" text-anchor=\"middle\">10 cm</text><text x=\"120\" y=\"50\" text-anchor=\"middle\">6 cm</text><line x1=\"86\" y1=\"60\" x2=\"86\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"1.8\" stroke-dasharray=\"6 4\"/><polyline points=\"96,150 96,140 86,140\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"94\" y=\"110\" font-weight=\"bold\">5 cm</text><text x=\"120\" y=\"30\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\">A</text><polygon points=\"280,150 424,150 478,60 334,60\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><text x=\"352\" y=\"170\" text-anchor=\"middle\">8 cm</text><line x1=\"354\" y1=\"60\" x2=\"354\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"1.8\" stroke-dasharray=\"6 4\"/><polyline points=\"364,150 364,140 354,140\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"362\" y=\"110\" font-weight=\"bold\">5 cm</text><text x=\"382\" y=\"30\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\">B</text></svg>",
+       "q": "Show that shapes A and B have the same area.",
+       "m": 2,
+       "s": "Show that",
+       "ms": "1 mark: trapezium ½ × (10 + 6) × 5 = 40 (cm²). 1 mark: parallelogram 8 × 5 = 40 (cm²) and a conclusion that they are equal. Both calculations must be shown.",
+       "e": "A: ½ × (10 + 6) × 5 = ½ × 16 × 5 = 8 × 5 = 40 cm². B: 8 × 5 = 40 cm². Both are 40 cm², so the areas are the same. (Notice: the mean of the parallel sides, (10 + 6) ÷ 2 = 8, equals the base of B.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Parallelogram: A = base × perpendicular height (it rearranges into a rectangle).",
+    "Trapezium: A = ½(a + b)h, where a and b are the parallel sides (two copies make a parallelogram; or split into two triangles).",
+    "Always use the perpendicular height, never the sloping side.",
+    "Reverse questions: put the numbers into the formula, then use inverse operations.",
+    "Areas are in square units: cm², m², mm²."
+   ]
+  }
+ ]
+}

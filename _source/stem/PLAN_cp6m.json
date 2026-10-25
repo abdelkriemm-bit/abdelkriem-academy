@@ -1,0 +1,130 @@
+{
+ "course": "cp6m",
+ "spec": "SPEC_P6_MATHS.md",
+ "pages": {
+  "cp6m-overview": {
+   "title": "Checkpoint 6 Maths: The Test and How to Prepare",
+   "covers": "exam overview + Thinking and Working Mathematically TWM.01–08 explained with examples"
+  },
+  "cp6m-negative-numbers": {
+   "title": "Counting On and Back and Negative Numbers",
+   "covers": "6Nc.01 6Ni.01"
+  },
+  "cp6m-sequences": {
+   "title": "Sequences, Letters and Position-to-Term Rules",
+   "covers": "6Nc.02 6Nc.03 6Nc.04"
+  },
+  "cp6m-order-of-operations": {
+   "title": "Order of Operations, Brackets and Laws of Arithmetic",
+   "covers": "6Ni.02 6Ni.03"
+  },
+  "cp6m-multiplication": {
+   "title": "Multiplying Whole Numbers (up to 10 000 × 2-digit)",
+   "covers": "6Ni.04"
+  },
+  "cp6m-division": {
+   "title": "Dividing Whole Numbers (up to 1000 ÷ 2-digit)",
+   "covers": "6Ni.05"
+  },
+  "cp6m-factors-multiples": {
+   "title": "Factors, Multiples and Tests of Divisibility",
+   "covers": "6Ni.06 6Ni.07"
+  },
+  "cp6m-square-cube-numbers": {
+   "title": "Square Numbers and Cube Numbers",
+   "covers": "6Ni.08 (and square numbers used in 6Nc.04)"
+  },
+  "cp6m-place-value-decimals": {
+   "title": "Place Value and Decimals to Thousandths",
+   "covers": "6Np.01 6Np.02 6Np.03"
+  },
+  "cp6m-rounding": {
+   "title": "Rounding Decimals",
+   "covers": "6Np.04"
+  },
+  "cp6m-fractions": {
+   "title": "Fractions: Division, Operators and Simplest Form",
+   "covers": "6Nf.01 6Nf.02 6Nf.03"
+  },
+  "cp6m-adding-subtracting-fractions": {
+   "title": "Adding and Subtracting Fractions",
+   "covers": "6Nf.05"
+  },
+  "cp6m-multiplying-dividing-fractions": {
+   "title": "Multiplying and Dividing Fractions by Whole Numbers",
+   "covers": "6Nf.06"
+  },
+  "cp6m-fractions-decimals-percentages": {
+   "title": "Fractions, Decimals and Percentages: Equivalence and Ordering",
+   "covers": "6Nf.04 6Nf.07 6Nf.08"
+  },
+  "cp6m-calculating-with-decimals": {
+   "title": "Adding, Subtracting, Multiplying and Dividing Decimals",
+   "covers": "6Nf.09 6Nf.10 6Nf.11"
+  },
+  "cp6m-ratio-proportion": {
+   "title": "Ratio and Direct Proportion",
+   "covers": "6Nf.12 6Nf.13"
+  },
+  "cp6m-time": {
+   "title": "Time: Decimals and Mixed Units",
+   "covers": "6Gt.01"
+  },
+  "cp6m-quadrilaterals": {
+   "title": "Quadrilaterals: Properties and Classification",
+   "covers": "6Gg.01"
+  },
+  "cp6m-circles": {
+   "title": "Circles: Parts and Constructing Circles",
+   "covers": "6Gg.02 6Gg.11"
+  },
+  "cp6m-angles": {
+   "title": "Angles: Measuring, Drawing and Angles in a Triangle",
+   "covers": "6Gg.09 6Gg.10"
+  },
+  "cp6m-area-triangles": {
+   "title": "Area of Rectangles and Right-angled Triangles",
+   "covers": "6Gg.03"
+  },
+  "cp6m-3d-shapes-nets": {
+   "title": "3D Shapes, Compound Shapes and Nets",
+   "covers": "6Gg.04 6Gg.06"
+  },
+  "cp6m-capacity-volume-surface-area": {
+   "title": "Capacity, Volume and Surface Area",
+   "covers": "6Gg.05 6Gg.07"
+  },
+  "cp6m-coordinates": {
+   "title": "Coordinates in Four Quadrants",
+   "covers": "6Gp.01 6Gp.02"
+  },
+  "cp6m-symmetry-transformations": {
+   "title": "Rotational Symmetry, Translation, Reflection and Rotation",
+   "covers": "6Gg.08 6Gp.03 6Gp.04 6Gp.05"
+  },
+  "cp6m-data": {
+   "title": "Collecting and Representing Data",
+   "covers": "6Ss.01 6Ss.02"
+  },
+  "cp6m-averages": {
+   "title": "Mode, Median, Mean and Range, and Interpreting Data",
+   "covers": "6Ss.03 6Ss.04"
+  },
+  "cp6m-probability": {
+   "title": "Probability",
+   "covers": "6Sp.01 6Sp.02 6Sp.03 6Sp.04"
+  },
+  "cp6m-practice-test-1": {
+   "title": "Checkpoint 6 Maths — Practice Test 1",
+   "covers": "TEST"
+  },
+  "cp6m-practice-test-2": {
+   "title": "Checkpoint 6 Maths — Practice Test 2",
+   "covers": "TEST"
+  },
+  "cp6m-practice-test-3": {
+   "title": "Checkpoint 6 Maths — Practice Test 3",
+   "covers": "TEST"
+  }
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "hub": "checkpoint-8-maths.html",
+ "active": "british.html",
+ "short": "Checkpoint 8 Maths",
+ "labels": {
+  "prev": "← Previous",
+  "next": "Next →",
+  "back": "← Back to",
+  "done": "Finished! Back to",
+  "toc": "All pages in this course",
+  "start": "Start the course →",
+  "crumb": "<a href=\"british.html\">British &amp; IGCSE</a> › <a href=\"checkpoint-8.html\">Checkpoint 8</a> › "
+ },
+ "kicker": "Cambridge Lower Secondary · Mathematics 0862 · Stage 8",
+ "title": "Checkpoint 8 Maths — Complete Course",
+ "summary": "The whole Cambridge Lower Secondary Stage 8 Mathematics curriculum — number, algebra, geometry and measure, statistics and probability — with worked examples, diagrams, an interactive quiz on every page and full Checkpoint-style end-of-year practice tests with printable PDFs and mark schemes.",
+ "meta_desc": "The whole Cambridge Lower Secondary Stage 8 Mathematics curriculum — number, algebra, geometry and measure, statistics and probability — with worked examples, diagrams, an interactive quiz on every page and full Checkpoint-style end-of-year practice tests with printable PDFs and mark schemes.",
+ "sections": [
+  {
+   "title": "Start here",
+   "desc": "",
+   "pages": [
+    "cp8m-overview"
+   ]
+  },
+  {
+   "title": "Number",
+   "desc": "",
+   "pages": [
+    "cp8m-order-of-operations-integers",
+    "cp8m-factors-primes",
+    "cp8m-number-types-indices",
+    "cp8m-squares-cubes-roots",
+    "cp8m-place-value-significant-figures",
+    "cp8m-fractions",
+    "cp8m-percentages",
+    "cp8m-decimals",
+    "cp8m-ratio-proportion"
+   ]
+  },
+  {
+   "title": "Algebra",
+   "desc": "",
+   "pages": [
+    "cp8m-expressions",
+    "cp8m-formulae",
+    "cp8m-equations-inequalities",
+    "cp8m-sequences",
+    "cp8m-functions-linear-graphs",
+    "cp8m-real-life-graphs"
+   ]
+  },
+  {
+   "title": "Geometry and measure",
+   "desc": "",
+   "pages": [
+    "cp8m-quadrilaterals-polygons",
+    "cp8m-circles-units",
+    "cp8m-area",
+    "cp8m-3d-shapes",
+    "cp8m-volume-surface-area",
+    "cp8m-angles",
+    "cp8m-constructions",
+    "cp8m-bearings-midpoints",
+    "cp8m-transformations"
+   ]
+  },
+  {
+   "title": "Statistics and probability",
+   "desc": "",
+   "pages": [
+    "cp8m-data-collection",
+    "cp8m-representing-data",
+    "cp8m-comparing-distributions",
+    "cp8m-probability"
+   ]
+  },
+  {
+   "title": "Practice tests",
+   "desc": "End-of-Stage-8 tests in Checkpoint style: Paper 1 (no calculator) and Paper 2 (calculator), 1 hour and 50 marks each.",
+   "pages": [
+    "cp8m-practice-test-1",
+    "cp8m-practice-test-2",
+    "cp8m-practice-test-3"
+   ]
+  }
+ ]
+}

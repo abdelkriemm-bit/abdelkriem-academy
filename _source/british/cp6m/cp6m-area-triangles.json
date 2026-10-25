@@ -1,0 +1,558 @@
+{
+ "slug": "cp6m-area-triangles",
+ "title": "Area of Rectangles and Right-angled Triangles",
+ "kicker": "Checkpoint 6 Maths · Geometry and Measure · 6Gg.03",
+ "summary": "Find the area of rectangles, see why a right-angled triangle is half a rectangle, estimate areas, and solve Checkpoint problems with compound shapes.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Use what you know about the area of rectangles to **estimate** and **calculate** the area of **right-angled triangles**. (6Gg.03)",
+    "This means: find the area of a rectangle (length × width), see that a right-angled triangle is exactly **half** of a rectangle, estimate areas by rounding or by counting squares, and solve problems with these shapes, including shapes made of rectangles and triangles."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "In this lesson you will learn what area means, how to find the area of any rectangle, and then the big idea of the page: **every right-angled triangle is half of a rectangle**. Once you understand that one picture, you never need to learn a formula by heart, because you can always work it out again."
+  },
+  {
+   "type": "h2",
+   "text": "1. Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "area",
+     "المساحة — the amount of flat surface a 2D shape covers"
+    ],
+    [
+     "square centimetre (cm²)",
+     "سنتيمتر مربع — the area of a square 1 cm long and 1 cm wide"
+    ],
+    [
+     "square metre (m²)",
+     "متر مربع — the area of a square 1 m by 1 m (for rooms, gardens, fields)"
+    ],
+    [
+     "rectangle",
+     "مستطيل — 4 straight sides, 4 right angles, opposite sides equal"
+    ],
+    [
+     "right angle",
+     "زاوية قائمة — an angle of exactly 90°, shown with a small square"
+    ],
+    [
+     "right-angled triangle",
+     "مثلث قائم الزاوية — a triangle with one right angle"
+    ],
+    [
+     "base",
+     "القاعدة — one of the two sides that meet at the right angle"
+    ],
+    [
+     "height (perpendicular height)",
+     "الارتفاع العمودي — the other side at the right angle; it is at 90° to the base"
+    ],
+    [
+     "estimate",
+     "تقدير — a sensible answer that is close to the exact answer, found quickly"
+    ],
+    [
+     "perimeter",
+     "المحيط — the distance all the way round a shape (NOT the same as area)"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "2. Area is counted in squares"
+  },
+  {
+   "type": "p",
+   "text": "Area tells us **how many unit squares** cover a shape. If each square is 1 cm long and 1 cm wide, each square has an area of **1 cm²** (say \"one square centimetre\"). The small ² shows that we are measuring in squares, not in lines."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 210\" width=\"320\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"40,34 260,34 260,166 40,166\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><path d=\"M40 34v132M84 34v132M128 34v132M172 34v132M216 34v132M260 34v132M40 34h220M40 78h220M40 122h220M40 166h220\" stroke=\"#8fa5c7\" stroke-width=\"1\" fill=\"none\"/><polygon points=\"40,34 260,34 260,166 40,166\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><text x=\"62\" y=\"61\" text-anchor=\"middle\" font-size=\"13\">1 cm²</text><text x=\"150\" y=\"24\" text-anchor=\"middle\">5 cm</text><text x=\"270\" y=\"105\">3 cm</text><text x=\"150\" y=\"190\" text-anchor=\"middle\" font-size=\"13\">3 rows of 5 squares = 15 squares</text></svg>",
+   "caption": "A rectangle 5 cm long and 3 cm wide is covered by 15 squares, so its area is 15 cm²."
+  },
+  {
+   "type": "p",
+   "text": "We do not need to count every square. There are 3 rows and each row has 5 squares, so we multiply: 3 × 5 = 15. That is why:"
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Area of a rectangle",
+   "text": "**Area of a rectangle = length × width** (some books say base × height). The answer is in square units: cm², m² or mm². Always multiply two lengths in the **same unit**."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Rectangle",
+    "Working",
+    "Area"
+   ],
+   "rows": [
+    [
+     "8 cm by 3 cm",
+     "8 × 3",
+     "24 cm²"
+    ],
+    [
+     "12 m by 9 m",
+     "12 × 9",
+     "108 m²"
+    ],
+    [
+     "square with side 7 cm",
+     "7 × 7",
+     "49 cm²"
+    ],
+    [
+     "6.5 cm by 4 cm",
+     "6.5 × 4",
+     "26 cm²"
+    ],
+    [
+     "2.25 m by 3 m",
+     "2.25 × 3",
+     "6.75 m²"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Area or perimeter?** Perimeter is the distance around the edge (add the sides). For the 5 cm by 3 cm rectangle, the perimeter is 5 + 3 + 5 + 3 = 16 cm, but the area is 15 cm². Different questions, different units: perimeter in cm, area in cm²."
+  },
+  {
+   "type": "h2",
+   "text": "3. A right-angled triangle is half a rectangle"
+  },
+  {
+   "type": "p",
+   "text": "Draw a rectangle and cut it from one corner to the opposite corner (along a **diagonal**). You get **two identical right-angled triangles**. Each one has exactly half the area of the rectangle."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 210\" width=\"400\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"50,30 50,174 266,174\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"50,30 266,30 266,174\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polyline points=\"50,162 62,162 62,174\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><polyline points=\"254,30 254,42 266,42\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"122\" y=\"131\" text-anchor=\"middle\" font-weight=\"bold\">12 cm²</text><text x=\"194\" y=\"83\" text-anchor=\"middle\" font-weight=\"bold\">12 cm²</text><text x=\"158\" y=\"196\" text-anchor=\"middle\">6 cm</text><text x=\"42\" y=\"107\" text-anchor=\"end\">4 cm</text><text x=\"280\" y=\"96\" font-size=\"13\">rectangle:</text><text x=\"280\" y=\"114\" font-size=\"13\">6 × 4 = 24 cm²</text><text x=\"280\" y=\"138\" font-size=\"13\">each triangle:</text><text x=\"280\" y=\"156\" font-size=\"13\">24 ÷ 2 = 12 cm²</text></svg>",
+   "caption": "The 6 cm by 4 cm rectangle has area 24 cm². The diagonal cuts it into two equal right-angled triangles of 12 cm² each."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Area of a right-angled triangle",
+   "text": "**Area = base × height ÷ 2**. In words: make the rectangle that the triangle is half of, find its area, then halve it. The base and the height are the **two sides that meet at the right angle**."
+  },
+  {
+   "type": "p",
+   "text": "Look for the small square that marks the right angle. The two sides that touch that square are the base and the height. The third side is the **longest side**. It is opposite the right angle and it is slanted. We do **not** use it to find the area. It does not matter which way round the triangle is drawn: turn the page in your head until the right angle is at the bottom."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 235\" width=\"560\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"70,170 70,50 200,170\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"70\" y1=\"50\" x2=\"200\" y2=\"170\" stroke=\"#c0392b\" stroke-width=\"3\"/><polyline points=\"70,158 82,158 82,170\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><polygon points=\"330,50 220,50 330,160\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"220\" y1=\"50\" x2=\"330\" y2=\"160\" stroke=\"#c0392b\" stroke-width=\"3\"/><polyline points=\"318,50 318,62 330,62\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><polygon points=\"440,50 440,170 545,50\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"440\" y1=\"170\" x2=\"545\" y2=\"50\" stroke=\"#c0392b\" stroke-width=\"3\"/><polyline points=\"440,62 452,62 452,50\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"62\" y=\"115\" text-anchor=\"end\">height</text><text x=\"135\" y=\"192\" text-anchor=\"middle\">base</text><text x=\"275\" y=\"40\" text-anchor=\"middle\">base</text><text x=\"338\" y=\"110\">height</text><text x=\"432\" y=\"115\" text-anchor=\"end\">height</text><text x=\"492\" y=\"40\" text-anchor=\"middle\">base</text><text x=\"280\" y=\"222\" text-anchor=\"middle\" font-size=\"13\" fill=\"#c0392b\">red side = longest side (opposite the right angle): not used</text></svg>",
+   "caption": "Three right-angled triangles in different positions. In each one, the base and the height are the two sides at the right angle."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Find the right angle (the small square).",
+    "Write down the two sides that meet there: these are the base and the height. Ignore the longest (slanted) side.",
+    "Multiply them: this is the area of the whole rectangle.",
+    "Divide by 2: this is the area of the triangle.",
+    "Write the unit with a small ²: cm², m² or mm²."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**You can halve first if it is easier.** For a triangle with base 14 cm and height 9 cm: 14 ÷ 2 = 7, then 7 × 9 = 63 cm². This is the same as 14 × 9 = 126 and 126 ÷ 2 = 63 cm². Choose the order that makes the mental maths easy (this uses the laws of arithmetic)."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الفكرة الأساسية بالعربي",
+   "text": "المثلث القائم الزاوية هو نص مستطيل بالظبط. اضرب الضلعين اللي عند الزاوية القائمة (المربع الصغير) وبعدين اقسم على ٢. الضلع الطويل المايل ماندخلوش في الحساب خالص. وماتنساش تكتب الوحدة مربعة: cm²."
+  },
+  {
+   "type": "h2",
+   "text": "4. Estimating area"
+  },
+  {
+   "type": "p",
+   "text": "Checkpoint questions often say **estimate**. An estimate is a quick, sensible answer. There are two good ways to estimate area."
+  },
+  {
+   "type": "p",
+   "text": "**Method A: round the lengths.** Round each length to a number that is easy to multiply (usually the nearest whole number or nearest 10), then multiply (and halve for a triangle). Example: a rectangle 7.9 cm by 5.2 cm has area about 8 × 5 = 40 cm². A right-angled triangle with sides 19.6 cm and 10.3 cm at the right angle has area about 20 × 10 ÷ 2 = 100 cm²."
+  },
+  {
+   "type": "p",
+   "text": "**Method B: count squares on a grid.** Count the whole squares inside the shape. Then count the part squares and treat each part square as about half a square (or count only the parts that are half or more). This is useful when the shape is drawn on squared paper."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 230\" width=\"500\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"40,200 80,200 80,160 40,160\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"80,200 120,200 120,160 80,160\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"120,200 160,200 160,160 120,160\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"160,200 200,200 200,160 160,160\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"200,200 240,200 240,160 200,160\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"240,200 280,200 280,160 240,160\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"40,160 80,160 80,120 40,120\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"80,160 120,160 120,120 80,120\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"120,160 160,160 160,120 120,120\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"160,160 200,160 200,120 160,120\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"200,160 240,160 240,120 200,120\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"40,120 80,120 80,80 40,80\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"80,120 120,120 120,80 80,80\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"120,120 160,120 160,80 120,80\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"40,80 80,80 80,40 40,40\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"80,80 120,80 120,40 80,40\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><path d=\"M40 0v200M80 0v200M120 0v200M160 0v200M200 0v200M240 0v200M280 0v200M320 0v200M40 0h280M40 40h280M40 80h280M40 120h280M40 160h280M40 200h280\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><polygon points=\"40,200 280,200 40,40\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.5\" stroke-linejoin=\"round\"/><polyline points=\"52,200 52,188 40,188\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"160\" y=\"222\" text-anchor=\"middle\">6 cm</text><text x=\"32\" y=\"125\" text-anchor=\"end\">4 cm</text><polygon points=\"338,60 360,60 360,82 338,82\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><text x=\"368\" y=\"76\">whole square: 8</text><polygon points=\"338,100 360,100 360,122 338,122\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><text x=\"368\" y=\"116\">part square: 8</text><text x=\"338\" y=\"156\" font-size=\"13\">estimate:</text><text x=\"338\" y=\"176\" font-size=\"13\">8 + 8 ÷ 2 = 12 cm²</text></svg>",
+   "caption": "Counting squares: 8 whole squares and 8 part squares give an estimate of about 12 cm². The rule gives 6 × 4 ÷ 2 = 12 cm², so the estimate is a good one."
+  },
+  {
+   "type": "p",
+   "text": "Use an estimate to **check** your exact answer. If you calculate 299 cm² but your estimate was 30 cm², you know something has gone wrong (perhaps a decimal point in the wrong place)."
+  },
+  {
+   "type": "h2",
+   "text": "5. Shapes made of rectangles and triangles"
+  },
+  {
+   "type": "p",
+   "text": "Many shapes can be split into a rectangle and a right-angled triangle. Find each area separately, then **add** them. Sometimes it is easier to find a big rectangle and **subtract** the part that is missing."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 430 230\" width=\"430\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"50,50 300,50 400,200 50,200\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"300,200 400,200 300,50\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"300\" y1=\"200\" x2=\"300\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><polyline points=\"312,200 312,188 300,188\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"175\" y=\"220\" text-anchor=\"middle\">10 m</text><text x=\"350\" y=\"220\" text-anchor=\"middle\">4 m</text><text x=\"42\" y=\"130\" text-anchor=\"end\">6 m</text><text x=\"175\" y=\"131\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\">A</text><text x=\"330\" y=\"175\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\">B</text></svg>",
+   "caption": "Split the shape along the dashed line: rectangle A (10 m by 6 m) and right-angled triangle B (base 4 m, height 6 m)."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Draw a dashed line to split the shape into a rectangle and a right-angled triangle.",
+    "Work out any missing lengths (opposite sides of a rectangle are equal; lengths along one side add up).",
+    "Find the area of each part.",
+    "Add the parts (or subtract a cut-out part from a whole rectangle).",
+    "Give the unit."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "6. Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** (no calculator)\nA rectangular poster is 9 cm long and 6 cm wide.\n(a) Work out the area of the poster. [1]\n(b) Ahmed has a piece of card 19.8 cm by 4.1 cm. Estimate its area. [1]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "(a) Area = length × width = 9 × 6 = **54 cm²**.",
+    "(b) Round: 19.8 ≈ 20 and 4.1 ≈ 4. Estimate = 20 × 4 = **80 cm²**. (The exact area is 81.18 cm², so 80 is a good estimate.)",
+    "Common mistake: writing 54 cm (a length) instead of 54 cm² (an area)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2**\nA right-angled triangle has sides 8 cm, 6 cm and 10 cm. The right angle is between the 8 cm side and the 6 cm side. Calculate the area of the triangle. [1]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "The sides at the right angle are 8 cm and 6 cm. The 10 cm side is the longest side, so we do not use it.",
+    "Rectangle: 8 × 6 = 48 cm². Triangle: 48 ÷ 2 = **24 cm²**.",
+    "Common mistakes: 8 × 10 ÷ 2 = 40 (used the longest side) or 8 × 6 = 48 (forgot to halve)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** (calculator allowed)\nA right-angled triangle has base 9.8 cm and height 6.1 cm.\n(a) Estimate the area. Show your working. [1]\n(b) Calculate the exact area. [1]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "(a) 9.8 ≈ 10 and 6.1 ≈ 6. Estimate = 10 × 6 ÷ 2 = **30 cm²**.",
+    "(b) 9.8 × 6.1 = 59.78, then 59.78 ÷ 2 = **29.89 cm²**.",
+    "Check: 29.89 is close to the estimate of 30, so the answer is sensible."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4**\nA right-angled triangle is drawn on a centimetre-square grid (the triangle in section 4). Its two sides at the right angle are 6 squares and 4 squares long.\n(a) Estimate the area by counting squares. [1]\n(b) Use the rectangle to find the exact area. [1]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "(a) Whole squares: 8. Part squares: 8, each about half, so 8 ÷ 2 = 4. Estimate ≈ 8 + 4 = **12 cm²**.",
+    "(b) The triangle is half of a 6 cm by 4 cm rectangle: 6 × 4 = 24, 24 ÷ 2 = **12 cm²**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** (working backwards)\nA right-angled triangle has an area of 18 cm². One of the sides at the right angle is 4 cm. Find the length of the other side at the right angle. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "The triangle is half of a rectangle, so the rectangle has area 18 × 2 = 36 cm². (1 mark for 36 seen)",
+    "Rectangle: 4 × ? = 36, so ? = 36 ÷ 4 = **9 cm**.",
+    "Check: 4 × 9 ÷ 2 = 18 ✓",
+    "Common mistake: 18 ÷ 4 = 4.5 (forgot that the triangle is only half the rectangle)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** (compound shape)\nThe diagram in section 5 shows the plan of a garden. Work out its total area. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Rectangle A: 10 × 6 = 60 m².",
+    "Triangle B: base 4 m, height 6 m: 4 × 6 ÷ 2 = 12 m².",
+    "Total: 60 + 12 = **72 m²**. (1 mark for a correct method for one part, 1 mark for 72)",
+    "Common mistake: using 14 m × 6 m = 84 m², treating the whole shape as a rectangle."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Using the longest (slanted) side in the calculation. Only the two sides at the right angle are used.",
+    "Forgetting to divide by 2 for a triangle.",
+    "Dividing by 2 twice: for example, halving the base and then halving the answer again.",
+    "Writing cm instead of cm². Area is always in square units.",
+    "Mixing up area and perimeter: perimeter is adding the sides; area is the space inside.",
+    "Multiplying lengths in different units (for example 2 m × 50 cm). Change them to the same unit first.",
+    "In a compound shape, counting a part twice or using a length that belongs to the other part."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "\"Calculate the area of the triangle.\" A labelled diagram, often with all three sides given: choose the two at the right angle.",
+    "\"Estimate the area.\" Show the rounded numbers you used (for example 10 × 6 ÷ 2). An exact answer with no rounding may not get the mark.",
+    "Shapes on a centimetre-square grid: count the squares, or find the rectangle around the triangle.",
+    "\"Draw a right-angled triangle with an area of 10 cm².\" Choose two sides that multiply to 20 (for example 5 cm and 4 cm).",
+    "Working backwards: the area is given and you find a missing side. Double the area first.",
+    "\"Tick (✓) to show whether Sara is correct. Explain how you know.\" Give a number reason, for example \"6 × 4 ÷ 2 = 12, not 24\".",
+    "Calculator questions (Paper 2) can use decimals such as 7.5 cm × 3.2 cm. On Paper 1 the numbers are easier to work out in your head or on paper.",
+    "Diagrams may say \"not drawn to scale\": use the numbers written, not a ruler."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "خلي بالك",
+   "items": [
+    "المساحة وحدتها مربعة (cm² أو m²) — المحيط وحدته عادية (cm أو m).",
+    "لو المساحة معطاة وعايز ضلع: اضرب المساحة في ٢ الأول، وبعدين اقسم على الضلع التاني."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "7. Practice"
+  },
+  {
+   "type": "test",
+   "title": "Practice: area of rectangles and right-angled triangles",
+   "timed": false,
+   "intro": "Mixed questions from easy to Checkpoint-hard. Questions 1 to 9 can be done without a calculator; you may use one for the rest. Show your working on paper, then type your answer.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 25,
+     "calc": true,
+     "questions": [
+      {
+       "q": "Which unit could be used to measure the area of a book cover?",
+       "c": [
+        "cm",
+        "cm²",
+        "cm³",
+        "ml"
+       ],
+       "a": 1,
+       "m": 1,
+       "e": "Area is measured in square units, so cm². (cm is for length, cm³ and ml are for volume and capacity.)",
+       "s": "Area units"
+      },
+      {
+       "t": "num",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 330 190\" width=\"330\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"40,30 264,30 264,170 40,170\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><text x=\"152\" y=\"22\" text-anchor=\"middle\">8 cm</text><text x=\"272\" y=\"105\">5 cm</text></svg>",
+       "q": "Work out the area of this rectangle.",
+       "ans": [
+        40
+       ],
+       "tol": 0,
+       "unit": "cm^{2}",
+       "m": 1,
+       "e": "Area = length × width = 8 × 5 = 40 cm².",
+       "s": "Area of rectangles"
+      },
+      {
+       "t": "num",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 330 205\" width=\"330\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"260,170 60,170 260,30\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polyline points=\"248,170 248,158 260,158\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"160\" y=\"192\" text-anchor=\"middle\">10 cm</text><text x=\"268\" y=\"105\">7 cm</text><text x=\"150\" y=\"84\" text-anchor=\"end\">12.2 cm</text></svg>",
+       "q": "Calculate the area of this right-angled triangle.",
+       "ans": [
+        35
+       ],
+       "tol": 0,
+       "unit": "cm^{2}",
+       "m": 1,
+       "e": "Use the two sides at the right angle: 10 cm and 7 cm. 10 × 7 = 70, 70 ÷ 2 = 35 cm². The 12.2 cm side is the longest side and is not used.",
+       "s": "Area of right-angled triangles"
+      },
+      {
+       "q": "A sheet of paper is 29.7 cm long and 21.1 cm wide. Which is the best estimate of its area?",
+       "c": [
+        "60 cm²",
+        "500 cm²",
+        "600 cm²",
+        "6000 cm²"
+       ],
+       "a": 2,
+       "m": 1,
+       "e": "Round: 29.7 ≈ 30 and 21.1 ≈ 20. 30 × 20 = 600 cm². (The exact area is 626.67 cm².)",
+       "s": "Estimating area"
+      },
+      {
+       "t": "num",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 180\" width=\"320\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M20 20v140M48 20v140M76 20v140M104 20v140M132 20v140M160 20v140M188 20v140M216 20v140M244 20v140M272 20v140M300 20v140M20 20h280M20 48h280M20 76h280M20 104h280M20 132h280M20 160h280\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><polygon points=\"48,132 272,132 272,48\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2.5\" stroke-linejoin=\"round\"/><polyline points=\"260,132 260,120 272,120\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/></svg>",
+       "q": "Each square on the grid has an area of 1 cm². Work out the area of the shaded right-angled triangle.",
+       "ans": [
+        12
+       ],
+       "tol": 0,
+       "unit": "cm^{2}",
+       "m": 1,
+       "e": "Count the sides at the right angle: 8 squares across and 3 squares up. The rectangle around it is 8 × 3 = 24 cm², so the triangle is 24 ÷ 2 = 12 cm².",
+       "s": "Area on a grid"
+      },
+      {
+       "t": "num",
+       "q": "A right-angled triangle has an area of 30 cm². One side at the right angle is 12 cm long. How long is the other side at the right angle?",
+       "ans": [
+        5
+       ],
+       "tol": 0,
+       "unit": "cm",
+       "m": 2,
+       "e": "Double the area to get the rectangle: 30 × 2 = 60 cm². Then 60 ÷ 12 = 5 cm. Check: 12 × 5 ÷ 2 = 30 ✓. (1 mark for 60 seen.)",
+       "s": "Working backwards"
+      },
+      {
+       "t": "num",
+       "q": "A square has sides of 9 cm. It is cut along a diagonal into two right-angled triangles. What is the area of one triangle?",
+       "ans": [
+        40.5,
+        "81/2"
+       ],
+       "tol": 0,
+       "unit": "cm^{2}",
+       "m": 1,
+       "e": "Area of the square = 9 × 9 = 81 cm². One triangle is half: 81 ÷ 2 = 40.5 cm².",
+       "s": "Area of right-angled triangles"
+      },
+      {
+       "p": "Here is a right-angled triangle.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 185\" width=\"300\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"60,150 240,150 60,75\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polyline points=\"72,150 72,138 60,138\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"150\" y=\"172\" text-anchor=\"middle\">12 cm</text><text x=\"52\" y=\"118\" text-anchor=\"end\">5 cm</text><text x=\"162\" y=\"100\">13 cm</text></svg>",
+       "q": "(a) Which two lengths do you multiply to find its area?",
+       "c": [
+        "12 cm and 13 cm",
+        "5 cm and 13 cm",
+        "all three lengths",
+        "5 cm and 12 cm"
+       ],
+       "a": 3,
+       "m": 1,
+       "e": "The base and height are the two sides that meet at the right angle: 5 cm and 12 cm. The 13 cm side is the longest side, opposite the right angle.",
+       "s": "Base and height"
+      },
+      {
+       "t": "num",
+       "p": "Here is a right-angled triangle.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 185\" width=\"300\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"60,150 240,150 60,75\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polyline points=\"72,150 72,138 60,138\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"150\" y=\"172\" text-anchor=\"middle\">12 cm</text><text x=\"52\" y=\"118\" text-anchor=\"end\">5 cm</text><text x=\"162\" y=\"100\">13 cm</text></svg>",
+       "q": "(b) Calculate the area of the triangle.",
+       "ans": [
+        30
+       ],
+       "tol": 0,
+       "unit": "cm^{2}",
+       "m": 1,
+       "e": "5 × 12 = 60, 60 ÷ 2 = 30 cm².",
+       "s": "Area of right-angled triangles"
+      },
+      {
+       "t": "num",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 380 240\" width=\"380\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"204,30 314,30 314,96\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\" stroke-dasharray=\"5 4\"/><polygon points=\"50,206 314,206 314,96 204,30 50,30\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><text x=\"259\" y=\"22\" text-anchor=\"middle\">5 cm</text><text x=\"322\" y=\"68\">3 cm</text><text x=\"182\" y=\"226\" text-anchor=\"middle\">12 cm</text><text x=\"42\" y=\"123\" text-anchor=\"end\">8 cm</text><text x=\"273\" y=\"54\" text-anchor=\"middle\" font-size=\"13\" font-style=\"italic\">cut off</text></svg>",
+       "q": "A rectangular card is 12 cm by 8 cm. A right-angled triangle is cut off one corner, as shown. Work out the area of the card that is left. Show your working.",
+       "ans": [
+        88.5,
+        "177/2"
+       ],
+       "tol": 0,
+       "unit": "cm^{2}",
+       "m": 2,
+       "e": "Whole card: 12 × 8 = 96 cm². Triangle cut off: 5 × 3 ÷ 2 = 7.5 cm². Card left: 96 − 7.5 = 88.5 cm². (1 mark for 96 and 7.5 seen, 1 mark for 88.5.)",
+       "s": "Compound shapes"
+      },
+      {
+       "t": "num",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 260 235\" width=\"260\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"60,205 210,205 210,105 60,105\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"60,105 210,105 60,30\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polyline points=\"72,105 72,93 60,93\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"55\" y1=\"105\" x2=\"65\" y2=\"105\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"135\" y=\"225\" text-anchor=\"middle\">6 m</text><text x=\"50\" y=\"160\" text-anchor=\"end\">4 m</text><text x=\"50\" y=\"72.5\" text-anchor=\"end\">3 m</text></svg>",
+       "q": "The diagram shows the end wall of a shed: a rectangle with a right-angled triangle on top. Work out the total area of the wall.",
+       "ans": [
+        33
+       ],
+       "tol": 0,
+       "unit": "m^{2}",
+       "m": 2,
+       "e": "Rectangle: 6 × 4 = 24 m². Triangle: sides at the right angle are 6 m and 3 m, so 6 × 3 ÷ 2 = 9 m². Total = 24 + 9 = 33 m². (1 mark for a correct area of one part.)",
+       "s": "Compound shapes"
+      },
+      {
+       "q": "Triangle P is a right-angled triangle with base 8 cm and height 3 cm. Triangle Q is a right-angled triangle with base 6 cm and height 4 cm. Which statement is correct?",
+       "c": [
+        "They have the same area.",
+        "P has the bigger area.",
+        "Q has the bigger area.",
+        "You cannot tell without measuring the longest sides."
+       ],
+       "a": 0,
+       "m": 1,
+       "e": "P: 8 × 3 ÷ 2 = 12 cm². Q: 6 × 4 ÷ 2 = 12 cm². Both are 12 cm², so they have the same area. The longest sides are not needed.",
+       "s": "Comparing areas"
+      },
+      {
+       "t": "open",
+       "q": "Sara says: \"A right-angled triangle with base 6 cm and height 4 cm has an area of 24 cm².\" Is Sara correct? Explain how you know.",
+       "m": 1,
+       "ms": "1 mark: says Sara is not correct AND gives a reason, e.g. \"24 is the area of the rectangle; the triangle is half, 12 cm²\" or \"6 × 4 ÷ 2 = 12\". Do not accept \"No\" with no reason or with a wrong value.",
+       "e": "Sara is not correct. 6 × 4 = 24 cm² is the area of the whole rectangle. The triangle is half of it: 24 ÷ 2 = 12 cm².",
+       "s": "Explaining"
+      },
+      {
+       "t": "open",
+       "q": "On centimetre-square paper, draw a right-angled triangle with an area of exactly 10 cm². Write the lengths of the two sides at the right angle.",
+       "m": 1,
+       "ms": "1 mark: a right-angled triangle whose two sides at the right angle multiply to 20, e.g. 5 cm and 4 cm, 10 cm and 2 cm, or 20 cm and 1 cm. The right angle must be clear. Accept any correct triangle on the grid.",
+       "e": "The triangle is half of a rectangle of area 20 cm². Any two sides at the right angle that multiply to 20 work: 5 cm and 4 cm, 10 cm and 2 cm, or 20 cm and 1 cm. Example: 5 × 4 ÷ 2 = 10 cm².",
+       "s": "Drawing"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Area is the space inside a shape, measured in square units: cm², m², mm².",
+    "Area of a rectangle = length × width.",
+    "A right-angled triangle is half of a rectangle: area = base × height ÷ 2, using the two sides at the right angle.",
+    "Never use the longest (slanted) side for the area.",
+    "Estimate by rounding the lengths or counting squares, and use the estimate to check your answer.",
+    "For shapes made of parts: split, find each area, then add (or subtract a cut-out)."
+   ]
+  }
+ ]
+}

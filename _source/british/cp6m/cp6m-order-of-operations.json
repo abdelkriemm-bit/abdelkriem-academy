@@ -1,0 +1,597 @@
+{
+ "slug": "cp6m-order-of-operations",
+ "title": "Order of Operations, Brackets and Laws of Arithmetic",
+ "kicker": "Cambridge Primary Checkpoint · Mathematics 0096 · Stage 6 · Number",
+ "summary": "Use the order of operations, brackets and the commutative, associative and distributive laws to calculate accurately and simplify calculations.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Use the laws of arithmetic (the order you add or multiply does not matter; you can group numbers in a helpful way; you can split a number to multiply) and the order of operations to make calculations simpler (6Ni.02)",
+    "Understand that brackets can change the order in which you do the operations (6Ni.03)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Is 2 + 3 × 4 equal to 20 or 14? Everyone in the world must get the same answer, so mathematicians agree on an **order of operations**. On this page you will learn that order, how **brackets** change it, and three **laws of arithmetic** that let you do hard-looking calculations in your head."
+  },
+  {
+   "type": "h2",
+   "text": "Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "operation",
+     "عملية — +, −, × or ÷"
+    ],
+    [
+     "order of operations",
+     "ترتيب العمليات — the agreed order for working out a calculation"
+    ],
+    [
+     "brackets ( )",
+     "الأقواس — work out the inside first"
+    ],
+    [
+     "commutative law",
+     "خاصية الإبدال — you can swap the order: 3 + 8 = 8 + 3, 4 × 9 = 9 × 4"
+    ],
+    [
+     "associative law",
+     "خاصية الدمج (التجميع) — you can group in any way: (5 + 7) + 3 = 5 + (7 + 3)"
+    ],
+    [
+     "distributive law",
+     "خاصية التوزيع — split a number to multiply: 6 × 27 = 6 × 20 + 6 × 7"
+    ],
+    [
+     "simplify",
+     "تبسيط — make a calculation easier to do"
+    ],
+    [
+     "inverse",
+     "العملية العكسية — + and − undo each other; × and ÷ undo each other"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. The order of operations"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 250\" width=\"440\" font-family=\"Arial, sans-serif\"><rect x=\"60\" y=\"12\" width=\"320\" height=\"56\" rx=\"8\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"40\" r=\"18\" fill=\"#0f1b33\"/><text x=\"60\" y=\"46\" font-size=\"17\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#fff\">1</text><text x=\"220\" y=\"37\" font-size=\"17\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#0f1b33\">Brackets ( )</text><text x=\"220\" y=\"57\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">work out what is inside first</text><line x1=\"220\" y1=\"70\" x2=\"220\" y2=\"86\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"220.0,93.0 215.6,85.0 224.4,85.0\" fill=\"#0f1b33\"/><rect x=\"60\" y=\"94\" width=\"320\" height=\"56\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"122\" r=\"18\" fill=\"#0f1b33\"/><text x=\"60\" y=\"128\" font-size=\"17\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#fff\">2</text><text x=\"220\" y=\"119\" font-size=\"17\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#0f1b33\">× and ÷</text><text x=\"220\" y=\"139\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">from left to right</text><line x1=\"220\" y1=\"152\" x2=\"220\" y2=\"168\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"220.0,175.0 215.6,167.0 224.4,167.0\" fill=\"#0f1b33\"/><rect x=\"60\" y=\"176\" width=\"320\" height=\"56\" rx=\"8\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"204\" r=\"18\" fill=\"#0f1b33\"/><text x=\"60\" y=\"210\" font-size=\"17\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#fff\">3</text><text x=\"220\" y=\"201\" font-size=\"17\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#0f1b33\">+ and −</text><text x=\"220\" y=\"221\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">from left to right</text></svg>",
+   "caption": "Work through the levels from top to bottom."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Brackets first.** Work out anything inside ( ).",
+    "**Then × and ÷**, working from left to right. Neither one comes before the other — whichever is further left is done first.",
+    "**Then + and −**, also from left to right."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "**2 + 3 × 4** → multiply first: 3 × 4 = 12 → 2 + 12 = **14** (not 20)."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Calculation",
+    "Working",
+    "Answer"
+   ],
+   "rows": [
+    [
+     "18 − 3 × 4",
+     "3 × 4 = 12, then 18 − 12",
+     "6"
+    ],
+    [
+     "5 + 20 ÷ 5",
+     "20 ÷ 5 = 4, then 5 + 4",
+     "9"
+    ],
+    [
+     "20 − 8 + 3",
+     "left to right: 20 − 8 = 12, then 12 + 3",
+     "15 (not 9)"
+    ],
+    [
+     "24 ÷ 4 × 2",
+     "left to right: 24 ÷ 4 = 6, then 6 × 2",
+     "12 (not 3)"
+    ],
+    [
+     "7 × 3 − 10 ÷ 2",
+     "7 × 3 = 21 and 10 ÷ 2 = 5, then 21 − 5",
+     "16"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "BIDMAS / BODMAS",
+   "text": "Some books use the word BIDMAS (Brackets, Indices, Division, Multiplication, Addition, Subtraction) to remember the order. The word puts D before M and A before S, but that is only to make it easy to say: × and ÷ have the **same** rank, and so do + and −. Always go left to right inside each rank. Indices are powers such as 4^{2}: if one appears, work it out straight after the brackets."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "ترتيب العمليات",
+   "items": [
+    "الأول: الأقواس ( ).",
+    "بعدين: الضرب والقسمة — بالترتيب من الشمال لليمين (مش الضرب الأول دايمًا).",
+    "في الآخر: الجمع والطرح — برضه من الشمال لليمين.",
+    "مثال: 2 + 3 × 4 = 2 + 12 = 14 وليس 20."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "2. Brackets change the order"
+  },
+  {
+   "type": "p",
+   "text": "Brackets tell you: **do this part first**, even if it is an addition or subtraction. The same numbers and signs can give different answers when the brackets move."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Calculation",
+    "Working",
+    "Answer"
+   ],
+   "rows": [
+    [
+     "24 − 6 ÷ 2 + 1",
+     "6 ÷ 2 = 3, then 24 − 3 + 1",
+     "22"
+    ],
+    [
+     "(24 − 6) ÷ 2 + 1",
+     "18 ÷ 2 = 9, then 9 + 1",
+     "10"
+    ],
+    [
+     "(24 − 6) ÷ (2 + 1)",
+     "18 ÷ 3",
+     "6"
+    ],
+    [
+     "24 − (6 ÷ 2 + 1)",
+     "inside: 3 + 1 = 4, then 24 − 4",
+     "20"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Brackets in word problems.** \"A family of 4 each buy a cinema ticket for E£45 and popcorn for E£15.\" Each person spends 45 + 15, so the total is **4 × (45 + 15)** = 4 × 60 = **E£240**. Without brackets, 4 × 45 + 15 = 195 would only pay for one popcorn."
+  },
+  {
+   "type": "p",
+   "text": "**Brackets that do not change anything.** In 3 + (4 × 5) the brackets are not needed, because × is done first anyway. Brackets around a multiplication or division in a sum do not change the answer — but they can make it clearer."
+  },
+  {
+   "type": "h2",
+   "text": "3. The laws of arithmetic"
+  },
+  {
+   "type": "p",
+   "text": "These laws are not new rules to learn by heart — they describe what you already know about numbers. They help you choose an **easier order** to calculate."
+  },
+  {
+   "type": "h2",
+   "text": "Commutative law: swap the order"
+  },
+  {
+   "type": "p",
+   "text": "For **addition and multiplication**, the order does not matter: 3 + 8 = 8 + 3 and 3 × 5 = 5 × 3."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 150\" width=\"400\" font-family=\"Arial, sans-serif\"><circle cx=\"40\" cy=\"30\" r=\"6\" fill=\"#1d5fbf\"/><circle cx=\"58\" cy=\"30\" r=\"6\" fill=\"#1d5fbf\"/><circle cx=\"76\" cy=\"30\" r=\"6\" fill=\"#1d5fbf\"/><circle cx=\"94\" cy=\"30\" r=\"6\" fill=\"#1d5fbf\"/><circle cx=\"112\" cy=\"30\" r=\"6\" fill=\"#1d5fbf\"/><circle cx=\"40\" cy=\"48\" r=\"6\" fill=\"#1d5fbf\"/><circle cx=\"58\" cy=\"48\" r=\"6\" fill=\"#1d5fbf\"/><circle cx=\"76\" cy=\"48\" r=\"6\" fill=\"#1d5fbf\"/><circle cx=\"94\" cy=\"48\" r=\"6\" fill=\"#1d5fbf\"/><circle cx=\"112\" cy=\"48\" r=\"6\" fill=\"#1d5fbf\"/><circle cx=\"40\" cy=\"66\" r=\"6\" fill=\"#1d5fbf\"/><circle cx=\"58\" cy=\"66\" r=\"6\" fill=\"#1d5fbf\"/><circle cx=\"76\" cy=\"66\" r=\"6\" fill=\"#1d5fbf\"/><circle cx=\"94\" cy=\"66\" r=\"6\" fill=\"#1d5fbf\"/><circle cx=\"112\" cy=\"66\" r=\"6\" fill=\"#1d5fbf\"/><circle cx=\"250\" cy=\"30\" r=\"6\" fill=\"#b3261e\"/><circle cx=\"268\" cy=\"30\" r=\"6\" fill=\"#b3261e\"/><circle cx=\"286\" cy=\"30\" r=\"6\" fill=\"#b3261e\"/><circle cx=\"250\" cy=\"48\" r=\"6\" fill=\"#b3261e\"/><circle cx=\"268\" cy=\"48\" r=\"6\" fill=\"#b3261e\"/><circle cx=\"286\" cy=\"48\" r=\"6\" fill=\"#b3261e\"/><circle cx=\"250\" cy=\"66\" r=\"6\" fill=\"#b3261e\"/><circle cx=\"268\" cy=\"66\" r=\"6\" fill=\"#b3261e\"/><circle cx=\"286\" cy=\"66\" r=\"6\" fill=\"#b3261e\"/><circle cx=\"250\" cy=\"84\" r=\"6\" fill=\"#b3261e\"/><circle cx=\"268\" cy=\"84\" r=\"6\" fill=\"#b3261e\"/><circle cx=\"286\" cy=\"84\" r=\"6\" fill=\"#b3261e\"/><circle cx=\"250\" cy=\"102\" r=\"6\" fill=\"#b3261e\"/><circle cx=\"268\" cy=\"102\" r=\"6\" fill=\"#b3261e\"/><circle cx=\"286\" cy=\"102\" r=\"6\" fill=\"#b3261e\"/><text x=\"76\" y=\"122\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\">3 rows of 5 = 15</text><text x=\"268\" y=\"134\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\">5 rows of 3 = 15</text><text x=\"170\" y=\"70\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\">turn it →</text></svg>",
+   "caption": "3 rows of 5 and 5 rows of 3 are the same array turned round."
+  },
+  {
+   "type": "p",
+   "text": "It does **not** work for subtraction or division: 10 − 4 = 6 but 4 − 10 = −6; 12 ÷ 3 = 4 but 3 ÷ 12 = ¼."
+  },
+  {
+   "type": "h2",
+   "text": "Associative law: group in a helpful way"
+  },
+  {
+   "type": "p",
+   "text": "When you add or multiply three or more numbers, you can choose which pair to do first: (17 + 26) + 4 = 17 + (26 + 4) = 17 + 30 = **47**. (25 × 7) × 4 = 7 × (25 × 4) = 7 × 100 = **700**. Look for pairs that make 10, 100, 1000 (like 25 × 4, 5 × 20, 38 + 62)."
+  },
+  {
+   "type": "h2",
+   "text": "Distributive law: split a number"
+  },
+  {
+   "type": "p",
+   "text": "To multiply a number by a sum, multiply each part and add: 6 × 27 = 6 × (20 + 7) = 6 × 20 + 6 × 7 = 120 + 42 = **162**. The area model shows why."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 520 162\" width=\"520\" font-family=\"Arial, sans-serif\"><rect x=\"50.0\" y=\"40\" width=\"318.5\" height=\"72\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"209.3\" y=\"30\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\">20</text><text x=\"209.3\" y=\"81.0\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">6 × 20 = 120</text><rect x=\"368.5\" y=\"40\" width=\"111.5\" height=\"72\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"424.3\" y=\"30\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\">7</text><text x=\"424.3\" y=\"81.0\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">6 × 7 = 42</text><text x=\"38\" y=\"81.0\" font-size=\"14\" text-anchor=\"end\" fill=\"#0f1b33\">6</text><text x=\"50\" y=\"142\" font-size=\"14\" fill=\"#0f1b33\">6 × 27 = 120 + 42 = 162</text></svg>",
+   "caption": "A 6 by 27 rectangle split into 6 by 20 and 6 by 7 (not drawn to scale)."
+  },
+  {
+   "type": "p",
+   "text": "It works with subtraction too, which is great for numbers just below a tens number: 8 × 19 = 8 × (20 − 1) = 160 − 8 = **152**."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 520 178\" width=\"520\" font-family=\"Arial, sans-serif\"><rect x=\"50\" y=\"40\" width=\"430.0\" height=\"88\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"458.5\" y=\"40\" width=\"21.5\" height=\"88\" fill=\"#f6d5d2\" stroke=\"#b3261e\" stroke-width=\"2\" stroke-dasharray=\"5 3\"/><text x=\"265.0\" y=\"30\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\">20</text><text x=\"469.2\" y=\"30\" font-size=\"14\" text-anchor=\"middle\" fill=\"#b3261e\">1</text><text x=\"254.2\" y=\"89.0\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">8 × 19 = 160 − 8 = 152</text><line x1=\"50\" y1=\"142\" x2=\"458.5\" y2=\"142\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><text x=\"254.2\" y=\"160\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\">19</text><text x=\"480.0\" y=\"160\" font-size=\"13\" text-anchor=\"end\" fill=\"#b3261e\">remove 8 × 1 = 8</text><text x=\"38\" y=\"89.0\" font-size=\"14\" text-anchor=\"end\" fill=\"#0f1b33\">8</text></svg>",
+   "caption": "8 × 19: work out 8 × 20, then take away one strip of 8 × 1 (not drawn to scale)."
+  },
+  {
+   "type": "p",
+   "text": "Division can be split in the same way, as long as you split the number being divided: 96 ÷ 4 = 80 ÷ 4 + 16 ÷ 4 = 20 + 4 = **24**."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Calculation",
+    "Law used",
+    "Easier way",
+    "Answer"
+   ],
+   "rows": [
+    [
+     "38 + 57 + 62",
+     "commutative + associative",
+     "(38 + 62) + 57 = 100 + 57",
+     "157"
+    ],
+    [
+     "4 × 37 × 25",
+     "commutative + associative",
+     "(4 × 25) × 37 = 100 × 37",
+     "3700"
+    ],
+    [
+     "7 × 99",
+     "distributive",
+     "7 × 100 − 7 × 1 = 700 − 7",
+     "693"
+    ],
+    [
+     "12 × 15",
+     "distributive",
+     "12 × 10 + 12 × 5 = 120 + 60",
+     "180"
+    ],
+    [
+     "5 × 13 × 2",
+     "commutative + associative",
+     "(5 × 2) × 13 = 10 × 13",
+     "130"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — Work out 18 − 3 × 4. [1 mark]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "No brackets. Look for × or ÷: 3 × 4 = 12.",
+    "Then subtract: 18 − 12 = 6.",
+    "**Answer: 6**"
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "**Common mistake:** 18 − 3 = 15, then 15 × 4 = 60. Multiplication must come before subtraction."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — (a) Work out 40 ÷ (2 + 6). (b) Work out 40 ÷ 2 + 6. [2 marks]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "(a) Brackets first: 2 + 6 = 8. Then 40 ÷ 8 = **5**.",
+    "(b) No brackets, so divide first: 40 ÷ 2 = 20. Then 20 + 6 = **26**.",
+    "The brackets changed the answer from 26 to 5."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — Work out 7 + 24 ÷ 6 − 2 × 3. [1 mark]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Do every × and ÷ first: 24 ÷ 6 = 4 and 2 × 3 = 6.",
+    "Rewrite: 7 + 4 − 6.",
+    "Left to right: 7 + 4 = 11, 11 − 6 = 5.",
+    "**Answer: 5**"
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "**Tip:** underline each × and ÷ part first, then rewrite the line. This stops you losing track."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — Put brackets in this calculation to make it correct: 5 + 3 × 6 − 2 = 32 [1 mark]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Without brackets: 5 + 18 − 2 = 21. Too small, so we need to add or subtract before multiplying.",
+    "Try (5 + 3) × 6 − 2 = 48 − 2 = 46. No.",
+    "Try 5 + 3 × (6 − 2) = 5 + 12 = 17. No.",
+    "Try (5 + 3) × (6 − 2) = 8 × 4 = 32 ✓",
+    "**Answer: (5 + 3) × (6 − 2) = 32**"
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "**Technique:** think about which two numbers multiply to give the target: 32 = 8 × 4, and 8 = 5 + 3, 4 = 6 − 2."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — Use the laws of arithmetic to work out these mentally. Show how. (a) 4 × 37 × 25 (b) 8 × 49 [2 marks]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "(a) Change the order and group: (4 × 25) × 37 = 100 × 37 = **3700**.",
+    "(b) 49 = 50 − 1, so 8 × 49 = 8 × 50 − 8 × 1 = 400 − 8 = **392**."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** — Mona buys 3 notebooks at E£28 each and pays with a E£100 note. Write one calculation for her change, then work it out. [2 marks]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Cost of notebooks: 3 × 28. Change = 100 minus the cost.",
+    "One calculation: **100 − 3 × 28** (the brackets 100 − (3 × 28) are allowed but not needed).",
+    "3 × 28 = 84 (3 × 20 + 3 × 8 = 60 + 24).",
+    "100 − 84 = 16. **Answer: E£16**"
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "**Common mistake:** writing (100 − 3) × 28 — that would be 2716!"
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Working strictly from left to right through the whole line: 2 + 3 × 4 is 14, not 20.",
+    "Always doing × before ÷ (or + before −). They are equal partners — go left to right: 24 ÷ 4 × 2 = 12; 20 − 8 + 3 = 15.",
+    "Forgetting to finish inside the brackets first: in (6 + 2 × 3) do 2 × 3 before the + — the answer inside is 12.",
+    "Using the commutative law for subtraction or division: 4 − 10 is not the same as 10 − 4.",
+    "Splitting with the distributive law but multiplying only one part: 6 × 27 is not 6 × 20 + 7.",
+    "Writing a word problem without brackets when you need them: 4 × 45 + 15 ≠ 4 × (45 + 15)."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "\"Work out\" a calculation with mixed operations — usually on Paper 1 (no calculator).",
+    "\"Put brackets in to make the calculation correct\" or \"Draw a ring around the calculation that has the answer 30\".",
+    "\"Write the missing number\" in a distributive split: 6 × 47 = 6 × 40 + 6 × ☐.",
+    "\"Tick the calculations that give the same answer as 8 × 46\" — use the laws, not long multiplication.",
+    "\"Explain the mistake\" — say which operation should be done first and give the correct answer.",
+    "Technique: after you finish, check by putting your answer back — and on Paper 2, a calculator also uses the order of operations, so type the whole line in (with brackets) to check."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Order of operations practice",
+   "timed": false,
+   "intro": "14 questions, no calculator. Underline the part you will do first in each one. Full working appears when you check.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 20,
+     "calc": false,
+     "questions": [
+      {
+       "t": "num",
+       "q": "Work out 20 − 4 × 3.",
+       "ans": [
+        8
+       ],
+       "tol": 0,
+       "m": 1,
+       "e": "Multiply first: 4 × 3 = 12. Then 20 − 12 = 8.",
+       "s": "Order of operations"
+      },
+      {
+       "t": "num",
+       "q": "Work out (20 − 4) × 3.",
+       "ans": [
+        48
+       ],
+       "tol": 0,
+       "m": 1,
+       "e": "Brackets first: 20 − 4 = 16. Then 16 × 3 = 48.",
+       "s": "Brackets"
+      },
+      {
+       "t": "num",
+       "q": "Work out 6 + 18 ÷ 3 × 2.",
+       "ans": [
+        18
+       ],
+       "tol": 0,
+       "m": 1,
+       "e": "× and ÷ first, left to right: 18 ÷ 3 = 6, then 6 × 2 = 12. Then 6 + 12 = 18.",
+       "s": "Order of operations"
+      },
+      {
+       "q": "Which calculation has the answer 30?",
+       "c": [
+        "2 + 3 × 6",
+        "2 × 3 + 6",
+        "2 + (3 × 6)",
+        "(2 + 3) × 6"
+       ],
+       "a": 3,
+       "m": 1,
+       "e": "(2 + 3) × 6 = 5 × 6 = 30. The others: 2 + 18 = 20, 6 + 6 = 12, 2 + 18 = 20.",
+       "s": "Brackets"
+      },
+      {
+       "q": "Where should the brackets go to make this correct?  4 × 5 + 3 = 32",
+       "c": [
+        "(4 × 5) + 3",
+        "4 × (5 + 3)",
+        "(4) × 5 + 3",
+        "No brackets are needed"
+       ],
+       "a": 1,
+       "m": 1,
+       "e": "4 × (5 + 3) = 4 × 8 = 32. Without brackets (or with brackets round 4 × 5) the answer is 20 + 3 = 23.",
+       "s": "Brackets"
+      },
+      {
+       "t": "num",
+       "q": "Use the laws of arithmetic to work out 25 × 9 × 4 without writing a long calculation.",
+       "ans": [
+        900
+       ],
+       "tol": 0,
+       "m": 1,
+       "e": "Change the order: (25 × 4) × 9 = 100 × 9 = 900.",
+       "s": "Laws of arithmetic"
+      },
+      {
+       "t": "num",
+       "q": "Work out 7 × 99. (Hint: 99 = 100 − 1.)",
+       "ans": [
+        693
+       ],
+       "tol": 0,
+       "m": 1,
+       "e": "7 × 99 = 7 × 100 − 7 × 1 = 700 − 7 = 693.",
+       "s": "Distributive law"
+      },
+      {
+       "q": "Which statement is NOT always true for all numbers a, b and c?",
+       "c": [
+        "a + b = b + a",
+        "a × b = b × a",
+        "a − b = b − a",
+        "(a × b) × c = a × (b × c)"
+       ],
+       "a": 2,
+       "m": 1,
+       "e": "Subtraction is not commutative: 10 − 4 = 6 but 4 − 10 = −6. The other three are the commutative and associative laws.",
+       "s": "Laws of arithmetic"
+      },
+      {
+       "t": "num",
+       "q": "Write the missing number: 6 × 47 = 6 × 40 + 6 × ☐",
+       "ans": [
+        7
+       ],
+       "tol": 0,
+       "m": 1,
+       "e": "47 = 40 + 7, so 6 × 47 = 6 × 40 + 6 × 7. The missing number is 7.",
+       "s": "Distributive law"
+      },
+      {
+       "q": "Which calculation gives the same answer as 8 × 46?",
+       "c": [
+        "8 × 40 + 8 × 6",
+        "8 × 40 + 6",
+        "8 + 40 × 6",
+        "(8 × 40) × 6"
+       ],
+       "a": 0,
+       "m": 1,
+       "e": "Distributive law: 46 = 40 + 6, so 8 × 46 = 8 × 40 + 8 × 6 = 320 + 48 = 368. The others give 326, 248 and 1920.",
+       "s": "Distributive law"
+      },
+      {
+       "t": "num",
+       "q": "A shop has 5 boxes of 12 pens and 8 loose pens. Write one calculation for the total number of pens, then work it out.",
+       "ans": [
+        68
+       ],
+       "tol": 0,
+       "unit": "pens",
+       "m": 1,
+       "e": "5 × 12 + 8 = 60 + 8 = 68 pens. (Multiplication is done first, so no brackets are needed.)",
+       "s": "Order of operations"
+      },
+      {
+       "t": "open",
+       "q": "Nadia works out 12 − 6 − 2 like this: \"6 − 2 = 4, then 12 − 4 = 8.\" Explain her mistake and write the correct answer.",
+       "m": 1,
+       "ms": "1 mark: explains that subtractions must be done from left to right (12 − 6 first) AND gives the correct answer 4. Accept: \"she worked out 12 − (6 − 2)\" with answer 4. Do not accept the answer 4 with no explanation.",
+       "e": "+ and − are done from left to right: 12 − 6 = 6, then 6 − 2 = 4. Nadia worked it out as if it were 12 − (6 − 2) = 8. The correct answer is 4.",
+       "s": "Order of operations"
+      },
+      {
+       "t": "open",
+       "q": "Put one or two pairs of brackets into this calculation to make it correct:  3 + 5 × 4 − 1 = 24",
+       "m": 1,
+       "ms": "1 mark: (3 + 5) × (4 − 1) = 24. Accept extra brackets that do not change the value, e.g. ((3 + 5) × (4 − 1)). Do not accept (3 + 5) × 4 − 1 (= 31) or 3 + 5 × (4 − 1) (= 18).",
+       "e": "Without brackets: 3 + 20 − 1 = 22. We need 24 = 8 × 3. 3 + 5 = 8 and 4 − 1 = 3, so (3 + 5) × (4 − 1) = 8 × 3 = 24.",
+       "s": "Brackets"
+      },
+      {
+       "t": "num",
+       "q": "Work out 48 − (6 + 2 × 9) ÷ 3. Show your working.",
+       "ans": [
+        40
+       ],
+       "tol": 0,
+       "m": 2,
+       "e": "Brackets first, and inside the brackets × before +: 2 × 9 = 18, 6 + 18 = 24 (M1). Then ÷ before −: 24 ÷ 3 = 8. Finally 48 − 8 = 40 (A1).",
+       "s": "Order of operations"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Order: Brackets → × and ÷ (left to right) → + and − (left to right).",
+    "Brackets change the order: 2 + 3 × 4 = 14 but (2 + 3) × 4 = 20.",
+    "Commutative: you can swap the order for + and × (never for − or ÷).",
+    "Associative: group numbers to make 10, 100 or 1000 first: 25 × 7 × 4 = 100 × 7.",
+    "Distributive: split a number to multiply: 6 × 27 = 6 × 20 + 6 × 7; 8 × 19 = 8 × 20 − 8."
+   ]
+  }
+ ]
+}

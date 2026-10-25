@@ -1,0 +1,528 @@
+{
+ "slug": "cp6s-boiling-evaporation",
+ "title": "Boiling and Evaporation",
+ "kicker": "Cambridge Primary Checkpoint · Science 0097 · Stage 6 · Chemistry",
+ "summary": "Both boiling and evaporation turn a liquid into a gas — learn exactly how they differ, what the particles are doing, how to read heating graphs and how to plan evaporation investigations.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Describe the differences between boiling and evaporation: where the liquid changes to gas, at what temperature, how fast, and what you can see. (6Cc.03)"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "evaporation",
+     "التبخر — a liquid slowly changing into a gas at its surface, at any temperature"
+    ],
+    [
+     "boiling",
+     "الغليان — a liquid changing into a gas all through the liquid, with bubbles, at one fixed temperature"
+    ],
+    [
+     "boiling point",
+     "درجة الغليان — the temperature at which a liquid boils (water: 100 °C)"
+    ],
+    [
+     "water vapour",
+     "بخار الماء — water as a gas; it is invisible"
+    ],
+    [
+     "condensation",
+     "التكثف — a gas cooling and changing back into a liquid"
+    ],
+    [
+     "surface",
+     "السطح — the top of the liquid, where it touches the air"
+    ],
+    [
+     "surface area",
+     "مساحة السطح — how much of the liquid's surface touches the air"
+    ],
+    [
+     "thermometer",
+     "الترمومتر — the instrument used to measure temperature in °C"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "2. What is the same?"
+  },
+  {
+   "type": "p",
+   "text": "Boiling and evaporation are both changes of state from **liquid → gas**. Both are **physical, reversible** changes: no new substance is made, and the gas can be cooled so it **condenses** back into the liquid. When water boils or evaporates it becomes **water vapour**."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 280\" width=\"560\" font-family=\"Arial, sans-serif\" font-size=\"13\"><text x=\"130\" y=\"20\" font-size=\"15\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">Evaporation</text><rect x=\"60\" y=\"130\" width=\"140\" height=\"90\" fill=\"#eaf1fb\"/><path d=\"M54 90 L60 96 L60 220 L200 220 L200 96 L206 90\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g stroke=\"#0f1b33\" stroke-width=\"1.3\"><circle cx=\"80\" cy=\"150\" r=\"7\" fill=\"#5b8fd6\"/><circle cx=\"105\" cy=\"175\" r=\"7\" fill=\"#5b8fd6\"/><circle cx=\"130\" cy=\"150\" r=\"7\" fill=\"#5b8fd6\"/><circle cx=\"155\" cy=\"175\" r=\"7\" fill=\"#5b8fd6\"/><circle cx=\"180\" cy=\"150\" r=\"7\" fill=\"#5b8fd6\"/><circle cx=\"92\" cy=\"205\" r=\"7\" fill=\"#5b8fd6\"/><circle cx=\"142\" cy=\"205\" r=\"7\" fill=\"#5b8fd6\"/><circle cx=\"185\" cy=\"200\" r=\"7\" fill=\"#5b8fd6\"/><circle cx=\"95\" cy=\"110\" r=\"7\" fill=\"#5b8fd6\"/><path d=\"M95 101L95 89\"/><path d=\"M95 83L98 89L92 89Z\" fill=\"#0f1b33\"/><circle cx=\"150\" cy=\"95\" r=\"7\" fill=\"#5b8fd6\"/><path d=\"M150 86L150 74\"/><path d=\"M150 68L153 74L147 74Z\" fill=\"#0f1b33\"/><circle cx=\"120\" cy=\"60\" r=\"7\" fill=\"#5b8fd6\"/><path d=\"M120 51L120 39\"/><path d=\"M120 33L123 39L117 39Z\" fill=\"#0f1b33\"/><circle cx=\"175\" cy=\"70\" r=\"7\" fill=\"#5b8fd6\"/><path d=\"M175 61L175 49\"/><path d=\"M175 43L178 49L172 49Z\" fill=\"#0f1b33\"/></g><text x=\"130\" y=\"245\" text-anchor=\"middle\" fill=\"#0f1b33\">room temperature, e.g. 25 °C</text><text x=\"130\" y=\"265\" text-anchor=\"middle\" fill=\"#0f1b33\">particles escape from the surface only</text><text x=\"410\" y=\"20\" font-size=\"15\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">Boiling</text><rect x=\"340\" y=\"90\" width=\"140\" height=\"110\" fill=\"#eaf1fb\"/><path d=\"M334 60 L340 66 L340 200 L480 200 L480 66 L486 60\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g stroke=\"#0f1b33\" stroke-width=\"1.5\"><circle cx=\"365\" cy=\"180\" r=\"6\" fill=\"#ffffff\"/><circle cx=\"400\" cy=\"165\" r=\"8\" fill=\"#ffffff\"/><circle cx=\"440\" cy=\"182\" r=\"5\" fill=\"#ffffff\"/><circle cx=\"460\" cy=\"150\" r=\"7\" fill=\"#ffffff\"/><circle cx=\"380\" cy=\"135\" r=\"9\" fill=\"#ffffff\"/><circle cx=\"425\" cy=\"120\" r=\"7\" fill=\"#ffffff\"/><circle cx=\"455\" cy=\"105\" r=\"6\" fill=\"#ffffff\"/><circle cx=\"365\" cy=\"100\" r=\"5\" fill=\"#ffffff\"/><circle cx=\"405\" cy=\"190\" r=\"4\" fill=\"#ffffff\"/></g><path d=\"M380 55 q-6 -9 0 -18 q6 -9 0 -18\" fill=\"none\" stroke=\"#5b6b88\" stroke-width=\"1.5\"/><path d=\"M425 55 q-6 -9 0 -18 q6 -9 0 -18\" fill=\"none\" stroke=\"#5b6b88\" stroke-width=\"1.5\"/><path d=\"M465 55 q-6 -9 0 -18 q6 -9 0 -18\" fill=\"none\" stroke=\"#5b6b88\" stroke-width=\"1.5\"/><rect x=\"330\" y=\"205\" width=\"160\" height=\"14\" fill=\"#d9d9d9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M395 240 Q385 228 400 218 Q398 230 410 222 Q420 232 410 240 Z\" fill=\"#f4a640\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"470\" y=\"236\" fill=\"#0f1b33\">heat</text><text x=\"410\" y=\"265\" text-anchor=\"middle\" fill=\"#0f1b33\">bubbles of gas form all through the liquid</text></svg>",
+   "caption": "Evaporation happens only at the surface; boiling makes bubbles of gas all through the liquid and needs heating to the boiling point."
+  },
+  {
+   "type": "h2",
+   "text": "3. The differences"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "",
+    "Evaporation",
+    "Boiling"
+   ],
+   "rows": [
+    [
+     "Where does the liquid change to gas?",
+     "only at the **surface**",
+     "**all through** the liquid (bubbles form inside it)"
+    ],
+    [
+     "What temperature?",
+     "**any** temperature (below the boiling point)",
+     "only at the **boiling point** (water: 100 °C)"
+    ],
+    [
+     "How fast?",
+     "**slow**",
+     "**fast**"
+    ],
+    [
+     "Can you see bubbles?",
+     "no",
+     "yes — big bubbles rise and burst at the top"
+    ],
+    [
+     "Does it need heat to be supplied?",
+     "no — puddles dry without a cooker",
+     "yes — heat must keep being supplied"
+    ],
+    [
+     "Everyday examples",
+     "puddles drying, wet clothes drying, sweat drying",
+     "a kettle, a pan of water cooking pasta"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Three words to remember",
+   "text": "Evaporation: **surface – any temperature – slow**. Boiling: **everywhere – boiling point – fast**. A 2-mark \"describe two differences\" question needs one pair of opposites for each mark, e.g. \"evaporation happens only at the surface but boiling happens throughout the liquid\"."
+  },
+  {
+   "type": "h2",
+   "text": "4. The particle model"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "In a liquid, the particles touch and slide past each other. They do not all move at the same speed.",
+    "**Evaporation:** some of the fastest particles at the **surface** have enough energy to break away from the liquid and escape into the air as gas. Only surface particles can escape, so evaporation is slow.",
+    "**Boiling:** when the liquid is heated to its boiling point, particles **all through** the liquid have enough energy to become gas. Pockets of gas form inside the liquid — these are the bubbles. This is much faster.",
+    "The bubbles in boiling water are full of **water vapour**, not air.",
+    "The white \"steam\" you see above a kettle is not the gas itself. Water vapour is invisible; the white cloud is tiny drops of liquid water made when the vapour cools and **condenses** in the air."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "5. Heating water until it boils"
+  },
+  {
+   "type": "p",
+   "text": "If you heat water and take its temperature every minute, the temperature rises until it reaches **100 °C**. Then the water boils and, even though you keep heating, the temperature **stays at 100 °C**. The energy is used to change the liquid into gas, not to make it hotter."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 305\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"13\"><line x1=\"80\" y1=\"250\" x2=\"80\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"80\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">0</text><line x1=\"140\" y1=\"250\" x2=\"140\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"140\" y1=\"250\" x2=\"140\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"140\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">2</text><line x1=\"200\" y1=\"250\" x2=\"200\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"200\" y1=\"250\" x2=\"200\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"200\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">4</text><line x1=\"260\" y1=\"250\" x2=\"260\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"260\" y1=\"250\" x2=\"260\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"260\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">6</text><line x1=\"320\" y1=\"250\" x2=\"320\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"320\" y1=\"250\" x2=\"320\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"320\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">8</text><line x1=\"380\" y1=\"250\" x2=\"380\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"380\" y1=\"250\" x2=\"380\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"380\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">10</text><line x1=\"440\" y1=\"250\" x2=\"440\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"440\" y1=\"250\" x2=\"440\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"440\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">12</text><line x1=\"500\" y1=\"250\" x2=\"500\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"500\" y1=\"250\" x2=\"500\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"500\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">14</text><line x1=\"75\" y1=\"250\" x2=\"80\" y2=\"250\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"71\" y=\"254.5\" text-anchor=\"end\" fill=\"#0f1b33\">0</text><line x1=\"80\" y1=\"215\" x2=\"500\" y2=\"215\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"75\" y1=\"215\" x2=\"80\" y2=\"215\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"71\" y=\"219.5\" text-anchor=\"end\" fill=\"#0f1b33\">20</text><line x1=\"80\" y1=\"180\" x2=\"500\" y2=\"180\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"75\" y1=\"180\" x2=\"80\" y2=\"180\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"71\" y=\"184.5\" text-anchor=\"end\" fill=\"#0f1b33\">40</text><line x1=\"80\" y1=\"145\" x2=\"500\" y2=\"145\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"75\" y1=\"145\" x2=\"80\" y2=\"145\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"71\" y=\"149.5\" text-anchor=\"end\" fill=\"#0f1b33\">60</text><line x1=\"80\" y1=\"110\" x2=\"500\" y2=\"110\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"75\" y1=\"110\" x2=\"80\" y2=\"110\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"71\" y=\"114.5\" text-anchor=\"end\" fill=\"#0f1b33\">80</text><line x1=\"80\" y1=\"75\" x2=\"500\" y2=\"75\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"75\" y1=\"75\" x2=\"80\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"71\" y=\"79.5\" text-anchor=\"end\" fill=\"#0f1b33\">100</text><line x1=\"80\" y1=\"40\" x2=\"500\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"75\" y1=\"40\" x2=\"80\" y2=\"40\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"71\" y=\"44.5\" text-anchor=\"end\" fill=\"#0f1b33\">120</text><line x1=\"80\" y1=\"250\" x2=\"500\" y2=\"250\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"80\" y1=\"250\" x2=\"80\" y2=\"40\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"290\" y=\"290\" text-anchor=\"middle\" fill=\"#0f1b33\">Time in minutes</text><text x=\"0\" y=\"0\" text-anchor=\"middle\" fill=\"#0f1b33\" transform=\"translate(34 145) rotate(-90)\">Temperature in °C</text><polyline points=\"80,215 320,75 500,75\" fill=\"none\" stroke=\"#c0392b\" stroke-width=\"2.5\"/></svg>",
+   "caption": "Water heated from 20 °C: the temperature rises for 8 minutes, then stays at 100 °C while the water boils."
+  },
+  {
+   "type": "p",
+   "text": "**Boiling point is a property of a substance.** Pure water always boils at 100 °C (at normal air pressure). Other liquids have different boiling points — for example, ethanol (a type of alcohol) boils at about 78 °C. So scientists can use the boiling point to help identify a liquid."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Not every bubble means boiling",
+   "text": "When you start heating cold water, tiny bubbles appear on the bottom of the pan long before 100 °C. These are bubbles of air that was dissolved in the water. Fizzy drinks also bubble without boiling. Boiling means big bubbles of the liquid's own gas forming throughout the liquid at its boiling point."
+  },
+  {
+   "type": "h2",
+   "text": "6. What makes evaporation faster?"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Factor",
+    "Faster evaporation when…",
+    "Example"
+   ],
+   "rows": [
+    [
+     "Temperature",
+     "the liquid and air are **warmer**",
+     "washing dries faster on a hot summer day in Cairo than in winter"
+    ],
+    [
+     "Surface area",
+     "the liquid is **spread out** (larger surface)",
+     "a puddle dries faster than a deep bucket of water"
+    ],
+    [
+     "Moving air (wind)",
+     "air is **moving** over the surface",
+     "hair dries faster with a hair dryer or a fan"
+    ],
+    [
+     "Dampness of the air",
+     "the air is **dry**, not damp/humid",
+     "clothes dry slowly in a steamy bathroom"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Useful evaporation:** salt is made from seawater by letting the sun evaporate water from wide, shallow ponds — wide ponds give a large surface area. Evaporation also cools us: when sweat evaporates from our skin it takes heat away from the body."
+  },
+  {
+   "type": "h2",
+   "text": "7. Evaporation and condensation working together"
+  },
+  {
+   "type": "p",
+   "text": "Evaporation is reversed by **condensation**. When water vapour touches something cold, it cools down and turns back into liquid water. You see this every day:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Drops of water form on the outside of a cold bottle taken from the fridge — water vapour from the air condenses on the cold glass.",
+    "A bathroom mirror mists up after a hot shower.",
+    "In the water cycle, the Sun's heat evaporates water from seas, rivers and the Nile; high in the sky the vapour cools and condenses into tiny drops that make clouds, and then falls as rain.",
+    "A **solar still** uses the Sun to evaporate salty water; the vapour condenses on a cool plastic cover and drips into a cup as clean water — the salt is left behind."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Exam link:** if a question asks how to collect the water (not just the salt) from salt water, you must mention both steps — **evaporate** the water, then **condense** the water vapour by cooling it."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الفرق في جملة",
+   "text": "التبخر (evaporation) يحدث من السطح فقط، عند أي درجة حرارة، وببطء، وبدون فقاعات — مثل جفاف الغسيل. الغليان (boiling) يحدث في كل السائل، عند درجة الغليان فقط (الماء 100 درجة)، وبسرعة، ومع فقاعات — مثل الكاتل. وأثناء الغليان تظل درجة الحرارة ثابتة رغم استمرار التسخين."
+  },
+  {
+   "type": "h2",
+   "text": "8. Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — Complete the sentences about boiling and evaporation. [3 marks]\n(a) Evaporation happens only at the ______ of a liquid. (b) Water boils at ______ °C. (c) Boiling is ______ than evaporation."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) **surface** (b) **100** (c) **faster** (or quicker).",
+    "**Common mistake:** writing \"evaporation happens at 100 °C\". Evaporation happens at any temperature — that is why a puddle dries at 25 °C."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — Use the heating graph in section 5. (a) What was the temperature after 4 minutes? [1] (b) After how many minutes did the water start to boil? [1] (c) Describe and explain what happens to the temperature from 8 to 14 minutes. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) Go up from 4 minutes to the line, then across: **60 °C**. (The temperature rises 80 °C in 8 minutes, so 10 °C every minute: 20 + 4 × 10 = 60.)",
+    "(b) The line becomes flat at **8 minutes**, when the temperature reaches 100 °C.",
+    "(c) The temperature **stays the same at 100 °C** (1) because the water is boiling — the heat is used to change the water into gas (water vapour), not to raise the temperature (1)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — On a hot, windy day a puddle dries in two hours. On a cool, still day the same puddle takes all day. Give **two** reasons why. [2 marks]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "The higher temperature makes the water evaporate faster (1).",
+    "The wind moves the water vapour away from the surface, so evaporation is faster (1).",
+    "**Common mistake:** saying \"the puddle boils in the sun\". The water never reaches 100 °C; it evaporates."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — Boiling or evaporation? Write B or E for each. [2 marks] (a) Ink drying on paper. (b) Soup bubbling in a pan on a hot cooker. (c) A wet floor drying after mopping. (d) Ethanol heated to 78 °C making big bubbles."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) **E** — slow, at room temperature, from the surface.",
+    "(b) **B** — bubbles throughout, being heated.",
+    "(c) **E** — the floor is not heated to 100 °C.",
+    "(d) **B** — 78 °C is the boiling point of ethanol, and there are bubbles throughout.",
+    "(2 marks for all four correct; 1 mark for two or three correct.)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — Mariam wants to find out if wind affects how fast water evaporates. She has two saucers of water and a fan. Describe a fair test. [3 marks]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Put the **same volume** of water (e.g. 20 ml) in two **identical** saucers, in the same room (same temperature) (1).",
+    "Put a fan blowing over one saucer only; the other has no fan. **Change only the wind** (1).",
+    "After the same time (e.g. 3 hours), measure the volume of water left in each with a measuring cylinder; the one with less water left evaporated faster (1).",
+    "Prediction with a reason: the saucer with the fan will lose more water, because moving air carries the water vapour away from the surface."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "\"Evaporation only happens when water is heated.\" — No: it happens at any temperature.",
+    "\"Water evaporates at 100 °C.\" — At 100 °C water **boils**; evaporation happens below that too.",
+    "\"The bubbles in boiling water are air (or oxygen).\" — They are water vapour.",
+    "\"The temperature keeps rising while water boils.\" — It stays at the boiling point.",
+    "\"Steam is the white cloud.\" — The white cloud is tiny liquid droplets; real water vapour is invisible.",
+    "Giving only one side of a difference: \"boiling is fast\" alone may not score; write \"boiling is fast **but** evaporation is slow\"."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "**Describe a difference** — write a comparison sentence with both words: \"Boiling …, but evaporation …\".",
+    "**Read a thermometer** — find what one small division is worth (often 1 °C or 2 °C) before reading.",
+    "**Heating graphs** — read values from the line; the flat part means the liquid is boiling (or changing state).",
+    "**Evaporation investigations** — independent variable (surface area / temperature / wind), dependent variable (volume of water left or lost), control variables (starting volume, time, place).",
+    "**Calculations** — water evaporated = starting volume − volume left. Always give the unit (ml).",
+    "**Everyday contexts** — drying clothes, puddles, making salt, kettles and cooking."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Boiling and evaporation — practice",
+   "timed": false,
+   "intro": "Answer every part. Type short answers in the box; for longer answers write yours on paper, then mark it with the mark scheme.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 20,
+     "calc": true,
+     "questions": [
+      {
+       "q": "Where in a liquid does evaporation take place?",
+       "c": [
+        "only at the surface",
+        "only at the bottom",
+        "all through the liquid",
+        "only inside bubbles"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Boiling and evaporation",
+       "e": "Only particles at the surface can escape into the air, so evaporation happens only at the surface. Boiling happens all through the liquid."
+      },
+      {
+       "t": "num",
+       "q": "At what temperature does pure water boil (at normal air pressure)?",
+       "ans": [
+        100
+       ],
+       "tol": 0,
+       "unit": "°C",
+       "m": 1,
+       "s": "Boiling",
+       "e": "The boiling point of pure water is 100 °C."
+      },
+      {
+       "q": "Which of these is an example of boiling?",
+       "c": [
+        "a puddle drying in the sun",
+        "wet washing drying on a line",
+        "ink drying on a page",
+        "water bubbling in a kettle at 100 °C"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Boiling and evaporation",
+       "e": "Only the kettle is heated to the boiling point with bubbles forming throughout. The others are slow evaporation from a surface at normal temperatures."
+      },
+      {
+       "t": "num",
+       "q": "What temperature does this thermometer show?",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 320\" width=\"200\" font-family=\"Arial, sans-serif\" font-size=\"13\"><rect x=\"83\" y=\"18\" width=\"14\" height=\"274\" rx=\"7\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"87\" y=\"100\" width=\"6\" height=\"194\" fill=\"#d23c3c\"/><circle cx=\"90\" cy=\"302\" r=\"14\" fill=\"#d23c3c\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><g stroke=\"#0f1b33\" stroke-width=\"1.2\"><path d=\"M99 280h14\"/><path d=\"M99 275h7\"/><path d=\"M99 270h7\"/><path d=\"M99 265h7\"/><path d=\"M99 260h7\"/><path d=\"M99 255h14\"/><path d=\"M99 250h7\"/><path d=\"M99 245h7\"/><path d=\"M99 240h7\"/><path d=\"M99 235h7\"/><path d=\"M99 230h14\"/><path d=\"M99 225h7\"/><path d=\"M99 220h7\"/><path d=\"M99 215h7\"/><path d=\"M99 210h7\"/><path d=\"M99 205h14\"/><path d=\"M99 200h7\"/><path d=\"M99 195h7\"/><path d=\"M99 190h7\"/><path d=\"M99 185h7\"/><path d=\"M99 180h14\"/><path d=\"M99 175h7\"/><path d=\"M99 170h7\"/><path d=\"M99 165h7\"/><path d=\"M99 160h7\"/><path d=\"M99 155h14\"/><path d=\"M99 150h7\"/><path d=\"M99 145h7\"/><path d=\"M99 140h7\"/><path d=\"M99 135h7\"/><path d=\"M99 130h14\"/><path d=\"M99 125h7\"/><path d=\"M99 120h7\"/><path d=\"M99 115h7\"/><path d=\"M99 110h7\"/><path d=\"M99 105h14\"/><path d=\"M99 100h7\"/><path d=\"M99 95h7\"/><path d=\"M99 90h7\"/><path d=\"M99 85h7\"/><path d=\"M99 80h14\"/><path d=\"M99 75h7\"/><path d=\"M99 70h7\"/><path d=\"M99 65h7\"/><path d=\"M99 60h7\"/><path d=\"M99 55h14\"/><path d=\"M99 50h7\"/><path d=\"M99 45h7\"/><path d=\"M99 40h7\"/><path d=\"M99 35h7\"/><path d=\"M99 30h14\"/></g><text x=\"120\" y=\"284.5\" fill=\"#0f1b33\">0</text><text x=\"120\" y=\"259.5\" fill=\"#0f1b33\">10</text><text x=\"120\" y=\"234.5\" fill=\"#0f1b33\">20</text><text x=\"120\" y=\"209.5\" fill=\"#0f1b33\">30</text><text x=\"120\" y=\"184.5\" fill=\"#0f1b33\">40</text><text x=\"120\" y=\"159.5\" fill=\"#0f1b33\">50</text><text x=\"120\" y=\"134.5\" fill=\"#0f1b33\">60</text><text x=\"120\" y=\"109.5\" fill=\"#0f1b33\">70</text><text x=\"120\" y=\"84.5\" fill=\"#0f1b33\">80</text><text x=\"120\" y=\"59.5\" fill=\"#0f1b33\">90</text><text x=\"120\" y=\"34.5\" fill=\"#0f1b33\">100</text><text x=\"160\" y=\"30\" fill=\"#0f1b33\">°C</text></svg>",
+       "ans": [
+        72
+       ],
+       "tol": 0,
+       "unit": "°C",
+       "m": 1,
+       "s": "Measuring",
+       "e": "Between 70 and 80 there are 5 small divisions, so each one is 2 °C. The liquid reaches one division above 70: 70 + 2 = 72 °C."
+      },
+      {
+       "t": "open",
+       "q": "Describe two differences between boiling and evaporation.",
+       "m": 2,
+       "s": "Boiling and evaporation",
+       "ms": "1 mark each, any two comparisons (both sides needed or clearly implied): evaporation at the surface only / boiling throughout the liquid; evaporation at any temperature / boiling only at the boiling point (100 °C for water); evaporation slow / boiling fast; boiling has bubbles / evaporation has none; boiling needs the liquid to be heated to its boiling point / evaporation happens without heating to the boiling point.",
+       "e": "For example: (1) Evaporation happens only at the surface, but boiling happens throughout the liquid. (2) Evaporation happens at any temperature, but boiling happens only at the boiling point (100 °C for water). Other correct pairs: slow/fast, no bubbles/bubbles."
+      },
+      {
+       "t": "num",
+       "p": "Question 7\nKarim heats some water in a beaker and records its temperature every minute. The graph shows his results.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 305\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"13\"><line x1=\"80\" y1=\"250\" x2=\"80\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"80\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">0</text><line x1=\"115\" y1=\"250\" x2=\"115\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"115\" y1=\"250\" x2=\"115\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"115\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">1</text><line x1=\"150\" y1=\"250\" x2=\"150\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"150\" y1=\"250\" x2=\"150\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"150\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">2</text><line x1=\"185\" y1=\"250\" x2=\"185\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"185\" y1=\"250\" x2=\"185\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"185\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">3</text><line x1=\"220\" y1=\"250\" x2=\"220\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"220\" y1=\"250\" x2=\"220\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"220\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">4</text><line x1=\"255\" y1=\"250\" x2=\"255\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"255\" y1=\"250\" x2=\"255\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"255\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">5</text><line x1=\"290\" y1=\"250\" x2=\"290\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"290\" y1=\"250\" x2=\"290\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"290\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">6</text><line x1=\"325\" y1=\"250\" x2=\"325\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"325\" y1=\"250\" x2=\"325\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"325\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">7</text><line x1=\"360\" y1=\"250\" x2=\"360\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"360\" y1=\"250\" x2=\"360\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"360\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">8</text><line x1=\"395\" y1=\"250\" x2=\"395\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"395\" y1=\"250\" x2=\"395\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"395\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">9</text><line x1=\"430\" y1=\"250\" x2=\"430\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"430\" y1=\"250\" x2=\"430\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"430\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">10</text><line x1=\"465\" y1=\"250\" x2=\"465\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"465\" y1=\"250\" x2=\"465\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"465\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">11</text><line x1=\"500\" y1=\"250\" x2=\"500\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"500\" y1=\"250\" x2=\"500\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"500\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">12</text><line x1=\"75\" y1=\"250\" x2=\"80\" y2=\"250\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"71\" y=\"254.5\" text-anchor=\"end\" fill=\"#0f1b33\">0</text><line x1=\"80\" y1=\"215\" x2=\"500\" y2=\"215\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"75\" y1=\"215\" x2=\"80\" y2=\"215\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"71\" y=\"219.5\" text-anchor=\"end\" fill=\"#0f1b33\">20</text><line x1=\"80\" y1=\"180\" x2=\"500\" y2=\"180\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"75\" y1=\"180\" x2=\"80\" y2=\"180\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"71\" y=\"184.5\" text-anchor=\"end\" fill=\"#0f1b33\">40</text><line x1=\"80\" y1=\"145\" x2=\"500\" y2=\"145\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"75\" y1=\"145\" x2=\"80\" y2=\"145\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"71\" y=\"149.5\" text-anchor=\"end\" fill=\"#0f1b33\">60</text><line x1=\"80\" y1=\"110\" x2=\"500\" y2=\"110\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"75\" y1=\"110\" x2=\"80\" y2=\"110\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"71\" y=\"114.5\" text-anchor=\"end\" fill=\"#0f1b33\">80</text><line x1=\"80\" y1=\"75\" x2=\"500\" y2=\"75\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"75\" y1=\"75\" x2=\"80\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"71\" y=\"79.5\" text-anchor=\"end\" fill=\"#0f1b33\">100</text><line x1=\"80\" y1=\"40\" x2=\"500\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"75\" y1=\"40\" x2=\"80\" y2=\"40\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"71\" y=\"44.5\" text-anchor=\"end\" fill=\"#0f1b33\">120</text><line x1=\"80\" y1=\"250\" x2=\"500\" y2=\"250\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"80\" y1=\"250\" x2=\"80\" y2=\"40\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"290\" y=\"290\" text-anchor=\"middle\" fill=\"#0f1b33\">Time in minutes</text><text x=\"0\" y=\"0\" text-anchor=\"middle\" fill=\"#0f1b33\" transform=\"translate(34 145) rotate(-90)\">Temperature in °C</text><polyline points=\"80,197.5 325,75 500,75\" fill=\"none\" stroke=\"#c0392b\" stroke-width=\"2.5\"/></svg>",
+       "q": "(a) What was the temperature of the water after 3 minutes?",
+       "ans": [
+        60
+       ],
+       "tol": 1,
+       "unit": "°C",
+       "m": 1,
+       "s": "Reading graphs",
+       "e": "Go up from 3 minutes to the line and across to the temperature axis: 60 °C. (The water warms 70 °C in 7 minutes = 10 °C per minute; 30 + 3 × 10 = 60.)"
+      },
+      {
+       "t": "num",
+       "p": "Question 7\nKarim heats some water in a beaker and records its temperature every minute. The graph shows his results.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 305\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"13\"><line x1=\"80\" y1=\"250\" x2=\"80\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"80\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">0</text><line x1=\"115\" y1=\"250\" x2=\"115\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"115\" y1=\"250\" x2=\"115\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"115\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">1</text><line x1=\"150\" y1=\"250\" x2=\"150\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"150\" y1=\"250\" x2=\"150\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"150\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">2</text><line x1=\"185\" y1=\"250\" x2=\"185\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"185\" y1=\"250\" x2=\"185\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"185\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">3</text><line x1=\"220\" y1=\"250\" x2=\"220\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"220\" y1=\"250\" x2=\"220\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"220\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">4</text><line x1=\"255\" y1=\"250\" x2=\"255\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"255\" y1=\"250\" x2=\"255\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"255\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">5</text><line x1=\"290\" y1=\"250\" x2=\"290\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"290\" y1=\"250\" x2=\"290\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"290\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">6</text><line x1=\"325\" y1=\"250\" x2=\"325\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"325\" y1=\"250\" x2=\"325\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"325\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">7</text><line x1=\"360\" y1=\"250\" x2=\"360\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"360\" y1=\"250\" x2=\"360\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"360\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">8</text><line x1=\"395\" y1=\"250\" x2=\"395\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"395\" y1=\"250\" x2=\"395\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"395\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">9</text><line x1=\"430\" y1=\"250\" x2=\"430\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"430\" y1=\"250\" x2=\"430\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"430\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">10</text><line x1=\"465\" y1=\"250\" x2=\"465\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"465\" y1=\"250\" x2=\"465\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"465\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">11</text><line x1=\"500\" y1=\"250\" x2=\"500\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"500\" y1=\"250\" x2=\"500\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"500\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">12</text><line x1=\"75\" y1=\"250\" x2=\"80\" y2=\"250\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"71\" y=\"254.5\" text-anchor=\"end\" fill=\"#0f1b33\">0</text><line x1=\"80\" y1=\"215\" x2=\"500\" y2=\"215\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"75\" y1=\"215\" x2=\"80\" y2=\"215\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"71\" y=\"219.5\" text-anchor=\"end\" fill=\"#0f1b33\">20</text><line x1=\"80\" y1=\"180\" x2=\"500\" y2=\"180\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"75\" y1=\"180\" x2=\"80\" y2=\"180\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"71\" y=\"184.5\" text-anchor=\"end\" fill=\"#0f1b33\">40</text><line x1=\"80\" y1=\"145\" x2=\"500\" y2=\"145\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"75\" y1=\"145\" x2=\"80\" y2=\"145\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"71\" y=\"149.5\" text-anchor=\"end\" fill=\"#0f1b33\">60</text><line x1=\"80\" y1=\"110\" x2=\"500\" y2=\"110\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"75\" y1=\"110\" x2=\"80\" y2=\"110\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"71\" y=\"114.5\" text-anchor=\"end\" fill=\"#0f1b33\">80</text><line x1=\"80\" y1=\"75\" x2=\"500\" y2=\"75\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"75\" y1=\"75\" x2=\"80\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"71\" y=\"79.5\" text-anchor=\"end\" fill=\"#0f1b33\">100</text><line x1=\"80\" y1=\"40\" x2=\"500\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"75\" y1=\"40\" x2=\"80\" y2=\"40\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"71\" y=\"44.5\" text-anchor=\"end\" fill=\"#0f1b33\">120</text><line x1=\"80\" y1=\"250\" x2=\"500\" y2=\"250\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"80\" y1=\"250\" x2=\"80\" y2=\"40\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"290\" y=\"290\" text-anchor=\"middle\" fill=\"#0f1b33\">Time in minutes</text><text x=\"0\" y=\"0\" text-anchor=\"middle\" fill=\"#0f1b33\" transform=\"translate(34 145) rotate(-90)\">Temperature in °C</text><polyline points=\"80,197.5 325,75 500,75\" fill=\"none\" stroke=\"#c0392b\" stroke-width=\"2.5\"/></svg>",
+       "q": "(b) After how many minutes did the water start to boil?",
+       "ans": [
+        7
+       ],
+       "tol": 0,
+       "unit": "minutes",
+       "m": 1,
+       "s": "Reading graphs",
+       "e": "The line becomes flat at 7 minutes, when the temperature reaches 100 °C — the water starts boiling."
+      },
+      {
+       "p": "Question 7\nKarim heats some water in a beaker and records its temperature every minute. The graph shows his results.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 305\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"13\"><line x1=\"80\" y1=\"250\" x2=\"80\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"80\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">0</text><line x1=\"115\" y1=\"250\" x2=\"115\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"115\" y1=\"250\" x2=\"115\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"115\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">1</text><line x1=\"150\" y1=\"250\" x2=\"150\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"150\" y1=\"250\" x2=\"150\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"150\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">2</text><line x1=\"185\" y1=\"250\" x2=\"185\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"185\" y1=\"250\" x2=\"185\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"185\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">3</text><line x1=\"220\" y1=\"250\" x2=\"220\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"220\" y1=\"250\" x2=\"220\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"220\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">4</text><line x1=\"255\" y1=\"250\" x2=\"255\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"255\" y1=\"250\" x2=\"255\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"255\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">5</text><line x1=\"290\" y1=\"250\" x2=\"290\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"290\" y1=\"250\" x2=\"290\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"290\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">6</text><line x1=\"325\" y1=\"250\" x2=\"325\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"325\" y1=\"250\" x2=\"325\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"325\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">7</text><line x1=\"360\" y1=\"250\" x2=\"360\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"360\" y1=\"250\" x2=\"360\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"360\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">8</text><line x1=\"395\" y1=\"250\" x2=\"395\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"395\" y1=\"250\" x2=\"395\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"395\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">9</text><line x1=\"430\" y1=\"250\" x2=\"430\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"430\" y1=\"250\" x2=\"430\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"430\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">10</text><line x1=\"465\" y1=\"250\" x2=\"465\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"465\" y1=\"250\" x2=\"465\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"465\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">11</text><line x1=\"500\" y1=\"250\" x2=\"500\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"500\" y1=\"250\" x2=\"500\" y2=\"255\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"500\" y=\"269\" text-anchor=\"middle\" fill=\"#0f1b33\">12</text><line x1=\"75\" y1=\"250\" x2=\"80\" y2=\"250\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"71\" y=\"254.5\" text-anchor=\"end\" fill=\"#0f1b33\">0</text><line x1=\"80\" y1=\"215\" x2=\"500\" y2=\"215\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"75\" y1=\"215\" x2=\"80\" y2=\"215\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"71\" y=\"219.5\" text-anchor=\"end\" fill=\"#0f1b33\">20</text><line x1=\"80\" y1=\"180\" x2=\"500\" y2=\"180\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"75\" y1=\"180\" x2=\"80\" y2=\"180\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"71\" y=\"184.5\" text-anchor=\"end\" fill=\"#0f1b33\">40</text><line x1=\"80\" y1=\"145\" x2=\"500\" y2=\"145\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"75\" y1=\"145\" x2=\"80\" y2=\"145\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"71\" y=\"149.5\" text-anchor=\"end\" fill=\"#0f1b33\">60</text><line x1=\"80\" y1=\"110\" x2=\"500\" y2=\"110\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"75\" y1=\"110\" x2=\"80\" y2=\"110\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"71\" y=\"114.5\" text-anchor=\"end\" fill=\"#0f1b33\">80</text><line x1=\"80\" y1=\"75\" x2=\"500\" y2=\"75\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"75\" y1=\"75\" x2=\"80\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"71\" y=\"79.5\" text-anchor=\"end\" fill=\"#0f1b33\">100</text><line x1=\"80\" y1=\"40\" x2=\"500\" y2=\"40\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"75\" y1=\"40\" x2=\"80\" y2=\"40\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"71\" y=\"44.5\" text-anchor=\"end\" fill=\"#0f1b33\">120</text><line x1=\"80\" y1=\"250\" x2=\"500\" y2=\"250\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"80\" y1=\"250\" x2=\"80\" y2=\"40\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"290\" y=\"290\" text-anchor=\"middle\" fill=\"#0f1b33\">Time in minutes</text><text x=\"0\" y=\"0\" text-anchor=\"middle\" fill=\"#0f1b33\" transform=\"translate(34 145) rotate(-90)\">Temperature in °C</text><polyline points=\"80,197.5 325,75 500,75\" fill=\"none\" stroke=\"#c0392b\" stroke-width=\"2.5\"/></svg>",
+       "q": "(c) Karim keeps heating from 7 minutes to 12 minutes. What happens to the temperature?",
+       "c": [
+        "It keeps rising to 150 °C.",
+        "It stays at 100 °C.",
+        "It falls back to 30 °C.",
+        "It rises, then falls."
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Boiling",
+       "e": "While water boils its temperature stays at its boiling point, 100 °C. The heat is used to turn the liquid into water vapour."
+      },
+      {
+       "t": "text",
+       "q": "The temperature at which a liquid boils is called its ______ ______. (two words)",
+       "ans": [
+        "boiling point",
+        "boilingpoint"
+       ],
+       "m": 1,
+       "s": "Boiling",
+       "e": "Boiling point — it is a property of the substance (water 100 °C, ethanol about 78 °C)."
+      },
+      {
+       "t": "num",
+       "p": "Question 8\nRana pours 50 ml of water into each of three dishes of different widths and leaves them on a sunny windowsill for two days. Then she measures the water left.\nDish A (5 cm wide): 42 ml left. Dish B (9 cm wide): 35 ml left. Dish C (15 cm wide): 24 ml left.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 520 160\" width=\"520\" font-family=\"Arial, sans-serif\" font-size=\"13\"><path d=\"M45 60 L45 100 L95 100 L95 60\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"46\" y=\"80.8\" width=\"48\" height=\"18.2\" fill=\"#eaf1fb\"/><text x=\"70\" y=\"125\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">Dish A</text><text x=\"70\" y=\"145\" text-anchor=\"middle\" fill=\"#0f1b33\">5 cm wide</text><path d=\"M165 60 L165 100 L255 100 L255 60\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"166\" y=\"89.3\" width=\"88\" height=\"9.7\" fill=\"#eaf1fb\"/><text x=\"210\" y=\"125\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">Dish B</text><text x=\"210\" y=\"145\" text-anchor=\"middle\" fill=\"#0f1b33\">9 cm wide</text><path d=\"M335 60 L335 100 L485 100 L485 60\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"336\" y=\"93.6\" width=\"148\" height=\"5.4\" fill=\"#eaf1fb\"/><text x=\"410\" y=\"125\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">Dish C</text><text x=\"410\" y=\"145\" text-anchor=\"middle\" fill=\"#0f1b33\">15 cm wide</text><text x=\"270\" y=\"30\" text-anchor=\"middle\" fill=\"#0f1b33\">Each dish starts with 50 ml of water</text></svg>",
+       "q": "(a) What volume of water evaporated from dish C?",
+       "ans": [
+        26
+       ],
+       "tol": 0,
+       "unit": "ml",
+       "m": 1,
+       "s": "Evaporation",
+       "e": "Water evaporated = starting volume − volume left = 50 − 24 = 26 ml."
+      },
+      {
+       "t": "text",
+       "p": "Question 8\nRana pours 50 ml of water into each of three dishes of different widths and leaves them on a sunny windowsill for two days. Then she measures the water left.\nDish A (5 cm wide): 42 ml left. Dish B (9 cm wide): 35 ml left. Dish C (15 cm wide): 24 ml left.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 520 160\" width=\"520\" font-family=\"Arial, sans-serif\" font-size=\"13\"><path d=\"M45 60 L45 100 L95 100 L95 60\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"46\" y=\"80.8\" width=\"48\" height=\"18.2\" fill=\"#eaf1fb\"/><text x=\"70\" y=\"125\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">Dish A</text><text x=\"70\" y=\"145\" text-anchor=\"middle\" fill=\"#0f1b33\">5 cm wide</text><path d=\"M165 60 L165 100 L255 100 L255 60\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"166\" y=\"89.3\" width=\"88\" height=\"9.7\" fill=\"#eaf1fb\"/><text x=\"210\" y=\"125\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">Dish B</text><text x=\"210\" y=\"145\" text-anchor=\"middle\" fill=\"#0f1b33\">9 cm wide</text><path d=\"M335 60 L335 100 L485 100 L485 60\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"336\" y=\"93.6\" width=\"148\" height=\"5.4\" fill=\"#eaf1fb\"/><text x=\"410\" y=\"125\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">Dish C</text><text x=\"410\" y=\"145\" text-anchor=\"middle\" fill=\"#0f1b33\">15 cm wide</text><text x=\"270\" y=\"30\" text-anchor=\"middle\" fill=\"#0f1b33\">Each dish starts with 50 ml of water</text></svg>",
+       "q": "(b) Which dish lost the least water? Write A, B or C.",
+       "ans": [
+        "A",
+        "dish A"
+       ],
+       "m": 1,
+       "s": "Evaporation",
+       "e": "Dish A lost 50 − 42 = 8 ml; dish B lost 15 ml; dish C lost 26 ml. Dish A, the narrowest, lost the least."
+      },
+      {
+       "t": "open",
+       "p": "Question 8\nRana pours 50 ml of water into each of three dishes of different widths and leaves them on a sunny windowsill for two days. Then she measures the water left.\nDish A (5 cm wide): 42 ml left. Dish B (9 cm wide): 35 ml left. Dish C (15 cm wide): 24 ml left.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 520 160\" width=\"520\" font-family=\"Arial, sans-serif\" font-size=\"13\"><path d=\"M45 60 L45 100 L95 100 L95 60\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"46\" y=\"80.8\" width=\"48\" height=\"18.2\" fill=\"#eaf1fb\"/><text x=\"70\" y=\"125\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">Dish A</text><text x=\"70\" y=\"145\" text-anchor=\"middle\" fill=\"#0f1b33\">5 cm wide</text><path d=\"M165 60 L165 100 L255 100 L255 60\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"166\" y=\"89.3\" width=\"88\" height=\"9.7\" fill=\"#eaf1fb\"/><text x=\"210\" y=\"125\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">Dish B</text><text x=\"210\" y=\"145\" text-anchor=\"middle\" fill=\"#0f1b33\">9 cm wide</text><path d=\"M335 60 L335 100 L485 100 L485 60\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"336\" y=\"93.6\" width=\"148\" height=\"5.4\" fill=\"#eaf1fb\"/><text x=\"410\" y=\"125\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">Dish C</text><text x=\"410\" y=\"145\" text-anchor=\"middle\" fill=\"#0f1b33\">15 cm wide</text><text x=\"270\" y=\"30\" text-anchor=\"middle\" fill=\"#0f1b33\">Each dish starts with 50 ml of water</text></svg>",
+       "q": "(c) Write a conclusion for Rana's investigation and explain it.",
+       "m": 2,
+       "s": "Evaporation",
+       "ms": "1 mark: the wider the dish / the bigger the surface area, the more water evaporates (ora). 1 mark: because more (water) particles are at the surface, where they can escape. Do not accept: the wider dish boils.",
+       "e": "The wider the dish, the more water evaporated (the larger the surface area, the faster the evaporation). This is because evaporation happens only at the surface: a larger surface has more particles that can escape into the air."
+      },
+      {
+       "q": "What is inside the large bubbles in boiling water?",
+       "c": [
+        "air",
+        "oxygen",
+        "water vapour",
+        "tiny drops of liquid water"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Boiling",
+       "e": "The bubbles form when water changes into gas inside the liquid, so they are full of water vapour."
+      },
+      {
+       "q": "Where would a wet towel dry fastest?",
+       "c": [
+        "folded up in a cold, still room",
+        "folded up in a warm room",
+        "spread out in a cold, damp bathroom",
+        "spread out in a warm, windy place"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Evaporation",
+       "e": "Evaporation is fastest when it is warm, the surface area is large (spread out), the air is moving (windy) and the air is dry. Only D has all of these."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Boiling and evaporation both change a liquid into a gas; both are reversible by condensing.",
+    "Evaporation: at the surface only, at any temperature, slow, no bubbles.",
+    "Boiling: throughout the liquid, only at the boiling point (water 100 °C), fast, bubbles of vapour.",
+    "While a liquid boils its temperature stays the same; boiling point is a property of the substance.",
+    "Evaporation is faster when it is warmer, windier, drier and the surface area is larger."
+   ]
+  }
+ ]
+}

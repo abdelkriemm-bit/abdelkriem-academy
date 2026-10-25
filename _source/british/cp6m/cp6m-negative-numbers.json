@@ -1,0 +1,665 @@
+{
+ "slug": "cp6m-negative-numbers",
+ "title": "Counting On and Back and Negative Numbers",
+ "kicker": "Cambridge Primary Checkpoint · Mathematics 0096 · Stage 6 · Number",
+ "summary": "Count on and back in whole-number, fraction and decimal steps past zero, and add, subtract and estimate with negative numbers.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Count on and count back in equal steps — whole numbers, fractions and decimals — and keep going past zero into the negative numbers (6Nc.01)",
+    "Estimate, add and subtract integers (positive and negative whole numbers) (6Ni.01)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Negative numbers are everywhere: the temperature on a winter night in Saint Catherine in Sinai can fall below 0 °C, a lift in a shopping mall goes down to floor −1 and −2 for the car park, and the shore of the Dead Sea is about 430 metres below sea level. On this page you will learn to count past zero, to place negative numbers on a number line, and to add and subtract with them confidently."
+  },
+  {
+   "type": "h2",
+   "text": "Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "integer",
+     "عدد صحيح — a whole number: positive, negative or zero (…, −3, −2, −1, 0, 1, 2, 3, …)"
+    ],
+    [
+     "negative number",
+     "عدد سالب — a number less than zero, written with a minus sign: −5"
+    ],
+    [
+     "positive number",
+     "عدد موجب — a number greater than zero: 5 (we do not need to write +5)"
+    ],
+    [
+     "zero",
+     "صفر — neither positive nor negative"
+    ],
+    [
+     "number line",
+     "خط الأعداد — a line with numbers in order; numbers get bigger as you go right"
+    ],
+    [
+     "step / constant step",
+     "الخطوة الثابتة — the same amount added or subtracted each time"
+    ],
+    [
+     "count on / count back",
+     "العد للأمام / للخلف — add the step each time / subtract the step each time"
+    ],
+    [
+     "difference",
+     "الفرق — how far apart two numbers are on the number line"
+    ],
+    [
+     "estimate",
+     "تقدير — a quick, rounded answer to check that your exact answer makes sense"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. The number line goes both ways"
+  },
+  {
+   "type": "p",
+   "text": "Zero is not the end of the number line. Numbers carry on to the left of zero: −1, −2, −3 and so on. We say −3 as **negative three** (not \"minus three\" when it is a number on its own)."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 150\" width=\"540\" font-family=\"Arial, sans-serif\"><line x1=\"12\" y1=\"50\" x2=\"528\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"532.0,50.0 525.0,53.9 525.0,46.1\" fill=\"#0f1b33\"/><polygon points=\"8.0,50.0 15.0,46.1 15.0,53.9\" fill=\"#0f1b33\"/><line x1=\"26.0\" y1=\"42\" x2=\"26.0\" y2=\"58\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"26.0\" y=\"78\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−10</text><line x1=\"50.4\" y1=\"42\" x2=\"50.4\" y2=\"58\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"50.4\" y=\"78\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−9</text><line x1=\"74.8\" y1=\"42\" x2=\"74.8\" y2=\"58\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"74.8\" y=\"78\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−8</text><line x1=\"99.2\" y1=\"42\" x2=\"99.2\" y2=\"58\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"99.2\" y=\"78\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−7</text><line x1=\"123.6\" y1=\"42\" x2=\"123.6\" y2=\"58\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"123.6\" y=\"78\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−6</text><line x1=\"148.0\" y1=\"42\" x2=\"148.0\" y2=\"58\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"148.0\" y=\"78\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−5</text><line x1=\"172.4\" y1=\"42\" x2=\"172.4\" y2=\"58\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"172.4\" y=\"78\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−4</text><line x1=\"196.8\" y1=\"42\" x2=\"196.8\" y2=\"58\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"196.8\" y=\"78\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−3</text><line x1=\"221.2\" y1=\"42\" x2=\"221.2\" y2=\"58\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"221.2\" y=\"78\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−2</text><line x1=\"245.6\" y1=\"42\" x2=\"245.6\" y2=\"58\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"245.6\" y=\"78\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−1</text><line x1=\"270.0\" y1=\"42\" x2=\"270.0\" y2=\"58\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"270.0\" y=\"78\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">0</text><line x1=\"294.4\" y1=\"42\" x2=\"294.4\" y2=\"58\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"294.4\" y=\"78\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">1</text><line x1=\"318.8\" y1=\"42\" x2=\"318.8\" y2=\"58\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"318.8\" y=\"78\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">2</text><line x1=\"343.2\" y1=\"42\" x2=\"343.2\" y2=\"58\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"343.2\" y=\"78\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">3</text><line x1=\"367.6\" y1=\"42\" x2=\"367.6\" y2=\"58\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"367.6\" y=\"78\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">4</text><line x1=\"392.0\" y1=\"42\" x2=\"392.0\" y2=\"58\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"392.0\" y=\"78\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">5</text><line x1=\"416.4\" y1=\"42\" x2=\"416.4\" y2=\"58\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"416.4\" y=\"78\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">6</text><line x1=\"440.8\" y1=\"42\" x2=\"440.8\" y2=\"58\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"440.8\" y=\"78\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">7</text><line x1=\"465.2\" y1=\"42\" x2=\"465.2\" y2=\"58\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"465.2\" y=\"78\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">8</text><line x1=\"489.6\" y1=\"42\" x2=\"489.6\" y2=\"58\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"489.6\" y=\"78\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">9</text><line x1=\"514.0\" y1=\"42\" x2=\"514.0\" y2=\"58\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"514.0\" y=\"78\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">10</text><text x=\"140\" y=\"125\" font-size=\"13\" text-anchor=\"middle\" fill=\"#b3261e\" font-weight=\"bold\">negative numbers</text><text x=\"400\" y=\"125\" font-size=\"13\" text-anchor=\"middle\" fill=\"#1d5fbf\" font-weight=\"bold\">positive numbers</text><text x=\"270\" y=\"22\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">zero is neither</text><line x1=\"270\" y1=\"27\" x2=\"270\" y2=\"38\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><text x=\"40\" y=\"22\" font-size=\"13\" fill=\"#0f1b33\">smaller ←</text><text x=\"500\" y=\"22\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">→ bigger</text></svg>",
+   "caption": "A number line from −10 to 10. Every number is bigger than all the numbers to its left."
+  },
+  {
+   "type": "list",
+   "items": [
+    "The further **right** a number is, the **bigger** it is. So 2 > −5 and −1 > −8.",
+    "The further **left** a number is, the **smaller** it is. So −9 < −4, even though 9 is bigger than 4.",
+    "−7 and 7 are the same distance from zero (7 steps), but on opposite sides.",
+    "Temperatures: −9 °C is **colder** than −4 °C because −9 is further below zero."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Ordering integers:** put them on a mental number line. Example: order −3, 5, −8, 0, −1 from smallest to largest → −8, −3, −1, 0, 5."
+  },
+  {
+   "type": "h2",
+   "text": "2. Counting on and counting back past zero"
+  },
+  {
+   "type": "p",
+   "text": "A **sequence** that goes up or down by the same amount each time has a **constant step**. To continue it, keep adding (counting on) or keep subtracting (counting back) the same step — and do not stop at zero."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Find the step: subtract one term from the next one (for example 4 − 7 = −3, so the step is \"back 3\").",
+    "Check the step is the same between every pair of terms.",
+    "Keep applying the step. When you cross zero, split the jump: from 1 counting back 3 → back 1 to 0, then back 2 more to −2.",
+    "Check your last answer by counting the other way."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 138\" width=\"540\" font-family=\"Arial, sans-serif\"><line x1=\"12\" y1=\"92\" x2=\"528\" y2=\"92\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"532.0,92.0 525.0,95.8 525.0,88.2\" fill=\"#0f1b33\"/><polygon points=\"8.0,92.0 15.0,88.2 15.0,95.8\" fill=\"#0f1b33\"/><line x1=\"26.0\" y1=\"84\" x2=\"26.0\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"26.0\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−6</text><line x1=\"60.9\" y1=\"84\" x2=\"60.9\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"60.9\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−5</text><line x1=\"95.7\" y1=\"84\" x2=\"95.7\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"95.7\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−4</text><line x1=\"130.6\" y1=\"84\" x2=\"130.6\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"130.6\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−3</text><line x1=\"165.4\" y1=\"84\" x2=\"165.4\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"165.4\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−2</text><line x1=\"200.3\" y1=\"84\" x2=\"200.3\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"200.3\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−1</text><line x1=\"235.1\" y1=\"84\" x2=\"235.1\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"235.1\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">0</text><line x1=\"270.0\" y1=\"84\" x2=\"270.0\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"270.0\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">1</text><line x1=\"304.9\" y1=\"84\" x2=\"304.9\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"304.9\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">2</text><line x1=\"339.7\" y1=\"84\" x2=\"339.7\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"339.7\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">3</text><line x1=\"374.6\" y1=\"84\" x2=\"374.6\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"374.6\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">4</text><line x1=\"409.4\" y1=\"84\" x2=\"409.4\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"409.4\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">5</text><line x1=\"444.3\" y1=\"84\" x2=\"444.3\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"444.3\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">6</text><line x1=\"479.1\" y1=\"84\" x2=\"479.1\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"479.1\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">7</text><line x1=\"514.0\" y1=\"84\" x2=\"514.0\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"514.0\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">8</text><path d=\"M479.1,88 Q426.9,36.0 374.6,88\" fill=\"none\" stroke=\"#b3261e\" stroke-width=\"2\"/><polygon points=\"374.6,88.0 377.1,79.2 383.3,85.5\" fill=\"#b3261e\"/><text x=\"426.9\" y=\"56.0\" font-size=\"13\" text-anchor=\"middle\" fill=\"#b3261e\" font-weight=\"bold\">−3</text><path d=\"M374.6,88 Q322.3,36.0 270.0,88\" fill=\"none\" stroke=\"#b3261e\" stroke-width=\"2\"/><polygon points=\"270.0,88.0 272.6,79.2 278.8,85.5\" fill=\"#b3261e\"/><text x=\"322.3\" y=\"56.0\" font-size=\"13\" text-anchor=\"middle\" fill=\"#b3261e\" font-weight=\"bold\">−3</text><path d=\"M270.0,88 Q217.7,36.0 165.4,88\" fill=\"none\" stroke=\"#b3261e\" stroke-width=\"2\"/><polygon points=\"165.4,88.0 168.0,79.2 174.2,85.5\" fill=\"#b3261e\"/><text x=\"217.7\" y=\"56.0\" font-size=\"13\" text-anchor=\"middle\" fill=\"#b3261e\" font-weight=\"bold\">−3</text><path d=\"M165.4,88 Q113.1,36.0 60.9,88\" fill=\"none\" stroke=\"#b3261e\" stroke-width=\"2\"/><polygon points=\"60.9,88.0 63.4,79.2 69.6,85.5\" fill=\"#b3261e\"/><text x=\"113.1\" y=\"56.0\" font-size=\"13\" text-anchor=\"middle\" fill=\"#b3261e\" font-weight=\"bold\">−3</text><circle cx=\"479.1\" cy=\"92\" r=\"5.5\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"374.6\" cy=\"92\" r=\"5.5\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"270.0\" cy=\"92\" r=\"5.5\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"165.4\" cy=\"92\" r=\"5.5\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"60.9\" cy=\"92\" r=\"5.5\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1\"/></svg>",
+   "caption": "Counting back in steps of 3 from 7: 7, 4, 1, −2, −5. The jump from 1 to −2 crosses zero."
+  },
+  {
+   "type": "h2",
+   "text": "3. Counting in fractions and decimals"
+  },
+  {
+   "type": "p",
+   "text": "The step can be a fraction or a decimal. The method is exactly the same. It often helps to think in smaller units: a step of 0.3 is \"3 tenths\"; a step of ¾ is \"3 quarters\"."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Start",
+    "Step",
+    "Sequence",
+    "Tip"
+   ],
+   "rows": [
+    [
+     "1.2",
+     "back 0.4",
+     "1.2, 0.8, 0.4, 0, −0.4, −0.8",
+     "think: 12 tenths, 8 tenths, 4 tenths, 0, −4 tenths…"
+    ],
+    [
+     "−1.5",
+     "on 0.5",
+     "−1.5, −1, −0.5, 0, 0.5, 1",
+     "two steps of 0.5 make 1 whole"
+    ],
+    [
+     "1",
+     "back ¼",
+     "1, ¾, ½, ¼, 0, −¼, −½",
+     "simplify: 2/4 = ½"
+    ],
+    [
+     "−2",
+     "on ¾",
+     "−2, −1¼, −½, ¼, 1",
+     "see the number line below"
+    ]
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 138\" width=\"540\" font-family=\"Arial, sans-serif\"><line x1=\"12\" y1=\"92\" x2=\"528\" y2=\"92\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"532.0,92.0 525.0,95.8 525.0,88.2\" fill=\"#0f1b33\"/><polygon points=\"8.0,92.0 15.0,88.2 15.0,95.8\" fill=\"#0f1b33\"/><line x1=\"26.0\" y1=\"84\" x2=\"26.0\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"26.0\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−2</text><line x1=\"66.7\" y1=\"87\" x2=\"66.7\" y2=\"97\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"107.3\" y1=\"84\" x2=\"107.3\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"107.3\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−1½</text><line x1=\"148.0\" y1=\"87\" x2=\"148.0\" y2=\"97\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"188.7\" y1=\"84\" x2=\"188.7\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"188.7\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−1</text><line x1=\"229.3\" y1=\"87\" x2=\"229.3\" y2=\"97\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"270.0\" y1=\"84\" x2=\"270.0\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"270.0\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−½</text><line x1=\"310.7\" y1=\"87\" x2=\"310.7\" y2=\"97\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"351.3\" y1=\"84\" x2=\"351.3\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"351.3\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">0</text><line x1=\"392.0\" y1=\"87\" x2=\"392.0\" y2=\"97\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"432.7\" y1=\"84\" x2=\"432.7\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"432.7\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">½</text><line x1=\"473.3\" y1=\"87\" x2=\"473.3\" y2=\"97\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"514.0\" y1=\"84\" x2=\"514.0\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"514.0\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">1</text><path d=\"M26.0,88 Q87.0,36.0 148.0,88\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"2\"/><polygon points=\"148.0,88.0 139.1,86.2 144.8,79.5\" fill=\"#1d5fbf\"/><text x=\"87.0\" y=\"56.0\" font-size=\"13\" text-anchor=\"middle\" fill=\"#1d5fbf\" font-weight=\"bold\">+¾</text><path d=\"M148.0,88 Q209.0,36.0 270.0,88\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"2\"/><polygon points=\"270.0,88.0 261.1,86.2 266.8,79.5\" fill=\"#1d5fbf\"/><text x=\"209.0\" y=\"56.0\" font-size=\"13\" text-anchor=\"middle\" fill=\"#1d5fbf\" font-weight=\"bold\">+¾</text><path d=\"M270.0,88 Q331.0,36.0 392.0,88\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"2\"/><polygon points=\"392.0,88.0 383.1,86.2 388.8,79.5\" fill=\"#1d5fbf\"/><text x=\"331.0\" y=\"56.0\" font-size=\"13\" text-anchor=\"middle\" fill=\"#1d5fbf\" font-weight=\"bold\">+¾</text><path d=\"M392.0,88 Q453.0,36.0 514.0,88\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"2\"/><polygon points=\"514.0,88.0 505.1,86.2 510.8,79.5\" fill=\"#1d5fbf\"/><text x=\"453.0\" y=\"56.0\" font-size=\"13\" text-anchor=\"middle\" fill=\"#1d5fbf\" font-weight=\"bold\">+¾</text><circle cx=\"26.0\" cy=\"92\" r=\"5.5\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"148.0\" cy=\"92\" r=\"5.5\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"270.0\" cy=\"92\" r=\"5.5\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"392.0\" cy=\"92\" r=\"5.5\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"514.0\" cy=\"92\" r=\"5.5\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1\"/></svg>",
+   "caption": "Counting on in steps of ¾ from −2. The small ticks are quarters."
+  },
+  {
+   "type": "h2",
+   "text": "4. Adding and subtracting integers on a number line"
+  },
+  {
+   "type": "p",
+   "text": "When we add or subtract a positive number, the rule is simple:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Adding** a positive number → move **right** (the answer gets bigger).",
+    "**Subtracting** a positive number → move **left** (the answer gets smaller).",
+    "Always start at the **first** number in the calculation."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Example: −3 + 5.** Start at −3 and jump 5 to the right. Use zero as a stepping stone: −3 to 0 is 3, then 2 more → **2**."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 138\" width=\"540\" font-family=\"Arial, sans-serif\"><line x1=\"12\" y1=\"92\" x2=\"528\" y2=\"92\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"532.0,92.0 525.0,95.8 525.0,88.2\" fill=\"#0f1b33\"/><polygon points=\"8.0,92.0 15.0,88.2 15.0,95.8\" fill=\"#0f1b33\"/><line x1=\"26.0\" y1=\"84\" x2=\"26.0\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"26.0\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−5</text><line x1=\"80.2\" y1=\"84\" x2=\"80.2\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"80.2\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−4</text><line x1=\"134.4\" y1=\"84\" x2=\"134.4\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"134.4\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−3</text><line x1=\"188.7\" y1=\"84\" x2=\"188.7\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"188.7\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−2</text><line x1=\"242.9\" y1=\"84\" x2=\"242.9\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"242.9\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−1</text><line x1=\"297.1\" y1=\"84\" x2=\"297.1\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"297.1\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">0</text><line x1=\"351.3\" y1=\"84\" x2=\"351.3\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"351.3\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">1</text><line x1=\"405.6\" y1=\"84\" x2=\"405.6\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"405.6\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">2</text><line x1=\"459.8\" y1=\"84\" x2=\"459.8\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"459.8\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">3</text><line x1=\"514.0\" y1=\"84\" x2=\"514.0\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"514.0\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">4</text><path d=\"M134.4,88 Q270.0,24.0 405.6,88\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"2\"/><polygon points=\"405.6,88.0 396.4,88.6 400.2,80.6\" fill=\"#1d5fbf\"/><text x=\"270.0\" y=\"50.0\" font-size=\"13\" text-anchor=\"middle\" fill=\"#1d5fbf\" font-weight=\"bold\">+5</text><circle cx=\"134.4\" cy=\"92\" r=\"5.5\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"405.6\" cy=\"92\" r=\"5.5\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1\"/></svg>",
+   "caption": "−3 + 5 = 2: start at −3, move 5 to the right."
+  },
+  {
+   "type": "p",
+   "text": "**Example: 2 − 6.** Start at 2 and jump 6 to the left: back 2 to reach 0, then back 4 more → **−4**."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 138\" width=\"540\" font-family=\"Arial, sans-serif\"><line x1=\"12\" y1=\"92\" x2=\"528\" y2=\"92\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"532.0,92.0 525.0,95.8 525.0,88.2\" fill=\"#0f1b33\"/><polygon points=\"8.0,92.0 15.0,88.2 15.0,95.8\" fill=\"#0f1b33\"/><line x1=\"26.0\" y1=\"84\" x2=\"26.0\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"26.0\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−6</text><line x1=\"74.8\" y1=\"84\" x2=\"74.8\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"74.8\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−5</text><line x1=\"123.6\" y1=\"84\" x2=\"123.6\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"123.6\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−4</text><line x1=\"172.4\" y1=\"84\" x2=\"172.4\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"172.4\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−3</text><line x1=\"221.2\" y1=\"84\" x2=\"221.2\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"221.2\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−2</text><line x1=\"270.0\" y1=\"84\" x2=\"270.0\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"270.0\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−1</text><line x1=\"318.8\" y1=\"84\" x2=\"318.8\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"318.8\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">0</text><line x1=\"367.6\" y1=\"84\" x2=\"367.6\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"367.6\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">1</text><line x1=\"416.4\" y1=\"84\" x2=\"416.4\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"416.4\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">2</text><line x1=\"465.2\" y1=\"84\" x2=\"465.2\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"465.2\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">3</text><line x1=\"514.0\" y1=\"84\" x2=\"514.0\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"514.0\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">4</text><path d=\"M416.4,88 Q367.6,36.0 318.8,88\" fill=\"none\" stroke=\"#b3261e\" stroke-width=\"2\"/><polygon points=\"318.8,88.0 321.1,79.2 327.5,85.2\" fill=\"#b3261e\"/><text x=\"367.6\" y=\"56.0\" font-size=\"13\" text-anchor=\"middle\" fill=\"#b3261e\" font-weight=\"bold\">−2</text><path d=\"M318.8,88 Q221.2,36.0 123.6,88\" fill=\"none\" stroke=\"#b3261e\" stroke-width=\"2\"/><polygon points=\"123.6,88.0 128.6,80.4 132.7,88.1\" fill=\"#b3261e\"/><text x=\"221.2\" y=\"56.0\" font-size=\"13\" text-anchor=\"middle\" fill=\"#b3261e\" font-weight=\"bold\">−4</text><circle cx=\"416.4\" cy=\"92\" r=\"5.5\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"123.6\" cy=\"92\" r=\"5.5\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1\"/></svg>",
+   "caption": "2 − 6 = −4: split the jump at zero (2 then 4)."
+  },
+  {
+   "type": "p",
+   "text": "**Example: −4 − 9.** You start below zero and move further left, so the answer is more negative: 4 + 9 = 13, so −4 − 9 = **−13**."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Calculation",
+    "Think",
+    "Answer"
+   ],
+   "rows": [
+    [
+     "−7 + 10",
+     "−7 to 0 is 7, then 3 more",
+     "3"
+    ],
+    [
+     "−8 + 5",
+     "move right 5, but you do not reach 0",
+     "−3"
+    ],
+    [
+     "4 − 11",
+     "4 to 0 is 4, then 7 more",
+     "−7"
+    ],
+    [
+     "−5 − 8",
+     "further left: 5 + 8",
+     "−13"
+    ],
+    [
+     "−12 + 12",
+     "back to zero",
+     "0"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Going further: adding a negative number",
+   "text": "Adding a negative number moves you left, the same as subtracting: 5 + (−2) = 5 − 2 = 3. You will meet this much more in Stage 7."
+  },
+  {
+   "type": "h2",
+   "text": "5. The difference between two integers"
+  },
+  {
+   "type": "p",
+   "text": "The **difference** is the distance between two numbers on the number line. It is never negative. Difference questions often use temperatures."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**One negative, one positive:** add the two distances from zero. From −4 to 6: 4 + 6 = **10**.",
+    "**Both negative:** subtract the distances. From −9 to −2: 9 − 2 = **7**.",
+    "**Both positive:** subtract as usual. From 3 to 11: **8**."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 138\" width=\"540\" font-family=\"Arial, sans-serif\"><text x=\"270\" y=\"18\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">from −4 to 6: 4 + 6 = 10</text><line x1=\"12\" y1=\"92\" x2=\"528\" y2=\"92\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"532.0,92.0 525.0,95.8 525.0,88.2\" fill=\"#0f1b33\"/><polygon points=\"8.0,92.0 15.0,88.2 15.0,95.8\" fill=\"#0f1b33\"/><line x1=\"26.0\" y1=\"84\" x2=\"26.0\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"26.0\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−5</text><line x1=\"66.7\" y1=\"84\" x2=\"66.7\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"66.7\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−4</text><line x1=\"107.3\" y1=\"84\" x2=\"107.3\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"107.3\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−3</text><line x1=\"148.0\" y1=\"84\" x2=\"148.0\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"148.0\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−2</text><line x1=\"188.7\" y1=\"84\" x2=\"188.7\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"188.7\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−1</text><line x1=\"229.3\" y1=\"84\" x2=\"229.3\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"229.3\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">0</text><line x1=\"270.0\" y1=\"84\" x2=\"270.0\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"270.0\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">1</text><line x1=\"310.7\" y1=\"84\" x2=\"310.7\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"310.7\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">2</text><line x1=\"351.3\" y1=\"84\" x2=\"351.3\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"351.3\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">3</text><line x1=\"392.0\" y1=\"84\" x2=\"392.0\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"392.0\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">4</text><line x1=\"432.7\" y1=\"84\" x2=\"432.7\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"432.7\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">5</text><line x1=\"473.3\" y1=\"84\" x2=\"473.3\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"473.3\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">6</text><line x1=\"514.0\" y1=\"84\" x2=\"514.0\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"514.0\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">7</text><path d=\"M66.7,88 Q148.0,36.0 229.3,88\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"2\"/><polygon points=\"229.3,88.0 220.2,87.4 225.0,80.0\" fill=\"#1d5fbf\"/><text x=\"148.0\" y=\"56.0\" font-size=\"13\" text-anchor=\"middle\" fill=\"#1d5fbf\" font-weight=\"bold\">4</text><path d=\"M229.3,88 Q351.3,36.0 473.3,88\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"2\"/><polygon points=\"473.3,88.0 464.2,88.9 467.7,80.8\" fill=\"#1d5fbf\"/><text x=\"351.3\" y=\"56.0\" font-size=\"13\" text-anchor=\"middle\" fill=\"#1d5fbf\" font-weight=\"bold\">6</text><circle cx=\"66.7\" cy=\"92\" r=\"5.5\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"473.3\" cy=\"92\" r=\"5.5\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1\"/></svg>",
+   "caption": "The difference between −4 and 6 is 10 — cross zero in two parts."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الفكرة الأساسية",
+   "items": [
+    "الأعداد السالبة على يسار الصفر، وكل ما نروح يمين العدد يكبر.",
+    "−9 أصغر من −2 (زي الحرارة: −9 أبرد).",
+    "الجمع = نتحرك يمين، الطرح = نتحرك شمال، ولما نعدّي الصفر نقسم القفزة على مرحلتين.",
+    "الفرق بين عدد سالب وعدد موجب = نجمع المسافتين من الصفر: من −4 إلى 6 = 4 + 6 = 10."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "6. Estimating with integers"
+  },
+  {
+   "type": "p",
+   "text": "To estimate, round each number to a friendly number (nearest 10 or nearest 100), then calculate. The estimate tells you the size and the sign (positive or negative) of the answer, so you can spot mistakes."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Calculation",
+    "Estimate",
+    "Exact answer"
+   ],
+   "rows": [
+    [
+     "−48 + 103",
+     "−50 + 100 = 50",
+     "55"
+    ],
+    [
+     "−297 + 512",
+     "−300 + 500 = 200",
+     "215"
+    ],
+    [
+     "61 − 189",
+     "60 − 190 = −130",
+     "−128"
+    ],
+    [
+     "−405 − 196",
+     "−400 − 200 = −600",
+     "−601"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — Here is a sequence that counts back in equal steps: 10, 6, 2, … Write the next two numbers. [1 mark]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Step: 6 − 10 = −4, and 2 − 6 = −4. The sequence counts back in 4s.",
+    "2 − 4: back 2 to 0, then back 2 more → −2.",
+    "−2 − 4 = −6.",
+    "**Answer: −2, −6**"
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "**Common mistake:** writing 2, 0 or stopping at zero. The sequence carries on past zero."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — Write the two missing numbers in this sequence: 1.5, 0.9, 0.3, ☐, ☐ [1 mark]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Step: 0.9 − 1.5 = −0.6 (15 tenths → 9 tenths is back 6 tenths).",
+    "0.3 − 0.6: back 0.3 to zero, then back 0.3 more → −0.3.",
+    "−0.3 − 0.6 = −0.9.",
+    "**Answer: −0.3, −0.9**"
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — Laila counts on in steps of ¾, starting at −2. Write the first five numbers she says. [1 mark]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "−2 + ¾ = −1¼ (move right ¾ but you do not reach −1).",
+    "−1¼ + ¾ = −½.",
+    "−½ + ¾ = ¼ (½ to reach 0, then ¼ more).",
+    "¼ + ¾ = 1.",
+    "**Answer: −2, −1¼, −½, ¼, 1**"
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — The table shows the lowest temperature in two cities on the same night."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "City",
+    "Lowest temperature"
+   ],
+   "rows": [
+    [
+     "Cairo",
+     "9 °C"
+    ],
+    [
+     "Moscow",
+     "−7 °C"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "(a) How many degrees colder was Moscow than Cairo? [1 mark]  (b) The next night the temperature in Moscow fell by another 5 degrees. What was the new temperature? [1 mark]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "(a) One temperature is positive and one is negative, so add the distances from zero: 9 + 7 = 16. **Answer: 16 degrees**",
+    "(b) \"Fell\" means subtract: −7 − 5 = −12. **Answer: −12 °C**"
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "**Common mistake:** in (a) doing 9 − 7 = 2. That is the difference between 9 and **positive** 7."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — Work out: (a) −8 + 13  (b) 6 − 15  (c) −4 − 9 [3 marks]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "(a) −8 to 0 is 8, then 5 more → **5**",
+    "(b) 6 back to 0 is 6, then 9 more → **−9**",
+    "(c) both moves are to the left: 4 + 9 = 13 → **−13**"
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** — Estimate the answer to −297 + 512. Then work out the exact answer. [2 marks]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Round: −297 ≈ −300 and 512 ≈ 500.",
+    "Estimate: −300 + 500 = 200.",
+    "Exact: −297 to 0 is 297. We still need to move 512 − 297 = 215 more. So the answer is 215.",
+    "Check: 215 is close to 200 ✓  **Answer: estimate 200, exact 215**"
+   ],
+   "ordered": true
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Thinking −8 is bigger than −3 because 8 > 3. On the number line −8 is further left, so −8 < −3.",
+    "Stopping at zero when counting back, or jumping from 1 straight to −1 (forgetting 0).",
+    "Getting the wrong sign: 4 − 11 is −7, not 7. Ask: did I end up left of zero?",
+    "Difference across zero: −5 to 8 is 13 (5 + 8), not 3.",
+    "Counting the ticks instead of the jumps on a number line. Count the spaces between ticks.",
+    "Decimal steps: after 0.2, counting back 0.3 gives −0.1, not −0.3 or −1."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "\"Write the missing numbers in the sequence\" — with boxes, often crossing zero, sometimes with decimals or fractions.",
+    "Read a thermometer or a scale, then \"the temperature rises/falls by … degrees\".",
+    "\"Complete the table\" of temperatures with a difference column.",
+    "Ring the coldest temperature, or put integers in order from smallest to largest.",
+    "Missing-number calculations such as −6 + ☐ = 4 — use the number line to count the jump.",
+    "\"Estimate\" — show the rounded numbers you used. A sketch of a number line counts as working.",
+    "Technique: always check the sign of your answer with a quick number line sketch in the margin."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "خلي بالك",
+   "items": [
+    "كلمة rises / warmer = نجمع (يمين). كلمة falls / colder = نطرح (شمال).",
+    "في المتتابعات: ما توقفش عند الصفر — كمّل في السالب: 2، −2، −6 …"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Negative numbers practice",
+   "timed": false,
+   "intro": "14 questions, no calculator. Use a quick number line sketch for each one. Answers with full working appear when you check.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 20,
+     "calc": false,
+     "questions": [
+      {
+       "q": "Which temperature is the coldest?",
+       "c": [
+        "−2 °C",
+        "−9 °C",
+        "0 °C",
+        "−5 °C"
+       ],
+       "a": 1,
+       "m": 1,
+       "e": "The coldest temperature is the furthest left on the number line. −9 is further left than −5 and −2, so −9 °C is coldest.",
+       "s": "Ordering integers"
+      },
+      {
+       "t": "num",
+       "q": "A sequence counts back in steps of 6: 15, 9, 3, ☐. Write the next number.",
+       "ans": [
+        -3
+       ],
+       "tol": 0,
+       "m": 1,
+       "e": "3 − 6: back 3 to 0, then back 3 more → −3.",
+       "s": "Counting back"
+      },
+      {
+       "q": "Which list is in order from smallest to largest?",
+       "c": [
+        "−1, −4, 0, 3",
+        "−4, 0, −1, 3",
+        "−4, −1, 0, 3",
+        "0, −1, −4, 3"
+       ],
+       "a": 2,
+       "m": 1,
+       "e": "Smallest is furthest left: −4, then −1, then 0, then 3.",
+       "s": "Ordering integers"
+      },
+      {
+       "q": "Which calculation has the answer −5?",
+       "c": [
+        "3 − 8",
+        "−2 + 7",
+        "−9 − 4",
+        "−1 + 6"
+       ],
+       "a": 0,
+       "m": 1,
+       "e": "3 − 8: back 3 to 0, then 5 more → −5. The others: −2 + 7 = 5, −9 − 4 = −13, −1 + 6 = 5.",
+       "s": "Adding and subtracting integers"
+      },
+      {
+       "t": "num",
+       "q": "Write the next number in this sequence: 0.8, 0.5, 0.2, ☐",
+       "ans": [
+        -0.1
+       ],
+       "tol": 0,
+       "m": 1,
+       "e": "The step is back 0.3. 0.2 − 0.3: back 0.2 to 0, then back 0.1 more → −0.1.",
+       "s": "Counting in decimals"
+      },
+      {
+       "t": "num",
+       "q": "What number is the arrow pointing to?",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 100\" width=\"540\" font-family=\"Arial, sans-serif\"><line x1=\"12\" y1=\"50\" x2=\"528\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"532.0,50.0 525.0,53.9 525.0,46.1\" fill=\"#0f1b33\"/><polygon points=\"8.0,50.0 15.0,46.1 15.0,53.9\" fill=\"#0f1b33\"/><line x1=\"26.0\" y1=\"42\" x2=\"26.0\" y2=\"58\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"26.0\" y=\"78\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−1</text><line x1=\"50.4\" y1=\"45\" x2=\"50.4\" y2=\"55\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"74.8\" y1=\"45\" x2=\"74.8\" y2=\"55\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"99.2\" y1=\"45\" x2=\"99.2\" y2=\"55\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"123.6\" y1=\"45\" x2=\"123.6\" y2=\"55\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"148.0\" y1=\"42\" x2=\"148.0\" y2=\"58\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"148.0\" y=\"78\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−0.5</text><line x1=\"172.4\" y1=\"45\" x2=\"172.4\" y2=\"55\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"196.8\" y1=\"45\" x2=\"196.8\" y2=\"55\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"221.2\" y1=\"45\" x2=\"221.2\" y2=\"55\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"245.6\" y1=\"45\" x2=\"245.6\" y2=\"55\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"270.0\" y1=\"42\" x2=\"270.0\" y2=\"58\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"270.0\" y=\"78\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">0</text><line x1=\"294.4\" y1=\"45\" x2=\"294.4\" y2=\"55\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"318.8\" y1=\"45\" x2=\"318.8\" y2=\"55\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"343.2\" y1=\"45\" x2=\"343.2\" y2=\"55\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"367.6\" y1=\"45\" x2=\"367.6\" y2=\"55\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"392.0\" y1=\"42\" x2=\"392.0\" y2=\"58\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"392.0\" y=\"78\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">0.5</text><line x1=\"416.4\" y1=\"45\" x2=\"416.4\" y2=\"55\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"440.8\" y1=\"45\" x2=\"440.8\" y2=\"55\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"465.2\" y1=\"45\" x2=\"465.2\" y2=\"55\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"489.6\" y1=\"45\" x2=\"489.6\" y2=\"55\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"514.0\" y1=\"42\" x2=\"514.0\" y2=\"58\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"514.0\" y=\"78\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">1</text><line x1=\"196.8\" y1=\"8\" x2=\"196.8\" y2=\"34\" stroke=\"#b3261e\" stroke-width=\"2.2\"/><polygon points=\"196.8,41.0 191.8,32.0 201.7,32.0\" fill=\"#b3261e\"/></svg>",
+       "ans": [
+        -0.3
+       ],
+       "tol": 0,
+       "m": 1,
+       "e": "Between 0 and −0.5 there are 5 spaces, so each small space is 0.1. The arrow is 3 spaces to the left of 0, so it points to −0.3.",
+       "s": "Reading a scale"
+      },
+      {
+       "t": "num",
+       "p": "The thermometer shows the temperature in a desert camp at 5 am.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 150 320\" width=\"150\" font-family=\"Arial, sans-serif\"><rect x=\"51\" y=\"18\" width=\"18\" height=\"254\" rx=\"9\" fill=\"#fff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"60\" cy=\"290\" r=\"18\" fill=\"#b3261e\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"56\" y=\"191.0\" width=\"8\" height=\"89.0\" fill=\"#b3261e\"/><line x1=\"69\" y1=\"260.0\" x2=\"83\" y2=\"260.0\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"88\" y=\"264.5\" font-size=\"13\" fill=\"#0f1b33\">−10</text><line x1=\"69\" y1=\"248.5\" x2=\"77\" y2=\"248.5\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"69\" y1=\"237.0\" x2=\"83\" y2=\"237.0\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"88\" y=\"241.5\" font-size=\"13\" fill=\"#0f1b33\">−8</text><line x1=\"69\" y1=\"225.5\" x2=\"77\" y2=\"225.5\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"69\" y1=\"214.0\" x2=\"83\" y2=\"214.0\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"88\" y=\"218.5\" font-size=\"13\" fill=\"#0f1b33\">−6</text><line x1=\"69\" y1=\"202.5\" x2=\"77\" y2=\"202.5\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"69\" y1=\"191.0\" x2=\"83\" y2=\"191.0\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"88\" y=\"195.5\" font-size=\"13\" fill=\"#0f1b33\">−4</text><line x1=\"69\" y1=\"179.5\" x2=\"77\" y2=\"179.5\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"69\" y1=\"168.0\" x2=\"83\" y2=\"168.0\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"88\" y=\"172.5\" font-size=\"13\" fill=\"#0f1b33\">−2</text><line x1=\"69\" y1=\"156.5\" x2=\"77\" y2=\"156.5\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"69\" y1=\"145.0\" x2=\"83\" y2=\"145.0\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"88\" y=\"149.5\" font-size=\"13\" fill=\"#0f1b33\">0</text><line x1=\"69\" y1=\"133.5\" x2=\"77\" y2=\"133.5\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"69\" y1=\"122.0\" x2=\"83\" y2=\"122.0\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"88\" y=\"126.5\" font-size=\"13\" fill=\"#0f1b33\">2</text><line x1=\"69\" y1=\"110.5\" x2=\"77\" y2=\"110.5\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"69\" y1=\"99.0\" x2=\"83\" y2=\"99.0\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"88\" y=\"103.5\" font-size=\"13\" fill=\"#0f1b33\">4</text><line x1=\"69\" y1=\"87.5\" x2=\"77\" y2=\"87.5\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"69\" y1=\"76.0\" x2=\"83\" y2=\"76.0\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"88\" y=\"80.5\" font-size=\"13\" fill=\"#0f1b33\">6</text><line x1=\"69\" y1=\"64.5\" x2=\"77\" y2=\"64.5\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"69\" y1=\"53.0\" x2=\"83\" y2=\"53.0\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"88\" y=\"57.5\" font-size=\"13\" fill=\"#0f1b33\">8</text><line x1=\"69\" y1=\"41.5\" x2=\"77\" y2=\"41.5\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"69\" y1=\"30.0\" x2=\"83\" y2=\"30.0\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"88\" y=\"34.5\" font-size=\"13\" fill=\"#0f1b33\">10</text><text x=\"46\" y=\"14\" font-size=\"13\" fill=\"#0f1b33\">°C</text></svg>",
+       "q": "(a) What temperature does the thermometer show?",
+       "ans": [
+        -4
+       ],
+       "tol": 0,
+       "unit": "°C",
+       "m": 1,
+       "e": "Each small mark is 1 degree. The top of the liquid is 4 marks below 0, so the temperature is −4 °C.",
+       "s": "Reading a scale"
+      },
+      {
+       "t": "num",
+       "p": "The thermometer shows the temperature in a desert camp at 5 am.",
+       "q": "(b) By 11 am the temperature has risen by 9 degrees. What is the temperature at 11 am?",
+       "ans": [
+        5
+       ],
+       "tol": 0,
+       "unit": "°C",
+       "m": 1,
+       "e": "Risen means add: −4 + 9. Up 4 to reach 0, then 5 more → 5 °C.",
+       "s": "Adding and subtracting integers"
+      },
+      {
+       "q": "Which is the best estimate for −398 + 705?",
+       "c": [
+        "about 1100",
+        "about 400",
+        "about 100",
+        "about 300"
+       ],
+       "a": 3,
+       "m": 1,
+       "e": "Round: −398 ≈ −400 and 705 ≈ 700. −400 + 700 = 300. (Exact answer 307.) 1100 comes from wrongly adding 400 and 700.",
+       "s": "Estimating"
+      },
+      {
+       "t": "num",
+       "q": "Count back in quarters: ½, ¼, 0, ☐. Write the next number as a fraction or a decimal.",
+       "ans": [
+        -0.25,
+        "-1/4"
+       ],
+       "tol": 0,
+       "m": 1,
+       "e": "The step is back ¼. 0 − ¼ = −¼ (also written −0.25).",
+       "s": "Counting in fractions"
+      },
+      {
+       "t": "num",
+       "q": "Write the missing number: −6 + ☐ = 4",
+       "ans": [
+        10
+       ],
+       "tol": 0,
+       "m": 1,
+       "e": "Count the jump from −6 to 4: 6 steps to reach 0, then 4 more. 6 + 4 = 10.",
+       "s": "Missing numbers"
+      },
+      {
+       "t": "num",
+       "q": "The temperature in a fridge freezer is −12 °C. The temperature in the kitchen is 15 °C. What is the difference between the two temperatures?",
+       "ans": [
+        27
+       ],
+       "tol": 0,
+       "unit": "degrees",
+       "m": 1,
+       "e": "One is below zero and one is above, so add the distances from zero: 12 + 15 = 27 degrees.",
+       "s": "Difference"
+      },
+      {
+       "t": "open",
+       "q": "Omar says: \"−8 is greater than −3 because 8 is greater than 3.\" Is Omar correct? Explain your answer.",
+       "m": 1,
+       "ms": "1 mark: says Omar is NOT correct with a correct reason, e.g. −8 is further left / further below zero on the number line, so −8 is smaller than −3; or −8 °C is colder than −3 °C. Do not accept \"No\" with no reason or with an incorrect reason.",
+       "e": "Omar is not correct. On a number line −8 is to the left of −3, so −8 < −3. Think of temperatures: −8 °C is colder than −3 °C.",
+       "s": "Ordering integers"
+      },
+      {
+       "t": "num",
+       "q": "At 6 am the temperature on a mountain was −3 °C. By noon it was 11 degrees warmer. By midnight the temperature had fallen 16 degrees from the noon temperature. What was the temperature at midnight? Show your working.",
+       "ans": [
+        -8
+       ],
+       "tol": 0,
+       "unit": "°C",
+       "m": 2,
+       "e": "Noon: −3 + 11 = 8 °C (M1). Midnight: 8 − 16 = −8 °C (A1). Check with one step: 11 − 16 = −5, and −3 − 5 = −8 ✓",
+       "s": "Integers in context"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Numbers get bigger to the right on the number line: −2 > −7.",
+    "To continue a sequence, find the step and keep going — past zero into negative numbers. Fractions and decimals work the same way.",
+    "Adding a positive number → move right; subtracting → move left. Split the jump at zero.",
+    "Difference across zero = add the two distances from zero.",
+    "Estimate first (round to 10s or 100s) and check the sign of your answer."
+   ]
+  }
+ ]
+}

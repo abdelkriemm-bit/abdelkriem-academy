@@ -1,0 +1,687 @@
+{
+ "slug": "cp6m-fractions-decimals-percentages",
+ "title": "Fractions, Decimals and Percentages: Equivalence and Ordering",
+ "kicker": "Checkpoint 6 Maths · Number · Fractions, decimals and percentages",
+ "summary": "Change confidently between fractions, decimals and percentages, find percentages of shapes and amounts, and compare and order mixed numbers with =, > and <.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Know that a fraction, a decimal (with one or two decimal places) and a percentage can have the same value, e.g. 3/4 = 0.75 = 75% (6Nf.04)",
+    "Recognise percentages of shapes and of whole numbers: 1% and multiples of 5% up to 100%, e.g. 35% of a shape, 15% of 60 (6Nf.07)",
+    "Compare and order decimals (one or two decimal places), proper fractions with different denominators and percentages, using =, > and < (6Nf.08)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Fractions, decimals and percentages are three different ways of writing the **same** amount. Half a pizza is 1/2, 0.5 or 50% of it. If you can move quickly between the three forms, you can compare any two numbers, find percentages of amounts in your head and answer a lot of Checkpoint questions in seconds."
+  },
+  {
+   "type": "h2",
+   "text": "Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "per cent (%)",
+     "في المئة — 'out of 100'; 35% means 35 out of 100"
+    ],
+    [
+     "percentage",
+     "النسبة المئوية — an amount written out of 100 with the % sign"
+    ],
+    [
+     "decimal",
+     "عدد عشري — a number with a decimal point, e.g. 0.35"
+    ],
+    [
+     "tenth / hundredth",
+     "جزء من عشرة / جزء من مئة — 0.1 = 1/10, 0.01 = 1/100"
+    ],
+    [
+     "equivalent",
+     "مكافئ / متساوي في القيمة — worth the same, e.g. 1/4 and 25%"
+    ],
+    [
+     "simplest form",
+     "أبسط صورة — e.g. 35/100 simplified to 7/20"
+    ],
+    [
+     "common denominator",
+     "مقام مشترك — the same denominator for two fractions so you can compare them"
+    ],
+    [
+     "greater than >, less than <",
+     "أكبر من، أصغر من — the open side of the sign faces the bigger number"
+    ],
+    [
+     "ascending order",
+     "ترتيب تصاعدي — from smallest to largest"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. What does 'per cent' mean?"
+  },
+  {
+   "type": "p",
+   "text": "**Per cent means 'out of 100'.** If a square is cut into 100 equal small squares and 35 are shaded, then 35/100 of it is shaded. That is 35 hundredths, which as a decimal is 0.35, and as a percentage is 35%."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 470 200\" width=\"470\" font-family=\"Arial, sans-serif\" font-size=\"14\"><rect x=\"20\" y=\"20\" width=\"160\" height=\"160\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"20\" y=\"20\" width=\"160\" height=\"16\" fill=\"#bcd3f2\"/><rect x=\"20\" y=\"36\" width=\"160\" height=\"16\" fill=\"#bcd3f2\"/><rect x=\"20\" y=\"52\" width=\"160\" height=\"16\" fill=\"#bcd3f2\"/><rect x=\"20\" y=\"68\" width=\"80\" height=\"16\" fill=\"#bcd3f2\"/><line x1=\"36\" y1=\"20\" x2=\"36\" y2=\"180\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"52\" y1=\"20\" x2=\"52\" y2=\"180\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"68\" y1=\"20\" x2=\"68\" y2=\"180\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"84\" y1=\"20\" x2=\"84\" y2=\"180\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"100\" y1=\"20\" x2=\"100\" y2=\"180\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"116\" y1=\"20\" x2=\"116\" y2=\"180\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"132\" y1=\"20\" x2=\"132\" y2=\"180\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"148\" y1=\"20\" x2=\"148\" y2=\"180\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"164\" y1=\"20\" x2=\"164\" y2=\"180\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"20\" y1=\"36\" x2=\"180\" y2=\"36\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"20\" y1=\"52\" x2=\"180\" y2=\"52\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"20\" y1=\"68\" x2=\"180\" y2=\"68\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"20\" y1=\"84\" x2=\"180\" y2=\"84\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"20\" y1=\"100\" x2=\"180\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"20\" y1=\"116\" x2=\"180\" y2=\"116\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"20\" y1=\"132\" x2=\"180\" y2=\"132\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"20\" y1=\"148\" x2=\"180\" y2=\"148\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"20\" y1=\"164\" x2=\"180\" y2=\"164\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"20\" y=\"20\" width=\"160\" height=\"160\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"200\" y=\"50\" text-anchor=\"start\" font-size=\"14\" fill=\"#0f1b33\">35 of the 100 equal squares</text><text x=\"200\" y=\"76\" text-anchor=\"start\" font-size=\"14\" fill=\"#0f1b33\">are shaded.</text><text x=\"200\" y=\"110\" text-anchor=\"start\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">Fraction: 35/100 = 7/20</text><text x=\"200\" y=\"136\" text-anchor=\"start\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">Decimal: 0.35</text><text x=\"200\" y=\"162\" text-anchor=\"start\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">Percentage: 35%</text></svg>",
+   "caption": "One picture, three ways to write it: 35/100 (= 7/20 in simplest form) = 0.35 = 35%."
+  },
+  {
+   "type": "p",
+   "text": "The whole shape is always **100%**. So 100% = 1 = 100/100. The number line below shows the most important equivalents. Learn them by heart — Checkpoint expects you to know them without working."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 150\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"40\" y1=\"80\" x2=\"500\" y2=\"80\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"40\" y1=\"75\" x2=\"40\" y2=\"85\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"86\" y1=\"75\" x2=\"86\" y2=\"85\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"132\" y1=\"75\" x2=\"132\" y2=\"85\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"178\" y1=\"75\" x2=\"178\" y2=\"85\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"224\" y1=\"75\" x2=\"224\" y2=\"85\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"270\" y1=\"75\" x2=\"270\" y2=\"85\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"316\" y1=\"75\" x2=\"316\" y2=\"85\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"362\" y1=\"75\" x2=\"362\" y2=\"85\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"408\" y1=\"75\" x2=\"408\" y2=\"85\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"454\" y1=\"75\" x2=\"454\" y2=\"85\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"500\" y1=\"75\" x2=\"500\" y2=\"85\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"40\" y1=\"69\" x2=\"40\" y2=\"91\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"40\" y=\"58\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">0</text><text x=\"40\" y=\"110\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">0</text><text x=\"40\" y=\"134\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">0%</text><line x1=\"155\" y1=\"69\" x2=\"155\" y2=\"91\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"155\" y=\"46\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">1</text><line x1=\"148.66\" y1=\"50\" x2=\"161.34\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"155\" y=\"65\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">4</text><text x=\"155\" y=\"110\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">0.25</text><text x=\"155\" y=\"134\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">25%</text><line x1=\"270\" y1=\"69\" x2=\"270\" y2=\"91\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"270\" y=\"46\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">1</text><line x1=\"263.66\" y1=\"50\" x2=\"276.34\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"270\" y=\"65\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">2</text><text x=\"270\" y=\"110\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">0.5</text><text x=\"270\" y=\"134\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">50%</text><line x1=\"385\" y1=\"69\" x2=\"385\" y2=\"91\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"385\" y=\"46\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">3</text><line x1=\"378.66\" y1=\"50\" x2=\"391.34\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"385\" y=\"65\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">4</text><text x=\"385\" y=\"110\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">0.75</text><text x=\"385\" y=\"134\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">75%</text><line x1=\"500\" y1=\"69\" x2=\"500\" y2=\"91\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"500\" y=\"58\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">1</text><text x=\"500\" y=\"110\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">1</text><text x=\"500\" y=\"134\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">100%</text><text x=\"10\" y=\"58\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\"></text></svg>",
+   "caption": "Fractions (above), decimals (middle row) and percentages (bottom row) on the same number line from 0 to 1."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Fraction",
+    "Decimal",
+    "Percentage"
+   ],
+   "rows": [
+    [
+     "1/100",
+     "0.01",
+     "1%"
+    ],
+    [
+     "1/20",
+     "0.05",
+     "5%"
+    ],
+    [
+     "1/10",
+     "0.1",
+     "10%"
+    ],
+    [
+     "1/5",
+     "0.2",
+     "20%"
+    ],
+    [
+     "1/4",
+     "0.25",
+     "25%"
+    ],
+    [
+     "3/10",
+     "0.3",
+     "30%"
+    ],
+    [
+     "2/5",
+     "0.4",
+     "40%"
+    ],
+    [
+     "1/2",
+     "0.5",
+     "50%"
+    ],
+    [
+     "3/5",
+     "0.6",
+     "60%"
+    ],
+    [
+     "7/10",
+     "0.7",
+     "70%"
+    ],
+    [
+     "3/4",
+     "0.75",
+     "75%"
+    ],
+    [
+     "4/5",
+     "0.8",
+     "80%"
+    ],
+    [
+     "9/10",
+     "0.9",
+     "90%"
+    ],
+    [
+     "1 (whole)",
+     "1",
+     "100%"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "2. Changing between the three forms"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Change …",
+    "How",
+    "Examples"
+   ],
+   "rows": [
+    [
+     "fraction → percentage",
+     "make the denominator 100 with an equivalent fraction",
+     "7/20 = 35/100 = 35%;  3/25 = 12/100 = 12%"
+    ],
+    [
+     "fraction → decimal",
+     "make the denominator 10 or 100, or divide numerator ÷ denominator",
+     "3/5 = 6/10 = 0.6;  3 ÷ 4 = 0.75"
+    ],
+    [
+     "decimal → percentage",
+     "multiply by 100 (digits move 2 places left)",
+     "0.6 = 60%;  0.07 = 7%;  0.45 = 45%"
+    ],
+    [
+     "percentage → decimal",
+     "divide by 100 (digits move 2 places right)",
+     "45% = 0.45;  5% = 0.05;  80% = 0.8"
+    ],
+    [
+     "percentage → fraction",
+     "write it over 100, then simplify",
+     "45% = 45/100 = 9/20;  60% = 60/100 = 3/5"
+    ],
+    [
+     "decimal → fraction",
+     "use place value (tenths or hundredths), then simplify",
+     "0.6 = 6/10 = 3/5;  0.24 = 24/100 = 6/25"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Making the denominator 100",
+   "text": "Ask: 'What do I multiply the denominator by to get 100?' Then multiply the numerator by the same number. Denominators that work easily: 2 (× 50), 4 (× 25), 5 (× 20), 10 (× 10), 20 (× 5), 25 (× 4), 50 (× 2). Example: 9/25 → × 4 → 36/100 = 0.36 = 36%."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الفكرة الأساسية",
+   "text": "النسبة المئوية يعني \"من 100\". علشان تحوّل كسر لنسبة مئوية خلّي المقام 100: مثلاً 7/20 = 35/100 = 35%. ومن عشري لنسبة مئوية اضرب في 100: 0.6 = 60% (مش 6%). ومن نسبة مئوية لعشري اقسم على 100: 5% = 0.05."
+  },
+  {
+   "type": "h2",
+   "text": "3. Percentages of shapes"
+  },
+  {
+   "type": "p",
+   "text": "To find what percentage of a shape is shaded, the shape must be split into **equal** parts. Work out what percentage **one** part is (100% ÷ the number of parts), then multiply by the number of shaded parts."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Number of equal parts",
+    "Each part is worth",
+    "Example"
+   ],
+   "rows": [
+    [
+     "100",
+     "1%",
+     "23 shaded → 23%"
+    ],
+    [
+     "50",
+     "2%",
+     "18 shaded → 36%"
+    ],
+    [
+     "20",
+     "5%",
+     "9 shaded → 45%"
+    ],
+    [
+     "10",
+     "10%",
+     "7 shaded → 70%"
+    ],
+    [
+     "5",
+     "20%",
+     "3 shaded → 60%"
+    ],
+    [
+     "4",
+     "25%",
+     "3 shaded → 75%"
+    ]
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 200\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"14\"><rect x=\"20\" y=\"20\" width=\"200\" height=\"160\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"20\" y=\"20\" width=\"200\" height=\"40\" fill=\"#bcd3f2\"/><rect x=\"20\" y=\"60\" width=\"160\" height=\"40\" fill=\"#bcd3f2\"/><line x1=\"60\" y1=\"20\" x2=\"60\" y2=\"180\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"100\" y1=\"20\" x2=\"100\" y2=\"180\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"140\" y1=\"20\" x2=\"140\" y2=\"180\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"180\" y1=\"20\" x2=\"180\" y2=\"180\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"20\" y1=\"60\" x2=\"220\" y2=\"60\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"20\" y1=\"100\" x2=\"220\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"20\" y1=\"140\" x2=\"220\" y2=\"140\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"20\" y=\"20\" width=\"200\" height=\"160\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"240\" y=\"60\" text-anchor=\"start\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">20 equal squares</text><text x=\"240\" y=\"86\" text-anchor=\"start\" font-size=\"14\" fill=\"#0f1b33\">each square = 100% ÷ 20 = 5%</text><text x=\"240\" y=\"112\" text-anchor=\"start\" font-size=\"14\" fill=\"#0f1b33\">9 squares shaded:</text><text x=\"240\" y=\"138\" text-anchor=\"start\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">9 × 5% = 45%</text></svg>",
+   "caption": "A shape of 20 equal squares: each square is 5% of the shape, so 9 squares are 45%."
+  },
+  {
+   "type": "p",
+   "text": "You can also go the other way: 'Shade 35% of a shape with 20 squares.' Each square is 5%, and 35% ÷ 5% = 7, so shade **7 squares**."
+  },
+  {
+   "type": "h2",
+   "text": "4. Percentages of whole numbers"
+  },
+  {
+   "type": "p",
+   "text": "Build every percentage from a few easy ones. You never need a calculator for 1% or multiples of 5%."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Percentage",
+    "How to find it",
+    "Of 80",
+    "Of 600"
+   ],
+   "rows": [
+    [
+     "100%",
+     "the whole amount",
+     "80",
+     "600"
+    ],
+    [
+     "50%",
+     "halve",
+     "40",
+     "300"
+    ],
+    [
+     "25%",
+     "halve, then halve again (÷ 4)",
+     "20",
+     "150"
+    ],
+    [
+     "10%",
+     "÷ 10",
+     "8",
+     "60"
+    ],
+    [
+     "5%",
+     "half of 10%",
+     "4",
+     "30"
+    ],
+    [
+     "1%",
+     "÷ 100",
+     "0.8",
+     "6"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Then **add** or **subtract** the easy pieces: 35% = 10% + 10% + 10% + 5%; 45% = 50% − 5%; 95% = 100% − 5%; 75% = 50% + 25%."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 195\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\"><defs><marker id=\"ah\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#0f1b33\"/></marker></defs><line x1=\"30\" y1=\"70\" x2=\"510\" y2=\"70\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"30\" y1=\"130\" x2=\"510\" y2=\"130\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"30\" y1=\"64\" x2=\"30\" y2=\"76\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"30\" y1=\"124\" x2=\"30\" y2=\"136\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"30\" y=\"57\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">0%</text><text x=\"30\" y=\"152\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">0</text><line x1=\"78\" y1=\"64\" x2=\"78\" y2=\"76\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"78\" y1=\"124\" x2=\"78\" y2=\"136\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"78\" y=\"57\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">10%</text><text x=\"78\" y=\"152\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">8</text><line x1=\"126\" y1=\"64\" x2=\"126\" y2=\"76\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"126\" y1=\"124\" x2=\"126\" y2=\"136\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"126\" y=\"57\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">20%</text><text x=\"126\" y=\"152\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">16</text><line x1=\"174\" y1=\"64\" x2=\"174\" y2=\"76\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"174\" y1=\"124\" x2=\"174\" y2=\"136\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"174\" y=\"57\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">30%</text><text x=\"174\" y=\"152\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">24</text><line x1=\"222\" y1=\"64\" x2=\"222\" y2=\"76\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"222\" y1=\"124\" x2=\"222\" y2=\"136\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"222\" y=\"57\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">40%</text><text x=\"222\" y=\"152\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">32</text><line x1=\"270\" y1=\"64\" x2=\"270\" y2=\"76\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"270\" y1=\"124\" x2=\"270\" y2=\"136\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"270\" y=\"57\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">50%</text><text x=\"270\" y=\"152\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">40</text><line x1=\"318\" y1=\"64\" x2=\"318\" y2=\"76\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"318\" y1=\"124\" x2=\"318\" y2=\"136\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"318\" y=\"57\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">60%</text><text x=\"318\" y=\"152\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">48</text><line x1=\"366\" y1=\"64\" x2=\"366\" y2=\"76\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"366\" y1=\"124\" x2=\"366\" y2=\"136\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"366\" y=\"57\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">70%</text><text x=\"366\" y=\"152\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">56</text><line x1=\"414\" y1=\"64\" x2=\"414\" y2=\"76\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"414\" y1=\"124\" x2=\"414\" y2=\"136\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"414\" y=\"57\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">80%</text><text x=\"414\" y=\"152\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">64</text><line x1=\"462\" y1=\"64\" x2=\"462\" y2=\"76\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"462\" y1=\"124\" x2=\"462\" y2=\"136\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"462\" y=\"57\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">90%</text><text x=\"462\" y=\"152\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">72</text><line x1=\"510\" y1=\"64\" x2=\"510\" y2=\"76\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"510\" y1=\"124\" x2=\"510\" y2=\"136\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"510\" y=\"57\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">100%</text><text x=\"510\" y=\"152\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">80</text><line x1=\"198\" y1=\"64\" x2=\"198\" y2=\"136\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-dasharray=\"5,4\"/><circle cx=\"198\" cy=\"70\" r=\"4\" fill=\"#ffd98a\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"198\" cy=\"130\" r=\"4\" fill=\"#ffd98a\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"198\" y=\"26\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">35%</text><line x1=\"198\" y1=\"31\" x2=\"198\" y2=\"44\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"198\" y=\"182\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">28</text><line x1=\"198\" y1=\"158\" x2=\"198\" y2=\"168\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"510\" y=\"182\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">100% = 80</text></svg>",
+   "caption": "A double number line for 80: 10% steps on top match steps of 8 below. Halfway between 30% (24) and 40% (32) is 35% = 28."
+  },
+  {
+   "type": "h2",
+   "text": "5. Comparing and ordering"
+  },
+  {
+   "type": "p",
+   "text": "To compare numbers written in different forms, **change them all into the same form** — usually decimals with two decimal places, or percentages. Then compare digit by digit from the left."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Change every number to a decimal with **two** decimal places (write 0.6 as 0.60).",
+    "Compare the tenths first, then the hundredths.",
+    "Put them in order, then write the **original** numbers (not your decimals) in the answer.",
+    "For two fractions, you can also use a **common denominator**: 3/4 and 7/10 → 15/20 and 14/20, so 3/4 > 7/10."
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 556 134\" width=\"556\" font-family=\"Arial, sans-serif\" font-size=\"14\"><rect x=\"60\" y=\"22\" width=\"60\" height=\"34\" fill=\"#bcd3f2\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"120\" y=\"22\" width=\"60\" height=\"34\" fill=\"#bcd3f2\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"180\" y=\"22\" width=\"60\" height=\"34\" fill=\"#bcd3f2\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"240\" y=\"22\" width=\"60\" height=\"34\" fill=\"#bcd3f2\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"300\" y=\"22\" width=\"60\" height=\"34\" fill=\"#bcd3f2\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"360\" y=\"22\" width=\"60\" height=\"34\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"420\" y=\"22\" width=\"60\" height=\"34\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"480\" y=\"22\" width=\"60\" height=\"34\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"60\" y=\"22\" width=\"480\" height=\"34\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"30\" y=\"35\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">5</text><line x1=\"23.66\" y1=\"39\" x2=\"36.34\" y2=\"39\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"30\" y=\"54\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">8</text><rect x=\"60\" y=\"84\" width=\"40\" height=\"34\" fill=\"#ffd98a\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"100\" y=\"84\" width=\"40\" height=\"34\" fill=\"#ffd98a\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"140\" y=\"84\" width=\"40\" height=\"34\" fill=\"#ffd98a\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"180\" y=\"84\" width=\"40\" height=\"34\" fill=\"#ffd98a\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"220\" y=\"84\" width=\"40\" height=\"34\" fill=\"#ffd98a\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"260\" y=\"84\" width=\"40\" height=\"34\" fill=\"#ffd98a\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"300\" y=\"84\" width=\"40\" height=\"34\" fill=\"#ffd98a\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"340\" y=\"84\" width=\"40\" height=\"34\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"380\" y=\"84\" width=\"40\" height=\"34\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"420\" y=\"84\" width=\"40\" height=\"34\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"460\" y=\"84\" width=\"40\" height=\"34\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"500\" y=\"84\" width=\"40\" height=\"34\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"60\" y=\"84\" width=\"480\" height=\"34\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"30\" y=\"97\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">7</text><line x1=\"19.32\" y1=\"101\" x2=\"40.68\" y2=\"101\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"30\" y=\"116\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">12</text><line x1=\"360\" y1=\"14\" x2=\"360\" y2=\"126\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-dasharray=\"5,4\"/></svg>",
+   "caption": "5/8 = 15/24 and 7/12 = 14/24. Bars of the same length show 5/8 is a little longer, so 5/8 > 7/12."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "The signs =, > and <",
+   "text": "The wide open side of the sign faces the bigger number: 0.75 > 0.7 (0.75 is greater than 0.7), 0.09 < 0.1 (0.09 is less than 0.1). Use = only when the values are exactly the same, e.g. 2/5 = 40%."
+  },
+  {
+   "type": "h2",
+   "text": "6. Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — Write 0.35 (a) as a fraction in its simplest form (b) as a percentage. [2]"
+  },
+  {
+   "type": "p",
+   "text": "(a) 0.35 = 35 hundredths = 35/100. The HCF of 35 and 100 is 5: 35/100 = **7/20**. (b) 0.35 × 100 = **35%**. Common mistake: writing 35/10 or 3.5%."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — A shape is made of 20 equal squares. 9 are shaded. What percentage is shaded? [1]"
+  },
+  {
+   "type": "p",
+   "text": "Each square = 100% ÷ 20 = 5%. 9 × 5% = **45%**. (Check: 9/20 = 45/100.)"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — Find 35% of 80. [1]"
+  },
+  {
+   "type": "p",
+   "text": "10% of 80 = 8, so 30% = 24. 5% = half of 8 = 4. 35% = 24 + 4 = **28**."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — Find (a) 1% of 600 (b) 95% of 600. [2]"
+  },
+  {
+   "type": "p",
+   "text": "(a) 600 ÷ 100 = **6**. (b) 95% = 100% − 5%. 10% of 600 = 60, so 5% = 30. 600 − 30 = **570**. Common mistake: finding 95% as 9 × 10% + 5% and adding wrongly — subtracting from 100% is quicker and safer."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — Write >, < or = in each box. [2]   (a) 3/4 ☐ 0.7   (b) 2/5 ☐ 40%   (c) 0.09 ☐ 0.1"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "(a) 3/4 = 0.75 and 0.7 = 0.70. 0.75 > 0.70, so **3/4 > 0.7**.",
+    "(b) 2/5 = 4/10 = 40/100 = 40%, so **2/5 = 40%**.",
+    "(c) 0.09 has 0 tenths; 0.1 = 0.10 has 1 tenth. So **0.09 < 0.1**. Common mistake: thinking 0.09 is bigger because 9 > 1.",
+    "Mark scheme style: 2 marks for all three correct, 1 mark for two correct."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** — Which is bigger, 5/8 or 7/12? Show how you know. [1]"
+  },
+  {
+   "type": "p",
+   "text": "Find a common denominator: 24 is a multiple of both 8 and 12. 5/8 = 15/24 (× 3) and 7/12 = 14/24 (× 2). 15/24 > 14/24, so **5/8 is bigger** (see the fraction bars above)."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 7** — Write these numbers in order, starting with the smallest: 0.62   3/5   66%   0.58   16/25 [2]"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Number",
+    "0.62",
+    "3/5",
+    "66%",
+    "0.58",
+    "16/25"
+   ],
+   "rows": [
+    [
+     "As a decimal (2 d.p.)",
+     "0.62",
+     "0.60",
+     "0.66",
+     "0.58",
+     "0.64"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Order of the decimals: 0.58, 0.60, 0.62, 0.64, 0.66. **Answer: 0.58, 3/5, 0.62, 16/25, 66%.** Write the numbers as they were given, not the decimals."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "'Longer decimals are bigger': 0.56 is NOT bigger than 0.6. Write 0.6 as 0.60 and compare tenths first.",
+    "0.6 = 6% ✗. Multiply by 100: 0.6 = 60%. And 0.06 = 6%.",
+    "5% = 0.5 ✗. Divide by 100: 5% = 0.05.",
+    "Comparing fractions by the denominator only: 1/8 looks 'bigger' because 8 > 4, but 1/8 < 1/4.",
+    "Counting shaded parts of a shape that is not split into equal parts, or forgetting how many parts the whole has.",
+    "In ordering questions, writing the converted decimals instead of the original numbers, or ordering largest first when the question says smallest first."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "Matching lines: join each fraction to the equal decimal or percentage.",
+    "Complete a table of equivalent fractions, decimals and percentages.",
+    "'What percentage of the shape is shaded?' or 'Shade 45% of this shape' on a grid.",
+    "Find a percentage of an amount (often money or pupils), e.g. 15% of $60 — show 10% and 5% in your working.",
+    "Write >, < or = in a box, ring the largest/smallest, or order a mixed list. Change everything into decimals or percentages first and write your conversions next to the numbers.",
+    "'Explain how you know' — show the common denominator or the conversions; a bare answer may not get the mark."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Fractions, decimals and percentages — practice",
+   "timed": false,
+   "intro": "14 questions, from easy to Checkpoint-hard. No calculator. Type fractions as a/b. For percentage answers, type only the number.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 20,
+     "calc": false,
+     "questions": [
+      {
+       "q": "Which of these is equal to 0.4?",
+       "c": [
+        "4%",
+        "1/4",
+        "2/5",
+        "4/100"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Equivalence",
+       "e": "0.4 = 4/10 = 2/5 (÷ 2). The others: 4% = 0.04, 1/4 = 0.25, 4/100 = 0.04."
+      },
+      {
+       "t": "num",
+       "q": "Write 3/20 as a percentage.",
+       "ans": [
+        15
+       ],
+       "tol": 0,
+       "unit": "%",
+       "m": 1,
+       "s": "Equivalence",
+       "e": "Make the denominator 100: 20 × 5 = 100, so 3 × 5 = 15. 3/20 = 15/100 = **15%**."
+      },
+      {
+       "t": "num",
+       "q": "Write 0.08 as a percentage.",
+       "ans": [
+        8
+       ],
+       "tol": 0,
+       "unit": "%",
+       "m": 1,
+       "s": "Equivalence",
+       "e": "0.08 = 8 hundredths = 8/100 = **8%**. (Not 80% — 0.8 would be 80%.)"
+      },
+      {
+       "t": "text",
+       "q": "Write 0.45 as a fraction in its simplest form.",
+       "ans": [
+        "9/20"
+       ],
+       "m": 1,
+       "s": "Equivalence",
+       "e": "0.45 = 45/100. The highest common factor of 45 and 100 is 5: 45 ÷ 5 = 9, 100 ÷ 5 = 20. **9/20**."
+      },
+      {
+       "t": "num",
+       "p": "The shape is made of 20 equal squares.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 140\" width=\"200\" font-family=\"Arial, sans-serif\" font-size=\"14\"><rect x=\"10\" y=\"10\" width=\"150\" height=\"120\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"10\" y=\"10\" width=\"150\" height=\"30\" fill=\"#bcd3f2\"/><rect x=\"10\" y=\"40\" width=\"120\" height=\"30\" fill=\"#bcd3f2\"/><rect x=\"10\" y=\"70\" width=\"60\" height=\"30\" fill=\"#bcd3f2\"/><rect x=\"10\" y=\"100\" width=\"60\" height=\"30\" fill=\"#bcd3f2\"/><line x1=\"40\" y1=\"10\" x2=\"40\" y2=\"130\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"70\" y1=\"10\" x2=\"70\" y2=\"130\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"100\" y1=\"10\" x2=\"100\" y2=\"130\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"130\" y1=\"10\" x2=\"130\" y2=\"130\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"10\" y1=\"40\" x2=\"160\" y2=\"40\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"10\" y1=\"70\" x2=\"160\" y2=\"70\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"10\" y1=\"100\" x2=\"160\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"10\" y=\"10\" width=\"150\" height=\"120\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/></svg>",
+       "q": "What percentage of the shape is shaded?",
+       "ans": [
+        65
+       ],
+       "tol": 0,
+       "unit": "%",
+       "m": 1,
+       "s": "Percentages of shapes",
+       "e": "Count the shaded squares: 5 + 4 + 2 + 2 = 13. Each square is 100% ÷ 20 = 5%. 13 × 5% = **65%**. (Or 13/20 = 65/100.)"
+      },
+      {
+       "t": "num",
+       "q": "Work out 1% of 2500.",
+       "ans": [
+        25
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Percentages of amounts",
+       "e": "1% means divide by 100: 2500 ÷ 100 = **25**."
+      },
+      {
+       "t": "num",
+       "q": "Work out 85% of 60.",
+       "ans": [
+        51
+       ],
+       "tol": 0,
+       "m": 2,
+       "s": "Percentages of amounts",
+       "e": "10% of 60 = 6, so 80% = 6 × 8 = 48. 5% = half of 10% = 3. 85% = 48 + 3 = **51**. (Or 100% − 15%: 60 − 9 = 51.) M1 for a correct method such as 10% = 6 seen."
+      },
+      {
+       "p": "Choose the sign that makes this statement true.",
+       "q": "0.3 ☐ 3/10",
+       "c": [
+        "=",
+        "<",
+        ">",
+        "cannot tell"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Comparing",
+       "e": "3/10 = 3 tenths = 0.3, so they are **equal**: 0.3 = 3/10."
+      },
+      {
+       "q": "Which statement is correct?",
+       "c": [
+        "0.6 < 0.56",
+        "0.5 > 45%",
+        "7/10 < 65%",
+        "1/4 > 0.3"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Comparing",
+       "e": "0.6 = 0.60 > 0.56, so A is wrong. 0.5 = 50% and 50% > 45%, so **B is correct**. 7/10 = 70% > 65%, so C is wrong. 1/4 = 0.25 < 0.3, so D is wrong."
+      },
+      {
+       "q": "Which is the largest?",
+       "c": [
+        "0.72",
+        "70%",
+        "0.07",
+        "3/4"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Comparing",
+       "e": "Change all to decimals: 0.72, 0.70, 0.07, 0.75. The largest is 0.75 = **3/4**."
+      },
+      {
+       "t": "text",
+       "p": "A = 0.35     B = 3/10     C = 33%     D = 2/5",
+       "q": "Write the letters in order, starting with the smallest.",
+       "ans": [
+        "BCAD",
+        "B,C,A,D",
+        "B, C, A, D"
+       ],
+       "m": 2,
+       "s": "Ordering",
+       "e": "As decimals: A = 0.35, B = 0.30, C = 0.33, D = 0.40. Smallest to largest: 0.30, 0.33, 0.35, 0.40 → **B C A D**. (1 mark if one pair is in the wrong order.)"
+      },
+      {
+       "t": "open",
+       "q": "Which is bigger, 2/3 or 5/8? Show how you know.",
+       "m": 2,
+       "s": "Comparing fractions",
+       "ms": "1 mark: a correct method — both fractions written with a common denominator (e.g. 16/24 and 15/24) or correctly drawn equal-length fraction bars, or both written as close decimals (0.66… and 0.625). 1 mark: 2/3 is bigger, from correct working. Do not award the second mark for '2/3' with no working.",
+       "e": "Common denominator 24 (3 × 8 = 24): 2/3 = 16/24 and 5/8 = 15/24. 16/24 > 15/24, so **2/3 is bigger**."
+      },
+      {
+       "t": "num",
+       "p": "Question 13\nA school has 400 pupils. 45% of the pupils walk to school. 25% of the pupils come by bus.",
+       "q": "(a) How many pupils walk to school?",
+       "ans": [
+        180
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Percentages of amounts",
+       "e": "10% of 400 = 40, so 40% = 160. 5% = 20. 45% = 160 + 20 = **180 pupils**."
+      },
+      {
+       "t": "num",
+       "p": "Question 13\nA school has 400 pupils. 45% of the pupils walk to school. 25% of the pupils come by bus.",
+       "q": "(b) How many more pupils walk than come by bus?",
+       "ans": [
+        80
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Percentages of amounts",
+       "e": "25% of 400 = 400 ÷ 4 = 100 come by bus. 180 − 100 = **80**. (Quicker: 45% − 25% = 20%, and 20% of 400 = 80.) Follow through from (a)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Per cent means out of 100: 35% = 35/100 = 0.35.",
+    "Know the key equivalents: 1/2 = 0.5 = 50%, 1/4 = 0.25 = 25%, 3/4 = 0.75 = 75%, 1/5 = 0.2 = 20%, 1/10 = 0.1 = 10%, 1/100 = 0.01 = 1%.",
+    "Percentages of amounts: build from 10% (÷ 10), 5% (half of 10%), 1% (÷ 100), 50% and 25%.",
+    "Percentage of a shape: 100% ÷ number of equal parts = value of one part.",
+    "To compare or order, change everything to the same form (two-decimal-place decimals or percentages), then compare tenths first."
+   ]
+  }
+ ]
+}

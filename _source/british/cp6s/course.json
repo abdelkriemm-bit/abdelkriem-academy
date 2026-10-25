@@ -1,0 +1,79 @@
+{
+ "hub": "checkpoint-6-science.html",
+ "active": "british.html",
+ "short": "Checkpoint 6 Science",
+ "labels": {
+  "prev": "← Previous",
+  "next": "Next →",
+  "back": "← Back to",
+  "done": "Finished! Back to",
+  "toc": "All pages in this course",
+  "start": "Start the course →",
+  "crumb": "<a href=\"british.html\">British &amp; IGCSE</a> › <a href=\"checkpoint-6.html\">Checkpoint 6</a> › "
+ },
+ "kicker": "Cambridge Primary Checkpoint · Science 0097 · Stage 6",
+ "title": "Checkpoint 6 Science — Complete Course",
+ "summary": "The whole Cambridge Primary Stage 6 Science curriculum — biology, chemistry, physics, Earth and space, and working scientifically — with clear diagrams, key words in Arabic, an interactive quiz on every page and full Checkpoint-style practice tests with printable PDFs.",
+ "meta_desc": "The whole Cambridge Primary Stage 6 Science curriculum — biology, chemistry, physics, Earth and space, and working scientifically — with clear diagrams, key words in Arabic, an interactive quiz on every page and full Checkpoint-style practice tests with printable PDFs.",
+ "sections": [
+  {
+   "title": "Start here",
+   "desc": "",
+   "pages": [
+    "cp6s-overview",
+    "cp6s-working-scientifically"
+   ]
+  },
+  {
+   "title": "Biology",
+   "desc": "",
+   "pages": [
+    "cp6s-circulatory-system",
+    "cp6s-respiratory-system",
+    "cp6s-growing-up",
+    "cp6s-diseases-hygiene",
+    "cp6s-food-chains-webs"
+   ]
+  },
+  {
+   "title": "Chemistry",
+   "desc": "",
+   "pages": [
+    "cp6s-properties-of-substances",
+    "cp6s-reversible-changes-dissolving",
+    "cp6s-boiling-evaporation",
+    "cp6s-chemical-reactions"
+   ]
+  },
+  {
+   "title": "Physics",
+   "desc": "",
+   "pages": [
+    "cp6s-mass-weight-gravity",
+    "cp6s-forces-motion",
+    "cp6s-floating-sinking",
+    "cp6s-light",
+    "cp6s-circuits"
+   ]
+  },
+  {
+   "title": "Earth and space",
+   "desc": "",
+   "pages": [
+    "cp6s-rocks-fossils",
+    "cp6s-soil",
+    "cp6s-rock-cycle",
+    "cp6s-solar-system-moon"
+   ]
+  },
+  {
+   "title": "Practice tests",
+   "desc": "Full Checkpoint-style tests: Paper 1 and Paper 2, 35 minutes and 40 marks each.",
+   "pages": [
+    "cp6s-practice-test-1",
+    "cp6s-practice-test-2",
+    "cp6s-practice-test-3"
+   ]
+  }
+ ]
+}

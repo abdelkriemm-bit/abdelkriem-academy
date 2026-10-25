@@ -1,0 +1,623 @@
+{
+ "slug": "cp6s-solar-system-moon",
+ "title": "The Solar System and the Phases of the Moon",
+ "kicker": "Cambridge Primary Checkpoint · Science 0097 · Stage 6 · Earth and space",
+ "summary": "The Sun, the eight planets and the Moon — where they are, how they move, and why the Moon seems to change shape during its monthly cycle.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Describe where the Sun, the planets and the Moon are in the Solar System compared with each other, and how they move (6ESs.01).",
+    "Observe and describe how the appearance of the Moon changes during its monthly cycle (6ESs.02).",
+    "Skills used on this page: using diagrams as models (6TWSm.02), observing over time, reading data from a table and describing a pattern."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "Solar System",
+     "المجموعة الشمسية — the Sun and everything that orbits it"
+    ],
+    [
+     "star",
+     "نجم — a huge ball of hot gas that gives out its own light; the Sun is a star"
+    ],
+    [
+     "planet",
+     "كوكب — a large, round object that orbits a star"
+    ],
+    [
+     "moon",
+     "قمر — a natural object that orbits a planet; the Earth has one Moon"
+    ],
+    [
+     "orbit",
+     "مدار / يدور حول — the path of one object around another; also the verb 'to orbit'"
+    ],
+    [
+     "axis / spin (rotate)",
+     "محور / يدور حول نفسه — the imaginary line a planet spins around"
+    ],
+    [
+     "gravity",
+     "الجاذبية — the pulling force that keeps the planets in orbit around the Sun"
+    ],
+    [
+     "reflect",
+     "يعكس — bounce light back; the Moon and planets reflect sunlight"
+    ],
+    [
+     "phases of the Moon",
+     "أطوار القمر — the different shapes of the lit part of the Moon that we see during a month"
+    ],
+    [
+     "waxing / waning",
+     "متزايد / متناقص — the lit part we see is getting bigger / getting smaller"
+    ],
+    [
+     "crescent",
+     "هلال — a thin curved shape of the Moon"
+    ],
+    [
+     "gibbous",
+     "أحدب — more than half, but not all, of the Moon's face is lit"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. The Solar System"
+  },
+  {
+   "type": "p",
+   "text": "The **Sun** is at the centre of the Solar System. It is a **star** — a huge ball of very hot gas that gives out its own light and heat. Eight **planets** travel around the Sun in paths called **orbits**. The Sun's **gravity** pulls on the planets and keeps them in their orbits."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 240\" width=\"560\" font-family=\"Arial, sans-serif\" font-size=\"14\"><defs><marker id=\"ah\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#0f1b33\"/></marker></defs><circle cx=\"-30\" cy=\"118\" r=\"80\" fill=\"#ffd27a\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"18\" y=\"123\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\" stroke=\"#fff\" stroke-width=\"4\" paint-order=\"stroke\">Sun</text><path d=\"M65,44 A120,120 0 0 1 65,192\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-dasharray=\"4 3\" opacity=\"0.6\"/><path d=\"M96,19 A160,160 0 0 1 96,217\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-dasharray=\"4 3\" opacity=\"0.6\"/><path d=\"M128,-5 A200,200 0 0 1 128,241\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-dasharray=\"4 3\" opacity=\"0.6\"/><path d=\"M159,-30 A240,240 0 0 1 159,266\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-dasharray=\"4 3\" opacity=\"0.6\"/><path d=\"M230,-85 A330,330 0 0 1 230,321\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-dasharray=\"4 3\" opacity=\"0.6\"/><path d=\"M297,-137 A415,415 0 0 1 297,373\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-dasharray=\"4 3\" opacity=\"0.6\"/><path d=\"M352,-181 A485,485 0 0 1 352,417\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-dasharray=\"4 3\" opacity=\"0.6\"/><path d=\"M397,-216 A542,542 0 0 1 397,452\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-dasharray=\"4 3\" opacity=\"0.6\"/><circle cx=\"217\" cy=\"-24\" r=\"1.6\" fill=\"#0f1b33\"/><circle cx=\"230\" cy=\"2\" r=\"1.6\" fill=\"#0f1b33\"/><circle cx=\"241\" cy=\"30\" r=\"1.6\" fill=\"#0f1b33\"/><circle cx=\"249\" cy=\"59\" r=\"1.6\" fill=\"#0f1b33\"/><circle cx=\"253\" cy=\"88\" r=\"1.6\" fill=\"#0f1b33\"/><circle cx=\"255\" cy=\"118\" r=\"1.6\" fill=\"#0f1b33\"/><circle cx=\"253\" cy=\"148\" r=\"1.6\" fill=\"#0f1b33\"/><circle cx=\"249\" cy=\"177\" r=\"1.6\" fill=\"#0f1b33\"/><circle cx=\"241\" cy=\"206\" r=\"1.6\" fill=\"#0f1b33\"/><circle cx=\"230\" cy=\"234\" r=\"1.6\" fill=\"#0f1b33\"/><circle cx=\"217\" cy=\"260\" r=\"1.6\" fill=\"#0f1b33\"/><circle cx=\"90\" cy=\"118\" r=\"4\" fill=\"#d9dde6\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"90\" y=\"102\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\" stroke=\"#fff\" stroke-width=\"4\" paint-order=\"stroke\">Mercury</text><circle cx=\"130\" cy=\"118\" r=\"7\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"130\" y=\"147\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\" stroke=\"#fff\" stroke-width=\"4\" paint-order=\"stroke\">Venus</text><circle cx=\"170\" cy=\"118\" r=\"7\" fill=\"#bcd7f5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"170\" y=\"99\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\" stroke=\"#fff\" stroke-width=\"4\" paint-order=\"stroke\">Earth</text><circle cx=\"210\" cy=\"118\" r=\"5\" fill=\"#f4b9a0\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"210\" y=\"145\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\" stroke=\"#fff\" stroke-width=\"4\" paint-order=\"stroke\">Mars</text><circle cx=\"300\" cy=\"118\" r=\"24\" fill=\"#f3e2b3\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"300\" y=\"82\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\" stroke=\"#fff\" stroke-width=\"4\" paint-order=\"stroke\">Jupiter</text><ellipse cx=\"385\" cy=\"118\" rx=\"32\" ry=\"5\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"385\" cy=\"118\" r=\"20\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"385\" y=\"86\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\" stroke=\"#fff\" stroke-width=\"4\" paint-order=\"stroke\">Saturn</text><circle cx=\"455\" cy=\"118\" r=\"12\" fill=\"#cdeef0\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"455\" y=\"152\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\" stroke=\"#fff\" stroke-width=\"4\" paint-order=\"stroke\">Uranus</text><circle cx=\"512\" cy=\"118\" r=\"12\" fill=\"#bcd0f5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"512\" y=\"152\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\" stroke=\"#fff\" stroke-width=\"4\" paint-order=\"stroke\">Neptune</text><text x=\"256\" y=\"193\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\" stroke=\"#fff\" stroke-width=\"4\" paint-order=\"stroke\">asteroid belt</text><path d=\"M493,288 A550,550 0 0 1 446,393\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\" marker-end=\"url(#ah)\"/><text x=\"280\" y=\"232\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\" stroke=\"#fff\" stroke-width=\"4\" paint-order=\"stroke\">Not to scale. All the planets orbit the Sun in the same direction.</text></svg>",
+   "caption": "The order of the planets from the Sun (sizes and distances not to scale)."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Order from the Sun:** Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.",
+    "**A sentence to help you remember:** **M**y **V**ery **E**asy **M**ethod **J**ust **S**peeds **U**p **N**aming.",
+    "**Inner planets** (Mercury, Venus, Earth, Mars) are small and **rocky**.",
+    "Between Mars and Jupiter is the **asteroid belt** — millions of rocky lumps that also orbit the Sun.",
+    "**Outer planets** (Jupiter, Saturn, Uranus, Neptune) are **giants** made mostly of gas (and ice); all four have rings, Saturn's are the easiest to see."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "How the planets move"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Every planet **orbits the Sun**. All the planets orbit in the **same direction** and in nearly the **same flat plane**, like runners on a giant flat track.",
+    "The orbits are **nearly circular** (very slightly oval).",
+    "The **further** a planet is from the Sun, the **longer** it takes to complete one orbit. The time for one orbit is that planet's **year**.",
+    "Each planet also **spins on its axis**. The Earth spins once every **24 hours** — this gives us **day and night**.",
+    "The Earth orbits the Sun once every **365¼ days** — this is one Earth **year**.",
+    "**Moons** orbit planets. The **Moon** orbits the **Earth** about once a month, and the Earth carries the Moon with it as it orbits the Sun."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Planet",
+    "Average distance from the Sun (million km)",
+    "Time for one orbit",
+    "Diameter (km)",
+    "Type"
+   ],
+   "rows": [
+    [
+     "Mercury",
+     "58",
+     "88 days",
+     "4 880",
+     "rocky"
+    ],
+    [
+     "Venus",
+     "108",
+     "225 days",
+     "12 100",
+     "rocky"
+    ],
+    [
+     "Earth",
+     "150",
+     "365¼ days (1 year)",
+     "12 760",
+     "rocky"
+    ],
+    [
+     "Mars",
+     "228",
+     "687 days (1.9 years)",
+     "6 790",
+     "rocky"
+    ],
+    [
+     "Jupiter",
+     "778",
+     "11.9 years",
+     "143 000",
+     "gas giant"
+    ],
+    [
+     "Saturn",
+     "1 430",
+     "29.5 years",
+     "120 500",
+     "gas giant"
+    ],
+    [
+     "Uranus",
+     "2 870",
+     "84 years",
+     "51 100",
+     "ice giant"
+    ],
+    [
+     "Neptune",
+     "4 500",
+     "165 years",
+     "49 500",
+     "ice giant"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Patterns in the table:** (1) the further from the Sun, the longer the orbit takes; (2) the four inner planets are much smaller than the four outer planets; (3) Jupiter is the largest planet and Mercury the smallest. Planets further from the Sun are usually colder — but **Venus is the hottest planet**, even hotter than Mercury, because its thick atmosphere traps heat."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Object",
+    "What it is",
+    "What it orbits",
+    "Own light?"
+   ],
+   "rows": [
+    [
+     "Sun",
+     "A star",
+     "Nothing in the Solar System — it is at the centre",
+     "Yes"
+    ],
+    [
+     "Earth",
+     "A planet",
+     "The Sun",
+     "No — it reflects sunlight"
+    ],
+    [
+     "Moon",
+     "Earth's natural satellite",
+     "The Earth",
+     "No — it reflects sunlight"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Science changes with evidence",
+   "text": "For a very long time many people believed that the Earth was at the centre and that the Sun moved around it. In the 1500s and 1600s, astronomers such as Copernicus and Galileo used careful observations (Galileo used one of the first telescopes) to show that the planets, including the Earth, orbit the Sun. In 2006 scientists agreed to call Pluto a **dwarf planet**, which is why there are now **eight** planets, not nine. New evidence can change scientific ideas."
+  },
+  {
+   "type": "h2",
+   "text": "2. The Moon and its phases"
+  },
+  {
+   "type": "p",
+   "text": "The Moon does **not** make its own light. We see it because it **reflects light from the Sun**. At every moment, **one half of the Moon is lit** by the Sun (the half facing the Sun) and the other half is dark — just like day and night on Earth."
+  },
+  {
+   "type": "p",
+   "text": "As the Moon **orbits the Earth**, we see **different amounts of its lit half**. That is why the Moon seems to change shape. The shapes are called the **phases of the Moon**. One full cycle of phases, from new moon to the next new moon, takes about **29½ days** — about a month. (The word 'month' comes from 'Moon'.)"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 400\" width=\"560\" font-family=\"Arial, sans-serif\" font-size=\"14\"><defs><marker id=\"ah\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#0f1b33\"/></marker></defs><line x1=\"10.0\" y1=\"60.0\" x2=\"95.0\" y2=\"60.0\" stroke=\"#0f1b33\" stroke-width=\"2\" marker-end=\"url(#ah)\"/><line x1=\"10.0\" y1=\"130.0\" x2=\"95.0\" y2=\"130.0\" stroke=\"#0f1b33\" stroke-width=\"2\" marker-end=\"url(#ah)\"/><line x1=\"10.0\" y1=\"200.0\" x2=\"95.0\" y2=\"200.0\" stroke=\"#0f1b33\" stroke-width=\"2\" marker-end=\"url(#ah)\"/><line x1=\"10.0\" y1=\"270.0\" x2=\"95.0\" y2=\"270.0\" stroke=\"#0f1b33\" stroke-width=\"2\" marker-end=\"url(#ah)\"/><line x1=\"10.0\" y1=\"340.0\" x2=\"95.0\" y2=\"340.0\" stroke=\"#0f1b33\" stroke-width=\"2\" marker-end=\"url(#ah)\"/><text x=\"52\" y=\"385\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">Sunlight</text><circle cx=\"330\" cy=\"200\" r=\"130\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.2\" stroke-dasharray=\"5 4\"/><circle cx=\"330\" cy=\"200\" r=\"30\" fill=\"#5b6475\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M330,170 A30,30 0 0 0 330,230Z\" fill=\"#bcd7f5\"/><circle cx=\"330\" cy=\"200\" r=\"30\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"330\" y=\"205\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\" stroke=\"#fff\" stroke-width=\"4\" paint-order=\"stroke\">Earth</text><circle cx=\"200.0\" cy=\"200.0\" r=\"15\" fill=\"#5b6475\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M200.0,185.0 A15,15 0 0 0 200.0,215.0Z\" fill=\"#fff4d6\"/><circle cx=\"200.0\" cy=\"200.0\" r=\"15\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"168\" y=\"205\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">1</text><circle cx=\"238.1\" cy=\"291.9\" r=\"15\" fill=\"#5b6475\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M238.1,276.9 A15,15 0 0 0 238.1,306.9Z\" fill=\"#fff4d6\"/><circle cx=\"238.1\" cy=\"291.9\" r=\"15\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"215\" y=\"320\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">2</text><circle cx=\"330.0\" cy=\"330.0\" r=\"15\" fill=\"#5b6475\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M330.0,315.0 A15,15 0 0 0 330.0,345.0Z\" fill=\"#fff4d6\"/><circle cx=\"330.0\" cy=\"330.0\" r=\"15\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"330\" y=\"367\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">3</text><circle cx=\"421.9\" cy=\"291.9\" r=\"15\" fill=\"#5b6475\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M421.9,276.9 A15,15 0 0 0 421.9,306.9Z\" fill=\"#fff4d6\"/><circle cx=\"421.9\" cy=\"291.9\" r=\"15\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"445\" y=\"320\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">4</text><circle cx=\"460.0\" cy=\"200.0\" r=\"15\" fill=\"#5b6475\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M460.0,185.0 A15,15 0 0 0 460.0,215.0Z\" fill=\"#fff4d6\"/><circle cx=\"460.0\" cy=\"200.0\" r=\"15\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"492\" y=\"205\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">5</text><circle cx=\"421.9\" cy=\"108.1\" r=\"15\" fill=\"#5b6475\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M421.9,93.1 A15,15 0 0 0 421.9,123.1Z\" fill=\"#fff4d6\"/><circle cx=\"421.9\" cy=\"108.1\" r=\"15\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"445\" y=\"90\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">6</text><circle cx=\"330.0\" cy=\"70.0\" r=\"15\" fill=\"#5b6475\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M330.0,55.0 A15,15 0 0 0 330.0,85.0Z\" fill=\"#fff4d6\"/><circle cx=\"330.0\" cy=\"70.0\" r=\"15\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"330\" y=\"43\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">7</text><circle cx=\"238.1\" cy=\"108.1\" r=\"15\" fill=\"#5b6475\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M238.1,93.1 A15,15 0 0 0 238.1,123.1Z\" fill=\"#fff4d6\"/><circle cx=\"238.1\" cy=\"108.1\" r=\"15\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"215\" y=\"90\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">8</text><path d=\"M207.8,244.5 A130,130 0 0 0 223.5,274.6\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.5\" marker-end=\"url(#ah)\"/><text x=\"330\" y=\"393\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">View from above the North Pole (not to scale)</text></svg>",
+   "caption": "The Moon at eight points in its orbit, seen from far above the Earth. The Sun lights the half of the Moon that faces it."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 135\" width=\"560\" font-family=\"Arial, sans-serif\" font-size=\"14\"><defs><marker id=\"ah\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#0f1b33\"/></marker></defs><text x=\"35\" y=\"16\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">1</text><circle cx=\"35.0\" cy=\"50.0\" r=\"24\" fill=\"#5b6475\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"35\" y=\"98\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">New</text><text x=\"35\" y=\"114\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">moon</text><text x=\"105\" y=\"16\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">2</text><circle cx=\"105.0\" cy=\"50.0\" r=\"24\" fill=\"#5b6475\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M105.0,26.0 A24,24 0 0 1 105.0,74.0 A17.0,24 0 0 0 105.0,26.0Z\" fill=\"#fff4d6\" stroke=\"none\"/><circle cx=\"105.0\" cy=\"50.0\" r=\"24\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"105\" y=\"98\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">Waxing</text><text x=\"105\" y=\"114\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">crescent</text><text x=\"175\" y=\"16\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">3</text><circle cx=\"175.0\" cy=\"50.0\" r=\"24\" fill=\"#5b6475\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M175.0,26.0 A24,24 0 0 1 175.0,74.0 A0.0,24 0 0 1 175.0,26.0Z\" fill=\"#fff4d6\" stroke=\"none\"/><circle cx=\"175.0\" cy=\"50.0\" r=\"24\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"175\" y=\"98\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">First</text><text x=\"175\" y=\"114\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">quarter</text><text x=\"245\" y=\"16\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">4</text><circle cx=\"245.0\" cy=\"50.0\" r=\"24\" fill=\"#5b6475\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M245.0,26.0 A24,24 0 0 1 245.0,74.0 A17.0,24 0 0 1 245.0,26.0Z\" fill=\"#fff4d6\" stroke=\"none\"/><circle cx=\"245.0\" cy=\"50.0\" r=\"24\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"245\" y=\"98\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">Waxing</text><text x=\"245\" y=\"114\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">gibbous</text><text x=\"315\" y=\"16\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">5</text><circle cx=\"315.0\" cy=\"50.0\" r=\"24\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"315\" y=\"98\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">Full</text><text x=\"315\" y=\"114\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">moon</text><text x=\"385\" y=\"16\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">6</text><circle cx=\"385.0\" cy=\"50.0\" r=\"24\" fill=\"#5b6475\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M385.0,26.0 A24,24 0 0 0 385.0,74.0 A17.0,24 0 0 0 385.0,26.0Z\" fill=\"#fff4d6\" stroke=\"none\"/><circle cx=\"385.0\" cy=\"50.0\" r=\"24\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"385\" y=\"98\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">Waning</text><text x=\"385\" y=\"114\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">gibbous</text><text x=\"455\" y=\"16\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">7</text><circle cx=\"455.0\" cy=\"50.0\" r=\"24\" fill=\"#5b6475\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M455.0,26.0 A24,24 0 0 0 455.0,74.0 A0.0,24 0 0 0 455.0,26.0Z\" fill=\"#fff4d6\" stroke=\"none\"/><circle cx=\"455.0\" cy=\"50.0\" r=\"24\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"455\" y=\"98\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">Third</text><text x=\"455\" y=\"114\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">quarter</text><text x=\"525\" y=\"16\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">8</text><circle cx=\"525.0\" cy=\"50.0\" r=\"24\" fill=\"#5b6475\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M525.0,26.0 A24,24 0 0 0 525.0,74.0 A17.0,24 0 0 1 525.0,26.0Z\" fill=\"#fff4d6\" stroke=\"none\"/><circle cx=\"525.0\" cy=\"50.0\" r=\"24\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"525\" y=\"98\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">Waning</text><text x=\"525\" y=\"114\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">crescent</text><line x1=\"10.0\" y1=\"126.0\" x2=\"550.0\" y2=\"126.0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" marker-end=\"url(#ah)\"/></svg>",
+   "caption": "What the Moon looks like from Egypt (or anywhere in the northern half of the Earth) at each numbered position."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Position",
+    "Phase",
+    "About how many days after new moon",
+    "What we see"
+   ],
+   "rows": [
+    [
+     "1",
+     "New moon",
+     "0",
+     "The lit half faces away from us — we see almost nothing"
+    ],
+    [
+     "2",
+     "Waxing crescent",
+     "about 4",
+     "A thin curve, lit on the right"
+    ],
+    [
+     "3",
+     "First quarter",
+     "about 7",
+     "The right half is lit (a half moon)"
+    ],
+    [
+     "4",
+     "Waxing gibbous",
+     "about 11",
+     "More than half lit, growing"
+    ],
+    [
+     "5",
+     "Full moon",
+     "about 15",
+     "The whole face is lit"
+    ],
+    [
+     "6",
+     "Waning gibbous",
+     "about 18",
+     "More than half lit, shrinking; dark on the right"
+    ],
+    [
+     "7",
+     "Third (last) quarter",
+     "about 22",
+     "The left half is lit"
+    ],
+    [
+     "8",
+     "Waning crescent",
+     "about 26",
+     "A thin curve, lit on the left"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Waxing** = the lit part we see is **growing** (from new moon to full moon).",
+    "**Waning** = the lit part we see is **shrinking** (from full moon back to new moon).",
+    "The Moon spins once on its axis in the same time that it takes to orbit the Earth, so we **always see the same side** of the Moon."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Observing over time",
+   "text": "Draw the Moon at the same time every evening (or whenever you can see it) for a month, and write the date under each drawing. This is an **observing over time** enquiry. Your drawings will show the lit part growing until full moon and then shrinking. In the Islamic (Hijri) calendar each month begins when the first thin **crescent** (هلال) is seen just after new moon — this is how the start of Ramadan is decided."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الفكرة الأساسية بالعربي",
+   "items": [
+    "الشمس نجم في مركز المجموعة الشمسية، وحواليها 8 كواكب بتدور في مدارات، بالترتيب: عطارد، الزهرة، الأرض، المريخ، المشتري، زحل، أورانوس، نبتون.",
+    "كل ما الكوكب يبعد عن الشمس، سنته تطول (ياخد وقت أطول عشان يلف لفة كاملة).",
+    "القمر بيدور حوالين الأرض، ومابيطلّعش نور — هو بيعكس نور الشمس.",
+    "نص القمر دايمًا منوّر بالشمس، وإحنا بنشوف أجزاء مختلفة من النص المنوّر وهو بيلف حوالين الأرض ← أطوار القمر (هلال، تربيع، أحدب، بدر) — الدورة كلها حوالي 29.5 يوم.",
+    "أطوار القمر مش بسبب ظل الأرض!"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — Name the four planets nearest to the Sun, in order. [2 marks]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Mercury, Venus, Earth, Mars** (2 marks for all four in the correct order; 1 mark for the correct four in the wrong order)."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — Use the table of planets. (a) Describe the pattern between a planet's distance from the Sun and the time it takes to orbit the Sun. [1] (b) A dwarf planet orbits the Sun at about 5 900 million km. Predict whether it takes more or less than 165 years to orbit the Sun. Explain. [1]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "(a) The **further** a planet is from the Sun, the **longer** it takes to orbit.",
+    "(b) **More than 165 years**, because it is further from the Sun than Neptune (4 500 million km), and Neptune takes 165 years."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "Common mistake: describing only one planet ('Neptune takes 165 years'). A pattern must link **both** things: further → longer."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — Explain why we can see the Moon at night even though it does not give out light. [2 marks]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Light from the **Sun** hits the Moon (1 mark).",
+    "The Moon **reflects** the light and some of it travels to our eyes on Earth (1 mark)."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — Tonight Nour sees a first quarter Moon (right half lit). (a) What will the Moon look like in about one week? [1] (b) Explain why the Moon seems to change shape. [2]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "(a) A **full moon** (about 7 days after first quarter).",
+    "(b) Half of the Moon is always lit by the Sun (1 mark). As the Moon orbits the Earth, we see different amounts of the lit half (1 mark)."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "Common mistake: saying the Earth's shadow covers part of the Moon. That only happens during a lunar eclipse, not in the monthly phases."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — Describe the movements of the Earth and the Moon. [3 marks]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "The Earth **spins on its axis** once every 24 hours (giving day and night) (1 mark).",
+    "The Earth **orbits the Sun** once every 365¼ days / one year (1 mark).",
+    "The Moon **orbits the Earth** about once a month (about 27 days; the phases repeat every 29½ days) (1 mark)."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Saying the Sun orbits the Earth. The **Earth orbits the Sun**; the **Moon orbits the Earth**.",
+    "Saying the Moon gives out its own light. It **reflects sunlight**.",
+    "Explaining phases with the **Earth's shadow**. Phases happen because we see different amounts of the Moon's sunlit half.",
+    "Mixing up **spin** (on its axis → day and night) and **orbit** (around the Sun → a year).",
+    "Mixing up **waxing** (growing) and **waning** (shrinking). Tip: from Egypt, a waxing Moon is lit on the **right**.",
+    "Thinking the planet nearest the Sun must be the hottest. **Venus** is hotter than Mercury."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "**Order** the planets, or name the planet in a given position.",
+    "**Label a diagram** — Sun, Earth, Moon, orbit; draw an arrow to show the direction of an orbit.",
+    "**Read a data table** of planets and **describe a pattern** (distance → time to orbit) or make a **prediction** for a new object.",
+    "**Moon phases:** draw or recognise the next phase, put phases in order, say about how many days between phases.",
+    "**Explain** why the Moon shines (reflection) and why its shape seems to change (the half lit by the Sun + the Moon's orbit).",
+    "Check the words in the question: 'orbit' and 'spin' have different answers."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "The Solar System and the Moon — Practice",
+   "timed": false,
+   "intro": "Answer every question, then check your answers. Open questions: compare your answer with the mark scheme and give yourself the marks you earned.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 20,
+     "calc": true,
+     "questions": [
+      {
+       "q": "What is at the centre of our Solar System?",
+       "c": [
+        "the Earth",
+        "the Moon",
+        "the Sun",
+        "Jupiter"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Solar System",
+       "e": "The Sun is at the centre; the planets orbit it."
+      },
+      {
+       "t": "text",
+       "q": "Name the planet that is closest to the Sun.",
+       "ans": [
+        "Mercury"
+       ],
+       "m": 1,
+       "s": "Solar System",
+       "e": "Order: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune."
+      },
+      {
+       "t": "num",
+       "q": "How many planets orbit the Sun in our Solar System?",
+       "ans": [
+        8
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Solar System",
+       "e": "There are 8 planets (Pluto is now called a dwarf planet)."
+      },
+      {
+       "q": "Which sentence about the Moon is correct?",
+       "c": [
+        "The Moon orbits the Earth.",
+        "The Moon orbits Mars.",
+        "The Earth orbits the Moon.",
+        "The Sun orbits the Moon."
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Earth and Moon",
+       "e": "The Moon is the Earth's natural satellite: it orbits the Earth about once a month."
+      },
+      {
+       "q": "Why can we see the Moon?",
+       "c": [
+        "It is a star that makes its own light.",
+        "It is very hot and glows.",
+        "It is lit by lights on the Earth.",
+        "It reflects light from the Sun."
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Earth and Moon",
+       "e": "The Moon gives out no light of its own; it reflects sunlight towards us."
+      },
+      {
+       "t": "num",
+       "p": "Question 6\nThe table shows data about four planets.\nMars: 228 million km from the Sun; one orbit takes 1.9 years.\nJupiter: 778 million km; one orbit takes 11.9 years.\nSaturn: 1 430 million km; one orbit takes 29.5 years.\nUranus: 2 870 million km; one orbit takes 84 years.",
+       "q": "(a) How many years does Jupiter take to orbit the Sun once?",
+       "ans": [
+        11.9
+       ],
+       "tol": 0.05,
+       "unit": "years",
+       "m": 1,
+       "s": "Data",
+       "e": "Read from the table: 11.9 years."
+      },
+      {
+       "t": "open",
+       "p": "Question 6\nThe table shows data about four planets.\nMars: 228 million km from the Sun; one orbit takes 1.9 years.\nJupiter: 778 million km; one orbit takes 11.9 years.\nSaturn: 1 430 million km; one orbit takes 29.5 years.\nUranus: 2 870 million km; one orbit takes 84 years.",
+       "q": "(b) Describe the pattern between distance from the Sun and the time for one orbit.",
+       "m": 1,
+       "s": "Data",
+       "ms": "1 mark: the further from the Sun, the longer the time for one orbit (or ora: the closer, the shorter). Do not accept a single planet's data without a comparison.",
+       "e": "As the distance from the Sun increases, the time for one orbit increases."
+      },
+      {
+       "p": "Question 6\nThe table shows data about four planets.\nMars: 228 million km from the Sun; one orbit takes 1.9 years.\nJupiter: 778 million km; one orbit takes 11.9 years.\nSaturn: 1 430 million km; one orbit takes 29.5 years.\nUranus: 2 870 million km; one orbit takes 84 years.",
+       "q": "(c) An object orbits the Sun at about 1 000 million km. Which is the best prediction for the time it takes to orbit the Sun once?",
+       "c": [
+        "5 years",
+        "20 years",
+        "100 years",
+        "200 years"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Data",
+       "e": "1 000 million km is between Jupiter (778, 11.9 years) and Saturn (1 430, 29.5 years), so the time must be between 11.9 and 29.5 years: 20 years."
+      },
+      {
+       "t": "text",
+       "p": "Question 7\nThe diagrams show the Moon on four different nights, seen from Egypt.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 110\" width=\"400\" font-family=\"Arial, sans-serif\" font-size=\"14\"><circle cx=\"50.0\" cy=\"45.0\" r=\"30\" fill=\"#5b6475\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M50.0,15.0 A30,30 0 0 0 50.0,75.0 A21.2,30 0 0 1 50.0,15.0Z\" fill=\"#fff4d6\" stroke=\"none\"/><circle cx=\"50.0\" cy=\"45.0\" r=\"30\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"50\" y=\"100\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">A</text><circle cx=\"150.0\" cy=\"45.0\" r=\"30\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"150\" y=\"100\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">B</text><circle cx=\"250.0\" cy=\"45.0\" r=\"30\" fill=\"#5b6475\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M250.0,15.0 A30,30 0 0 1 250.0,75.0 A0.0,30 0 0 1 250.0,15.0Z\" fill=\"#fff4d6\" stroke=\"none\"/><circle cx=\"250.0\" cy=\"45.0\" r=\"30\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"250\" y=\"100\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">C</text><circle cx=\"350.0\" cy=\"45.0\" r=\"30\" fill=\"#5b6475\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M350.0,15.0 A30,30 0 0 1 350.0,75.0 A21.2,30 0 0 0 350.0,15.0Z\" fill=\"#fff4d6\" stroke=\"none\"/><circle cx=\"350.0\" cy=\"45.0\" r=\"30\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"350\" y=\"100\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">D</text></svg>",
+       "q": "(a) Which letter shows a full moon?",
+       "ans": [
+        "B"
+       ],
+       "m": 1,
+       "s": "Moon phases",
+       "e": "In B the whole face is lit: full moon."
+      },
+      {
+       "t": "text",
+       "p": "Question 7\nThe diagrams show the Moon on four different nights, seen from Egypt.",
+       "q": "(b) Put the four drawings in order, starting with the one seen just after new moon. Write the letters.",
+       "ans": [
+        "DCBA",
+        "D,C,B,A",
+        "D, C, B, A",
+        "D-C-B-A"
+       ],
+       "m": 2,
+       "s": "Moon phases",
+       "e": "Just after new moon: waxing crescent, lit on the right (D) → first quarter, right half lit (C) → full moon (B) → waning crescent, lit on the left (A). Order: D C B A."
+      },
+      {
+       "t": "num",
+       "q": "Hassan sees a full moon tonight. About how many days will it be until the next new moon?",
+       "ans": [
+        15,
+        14
+       ],
+       "tol": 1,
+       "unit": "days",
+       "m": 1,
+       "s": "Moon phases",
+       "e": "A full cycle takes about 29½ days. Full moon is about halfway, so the next new moon is about 29.5 ÷ 2 ≈ 15 days later (14–16 days accepted)."
+      },
+      {
+       "q": "Why does the Moon seem to change shape during a month?",
+       "c": [
+        "The Earth's shadow covers different parts of the Moon.",
+        "Clouds hide part of the Moon.",
+        "As the Moon orbits the Earth, we see different amounts of its sunlit half.",
+        "The Moon gets bigger and smaller."
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Moon phases",
+       "e": "Half the Moon is always lit by the Sun. As it orbits the Earth we see different amounts of that lit half. The Earth's shadow is only involved in an eclipse."
+      },
+      {
+       "t": "open",
+       "q": "A year on Mars is longer than a year on Earth. Explain why.",
+       "m": 2,
+       "s": "Solar System",
+       "ms": "1 mark: a year is the time for a planet to orbit the Sun once. 1 mark: Mars is further from the Sun (than Earth), so its orbit is longer / it takes longer to go round. Accept: Mars travels further / moves more slowly.",
+       "e": "A planet's year is the time it takes to orbit the Sun once. Mars is further from the Sun than Earth, so its orbit is longer and it takes about 1.9 Earth years to go round once."
+      },
+      {
+       "t": "open",
+       "q": "Describe how the Earth moves, and what each movement causes.",
+       "m": 2,
+       "s": "Earth and Moon",
+       "ms": "1 mark: the Earth spins (rotates) on its axis (once every 24 hours / once a day), causing day and night. 1 mark: the Earth orbits the Sun (once every 365¼ days), which takes one year. Both the movement and what it causes are needed for each mark.",
+       "e": "The Earth spins on its axis once every 24 hours, which causes day and night. It also orbits the Sun once every 365¼ days, which is one year."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "The **Sun** (a star) is at the centre. Planets in order: **Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune**.",
+    "All planets orbit the Sun in the same direction; the further from the Sun, the longer the orbit (the longer the year).",
+    "The Earth **spins** once in 24 hours (day and night) and **orbits** the Sun once in 365¼ days (a year). The **Moon orbits the Earth** about once a month.",
+    "The Moon **reflects sunlight**. Half of it is always lit; as it orbits the Earth we see different amounts of the lit half — the **phases**.",
+    "Phases: new → waxing crescent → first quarter → waxing gibbous → full → waning gibbous → third quarter → waning crescent → new (about 29½ days)."
+   ]
+  }
+ ]
+}

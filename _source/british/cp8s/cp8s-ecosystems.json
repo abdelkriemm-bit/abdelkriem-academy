@@ -1,0 +1,678 @@
+{
+ "slug": "cp8s-ecosystems",
+ "title": "Ecosystems, Bioaccumulation and Invasive Species",
+ "kicker": "Cambridge Lower Secondary · Science 0893 · Stage 8 · Biology",
+ "summary": "Ecosystems around the Earth and the habitats inside them, how toxic substances build up along food chains, and how invasive species such as water hyacinth change whole ecosystems — with food-web practice in Checkpoint style.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Identify different ecosystems on the Earth and recognise that one ecosystem contains many different habitats (8Be.01)",
+    "Describe how toxic substances build up in living things (bioaccumulation) and the effect this has on an ecosystem (8Be.02)",
+    "Describe how a new or invasive species can affect other organisms and the whole ecosystem (8Be.03)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "An **ecosystem** is all the living organisms in an area **together with** the non-living (physical) environment they live in, and all the ways they **interact**. The organisms depend on each other (for food, shelter, pollination) and on the non-living parts (water, light, temperature, soil, air). Because everything is linked, a change to one part — a poison in the water, or a new animal arriving — can affect the whole ecosystem."
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "ecosystem",
+     "النظام البيئي — the living organisms + their physical environment, interacting"
+    ],
+    [
+     "habitat",
+     "الموطن — the place where an organism lives"
+    ],
+    [
+     "microhabitat",
+     "موطن صغير — a very small habitat, e.g. under a stone"
+    ],
+    [
+     "population",
+     "جماعة (عشيرة) — all the organisms of one species in an area"
+    ],
+    [
+     "community",
+     "مجتمع حيوي — all the populations of different species in an area"
+    ],
+    [
+     "producer / consumer",
+     "منتج / مستهلك — makes its own food / eats other organisms"
+    ],
+    [
+     "toxic",
+     "سام — poisonous"
+    ],
+    [
+     "bioaccumulation",
+     "التراكم الحيوي — a toxic substance building up in an organism and along a food chain"
+    ],
+    [
+     "pesticide",
+     "مبيد حشري — a chemical used to kill pests"
+    ],
+    [
+     "native species",
+     "نوع محلي (أصلي) — a species that lives naturally in an area"
+    ],
+    [
+     "invasive species",
+     "نوع غازٍ — a species brought to a new area that spreads quickly and causes harm"
+    ],
+    [
+     "biodiversity",
+     "التنوع البيولوجي — the variety of living things in an area"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Ecosystems on the Earth"
+  },
+  {
+   "type": "p",
+   "text": "Ecosystems come in all sizes. The Red Sea coral reef is a huge ecosystem; a pond, a rotting log or even a school garden is a small one. Each ecosystem has its own conditions, and the organisms living there are adapted to them."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Ecosystem",
+    "Example place",
+    "Conditions",
+    "Some organisms",
+    "Habitats within it"
+   ],
+   "rows": [
+    [
+     "**Hot desert**",
+     "Egypt's Western Desert (Sahara)",
+     "Very dry; very hot days and cold nights",
+     "camel, fennec fox, scorpion, desert lizard, acacia tree",
+     "sand dunes, under rocks, burrows, oases, rocky hills"
+    ],
+    [
+     "**Coral reef**",
+     "Red Sea (e.g. Ras Mohammed)",
+     "Warm, clear, shallow, salty water; lots of light",
+     "corals, parrotfish, clownfish, sea turtles, sharks",
+     "reef crest, caves and cracks, seagrass beds, sandy sea floor, open water"
+    ],
+    [
+     "**Fresh water (river and lake)**",
+     "The Nile; Lake Nasser",
+     "Fresh water; muddy bottom; reeds at the edges",
+     "tilapia, Nile perch, crocodile, heron, reeds",
+     "river bank, reed beds, open water, muddy bottom"
+    ],
+    [
+     "**Tropical rainforest**",
+     "Amazon (South America), Congo (Africa)",
+     "Hot and wet all year",
+     "monkeys, parrots, frogs, insects, tall trees",
+     "canopy (tree tops), forest floor, rivers, under bark"
+    ],
+    [
+     "**Grassland (savannah)**",
+     "East Africa",
+     "Grasses, few trees; a wet season and a dry season",
+     "zebra, lion, termites, acacia",
+     "open grass, termite mounds, waterholes"
+    ],
+    [
+     "**Polar**",
+     "Arctic, Antarctica",
+     "Very cold; ice and snow; long dark winters",
+     "polar bear (Arctic), penguin (Antarctica), seals",
+     "sea ice, open sea, under the ice"
+    ],
+    [
+     "**Deep ocean**",
+     "Ocean floor far below the surface",
+     "Dark, cold, very high pressure",
+     "deep-sea fish, squid, worms",
+     "ocean floor, hot-water vents"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**One ecosystem, many habitats.** Inside a single ecosystem there are many different places to live, each with slightly different conditions. Different organisms live in each one."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 300\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#0f1b33\"><path d=\"M0 70 L540 70 L540 300 L0 300 Z\" fill=\"#dcecf8\" stroke=\"#0f1b33\" stroke-width=\"0\"/><path d=\"M0 62 L95 120 L200 126 Q228 100 250 78 Q262 70 276 80 Q300 120 330 180 L380 238 L540 246 L540 300 L0 300 Z\" fill=\"#f3e3b5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M0 70 q5 -5 10 0 t10 0 q5 -5 10 0 t10 0 q5 -5 10 0 t10 0 q5 -5 10 0 t10 0 q5 -5 10 0 t10 0 q5 -5 10 0 t10 0 q5 -5 10 0 t10 0 q5 -5 10 0 t10 0 q5 -5 10 0 t10 0 q5 -5 10 0 t10 0 q5 -5 10 0 t10 0 q5 -5 10 0 t10 0 q5 -5 10 0 t10 0 q5 -5 10 0 t10 0 q5 -5 10 0 t10 0 q5 -5 10 0 t10 0 q5 -5 10 0 t10 0 q5 -5 10 0 t10 0 q5 -5 10 0 t10 0 q5 -5 10 0 t10 0 q5 -5 10 0 t10 0 q5 -5 10 0 t10 0 q5 -5 10 0 t10 0 q5 -5 10 0 t10 0 q5 -5 10 0 t10 0 q5 -5 10 0 t10 0 q5 -5 10 0 t10 0\" fill=\"none\" stroke=\"#2e5c9a\" stroke-width=\"2\"/><path d=\"M110 120.9 q-4 -14 -2 -24 M114 120.9 q4 -14 2 -24\" fill=\"none\" stroke=\"#3d8b3d\" stroke-width=\"2\"/><path d=\"M124 121.7 q-4 -14 -2 -24 M128 121.7 q4 -14 2 -24\" fill=\"none\" stroke=\"#3d8b3d\" stroke-width=\"2\"/><path d=\"M138 122.5 q-4 -14 -2 -24 M142 122.5 q4 -14 2 -24\" fill=\"none\" stroke=\"#3d8b3d\" stroke-width=\"2\"/><path d=\"M152 123.3 q-4 -14 -2 -24 M156 123.3 q4 -14 2 -24\" fill=\"none\" stroke=\"#3d8b3d\" stroke-width=\"2\"/><path d=\"M166 124.1 q-4 -14 -2 -24 M170 124.1 q4 -14 2 -24\" fill=\"none\" stroke=\"#3d8b3d\" stroke-width=\"2\"/><path d=\"M180 124.9 q-4 -14 -2 -24 M184 124.9 q4 -14 2 -24\" fill=\"none\" stroke=\"#3d8b3d\" stroke-width=\"2\"/><path d=\"M194 125.7 q-4 -14 -2 -24 M198 125.7 q4 -14 2 -24\" fill=\"none\" stroke=\"#3d8b3d\" stroke-width=\"2\"/><circle cx=\"236\" cy=\"92\" r=\"9\" fill=\"#f2a7a0\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"256\" cy=\"76\" r=\"9\" fill=\"#f2a7a0\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"279\" cy=\"86\" r=\"9\" fill=\"#f2a7a0\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"296\" cy=\"112\" r=\"9\" fill=\"#f2a7a0\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"312\" cy=\"145\" r=\"9\" fill=\"#f2a7a0\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"326\" cy=\"172\" r=\"9\" fill=\"#f2a7a0\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><ellipse cx=\"345\" cy=\"205\" rx=\"10\" ry=\"6\" fill=\"#203050\"/><text x=\"45\" y=\"44\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">beach</text><line x1=\"45\" y1=\"48\" x2=\"45\" y2=\"84\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"150\" y=\"175\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">seagrass bed</text><line x1=\"150\" y1=\"161\" x2=\"150\" y2=\"128\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"262\" y=\"44\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">reef crest</text><line x1=\"262\" y1=\"48\" x2=\"262\" y2=\"66\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"440\" y=\"120\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">open water</text><text x=\"200\" y=\"230\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">cave / crack</text><line x1=\"250\" y1=\"226\" x2=\"334\" y2=\"206\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"200\" y=\"248\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">in the reef</text><text x=\"465\" y=\"280\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">sandy sea floor</text><line x1=\"465\" y1=\"266\" x2=\"465\" y2=\"248\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"400\" y=\"165\" text-anchor=\"start\" font-size=\"14\" fill=\"#0f1b33\">reef slope</text><line x1=\"396\" y1=\"160\" x2=\"330\" y2=\"160\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"270\" y=\"20\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">Habitats within one coral reef ecosystem (simplified)</text></svg>",
+   "caption": "A Red Sea coral reef is one ecosystem with many habitats: the beach, the seagrass bed, the reef crest, caves and cracks in the reef, the reef slope, open water and the sandy sea floor."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Habitat in the reef",
+    "Conditions",
+    "Organisms that live there (examples)"
+   ],
+   "rows": [
+    [
+     "Seagrass bed",
+     "Shallow, calm, sandy",
+     "sea turtles and dugongs (graze on seagrass), young fish hiding"
+    ],
+    [
+     "Reef crest",
+     "Very shallow, bright, strong waves",
+     "hard corals, sea urchins"
+    ],
+    [
+     "Caves and cracks in the reef",
+     "Dark, sheltered",
+     "moray eels, octopus, fish resting by day"
+    ],
+    [
+     "Open water above the reef",
+     "Bright, no shelter",
+     "shoals of fish, sharks, dolphins"
+    ],
+    [
+     "Sandy sea floor",
+     "Soft sand, deeper",
+     "rays, crabs, worms that burrow"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Microhabitats** are tiny habitats: under a stone in the desert (cool and damp for a scorpion), inside a crack in a coral, under the bark of a tree. **Exam tip:** an ecosystem includes the non-living environment; a habitat is just the place where an organism lives."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "النظام البيئي والموطن",
+   "text": "النظام البيئي (ecosystem) = كل الكائنات الحية في منطقة + البيئة غير الحية (مياه، ضوء، حرارة، تربة) والعلاقة بينهم. الموطن (habitat) = المكان اللي الكائن عايش فيه. النظام البيئي الواحد فيه مواطن كتير: الشعاب المرجانية في البحر الأحمر فيها حشائش البحر، والكهوف والشقوق، والمية المفتوحة، والقاع الرملي."
+  },
+  {
+   "type": "h2",
+   "text": "Food chains and food webs: a quick reminder"
+  },
+  {
+   "type": "p",
+   "text": "Feeding links join the organisms of an ecosystem. In a **food chain**, the arrow means **\"is eaten by\"** and shows the direction energy (and anything in the food) moves. A **producer** (a plant or alga) makes its own food; **consumers** eat other organisms. The animal at the end of the chain is the **top predator**. A **food web** shows many food chains linked together. Because of these links, anything that changes one population affects others — and anything that is in the food (including poisons) is passed along the chain."
+  },
+  {
+   "type": "h2",
+   "text": "Bioaccumulation of toxic substances"
+  },
+  {
+   "type": "p",
+   "text": "Some toxic substances get into ecosystems from human activities: **pesticides** (such as DDT, used in the past to kill insects), **heavy metals** such as **mercury** and **lead** from factories and mining, and some industrial chemicals. The dangerous ones share two properties:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "They are **not broken down** easily in the environment — they last for many years.",
+    "When an organism takes them in, its body **cannot break them down or get rid of them**, so they are **stored** (often in fat) and **build up** over its life. This is **bioaccumulation**."
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 270\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#0f1b33\"><rect x=\"11\" y=\"72\" width=\"84\" height=\"120\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"53\" y=\"60\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#0f1b33\">water</text><text x=\"53\" y=\"212\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">0.000 05</text><line x1=\"97\" y1=\"132\" x2=\"107\" y2=\"132\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"115,132 107,136 107,128\" fill=\"#0f1b33\"/><rect x=\"117\" y=\"72\" width=\"84\" height=\"120\" rx=\"8\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"159\" y=\"60\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#0f1b33\">plankton</text><circle cx=\"131\" cy=\"87\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"146\" cy=\"87\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"161\" cy=\"87\" r=\"5\" fill=\"#c0392b\"/><text x=\"159\" y=\"212\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">0.04</text><line x1=\"203\" y1=\"132\" x2=\"213\" y2=\"132\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"221,132 213,136 213,128\" fill=\"#0f1b33\"/><rect x=\"223\" y=\"72\" width=\"84\" height=\"120\" rx=\"8\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"265\" y=\"60\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#0f1b33\">small fish</text><circle cx=\"237\" cy=\"87\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"252\" cy=\"87\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"267\" cy=\"87\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"282\" cy=\"87\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"297\" cy=\"87\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"237\" cy=\"104\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"252\" cy=\"104\" r=\"5\" fill=\"#c0392b\"/><text x=\"265\" y=\"212\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">0.5</text><line x1=\"309\" y1=\"132\" x2=\"319\" y2=\"132\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"327,132 319,136 319,128\" fill=\"#0f1b33\"/><rect x=\"329\" y=\"72\" width=\"84\" height=\"120\" rx=\"8\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"371\" y=\"60\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#0f1b33\">large fish</text><circle cx=\"343\" cy=\"87\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"358\" cy=\"87\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"373\" cy=\"87\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"388\" cy=\"87\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"403\" cy=\"87\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"343\" cy=\"104\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"358\" cy=\"104\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"373\" cy=\"104\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"388\" cy=\"104\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"403\" cy=\"104\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"343\" cy=\"121\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"358\" cy=\"121\" r=\"5\" fill=\"#c0392b\"/><text x=\"371\" y=\"212\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">2</text><line x1=\"415\" y1=\"132\" x2=\"425\" y2=\"132\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"433,132 425,136 425,128\" fill=\"#0f1b33\"/><rect x=\"435\" y=\"72\" width=\"84\" height=\"120\" rx=\"8\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"477\" y=\"44\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#0f1b33\">fish-eating</text><text x=\"477\" y=\"60\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#0f1b33\">bird</text><circle cx=\"449\" cy=\"87\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"464\" cy=\"87\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"479\" cy=\"87\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"494\" cy=\"87\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"509\" cy=\"87\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"449\" cy=\"104\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"464\" cy=\"104\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"479\" cy=\"104\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"494\" cy=\"104\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"509\" cy=\"104\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"449\" cy=\"121\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"464\" cy=\"121\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"479\" cy=\"121\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"494\" cy=\"121\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"509\" cy=\"121\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"449\" cy=\"138\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"464\" cy=\"138\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"479\" cy=\"138\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"494\" cy=\"138\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"509\" cy=\"138\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"449\" cy=\"155\" r=\"5\" fill=\"#c0392b\"/><circle cx=\"464\" cy=\"155\" r=\"5\" fill=\"#c0392b\"/><text x=\"477\" y=\"212\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">25</text><text x=\"270\" y=\"237\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">concentration of pesticide in ppm (parts per million)</text><text x=\"270\" y=\"258\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">Red dots show the pesticide stored in the body tissues.</text><text x=\"270\" y=\"18\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">The pesticide becomes more concentrated at each step of the food chain</text></svg>",
+   "caption": "A pesticide in a lake. The concentration in the water is tiny, but it increases at every step of the food chain. The fish-eating bird (top predator) has the highest concentration."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Tiny amounts of the pesticide wash into the water, and **plankton** (tiny organisms) take it in. It stays in their bodies.",
+    "Each **small fish** eats **many** plankton over its life. It keeps all the pesticide from all of them, so its concentration is higher.",
+    "Each **large fish** eats many small fish, and each **fish-eating bird** eats many large fish. At every step the pesticide becomes **more concentrated**.",
+    "So **top predators** have the **highest** concentration — high enough to harm or kill them, even though the water seemed only slightly polluted."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "The impact on an ecosystem"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Effect",
+    "Example"
+   ],
+   "rows": [
+    [
+     "Top predators are **poisoned** — they become ill, die, or cannot **reproduce**",
+     "In the 1950s–60s, DDT built up in birds of prey such as peregrine falcons and eagles. It made them lay eggs with **thin shells** that broke when the parents sat on them, so few chicks hatched and their populations fell sharply. Many countries then banned DDT, and the birds slowly recovered."
+    ],
+    [
+     "**Humans** can be harmed — we are often top consumers",
+     "In Minamata, Japan (1950s), a factory released mercury compounds into the bay. Mercury built up in fish and shellfish, and people and cats that ate them were badly poisoned. Today pregnant women are often advised to limit large predatory fish such as swordfish, which can contain more mercury."
+    ],
+    [
+     "**Knock-on effects** through the food web",
+     "If the top predator population falls, the animals it ate may increase in number; they then eat more of their own food, so that population may fall. The balance of the whole ecosystem changes and **biodiversity** can fall."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**How to reduce bioaccumulation:** ban or limit long-lasting pesticides; use pesticides that break down quickly or biological pest control; treat factory waste before it reaches rivers and seas; test fish for mercury."
+  },
+  {
+   "type": "p",
+   "text": "**Exam technique — calculations:** \"How many times greater?\" means **divide** the bigger concentration by the smaller one. For example, bird ÷ small fish = 25 ÷ 0.5 = **50 times**."
+  },
+  {
+   "type": "h2",
+   "text": "New and invasive species"
+  },
+  {
+   "type": "p",
+   "text": "A **native species** lives naturally in an area. Sometimes a **new species** arrives that has never lived there. Humans often bring them — on purpose (as pets, farm animals, garden plants, fish for fishing, or to control pests) or by accident (in ships' ballast water, on cargo, through canals). Many new species die out or fit in without harm. But some become **invasive**: they **spread quickly** and **harm** native species and the ecosystem."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Why invasive species spread so quickly",
+    "How they affect other organisms and the ecosystem"
+   ],
+   "rows": [
+    [
+     "**No natural predators** or diseases in the new area (these were left behind in their home area)",
+     "**Competition**: they compete with native species for food, space, light or nesting sites, and often win, so native populations fall"
+    ],
+    [
+     "They **reproduce quickly** and in large numbers",
+     "**Predation**: they eat native species that have no defences against them"
+    ],
+    [
+     "They are good **competitors** and can live in many conditions",
+     "**Disease**: they can bring diseases that kill native species"
+    ],
+    [
+     "Native animals may not eat them (they may be poisonous or unfamiliar)",
+     "**Habitat change**: they can change the habitat itself (e.g. covering water, blocking light)"
+    ],
+    [
+     "",
+     "**Food web effects**: changes in one population pass along the web; **biodiversity** falls; some native species may become **extinct**"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Case studies"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Invasive species",
+    "How it arrived",
+    "Effects"
+   ],
+   "rows": [
+    [
+     "**Water hyacinth** in the Nile and Egyptian canals",
+     "A floating plant from South America, spread as a garden pond plant",
+     "Grows extremely fast and covers the water surface → **blocks light**, so water plants and algae below die → when they rot, microorganisms use up the **oxygen**, so **fish die**. It also blocks irrigation canals and boats, and loses a lot of water from its leaves."
+    ],
+    [
+     "**Nile perch** in Lake Victoria (East Africa)",
+     "Put into the lake in the 1950s to give fishermen a large fish to catch",
+     "A large predator with no predators of its own in the lake; it ate huge numbers of small native **cichlid** fish, and many of the hundreds of cichlid species disappeared."
+    ],
+    [
+     "**Cane toad** in Australia",
+     "Brought in 1935 to eat beetles that damaged sugar cane",
+     "It did not control the beetles, but bred quickly and spread over a huge area. Its skin is **poisonous**, so native predators (snakes, lizards, quolls) that eat it **die**."
+    ],
+    [
+     "**Lionfish** in the Caribbean and western Atlantic",
+     "Native to the Red Sea and Indian Ocean; released from home aquariums",
+     "No predators there; it eats huge numbers of small reef fish, so reef fish populations fall."
+    ],
+    [
+     "**Grey squirrel** in Britain",
+     "Brought from North America",
+     "**Out-competes** the native red squirrel for food and carries a disease that kills red squirrels; red squirrels have disappeared from most of England."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Controlling invasive species:** prevention is best (checking ships and cargo, never releasing pets or aquarium fish into the wild). Others are removed by hand or machine (water hyacinth is cut and lifted out of canals), or controlled by a carefully tested natural enemy — for example, small weevils that eat only water hyacinth have been used in some lakes."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 312\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#0f1b33\"><line x1=\"213.1\" y1=\"274\" x2=\"164.5\" y2=\"228.2\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"158,222 167.6,224.9 161.5,231.5\" fill=\"#0f1b33\"/><line x1=\"236.6\" y1=\"274\" x2=\"289.6\" y2=\"145.3\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"293,137 293.7,147 285.4,143.6\" fill=\"#0f1b33\"/><line x1=\"260.1\" y1=\"274\" x2=\"350.1\" y2=\"226.2\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"358,222 352.2,230.2 347.9,222.2\" fill=\"#0f1b33\"/><line x1=\"438.7\" y1=\"274\" x2=\"407.2\" y2=\"229.4\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"402,222 410.9,226.8 403.5,231.9\" fill=\"#0f1b33\"/><line x1=\"451.2\" y1=\"274\" x2=\"468\" y2=\"60\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"468.7,51 472.5,60.3 463.5,59.6\" fill=\"#0f1b33\"/><line x1=\"126.8\" y1=\"189\" x2=\"89.7\" y2=\"143.9\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"84,137 93.2,141.1 86.2,146.8\" fill=\"#0f1b33\"/><line x1=\"170.1\" y1=\"189\" x2=\"260.1\" y2=\"141.2\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"268,137 262.2,145.2 257.9,137.2\" fill=\"#0f1b33\"/><line x1=\"153.6\" y1=\"189\" x2=\"264.8\" y2=\"57.9\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"270.6,51 268.2,60.8 261.3,55\" fill=\"#0f1b33\"/><line x1=\"260.9\" y1=\"104\" x2=\"136.3\" y2=\"53\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"128,49.6 138,48.8 134.6,57.1\" fill=\"#0f1b33\"/><line x1=\"297.2\" y1=\"104\" x2=\"289.5\" y2=\"59.9\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"288,51 293.9,59.1 285.1,60.6\" fill=\"#0f1b33\"/><line x1=\"73.7\" y1=\"104\" x2=\"84\" y2=\"59.8\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"86,51 88.4,60.8 79.6,58.7\" fill=\"#0f1b33\"/><line x1=\"397.5\" y1=\"189\" x2=\"458.2\" y2=\"59.2\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"462,51 462.3,61.1 454.2,57.2\" fill=\"#0f1b33\"/><rect x=\"55\" y=\"20\" width=\"70\" height=\"28\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"90\" y=\"39\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">heron</text><rect x=\"208\" y=\"20\" width=\"154\" height=\"28\" rx=\"8\" fill=\"#f7d9d6\" stroke=\"#0f1b33\" stroke-width=\"3\"/><text x=\"285\" y=\"39\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">introduced fish</text><rect x=\"439.2\" y=\"20\" width=\"61.6\" height=\"28\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"470\" y=\"39\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">duck</text><rect x=\"39.2\" y=\"106\" width=\"61.6\" height=\"28\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"70\" y=\"125\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">frog</text><rect x=\"244\" y=\"106\" width=\"112\" height=\"28\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"300\" y=\"125\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">small fish</text><rect x=\"71.4\" y=\"191\" width=\"137.2\" height=\"28\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"140\" y=\"210\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">insect larvae</text><rect x=\"350.8\" y=\"191\" width=\"78.4\" height=\"28\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"390\" y=\"210\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">snails</text><rect x=\"195\" y=\"276\" width=\"70\" height=\"28\" rx=\"8\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"230\" y=\"295\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">algae</text><rect x=\"385.6\" y=\"276\" width=\"128.8\" height=\"28\" rx=\"8\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"450\" y=\"295\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">water plants</text></svg>",
+   "caption": "A lake food web after a large predatory fish was introduced. Arrows mean \"is eaten by\"."
+  },
+  {
+   "type": "p",
+   "text": "**How to answer food web questions about a new species:** (1) find what the new species **eats** — those populations will **decrease**; (2) find which animals **ate the same food** — they now face **competition** and may decrease; (3) follow the arrows **one more step** — the food of the animals that decreased may now **increase**. Always give the **reason** for each change."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "التراكم الحيوي والأنواع الغازية",
+   "text": "التراكم الحيوي: مادة سامة (زي مبيد DDT أو الزئبق) ما بتتكسرش وما بتخرجش من الجسم، فبتتخزن. وكل حيوان بياكل كتير من اللي قبله في السلسلة الغذائية، فالتركيز بيزيد في كل خطوة، وأعلى تركيز بيكون في المفترس الأخير (زي الطيور اللي بتاكل سمك). النوع الغازي: كائن جديد اتنقل لمكان مش مكانه، ومالوش أعداء طبيعيين هناك، فبيتكاثر بسرعة وينافس أو ياكل الأنواع المحلية — زي ورد النيل اللي بيغطي المية ويمنع الضوء فالسمك يموت."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** (ecosystem or habitat?)\n(a) Explain the difference between an ecosystem and a habitat. [2]\n(b) Name two different habitats within a coral reef ecosystem. [1]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "(a) An ecosystem is **all the organisms** in an area **and their physical (non-living) environment**, interacting [1]; a habitat is **the place where an organism lives** [1].",
+    "(b) Any two: seagrass bed, reef crest, caves / cracks in the coral, open water, sandy sea floor, reef slope.",
+    "**Common mistake:** naming another ecosystem (\"desert\") when the question asks for a habitat **within** the reef."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** (bioaccumulation calculation)\nUse the pesticide diagram above.\n(a) How many times greater is the concentration in the large fish than in the plankton? [1]\n(b) Explain why the fish-eating bird has the highest concentration. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "(a) 2 ÷ 0.04 = **50 times**",
+    "(b) The pesticide is **not broken down / not excreted**, so it stays in the body [1]; each bird **eats many fish** over its life, so it takes in the pesticide from all of them and it **builds up** to a high concentration [1].",
+    "**Common mistake:** \"The bird drinks the polluted water.\" The water concentration is tiny; nearly all the pesticide comes from **food**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** (impact on an ecosystem)\nA farmer sprays a long-lasting pesticide near a river. Twenty years later there are far fewer kingfishers (fish-eating birds) along the river. Suggest how the pesticide caused this and one other effect on the river ecosystem. [3]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "The pesticide washed into the river and **built up along the food chain** (bioaccumulation) [1].",
+    "Kingfishers, as **top predators**, got the highest concentration, so many **died or could not breed** (e.g. thin eggshells) [1].",
+    "Other effect: with fewer kingfishers, the **number of small fish may increase**, so the animals they eat (e.g. insect larvae) may decrease / the balance of the food web changes [1]."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** (invasive species in a food web)\nUse the lake food web above. The introduced fish spreads quickly.\n(a) Suggest what happens to the number of small fish. Explain your answer. [2]\n(b) Explain why the number of herons may fall. [2]\n(c) Suggest what may happen to the algae. Explain your answer. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "(a) Small fish **decrease** [1], because the introduced fish **eats** them (and it has no predators in the lake) [1].",
+    "(b) The heron also eats small fish, so there is **less food** for it / it **competes** with the introduced fish [1]; herons may eat more frogs, so frogs decrease too, and some herons starve or move away [1].",
+    "(c) Algae may **increase** [1], because fewer small fish and insect larvae are left to **eat** the algae [1].",
+    "**Exam technique:** use the word **because**, and name the organisms from the web."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** (water hyacinth)\nWater hyacinth covers the surface of a canal. Explain why fish in the canal die. [3]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "The plant **blocks light** from reaching water plants and algae below. [1]",
+    "They cannot photosynthesise, so they die and **rot**; the microorganisms that decompose them **use up oxygen** (and less oxygen is made by photosynthesis). [1]",
+    "The fish do not get enough **oxygen** for respiration, so they die. [1]"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** (why invasive species spread)\nSuggest two reasons why cane toads spread so quickly across Australia. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Any two: **no natural predators** in Australia (predators that eat them die because the toads are poisonous); **no diseases** to control them; they **reproduce quickly** / lay many eggs; plenty of food; they can live in many habitats.",
+    "**Common mistake:** \"because they are invasive\" — that just repeats the question."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Mixing up **ecosystem** (living + non-living, interacting) and **habitat** (the place an organism lives).",
+    "Saying the top predator gets poisoned because it \"drinks the water\". It gets the poison from the **many organisms it eats**.",
+    "Forgetting to say the substance is **not broken down or excreted** — that is why it builds up.",
+    "Writing \"the population will change\" without saying **increase or decrease** and **why**.",
+    "Thinking every new species is invasive. A species is invasive only if it **spreads and causes harm**.",
+    "Reading food web arrows backwards. The arrow points **to the eater**.",
+    "In \"how many times\" questions, subtracting instead of **dividing**."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "**Food web questions**: \"An invasive species is added. Describe and explain what happens to population X.\" Give the change (increase/decrease) **and** the reason from the web.",
+    "**Bioaccumulation data**: a diagram or table of concentrations along a food chain. Calculate \"how many times greater\" and explain why the top predator has the most.",
+    "**Match** ecosystems to their conditions, or **identify habitats** within one ecosystem from a picture.",
+    "**Suggest** reasons: why an invasive species spreads (no predators, fast reproduction) or why a toxic substance is dangerous (not broken down).",
+    "**Evaluate**: \"Was introducing species X a good idea?\" Give an advantage and a disadvantage and reach a conclusion."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Ecosystems, bioaccumulation and invasive species: practice",
+   "timed": false,
+   "intro": "14 Checkpoint-style questions, from easy to hard. Use the food web and the data. Full solutions are given after you check your answers.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 20,
+     "calc": true,
+     "questions": [
+      {
+       "q": "Which of these is the best description of an ecosystem?",
+       "c": [
+        "the place where one organism lives",
+        "all the animals of one species in an area",
+        "all the living organisms in an area together with their non-living environment, interacting",
+        "a list of the producers in an area"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Ecosystems",
+       "e": "An ecosystem includes the living organisms AND the non-living (physical) environment and how they interact. The place where an organism lives is a habitat; all of one species is a population."
+      },
+      {
+       "t": "text",
+       "q": "What is the name for the place where an organism lives?",
+       "ans": [
+        "habitat",
+        "a habitat",
+        "its habitat",
+        "the habitat"
+       ],
+       "m": 1,
+       "s": "Ecosystems",
+       "e": "A habitat is the place where an organism lives. One ecosystem contains many habitats."
+      },
+      {
+       "q": "Which of these is a habitat WITHIN a coral reef ecosystem?",
+       "c": [
+        "a crack in the coral",
+        "a sand dune",
+        "a tropical rainforest",
+        "the Arctic sea ice"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Habitats",
+       "e": "Cracks and caves in the coral are habitats within the reef (for eels, octopus). A sand dune is a desert habitat; a rainforest is a different ecosystem; sea ice is in polar ecosystems."
+      },
+      {
+       "q": "A pesticide that is not broken down gets into a food chain. Which organism will have the highest concentration of pesticide in its body?",
+       "c": [
+        "the producer",
+        "the primary consumer",
+        "the secondary consumer",
+        "the top predator"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Bioaccumulation",
+       "e": "The pesticide builds up at each step because each animal eats many organisms from the level below. The top predator, at the end of the chain, has the highest concentration."
+      },
+      {
+       "t": "num",
+       "p": "Question 5\nScientists measured the concentration of mercury in organisms in a sea food chain:\nalgae → shrimp → small fish → tuna\nOrganism | Mercury concentration in μg per g\nalgae | 0.02\nshrimp | 0.1\nsmall fish | 0.6\ntuna | 3.0",
+       "q": "(a) How many times greater is the mercury concentration in the tuna than in the shrimp?",
+       "ans": [
+        30
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Bioaccumulation",
+       "e": "3.0 ÷ 0.1 = 30 times greater."
+      },
+      {
+       "t": "open",
+       "p": "Question 5\nScientists measured the concentration of mercury in organisms in a sea food chain:\nalgae → shrimp → small fish → tuna\nOrganism | Mercury concentration in μg per g\nalgae | 0.02\nshrimp | 0.1\nsmall fish | 0.6\ntuna | 3.0",
+       "q": "(b) Explain why the concentration of mercury is highest in the tuna. [2]",
+       "m": 2,
+       "s": "Bioaccumulation",
+       "ms": "1 mark: mercury is not broken down / not excreted, so it stays (is stored) in the body. 1 mark: the tuna eats many small fish (each containing mercury), so the mercury builds up / accumulates. Accept: tuna is the top predator, at the end of the food chain, with mercury passed along the chain (max 1 without the 'many' idea).",
+       "e": "Mercury is not broken down or removed by the body, so it stays in each organism's tissues. A tuna eats a very large number of small fish over its life and keeps the mercury from all of them, so mercury builds up to the highest concentration in the tuna, the top predator."
+      },
+      {
+       "t": "text",
+       "q": "What is the scientific name for the build-up of a toxic substance in an organism and along a food chain?",
+       "ans": [
+        "bioaccumulation",
+        "bio-accumulation",
+        "bioaccumilation",
+        "biomagnification",
+        "bio magnification"
+       ],
+       "m": 1,
+       "s": "Bioaccumulation",
+       "e": "Bioaccumulation: the toxic substance builds up in the organism because it is not broken down or excreted, and its concentration increases along the food chain (this increase is also called biomagnification)."
+      },
+      {
+       "q": "Why do many invasive species spread very quickly in a new area?",
+       "c": [
+        "They are always larger than native species",
+        "They have no natural predators or diseases there",
+        "They cannot reproduce in the new area",
+        "Native species help them to find food"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Invasive species",
+       "e": "Their natural predators and diseases were left behind in their home area, so nothing controls their numbers and they reproduce and spread fast."
+      },
+      {
+       "t": "text",
+       "p": "Question 9\nThe food web shows feeding relationships in a lake after a large predatory fish was introduced.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 312\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#0f1b33\"><line x1=\"213.1\" y1=\"274\" x2=\"164.5\" y2=\"228.2\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"158,222 167.6,224.9 161.5,231.5\" fill=\"#0f1b33\"/><line x1=\"236.6\" y1=\"274\" x2=\"289.6\" y2=\"145.3\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"293,137 293.7,147 285.4,143.6\" fill=\"#0f1b33\"/><line x1=\"260.1\" y1=\"274\" x2=\"350.1\" y2=\"226.2\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"358,222 352.2,230.2 347.9,222.2\" fill=\"#0f1b33\"/><line x1=\"438.7\" y1=\"274\" x2=\"407.2\" y2=\"229.4\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"402,222 410.9,226.8 403.5,231.9\" fill=\"#0f1b33\"/><line x1=\"451.2\" y1=\"274\" x2=\"468\" y2=\"60\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"468.7,51 472.5,60.3 463.5,59.6\" fill=\"#0f1b33\"/><line x1=\"126.8\" y1=\"189\" x2=\"89.7\" y2=\"143.9\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"84,137 93.2,141.1 86.2,146.8\" fill=\"#0f1b33\"/><line x1=\"170.1\" y1=\"189\" x2=\"260.1\" y2=\"141.2\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"268,137 262.2,145.2 257.9,137.2\" fill=\"#0f1b33\"/><line x1=\"153.6\" y1=\"189\" x2=\"264.8\" y2=\"57.9\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"270.6,51 268.2,60.8 261.3,55\" fill=\"#0f1b33\"/><line x1=\"260.9\" y1=\"104\" x2=\"136.3\" y2=\"53\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"128,49.6 138,48.8 134.6,57.1\" fill=\"#0f1b33\"/><line x1=\"297.2\" y1=\"104\" x2=\"289.5\" y2=\"59.9\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"288,51 293.9,59.1 285.1,60.6\" fill=\"#0f1b33\"/><line x1=\"73.7\" y1=\"104\" x2=\"84\" y2=\"59.8\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"86,51 88.4,60.8 79.6,58.7\" fill=\"#0f1b33\"/><line x1=\"397.5\" y1=\"189\" x2=\"458.2\" y2=\"59.2\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"462,51 462.3,61.1 454.2,57.2\" fill=\"#0f1b33\"/><rect x=\"55\" y=\"20\" width=\"70\" height=\"28\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"90\" y=\"39\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">heron</text><rect x=\"208\" y=\"20\" width=\"154\" height=\"28\" rx=\"8\" fill=\"#f7d9d6\" stroke=\"#0f1b33\" stroke-width=\"3\"/><text x=\"285\" y=\"39\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">introduced fish</text><rect x=\"439.2\" y=\"20\" width=\"61.6\" height=\"28\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"470\" y=\"39\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">duck</text><rect x=\"39.2\" y=\"106\" width=\"61.6\" height=\"28\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"70\" y=\"125\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">frog</text><rect x=\"244\" y=\"106\" width=\"112\" height=\"28\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"300\" y=\"125\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">small fish</text><rect x=\"71.4\" y=\"191\" width=\"137.2\" height=\"28\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"140\" y=\"210\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">insect larvae</text><rect x=\"350.8\" y=\"191\" width=\"78.4\" height=\"28\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"390\" y=\"210\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">snails</text><rect x=\"195\" y=\"276\" width=\"70\" height=\"28\" rx=\"8\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"230\" y=\"295\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">algae</text><rect x=\"385.6\" y=\"276\" width=\"128.8\" height=\"28\" rx=\"8\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"450\" y=\"295\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">water plants</text></svg>",
+       "q": "(a) Name one producer in this food web.",
+       "ans": [
+        "algae",
+        "water plants",
+        "water plant",
+        "alga",
+        "plants"
+       ],
+       "m": 1,
+       "s": "Food webs",
+       "e": "Producers make their own food by photosynthesis: the algae and the water plants are at the start of the food chains."
+      },
+      {
+       "q": "(b) Which animal in the food web competes with the introduced fish for small fish?",
+       "p": "Question 9\nThe food web shows feeding relationships in a lake after a large predatory fish was introduced.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 312\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#0f1b33\"><line x1=\"213.1\" y1=\"274\" x2=\"164.5\" y2=\"228.2\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"158,222 167.6,224.9 161.5,231.5\" fill=\"#0f1b33\"/><line x1=\"236.6\" y1=\"274\" x2=\"289.6\" y2=\"145.3\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"293,137 293.7,147 285.4,143.6\" fill=\"#0f1b33\"/><line x1=\"260.1\" y1=\"274\" x2=\"350.1\" y2=\"226.2\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"358,222 352.2,230.2 347.9,222.2\" fill=\"#0f1b33\"/><line x1=\"438.7\" y1=\"274\" x2=\"407.2\" y2=\"229.4\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"402,222 410.9,226.8 403.5,231.9\" fill=\"#0f1b33\"/><line x1=\"451.2\" y1=\"274\" x2=\"468\" y2=\"60\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"468.7,51 472.5,60.3 463.5,59.6\" fill=\"#0f1b33\"/><line x1=\"126.8\" y1=\"189\" x2=\"89.7\" y2=\"143.9\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"84,137 93.2,141.1 86.2,146.8\" fill=\"#0f1b33\"/><line x1=\"170.1\" y1=\"189\" x2=\"260.1\" y2=\"141.2\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"268,137 262.2,145.2 257.9,137.2\" fill=\"#0f1b33\"/><line x1=\"153.6\" y1=\"189\" x2=\"264.8\" y2=\"57.9\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"270.6,51 268.2,60.8 261.3,55\" fill=\"#0f1b33\"/><line x1=\"260.9\" y1=\"104\" x2=\"136.3\" y2=\"53\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"128,49.6 138,48.8 134.6,57.1\" fill=\"#0f1b33\"/><line x1=\"297.2\" y1=\"104\" x2=\"289.5\" y2=\"59.9\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"288,51 293.9,59.1 285.1,60.6\" fill=\"#0f1b33\"/><line x1=\"73.7\" y1=\"104\" x2=\"84\" y2=\"59.8\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"86,51 88.4,60.8 79.6,58.7\" fill=\"#0f1b33\"/><line x1=\"397.5\" y1=\"189\" x2=\"458.2\" y2=\"59.2\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"462,51 462.3,61.1 454.2,57.2\" fill=\"#0f1b33\"/><rect x=\"55\" y=\"20\" width=\"70\" height=\"28\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"90\" y=\"39\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">heron</text><rect x=\"208\" y=\"20\" width=\"154\" height=\"28\" rx=\"8\" fill=\"#f7d9d6\" stroke=\"#0f1b33\" stroke-width=\"3\"/><text x=\"285\" y=\"39\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">introduced fish</text><rect x=\"439.2\" y=\"20\" width=\"61.6\" height=\"28\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"470\" y=\"39\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">duck</text><rect x=\"39.2\" y=\"106\" width=\"61.6\" height=\"28\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"70\" y=\"125\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">frog</text><rect x=\"244\" y=\"106\" width=\"112\" height=\"28\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"300\" y=\"125\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">small fish</text><rect x=\"71.4\" y=\"191\" width=\"137.2\" height=\"28\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"140\" y=\"210\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">insect larvae</text><rect x=\"350.8\" y=\"191\" width=\"78.4\" height=\"28\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"390\" y=\"210\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">snails</text><rect x=\"195\" y=\"276\" width=\"70\" height=\"28\" rx=\"8\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"230\" y=\"295\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">algae</text><rect x=\"385.6\" y=\"276\" width=\"128.8\" height=\"28\" rx=\"8\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"450\" y=\"295\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">water plants</text></svg>",
+       "c": [
+        "duck",
+        "frog",
+        "heron",
+        "snails"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Food webs",
+       "e": "Arrows from small fish go to the heron and to the introduced fish, so both eat small fish and compete for them."
+      },
+      {
+       "t": "open",
+       "p": "Question 9\nThe food web shows feeding relationships in a lake after a large predatory fish was introduced.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 312\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#0f1b33\"><line x1=\"213.1\" y1=\"274\" x2=\"164.5\" y2=\"228.2\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"158,222 167.6,224.9 161.5,231.5\" fill=\"#0f1b33\"/><line x1=\"236.6\" y1=\"274\" x2=\"289.6\" y2=\"145.3\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"293,137 293.7,147 285.4,143.6\" fill=\"#0f1b33\"/><line x1=\"260.1\" y1=\"274\" x2=\"350.1\" y2=\"226.2\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"358,222 352.2,230.2 347.9,222.2\" fill=\"#0f1b33\"/><line x1=\"438.7\" y1=\"274\" x2=\"407.2\" y2=\"229.4\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"402,222 410.9,226.8 403.5,231.9\" fill=\"#0f1b33\"/><line x1=\"451.2\" y1=\"274\" x2=\"468\" y2=\"60\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"468.7,51 472.5,60.3 463.5,59.6\" fill=\"#0f1b33\"/><line x1=\"126.8\" y1=\"189\" x2=\"89.7\" y2=\"143.9\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"84,137 93.2,141.1 86.2,146.8\" fill=\"#0f1b33\"/><line x1=\"170.1\" y1=\"189\" x2=\"260.1\" y2=\"141.2\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"268,137 262.2,145.2 257.9,137.2\" fill=\"#0f1b33\"/><line x1=\"153.6\" y1=\"189\" x2=\"264.8\" y2=\"57.9\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"270.6,51 268.2,60.8 261.3,55\" fill=\"#0f1b33\"/><line x1=\"260.9\" y1=\"104\" x2=\"136.3\" y2=\"53\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"128,49.6 138,48.8 134.6,57.1\" fill=\"#0f1b33\"/><line x1=\"297.2\" y1=\"104\" x2=\"289.5\" y2=\"59.9\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"288,51 293.9,59.1 285.1,60.6\" fill=\"#0f1b33\"/><line x1=\"73.7\" y1=\"104\" x2=\"84\" y2=\"59.8\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"86,51 88.4,60.8 79.6,58.7\" fill=\"#0f1b33\"/><line x1=\"397.5\" y1=\"189\" x2=\"458.2\" y2=\"59.2\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"462,51 462.3,61.1 454.2,57.2\" fill=\"#0f1b33\"/><rect x=\"55\" y=\"20\" width=\"70\" height=\"28\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"90\" y=\"39\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">heron</text><rect x=\"208\" y=\"20\" width=\"154\" height=\"28\" rx=\"8\" fill=\"#f7d9d6\" stroke=\"#0f1b33\" stroke-width=\"3\"/><text x=\"285\" y=\"39\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">introduced fish</text><rect x=\"439.2\" y=\"20\" width=\"61.6\" height=\"28\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"470\" y=\"39\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">duck</text><rect x=\"39.2\" y=\"106\" width=\"61.6\" height=\"28\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"70\" y=\"125\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">frog</text><rect x=\"244\" y=\"106\" width=\"112\" height=\"28\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"300\" y=\"125\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">small fish</text><rect x=\"71.4\" y=\"191\" width=\"137.2\" height=\"28\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"140\" y=\"210\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">insect larvae</text><rect x=\"350.8\" y=\"191\" width=\"78.4\" height=\"28\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"390\" y=\"210\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">snails</text><rect x=\"195\" y=\"276\" width=\"70\" height=\"28\" rx=\"8\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"230\" y=\"295\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">algae</text><rect x=\"385.6\" y=\"276\" width=\"128.8\" height=\"28\" rx=\"8\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"450\" y=\"295\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">water plants</text></svg>",
+       "q": "(c) The introduced fish spreads quickly. Suggest what will happen to the number of frogs. Explain your answer. [2]",
+       "m": 2,
+       "s": "Food webs",
+       "ms": "1 mark: a prediction — frogs decrease (most likely). 1 mark: a reason linked to the food web — the introduced fish eats insect larvae, so frogs have less food (competition); OR herons have fewer small fish, so they eat more frogs. Also accept 'frogs increase' for both marks ONLY if clearly explained (e.g. the fish eats the small fish that compete with frogs for larvae, so frogs get more food).",
+       "e": "The number of frogs will probably decrease. The introduced fish eats insect larvae, which are the frogs' food, so there is less food for frogs. Also, the introduced fish eats small fish, so herons have fewer small fish to eat and are likely to eat more frogs."
+      },
+      {
+       "t": "open",
+       "q": "Water hyacinth covers the surface of a lake. Explain why the number of fish in the lake falls. [3]",
+       "m": 3,
+       "s": "Invasive species",
+       "ms": "1 mark: it blocks light from reaching plants/algae under the water. 1 mark: they cannot photosynthesise / they die and rot; decomposers use up oxygen / less oxygen is produced. 1 mark: fish do not get enough oxygen (for respiration) and die. Accept also: less food for fish because plants/algae die (max 1 in place of the oxygen idea).",
+       "e": "The water hyacinth stops light reaching the water plants and algae below. They cannot photosynthesise, so they die and are decomposed by microorganisms that use up oxygen from the water (and no new oxygen is made). The fish cannot get enough oxygen for respiration, so many die."
+      },
+      {
+       "q": "In the past, the pesticide DDT built up in birds of prey. What effect did this have on these birds?",
+       "c": [
+        "They grew larger than normal",
+        "They laid more eggs than normal",
+        "They became immune to all diseases",
+        "They laid eggs with thin shells that broke easily"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Bioaccumulation",
+       "e": "DDT built up in birds of prey and made their eggshells thin. The eggs broke during incubation, so few chicks hatched and the populations fell."
+      },
+      {
+       "t": "text",
+       "q": "A species that lives naturally in an area, and was not brought there by humans, is called a ______ species.",
+       "ans": [
+        "native",
+        "indigenous",
+        "local"
+       ],
+       "m": 1,
+       "s": "Invasive species",
+       "e": "Native (indigenous) species live naturally in an area. A species brought from somewhere else that spreads and causes harm is an invasive species."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Ecosystem = living organisms + their non-living environment, interacting. Habitat = the place where an organism lives. One ecosystem has many habitats.",
+    "Examples of ecosystems: desert, coral reef, river or lake, rainforest, grassland, polar, deep ocean.",
+    "Bioaccumulation: a toxic substance that is not broken down or excreted builds up in an organism; its concentration increases at each step of a food chain, so top predators are harmed most.",
+    "Invasive species spread fast (no predators or diseases, fast breeding) and harm natives by competition, predation and disease; effects pass through the food web and biodiversity falls.",
+    "In food web questions, always state increase or decrease AND give the reason using the feeding links."
+   ]
+  }
+ ]
+}

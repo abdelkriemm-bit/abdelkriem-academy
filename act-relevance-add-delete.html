@@ -13,7 +13,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;800&family=Fraunces:opsz,wght@9..144,600;9..144,800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css?v=20261025b">
+<link rel="stylesheet" href="style.css?v=20261025c">
 <meta name="google-adsense-account" content="ca-pub-8885402561273130">
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8885402561273130" crossorigin="anonymous"></script>
 </head>
@@ -124,6 +124,8 @@ At point [?], the writer is considering adding: &quot;Without the yearly flood, 
 .pt-ms{background:#fff8e6;border-radius:8px;padding:.6rem;margin-top:.4rem}
 .pt-self{margin:.5rem 0}.pt-sm{font:inherit;min-width:2.2rem;height:2.1rem;margin-right:.3rem;border:1px solid #0f1b33;border-radius:6px;background:#fff;cursor:pointer}.pt-sm.on{background:#0f1b33;color:#fff}
 .pt-warn2{background:#fff4d6;border-radius:8px;padding:.6rem;font-weight:600}
+
+.pt-tbl{border-collapse:collapse;margin:.5rem 0;background:#fff;font-size:.95em}.pt-tbl th,.pt-tbl td{border:1px solid #cfc8b6;padding:.3rem .6rem;text-align:left}.pt-tbl th{background:#eef2fa}
 </style><script>(function(){
 /* Practice-test engine. Question types (field "t"):
    mcq (default): c[] choices, a = index of key
@@ -132,18 +134,24 @@ At point [?], the writer is considering adding: &quot;Without the yearly flood, 
    open: written answer marked by the student against the mark scheme "ms"
    Common: p (stem/passage), q (question), img (inline SVG), m (marks, default 1), e (explanation / worked solution), s (skill) */
 function el(t,c,h){var e=document.createElement(t);if(c)e.className=c;if(h!=null)e.innerHTML=h;return e}
-function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]}).replace(/_{3,}/g,'\u0001').replace(/\*\*(.+?)\*\*/g,'<b>$1</b>').replace(/__(.+?)__/g,'<u>$1</u>').replace(/\^\{(.+?)\}/g,'<sup>$1</sup>').replace(/_\{(.+?)\}/g,'<sub>$1</sub>').replace(/\u0001/g,'<span class="pt-blank">&nbsp;</span>').replace(/\n/g,'<br>')}
+function esc(s){return String(s).replace(/[&<>"]/g,function(c){return{'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]}).replace(/_{3,}/g,'\u0001').replace(/\*\*(.+?)\*\*/g,'<b>$1</b>').replace(/__(.+?)__/g,'<u>$1</u>').replace(/\^\{(.+?)\}/g,'<sup>$1</sup>').replace(/_\{(.+?)\}/g,'<sub>$1</sub>').replace(/\u0001/g,'<span class="pt-blank">&nbsp;</span>').split('\n').reduce(function(acc,l){var t=/\S\s*\|\s*\S/.test(l)&&l.split('|').length>1;if(t){var cells=l.split('|').map(function(c){return c.trim()});var last=acc[acc.length-1];if(last&&last.t)last.rows.push(cells);else acc.push({t:1,rows:[cells]})}else acc.push(l);return acc},[]).map(function(x){if(typeof x==='string')return x;return '<table class="pt-tbl">'+x.rows.map(function(r,i){var c=i?'td':'th';return '<tr>'+r.map(function(v){return '<'+c+'>'+v+'</'+c+'>'}).join('')+'</tr>'}).join('')+'</table>'}).join('<br>').replace(/<br><table/g,'<table').replace(/<\/table><br>/g,'</table>')}
 function svg(s){return s&&/^\s*<svg[\s>]/i.test(s)&&!/<script|on\w+=/i.test(s)?'<div class="pt-img">'+s+'</div>':''}
 function fmt(s){var m=Math.floor(s/60),x=s%60;return m+':'+(x<10?'0':'')+x}
 function ty(Q){return Q.t||'mcq'}
 function mk(Q){return Q.m||1}
 function blank(Q,a){return ty(Q)==='mcq'?!(a>=0):(a==null||String(a).trim()==='')}
-function toNum(v){v=String(v).replace(/[,\s]/g,'').replace(/[−–]/g,'-').replace(/[^0-9.\/\-]/g,'');if(!v)return NaN;var f=v.split('/');if(f.length===2){var n=parseFloat(f[0]),d=parseFloat(f[1]);return d?n/d:NaN}return f.length>2?NaN:Number(v)}
-function norm(v){return String(v).toLowerCase().replace(/[.,;:!?"'’]/g,'').replace(/\s+/g,' ').trim()}
+function toNum(v){var mm=String(v).replace(/[−–]/g,'-').match(/^\s*(-?)(\d+)\s+(\d+)\s*\/\s*(\d+)\s*[a-z²³ ]*$/i);if(mm){var r=+mm[2]+(+mm[4]?mm[3]/mm[4]:NaN);return mm[1]?-r:r}var lead=String(v).replace(/[−–]/g,'-').match(/^\s*(-?\s*\d[\d\s,]*(?:\.\d+)?(?:\s*\/\s*\d+(?:\.\d+)?)?|-?\s*\.\d+)/);if(lead)v=lead[1];v=String(v).replace(/[,\s]/g,'').replace(/[−–]/g,'-').replace(/[^0-9.\/\-]/g,'');if(!v)return NaN;var f=v.split('/');if(f.length===2){var n=parseFloat(f[0]),d=parseFloat(f[1]);return d?n/d:NaN}return f.length>2?NaN:Number(v)}
+function norm(v){return String(v).replace(/²/g,'^2').replace(/³/g,'^3').toLowerCase().replace(/[’‘]/g,"'").replace(/[−–]/g,'-').replace(/\s+/g,' ').trim().replace(/\s*([,()\[\]:;\/=+×÷-])\s*/g,'$1').replace(/[.!?]+$/,'')}
 function auto(Q,a){var t=ty(Q);if(blank(Q,a))return false;
  if(t==='mcq')return a===Q.a;
  if(t==='num'){var x=toNum(a);if(isNaN(x))return false;var tol=Q.tol||1e-9;return (Q.ans||[]).some(function(v){var y=typeof v==='number'?v:toNum(v);return Math.abs(x-y)<=tol+1e-9})}
- if(t==='text'){var n=norm(a);return (Q.ans||[]).some(function(v){return norm(v)===n})}
+ if(t==='text'){var art=function(x){return norm(x).replace(/^(the|a|an) /,'')},al=function(x){return norm(x).replace(/^(the|a|an) /,'').replace(/[^a-z0-9]/g,'')};
+  var stem=function(w){w=w.replace(/ies$/,'y');var x=['ations','ation','ions','ion','ing','ed','es','s','e'];for(var i=0;i<x.length;i++){if(w.length-x[i].length>=4&&w.slice(-x[i].length)===x[i])return w.slice(0,-x[i].length)}return w};
+  var words=function(x){return art(x).replace(/[^a-z0-9 ]/g,' ').split(' ').filter(Boolean)};
+  var n=art(a),n2=al(a),ws=words(a).map(stem),ss=' '+ws.join(' ')+' ';
+  return (Q.ans||[]).some(function(v){if(art(v)===n)return true;var lt=/[a-z]/i.test(v);if(lt&&al(v)===n2&&n2.length>0)return true;
+   var vw=words(v).map(stem);if(!lt||!vw.length)return false;var neg=/(^| )(not|no|never|isn't|doesn't|don't)( |$)/;if(neg.test(n)&&!neg.test(art(v)))return false;var sw=function(x,y){var a1=x.length<=y.length?x:y,b1=x.length<=y.length?y:x;return x===y||(a1.length>=5&&b1.indexOf(a1)===0)};if(vw.length===ws.length&&vw.every(function(w,i){return sw(w,ws[i])}))return true;
+   return Q.loose!==false&&vw.join('').length>=4&&ws.length<=8&&ss.indexOf(' '+vw.join(' ')+' ')>=0})}
  return false}
 document.querySelectorAll('.ptest').forEach(function(box){
  var T=JSON.parse(box.querySelector('script[type="application/json"]').textContent);

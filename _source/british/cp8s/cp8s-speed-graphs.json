@@ -1,0 +1,610 @@
+{
+ "slug": "cp8s-speed-graphs",
+ "title": "Speed and Distance–Time Graphs",
+ "kicker": "Cambridge Lower Secondary · Science 0893 · Stage 8",
+ "summary": "How to calculate speed, distance and time, find average speeds, and read, draw and interpret distance–time graphs — with worked examples and a Checkpoint-style quiz.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Calculate speed using speed = distance ÷ time, and rearrange it to find distance or time. (8Pf.01)",
+    "Read and explain simple distance–time graphs, and draw them from data. (8Pf.02)"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "speed",
+     "السرعة — how far something travels in each second (or hour)"
+    ],
+    [
+     "distance",
+     "المسافة — how far something travels, in m or km"
+    ],
+    [
+     "time",
+     "الزمن — how long the journey takes, in s, min or h"
+    ],
+    [
+     "average speed",
+     "السرعة المتوسطة — total distance ÷ total time for the whole journey"
+    ],
+    [
+     "constant speed",
+     "سرعة ثابتة — the same distance is covered every second"
+    ],
+    [
+     "stationary",
+     "ساكن / واقف — not moving"
+    ],
+    [
+     "accelerate",
+     "يتسارع — speed up"
+    ],
+    [
+     "decelerate",
+     "يتباطأ — slow down"
+    ],
+    [
+     "distance–time graph",
+     "منحنى المسافة والزمن — a graph of distance (up) against time (across)"
+    ],
+    [
+     "gradient",
+     "الميل — how steep a line is; on a distance–time graph it gives the speed"
+    ],
+    [
+     "metres per second (m/s)",
+     "متر لكل ثانية — the SI unit of speed"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "2. What is speed?"
+  },
+  {
+   "type": "p",
+   "text": "**Speed** tells you how fast something is moving: how much **distance** it covers in each unit of **time**. A car moving at 20 m/s travels 20 metres every second. To find a speed you need two measurements: the distance travelled and the time taken."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "The formula",
+   "text": "**speed = distance ÷ time**   (in symbols: s = d ÷ t)"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "If distance is in…",
+    "and time is in…",
+    "speed is in…"
+   ],
+   "rows": [
+    [
+     "metres (m)",
+     "seconds (s)",
+     "**metres per second (m/s)** — the SI unit"
+    ],
+    [
+     "kilometres (km)",
+     "hours (h)",
+     "**kilometres per hour (km/h)** — used for cars and trains"
+    ],
+    [
+     "centimetres (cm)",
+     "seconds (s)",
+     "**centimetres per second (cm/s)** — for small, slow things"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Rearranging.** You can use the same three quantities to find distance or time. The formula triangle helps: cover the quantity you want and the triangle shows the calculation."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 225\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\"><polygon points=\"240,20 110,210 370,210\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"162\" y1=\"135\" x2=\"318\" y2=\"135\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"240\" y=\"108\" text-anchor=\"middle\" font-size=\"30\" font-weight=\"bold\">d</text><text x=\"190\" y=\"190\" text-anchor=\"middle\" font-size=\"30\" font-weight=\"bold\">s</text><text x=\"290\" y=\"190\" text-anchor=\"middle\" font-size=\"30\" font-weight=\"bold\">t</text><text x=\"240\" y=\"188\" text-anchor=\"middle\" font-size=\"30\">×</text></svg>",
+   "caption": "Formula triangle: d = distance, s = speed, t = time. Cover d: d = s × t. Cover s: s = d ÷ t. Cover t: t = d ÷ s."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "To find…",
+    "Use…",
+    "Example"
+   ],
+   "rows": [
+    [
+     "speed",
+     "speed = distance ÷ time",
+     "300 m in 60 s → 300 ÷ 60 = 5 m/s"
+    ],
+    [
+     "distance",
+     "distance = speed × time",
+     "5 m/s for 60 s → 5 × 60 = 300 m"
+    ],
+    [
+     "time",
+     "time = distance ÷ speed",
+     "300 m at 5 m/s → 300 ÷ 5 = 60 s"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "3. Units: change them first"
+  },
+  {
+   "type": "p",
+   "text": "Before you calculate, make the units match. If the question asks for m/s, the distance must be in **metres** and the time in **seconds**."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "1 km = **1000 m**   (km → m: × 1000)",
+    "1 minute = **60 s**   (minutes → seconds: × 60)",
+    "1 hour = 60 minutes = **3600 s**",
+    "30 minutes = 0.5 h; 15 minutes = 0.25 h; 20 minutes = 1/3 h"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "4. Average speed"
+  },
+  {
+   "type": "p",
+   "text": "Real journeys are never at one steady speed: cars stop at traffic lights and speed up again. **Average speed** treats the whole journey as if it were at one steady speed:"
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Average speed",
+   "text": "**average speed = total distance travelled ÷ total time taken** — the total time **includes** any time spent stopped."
+  },
+  {
+   "type": "p",
+   "text": "A speedometer shows the speed at one instant. An average speed can be much lower, because of the stops."
+  },
+  {
+   "type": "p",
+   "text": "**Measuring speed in the laboratory.** To find the speed of a toy car: mark a start and a finish line a measured distance apart (for example 2.00 m, with a metre rule or tape measure); time the car between the lines with a stopwatch; **repeat** three times and calculate a mean time; then speed = distance ÷ mean time. Human reaction time makes stopwatch timings less accurate, especially for short times — **light gates** connected to a timer are more accurate."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "احفظ القانون",
+   "items": [
+    "السرعة = المسافة ÷ الزمن. المسافة = السرعة × الزمن. الزمن = المسافة ÷ السرعة.",
+    "قبل ما تحسب، وحّد الوحدات: كيلومتر × 1000 = متر، دقيقة × 60 = ثانية.",
+    "السرعة المتوسطة = المسافة الكلية ÷ الزمن الكلي — وده بيشمل وقت الوقوف كمان."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "5. Distance–time graphs"
+  },
+  {
+   "type": "p",
+   "text": "A **distance–time graph** shows a journey as a picture. **Time** goes along the horizontal axis (x-axis) and **distance** goes up the vertical axis (y-axis). The **shape** of the line tells you how the object is moving."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 365\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\"><line x1=\"40\" y1=\"150\" x2=\"210\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"40\" y1=\"150\" x2=\"40\" y2=\"40\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><text x=\"125\" y=\"172\" text-anchor=\"middle\">time</text><text x=\"26\" y=\"95\" text-anchor=\"middle\" font-size=\"16\" transform=\"rotate(-90 26 95)\">distance</text><polyline points=\"40,95 210,95\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.6\"/><text x=\"125\" y=\"26\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\">stationary (not moving)</text><line x1=\"290\" y1=\"150\" x2=\"460\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"290\" y1=\"150\" x2=\"290\" y2=\"40\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><text x=\"375\" y=\"172\" text-anchor=\"middle\">time</text><text x=\"276\" y=\"95\" text-anchor=\"middle\" font-size=\"16\" transform=\"rotate(-90 276 95)\">distance</text><polyline points=\"290,150 460,51\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.6\"/><polyline points=\"290,150 460,106\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.6\" stroke-dasharray=\"7 4\"/><text x=\"375\" y=\"26\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\">constant speed</text><rect x=\"388\" y=\"49.2\" width=\"36\" height=\"20\" fill=\"#ffffff\"/><text x=\"390\" y=\"64\" font-size=\"16\">fast</text><rect x=\"398\" y=\"93.2\" width=\"36\" height=\"20\" fill=\"#ffffff\"/><text x=\"400\" y=\"108\" font-size=\"16\">slow</text><line x1=\"40\" y1=\"330\" x2=\"210\" y2=\"330\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"40\" y1=\"330\" x2=\"40\" y2=\"220\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><text x=\"125\" y=\"352\" text-anchor=\"middle\">time</text><text x=\"26\" y=\"275\" text-anchor=\"middle\" font-size=\"16\" transform=\"rotate(-90 26 275)\">distance</text><polyline points=\"40,330 48.5,329.8 57,329 65.5,327.8 74,326 82.5,323.8 91,321.1 99.5,317.9 108,314.2 116.5,310 125,305.2 133.5,300.1 142,294.4 150.5,288.2 159,281.5 167.5,274.3 176,266.6 184.5,258.5 193,249.8 201.5,240.7 210,231\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.6\"/><text x=\"125\" y=\"206\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\">speeding up</text><line x1=\"290\" y1=\"330\" x2=\"460\" y2=\"330\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"290\" y1=\"330\" x2=\"290\" y2=\"220\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><text x=\"375\" y=\"352\" text-anchor=\"middle\">time</text><text x=\"276\" y=\"275\" text-anchor=\"middle\" font-size=\"16\" transform=\"rotate(-90 276 275)\">distance</text><polyline points=\"290,330 298.5,320.3 307,311.2 315.5,302.5 324,294.4 332.5,286.7 341,279.5 349.5,272.8 358,266.6 366.5,260.9 375,255.8 383.5,251 392,246.8 400.5,243.1 409,239.9 417.5,237.2 426,235 434.5,233.2 443,232 451.5,231.2 460,231\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.6\"/><text x=\"375\" y=\"206\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\">slowing down</text></svg>",
+   "caption": "The four shapes to learn. The steeper the line, the faster the object is moving."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Shape of the line",
+    "What it means"
+   ],
+   "rows": [
+    [
+     "horizontal (flat) line",
+     "**stationary** — distance is not changing"
+    ],
+    [
+     "straight sloping line",
+     "**constant speed**"
+    ],
+    [
+     "steeper straight line",
+     "**faster** constant speed"
+    ],
+    [
+     "curve getting steeper",
+     "**speeding up** (accelerating)"
+    ],
+    [
+     "curve getting flatter",
+     "**slowing down** (decelerating)"
+    ],
+    [
+     "line sloping **down** (on a 'distance from start' graph)",
+     "moving **back towards the start**"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**The gradient is the speed.** For a straight section, speed = (change in distance) ÷ (change in time). Draw a right-angled triangle under the line, read the distance it rises and the time it covers, and divide."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 380\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\"><path d=\"M110.8 320V50M172.5 320V50M234.2 320V50M295.8 320V50M357.5 320V50M419.2 320V50M80 297.5H450M80 252.5H450M80 207.5H450M80 162.5H450M80 117.5H450M80 72.5H450\" stroke=\"#c9d6ea\" stroke-width=\"0.6\" fill=\"none\"/><path d=\"M80 320V50M141.7 320V50M203.3 320V50M265 320V50M326.7 320V50M388.3 320V50M450 320V50M80 320H450M80 275H450M80 230H450M80 185H450M80 140H450M80 95H450M80 50H450\" stroke=\"#9fb3d1\" stroke-width=\"1\" fill=\"none\"/><line x1=\"80\" y1=\"320\" x2=\"450\" y2=\"320\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"80\" y1=\"320\" x2=\"80\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"80\" y1=\"320\" x2=\"80\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"80\" y=\"342\" text-anchor=\"middle\">0</text><line x1=\"141.7\" y1=\"320\" x2=\"141.7\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"141.7\" y=\"342\" text-anchor=\"middle\">10</text><line x1=\"203.3\" y1=\"320\" x2=\"203.3\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"203.3\" y=\"342\" text-anchor=\"middle\">20</text><line x1=\"265\" y1=\"320\" x2=\"265\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"265\" y=\"342\" text-anchor=\"middle\">30</text><line x1=\"326.7\" y1=\"320\" x2=\"326.7\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"326.7\" y=\"342\" text-anchor=\"middle\">40</text><line x1=\"388.3\" y1=\"320\" x2=\"388.3\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"388.3\" y=\"342\" text-anchor=\"middle\">50</text><line x1=\"450\" y1=\"320\" x2=\"450\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"450\" y=\"342\" text-anchor=\"middle\">60</text><line x1=\"75\" y1=\"320\" x2=\"80\" y2=\"320\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"325.5\" text-anchor=\"end\">0</text><line x1=\"75\" y1=\"275\" x2=\"80\" y2=\"275\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"280.5\" text-anchor=\"end\">50</text><line x1=\"75\" y1=\"230\" x2=\"80\" y2=\"230\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"235.5\" text-anchor=\"end\">100</text><line x1=\"75\" y1=\"185\" x2=\"80\" y2=\"185\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"190.5\" text-anchor=\"end\">150</text><line x1=\"75\" y1=\"140\" x2=\"80\" y2=\"140\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"145.5\" text-anchor=\"end\">200</text><line x1=\"75\" y1=\"95\" x2=\"80\" y2=\"95\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"100.5\" text-anchor=\"end\">250</text><line x1=\"75\" y1=\"50\" x2=\"80\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"55.5\" text-anchor=\"end\">300</text><text x=\"265\" y=\"364\" text-anchor=\"middle\">time in s</text><text x=\"28\" y=\"185\" text-anchor=\"middle\" font-size=\"16\" transform=\"rotate(-90 28 185)\">distance in m</text><polyline points=\"80,320 203.3,230 265,230 388.3,50 450,50\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.6\"/><circle cx=\"203.3\" cy=\"230\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"197.3\" y=\"205.2\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"199.3\" y=\"220\" font-size=\"16\" font-weight=\"bold\">A</text><circle cx=\"265\" cy=\"230\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"249\" y=\"237.2\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"251\" y=\"252\" font-size=\"16\" font-weight=\"bold\">B</text><circle cx=\"388.3\" cy=\"50\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"368.3\" y=\"35.2\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"370.3\" y=\"50\" font-size=\"16\" font-weight=\"bold\">C</text><circle cx=\"450\" cy=\"50\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"452\" y=\"25.2\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"454\" y=\"40\" font-size=\"16\" font-weight=\"bold\">D</text><line x1=\"265\" y1=\"230\" x2=\"388.3\" y2=\"230\" stroke=\"#0f1b33\" stroke-width=\"1.6\" stroke-dasharray=\"5 4\"/><line x1=\"388.3\" y1=\"230\" x2=\"388.3\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"1.6\" stroke-dasharray=\"5 4\"/><rect x=\"308\" y=\"235.2\" width=\"37.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"326.7\" y=\"250\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\">20 s</text><rect x=\"392.3\" y=\"125.2\" width=\"45.6\" height=\"20\" fill=\"#ffffff\"/><text x=\"394.3\" y=\"140\" font-size=\"16\" font-weight=\"bold\">200 m</text></svg>",
+   "caption": "A cyclist's journey. From the start to A: 100 m in 20 s = 5 m/s. A to B: stopped for 10 s. B to C: 200 m in 20 s = 10 m/s (the steeper line). C to D: stopped."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**Start to A:** the line slopes up steadily — constant speed. Speed = 100 m ÷ 20 s = **5 m/s**.",
+    "**A to B:** the line is flat — the cyclist is **stationary** for 30 − 20 = 10 s.",
+    "**B to C:** steeper — faster. Speed = (300 − 100) m ÷ (50 − 30) s = 200 ÷ 20 = **10 m/s**.",
+    "**C to D:** flat — stationary again.",
+    "**Average speed** for the whole 60 s = 300 m ÷ 60 s = **5 m/s**."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "6. Drawing a distance–time graph"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Put **time** on the x-axis and **distance** on the y-axis (time is the independent variable).",
+    "Label each axis with the quantity **and the unit**, e.g. \"time in s\", \"distance in m\".",
+    "Choose a **simple, even scale** (1, 2, 5 or 10 per square) that uses more than half of the grid. Start both axes at 0.",
+    "Plot each point accurately with a small cross (×).",
+    "Join the points with straight lines using a **ruler** if the object moves at steady speeds; draw a smooth curve if the speed is changing."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "قراءة الرسم البياني",
+   "items": [
+    "الخط الأفقي = الجسم واقف. الخط المايل المستقيم = سرعة ثابتة، وكل ما يكون أميل (أشد انحدارًا) تكون السرعة أكبر.",
+    "المنحنى اللي بيزيد ميله = بيسرّع، واللي ميله بيقل = بيبطّأ.",
+    "السرعة من الرسم = فرق المسافة ÷ فرق الزمن (مش القراءة نفسها)."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "7. Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — A cheetah runs 210 m in 7 s. Calculate its speed. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Write the formula: speed = distance ÷ time.",
+    "Substitute: speed = 210 ÷ 7.",
+    "Answer with unit: **30 m/s**.",
+    "**Common mistake:** writing 7 ÷ 210 = 0.033. Always distance **on top**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — A car moves at a constant 25 m/s for 40 s. How far does it travel? [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "distance = speed × time",
+    "= 25 × 40",
+    "= **1000 m** (or 1 km)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — An aeroplane flies 2400 km at an average speed of 800 km/h. How long does the flight take? [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "time = distance ÷ speed",
+    "= 2400 ÷ 800",
+    "= **3 hours** (the units km and km/h give hours)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — Layla walks 900 m in 12 minutes. Calculate her average speed in m/s. [3]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Convert the time: 12 minutes × 60 = **720 s** (1).",
+    "speed = 900 ÷ 720 (1)",
+    "= **1.25 m/s** (1)",
+    "**Common mistake:** 900 ÷ 12 = 75 — that is 75 metres per **minute**, not m/s."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — Use the cyclist graph in section 5. (a) Describe the motion between A and B. [1] (b) Which part of the journey is fastest? Explain how you can tell. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) The cyclist is **stationary** (stopped) for 10 s — the line is horizontal.",
+    "(b) **B to C** (1), because that line is the **steepest** (1). (Check: 10 m/s compared with 5 m/s.)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** — A ball rolls down a slope. Its distance–time graph is a curve that gets steeper. Then it rolls along a flat floor and its graph becomes a curve that gets flatter until it is horizontal. Describe the motion. [3]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Down the slope: the ball is **speeding up** (the line gets steeper) (1).",
+    "On the floor: the ball is **slowing down** (the line gets less steep) (1)…",
+    "…until it **stops** (horizontal line) (1)."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Dividing the wrong way: speed = **distance ÷ time**, never time ÷ distance.",
+    "Mixing units: km with seconds, or minutes when the answer must be in m/s. Convert first.",
+    "Forgetting the unit, or writing the wrong one (m/s for speed, m for distance, s for time).",
+    "Leaving out the stopped time when working out an average speed.",
+    "Reading values instead of changes: for a section of a graph, use (distance at end − distance at start) ÷ (time at end − time at start).",
+    "Thinking a horizontal line means \"constant speed\". Flat means **not moving**.",
+    "Drawing a 'dot-to-dot' freehand line or a curve through points that lie on a straight line — use a ruler."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "**Calculate** a speed, distance or time — write the formula, substitute, answer, unit. Each step can earn a mark.",
+    "**Average speed** for a journey in stages, often with a stop and a change of units.",
+    "**Read a graph**: distance at a time, how long the object stopped, which part is fastest.",
+    "**Calculate speed from a graph** section using changes in distance and time.",
+    "**Describe** a section of a graph: stationary / constant speed / speeding up / slowing down / returning.",
+    "**Plot** a distance–time graph from a table: labelled axes with units, even scale, accurate points, ruler lines.",
+    "**Method**: how to measure speed (distance with a metre rule or tape, time with a stopwatch or light gates, repeat and average)."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Speed and distance–time graphs — practice",
+   "timed": false,
+   "intro": "Answer every part. Type short answers in the box; for longer answers write yours on paper first, then mark it with the mark scheme.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 25,
+     "calc": true,
+     "questions": [
+      {
+       "t": "num",
+       "q": "A car travels 600 m in 30 s. Calculate its speed. Give the unit.",
+       "ans": [
+        20
+       ],
+       "tol": 0,
+       "unit": "m/s",
+       "m": 2,
+       "s": "Calculating speed",
+       "e": "speed = distance ÷ time = 600 ÷ 30 = **20 m/s**. (1 mark for the calculation, 1 mark for the unit m/s — distance in m and time in s give speed in m/s.)"
+      },
+      {
+       "t": "num",
+       "q": "A runner keeps a steady speed of 8 m/s for 15 s. How far does she run?",
+       "ans": [
+        120
+       ],
+       "tol": 0,
+       "unit": "m",
+       "m": 1,
+       "s": "Calculating speed",
+       "e": "distance = speed × time = 8 × 15 = **120 m**. Cover d in the triangle: s and t are side by side, so multiply."
+      },
+      {
+       "t": "num",
+       "q": "Omar walks 1.2 km to school in 10 minutes. Calculate his average speed in **m/s**. Show your working.",
+       "ans": [
+        2
+       ],
+       "tol": 0,
+       "unit": "m/s",
+       "m": 2,
+       "s": "Units",
+       "e": "Change the units first: 1.2 km = 1.2 × 1000 = 1200 m; 10 minutes = 10 × 60 = 600 s. Speed = 1200 ÷ 600 = **2 m/s**. Common mistake: 1.2 ÷ 10 = 0.12 — that is in km per minute, not m/s."
+      },
+      {
+       "q": "What does a horizontal (flat) line on a distance–time graph show?",
+       "c": [
+        "The object is speeding up.",
+        "The object is moving at a constant speed.",
+        "The object is moving back to the start.",
+        "The object is not moving (stationary)."
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Reading graphs",
+       "e": "A flat line means the **distance stays the same** as time goes on, so the object is **stationary**. A sloping straight line shows constant speed, and a line sloping down shows movement back towards the start."
+      },
+      {
+       "q": "On a distance–time graph, the line is a curve that gets **steeper and steeper**. What is the object doing?",
+       "c": [
+        "moving at a constant speed",
+        "speeding up (accelerating)",
+        "slowing down (decelerating)",
+        "stopped"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Reading graphs",
+       "e": "The steepness (gradient) of a distance–time graph is the **speed**. If the line gets steeper, the speed is increasing, so the object is **speeding up**. A curve that gets flatter shows slowing down."
+      },
+      {
+       "t": "num",
+       "p": "Question 7\nThe distance–time graph shows a student's trip from home to a shop and back. The student starts at home at A.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 380\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\"><path d=\"M111.7 320V50M175 320V50M238.3 320V50M301.7 320V50M365 320V50M428.3 320V50M80 303.1H460M80 269.4H460M80 235.6H460M80 201.9H460M80 168.1H460M80 134.4H460M80 100.6H460M80 66.9H460\" stroke=\"#c9d6ea\" stroke-width=\"0.6\" fill=\"none\"/><path d=\"M80 320V50M143.3 320V50M206.7 320V50M270 320V50M333.3 320V50M396.7 320V50M460 320V50M80 320H460M80 286.2H460M80 252.5H460M80 218.8H460M80 185H460M80 151.2H460M80 117.5H460M80 83.8H460M80 50H460\" stroke=\"#9fb3d1\" stroke-width=\"1\" fill=\"none\"/><line x1=\"80\" y1=\"320\" x2=\"460\" y2=\"320\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"80\" y1=\"320\" x2=\"80\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"80\" y1=\"320\" x2=\"80\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"80\" y=\"342\" text-anchor=\"middle\">0</text><line x1=\"143.3\" y1=\"320\" x2=\"143.3\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"143.3\" y=\"342\" text-anchor=\"middle\">50</text><line x1=\"206.7\" y1=\"320\" x2=\"206.7\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"206.7\" y=\"342\" text-anchor=\"middle\">100</text><line x1=\"270\" y1=\"320\" x2=\"270\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"270\" y=\"342\" text-anchor=\"middle\">150</text><line x1=\"333.3\" y1=\"320\" x2=\"333.3\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"333.3\" y=\"342\" text-anchor=\"middle\">200</text><line x1=\"396.7\" y1=\"320\" x2=\"396.7\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"396.7\" y=\"342\" text-anchor=\"middle\">250</text><line x1=\"460\" y1=\"320\" x2=\"460\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"460\" y=\"342\" text-anchor=\"middle\">300</text><line x1=\"75\" y1=\"320\" x2=\"80\" y2=\"320\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"325.5\" text-anchor=\"end\">0</text><line x1=\"75\" y1=\"286.2\" x2=\"80\" y2=\"286.2\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"291.8\" text-anchor=\"end\">50</text><line x1=\"75\" y1=\"252.5\" x2=\"80\" y2=\"252.5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"258\" text-anchor=\"end\">100</text><line x1=\"75\" y1=\"218.8\" x2=\"80\" y2=\"218.8\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"224.2\" text-anchor=\"end\">150</text><line x1=\"75\" y1=\"185\" x2=\"80\" y2=\"185\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"190.5\" text-anchor=\"end\">200</text><line x1=\"75\" y1=\"151.2\" x2=\"80\" y2=\"151.2\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"156.8\" text-anchor=\"end\">250</text><line x1=\"75\" y1=\"117.5\" x2=\"80\" y2=\"117.5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"123\" text-anchor=\"end\">300</text><line x1=\"75\" y1=\"83.8\" x2=\"80\" y2=\"83.8\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"89.2\" text-anchor=\"end\">350</text><line x1=\"75\" y1=\"50\" x2=\"80\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"55.5\" text-anchor=\"end\">400</text><text x=\"270\" y=\"364\" text-anchor=\"middle\">time in s</text><text x=\"28\" y=\"185\" text-anchor=\"middle\" font-size=\"16\" transform=\"rotate(-90 28 185)\">distance from home in m</text><polyline points=\"80,320 206.7,218.8 270,218.8 333.3,83.8 460,320\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.6\"/><circle cx=\"80\" cy=\"320\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"88\" y=\"321.2\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"90\" y=\"336\" font-size=\"16\" font-weight=\"bold\">A</text><circle cx=\"206.7\" cy=\"218.8\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"198.7\" y=\"191.9\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"200.7\" y=\"206.8\" font-size=\"16\" font-weight=\"bold\">B</text><circle cx=\"270\" cy=\"218.8\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"272\" y=\"225.9\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"274\" y=\"240.8\" font-size=\"16\" font-weight=\"bold\">C</text><circle cx=\"333.3\" cy=\"83.8\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"325.3\" y=\"57\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"327.3\" y=\"71.8\" font-size=\"16\" font-weight=\"bold\">D</text><circle cx=\"460\" cy=\"320\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"464\" y=\"299.2\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"466\" y=\"314\" font-size=\"16\" font-weight=\"bold\">E</text></svg>",
+       "q": "(a) How far from home is the student at 100 s?",
+       "ans": [
+        150
+       ],
+       "tol": 2,
+       "unit": "m",
+       "m": 1,
+       "s": "Reading graphs",
+       "e": "Go up from 100 s to the line (point B) and across: **150 m**."
+      },
+      {
+       "t": "text",
+       "p": "Question 7\nThe distance–time graph shows a student's trip from home to a shop and back. The student starts at home at A.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 380\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\"><path d=\"M111.7 320V50M175 320V50M238.3 320V50M301.7 320V50M365 320V50M428.3 320V50M80 303.1H460M80 269.4H460M80 235.6H460M80 201.9H460M80 168.1H460M80 134.4H460M80 100.6H460M80 66.9H460\" stroke=\"#c9d6ea\" stroke-width=\"0.6\" fill=\"none\"/><path d=\"M80 320V50M143.3 320V50M206.7 320V50M270 320V50M333.3 320V50M396.7 320V50M460 320V50M80 320H460M80 286.2H460M80 252.5H460M80 218.8H460M80 185H460M80 151.2H460M80 117.5H460M80 83.8H460M80 50H460\" stroke=\"#9fb3d1\" stroke-width=\"1\" fill=\"none\"/><line x1=\"80\" y1=\"320\" x2=\"460\" y2=\"320\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"80\" y1=\"320\" x2=\"80\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"80\" y1=\"320\" x2=\"80\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"80\" y=\"342\" text-anchor=\"middle\">0</text><line x1=\"143.3\" y1=\"320\" x2=\"143.3\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"143.3\" y=\"342\" text-anchor=\"middle\">50</text><line x1=\"206.7\" y1=\"320\" x2=\"206.7\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"206.7\" y=\"342\" text-anchor=\"middle\">100</text><line x1=\"270\" y1=\"320\" x2=\"270\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"270\" y=\"342\" text-anchor=\"middle\">150</text><line x1=\"333.3\" y1=\"320\" x2=\"333.3\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"333.3\" y=\"342\" text-anchor=\"middle\">200</text><line x1=\"396.7\" y1=\"320\" x2=\"396.7\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"396.7\" y=\"342\" text-anchor=\"middle\">250</text><line x1=\"460\" y1=\"320\" x2=\"460\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"460\" y=\"342\" text-anchor=\"middle\">300</text><line x1=\"75\" y1=\"320\" x2=\"80\" y2=\"320\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"325.5\" text-anchor=\"end\">0</text><line x1=\"75\" y1=\"286.2\" x2=\"80\" y2=\"286.2\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"291.8\" text-anchor=\"end\">50</text><line x1=\"75\" y1=\"252.5\" x2=\"80\" y2=\"252.5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"258\" text-anchor=\"end\">100</text><line x1=\"75\" y1=\"218.8\" x2=\"80\" y2=\"218.8\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"224.2\" text-anchor=\"end\">150</text><line x1=\"75\" y1=\"185\" x2=\"80\" y2=\"185\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"190.5\" text-anchor=\"end\">200</text><line x1=\"75\" y1=\"151.2\" x2=\"80\" y2=\"151.2\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"156.8\" text-anchor=\"end\">250</text><line x1=\"75\" y1=\"117.5\" x2=\"80\" y2=\"117.5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"123\" text-anchor=\"end\">300</text><line x1=\"75\" y1=\"83.8\" x2=\"80\" y2=\"83.8\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"89.2\" text-anchor=\"end\">350</text><line x1=\"75\" y1=\"50\" x2=\"80\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"55.5\" text-anchor=\"end\">400</text><text x=\"270\" y=\"364\" text-anchor=\"middle\">time in s</text><text x=\"28\" y=\"185\" text-anchor=\"middle\" font-size=\"16\" transform=\"rotate(-90 28 185)\">distance from home in m</text><polyline points=\"80,320 206.7,218.8 270,218.8 333.3,83.8 460,320\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.6\"/><circle cx=\"80\" cy=\"320\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"88\" y=\"321.2\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"90\" y=\"336\" font-size=\"16\" font-weight=\"bold\">A</text><circle cx=\"206.7\" cy=\"218.8\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"198.7\" y=\"191.9\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"200.7\" y=\"206.8\" font-size=\"16\" font-weight=\"bold\">B</text><circle cx=\"270\" cy=\"218.8\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"272\" y=\"225.9\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"274\" y=\"240.8\" font-size=\"16\" font-weight=\"bold\">C</text><circle cx=\"333.3\" cy=\"83.8\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"325.3\" y=\"57\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"327.3\" y=\"71.8\" font-size=\"16\" font-weight=\"bold\">D</text><circle cx=\"460\" cy=\"320\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"464\" y=\"299.2\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"466\" y=\"314\" font-size=\"16\" font-weight=\"bold\">E</text></svg>",
+       "q": "(b) Between which two letters is the student not moving? Write the two letters, e.g. AB.",
+       "ans": [
+        "BC",
+        "CB",
+        "B to C",
+        "B-C",
+        "B–C",
+        "between B and C",
+        "from B to C",
+        "B and C"
+       ],
+       "m": 1,
+       "s": "Reading graphs",
+       "e": "From **B to C** the line is horizontal: the distance stays at 150 m from 100 s to 150 s, so the student is stationary (perhaps waiting to cross a road)."
+      },
+      {
+       "t": "num",
+       "p": "Question 7\nThe distance–time graph shows a student's trip from home to a shop and back. The student starts at home at A.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 380\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\"><path d=\"M111.7 320V50M175 320V50M238.3 320V50M301.7 320V50M365 320V50M428.3 320V50M80 303.1H460M80 269.4H460M80 235.6H460M80 201.9H460M80 168.1H460M80 134.4H460M80 100.6H460M80 66.9H460\" stroke=\"#c9d6ea\" stroke-width=\"0.6\" fill=\"none\"/><path d=\"M80 320V50M143.3 320V50M206.7 320V50M270 320V50M333.3 320V50M396.7 320V50M460 320V50M80 320H460M80 286.2H460M80 252.5H460M80 218.8H460M80 185H460M80 151.2H460M80 117.5H460M80 83.8H460M80 50H460\" stroke=\"#9fb3d1\" stroke-width=\"1\" fill=\"none\"/><line x1=\"80\" y1=\"320\" x2=\"460\" y2=\"320\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"80\" y1=\"320\" x2=\"80\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"80\" y1=\"320\" x2=\"80\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"80\" y=\"342\" text-anchor=\"middle\">0</text><line x1=\"143.3\" y1=\"320\" x2=\"143.3\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"143.3\" y=\"342\" text-anchor=\"middle\">50</text><line x1=\"206.7\" y1=\"320\" x2=\"206.7\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"206.7\" y=\"342\" text-anchor=\"middle\">100</text><line x1=\"270\" y1=\"320\" x2=\"270\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"270\" y=\"342\" text-anchor=\"middle\">150</text><line x1=\"333.3\" y1=\"320\" x2=\"333.3\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"333.3\" y=\"342\" text-anchor=\"middle\">200</text><line x1=\"396.7\" y1=\"320\" x2=\"396.7\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"396.7\" y=\"342\" text-anchor=\"middle\">250</text><line x1=\"460\" y1=\"320\" x2=\"460\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"460\" y=\"342\" text-anchor=\"middle\">300</text><line x1=\"75\" y1=\"320\" x2=\"80\" y2=\"320\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"325.5\" text-anchor=\"end\">0</text><line x1=\"75\" y1=\"286.2\" x2=\"80\" y2=\"286.2\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"291.8\" text-anchor=\"end\">50</text><line x1=\"75\" y1=\"252.5\" x2=\"80\" y2=\"252.5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"258\" text-anchor=\"end\">100</text><line x1=\"75\" y1=\"218.8\" x2=\"80\" y2=\"218.8\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"224.2\" text-anchor=\"end\">150</text><line x1=\"75\" y1=\"185\" x2=\"80\" y2=\"185\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"190.5\" text-anchor=\"end\">200</text><line x1=\"75\" y1=\"151.2\" x2=\"80\" y2=\"151.2\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"156.8\" text-anchor=\"end\">250</text><line x1=\"75\" y1=\"117.5\" x2=\"80\" y2=\"117.5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"123\" text-anchor=\"end\">300</text><line x1=\"75\" y1=\"83.8\" x2=\"80\" y2=\"83.8\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"89.2\" text-anchor=\"end\">350</text><line x1=\"75\" y1=\"50\" x2=\"80\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"55.5\" text-anchor=\"end\">400</text><text x=\"270\" y=\"364\" text-anchor=\"middle\">time in s</text><text x=\"28\" y=\"185\" text-anchor=\"middle\" font-size=\"16\" transform=\"rotate(-90 28 185)\">distance from home in m</text><polyline points=\"80,320 206.7,218.8 270,218.8 333.3,83.8 460,320\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.6\"/><circle cx=\"80\" cy=\"320\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"88\" y=\"321.2\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"90\" y=\"336\" font-size=\"16\" font-weight=\"bold\">A</text><circle cx=\"206.7\" cy=\"218.8\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"198.7\" y=\"191.9\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"200.7\" y=\"206.8\" font-size=\"16\" font-weight=\"bold\">B</text><circle cx=\"270\" cy=\"218.8\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"272\" y=\"225.9\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"274\" y=\"240.8\" font-size=\"16\" font-weight=\"bold\">C</text><circle cx=\"333.3\" cy=\"83.8\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"325.3\" y=\"57\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"327.3\" y=\"71.8\" font-size=\"16\" font-weight=\"bold\">D</text><circle cx=\"460\" cy=\"320\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"464\" y=\"299.2\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"466\" y=\"314\" font-size=\"16\" font-weight=\"bold\">E</text></svg>",
+       "q": "(c) Calculate the speed of the student between C and D. Show your working.",
+       "ans": [
+        4
+       ],
+       "tol": 0.05,
+       "unit": "m/s",
+       "m": 2,
+       "s": "Speed from a graph",
+       "e": "Distance travelled = 350 − 150 = 200 m. Time taken = 200 − 150 = 50 s. Speed = 200 ÷ 50 = **4 m/s**. Common mistake: using the readings themselves (350 ÷ 200 = 1.75) instead of the **changes** in distance and time."
+      },
+      {
+       "p": "Question 7\nThe distance–time graph shows a student's trip from home to a shop and back. The student starts at home at A.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 380\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\"><path d=\"M111.7 320V50M175 320V50M238.3 320V50M301.7 320V50M365 320V50M428.3 320V50M80 303.1H460M80 269.4H460M80 235.6H460M80 201.9H460M80 168.1H460M80 134.4H460M80 100.6H460M80 66.9H460\" stroke=\"#c9d6ea\" stroke-width=\"0.6\" fill=\"none\"/><path d=\"M80 320V50M143.3 320V50M206.7 320V50M270 320V50M333.3 320V50M396.7 320V50M460 320V50M80 320H460M80 286.2H460M80 252.5H460M80 218.8H460M80 185H460M80 151.2H460M80 117.5H460M80 83.8H460M80 50H460\" stroke=\"#9fb3d1\" stroke-width=\"1\" fill=\"none\"/><line x1=\"80\" y1=\"320\" x2=\"460\" y2=\"320\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"80\" y1=\"320\" x2=\"80\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"80\" y1=\"320\" x2=\"80\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"80\" y=\"342\" text-anchor=\"middle\">0</text><line x1=\"143.3\" y1=\"320\" x2=\"143.3\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"143.3\" y=\"342\" text-anchor=\"middle\">50</text><line x1=\"206.7\" y1=\"320\" x2=\"206.7\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"206.7\" y=\"342\" text-anchor=\"middle\">100</text><line x1=\"270\" y1=\"320\" x2=\"270\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"270\" y=\"342\" text-anchor=\"middle\">150</text><line x1=\"333.3\" y1=\"320\" x2=\"333.3\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"333.3\" y=\"342\" text-anchor=\"middle\">200</text><line x1=\"396.7\" y1=\"320\" x2=\"396.7\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"396.7\" y=\"342\" text-anchor=\"middle\">250</text><line x1=\"460\" y1=\"320\" x2=\"460\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"460\" y=\"342\" text-anchor=\"middle\">300</text><line x1=\"75\" y1=\"320\" x2=\"80\" y2=\"320\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"325.5\" text-anchor=\"end\">0</text><line x1=\"75\" y1=\"286.2\" x2=\"80\" y2=\"286.2\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"291.8\" text-anchor=\"end\">50</text><line x1=\"75\" y1=\"252.5\" x2=\"80\" y2=\"252.5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"258\" text-anchor=\"end\">100</text><line x1=\"75\" y1=\"218.8\" x2=\"80\" y2=\"218.8\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"224.2\" text-anchor=\"end\">150</text><line x1=\"75\" y1=\"185\" x2=\"80\" y2=\"185\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"190.5\" text-anchor=\"end\">200</text><line x1=\"75\" y1=\"151.2\" x2=\"80\" y2=\"151.2\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"156.8\" text-anchor=\"end\">250</text><line x1=\"75\" y1=\"117.5\" x2=\"80\" y2=\"117.5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"123\" text-anchor=\"end\">300</text><line x1=\"75\" y1=\"83.8\" x2=\"80\" y2=\"83.8\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"89.2\" text-anchor=\"end\">350</text><line x1=\"75\" y1=\"50\" x2=\"80\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"55.5\" text-anchor=\"end\">400</text><text x=\"270\" y=\"364\" text-anchor=\"middle\">time in s</text><text x=\"28\" y=\"185\" text-anchor=\"middle\" font-size=\"16\" transform=\"rotate(-90 28 185)\">distance from home in m</text><polyline points=\"80,320 206.7,218.8 270,218.8 333.3,83.8 460,320\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.6\"/><circle cx=\"80\" cy=\"320\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"88\" y=\"321.2\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"90\" y=\"336\" font-size=\"16\" font-weight=\"bold\">A</text><circle cx=\"206.7\" cy=\"218.8\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"198.7\" y=\"191.9\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"200.7\" y=\"206.8\" font-size=\"16\" font-weight=\"bold\">B</text><circle cx=\"270\" cy=\"218.8\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"272\" y=\"225.9\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"274\" y=\"240.8\" font-size=\"16\" font-weight=\"bold\">C</text><circle cx=\"333.3\" cy=\"83.8\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"325.3\" y=\"57\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"327.3\" y=\"71.8\" font-size=\"16\" font-weight=\"bold\">D</text><circle cx=\"460\" cy=\"320\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"464\" y=\"299.2\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"466\" y=\"314\" font-size=\"16\" font-weight=\"bold\">E</text></svg>",
+       "q": "(d) In which part of the trip is the student moving fastest?",
+       "c": [
+        "A to B",
+        "B to C",
+        "C to D",
+        "D to E"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Speed from a graph",
+       "e": "The **steepest** line is the fastest. Speeds: A–B 150 ÷ 100 = 1.5 m/s; B–C 0; C–D 200 ÷ 50 = 4 m/s; D–E 350 ÷ 100 = 3.5 m/s. So **C to D** is fastest. D–E slopes steeply too, but it is slightly less steep."
+      },
+      {
+       "t": "open",
+       "p": "Question 7\nThe distance–time graph shows a student's trip from home to a shop and back. The student starts at home at A.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 380\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\"><path d=\"M111.7 320V50M175 320V50M238.3 320V50M301.7 320V50M365 320V50M428.3 320V50M80 303.1H460M80 269.4H460M80 235.6H460M80 201.9H460M80 168.1H460M80 134.4H460M80 100.6H460M80 66.9H460\" stroke=\"#c9d6ea\" stroke-width=\"0.6\" fill=\"none\"/><path d=\"M80 320V50M143.3 320V50M206.7 320V50M270 320V50M333.3 320V50M396.7 320V50M460 320V50M80 320H460M80 286.2H460M80 252.5H460M80 218.8H460M80 185H460M80 151.2H460M80 117.5H460M80 83.8H460M80 50H460\" stroke=\"#9fb3d1\" stroke-width=\"1\" fill=\"none\"/><line x1=\"80\" y1=\"320\" x2=\"460\" y2=\"320\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"80\" y1=\"320\" x2=\"80\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"80\" y1=\"320\" x2=\"80\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"80\" y=\"342\" text-anchor=\"middle\">0</text><line x1=\"143.3\" y1=\"320\" x2=\"143.3\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"143.3\" y=\"342\" text-anchor=\"middle\">50</text><line x1=\"206.7\" y1=\"320\" x2=\"206.7\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"206.7\" y=\"342\" text-anchor=\"middle\">100</text><line x1=\"270\" y1=\"320\" x2=\"270\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"270\" y=\"342\" text-anchor=\"middle\">150</text><line x1=\"333.3\" y1=\"320\" x2=\"333.3\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"333.3\" y=\"342\" text-anchor=\"middle\">200</text><line x1=\"396.7\" y1=\"320\" x2=\"396.7\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"396.7\" y=\"342\" text-anchor=\"middle\">250</text><line x1=\"460\" y1=\"320\" x2=\"460\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"460\" y=\"342\" text-anchor=\"middle\">300</text><line x1=\"75\" y1=\"320\" x2=\"80\" y2=\"320\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"325.5\" text-anchor=\"end\">0</text><line x1=\"75\" y1=\"286.2\" x2=\"80\" y2=\"286.2\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"291.8\" text-anchor=\"end\">50</text><line x1=\"75\" y1=\"252.5\" x2=\"80\" y2=\"252.5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"258\" text-anchor=\"end\">100</text><line x1=\"75\" y1=\"218.8\" x2=\"80\" y2=\"218.8\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"224.2\" text-anchor=\"end\">150</text><line x1=\"75\" y1=\"185\" x2=\"80\" y2=\"185\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"190.5\" text-anchor=\"end\">200</text><line x1=\"75\" y1=\"151.2\" x2=\"80\" y2=\"151.2\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"156.8\" text-anchor=\"end\">250</text><line x1=\"75\" y1=\"117.5\" x2=\"80\" y2=\"117.5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"123\" text-anchor=\"end\">300</text><line x1=\"75\" y1=\"83.8\" x2=\"80\" y2=\"83.8\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"89.2\" text-anchor=\"end\">350</text><line x1=\"75\" y1=\"50\" x2=\"80\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"55.5\" text-anchor=\"end\">400</text><text x=\"270\" y=\"364\" text-anchor=\"middle\">time in s</text><text x=\"28\" y=\"185\" text-anchor=\"middle\" font-size=\"16\" transform=\"rotate(-90 28 185)\">distance from home in m</text><polyline points=\"80,320 206.7,218.8 270,218.8 333.3,83.8 460,320\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.6\"/><circle cx=\"80\" cy=\"320\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"88\" y=\"321.2\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"90\" y=\"336\" font-size=\"16\" font-weight=\"bold\">A</text><circle cx=\"206.7\" cy=\"218.8\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"198.7\" y=\"191.9\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"200.7\" y=\"206.8\" font-size=\"16\" font-weight=\"bold\">B</text><circle cx=\"270\" cy=\"218.8\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"272\" y=\"225.9\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"274\" y=\"240.8\" font-size=\"16\" font-weight=\"bold\">C</text><circle cx=\"333.3\" cy=\"83.8\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"325.3\" y=\"57\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"327.3\" y=\"71.8\" font-size=\"16\" font-weight=\"bold\">D</text><circle cx=\"460\" cy=\"320\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"464\" y=\"299.2\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"466\" y=\"314\" font-size=\"16\" font-weight=\"bold\">E</text></svg>",
+       "q": "(e) Describe the student's motion between D and E. [2]",
+       "m": 2,
+       "s": "Reading graphs",
+       "ms": "1 mark: moving back towards home / distance from home decreasing / returning. 1 mark: at a constant (steady) speed — accept a correct speed of 3.5 m/s, or 'arrives home at 300 s'. Do not accept 'slowing down' or 'going downhill'.",
+       "e": "The line slopes **down**, so the distance from home is getting smaller — the student is **walking back home**. The line is **straight**, so the speed is **constant**: 350 m in 100 s = 3.5 m/s. The student reaches home (0 m) at 300 s."
+      },
+      {
+       "t": "num",
+       "p": "Question 7\nThe distance–time graph shows a student's trip from home to a shop and back. The student starts at home at A.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 380\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\"><path d=\"M111.7 320V50M175 320V50M238.3 320V50M301.7 320V50M365 320V50M428.3 320V50M80 303.1H460M80 269.4H460M80 235.6H460M80 201.9H460M80 168.1H460M80 134.4H460M80 100.6H460M80 66.9H460\" stroke=\"#c9d6ea\" stroke-width=\"0.6\" fill=\"none\"/><path d=\"M80 320V50M143.3 320V50M206.7 320V50M270 320V50M333.3 320V50M396.7 320V50M460 320V50M80 320H460M80 286.2H460M80 252.5H460M80 218.8H460M80 185H460M80 151.2H460M80 117.5H460M80 83.8H460M80 50H460\" stroke=\"#9fb3d1\" stroke-width=\"1\" fill=\"none\"/><line x1=\"80\" y1=\"320\" x2=\"460\" y2=\"320\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"80\" y1=\"320\" x2=\"80\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"80\" y1=\"320\" x2=\"80\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"80\" y=\"342\" text-anchor=\"middle\">0</text><line x1=\"143.3\" y1=\"320\" x2=\"143.3\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"143.3\" y=\"342\" text-anchor=\"middle\">50</text><line x1=\"206.7\" y1=\"320\" x2=\"206.7\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"206.7\" y=\"342\" text-anchor=\"middle\">100</text><line x1=\"270\" y1=\"320\" x2=\"270\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"270\" y=\"342\" text-anchor=\"middle\">150</text><line x1=\"333.3\" y1=\"320\" x2=\"333.3\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"333.3\" y=\"342\" text-anchor=\"middle\">200</text><line x1=\"396.7\" y1=\"320\" x2=\"396.7\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"396.7\" y=\"342\" text-anchor=\"middle\">250</text><line x1=\"460\" y1=\"320\" x2=\"460\" y2=\"325\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"460\" y=\"342\" text-anchor=\"middle\">300</text><line x1=\"75\" y1=\"320\" x2=\"80\" y2=\"320\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"325.5\" text-anchor=\"end\">0</text><line x1=\"75\" y1=\"286.2\" x2=\"80\" y2=\"286.2\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"291.8\" text-anchor=\"end\">50</text><line x1=\"75\" y1=\"252.5\" x2=\"80\" y2=\"252.5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"258\" text-anchor=\"end\">100</text><line x1=\"75\" y1=\"218.8\" x2=\"80\" y2=\"218.8\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"224.2\" text-anchor=\"end\">150</text><line x1=\"75\" y1=\"185\" x2=\"80\" y2=\"185\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"190.5\" text-anchor=\"end\">200</text><line x1=\"75\" y1=\"151.2\" x2=\"80\" y2=\"151.2\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"156.8\" text-anchor=\"end\">250</text><line x1=\"75\" y1=\"117.5\" x2=\"80\" y2=\"117.5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"123\" text-anchor=\"end\">300</text><line x1=\"75\" y1=\"83.8\" x2=\"80\" y2=\"83.8\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"89.2\" text-anchor=\"end\">350</text><line x1=\"75\" y1=\"50\" x2=\"80\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"72\" y=\"55.5\" text-anchor=\"end\">400</text><text x=\"270\" y=\"364\" text-anchor=\"middle\">time in s</text><text x=\"28\" y=\"185\" text-anchor=\"middle\" font-size=\"16\" transform=\"rotate(-90 28 185)\">distance from home in m</text><polyline points=\"80,320 206.7,218.8 270,218.8 333.3,83.8 460,320\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.6\"/><circle cx=\"80\" cy=\"320\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"88\" y=\"321.2\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"90\" y=\"336\" font-size=\"16\" font-weight=\"bold\">A</text><circle cx=\"206.7\" cy=\"218.8\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"198.7\" y=\"191.9\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"200.7\" y=\"206.8\" font-size=\"16\" font-weight=\"bold\">B</text><circle cx=\"270\" cy=\"218.8\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"272\" y=\"225.9\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"274\" y=\"240.8\" font-size=\"16\" font-weight=\"bold\">C</text><circle cx=\"333.3\" cy=\"83.8\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"325.3\" y=\"57\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"327.3\" y=\"71.8\" font-size=\"16\" font-weight=\"bold\">D</text><circle cx=\"460\" cy=\"320\" r=\"3.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"464\" y=\"299.2\" width=\"12.3\" height=\"20\" fill=\"#ffffff\"/><text x=\"466\" y=\"314\" font-size=\"16\" font-weight=\"bold\">E</text></svg>",
+       "q": "(f) Calculate the student's average speed for the whole trip from A to E. Give your answer to 2 decimal places.",
+       "ans": [
+        2.33,
+        "7/3"
+       ],
+       "tol": 0.04,
+       "unit": "m/s",
+       "m": 3,
+       "s": "Average speed",
+       "e": "Total distance = 150 m (A–B) + 0 (B–C) + 200 m (C–D) + 350 m (D–E) = **700 m**. Total time = **300 s** (including the stop). Average speed = 700 ÷ 300 = **2.33 m/s**. Common mistake: using 0 m because the student ends at home — the distance **travelled** is 700 m, even though the final distance from home is 0."
+      },
+      {
+       "t": "open",
+       "p": "Question 12\nA student times a toy car rolling along the floor. The table shows the results.\ntime in s | 0 | 2 | 4 | 6 | 8 | 10\ndistance in m | 0 | 1.0 | 2.0 | 3.0 | 3.0 | 3.0",
+       "q": "(a) Draw a distance–time graph of these results on graph paper. [3]",
+       "m": 3,
+       "s": "Drawing graphs",
+       "ms": "1 mark: time on the x-axis and distance on the y-axis, both labelled with units (s, m). 1 mark: sensible linear scales using more than half the grid (e.g. 1 cm = 1 s, 1 cm = 0.5 m) and all 6 points plotted correctly to within half a small square. 1 mark: straight line drawn with a ruler from (0, 0) to (6, 3.0), then a horizontal line from (6, 3.0) to (10, 3.0). Do not accept a curve through the points or a dot-to-dot freehand line.",
+       "e": "Put **time (s)** across the bottom (x-axis) because it is the independent variable, and **distance (m)** up the side (y-axis). Choose even scales (for example 1 large square = 2 s across and 1 large square = 1 m up). Plot the six points with small crosses. The points from 0 s to 6 s lie on a straight line — draw it with a ruler. From 6 s to 10 s the distance stays at 3.0 m, so the line is horizontal: the car has stopped."
+      },
+      {
+       "t": "num",
+       "p": "Question 12\nA student times a toy car rolling along the floor. The table shows the results.\ntime in s | 0 | 2 | 4 | 6 | 8 | 10\ndistance in m | 0 | 1.0 | 2.0 | 3.0 | 3.0 | 3.0",
+       "q": "(b) Calculate the speed of the toy car during the first 6 s.",
+       "ans": [
+        0.5,
+        "1/2"
+       ],
+       "tol": 0.001,
+       "unit": "m/s",
+       "m": 1,
+       "s": "Calculating speed",
+       "e": "In the first 6 s the car travels 3.0 m. Speed = 3.0 ÷ 6 = **0.5 m/s**. (The same answer comes from any 2 s step: 1.0 m ÷ 2 s = 0.5 m/s, which shows the speed is constant.)"
+      },
+      {
+       "t": "num",
+       "q": "A bus travels 20 km in 20 minutes on a motorway. It then travels 10 km in 30 minutes through a town. Calculate its average speed for the whole journey in **km/h**. Show your working.",
+       "ans": [
+        36
+       ],
+       "tol": 0.01,
+       "unit": "km/h",
+       "m": 3,
+       "s": "Average speed",
+       "e": "Total distance = 20 + 10 = **30 km** (1). Total time = 20 + 30 = 50 minutes = 50 ÷ 60 h = 5/6 h (1). Average speed = 30 ÷ 5/6 = 30 × 6 ÷ 5 = **36 km/h** (1). Check: at this rate, in 60 minutes the bus would go 30 × 60 ÷ 50 = 36 km. Common mistake: averaging the two speeds. The speeds are 60 km/h and 20 km/h, and (60 + 20) ÷ 2 = 40 km/h is **wrong**, because the bus spends longer at the slow speed. Always use total distance ÷ total time."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "speed = distance ÷ time; distance = speed × time; time = distance ÷ speed.",
+    "Make units match before you calculate: m and s give m/s; km and h give km/h.",
+    "Average speed = total distance ÷ total time, including stops.",
+    "On a distance–time graph: flat = stationary, straight slope = constant speed, steeper = faster, curves = speeding up or slowing down.",
+    "Speed from a graph = change in distance ÷ change in time."
+   ]
+  }
+ ]
+}

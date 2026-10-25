@@ -1,0 +1,530 @@
+{
+ "slug": "cp8s-skeleton-muscles",
+ "title": "Joints and Antagonistic Muscles",
+ "kicker": "Cambridge Lower Secondary · Science 0893 · Stage 8 · Biology",
+ "summary": "Ball-and-socket and hinge joints, and how antagonistic muscles such as the biceps and triceps move the bones at a hinge joint.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Identify ball-and-socket joints and hinge joints in the human skeleton (8Bs.01)",
+    "Explain how antagonistic muscles move the bones at a hinge joint, such as the biceps and triceps at the elbow (8Bs.01)",
+    "Skills used on this page: analogies and models, means, planning and evaluating (8TWSm.01, 8TWSm.02, 8TWSa.04)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Your skeleton has more than 200 bones. It **supports** your body, **protects** organs (the skull protects the brain, the ribs protect the heart and lungs), makes blood cells inside some bones, and — with muscles — lets you **move**. Bones are rigid, so the body can only bend where two bones meet. These places are **joints**."
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "skeleton",
+     "الهيكل العظمي — all the bones of the body"
+    ],
+    [
+     "joint",
+     "مفصل — where two bones meet"
+    ],
+    [
+     "ball-and-socket joint",
+     "مفصل كروي (كرة وتجويف) — moves in all directions, e.g. shoulder, hip"
+    ],
+    [
+     "hinge joint",
+     "مفصل رزّي (زي مفصّلة الباب) — moves in one direction, e.g. elbow, knee"
+    ],
+    [
+     "fixed joint",
+     "مفصل ثابت — no movement, e.g. skull"
+    ],
+    [
+     "cartilage",
+     "غضروف — smooth layer on bone ends; stops rubbing"
+    ],
+    [
+     "ligament",
+     "رباط — joins bone to bone"
+    ],
+    [
+     "tendon",
+     "وتر — joins muscle to bone"
+    ],
+    [
+     "contract",
+     "ينقبض — the muscle gets shorter and pulls"
+    ],
+    [
+     "relax",
+     "ينبسط / يرتخي — the muscle stops pulling and can be stretched"
+    ],
+    [
+     "antagonistic pair",
+     "زوج متضاد — two muscles that move a bone in opposite directions"
+    ],
+    [
+     "biceps / triceps",
+     "العضلة ذات الرأسين / ذات الثلاث رؤوس — front / back of the upper arm"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Types of joint"
+  },
+  {
+   "type": "p",
+   "text": "At Stage 8 you must identify two types of moving joint: **ball-and-socket** and **hinge**. You should also know that some joints, such as those between the bones of the skull, are **fixed**: they do not move at all."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 255\" width=\"560\" font-family=\"Arial, sans-serif\" font-size=\"15\"><defs><marker id=\"a\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#1d5fbf\"/></marker></defs><rect x=\"20\" y=\"90\" width=\"75\" height=\"40\" rx=\"4\" fill=\"#f3ecd9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M95 90L116 76A48 48 0 0 0 116 144L95 130Z\" fill=\"#f3ecd9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M136 73A40 40 0 0 0 136 147\" fill=\"none\" stroke=\"#7fb0e6\" stroke-width=\"7\"/><circle cx=\"150\" cy=\"110\" r=\"33\" fill=\"#f3ecd9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"170\" y=\"96\" width=\"85\" height=\"28\" rx=\"4\" fill=\"#f3ecd9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"150\" cy=\"110\" r=\"33\" fill=\"#f3ecd9\"/><path d=\"M150 77A33 33 0 0 1 178 93M178 127A33 33 0 0 1 150 143\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M272 76A70 70 0 0 1 272 144\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"2.5\" marker-end=\"url(#a)\"/><path d=\"M272 144A70 70 0 0 0 272 76\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"2.5\" marker-end=\"url(#a)\"/><path d=\"M214 132A9 26 0 1 1 224 134\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"2.5\" marker-end=\"url(#a)\"/><text x=\"130\" y=\"32\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">socket (cup)</text><line x1=\"130\" y1=\"38\" x2=\"122\" y2=\"70\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"190\" y=\"60\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">ball</text><line x1=\"188\" y1=\"58\" x2=\"164\" y2=\"90\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"70\" y=\"175\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">cartilage</text><line x1=\"80\" y1=\"162\" x2=\"110\" y2=\"132\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"140\" y=\"205\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">Ball-and-socket joint</text><text x=\"140\" y=\"225\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">moves in all directions and rotates</text><text x=\"140\" y=\"243\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">e.g. shoulder, hip</text><rect x=\"300\" y=\"94\" width=\"95\" height=\"32\" rx=\"4\" fill=\"#f3ecd9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"420\" cy=\"110\" r=\"26\" fill=\"#f3ecd9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"300\" y=\"94\" width=\"100\" height=\"32\" rx=\"0\" fill=\"#f3ecd9\" stroke=\"none\" stroke-width=\"0\"/><path d=\"M300 94H406M300 126H406\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"rotate(20 420 110)\"><path d=\"M432 80A34 34 0 0 1 432 140L530 126L530 94Z\" fill=\"#f3ecd9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M430 84A28 28 0 0 1 430 136\" fill=\"none\" stroke=\"#7fb0e6\" stroke-width=\"6\"/></g><path d=\"M497.0 74.1A85 85 0 0 1 474.6 175.1\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"2.5\" marker-end=\"url(#a)\"/><path d=\"M474.6 175.1A85 85 0 0 0 497.0 74.1\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"2.5\" marker-end=\"url(#a)\"/><text x=\"420\" y=\"205\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">Hinge joint</text><text x=\"420\" y=\"225\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">moves in one direction only (one plane)</text><text x=\"420\" y=\"243\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">e.g. elbow, knee</text></svg>",
+   "caption": "Simplified diagrams of the two moving joints. The blue arrows show the movement each allows."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "",
+    "Ball-and-socket joint",
+    "Hinge joint"
+   ],
+   "rows": [
+    [
+     "Shape",
+     "A rounded end (ball) of one bone fits into a cup-shaped hollow (socket) of another.",
+     "A rounded end of one bone fits against a curved groove in the other, like a door hinge."
+    ],
+    [
+     "Movement",
+     "In **all directions** (forwards, backwards, sideways) and it can **rotate**.",
+     "In **one direction only** — bending and straightening (one plane)."
+    ],
+    [
+     "Examples",
+     "**shoulder**, **hip**",
+     "**elbow**, **knee** (also the joints in the fingers and toes)"
+    ],
+    [
+     "Analogy",
+     "a joystick or a ball in a cup",
+     "a door on its hinges"
+    ]
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 520 380\" width=\"520\" font-family=\"Arial, sans-serif\" font-size=\"15\"><circle cx=\"150\" cy=\"42\" r=\"24\" fill=\"#fff\" stroke=\"#0f1b33\" stroke-width=\"3\"/><line x1=\"150\" y1=\"66\" x2=\"150\" y2=\"82\" stroke=\"#0f1b33\" stroke-width=\"4\"/><line x1=\"106\" y1=\"86\" x2=\"194\" y2=\"86\" stroke=\"#0f1b33\" stroke-width=\"4\"/><line x1=\"150\" y1=\"82\" x2=\"150\" y2=\"196\" stroke=\"#0f1b33\" stroke-width=\"4\"/><line x1=\"120\" y1=\"196\" x2=\"180\" y2=\"196\" stroke=\"#0f1b33\" stroke-width=\"4\"/><line x1=\"106\" y1=\"86\" x2=\"92\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"4\"/><line x1=\"92\" y1=\"150\" x2=\"86\" y2=\"212\" stroke=\"#0f1b33\" stroke-width=\"4\"/><line x1=\"194\" y1=\"86\" x2=\"208\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"4\"/><line x1=\"208\" y1=\"150\" x2=\"214\" y2=\"212\" stroke=\"#0f1b33\" stroke-width=\"4\"/><line x1=\"120\" y1=\"196\" x2=\"116\" y2=\"280\" stroke=\"#0f1b33\" stroke-width=\"4\"/><line x1=\"116\" y1=\"280\" x2=\"114\" y2=\"360\" stroke=\"#0f1b33\" stroke-width=\"4\"/><line x1=\"180\" y1=\"196\" x2=\"184\" y2=\"280\" stroke=\"#0f1b33\" stroke-width=\"4\"/><line x1=\"184\" y1=\"280\" x2=\"186\" y2=\"360\" stroke=\"#0f1b33\" stroke-width=\"4\"/><circle cx=\"106\" cy=\"86\" r=\"9\" fill=\"#f6d5d2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"194\" cy=\"86\" r=\"9\" fill=\"#f6d5d2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"120\" cy=\"196\" r=\"9\" fill=\"#f6d5d2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"180\" cy=\"196\" r=\"9\" fill=\"#f6d5d2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"84\" y=\"142\" width=\"16\" height=\"16\" fill=\"#cfe2f7\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"200\" y=\"142\" width=\"16\" height=\"16\" fill=\"#cfe2f7\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"108\" y=\"272\" width=\"16\" height=\"16\" fill=\"#cfe2f7\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"176\" y=\"272\" width=\"16\" height=\"16\" fill=\"#cfe2f7\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"206\" y1=\"86\" x2=\"290\" y2=\"86\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"296\" y=\"91\" text-anchor=\"start\" font-size=\"14\" fill=\"#0f1b33\">shoulder: ball-and-socket</text><line x1=\"220\" y1=\"150\" x2=\"290\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"296\" y=\"155\" text-anchor=\"start\" font-size=\"14\" fill=\"#0f1b33\">elbow: hinge</text><line x1=\"192\" y1=\"196\" x2=\"290\" y2=\"196\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"296\" y=\"201\" text-anchor=\"start\" font-size=\"14\" fill=\"#0f1b33\">hip: ball-and-socket</text><line x1=\"196\" y1=\"280\" x2=\"290\" y2=\"280\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"296\" y=\"285\" text-anchor=\"start\" font-size=\"14\" fill=\"#0f1b33\">knee: hinge</text><line x1=\"170\" y1=\"30\" x2=\"290\" y2=\"30\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"296\" y=\"26\" text-anchor=\"start\" font-size=\"14\" fill=\"#0f1b33\">skull: fixed joints</text><text x=\"296\" y=\"43\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">(no movement)</text><circle cx=\"300\" cy=\"330\" r=\"9\" fill=\"#f6d5d2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"316\" y=\"335\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">ball-and-socket joint</text><rect x=\"292\" y=\"350\" width=\"16\" height=\"16\" fill=\"#cfe2f7\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"316\" y=\"363\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">hinge joint</text></svg>",
+   "caption": "Where the main joints are in the human skeleton (simplified)."
+  },
+  {
+   "type": "h2",
+   "text": "Inside a moving joint"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**Cartilage** covers the ends of the bones. It is smooth and slightly soft, so the bones do not rub (less friction) and shocks are absorbed when you run or jump.",
+    "**Ligaments** are strong, slightly stretchy bands that join **bone to bone** and hold the joint together.",
+    "A slippery liquid inside the joint (synovial fluid) **lubricates** it, like oil in a door hinge.",
+    "**Tendons** are strong cords that join **muscle to bone**. They do not stretch, so when a muscle shortens the pull is passed to the bone."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Memory trick:** **L**igament **L**inks bone to bone. **T**endon **T**ies muscle to bone."
+  },
+  {
+   "type": "h2",
+   "text": "Muscles can only pull"
+  },
+  {
+   "type": "p",
+   "text": "A muscle moves a bone by **contracting**: it gets **shorter and fatter** and **pulls** on the bone through its tendon. When it **relaxes**, it stops pulling and can be stretched back to its long, thin shape. **A muscle can never push.** So one muscle can move a bone in one direction only. To move the bone back again, you need a second muscle on the other side of the joint."
+  },
+  {
+   "type": "p",
+   "text": "Two muscles that move the same bone in **opposite directions** are called an **antagonistic pair**. When one muscle contracts, the other relaxes."
+  },
+  {
+   "type": "h2",
+   "text": "Biceps and triceps at the elbow (a hinge joint)"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 395\" width=\"560\" font-family=\"Arial, sans-serif\" font-size=\"15\"><defs><marker id=\"a\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#1d5fbf\"/></marker></defs><line x1=\"110.0\" y1=\"40.0\" x2=\"110.0\" y2=\"200.0\" stroke=\"#0f1b33\" stroke-width=\"20\" stroke-linecap=\"round\"/><line x1=\"110.0\" y1=\"40.0\" x2=\"110.0\" y2=\"200.0\" stroke=\"#f3ecd9\" stroke-width=\"16\" stroke-linecap=\"round\"/><line x1=\"110.0\" y1=\"200.0\" x2=\"206.4\" y2=\"85.1\" stroke=\"#0f1b33\" stroke-width=\"20\" stroke-linecap=\"round\"/><line x1=\"110.0\" y1=\"200.0\" x2=\"206.4\" y2=\"85.1\" stroke=\"#f3ecd9\" stroke-width=\"16\" stroke-linecap=\"round\"/><circle cx=\"110.0\" cy=\"200.0\" r=\"10\" fill=\"#f3ecd9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"120.0\" y1=\"52.0\" x2=\"137.0\" y2=\"72.0\" stroke=\"#0f1b33\" stroke-width=\"3\"/><line x1=\"137.0\" y1=\"158.0\" x2=\"136.2\" y2=\"182.8\" stroke=\"#0f1b33\" stroke-width=\"3\"/><path d=\"M137.0 72.0Q107.0 115.0 137.0 158.0Q167.0 115.0 137.0 72.0Z\" fill=\"#f2b8b0\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"100.0\" y1=\"52.0\" x2=\"85.0\" y2=\"72.0\" stroke=\"#0f1b33\" stroke-width=\"3\"/><line x1=\"85.0\" y1=\"175.0\" x2=\"101.0\" y2=\"208.0\" stroke=\"#0f1b33\" stroke-width=\"3\"/><path d=\"M85.0 72.0Q71.0 123.5 85.0 175.0Q99.0 123.5 85.0 72.0Z\" fill=\"#f6d5d2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"192\" y=\"67\" text-anchor=\"start\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">biceps</text><text x=\"192\" y=\"84\" text-anchor=\"start\" font-size=\"13\" font-weight=\"bold\" fill=\"#b3261e\">CONTRACTS</text><line x1=\"189\" y1=\"77\" x2=\"157\" y2=\"103\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"50\" y=\"115.5\" text-anchor=\"end\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">triceps</text><text x=\"50\" y=\"132.5\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">relaxes</text><line x1=\"52\" y1=\"123.5\" x2=\"77\" y2=\"123.5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"90\" y=\"240\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">elbow (hinge joint)</text><path d=\"M229.5 189.5A120 120 0 0 0 199.2 119.7\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"2.5\" marker-end=\"url(#a)\"/><text x=\"235.543\" y=\"211.541\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#1d5fbf\">forearm pulled up</text><line x1=\"420.0\" y1=\"40.0\" x2=\"420.0\" y2=\"200.0\" stroke=\"#0f1b33\" stroke-width=\"20\" stroke-linecap=\"round\"/><line x1=\"420.0\" y1=\"40.0\" x2=\"420.0\" y2=\"200.0\" stroke=\"#f3ecd9\" stroke-width=\"16\" stroke-linecap=\"round\"/><line x1=\"420.0\" y1=\"200.0\" x2=\"424.0\" y2=\"350.0\" stroke=\"#0f1b33\" stroke-width=\"20\" stroke-linecap=\"round\"/><line x1=\"420.0\" y1=\"200.0\" x2=\"424.0\" y2=\"350.0\" stroke=\"#f3ecd9\" stroke-width=\"16\" stroke-linecap=\"round\"/><circle cx=\"420.0\" cy=\"200.0\" r=\"10\" fill=\"#f3ecd9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"430.0\" y1=\"52.0\" x2=\"447.0\" y2=\"72.0\" stroke=\"#0f1b33\" stroke-width=\"3\"/><line x1=\"447.0\" y1=\"170.0\" x2=\"430.0\" y2=\"230.0\" stroke=\"#0f1b33\" stroke-width=\"3\"/><path d=\"M447.0 72.0Q431.0 121.0 447.0 170.0Q463.0 121.0 447.0 72.0Z\" fill=\"#f2b8b0\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"410.0\" y1=\"52.0\" x2=\"395.0\" y2=\"72.0\" stroke=\"#0f1b33\" stroke-width=\"3\"/><line x1=\"395.0\" y1=\"175.0\" x2=\"411.0\" y2=\"208.0\" stroke=\"#0f1b33\" stroke-width=\"3\"/><path d=\"M395.0 72.0Q367.0 123.5 395.0 175.0Q423.0 123.5 395.0 72.0Z\" fill=\"#f2b8b0\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"487\" y=\"113\" text-anchor=\"start\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">biceps</text><text x=\"487\" y=\"130\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">relaxes</text><line x1=\"484\" y1=\"121\" x2=\"458\" y2=\"121\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"360\" y=\"115.5\" text-anchor=\"end\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">triceps</text><text x=\"360\" y=\"132.5\" text-anchor=\"end\" font-size=\"13\" font-weight=\"bold\" fill=\"#b3261e\">CONTRACTS</text><line x1=\"362\" y1=\"123.5\" x2=\"378\" y2=\"123.5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"442\" y=\"205\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">elbow</text><path d=\"M523.4 237.6A110 110 0 0 1 448.5 306.3\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"2.5\" marker-end=\"url(#a)\"/><text x=\"460\" y=\"332\" text-anchor=\"start\" font-size=\"13\" font-weight=\"bold\" fill=\"#1d5fbf\">forearm</text><text x=\"460\" y=\"349\" text-anchor=\"start\" font-size=\"13\" font-weight=\"bold\" fill=\"#1d5fbf\">pulled down</text><text x=\"130\" y=\"380\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">Bending the arm</text><text x=\"430\" y=\"380\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">Straightening the arm</text></svg>",
+   "caption": "The biceps and triceps are an antagonistic pair. Each is joined by tendons to the shoulder and to a forearm bone."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Movement",
+    "Biceps (front of upper arm)",
+    "Triceps (back of upper arm)",
+    "What happens to the forearm"
+   ],
+   "rows": [
+    [
+     "**Bending** the arm (raising the forearm)",
+     "**contracts** — shorter and fatter",
+     "**relaxes** — stretched",
+     "The biceps pulls the forearm **up**; the elbow (hinge) bends."
+    ],
+    [
+     "**Straightening** the arm (lowering the forearm)",
+     "**relaxes** — stretched",
+     "**contracts** — shorter and fatter",
+     "The triceps pulls the forearm **down**; the arm straightens."
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "The brain sends a signal to the biceps.",
+    "The biceps **contracts** (gets shorter).",
+    "Its tendon is attached to the forearm just below the elbow, so it **pulls the forearm up**.",
+    "The elbow joint **bends** — like a door swinging on its hinge.",
+    "The triceps **relaxes** and is stretched as the arm bends.",
+    "To straighten the arm, the triceps contracts and pulls the forearm down, and the biceps relaxes."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**The knee works the same way.** The **hamstrings** at the back of the thigh contract to **bend** the knee; the **quadriceps** at the front of the thigh contract to **straighten** it. Hamstrings and quadriceps are another antagonistic pair."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "العضلة بتشدّ بس",
+   "text": "العضلة عمرها ما بتزق العظمة — هي بتنقبض (contract) فتقصر وتشدّ. عشان كده العضلات بتشتغل أزواج متضادة (antagonistic pair): في الكوع، الـ biceps قدّام بتنقبض فتثني الدراع، والـ triceps ورا بتنقبض فتفرد الدراع. لما واحدة تنقبض، التانية ترتخي (relaxes)."
+  },
+  {
+   "type": "p",
+   "text": "**Model (analogy):** you can model the arm with two pieces of card joined by a split pin (the elbow) and two elastic bands or strings for the muscles. Pulling the front string raises the \"forearm\"; pulling the back string lowers it. The model shows why two muscles are needed. Its limitations: strings do not contract by themselves, the card joint has no cartilage or ligaments, and the real biceps is attached at the shoulder by two tendons."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — identifying joints\nName the type of joint at (a) the hip, (b) the elbow, (c) the knee. [3]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) ball-and-socket",
+    "(b) hinge",
+    "(c) hinge"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Common mistake:** calling the knee a ball-and-socket joint because it is big. Ask: \"Can it move in all directions?\" The knee only bends and straightens."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — explaining a movement\nExplain how the muscles in the upper arm bend the arm at the elbow. [3]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "The **biceps contracts** (shortens) [1].",
+    "It **pulls** on the forearm (through a tendon), so the forearm moves up / the arm bends [1].",
+    "At the same time the **triceps relaxes** [1]."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Common mistake:** \"The triceps pushes the arm up.\" Muscles never push."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — why pairs?\nMuscles usually work in pairs. Explain why. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Muscles can only **pull** (contract); they cannot push [1].",
+    "So a second muscle is needed to pull the bone back the other way / one muscle bends the joint and the other straightens it [1]."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — the knee\nA student kicks a ball. Just before the kick her knee is bent; then the leg straightens. (a) Which muscle contracts to straighten the leg? [1] (b) What happens to the hamstrings? [1] (c) What type of joint is the knee? [1]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) the **quadriceps** (front of the thigh)",
+    "(b) they **relax** (and are stretched)",
+    "(c) a **hinge** joint"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — a model and its limitation\nOmar builds a model arm with card, a split pin and two strings, A on the front and B on the back. (a) Which string models the triceps? [1] (b) What does the split pin represent? [1] (c) Give one way the model is different from a real arm. [1]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) **B** — the triceps is at the back of the upper arm.",
+    "(b) the **elbow** (hinge) joint.",
+    "(c) Any one: strings do not contract on their own; muscles get fatter when they contract but strings do not; there is no cartilage/ligaments in the model; the model only moves on a flat card."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** — comparing joints\nThe shoulder can move the arm in a full circle, but the elbow cannot. Explain this using the types of joint. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "The shoulder is a **ball-and-socket** joint, which allows movement in **all directions** / rotation [1].",
+    "The elbow is a **hinge** joint, which only moves in **one direction** (bending and straightening) [1]."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Saying a muscle pushes. Muscles only pull (contract).",
+    "Saying a relaxed muscle \"pushes back\" or \"gets longer and pulls\". Relaxing means it stops pulling and is stretched by the other muscle.",
+    "Mixing up biceps (front, bends the arm) and triceps (back, straightens the arm).",
+    "Mixing up tendons (muscle to bone) and ligaments (bone to bone).",
+    "Calling the knee or elbow a ball-and-socket joint.",
+    "Writing \"the muscle contracts and relaxes\" without saying WHICH muscle does which."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "A diagram of an arm with muscles labelled with letters: \"Which muscle contracts to raise the forearm?\" — find which side of the joint pulls the forearm up.",
+    "\"Name the type of joint at the shoulder / knee.\" One word or phrase — spell ball-and-socket in full.",
+    "\"Explain how antagonistic muscles…\" — 2 or 3 marks: name the muscle that contracts, say it pulls the bone, say the other relaxes.",
+    "Draw lines to match joints to examples, or tick the hinge joints in a list.",
+    "Model questions: what each part of a model represents, and one limitation."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Joints and antagonistic muscles: practice",
+   "timed": false,
+   "intro": "14 Checkpoint-style questions. Use the arm diagram where it is shown. Full solutions appear after you check.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 20,
+     "calc": true,
+     "questions": [
+      {
+       "q": "Which type of joint is found at the shoulder?",
+       "c": [
+        "hinge joint",
+        "fixed joint",
+        "ball-and-socket joint",
+        "a joint with no movement"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Joints",
+       "e": "The shoulder is a ball-and-socket joint: the rounded end of the upper arm bone fits into a cup, so the arm can move in all directions and rotate."
+      },
+      {
+       "q": "Which joint is a hinge joint?",
+       "c": [
+        "hip",
+        "shoulder",
+        "the joints between the bones of the skull",
+        "knee"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Joints",
+       "e": "The knee (like the elbow) is a hinge joint: it bends and straightens in one direction only. Hip and shoulder are ball-and-socket joints; the skull has fixed joints."
+      },
+      {
+       "t": "text",
+       "q": "Name the type of joint at the hip.",
+       "ans": [
+        "ball and socket",
+        "ball-and-socket",
+        "ball and socket joint",
+        "ball-and-socket joint",
+        "a ball and socket joint",
+        "a ball-and-socket joint",
+        "ball & socket"
+       ],
+       "m": 1,
+       "s": "Joints",
+       "e": "The hip is a ball-and-socket joint — the ball at the top of the thigh bone fits in a socket in the hip bone."
+      },
+      {
+       "q": "Which statement about muscles is correct?",
+       "c": [
+        "Muscles can push and pull bones.",
+        "Muscles can only pull bones; they cannot push.",
+        "Muscles can only push bones; they cannot pull.",
+        "Muscles move bones by getting longer."
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Muscles",
+       "e": "A muscle moves a bone only by contracting (getting shorter), which pulls the bone. It cannot push, so muscles work in pairs."
+      },
+      {
+       "t": "text",
+       "p": "Question 5\nThe diagram shows the bones and two muscles, X and Y, of a person's arm.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 275\" width=\"300\" font-family=\"Arial, sans-serif\" font-size=\"15\"><defs><marker id=\"a\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#1d5fbf\"/></marker></defs><line x1=\"120.0\" y1=\"40.0\" x2=\"120.0\" y2=\"200.0\" stroke=\"#0f1b33\" stroke-width=\"20\" stroke-linecap=\"round\"/><line x1=\"120.0\" y1=\"40.0\" x2=\"120.0\" y2=\"200.0\" stroke=\"#f3ecd9\" stroke-width=\"16\" stroke-linecap=\"round\"/><line x1=\"120.0\" y1=\"200.0\" x2=\"216.4\" y2=\"85.1\" stroke=\"#0f1b33\" stroke-width=\"20\" stroke-linecap=\"round\"/><line x1=\"120.0\" y1=\"200.0\" x2=\"216.4\" y2=\"85.1\" stroke=\"#f3ecd9\" stroke-width=\"16\" stroke-linecap=\"round\"/><circle cx=\"120.0\" cy=\"200.0\" r=\"10\" fill=\"#f3ecd9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"130.0\" y1=\"52.0\" x2=\"147.0\" y2=\"72.0\" stroke=\"#0f1b33\" stroke-width=\"3\"/><line x1=\"147.0\" y1=\"158.0\" x2=\"146.2\" y2=\"182.8\" stroke=\"#0f1b33\" stroke-width=\"3\"/><path d=\"M147.0 72.0Q117.0 115.0 147.0 158.0Q177.0 115.0 147.0 72.0Z\" fill=\"#f2b8b0\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"110.0\" y1=\"52.0\" x2=\"95.0\" y2=\"72.0\" stroke=\"#0f1b33\" stroke-width=\"3\"/><line x1=\"95.0\" y1=\"175.0\" x2=\"111.0\" y2=\"208.0\" stroke=\"#0f1b33\" stroke-width=\"3\"/><path d=\"M95.0 72.0Q81.0 123.5 95.0 175.0Q109.0 123.5 95.0 72.0Z\" fill=\"#f6d5d2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"217\" y=\"75\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\" fill=\"#0f1b33\">X</text><line x1=\"207\" y1=\"71\" x2=\"165\" y2=\"105\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"45\" y=\"128.5\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\" fill=\"#0f1b33\">Y</text><line x1=\"53\" y1=\"123.5\" x2=\"85\" y2=\"123.5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/></svg>",
+       "q": "(a) Which muscle, X or Y, contracts to bend the arm at the elbow? Write the letter.",
+       "ans": [
+        "X"
+       ],
+       "m": 1,
+       "s": "Antagonistic muscles",
+       "e": "X is the biceps, on the front of the upper arm. Its tendon is attached to the forearm below the elbow, so when X contracts it pulls the forearm up and the arm bends."
+      },
+      {
+       "t": "text",
+       "p": "Question 5\nThe diagram shows the bones and two muscles, X and Y, of a person's arm.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 275\" width=\"300\" font-family=\"Arial, sans-serif\" font-size=\"15\"><defs><marker id=\"a\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#1d5fbf\"/></marker></defs><line x1=\"120.0\" y1=\"40.0\" x2=\"120.0\" y2=\"200.0\" stroke=\"#0f1b33\" stroke-width=\"20\" stroke-linecap=\"round\"/><line x1=\"120.0\" y1=\"40.0\" x2=\"120.0\" y2=\"200.0\" stroke=\"#f3ecd9\" stroke-width=\"16\" stroke-linecap=\"round\"/><line x1=\"120.0\" y1=\"200.0\" x2=\"216.4\" y2=\"85.1\" stroke=\"#0f1b33\" stroke-width=\"20\" stroke-linecap=\"round\"/><line x1=\"120.0\" y1=\"200.0\" x2=\"216.4\" y2=\"85.1\" stroke=\"#f3ecd9\" stroke-width=\"16\" stroke-linecap=\"round\"/><circle cx=\"120.0\" cy=\"200.0\" r=\"10\" fill=\"#f3ecd9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"130.0\" y1=\"52.0\" x2=\"147.0\" y2=\"72.0\" stroke=\"#0f1b33\" stroke-width=\"3\"/><line x1=\"147.0\" y1=\"158.0\" x2=\"146.2\" y2=\"182.8\" stroke=\"#0f1b33\" stroke-width=\"3\"/><path d=\"M147.0 72.0Q117.0 115.0 147.0 158.0Q177.0 115.0 147.0 72.0Z\" fill=\"#f2b8b0\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"110.0\" y1=\"52.0\" x2=\"95.0\" y2=\"72.0\" stroke=\"#0f1b33\" stroke-width=\"3\"/><line x1=\"95.0\" y1=\"175.0\" x2=\"111.0\" y2=\"208.0\" stroke=\"#0f1b33\" stroke-width=\"3\"/><path d=\"M95.0 72.0Q81.0 123.5 95.0 175.0Q109.0 123.5 95.0 72.0Z\" fill=\"#f6d5d2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"217\" y=\"75\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\" fill=\"#0f1b33\">X</text><line x1=\"207\" y1=\"71\" x2=\"165\" y2=\"105\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"45\" y=\"128.5\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\" fill=\"#0f1b33\">Y</text><line x1=\"53\" y1=\"123.5\" x2=\"85\" y2=\"123.5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/></svg>",
+       "q": "(b) Muscle X contracts. What does muscle Y do at the same time? Write one word.",
+       "ans": [
+        "relaxes",
+        "relax",
+        "it relaxes",
+        "relaxing",
+        "lengthens",
+        "it lengthens"
+       ],
+       "m": 1,
+       "s": "Antagonistic muscles",
+       "e": "Y (the triceps) relaxes when X contracts. In an antagonistic pair, when one muscle contracts the other relaxes."
+      },
+      {
+       "t": "open",
+       "p": "Question 5\nThe diagram shows the bones and two muscles, X and Y, of a person's arm.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 275\" width=\"300\" font-family=\"Arial, sans-serif\" font-size=\"15\"><defs><marker id=\"a\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#1d5fbf\"/></marker></defs><line x1=\"120.0\" y1=\"40.0\" x2=\"120.0\" y2=\"200.0\" stroke=\"#0f1b33\" stroke-width=\"20\" stroke-linecap=\"round\"/><line x1=\"120.0\" y1=\"40.0\" x2=\"120.0\" y2=\"200.0\" stroke=\"#f3ecd9\" stroke-width=\"16\" stroke-linecap=\"round\"/><line x1=\"120.0\" y1=\"200.0\" x2=\"216.4\" y2=\"85.1\" stroke=\"#0f1b33\" stroke-width=\"20\" stroke-linecap=\"round\"/><line x1=\"120.0\" y1=\"200.0\" x2=\"216.4\" y2=\"85.1\" stroke=\"#f3ecd9\" stroke-width=\"16\" stroke-linecap=\"round\"/><circle cx=\"120.0\" cy=\"200.0\" r=\"10\" fill=\"#f3ecd9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"130.0\" y1=\"52.0\" x2=\"147.0\" y2=\"72.0\" stroke=\"#0f1b33\" stroke-width=\"3\"/><line x1=\"147.0\" y1=\"158.0\" x2=\"146.2\" y2=\"182.8\" stroke=\"#0f1b33\" stroke-width=\"3\"/><path d=\"M147.0 72.0Q117.0 115.0 147.0 158.0Q177.0 115.0 147.0 72.0Z\" fill=\"#f2b8b0\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"110.0\" y1=\"52.0\" x2=\"95.0\" y2=\"72.0\" stroke=\"#0f1b33\" stroke-width=\"3\"/><line x1=\"95.0\" y1=\"175.0\" x2=\"111.0\" y2=\"208.0\" stroke=\"#0f1b33\" stroke-width=\"3\"/><path d=\"M95.0 72.0Q81.0 123.5 95.0 175.0Q109.0 123.5 95.0 72.0Z\" fill=\"#f6d5d2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"217\" y=\"75\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\" fill=\"#0f1b33\">X</text><line x1=\"207\" y1=\"71\" x2=\"165\" y2=\"105\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"45\" y=\"128.5\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\" fill=\"#0f1b33\">Y</text><line x1=\"53\" y1=\"123.5\" x2=\"85\" y2=\"123.5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/></svg>",
+       "q": "(c) Explain why muscles X and Y are called an antagonistic pair.",
+       "m": 2,
+       "s": "Antagonistic muscles",
+       "ms": "1 mark: muscles can only pull / contract, they cannot push. 1 mark: so they work in opposite directions / one bends the arm and the other straightens it / when one contracts the other relaxes. Do not accept: \"one muscle pushes and the other pulls\".",
+       "e": "Muscles can only pull. X pulls the forearm up (bends the arm) and Y pulls it down (straightens it). Because they cause opposite movements — one contracts while the other relaxes — they are an antagonistic pair."
+      },
+      {
+       "t": "text",
+       "q": "What is the name of the tough cord that attaches a muscle to a bone?",
+       "ans": [
+        "tendon",
+        "a tendon",
+        "tendons",
+        "the tendon"
+       ],
+       "m": 1,
+       "s": "Muscles",
+       "e": "A tendon joins a muscle to a bone. (A ligament joins a bone to another bone.)"
+      },
+      {
+       "q": "Why is a hinge joint given that name?",
+       "c": [
+        "It moves back and forth in one direction, like a door.",
+        "It can rotate in a full circle.",
+        "It cannot move at all.",
+        "It moves in many directions like a ball in a cup."
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Joints",
+       "e": "A door hinge lets a door swing only one way and back. A hinge joint (elbow, knee) also moves in one plane only."
+      },
+      {
+       "t": "open",
+       "p": "Question 10\nThe hamstrings are muscles at the back of the thigh. The quadriceps are muscles at the front of the thigh. Both are attached to the lower leg below the knee.",
+       "q": "Describe how these muscles straighten the leg at the knee.",
+       "m": 2,
+       "s": "Antagonistic muscles",
+       "ms": "1 mark: the quadriceps contract (get shorter). 1 mark: and pull the lower leg (bone) forward/straight while the hamstrings relax. Do not accept: \"the hamstrings push the leg\".",
+       "e": "To straighten the leg, the quadriceps (front) contract and pull on the lower leg bone through a tendon, while the hamstrings (back) relax. To bend the knee it is the opposite: the hamstrings contract and the quadriceps relax."
+      },
+      {
+       "q": "Jana makes a model of an arm from two pieces of card joined with a pin, and two elastic bands for the muscles. Which is a limitation of her model?",
+       "c": [
+        "The elastic bands can only pull, like muscles.",
+        "The card bones do not bend, like real bones.",
+        "The elastic bands do not contract by themselves; real muscles contract when the body sends a signal.",
+        "The pin lets the card move in one direction, like an elbow."
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Models",
+       "e": "A limitation is a way the model is DIFFERENT from the real arm. Real muscles contract by themselves; an elastic band only gets shorter when it is pulled and let go. The other three options are ways the model is similar."
+      },
+      {
+       "t": "num",
+       "q": "Ahmed counts how many times he can lift a 1 kg bottle by bending his arm in 30 seconds. He does this three times: 12, 14 and 13. Calculate the mean.",
+       "ans": [
+        13
+       ],
+       "tol": 0,
+       "unit": "lifts",
+       "m": 1,
+       "s": "Mean",
+       "e": "Mean = (12 + 14 + 13) ÷ 3 = 39 ÷ 3 = 13 lifts."
+      },
+      {
+       "t": "text",
+       "q": "Which joints in the skull allow no movement? Complete: the skull has ______ joints.",
+       "ans": [
+        "fixed",
+        "fused",
+        "immovable",
+        "fixed joints"
+       ],
+       "m": 1,
+       "s": "Joints",
+       "e": "The bones of the skull are joined by fixed joints, so they protect the brain and do not move."
+      },
+      {
+       "t": "open",
+       "q": "A footballer needs to swing his leg forwards, backwards, sideways and round. Explain why the hip, and not the knee, allows these movements.",
+       "m": 2,
+       "s": "Joints",
+       "ms": "1 mark: the hip is a ball-and-socket joint (the knee is a hinge joint). 1 mark: a ball-and-socket joint allows movement in all directions / rotation, but a hinge joint only allows movement in one direction / one plane. Accept: the ball can turn in the socket.",
+       "e": "The hip is a ball-and-socket joint: the ball-shaped end of the thigh bone can turn in its cup, so the leg moves in all directions and rotates. The knee is a hinge joint and only bends and straightens in one plane."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Ball-and-socket joints (shoulder, hip) move in all directions and rotate; hinge joints (elbow, knee) move in one direction only.",
+    "Muscles can only pull (contract); they cannot push.",
+    "Antagonistic pair: when one muscle contracts, the other relaxes.",
+    "Elbow: biceps contracts → arm bends; triceps contracts → arm straightens.",
+    "Tendons join muscle to bone; ligaments join bone to bone; cartilage stops bones rubbing."
+   ]
+  }
+ ]
+}

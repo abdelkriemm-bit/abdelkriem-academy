@@ -1,0 +1,106 @@
+{
+ "course": "cp8s",
+ "spec": "SPEC_LS8_SCIENCE.md",
+ "pages": {
+  "cp8s-overview": {
+   "title": "Stage 8 Science: The Tests and How to Prepare",
+   "covers": "exam overview"
+  },
+  "cp8s-working-scientifically": {
+   "title": "Thinking and Working Scientifically: Models, Investigations and Analysing Results",
+   "covers": "all Stage 8 TWS objectives"
+  },
+  "cp8s-skeleton-muscles": {
+   "title": "Joints and Antagonistic Muscles",
+   "covers": "8Bs.01"
+  },
+  "cp8s-blood": {
+   "title": "Blood and Its Components",
+   "covers": "8Bs.02"
+  },
+  "cp8s-breathing-gas-exchange": {
+   "title": "Breathing, Gas Exchange and Diffusion in the Lungs",
+   "covers": "8Bs.03 8Bs.04"
+  },
+  "cp8s-diet-health": {
+   "title": "A Balanced Diet, Energy Stores and Lifestyle",
+   "covers": "8Bp.01 8Bp.02 8Bp.03"
+  },
+  "cp8s-respiration": {
+   "title": "Aerobic Respiration",
+   "covers": "8Bp.04 8Bp.05"
+  },
+  "cp8s-ecosystems": {
+   "title": "Ecosystems, Bioaccumulation and Invasive Species",
+   "covers": "8Be.01 8Be.02 8Be.03"
+  },
+  "cp8s-atoms": {
+   "title": "The Structure of the Atom",
+   "covers": "8Cm.01 8Cm.02 8Cm.03"
+  },
+  "cp8s-purity-concentration-chromatography": {
+   "title": "Purity, Concentration and Chromatography",
+   "covers": "8Cm.04 8Cp.01 8Cp.02"
+  },
+  "cp8s-word-equations-energy": {
+   "title": "Word Equations, Exothermic and Endothermic Reactions",
+   "covers": "8Cc.01 8Cc.02"
+  },
+  "cp8s-reactivity-of-metals": {
+   "title": "The Reactivity of Metals",
+   "covers": "8Cc.03 8Cc.06"
+  },
+  "cp8s-products-solubility": {
+   "title": "Impure Products and Solubility of Salts",
+   "covers": "8Cc.04 8Cc.05"
+  },
+  "cp8s-speed-graphs": {
+   "title": "Speed and Distance–Time Graphs",
+   "covers": "8Pf.01 8Pf.02"
+  },
+  "cp8s-forces-moments": {
+   "title": "Balanced and Unbalanced Forces, and Moments",
+   "covers": "8Pf.03 8Pf.04"
+  },
+  "cp8s-pressure-diffusion": {
+   "title": "Pressure, Particles and Diffusion",
+   "covers": "8Pf.05 8Pf.06 8Pf.07"
+  },
+  "cp8s-reflection-refraction": {
+   "title": "Reflection and Refraction",
+   "covers": "8Ps.01 8Ps.02"
+  },
+  "cp8s-colour": {
+   "title": "Dispersion and Colour",
+   "covers": "8Ps.03 8Ps.04"
+  },
+  "cp8s-magnetism": {
+   "title": "Magnetic Fields and Electromagnets",
+   "covers": "8Pe.01 8Pe.02 8Pe.03"
+  },
+  "cp8s-earth-resources": {
+   "title": "The Earth's Magnetic Field and Earth's Resources",
+   "covers": "8ESp.01 8ESp.02"
+  },
+  "cp8s-climate": {
+   "title": "Climate, Weather and Climate Change",
+   "covers": "8ESc.01 8ESc.02 8ESc.03"
+  },
+  "cp8s-galaxies-asteroids": {
+   "title": "Galaxies and Asteroids",
+   "covers": "8ESs.01 8ESs.02"
+  },
+  "cp8s-practice-test-1": {
+   "title": "Stage 8 Science — Practice Test 1",
+   "covers": "TEST"
+  },
+  "cp8s-practice-test-2": {
+   "title": "Stage 8 Science — Practice Test 2",
+   "covers": "TEST"
+  },
+  "cp8s-practice-test-3": {
+   "title": "Stage 8 Science — Practice Test 3",
+   "covers": "TEST"
+  }
+ }
+}

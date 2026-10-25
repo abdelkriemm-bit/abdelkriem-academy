@@ -1,0 +1,647 @@
+{
+ "slug": "cp8s-colour",
+ "title": "Dispersion and Colour",
+ "kicker": "Cambridge Lower Secondary · Science 0893 · Stage 8 · Physics",
+ "summary": "How a prism shows that white light is a mixture of colours, and how colours of light are added, subtracted by filters, absorbed and reflected to give objects their colour.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Know that **white light is a mixture of many colours**, and that this can be shown by passing white light through a **prism** (dispersion). (8Ps.03)",
+    "Describe how colours of light can be **added** (mixed), **subtracted** (by filters), **absorbed** and **reflected** — and use this to explain the colours of objects and filters. (8Ps.04)",
+    "Thinking and Working Scientifically used on this page: making predictions from scientific knowledge (8TWSp.03) and presenting observations in tables (8TWSa.05)."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "white light",
+     "الضوء الأبيض — light from the Sun or a lamp; a mixture of all the colours of the spectrum"
+    ],
+    [
+     "prism",
+     "منشور — a triangular block of glass or clear plastic"
+    ],
+    [
+     "dispersion",
+     "التشتت (تحليل الضوء) — splitting white light into its separate colours"
+    ],
+    [
+     "spectrum",
+     "الطيف — the band of colours made by dispersion: red, orange, yellow, green, blue, indigo, violet"
+    ],
+    [
+     "primary colours of light",
+     "الألوان الأساسية للضوء — red, green and blue"
+    ],
+    [
+     "secondary colours of light",
+     "الألوان الثانوية للضوء — yellow, cyan and magenta, each made by adding two primary colours"
+    ],
+    [
+     "filter",
+     "مُرشِّح (فلتر) — a coloured transparent sheet that lets only some colours through"
+    ],
+    [
+     "transmit",
+     "يُنفِذ — let light pass through"
+    ],
+    [
+     "absorb",
+     "يمتص — take in light (the light energy usually warms the material)"
+    ],
+    [
+     "reflect",
+     "يعكس — bounce light off a surface"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "2. White light is a mixture of colours"
+  },
+  {
+   "type": "p",
+   "text": "Light from the Sun or a bright lamp looks white, but it is really a **mixture of many colours**. You can show this with a glass **prism**: shine a narrow beam of white light into one side and a band of colours comes out of the other side. This splitting of white light into colours is called **dispersion**, and the band of colours is called a **spectrum**."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 300\" width=\"560\" font-family=\"Arial, sans-serif\" font-size=\"16\"><polygon points=\"190,30 80,250 300,250\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"39.9\" y1=\"159.2\" x2=\"140.5\" y2=\"129\" stroke=\"#0f1b33\" stroke-width=\"3.5\"/><polygon points=\"90.2,144.1 81.7,151.1 79.3,142.9\" fill=\"#0f1b33\"/><polyline points=\"140.5,129 239,127.9 470,187.4\" fill=\"none\" stroke=\"#e53935\" stroke-width=\"2.6\"/><polyline points=\"140.5,129 239.3,128.6 470,194\" fill=\"none\" stroke=\"#fb8c00\" stroke-width=\"2.6\"/><polyline points=\"140.5,129 239.6,129.2 470,200.7\" fill=\"none\" stroke=\"#f2c200\" stroke-width=\"2.6\"/><polyline points=\"140.5,129 239.9,129.9 470,207.6\" fill=\"none\" stroke=\"#43a047\" stroke-width=\"2.6\"/><polyline points=\"140.5,129 240.2,130.5 470,214.7\" fill=\"none\" stroke=\"#1e88e5\" stroke-width=\"2.6\"/><polyline points=\"140.5,129 240.5,131.1 470,222.1\" fill=\"none\" stroke=\"#3949ab\" stroke-width=\"2.6\"/><polyline points=\"140.5,129 240.8,131.7 470,229.8\" fill=\"none\" stroke=\"#8e24aa\" stroke-width=\"2.6\"/><rect x=\"470\" y=\"157.4\" width=\"8\" height=\"102.3\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"10\" y=\"118\" font-weight=\"bold\">white light</text><text x=\"190\" y=\"285\" text-anchor=\"middle\">glass prism</text><text x=\"464\" y=\"273.8\" text-anchor=\"end\">screen</text><line x1=\"480\" y1=\"187.4\" x2=\"494\" y2=\"149.6\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"497\" y=\"154.6\" font-size=\"16\">red</text><line x1=\"480\" y1=\"194\" x2=\"494\" y2=\"169.6\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"497\" y=\"174.6\" font-size=\"16\">orange</text><line x1=\"480\" y1=\"200.7\" x2=\"494\" y2=\"189.6\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"497\" y=\"194.6\" font-size=\"16\">yellow</text><line x1=\"480\" y1=\"207.6\" x2=\"494\" y2=\"209.6\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"497\" y=\"214.6\" font-size=\"16\">green</text><line x1=\"480\" y1=\"214.7\" x2=\"494\" y2=\"229.6\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"497\" y=\"234.6\" font-size=\"16\">blue</text><line x1=\"480\" y1=\"222.1\" x2=\"494\" y2=\"249.6\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"497\" y=\"254.6\" font-size=\"16\">indigo</text><line x1=\"480\" y1=\"229.8\" x2=\"494\" y2=\"269.6\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"497\" y=\"274.6\" font-size=\"16\">violet</text></svg>",
+   "caption": "Dispersion: white light enters a glass prism and is split into a spectrum. Red is refracted least and violet is refracted most."
+  },
+  {
+   "type": "p",
+   "text": "The colours always appear in the same order: **red, orange, yellow, green, blue, indigo, violet**. A memory sentence: **R**ichard **O**f **Y**ork **G**ave **B**attle **I**n **V**ain (ROYGBIV). The colours blend smoothly into one another — the spectrum is continuous, and the seven names are just the main colours we name."
+  },
+  {
+   "type": "h2",
+   "text": "3. Why does a prism split white light?"
+  },
+  {
+   "type": "p",
+   "text": "You learned in the reflection and refraction lesson that light **slows down** when it enters glass, and bends towards the normal. The key extra fact is that **each colour slows down by a different amount** in glass:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**Violet** light slows down the **most**, so it is refracted (bent) the **most**.",
+    "**Red** light slows down the **least**, so it is refracted the **least**.",
+    "All the other colours are in between, so they spread out in order. The light is refracted at both faces of the prism, and because the faces are not parallel the colours spread out even more as they leave."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "In a rectangular glass block the two faces are parallel, so the colours bend back the way they came and come out almost on top of each other — that is why you do not usually see a spectrum from a window."
+  },
+  {
+   "type": "h2",
+   "text": "4. Evidence: the colours come from the white light, not the prism"
+  },
+  {
+   "type": "p",
+   "text": "Someone might suggest that the prism **adds** colour to the light, like a coloured filter. Isaac Newton tested this idea with **two prisms**:"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "A first prism splits white light into a spectrum.",
+    "Newton let only one colour (for example red) pass through a slit into a second prism. The red light was bent again but stayed **red** — the prism did not change its colour, so the prism does not make colours.",
+    "Then he placed a second prism **upside down** in the path of the whole spectrum. The colours were bent back together and **white light** came out.",
+    "Conclusion: the colours were in the white light all along. The prism only **separates** them (and a second prism can **recombine** them)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "This is a good example of how evidence can support one idea (white light is a mixture) and contradict another (the prism adds colour)."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Rainbows",
+   "text": "A rainbow is dispersion in nature. Sunlight enters raindrops, is refracted, reflects off the back of the drop and is refracted again as it leaves. Each colour is bent by a different amount, so you see a spectrum. You can only see a rainbow when the Sun is **behind** you and the rain is in front of you."
+  },
+  {
+   "type": "h2",
+   "text": "5. Adding colours of light"
+  },
+  {
+   "type": "p",
+   "text": "The **primary colours of light** are **red, green and blue**. By mixing (adding) these three in different amounts, you can make light of any colour. Screens on phones, laptops and TVs work this way: every pixel is made of tiny red, green and blue parts."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 460 350\" width=\"460\" font-family=\"Arial, sans-serif\" font-size=\"16\"><rect x=\"0\" y=\"0\" width=\"460\" height=\"350\" fill=\"#000000\"/><g style=\"isolation:isolate\"><circle cx=\"230\" cy=\"120.4\" r=\"88\" fill=\"#ff0000\" style=\"mix-blend-mode:screen\"/><circle cx=\"171.9\" cy=\"212\" r=\"88\" fill=\"#00ff00\" style=\"mix-blend-mode:screen\"/><circle cx=\"288.1\" cy=\"212\" r=\"88\" fill=\"#0000ff\" style=\"mix-blend-mode:screen\"/></g><text x=\"230\" y=\"87\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#ffffff\">red</text><text x=\"128.8\" y=\"241\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#000000\">green</text><text x=\"328.6\" y=\"241\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#ffffff\">blue</text><text x=\"171.9\" y=\"153\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#000000\">yellow</text><text x=\"291.6\" y=\"153\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#ffffff\">magenta</text><text x=\"230\" y=\"243.6\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#000000\">cyan</text><text x=\"230\" y=\"181\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#000000\">white</text></svg>",
+   "caption": "Adding coloured lights: where two primary colours overlap you get a secondary colour; where all three overlap you get white."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Colours of light added",
+    "Result"
+   ],
+   "rows": [
+    [
+     "red + green",
+     "**yellow**"
+    ],
+    [
+     "red + blue",
+     "**magenta** (pinkish-purple)"
+    ],
+    [
+     "green + blue",
+     "**cyan** (light blue-green)"
+    ],
+    [
+     "red + green + blue",
+     "**white**"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Yellow, magenta and cyan are the **secondary colours of light**. Notice that adding a secondary colour to the primary colour it is missing also gives white: yellow + blue = white, cyan + red = white, magenta + green = white."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Light is not paint",
+   "text": "Mixing **paints** is different from mixing **lights**. Red paint and green paint mixed give a muddy brown, not yellow, because paints **absorb** colours (each paint takes away some colours, so the mixture reflects less light). With lights, colours are **added**, so the mixture gets brighter. In Checkpoint questions about light, never use paint rules."
+  },
+  {
+   "type": "h2",
+   "text": "6. Subtracting colours: filters"
+  },
+  {
+   "type": "p",
+   "text": "A coloured **filter** is a transparent sheet that **transmits** (lets through) only its own colour and **absorbs** all the other colours. It **subtracts** colours from white light — it cannot add any colour that was not already there."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 470 290\" width=\"470\" font-family=\"Arial, sans-serif\" font-size=\"16\"><text x=\"10\" y=\"32\">white light</text><line x1=\"10\" y1=\"52\" x2=\"140\" y2=\"52\" stroke=\"#e53935\" stroke-width=\"5\"/><line x1=\"10\" y1=\"60\" x2=\"140\" y2=\"60\" stroke=\"#43a047\" stroke-width=\"5\"/><line x1=\"10\" y1=\"68\" x2=\"140\" y2=\"68\" stroke=\"#1e88e5\" stroke-width=\"5\"/><rect x=\"140\" y=\"22\" width=\"22\" height=\"76\" fill=\"#ff6b6b\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"151\" y=\"120\" text-anchor=\"middle\">red filter</text><line x1=\"162\" y1=\"60\" x2=\"288\" y2=\"60\" stroke=\"#e53935\" stroke-width=\"10\"/><polygon points=\"300,60 284,48 284,72\" fill=\"#e53935\"/><text x=\"310\" y=\"66\">red light only</text><text x=\"10\" y=\"172\">white light</text><line x1=\"10\" y1=\"192\" x2=\"120\" y2=\"192\" stroke=\"#e53935\" stroke-width=\"5\"/><line x1=\"10\" y1=\"200\" x2=\"120\" y2=\"200\" stroke=\"#43a047\" stroke-width=\"5\"/><line x1=\"10\" y1=\"208\" x2=\"120\" y2=\"208\" stroke=\"#1e88e5\" stroke-width=\"5\"/><rect x=\"120\" y=\"162\" width=\"22\" height=\"76\" fill=\"#ff6b6b\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"131\" y=\"260\" text-anchor=\"middle\">red</text><text x=\"131\" y=\"280\" text-anchor=\"middle\">filter</text><line x1=\"142\" y1=\"200\" x2=\"238\" y2=\"200\" stroke=\"#e53935\" stroke-width=\"10\"/><polygon points=\"250,200 234,188 234,212\" fill=\"#e53935\"/><rect x=\"250\" y=\"162\" width=\"22\" height=\"76\" fill=\"#7bd17f\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"261\" y=\"260\" text-anchor=\"middle\">green</text><text x=\"261\" y=\"280\" text-anchor=\"middle\">filter</text><text x=\"285\" y=\"206\">no light passes</text><text x=\"285\" y=\"226\">(looks black)</text></svg>",
+   "caption": "Top: a red filter transmits only the red part of white light and absorbs the rest. Bottom: the red light then reaches a green filter, which absorbs red, so no light gets through."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Filter",
+    "Transmits",
+    "Absorbs"
+   ],
+   "rows": [
+    [
+     "red",
+     "red",
+     "green, blue (and everything except red)"
+    ],
+    [
+     "green",
+     "green",
+     "red, blue"
+    ],
+    [
+     "blue",
+     "blue",
+     "red, green"
+    ],
+    [
+     "yellow",
+     "red and green (so it looks yellow)",
+     "blue"
+    ],
+    [
+     "cyan",
+     "green and blue",
+     "red"
+    ],
+    [
+     "magenta",
+     "red and blue",
+     "green"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Two filters:** work step by step. The first filter decides what reaches the second filter. The second filter can only let through colours that are **in that light and** that it transmits. For example: white light → yellow filter → red and green come out → green filter → only **green** comes out."
+  },
+  {
+   "type": "h2",
+   "text": "7. Why objects have colour: reflecting and absorbing"
+  },
+  {
+   "type": "p",
+   "text": "Most objects do not make their own light. We see them because they **reflect** light into our eyes. The colour of an opaque object depends on which colours it reflects and which colours it absorbs:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A **red** object reflects red light and absorbs the other colours.",
+    "A **white** object reflects **all** colours.",
+    "A **black** object absorbs **all** colours and reflects none (that is why black things get hot in sunlight).",
+    "A **yellow** object reflects red and green (and yellow) and absorbs blue; a **cyan** object reflects green and blue; a **magenta** object reflects red and blue."
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 280\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\"><circle cx=\"40\" cy=\"60\" r=\"16\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"40\" y=\"34\" text-anchor=\"middle\">white light</text><line x1=\"43\" y1=\"83\" x2=\"81\" y2=\"175\" stroke=\"#e53935\" stroke-width=\"3.5\"/><polygon points=\"65.8,138.2 58.7,131.2 65.9,128.2\" fill=\"#e53935\"/><line x1=\"52\" y1=\"74\" x2=\"90\" y2=\"166\" stroke=\"#43a047\" stroke-width=\"3.5\"/><polygon points=\"74.8,129.2 67.7,122.2 74.9,119.2\" fill=\"#43a047\"/><line x1=\"61\" y1=\"65\" x2=\"99\" y2=\"157\" stroke=\"#1e88e5\" stroke-width=\"3.5\"/><polygon points=\"83.8,120.2 76.7,113.2 83.9,110.2\" fill=\"#1e88e5\"/><line x1=\"142\" y1=\"170\" x2=\"200\" y2=\"100\" stroke=\"#e53935\" stroke-width=\"3.5\"/><polygon points=\"182.6,121 179.7,130.6 173.7,125.6\" fill=\"#e53935\"/><text x=\"190\" y=\"138\">red</text><text x=\"190\" y=\"158\">reflected</text><circle cx=\"120\" cy=\"200\" r=\"32\" fill=\"#e53935\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"120\" y=\"256\" text-anchor=\"middle\" font-weight=\"bold\">looks red</text><circle cx=\"280\" cy=\"60\" r=\"16\" fill=\"#90caf9\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"280\" y=\"34\" text-anchor=\"middle\">blue light</text><line x1=\"292\" y1=\"74\" x2=\"334\" y2=\"170\" stroke=\"#1e88e5\" stroke-width=\"3.5\"/><polygon points=\"317.2,131.6 309.9,124.7 317.1,121.6\" fill=\"#1e88e5\"/><circle cx=\"360\" cy=\"200\" r=\"32\" fill=\"#111111\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"360\" y=\"256\" text-anchor=\"middle\" font-weight=\"bold\">looks black</text><text x=\"400\" y=\"160\">blue</text><text x=\"400\" y=\"180\">absorbed</text><line x1=\"240\" y1=\"30\" x2=\"240\" y2=\"280\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-dasharray=\"4 4\"/></svg>",
+   "caption": "Left: in white light a red ball reflects the red part and absorbs green and blue, so it looks red. Right: in blue light there is no red to reflect, so the ball absorbs everything and looks black."
+  },
+  {
+   "type": "p",
+   "text": "**Coloured light on coloured objects.** An object can only reflect colours that are **in the light shining on it**. Use this method:"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Write down which colours are in the light (white = red + green + blue).",
+    "Write down which colours the object can reflect.",
+    "The object looks the colour of what is in **both** lists. If nothing is in both, it looks **black**."
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Object colour",
+    "in white light",
+    "in red light",
+    "in green light",
+    "in blue light"
+   ],
+   "rows": [
+    [
+     "white",
+     "white",
+     "red",
+     "green",
+     "blue"
+    ],
+    [
+     "red",
+     "red",
+     "red",
+     "black",
+     "black"
+    ],
+    [
+     "green",
+     "green",
+     "black",
+     "green",
+     "black"
+    ],
+    [
+     "blue",
+     "blue",
+     "black",
+     "black",
+     "blue"
+    ],
+    [
+     "yellow (reflects red + green)",
+     "yellow",
+     "red",
+     "green",
+     "black"
+    ],
+    [
+     "cyan (reflects green + blue)",
+     "cyan",
+     "black",
+     "green",
+     "blue"
+    ],
+    [
+     "black",
+     "black",
+     "black",
+     "black",
+     "black"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "القاعدة اللي لازم تحفظها",
+   "items": [
+    "الضوء الأبيض = خليط من كل الألوان. المنشور بيفصلها (تشتت) وهو مش بيضيف ألوان.",
+    "البنفسجي بينكسر أكتر حاجة، والأحمر أقل حاجة.",
+    "جمع ضوء: أحمر + أخضر = أصفر، أحمر + أزرق = أرجواني (magenta)، أخضر + أزرق = سماوي (cyan)، والتلاتة = أبيض.",
+    "الفلتر بيعدّي لونه بس ويمتص الباقي.",
+    "الجسم بيعكس لونه ويمتص الباقي — ولو اللون ده مش موجود في الضوء اللي نازل عليه يبان أسود."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "8. Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — Describe how you could show that white light is made of different colours. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Shine a narrow beam of white light (from a ray box) into a glass prism (1).",
+    "A spectrum of colours (red to violet) appears on a white screen on the other side — the white light has been dispersed into its colours (1).",
+    "**Common mistake:** writing only \"use a prism\". Say what you do **and** what you observe."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — In the spectrum from a prism, which colour is refracted most? Explain why. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "**Violet** (1).",
+    "Violet light slows down the most when it enters the glass, so it changes direction the most (1)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — A red spotlight and a green spotlight shine on the same part of a white wall. (a) What colour does the wall look where they overlap? [1] (b) A blue spotlight is added to the same place. What colour is it now? [1]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) red + green = **yellow**.",
+    "(b) red + green + blue = **white**.",
+    "**Common mistake:** answering \"brown\" — that is mixing paint, not light."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — White light passes through a magenta filter and then through a blue filter. What colour comes out? Explain. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "The magenta filter transmits **red and blue** and absorbs green (1).",
+    "The blue filter transmits blue and absorbs red, so only **blue** light comes out (1)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — A footballer's kit has a **yellow** shirt and **blue** shorts. On a dark evening the pitch is lit only by red light. Predict the colour of the shirt and shorts. Explain. [3]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Shirt looks **red**: yellow cloth reflects red and green; only red light is present, so it reflects red (1).",
+    "Shorts look **black**: blue cloth reflects only blue; there is no blue in red light, so it absorbs all the light (1).",
+    "Correct reasoning using reflect / absorb for both (1)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** — A girl says, \"The prism adds the colours to the light, like a filter.\" Describe an experiment that shows she is wrong. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Use a second prism, turned the other way, in the path of the spectrum from the first prism (1).",
+    "The colours recombine to make **white** light again, which shows the colours were already in the white light — the prism only separates them (1). (Accept: pass one colour through a second prism — it stays the same colour.)"
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Saying the prism **makes** or **adds** the colours. It **separates** colours that are already in white light.",
+    "Getting the order of the spectrum wrong, or saying red is bent most. **Violet is bent most, red least.**",
+    "Using paint rules for light (red + green light is **yellow**, not brown).",
+    "Saying a red filter \"turns light red\". It **absorbs** the other colours and **transmits** red.",
+    "Saying a red object \"absorbs red\". It **reflects** red and **absorbs** the other colours.",
+    "Forgetting that an object can only reflect colours that are **in the light shining on it** — otherwise it looks black.",
+    "Writing \"cyan\" or \"magenta\" as \"light blue\" or \"pink\" when the question asks for the name of the colour. Learn the proper names."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "**Label** the colours of the spectrum on a prism diagram, or say which colour is bent most / least.",
+    "**Complete** a colour-addition diagram of three overlapping circles of red, green and blue light.",
+    "**Predict** what colour comes through one or two filters, or what colour an object looks in coloured light — then **explain** using the words *transmit*, *absorb* and *reflect*.",
+    "**Complete a table** of object colours under different coloured lights.",
+    "**Describe** an experiment with a prism (what you do, what you see), or evaluate a student's claim using evidence.",
+    "Exam technique: in an explanation, say which colours are **absorbed** and which are **reflected/transmitted** — one mark is often for each idea."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Dispersion and colour — practice",
+   "timed": false,
+   "intro": "Answer every part. Type short answers (one colour word) in the box; for longer answers write yours on paper first, then mark it with the mark scheme.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 20,
+     "calc": false,
+     "questions": [
+      {
+       "q": "A beam of white light shines through a glass prism and a band of colours appears on a screen. What does this show?",
+       "c": [
+        "White light is a mixture of colours.",
+        "Glass adds colours to light.",
+        "Light travels in curves.",
+        "Light speeds up in glass."
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Dispersion",
+       "e": "The prism **separates** (disperses) the colours that are already in white light. It does not add colour, and light slows down (not speeds up) in glass."
+      },
+      {
+       "t": "text",
+       "q": "What is the name for the splitting of white light into its colours? [1]",
+       "ans": [
+        "dispersion",
+        "dispersal"
+       ],
+       "m": 1,
+       "s": "Dispersion",
+       "e": "Splitting white light into its colours is called **dispersion**. (The band of colours itself is the spectrum.)"
+      },
+      {
+       "q": "Which colour of light is refracted **most** by a glass prism?",
+       "c": [
+        "red",
+        "yellow",
+        "green",
+        "violet"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Dispersion",
+       "e": "Violet light slows down the most in glass, so it is refracted the most. Red is refracted the least."
+      },
+      {
+       "t": "text",
+       "q": "Which colour comes between **green** and **indigo** in the spectrum? [1]",
+       "ans": [
+        "blue"
+       ],
+       "m": 1,
+       "s": "Dispersion",
+       "e": "Order: red, orange, yellow, green, **blue**, indigo, violet."
+      },
+      {
+       "t": "text",
+       "q": "(a) What colour of light is seen in region **P**? [1]",
+       "ans": [
+        "yellow"
+       ],
+       "m": 1,
+       "s": "Adding colours",
+       "e": "Region P is where red and green light overlap: red + green = **yellow**.",
+       "p": "Question 5\nRed, green and blue spotlights shine onto a white screen. The circles overlap.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 460 330\" width=\"460\" font-family=\"Arial, sans-serif\" font-size=\"16\"><circle cx=\"230\" cy=\"110.4\" r=\"88\" fill=\"#ffe3e3\" fill-opacity=\"0.55\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"171.9\" cy=\"202\" r=\"88\" fill=\"#e3f4e5\" fill-opacity=\"0.55\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"288.1\" cy=\"202\" r=\"88\" fill=\"#e3ecfb\" fill-opacity=\"0.55\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"230\" y=\"77\" text-anchor=\"middle\" font-weight=\"bold\">red light</text><text x=\"128.8\" y=\"235.4\" text-anchor=\"middle\" font-weight=\"bold\">green light</text><text x=\"331.2\" y=\"235.4\" text-anchor=\"middle\" font-weight=\"bold\">blue light</text><text x=\"171.9\" y=\"145.6\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"bold\">P</text><text x=\"288.1\" y=\"145.6\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"bold\">Q</text><text x=\"230\" y=\"235.4\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"bold\">R</text><text x=\"230\" y=\"172\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"bold\">S</text></svg>"
+      },
+      {
+       "t": "text",
+       "q": "(b) What colour of light is seen in region **R**? [1]",
+       "ans": [
+        "cyan"
+       ],
+       "m": 1,
+       "s": "Adding colours",
+       "e": "Region R is where green and blue overlap: green + blue = **cyan**.",
+       "p": "Question 5\nRed, green and blue spotlights shine onto a white screen. The circles overlap."
+      },
+      {
+       "t": "text",
+       "q": "(c) What colour of light is seen in region **S**? [1]",
+       "ans": [
+        "white"
+       ],
+       "m": 1,
+       "s": "Adding colours",
+       "e": "Region S is where all three primary colours overlap: red + green + blue = **white**.",
+       "p": "Question 5\nRed, green and blue spotlights shine onto a white screen. The circles overlap."
+      },
+      {
+       "q": "White light shines on a **cyan** filter. Which colours of light pass through it?",
+       "c": [
+        "red only",
+        "red and blue",
+        "green and blue",
+        "red, green and blue"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Filters",
+       "e": "Cyan = green + blue. A cyan filter **transmits** green and blue and **absorbs** red."
+      },
+      {
+       "t": "text",
+       "q": "White light passes through a **red** filter and then through a **blue** filter. What comes out of the blue filter? [1]",
+       "ans": [
+        "no light",
+        "none",
+        "nothing",
+        "black",
+        "darkness",
+        "no colour",
+        "dark"
+       ],
+       "m": 1,
+       "s": "Filters",
+       "e": "The red filter lets through only red. The blue filter absorbs red, so **no light** comes out — it looks black."
+      },
+      {
+       "q": "A green leaf is seen in a room lit only by red light. What colour does it look?",
+       "c": [
+        "green",
+        "red",
+        "yellow",
+        "black"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Coloured objects",
+       "e": "A green leaf reflects only green light. Red light contains no green, so the leaf absorbs all the light that hits it and reflects none — it looks **black**."
+      },
+      {
+       "t": "text",
+       "q": "A **white** T-shirt is seen in blue light. What colour does it look? [1]",
+       "ans": [
+        "blue"
+       ],
+       "m": 1,
+       "s": "Coloured objects",
+       "e": "A white object reflects every colour that falls on it. Only blue light falls on it, so it reflects blue and looks **blue**."
+      },
+      {
+       "q": "A **yellow** banana is lit by **green** light. What colour does it look?",
+       "c": [
+        "green",
+        "yellow",
+        "red",
+        "black"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Coloured objects",
+       "e": "Yellow objects reflect red and green light (and absorb blue). Only green light falls on the banana, so it reflects green and looks **green**."
+      },
+      {
+       "t": "open",
+       "q": "Explain why a red rose looks red in white light. Use the words **reflects** and **absorbs** in your answer. [2]",
+       "ms": "1 mark: the rose (petals) reflects red light (into our eyes). 1 mark: it absorbs all the other colours / green and blue. Do not accept 'it absorbs red'. Do not accept 'it gives out red light'.",
+       "m": 2,
+       "s": "Coloured objects",
+       "e": "White light contains all colours. The red petals **reflect** the red light into our eyes (1) and **absorb** all the other colours (1), so only red light reaches us from the rose."
+      },
+      {
+       "t": "open",
+       "q": "A student says: \"A prism makes the colours.\" Describe an experiment with **two** prisms that shows the colours were already in the white light. State what you would observe. [3]",
+       "ms": "1 mark: use a first prism to make a spectrum from white light. 1 mark: place a second prism, turned the other way (upside down), in the path of the spectrum. 1 mark: the colours recombine / white light comes out, so the colours were already in the white light. Alternative for marks 2–3: let only one colour through a slit into the second prism (1); it stays the same colour / no new colours appear (1).",
+       "m": 3,
+       "s": "Dispersion",
+       "e": "Use the first prism to disperse white light into a spectrum (1). Put a second, identical prism the opposite way round in the path of the spectrum (1). White light comes out of the second prism — the colours have been recombined, so they were in the white light all along and the prism only separates them (1)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "White light is a mixture of colours. A prism **disperses** it into a spectrum: red, orange, yellow, green, blue, indigo, violet.",
+    "Each colour slows down by a different amount in glass: **violet is refracted most, red least**.",
+    "Primary colours of light: **red, green, blue**. Red + green = yellow, red + blue = magenta, green + blue = cyan, all three = white.",
+    "A filter **transmits** its own colour(s) and **absorbs** the rest — it subtracts colours.",
+    "An object **reflects** its own colour(s) and **absorbs** the rest. White reflects all; black absorbs all.",
+    "An object can only reflect colours that are in the light shining on it; if there are none, it looks **black**."
+   ]
+  }
+ ]
+}

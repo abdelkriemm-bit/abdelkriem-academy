@@ -1,0 +1,623 @@
+{
+ "slug": "cp6m-quadrilaterals",
+ "title": "Quadrilaterals: Properties and Classification",
+ "kicker": "Cambridge Primary Checkpoint · Mathematics · Stage 6 · Geometry and Measure",
+ "summary": "Name, describe, sort and sketch quadrilaterals using their sides, angles, parallel sides, lines of symmetry and diagonals.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Identify and name quadrilaterals: square, rectangle, rhombus, parallelogram, trapezium, kite. [6Gg.01]",
+    "Describe them using their sides, angles, parallel sides, lines of symmetry and diagonals. [6Gg.01]",
+    "Classify (sort) quadrilaterals by their properties — for example in Venn and Carroll diagrams — and understand that some shapes are special types of others. [6Gg.01]",
+    "Sketch quadrilaterals with given properties, on plain paper or on a grid. [6Gg.01]"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "A **quadrilateral** is any flat (2D) shape with four straight sides and four vertices (corners). Some quadrilaterals are so useful that they have their own names. To get full marks you must know the properties of each one so well that you can name a shape from a description, sort shapes into groups, and sketch a shape that fits a list of clues."
+  },
+  {
+   "type": "h2",
+   "text": "1. Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "quadrilateral",
+     "شكل رباعي — a 2D shape with 4 straight sides"
+    ],
+    [
+     "vertex (plural vertices)",
+     "رأس — a corner where two sides meet"
+    ],
+    [
+     "parallel",
+     "متوازي — always the same distance apart; they never meet (shown with matching arrows)"
+    ],
+    [
+     "perpendicular",
+     "عمودي — meeting at a right angle (90°)"
+    ],
+    [
+     "right angle",
+     "زاوية قائمة — exactly 90° (shown with a small square)"
+    ],
+    [
+     "acute / obtuse angle",
+     "زاوية حادة / منفرجة — less than 90° / between 90° and 180°"
+    ],
+    [
+     "diagonal",
+     "قطر — a straight line joining two opposite vertices"
+    ],
+    [
+     "bisect",
+     "ينصّف — cut into two equal parts"
+    ],
+    [
+     "line of symmetry",
+     "محور تماثل — a mirror line: the two halves match exactly"
+    ],
+    [
+     "adjacent",
+     "متجاور — next to each other"
+    ],
+    [
+     "opposite",
+     "متقابل — across from each other"
+    ],
+    [
+     "classify",
+     "يصنّف — sort into groups using properties"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**How to read the marks on a diagram:** small dashes (ticks) show sides of **equal length** — sides with the same number of ticks are equal. Matching arrows show **parallel** sides. A small square in a corner shows a **right angle**."
+  },
+  {
+   "type": "h2",
+   "text": "2. Meet the quadrilaterals"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 285\" width=\"560\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"30,15 110,15 110,95 30,95\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><g stroke=\"#0f1b33\" stroke-width=\"1\" fill=\"none\"><line x1=\"70\" y1=\"9\" x2=\"70\" y2=\"21\"/><line x1=\"116\" y1=\"55\" x2=\"104\" y2=\"55\"/><line x1=\"70\" y1=\"101\" x2=\"70\" y2=\"89\"/><line x1=\"24\" y1=\"55\" x2=\"36\" y2=\"55\"/><polyline points=\"40,15 40,25 30,25\" stroke-linejoin=\"round\"/><polyline points=\"110,25 100,25 100,15\" stroke-linejoin=\"round\"/><polyline points=\"100,95 100,85 110,85\" stroke-linejoin=\"round\"/><polyline points=\"30,85 40,85 40,95\" stroke-linejoin=\"round\"/></g><g stroke=\"#1f5fa8\" stroke-width=\"1\" fill=\"none\"><polyline points=\"66,19 73,15 66,10\" stroke-linejoin=\"round\"/><polyline points=\"66,99 73,95 66,90\" stroke-linejoin=\"round\"/><polyline points=\"34,62 30,55 25,62\" stroke-linejoin=\"round\"/><polyline points=\"34,55 30,48 25,55\" stroke-linejoin=\"round\"/><polyline points=\"114,62 110,55 105,62\" stroke-linejoin=\"round\"/><polyline points=\"114,55 110,48 105,55\" stroke-linejoin=\"round\"/></g><text x=\"70\" y=\"130\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">square</text><polygon points=\"150,30 270,30 270,90 150,90\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><g stroke=\"#0f1b33\" stroke-width=\"1\" fill=\"none\"><line x1=\"210\" y1=\"24\" x2=\"210\" y2=\"36\"/><line x1=\"210\" y1=\"84\" x2=\"210\" y2=\"96\"/><line x1=\"276\" y1=\"57\" x2=\"264\" y2=\"57\"/><line x1=\"276\" y1=\"62\" x2=\"264\" y2=\"62\"/><line x1=\"156\" y1=\"57\" x2=\"144\" y2=\"57\"/><line x1=\"156\" y1=\"62\" x2=\"144\" y2=\"62\"/><polyline points=\"160,30 160,40 150,40\" stroke-linejoin=\"round\"/><polyline points=\"270,40 260,40 260,30\" stroke-linejoin=\"round\"/><polyline points=\"260,90 260,80 270,80\" stroke-linejoin=\"round\"/><polyline points=\"150,80 160,80 160,90\" stroke-linejoin=\"round\"/></g><text x=\"210\" y=\"130\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">rectangle</text><polygon points=\"330,29 400,29 365,90 295,90\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><g stroke=\"#0f1b33\" stroke-width=\"1\" fill=\"none\"><line x1=\"365\" y1=\"23\" x2=\"365\" y2=\"35\"/><line x1=\"387\" y1=\"62\" x2=\"377\" y2=\"56\"/><line x1=\"330\" y1=\"96\" x2=\"330\" y2=\"84\"/><line x1=\"307\" y1=\"56\" x2=\"317\" y2=\"62\"/></g><g stroke=\"#1f5fa8\" stroke-width=\"1\" fill=\"none\"><polyline points=\"361,34 368,29 361,24\" stroke-linejoin=\"round\"/><polyline points=\"326,94 333,90 326,85\" stroke-linejoin=\"round\"/><polyline points=\"313,68 312,59 304,63\" stroke-linejoin=\"round\"/><polyline points=\"316,62 316,53 308,57\" stroke-linejoin=\"round\"/><polyline points=\"383,68 382,59 374,63\" stroke-linejoin=\"round\"/><polyline points=\"386,62 386,53 378,57\" stroke-linejoin=\"round\"/></g><text x=\"350\" y=\"130\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">rhombus</text><polygon points=\"465,35 550,35 515,90 430,90\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><g stroke=\"#0f1b33\" stroke-width=\"1\" fill=\"none\"></g><g stroke=\"#1f5fa8\" stroke-width=\"1\" fill=\"none\"><polyline points=\"504,39 511,35 504,30\" stroke-linejoin=\"round\"/><polyline points=\"469,94 476,90 469,85\" stroke-linejoin=\"round\"/><polyline points=\"447,71 447,62 439,65\" stroke-linejoin=\"round\"/><polyline points=\"451,65 451,56 443,59\" stroke-linejoin=\"round\"/><polyline points=\"532,71 532,62 524,65\" stroke-linejoin=\"round\"/><polyline points=\"536,65 536,56 528,59\" stroke-linejoin=\"round\"/></g><text x=\"490\" y=\"130\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">parallelogram</text><polygon points=\"50,175 120,175 130,230 10,230\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><g stroke=\"#0f1b33\" stroke-width=\"1\" fill=\"none\"></g><g stroke=\"#1f5fa8\" stroke-width=\"1\" fill=\"none\"><polyline points=\"81,179 88,175 81,170\" stroke-linejoin=\"round\"/><polyline points=\"66,234 73,230 66,225\" stroke-linejoin=\"round\"/></g><text x=\"70\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">trapezium</text><polygon points=\"180,175 240,175 270,230 150,230\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><g stroke=\"#0f1b33\" stroke-width=\"1\" fill=\"none\"><line x1=\"260\" y1=\"199\" x2=\"249\" y2=\"205\"/><line x1=\"159\" y1=\"199\" x2=\"170\" y2=\"205\"/></g><g stroke=\"#1f5fa8\" stroke-width=\"1\" fill=\"none\"><polyline points=\"206,179 213,175 206,170\" stroke-linejoin=\"round\"/><polyline points=\"206,234 213,230 206,225\" stroke-linejoin=\"round\"/></g><text x=\"210\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">isosceles trapezium</text><polygon points=\"350,153 385,185 350,245 315,185\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><g stroke=\"#0f1b33\" stroke-width=\"1\" fill=\"none\"><line x1=\"371\" y1=\"164\" x2=\"363\" y2=\"173\"/><line x1=\"336\" y1=\"173\" x2=\"328\" y2=\"164\"/><line x1=\"373\" y1=\"215\" x2=\"363\" y2=\"209\"/><line x1=\"371\" y1=\"220\" x2=\"361\" y2=\"214\"/><line x1=\"336\" y1=\"209\" x2=\"326\" y2=\"215\"/><line x1=\"338\" y1=\"214\" x2=\"328\" y2=\"220\"/></g><text x=\"350\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">kite</text><polygon points=\"490,153 540,245 490,215 440,245\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><g stroke=\"#0f1b33\" stroke-width=\"1\" fill=\"none\"><line x1=\"520\" y1=\"196\" x2=\"509\" y2=\"201\"/><line x1=\"470\" y1=\"201\" x2=\"459\" y2=\"196\"/><line x1=\"514\" y1=\"236\" x2=\"520\" y2=\"226\"/><line x1=\"509\" y1=\"233\" x2=\"515\" y2=\"223\"/><line x1=\"459\" y1=\"226\" x2=\"465\" y2=\"236\"/><line x1=\"464\" y1=\"223\" x2=\"470\" y2=\"233\"/></g><text x=\"490\" y=\"270\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">arrowhead</text></svg>",
+   "caption": "The named quadrilaterals. Ticks = equal sides, arrows = parallel sides, small squares = right angles."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Shape",
+    "Sides",
+    "Angles",
+    "Parallel sides"
+   ],
+   "rows": [
+    [
+     "square",
+     "4 equal sides",
+     "4 right angles",
+     "2 pairs"
+    ],
+    [
+     "rectangle",
+     "opposite sides equal",
+     "4 right angles",
+     "2 pairs"
+    ],
+    [
+     "rhombus",
+     "4 equal sides",
+     "opposite angles equal (2 acute, 2 obtuse)",
+     "2 pairs"
+    ],
+    [
+     "parallelogram",
+     "opposite sides equal",
+     "opposite angles equal (2 acute, 2 obtuse)",
+     "2 pairs"
+    ],
+    [
+     "trapezium",
+     "no rule",
+     "no rule (some have 2 right angles)",
+     "1 pair"
+    ],
+    [
+     "isosceles trapezium",
+     "the two non-parallel sides are equal",
+     "2 pairs of equal angles (next to each parallel side)",
+     "1 pair"
+    ],
+    [
+     "kite",
+     "2 pairs of equal adjacent sides",
+     "1 pair of opposite angles equal",
+     "none"
+    ],
+    [
+     "arrowhead (delta)",
+     "2 pairs of equal adjacent sides",
+     "one angle is reflex (more than 180°)",
+     "none"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "The arrowhead is a \"kite pushed in\": it has the same equal sides as a kite but one corner points inwards. Any other four-sided shape with no special properties is simply called an **irregular quadrilateral** (or just a quadrilateral)."
+  },
+  {
+   "type": "h2",
+   "text": "3. Lines of symmetry"
+  },
+  {
+   "type": "p",
+   "text": "Imagine folding the shape along a line. If the two halves fit exactly on top of each other, the fold is a line of symmetry. Use tracing paper in the test if it helps — it is allowed."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 300\" width=\"560\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"50,25 130,25 130,105 50,105\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"90\" y1=\"13\" x2=\"90\" y2=\"117\" stroke=\"#c0392b\" stroke-width=\"2\" stroke-dasharray=\"6 4\"/><line x1=\"38\" y1=\"65\" x2=\"142\" y2=\"65\" stroke=\"#c0392b\" stroke-width=\"2\" stroke-dasharray=\"6 4\"/><line x1=\"41.5\" y1=\"16.5\" x2=\"138.5\" y2=\"113.5\" stroke=\"#c0392b\" stroke-width=\"2\" stroke-dasharray=\"6 4\"/><line x1=\"138.5\" y1=\"16.5\" x2=\"41.5\" y2=\"113.5\" stroke=\"#c0392b\" stroke-width=\"2\" stroke-dasharray=\"6 4\"/><text x=\"90\" y=\"143\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">square: 4 lines</text><polygon points=\"215,40 335,40 335,100 215,100\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"275\" y1=\"28\" x2=\"275\" y2=\"112\" stroke=\"#c0392b\" stroke-width=\"2\" stroke-dasharray=\"6 4\"/><line x1=\"203\" y1=\"70\" x2=\"347\" y2=\"70\" stroke=\"#c0392b\" stroke-width=\"2\" stroke-dasharray=\"6 4\"/><text x=\"275\" y=\"143\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">rectangle: 2 lines</text><polygon points=\"440,39.4 510,39.4 475,100 405,100\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"434\" y1=\"29\" x2=\"481\" y2=\"110.4\" stroke=\"#c0392b\" stroke-width=\"2\" stroke-dasharray=\"6 4\"/><line x1=\"520.4\" y1=\"33.4\" x2=\"394.6\" y2=\"106\" stroke=\"#c0392b\" stroke-width=\"2\" stroke-dasharray=\"6 4\"/><text x=\"460\" y=\"143\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">rhombus: 2 lines</text><polygon points=\"65,195 150,195 115,250 30,250\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><text x=\"90\" y=\"293\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">parallelogram: 0 lines</text><polygon points=\"245,195 305,195 335,250 215,250\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"275\" y1=\"183\" x2=\"275\" y2=\"262\" stroke=\"#c0392b\" stroke-width=\"2\" stroke-dasharray=\"6 4\"/><text x=\"275\" y=\"293\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">isosceles trapezium: 1 line</text><polygon points=\"460,173 495,205 460,265 425,205\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"460\" y1=\"161\" x2=\"460\" y2=\"277\" stroke=\"#c0392b\" stroke-width=\"2\" stroke-dasharray=\"6 4\"/><text x=\"460\" y=\"293\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">kite: 1 line</text></svg>",
+   "caption": "Dashed red lines are lines of symmetry. A parallelogram has none: folding along a diagonal or through the middle does not make the halves match."
+  },
+  {
+   "type": "p",
+   "text": "**Watch out:** the diagonals of a rectangle are NOT lines of symmetry, and the diagonals of a rhombus ARE. Test it by folding a paper rectangle corner to corner — the halves do not match. A general trapezium and an irregular quadrilateral have no lines of symmetry. A kite and an arrowhead each have one."
+  },
+  {
+   "type": "p",
+   "text": "Some shapes also look the same after a turn (rotational symmetry — you study this fully in the symmetry lesson): a square looks the same 4 times in a full turn (order 4); a rectangle, rhombus and parallelogram 2 times (order 2); kites and trapeziums only once (order 1)."
+  },
+  {
+   "type": "h2",
+   "text": "4. Diagonals"
+  },
+  {
+   "type": "p",
+   "text": "Draw both diagonals and ask three questions: **Are they equal in length? Do they cut each other in half (bisect each other)? Do they meet at a right angle (are they perpendicular)?**"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 350\" width=\"560\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"50,18 130,18 130,98 50,98\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"50\" y1=\"18\" x2=\"130\" y2=\"98\" stroke=\"#1f5fa8\" stroke-width=\"2\" stroke-dasharray=\"5 3\"/><line x1=\"130\" y1=\"18\" x2=\"50\" y2=\"98\" stroke=\"#1f5fa8\" stroke-width=\"2\" stroke-dasharray=\"5 3\"/><polyline points=\"84.3,52.3 90,46.7 95.7,52.3\" fill=\"none\" stroke=\"#c0392b\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><text x=\"90\" y=\"128\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">square</text><text x=\"90\" y=\"145\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">equal, cut in half</text><text x=\"90\" y=\"161\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">meet at 90°</text><polygon points=\"215,33 335,33 335,93 215,93\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"215\" y1=\"33\" x2=\"335\" y2=\"93\" stroke=\"#1f5fa8\" stroke-width=\"2\" stroke-dasharray=\"5 3\"/><line x1=\"335\" y1=\"33\" x2=\"215\" y2=\"93\" stroke=\"#1f5fa8\" stroke-width=\"2\" stroke-dasharray=\"5 3\"/><text x=\"275\" y=\"128\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">rectangle</text><text x=\"275\" y=\"145\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">equal, cut in half</text><text x=\"275\" y=\"161\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">not at 90°</text><polygon points=\"440,32.4 510,32.4 475,93 405,93\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"440\" y1=\"32.4\" x2=\"475\" y2=\"93\" stroke=\"#1f5fa8\" stroke-width=\"2\" stroke-dasharray=\"5 3\"/><line x1=\"510\" y1=\"32.4\" x2=\"405\" y2=\"93\" stroke=\"#1f5fa8\" stroke-width=\"2\" stroke-dasharray=\"5 3\"/><polyline points=\"453.5,55.8 460.4,51.8 464.4,58.7\" fill=\"none\" stroke=\"#c0392b\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><text x=\"460\" y=\"128\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">rhombus</text><text x=\"460\" y=\"145\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">not equal, cut in half</text><text x=\"460\" y=\"161\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">meet at 90°</text><polygon points=\"65,213 150,213 115,268 30,268\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"65\" y1=\"213\" x2=\"115\" y2=\"268\" stroke=\"#1f5fa8\" stroke-width=\"2\" stroke-dasharray=\"5 3\"/><line x1=\"150\" y1=\"213\" x2=\"30\" y2=\"268\" stroke=\"#1f5fa8\" stroke-width=\"2\" stroke-dasharray=\"5 3\"/><text x=\"90\" y=\"303\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">parallelogram</text><text x=\"90\" y=\"320\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">not equal, cut in half</text><text x=\"90\" y=\"336\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">not at 90°</text><polygon points=\"275,191 310,223 275,283 240,223\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"275\" y1=\"191\" x2=\"275\" y2=\"283\" stroke=\"#1f5fa8\" stroke-width=\"2\" stroke-dasharray=\"5 3\"/><line x1=\"310\" y1=\"223\" x2=\"240\" y2=\"223\" stroke=\"#1f5fa8\" stroke-width=\"2\" stroke-dasharray=\"5 3\"/><polyline points=\"275,215 283,215 283,223\" fill=\"none\" stroke=\"#c0392b\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><text x=\"275\" y=\"303\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">kite</text><text x=\"275\" y=\"320\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">not equal, one cut in half</text><text x=\"275\" y=\"336\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">meet at 90°</text><polygon points=\"430,213 490,213 520,268 400,268\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"430\" y1=\"213\" x2=\"520\" y2=\"268\" stroke=\"#1f5fa8\" stroke-width=\"2\" stroke-dasharray=\"5 3\"/><line x1=\"490\" y1=\"213\" x2=\"400\" y2=\"268\" stroke=\"#1f5fa8\" stroke-width=\"2\" stroke-dasharray=\"5 3\"/><text x=\"460\" y=\"303\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">isosceles trapezium</text><text x=\"460\" y=\"320\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">equal, not cut in half</text><text x=\"460\" y=\"336\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">not at 90°</text></svg>",
+   "caption": "Diagonals drawn as dashed blue lines. A small red square shows that the diagonals meet at 90°."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Shape",
+    "Diagonals equal?",
+    "Bisect each other?",
+    "Perpendicular?"
+   ],
+   "rows": [
+    [
+     "square",
+     "yes",
+     "yes",
+     "yes"
+    ],
+    [
+     "rectangle",
+     "yes",
+     "yes",
+     "no"
+    ],
+    [
+     "rhombus",
+     "no",
+     "yes",
+     "yes"
+    ],
+    [
+     "parallelogram",
+     "no",
+     "yes",
+     "no"
+    ],
+    [
+     "kite",
+     "no",
+     "no — only one is cut in half",
+     "yes"
+    ],
+    [
+     "isosceles trapezium",
+     "yes",
+     "no",
+     "no"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Notice the square says **yes** to everything: it has all the properties of a rectangle AND all the properties of a rhombus."
+  },
+  {
+   "type": "h2",
+   "text": "5. Classifying: the quadrilateral family"
+  },
+  {
+   "type": "p",
+   "text": "A shape can belong to more than one group. A square has 2 pairs of parallel sides, so it IS a parallelogram. It has 4 right angles, so it IS a rectangle. It has 4 equal sides, so it IS a rhombus. We say a square is a **special** rectangle and a **special** rhombus."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 285\" width=\"560\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"280\" y1=\"40\" x2=\"87.8\" y2=\"83.2\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><polygon points=\"80,85 88.7,77.9 90.9,87.7\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><line x1=\"280\" y1=\"40\" x2=\"280\" y2=\"77\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><polygon points=\"280,85 275,75 285,75\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><line x1=\"280\" y1=\"40\" x2=\"462.2\" y2=\"83.2\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><polygon points=\"470,85 459.1,87.6 461.4,77.8\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><line x1=\"80\" y1=\"115\" x2=\"153.2\" y2=\"160.8\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><polygon points=\"160,165 148.9,163.9 154.2,155.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><line x1=\"280\" y1=\"115\" x2=\"167.4\" y2=\"161.9\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><polygon points=\"160,165 167.3,156.5 171.2,165.8\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><line x1=\"280\" y1=\"115\" x2=\"305.9\" y2=\"158.1\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><polygon points=\"310,165 300.6,159 309.1,153.9\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><line x1=\"470\" y1=\"115\" x2=\"465.8\" y2=\"157\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><polygon points=\"465,165 461,154.6 471,155.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><line x1=\"160\" y1=\"195\" x2=\"223.5\" y2=\"240.4\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><polygon points=\"230,245 219,243.3 224.8,235.1\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><line x1=\"310\" y1=\"195\" x2=\"236.8\" y2=\"240.8\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><polygon points=\"230,245 235.8,235.5 241.1,243.9\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><rect x=\"210\" y=\"10\" width=\"140\" height=\"30\" rx=\"6\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><text x=\"280\" y=\"30\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">quadrilateral</text><rect x=\"40\" y=\"85\" width=\"80\" height=\"30\" rx=\"6\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><text x=\"80\" y=\"105\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">kite</text><rect x=\"210\" y=\"85\" width=\"140\" height=\"30\" rx=\"6\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><text x=\"280\" y=\"105\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">parallelogram</text><rect x=\"415\" y=\"85\" width=\"110\" height=\"30\" rx=\"6\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><text x=\"470\" y=\"105\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">trapezium</text><rect x=\"110\" y=\"165\" width=\"100\" height=\"30\" rx=\"6\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><text x=\"160\" y=\"185\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">rhombus</text><rect x=\"255\" y=\"165\" width=\"110\" height=\"30\" rx=\"6\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><text x=\"310\" y=\"185\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">rectangle</text><rect x=\"380\" y=\"165\" width=\"170\" height=\"30\" rx=\"6\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><text x=\"465\" y=\"185\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">isosceles trapezium</text><rect x=\"185\" y=\"245\" width=\"90\" height=\"30\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><text x=\"230\" y=\"265\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">square</text></svg>",
+   "caption": "Each arrow means \"…has a special type called…\". Follow the arrows backwards: a square is a rectangle, a rhombus, a parallelogram, a kite and a quadrilateral."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Every square is a rectangle — but not every rectangle is a square (its sides need not all be equal).",
+    "Every square is a rhombus — but not every rhombus is a square (it need not have right angles).",
+    "Every rectangle and every rhombus is a parallelogram.",
+    "A rhombus is also a special kite (its two pairs of adjacent sides are equal).",
+    "In this course a trapezium has exactly one pair of parallel sides, so a parallelogram is not counted as a trapezium."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Carroll diagram example.** Sort by two properties at the same time. Each shape goes in exactly one cell."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "",
+    "has 4 right angles",
+    "does not have 4 right angles"
+   ],
+   "rows": [
+    [
+     "all sides equal",
+     "square",
+     "rhombus"
+    ],
+    [
+     "not all sides equal",
+     "rectangle",
+     "parallelogram, kite, trapezium"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "6. Sketching quadrilaterals"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Read every clue and decide which shape it is first (use the tables above).",
+    "On a square grid, use the grid lines for parallel and perpendicular sides. To make a side parallel to another, move the same number of squares across and up.",
+    "Use a ruler. Mark equal sides with ticks, parallel sides with arrows and right angles with a small square — this shows the examiner you know the properties.",
+    "Check every clue again against your sketch before moving on."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الفكرة الأساسية",
+   "items": [
+    "المربع هو مستطيل خاص ومعين خاص في نفس الوقت — عنده كل خواصهم.",
+    "متوازي الأضلاع: كل ضلعين متقابلين متوازيين ومتساويين. شبه المنحرف: زوج واحد بس من الأضلاع المتوازية. الطائرة الورقية (kite): زوجين من الأضلاع المتجاورة المتساوية.",
+    "اسأل 3 أسئلة عن الأقطار: متساويين؟ بينصّفوا بعض؟ متعامدين (90°)؟"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "7. Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** (1 mark)\nI am a quadrilateral. I have two pairs of parallel sides. All my sides are equal. I have no right angles. What am I?"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Two pairs of parallel sides → parallelogram, rectangle, rhombus or square.",
+    "All sides equal → rhombus or square.",
+    "No right angles → not a square.",
+    "**Answer: rhombus.**"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** (2 marks)\nWrite each shape in the correct place in the Carroll diagram: square, rectangle, rhombus, kite, trapezium, irregular quadrilateral."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "",
+    "diagonals meet at 90°",
+    "diagonals do not meet at 90°"
+   ],
+   "rows": [
+    [
+     "has parallel sides",
+     "square, rhombus",
+     "rectangle, trapezium"
+    ],
+    [
+     "no parallel sides",
+     "kite",
+     "irregular quadrilateral"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Working: check each shape for both properties. Kite: diagonals perpendicular ✓, no parallel sides. Rectangle: parallel sides ✓, diagonals equal but not at 90°. Marks: 2 marks for all six correct; 1 mark for four or five correct."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** (1 mark)\nP, Q and R are three vertices of a parallelogram PQRS. Find the position of S."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 330 230\" width=\"330\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"20\" y1=\"16\" x2=\"20\" y2=\"208\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"52\" y1=\"16\" x2=\"52\" y2=\"208\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"84\" y1=\"16\" x2=\"84\" y2=\"208\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"116\" y1=\"16\" x2=\"116\" y2=\"208\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"148\" y1=\"16\" x2=\"148\" y2=\"208\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"180\" y1=\"16\" x2=\"180\" y2=\"208\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"212\" y1=\"16\" x2=\"212\" y2=\"208\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"244\" y1=\"16\" x2=\"244\" y2=\"208\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"276\" y1=\"16\" x2=\"276\" y2=\"208\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"308\" y1=\"16\" x2=\"308\" y2=\"208\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"20\" y1=\"16\" x2=\"308\" y2=\"16\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"20\" y1=\"48\" x2=\"308\" y2=\"48\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"20\" y1=\"80\" x2=\"308\" y2=\"80\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"20\" y1=\"112\" x2=\"308\" y2=\"112\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"20\" y1=\"144\" x2=\"308\" y2=\"144\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"20\" y1=\"176\" x2=\"308\" y2=\"176\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"20\" y1=\"208\" x2=\"308\" y2=\"208\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><polyline points=\"52,176 180,176 212,80\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"212\" y1=\"80\" x2=\"84\" y2=\"80\" stroke=\"#c0392b\" stroke-width=\"2\" stroke-dasharray=\"6 4\"/><line x1=\"84\" y1=\"80\" x2=\"52\" y2=\"176\" stroke=\"#c0392b\" stroke-width=\"2\" stroke-dasharray=\"6 4\"/><circle cx=\"52\" cy=\"176\" r=\"3.5\" fill=\"#0f1b33\"/><text x=\"38\" y=\"190\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">P</text><circle cx=\"180\" cy=\"176\" r=\"3.5\" fill=\"#0f1b33\"/><text x=\"188\" y=\"192\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">Q</text><circle cx=\"212\" cy=\"80\" r=\"3.5\" fill=\"#0f1b33\"/><text x=\"222\" y=\"76\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">R</text><circle cx=\"84\" cy=\"80\" r=\"3.5\" fill=\"#0f1b33\"/><text x=\"70\" y=\"74\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">S</text><text x=\"116\" y=\"204\" font-size=\"13\" text-anchor=\"middle\" fill=\"#1f5fa8\">Q→R: 1 right, 3 up</text></svg>",
+   "caption": "To go from Q to R you move 1 square right and 3 squares up. Do the same from P to reach S."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Opposite sides of a parallelogram are parallel and equal, so PS must be the same \"move\" as QR.",
+    "Q → R is 1 right, 3 up. So P → S is also 1 right, 3 up.",
+    "**Answer: S is 1 square right and 3 squares up from P** (at (2, 4) if P is (1, 1)). Check: SR is 4 squares long, the same as PQ. ✓"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** (1 mark)\nZain says: \"A square is not a rectangle because its sides are all the same length.\" Is he right? Explain."
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** No. A rectangle is a quadrilateral with 4 right angles (and opposite sides equal). A square has 4 right angles and its opposite sides are equal, so it meets every rule for a rectangle. It is a special rectangle whose sides happen to be all equal."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** (1 mark)\nABCD is a parallelogram. Angle A = 65° and angle B = 115°. Write the sizes of angle C and angle D."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "In a parallelogram, opposite angles are equal.",
+    "Angle C is opposite angle A, so angle C = 65°.",
+    "Angle D is opposite angle B, so angle D = 115°.",
+    "**Answer: C = 65°, D = 115°.**"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Common mistake: thinking all four angles of a parallelogram are equal. That is only true for a rectangle (all 90°)."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** (1 mark)\nSketch a quadrilateral with exactly two lines of symmetry whose diagonals are not equal. Name it."
+  },
+  {
+   "type": "p",
+   "text": "Two lines of symmetry → rectangle or rhombus. Diagonals not equal → not a rectangle. **Answer: a rhombus** — sketch 4 equal sides (ticks) with no right angles and draw the two diagonals as the dashed lines of symmetry. Common mistake: drawing a rectangle — its diagonals are equal."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Thinking a rhombus is just a \"tilted square\". A square turned on its corner is still a square. A rhombus has no right angles (unless it is a square).",
+    "Saying a rectangle has 4 lines of symmetry. It has 2 — its diagonals are not lines of symmetry.",
+    "Saying a parallelogram has lines of symmetry. A (non-rectangular) parallelogram has none.",
+    "Saying \"a square is not a rectangle\". It is — a special one.",
+    "Mixing up trapezium (1 pair of parallel sides) and parallelogram (2 pairs).",
+    "Sketching freehand without a ruler, so that \"parallel\" sides clearly are not parallel. Use the grid and a ruler."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "Name the shape from a list of clues — go through the clues one at a time and cross out shapes that fail.",
+    "Sort shapes into a Carroll or Venn diagram. Every shape must go somewhere; check each shape against BOTH properties.",
+    "Tick true or false: \"All rhombuses are squares\". Look for one counter-example to show a statement is false.",
+    "Draw or complete a shape on a square grid: copy the \"moves\" of one side to draw the side parallel to it.",
+    "Join dots or draw a line to split a shape into two named quadrilaterals.",
+    "\"Explain\" questions: name the property that decides it (e.g. \"it has no right angles\") — vague answers like \"it looks different\" get no mark."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Quadrilaterals — practice quiz",
+   "timed": false,
+   "intro": "13 questions. For the two drawing questions, sketch on paper with a ruler, then mark yourself using the mark scheme.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 20,
+     "calc": false,
+     "questions": [
+      {
+       "q": "Which quadrilateral has exactly one pair of parallel sides?",
+       "c": [
+        "parallelogram",
+        "trapezium",
+        "rhombus",
+        "rectangle"
+       ],
+       "a": 1,
+       "m": 1,
+       "e": "A trapezium has exactly one pair of parallel sides. Parallelograms, rhombuses and rectangles all have two pairs.",
+       "s": "Quadrilaterals"
+      },
+      {
+       "t": "text",
+       "q": "I have four equal sides and no right angles. What quadrilateral am I?",
+       "ans": [
+        "rhombus",
+        "a rhombus",
+        "rhombi"
+       ],
+       "m": 1,
+       "e": "Four equal sides → square or rhombus. No right angles → not a square. So it is a rhombus.",
+       "s": "Quadrilaterals"
+      },
+      {
+       "t": "num",
+       "q": "How many lines of symmetry does a rectangle (that is not a square) have?",
+       "ans": [
+        2
+       ],
+       "tol": 0,
+       "m": 1,
+       "e": "2: one vertical line and one horizontal line through the middle. The diagonals are not lines of symmetry — folding along a diagonal does not make the halves match.",
+       "s": "Quadrilaterals"
+      },
+      {
+       "q": "In which quadrilateral are the diagonals always equal in length?",
+       "c": [
+        "rhombus",
+        "parallelogram",
+        "kite",
+        "rectangle"
+       ],
+       "a": 3,
+       "m": 1,
+       "e": "The diagonals of a rectangle are always equal. In a rhombus, a parallelogram and a kite the diagonals are usually different lengths.",
+       "s": "Quadrilaterals"
+      },
+      {
+       "t": "text",
+       "q": "The diagonals of a quadrilateral are equal, cut each other in half and meet at right angles. What is the quadrilateral?",
+       "ans": [
+        "square",
+        "a square"
+       ],
+       "m": 1,
+       "e": "Equal and bisecting → rectangle or square. Meeting at right angles as well → square (a rectangle's diagonals are not perpendicular unless it is a square).",
+       "s": "Quadrilaterals"
+      },
+      {
+       "q": "Which statement is ALWAYS true?",
+       "c": [
+        "Every rectangle is a square.",
+        "Every square is a rhombus.",
+        "Every rhombus is a square.",
+        "Every parallelogram is a rectangle."
+       ],
+       "a": 1,
+       "m": 1,
+       "e": "A square has 4 equal sides, so it is a rhombus. The others are false: a rectangle may have unequal sides; a rhombus may have no right angles; a parallelogram may have no right angles.",
+       "s": "Quadrilaterals"
+      },
+      {
+       "q": "Points 1, 2 and 3 are three vertices of a parallelogram. Which point, A, B, C or D, is the fourth vertex?",
+       "c": [
+        "A",
+        "B",
+        "C",
+        "D"
+       ],
+       "a": 0,
+       "m": 1,
+       "e": "From point 2 to point 3 is 2 squares right and 3 squares up. Do the same move from point 1: 2 right, 3 up gives point A. Check: A to 3 is 4 squares, the same length as 1 to 2, and parallel to it.",
+       "s": "Quadrilaterals",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 330 245\" width=\"330\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"20\" y1=\"26\" x2=\"20\" y2=\"218\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"52\" y1=\"26\" x2=\"52\" y2=\"218\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"84\" y1=\"26\" x2=\"84\" y2=\"218\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"116\" y1=\"26\" x2=\"116\" y2=\"218\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"148\" y1=\"26\" x2=\"148\" y2=\"218\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"180\" y1=\"26\" x2=\"180\" y2=\"218\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"212\" y1=\"26\" x2=\"212\" y2=\"218\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"244\" y1=\"26\" x2=\"244\" y2=\"218\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"276\" y1=\"26\" x2=\"276\" y2=\"218\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"308\" y1=\"26\" x2=\"308\" y2=\"218\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"20\" y1=\"26\" x2=\"308\" y2=\"26\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"20\" y1=\"58\" x2=\"308\" y2=\"58\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"20\" y1=\"90\" x2=\"308\" y2=\"90\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"20\" y1=\"122\" x2=\"308\" y2=\"122\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"20\" y1=\"154\" x2=\"308\" y2=\"154\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"20\" y1=\"186\" x2=\"308\" y2=\"186\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"20\" y1=\"218\" x2=\"308\" y2=\"218\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><polyline points=\"52,186 180,186 244,90\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><circle cx=\"52\" cy=\"186\" r=\"3.5\" fill=\"#0f1b33\"/><text x=\"42\" y=\"178\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">1</text><circle cx=\"180\" cy=\"186\" r=\"3.5\" fill=\"#0f1b33\"/><text x=\"174\" y=\"176\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">2</text><circle cx=\"244\" cy=\"90\" r=\"3.5\" fill=\"#0f1b33\"/><text x=\"234\" y=\"82\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">3</text><circle cx=\"116\" cy=\"90\" r=\"4\" fill=\"#c0392b\"/><text x=\"125\" y=\"83\" font-size=\"15\" fill=\"#c0392b\" font-weight=\"bold\">A</text><circle cx=\"84\" cy=\"90\" r=\"4\" fill=\"#c0392b\"/><text x=\"93\" y=\"83\" font-size=\"15\" fill=\"#c0392b\" font-weight=\"bold\">B</text><circle cx=\"148\" cy=\"90\" r=\"4\" fill=\"#c0392b\"/><text x=\"157\" y=\"83\" font-size=\"15\" fill=\"#c0392b\" font-weight=\"bold\">C</text><circle cx=\"116\" cy=\"58\" r=\"4\" fill=\"#c0392b\"/><text x=\"125\" y=\"51\" font-size=\"15\" fill=\"#c0392b\" font-weight=\"bold\">D</text></svg>"
+      },
+      {
+       "q": "Points 1, 2 and 3 are three vertices of a kite. The kite has a vertical line of symmetry through points 2 and 3. Which point is the fourth vertex?",
+       "c": [
+        "A",
+        "B",
+        "C",
+        "D"
+       ],
+       "a": 2,
+       "m": 1,
+       "e": "The line of symmetry is the vertical line through 2 and 3. Point 1 is 2 squares to the LEFT of this line, so its mirror image is 2 squares to the RIGHT at the same height: point C.",
+       "s": "Quadrilaterals",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 330 245\" width=\"330\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"20\" y1=\"26\" x2=\"20\" y2=\"218\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"52\" y1=\"26\" x2=\"52\" y2=\"218\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"84\" y1=\"26\" x2=\"84\" y2=\"218\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"116\" y1=\"26\" x2=\"116\" y2=\"218\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"148\" y1=\"26\" x2=\"148\" y2=\"218\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"180\" y1=\"26\" x2=\"180\" y2=\"218\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"212\" y1=\"26\" x2=\"212\" y2=\"218\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"244\" y1=\"26\" x2=\"244\" y2=\"218\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"276\" y1=\"26\" x2=\"276\" y2=\"218\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"308\" y1=\"26\" x2=\"308\" y2=\"218\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"20\" y1=\"26\" x2=\"308\" y2=\"26\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"20\" y1=\"58\" x2=\"308\" y2=\"58\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"20\" y1=\"90\" x2=\"308\" y2=\"90\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"20\" y1=\"122\" x2=\"308\" y2=\"122\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"20\" y1=\"154\" x2=\"308\" y2=\"154\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"20\" y1=\"186\" x2=\"308\" y2=\"186\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><line x1=\"20\" y1=\"218\" x2=\"308\" y2=\"218\" stroke=\"#9aa7bd\" stroke-width=\"1\"/><polyline points=\"148,218 84,90 148,26\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><circle cx=\"84\" cy=\"90\" r=\"3.5\" fill=\"#0f1b33\"/><text x=\"70\" y=\"90\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">1</text><circle cx=\"148\" cy=\"26\" r=\"3.5\" fill=\"#0f1b33\"/><text x=\"162\" y=\"31\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">2</text><circle cx=\"148\" cy=\"218\" r=\"3.5\" fill=\"#0f1b33\"/><text x=\"162\" y=\"223\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">3</text><circle cx=\"212\" cy=\"122\" r=\"4\" fill=\"#c0392b\"/><text x=\"221\" y=\"115\" font-size=\"15\" fill=\"#c0392b\" font-weight=\"bold\">A</text><circle cx=\"180\" cy=\"90\" r=\"4\" fill=\"#c0392b\"/><text x=\"189\" y=\"83\" font-size=\"15\" fill=\"#c0392b\" font-weight=\"bold\">B</text><circle cx=\"212\" cy=\"90\" r=\"4\" fill=\"#c0392b\"/><text x=\"221\" y=\"83\" font-size=\"15\" fill=\"#c0392b\" font-weight=\"bold\">C</text><circle cx=\"244\" cy=\"90\" r=\"4\" fill=\"#c0392b\"/><text x=\"253\" y=\"83\" font-size=\"15\" fill=\"#c0392b\" font-weight=\"bold\">D</text></svg>"
+      },
+      {
+       "q": "A Carroll diagram has the headings \"has 4 right angles / does not have 4 right angles\" and \"all sides equal / not all sides equal\". In which cell does a rhombus (that is not a square) go?",
+       "c": [
+        "4 right angles and all sides equal",
+        "4 right angles and not all sides equal",
+        "not 4 right angles and all sides equal",
+        "not 4 right angles and not all sides equal"
+       ],
+       "a": 2,
+       "m": 1,
+       "e": "A rhombus has all sides equal but (unless it is a square) no right angles. So it goes in \"does not have 4 right angles\" and \"all sides equal\".",
+       "s": "Quadrilaterals"
+      },
+      {
+       "t": "num",
+       "q": "How many of these shapes have at least one line of symmetry?\nsquare, parallelogram, kite, isosceles trapezium, rectangle",
+       "ans": [
+        4
+       ],
+       "tol": 0,
+       "m": 1,
+       "e": "Square (4 lines), kite (1), isosceles trapezium (1), rectangle (2) all have lines of symmetry. A parallelogram has none. So 4 shapes.",
+       "s": "Quadrilaterals"
+      },
+      {
+       "t": "num",
+       "p": "PQRS is a parallelogram. Angle P = 70°.",
+       "q": "What is the size of angle R, the angle opposite P?",
+       "ans": [
+        70
+       ],
+       "tol": 0,
+       "unit": "°",
+       "m": 1,
+       "e": "Opposite angles of a parallelogram are equal, so angle R = angle P = 70°.",
+       "s": "Quadrilaterals"
+      },
+      {
+       "t": "open",
+       "q": "Hassan says: \"A quadrilateral with four equal sides must be a square.\" Is he correct? Explain your answer.",
+       "ms": "1 mark: No, with a correct reason, e.g. a rhombus has four equal sides but does not have right angles / is not a square. Accept a correct sketch of a non-square rhombus labelled with equal sides. Do not accept \"No\" with no reason.",
+       "m": 1,
+       "e": "No. A rhombus also has four equal sides, but its angles need not be right angles, so it is not always a square. A square needs four equal sides AND four right angles.",
+       "s": "Quadrilaterals"
+      },
+      {
+       "t": "open",
+       "q": "Sketch a quadrilateral that has exactly one line of symmetry and no parallel sides. Name your shape and draw its line of symmetry.",
+       "ms": "1 mark: a correct sketch of a kite (or arrowhead) with two pairs of equal adjacent sides, with the single line of symmetry drawn through the vertices between the equal sides, AND named kite (or arrowhead/delta). Do not accept an isosceles trapezium (it has parallel sides) or a rhombus (2 lines of symmetry).",
+       "m": 1,
+       "e": "A kite: two short equal sides next to each other at the top and two longer equal sides next to each other at the bottom. Its one line of symmetry goes from the top vertex to the bottom vertex. It has no parallel sides. (An arrowhead is also correct.)",
+       "s": "Quadrilaterals"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Describe a quadrilateral using sides, angles, parallel sides, lines of symmetry and diagonals.",
+    "Square: everything equal, 4 right angles, 4 lines of symmetry, diagonals equal and perpendicular.",
+    "Rectangle 2 lines of symmetry; rhombus 2 (its diagonals); parallelogram 0; kite 1; isosceles trapezium 1.",
+    "A square is a special rectangle AND a special rhombus; rectangles and rhombuses are special parallelograms.",
+    "Parallelogram: 2 pairs of parallel sides. Trapezium: 1 pair. Kite: none, but 2 pairs of equal adjacent sides.",
+    "On a grid, a parallel side copies the same \"moves\" (squares across and up)."
+   ]
+  }
+ ]
+}

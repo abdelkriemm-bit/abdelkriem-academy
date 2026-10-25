@@ -1,0 +1,98 @@
+{
+ "course": "cp6s",
+ "spec": "SPEC_P6_SCIENCE.md",
+ "pages": {
+  "cp6s-overview": {
+   "title": "Checkpoint 6 Science: The Test and How to Prepare",
+   "covers": "exam overview"
+  },
+  "cp6s-working-scientifically": {
+   "title": "Thinking and Working Scientifically: Investigations, Variables, Tables and Graphs",
+   "covers": "all Stage 6 TWS objectives + appendix units/symbols"
+  },
+  "cp6s-circulatory-system": {
+   "title": "The Heart and Circulatory System",
+   "covers": "6Bs.01"
+  },
+  "cp6s-respiratory-system": {
+   "title": "The Lungs and Respiratory System",
+   "covers": "6Bs.02"
+  },
+  "cp6s-growing-up": {
+   "title": "Human Reproductive System and Puberty",
+   "covers": "6Bs.03 6Bp.01"
+  },
+  "cp6s-diseases-hygiene": {
+   "title": "Diseases, Hygiene and the Body's Defences",
+   "covers": "6Bp.02 6Bp.03 6Bp.04"
+  },
+  "cp6s-food-chains-webs": {
+   "title": "Food Chains, Food Webs, Energy and Toxins",
+   "covers": "6Be.01 6Be.02 6Be.03"
+  },
+  "cp6s-properties-of-substances": {
+   "title": "Properties of Substances: Melting and Boiling Points, Gases, Conductors",
+   "covers": "6Cp.01 6Cp.02 6Cp.03"
+  },
+  "cp6s-reversible-changes-dissolving": {
+   "title": "Reversible Changes and Dissolving",
+   "covers": "6Cc.01 6Cc.02"
+  },
+  "cp6s-boiling-evaporation": {
+   "title": "Boiling and Evaporation",
+   "covers": "6Cc.03"
+  },
+  "cp6s-chemical-reactions": {
+   "title": "Chemical Reactions: Reactants, Products and Evidence",
+   "covers": "6Cc.04 6Cc.05"
+  },
+  "cp6s-mass-weight-gravity": {
+   "title": "Mass, Weight and Gravity",
+   "covers": "6Pf.01 6Pf.02"
+  },
+  "cp6s-forces-motion": {
+   "title": "Force Diagrams and Forces on Moving Objects",
+   "covers": "6Pf.03 6Pf.04"
+  },
+  "cp6s-floating-sinking": {
+   "title": "Floating and Sinking",
+   "covers": "6Pf.05"
+  },
+  "cp6s-light": {
+   "title": "Light: Reflection and Refraction",
+   "covers": "6Ps.01 6Ps.02"
+  },
+  "cp6s-circuits": {
+   "title": "Electric Circuits, Symbols, Series and Parallel",
+   "covers": "6Pe.01 6Pe.02"
+  },
+  "cp6s-rocks-fossils": {
+   "title": "Rocks and Fossils",
+   "covers": "6ESp.01 6ESp.02"
+  },
+  "cp6s-soil": {
+   "title": "Types of Soil",
+   "covers": "6ESp.03 6ESp.04"
+  },
+  "cp6s-rock-cycle": {
+   "title": "The Rock Cycle",
+   "covers": "6ESc.01"
+  },
+  "cp6s-solar-system-moon": {
+   "title": "The Solar System and the Phases of the Moon",
+   "covers": "6ESs.01 6ESs.02"
+  },
+  "cp6s-practice-test-1": {
+   "title": "Checkpoint 6 Science — Practice Test 1",
+   "covers": "TEST"
+  },
+  "cp6s-practice-test-2": {
+   "title": "Checkpoint 6 Science — Practice Test 2",
+   "covers": "TEST"
+  },
+  "cp6s-practice-test-3": {
+   "title": "Checkpoint 6 Science — Practice Test 3",
+   "covers": "TEST"
+  }
+ }
+}

@@ -1,0 +1,523 @@
+{
+ "slug": "cp6s-diseases-hygiene",
+ "title": "Diseases, Hygiene and the Body's Defences",
+ "kicker": "Cambridge Primary Checkpoint · Science 0097 · Stage 6 · Biology",
+ "summary": "What causes infectious diseases, how they spread through water, food, body fluids and insects, how hygiene stops them, and how skin, mucus and stomach acid defend the body.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Know that some diseases are caused by **infection** with viruses, bacteria, parasites or fungi, and that these can be passed from one host to another (6Bp.02)",
+    "Describe how good **hygiene** controls the spread of diseases passed on through water, food and body fluids, and how to avoid being bitten by **insect vectors** (6Bp.03)",
+    "Know that the body has **defences** against infectious diseases, including the skin, stomach acid and mucus (6Bp.04)"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. What causes infectious diseases?"
+  },
+  {
+   "type": "p",
+   "text": "Some diseases, such as a cold or food poisoning, can be **caught** from another person, an animal or from dirty water or food. These are **infectious diseases**. They are caused by tiny living things (or particles) called **pathogens** — often called 'germs'. Most pathogens are so small that you need a microscope to see them. Other diseases, such as diabetes or most heart disease, are **not** infectious: you cannot catch them from someone."
+  },
+  {
+   "type": "p",
+   "text": "When a pathogen gets inside a living thing and starts to multiply, we say the living thing is **infected**. The living thing that the pathogen lives in is called the **host**. A disease spreads when the pathogen passes from one host to another host."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Type of pathogen",
+    "What it is like",
+    "Examples of diseases"
+   ],
+   "rows": [
+    [
+     "**virus**",
+     "The smallest pathogen. It can only multiply inside the cells of a host.",
+     "common cold, flu (influenza), measles, chickenpox, COVID-19"
+    ],
+    [
+     "**bacteria** (one: bacterium)",
+     "Single cells, much smaller than human cells. Many bacteria are harmless or even useful; only some cause disease.",
+     "food poisoning (e.g. salmonella), cholera, tuberculosis (TB)"
+    ],
+    [
+     "**fungi** (one: fungus)",
+     "Grow as tiny threads or single cells, often in warm, damp places.",
+     "athlete's foot, ringworm (a skin infection — not a worm!)"
+    ],
+    [
+     "**parasites**",
+     "Living things that live in or on a host and harm it. Some are single cells, some are worms.",
+     "malaria (a parasite carried by mosquitoes), bilharzia (a parasite worm in canal water), tapeworm"
+    ]
+   ]
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "infectious disease",
+     "مرض معدي — a disease that can be passed from one host to another"
+    ],
+    [
+     "pathogen",
+     "مسبب المرض (الجرثومة) — a living thing or particle that causes disease"
+    ],
+    [
+     "host",
+     "العائل — the living thing that a pathogen lives in"
+    ],
+    [
+     "virus",
+     "فيروس"
+    ],
+    [
+     "bacteria",
+     "بكتيريا"
+    ],
+    [
+     "fungus / fungi",
+     "فطر / فطريات"
+    ],
+    [
+     "parasite",
+     "طفيل — lives in or on a host and harms it"
+    ],
+    [
+     "vector",
+     "ناقل المرض — an animal (often an insect) that carries a pathogen from one host to another"
+    ],
+    [
+     "hygiene",
+     "النظافة الشخصية — keeping clean to stop the spread of disease"
+    ],
+    [
+     "mucus",
+     "المخاط — sticky liquid that traps pathogens"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "2. How pathogens pass from host to host"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 300\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\"><defs><marker id=\"ar\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M0 0L10 5L0 10z\" fill=\"#0f1b33\"/></marker></defs><rect x=\"15\" y=\"122\" width=\"120\" height=\"56\" rx=\"8\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"75\" y=\"146\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">infected</text><text x=\"75\" y=\"164\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">host</text><rect x=\"405\" y=\"122\" width=\"120\" height=\"56\" rx=\"8\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"465\" y=\"146\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">new host</text><text x=\"465\" y=\"164\" text-anchor=\"middle\" fill=\"#0f1b33\">(gets ill)</text><rect x=\"195\" y=\"25\" width=\"150\" height=\"40\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"270\" y=\"50\" text-anchor=\"middle\" fill=\"#0f1b33\">dirty water</text><line x1=\"129.6\" y1=\"120.6\" x2=\"230.2\" y2=\"66.4\" stroke=\"#0f1b33\" stroke-width=\"1.5\" marker-end=\"url(#ar)\"/><line x1=\"309.8\" y1=\"66.4\" x2=\"410.4\" y2=\"120.6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" marker-end=\"url(#ar)\"/><rect x=\"195\" y=\"95\" width=\"150\" height=\"40\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"270\" y=\"120\" text-anchor=\"middle\" fill=\"#0f1b33\">food</text><line x1=\"138.0\" y1=\"138.7\" x2=\"192.0\" y2=\"129.0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" marker-end=\"url(#ar)\"/><line x1=\"348.0\" y1=\"129.0\" x2=\"402.0\" y2=\"138.7\" stroke=\"#0f1b33\" stroke-width=\"1.5\" marker-end=\"url(#ar)\"/><rect x=\"195\" y=\"165\" width=\"150\" height=\"40\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"270\" y=\"190\" text-anchor=\"middle\" fill=\"#0f1b33\">body fluids</text><line x1=\"138.0\" y1=\"161.3\" x2=\"192.0\" y2=\"171.0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" marker-end=\"url(#ar)\"/><line x1=\"348.0\" y1=\"171.0\" x2=\"402.0\" y2=\"161.3\" stroke=\"#0f1b33\" stroke-width=\"1.5\" marker-end=\"url(#ar)\"/><rect x=\"195\" y=\"235\" width=\"150\" height=\"40\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"270\" y=\"260\" text-anchor=\"middle\" fill=\"#0f1b33\">insect vectors</text><line x1=\"129.6\" y1=\"179.4\" x2=\"230.2\" y2=\"233.6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" marker-end=\"url(#ar)\"/><line x1=\"309.8\" y1=\"233.6\" x2=\"410.4\" y2=\"179.4\" stroke=\"#0f1b33\" stroke-width=\"1.5\" marker-end=\"url(#ar)\"/><text x=\"270\" y=\"16\" text-anchor=\"middle\" fill=\"#0f1b33\">Ways a pathogen passes from host to host</text></svg>",
+   "caption": "The four main routes in the Stage 6 curriculum."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Route",
+    "How it happens",
+    "Example"
+   ],
+   "rows": [
+    [
+     "**water**",
+     "Pathogens from faeces (toilet waste) get into drinking water, or live in rivers and canals.",
+     "cholera (bacteria) from dirty drinking water; bilharzia (parasite) enters through the skin of people who swim or wade in infected canal water"
+    ],
+    [
+     "**food**",
+     "Pathogens on raw meat, unwashed hands or flies get onto food; food left warm lets bacteria multiply.",
+     "food poisoning from undercooked chicken"
+    ],
+    [
+     "**body fluids**",
+     "Tiny droplets from coughs and sneezes, saliva, or blood carry pathogens to another person.",
+     "cold and flu spread in droplets when people cough or sneeze"
+    ],
+    [
+     "**insect vectors**",
+     "An insect bites an infected person, picks up the pathogen, then bites someone else.",
+     "female mosquitoes spread malaria and dengue fever"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "3. Good hygiene controls the spread"
+  },
+  {
+   "type": "p",
+   "text": "**Hygiene** means the things we do to keep clean so that pathogens cannot reach a new host. Learn at least two actions for every route — Checkpoint often asks 'Describe **one** way to…'."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Route",
+    "Good hygiene that stops it"
+   ],
+   "rows": [
+    [
+     "water",
+     "drink clean, treated or boiled water; use toilets and keep sewage away from drinking water; wash hands after using the toilet; do not swim in canals or still river water (bilharzia)"
+    ],
+    [
+     "food",
+     "wash hands with soap before preparing and eating food; cook meat thoroughly; keep raw meat away from cooked food; wash fruit and vegetables in clean water; keep food in a fridge and cover it from flies"
+    ],
+    [
+     "body fluids",
+     "cough or sneeze into a tissue or your elbow, then throw the tissue away and wash your hands; do not share cups, toothbrushes or razors; cover cuts with a plaster"
+    ],
+    [
+     "insect vectors",
+     "sleep under a mosquito net; use insect repellent on skin; wear long sleeves and long trousers in the evening; use screens on windows; remove standing water (in old tyres, pots, buckets) where mosquitoes lay their eggs"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Why soap works better than water alone",
+   "text": "Water rinses some pathogens off, but soap lifts away the grease and dirt that pathogens stick to, so many more are washed away. Rub all parts of your hands (palms, backs, between fingers, under nails) for about 20 seconds, then rinse and dry with a clean towel."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "بالعربي: الفكرة الأساسية",
+   "text": "الأمراض المعدية سببها جراثيم (pathogens): فيروسات viruses، بكتيريا bacteria، فطريات fungi، وطفيليات parasites. بتنتقل من عائل (host) لعائل تاني عن طريق المية الوسخة، الأكل، سوائل الجسم (العطس والكحة والدم)، أو الحشرات الناقلة زي الناموس (vectors). النظافة (hygiene) بتقطع الطريق ده: اغسل إيدك بالصابون، اشرب مية نضيفة، اطبخ الأكل كويس، واستخدم الناموسية. ومتنزلش الترعة عشان البلهارسيا!"
+  },
+  {
+   "type": "h2",
+   "text": "4. The body's defences"
+  },
+  {
+   "type": "p",
+   "text": "Pathogens are all around us, yet we are healthy most of the time. This is because the body has **defence mechanisms** that stop most pathogens getting in, or kill them when they do."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Defence",
+    "How it protects you"
+   ],
+   "rows": [
+    [
+     "**skin**",
+     "A tough barrier that covers the body, so pathogens cannot get through. If the skin is cut, pathogens can get in — so clean and cover cuts. A scab forms to seal the cut."
+    ],
+    [
+     "**mucus**",
+     "A sticky liquid made in the nose and the tubes leading to the lungs. It **traps** pathogens and dust in the air you breathe. Tiny hairs move the mucus up and away, and it is swallowed or blown out of the nose."
+    ],
+    [
+     "**stomach acid**",
+     "The stomach makes a strong acid (hydrochloric acid). It **kills** most pathogens in the food and drink you swallow."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "If pathogens do get inside the body, the blood contains **white blood cells** that attack them. You will learn more about these in later stages; at Stage 6 you must know the three defences in the table."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Barrier, trap or kill?",
+   "text": "Skin = **barrier** (keeps out). Mucus = **trap** (catches). Stomach acid = **kill** (destroys). Use these verbs in your answers."
+  },
+  {
+   "type": "h2",
+   "text": "5. An investigation: does handwashing work?"
+  },
+  {
+   "type": "p",
+   "text": "A class tested four ways of cleaning hands. After cleaning, a learner touched a sterile agar plate (a dish of jelly that bacteria can grow on). The plates were taped shut and left warm for two days. Each spot of bacteria that grows is called a **colony**. The class counted the colonies."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 520 320\" width=\"520\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"70.0\" y1=\"250.0\" x2=\"500.0\" y2=\"250.0\" stroke=\"#9aa8bf\" stroke-width=\"1\"/><line x1=\"70.0\" y1=\"240.8\" x2=\"500.0\" y2=\"240.8\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"231.6\" x2=\"500.0\" y2=\"231.6\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"222.4\" x2=\"500.0\" y2=\"222.4\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"213.2\" x2=\"500.0\" y2=\"213.2\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"204.0\" x2=\"500.0\" y2=\"204.0\" stroke=\"#9aa8bf\" stroke-width=\"1\"/><line x1=\"70.0\" y1=\"194.8\" x2=\"500.0\" y2=\"194.8\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"185.6\" x2=\"500.0\" y2=\"185.6\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"176.4\" x2=\"500.0\" y2=\"176.4\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"167.2\" x2=\"500.0\" y2=\"167.2\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"158.0\" x2=\"500.0\" y2=\"158.0\" stroke=\"#9aa8bf\" stroke-width=\"1\"/><line x1=\"70.0\" y1=\"148.8\" x2=\"500.0\" y2=\"148.8\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"139.6\" x2=\"500.0\" y2=\"139.6\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"130.4\" x2=\"500.0\" y2=\"130.4\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"121.2\" x2=\"500.0\" y2=\"121.2\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"112.0\" x2=\"500.0\" y2=\"112.0\" stroke=\"#9aa8bf\" stroke-width=\"1\"/><line x1=\"70.0\" y1=\"102.8\" x2=\"500.0\" y2=\"102.8\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"93.6\" x2=\"500.0\" y2=\"93.6\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"84.4\" x2=\"500.0\" y2=\"84.4\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"75.2\" x2=\"500.0\" y2=\"75.2\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"66.0\" x2=\"500.0\" y2=\"66.0\" stroke=\"#9aa8bf\" stroke-width=\"1\"/><line x1=\"70.0\" y1=\"56.8\" x2=\"500.0\" y2=\"56.8\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"47.6\" x2=\"500.0\" y2=\"47.6\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"38.4\" x2=\"500.0\" y2=\"38.4\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"29.2\" x2=\"500.0\" y2=\"29.2\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"20.0\" x2=\"500.0\" y2=\"20.0\" stroke=\"#9aa8bf\" stroke-width=\"1\"/><text x=\"62\" y=\"255\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">0</text><text x=\"62\" y=\"209\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">10</text><text x=\"62\" y=\"163\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">20</text><text x=\"62\" y=\"117\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">30</text><text x=\"62\" y=\"71\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">40</text><text x=\"62\" y=\"25\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">50</text><rect x=\"92.8\" y=\"29.2\" width=\"62\" height=\"220.8\" fill=\"#9fc0ea\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"124\" y=\"268\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">no washing</text><rect x=\"200.2\" y=\"112.0\" width=\"62\" height=\"138.0\" fill=\"#9fc0ea\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"231\" y=\"268\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">water only</text><rect x=\"307.8\" y=\"204.0\" width=\"62\" height=\"46.0\" fill=\"#9fc0ea\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"339\" y=\"268\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">hand gel</text><rect x=\"415.2\" y=\"222.4\" width=\"62\" height=\"27.6\" fill=\"#9fc0ea\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"446\" y=\"268\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">soap and</text><text x=\"446\" y=\"284\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">water</text><line x1=\"70.0\" y1=\"250.0\" x2=\"500.0\" y2=\"250.0\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"70.0\" y1=\"250.0\" x2=\"70.0\" y2=\"20.0\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><text x=\"285\" y=\"310\" text-anchor=\"middle\" fill=\"#0f1b33\">how the hands were cleaned</text><text x=\"20\" y=\"135\" text-anchor=\"middle\" font-size=\"14\" transform=\"rotate(-90 20 135)\" fill=\"#0f1b33\">number of colonies</text></svg>",
+   "caption": "Number of bacteria colonies after each way of cleaning hands."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**Independent variable** (what they changed): how the hands were cleaned.",
+    "**Dependent variable** (what they measured): the number of colonies.",
+    "**Control variables** (kept the same): same person's hands, same type of agar plate, same time touching, same temperature and time left to grow.",
+    "**Safety:** keep plates taped shut and never open them after growing — some bacteria could be harmful; wash hands after the practical.",
+    "**Conclusion:** soap and water removed the most bacteria (fewest colonies: 6); not washing left the most (48).",
+    "**Improve:** repeat with more people and take a mean, so the results are more reliable."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "A **bar chart** is used because the independent variable (way of cleaning) is in words — it is not a number that changes smoothly."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — Malaria is caused by a parasite. Describe how malaria passes from one person to another. [2 marks]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Say what carries it: a mosquito (an insect vector).",
+    "Say how: it bites an infected person and takes in the parasite, then bites another person and passes the parasite on."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** a mosquito bites an infected person (1) and then passes the parasite to the next person it bites (1). **Common mistake:** writing 'malaria is a virus' or 'you catch it by touching someone'."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — Give **two** ways a family can avoid being bitten by mosquitoes. [2 marks]"
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** any two of: sleep under a mosquito net; use insect repellent; wear long sleeves and long trousers; put screens on windows; empty standing water where mosquitoes breed. **Exam tip:** two **different** ideas — 'long sleeves' and 'long trousers' count as one idea (covering skin)."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — Explain how stomach acid helps to protect the body. [1 mark]"
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** it kills (most) pathogens / bacteria in the food or drink we swallow. **Common mistake:** 'it digests food' is true but does not answer a question about **defence**."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — Use the bar chart. How many fewer colonies grew after washing with soap and water than after washing with water only? [1 mark]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Read water only: 30 colonies (each small square is 2 colonies).",
+    "Read soap and water: 6 colonies.",
+    "Subtract: 30 − 6 = 24."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** 24 colonies."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — Ahmed says: \"Athlete's foot is caused by bacteria.\" Is he correct? Give a reason. [1 mark]"
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** No — athlete's foot is caused by a **fungus**, which grows in warm, damp places such as between toes. (A yes/no alone earns no mark; the reason is needed.)"
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Saying **all** bacteria are harmful. Many are harmless or useful; only some cause disease.",
+    "Calling every pathogen a 'virus'. Learn the four groups: viruses, bacteria, fungi, parasites.",
+    "Thinking the mosquito is the pathogen. The mosquito is the **vector**; the parasite inside it causes malaria.",
+    "Writing 'wash hands' with no detail. Better: 'wash hands **with soap** before eating / after using the toilet'.",
+    "Mixing up the defences: mucus **traps**, skin is a **barrier**, stomach acid **kills**.",
+    "Writing 'ringworm is a worm' — it is a fungus."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "**Sort** diseases or descriptions into virus / bacteria / fungus / parasite.",
+    "**Describe one way** to stop a disease spreading by a named route — link your action to the route (water → boil it).",
+    "**Explain** how a defence works in one sentence with a key verb (trap / barrier / kill).",
+    "**Investigation items**: name the independent and dependent variables, give a control variable, read a bar chart, suggest an improvement (repeat, take a mean).",
+    "Look at the number of marks: 2 marks usually means two separate points."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Diseases, Hygiene and Defences — Practice",
+   "timed": false,
+   "intro": "13 Checkpoint-style questions, from easy to hard. Check each answer and read the full solution.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 15,
+     "calc": true,
+     "questions": [
+      {
+       "q": "Which group of pathogens causes the common cold and flu?",
+       "c": [
+        "bacteria",
+        "fungi",
+        "viruses",
+        "parasites"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Pathogens",
+       "e": "The common cold and flu are caused by viruses."
+      },
+      {
+       "q": "Which disease is caused by a fungus?",
+       "c": [
+        "athlete's foot",
+        "cholera",
+        "malaria",
+        "measles"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Pathogens",
+       "e": "Athlete's foot is a fungal infection. Cholera = bacteria, malaria = parasite, measles = virus."
+      },
+      {
+       "t": "text",
+       "q": "An animal, such as a mosquito, that carries a pathogen from one host to another is called a ______.",
+       "ans": [
+        "vector",
+        "vectors",
+        "an insect vector",
+        "insect vector",
+        "a vector"
+       ],
+       "m": 1,
+       "s": "Spread of disease",
+       "e": "A vector carries a pathogen between hosts. The mosquito is the vector of malaria."
+      },
+      {
+       "q": "Which action best stops the spread of cholera, a disease spread in dirty water?",
+       "c": [
+        "sleeping under a net",
+        "coughing into a tissue",
+        "wearing long sleeves",
+        "boiling water before drinking it"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Hygiene",
+       "e": "Boiling kills the bacteria in the water. The other actions stop insect bites or droplets, not waterborne disease."
+      },
+      {
+       "t": "text",
+       "q": "Name the sticky liquid in the nose that traps pathogens.",
+       "ans": [
+        "mucus",
+        "mucous",
+        "mucas"
+       ],
+       "m": 1,
+       "s": "Defences",
+       "e": "Mucus traps pathogens and dust in the air we breathe in. ('mucous' is accepted as a phonetic spelling.)"
+      },
+      {
+       "q": "How does the skin protect the body from pathogens?",
+       "c": [
+        "It kills pathogens with acid.",
+        "It is a barrier that stops pathogens getting in.",
+        "It traps pathogens in sticky liquid.",
+        "It carries pathogens to the stomach."
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Defences",
+       "e": "The skin is a barrier. Acid that kills is the stomach's defence; sticky liquid that traps is mucus."
+      },
+      {
+       "t": "open",
+       "q": "Explain why it is important to clean and cover a cut on your knee.",
+       "m": 2,
+       "s": "Defences",
+       "ms": "1 mark: the skin is broken / the barrier is damaged. 1 mark: pathogens / germs / bacteria could get into the body (and cause infection). Accept 'a plaster stops germs getting into the cut'.",
+       "e": "The skin is normally a barrier, but a cut breaks it, so pathogens could get in and cause an infection. Cleaning removes pathogens; covering stops new ones getting in."
+      },
+      {
+       "t": "open",
+       "q": "Bilharzia is caused by a parasite that lives in some canal water. It enters the body through the skin. Suggest **one** way a child can avoid bilharzia.",
+       "m": 1,
+       "s": "Hygiene",
+       "ms": "1 mark: do not swim / wade / wash / play in canal or river water; accept 'use clean (tap) water for washing'. Do not accept 'wash hands' alone.",
+       "e": "Keep out of canal water — do not swim, wade or wash in it — so the parasite cannot reach the skin."
+      },
+      {
+       "t": "open",
+       "q": "Give **two** different hygiene rules for preparing food safely at home.",
+       "m": 2,
+       "s": "Hygiene",
+       "ms": "1 mark each, two different ideas: wash hands with soap before handling food; cook meat thoroughly; keep raw meat away from cooked food / use separate boards; wash fruit and vegetables; store food in a fridge / cover food from flies; clean surfaces. Do not accept two answers that are the same idea.",
+       "e": "For example: wash your hands with soap before touching food, and cook chicken all the way through so bacteria are killed."
+      },
+      {
+       "t": "text",
+       "q": "Which organ makes acid that kills most pathogens in the food we swallow?",
+       "ans": [
+        "stomach",
+        "the stomach"
+       ],
+       "m": 1,
+       "s": "Defences",
+       "e": "The stomach makes acid (hydrochloric acid) that kills most pathogens in food and drink."
+      },
+      {
+       "t": "num",
+       "p": "Question 11\nA class tested hand cleaning. After cleaning, a learner pressed a finger on an agar plate. The number of colonies was counted after two days.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 520 320\" width=\"520\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"70.0\" y1=\"250.0\" x2=\"500.0\" y2=\"250.0\" stroke=\"#9aa8bf\" stroke-width=\"1\"/><line x1=\"70.0\" y1=\"240.8\" x2=\"500.0\" y2=\"240.8\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"231.6\" x2=\"500.0\" y2=\"231.6\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"222.4\" x2=\"500.0\" y2=\"222.4\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"213.2\" x2=\"500.0\" y2=\"213.2\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"204.0\" x2=\"500.0\" y2=\"204.0\" stroke=\"#9aa8bf\" stroke-width=\"1\"/><line x1=\"70.0\" y1=\"194.8\" x2=\"500.0\" y2=\"194.8\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"185.6\" x2=\"500.0\" y2=\"185.6\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"176.4\" x2=\"500.0\" y2=\"176.4\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"167.2\" x2=\"500.0\" y2=\"167.2\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"158.0\" x2=\"500.0\" y2=\"158.0\" stroke=\"#9aa8bf\" stroke-width=\"1\"/><line x1=\"70.0\" y1=\"148.8\" x2=\"500.0\" y2=\"148.8\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"139.6\" x2=\"500.0\" y2=\"139.6\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"130.4\" x2=\"500.0\" y2=\"130.4\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"121.2\" x2=\"500.0\" y2=\"121.2\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"112.0\" x2=\"500.0\" y2=\"112.0\" stroke=\"#9aa8bf\" stroke-width=\"1\"/><line x1=\"70.0\" y1=\"102.8\" x2=\"500.0\" y2=\"102.8\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"93.6\" x2=\"500.0\" y2=\"93.6\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"84.4\" x2=\"500.0\" y2=\"84.4\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"75.2\" x2=\"500.0\" y2=\"75.2\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"66.0\" x2=\"500.0\" y2=\"66.0\" stroke=\"#9aa8bf\" stroke-width=\"1\"/><line x1=\"70.0\" y1=\"56.8\" x2=\"500.0\" y2=\"56.8\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"47.6\" x2=\"500.0\" y2=\"47.6\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"38.4\" x2=\"500.0\" y2=\"38.4\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"29.2\" x2=\"500.0\" y2=\"29.2\" stroke=\"#c9d3e3\" stroke-width=\"0.5\"/><line x1=\"70.0\" y1=\"20.0\" x2=\"500.0\" y2=\"20.0\" stroke=\"#9aa8bf\" stroke-width=\"1\"/><text x=\"62\" y=\"255\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">0</text><text x=\"62\" y=\"209\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">10</text><text x=\"62\" y=\"163\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">20</text><text x=\"62\" y=\"117\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">30</text><text x=\"62\" y=\"71\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">40</text><text x=\"62\" y=\"25\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">50</text><rect x=\"92.8\" y=\"29.2\" width=\"62\" height=\"220.8\" fill=\"#9fc0ea\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"124\" y=\"268\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">no washing</text><rect x=\"200.2\" y=\"112.0\" width=\"62\" height=\"138.0\" fill=\"#9fc0ea\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"231\" y=\"268\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">water only</text><rect x=\"307.8\" y=\"204.0\" width=\"62\" height=\"46.0\" fill=\"#9fc0ea\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"339\" y=\"268\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">hand gel</text><rect x=\"415.2\" y=\"222.4\" width=\"62\" height=\"27.6\" fill=\"#9fc0ea\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"446\" y=\"268\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">soap and</text><text x=\"446\" y=\"284\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">water</text><line x1=\"70.0\" y1=\"250.0\" x2=\"500.0\" y2=\"250.0\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"70.0\" y1=\"250.0\" x2=\"70.0\" y2=\"20.0\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><text x=\"285\" y=\"310\" text-anchor=\"middle\" fill=\"#0f1b33\">how the hands were cleaned</text><text x=\"20\" y=\"135\" text-anchor=\"middle\" font-size=\"14\" transform=\"rotate(-90 20 135)\" fill=\"#0f1b33\">number of colonies</text></svg>",
+       "q": "(a) How many more colonies grew after 'no washing' than after 'hand gel'?",
+       "ans": [
+        38
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Reading a bar chart",
+       "e": "No washing = 48, hand gel = 10. 48 − 10 = 38 colonies."
+      },
+      {
+       "q": "(b) What is the **dependent** variable in this investigation?",
+       "p": "Question 11\nA class tested hand cleaning. After cleaning, a learner pressed a finger on an agar plate. The number of colonies was counted after two days.",
+       "c": [
+        "the way the hands were cleaned",
+        "the type of agar plate",
+        "the number of colonies",
+        "the temperature of the room"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Variables",
+       "e": "The dependent variable is what is measured: the number of colonies. The way of cleaning is the independent variable; the agar plate and temperature are control variables."
+      },
+      {
+       "t": "open",
+       "p": "Question 11\nA class tested hand cleaning. After cleaning, a learner pressed a finger on an agar plate. The number of colonies was counted after two days.",
+       "q": "(c) Suggest how the class could make their results more reliable. Explain your answer.",
+       "m": 2,
+       "s": "Improving an investigation",
+       "ms": "1 mark: repeat the test (with more learners / more plates) / do each method several times. 1 mark: take a mean (average) so that one odd (anomalous) result has less effect / to check results are similar. Do not accept 'be more careful'.",
+       "e": "Repeat each method several times (for example with five learners) and calculate the mean number of colonies. One unusual result then has less effect, and you can check the results agree."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Infectious diseases are caused by **pathogens**: viruses, bacteria, fungi and parasites.",
+    "Pathogens pass from **host** to host through water, food, body fluids and **insect vectors**.",
+    "Hygiene breaks the route: soap and handwashing, clean or boiled water, well-cooked food, tissues for coughs.",
+    "Avoid bites: mosquito nets, repellent, long sleeves, window screens, no standing water.",
+    "Defences: **skin** (barrier), **mucus** (traps), **stomach acid** (kills)."
+   ]
+  }
+ ]
+}

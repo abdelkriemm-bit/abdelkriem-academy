@@ -1,0 +1,574 @@
+{
+ "slug": "cp6m-coordinates",
+ "title": "Coordinates in Four Quadrants",
+ "kicker": "Checkpoint 6 Maths · Geometry and Measure · 6Gp.01 · 6Gp.02",
+ "summary": "Read and plot coordinates with whole numbers, fractions and decimals in all four quadrants, and use shape properties to plot lines and complete shapes.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Read and plot coordinates, including integers, fractions and decimals, in **all four quadrants** (using a grid). (6Gp.01)",
+    "Use what you know about 2D shapes and coordinates to **plot points to make lines and shapes** in all four quadrants. (6Gp.02)",
+    "This means: read and write coordinates like (−3, 2) or (1.5, −0.5), plot them accurately, know the four quadrants, and use the properties of squares, rectangles, parallelograms and triangles to find missing vertices and points on lines."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "coordinates",
+     "الإحداثيات — a pair of numbers (x, y) that gives the position of a point"
+    ],
+    [
+     "x-axis",
+     "المحور السيني (الأفقي) — the horizontal number line"
+    ],
+    [
+     "y-axis",
+     "المحور الصادي (الرأسي) — the vertical number line"
+    ],
+    [
+     "origin",
+     "نقطة الأصل — the point (0, 0) where the axes cross"
+    ],
+    [
+     "quadrant",
+     "ربع — one of the four parts the axes divide the grid into"
+    ],
+    [
+     "plot",
+     "يحدد / يرسم نقطة — mark a point accurately on the grid (with a small cross)"
+    ],
+    [
+     "vertex (vertices)",
+     "رأس (رؤوس) — a corner of a 2D shape"
+    ],
+    [
+     "horizontal / vertical",
+     "أفقي / رأسي"
+    ],
+    [
+     "parallel",
+     "متوازي — lines that stay the same distance apart and never meet"
+    ],
+    [
+     "midpoint",
+     "نقطة المنتصف — the point exactly halfway between two points"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "2. Reading and writing coordinates"
+  },
+  {
+   "type": "p",
+   "text": "A coordinate grid has two number lines: the **x-axis** (across) and the **y-axis** (up and down). They cross at the **origin (0, 0)**. Both axes have negative numbers: on the x-axis, negative numbers are to the **left** of 0; on the y-axis, negative numbers are **below** 0."
+  },
+  {
+   "type": "p",
+   "text": "Coordinates are written in brackets with a comma: **(x, y)**. The x-coordinate (across) always comes **first**, the y-coordinate (up or down) second. A good way to remember: **\"along the corridor, then up (or down) the stairs\"**."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 372 366\" width=\"372\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M30 24v312M56 24v312M82 24v312M108 24v312M134 24v312M160 24v312M186 24v312M212 24v312M238 24v312M264 24v312M290 24v312M316 24v312M342 24v312M30 24h312M30 50h312M30 76h312M30 102h312M30 128h312M30 154h312M30 180h312M30 206h312M30 232h312M30 258h312M30 284h312M30 310h312M30 336h312\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><line x1=\"24\" y1=\"180\" x2=\"354\" y2=\"180\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"186\" y1=\"342\" x2=\"186\" y2=\"12\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"360,180 352,176 352,184\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><polygon points=\"186,6 182,14 190,14\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><text x=\"358\" y=\"172\" text-anchor=\"middle\" font-size=\"15\" font-style=\"italic\">x</text><text x=\"198\" y=\"14\" text-anchor=\"middle\" font-size=\"15\" font-style=\"italic\">y</text><text x=\"30\" y=\"196\" text-anchor=\"middle\" font-size=\"13\">−6</text><text x=\"56\" y=\"196\" text-anchor=\"middle\" font-size=\"13\">−5</text><text x=\"82\" y=\"196\" text-anchor=\"middle\" font-size=\"13\">−4</text><text x=\"108\" y=\"196\" text-anchor=\"middle\" font-size=\"13\">−3</text><text x=\"134\" y=\"196\" text-anchor=\"middle\" font-size=\"13\">−2</text><text x=\"160\" y=\"196\" text-anchor=\"middle\" font-size=\"13\">−1</text><text x=\"212\" y=\"196\" text-anchor=\"middle\" font-size=\"13\">1</text><text x=\"238\" y=\"196\" text-anchor=\"middle\" font-size=\"13\">2</text><text x=\"264\" y=\"196\" text-anchor=\"middle\" font-size=\"13\">3</text><text x=\"290\" y=\"196\" text-anchor=\"middle\" font-size=\"13\">4</text><text x=\"316\" y=\"196\" text-anchor=\"middle\" font-size=\"13\">5</text><text x=\"342\" y=\"196\" text-anchor=\"middle\" font-size=\"13\">6</text><text x=\"180\" y=\"341\" text-anchor=\"end\" font-size=\"13\">−6</text><text x=\"180\" y=\"315\" text-anchor=\"end\" font-size=\"13\">−5</text><text x=\"180\" y=\"289\" text-anchor=\"end\" font-size=\"13\">−4</text><text x=\"180\" y=\"263\" text-anchor=\"end\" font-size=\"13\">−3</text><text x=\"180\" y=\"237\" text-anchor=\"end\" font-size=\"13\">−2</text><text x=\"180\" y=\"211\" text-anchor=\"end\" font-size=\"13\">−1</text><text x=\"180\" y=\"159\" text-anchor=\"end\" font-size=\"13\">1</text><text x=\"180\" y=\"133\" text-anchor=\"end\" font-size=\"13\">2</text><text x=\"180\" y=\"107\" text-anchor=\"end\" font-size=\"13\">3</text><text x=\"180\" y=\"81\" text-anchor=\"end\" font-size=\"13\">4</text><text x=\"180\" y=\"55\" text-anchor=\"end\" font-size=\"13\">5</text><text x=\"180\" y=\"29\" text-anchor=\"end\" font-size=\"13\">6</text><text x=\"180\" y=\"196\" text-anchor=\"end\" font-size=\"13\">0</text><line x1=\"186\" y1=\"177\" x2=\"264\" y2=\"177\" stroke=\"#1f5fbf\" stroke-width=\"2.5\" stroke-dasharray=\"6 3\"/><line x1=\"267\" y1=\"180\" x2=\"267\" y2=\"128\" stroke=\"#1f5fbf\" stroke-width=\"2.5\" stroke-dasharray=\"6 3\"/><line x1=\"259\" y1=\"123\" x2=\"269\" y2=\"133\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><line x1=\"259\" y1=\"133\" x2=\"269\" y2=\"123\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><text x=\"271\" y=\"121\" font-weight=\"bold\">A</text><line x1=\"77\" y1=\"97\" x2=\"87\" y2=\"107\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><line x1=\"77\" y1=\"107\" x2=\"87\" y2=\"97\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><text x=\"89\" y=\"95\" font-weight=\"bold\">B</text><line x1=\"129\" y1=\"305\" x2=\"139\" y2=\"315\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><line x1=\"129\" y1=\"315\" x2=\"139\" y2=\"305\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><text x=\"141\" y=\"303\" font-weight=\"bold\">C</text><line x1=\"311\" y1=\"253\" x2=\"321\" y2=\"263\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><line x1=\"311\" y1=\"263\" x2=\"321\" y2=\"253\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><text x=\"323\" y=\"251\" font-weight=\"bold\">D</text><line x1=\"181\" y1=\"71\" x2=\"191\" y2=\"81\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><line x1=\"181\" y1=\"81\" x2=\"191\" y2=\"71\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><text x=\"193\" y=\"69\" font-weight=\"bold\">E</text><line x1=\"103\" y1=\"175\" x2=\"113\" y2=\"185\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><line x1=\"103\" y1=\"185\" x2=\"113\" y2=\"175\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><text x=\"115\" y=\"173\" font-weight=\"bold\">F</text></svg>",
+   "caption": "To reach A, go 3 along to the right, then 2 up: A is (3, 2). B is (−4, 3), C is (−2, −5), D is (5, −3), E is (0, 4) and F is (−3, 0)."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Start at the origin (0, 0).",
+    "Go **across** to the point: right is positive, left is negative. This is the x-coordinate.",
+    "Then go **up or down**: up is positive, down is negative. This is the y-coordinate.",
+    "Write (x, y) with brackets and a comma, for example (−2, −5)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Points on the axes.** If a point is on the y-axis, you do not move across, so its x-coordinate is 0: E is (0, 4). If a point is on the x-axis, its y-coordinate is 0: F is (−3, 0)."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "افتكرها كده",
+   "items": [
+    "الإحداثيات بتتكتب (x, y): الأول x (يمين أو شمال) وبعدين y (فوق أو تحت).",
+    "يمين وفوق = موجب. شمال وتحت = سالب.",
+    "\"امشي في الطرقة الأول، وبعدين اطلع السلم\" — يعني أفقي الأول وبعدين رأسي."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "3. The four quadrants"
+  },
+  {
+   "type": "p",
+   "text": "The axes divide the grid into four **quadrants**. They are numbered **anticlockwise**, starting at the top right. The signs of the coordinates tell you which quadrant a point is in, without drawing it."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 354\" width=\"360\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M30 24v300M60 24v300M90 24v300M120 24v300M150 24v300M180 24v300M210 24v300M240 24v300M270 24v300M300 24v300M330 24v300M30 24h300M30 54h300M30 84h300M30 114h300M30 144h300M30 174h300M30 204h300M30 234h300M30 264h300M30 294h300M30 324h300\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><line x1=\"24\" y1=\"174\" x2=\"342\" y2=\"174\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"180\" y1=\"330\" x2=\"180\" y2=\"12\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"348,174 340,170 340,178\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><polygon points=\"180,6 176,14 184,14\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><text x=\"346\" y=\"166\" text-anchor=\"middle\" font-size=\"15\" font-style=\"italic\">x</text><text x=\"192\" y=\"14\" text-anchor=\"middle\" font-size=\"15\" font-style=\"italic\">y</text><text x=\"30\" y=\"190\" text-anchor=\"middle\" font-size=\"13\">−5</text><text x=\"60\" y=\"190\" text-anchor=\"middle\" font-size=\"13\">−4</text><text x=\"90\" y=\"190\" text-anchor=\"middle\" font-size=\"13\">−3</text><text x=\"120\" y=\"190\" text-anchor=\"middle\" font-size=\"13\">−2</text><text x=\"150\" y=\"190\" text-anchor=\"middle\" font-size=\"13\">−1</text><text x=\"210\" y=\"190\" text-anchor=\"middle\" font-size=\"13\">1</text><text x=\"240\" y=\"190\" text-anchor=\"middle\" font-size=\"13\">2</text><text x=\"270\" y=\"190\" text-anchor=\"middle\" font-size=\"13\">3</text><text x=\"300\" y=\"190\" text-anchor=\"middle\" font-size=\"13\">4</text><text x=\"330\" y=\"190\" text-anchor=\"middle\" font-size=\"13\">5</text><text x=\"174\" y=\"329\" text-anchor=\"end\" font-size=\"13\">−5</text><text x=\"174\" y=\"299\" text-anchor=\"end\" font-size=\"13\">−4</text><text x=\"174\" y=\"269\" text-anchor=\"end\" font-size=\"13\">−3</text><text x=\"174\" y=\"239\" text-anchor=\"end\" font-size=\"13\">−2</text><text x=\"174\" y=\"209\" text-anchor=\"end\" font-size=\"13\">−1</text><text x=\"174\" y=\"149\" text-anchor=\"end\" font-size=\"13\">1</text><text x=\"174\" y=\"119\" text-anchor=\"end\" font-size=\"13\">2</text><text x=\"174\" y=\"89\" text-anchor=\"end\" font-size=\"13\">3</text><text x=\"174\" y=\"59\" text-anchor=\"end\" font-size=\"13\">4</text><text x=\"174\" y=\"29\" text-anchor=\"end\" font-size=\"13\">5</text><text x=\"174\" y=\"190\" text-anchor=\"end\" font-size=\"13\">0</text><rect x=\"203\" y=\"77\" width=\"104\" height=\"44\" rx=\"6\" fill=\"#ffffff\" stroke=\"#1f5fbf\" stroke-width=\"1.2\"/><text x=\"255\" y=\"95\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#1f5fbf\">1st quadrant</text><text x=\"255\" y=\"114\" text-anchor=\"middle\" font-weight=\"bold\">(+, +)</text><rect x=\"53\" y=\"77\" width=\"104\" height=\"44\" rx=\"6\" fill=\"#ffffff\" stroke=\"#1f5fbf\" stroke-width=\"1.2\"/><text x=\"105\" y=\"95\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#1f5fbf\">2nd quadrant</text><text x=\"105\" y=\"114\" text-anchor=\"middle\" font-weight=\"bold\">(−, +)</text><rect x=\"53\" y=\"227\" width=\"104\" height=\"44\" rx=\"6\" fill=\"#ffffff\" stroke=\"#1f5fbf\" stroke-width=\"1.2\"/><text x=\"105\" y=\"245\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#1f5fbf\">3rd quadrant</text><text x=\"105\" y=\"264\" text-anchor=\"middle\" font-weight=\"bold\">(−, −)</text><rect x=\"203\" y=\"227\" width=\"104\" height=\"44\" rx=\"6\" fill=\"#ffffff\" stroke=\"#1f5fbf\" stroke-width=\"1.2\"/><text x=\"255\" y=\"245\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#1f5fbf\">4th quadrant</text><text x=\"255\" y=\"264\" text-anchor=\"middle\" font-weight=\"bold\">(+, −)</text></svg>",
+   "caption": "The four quadrants and the signs of (x, y) in each one."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Quadrant",
+    "x is…",
+    "y is…",
+    "Example"
+   ],
+   "rows": [
+    [
+     "1st (top right)",
+     "positive",
+     "positive",
+     "(4, 2)"
+    ],
+    [
+     "2nd (top left)",
+     "negative",
+     "positive",
+     "(−4, 2)"
+    ],
+    [
+     "3rd (bottom left)",
+     "negative",
+     "negative",
+     "(−4, −2)"
+    ],
+    [
+     "4th (bottom right)",
+     "positive",
+     "negative",
+     "(4, −2)"
+    ],
+    [
+     "on an axis",
+     "0 (on the y-axis)",
+     "0 (on the x-axis)",
+     "(0, −3) or (5, 0): not in any quadrant"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "4. Fractions and decimals"
+  },
+  {
+   "type": "p",
+   "text": "Points do not have to be where grid lines cross at whole numbers. A point halfway between 1 and 2 has the coordinate 1.5 (or 1½). Halfway between 0 and −1 is −0.5 (or −½). **Work out what each small square is worth** before you read or plot: count the squares between two labelled numbers."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 324 230\" width=\"324\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M30 24v176M52 24v176M74 24v176M96 24v176M118 24v176M140 24v176M162 24v176M184 24v176M206 24v176M228 24v176M250 24v176M272 24v176M294 24v176M30 24h264M30 46h264M30 68h264M30 90h264M30 112h264M30 134h264M30 156h264M30 178h264M30 200h264\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><line x1=\"24\" y1=\"112\" x2=\"306\" y2=\"112\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"162\" y1=\"206\" x2=\"162\" y2=\"12\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"312,112 304,108 304,116\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><polygon points=\"162,6 158,14 166,14\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><text x=\"310\" y=\"104\" text-anchor=\"middle\" font-size=\"15\" font-style=\"italic\">x</text><text x=\"174\" y=\"14\" text-anchor=\"middle\" font-size=\"15\" font-style=\"italic\">y</text><text x=\"30\" y=\"128\" text-anchor=\"middle\" font-size=\"13\">−3</text><text x=\"74\" y=\"128\" text-anchor=\"middle\" font-size=\"13\">−2</text><text x=\"118\" y=\"128\" text-anchor=\"middle\" font-size=\"13\">−1</text><text x=\"206\" y=\"128\" text-anchor=\"middle\" font-size=\"13\">1</text><text x=\"250\" y=\"128\" text-anchor=\"middle\" font-size=\"13\">2</text><text x=\"294\" y=\"128\" text-anchor=\"middle\" font-size=\"13\">3</text><text x=\"156\" y=\"205\" text-anchor=\"end\" font-size=\"13\">−2</text><text x=\"156\" y=\"161\" text-anchor=\"end\" font-size=\"13\">−1</text><text x=\"156\" y=\"73\" text-anchor=\"end\" font-size=\"13\">1</text><text x=\"156\" y=\"29\" text-anchor=\"end\" font-size=\"13\">2</text><text x=\"156\" y=\"128\" text-anchor=\"end\" font-size=\"13\">0</text><line x1=\"223\" y1=\"85\" x2=\"233\" y2=\"95\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><line x1=\"223\" y1=\"95\" x2=\"233\" y2=\"85\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><text x=\"235\" y=\"83\" font-weight=\"bold\">P</text><line x1=\"47\" y1=\"63\" x2=\"57\" y2=\"73\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><line x1=\"47\" y1=\"73\" x2=\"57\" y2=\"63\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><text x=\"59\" y=\"61\" font-weight=\"bold\">Q</text><line x1=\"245\" y1=\"173\" x2=\"255\" y2=\"183\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><line x1=\"245\" y1=\"183\" x2=\"255\" y2=\"173\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><text x=\"257\" y=\"171\" font-weight=\"bold\">S</text><line x1=\"135\" y1=\"173\" x2=\"145\" y2=\"183\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><line x1=\"135\" y1=\"183\" x2=\"145\" y2=\"173\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><text x=\"132\" y=\"194\" text-anchor=\"end\" font-weight=\"bold\">R</text></svg>",
+   "caption": "Here each small square is 0.5 (two squares make 1). P is (1.5, 0.5), Q is (−2.5, 1), R is (−0.5, −1.5) and S is (2, −1.5)."
+  },
+  {
+   "type": "p",
+   "text": "Be careful with negative decimals: −2.5 is **between −2 and −3** (further left than −2), not between −2 and −1. Count from 0: −0.5, −1, −1.5, −2, −2.5."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Written as a fraction",
+    "Written as a decimal",
+    "Where it is"
+   ],
+   "rows": [
+    [
+     "(½, 3)",
+     "(0.5, 3)",
+     "halfway between x = 0 and x = 1, at height 3"
+    ],
+    [
+     "(−1½, 2)",
+     "(−1.5, 2)",
+     "halfway between x = −1 and x = −2"
+    ],
+    [
+     "(2¼, −1)",
+     "(2.25, −1)",
+     "a quarter of the way from 2 to 3"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "5. Plotting points to make lines and shapes"
+  },
+  {
+   "type": "p",
+   "text": "To **plot** a point, start at the origin, move across by the x-coordinate, then up or down by the y-coordinate, and mark it with a small neat cross (×). Then join the points with a ruler if the question asks."
+  },
+  {
+   "type": "p",
+   "text": "**Lines.** Points with the **same y-coordinate** lie on a **horizontal** line, for example (−3, 2), (0, 2), (5, 2). Points with the **same x-coordinate** lie on a **vertical** line, for example (4, −1), (4, 3). The length of a horizontal line is the difference between the x-coordinates: from (−3, 2) to (5, 2) is 3 + 5 = 8 units (count the squares across the y-axis)."
+  },
+  {
+   "type": "p",
+   "text": "**Patterns along a sloping line.** If points lie on a straight line and are equally spaced, x and y go up (or down) by the same amounts each step. Use this to find more points."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 302 362\" width=\"302\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M30 24v308M52 24v308M74 24v308M96 24v308M118 24v308M140 24v308M162 24v308M184 24v308M206 24v308M228 24v308M250 24v308M272 24v308M30 24h242M30 46h242M30 68h242M30 90h242M30 112h242M30 134h242M30 156h242M30 178h242M30 200h242M30 222h242M30 244h242M30 266h242M30 288h242M30 310h242M30 332h242\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><line x1=\"24\" y1=\"200\" x2=\"284\" y2=\"200\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"162\" y1=\"338\" x2=\"162\" y2=\"12\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"290,200 282,196 282,204\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><polygon points=\"162,6 158,14 166,14\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><text x=\"288\" y=\"192\" text-anchor=\"middle\" font-size=\"15\" font-style=\"italic\">x</text><text x=\"174\" y=\"14\" text-anchor=\"middle\" font-size=\"15\" font-style=\"italic\">y</text><text x=\"30\" y=\"216\" text-anchor=\"middle\" font-size=\"13\">−6</text><text x=\"52\" y=\"216\" text-anchor=\"middle\" font-size=\"13\">−5</text><text x=\"74\" y=\"216\" text-anchor=\"middle\" font-size=\"13\">−4</text><text x=\"96\" y=\"216\" text-anchor=\"middle\" font-size=\"13\">−3</text><text x=\"118\" y=\"216\" text-anchor=\"middle\" font-size=\"13\">−2</text><text x=\"140\" y=\"216\" text-anchor=\"middle\" font-size=\"13\">−1</text><text x=\"184\" y=\"216\" text-anchor=\"middle\" font-size=\"13\">1</text><text x=\"206\" y=\"216\" text-anchor=\"middle\" font-size=\"13\">2</text><text x=\"228\" y=\"216\" text-anchor=\"middle\" font-size=\"13\">3</text><text x=\"250\" y=\"216\" text-anchor=\"middle\" font-size=\"13\">4</text><text x=\"272\" y=\"216\" text-anchor=\"middle\" font-size=\"13\">5</text><text x=\"156\" y=\"337\" text-anchor=\"end\" font-size=\"13\">−6</text><text x=\"156\" y=\"315\" text-anchor=\"end\" font-size=\"13\">−5</text><text x=\"156\" y=\"293\" text-anchor=\"end\" font-size=\"13\">−4</text><text x=\"156\" y=\"271\" text-anchor=\"end\" font-size=\"13\">−3</text><text x=\"156\" y=\"249\" text-anchor=\"end\" font-size=\"13\">−2</text><text x=\"156\" y=\"227\" text-anchor=\"end\" font-size=\"13\">−1</text><text x=\"156\" y=\"183\" text-anchor=\"end\" font-size=\"13\">1</text><text x=\"156\" y=\"161\" text-anchor=\"end\" font-size=\"13\">2</text><text x=\"156\" y=\"139\" text-anchor=\"end\" font-size=\"13\">3</text><text x=\"156\" y=\"117\" text-anchor=\"end\" font-size=\"13\">4</text><text x=\"156\" y=\"95\" text-anchor=\"end\" font-size=\"13\">5</text><text x=\"156\" y=\"73\" text-anchor=\"end\" font-size=\"13\">6</text><text x=\"156\" y=\"51\" text-anchor=\"end\" font-size=\"13\">7</text><text x=\"156\" y=\"29\" text-anchor=\"end\" font-size=\"13\">8</text><text x=\"156\" y=\"216\" text-anchor=\"end\" font-size=\"13\">0</text><line x1=\"85\" y1=\"332\" x2=\"239\" y2=\"24\" stroke=\"#1f5fbf\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><circle cx=\"96\" cy=\"310\" r=\"4\" fill=\"#0f1b33\"/><text x=\"86\" y=\"315\" text-anchor=\"end\" font-weight=\"bold\">(−3, −5)</text><circle cx=\"140\" cy=\"222\" r=\"4\" fill=\"#0f1b33\"/><text x=\"131\" y=\"234\" text-anchor=\"end\" font-weight=\"bold\">(−1, −1)</text><circle cx=\"184\" cy=\"134\" r=\"4\" fill=\"#0f1b33\"/><text x=\"194\" y=\"140\" font-weight=\"bold\">(1, 3)</text><circle cx=\"228\" cy=\"46\" r=\"4\" fill=\"#c0392b\"/><text x=\"218\" y=\"38\" text-anchor=\"end\" font-weight=\"bold\" fill=\"#c0392b\">(3, 7)</text></svg>",
+   "caption": "From (−3, −5) to (−1, −1) to (1, 3): each step x goes up 2 and y goes up 4. The next point is (3, 7)."
+  },
+  {
+   "type": "p",
+   "text": "**Shapes.** Use the properties of the shape to find a missing vertex:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**Rectangle / square:** sides are horizontal and vertical (when drawn \"straight\"), so the missing vertex shares its x-coordinate with one neighbour and its y-coordinate with the other.",
+    "**Square:** all four sides equal. A square can also be tilted: its diagonals are equal, cross at right angles and cut each other in half.",
+    "**Parallelogram:** opposite sides are parallel and equal, so the same \"move\" (across and up) takes you along both opposite sides.",
+    "**Isosceles triangle:** the top vertex is directly above (or below) the midpoint of the base when the base is horizontal."
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 348 294\" width=\"348\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M30 24v240M54 24v240M78 24v240M102 24v240M126 24v240M150 24v240M174 24v240M198 24v240M222 24v240M246 24v240M270 24v240M294 24v240M318 24v240M30 24h288M30 48h288M30 72h288M30 96h288M30 120h288M30 144h288M30 168h288M30 192h288M30 216h288M30 240h288M30 264h288\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><line x1=\"24\" y1=\"168\" x2=\"330\" y2=\"168\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"174\" y1=\"270\" x2=\"174\" y2=\"12\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"336,168 328,164 328,172\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><polygon points=\"174,6 170,14 178,14\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><text x=\"334\" y=\"160\" text-anchor=\"middle\" font-size=\"15\" font-style=\"italic\">x</text><text x=\"186\" y=\"14\" text-anchor=\"middle\" font-size=\"15\" font-style=\"italic\">y</text><text x=\"30\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">−6</text><text x=\"54\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">−5</text><text x=\"78\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">−4</text><text x=\"102\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">−3</text><text x=\"126\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">−2</text><text x=\"150\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">−1</text><text x=\"198\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">1</text><text x=\"222\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">2</text><text x=\"246\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">3</text><text x=\"270\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">4</text><text x=\"294\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">5</text><text x=\"318\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">6</text><text x=\"168\" y=\"269\" text-anchor=\"end\" font-size=\"13\">−4</text><text x=\"168\" y=\"245\" text-anchor=\"end\" font-size=\"13\">−3</text><text x=\"168\" y=\"221\" text-anchor=\"end\" font-size=\"13\">−2</text><text x=\"168\" y=\"197\" text-anchor=\"end\" font-size=\"13\">−1</text><text x=\"168\" y=\"149\" text-anchor=\"end\" font-size=\"13\">1</text><text x=\"168\" y=\"125\" text-anchor=\"end\" font-size=\"13\">2</text><text x=\"168\" y=\"101\" text-anchor=\"end\" font-size=\"13\">3</text><text x=\"168\" y=\"77\" text-anchor=\"end\" font-size=\"13\">4</text><text x=\"168\" y=\"53\" text-anchor=\"end\" font-size=\"13\">5</text><text x=\"168\" y=\"29\" text-anchor=\"end\" font-size=\"13\">6</text><text x=\"168\" y=\"184\" text-anchor=\"end\" font-size=\"13\">0</text><polygon points=\"78,96 222,96 222,192 78,192\" fill=\"#f5c542\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\" fill-opacity=\"0.25\"/><line x1=\"73\" y1=\"91\" x2=\"83\" y2=\"101\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><line x1=\"73\" y1=\"101\" x2=\"83\" y2=\"91\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><text x=\"70\" y=\"88\" text-anchor=\"end\" font-weight=\"bold\">A</text><line x1=\"217\" y1=\"91\" x2=\"227\" y2=\"101\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><line x1=\"217\" y1=\"101\" x2=\"227\" y2=\"91\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><text x=\"230\" y=\"88\" font-weight=\"bold\">B</text><line x1=\"217\" y1=\"187\" x2=\"227\" y2=\"197\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><line x1=\"217\" y1=\"197\" x2=\"227\" y2=\"187\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><text x=\"230\" y=\"210\" font-weight=\"bold\">C</text><line x1=\"73\" y1=\"187\" x2=\"83\" y2=\"197\" stroke=\"#c0392b\" stroke-width=\"2.2\"/><line x1=\"73\" y1=\"197\" x2=\"83\" y2=\"187\" stroke=\"#c0392b\" stroke-width=\"2.2\"/><text x=\"70\" y=\"210\" text-anchor=\"end\" font-weight=\"bold\" fill=\"#c0392b\">D</text></svg>",
+   "caption": "Rectangle ABCD: D must be in line with A (same x) and in line with C (same y), so D is (−4, −1)."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 294 262\" width=\"294\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M30 24v208M56 24v208M82 24v208M108 24v208M134 24v208M160 24v208M186 24v208M212 24v208M238 24v208M264 24v208M30 24h234M30 50h234M30 76h234M30 102h234M30 128h234M30 154h234M30 180h234M30 206h234M30 232h234\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><line x1=\"24\" y1=\"154\" x2=\"276\" y2=\"154\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"108\" y1=\"238\" x2=\"108\" y2=\"12\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"282,154 274,150 274,158\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><polygon points=\"108,6 104,14 112,14\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><text x=\"280\" y=\"146\" text-anchor=\"middle\" font-size=\"15\" font-style=\"italic\">x</text><text x=\"120\" y=\"14\" text-anchor=\"middle\" font-size=\"15\" font-style=\"italic\">y</text><text x=\"30\" y=\"170\" text-anchor=\"middle\" font-size=\"13\">−3</text><text x=\"56\" y=\"170\" text-anchor=\"middle\" font-size=\"13\">−2</text><text x=\"82\" y=\"170\" text-anchor=\"middle\" font-size=\"13\">−1</text><text x=\"134\" y=\"170\" text-anchor=\"middle\" font-size=\"13\">1</text><text x=\"160\" y=\"170\" text-anchor=\"middle\" font-size=\"13\">2</text><text x=\"186\" y=\"170\" text-anchor=\"middle\" font-size=\"13\">3</text><text x=\"212\" y=\"170\" text-anchor=\"middle\" font-size=\"13\">4</text><text x=\"238\" y=\"170\" text-anchor=\"middle\" font-size=\"13\">5</text><text x=\"264\" y=\"170\" text-anchor=\"middle\" font-size=\"13\">6</text><text x=\"102\" y=\"237\" text-anchor=\"end\" font-size=\"13\">−3</text><text x=\"102\" y=\"211\" text-anchor=\"end\" font-size=\"13\">−2</text><text x=\"102\" y=\"185\" text-anchor=\"end\" font-size=\"13\">−1</text><text x=\"102\" y=\"133\" text-anchor=\"end\" font-size=\"13\">1</text><text x=\"102\" y=\"107\" text-anchor=\"end\" font-size=\"13\">2</text><text x=\"102\" y=\"81\" text-anchor=\"end\" font-size=\"13\">3</text><text x=\"102\" y=\"55\" text-anchor=\"end\" font-size=\"13\">4</text><text x=\"102\" y=\"29\" text-anchor=\"end\" font-size=\"13\">5</text><text x=\"102\" y=\"170\" text-anchor=\"end\" font-size=\"13\">0</text><polygon points=\"82,128 160,50 238,128 160,206\" fill=\"#5cb85c\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\" fill-opacity=\"0.2\"/><line x1=\"82\" y1=\"128\" x2=\"238\" y2=\"128\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-dasharray=\"5 4\"/><line x1=\"160\" y1=\"50\" x2=\"160\" y2=\"206\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-dasharray=\"5 4\"/><line x1=\"77\" y1=\"123\" x2=\"87\" y2=\"133\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><line x1=\"77\" y1=\"133\" x2=\"87\" y2=\"123\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><text x=\"73\" y=\"120\" text-anchor=\"end\" font-weight=\"bold\">P</text><line x1=\"155\" y1=\"45\" x2=\"165\" y2=\"55\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><line x1=\"155\" y1=\"55\" x2=\"165\" y2=\"45\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><text x=\"170\" y=\"46\" font-weight=\"bold\">Q</text><line x1=\"233\" y1=\"123\" x2=\"243\" y2=\"133\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><line x1=\"233\" y1=\"133\" x2=\"243\" y2=\"123\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><text x=\"247\" y=\"120\" font-weight=\"bold\">R</text><line x1=\"155\" y1=\"201\" x2=\"165\" y2=\"211\" stroke=\"#c0392b\" stroke-width=\"2.2\"/><line x1=\"155\" y1=\"211\" x2=\"165\" y2=\"201\" stroke=\"#c0392b\" stroke-width=\"2.2\"/><text x=\"170\" y=\"222\" font-weight=\"bold\" fill=\"#c0392b\">S</text></svg>",
+   "caption": "A tilted square PQRS. The diagonals PR and QS are equal, cross at right angles and cut each other in half at (2, 1). So S is 3 below (2, 1): S = (2, −2)."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "إزاي تكمل الشكل",
+   "text": "في المستطيل: الرأس الناقص بياخد الـ x من جاره الأول والـ y من جاره التاني. وفي متوازي الأضلاع: نفس \"الحركة\" (كام يمين وكام فوق) من رأس للتاني بتتكرر على الضلع المقابل."
+  },
+  {
+   "type": "h2",
+   "text": "6. Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1**\nLook at the first grid in section 2. Write the coordinates of points B and C. [1]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "B: 4 to the **left** (−4), then 3 **up** (3): **(−4, 3)**.",
+    "C: 2 to the left (−2), then 5 down (−5): **(−2, −5)**.",
+    "Mark-scheme style: 1 mark for both correct. Common mistake: writing (3, −4) for B (the numbers swapped)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2**\n(a) In which quadrant is the point (−7, 2)? [1]\n(b) Rania says the point (0, −3) is in the 4th quadrant. Is she correct? Explain. [1]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "(a) x is negative (left) and y is positive (up): the **2nd quadrant**.",
+    "(b) **No.** The x-coordinate is 0, so the point is **on the y-axis**, 3 below the origin. Points on an axis are not in any quadrant."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3**\nLook at the decimal grid in section 4, where each small square is 0.5. Write the coordinates of R and S. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Each small square = 1 ÷ 2 = 0.5.",
+    "R: 1 small square left of 0 = −0.5; 3 small squares down = −1.5. R = **(−0.5, −1.5)**.",
+    "S: 4 small squares right = 2; 3 small squares down = −1.5. S = **(2, −1.5)**.",
+    "Common mistake: counting each small square as 1, giving (−1, −3) for R."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4**\nA(−4, 3), B(2, 3) and C(2, −1) are three vertices of rectangle ABCD.\n(a) Write the coordinates of D. [1]\n(b) Work out the area of the rectangle. Each square is 1 cm². [1]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "(a) AB is horizontal (both y = 3) and BC is vertical (both x = 2). D is below A (x = −4) and level with C (y = −1): **D = (−4, −1)**.",
+    "(b) Length AB: from −4 to 2 is 4 + 2 = 6. Height BC: from 3 down to −1 is 3 + 1 = 4. Area = 6 × 4 = **24 cm²**.",
+    "Common mistake: working out the length as 2 − 4 = −2 by ignoring the minus sign. Count the squares, crossing 0."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5**\nP(−1, 1), Q(2, 4) and R(5, 1) are three vertices of a square PQRS. Find S. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Plot the points: this square is tilted. Its diagonals are PR and QS.",
+    "Midpoint of PR: x halfway between −1 and 5 is 2, y = 1. So the diagonals cross at (2, 1).",
+    "The diagonals of a square are equal and cut each other in half. PR has length 6, so QS also has length 6, with half (3) above (2, 1) and half below. Q(2, 4) is 3 above, so S is 3 below: **S = (2, −2)**.",
+    "Check with \"moves\": P to Q is 3 right and 3 up; so S to R must also be 3 right and 3 up. From S(2, −2): 3 right, 3 up gives (5, 1) = R ✓."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6**\nThe points (−3, −5), (−1, −1) and (1, 3) lie on a straight line. They are equally spaced. Write the coordinates of the next point on the line. [1]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "x goes −3 → −1 → 1: up 2 each time. Next x = 3.",
+    "y goes −5 → −1 → 3: up 4 each time. Next y = 7.",
+    "Next point: **(3, 7)**."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Swapping the order: (x, y) means across first, then up or down. (2, 5) and (5, 2) are different points.",
+    "Counting from 1 instead of from 0, or counting the lines wrongly when crossing an axis.",
+    "Going the wrong way for negatives: negative x is left, negative y is down.",
+    "Reading decimal grids as if every square were 1. Check the scale first.",
+    "Putting −2.5 between −2 and −1 (it is between −2 and −3).",
+    "Saying a point like (0, 4) or (−3, 0) is in a quadrant: points on the axes are not in any quadrant.",
+    "Forgetting brackets and the comma, or writing two numbers that cannot be read clearly."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "\"Write the coordinates of point A.\" Answer in the form (x, y).",
+    "\"Plot the point (−3, 1.5) on the grid. Label it P.\" Use a small neat cross exactly on the position and write the letter.",
+    "\"A, B and C are three vertices of a square/rectangle/parallelogram. Plot point D to complete the shape and write its coordinates.\" Sketch the shape first, then check side lengths and parallel sides.",
+    "\"Which quadrant…?\" or \"Draw a ring around the point that is in the 3rd quadrant.\"",
+    "\"Tick (✓) the points that lie on the line…\" Look for the same x (vertical line) or same y (horizontal line), or follow the pattern.",
+    "Grids may go up in 0.5 or 2: always read the scale before counting.",
+    "Use a sharp pencil and a ruler for plotting and joining points; examiners check accuracy."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "7. Practice"
+  },
+  {
+   "type": "test",
+   "title": "Practice: coordinates in four quadrants",
+   "timed": false,
+   "intro": "Mixed questions from easy to Checkpoint-hard. Type coordinates with brackets and a comma, for example (-3, 2). Sketch a grid on paper for the shape questions.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 20,
+     "calc": false,
+     "questions": [
+      {
+       "t": "text",
+       "p": "Look at the grid.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 348 342\" width=\"348\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M30 24v288M54 24v288M78 24v288M102 24v288M126 24v288M150 24v288M174 24v288M198 24v288M222 24v288M246 24v288M270 24v288M294 24v288M318 24v288M30 24h288M30 48h288M30 72h288M30 96h288M30 120h288M30 144h288M30 168h288M30 192h288M30 216h288M30 240h288M30 264h288M30 288h288M30 312h288\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><line x1=\"24\" y1=\"168\" x2=\"330\" y2=\"168\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"174\" y1=\"318\" x2=\"174\" y2=\"12\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"336,168 328,164 328,172\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><polygon points=\"174,6 170,14 178,14\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><text x=\"334\" y=\"160\" text-anchor=\"middle\" font-size=\"15\" font-style=\"italic\">x</text><text x=\"186\" y=\"14\" text-anchor=\"middle\" font-size=\"15\" font-style=\"italic\">y</text><text x=\"30\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">−6</text><text x=\"54\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">−5</text><text x=\"78\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">−4</text><text x=\"102\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">−3</text><text x=\"126\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">−2</text><text x=\"150\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">−1</text><text x=\"198\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">1</text><text x=\"222\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">2</text><text x=\"246\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">3</text><text x=\"270\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">4</text><text x=\"294\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">5</text><text x=\"318\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">6</text><text x=\"168\" y=\"317\" text-anchor=\"end\" font-size=\"13\">−6</text><text x=\"168\" y=\"293\" text-anchor=\"end\" font-size=\"13\">−5</text><text x=\"168\" y=\"269\" text-anchor=\"end\" font-size=\"13\">−4</text><text x=\"168\" y=\"245\" text-anchor=\"end\" font-size=\"13\">−3</text><text x=\"168\" y=\"221\" text-anchor=\"end\" font-size=\"13\">−2</text><text x=\"168\" y=\"197\" text-anchor=\"end\" font-size=\"13\">−1</text><text x=\"168\" y=\"149\" text-anchor=\"end\" font-size=\"13\">1</text><text x=\"168\" y=\"125\" text-anchor=\"end\" font-size=\"13\">2</text><text x=\"168\" y=\"101\" text-anchor=\"end\" font-size=\"13\">3</text><text x=\"168\" y=\"77\" text-anchor=\"end\" font-size=\"13\">4</text><text x=\"168\" y=\"53\" text-anchor=\"end\" font-size=\"13\">5</text><text x=\"168\" y=\"29\" text-anchor=\"end\" font-size=\"13\">6</text><text x=\"168\" y=\"184\" text-anchor=\"end\" font-size=\"13\">0</text><line x1=\"97\" y1=\"67\" x2=\"107\" y2=\"77\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><line x1=\"97\" y1=\"77\" x2=\"107\" y2=\"67\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><text x=\"109\" y=\"65\" font-weight=\"bold\">A</text><line x1=\"217\" y1=\"283\" x2=\"227\" y2=\"293\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><line x1=\"217\" y1=\"293\" x2=\"227\" y2=\"283\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><text x=\"229\" y=\"281\" font-weight=\"bold\">B</text><line x1=\"265\" y1=\"139\" x2=\"275\" y2=\"149\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><line x1=\"265\" y1=\"149\" x2=\"275\" y2=\"139\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><text x=\"277\" y=\"137\" font-weight=\"bold\">C</text><line x1=\"49\" y1=\"211\" x2=\"59\" y2=\"221\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><line x1=\"49\" y1=\"221\" x2=\"59\" y2=\"211\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><text x=\"61\" y=\"209\" font-weight=\"bold\">D</text></svg>",
+       "q": "(a) Write the coordinates of point A.",
+       "ans": [
+        "(-3,4)",
+        "-3,4",
+        "(-3, 4)"
+       ],
+       "m": 1,
+       "e": "A is 3 to the left of the origin (x = −3) and 4 up (y = 4): (−3, 4).",
+       "s": "Reading coordinates"
+      },
+      {
+       "t": "text",
+       "p": "Look at the grid.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 348 342\" width=\"348\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M30 24v288M54 24v288M78 24v288M102 24v288M126 24v288M150 24v288M174 24v288M198 24v288M222 24v288M246 24v288M270 24v288M294 24v288M318 24v288M30 24h288M30 48h288M30 72h288M30 96h288M30 120h288M30 144h288M30 168h288M30 192h288M30 216h288M30 240h288M30 264h288M30 288h288M30 312h288\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><line x1=\"24\" y1=\"168\" x2=\"330\" y2=\"168\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"174\" y1=\"318\" x2=\"174\" y2=\"12\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"336,168 328,164 328,172\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><polygon points=\"174,6 170,14 178,14\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><text x=\"334\" y=\"160\" text-anchor=\"middle\" font-size=\"15\" font-style=\"italic\">x</text><text x=\"186\" y=\"14\" text-anchor=\"middle\" font-size=\"15\" font-style=\"italic\">y</text><text x=\"30\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">−6</text><text x=\"54\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">−5</text><text x=\"78\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">−4</text><text x=\"102\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">−3</text><text x=\"126\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">−2</text><text x=\"150\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">−1</text><text x=\"198\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">1</text><text x=\"222\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">2</text><text x=\"246\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">3</text><text x=\"270\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">4</text><text x=\"294\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">5</text><text x=\"318\" y=\"184\" text-anchor=\"middle\" font-size=\"13\">6</text><text x=\"168\" y=\"317\" text-anchor=\"end\" font-size=\"13\">−6</text><text x=\"168\" y=\"293\" text-anchor=\"end\" font-size=\"13\">−5</text><text x=\"168\" y=\"269\" text-anchor=\"end\" font-size=\"13\">−4</text><text x=\"168\" y=\"245\" text-anchor=\"end\" font-size=\"13\">−3</text><text x=\"168\" y=\"221\" text-anchor=\"end\" font-size=\"13\">−2</text><text x=\"168\" y=\"197\" text-anchor=\"end\" font-size=\"13\">−1</text><text x=\"168\" y=\"149\" text-anchor=\"end\" font-size=\"13\">1</text><text x=\"168\" y=\"125\" text-anchor=\"end\" font-size=\"13\">2</text><text x=\"168\" y=\"101\" text-anchor=\"end\" font-size=\"13\">3</text><text x=\"168\" y=\"77\" text-anchor=\"end\" font-size=\"13\">4</text><text x=\"168\" y=\"53\" text-anchor=\"end\" font-size=\"13\">5</text><text x=\"168\" y=\"29\" text-anchor=\"end\" font-size=\"13\">6</text><text x=\"168\" y=\"184\" text-anchor=\"end\" font-size=\"13\">0</text><line x1=\"97\" y1=\"67\" x2=\"107\" y2=\"77\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><line x1=\"97\" y1=\"77\" x2=\"107\" y2=\"67\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><text x=\"109\" y=\"65\" font-weight=\"bold\">A</text><line x1=\"217\" y1=\"283\" x2=\"227\" y2=\"293\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><line x1=\"217\" y1=\"293\" x2=\"227\" y2=\"283\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><text x=\"229\" y=\"281\" font-weight=\"bold\">B</text><line x1=\"265\" y1=\"139\" x2=\"275\" y2=\"149\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><line x1=\"265\" y1=\"149\" x2=\"275\" y2=\"139\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><text x=\"277\" y=\"137\" font-weight=\"bold\">C</text><line x1=\"49\" y1=\"211\" x2=\"59\" y2=\"221\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><line x1=\"49\" y1=\"221\" x2=\"59\" y2=\"211\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><text x=\"61\" y=\"209\" font-weight=\"bold\">D</text></svg>",
+       "q": "(b) Write the coordinates of point B.",
+       "ans": [
+        "(2,-5)",
+        "2,-5",
+        "(2, -5)"
+       ],
+       "m": 1,
+       "e": "B is 2 to the right (x = 2) and 5 down (y = −5): (2, −5).",
+       "s": "Reading coordinates"
+      },
+      {
+       "q": "In which quadrant is the point (−4, −6)?",
+       "c": [
+        "1st quadrant",
+        "2nd quadrant",
+        "3rd quadrant",
+        "4th quadrant"
+       ],
+       "a": 2,
+       "m": 1,
+       "e": "x is negative (left) and y is negative (down): bottom left, which is the 3rd quadrant.",
+       "s": "Quadrants"
+      },
+      {
+       "q": "Which point lies on the y-axis?",
+       "c": [
+        "(3, 0)",
+        "(0, −5)",
+        "(2, 2)",
+        "(−1, 1)"
+       ],
+       "a": 1,
+       "m": 1,
+       "e": "Points on the y-axis have x-coordinate 0. Only (0, −5) has x = 0. (3, 0) is on the x-axis.",
+       "s": "Points on the axes"
+      },
+      {
+       "t": "text",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 260 254\" width=\"260\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M30 24v200M55 24v200M80 24v200M105 24v200M130 24v200M155 24v200M180 24v200M205 24v200M230 24v200M30 24h200M30 49h200M30 74h200M30 99h200M30 124h200M30 149h200M30 174h200M30 199h200M30 224h200\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><line x1=\"24\" y1=\"124\" x2=\"242\" y2=\"124\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"130\" y1=\"230\" x2=\"130\" y2=\"12\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><polygon points=\"248,124 240,120 240,128\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><polygon points=\"130,6 126,14 134,14\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><text x=\"246\" y=\"116\" text-anchor=\"middle\" font-size=\"15\" font-style=\"italic\">x</text><text x=\"142\" y=\"14\" text-anchor=\"middle\" font-size=\"15\" font-style=\"italic\">y</text><text x=\"30\" y=\"140\" text-anchor=\"middle\" font-size=\"13\">−2</text><text x=\"80\" y=\"140\" text-anchor=\"middle\" font-size=\"13\">−1</text><text x=\"180\" y=\"140\" text-anchor=\"middle\" font-size=\"13\">1</text><text x=\"230\" y=\"140\" text-anchor=\"middle\" font-size=\"13\">2</text><text x=\"124\" y=\"229\" text-anchor=\"end\" font-size=\"13\">−2</text><text x=\"124\" y=\"179\" text-anchor=\"end\" font-size=\"13\">−1</text><text x=\"124\" y=\"79\" text-anchor=\"end\" font-size=\"13\">1</text><text x=\"124\" y=\"29\" text-anchor=\"end\" font-size=\"13\">2</text><text x=\"124\" y=\"140\" text-anchor=\"end\" font-size=\"13\">0</text><line x1=\"200\" y1=\"144\" x2=\"210\" y2=\"154\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><line x1=\"200\" y1=\"154\" x2=\"210\" y2=\"144\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><text x=\"197\" y=\"167\" text-anchor=\"end\" font-weight=\"bold\">K</text><line x1=\"75\" y1=\"44\" x2=\"85\" y2=\"54\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><line x1=\"75\" y1=\"54\" x2=\"85\" y2=\"44\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><text x=\"87\" y=\"42\" font-weight=\"bold\">L</text></svg>",
+       "q": "Each small square on this grid is 0.5. Write the coordinates of point K.",
+       "ans": [
+        "(1.5,-0.5)",
+        "1.5,-0.5",
+        "(1.5, -0.5)",
+        "(1½,-½)",
+        "(3/2,-1/2)"
+       ],
+       "m": 1,
+       "e": "Each small square is 0.5. K is 3 small squares right (1.5) and 1 small square down (−0.5): (1.5, −0.5).",
+       "s": "Decimal coordinates"
+      },
+      {
+       "t": "text",
+       "p": "A(−5, 2), B(3, 2) and C(3, −4) are three vertices of rectangle ABCD.",
+       "q": "(a) Write the coordinates of D.",
+       "ans": [
+        "(-5,-4)",
+        "-5,-4",
+        "(-5, -4)"
+       ],
+       "m": 1,
+       "e": "AB is horizontal (y = 2) and BC is vertical (x = 3). D is below A, so x = −5, and level with C, so y = −4: D = (−5, −4).",
+       "s": "Completing shapes"
+      },
+      {
+       "t": "num",
+       "p": "A(−5, 2), B(3, 2) and C(3, −4) are three vertices of rectangle ABCD.",
+       "q": "(b) How long is side AB?",
+       "ans": [
+        8
+       ],
+       "tol": 0,
+       "unit": "units",
+       "m": 1,
+       "e": "From x = −5 to x = 3: 5 squares to reach 0, then 3 more. 5 + 3 = 8 units.",
+       "s": "Lengths on a grid"
+      },
+      {
+       "t": "text",
+       "q": "Three vertices of a square are (1, 1), (1, −3) and (−3, −3). Write the coordinates of the fourth vertex.",
+       "ans": [
+        "(-3,1)",
+        "-3,1",
+        "(-3, 1)"
+       ],
+       "m": 1,
+       "e": "(1, 1) to (1, −3) is a vertical side of length 4; (1, −3) to (−3, −3) is a horizontal side of length 4. The fourth vertex is level with (1, 1) (y = 1) and above (−3, −3) (x = −3): (−3, 1).",
+       "s": "Completing shapes"
+      },
+      {
+       "t": "text",
+       "q": "Write the coordinates of the midpoint of the line joining (−4, 3) and (6, 3).",
+       "ans": [
+        "(1,3)",
+        "1,3",
+        "(1, 3)"
+       ],
+       "m": 1,
+       "e": "The line is horizontal (y = 3). From −4 to 6 is 10 units; half is 5. −4 + 5 = 1. Midpoint = (1, 3).",
+       "s": "Midpoints"
+      },
+      {
+       "t": "text",
+       "q": "The points (−2, 4), (0, 1) and (2, −2) are equally spaced on a straight line. Write the coordinates of the next point on the line.",
+       "ans": [
+        "(4,-5)",
+        "4,-5",
+        "(4, -5)"
+       ],
+       "m": 1,
+       "e": "x goes up 2 each time: −2, 0, 2, 4. y goes down 3 each time: 4, 1, −2, −5. Next point = (4, −5).",
+       "s": "Points on a line"
+      },
+      {
+       "t": "text",
+       "q": "PQRS is a parallelogram. P is (−2, −1), Q is (3, −1) and R is (5, 3). Write the coordinates of S.",
+       "ans": [
+        "(0,3)",
+        "0,3",
+        "(0, 3)"
+       ],
+       "m": 2,
+       "e": "PQ is 5 to the right (from −2 to 3), with no change in y. SR must be the same move, so S is 5 to the left of R: 5 − 5 = 0, y = 3. S = (0, 3). Check: P to S is 2 right and 4 up, and Q to R is also 2 right and 4 up ✓.",
+       "s": "Completing shapes"
+      },
+      {
+       "q": "Which point is NOT on the horizontal line through (−3, 2)?",
+       "c": [
+        "(5, 2)",
+        "(0, 2)",
+        "(−7, 2)",
+        "(2, −3)"
+       ],
+       "a": 3,
+       "m": 1,
+       "e": "Every point on a horizontal line has the same y-coordinate, here 2. (2, −3) has y = −3, so it is not on the line (its numbers are swapped).",
+       "s": "Horizontal and vertical lines"
+      },
+      {
+       "t": "num",
+       "q": "Point M is exactly halfway between (−1.5, 2) and (2.5, 2). What is the x-coordinate of M?",
+       "ans": [
+        0.5,
+        "1/2"
+       ],
+       "tol": 0,
+       "m": 1,
+       "e": "The distance from −1.5 to 2.5 is 1.5 + 2.5 = 4. Half of 4 is 2. −1.5 + 2 = 0.5. So M = (0.5, 2) and its x-coordinate is 0.5.",
+       "s": "Decimal coordinates"
+      },
+      {
+       "t": "open",
+       "q": "Ali plots the points (−3, 2), (1, 2), (1, −2) and (−3, −2) and joins them in order. He says: \"The shape is a rectangle, but it is not a square.\" Is Ali correct? Explain how you know.",
+       "m": 2,
+       "ms": "1 mark: Ali is not correct / it is a square. 1 mark: reason using lengths, e.g. all four sides are 4 units (from −3 to 1 is 4, from 2 to −2 is 4) and the corners are right angles. Accept a correct sketch with the side lengths marked.",
+       "e": "Ali is not correct. The top side goes from x = −3 to x = 1: 4 units. The right side goes from y = 2 to y = −2: 4 units. All four sides are 4 units long and the sides are horizontal and vertical, so all angles are right angles. The shape is a square (a square is a special rectangle).",
+       "s": "Shapes on a grid"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Coordinates are (x, y): across first, then up or down. Start counting from the origin (0, 0).",
+    "Right and up are positive; left and down are negative.",
+    "Quadrants go anticlockwise from the top right: 1st (+, +), 2nd (−, +), 3rd (−, −), 4th (+, −). Points on an axis are in no quadrant.",
+    "Check the scale: a small square may be 0.5 (or another value), so points like (1.5, −0.5) sit between the grid numbers.",
+    "Same y = horizontal line; same x = vertical line. Count squares across 0 to find lengths.",
+    "Use shape properties (equal sides, parallel sides, right angles, diagonals) to find a missing vertex, then check it."
+   ]
+  }
+ ]
+}

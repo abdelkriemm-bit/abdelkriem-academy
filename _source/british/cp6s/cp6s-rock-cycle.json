@@ -1,0 +1,521 @@
+{
+ "slug": "cp6s-rock-cycle",
+ "title": "The Rock Cycle",
+ "kicker": "Cambridge Primary Checkpoint · Science 0097 · Stage 6 · Earth and space",
+ "summary": "How igneous, sedimentary and metamorphic rocks form and change into each other through melting, solidification, erosion, sedimentation, burial and metamorphism.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Describe the rock cycle and explain how igneous, sedimentary and metamorphic rocks form, using the words solidification, erosion, sedimentation, burial, metamorphism and melting (6ESc.01).",
+    "Skills used on this page: using a model (the rock-cycle diagram) to describe a process that is too slow and too deep to watch (6TWSm.01, 6TWSm.02)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "You met the three rock types on the page **Rocks and Fossils**. This page shows how rocks change from one type into another, again and again, over millions of years. This never-ending loop is called the **rock cycle**."
+  },
+  {
+   "type": "h2",
+   "text": "Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "rock cycle",
+     "دورة الصخور — the slow, never-ending changes of rocks from one type to another"
+    ],
+    [
+     "melting",
+     "انصهار — rock deep underground gets so hot that it turns into liquid magma"
+    ],
+    [
+     "solidification",
+     "تصلّب / تجمّد — magma or lava cools down and becomes solid igneous rock"
+    ],
+    [
+     "weathering",
+     "تجوية — rocks breaking into smaller pieces where they are (by rain, heat and cold, plant roots)"
+    ],
+    [
+     "erosion",
+     "تعرية — rock pieces being worn away and carried off by water, wind or ice"
+    ],
+    [
+     "sedimentation (deposition)",
+     "ترسيب — sediment settling at the bottom of water in layers"
+    ],
+    [
+     "burial",
+     "دفن — layers of sediment being covered by more layers; the weight squashes them into rock"
+    ],
+    [
+     "metamorphism",
+     "تحوّل — a rock being changed by heat and pressure without melting"
+    ],
+    [
+     "uplift",
+     "رفع / ارتفاع — movements of the Earth push buried rock up to the surface"
+    ],
+    [
+     "pressure",
+     "ضغط — a squeezing force"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. The rock cycle diagram"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 395\" width=\"560\" font-family=\"Arial, sans-serif\" font-size=\"14\"><defs><marker id=\"ah\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#0f1b33\"/></marker></defs><rect x=\"205.0\" y=\"18.0\" width=\"150.0\" height=\"44.0\" rx=\"10\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"280\" y=\"45\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">Sediment</text><rect x=\"20.0\" y=\"168.0\" width=\"150.0\" height=\"44.0\" rx=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"95\" y=\"195\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">Igneous rock</text><rect x=\"390.0\" y=\"168.0\" width=\"150.0\" height=\"44.0\" rx=\"10\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"465\" y=\"195\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">Sedimentary rock</text><rect x=\"390.0\" y=\"323.0\" width=\"150.0\" height=\"44.0\" rx=\"10\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"465\" y=\"350\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">Metamorphic rock</text><rect x=\"20.0\" y=\"323.0\" width=\"150.0\" height=\"44.0\" rx=\"10\" fill=\"#ffe3d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"95\" y=\"350\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">Magma</text><line x1=\"120.0\" y1=\"168.0\" x2=\"215.0\" y2=\"64.0\" stroke=\"#0f1b33\" stroke-width=\"2\" marker-end=\"url(#ah)\"/><line x1=\"345.0\" y1=\"64.0\" x2=\"440.0\" y2=\"168.0\" stroke=\"#0f1b33\" stroke-width=\"2\" marker-end=\"url(#ah)\"/><line x1=\"465.0\" y1=\"212.0\" x2=\"465.0\" y2=\"321.0\" stroke=\"#0f1b33\" stroke-width=\"2\" marker-end=\"url(#ah)\"/><line x1=\"388.0\" y1=\"345.0\" x2=\"172.0\" y2=\"345.0\" stroke=\"#0f1b33\" stroke-width=\"2\" marker-end=\"url(#ah)\"/><line x1=\"95.0\" y1=\"323.0\" x2=\"95.0\" y2=\"214.0\" stroke=\"#0f1b33\" stroke-width=\"2\" marker-end=\"url(#ah)\"/><path d=\"M520,168 Q540,40 359,32\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-dasharray=\"6 4\" marker-end=\"url(#ah)\"/><line x1=\"150\" y1=\"212\" x2=\"388\" y2=\"330\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-dasharray=\"6 4\" marker-end=\"url(#ah)\"/><text x=\"150\" y=\"100\" text-anchor=\"end\" font-size=\"14\" fill=\"#0f1b33\">weathering</text><text x=\"150\" y=\"116\" text-anchor=\"end\" font-size=\"14\" fill=\"#0f1b33\">and erosion</text><text x=\"395\" y=\"100\" text-anchor=\"start\" font-size=\"14\" fill=\"#0f1b33\">sedimentation</text><text x=\"395\" y=\"116\" text-anchor=\"start\" font-size=\"14\" fill=\"#0f1b33\">and burial</text><text x=\"453\" y=\"256\" text-anchor=\"end\" font-size=\"14\" fill=\"#0f1b33\">metamorphism</text><text x=\"453\" y=\"272\" text-anchor=\"end\" font-size=\"14\" fill=\"#0f1b33\">(heat and</text><text x=\"453\" y=\"288\" text-anchor=\"end\" font-size=\"14\" fill=\"#0f1b33\">pressure)</text><text x=\"280\" y=\"372\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">melting</text><text x=\"107\" y=\"262\" text-anchor=\"start\" font-size=\"14\" fill=\"#0f1b33\">solidification</text><text x=\"107\" y=\"278\" text-anchor=\"start\" font-size=\"14\" fill=\"#0f1b33\">(cooling)</text><text x=\"273\" y=\"262\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\" transform=\"rotate(26.4 273 262)\">heat and pressure</text><text x=\"522\" y=\"47\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">erosion</text></svg>",
+   "caption": "The rock cycle. Solid arrows show the main loop; dashed arrows show two of the shortcuts. (A model — not to scale.)"
+  },
+  {
+   "type": "p",
+   "text": "Follow the arrows from **Magma**: magma **solidifies** into igneous rock → **weathering and erosion** break it into sediment → **sedimentation and burial** turn the sediment into sedimentary rock → **heat and pressure** (metamorphism) change it into metamorphic rock → **melting** turns it back into magma. Then the cycle starts again."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "It is a cycle, not a one-way street",
+   "text": "Rocks do not have to go all the way round. **Any** rock at the surface can be eroded into sediment; **any** rock buried deep enough can be changed by heat and pressure into metamorphic rock; and **any** rock that gets hot enough will melt into magma."
+  },
+  {
+   "type": "h2",
+   "text": "2. The processes one by one"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Process",
+    "What happens",
+    "Where",
+    "Rock made (or what it makes)"
+   ],
+   "rows": [
+    [
+     "Melting",
+     "Rock is heated so much that it turns into liquid magma",
+     "Deep underground",
+     "Magma"
+    ],
+    [
+     "Solidification",
+     "Magma or lava cools down and becomes solid; crystals grow as it cools",
+     "Underground (magma) or at the surface (lava)",
+     "Igneous rock"
+    ],
+    [
+     "Weathering and erosion",
+     "Rock is broken into small pieces and carried away by rivers, wind, ice or the sea",
+     "At the Earth's surface",
+     "Sediment (sand, mud, pebbles)"
+    ],
+    [
+     "Sedimentation",
+     "Moving water slows down and drops the sediment; it settles in flat layers",
+     "At the bottom of lakes, seas and river mouths",
+     "Layers of loose sediment"
+    ],
+    [
+     "Burial",
+     "New layers cover old ones; their weight presses the grains together (compaction) and minerals cement them",
+     "Under more layers of sediment",
+     "Sedimentary rock"
+    ],
+    [
+     "Metamorphism",
+     "Rock is heated and squeezed but does NOT melt; its minerals change into new crystals",
+     "Deep underground or next to hot magma",
+     "Metamorphic rock"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Melting and solidification — making igneous rock"
+  },
+  {
+   "type": "p",
+   "text": "Deep inside the Earth it is extremely hot. Rock that is pushed down far enough **melts** to form **magma**. Magma is less dense than the solid rock around it, so it slowly rises. When it cools it **solidifies** (becomes solid) and crystals grow:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Inside the Earth** the magma cools **slowly** → crystals have a long time to grow → **large crystals** (e.g. granite).",
+    "**At the surface** lava from a volcano cools **quickly** → crystals have little time to grow → **small crystals** (e.g. basalt)."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Erosion — breaking rocks down and moving them"
+  },
+  {
+   "type": "p",
+   "text": "When rocks are at the surface, the weather slowly breaks them into pieces (**weathering**): rain gets into cracks; in deserts, rocks heat up by day and cool at night, so the outside layers crack and flake off; plant roots grow into cracks and split rock apart. The pieces are then carried away by rivers, wind, waves and ice (**erosion**). As they are carried, they knock against each other and become **smaller and rounder** — that is why sedimentary rocks have **rounded grains**."
+  },
+  {
+   "type": "h2",
+   "text": "Sedimentation and burial — making sedimentary rock"
+  },
+  {
+   "type": "p",
+   "text": "When a river reaches a lake or the sea it slows down and **drops** its load. The sediment **settles** in flat layers (**sedimentation**). Over millions of years more layers are laid on top (**burial**). The weight of the layers above presses the grains together and squeezes out the water (compaction), and dissolved minerals glue the grains together (cementation). The sediment has become **sedimentary rock**."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 230\" width=\"560\" font-family=\"Arial, sans-serif\" font-size=\"14\"><defs><pattern id=\"g1\" x=\"10.5\" y=\"12\" width=\"32\" height=\"34\" patternUnits=\"userSpaceOnUse\"><circle cx=\"16\" cy=\"17\" r=\"11\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/></pattern><pattern id=\"g2\" x=\"198.5\" y=\"10.5\" width=\"23\" height=\"23\" patternUnits=\"userSpaceOnUse\"><circle cx=\"11.5\" cy=\"11.5\" r=\"11\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/></pattern><pattern id=\"g3\" x=\"386\" y=\"10.5\" width=\"23\" height=\"23\" patternUnits=\"userSpaceOnUse\"><rect width=\"23\" height=\"23\" fill=\"#d9dde6\"/><circle cx=\"11.5\" cy=\"11.5\" r=\"11\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/></pattern></defs><rect x=\"10.0\" y=\"10.0\" width=\"165.0\" height=\"138.0\" rx=\"0\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"10\" y=\"10\" width=\"165\" height=\"138\" fill=\"url(#g1)\"/><rect x=\"197.5\" y=\"10.0\" width=\"165.0\" height=\"138.0\" rx=\"0\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"197.5\" y=\"10\" width=\"165\" height=\"138\" fill=\"url(#g2)\"/><rect x=\"385\" y=\"10\" width=\"165\" height=\"138\" fill=\"url(#g3)\"/><rect x=\"10.0\" y=\"10.0\" width=\"165.0\" height=\"138.0\" rx=\"0\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"197.5\" y=\"10.0\" width=\"165.0\" height=\"138.0\" rx=\"0\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"385.0\" y=\"10.0\" width=\"165.0\" height=\"138.0\" rx=\"0\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"92\" y=\"170\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">1. Sedimentation</text><text x=\"92\" y=\"188\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">loose grains settle</text><text x=\"92\" y=\"204\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">in water</text><text x=\"280\" y=\"170\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">2. Burial</text><text x=\"280\" y=\"188\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">weight of layers above</text><text x=\"280\" y=\"204\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">squeezes out water</text><text x=\"468\" y=\"170\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">3. Cementation</text><text x=\"468\" y=\"188\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">minerals glue the</text><text x=\"468\" y=\"204\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">grains: rock forms</text></svg>",
+   "caption": "From loose sediment to sedimentary rock (a model, not to scale)."
+  },
+  {
+   "type": "h2",
+   "text": "Metamorphism — making metamorphic rock"
+  },
+  {
+   "type": "p",
+   "text": "If sedimentary or igneous rock is buried very deep, or is next to hot magma, it is **heated and squeezed**. It does not melt, but its minerals slowly change into new, harder crystals that are often lined up in bands. This is **metamorphism**. For example, limestone → **marble**; mudstone → **slate**."
+  },
+  {
+   "type": "h2",
+   "text": "Uplift — back to the surface"
+  },
+  {
+   "type": "p",
+   "text": "Movements of the Earth's crust can slowly push buried rocks upwards — this is how mountains are made. Once the rock is at the surface, weathering and erosion begin again. Uplift is the reason we can find fossils from the sea bed high up in mountains and deserts."
+  },
+  {
+   "type": "h2",
+   "text": "3. A journey through the rock cycle"
+  },
+  {
+   "type": "p",
+   "text": "Here is one possible journey, using Egypt as the setting:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Millions of years ago, magma cooled slowly underground and **solidified** into the **granite** of Aswan (igneous rock).",
+    "Uplift brought the granite to the surface. Heat, cold and water **weathered** it, and the Nile **eroded** the pieces and carried sand grains downstream.",
+    "Where the river slows near the sea, the grains settle in layers (**sedimentation**) in the Delta and the Mediterranean.",
+    "Over millions of years, more layers bury them (**burial**); they are pressed and cemented into **sandstone** (sedimentary rock).",
+    "If that sandstone is buried even deeper and heated and squeezed (**metamorphism**), it becomes **quartzite** (metamorphic rock).",
+    "If it is pushed deeper still it may **melt** into magma — and the journey begins again."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الفكرة الأساسية بالعربي",
+   "items": [
+    "دورة الصخور: الصخور بتتحوّل من نوع لنوع ببطء شديد (ملايين السنين) وبترجع تاني — مالهاش بداية ولا نهاية.",
+    "الصهارة تبرد وتتصلب (solidification) ← صخر ناري. البلورات كبيرة لو التبريد بطيء تحت الأرض، وصغيرة لو التبريد سريع فوق السطح.",
+    "التجوية والتعرية (erosion) ← رواسب ← تترسب في طبقات (sedimentation) ← تندفن وتتضغط (burial) ← صخر رسوبي.",
+    "حرارة + ضغط من غير انصهار (metamorphism) ← صخر متحول. لو الصخر انصهر (melting) ← صهارة."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — A mountain is made of granite. Describe how some of this granite could become part of a sedimentary rock. [3 marks]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "The granite is **weathered and eroded** into small pieces, which are carried away by a river (1 mark).",
+    "The pieces settle in layers at the bottom of a lake or sea — **sedimentation** (1 mark).",
+    "More layers **bury** them; the weight presses them together and they are cemented into sedimentary rock (1 mark)."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "Exam tip: three marks = three stages. Use the key words from the curriculum: erosion, sedimentation, burial."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — Basalt forms when lava cools on the surface of the Earth. (a) Name the process when lava turns into solid rock. [1] (b) Explain why basalt has small crystals. [1]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "(a) **Solidification** (accept: cooling / freezing).",
+    "(b) The lava cools **quickly** at the surface, so the crystals have **little time to grow**."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — Describe how an igneous rock could become a metamorphic rock without first becoming sediment. [2 marks]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "The igneous rock is **buried deep** underground (or is close to hot magma) (1 mark).",
+    "It is **heated and squeezed (pressure)** but does **not melt**, so its minerals change → metamorphic rock (1 mark)."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "Common mistake: writing 'it melts'. If it melts, it becomes magma and then igneous rock again."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — Complete the sentences using words from the box: **burial, erosion, melting, solidification**. [4 marks]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Rock that is heated deep underground until it becomes liquid is going through ________.",
+    "When magma cools and becomes solid, this is called ________.",
+    "Rivers carrying away pieces of rock is an example of ________.",
+    "Layers of sediment being covered and pressed together by more layers is ________."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "Answers: 1 **melting**; 2 **solidification**; 3 **erosion**; 4 **burial** (1 mark each)."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — Explain why scientists use a diagram (a model) to describe the rock cycle. [1 mark]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "The changes are far too **slow** (millions of years) and happen **deep underground**, so we cannot watch them; the model shows all the stages and how they link together (1 mark for either idea)."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Writing that metamorphic rock forms by **melting**. It forms by **heat and pressure without melting**.",
+    "Mixing up **erosion** (wearing away and carrying) with **sedimentation** (settling in layers).",
+    "Thinking the cycle always goes in one order. Shortcuts are possible: any rock can be eroded, changed or melted.",
+    "Saying igneous rock forms when lava 'dries'. Lava **cools** and **solidifies** (freezes) — it does not dry.",
+    "Forgetting the **time**: the rock cycle takes millions of years. You cannot see it happen in a lifetime (except a volcano erupting).",
+    "Linking crystal size the wrong way: **slow** cooling = **large** crystals; **fast** cooling = **small** crystals."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "**Label a rock-cycle diagram** — name the process shown by an arrow, or say which letter shows a process.",
+    "**Complete sentences** with words from a box (melting, solidification, erosion, sedimentation, burial, metamorphism).",
+    "**Put stages in order** — e.g. how a mountain becomes sandstone.",
+    "**Describe** how one rock type becomes another. Use one key word for each mark.",
+    "**Explain** crystal size (cooling speed) or rounded grains (erosion).",
+    "Read the arrows carefully: the arrow shows the direction of change (from → to)."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "The Rock Cycle — Practice",
+   "timed": false,
+   "intro": "Answer every question, then check your answers. Open questions: compare your answer with the mark scheme and give yourself the marks you earned.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 20,
+     "calc": true,
+     "questions": [
+      {
+       "q": "Which process changes magma into igneous rock?",
+       "c": [
+        "melting",
+        "erosion",
+        "solidification",
+        "metamorphism"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Rock cycle",
+       "e": "Magma cools and becomes solid: solidification. Melting is the opposite (rock → magma)."
+      },
+      {
+       "t": "text",
+       "q": "Name the process in which pieces of rock are worn away and carried off by water, wind or ice.",
+       "ans": [
+        "erosion",
+        "erosion and weathering",
+        "weathering and erosion"
+       ],
+       "m": 1,
+       "s": "Rock cycle",
+       "e": "This is erosion. (Weathering breaks the rock where it is; erosion carries the pieces away.)"
+      },
+      {
+       "q": "How does metamorphic rock form?",
+       "c": [
+        "Lava cools quickly on the surface.",
+        "A rock is heated and squeezed but does not melt.",
+        "Sediment settles at the bottom of the sea.",
+        "Rock melts and turns into magma."
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Rock cycle",
+       "e": "Metamorphism = heat and pressure without melting. A = solidification (igneous), C = sedimentation, D = melting."
+      },
+      {
+       "t": "text",
+       "p": "Question 4\nThe diagram shows the rock cycle. The letters P, Q, R, S and T show processes.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 395\" width=\"560\" font-family=\"Arial, sans-serif\" font-size=\"14\"><defs><marker id=\"ah\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#0f1b33\"/></marker></defs><rect x=\"205.0\" y=\"18.0\" width=\"150.0\" height=\"44.0\" rx=\"10\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"280\" y=\"45\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">Sediment</text><rect x=\"20.0\" y=\"168.0\" width=\"150.0\" height=\"44.0\" rx=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"95\" y=\"195\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">Igneous rock</text><rect x=\"390.0\" y=\"168.0\" width=\"150.0\" height=\"44.0\" rx=\"10\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"465\" y=\"195\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">Sedimentary rock</text><rect x=\"390.0\" y=\"323.0\" width=\"150.0\" height=\"44.0\" rx=\"10\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"465\" y=\"350\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">Metamorphic rock</text><rect x=\"20.0\" y=\"323.0\" width=\"150.0\" height=\"44.0\" rx=\"10\" fill=\"#ffe3d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"95\" y=\"350\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">Magma</text><line x1=\"120.0\" y1=\"168.0\" x2=\"215.0\" y2=\"64.0\" stroke=\"#0f1b33\" stroke-width=\"2\" marker-end=\"url(#ah)\"/><line x1=\"345.0\" y1=\"64.0\" x2=\"440.0\" y2=\"168.0\" stroke=\"#0f1b33\" stroke-width=\"2\" marker-end=\"url(#ah)\"/><line x1=\"465.0\" y1=\"212.0\" x2=\"465.0\" y2=\"321.0\" stroke=\"#0f1b33\" stroke-width=\"2\" marker-end=\"url(#ah)\"/><line x1=\"388.0\" y1=\"345.0\" x2=\"172.0\" y2=\"345.0\" stroke=\"#0f1b33\" stroke-width=\"2\" marker-end=\"url(#ah)\"/><line x1=\"95.0\" y1=\"323.0\" x2=\"95.0\" y2=\"214.0\" stroke=\"#0f1b33\" stroke-width=\"2\" marker-end=\"url(#ah)\"/><path d=\"M520,168 Q540,40 359,32\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-dasharray=\"6 4\" marker-end=\"url(#ah)\"/><line x1=\"150\" y1=\"212\" x2=\"388\" y2=\"330\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-dasharray=\"6 4\" marker-end=\"url(#ah)\"/><text x=\"150\" y=\"112\" text-anchor=\"end\" font-size=\"17\" font-weight=\"bold\" fill=\"#0f1b33\">P</text><text x=\"395\" y=\"112\" text-anchor=\"start\" font-size=\"17\" font-weight=\"bold\" fill=\"#0f1b33\">Q</text><text x=\"453\" y=\"272\" text-anchor=\"end\" font-size=\"17\" font-weight=\"bold\" fill=\"#0f1b33\">R</text><text x=\"280\" y=\"372\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"bold\" fill=\"#0f1b33\">S</text><text x=\"107\" y=\"272\" text-anchor=\"start\" font-size=\"17\" font-weight=\"bold\" fill=\"#0f1b33\">T</text></svg>",
+       "q": "(a) Name the process shown by S.",
+       "ans": [
+        "melting",
+        "melt",
+        "melts"
+       ],
+       "m": 1,
+       "s": "Rock cycle",
+       "e": "S goes from metamorphic rock to magma: the rock melts."
+      },
+      {
+       "t": "text",
+       "p": "Question 4\nThe diagram shows the rock cycle. The letters P, Q, R, S and T show processes.",
+       "q": "(b) Which letter shows solidification?",
+       "ans": [
+        "T"
+       ],
+       "m": 1,
+       "s": "Rock cycle",
+       "e": "Solidification turns magma into igneous rock: arrow T."
+      },
+      {
+       "p": "Question 4\nThe diagram shows the rock cycle. The letters P, Q, R, S and T show processes.",
+       "q": "(c) Process R changes sedimentary rock into metamorphic rock. What causes process R?",
+       "c": [
+        "heat and pressure",
+        "wind and rain",
+        "cooling quickly",
+        "rivers slowing down"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Rock cycle",
+       "e": "Metamorphism is caused by heat and pressure (without melting)."
+      },
+      {
+       "t": "text",
+       "q": "Put these stages in the correct order to show how sandstone forms.\nA  The sand grains are buried and pressed together.\nB  A rock is weathered and eroded into sand grains.\nC  Minerals cement the grains into sandstone.\nD  A river drops the grains and they settle in layers.\nWrite the letters.",
+       "ans": [
+        "BDAC",
+        "B,D,A,C",
+        "B, D, A, C",
+        "B-D-A-C"
+       ],
+       "m": 2,
+       "s": "Rock cycle",
+       "e": "B (erosion) → D (sedimentation) → A (burial and compaction) → C (cementation): B D A C."
+      },
+      {
+       "t": "open",
+       "q": "Granite cooled underground and has large crystals. Basalt cooled on the surface and has small crystals. Explain this difference.",
+       "m": 2,
+       "s": "Igneous rock",
+       "ms": "1 mark: granite / magma underground cooled slowly so crystals had (more) time to grow (large). 1 mark: basalt / lava on the surface cooled quickly so crystals had less time to grow (small). Accept ora.",
+       "e": "Underground magma cools slowly → long time for crystals to grow → large crystals. Lava on the surface cools quickly → little time → small crystals."
+      },
+      {
+       "t": "num",
+       "q": "In a sea, layers of sediment build up about 10 cm thick every 1000 years. About how many years would it take for 2 m of sediment to build up?",
+       "ans": [
+        20000
+       ],
+       "tol": 0,
+       "unit": "years",
+       "m": 2,
+       "s": "Sedimentation",
+       "e": "2 m = 200 cm. 200 ÷ 10 = 20 lots of 1000 years = 20 000 years."
+      },
+      {
+       "q": "Which process is NOT part of making sedimentary rock from sediment?",
+       "c": [
+        "sedimentation",
+        "burial",
+        "cementation",
+        "melting"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Rock cycle",
+       "e": "Sediment settles (sedimentation), is buried and compacted, and cemented. Melting makes magma, not sedimentary rock."
+      },
+      {
+       "t": "text",
+       "q": "Limestone is buried deep underground, where it is heated and squeezed. Name the metamorphic rock that forms.",
+       "ans": [
+        "marble"
+       ],
+       "m": 1,
+       "s": "Metamorphic rock",
+       "e": "Limestone + heat and pressure → marble."
+      },
+      {
+       "q": "Why do we call it the rock CYCLE?",
+       "c": [
+        "Rocks only change when it rains.",
+        "All rocks are made from sand.",
+        "Rocks keep changing from one type to another and can end up as the type they started as.",
+        "Rocks always change in exactly the same order."
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Rock cycle",
+       "e": "A cycle has no start or end: rock material is recycled from one type to another, again and again. The order can vary (shortcuts)."
+      },
+      {
+       "t": "open",
+       "q": "Amir says: 'Metamorphic rock is made when a rock melts.' Explain why Amir is wrong.",
+       "m": 2,
+       "s": "Rock cycle",
+       "ms": "1 mark: metamorphic rock forms by heat and pressure (metamorphism) without melting / the rock stays solid. 1 mark: if a rock melts it becomes magma, which forms igneous rock (when it solidifies).",
+       "e": "In metamorphism the rock is heated and squeezed but stays solid. If it melted it would become magma, and magma cools to form igneous rock, not metamorphic rock."
+      },
+      {
+       "t": "open",
+       "q": "Describe how a sedimentary rock could become an igneous rock.",
+       "m": 2,
+       "s": "Rock cycle",
+       "ms": "1 mark: (buried deep and) heated until it melts / forms magma. 1 mark: the magma (or lava) cools and solidifies (to form igneous rock). Accept: melting then solidification.",
+       "e": "The sedimentary rock is buried very deep, where it is hot enough to melt into magma. Later the magma (or lava) cools and solidifies into igneous rock."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "**Melting** → magma; **solidification** → igneous rock (slow cooling = large crystals, fast = small).",
+    "**Erosion** → sediment; **sedimentation** → layers; **burial** (compaction and cementation) → sedimentary rock.",
+    "**Metamorphism** = heat and pressure **without melting** → metamorphic rock.",
+    "Any rock can be eroded, changed by heat and pressure, or melted — the cycle has shortcuts and no end.",
+    "The rock cycle is very slow (millions of years), so we use a **diagram as a model** to describe it."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,559 @@
+{
+ "slug": "cp8s-purity-concentration-chromatography",
+ "title": "Purity, Concentration and Chromatography",
+ "kicker": "Cambridge Lower Secondary · Science 0893 · Stage 8 · Chemistry",
+ "summary": "What purity means and how to calculate it, how concentration depends on the number of solute particles in a volume, and how to carry out and read paper chromatography.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Know that purity describes how much of one particular chemical is in a sample. (8Cm.04)",
+    "Understand that the concentration of a solution depends on how many solute particles are in a volume of the solvent. (8Cp.01)",
+    "Describe how paper chromatography separates the substances in a sample and helps identify them. (8Cp.02)"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "pure substance",
+     "مادة نقية — contains only one chemical (one type of particle)"
+    ],
+    [
+     "impure",
+     "غير نقي — contains small amounts of other substances"
+    ],
+    [
+     "impurity",
+     "شائبة — an unwanted substance mixed in"
+    ],
+    [
+     "mixture",
+     "مخلوط — two or more substances mixed but not joined chemically"
+    ],
+    [
+     "purity",
+     "درجة النقاء — how much of the wanted chemical is in a sample"
+    ],
+    [
+     "solute",
+     "المذاب — the substance that dissolves"
+    ],
+    [
+     "solvent",
+     "المذيب — the liquid that the solute dissolves in"
+    ],
+    [
+     "solution",
+     "محلول — a solute dissolved in a solvent"
+    ],
+    [
+     "concentration",
+     "التركيز — how many solute particles are in a certain volume"
+    ],
+    [
+     "dilute / concentrated",
+     "مخفف / مركز — few / many solute particles in the same volume"
+    ],
+    [
+     "chromatography",
+     "الكروماتوجرافيا (الفصل اللوني) — a method to separate and identify dissolved substances"
+    ],
+    [
+     "chromatogram",
+     "الكروماتوجرام — the paper with the separated spots at the end"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "2. What does \"pure\" mean in science?"
+  },
+  {
+   "type": "p",
+   "text": "In everyday language \"pure\" often means \"natural\" or \"with nothing added\" — a carton may say \"100% pure orange juice\". In science, a **pure substance contains only one chemical**. Orange juice contains water, sugars, acids and vitamins, so a scientist calls it a **mixture**."
+  },
+  {
+   "type": "p",
+   "text": "Most real samples are not perfectly pure. They contain small amounts of other substances called **impurities**. **Purity** describes **how much of the specific chemical you want is in the sample**. A sample that is 99% pure is almost all the wanted chemical; one that is 60% pure contains a lot of other substances."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 260\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"13\"><rect x=\"20\" y=\"30\" width=\"230\" height=\"160\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"135\" y=\"20\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">pure substance</text><circle cx=\"78.7\" cy=\"172.9\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"58\" cy=\"137.9\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"49.5\" cy=\"75.7\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"237.8\" cy=\"70.5\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"164.2\" cy=\"104.4\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"125.3\" cy=\"109.3\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"116\" cy=\"164.7\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"110.1\" cy=\"57.5\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"109.7\" cy=\"131.9\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"217.7\" cy=\"121.1\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"61.3\" cy=\"50.8\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"151.3\" cy=\"141.1\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"213.5\" cy=\"80.8\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"176.6\" cy=\"171.2\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"46.7\" cy=\"164.8\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"77.3\" cy=\"75.2\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"87\" cy=\"99.6\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"189.4\" cy=\"88.5\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"153.2\" cy=\"81.3\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"53.9\" cy=\"112.8\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"290\" y=\"30\" width=\"230\" height=\"160\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"405\" y=\"20\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">impure sample</text><circle cx=\"397.4\" cy=\"92.8\" r=\"10\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"397.4\" cy=\"92.8\" r=\"3\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><circle cx=\"330.5\" cy=\"159.9\" r=\"10\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"330.5\" cy=\"159.9\" r=\"3\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><circle cx=\"303.3\" cy=\"110.4\" r=\"10\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"303.3\" cy=\"110.4\" r=\"3\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><circle cx=\"487\" cy=\"53\" r=\"10\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"487\" cy=\"53\" r=\"3\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><circle cx=\"416.2\" cy=\"125.9\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"446.9\" cy=\"103.5\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"451.4\" cy=\"63.4\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"351\" cy=\"57.1\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"406.3\" cy=\"167.6\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"381\" cy=\"143.5\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"322.9\" cy=\"81.6\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"440.9\" cy=\"140.7\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"388.9\" cy=\"53.9\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"380\" cy=\"108.9\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"425\" cy=\"58.5\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"305.6\" cy=\"53.5\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"357.3\" cy=\"177.3\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"447.3\" cy=\"171.3\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"350.8\" cy=\"125.1\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"422.3\" cy=\"103.4\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"135\" y=\"210\" text-anchor=\"middle\">20 particles, all substance A</text><text x=\"405\" y=\"210\" text-anchor=\"middle\">16 particles of A + 4 of B</text><circle cx=\"150\" cy=\"240\" r=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"166\" y=\"245\">substance A</text><circle cx=\"300\" cy=\"240\" r=\"10\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"300\" cy=\"240\" r=\"3\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><text x=\"316\" y=\"245\">substance B (impurity)</text></svg>",
+   "caption": "Particle diagrams. Left: a pure substance — every particle is the same. Right: an impure sample — 16 of the 20 particles are substance A, so the sample is 80% pure."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Example",
+    "Why purity matters"
+   ],
+   "rows": [
+    [
+     "**Medicines**",
+     "Impurities could be harmful, so medicines must be extremely pure and are tested carefully."
+    ],
+    [
+     "**Drinking water**",
+     "Tap water is not pure (it has dissolved minerals) but it must be free from harmful impurities such as microorganisms and toxic metals."
+    ],
+    [
+     "**Gold jewellery**",
+     "24 carat gold is pure gold. 18 carat gold is 18/24 = 75% gold; other metals are added to make it harder."
+    ],
+    [
+     "**Table salt**",
+     "Salt from the sea is purified to remove sand and other salts."
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "3. Calculating percentage purity"
+  },
+  {
+   "type": "p",
+   "text": "When you know the mass of the wanted chemical in a sample, you can work out its purity as a percentage:"
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Formula",
+   "text": "**percentage purity = (mass of the wanted chemical ÷ total mass of the sample) × 100**"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Find the mass of the wanted chemical (sometimes you must subtract the mass of the impurities first).",
+    "Divide by the total mass of the sample.",
+    "Multiply by 100 and write the % sign."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "You can also use particles: if 16 out of 20 particles are the wanted substance, purity = 16 ÷ 20 × 100 = 80%."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How do scientists check purity?",
+   "text": "A pure substance melts and boils at **fixed** temperatures. For example, pure water boils at 100 °C (at normal air pressure) — salty water boils at a higher temperature. So if a sample melts or boils at a different temperature, or over a range of temperatures, it is probably impure. Chromatography (section 6) is another check: a pure substance gives only **one** spot."
+  },
+  {
+   "type": "h2",
+   "text": "4. Concentration of a solution"
+  },
+  {
+   "type": "p",
+   "text": "When a **solute** (such as sugar) dissolves in a **solvent** (such as water) it makes a **solution**. The solute particles spread out between the solvent particles. The **concentration** tells you **how many solute particles there are in a certain volume of solvent**."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 285\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"13\"><path d=\"M60 30 L60 180 L210 180 L210 30\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"61\" y=\"60\" width=\"148\" height=\"119\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\"/><line x1=\"60\" y1=\"60\" x2=\"210\" y2=\"60\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"128.8\" cy=\"126\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"190.1\" cy=\"116.6\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"94\" cy=\"121.2\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"151.9\" cy=\"149.3\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"82.2\" cy=\"100.3\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><path d=\"M330 30 L330 180 L480 180 L480 30\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"331\" y=\"60\" width=\"148\" height=\"119\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\"/><line x1=\"330\" y1=\"60\" x2=\"480\" y2=\"60\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"401.7\" cy=\"135.7\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"426.6\" cy=\"84.3\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"341.4\" cy=\"107.5\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"375.6\" cy=\"151\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"429.8\" cy=\"130.1\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"358.9\" cy=\"114\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"361.1\" cy=\"160.6\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"347.6\" cy=\"151.9\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"383.8\" cy=\"110.5\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"449.5\" cy=\"71.9\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"406.2\" cy=\"79.1\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"468.3\" cy=\"164.7\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"417.5\" cy=\"117.7\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"390\" cy=\"73\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"434.4\" cy=\"166.7\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><text x=\"135\" y=\"205\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">dilute</text><text x=\"135\" y=\"222\" text-anchor=\"middle\">5 solute particles</text><text x=\"405\" y=\"205\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">concentrated</text><text x=\"405\" y=\"222\" text-anchor=\"middle\">15 solute particles</text><circle cx=\"150\" cy=\"250\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><text x=\"162\" y=\"255\">= solute particle (solvent particles not shown)</text><text x=\"270\" y=\"275\" text-anchor=\"middle\">Both beakers hold the same volume of solution.</text></svg>",
+   "caption": "Same volume, different numbers of solute particles: the right-hand solution is more concentrated."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**More** solute particles in the **same volume** → **more concentrated**.",
+    "The **same** number of solute particles in a **bigger volume** → **more dilute** (less concentrated).",
+    "To **dilute** a solution, add more solvent. The number of solute particles stays the same, but they are spread through more liquid.",
+    "To make a solution **more concentrated**, dissolve more solute in it, or evaporate some of the solvent.",
+    "For a coloured solution, a more concentrated solution usually looks **darker** (more coloured particles in each cm³)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Comparing concentrations with numbers.** Always compare the mass of solute in the **same volume**. For example, 10 g of sugar in 50 cm³ of solution is the same concentration as 20 g in 100 cm³ (double both). 15 g in 100 cm³ is less concentrated than that."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الفكرة الأساسية",
+   "text": "النقاء (purity) = قد إيه من المادة اللي إحنا عايزينها موجود في العينة. المادة النقية فيها نوع واحد بس من الجسيمات. التركيز (concentration) = عدد جسيمات المذاب في حجم معين من المذيب: جسيمات أكتر في نفس الحجم = محلول مركز أكتر. لو زودت ماء، عدد جسيمات المذاب مش بيتغير، لكن بتتوزع في حجم أكبر فيبقى المحلول مخفف أكتر."
+  },
+  {
+   "type": "h2",
+   "text": "5. How paper chromatography works"
+  },
+  {
+   "type": "p",
+   "text": "Many coloured substances — inks, food colourings, plant dyes — are really **mixtures** of several dyes. **Paper chromatography** separates them so you can see how many substances are present and identify them."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 315\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"13\"><rect x=\"140\" y=\"58\" width=\"200\" height=\"10\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M150 70 L150 300 L330 300 L330 70\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"151\" y=\"262\" width=\"178\" height=\"37\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\"/><line x1=\"150\" y1=\"262\" x2=\"330\" y2=\"262\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"152\" y=\"76\" width=\"176\" height=\"6\" fill=\"#d9d9d9\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"215\" y=\"82\" width=\"50\" height=\"206\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.3\"/><line x1=\"218\" y1=\"245\" x2=\"262\" y2=\"245\" stroke=\"#0f1b33\" stroke-width=\"1.3\"/><ellipse cx=\"230\" cy=\"245\" rx=\"5\" ry=\"4\" fill=\"#0f1b33\"/><ellipse cx=\"250\" cy=\"245\" rx=\"5\" ry=\"4\" fill=\"#0f1b33\"/><line x1=\"340\" y1=\"63\" x2=\"365\" y2=\"63\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"370\" y=\"67\">lid</text><line x1=\"265\" y1=\"150\" x2=\"365\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"370\" y=\"154\">chromatography paper</text><line x1=\"328\" y1=\"79\" x2=\"365\" y2=\"79\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"370\" y=\"83\">glass rod</text><line x1=\"255\" y1=\"245\" x2=\"365\" y2=\"245\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"370\" y=\"249\">spots of the samples</text><line x1=\"330\" y1=\"282\" x2=\"365\" y2=\"280\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"370\" y=\"284\">solvent (below the line)</text><line x1=\"120\" y1=\"245\" x2=\"217\" y2=\"245\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"10\" y=\"241\">pencil start</text><text x=\"10\" y=\"257\">line</text></svg>",
+   "caption": "Paper chromatography apparatus."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Draw a **start line** in **pencil** about 2 cm from the bottom of the chromatography paper. (Pencil does not dissolve, so it will not move or add spots.)",
+    "Put a **small, concentrated spot** of each sample on the line, spaced apart. Label each one in pencil under the line.",
+    "Pour a little **solvent** (often water or ethanol) into a beaker. Hang the paper so the bottom dips into the solvent but the **solvent level is below the start line**.",
+    "Cover the beaker with a **lid** so the solvent does not evaporate.",
+    "The solvent soaks up the paper. As it passes the spots, it **dissolves** the substances and carries them upwards. Substances that are **more soluble** in the solvent travel **further**; less soluble ones travel a shorter distance.",
+    "Take the paper out **before the solvent reaches the top**. Mark how far the solvent got (the **solvent front**) in pencil, then let the paper dry. The dried paper with its spots is the **chromatogram**."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Safety",
+   "text": "Ethanol is flammable — keep it away from flames. Wear eye protection, and do not touch the spots or eat the food colourings used."
+  },
+  {
+   "type": "h2",
+   "text": "6. Reading a chromatogram"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 310\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"13\"><rect x=\"30\" y=\"30\" width=\"360\" height=\"270\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"30\" y1=\"250\" x2=\"390\" y2=\"250\" stroke=\"#0f1b33\" stroke-width=\"1.3\"/><line x1=\"30\" y1=\"60\" x2=\"390\" y2=\"60\" stroke=\"#0f1b33\" stroke-width=\"1.3\" stroke-dasharray=\"6 4\"/><text x=\"396\" y=\"64\">solvent</text><text x=\"396\" y=\"80\">front</text><text x=\"396\" y=\"254\">start</text><text x=\"396\" y=\"270\">line</text><ellipse cx=\"66\" cy=\"117\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><text x=\"66\" y=\"280\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\">A</text><ellipse cx=\"138\" cy=\"202.5\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><text x=\"138\" y=\"280\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\">B</text><ellipse cx=\"210\" cy=\"155\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><text x=\"210\" y=\"280\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\">C</text><ellipse cx=\"282\" cy=\"202.5\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><ellipse cx=\"282\" cy=\"117\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><text x=\"282\" y=\"280\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\">X</text><ellipse cx=\"354\" cy=\"250\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><ellipse cx=\"354\" cy=\"155\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><text x=\"354\" y=\"280\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\">Y</text></svg>",
+   "caption": "Chromatogram of three known dyes A, B and C, and two unknown samples X and Y (same paper, same solvent)."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**Each spot is one substance.** The number of spots tells you the (minimum) number of substances in a sample. X has 2 spots, so it contains at least 2 substances.",
+    "**A pure substance gives one spot.** A, B and C each give one spot, so each could be a single substance.",
+    "**Same height = same substance** (on the same paper with the same solvent). X has spots level with A and B, so X contains **A and B**. Y has a spot level with C, so Y contains **C**.",
+    "**A spot left on the start line** is a substance that is **insoluble** in this solvent — it did not move. Y contains an insoluble substance as well as C.",
+    "If a spot in the unknown matches **none** of the known samples, the unknown contains a substance that was not tested."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Chromatography is used to identify food colourings, to check if a medicine is pure, to test athletes for banned substances, and by forensic scientists to match the ink on a document to a particular pen."
+  },
+  {
+   "type": "h2",
+   "text": "7. Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — A 40 g sample of rock salt contains 2 g of sand. The rest is salt. Calculate the percentage purity of the salt. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Mass of salt = 40 − 2 = 38 g.",
+    "Purity = (38 ÷ 40) × 100 = **95%** (1 mark working, 1 mark answer).",
+    "**Common mistake:** using the 2 g of sand: (2 ÷ 40) × 100 = 5% is the percentage of **impurity**, not the purity."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — A particle diagram of a gas sample shows 25 particles: 20 are oxygen and 5 are nitrogen. (a) Is the oxygen pure? [1] (b) Calculate the percentage purity of the oxygen. [1]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) **No** — it contains nitrogen particles (an impurity) as well as oxygen.",
+    "(b) 20 ÷ 25 × 100 = **80%**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — Solution A has 10 g of salt in 50 cm³. Solution B has 15 g of salt in 100 cm³. Which is more concentrated? Show how you decide. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Make the volumes the same: A = 10 g in 50 cm³ = **20 g in 100 cm³**. B = **15 g in 100 cm³** (1).",
+    "20 g > 15 g in the same volume, so **A is more concentrated** (1).",
+    "**Common mistake:** choosing B because 15 g is more than 10 g, without looking at the volume."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — Explain, using particles, what happens to the concentration of a squash drink when you add more water. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "The number of solute (squash) particles stays the **same** (1).",
+    "They are spread through a **larger volume** of water, so there are fewer solute particles in each cm³ — the drink becomes **more dilute** (less concentrated) (1)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — Use the chromatogram in section 6. (a) How many substances are in X? [1] (b) Which known dyes are in X? [1] (c) What does the spot on the start line for Y show? [1]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) **2** (two spots).",
+    "(b) **A and B** — X's spots are at the same heights as A's and B's spots.",
+    "(c) Y contains a substance that is **insoluble** in the solvent, so it did not move.",
+    "**Exam tip:** say \"at the same **height**\" or \"travelled the same **distance**\" — not just \"the same\"."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** — Omar sets up chromatography. He draws the start line in felt-tip pen and pours the solvent in until it is 1 cm **above** the line. Describe **two** mistakes and explain why each is a problem. [4]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Mistake 1: the line is in **ink** (1). The ink would dissolve and separate into its own spots, mixing with the results (1).",
+    "Mistake 2: the solvent is **above** the start line (1). The samples would dissolve into the solvent in the beaker instead of moving up the paper (1).",
+    "**Exam tip:** a \"describe and explain\" question needs **what** is wrong **and why** — 2 marks each."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Calling a natural product like \"pure honey\" or \"pure juice\" a pure substance — in science these are mixtures.",
+    "Working out the percentage of **impurity** when the question asks for the **purity**.",
+    "Comparing concentrations without making the volumes the same.",
+    "Thinking that adding water removes solute particles — the number of solute particles stays the same.",
+    "Confusing **dilute** with **dissolve**. Dissolve = the solute mixes into the solvent; dilute = add more solvent.",
+    "Saying a spot on the start line \"was not tested\" — it means the substance is **insoluble** in that solvent.",
+    "Drawing the start line in ink, or letting the solvent cover the spots."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "**Draw particle diagrams** of a pure substance and an impure sample (use different shapes or shading and a key).",
+    "**Calculate** a percentage purity — show the division and the × 100.",
+    "**Circle** the most concentrated / most dilute solution from particle diagrams or from masses and volumes.",
+    "**Explain** dilution using the words particles, same number, larger volume.",
+    "**Label** the chromatography apparatus and **explain** why the line is in pencil and the solvent is below it.",
+    "**Read a chromatogram**: how many substances, which known dyes match, which sample is pure, which contains an insoluble substance."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Purity, concentration and chromatography — practice",
+   "timed": false,
+   "intro": "Answer every part. Type short answers in the box; for longer answers write yours on paper, then mark it with the mark scheme.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 25,
+     "calc": true,
+     "questions": [
+      {
+       "q": "Which of these is a **pure substance** in the scientific meaning of the word?",
+       "c": [
+        "sea water",
+        "orange juice",
+        "air",
+        "distilled water"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Purity",
+       "e": "Distilled water contains only water particles — one substance — so it is pure. Sea water (water + salts), orange juice (water, sugars, acids…) and air (nitrogen, oxygen, argon, carbon dioxide…) are all mixtures. A juice can be called \"100% pure\" on a label, but in science it is still a mixture."
+      },
+      {
+       "t": "num",
+       "q": "A 25 g sample of impure copper sulfate contains 24 g of copper sulfate. Calculate the percentage purity of the sample.",
+       "ans": [
+        96
+       ],
+       "tol": 0,
+       "unit": "%",
+       "m": 2,
+       "s": "Purity",
+       "e": "percentage purity = (mass of copper sulfate ÷ total mass of sample) × 100 = (24 ÷ 25) × 100 = **96%**. 1 mark for the correct division, 1 mark for the answer."
+      },
+      {
+       "t": "num",
+       "q": "Pure gold is called 24 carat. A ring made of 18 carat gold contains 18 parts gold out of every 24 parts. What percentage of the ring is gold?",
+       "ans": [
+        75
+       ],
+       "tol": 0,
+       "unit": "%",
+       "m": 2,
+       "s": "Purity",
+       "e": "18 ÷ 24 = 0.75; 0.75 × 100 = **75%**. The other 25% is other metals (such as copper or silver), which are the 'impurities' here — they make the ring harder."
+      },
+      {
+       "p": "Question 4\nThe diagrams show four solutions of the same solute. Each beaker holds the same volume of solution.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 555 195\" width=\"555\" font-family=\"Arial, sans-serif\" font-size=\"13\"><path d=\"M15 15 L15 135 L125 135 L125 15\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"16\" y=\"39\" width=\"108\" height=\"95\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\"/><line x1=\"15\" y1=\"39\" x2=\"125\" y2=\"39\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"73.5\" cy=\"71\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"27.7\" cy=\"98.7\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"43.9\" cy=\"68.6\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><text x=\"70\" y=\"155\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">A</text><path d=\"M150 15 L150 135 L260 135 L260 15\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"151\" y=\"39\" width=\"108\" height=\"95\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\"/><line x1=\"150\" y1=\"39\" x2=\"260\" y2=\"39\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"161.1\" cy=\"57.5\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"195.4\" cy=\"101\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"180.9\" cy=\"106.6\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"219.6\" cy=\"59.4\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"208.2\" cy=\"83\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"197.1\" cy=\"124.7\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"244.6\" cy=\"79.6\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"177.9\" cy=\"74.1\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"245.8\" cy=\"112.7\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><text x=\"205\" y=\"155\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">B</text><path d=\"M285 15 L285 135 L395 135 L395 15\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"286\" y=\"39\" width=\"108\" height=\"95\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\"/><line x1=\"285\" y1=\"39\" x2=\"395\" y2=\"39\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"302\" cy=\"65.2\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"322.3\" cy=\"117.4\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"339.7\" cy=\"103.7\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"304\" cy=\"87.7\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"370.9\" cy=\"88.7\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"380\" cy=\"116\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><text x=\"340\" y=\"155\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">C</text><path d=\"M420 15 L420 135 L530 135 L530 15\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"421\" y=\"39\" width=\"108\" height=\"95\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\"/><line x1=\"420\" y1=\"39\" x2=\"530\" y2=\"39\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"481.3\" cy=\"97\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"503.5\" cy=\"70.1\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"488.7\" cy=\"116.7\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><circle cx=\"514.9\" cy=\"97.3\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><text x=\"475\" y=\"155\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">D</text><circle cx=\"170\" cy=\"180\" r=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.1\"/><text x=\"182\" y=\"185\">= solute particle</text></svg>",
+       "q": "Which solution is the **most concentrated**?",
+       "c": [
+        "A",
+        "B",
+        "C",
+        "D"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Concentration",
+       "e": "All four have the same volume, so the most concentrated is the one with the **most solute particles**: B has 9 (A has 3, C has 6, D has 4)."
+      },
+      {
+       "q": "Ali has 100 cm³ of sugar solution. He adds 100 cm³ of water. Which statement is correct?",
+       "c": [
+        "The number of sugar particles stays the same, so the solution becomes less concentrated.",
+        "The number of sugar particles goes down, so the solution becomes less concentrated.",
+        "The number of sugar particles stays the same, so the concentration stays the same.",
+        "The solution becomes more concentrated because there is more liquid."
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Concentration",
+       "e": "Adding water (solvent) does not remove any sugar particles. The **same number** of solute particles is now spread through a **bigger volume** (200 cm³), so there are fewer particles in each cm³ — the solution is **more dilute** (less concentrated)."
+      },
+      {
+       "t": "text",
+       "p": "Question 6\nSolution P: 12 g of salt dissolved to make 50 cm³ of solution.\nSolution Q: 20 g of salt dissolved to make 100 cm³ of solution.",
+       "q": "Which solution is more concentrated? Write P or Q.",
+       "ans": [
+        "P",
+        "solution P"
+       ],
+       "m": 1,
+       "s": "Concentration",
+       "e": "Compare the same volume. P: 12 g in 50 cm³ = 24 g in 100 cm³. Q: 20 g in 100 cm³. 24 g > 20 g, so **P** is more concentrated. Common mistake: choosing Q because 20 g is more than 12 g — but Q also has twice the volume."
+      },
+      {
+       "q": "Why is the start line on chromatography paper drawn in **pencil**, not in ink?",
+       "c": [
+        "Pencil is easier to see.",
+        "Pencil does not get wet.",
+        "Pencil (graphite) does not dissolve in the solvent, so it does not move up the paper.",
+        "Ink would stop the solvent moving up the paper."
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Chromatography",
+       "e": "Graphite is insoluble in the solvent, so the pencil line stays where it is. Ink is a mixture of dyes that would dissolve and separate, adding extra spots that would spoil the results."
+      },
+      {
+       "t": "num",
+       "p": "Question 8\nA forensic scientist uses chromatography to test an ink X from a letter. She compares it with four inks, P, Q, R and S, using the same paper and the same solvent. The diagram shows her results.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 310\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"13\"><rect x=\"30\" y=\"30\" width=\"360\" height=\"270\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"30\" y1=\"250\" x2=\"390\" y2=\"250\" stroke=\"#0f1b33\" stroke-width=\"1.3\"/><line x1=\"30\" y1=\"60\" x2=\"390\" y2=\"60\" stroke=\"#0f1b33\" stroke-width=\"1.3\" stroke-dasharray=\"6 4\"/><text x=\"396\" y=\"64\">solvent</text><text x=\"396\" y=\"80\">front</text><text x=\"396\" y=\"254\">start</text><text x=\"396\" y=\"270\">line</text><ellipse cx=\"66\" cy=\"136\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><text x=\"66\" y=\"280\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\">P</text><ellipse cx=\"138\" cy=\"193\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><ellipse cx=\"138\" cy=\"107.5\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><text x=\"138\" y=\"280\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\">Q</text><ellipse cx=\"210\" cy=\"164.5\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><text x=\"210\" y=\"280\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\">R</text><ellipse cx=\"282\" cy=\"250\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><ellipse cx=\"282\" cy=\"193\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><text x=\"282\" y=\"280\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\">S</text><ellipse cx=\"354\" cy=\"193\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><ellipse cx=\"354\" cy=\"136\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><ellipse cx=\"354\" cy=\"107.5\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><text x=\"354\" y=\"280\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\">X</text></svg>",
+       "q": "(a) How many different substances are there in ink X?",
+       "ans": [
+        3
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Chromatography",
+       "e": "X makes **3** separate spots, so it contains at least 3 different substances (each spot is one substance)."
+      },
+      {
+       "t": "text",
+       "p": "Question 8\nA forensic scientist uses chromatography to test an ink X from a letter. She compares it with four inks, P, Q, R and S, using the same paper and the same solvent. The diagram shows her results.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 310\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"13\"><rect x=\"30\" y=\"30\" width=\"360\" height=\"270\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"30\" y1=\"250\" x2=\"390\" y2=\"250\" stroke=\"#0f1b33\" stroke-width=\"1.3\"/><line x1=\"30\" y1=\"60\" x2=\"390\" y2=\"60\" stroke=\"#0f1b33\" stroke-width=\"1.3\" stroke-dasharray=\"6 4\"/><text x=\"396\" y=\"64\">solvent</text><text x=\"396\" y=\"80\">front</text><text x=\"396\" y=\"254\">start</text><text x=\"396\" y=\"270\">line</text><ellipse cx=\"66\" cy=\"136\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><text x=\"66\" y=\"280\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\">P</text><ellipse cx=\"138\" cy=\"193\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><ellipse cx=\"138\" cy=\"107.5\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><text x=\"138\" y=\"280\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\">Q</text><ellipse cx=\"210\" cy=\"164.5\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><text x=\"210\" y=\"280\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\">R</text><ellipse cx=\"282\" cy=\"250\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><ellipse cx=\"282\" cy=\"193\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><text x=\"282\" y=\"280\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\">S</text><ellipse cx=\"354\" cy=\"193\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><ellipse cx=\"354\" cy=\"136\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><ellipse cx=\"354\" cy=\"107.5\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><text x=\"354\" y=\"280\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\">X</text></svg>",
+       "q": "(b) Which **two** inks were mixed to make ink X? Write two letters.",
+       "ans": [
+        "P and Q",
+        "Q and P",
+        "P,Q",
+        "Q,P",
+        "PQ",
+        "QP",
+        "P Q",
+        "P & Q",
+        "P and Q.",
+        "PandQ"
+       ],
+       "m": 2,
+       "s": "Chromatography",
+       "e": "X has spots at the same heights as P's spot and **both** of Q's spots, so X contains **P and Q**. It cannot contain S: S leaves a spot on the start line, and X has no spot there. R's spot is at a height where X has no spot."
+      },
+      {
+       "t": "text",
+       "p": "Question 8\nA forensic scientist uses chromatography to test an ink X from a letter. She compares it with four inks, P, Q, R and S, using the same paper and the same solvent. The diagram shows her results.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 310\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"13\"><rect x=\"30\" y=\"30\" width=\"360\" height=\"270\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"30\" y1=\"250\" x2=\"390\" y2=\"250\" stroke=\"#0f1b33\" stroke-width=\"1.3\"/><line x1=\"30\" y1=\"60\" x2=\"390\" y2=\"60\" stroke=\"#0f1b33\" stroke-width=\"1.3\" stroke-dasharray=\"6 4\"/><text x=\"396\" y=\"64\">solvent</text><text x=\"396\" y=\"80\">front</text><text x=\"396\" y=\"254\">start</text><text x=\"396\" y=\"270\">line</text><ellipse cx=\"66\" cy=\"136\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><text x=\"66\" y=\"280\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\">P</text><ellipse cx=\"138\" cy=\"193\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><ellipse cx=\"138\" cy=\"107.5\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><text x=\"138\" y=\"280\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\">Q</text><ellipse cx=\"210\" cy=\"164.5\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><text x=\"210\" y=\"280\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\">R</text><ellipse cx=\"282\" cy=\"250\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><ellipse cx=\"282\" cy=\"193\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><text x=\"282\" y=\"280\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\">S</text><ellipse cx=\"354\" cy=\"193\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><ellipse cx=\"354\" cy=\"136\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><ellipse cx=\"354\" cy=\"107.5\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><text x=\"354\" y=\"280\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\">X</text></svg>",
+       "q": "(c) Which ink contains a substance that is **insoluble** in this solvent? Write one letter.",
+       "ans": [
+        "S",
+        "ink S"
+       ],
+       "m": 1,
+       "s": "Chromatography",
+       "e": "An insoluble substance does not dissolve, so the solvent cannot carry it up the paper — it stays **on the start line**. Only **S** has a spot on the start line."
+      },
+      {
+       "t": "text",
+       "p": "Question 8\nA forensic scientist uses chromatography to test an ink X from a letter. She compares it with four inks, P, Q, R and S, using the same paper and the same solvent. The diagram shows her results.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 310\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"13\"><rect x=\"30\" y=\"30\" width=\"360\" height=\"270\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"30\" y1=\"250\" x2=\"390\" y2=\"250\" stroke=\"#0f1b33\" stroke-width=\"1.3\"/><line x1=\"30\" y1=\"60\" x2=\"390\" y2=\"60\" stroke=\"#0f1b33\" stroke-width=\"1.3\" stroke-dasharray=\"6 4\"/><text x=\"396\" y=\"64\">solvent</text><text x=\"396\" y=\"80\">front</text><text x=\"396\" y=\"254\">start</text><text x=\"396\" y=\"270\">line</text><ellipse cx=\"66\" cy=\"136\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><text x=\"66\" y=\"280\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\">P</text><ellipse cx=\"138\" cy=\"193\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><ellipse cx=\"138\" cy=\"107.5\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><text x=\"138\" y=\"280\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\">Q</text><ellipse cx=\"210\" cy=\"164.5\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><text x=\"210\" y=\"280\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\">R</text><ellipse cx=\"282\" cy=\"250\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><ellipse cx=\"282\" cy=\"193\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><text x=\"282\" y=\"280\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\">S</text><ellipse cx=\"354\" cy=\"193\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><ellipse cx=\"354\" cy=\"136\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><ellipse cx=\"354\" cy=\"107.5\" rx=\"9\" ry=\"7\" fill=\"#0f1b33\"/><text x=\"354\" y=\"280\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\">X</text></svg>",
+       "q": "(d) Which **two** inks could each be a single, pure substance? Write two letters.",
+       "ans": [
+        "P and R",
+        "R and P",
+        "P,R",
+        "R,P",
+        "PR",
+        "RP",
+        "P R",
+        "P & R",
+        "PandR"
+       ],
+       "m": 1,
+       "s": "Chromatography",
+       "e": "A pure substance gives **one** spot. P and R each give only one spot. Q and X give more than one spot, and S has two (one on the start line), so they are mixtures."
+      },
+      {
+       "t": "open",
+       "q": "Explain why the level of the solvent must be **below** the start line at the beginning of a chromatography experiment. [2]",
+       "m": 2,
+       "s": "Chromatography",
+       "ms": "1 mark: otherwise the spots/samples would dissolve into the solvent in the beaker (wash off the paper). 1 mark: so they would not move up the paper / would not separate / the results would be lost. Do not accept 'so the paper does not get wet'.",
+       "e": "If the solvent were above the start line, the samples would **dissolve straight into the solvent in the beaker** instead of being carried up the paper, so they would **not separate** and there would be no chromatogram to read."
+      },
+      {
+       "t": "open",
+       "q": "Draw two particle diagrams, each in a box with 10 particles: (a) a pure substance; (b) a sample that is 80% pure. Use a key. [2]",
+       "m": 2,
+       "s": "Purity",
+       "ms": "1 mark: (a) all 10 particles drawn the same. 1 mark: (b) 8 particles of one type and 2 particles of a different type (8 out of 10 = 80%), with a key showing the two types. Accept particles touching or not touching (solid, liquid or gas arrangement is not marked).",
+       "e": "(a) Ten identical circles — one substance only. (b) 80% of 10 = 8, so draw **8** particles of the wanted substance and **2** of a different-looking particle (the impurity). Add a key, e.g. ○ = substance, ● = impurity."
+      },
+      {
+       "t": "open",
+       "q": "Mona has two copper sulfate solutions. Solution 1 is pale blue and solution 2 is dark blue. Both have the same volume. Use ideas about particles to explain the difference. [2]",
+       "m": 2,
+       "s": "Concentration",
+       "ms": "1 mark: solution 2 is more concentrated. 1 mark: it has more (copper sulfate) solute particles in the same volume (of water/solvent). Accept reverse argument for solution 1 (fewer particles in the same volume, more dilute).",
+       "e": "Solution 2 is **more concentrated**: it has **more copper sulfate particles in the same volume** of solvent. More coloured particles in each cm³ make the colour darker."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "A pure substance contains only one chemical. Purity = how much of the wanted chemical is in a sample.",
+    "Percentage purity = mass of wanted chemical ÷ total mass × 100.",
+    "Concentration = how many solute particles are in a volume of solvent. Adding solvent dilutes; the number of solute particles stays the same.",
+    "Chromatography: pencil start line, small spots, solvent below the line, lid on. More soluble substances travel further.",
+    "One spot = one substance; same height = same substance; a spot on the start line = insoluble in that solvent."
+   ]
+  }
+ ]
+}

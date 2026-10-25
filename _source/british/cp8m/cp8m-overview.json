@@ -1,0 +1,694 @@
+{
+ "slug": "cp8m-overview",
+ "title": "Stage 8 Maths: The Tests and How to Prepare",
+ "kicker": "Cambridge Lower Secondary · Mathematics 0862 · Stage 8 · Start here",
+ "summary": "How Stage 8 maths is tested, how the two papers and the mark scheme work, what Thinking and Working Mathematically means, and how to use this course.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "This course covers the whole Cambridge Lower Secondary Mathematics Stage 8 curriculum (curriculum framework 0862).",
+    "Number: integers, powers and roots; place value and rounding; fractions, decimals, percentages, ratio and proportion.",
+    "Algebra: expressions, equations and formulae; sequences, functions and graphs.",
+    "Geometry and measure: shapes and measurements; position and transformation.",
+    "Statistics and probability: collecting, showing and comparing data; probability.",
+    "Thinking and Working Mathematically (TWM.01–TWM.08) runs through every strand."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Written by Mohamed Abdelkriem for students in British and international schools and their parents. Read this page first: it explains the tests you will sit, how they are marked, and how to use the rest of the course."
+  },
+  {
+   "type": "h2",
+   "text": "Which test, and when?"
+  },
+  {
+   "type": "p",
+   "text": "The **Cambridge Lower Secondary Checkpoint** test in mathematics is taken at the **end of Stage 9**, not Stage 8. Since 2023 the Checkpoint test assesses the final stage only (Stage 9). It is set and marked by Cambridge, and the subject code is **0862**. Stage 9 work builds directly on what you learn in Stage 8, so a strong Stage 8 year is the foundation for a good Checkpoint result."
+  },
+  {
+   "type": "p",
+   "text": "In Stage 8 your **school** tests you, usually at the end of the year. Cambridge provides **Lower Secondary Progression Tests** for Stage 8 that schools can use: they are classroom tests, **marked by your teachers in school**, and they can be used at any time in the year. Your school may use them or write its own tests in the same style. **This course prepares you for Stage 8 end-of-year tests in the Progression Test and Checkpoint style, and builds the base for Checkpoint in Stage 9.**"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 200\" width=\"560\" font-family=\"Arial, sans-serif\" font-size=\"15\"><rect x=\"20\" y=\"50\" width=\"160\" height=\"56\" rx=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"100\" y=\"84\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">Stage 7</text><rect x=\"195\" y=\"50\" width=\"160\" height=\"56\" rx=\"10\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"3\"/><text x=\"275\" y=\"84\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">Stage 8</text><rect x=\"370\" y=\"50\" width=\"160\" height=\"56\" rx=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"450\" y=\"84\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">Stage 9</text><text x=\"275\" y=\"36\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#b3261e\">YOU ARE HERE</text><line x1=\"182\" y1=\"78\" x2=\"193\" y2=\"78\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"357\" y1=\"78\" x2=\"368\" y2=\"78\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M520 106 L520 128\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"360\" y=\"128\" width=\"190\" height=\"62\" rx=\"10\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"455\" y=\"153\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">Cambridge Checkpoint</text><text x=\"455\" y=\"175\" text-anchor=\"middle\" fill=\"#0f1b33\">end of Stage 9</text><text x=\"20\" y=\"135\" text-anchor=\"start\" font-size=\"14\" fill=\"#0f1b33\">In Stages 7 and 8 your school tests you</text><text x=\"20\" y=\"155\" text-anchor=\"start\" font-size=\"14\" fill=\"#0f1b33\">(for example Cambridge</text><text x=\"20\" y=\"175\" text-anchor=\"start\" font-size=\"14\" fill=\"#0f1b33\">Progression Tests, marked in school).</text></svg>",
+   "caption": "Stage 8 is the middle year of Cambridge Lower Secondary. Checkpoint comes at the end of Stage 9."
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "Checkpoint",
+     "اختبار كامبريدج في نهاية Stage 9 — set and marked by Cambridge"
+    ],
+    [
+     "Progression Test",
+     "اختبار تقدّم — a Cambridge classroom test for Stages 7, 8 and 9, marked by teachers in school"
+    ],
+    [
+     "paper",
+     "ورقة امتحان — one exam booklet (there are two)"
+    ],
+    [
+     "strand",
+     "فرع من المنهج — Number, Algebra, Geometry and measure, Statistics and probability"
+    ],
+    [
+     "mark scheme",
+     "نموذج الإجابة وتوزيع الدرجات — the examiners' list of answers and marks"
+    ],
+    [
+     "working",
+     "خطوات الحل — the calculations you write to reach your answer"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "The two papers"
+  },
+  {
+   "type": "p",
+   "text": "The Stage 8 Progression Tests and the Stage 9 Checkpoint test have the same shape: **two papers, each 1 hour long and worth 50 marks**. Paper 1 is **non-calculator**; on Paper 2 you **may use a calculator**."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 170\" width=\"560\" font-family=\"Arial, sans-serif\" font-size=\"15\"><rect x=\"20\" y=\"15\" width=\"250\" height=\"140\" rx=\"10\" fill=\"#f6d5d2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"145\" y=\"48\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"bold\" fill=\"#0f1b33\">Paper 1</text><text x=\"145\" y=\"80\" text-anchor=\"middle\" font-size=\"16\" fill=\"#0f1b33\">1 hour</text><text x=\"145\" y=\"105\" text-anchor=\"middle\" font-size=\"16\" fill=\"#0f1b33\">50 marks</text><text x=\"145\" y=\"135\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\" fill=\"#0f1b33\">NO calculator</text><rect x=\"290\" y=\"15\" width=\"250\" height=\"140\" rx=\"10\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"415\" y=\"48\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"bold\" fill=\"#0f1b33\">Paper 2</text><text x=\"415\" y=\"80\" text-anchor=\"middle\" font-size=\"16\" fill=\"#0f1b33\">1 hour</text><text x=\"415\" y=\"105\" text-anchor=\"middle\" font-size=\"16\" fill=\"#0f1b33\">50 marks</text><text x=\"415\" y=\"135\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\" fill=\"#0f1b33\">Calculator allowed</text></svg>",
+   "caption": "Two 1-hour papers, 50 marks each, 100 marks in total."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "",
+    "Paper 1",
+    "Paper 2"
+   ],
+   "rows": [
+    [
+     "Time",
+     "1 hour",
+     "1 hour"
+    ],
+    [
+     "Marks",
+     "50",
+     "50"
+    ],
+    [
+     "Calculator",
+     "Not allowed",
+     "Allowed"
+    ],
+    [
+     "Other equipment",
+     "Geometrical instruments (ruler, protractor, compasses); tracing paper is optional",
+     "Calculator, geometrical instruments; tracing paper is optional"
+    ],
+    [
+     "Where you answer",
+     "On the question paper, in the spaces given",
+     "On the question paper, in the spaces given"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "50 marks in 60 minutes is about **72 seconds per mark** (3600 ÷ 50 = 72). A [1] question should take about a minute; a [3] question about three or four minutes. If you are stuck, move on and come back."
+  },
+  {
+   "type": "h2",
+   "text": "What the cover tells you"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**Answer all questions.** There is no choice, so never leave a space empty — a sensible attempt can earn part marks.",
+    "**Write your answer in the space provided.** Answers go on the answer line, often with the unit already printed after it (cm, kg, E£…).",
+    "**Show all your working.** Working can earn marks even when the final answer is wrong.",
+    "**Marks are shown in brackets [ ].** [2] usually means two steps or two things to write.",
+    "**Pen and pencil.** Checkpoint papers ask for a black or dark blue pen, with an HB pencil allowed for diagrams and graphs, and no erasable pen or correction fluid. Follow the instructions on your own school's paper."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Question styles you will meet"
+  },
+  {
+   "type": "p",
+   "text": "Recent papers have had **no multiple-choice section**. All questions are short-answer or structured questions written on the paper, often with parts (a), (b), (c) about one context. The styles below appear again and again — every lesson page in this course practises them."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Style",
+    "What it looks like",
+    "Tip"
+   ],
+   "rows": [
+    [
+     "Work out / calculate",
+     "\"Work out 3 2/5 − 1 3/4.\" [2]",
+     "Show each step. Simplify the answer if the question asks."
+    ],
+    [
+     "Draw a ring around",
+     "\"Draw a ring around the best estimate.\"",
+     "Ring exactly one answer unless told otherwise."
+    ],
+    [
+     "Tick Correct / Not correct",
+     "\"Is Ali correct? Tick a box and explain.\"",
+     "The tick alone rarely scores — the explanation or example earns the mark."
+    ],
+    [
+     "Complete the table / statement",
+     "a table of values, a two-way table, a missing number",
+     "Check that each row follows the rule."
+    ],
+    [
+     "Draw on a grid",
+     "plot a graph, enlarge a shape, draw a frequency diagram",
+     "Use a sharp pencil and a ruler; plot points exactly."
+    ],
+    [
+     "Diagrams NOT TO SCALE",
+     "angles and lengths you must calculate",
+     "Never measure a diagram that says NOT TO SCALE — calculate."
+    ],
+    [
+     "Algebra",
+     "expand, factorise, solve, make x the subject",
+     "Write one step per line."
+    ],
+    [
+     "Explain / show that",
+     "\"Show that the area is 48 cm^{2}.\"",
+     "Write every step that leads to the given answer."
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Understanding the mark scheme"
+  },
+  {
+   "type": "p",
+   "text": "Teachers (for Progression Tests) and Cambridge examiners (for Checkpoint) mark with a **mark scheme** that has five columns: **Question, Answer, Marks, Part marks, Guidance**. These short words appear in the Guidance column. Knowing them shows you how to collect every mark."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Word",
+    "Meaning",
+    "What it means for you"
+   ],
+   "rows": [
+    [
+     "oe",
+     "or equivalent",
+     "Any correct equivalent answer scores, e.g. 3/5, 6/10 or 0.6 — unless the question says \"simplest form\" or \"as a decimal\"."
+    ],
+    [
+     "cao",
+     "correct answer only",
+     "Only the exact answer scores. Check your final form and sign carefully."
+    ],
+    [
+     "FT",
+     "follow through",
+     "If part (a) is wrong but you use your wrong answer correctly in part (b), you can still get the mark for (b). Always attempt the next part!"
+    ],
+    [
+     "isw",
+     "ignore subsequent working",
+     "Once a correct answer is seen, extra harmless working after it is ignored."
+    ],
+    [
+     "soi",
+     "seen or implied",
+     "A step can earn a mark if it is written down or clearly used."
+    ],
+    [
+     "nfww",
+     "not from wrong working",
+     "A correct answer reached by a wrong method does not score."
+    ],
+    [
+     "SC",
+     "special case",
+     "A mark given for a particular common partial answer."
+    ],
+    [
+     "[ ] in the answer",
+     "extra information that is not required but may be given",
+     "You do not need to write it, but writing it is not penalised."
+    ],
+    [
+     "Part marks",
+     "marks for a correct step, e.g. \"1 mark for 24 seen\"",
+     "This is why you show your working: a correct step still scores."
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples: how marks are given"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — part marks for working. Question: Work out 15% of 240. [2]"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "What the student wrote",
+    "Mark",
+    "Why"
+   ],
+   "rows": [
+    [
+     "10% = 24, 5% = 12, 24 + 12 = 36",
+     "2",
+     "Correct method and answer."
+    ],
+    [
+     "10% = 24, 5% = 12, 24 + 12 = 38",
+     "1",
+     "Correct method seen (part mark), but an addition slip."
+    ],
+    [
+     "38 (no working)",
+     "0",
+     "Wrong answer and no working to give a part mark."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — follow through. Question: (a) A pen costs E£12. Work out the cost of 7 pens. [1] (b) Omar pays for the 7 pens with a E£100 note. Work out his change. [1]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Correct: (a) 7 × 12 = **84**, (b) 100 − 84 = **16**. Two marks.",
+    "Suppose a student writes (a) 74 (wrong). In (b) they write 100 − 74 = 26. Part (b) still earns **1 mark (FT)** because the method used their own answer correctly.",
+    "Lesson: never skip part (b) because you are unsure of part (a)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — or equivalent. Question: Write 0.6 as a fraction. [1] Answers 6/10 and 3/5 both score (oe). But if the question said **\"in its simplest form\"**, only 3/5 would score."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Exam technique for both papers",
+   "items": [
+    "Read the whole question, then underline the instruction words: simplest form, nearest whole number, to 2 significant figures, show your working.",
+    "Write the unit if the answer line does not print it.",
+    "On Paper 1, set out written methods neatly — long multiplication, division and fraction work all carry part marks.",
+    "On Paper 2, write down what you type into the calculator, and estimate first so you notice typing slips.",
+    "Check that the answer makes sense: a probability is between 0 and 1; an angle in a triangle is less than 180°; a discount makes the price smaller.",
+    "Use any time left to re-check the questions you were least sure of."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "How results are reported"
+  },
+  {
+   "type": "p",
+   "text": "**Progression Tests** are marked by teachers in school. Cambridge gives guidance on what percentage of the marks matches each performance band. For the 2023/2024 Lower Secondary mathematics Progression Tests the minimum indicative percentages were:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Band",
+    "Minimum indicative percentage"
+   ],
+   "rows": [
+    [
+     "Basic",
+     "5%"
+    ],
+    [
+     "Aspiring",
+     "15%"
+    ],
+    [
+     "Good",
+     "25%"
+    ],
+    [
+     "High",
+     "45%"
+    ],
+    [
+     "Outstanding",
+     "70%"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Checkpoint (end of Stage 9)** is marked by Cambridge. Raw marks are converted to a **Checkpoint score from 0 to 50**, reported for the subject and for each strand. The same bands are used:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Checkpoint score",
+    "Band"
+   ],
+   "rows": [
+    [
+     "0",
+     "Unclassified"
+    ],
+    [
+     "1–10",
+     "Basic"
+    ],
+    [
+     "11–20",
+     "Aspiring"
+    ],
+    [
+     "21–30",
+     "Good"
+    ],
+    [
+     "31–40",
+     "High"
+    ],
+    [
+     "41–50",
+     "Outstanding"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Cambridge says that \"Good\" is about an IGCSE grade C/4 on average and \"Outstanding\" is about A/7. From 2026 Checkpoint is offered in three series — **March, May and October** — on dates fixed by Cambridge. A missed Checkpoint test cannot be taken on another day."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "For parents",
+   "text": "Ask the school which tests your child will sit in Stage 8 and when. Results by strand (Number, Algebra, Geometry and measure, Statistics and probability) show exactly which section of this course to revise. A child who can do the practice quiz on every page without help is well prepared for Stage 8 tests and well placed for Checkpoint in Stage 9."
+  },
+  {
+   "type": "h2",
+   "text": "Thinking and Working Mathematically (TWM)"
+  },
+  {
+   "type": "p",
+   "text": "TWM is not a separate topic. It describes **how** a mathematician thinks, and the curriculum builds it into every strand, so it appears inside ordinary questions. There are eight characteristics, in four pairs:"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 205\" width=\"560\" font-family=\"Arial, sans-serif\" font-size=\"15\"><rect x=\"15\" y=\"15\" width=\"255\" height=\"80\" rx=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"142\" y=\"47\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"bold\" fill=\"#0f1b33\">Specialising</text><text x=\"142\" y=\"65\" text-anchor=\"middle\" fill=\"#0f1b33\">↕</text><text x=\"142\" y=\"84\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"bold\" fill=\"#0f1b33\">Generalising</text><rect x=\"290\" y=\"15\" width=\"255\" height=\"80\" rx=\"10\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"417\" y=\"47\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"bold\" fill=\"#0f1b33\">Conjecturing</text><text x=\"417\" y=\"65\" text-anchor=\"middle\" fill=\"#0f1b33\">↕</text><text x=\"417\" y=\"84\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"bold\" fill=\"#0f1b33\">Convincing</text><rect x=\"15\" y=\"110\" width=\"255\" height=\"80\" rx=\"10\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"142\" y=\"142\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"bold\" fill=\"#0f1b33\">Characterising</text><text x=\"142\" y=\"160\" text-anchor=\"middle\" fill=\"#0f1b33\">↕</text><text x=\"142\" y=\"179\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"bold\" fill=\"#0f1b33\">Classifying</text><rect x=\"290\" y=\"110\" width=\"255\" height=\"80\" rx=\"10\" fill=\"#f3e8fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"417\" y=\"142\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"bold\" fill=\"#0f1b33\">Critiquing</text><text x=\"417\" y=\"160\" text-anchor=\"middle\" fill=\"#0f1b33\">↕</text><text x=\"417\" y=\"179\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"bold\" fill=\"#0f1b33\">Improving</text></svg>",
+   "caption": "The eight TWM characteristics work in pairs."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Characteristic",
+    "What it means",
+    "Stage 8 example"
+   ],
+   "rows": [
+    [
+     "Specialising (TWM.01)",
+     "Choosing an example and checking whether it fits a rule",
+     "Testing \"n^{2} + n + 1 is always prime\" with n = 4: 21 = 3 × 7, so it fails."
+    ],
+    [
+     "Generalising (TWM.02)",
+     "Spotting a pattern that many examples share and stating the rule",
+     "Seeing that every product of two negative numbers is positive."
+    ],
+    [
+     "Conjecturing (TWM.03)",
+     "Making a mathematical guess or asking a question",
+     "\"I think the exterior angle of a triangle equals the two opposite interior angles added.\""
+    ],
+    [
+     "Convincing (TWM.04)",
+     "Giving evidence to justify or challenge an idea",
+     "\"Ali is wrong: the LCM of 4 and 6 is 12, not 4 × 6 = 24.\""
+    ],
+    [
+     "Characterising (TWM.05)",
+     "Describing the mathematical properties of an object",
+     "\"A rhombus has four equal sides and its diagonals cross at right angles.\""
+    ],
+    [
+     "Classifying (TWM.06)",
+     "Sorting objects into groups by their properties",
+     "Sorting numbers into natural numbers, integers and rational numbers."
+    ],
+    [
+     "Critiquing (TWM.07)",
+     "Comparing methods or representations and judging their strengths and weaknesses",
+     "Deciding whether a pie chart or a bar chart shows the data better."
+    ],
+    [
+     "Improving (TWM.08)",
+     "Refining a method to make it better or more efficient",
+     "Replacing listing multiples with a Venn diagram of prime factors to find an LCM."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "In tests, TWM appears as words like **\"Explain\", \"Show that\", \"Is she correct?\", \"Give an example\", \"Which method is better and why?\"**. One clear counter-example is enough to show that a statement is false; to show that something is always true you need a reason, not just examples."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "إزاي تذاكر الكورس ده",
+   "items": [
+    "الامتحان في Stage 8 بيكون من المدرسة: ورقتين، كل ورقة ساعة و٥٠ درجة. الورقة الأولى من غير آلة حاسبة، والتانية بالآلة الحاسبة.",
+    "امتحان Checkpoint الرسمي بيكون في آخر Stage 9 — وStage 8 هي الأساس بتاعه.",
+    "اكتب خطوات الحل دايمًا: حتى لو الإجابة النهائية غلط ممكن تاخد درجة على الخطوات.",
+    "لو حليت جزء (a) غلط، كمّل جزء (b) — ممكن تاخد درجته (follow through)."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "How to use this course"
+  },
+  {
+   "type": "p",
+   "text": "The course follows the Stage 8 curriculum strand by strand. Every lesson page has the objectives with their codes, key words with Arabic meanings, diagrams, worked examples in test style, common mistakes, exam tips and an interactive practice quiz with full solutions. At the end there are three full practice tests in the two-paper format."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Section",
+    "Pages"
+   ],
+   "rows": [
+    [
+     "Start here",
+     "This page"
+    ],
+    [
+     "Number (9 pages)",
+     "Order of operations and integers; factors, primes, HCF and LCM; types of number and index laws; squares, cubes and roots; multiplying and dividing by 0.1 and 0.01 and significant figures; fractions; percentages; decimals; ratio and proportion"
+    ],
+    [
+     "Algebra (6 pages)",
+     "Expressions; formulae; equations and inequalities; sequences; functions and straight-line graphs; real-life graphs"
+    ],
+    [
+     "Geometry and measure (9 pages)",
+     "Quadrilaterals and polygons; circumference and miles/kilometres; area; 3D shapes; volume and surface area; angles; constructions; bearings and midpoints; transformations"
+    ],
+    [
+     "Statistics and probability (4 pages)",
+     "Data collection and sampling; representing data; averages and comparing distributions; probability"
+    ],
+    [
+     "Practice tests (3)",
+     "Full Paper 1 + Paper 2 style tests with solutions"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**For each lesson page:**"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Read the \"In the curriculum\" box so you know the goal.",
+    "Copy the key words and rules into your notebook.",
+    "Cover each worked example, try it yourself, then compare your working line by line.",
+    "Do the practice quiz without help (no calculator unless the quiz says so), then read every solution — even for the ones you got right.",
+    "Write down your mistakes and redo those questions a week later."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**A suggested year plan:** work through about one lesson page a week in the order of the course (Number in the first term, Algebra and the first Geometry pages in the second, the rest of Geometry and Statistics and probability in the third). In the last three or four weeks before your end-of-year tests, do the three practice tests under timed conditions — 1 hour per paper — and revise the pages where you lost the most marks."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes in maths tests",
+   "items": [
+    "Writing only the final answer on a [2] or [3] question — no working means no part marks.",
+    "Measuring a diagram marked NOT TO SCALE instead of calculating.",
+    "Ignoring the instruction: \"simplest form\", \"to 1 decimal place\", \"in index form\".",
+    "Leaving out units or writing the wrong unit (cm instead of cm^{2}).",
+    "Answering \"Yes\" or \"No\" to an \"Is he correct?\" question with no reason or example.",
+    "Skipping part (b) because part (a) went wrong — follow-through marks are lost."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks questions",
+   "items": [
+    "Questions often start with a context (a shop, a journey, a survey) and then ask parts (a), (b), (c). Information in the stem is needed in later parts.",
+    "The number of marks tells you how much to write: [1] = one answer; [2] = a method step and an answer, or two facts.",
+    "\"Show your working\" means the answer alone may not get full marks.",
+    "Paper 1 tests mental and written methods, so practise them without a calculator; on Paper 2 a calculator is allowed, but you still need to show the method you used."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Stage 8 maths tests: quick quiz",
+   "timed": false,
+   "intro": "Eight quick questions about the tests, the mark scheme and Thinking and Working Mathematically.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 10,
+     "calc": false,
+     "questions": [
+      {
+       "q": "How long is each paper in the Stage 8 Progression Tests and in Checkpoint mathematics?",
+       "c": [
+        "45 minutes",
+        "1 hour",
+        "1 hour 30 minutes",
+        "2 hours"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "The test",
+       "e": "Both papers are 1 hour long."
+      },
+      {
+       "q": "On which paper are you NOT allowed to use a calculator?",
+       "c": [
+        "Paper 1",
+        "Paper 2",
+        "Both papers",
+        "Neither paper"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "The test",
+       "e": "Paper 1 is non-calculator. A calculator may be used on Paper 2."
+      },
+      {
+       "t": "num",
+       "q": "How many marks is each paper worth?",
+       "ans": [
+        50
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "The test",
+       "e": "Each paper is worth 50 marks, so there are 100 marks in total."
+      },
+      {
+       "q": "The Cambridge Lower Secondary Checkpoint mathematics test assesses which stage?",
+       "c": [
+        "Stage 7",
+        "Stage 8",
+        "Stage 9",
+        "Stages 7, 8 and 9 equally"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "The test",
+       "e": "Since 2023 Checkpoint assesses the final stage only, Stage 9. Stage 8 is tested by your school, for example with Progression Tests."
+      },
+      {
+       "q": "In a mark scheme, what does \"FT\" mean?",
+       "c": [
+        "Final total",
+        "Full test",
+        "First try",
+        "Follow through"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Mark scheme",
+       "e": "FT means follow through: if you use your own wrong answer from an earlier part correctly, you can still earn the later mark."
+      },
+      {
+       "q": "Which TWM characteristic means \"choosing an example and checking whether it fits a rule\"?",
+       "c": [
+        "Generalising",
+        "Classifying",
+        "Specialising",
+        "Improving"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "TWM",
+       "e": "Specialising is choosing a particular example and testing it against the rule. Its partner, generalising, is finding the rule that many examples share."
+      },
+      {
+       "t": "num",
+       "q": "Sara says, \"All prime numbers are odd.\" Write the number that shows Sara is wrong.",
+       "ans": [
+        2
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "TWM",
+       "e": "2 is a prime number (its only factors are 1 and 2) and it is even. One counter-example is enough to show a statement is false — this is convincing."
+      },
+      {
+       "t": "open",
+       "q": "Explain why you should always show your working, even when you think your answer is correct.",
+       "m": 2,
+       "s": "Exam technique",
+       "ms": "1 mark: working can earn part marks if the final answer is wrong / a correct step can score. 1 mark: any one other valid reason, e.g. some questions say \"show your working\" and the answer alone may not get full marks; follow-through marks in later parts depend on seeing your method; it helps you check your answer.",
+       "e": "Mark schemes give part marks for correct steps (e.g. \"1 mark for 24 seen\"), so working can still score if you make a slip at the end. Some questions say \"show your working\", so an answer alone may not get full marks, and follow-through marks depend on the examiner seeing your method."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Stage 8: school tests, for example with Progression Tests. Checkpoint: end of Stage 9, set and marked by Cambridge.",
+    "Two papers, 1 hour and 50 marks each. Paper 1: no calculator. Paper 2: calculator allowed.",
+    "Answer every question on the paper and show your working — part marks and follow-through marks depend on it.",
+    "Know the mark-scheme words: oe, cao, FT, isw, soi, nfww, SC.",
+    "TWM is in every topic: specialise and generalise, conjecture and convince, characterise and classify, critique and improve."
+   ]
+  }
+ ]
+}

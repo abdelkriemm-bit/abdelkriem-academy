@@ -1,0 +1,613 @@
+{
+ "slug": "cp8m-place-value-significant-figures",
+ "title": "Multiplying and Dividing by 0.1 and 0.01, and Significant Figures",
+ "kicker": "Cambridge Lower Secondary · Mathematics 0862 · Stage 8 · Number",
+ "summary": "Use place value to multiply and divide by 0.1 and 0.01, round any number to a given number of significant figures, and estimate answers by rounding to 1 significant figure.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Use place value to multiply and divide whole numbers and decimals by 0.1 and 0.01, for example 46 × 0.01 = 0.46 and 3.2 ÷ 0.1 = 32 (8Np.01)",
+    "Round numbers to a given number of significant figures, for example 34 567 to 2 significant figures is 35 000 (8Np.02)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "You already know how to multiply and divide by 10, 100 and 1000 by moving digits across the place-value columns. In Stage 8 you use the same idea for **0.1** and **0.01**, and you learn a new way of rounding — to **significant figures** — which works for very big and very small numbers. Both skills are used all the time for estimating answers on the non-calculator paper and checking calculator answers."
+  },
+  {
+   "type": "h2",
+   "text": "Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "place value",
+     "القيمة المكانية — the value of a digit because of its column: in 3.52 the 5 means 5 tenths"
+    ],
+    [
+     "tenth (0.1)",
+     "جزء من عشرة — 1/10, one whole split into 10 equal parts"
+    ],
+    [
+     "hundredth (0.01)",
+     "جزء من مئة — 1/100"
+    ],
+    [
+     "decimal point",
+     "العلامة العشرية — separates the whole number part from the tenths, hundredths …"
+    ],
+    [
+     "significant figure (s.f.)",
+     "رقم معنوي — a digit that tells you the size of the number, counted from the first non-zero digit"
+    ],
+    [
+     "round",
+     "يقرّب — give a simpler number that is close to the exact value"
+    ],
+    [
+     "estimate",
+     "يقدّر — find a rough answer by rounding the numbers first (≈ means \"is approximately equal to\")"
+    ],
+    [
+     "decimal place (d.p.)",
+     "رقم عشري — a digit after the decimal point (not the same as a significant figure)"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. Multiplying by 0.1 and 0.01"
+  },
+  {
+   "type": "p",
+   "text": "0.1 is the same as 1/10. Finding 1/10 of a number means dividing it by 10. So:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**× 0.1 is the same as ÷ 10** (digits move 1 place to the right)",
+    "**× 0.01 is the same as ÷ 100** (0.01 = 1/100; digits move 2 places to the right)"
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 248\" width=\"540\" font-family=\"Arial, sans-serif\"><rect x=\"40\" y=\"20\" width=\"62\" height=\"34\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"71\" y=\"43\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">H</text><rect x=\"40\" y=\"74\" width=\"62\" height=\"40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"40\" y=\"164\" width=\"62\" height=\"40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"102\" y=\"20\" width=\"62\" height=\"34\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"133\" y=\"43\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">T</text><rect x=\"102\" y=\"74\" width=\"62\" height=\"40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"102\" y=\"164\" width=\"62\" height=\"40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"164\" y=\"20\" width=\"62\" height=\"34\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"195\" y=\"43\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">O</text><rect x=\"164\" y=\"74\" width=\"62\" height=\"40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"164\" y=\"164\" width=\"62\" height=\"40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"226\" y=\"20\" width=\"62\" height=\"34\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"257\" y=\"43\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">t</text><rect x=\"226\" y=\"74\" width=\"62\" height=\"40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"226\" y=\"164\" width=\"62\" height=\"40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"288\" y=\"20\" width=\"62\" height=\"34\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"319\" y=\"43\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">h</text><rect x=\"288\" y=\"74\" width=\"62\" height=\"40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"288\" y=\"164\" width=\"62\" height=\"40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"350\" y=\"20\" width=\"62\" height=\"34\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"381\" y=\"43\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">th</text><rect x=\"350\" y=\"74\" width=\"62\" height=\"40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"350\" y=\"164\" width=\"62\" height=\"40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"226\" y1=\"20\" x2=\"226\" y2=\"210\" stroke=\"#c0392b\" stroke-width=\"3\"/><text x=\"133\" y=\"101\" font-size=\"20\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">3</text><text x=\"195\" y=\"101\" font-size=\"20\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">5</text><text x=\"257\" y=\"101\" font-size=\"20\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">2</text><text x=\"195\" y=\"191\" font-size=\"20\" text-anchor=\"middle\" fill=\"#1f5fa8\" font-weight=\"bold\">3</text><text x=\"257\" y=\"191\" font-size=\"20\" text-anchor=\"middle\" fill=\"#1f5fa8\" font-weight=\"bold\">5</text><text x=\"319\" y=\"191\" font-size=\"20\" text-anchor=\"middle\" fill=\"#1f5fa8\" font-weight=\"bold\">2</text><line x1=\"133\" y1=\"118\" x2=\"190\" y2=\"156.6\" stroke=\"#1f5fa8\" stroke-width=\"1.6\"/><polygon points=\"195,160 187,159.4 191.5,152.8\" fill=\"#1f5fa8\"/><line x1=\"195\" y1=\"118\" x2=\"252\" y2=\"156.6\" stroke=\"#1f5fa8\" stroke-width=\"1.6\"/><polygon points=\"257,160 249,159.4 253.5,152.8\" fill=\"#1f5fa8\"/><line x1=\"257\" y1=\"118\" x2=\"314\" y2=\"156.6\" stroke=\"#1f5fa8\" stroke-width=\"1.6\"/><polygon points=\"319,160 311,159.4 315.5,152.8\" fill=\"#1f5fa8\"/><text x=\"426\" y=\"101\" font-size=\"16\" text-anchor=\"start\" fill=\"#0f1b33\" font-weight=\"bold\">35.2</text><text x=\"426\" y=\"145\" font-size=\"14\" text-anchor=\"start\" fill=\"#1f5fa8\">× 0.1  (÷ 10)</text><text x=\"426\" y=\"191\" font-size=\"16\" text-anchor=\"start\" fill=\"#1f5fa8\" font-weight=\"bold\">3.52</text><text x=\"270\" y=\"234\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\">Each digit moves one place to the right: the number is 10 times smaller.</text></svg>",
+   "caption": "35.2 × 0.1 = 3.52. The digits move; the decimal point stays still."
+  },
+  {
+   "type": "p",
+   "text": "Think about money: 0.1 of $35.20 is one tenth of it, $3.52 — less than you started with. **Multiplying a positive number by 0.1 or 0.01 makes it smaller.**"
+  },
+  {
+   "type": "h2",
+   "text": "2. Dividing by 0.1 and 0.01"
+  },
+  {
+   "type": "p",
+   "text": "Ask: \"How many tenths are there in 1?\" The answer is 10. So 1 ÷ 0.1 = 10, and 5 ÷ 0.1 = 50. In the same way there are 100 hundredths in 1, so 1 ÷ 0.01 = 100."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**÷ 0.1 is the same as × 10** (digits move 1 place to the left)",
+    "**÷ 0.01 is the same as × 100** (digits move 2 places to the left)"
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 248\" width=\"540\" font-family=\"Arial, sans-serif\"><rect x=\"40\" y=\"20\" width=\"62\" height=\"34\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"71\" y=\"43\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">H</text><rect x=\"40\" y=\"74\" width=\"62\" height=\"40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"40\" y=\"164\" width=\"62\" height=\"40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"102\" y=\"20\" width=\"62\" height=\"34\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"133\" y=\"43\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">T</text><rect x=\"102\" y=\"74\" width=\"62\" height=\"40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"102\" y=\"164\" width=\"62\" height=\"40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"164\" y=\"20\" width=\"62\" height=\"34\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"195\" y=\"43\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">O</text><rect x=\"164\" y=\"74\" width=\"62\" height=\"40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"164\" y=\"164\" width=\"62\" height=\"40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"226\" y=\"20\" width=\"62\" height=\"34\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"257\" y=\"43\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">t</text><rect x=\"226\" y=\"74\" width=\"62\" height=\"40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"226\" y=\"164\" width=\"62\" height=\"40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"288\" y=\"20\" width=\"62\" height=\"34\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"319\" y=\"43\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">h</text><rect x=\"288\" y=\"74\" width=\"62\" height=\"40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"288\" y=\"164\" width=\"62\" height=\"40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"350\" y=\"20\" width=\"62\" height=\"34\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"381\" y=\"43\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">th</text><rect x=\"350\" y=\"74\" width=\"62\" height=\"40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"350\" y=\"164\" width=\"62\" height=\"40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"226\" y1=\"20\" x2=\"226\" y2=\"210\" stroke=\"#c0392b\" stroke-width=\"3\"/><text x=\"257\" y=\"101\" font-size=\"20\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">4</text><text x=\"319\" y=\"101\" font-size=\"20\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">7</text><text x=\"133\" y=\"191\" font-size=\"20\" text-anchor=\"middle\" fill=\"#1f5fa8\" font-weight=\"bold\">4</text><text x=\"195\" y=\"191\" font-size=\"20\" text-anchor=\"middle\" fill=\"#1f5fa8\" font-weight=\"bold\">7</text><line x1=\"257\" y1=\"118\" x2=\"138.7\" y2=\"158.1\" stroke=\"#1f5fa8\" stroke-width=\"1.6\"/><polygon points=\"133,160 138.3,154 140.8,161.6\" fill=\"#1f5fa8\"/><line x1=\"319\" y1=\"118\" x2=\"200.7\" y2=\"158.1\" stroke=\"#1f5fa8\" stroke-width=\"1.6\"/><polygon points=\"195,160 200.3,154 202.8,161.6\" fill=\"#1f5fa8\"/><text x=\"426\" y=\"101\" font-size=\"16\" text-anchor=\"start\" fill=\"#0f1b33\" font-weight=\"bold\">0.47</text><text x=\"426\" y=\"145\" font-size=\"14\" text-anchor=\"start\" fill=\"#1f5fa8\">÷ 0.01  (× 100)</text><text x=\"426\" y=\"191\" font-size=\"16\" text-anchor=\"start\" fill=\"#1f5fa8\" font-weight=\"bold\">47</text><text x=\"270\" y=\"234\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\">Each digit moves two places to the left: the number is 100 times bigger.</text></svg>",
+   "caption": "0.47 ÷ 0.01 = 47. There are 47 hundredths in 0.47."
+  },
+  {
+   "type": "p",
+   "text": "**Dividing a positive number by 0.1 or 0.01 makes it bigger.** This surprises many students, so always do a sense check: \"Is my answer bigger or smaller than the number I started with?\""
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Calculation",
+    "Same as",
+    "Answer",
+    "Bigger or smaller?"
+   ],
+   "rows": [
+    [
+     "46 × 0.1",
+     "46 ÷ 10",
+     "4.6",
+     "smaller"
+    ],
+    [
+     "46 × 0.01",
+     "46 ÷ 100",
+     "0.46",
+     "smaller"
+    ],
+    [
+     "3.7 × 0.01",
+     "3.7 ÷ 100",
+     "0.037",
+     "smaller"
+    ],
+    [
+     "46 ÷ 0.1",
+     "46 × 10",
+     "460",
+     "bigger"
+    ],
+    [
+     "0.58 ÷ 0.01",
+     "0.58 × 100",
+     "58",
+     "bigger"
+    ],
+    [
+     "0.03 ÷ 0.1",
+     "0.03 × 10",
+     "0.3",
+     "bigger"
+    ],
+    [
+     "−2.4 × 0.1",
+     "−2.4 ÷ 10",
+     "−0.24",
+     "closer to zero"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Missing numbers.** 5.6 × ☐ = 0.056: the digits moved 2 places to the right (÷ 100), so ☐ = 0.01. And 0.9 ÷ ☐ = 9: the digits moved 1 place left (× 10), so ☐ = 0.1."
+  },
+  {
+   "type": "p",
+   "text": "**Two steps.** 0.4 × 0.1 ÷ 0.01: first × 0.1 gives 0.04, then ÷ 0.01 gives 4. (Overall: ÷ 10 then × 100 is the same as × 10.)"
+  },
+  {
+   "type": "p",
+   "text": "**Units.** 1 cm = 0.01 m, so 250 cm = 250 × 0.01 m = 2.5 m. 1 mm = 0.1 cm, so 37 mm = 37 × 0.1 cm = 3.7 cm."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "افتكر القاعدة دي",
+   "items": [
+    "الضرب في ٠٫١ = القسمة على ١٠، والضرب في ٠٫٠١ = القسمة على ١٠٠ ← الناتج بيصغر.",
+    "القسمة على ٠٫١ = الضرب في ١٠، والقسمة على ٠٫٠١ = الضرب في ١٠٠ ← الناتج بيكبر.",
+    "اسأل نفسك دايماً: الإجابة لازم تكبر ولا تصغر؟"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "3. What is a significant figure?"
+  },
+  {
+   "type": "p",
+   "text": "The **first significant figure** of a number is its **first non-zero digit**, reading from the left. It is the digit with the biggest place value, so it tells you most about the size of the number. Every digit after it is also significant (including zeros in between)."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 178\" width=\"540\" font-family=\"Arial, sans-serif\"><rect x=\"74\" y=\"40\" width=\"42\" height=\"46\" fill=\"#eeeeee\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><text x=\"95\" y=\"72\" font-size=\"24\" text-anchor=\"middle\" fill=\"#666666\" font-weight=\"bold\">0</text><text x=\"145\" y=\"72\" font-size=\"30\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">.</text><rect x=\"174\" y=\"40\" width=\"42\" height=\"46\" fill=\"#eeeeee\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><text x=\"195\" y=\"72\" font-size=\"24\" text-anchor=\"middle\" fill=\"#666666\" font-weight=\"bold\">0</text><rect x=\"224\" y=\"40\" width=\"42\" height=\"46\" fill=\"#eeeeee\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><text x=\"245\" y=\"72\" font-size=\"24\" text-anchor=\"middle\" fill=\"#666666\" font-weight=\"bold\">0</text><rect x=\"274\" y=\"40\" width=\"42\" height=\"46\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><text x=\"295\" y=\"72\" font-size=\"24\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">4</text><text x=\"295\" y=\"108\" font-size=\"14\" text-anchor=\"middle\" fill=\"#2e7d4f\" font-weight=\"bold\">1st</text><rect x=\"324\" y=\"40\" width=\"42\" height=\"46\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><text x=\"345\" y=\"72\" font-size=\"24\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">5</text><text x=\"345\" y=\"108\" font-size=\"14\" text-anchor=\"middle\" fill=\"#2e7d4f\" font-weight=\"bold\">2nd</text><rect x=\"374\" y=\"40\" width=\"42\" height=\"46\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><text x=\"395\" y=\"72\" font-size=\"24\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">2</text><text x=\"395\" y=\"108\" font-size=\"14\" text-anchor=\"middle\" fill=\"#2e7d4f\" font-weight=\"bold\">3rd</text><rect x=\"424\" y=\"40\" width=\"42\" height=\"46\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><text x=\"445\" y=\"72\" font-size=\"24\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">8</text><text x=\"445\" y=\"108\" font-size=\"14\" text-anchor=\"middle\" fill=\"#2e7d4f\" font-weight=\"bold\">4th</text><line x1=\"74\" y1=\"124\" x2=\"266\" y2=\"124\" stroke=\"#666666\" stroke-width=\"1.5\"/><text x=\"170\" y=\"146\" font-size=\"13\" text-anchor=\"middle\" fill=\"#555555\">zeros before the first</text><text x=\"170\" y=\"163\" font-size=\"13\" text-anchor=\"middle\" fill=\"#555555\">non-zero digit: NOT significant</text><line x1=\"274\" y1=\"124\" x2=\"466\" y2=\"124\" stroke=\"#2e7d4f\" stroke-width=\"1.5\"/><text x=\"370\" y=\"146\" font-size=\"13\" text-anchor=\"middle\" fill=\"#2e7d4f\" font-weight=\"bold\">significant figures</text><text x=\"370\" y=\"163\" font-size=\"13\" text-anchor=\"middle\" fill=\"#2e7d4f\">(count from the first non-zero digit)</text><text x=\"270\" y=\"24\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">0.004 528 has 4 significant figures</text></svg>",
+   "caption": "Zeros at the start of a decimal only hold places. The significant figures begin at the 4."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Number",
+    "1st s.f.",
+    "2nd s.f.",
+    "3rd s.f.",
+    "Note"
+   ],
+   "rows": [
+    [
+     "34 567",
+     "3 (3 ten-thousands)",
+     "4",
+     "5",
+     "start at the first digit"
+    ],
+    [
+     "60 391",
+     "6",
+     "0",
+     "3",
+     "a zero between non-zero digits counts"
+    ],
+    [
+     "7.0849",
+     "7",
+     "0",
+     "8",
+     ""
+    ],
+    [
+     "0.004 528",
+     "4 (4 thousandths)",
+     "5",
+     "2",
+     "the zeros in front do not count"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "4. Rounding to significant figures"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Find the first significant figure (the first non-zero digit).",
+    "Count along to the number of significant figures you need. Draw a line after the last one.",
+    "Look at the **next** digit after the line. If it is 5 or more, round the last digit up. If it is 4 or less, leave it.",
+    "**Keep the size of the number.** For a big number, fill the places up to the decimal point with zeros (34 567 → 35 000, not 35). For a small decimal, keep the zeros in front (0.004 528 → 0.0045). Do not write extra digits after the line."
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 186\" width=\"540\" font-family=\"Arial, sans-serif\"><line x1=\"35\" y1=\"90\" x2=\"505\" y2=\"90\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"50\" y1=\"79\" x2=\"50\" y2=\"101\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"94\" y1=\"84\" x2=\"94\" y2=\"96\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"138\" y1=\"84\" x2=\"138\" y2=\"96\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"182\" y1=\"84\" x2=\"182\" y2=\"96\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"226\" y1=\"84\" x2=\"226\" y2=\"96\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"270\" y1=\"79\" x2=\"270\" y2=\"101\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"314\" y1=\"84\" x2=\"314\" y2=\"96\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"358\" y1=\"84\" x2=\"358\" y2=\"96\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"402\" y1=\"84\" x2=\"402\" y2=\"96\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"446\" y1=\"84\" x2=\"446\" y2=\"96\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"490\" y1=\"79\" x2=\"490\" y2=\"101\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"50\" y=\"122\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">34 000</text><text x=\"490\" y=\"122\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">35 000</text><text x=\"270\" y=\"122\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">34 500</text><text x=\"270\" y=\"140\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">halfway</text><circle cx=\"299.5\" cy=\"90\" r=\"6\" fill=\"#c0392b\"/><line x1=\"299.5\" y1=\"81\" x2=\"299.5\" y2=\"50\" stroke=\"#c0392b\" stroke-width=\"1.5\"/><text x=\"299.5\" y=\"44\" font-size=\"15\" text-anchor=\"middle\" fill=\"#c0392b\" font-weight=\"bold\">34 567</text><line x1=\"309.5\" y1=\"68\" x2=\"480\" y2=\"68\" stroke=\"#2e7d4f\" stroke-width=\"1.8\"/><polygon points=\"486,68 479.1,72 479.1,64\" fill=\"#2e7d4f\"/><text x=\"270\" y=\"172\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\">34 567 is past halfway, so to 2 s.f. it rounds UP to 35 000.</text></svg>",
+   "caption": "Rounding 34 567 to 2 significant figures: is it nearer 34 000 or 35 000?"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Number",
+    "1 s.f.",
+    "2 s.f.",
+    "3 s.f."
+   ],
+   "rows": [
+    [
+     "34 567",
+     "30 000",
+     "35 000",
+     "34 600"
+    ],
+    [
+     "60 391",
+     "60 000",
+     "60 000",
+     "60 400"
+    ],
+    [
+     "7.0849",
+     "7",
+     "7.1",
+     "7.08"
+    ],
+    [
+     "0.004 528",
+     "0.005",
+     "0.0045",
+     "0.00453"
+    ],
+    [
+     "2.996",
+     "3",
+     "3.0",
+     "3.00"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Look at the last row.** 2.996 to 3 s.f.: the digits 2.99 then a 6, so round up: 2.99 → 3.00. You **must** write 3.00 — the two zeros are the 2nd and 3rd significant figures. Writing just 3 would only be 1 s.f."
+  },
+  {
+   "type": "p",
+   "text": "**Significant figures or decimal places?** 0.004 528 to 2 **decimal places** is 0.00 (useless!), but to 2 **significant figures** it is 0.0045. That is why scientists and engineers use significant figures for very small and very large numbers. Read the question carefully to see which one it asks for."
+  },
+  {
+   "type": "h2",
+   "text": "5. Estimating with significant figures"
+  },
+  {
+   "type": "p",
+   "text": "To **estimate** an answer, round every number to **1 significant figure**, then work it out in your head. Combine this with the 0.1 and 0.01 facts:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "48.7 × 0.0312 ≈ 50 × 0.03 = 50 × 3 × 0.01 = 150 × 0.01 = **1.5** (calculator: 1.519…)",
+    "4.13 × 289 ÷ 0.098 ≈ 4 × 300 ÷ 0.1 = 1200 ÷ 0.1 = **12 000** (calculator: 12 179.3…)",
+    "(39.2 + 61.4) ÷ 0.48 ≈ (40 + 60) ÷ 0.5 = 100 ÷ 0.5 = **200** (calculator: 209.5…)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Use an estimate to **check** a calculator answer. If your calculator says 151.9 for 48.7 × 0.0312, the estimate 1.5 shows that you pressed a wrong key."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — Work out (a) 72 × 0.1 (b) 72 × 0.01 (c) 72 ÷ 0.1 (d) 0.72 ÷ 0.01 [4 marks]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "(a) × 0.1 = ÷ 10: **7.2**",
+    "(b) × 0.01 = ÷ 100: **0.72**",
+    "(c) ÷ 0.1 = × 10: **720**",
+    "(d) ÷ 0.01 = × 100: **72**"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Common mistake:** answering 7.2 for part (c). Dividing by a number less than 1 makes the answer **bigger**."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — Write the missing numbers. (a) 4.5 × ☐ = 0.045 (b) 0.6 ÷ ☐ = 60 [2 marks]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "(a) 4.5 → 0.045: the digits moved 2 places right, which is ÷ 100. ÷ 100 is the same as × 0.01, so ☐ = **0.01**.",
+    "(b) 0.6 → 60: the digits moved 2 places left, which is × 100. × 100 is the same as ÷ 0.01, so ☐ = **0.01**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — Round 0.070 62 to 2 significant figures. [1 mark]"
+  },
+  {
+   "type": "p",
+   "text": "First significant figure: 7 (the zeros before it do not count). Second: 0. Next digit: 6, which is 5 or more, so round up: 0.070|62 → **0.071**. **Common mistake:** writing 0.07 (that is 1 s.f.) or 0.0706 (3 s.f.)."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — Round 489 512 to (a) 1 significant figure (b) 2 significant figures (c) 3 significant figures. [3 marks]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "(a) 4|89 512: next digit 8, round up → **500 000**.",
+    "(b) 48|9 512: next digit 9, round up 48 → 49 → **490 000**.",
+    "(c) 489|512: next digit 5, round up 489 → 490 → **490 000**. (Yes, the same as part (b): here the 3rd significant figure is a 0.)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Common mistake:** writing 49 or 490. Rounding must not change the size of the number — fill with zeros to keep the place value."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — By rounding each number to 1 significant figure, estimate the value of (9.87 × 0.0412) ÷ 0.198. Show your working. [2 marks]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Round: 9.87 ≈ 10, 0.0412 ≈ 0.04, 0.198 ≈ 0.2. (1 mark for all three seen.)",
+    "10 × 0.04 = 0.4.",
+    "0.4 ÷ 0.2 = 2 (how many 0.2s in 0.4?). Answer: **≈ 2**. (Exact value: 2.05…)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** — A rectangular garden is 12.6 m long and 8.35 m wide. Work out its area. Give your answer correct to 3 significant figures. [2 marks]"
+  },
+  {
+   "type": "p",
+   "text": "Calculator: 12.6 × 8.35 = 105.21. To 3 s.f.: 105|.21, next digit 2 → round down → **105 m²**. Write the full calculator value first (105.21) — a method mark is often given for it even if the rounding goes wrong. Check with an estimate: 10 × 8 = 80 and 13 × 8 = 104, so 105 is sensible."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Thinking × 0.1 makes the number bigger because you are \"multiplying\". For positive numbers, × 0.1 and × 0.01 make it smaller; ÷ 0.1 and ÷ 0.01 make it bigger.",
+    "Mixing up × 0.01 and × 0.1: 0.01 is a hundredth, so the digits move **two** places.",
+    "Counting leading zeros as significant: 0.0368 to 2 s.f. is 0.037, not 0.04.",
+    "Losing the size: 58 349 to 2 s.f. is 58 000, not 58.",
+    "Dropping needed zeros at the end of a decimal: 2.996 to 3 s.f. is 3.00, not 3.",
+    "Rounding in stages (0.0446 → 0.045 → 0.05). Always look only at the one digit after the cut: 0.0446 to 1 s.f. is 0.04.",
+    "Rounding to decimal places when the question says significant figures (or the other way round)."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "\"Work out\" and \"Complete the calculations\" with 0.1 and 0.01 on the non-calculator paper — often several small parts worth 1 mark each.",
+    "Missing-number boxes: 3.2 × ☐ = 0.032. Decide how many places the digits moved and in which direction.",
+    "\"Draw a ring around\" the calculation that gives the same answer, e.g. 470 × 0.01 = 470 ÷ 100.",
+    "\"Round … to 2 significant figures\" — check your answer has exactly the right number of significant figures and the same size as the original.",
+    "\"Estimate … Show your working\" — you must show each number rounded (usually to 1 s.f.); an answer with no rounding shown may score 0.",
+    "Calculator questions that say \"Give your answer to 3 significant figures\": write the full display first, then round."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Multiplying and dividing by 0.1 and 0.01, and significant figures — practice",
+   "timed": false,
+   "intro": "14 questions, from easy to Checkpoint-hard. No calculator. Type numbers without spaces or with a space for thousands (58 000 or 58000). For the explain questions, mark yourself with the mark scheme.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 20,
+     "calc": false,
+     "questions": [
+      {
+       "t": "num",
+       "q": "Work out 63 × 0.1",
+       "ans": [
+        6.3
+       ],
+       "m": 1,
+       "s": "× 0.1",
+       "e": "× 0.1 is the same as ÷ 10. The digits move one place right: 63 → 6.3."
+      },
+      {
+       "t": "num",
+       "q": "Work out 5.4 × 0.01",
+       "ans": [
+        0.054
+       ],
+       "m": 1,
+       "s": "× 0.01",
+       "e": "× 0.01 is the same as ÷ 100. The digits move two places right: 5.4 → 0.054."
+      },
+      {
+       "t": "num",
+       "q": "Work out 8.2 ÷ 0.1",
+       "ans": [
+        82
+       ],
+       "m": 1,
+       "s": "÷ 0.1",
+       "e": "÷ 0.1 is the same as × 10 (there are 10 tenths in every 1). 8.2 × 10 = 82."
+      },
+      {
+       "q": "Draw a ring around the calculation that gives the same answer as 470 × 0.01",
+       "c": [
+        "470 × 100",
+        "470 ÷ 10",
+        "470 ÷ 0.01",
+        "470 ÷ 100"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "× 0.01",
+       "e": "0.01 = 1/100, so × 0.01 is the same as ÷ 100. Both give 4.7. (470 ÷ 0.01 = 47 000.)"
+      },
+      {
+       "q": "Find the missing number: 2.6 ÷ ☐ = 260",
+       "c": [
+        "0.01",
+        "0.1",
+        "10",
+        "100"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "÷ 0.01",
+       "e": "2.6 → 260 is 100 times bigger. ÷ 0.01 is the same as × 100, so the missing number is 0.01. Check: 2.6 ÷ 0.1 = 26 only."
+      },
+      {
+       "t": "num",
+       "q": "Work out 0.4 × 0.1 ÷ 0.01",
+       "ans": [
+        4
+       ],
+       "m": 2,
+       "s": "Two steps",
+       "e": "Left to right: 0.4 × 0.1 = 0.04 (÷ 10). Then 0.04 ÷ 0.01 = 4 (× 100). 1 mark for 0.04 seen."
+      },
+      {
+       "t": "num",
+       "q": "Round 58 349 to 2 significant figures.",
+       "ans": [
+        58000
+       ],
+       "m": 1,
+       "s": "Significant figures",
+       "e": "58|349: the next digit is 3 (4 or less), so keep 58 and fill with zeros to keep the size: 58 000."
+      },
+      {
+       "t": "num",
+       "q": "Round 0.006 372 to 1 significant figure.",
+       "ans": [
+        0.006
+       ],
+       "m": 1,
+       "s": "Significant figures",
+       "e": "The first significant figure is 6 (zeros in front do not count). The next digit is 3, so round down: 0.006."
+      },
+      {
+       "q": "Draw a ring around 47 952 rounded to 3 significant figures.",
+       "c": [
+        "480",
+        "47 900",
+        "48 000",
+        "47 950"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Significant figures",
+       "e": "479|52: the next digit is 5, so round up: 479 → 480. Keep the size: 48 000. (47 950 is 4 s.f.; 480 has lost the size.)"
+      },
+      {
+       "t": "text",
+       "q": "Round 9.996 to 3 significant figures.",
+       "ans": [
+        "10.0"
+       ],
+       "m": 1,
+       "s": "Significant figures",
+       "e": "9.99|6: the next digit is 6, so round up. 9.99 + 0.01 = 10.00, but we need only 3 significant figures: 1, 0, 0 → 10.0. Writing 10 is only 2 s.f."
+      },
+      {
+       "t": "num",
+       "q": "By rounding each number to 1 significant figure, estimate the value of 61.8 × 0.0489",
+       "ans": [
+        3
+       ],
+       "m": 2,
+       "s": "Estimating",
+       "e": "61.8 ≈ 60 and 0.0489 ≈ 0.05 (1 mark for both). 60 × 0.05 = 60 × 5 × 0.01 = 300 × 0.01 = 3."
+      },
+      {
+       "t": "num",
+       "p": "Fatma uses a calculator to work out the area of a field. The calculator shows 23.4782",
+       "q": "Write 23.4782 correct to 3 significant figures.",
+       "ans": [
+        23.5
+       ],
+       "m": 1,
+       "s": "Significant figures",
+       "e": "23.4|782: the next digit is 7, so round up: 23.4 → 23.5."
+      },
+      {
+       "t": "open",
+       "q": "Omar says, \"Multiplying always makes a number bigger, so 36 × 0.1 must be bigger than 36.\" Explain why Omar is wrong.",
+       "m": 1,
+       "s": "Convincing",
+       "ms": "1 mark for a correct explanation, e.g. 36 × 0.1 = 3.6, which is smaller than 36; or × 0.1 is the same as ÷ 10; or multiplying by a number less than 1 makes a positive number smaller. Do not accept \"he is wrong\" with no reason.",
+       "e": "0.1 is less than 1, so 36 × 0.1 means one tenth of 36, which is 36 ÷ 10 = 3.6. That is smaller than 36. Multiplying a positive number by a number between 0 and 1 always makes it smaller."
+      },
+      {
+       "t": "open",
+       "q": "Laila rounds 0.0368 to 2 significant figures. She writes 0.04. Explain her mistake and write the correct answer.",
+       "m": 2,
+       "s": "Critiquing",
+       "ms": "1 mark: explains the mistake, e.g. she has rounded to 1 significant figure; or she counted the zero after the decimal point as a significant figure. 1 mark: correct answer 0.037. Accept the answer even if the explanation is weak.",
+       "e": "The zeros before the 3 are not significant, so the first two significant figures are 3 and 6. Laila's 0.04 has only one significant figure (it is 0.0368 rounded to 1 s.f.). Correct: 0.036|8, next digit 8, round up → 0.037."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "× 0.1 = ÷ 10 and × 0.01 = ÷ 100 (smaller). ÷ 0.1 = × 10 and ÷ 0.01 = × 100 (bigger).",
+    "Move the digits, not the decimal point, and always do a bigger-or-smaller check.",
+    "The first significant figure is the first non-zero digit; zeros in between count, zeros in front do not.",
+    "When rounding, look at the next digit only (5 or more → round up), and keep the size of the number with zeros.",
+    "Estimate by rounding every number to 1 significant figure, and show the rounded numbers."
+   ]
+  }
+ ]
+}

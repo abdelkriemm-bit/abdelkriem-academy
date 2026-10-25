@@ -1,0 +1,649 @@
+{
+ "slug": "cp6m-probability",
+ "title": "Probability",
+ "kicker": "Cambridge Primary Checkpoint · Mathematics 0096 · Stage 6 · Statistics and Probability",
+ "summary": "Describe and compare chances with probability words and proportions, decide when events are mutually exclusive, and carry out experiments with small and large numbers of trials to estimate and predict.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Use the language of probability and proportion (impossible, unlikely, even chance, likely, certain, “3 out of 10”, “1 in 4 chance”, “more likely than”) to describe and compare outcomes (6Sp.01)",
+    "Decide whether two events can happen at the same time or not, and know that events that cannot happen at the same time are called **mutually exclusive** (6Sp.02)",
+    "Recognise that some probabilities can only be found by doing an experiment with a large number of trials (6Sp.03)",
+    "Carry out chance experiments and simulations with small and large numbers of trials; predict, analyse and describe how often outcomes happen, using the language of probability (6Sp.04)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Probability is the maths of **chance**: how likely something is to happen. You use it when you say “It will probably rain” or “I have a 1 in 6 chance of rolling a six”. At Stage 6 you describe chances with words and proportions, decide when events cannot happen together, and carry out experiments to estimate chances."
+  },
+  {
+   "type": "h2",
+   "text": "Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "probability / chance",
+     "الاحتمال / الفرصة — how likely something is to happen"
+    ],
+    [
+     "outcome",
+     "ناتج — one possible result, e.g. rolling a 4"
+    ],
+    [
+     "event",
+     "حدث — one or more outcomes, e.g. rolling an even number"
+    ],
+    [
+     "impossible",
+     "مستحيل — cannot happen"
+    ],
+    [
+     "unlikely",
+     "غير مرجّح — could happen, but less than half the time"
+    ],
+    [
+     "even chance",
+     "فرصة متساوية (50-50) — as likely to happen as not"
+    ],
+    [
+     "likely",
+     "مرجّح — will happen more than half the time"
+    ],
+    [
+     "certain",
+     "مؤكد — must happen"
+    ],
+    [
+     "equally likely",
+     "متساويان في الاحتمال — have the same chance"
+    ],
+    [
+     "mutually exclusive",
+     "حدثان متنافيان — cannot happen at the same time"
+    ],
+    [
+     "trial",
+     "محاولة — doing the experiment once (one throw, one spin)"
+    ],
+    [
+     "fair / biased",
+     "عادل / متحيّز — every outcome equally likely / some outcomes more likely"
+    ],
+    [
+     "simulation",
+     "محاكاة — using a dice, coin or spinner to act out a real situation"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. The language of probability"
+  },
+  {
+   "type": "p",
+   "text": "We put events on a **probability scale** from **impossible** to **certain**. Halfway is **even chance**. Sometimes the scale is numbered from 0 (impossible) to 1 (certain), with ½ for even chance."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 170\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"40\" y1=\"70\" x2=\"500\" y2=\"70\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"40\" y1=\"61\" x2=\"40\" y2=\"79\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"40\" y=\"52\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">impossible</text><line x1=\"155\" y1=\"61\" x2=\"155\" y2=\"79\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"155\" y=\"52\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">unlikely</text><line x1=\"270\" y1=\"61\" x2=\"270\" y2=\"79\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"270\" y=\"52\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">even chance</text><line x1=\"385\" y1=\"61\" x2=\"385\" y2=\"79\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"385\" y=\"52\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">likely</text><line x1=\"500\" y1=\"61\" x2=\"500\" y2=\"79\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"500\" y=\"52\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">certain</text><text x=\"40\" y=\"98\" font-size=\"14\" text-anchor=\"middle\">0</text><text x=\"270\" y=\"98\" font-size=\"15\" text-anchor=\"middle\">½</text><text x=\"500\" y=\"98\" font-size=\"14\" text-anchor=\"middle\">1</text><line x1=\"40\" y1=\"135\" x2=\"40\" y2=\"108\" stroke=\"#1f5fbf\" stroke-width=\"1.6\"/><polygon points=\"40,108 43.5,114.1 36.5,114.1\" fill=\"#1f5fbf\"/><text x=\"40\" y=\"154\" font-size=\"15\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#1f5fbf\">A</text><line x1=\"116.7\" y1=\"135\" x2=\"116.7\" y2=\"84\" stroke=\"#1f5fbf\" stroke-width=\"1.6\"/><polygon points=\"116.7,84 120.2,90.1 113.2,90.1\" fill=\"#1f5fbf\"/><text x=\"116.7\" y=\"154\" font-size=\"15\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#1f5fbf\">D</text><line x1=\"270\" y1=\"135\" x2=\"270\" y2=\"108\" stroke=\"#1f5fbf\" stroke-width=\"1.6\"/><polygon points=\"270,108 273.5,114.1 266.5,114.1\" fill=\"#1f5fbf\"/><text x=\"270\" y=\"154\" font-size=\"15\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#1f5fbf\">B</text><line x1=\"423.3\" y1=\"135\" x2=\"423.3\" y2=\"84\" stroke=\"#1f5fbf\" stroke-width=\"1.6\"/><polygon points=\"423.3,84 426.8,90.1 419.8,90.1\" fill=\"#1f5fbf\"/><text x=\"423.3\" y=\"154\" font-size=\"15\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#1f5fbf\">E</text><line x1=\"500\" y1=\"135\" x2=\"500\" y2=\"108\" stroke=\"#1f5fbf\" stroke-width=\"1.6\"/><polygon points=\"500,108 503.5,114.1 496.5,114.1\" fill=\"#1f5fbf\"/><text x=\"500\" y=\"154\" font-size=\"15\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#1f5fbf\">C</text></svg>",
+   "caption": "Rolling an ordinary 1–6 dice. A: rolling a 7 (impossible). D: rolling a 6 (unlikely: 1 out of 6). B: a fair coin landing heads (even chance). E: rolling a number bigger than 1 (likely: 5 out of 6). C: rolling a number less than 7 (certain)."
+  },
+  {
+   "type": "p",
+   "text": "**Using proportion.** When all the outcomes are **equally likely** (a fair dice, a fair coin, a spinner with equal sections, counters of the same size in a bag), count:"
+  },
+  {
+   "type": "p",
+   "text": "**chance = number of ways the event can happen out of the total number of equally likely outcomes**"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 370 220\" width=\"370\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M110 110L110 15A95 95 0 0 1 177.2 42.8Z\" stroke=\"#0f1b33\" stroke-width=\"1.5\" fill=\"#ee9d92\"/><text x=\"134\" y=\"57.1\" font-size=\"13\" text-anchor=\"middle\">red</text><path d=\"M110 110L177.2 42.8A95 95 0 0 1 205 110Z\" stroke=\"#0f1b33\" stroke-width=\"1.5\" fill=\"#8fb4e8\"/><text x=\"167.9\" y=\"91\" font-size=\"13\" text-anchor=\"middle\">blue</text><path d=\"M110 110L205 110A95 95 0 0 1 177.2 177.2Z\" stroke=\"#0f1b33\" stroke-width=\"1.5\" fill=\"#ee9d92\"/><text x=\"167.9\" y=\"139\" font-size=\"13\" text-anchor=\"middle\">red</text><path d=\"M110 110L177.2 177.2A95 95 0 0 1 110 205Z\" stroke=\"#0f1b33\" stroke-width=\"1.5\" fill=\"#93cf96\"/><text x=\"134\" y=\"172.9\" font-size=\"13\" text-anchor=\"middle\">green</text><path d=\"M110 110L110 205A95 95 0 0 1 42.8 177.2Z\" stroke=\"#0f1b33\" stroke-width=\"1.5\" fill=\"#ee9d92\"/><text x=\"86\" y=\"172.9\" font-size=\"13\" text-anchor=\"middle\">red</text><path d=\"M110 110L42.8 177.2A95 95 0 0 1 15 110Z\" stroke=\"#0f1b33\" stroke-width=\"1.5\" fill=\"#8fb4e8\"/><text x=\"52.1\" y=\"139\" font-size=\"13\" text-anchor=\"middle\">blue</text><path d=\"M110 110L15 110A95 95 0 0 1 42.8 42.8Z\" stroke=\"#0f1b33\" stroke-width=\"1.5\" fill=\"#ee9d92\"/><text x=\"52.1\" y=\"91\" font-size=\"13\" text-anchor=\"middle\">red</text><path d=\"M110 110L42.8 42.8A95 95 0 0 1 110 15Z\" stroke=\"#0f1b33\" stroke-width=\"1.5\" fill=\"#f2c75c\"/><text x=\"86\" y=\"57.1\" font-size=\"13\" text-anchor=\"middle\">yellow</text><line x1=\"110\" y1=\"110\" x2=\"140\" y2=\"68\" stroke=\"#0f1b33\" stroke-width=\"3\"/><polygon points=\"140,68 138.9,78.9 130,72.6\" fill=\"#0f1b33\"/><circle cx=\"110\" cy=\"110\" r=\"5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"230\" y=\"70\" font-size=\"14\" text-anchor=\"start\">red: 4 sections</text><text x=\"230\" y=\"94\" font-size=\"14\" text-anchor=\"start\">blue: 2 sections</text><text x=\"230\" y=\"118\" font-size=\"14\" text-anchor=\"start\">green: 1 section</text><text x=\"230\" y=\"142\" font-size=\"14\" text-anchor=\"start\">yellow: 1 section</text></svg>",
+   "caption": "A fair spinner with 8 equal sections."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Event",
+    "Out of 8",
+    "In words"
+   ],
+   "rows": [
+    [
+     "red",
+     "4 out of 8 = half",
+     "even chance"
+    ],
+    [
+     "blue",
+     "2 out of 8 = 1 out of 4 (a 1 in 4 chance)",
+     "unlikely"
+    ],
+    [
+     "green",
+     "1 out of 8",
+     "unlikely (very unlikely)"
+    ],
+    [
+     "not red",
+     "4 out of 8 = half",
+     "even chance"
+    ],
+    [
+     "red or blue",
+     "6 out of 8 = ¾",
+     "likely"
+    ],
+    [
+     "purple",
+     "0 out of 8",
+     "impossible"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Comparing outcomes.** Red is **more likely** than blue (4 sections compared with 2) — in fact **twice as likely**. Green and yellow are **equally likely** (1 section each). Blue is **less likely** than red but **more likely** than green."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Size matters, not just colour count",
+   "text": "Counting only works when the outcomes are equally likely. If a spinner has one huge red section and three small sections, red is not “1 out of 4” — it is much more likely. Look at the size of each section."
+  },
+  {
+   "type": "h2",
+   "text": "2. Events that can and cannot happen together"
+  },
+  {
+   "type": "p",
+   "text": "Think about **one** trial — one roll of a dice, one spin, one counter taken from a bag. Two events are **mutually exclusive** if they **cannot both happen** in that one trial. To decide, list the outcomes for each event and see whether any outcome is in both lists."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "One roll of a 1–6 dice",
+    "Outcomes",
+    "Can both happen?",
+    "Mutually exclusive?"
+   ],
+   "rows": [
+    [
+     "rolling a 2 / rolling a 5",
+     "{2} and {5}",
+     "no — you only get one number",
+     "yes"
+    ],
+    [
+     "rolling an odd number / rolling a 6",
+     "{1, 3, 5} and {6}",
+     "no — 6 is not odd",
+     "yes"
+    ],
+    [
+     "rolling an even number / rolling more than 3",
+     "{2, 4, 6} and {4, 5, 6}",
+     "yes — 4 or 6",
+     "no"
+    ],
+    [
+     "rolling an even number / rolling a prime number",
+     "{2, 4, 6} and {2, 3, 5}",
+     "yes — 2 is both",
+     "no"
+    ],
+    [
+     "rolling less than 3 / rolling more than 4",
+     "{1, 2} and {5, 6}",
+     "no",
+     "yes"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Everyday examples:** “Today is Saturday” and “today is Sunday” are mutually exclusive. “It is raining” and “it is cold” can happen at the same time, so they are not mutually exclusive. On the spinner above, landing on red and landing on blue are mutually exclusive — the arrow points to only one section."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "بالعربي: يعني إيه mutually exclusive؟",
+   "items": [
+    "حدثان «متنافيان» = مايحصلوش مع بعض في نفس المحاولة.",
+    "مثال: في رمية زهر واحدة، «يطلع 2» و«يطلع 5» متنافيان — مستحيل يطلعوا الاتنين.",
+    "لكن «رقم زوجي» و«رقم أكبر من 3» مش متنافيين لأن 4 و6 بيحققوا الاتنين.",
+    "الطريقة: اكتب نواتج كل حدث، لو في ناتج مشترك → مش متنافيين."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "3. Finding probabilities by experiment"
+  },
+  {
+   "type": "p",
+   "text": "For a fair coin or a fair dice we can **work out** the chances, because every outcome is equally likely. But many probabilities **cannot** be worked out this way. We can only estimate them by doing an **experiment** with a **large number of trials** (or by looking at lots of past data):"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "a drawing pin landing point up or point down (the two outcomes are not equally likely);",
+    "a paper cup landing on its side, upright or upside down;",
+    "a home-made or biased spinner or dice;",
+    "a bean seed growing, a footballer scoring a penalty, a bus arriving late."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Small and large numbers of trials.** Results change from one experiment to another — that is chance. With only a **few** trials, the results can be far from what you expect. With **many** trials, the proportion settles down and gives a more **reliable** estimate. Here are the results of a class tossing a fair coin and recording the running totals:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Number of throws",
+    "10",
+    "20",
+    "50",
+    "100",
+    "200",
+    "500"
+   ],
+   "rows": [
+    [
+     "Number of heads",
+     "7",
+     "12",
+     "22",
+     "53",
+     "96",
+     "254"
+    ],
+    [
+     "Proportion of heads",
+     "7 out of 10 = 0.7",
+     "0.6",
+     "0.44",
+     "0.53",
+     "0.48",
+     "0.508"
+    ]
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 460 280\" width=\"460\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"58\" y1=\"228\" x2=\"62\" y2=\"228\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"55\" y=\"233\" font-size=\"13\" text-anchor=\"end\">0</text><line x1=\"62\" y1=\"208\" x2=\"432\" y2=\"208\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"58\" y1=\"208\" x2=\"62\" y2=\"208\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"55\" y=\"213\" font-size=\"13\" text-anchor=\"end\">0.1</text><line x1=\"62\" y1=\"188\" x2=\"432\" y2=\"188\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"58\" y1=\"188\" x2=\"62\" y2=\"188\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"55\" y=\"193\" font-size=\"13\" text-anchor=\"end\">0.2</text><line x1=\"62\" y1=\"168\" x2=\"432\" y2=\"168\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"58\" y1=\"168\" x2=\"62\" y2=\"168\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"55\" y=\"173\" font-size=\"13\" text-anchor=\"end\">0.3</text><line x1=\"62\" y1=\"148\" x2=\"432\" y2=\"148\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"58\" y1=\"148\" x2=\"62\" y2=\"148\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"55\" y=\"153\" font-size=\"13\" text-anchor=\"end\">0.4</text><line x1=\"62\" y1=\"128\" x2=\"432\" y2=\"128\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"58\" y1=\"128\" x2=\"62\" y2=\"128\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"55\" y=\"133\" font-size=\"13\" text-anchor=\"end\">0.5</text><line x1=\"62\" y1=\"108\" x2=\"432\" y2=\"108\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"58\" y1=\"108\" x2=\"62\" y2=\"108\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"55\" y=\"113\" font-size=\"13\" text-anchor=\"end\">0.6</text><line x1=\"62\" y1=\"88\" x2=\"432\" y2=\"88\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"58\" y1=\"88\" x2=\"62\" y2=\"88\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"55\" y=\"93\" font-size=\"13\" text-anchor=\"end\">0.7</text><line x1=\"62\" y1=\"68\" x2=\"432\" y2=\"68\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"58\" y1=\"68\" x2=\"62\" y2=\"68\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"55\" y=\"73\" font-size=\"13\" text-anchor=\"end\">0.8</text><line x1=\"62\" y1=\"48\" x2=\"432\" y2=\"48\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"58\" y1=\"48\" x2=\"62\" y2=\"48\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"55\" y=\"53\" font-size=\"13\" text-anchor=\"end\">0.9</text><line x1=\"62\" y1=\"28\" x2=\"432\" y2=\"28\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"58\" y1=\"28\" x2=\"62\" y2=\"28\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"55\" y=\"33\" font-size=\"13\" text-anchor=\"end\">1</text><line x1=\"62\" y1=\"228\" x2=\"432\" y2=\"228\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"62\" y1=\"228\" x2=\"62\" y2=\"22\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"14\" y=\"128\" font-size=\"13\" text-anchor=\"middle\" transform=\"rotate(-90 14 128)\">Proportion of heads</text><text x=\"247\" y=\"268\" font-size=\"13\" text-anchor=\"middle\">Number of throws</text><line x1=\"62\" y1=\"128\" x2=\"432\" y2=\"128\" stroke=\"#b3261e\" stroke-width=\"2\" stroke-dasharray=\"7 5\"/><text x=\"432\" y=\"148\" font-size=\"14\" text-anchor=\"end\" font-weight=\"bold\" fill=\"#b3261e\">half</text><path d=\"M92 88L156 108L220 140L284 122L348 132L412 126.4\" stroke=\"#1f5fbf\" stroke-width=\"2\" fill=\"none\"/><path d=\"M88 84L96 92M88 92L96 84\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"92\" y1=\"228\" x2=\"92\" y2=\"233\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"92\" y=\"248\" font-size=\"13\" text-anchor=\"middle\">10</text><path d=\"M152 104L160 112M152 112L160 104\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"156\" y1=\"228\" x2=\"156\" y2=\"233\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"156\" y=\"248\" font-size=\"13\" text-anchor=\"middle\">20</text><path d=\"M216 136L224 144M216 144L224 136\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"220\" y1=\"228\" x2=\"220\" y2=\"233\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"220\" y=\"248\" font-size=\"13\" text-anchor=\"middle\">50</text><path d=\"M280 118L288 126M280 126L288 118\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"284\" y1=\"228\" x2=\"284\" y2=\"233\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"284\" y=\"248\" font-size=\"13\" text-anchor=\"middle\">100</text><path d=\"M344 128L352 136M344 136L352 128\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"348\" y1=\"228\" x2=\"348\" y2=\"233\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"348\" y=\"248\" font-size=\"13\" text-anchor=\"middle\">200</text><path d=\"M408 122.4L416 130.4M408 130.4L416 122.4\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"412\" y1=\"228\" x2=\"412\" y2=\"233\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"412\" y=\"248\" font-size=\"13\" text-anchor=\"middle\">500</text></svg>",
+   "caption": "With 10 throws the proportion of heads was 0.7 — far from half. As the number of throws grows, the proportion gets closer and closer to 0.5."
+  },
+  {
+   "type": "p",
+   "text": "**Using experimental results to predict.** If a drawing pin landed point up 60 times in 100 throws, we estimate that it lands point up about **60 out of every 100** times (about 3 out of 5). In 400 throws we would predict about 60 × 4 = **240** point up. It will probably not be exactly 240, because of chance."
+  },
+  {
+   "type": "h2",
+   "text": "4. Carrying out a chance experiment or simulation"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "**Question and prediction.** E.g. “Is my spinner fair?” Prediction: each of the 4 colours comes up about the same number of times — about 1 out of 4 spins.",
+    "**Plan.** Decide how many trials. Start small (20 spins) and then do many (200 spins, perhaps by combining results from the whole class).",
+    "**Record** the results in a tally chart and find the frequencies.",
+    "**Analyse.** Compare the frequencies with your prediction. For 200 spins of a fair 4-colour spinner, expect about 200 ÷ 4 = 50 of each colour.",
+    "**Describe** using probability language: “Red came up much more often than expected (82 out of 200), so red seems more likely than the other colours. The spinner may be biased.”"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**A simulation** uses a coin, dice or spinner to act out a real situation. Example: a goalkeeper saves about 1 in every 3 penalties. Roll a dice for each penalty: 1 or 2 = save, 3 to 6 = goal. Simulate 30 penalties and count the saves (you would expect about 10)."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Expected frequency",
+   "text": "Expected number of times = number of trials × the chance as a proportion. A fair dice rolled 60 times: you expect each number about 60 ÷ 6 = 10 times. Real results vary around this — 8 or 13 are normal results, not proof that the dice is unfair."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — Probability words  [2 marks]\nAn ordinary dice numbered 1 to 6 is rolled once. Write impossible, unlikely, even chance, likely or certain for each event: (a) rolling an even number (b) rolling a 0 (c) rolling a number less than 5 (d) rolling a 3."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Event",
+    "Ways out of 6",
+    "Word"
+   ],
+   "rows": [
+    [
+     "(a) even number",
+     "2, 4, 6 → 3 out of 6 = half",
+     "even chance"
+    ],
+    [
+     "(b) a 0",
+     "0 out of 6",
+     "impossible"
+    ],
+    [
+     "(c) less than 5",
+     "1, 2, 3, 4 → 4 out of 6",
+     "likely"
+    ],
+    [
+     "(d) a 3",
+     "1 out of 6",
+     "unlikely"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** (a) even chance (b) impossible (c) likely (d) unlikely. 2 marks for all four, 1 mark for two or three correct.\n**Common mistake:** “less than 5” — do not count 5 itself."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — Comparing chances with a bag of counters  [2 marks]\nThe bag holds 4 red (R), 6 blue (B) and 2 yellow (Y) counters of the same size. One counter is taken without looking."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 150\" width=\"300\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M40 40Q30 140 80 140H220Q270 140 260 40Z\" stroke=\"#0f1b33\" stroke-width=\"2\" fill=\"#ffffff\"/><line x1=\"40\" y1=\"40\" x2=\"260\" y2=\"40\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"75\" cy=\"62\" r=\"10\" fill=\"#ee9d92\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"75\" y=\"67\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"bold\">R</text><circle cx=\"105\" cy=\"62\" r=\"10\" fill=\"#ee9d92\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"105\" y=\"67\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"bold\">R</text><circle cx=\"135\" cy=\"62\" r=\"10\" fill=\"#ee9d92\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"135\" y=\"67\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"bold\">R</text><circle cx=\"165\" cy=\"62\" r=\"10\" fill=\"#ee9d92\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"165\" y=\"67\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"bold\">R</text><circle cx=\"195\" cy=\"62\" r=\"10\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"195\" y=\"67\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"bold\">B</text><circle cx=\"225\" cy=\"62\" r=\"10\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"225\" y=\"67\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"bold\">B</text><circle cx=\"75\" cy=\"88\" r=\"10\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"75\" y=\"93\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"bold\">B</text><circle cx=\"105\" cy=\"88\" r=\"10\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"105\" y=\"93\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"bold\">B</text><circle cx=\"135\" cy=\"88\" r=\"10\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"135\" y=\"93\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"bold\">B</text><circle cx=\"165\" cy=\"88\" r=\"10\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"165\" y=\"93\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"bold\">B</text><circle cx=\"195\" cy=\"88\" r=\"10\" fill=\"#f2c75c\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"195\" y=\"93\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"bold\">Y</text><circle cx=\"225\" cy=\"88\" r=\"10\" fill=\"#f2c75c\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"225\" y=\"93\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"bold\">Y</text></svg>",
+   "caption": "12 counters: 4 red, 6 blue, 2 yellow."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Total = 4 + 6 + 2 = 12 counters, all equally likely to be picked.",
+    "Blue: 6 out of 12 = half → **even chance**. Blue is the **most likely** colour.",
+    "Red: 4 out of 12 = 1 out of 3. Yellow: 2 out of 12 = 1 out of 6. Red is **twice as likely** as yellow.",
+    "Green: 0 out of 12 → **impossible**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Question:** How many yellow counters must be added so that taking a yellow is as likely as taking a red? **Answer:** yellow needs to equal red: 4 − 2 = **2** more yellow counters."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — Mutually exclusive  [2 marks]\nA spinner is numbered 1 to 8 in equal sections. It is spun once. Are these events mutually exclusive? Explain. (a) “a multiple of 4” and “an odd number” (b) “a number less than 4” and “a prime number”"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) multiples of 4: {4, 8}; odd numbers: {1, 3, 5, 7}. No number is in both → **mutually exclusive**.",
+    "(b) less than 4: {1, 2, 3}; primes: {2, 3, 5, 7}. 2 and 3 are in both → **not** mutually exclusive: the spinner can land on 2, which is both."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Exam technique:** an explanation must give **evidence** — name a number that is in both lists, or say that no number is in both. 1 is not a prime number."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — Small and large numbers of trials  [2 marks]\nAhmed threw a paper cup 20 times: it landed on its side 14 times. Mona threw the same cup 300 times: it landed on its side 186 times. (a) Whose results give the better estimate? Why? (b) Use Mona’s results to predict how many times the cup lands on its side in 50 throws."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) **Mona’s**, because she did many more trials (300 compared with 20). The proportion settles down with more trials.",
+    "(b) Mona: 186 out of 300. Divide both by 6: 31 out of 50. So predict about **31** times out of 50."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Common mistake:** saying Ahmed’s results are “wrong”. They are not wrong — 20 trials is just too few to give a reliable estimate. Also, a probability like this can **only** be found by experiment: the three ways a cup can land are not equally likely."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — Is the dice fair?  [2 marks]\nLayla rolled a dice 60 times. Results: 1 → 9, 2 → 11, 3 → 8, 4 → 12, 5 → 10, 6 → 10. (a) How many times would you expect each number for a fair dice? (b) Layla says “the dice is unfair because 4 came up most often”. Do you agree?"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) 60 ÷ 6 = **10** times each.",
+    "(b) All the results are close to 10 (between 8 and 12). Small differences like these are expected because of chance."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** (b) No — the results are close to what we expect from a fair dice. To be more confident, she should roll it many more times (e.g. 600)."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Thinking that a result that happened recently is “due” or “less likely” next time. A fair coin has no memory: each throw is still an even chance.",
+    "Counting sections of a spinner that are different sizes as equally likely.",
+    "Saying two events are mutually exclusive without checking for a shared outcome (even and prime share 2).",
+    "Expecting an experiment to give exactly the predicted numbers — results vary because of chance.",
+    "Trusting a small number of trials more than a large number.",
+    "Using “unlikely” and “impossible” as if they mean the same thing. Unlikely can still happen."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "“Draw an arrow on the probability scale to show the chance of …” or “Ring the word that describes …”.",
+    "“Shade the spinner so that it is more likely to land on grey than white” — count sections and check.",
+    "“Tick the pairs of events that are mutually exclusive.”",
+    "“Ali throws a drawing pin 200 times… Estimate how many times it lands point up in 1000 throws.”",
+    "“Whose results are more reliable? Explain.” — the answer is about the number of trials.",
+    "“Explain why …” — always use probability words and numbers from the question."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "قاعدة لازم تحفظها",
+   "items": [
+    "الاحتمال (لو النواتج متساوية) = عدد الطرق اللي الحدث يحصل بيها من إجمالي النواتج.",
+    "كل ما تزود عدد المحاولات في التجربة، النتيجة تبقى أدق وأقرب للحقيقة.",
+    "فيه احتمالات مانقدرش نحسبها بالعد (زي الدبوس أو الكوباية الورق) — لازم نعمل تجربة بعدد كبير من المحاولات."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Probability — practice",
+   "timed": false,
+   "intro": "14 questions on probability words, comparing chances, mutually exclusive events and experiments. Explain answers with numbers from the question.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 20,
+     "calc": false,
+     "questions": [
+      {
+       "q": "An ordinary 1–6 dice is rolled once. Which word describes the chance of rolling a 7?",
+       "c": [
+        "impossible",
+        "unlikely",
+        "even chance",
+        "certain"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Probability language",
+       "e": "There is no 7 on a 1–6 dice, so it can never happen: impossible."
+      },
+      {
+       "q": "This fair spinner is spun once. What is the chance that it lands on red?",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 230 220\" width=\"230\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M110 110L110 15A95 95 0 0 1 177.2 42.8Z\" stroke=\"#0f1b33\" stroke-width=\"1.5\" fill=\"#ee9d92\"/><text x=\"134\" y=\"57.1\" font-size=\"13\" text-anchor=\"middle\">red</text><path d=\"M110 110L177.2 42.8A95 95 0 0 1 205 110Z\" stroke=\"#0f1b33\" stroke-width=\"1.5\" fill=\"#8fb4e8\"/><text x=\"167.9\" y=\"91\" font-size=\"13\" text-anchor=\"middle\">blue</text><path d=\"M110 110L205 110A95 95 0 0 1 177.2 177.2Z\" stroke=\"#0f1b33\" stroke-width=\"1.5\" fill=\"#ee9d92\"/><text x=\"167.9\" y=\"139\" font-size=\"13\" text-anchor=\"middle\">red</text><path d=\"M110 110L177.2 177.2A95 95 0 0 1 110 205Z\" stroke=\"#0f1b33\" stroke-width=\"1.5\" fill=\"#93cf96\"/><text x=\"134\" y=\"172.9\" font-size=\"13\" text-anchor=\"middle\">green</text><path d=\"M110 110L110 205A95 95 0 0 1 42.8 177.2Z\" stroke=\"#0f1b33\" stroke-width=\"1.5\" fill=\"#ee9d92\"/><text x=\"86\" y=\"172.9\" font-size=\"13\" text-anchor=\"middle\">red</text><path d=\"M110 110L42.8 177.2A95 95 0 0 1 15 110Z\" stroke=\"#0f1b33\" stroke-width=\"1.5\" fill=\"#8fb4e8\"/><text x=\"52.1\" y=\"139\" font-size=\"13\" text-anchor=\"middle\">blue</text><path d=\"M110 110L15 110A95 95 0 0 1 42.8 42.8Z\" stroke=\"#0f1b33\" stroke-width=\"1.5\" fill=\"#ee9d92\"/><text x=\"52.1\" y=\"91\" font-size=\"13\" text-anchor=\"middle\">red</text><path d=\"M110 110L42.8 42.8A95 95 0 0 1 110 15Z\" stroke=\"#0f1b33\" stroke-width=\"1.5\" fill=\"#f2c75c\"/><text x=\"86\" y=\"57.1\" font-size=\"13\" text-anchor=\"middle\">yellow</text><line x1=\"110\" y1=\"110\" x2=\"140\" y2=\"68\" stroke=\"#0f1b33\" stroke-width=\"3\"/><polygon points=\"140,68 138.9,78.9 130,72.6\" fill=\"#0f1b33\"/><circle cx=\"110\" cy=\"110\" r=\"5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/></svg>",
+       "c": [
+        "impossible",
+        "unlikely",
+        "even chance",
+        "certain"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Probability language",
+       "e": "4 of the 8 equal sections are red: 4 out of 8 = half, which is an even chance."
+      },
+      {
+       "q": "Look at the same spinner. Which two colours are equally likely?",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 230 220\" width=\"230\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M110 110L110 15A95 95 0 0 1 177.2 42.8Z\" stroke=\"#0f1b33\" stroke-width=\"1.5\" fill=\"#ee9d92\"/><text x=\"134\" y=\"57.1\" font-size=\"13\" text-anchor=\"middle\">red</text><path d=\"M110 110L177.2 42.8A95 95 0 0 1 205 110Z\" stroke=\"#0f1b33\" stroke-width=\"1.5\" fill=\"#8fb4e8\"/><text x=\"167.9\" y=\"91\" font-size=\"13\" text-anchor=\"middle\">blue</text><path d=\"M110 110L205 110A95 95 0 0 1 177.2 177.2Z\" stroke=\"#0f1b33\" stroke-width=\"1.5\" fill=\"#ee9d92\"/><text x=\"167.9\" y=\"139\" font-size=\"13\" text-anchor=\"middle\">red</text><path d=\"M110 110L177.2 177.2A95 95 0 0 1 110 205Z\" stroke=\"#0f1b33\" stroke-width=\"1.5\" fill=\"#93cf96\"/><text x=\"134\" y=\"172.9\" font-size=\"13\" text-anchor=\"middle\">green</text><path d=\"M110 110L110 205A95 95 0 0 1 42.8 177.2Z\" stroke=\"#0f1b33\" stroke-width=\"1.5\" fill=\"#ee9d92\"/><text x=\"86\" y=\"172.9\" font-size=\"13\" text-anchor=\"middle\">red</text><path d=\"M110 110L42.8 177.2A95 95 0 0 1 15 110Z\" stroke=\"#0f1b33\" stroke-width=\"1.5\" fill=\"#8fb4e8\"/><text x=\"52.1\" y=\"139\" font-size=\"13\" text-anchor=\"middle\">blue</text><path d=\"M110 110L15 110A95 95 0 0 1 42.8 42.8Z\" stroke=\"#0f1b33\" stroke-width=\"1.5\" fill=\"#ee9d92\"/><text x=\"52.1\" y=\"91\" font-size=\"13\" text-anchor=\"middle\">red</text><path d=\"M110 110L42.8 42.8A95 95 0 0 1 110 15Z\" stroke=\"#0f1b33\" stroke-width=\"1.5\" fill=\"#f2c75c\"/><text x=\"86\" y=\"57.1\" font-size=\"13\" text-anchor=\"middle\">yellow</text><line x1=\"110\" y1=\"110\" x2=\"140\" y2=\"68\" stroke=\"#0f1b33\" stroke-width=\"3\"/><polygon points=\"140,68 138.9,78.9 130,72.6\" fill=\"#0f1b33\"/><circle cx=\"110\" cy=\"110\" r=\"5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/></svg>",
+       "c": [
+        "red and blue",
+        "green and yellow",
+        "blue and green",
+        "red and yellow"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Comparing outcomes",
+       "e": "Green has 1 section and yellow has 1 section, so they are equally likely (1 out of 8 each). Red has 4 and blue has 2."
+      },
+      {
+       "t": "text",
+       "q": "A bag has 3 red, 7 blue and 5 white counters. One counter is taken without looking. Which colour is most likely?",
+       "ans": [
+        "blue"
+       ],
+       "m": 1,
+       "s": "Comparing outcomes",
+       "e": "Blue has the most counters (7 out of 15), so blue is the most likely colour."
+      },
+      {
+       "t": "num",
+       "q": "A bag has 3 red, 7 blue and 5 white counters. How many more red counters must be added so that red and blue are equally likely?",
+       "ans": [
+        4
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Comparing outcomes",
+       "e": "Red and blue are equally likely when there are the same number of each: 7 − 3 = 4 more red counters."
+      },
+      {
+       "q": "A 1–6 dice is rolled once. Which pair of events is mutually exclusive?",
+       "c": [
+        "rolling an even number and rolling more than 4",
+        "rolling a 2 and rolling a 5",
+        "rolling an odd number and rolling a 3",
+        "rolling less than 3 and rolling an even number"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Mutually exclusive",
+       "e": "One roll gives only one number, so you cannot get a 2 and a 5 together. The others can happen together: 6 is even and more than 4; 3 is odd and is 3; 2 is less than 3 and even."
+      },
+      {
+       "t": "open",
+       "q": "A 1–6 dice is rolled once. Are “rolling an odd number” and “rolling a square number” mutually exclusive? Explain your answer.",
+       "m": 1,
+       "s": "Mutually exclusive",
+       "ms": "1 mark: “No” with a correct reason, e.g. 1 is both odd and a square number (odd: 1, 3, 5; square: 1, 4). Do not accept “No” without a reason, or a reason using 9 (not on the dice).",
+       "e": "Odd numbers: 1, 3, 5. Square numbers on the dice: 1, 4. The number 1 is in both lists, so both events happen if you roll a 1. They are not mutually exclusive."
+      },
+      {
+       "t": "num",
+       "q": "Lina threw a drawing pin 50 times. It landed point up 30 times. Use her results to predict how many times it will land point up in 500 throws.",
+       "ans": [
+        300
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Experiments",
+       "e": "500 throws is 10 times as many as 50, so predict 30 × 10 = 300 times point up."
+      },
+      {
+       "q": "Four students each threw the same paper cup to estimate how likely it is to land upright. Whose estimate is likely to be the most reliable?",
+       "c": [
+        "Sara: 10 throws",
+        "Adam: 20 throws",
+        "Hana: 50 throws",
+        "Malek: 400 throws"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Experiments",
+       "e": "More trials give a more reliable estimate, so Malek’s 400 throws give the best estimate."
+      },
+      {
+       "q": "Which probability can only be estimated by doing an experiment with many trials?",
+       "c": [
+        "a fair coin landing heads",
+        "rolling a 3 on a fair dice",
+        "a paper cup landing upside down",
+        "taking a red card from 5 red and 5 blue cards"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Experiments",
+       "e": "A cup’s three landing positions are not equally likely and we cannot count them, so only an experiment can estimate this. The others have equally likely outcomes we can count."
+      },
+      {
+       "t": "num",
+       "q": "A fair spinner has 4 equal sections: red, blue, green and yellow. It is spun 80 times. About how many times would you expect it to land on red?",
+       "ans": [
+        20
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Expected frequency",
+       "e": "Red is 1 out of 4 sections. 80 ÷ 4 = 20 times."
+      },
+      {
+       "t": "text",
+       "q": "Complete the sentence with one word: when a fair coin is thrown, getting a head and getting a tail are ______ likely.",
+       "ans": [
+        "equally"
+       ],
+       "m": 1,
+       "s": "Probability language",
+       "e": "A fair coin has two outcomes with the same chance, so they are equally likely (each is an even chance)."
+      },
+      {
+       "t": "open",
+       "q": "Sami threw a coin 10 times and got 7 heads. He says, “This coin is unfair.” Do you agree? Explain your answer.",
+       "m": 2,
+       "s": "Experiments",
+       "ms": "1 mark: does not agree / cannot tell (oe). 1 mark: reason — 10 throws are too few; results vary by chance; he should throw it many more times (e.g. 100 or more) and see if the proportion of heads stays well above half. Accept “disagree” only with a reason about the small number of trials.",
+       "e": "No (or not yet). With only 10 throws, getting 7 heads is quite possible with a fair coin, just by chance. To decide, he should throw it many more times, for example 200, and see whether the proportion of heads is close to half."
+      },
+      {
+       "t": "open",
+       "q": "A spinner has 6 equal sections. Decide how to colour it so that: red is likely, blue is unlikely, and yellow is impossible. Write how many sections of each colour you would use.",
+       "m": 2,
+       "s": "Probability language",
+       "ms": "2 marks: a correct colouring using red and blue only (no yellow), with red on 4 or 5 sections and blue on 1 or 2 sections, e.g. 4 red + 2 blue or 5 red + 1 blue; other colours (not yellow) may fill sections only if red stays at 4 or more and blue at 1 or 2. 1 mark: two of the three conditions met. Do not accept 3 red (that is an even chance, not likely).",
+       "e": "Example: 5 red and 1 blue. Red: 5 out of 6 — likely. Blue: 1 out of 6 — unlikely. Yellow: 0 out of 6 — impossible. (4 red and 2 blue also works. 3 red would be an even chance, not likely.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Scale: impossible – unlikely – even chance – likely – certain (0 to 1).",
+    "With equally likely outcomes: chance = number of ways out of the total number of outcomes. Compare with “more likely”, “less likely”, “equally likely”, “twice as likely”.",
+    "Mutually exclusive events cannot happen in the same trial; check for a shared outcome.",
+    "Some probabilities can only be estimated by experiment. More trials → more reliable estimate.",
+    "Expected frequency = number of trials × proportion; real results vary because of chance."
+   ]
+  }
+ ]
+}

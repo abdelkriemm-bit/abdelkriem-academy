@@ -1,0 +1,596 @@
+{
+ "slug": "cp6m-capacity-volume-surface-area",
+ "title": "Capacity, Volume and Surface Area",
+ "kicker": "Checkpoint 6 Maths · Geometry and Measure · 6Gg.05 · 6Gg.07",
+ "summary": "Understand the difference between volume and capacity, link cm³ to ml, find volume by counting cubes, and calculate surface area from the areas of the faces.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Understand the **difference between capacity and volume**. (6Gg.05)",
+    "Understand how the **area of 2D shapes** is linked to the **surface area of 3D shapes**. (6Gg.07)",
+    "This means: know that volume is the space a 3D object takes up and capacity is how much a container can hold, use the right units (cm³, m³, ml, l), find volume by counting cubes, and find the surface area of cubes, cuboids and prisms by adding the areas of their faces (the area of the net)."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "volume",
+     "الحجم — the amount of space a 3D object takes up"
+    ],
+    [
+     "capacity",
+     "السعة — the amount a container can hold when it is full"
+    ],
+    [
+     "cubic centimetre (cm³)",
+     "سنتيمتر مكعب — the volume of a cube 1 cm by 1 cm by 1 cm"
+    ],
+    [
+     "cubic metre (m³)",
+     "متر مكعب — the volume of a cube 1 m by 1 m by 1 m"
+    ],
+    [
+     "millilitre (ml) / litre (l)",
+     "مليلتر / لتر — units of capacity; 1000 ml = 1 l"
+    ],
+    [
+     "container",
+     "وعاء — something that holds things (a jug, a bottle, a box, a tank)"
+    ],
+    [
+     "surface area",
+     "مساحة السطح الكلية — the total area of all the faces of a 3D shape"
+    ],
+    [
+     "net",
+     "شبكة المجسم — the flat shape that folds to make the 3D shape"
+    ],
+    [
+     "layer",
+     "طبقة — one level of cubes in a cuboid"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "2. Volume: how much space"
+  },
+  {
+   "type": "p",
+   "text": "The **volume** of an object is the amount of space it takes up. A brick, a box, a stone and even you have a volume. We measure volume in **cubic units**: a cube with edges of 1 cm has a volume of **1 cm³** (one cubic centimetre). Big volumes, like a room, are measured in **m³**."
+  },
+  {
+   "type": "p",
+   "text": "To find the volume of a shape made of centimetre cubes, **count the cubes**. For a cuboid, count in **layers**: count the cubes in one layer, then multiply by the number of layers."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 470 225\" width=\"470\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"60,36 89.4,53 60,70 30.6,53\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"89.4,87 60,104 60,70 89.4,53\" fill=\"#cfdcf0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"30.6,87 60,104 60,70 30.6,53\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><text x=\"60\" y=\"160\" text-anchor=\"middle\" font-size=\"13\">1 cm cube</text><text x=\"60\" y=\"178\" text-anchor=\"middle\" font-size=\"13\">volume 1 cm³</text><polygon points=\"300,15 326,30 300,45 274,30\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"222.1,120 248,135 248,105 222.1,90\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"274,30 300,45 274,60 248,45\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"326,30 352,45 326,60 300,45\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"248,135 274,150 274,120 248,105\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"403.9,135 377.9,150 377.9,120 403.9,105\" fill=\"#cfdcf0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"300,45 326,60 300,75 274,60\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"248,45 274,60 248,75 222.1,60\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"222.1,90 248,105 248,75 222.1,60\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"352,45 377.9,60 352,75 326,60\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"274,150 300,165 300,135 274,120\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"377.9,150 352,165 352,135 377.9,120\" fill=\"#cfdcf0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"274,60 300,75 274,90 248,75\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"248,105 274,120 274,90 248,75\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"326,60 352,75 326,90 300,75\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"377.9,60 403.9,75 377.9,90 352,75\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"403.9,105 377.9,120 377.9,90 403.9,75\" fill=\"#cfdcf0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"352,165 326,180 326,150 352,135\" fill=\"#cfdcf0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"300,165 326,180 326,150 300,135\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"300,75 326,90 300,105 274,90\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"274,120 300,135 300,105 274,90\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"352,75 377.9,90 352,105 326,90\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"377.9,120 352,135 352,105 377.9,90\" fill=\"#cfdcf0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"326,90 352,105 326,120 300,105\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"352,135 326,150 326,120 352,105\" fill=\"#cfdcf0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"300,135 326,150 326,120 300,105\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><text x=\"252\" y=\"176\" text-anchor=\"end\">4 cm</text><text x=\"387\" y=\"183.5\">3 cm</text><text x=\"413.9\" y=\"110\">2 cm</text></svg>",
+   "caption": "One layer of the cuboid has 4 × 3 = 12 cubes. There are 2 layers, so the volume is 12 × 2 = 24 cm³."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Count how many cubes are along the length and the width of the bottom layer, and multiply (4 × 3 = 12).",
+    "Count the layers (2).",
+    "Multiply: 12 × 2 = 24 cubes, so the volume is 24 cm³.",
+    "Remember the cubes you cannot see: a cuboid is solid, so every layer is full."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Notice that 4 × 3 × 2 = 24: for a cuboid, multiplying the length, width and height gives the number of centimetre cubes."
+  },
+  {
+   "type": "h2",
+   "text": "3. Capacity: how much a container holds"
+  },
+  {
+   "type": "p",
+   "text": "The **capacity** of a container is the greatest amount it can hold when it is full: water in a bottle, juice in a carton, rice in a jar. Capacity is usually measured in **millilitres (ml)** and **litres (l)**. **1 litre = 1000 ml.**"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 250 270\" width=\"250\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"70,250 180,250 180,120 70,120\" fill=\"#cfe6fb\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polyline points=\"70,35 70,250 180,250 180,35\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><path d=\"M180 60C220 60 220 130 180 140\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"5\"/><text x=\"64\" y=\"215\" text-anchor=\"end\" font-size=\"13\">200</text><text x=\"64\" y=\"175\" text-anchor=\"end\" font-size=\"13\">400</text><text x=\"64\" y=\"135\" text-anchor=\"end\" font-size=\"13\">600</text><text x=\"64\" y=\"95\" text-anchor=\"end\" font-size=\"13\">800</text><text x=\"64\" y=\"55\" text-anchor=\"end\" font-size=\"13\">1000</text><path d=\"M70 250h18M70 240h9M70 230h9M70 220h9M70 210h18M70 200h9M70 190h9M70 180h9M70 170h18M70 160h9M70 150h9M70 140h9M70 130h18M70 120h9M70 110h9M70 100h9M70 90h18M70 80h9M70 70h9M70 60h9M70 50h18\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"110\" y=\"22\" text-anchor=\"middle\" font-weight=\"bold\">ml</text></svg>",
+   "caption": "This jug has a capacity of 1000 ml (1 litre). The labels go up in 200 ml and each small mark is 50 ml. The water level is 650 ml."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Find the difference between two labelled numbers (400 − 200 = 200 ml).",
+    "Count the spaces between them (4 spaces).",
+    "Divide: 200 ÷ 4 = 50 ml for each small mark.",
+    "Count up from the labelled number just below the level: 600 + 50 = 650 ml. Read the level at the flat surface of the liquid, with your eye level with it."
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "",
+    "Volume",
+    "Capacity"
+   ],
+   "rows": [
+    [
+     "What it means",
+     "the space an object takes up",
+     "how much a container can hold"
+    ],
+    [
+     "Which objects",
+     "any 3D object, solid or hollow",
+     "only containers (they are hollow and can be filled)"
+    ],
+    [
+     "Usual units",
+     "cm³, m³",
+     "ml, l"
+    ],
+    [
+     "Example",
+     "the volume of a brick is 1500 cm³",
+     "the capacity of a bottle is 1.5 l"
+    ],
+    [
+     "Changes?",
+     "a stone's volume stays the same",
+     "a jug's capacity stays the same, but the volume of water in it can change"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "So a full 1 litre bottle has a capacity of 1 litre. If you pour some out, the capacity is still 1 litre, but the **volume of water** inside is now less. The volume of liquid in a container can never be more than its capacity (or it overflows)."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الفرق بين الحجم والسعة",
+   "items": [
+    "الحجم = المساحة اللي الجسم واخدها في الفراغ (cm³). أي جسم ليه حجم، حتى الطوبة والحجر.",
+    "السعة = الوعاء يشيل قد إيه لما يتملي (ml و l). الكوباية والزجاجة والخزان ليهم سعة.",
+    "افتكر: 1 cm³ = 1 ml  و  1000 ml = 1 لتر."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "4. Linking cm³ and ml"
+  },
+  {
+   "type": "p",
+   "text": "Volume and capacity units are linked: **1 cm³ of space holds exactly 1 ml of liquid.** A hollow cube 10 cm by 10 cm by 10 cm has 10 × 10 × 10 = 1000 centimetre cubes of space, so it holds 1000 ml = 1 litre."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 450 210\" width=\"450\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"60,55 180,55 226,16.4 106,16.4\" fill=\"#e6f2fd\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"60,175 180,175 180,55 60,55\" fill=\"#cfe6fb\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"180,175 226,136.4 226,16.4 180,55\" fill=\"#cfe6fb\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><path d=\"M106 136.4L226 136.4M60 175L106 136.4M106 136.4L106 16.4\" stroke=\"#0f1b33\" stroke-width=\"1.4\" stroke-dasharray=\"5 4\" fill=\"none\"/><path d=\"M60 175L180 175M180 175L226 136.4M60 55L180 55M180 55L226 16.4M106 16.4L226 16.4M60 55L106 16.4M180 175L180 55M60 175L60 55M226 136.4L226 16.4\" stroke=\"#0f1b33\" stroke-width=\"2\" fill=\"none\" stroke-linejoin=\"round\"/><text x=\"120\" y=\"195\" text-anchor=\"middle\">10 cm</text><text x=\"52\" y=\"120\" text-anchor=\"end\">10 cm</text><text x=\"213\" y=\"171.7\">10 cm</text><text x=\"360\" y=\"90\" text-anchor=\"middle\" font-weight=\"bold\">10 × 10 × 10</text><text x=\"360\" y=\"114\" text-anchor=\"middle\">= 1000 cm³</text><text x=\"360\" y=\"138\" text-anchor=\"middle\">= 1000 ml</text><text x=\"360\" y=\"162\" text-anchor=\"middle\" font-weight=\"bold\">= 1 litre</text></svg>",
+   "caption": "A 10 cm cube holds exactly 1 litre."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Volume",
+    "Capacity"
+   ],
+   "rows": [
+    [
+     "1 cm³",
+     "1 ml"
+    ],
+    [
+     "250 cm³",
+     "250 ml"
+    ],
+    [
+     "1000 cm³",
+     "1000 ml = 1 l"
+    ],
+    [
+     "2500 cm³",
+     "2500 ml = 2.5 l"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Finding the volume of a stone (displacement).** When you put a solid object into water, the water level goes up by the **volume of the object**, because the object pushes the water out of the way."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 460 285\" width=\"460\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"60,250 160,250 160,130 60,130\" fill=\"#cfe6fb\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polyline points=\"60,35 60,250 160,250 160,35\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><text x=\"54\" y=\"215\" text-anchor=\"end\" font-size=\"13\">100</text><text x=\"54\" y=\"175\" text-anchor=\"end\" font-size=\"13\">200</text><text x=\"54\" y=\"135\" text-anchor=\"end\" font-size=\"13\">300</text><text x=\"54\" y=\"95\" text-anchor=\"end\" font-size=\"13\">400</text><text x=\"54\" y=\"55\" text-anchor=\"end\" font-size=\"13\">500</text><path d=\"M60 250h18M60 242h9M60 234h9M60 226h9M60 218h9M60 210h18M60 202h9M60 194h9M60 186h9M60 178h9M60 170h18M60 162h9M60 154h9M60 146h9M60 138h9M60 130h18M60 122h9M60 114h9M60 106h9M60 98h9M60 90h18M60 82h9M60 74h9M60 66h9M60 58h9M60 50h18\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><polygon points=\"300,250 400,250 400,98 300,98\" fill=\"#cfe6fb\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"324,250 320,236 336,222 360,224 378,238 374,250\" fill=\"#b9b2a6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polyline points=\"300,35 300,250 400,250 400,35\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><text x=\"294\" y=\"215\" text-anchor=\"end\" font-size=\"13\">100</text><text x=\"294\" y=\"175\" text-anchor=\"end\" font-size=\"13\">200</text><text x=\"294\" y=\"135\" text-anchor=\"end\" font-size=\"13\">300</text><text x=\"294\" y=\"95\" text-anchor=\"end\" font-size=\"13\">400</text><text x=\"294\" y=\"55\" text-anchor=\"end\" font-size=\"13\">500</text><path d=\"M300 250h18M300 242h9M300 234h9M300 226h9M300 218h9M300 210h18M300 202h9M300 194h9M300 186h9M300 178h9M300 170h18M300 162h9M300 154h9M300 146h9M300 138h9M300 130h18M300 122h9M300 114h9M300 106h9M300 98h9M300 90h18M300 82h9M300 74h9M300 66h9M300 58h9M300 50h18\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"110\" y=\"272\" text-anchor=\"middle\" font-size=\"13\">before</text><text x=\"350\" y=\"272\" text-anchor=\"middle\" font-size=\"13\">after adding the stone</text><text x=\"30\" y=\"22\" font-weight=\"bold\">ml</text><text x=\"270\" y=\"22\" font-weight=\"bold\">ml</text><path d=\"M190 150h70\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"268,150 258,145 258,155\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/></svg>",
+   "caption": "The water level rises from 300 ml to 380 ml, so the stone has a volume of 380 − 300 = 80 cm³."
+  },
+  {
+   "type": "h2",
+   "text": "5. Surface area: adding the areas of the faces"
+  },
+  {
+   "type": "p",
+   "text": "The **surface area** of a 3D shape is the **total area of all its faces**. Imagine wrapping the shape in paper with no overlaps: the amount of paper is the surface area. If you unfold the shape into its net, the **area of the net = the surface area**. Surface area is an area, so the units are **cm² or m²**, not cm³."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Sketch the net, or list all the faces (do not forget the ones at the back and underneath).",
+    "Find the area of each face (rectangle: length × width; right-angled triangle: base × height ÷ 2).",
+    "Add all the areas. For a cuboid, opposite faces are identical, so find three different faces and double the total.",
+    "Write the answer in square units (cm²)."
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 293\" width=\"320\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"88,25 208,25 208,73 88,73\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.8\" stroke-linejoin=\"round\"/><polygon points=\"88,73 208,73 208,145 88,145\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.8\" stroke-linejoin=\"round\"/><polygon points=\"40,73 88,73 88,145 40,145\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.8\" stroke-linejoin=\"round\"/><polygon points=\"208,73 256,73 256,145 208,145\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.8\" stroke-linejoin=\"round\"/><polygon points=\"88,145 208,145 208,193 88,193\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.8\" stroke-linejoin=\"round\"/><polygon points=\"88,193 208,193 208,265 88,265\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.8\" stroke-linejoin=\"round\"/><text x=\"148\" y=\"54\" text-anchor=\"middle\" font-size=\"13\">10 cm²</text><text x=\"148\" y=\"114\" text-anchor=\"middle\" font-size=\"13\">15 cm²</text><text x=\"64\" y=\"114\" text-anchor=\"middle\" font-size=\"13\">6 cm²</text><text x=\"232\" y=\"114\" text-anchor=\"middle\" font-size=\"13\">6 cm²</text><text x=\"148\" y=\"174\" text-anchor=\"middle\" font-size=\"13\">10 cm²</text><text x=\"148\" y=\"234\" text-anchor=\"middle\" font-size=\"13\">15 cm²</text><text x=\"148\" y=\"283\" text-anchor=\"middle\" font-size=\"13\">5 cm</text><text x=\"214\" y=\"234\" font-size=\"13\">3 cm</text><text x=\"214\" y=\"174\" font-size=\"13\">2 cm</text></svg>",
+   "caption": "The net of a cuboid 5 cm by 3 cm by 2 cm. Faces: two of 15 cm², two of 10 cm², two of 6 cm². Surface area = 2 × (15 + 10 + 6) = 62 cm²."
+  },
+  {
+   "type": "p",
+   "text": "**Cube:** all 6 faces are identical squares, so **surface area = 6 × area of one face**. A cube with edges of 3 cm: one face = 3 × 3 = 9 cm², surface area = 6 × 9 = 54 cm²."
+  },
+  {
+   "type": "p",
+   "text": "**Triangular prism:** 2 triangle ends + 3 rectangles. If the ends are right-angled triangles, you can use base × height ÷ 2 for each end."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 330 215\" width=\"330\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"40,190 144,190 40,112\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"144,190 40,112 139.6,28.4 243.6,106.4\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><path d=\"M139.6 106.4L243.6 106.4M139.6 106.4L139.6 28.4M40 190L139.6 106.4\" stroke=\"#0f1b33\" stroke-width=\"1.4\" stroke-dasharray=\"5 4\" fill=\"none\"/><path d=\"M40 190L144 190M144 190L40 112M40 190L40 112M243.6 106.4L139.6 28.4M144 190L243.6 106.4M40 112L139.6 28.4\" stroke=\"#0f1b33\" stroke-width=\"2\" fill=\"none\" stroke-linejoin=\"round\"/><polyline points=\"50,190 50,180 40,180\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"92\" y=\"210\" text-anchor=\"middle\">4 cm</text><text x=\"34\" y=\"156\" text-anchor=\"end\">3 cm</text><text x=\"126\" y=\"160.5\">5 cm</text><text x=\"203.8\" y=\"162.2\">10 cm</text></svg>",
+   "caption": "A triangular prism 10 cm long. Its ends are right-angled triangles with sides 3 cm, 4 cm and 5 cm."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "",
+    "Area",
+    "Surface area",
+    "Volume",
+    "Capacity"
+   ],
+   "rows": [
+    [
+     "What",
+     "space inside a flat 2D shape",
+     "total area of all faces of a 3D shape",
+     "space a 3D object takes up",
+     "amount a container holds"
+    ],
+    [
+     "Units",
+     "cm², m²",
+     "cm², m²",
+     "cm³, m³",
+     "ml, l"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Same volume, different surface area",
+   "text": "8 centimetre cubes can be put together as a 2 × 2 × 2 cube (surface area 6 × 4 = 24 cm²) or as a long 8 × 1 × 1 rod (surface area 2 × (8 + 8 + 1) = 34 cm²). Both have a volume of 8 cm³, but the long rod has more surface showing. The more spread out the cubes are, the bigger the surface area."
+  },
+  {
+   "type": "h2",
+   "text": "6. Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1**\nA cuboid is made of centimetre cubes. It is 4 cubes long, 3 cubes wide and 2 cubes high (see section 2). What is its volume? [1]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "One layer: 4 × 3 = 12 cubes. Two layers: 12 × 2 = 24 cubes.",
+    "Volume = **24 cm³**.",
+    "Common mistake: counting only the cubes you can see in the picture (some are hidden inside and at the back)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2**\nWrite **volume** or **capacity** for each sentence. [2]\n(a) The amount of water a fish tank can hold.\n(b) The amount of space a wooden block takes up.\n(c) A carton holds 250 ml of juice.\n(d) A stone takes up 80 cm³ of space."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "(a) **capacity** (a container, how much it can hold)",
+    "(b) **volume** (a solid object, space it takes up)",
+    "(c) **capacity** (container, ml)",
+    "(d) **volume** (solid object, cm³)",
+    "Mark-scheme style: 2 marks for all four correct, 1 mark for two or three correct."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3**\nLook at the jug in section 3.\n(a) How much water is in the jug? [1]\n(b) How much more water is needed to fill the jug to its capacity of 1 litre? [1]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "(a) Each small mark is 200 ÷ 4 = 50 ml. The level is one mark above 600: **650 ml**.",
+    "(b) 1 litre = 1000 ml. 1000 − 650 = **350 ml**.",
+    "Common mistake: thinking each small mark is 10 ml or 100 ml without working it out."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4**\nA container has 300 ml of water. Layla puts a stone in it and the level rises to 380 ml (see section 4). What is the volume of the stone? Give the units. [1]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "The rise is 380 − 300 = 80 ml. The stone pushed out 80 ml of water, and 1 ml = 1 cm³.",
+    "Volume of the stone = **80 cm³**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5**\nA cuboid is 5 cm long, 3 cm wide and 2 cm high. Calculate its surface area. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Top and bottom: 5 × 3 = 15 cm² each. Front and back: 5 × 2 = 10 cm² each. Two ends: 3 × 2 = 6 cm² each.",
+    "Total: 15 + 15 + 10 + 10 + 6 + 6 = **62 cm²** (or 2 × (15 + 10 + 6) = 62).",
+    "Mark-scheme style: 1 mark for at least two correct face areas; 1 mark for 62.",
+    "Common mistakes: adding only three faces (31 cm²), or working out the volume (5 × 3 × 2 = 30 cm³) instead."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** (calculator allowed)\nCalculate the surface area of the triangular prism in section 5. Its ends are right-angled triangles with sides 3 cm, 4 cm and 5 cm, and it is 10 cm long. [3]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Each triangle end: 4 × 3 ÷ 2 = 6 cm². Two ends: 12 cm².",
+    "Rectangles (one for each side of the triangle, each 10 cm long): 4 × 10 = 40, 3 × 10 = 30, 5 × 10 = 50 cm². Total 120 cm².",
+    "Surface area = 12 + 120 = **132 cm²**.",
+    "Common mistake: using the 5 cm side for the triangle's area. For the rectangles all three sides are used, because each side of the triangle has its own rectangle."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Mixing up volume and capacity: capacity is only for containers; volume is for any 3D object.",
+    "Wrong units: volume in cm³ or m³, capacity in ml or l, surface area in cm² or m².",
+    "Counting only the visible cubes in a drawing of a cuboid (hidden cubes count too).",
+    "Reading scales without working out what one small mark is worth.",
+    "Forgetting that 1 l = 1000 ml (not 100 ml).",
+    "Leaving out faces when finding surface area: a cuboid always has 6 faces, a triangular prism 5.",
+    "Confusing surface area (cm², add face areas) with volume (cm³, count cubes)."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "\"Draw a ring around the best unit\" or \"Write the missing unit\" (cm³, ml, l, cm²).",
+    "Sort statements or objects into volume / capacity, sometimes in a table or with matching lines.",
+    "Read the level of liquid on a measuring jug or cylinder; then \"How much more is needed to fill it?\"",
+    "\"This shape is made of centimetre cubes. What is its volume?\" Count layers; remember hidden cubes.",
+    "\"Here is the net of a cuboid. Work out the surface area.\" Show the area of each face.",
+    "\"Explain the difference between volume and capacity\" or \"Is Ahmed correct?\" Use the words space and holds.",
+    "Converting between ml and l (2.5 l = 2500 ml) and using 1 cm³ = 1 ml."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "7. Practice"
+  },
+  {
+   "type": "test",
+   "title": "Practice: capacity, volume and surface area",
+   "timed": false,
+   "intro": "Mixed questions from easy to Checkpoint-hard. You may use a calculator for the surface area questions. Always think about the units.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 25,
+     "calc": true,
+     "questions": [
+      {
+       "q": "Which unit would you use for the capacity of a water bottle?",
+       "c": [
+        "cm²",
+        "litres",
+        "cm",
+        "kg"
+       ],
+       "a": 1,
+       "m": 1,
+       "e": "Capacity (how much a container holds) is measured in ml or litres.",
+       "s": "Units"
+      },
+      {
+       "q": "Which sentence describes the capacity of a box?",
+       "c": [
+        "the amount the box can hold",
+        "the area of the outside of the box",
+        "the length of its edges added together",
+        "the mass of the empty box"
+       ],
+       "a": 0,
+       "m": 1,
+       "e": "Capacity is how much a container can hold when full. The area of the outside is the surface area.",
+       "s": "Capacity and volume"
+      },
+      {
+       "t": "num",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 190\" width=\"240\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"54.6,112 82.3,128 82.3,96 54.6,80\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"110,16 137.7,32 110,48 82.3,32\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"82.3,128 110,144 110,112 82.3,96\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"193.1,128 165.4,144 165.4,112 193.1,96\" fill=\"#cfdcf0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"137.7,32 165.4,48 137.7,64 110,48\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"82.3,32 110,48 82.3,64 54.6,48\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"54.6,80 82.3,96 82.3,64 54.6,48\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"165.4,144 137.7,160 137.7,128 165.4,112\" fill=\"#cfdcf0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"110,144 137.7,160 137.7,128 110,112\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"165.4,48 193.1,64 165.4,80 137.7,64\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"193.1,96 165.4,112 165.4,80 193.1,64\" fill=\"#cfdcf0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"110,48 137.7,64 110,80 82.3,64\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"82.3,96 110,112 110,80 82.3,64\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"137.7,64 165.4,80 137.7,96 110,80\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"165.4,112 137.7,128 137.7,96 165.4,80\" fill=\"#cfdcf0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"110,112 137.7,128 137.7,96 110,80\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/></svg>",
+       "q": "This cuboid is made of centimetre cubes. What is its volume?",
+       "ans": [
+        12
+       ],
+       "tol": 0,
+       "unit": "cm^{3}",
+       "m": 1,
+       "e": "One layer is 3 × 2 = 6 cubes. There are 2 layers, so 6 × 2 = 12 cubes. Volume = 12 cm³. (Some cubes are hidden at the back.)",
+       "s": "Volume by counting cubes"
+      },
+      {
+       "t": "num",
+       "q": "Write 2.5 litres in millilitres.",
+       "ans": [
+        2500
+       ],
+       "tol": 0,
+       "unit": "ml",
+       "m": 1,
+       "e": "1 litre = 1000 ml, so 2.5 litres = 2.5 × 1000 = 2500 ml.",
+       "s": "Capacity units"
+      },
+      {
+       "t": "num",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 230 260\" width=\"230\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"70,240 180,240 180,136 70,136\" fill=\"#cfe6fb\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polyline points=\"70,25 70,240 180,240 180,25\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><path d=\"M180 50C220 50 220 120 180 130\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"5\"/><text x=\"64\" y=\"205\" text-anchor=\"end\" font-size=\"13\">100</text><text x=\"64\" y=\"165\" text-anchor=\"end\" font-size=\"13\">200</text><text x=\"64\" y=\"125\" text-anchor=\"end\" font-size=\"13\">300</text><text x=\"64\" y=\"85\" text-anchor=\"end\" font-size=\"13\">400</text><text x=\"64\" y=\"45\" text-anchor=\"end\" font-size=\"13\">500</text><path d=\"M70 240h18M70 232h9M70 224h9M70 216h9M70 208h9M70 200h18M70 192h9M70 184h9M70 176h9M70 168h9M70 160h18M70 152h9M70 144h9M70 136h9M70 128h9M70 120h18M70 112h9M70 104h9M70 96h9M70 88h9M70 80h18M70 72h9M70 64h9M70 56h9M70 48h9M70 40h18\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"110\" y=\"22\" text-anchor=\"middle\" font-weight=\"bold\">ml</text></svg>",
+       "q": "How much water is in this jug?",
+       "ans": [
+        260
+       ],
+       "tol": 0,
+       "unit": "ml",
+       "m": 1,
+       "e": "The labels go up in 100 ml with 5 spaces between them, so each small mark is 100 ÷ 5 = 20 ml. The level is 3 marks above 200: 200 + 60 = 260 ml.",
+       "s": "Reading scales"
+      },
+      {
+       "t": "num",
+       "q": "A 1 litre jug has 450 ml of milk in it. How much more milk is needed to fill the jug?",
+       "ans": [
+        550
+       ],
+       "tol": 0,
+       "unit": "ml",
+       "m": 1,
+       "e": "1 litre = 1000 ml. 1000 − 450 = 550 ml.",
+       "s": "Capacity"
+      },
+      {
+       "t": "num",
+       "q": "A measuring cylinder contains 250 ml of water. A metal key is dropped in and the water level rises to 310 ml. What is the volume of the key in cm³?",
+       "ans": [
+        60
+       ],
+       "tol": 0,
+       "unit": "cm^{3}",
+       "m": 1,
+       "e": "Rise = 310 − 250 = 60 ml. 1 ml = 1 cm³, so the key has a volume of 60 cm³.",
+       "s": "Volume and capacity link"
+      },
+      {
+       "t": "num",
+       "q": "A box is 5 cm long, 4 cm wide and 3 cm high. How many centimetre cubes fill it exactly?",
+       "ans": [
+        60
+       ],
+       "tol": 0,
+       "m": 1,
+       "e": "One layer: 5 × 4 = 20 cubes. 3 layers: 20 × 3 = 60 cubes. (The box has a capacity of 60 cm³.)",
+       "s": "Volume by counting cubes"
+      },
+      {
+       "t": "num",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 230 185\" width=\"230\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"60,50 160,50 198.3,17.9 98.3,17.9\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"60,150 160,150 160,50 60,50\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"160,150 198.3,117.9 198.3,17.9 160,50\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><path d=\"M98.3 117.9L198.3 117.9M60 150L98.3 117.9M98.3 117.9L98.3 17.9\" stroke=\"#0f1b33\" stroke-width=\"1.4\" stroke-dasharray=\"5 4\" fill=\"none\"/><path d=\"M60 150L160 150M160 150L198.3 117.9M60 50L160 50M160 50L198.3 17.9M98.3 17.9L198.3 17.9M60 50L98.3 17.9M160 150L160 50M60 150L60 50M198.3 117.9L198.3 17.9\" stroke=\"#0f1b33\" stroke-width=\"2\" fill=\"none\" stroke-linejoin=\"round\"/><text x=\"110\" y=\"172\" text-anchor=\"middle\">5 cm</text><text x=\"52\" y=\"105\" text-anchor=\"end\">5 cm</text></svg>",
+       "q": "Calculate the surface area of this cube.",
+       "ans": [
+        150
+       ],
+       "tol": 0,
+       "unit": "cm^{2}",
+       "m": 2,
+       "e": "One face = 5 × 5 = 25 cm². A cube has 6 identical faces: 6 × 25 = 150 cm². (1 mark for 25 seen.)",
+       "s": "Surface area"
+      },
+      {
+       "t": "num",
+       "q": "A cuboid is 6 cm long, 4 cm wide and 2 cm high. Calculate its surface area.",
+       "ans": [
+        88
+       ],
+       "tol": 0,
+       "unit": "cm^{2}",
+       "m": 2,
+       "e": "Faces: 6 × 4 = 24 (top and bottom), 6 × 2 = 12 (front and back), 4 × 2 = 8 (ends). Surface area = 2 × (24 + 12 + 8) = 2 × 44 = 88 cm². (1 mark for at least two correct face areas.)",
+       "s": "Surface area"
+      },
+      {
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 185\" width=\"440\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"35,86 57.5,99 57.5,73 35,60\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"125,86 102.5,99 102.5,73 125,60\" fill=\"#cfdcf0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"80,8 102.5,21 80,34 57.5,21\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"102.5,99 80,112 80,86 102.5,73\" fill=\"#cfdcf0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"57.5,99 80,112 80,86 57.5,73\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"102.5,21 125,34 102.5,47 80,34\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"125,60 102.5,73 102.5,47 125,34\" fill=\"#cfdcf0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"57.5,21 80,34 57.5,47 35,34\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"35,60 57.5,73 57.5,47 35,34\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"80,34 102.5,47 80,60 57.5,47\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"102.5,73 80,86 80,60 102.5,47\" fill=\"#cfdcf0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"57.5,73 80,86 80,60 57.5,47\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"330,49 352.5,62 330,75 307.5,62\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"307.5,62 330,75 307.5,88 285,75\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"285,101 307.5,114 307.5,88 285,75\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"352.5,62 375,75 352.5,88 330,75\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"330,75 352.5,88 330,101 307.5,88\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"307.5,114 330,127 330,101 307.5,88\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"375,75 397.5,88 375,101 352.5,88\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"352.5,88 375,101 352.5,114 330,101\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"330,127 352.5,140 352.5,114 330,101\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"397.5,88 420.1,101 397.5,114 375,101\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"420.1,127 397.5,140 397.5,114 420.1,101\" fill=\"#cfdcf0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"375,101 397.5,114 375,127 352.5,114\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"397.5,140 375,153 375,127 397.5,114\" fill=\"#cfdcf0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"352.5,140 375,153 375,127 352.5,114\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><text x=\"80\" y=\"170\" text-anchor=\"middle\" font-weight=\"bold\">shape A</text><text x=\"320\" y=\"170\" text-anchor=\"middle\" font-weight=\"bold\">shape B</text></svg>",
+       "q": "Shape A and shape B are each made from 8 centimetre cubes. Which statement is correct?",
+       "c": [
+        "A and B have the same volume and the same surface area.",
+        "A has a bigger volume than B.",
+        "B has a bigger volume than A.",
+        "A and B have the same volume, but B has a bigger surface area."
+       ],
+       "a": 3,
+       "m": 1,
+       "e": "Both use 8 cubes, so both have volume 8 cm³. Surface area of A (2 × 2 × 2): 6 × 4 = 24 cm². Surface area of B (4 × 2 × 1): 2 × (8 + 4 + 2) = 28 cm². So B has the bigger surface area.",
+       "s": "Volume and surface area"
+      },
+      {
+       "t": "num",
+       "q": "A triangular prism is 5 cm long. Its ends are right-angled triangles with sides 6 cm, 8 cm and 10 cm (the right angle is between the 6 cm and 8 cm sides). Calculate the surface area of the prism.",
+       "ans": [
+        168
+       ],
+       "tol": 0,
+       "unit": "cm^{2}",
+       "m": 3,
+       "e": "Each end: 6 × 8 ÷ 2 = 24 cm², two ends = 48 cm². Rectangles: 6 × 5 = 30, 8 × 5 = 40, 10 × 5 = 50, total 120 cm². Surface area = 48 + 120 = 168 cm². (1 mark for 24 or 48; 1 mark for 120 or three correct rectangles; 1 mark for 168.)",
+       "s": "Surface area of prisms"
+      },
+      {
+       "t": "num",
+       "q": "The surface area of a cube is 96 cm². What is the length of one edge of the cube?",
+       "ans": [
+        4
+       ],
+       "tol": 0,
+       "unit": "cm",
+       "m": 2,
+       "e": "A cube has 6 identical faces: 96 ÷ 6 = 16 cm² for one face. The face is a square, and 4 × 4 = 16, so each edge is 4 cm. (1 mark for 16.)",
+       "s": "Surface area"
+      },
+      {
+       "t": "open",
+       "q": "Nour says: \"My mug has a volume of 300 ml.\" Explain what Nour should have said, and why.",
+       "m": 1,
+       "ms": "1 mark: says it should be capacity (the mug can hold 300 ml) AND gives a reason, e.g. capacity is how much a container holds / ml is a unit of capacity; volume is the space the mug itself takes up. Accept \"the volume of the drink in the mug is 300 ml (when full)\" with a reason.",
+       "e": "She should say \"My mug has a capacity of 300 ml.\" Capacity is how much a container can hold, measured in ml. The volume of the mug is the space the mug itself takes up (the china), which is different.",
+       "s": "Explaining"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Volume = space an object takes up (cm³, m³). Capacity = how much a container holds (ml, l).",
+    "1 litre = 1000 ml and 1 cm³ = 1 ml, so a 10 cm cube holds 1 litre.",
+    "Volume of a cuboid of cubes: cubes in one layer × number of layers.",
+    "Read a scale by working out what each small mark is worth first.",
+    "Surface area = total area of all the faces = area of the net (cm²). Cube: 6 × one face. Cuboid: 2 × (three different faces).",
+    "A rise in water level gives the volume of the object put in."
+   ]
+  }
+ ]
+}

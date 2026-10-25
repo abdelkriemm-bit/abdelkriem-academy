@@ -1,0 +1,582 @@
+{
+ "slug": "cp8s-reactivity-of-metals",
+ "title": "The Reactivity of Metals",
+ "kicker": "Cambridge Lower Secondary · Science 0893 · Stage 8 · Chemistry",
+ "summary": "The reactivity series of nine metals, how each reacts with oxygen, water and dilute acids, the word equations and the hydrogen test, and why unreactive (inert) substances such as gold are so useful.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Describe how reactive these metals are with oxygen, water and dilute acids: sodium, potassium, calcium, magnesium, zinc, iron, copper, gold and silver. (8Cc.03)",
+    "Understand that some substances are generally unreactive and can be described as inert. (8Cc.06)"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "reactivity",
+     "النشاط الكيميائي — how easily and how fast a substance reacts"
+    ],
+    [
+     "reactivity series",
+     "سلسلة النشاط الكيميائي — a list of metals from most reactive to least reactive"
+    ],
+    [
+     "vigorous",
+     "عنيف — a fast, energetic reaction"
+    ],
+    [
+     "tarnish",
+     "يفقد لمعانه — the surface goes dull as it reacts with air"
+    ],
+    [
+     "corrode",
+     "يتآكل — a metal is slowly 'eaten away' by reacting with air and water"
+    ],
+    [
+     "hydroxide",
+     "هيدروكسيد — the alkaline product of a reactive metal and water"
+    ],
+    [
+     "salt",
+     "ملح — the compound made when a metal reacts with an acid"
+    ],
+    [
+     "inert",
+     "خامل — generally unreactive"
+    ],
+    [
+     "steam",
+     "بخار الماء — water as a hot gas"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "2. The reactivity series"
+  },
+  {
+   "type": "p",
+   "text": "Some metals react with almost anything in seconds; others stay shiny for thousands of years. Scientists put metals in order in the **reactivity series**, with the most reactive at the top. You need to know these nine metals:"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 320\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"13\"><text x=\"105\" y=\"22\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\">reactivity series</text><rect x=\"40\" y=\"40\" width=\"130\" height=\"30\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"105\" y=\"60\" text-anchor=\"middle\">potassium</text><rect x=\"40\" y=\"70\" width=\"130\" height=\"30\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"105\" y=\"90\" text-anchor=\"middle\">sodium</text><rect x=\"40\" y=\"100\" width=\"130\" height=\"30\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"105\" y=\"120\" text-anchor=\"middle\">calcium</text><rect x=\"40\" y=\"130\" width=\"130\" height=\"30\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"105\" y=\"150\" text-anchor=\"middle\">magnesium</text><rect x=\"40\" y=\"160\" width=\"130\" height=\"30\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"105\" y=\"180\" text-anchor=\"middle\">zinc</text><rect x=\"40\" y=\"190\" width=\"130\" height=\"30\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"105\" y=\"210\" text-anchor=\"middle\">iron</text><rect x=\"40\" y=\"220\" width=\"130\" height=\"30\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"105\" y=\"240\" text-anchor=\"middle\">copper</text><rect x=\"40\" y=\"250\" width=\"130\" height=\"30\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"105\" y=\"270\" text-anchor=\"middle\">silver</text><rect x=\"40\" y=\"280\" width=\"130\" height=\"30\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"105\" y=\"300\" text-anchor=\"middle\">gold</text><line x1=\"22\" y1=\"310\" x2=\"22\" y2=\"44.8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"22,40 25.1,47.4 18.9,47.4\" fill=\"#0f1b33\"/><text x=\"14\" y=\"175.0\" text-anchor=\"middle\" transform=\"rotate(-90 14 175.0)\">more reactive</text><text x=\"260\" y=\"22\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\">with water</text><text x=\"445\" y=\"22\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\">with dilute acid</text><path d=\"M180 44 L188 44 L188 126 L180 126\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.3\"/><text x=\"194\" y=\"81\">react with</text><text x=\"194\" y=\"97\">cold water</text><path d=\"M180 134 L188 134 L188 216 L180 216\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.3\"/><text x=\"194\" y=\"163\">react with steam</text><text x=\"194\" y=\"179\">(Mg: very slowly</text><text x=\"194\" y=\"195\">with cold water)</text><path d=\"M180 224 L188 224 L188 306 L180 306\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.3\"/><text x=\"194\" y=\"269\">no reaction</text><path d=\"M365 44 L373 44 L373 96 L365 96\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.3\"/><text x=\"379\" y=\"66\">too dangerous —</text><text x=\"379\" y=\"82\">never tried</text><path d=\"M365 104 L373 104 L373 216 L365 216\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.3\"/><text x=\"379\" y=\"156\">fizz, giving</text><text x=\"379\" y=\"172\">hydrogen</text><path d=\"M365 224 L373 224 L373 306 L365 306\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.3\"/><text x=\"379\" y=\"269\">no reaction</text></svg>",
+   "caption": "The reactivity series for Stage 8 and a summary of how the metals react with water and with dilute acids."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Memory trick",
+   "text": "**P**lease **S**end **C**ats, **M**onkeys, **Z**ebras **I**n **C**ages **S**ecurely **G**uarded = **P**otassium, **S**odium, **C**alcium, **M**agnesium, **Z**inc, **I**ron, **C**opper, **S**ilver, **G**old."
+  },
+  {
+   "type": "p",
+   "text": "**How do we know the order?** By comparing how **quickly** and how **vigorously** each metal reacts with the same substance. A more reactive metal gives off gas faster, gets hotter, or reacts with a substance that a less reactive metal cannot react with at all."
+  },
+  {
+   "type": "h2",
+   "text": "3. Metals with oxygen"
+  },
+  {
+   "type": "p",
+   "text": "General word equation: **metal + oxygen → metal oxide**"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Metal",
+    "What happens in air or when heated in air"
+   ],
+   "rows": [
+    [
+     "potassium",
+     "Tarnishes almost instantly in air; burns with a **lilac** flame. Stored under oil."
+    ],
+    [
+     "sodium",
+     "Tarnishes quickly in air; burns with a bright **yellow-orange** flame. Stored under oil."
+    ],
+    [
+     "calcium",
+     "Burns with an **orange-red** flame to make white calcium oxide."
+    ],
+    [
+     "magnesium",
+     "Burns with a **very bright white** flame, leaving white magnesium oxide. (Do not look straight at the flame.)"
+    ],
+    [
+     "zinc",
+     "Burns when heated strongly as a powder, making zinc oxide."
+    ],
+    [
+     "iron",
+     "Iron wool or filings burn with **sparks** in a flame. Iron also rusts slowly in air when water is present."
+    ],
+    [
+     "copper",
+     "Does not burn. When heated, the surface turns **black** (copper oxide)."
+    ],
+    [
+     "silver",
+     "Does not react with oxygen, even when heated."
+    ],
+    [
+     "gold",
+     "No reaction — gold stays shiny for ever."
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "4. Metals with water"
+  },
+  {
+   "type": "p",
+   "text": "With cold water: **metal + water → metal hydroxide + hydrogen** (the solution becomes alkaline). With steam: **metal + steam → metal oxide + hydrogen**."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Metal",
+    "What happens with water"
+   ],
+   "rows": [
+    [
+     "potassium",
+     "Very violent: floats, whizzes around, fizzes; the hydrogen catches fire with a **lilac** flame."
+    ],
+    [
+     "sodium",
+     "Vigorous: floats, melts into a silvery ball, whizzes around and fizzes; it may catch fire (orange flame)."
+    ],
+    [
+     "calcium",
+     "Steady fizzing; it **sinks**; the water turns cloudy as calcium hydroxide forms."
+    ],
+    [
+     "magnesium",
+     "Hardly reacts with cold water (a few bubbles after a long time). Reacts strongly with **steam**, glowing white."
+    ],
+    [
+     "zinc",
+     "No reaction with cold water; reacts with steam when heated."
+    ],
+    [
+     "iron",
+     "No reaction with cold water (but rusts slowly if oxygen is there too); reacts slowly with steam when red hot."
+    ],
+    [
+     "copper, silver, gold",
+     "No reaction with water or steam."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Example word equations: sodium + water → sodium hydroxide + hydrogen; magnesium + steam → magnesium oxide + hydrogen."
+  },
+  {
+   "type": "h2",
+   "text": "5. Metals with dilute acids"
+  },
+  {
+   "type": "p",
+   "text": "General word equation: **metal + acid → salt + hydrogen**. The hydrogen makes bubbles (**fizzing**). The faster the fizzing, the more reactive the metal."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 260\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"13\"><path d=\"M45 40 L45 200 A20.0 20.0 0 0 0 85 200 L85 40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><path d=\"M46.5 100 L46.5 200 A18.5 18.5 0 0 0 83.5 200 L83.5 100 Z\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\"/><line x1=\"45\" y1=\"100\" x2=\"85\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"57\" y=\"204\" width=\"16\" height=\"9\" fill=\"#c9c9c9\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"64.9\" cy=\"133.6\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"64.4\" cy=\"192\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"55.5\" cy=\"137.8\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"69.1\" cy=\"118.6\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"57\" cy=\"180\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"76\" cy=\"138\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"61.1\" cy=\"161.6\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"74.6\" cy=\"191.4\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"69.4\" cy=\"180\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"71.8\" cy=\"164.9\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"69.4\" cy=\"149.7\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"53.7\" cy=\"112.2\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"55.8\" cy=\"122.9\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"53.9\" cy=\"148.3\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"54\" cy=\"193.5\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"53.8\" cy=\"169.3\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"65\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">magnesium</text><path d=\"M175 40 L175 200 A20.0 20.0 0 0 0 215 200 L215 40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><path d=\"M176.5 100 L176.5 200 A18.5 18.5 0 0 0 213.5 200 L213.5 100 Z\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\"/><line x1=\"175\" y1=\"100\" x2=\"215\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"187\" y=\"204\" width=\"16\" height=\"9\" fill=\"#c9c9c9\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"189.1\" cy=\"153.2\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"187.2\" cy=\"179.7\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"204.8\" cy=\"144.5\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"205.8\" cy=\"172.2\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"196.1\" cy=\"163.7\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"206.1\" cy=\"182.3\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"184.2\" cy=\"132.9\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"194.3\" cy=\"186.8\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"195\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">zinc</text><path d=\"M305 40 L305 200 A20.0 20.0 0 0 0 345 200 L345 40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><path d=\"M306.5 100 L306.5 200 A18.5 18.5 0 0 0 343.5 200 L343.5 100 Z\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\"/><line x1=\"305\" y1=\"100\" x2=\"345\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"317\" y=\"204\" width=\"16\" height=\"9\" fill=\"#c9c9c9\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"336\" cy=\"116\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"330.2\" cy=\"151.7\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"317.7\" cy=\"140.2\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"322.4\" cy=\"112.4\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"325\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">iron</text><path d=\"M435 40 L435 200 A20.0 20.0 0 0 0 475 200 L475 40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><path d=\"M436.5 100 L436.5 200 A18.5 18.5 0 0 0 473.5 200 L473.5 100 Z\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\"/><line x1=\"435\" y1=\"100\" x2=\"475\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"447\" y=\"204\" width=\"16\" height=\"9\" fill=\"#c9c9c9\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"455\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">copper</text><text x=\"270\" y=\"22\" text-anchor=\"middle\">equal pieces of metal in the same dilute hydrochloric acid</text></svg>",
+   "caption": "After one minute: the more reactive the metal, the more hydrogen bubbles. Copper does not react."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Metal",
+    "What happens with dilute hydrochloric or sulfuric acid"
+   ],
+   "rows": [
+    [
+     "potassium, sodium",
+     "Far too violent and dangerous — **never** done in school."
+    ],
+    [
+     "calcium",
+     "Very vigorous fizzing."
+    ],
+    [
+     "magnesium",
+     "Vigorous fizzing; the tube gets warm; the ribbon disappears quickly."
+    ],
+    [
+     "zinc",
+     "Steady bubbling."
+    ],
+    [
+     "iron",
+     "Slow bubbling."
+    ],
+    [
+     "copper, silver, gold",
+     "No reaction."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Examples: zinc + hydrochloric acid → zinc chloride + hydrogen; iron + sulfuric acid → iron sulfate + hydrogen."
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Test for hydrogen",
+   "text": "Collect the gas in a test tube and hold a **lighted** splint at the mouth. Hydrogen burns with a **squeaky pop**."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الفكرة الأساسية",
+   "text": "كل ما الفلز يكون أعلى في سلسلة النشاط، كل ما يتفاعل أسرع وأعنف مع الأكسجين والماء والأحماض. البوتاسيوم والصوديوم بيتحفظوا تحت الزيت لأنهم بيتفاعلوا مع الهوا والماء بسرعة. النحاس والفضة والذهب ما بيتفاعلوش مع الماء ولا مع الأحماض المخففة. فلز + حمض ← ملح + هيدروجين (والهيدروجين بيعمل فرقعة squeaky pop مع العود المشتعل)."
+  },
+  {
+   "type": "h2",
+   "text": "6. Comparing reactivity fairly"
+  },
+  {
+   "type": "p",
+   "text": "To put metals in order yourself, change only the **type of metal** (independent variable) and observe the rate of bubbling, the volume of gas collected, or the temperature rise (dependent variable). Keep these the same (control variables): the **size or mass** of the metal pieces, the **volume** and **concentration** of the acid, the **type** of acid, and the **starting temperature**. Wear eye protection; acids are irritants."
+  },
+  {
+   "type": "h2",
+   "text": "7. Inert substances"
+  },
+  {
+   "type": "p",
+   "text": "Some substances are **generally unreactive**: they do not react with air, water or most chemicals under normal conditions. We describe them as **inert**."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**Gold** is inert: it does not react with oxygen, water or dilute acids. That is why gold coins and jewellery thousands of years old still shine, why gold is found in the ground as the pure **element** (not combined with other elements), and why it is used for electrical contacts in phones and computers — it never corrodes.",
+    "**Silver** is very unreactive too, so it is used for jewellery and coins (it slowly goes dull, but it does not react with oxygen, water or dilute acids).",
+    "The **noble gases** (helium, neon, argon) are inert. Argon fills some light bulbs so the hot filament does not react; helium fills balloons and airships because, unlike hydrogen, it cannot burn.",
+    "**Glass** is inert to most chemicals, which is why test tubes and beakers are made of glass."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Why use inert substances?** Something that does not react will not corrode, will not contaminate what it touches, and will not catch fire — so it is safe and long-lasting. The more reactive a metal, the more likely it is found combined in rocks (ores), not as the pure metal."
+  },
+  {
+   "type": "h2",
+   "text": "8. Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — Put these metals in order of reactivity, most reactive first: iron, sodium, copper, magnesium. [1]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Use the series: potassium, **sodium**, calcium, **magnesium**, zinc, **iron**, **copper**, silver, gold.",
+    "Answer: **sodium, magnesium, iron, copper**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — Complete the word equation: zinc + sulfuric acid → __________ + __________ [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Pattern: metal + acid → salt + hydrogen.",
+    "**zinc sulfate** (1) + **hydrogen** (1).",
+    "**Common mistake:** writing \"water\" as the second product — water is made with metal **oxides**, not metals."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — Describe **two** observations you would see when a small piece of sodium is added to water. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Any two: it **floats**; it **fizzes** (bubbles of gas); it **moves quickly** around the surface; it **melts** into a ball; it gets smaller and disappears; it may burn with an orange flame.",
+    "**Exam tip:** \"observations\" means what you **see** or **hear** — not \"hydrogen is made\" (you cannot see that it is hydrogen)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — A student adds metals to dilute acid and measures the temperature rise. Results: metal A +2 °C, metal B +14 °C, metal C 0 °C, metal D +7 °C. The metals are copper, iron, magnesium and zinc. Identify each metal. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Bigger temperature rise = more vigorous reaction = more reactive.",
+    "Order: B (14) > D (7) > A (2) > C (0).",
+    "So **B = magnesium, D = zinc, A = iron, C = copper** (no reaction). (2 marks all correct; 1 mark for two correct.)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — Explain why magnesium is used in fireworks and flares, but gold is not. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Magnesium is **reactive** — it burns in oxygen with a very bright white flame (1).",
+    "Gold is **inert** — it does not react with oxygen, so it would not burn (1)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** — A metal reacts steadily with cold water and the water turns cloudy. When it is added to dilute acid it fizzes very vigorously. Which metal from the list could it be? Give a reason. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "**Calcium** (1).",
+    "It reacts with **cold** water but not violently, and it sinks and makes cloudy calcium hydroxide; sodium and potassium are far more violent, and magnesium hardly reacts with cold water (1)."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Mixing up the order of **magnesium** and **zinc**, or **copper** and **iron**. Learn the mnemonic.",
+    "Saying copper reacts with dilute acid — it does **not**.",
+    "Writing \"metal + acid → salt + water\". With a **metal** the second product is **hydrogen**.",
+    "Saying \"inert means it does not exist\" or \"has no mass\". Inert = **unreactive**.",
+    "Giving the result instead of an observation: write \"it fizzes\" (seen), not \"it makes hydrogen\".",
+    "Thinking all metals react with cold water. Only potassium, sodium and calcium react well; magnesium only very slowly."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "**Put metals in order** from observations (bubbles, temperature rise, results tables).",
+    "**Predict** how an unfamiliar or a listed metal will react from its place in the series.",
+    "**Describe observations** for sodium, potassium or calcium with water, or magnesium burning.",
+    "**Complete word equations**: metal + oxygen, metal + water, metal + acid.",
+    "**Identify the gas** and describe the test (squeaky pop).",
+    "**Plan a fair test** comparing metals: control variables, what to measure, safety.",
+    "**Explain uses** of gold, silver and argon using the word **inert**."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "The reactivity of metals — practice",
+   "timed": false,
+   "intro": "Answer every part. Type short answers in the box; for longer answers write yours on paper, then mark it with the mark scheme.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 25,
+     "calc": true,
+     "questions": [
+      {
+       "q": "Which of these metals is the **most** reactive?",
+       "c": [
+        "magnesium",
+        "zinc",
+        "potassium",
+        "iron"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Reactivity series",
+       "e": "Potassium is at the **top** of the reactivity series (potassium > sodium > calcium > magnesium > zinc > iron > copper > silver > gold)."
+      },
+      {
+       "t": "text",
+       "q": "Name the gas given off when magnesium reacts with dilute hydrochloric acid.",
+       "ans": [
+        "hydrogen",
+        "hydrogen gas"
+       ],
+       "m": 1,
+       "s": "Metals and acids",
+       "e": "metal + acid → salt + **hydrogen**: magnesium + hydrochloric acid → magnesium chloride + hydrogen."
+      },
+      {
+       "t": "text",
+       "q": "A lighted splint is held at the mouth of a test tube of hydrogen. What is heard? (Two words.)",
+       "ans": [
+        "squeaky pop",
+        "a squeaky pop",
+        "squeaky popping",
+        "pop",
+        "a pop",
+        "squeaky bang"
+       ],
+       "m": 1,
+       "s": "Metals and acids",
+       "e": "Hydrogen burns with a **squeaky pop**. This is the test for hydrogen. (Do not confuse it with the glowing splint that relights in oxygen.)"
+      },
+      {
+       "q": "Which metal does **not** react with dilute hydrochloric acid?",
+       "c": [
+        "copper",
+        "magnesium",
+        "zinc",
+        "iron"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Metals and acids",
+       "e": "Copper is below iron in the reactivity series. Copper, silver and gold do **not** react with dilute acids. Magnesium, zinc and iron all fizz, giving hydrogen."
+      },
+      {
+       "t": "text",
+       "p": "Question 5\nKarim puts equal-sized pieces of four metals, W, X, Y and Z, into four test tubes of the same dilute hydrochloric acid. The diagram shows the tubes after one minute.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 260\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"13\"><path d=\"M45 40 L45 200 A20.0 20.0 0 0 0 85 200 L85 40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><path d=\"M46.5 100 L46.5 200 A18.5 18.5 0 0 0 83.5 200 L83.5 100 Z\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\"/><line x1=\"45\" y1=\"100\" x2=\"85\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"57\" y=\"204\" width=\"16\" height=\"9\" fill=\"#c9c9c9\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"74.4\" cy=\"135.9\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"64.1\" cy=\"122.8\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"76.4\" cy=\"124.3\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"69\" cy=\"161.1\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"65\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">W</text><path d=\"M175 40 L175 200 A20.0 20.0 0 0 0 215 200 L215 40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><path d=\"M176.5 100 L176.5 200 A18.5 18.5 0 0 0 213.5 200 L213.5 100 Z\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\"/><line x1=\"175\" y1=\"100\" x2=\"215\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"187\" y=\"204\" width=\"16\" height=\"9\" fill=\"#c9c9c9\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"195\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">X</text><path d=\"M305 40 L305 200 A20.0 20.0 0 0 0 345 200 L345 40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><path d=\"M306.5 100 L306.5 200 A18.5 18.5 0 0 0 343.5 200 L343.5 100 Z\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\"/><line x1=\"305\" y1=\"100\" x2=\"345\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"317\" y=\"204\" width=\"16\" height=\"9\" fill=\"#c9c9c9\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"315.2\" cy=\"160.8\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"336.3\" cy=\"140.1\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"326\" cy=\"142.6\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"330.5\" cy=\"168.4\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"327.3\" cy=\"192.5\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"329.4\" cy=\"129.9\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"331.3\" cy=\"119.1\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"320.8\" cy=\"113\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"321.5\" cy=\"152.8\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"334.3\" cy=\"158.9\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"317\" cy=\"190.6\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"314.8\" cy=\"136.8\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"316.3\" cy=\"180.3\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"318.9\" cy=\"124.3\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"333.7\" cy=\"182.3\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"325\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">Y</text><path d=\"M435 40 L435 200 A20.0 20.0 0 0 0 475 200 L475 40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><path d=\"M436.5 100 L436.5 200 A18.5 18.5 0 0 0 473.5 200 L473.5 100 Z\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\"/><line x1=\"435\" y1=\"100\" x2=\"475\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"447\" y=\"204\" width=\"16\" height=\"9\" fill=\"#c9c9c9\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"449.9\" cy=\"153.2\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"455.4\" cy=\"128.3\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"446\" cy=\"132.7\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"461.4\" cy=\"113.6\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"463.2\" cy=\"189.3\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"454.2\" cy=\"177.7\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"449.8\" cy=\"115.6\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"445.4\" cy=\"192.2\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"462\" cy=\"144.1\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"455\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">Z</text></svg>",
+       "q": "(a) Write the letters of the metals in order of reactivity, starting with the **most** reactive.",
+       "ans": [
+        "YZWX",
+        "Y,Z,W,X",
+        "Y Z W X",
+        "Y, Z, W, X",
+        "Y>Z>W>X"
+       ],
+       "m": 2,
+       "s": "Reactivity series",
+       "e": "More bubbles in the same time = faster reaction = more reactive. Y has the most bubbles, then Z, then W; X has none. Order: **Y, Z, W, X**. (2 marks for the full order; 1 mark if only one pair is swapped.)"
+      },
+      {
+       "p": "Question 5\nKarim puts equal-sized pieces of four metals, W, X, Y and Z, into four test tubes of the same dilute hydrochloric acid. The diagram shows the tubes after one minute.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 260\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"13\"><path d=\"M45 40 L45 200 A20.0 20.0 0 0 0 85 200 L85 40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><path d=\"M46.5 100 L46.5 200 A18.5 18.5 0 0 0 83.5 200 L83.5 100 Z\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\"/><line x1=\"45\" y1=\"100\" x2=\"85\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"57\" y=\"204\" width=\"16\" height=\"9\" fill=\"#c9c9c9\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"74.4\" cy=\"135.9\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"64.1\" cy=\"122.8\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"76.4\" cy=\"124.3\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"69\" cy=\"161.1\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"65\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">W</text><path d=\"M175 40 L175 200 A20.0 20.0 0 0 0 215 200 L215 40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><path d=\"M176.5 100 L176.5 200 A18.5 18.5 0 0 0 213.5 200 L213.5 100 Z\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\"/><line x1=\"175\" y1=\"100\" x2=\"215\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"187\" y=\"204\" width=\"16\" height=\"9\" fill=\"#c9c9c9\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"195\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">X</text><path d=\"M305 40 L305 200 A20.0 20.0 0 0 0 345 200 L345 40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><path d=\"M306.5 100 L306.5 200 A18.5 18.5 0 0 0 343.5 200 L343.5 100 Z\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\"/><line x1=\"305\" y1=\"100\" x2=\"345\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"317\" y=\"204\" width=\"16\" height=\"9\" fill=\"#c9c9c9\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"315.2\" cy=\"160.8\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"336.3\" cy=\"140.1\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"326\" cy=\"142.6\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"330.5\" cy=\"168.4\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"327.3\" cy=\"192.5\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"329.4\" cy=\"129.9\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"331.3\" cy=\"119.1\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"320.8\" cy=\"113\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"321.5\" cy=\"152.8\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"334.3\" cy=\"158.9\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"317\" cy=\"190.6\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"314.8\" cy=\"136.8\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"316.3\" cy=\"180.3\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"318.9\" cy=\"124.3\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"333.7\" cy=\"182.3\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"325\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">Y</text><path d=\"M435 40 L435 200 A20.0 20.0 0 0 0 475 200 L475 40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><path d=\"M436.5 100 L436.5 200 A18.5 18.5 0 0 0 473.5 200 L473.5 100 Z\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\"/><line x1=\"435\" y1=\"100\" x2=\"475\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"447\" y=\"204\" width=\"16\" height=\"9\" fill=\"#c9c9c9\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"449.9\" cy=\"153.2\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"455.4\" cy=\"128.3\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"446\" cy=\"132.7\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"461.4\" cy=\"113.6\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"463.2\" cy=\"189.3\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"454.2\" cy=\"177.7\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"449.8\" cy=\"115.6\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"445.4\" cy=\"192.2\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"462\" cy=\"144.1\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"455\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">Z</text></svg>",
+       "q": "(b) Which metal could be copper?",
+       "c": [
+        "W",
+        "Y",
+        "Z",
+        "X"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Metals and acids",
+       "e": "Copper does not react with dilute hydrochloric acid, so it gives **no bubbles**: metal **X**."
+      },
+      {
+       "t": "open",
+       "p": "Question 5\nKarim puts equal-sized pieces of four metals, W, X, Y and Z, into four test tubes of the same dilute hydrochloric acid. The diagram shows the tubes after one minute.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 260\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"13\"><path d=\"M45 40 L45 200 A20.0 20.0 0 0 0 85 200 L85 40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><path d=\"M46.5 100 L46.5 200 A18.5 18.5 0 0 0 83.5 200 L83.5 100 Z\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\"/><line x1=\"45\" y1=\"100\" x2=\"85\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"57\" y=\"204\" width=\"16\" height=\"9\" fill=\"#c9c9c9\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"74.4\" cy=\"135.9\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"64.1\" cy=\"122.8\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"76.4\" cy=\"124.3\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"69\" cy=\"161.1\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"65\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">W</text><path d=\"M175 40 L175 200 A20.0 20.0 0 0 0 215 200 L215 40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><path d=\"M176.5 100 L176.5 200 A18.5 18.5 0 0 0 213.5 200 L213.5 100 Z\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\"/><line x1=\"175\" y1=\"100\" x2=\"215\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"187\" y=\"204\" width=\"16\" height=\"9\" fill=\"#c9c9c9\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"195\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">X</text><path d=\"M305 40 L305 200 A20.0 20.0 0 0 0 345 200 L345 40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><path d=\"M306.5 100 L306.5 200 A18.5 18.5 0 0 0 343.5 200 L343.5 100 Z\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\"/><line x1=\"305\" y1=\"100\" x2=\"345\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"317\" y=\"204\" width=\"16\" height=\"9\" fill=\"#c9c9c9\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"315.2\" cy=\"160.8\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"336.3\" cy=\"140.1\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"326\" cy=\"142.6\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"330.5\" cy=\"168.4\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"327.3\" cy=\"192.5\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"329.4\" cy=\"129.9\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"331.3\" cy=\"119.1\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"320.8\" cy=\"113\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"321.5\" cy=\"152.8\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"334.3\" cy=\"158.9\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"317\" cy=\"190.6\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"314.8\" cy=\"136.8\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"316.3\" cy=\"180.3\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"318.9\" cy=\"124.3\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"333.7\" cy=\"182.3\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"325\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">Y</text><path d=\"M435 40 L435 200 A20.0 20.0 0 0 0 475 200 L475 40\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><path d=\"M436.5 100 L436.5 200 A18.5 18.5 0 0 0 473.5 200 L473.5 100 Z\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\"/><line x1=\"435\" y1=\"100\" x2=\"475\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"447\" y=\"204\" width=\"16\" height=\"9\" fill=\"#c9c9c9\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><circle cx=\"449.9\" cy=\"153.2\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"455.4\" cy=\"128.3\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"446\" cy=\"132.7\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"461.4\" cy=\"113.6\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"463.2\" cy=\"189.3\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"454.2\" cy=\"177.7\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"449.8\" cy=\"115.6\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"445.4\" cy=\"192.2\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"462\" cy=\"144.1\" r=\"3.5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"455\" y=\"248\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">Z</text></svg>",
+       "q": "(c) Give **two** variables Karim must keep the same to make this a fair test. [2]",
+       "m": 2,
+       "s": "Planning",
+       "ms": "1 mark each, any two: size/mass/surface area of the metal pieces; volume of acid; concentration of acid; type of acid; starting temperature of the acid; time before counting/observing. Do not accept 'the same metal' or 'the same amount' without saying of what.",
+       "e": "For example: the **volume** of acid, the **concentration** of the acid, the **mass (size)** of each metal piece, the **temperature** of the acid, and the **time** before he looks. Only the type of metal (independent variable) should change."
+      },
+      {
+       "q": "Sodium is stored under oil. Why?",
+       "c": [
+        "Oil makes the sodium softer to cut.",
+        "It reacts quickly with oxygen and water in the air, and the oil keeps them away.",
+        "Oil stops the sodium melting.",
+        "Sodium dissolves in oil, which makes it safe."
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Metals and oxygen",
+       "e": "Sodium is very reactive. In air it tarnishes quickly by reacting with oxygen (and moisture). The oil keeps air and water away from it. Potassium is stored the same way."
+      },
+      {
+       "t": "text",
+       "q": "Complete the word equation.\ncalcium + water → calcium hydroxide + ______________",
+       "ans": [
+        "hydrogen",
+        "hydrogen gas"
+       ],
+       "m": 1,
+       "s": "Metals and water",
+       "e": "A reactive metal + water → metal **hydroxide** + **hydrogen**. The bubbles you see when calcium reacts with water are hydrogen."
+      },
+      {
+       "t": "text",
+       "q": "Complete the word equation.\nmagnesium + oxygen → ______________",
+       "ans": [
+        "magnesium oxide"
+       ],
+       "m": 1,
+       "s": "Metals and oxygen",
+       "e": "metal + oxygen → metal oxide: **magnesium oxide** — the white powder left after magnesium burns with a bright white flame."
+      },
+      {
+       "q": "Gold is described as **inert**. What does this mean?",
+       "c": [
+        "Gold is very heavy.",
+        "Gold is a good conductor of electricity.",
+        "Gold is generally unreactive.",
+        "Gold is very soft."
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Inert substances",
+       "e": "**Inert** means generally **unreactive** — gold does not react with oxygen, water or dilute acids. Heavy, conducting and soft are true properties of gold but they are not what 'inert' means."
+      },
+      {
+       "t": "text",
+       "q": "Metal M does **not** react with cold water but does react with steam. It fizzes **slowly** in dilute acid. It is more reactive than copper but less reactive than zinc. Which metal from the reactivity series is M?",
+       "ans": [
+        "iron",
+        "Fe"
+       ],
+       "m": 1,
+       "s": "Reactivity series",
+       "e": "Between zinc and copper in the series is only **iron**. Iron does not react with cold water, reacts with steam, and fizzes slowly in dilute acid — all clues fit."
+      },
+      {
+       "t": "open",
+       "q": "Gold is used to make electrical connections in mobile phones and computers, even though it is expensive. Suggest why. Use ideas about reactivity. [2]",
+       "m": 2,
+       "s": "Inert substances",
+       "ms": "1 mark: gold is inert / unreactive / does not react with oxygen or water (in the air). 1 mark: so it does not corrode/tarnish/form an oxide layer, so the connection keeps conducting well / lasts a long time. Accept 'it is a good conductor' only as an extra point, not instead of the reactivity point.",
+       "e": "Gold is **inert** — it does not react with oxygen or water in the air, so it never **corrodes** or forms an oxide layer. A layer of oxide could stop electricity flowing; gold contacts keep working well for many years. (Gold is also a good electrical conductor.)"
+      },
+      {
+       "t": "open",
+       "q": "A teacher drops small pieces of potassium and calcium into separate troughs of water. Compare what the class would see. [2]",
+       "m": 2,
+       "s": "Metals and water",
+       "ms": "1 mark for potassium: e.g. floats / moves (whizzes) around quickly / fizzes violently / burns with a lilac flame / may spark or crackle. 1 mark for calcium: e.g. sinks / fizzes steadily (less violently) / the water goes cloudy. A comparison word (more/less vigorous) can earn a mark if linked to a correct observation. Do not accept 'potassium explodes' alone.",
+       "e": "**Potassium** reacts very violently: it floats, whizzes around the surface, fizzes and the hydrogen catches fire with a **lilac flame**. **Calcium** reacts more steadily: it **sinks**, fizzes with a stream of bubbles, and the water turns **cloudy** (calcium hydroxide). Potassium is more reactive than calcium."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Reactivity series: potassium, sodium, calcium, magnesium, zinc, iron, copper, silver, gold.",
+    "metal + oxygen → metal oxide; metal + water → metal hydroxide + hydrogen; metal + acid → salt + hydrogen.",
+    "Potassium, sodium and calcium react with cold water; magnesium, zinc and iron react with steam; copper, silver and gold do not react with water or dilute acids.",
+    "Hydrogen gives a squeaky pop with a lighted splint.",
+    "Inert = generally unreactive (gold, the noble gases): used where something must not corrode, burn or react."
+   ]
+  }
+ ]
+}

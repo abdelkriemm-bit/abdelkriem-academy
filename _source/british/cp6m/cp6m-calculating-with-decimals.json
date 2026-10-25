@@ -1,0 +1,586 @@
+{
+ "slug": "cp6m-calculating-with-decimals",
+ "title": "Adding, Subtracting, Multiplying and Dividing Decimals",
+ "kicker": "Checkpoint 6 Maths · Number · Decimals",
+ "summary": "Estimate and calculate with decimals: add and subtract with different numbers of decimal places, and multiply and divide decimals by whole numbers — with written methods, worked examples and practice.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Estimate, then add and subtract numbers with the same or a different number of decimal places, e.g. 14.6 + 7.85 and 20 − 6.37 (6Nf.09)",
+    "Estimate, then multiply numbers with one or two decimal places by 1-digit and 2-digit whole numbers, e.g. 6.28 × 4 and 3.6 × 27 (6Nf.10)",
+    "Estimate, then divide numbers with one or two decimal places by whole numbers, e.g. 9.72 ÷ 4 and 45.6 ÷ 12 (6Nf.11)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Decimals are everywhere — money, lengths, masses, times in a race. The good news: you already know how to add, subtract, multiply and divide whole numbers. With decimals you use **exactly the same methods**; you just have to keep the decimal point in the right place. Estimating first is your safety net: it tells you roughly where the point should go."
+  },
+  {
+   "type": "h2",
+   "text": "Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "decimal point",
+     "العلامة العشرية — separates the whole number part from the tenths and hundredths"
+    ],
+    [
+     "decimal places",
+     "الخانات العشرية — digits after the point; 3.47 has two decimal places"
+    ],
+    [
+     "tenths / hundredths",
+     "أجزاء من عشرة / من مئة — 0.4 is 4 tenths, 0.07 is 7 hundredths"
+    ],
+    [
+     "placeholder zero",
+     "صفر لحفظ الخانة — a 0 that fills an empty place: 5.6 = 5.60"
+    ],
+    [
+     "estimate",
+     "تقدير — round the numbers to get an easy rough answer"
+    ],
+    [
+     "exchange (regroup)",
+     "الاستلاف / التبديل — 1 one = 10 tenths, 1 tenth = 10 hundredths"
+    ],
+    [
+     "inverse",
+     "العملية العكسية — + and − undo each other; × and ÷ undo each other"
+    ],
+    [
+     "short division",
+     "القسمة المختصرة — the 'bus stop' method"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. Estimate first"
+  },
+  {
+   "type": "p",
+   "text": "Round each number to something easy (usually the nearest whole number, or a number that fits a times table), then calculate in your head. Do this **before** the exact calculation and compare at the end."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Calculation",
+    "Round to",
+    "Estimate",
+    "Exact"
+   ],
+   "rows": [
+    [
+     "14.6 + 7.85",
+     "15 + 8",
+     "23",
+     "22.45"
+    ],
+    [
+     "20 − 6.37",
+     "20 − 6",
+     "14",
+     "13.63"
+    ],
+    [
+     "6.28 × 4",
+     "6 × 4",
+     "24",
+     "25.12"
+    ],
+    [
+     "3.6 × 27",
+     "4 × 25",
+     "100",
+     "97.2"
+    ],
+    [
+     "9.72 ÷ 4",
+     "8 ÷ 4 or 10 ÷ 4",
+     "about 2 to 2.5",
+     "2.43"
+    ],
+    [
+     "45.6 ÷ 12",
+     "48 ÷ 12",
+     "4",
+     "3.8"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "2. Adding and subtracting decimals"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Estimate.",
+    "Write the numbers in columns with the **decimal points in a straight line** (so tenths are under tenths, hundredths under hundredths).",
+    "Fill empty places with **placeholder zeros**: 14.6 → 14.60. A whole number has its point at the end: 20 → 20.00.",
+    "Add or subtract from the right, carrying or exchanging just like whole numbers.",
+    "Put the decimal point in the answer straight under the other points. Compare with your estimate."
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 460 172\" width=\"460\" font-family=\"Arial, sans-serif\" font-size=\"14\"><text x=\"150\" y=\"28\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#0f1b33\">T</text><text x=\"180\" y=\"28\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#0f1b33\">O</text><text x=\"220\" y=\"28\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#0f1b33\">t</text><text x=\"250\" y=\"28\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#0f1b33\">h</text><text x=\"150\" y=\"62\" text-anchor=\"middle\" font-size=\"20\" fill=\"#0f1b33\">1</text><text x=\"180\" y=\"62\" text-anchor=\"middle\" font-size=\"20\" fill=\"#0f1b33\">4</text><text x=\"220\" y=\"62\" text-anchor=\"middle\" font-size=\"20\" fill=\"#0f1b33\">6</text><text x=\"250\" y=\"62\" text-anchor=\"middle\" font-size=\"20\" fill=\"#1b6e2e\">0</text><circle cx=\"200\" cy=\"60\" r=\"2.2\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><text x=\"180\" y=\"94\" text-anchor=\"middle\" font-size=\"20\" fill=\"#0f1b33\">7</text><text x=\"220\" y=\"94\" text-anchor=\"middle\" font-size=\"20\" fill=\"#0f1b33\">8</text><text x=\"250\" y=\"94\" text-anchor=\"middle\" font-size=\"20\" fill=\"#0f1b33\">5</text><circle cx=\"200\" cy=\"92\" r=\"2.2\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><text x=\"150\" y=\"132\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"bold\" fill=\"#0f1b33\">2</text><text x=\"180\" y=\"132\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"bold\" fill=\"#0f1b33\">2</text><text x=\"220\" y=\"132\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"bold\" fill=\"#0f1b33\">4</text><text x=\"250\" y=\"132\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"bold\" fill=\"#0f1b33\">5</text><circle cx=\"200\" cy=\"130\" r=\"2.2\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"0\"/><text x=\"115\" y=\"94\" text-anchor=\"middle\" font-size=\"20\" fill=\"#0f1b33\">+</text><line x1=\"110\" y1=\"104\" x2=\"270\" y2=\"104\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"142\" x2=\"270\" y2=\"142\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"150\" y=\"160\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">1</text><text x=\"180\" y=\"160\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">1</text><text x=\"290\" y=\"62\" text-anchor=\"start\" font-size=\"13\" fill=\"#1b6e2e\">← 0 fills the empty</text><text x=\"306\" y=\"78\" text-anchor=\"start\" font-size=\"13\" fill=\"#1b6e2e\">hundredths place</text><text x=\"290\" y=\"118\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">decimal points in</text><text x=\"290\" y=\"134\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">one straight line</text><text x=\"290\" y=\"160\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">← carried digits</text></svg>",
+   "caption": "14.6 + 7.85 = 22.45. Tenths: 6 + 8 = 14, write 4 and carry 1. Ones: 4 + 7 + 1 = 12, write 2 and carry 1. Tens: 1 + 1 = 2."
+  },
+  {
+   "type": "p",
+   "text": "For subtraction, placeholder zeros are even more important, because you need something to exchange from. 20 − 6.37 is written 20.00 − 6.37. Exchange 1 ten → 10 ones, 1 one → 10 tenths, 1 tenth → 10 hundredths, so the top number becomes 1 ten, 9 ones, 9 tenths and 10 hundredths. Then 10 − 7 = 3, 9 − 3 = 6, 9 − 6 = 3, 1 − 0 = 1: **13.63**."
+  },
+  {
+   "type": "p",
+   "text": "A quicker **mental method** for subtracting from a whole number is **counting up** on an empty number line: jump to the next tenth, then to the next whole number, then to the target, and add the jumps."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 162\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\"><defs><marker id=\"ah\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#0f1b33\"/></marker></defs><line x1=\"30\" y1=\"100\" x2=\"515\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"40\" y1=\"92\" x2=\"40\" y2=\"108\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"40\" y=\"128\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">6.37</text><line x1=\"110\" y1=\"92\" x2=\"110\" y2=\"108\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"110\" y=\"128\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">6.4</text><line x1=\"230\" y1=\"92\" x2=\"230\" y2=\"108\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"230\" y=\"128\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">7</text><line x1=\"500\" y1=\"92\" x2=\"500\" y2=\"108\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"500\" y=\"128\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">20</text><path d=\"M42,96 Q75,46 108,96\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\" marker-end=\"url(#ah)\"/><text x=\"75\" y=\"65\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">+0.03</text><path d=\"M112,96 Q170,26 228,96\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\" marker-end=\"url(#ah)\"/><text x=\"170\" y=\"55\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">+0.6</text><path d=\"M232,96 Q365,26 498,96\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\" marker-end=\"url(#ah)\"/><text x=\"365\" y=\"55\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">+13</text><text x=\"270\" y=\"150\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">0.03 + 0.6 + 13 = 13.63     (not to scale)</text></svg>",
+   "caption": "20 − 6.37 by counting up: 6.37 → 6.4 (+0.03) → 7 (+0.6) → 20 (+13). Total: 13.63."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Check with the inverse",
+   "text": "After subtracting, add your answer to the number you took away: 13.63 + 6.37 should give 20.00. After adding, subtract one number from the total."
+  },
+  {
+   "type": "h2",
+   "text": "3. Multiplying decimals by whole numbers"
+  },
+  {
+   "type": "p",
+   "text": "**Method 1 — remove the point, multiply, put it back.** 6.28 is 628 hundredths. So 6.28 × 4 is 628 hundredths × 4 = 2512 hundredths = 25.12. In practice:"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Estimate: 6.28 × 4 ≈ 6 × 4 = 24.",
+    "Ignore the point and multiply whole numbers: 628 × 4 = 2512.",
+    "The decimal had **2 decimal places**, so the answer has 2 decimal places: 25.12.",
+    "Check against the estimate: 25.12 is close to 24 ✓"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Method 2 — the grid method** splits both numbers by place value. It is a good way to see what is happening and works well for 2-digit multipliers."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 246\" width=\"500\" font-family=\"Arial, sans-serif\" font-size=\"14\"><rect x=\"70\" y=\"40\" width=\"300\" height=\"100\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"220\" y=\"95\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">20 × 3 = 60</text><rect x=\"370\" y=\"40\" width=\"105\" height=\"100\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"422.5\" y=\"95\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#0f1b33\">7 × 3 = 21</text><rect x=\"70\" y=\"140\" width=\"300\" height=\"45\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"220\" y=\"167.5\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">20 × 0.6 = 12</text><rect x=\"370\" y=\"140\" width=\"105\" height=\"45\" fill=\"#bcd3f2\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"422.5\" y=\"167.5\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#0f1b33\">7 × 0.6 = 4.2</text><text x=\"220\" y=\"30\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">20</text><text x=\"422\" y=\"30\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">7</text><text x=\"56\" y=\"95\" text-anchor=\"end\" font-size=\"14\" fill=\"#0f1b33\">3</text><text x=\"56\" y=\"168\" text-anchor=\"end\" font-size=\"14\" fill=\"#0f1b33\">0.6</text><text x=\"272\" y=\"216\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">60 + 21 + 12 + 4.2 = 97.2</text><text x=\"272\" y=\"236\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">(not to scale)</text></svg>",
+   "caption": "3.6 × 27: split 27 into 20 + 7 and 3.6 into 3 + 0.6, multiply each pair, then add the four parts."
+  },
+  {
+   "type": "p",
+   "text": "With **long multiplication**, multiply as whole numbers and then place the point: 36 × 27 = 36 × 7 + 36 × 20 = 252 + 720 = 972, and 3.6 has one decimal place, so 3.6 × 27 = 97.2."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Calculation",
+    "Whole-number calculation",
+    "Decimal places",
+    "Answer"
+   ],
+   "rows": [
+    [
+     "0.8 × 7",
+     "8 × 7 = 56",
+     "1",
+     "5.6"
+    ],
+    [
+     "3.46 × 7",
+     "346 × 7 = 2422",
+     "2",
+     "24.22"
+    ],
+    [
+     "4.7 × 23",
+     "47 × 23 = 1081",
+     "1",
+     "108.1"
+    ],
+    [
+     "2.35 × 14",
+     "235 × 14 = 3290",
+     "2",
+     "32.90 = 32.9"
+    ],
+    [
+     "0.25 × 12",
+     "25 × 12 = 300",
+     "2",
+     "3.00 = 3"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Zeros at the end",
+   "text": "2.35 × 14 = 32.90. The zero at the end of a decimal can be dropped: 32.90 = 32.9. But for money, write two decimal places: $32.90."
+  },
+  {
+   "type": "h2",
+   "text": "4. Dividing decimals by whole numbers"
+  },
+  {
+   "type": "p",
+   "text": "Use **short division** (bus stop) exactly as for whole numbers. Put the decimal point in the answer **directly above** the point in the number you are dividing. If there is a remainder at the end, write a zero after the last digit and keep going."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 150\" width=\"500\" font-family=\"Arial, sans-serif\" font-size=\"14\"><text x=\"44\" y=\"102\" text-anchor=\"middle\" font-size=\"22\" fill=\"#0f1b33\">6</text><path d=\"M62,112 Q72,95 62,76\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"62\" y1=\"76\" x2=\"200\" y2=\"76\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"90\" y=\"66\" text-anchor=\"middle\" font-size=\"22\" font-weight=\"bold\" fill=\"#0f1b33\">1</text><text x=\"110\" y=\"66\" text-anchor=\"middle\" font-size=\"22\" font-weight=\"bold\" fill=\"#0f1b33\">.</text><text x=\"130\" y=\"66\" text-anchor=\"middle\" font-size=\"22\" font-weight=\"bold\" fill=\"#0f1b33\">4</text><text x=\"170\" y=\"66\" text-anchor=\"middle\" font-size=\"22\" font-weight=\"bold\" fill=\"#0f1b33\">5</text><text x=\"90\" y=\"102\" text-anchor=\"middle\" font-size=\"22\" fill=\"#0f1b33\">8</text><text x=\"110\" y=\"102\" text-anchor=\"middle\" font-size=\"22\" fill=\"#0f1b33\">.</text><text x=\"130\" y=\"102\" text-anchor=\"middle\" font-size=\"22\" fill=\"#0f1b33\">7</text><text x=\"170\" y=\"102\" text-anchor=\"middle\" font-size=\"22\" fill=\"#1b6e2e\">0</text><text x=\"119\" y=\"94\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">2</text><text x=\"158\" y=\"94\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">3</text><text x=\"230\" y=\"40\" text-anchor=\"start\" font-size=\"14\" fill=\"#0f1b33\">8 ÷ 6 = 1 r 2</text><text x=\"230\" y=\"64\" text-anchor=\"start\" font-size=\"14\" fill=\"#0f1b33\">point goes straight up</text><text x=\"230\" y=\"88\" text-anchor=\"start\" font-size=\"14\" fill=\"#0f1b33\">27 tenths ÷ 6 = 4 r 3</text><text x=\"230\" y=\"112\" text-anchor=\"start\" font-size=\"14\" fill=\"#1b6e2e\">add a 0: 30 hundredths ÷ 6 = 5</text><text x=\"230\" y=\"136\" text-anchor=\"start\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">8.7 ÷ 6 = 1.45</text></svg>",
+   "caption": "8.7 ÷ 6 = 1.45. A placeholder zero (8.70) lets the division finish."
+  },
+  {
+   "type": "p",
+   "text": "For a **2-digit divisor** such as 12, write out a few multiples first (12, 24, 36, 48, 60 …). 45.6 ÷ 12: 12 into 45 goes 3 times (36), remainder 9. Bring down the 6 tenths to make 96 tenths. 96 ÷ 12 = 8. So 45.6 ÷ 12 = **3.8**. Estimate: 48 ÷ 12 = 4 ✓. Check: 3.8 × 12 = 45.6 ✓"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Calculation",
+    "Steps",
+    "Answer",
+    "Check"
+   ],
+   "rows": [
+    [
+     "9.6 ÷ 4",
+     "9 ÷ 4 = 2 r 1; 16 ÷ 4 = 4",
+     "2.4",
+     "2.4 × 4 = 9.6"
+    ],
+    [
+     "8.46 ÷ 3",
+     "8 ÷ 3 = 2 r 2; 24 ÷ 3 = 8; 6 ÷ 3 = 2",
+     "2.82",
+     "2.82 × 3 = 8.46"
+    ],
+    [
+     "7.5 ÷ 6",
+     "7 ÷ 6 = 1 r 1; 15 ÷ 6 = 2 r 3; 30 ÷ 6 = 5",
+     "1.25",
+     "1.25 × 6 = 7.5"
+    ],
+    [
+     "0.84 ÷ 7",
+     "0 ÷ 7 = 0; 8 ÷ 7 = 1 r 1; 14 ÷ 7 = 2",
+     "0.12",
+     "0.12 × 7 = 0.84"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "سر العلامة العشرية",
+   "text": "في الجمع والطرح: رتّب الأرقام بحيث العلامات العشرية تيجي تحت بعض بالظبط، وكمّل الخانات الفاضية بأصفار (5.6 = 5.60 و 20 = 20.00). في الضرب: اضرب من غير العلامة، وبعدين رجّعها بنفس عدد الخانات العشرية. في القسمة: العلامة العشرية في الناتج بتطلع فوق العلامة اللي في المقسوم على طول. ودايماً قدّر الإجابة الأول علشان تعرف مكان العلامة صح."
+  },
+  {
+   "type": "h2",
+   "text": "5. Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — Work out 14.6 + 7.85 [1]"
+  },
+  {
+   "type": "p",
+   "text": "Estimate 15 + 8 = 23. Write 14.60 + 7.85 with the points lined up (see the diagram in section 2). **Answer: 22.45.** Common mistake: lining up the 6 under the 5 to get 9.31."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — Work out 20 − 6.37 [1]"
+  },
+  {
+   "type": "p",
+   "text": "Estimate 20 − 6 = 14. Either column subtraction with 20.00, or counting up: 0.03 + 0.6 + 13 = **13.63**. Check: 13.63 + 6.37 = 20 ✓"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — Work out 6.28 × 4 [1]"
+  },
+  {
+   "type": "p",
+   "text": "628 × 4: 600 × 4 = 2400, 28 × 4 = 112, total 2512. Two decimal places → **25.12**. Estimate 6 × 4 = 24 ✓"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — Work out 3.6 × 27. Show your working. [2]"
+  },
+  {
+   "type": "p",
+   "text": "Grid: 20 × 3 = 60, 7 × 3 = 21, 20 × 0.6 = 12, 7 × 0.6 = 4.2. Total 60 + 21 + 12 + 4.2 = **97.2**. Estimate 4 × 25 = 100 ✓. Mark scheme style: M1 for a complete correct method (grid or 36 × 27 = 972 seen), A1 for 97.2. Common mistake: writing 0.6 × 7 = 42 instead of 4.2 — check each part: 0.6 × 7 is 6 tenths × 7 = 42 tenths = 4.2."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — Work out 9.72 ÷ 4 [1]"
+  },
+  {
+   "type": "p",
+   "text": "9 ÷ 4 = 2 r 1; 17 ÷ 4 = 4 r 1; 12 ÷ 4 = 3. Point above the point: **2.43**. Check: 2.43 × 4 = 9.72 ✓"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** — Work out 8.7 ÷ 6 [2]"
+  },
+  {
+   "type": "p",
+   "text": "Estimate 9 ÷ 6 = 1.5. 8 ÷ 6 = 1 r 2; 27 ÷ 6 = 4 r 3; write 8.70 and 30 ÷ 6 = 5. **Answer: 1.45.** Common mistake: stopping at 1.4 remainder 3 — at Stage 6 you continue with a placeholder zero."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 7** — Pens cost $4.75 each. Karim buys 12 pens. He pays with a $100 note. How much change should he get? [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Cost: 4.75 × 12. 475 × 12 = 4750 + 950 = 5700. Two decimal places → $57.00. (Estimate 5 × 12 = 60 ✓)",
+    "Change: 100.00 − 57.00 = **$43.00**.",
+    "M1 for 4.75 × 12 or 57 seen; A1 for $43 (or $43.00)."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Lining up the right-hand digits instead of the decimal points (3.5 + 1.25 written as 0.35 + 1.25).",
+    "Forgetting that a whole number has a hidden point: 7 − 2.85 → 7.00 − 2.85, not 2.85 − 7 or 0.7 − 2.85.",
+    "Losing or moving the point when multiplying: 5.4 × 16 = 864 ✗ — the estimate (about 80) shows the answer must be 86.4.",
+    "In division, not keeping the point directly above the point, or stopping with a remainder instead of adding a zero.",
+    "Dropping digits: 0.84 ÷ 7 = 0.12, not 1.2 or 0.012 — write the 0 in the ones place.",
+    "In money problems, writing $43.0 or 43 pence/cents confusion — use two decimal places for money ($43.00)."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "Straight calculations with an answer box on Paper 1 (no calculator) — show your working in the space, because a 2-mark question can give 1 mark for a correct method.",
+    "Complete a written method: fill the missing digits in a column addition, a grid or a short division.",
+    "Ring the best estimate or 'Tick the calculation with the largest answer' — round first.",
+    "Use a given fact: 'Use 23 × 17 = 391 to work out 2.3 × 17 or 39.1 ÷ 17.'",
+    "Spot and explain a mistake in someone's working (lined-up digits, misplaced point).",
+    "Multi-step word problems with money, litres, metres and kilograms — on Paper 2 a calculator is allowed, but you still need to choose the right operations and interpret the display (e.g. 43 means $43.00)."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "تقدير الإجابة",
+   "text": "قبل ما تحسب، قرّب الأرقام: 3.6 × 27 تقريباً 4 × 25 = 100، يبقى الإجابة الصح لازم تكون قريبة من 100 (وهي 97.2) مش 972 ولا 9.72. التقدير ده هو اللي بيحميك من غلطة مكان العلامة العشرية."
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Calculating with decimals — practice",
+   "timed": false,
+   "intro": "14 questions, from easy to Checkpoint-hard. Do them without a calculator, writing your working on paper. Type only the number in the answer box.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 25,
+     "calc": false,
+     "questions": [
+      {
+       "t": "num",
+       "q": "Work out 5.6 + 3.47",
+       "ans": [
+        9.07
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Adding decimals",
+       "e": "Line up the points and write 5.6 as 5.60: 5.60 + 3.47 = **9.07**. Estimate: 6 + 3 = 9 ✓"
+      },
+      {
+       "t": "num",
+       "q": "Work out 12.3 − 4.56",
+       "ans": [
+        7.74
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Subtracting decimals",
+       "e": "12.30 − 4.56: hundredths 0 − 6, exchange → 10 − 6 = 4; tenths 2 − 5, exchange → 12 − 5 = 7; ones 11 − 4 = 7; tens 0. Answer **7.74**. Check: 7.74 + 4.56 = 12.30 ✓"
+      },
+      {
+       "t": "num",
+       "q": "Work out 7 − 2.85",
+       "ans": [
+        4.15
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Subtracting decimals",
+       "e": "Write 7 as 7.00. Count up from 2.85: +0.15 → 3, +4 → 7. 0.15 + 4 = **4.15**."
+      },
+      {
+       "q": "Which is the best estimate for 6.9 × 31?",
+       "c": [
+        "2100",
+        "21",
+        "210",
+        "186"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Estimating",
+       "e": "Round: 6.9 ≈ 7 and 31 ≈ 30. 7 × 30 = **210**. (Exact: 213.9.)"
+      },
+      {
+       "t": "num",
+       "q": "Work out 5.4 × 16",
+       "ans": [
+        86.4
+       ],
+       "tol": 0,
+       "m": 2,
+       "s": "Multiplying decimals",
+       "e": "Estimate: 5 × 16 = 80. Without the point: 54 × 16 = 54 × 10 + 54 × 6 = 540 + 324 = 864. One decimal place → **86.4**. Close to 80 ✓ (M1 for 864 seen or a correct grid.)"
+      },
+      {
+       "t": "num",
+       "q": "Work out 7.25 ÷ 5",
+       "ans": [
+        1.45
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Dividing decimals",
+       "e": "Short division: 7 ÷ 5 = 1 r 2; 22 ÷ 5 = 4 r 2; 25 ÷ 5 = 5. **1.45**. Check: 1.45 × 5 = 7.25 ✓"
+      },
+      {
+       "t": "num",
+       "q": "Work out 9.3 ÷ 6",
+       "ans": [
+        1.55
+       ],
+       "tol": 0,
+       "m": 2,
+       "s": "Dividing decimals",
+       "e": "9 ÷ 6 = 1 r 3; 33 ÷ 6 = 5 r 3; add a zero: 30 ÷ 6 = 5. So 9.30 ÷ 6 = **1.55**. Check: 1.55 × 6 = 9.30 ✓"
+      },
+      {
+       "t": "num",
+       "q": "Work out 50.4 ÷ 12",
+       "ans": [
+        4.2
+       ],
+       "tol": 0,
+       "m": 2,
+       "s": "Dividing decimals",
+       "e": "Estimate: 48 ÷ 12 = 4. 12 into 50 = 4 r 2 (48); bring down 4 tenths: 24 ÷ 12 = 2. **4.2**. Check: 4.2 × 12 = 50.4 ✓"
+      },
+      {
+       "q": "Sami works out 3.5 + 1.25 and gets 1.60. What mistake did he make?",
+       "c": [
+        "He lined up the last digits instead of the decimal points",
+        "He subtracted instead of adding",
+        "He forgot to carry a digit",
+        "He multiplied instead of adding"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Adding decimals",
+       "e": "If the last digits are lined up, 3.5 is treated as 0.35, and 0.35 + 1.25 = 1.60. With the decimal points lined up: 3.50 + 1.25 = 4.75."
+      },
+      {
+       "t": "num",
+       "p": "Question 10\nA full bottle holds 1.25 litres of water. A glass holds 0.3 litres.",
+       "q": "(a) Laila fills 3 glasses from a full bottle. How much water is left in the bottle?",
+       "ans": [
+        0.35
+       ],
+       "tol": 0,
+       "unit": "litres",
+       "m": 2,
+       "s": "Multiplying and subtracting decimals",
+       "e": "3 glasses: 0.3 × 3 = 0.9 litres. 1.25 − 0.90 = **0.35 litres**. (M1 for 0.9 seen.)"
+      },
+      {
+       "t": "num",
+       "p": "Question 10\nA full bottle holds 1.25 litres of water. A glass holds 0.3 litres.",
+       "q": "(b) How many litres of water are there in 8 full bottles?",
+       "ans": [
+        10
+       ],
+       "tol": 0,
+       "unit": "litres",
+       "m": 1,
+       "s": "Multiplying decimals",
+       "e": "1.25 × 8: 125 × 8 = 1000, two decimal places → 10.00 = **10 litres**. (Or 1 × 8 = 8 and 0.25 × 8 = 2.)"
+      },
+      {
+       "t": "num",
+       "p": "The diagram shows a regular hexagon.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 220 170\" width=\"220\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"170,78 140,129.96 80,129.96 50,78 80,26.04 140,26.04\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"110\" y=\"162\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">Perimeter = 40.2 cm</text></svg>",
+       "q": "Work out the length of one side.",
+       "ans": [
+        6.7
+       ],
+       "tol": 0,
+       "unit": "cm",
+       "m": 1,
+       "s": "Dividing decimals",
+       "e": "A regular hexagon has 6 equal sides. 40.2 ÷ 6: 40 ÷ 6 = 6 r 4; 42 ÷ 6 = 7. **6.7 cm**. Check: 6.7 × 6 = 40.2 ✓"
+      },
+      {
+       "t": "open",
+       "p": "23 × 17 = 391",
+       "q": "Use this fact to write the answers to (i) 2.3 × 17 (ii) 39.1 ÷ 17. Explain how you know.",
+       "m": 2,
+       "s": "Using known facts",
+       "ms": "1 mark: (i) 39.1. 1 mark: (ii) 2.3. Accept explanations such as '2.3 is 23 ÷ 10, so the answer is 391 ÷ 10' and 'division is the inverse of multiplication'. Both answers can earn the marks without an explanation if correct.",
+       "e": "(i) 2.3 is ten times smaller than 23, so 2.3 × 17 is ten times smaller than 391: **39.1**. (ii) Since 2.3 × 17 = 39.1, the inverse gives 39.1 ÷ 17 = **2.3**."
+      },
+      {
+       "q": "Which calculation has the same answer as 0.7 × 4?",
+       "c": [
+        "2.8 ÷ 4",
+        "1.4 × 2",
+        "5.6 ÷ 4",
+        "0.4 × 6"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Multiplying decimals",
+       "e": "0.7 × 4 = 2.8. 2.8 ÷ 4 = 0.7; **1.4 × 2 = 2.8** ✓; 5.6 ÷ 4 = 1.4; 0.4 × 6 = 2.4."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Always estimate first by rounding — it tells you where the decimal point goes.",
+    "Add and subtract: line up the decimal points; fill gaps with zeros (5.6 = 5.60, 20 = 20.00).",
+    "Multiply by a whole number: multiply without the point, then give the answer the same number of decimal places.",
+    "Divide by a whole number: short division with the answer's point straight above; add zeros to finish.",
+    "Check with the inverse operation."
+   ]
+  }
+ ]
+}

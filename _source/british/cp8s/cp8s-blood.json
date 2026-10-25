@@ -1,0 +1,520 @@
+{
+ "slug": "cp8s-blood",
+ "title": "Blood and Its Components",
+ "kicker": "Cambridge Lower Secondary · Science 0893 · Stage 8 · Biology",
+ "summary": "Red blood cells, white blood cells and plasma: what each looks like and what it does — transporting oxygen, protecting against pathogens, and carrying cells, nutrients and carbon dioxide.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Describe the components of blood and their functions (8Bs.02):",
+    "red blood cells transport oxygen",
+    "white blood cells protect the body against pathogens",
+    "plasma transports blood cells, nutrients and carbon dioxide",
+    "Skills used on this page: describing patterns in data, calculating percentages, using a microscope diagram (8TWSa.02, 8TWSa.05)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "An adult has about 5 litres of blood. Blood is pumped by the heart through the blood vessels to every cell in the body. It looks like a red liquid, but it is really a **mixture**: cells floating in a liquid. At Stage 8 you must know three **components** (parts) of blood and the job of each one."
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "component",
+     "مُكوِّن — one part of a mixture"
+    ],
+    [
+     "red blood cell",
+     "كرة دم حمراء — carries oxygen"
+    ],
+    [
+     "white blood cell",
+     "كرة دم بيضاء — protects the body against pathogens"
+    ],
+    [
+     "plasma",
+     "البلازما — the yellow liquid part of blood"
+    ],
+    [
+     "haemoglobin",
+     "الهيموجلوبين — red substance in red blood cells that carries oxygen"
+    ],
+    [
+     "pathogen",
+     "ميكروب مُمرِض — a microorganism that causes disease"
+    ],
+    [
+     "nutrients",
+     "مواد غذائية — e.g. glucose from digested food"
+    ],
+    [
+     "transport",
+     "ينقل — carry from one place to another"
+    ],
+    [
+     "biconcave",
+     "مقعّر الوجهين — dimpled in on both sides"
+    ],
+    [
+     "infection",
+     "عدوى — pathogens growing in the body"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "What is blood made of?"
+  },
+  {
+   "type": "p",
+   "text": "If blood is left to stand in a tube (or spun fast in a machine), it separates into layers. The cells are heavier than the liquid, so they sink."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 375\" width=\"500\" font-family=\"Arial, sans-serif\" font-size=\"15\"><rect x=\"150\" y=\"30\" width=\"60\" height=\"165.0\" fill=\"#fff1b8\"/><rect x=\"150\" y=\"195.0\" width=\"60\" height=\"5\" fill=\"#f2f2f2\" stroke=\"#0f1b33\" stroke-width=\"0.8\"/><rect x=\"150\" y=\"200.0\" width=\"60\" height=\"130.0\" fill=\"#c0392b\"/><path d=\"M150 15V330A30.0 30.0 0 0 0 210 330V15\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><path d=\"M150 330A30.0 30.0 0 0 0 210 330Z\" fill=\"#c0392b\"/><path d=\"M150 330A30.0 30.0 0 0 0 210 330\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"210\" y1=\"112.5\" x2=\"240\" y2=\"112.5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"245\" y=\"108.5\" text-anchor=\"start\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">plasma (about 55%)</text><text x=\"245\" y=\"126.5\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">pale yellow liquid</text><line x1=\"210\" y1=\"197.5\" x2=\"240\" y2=\"197.5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"245\" y=\"202\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">thin layer of white blood cells</text><text x=\"245\" y=\"219\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">(and platelets), under 1%</text><line x1=\"210\" y1=\"275\" x2=\"240\" y2=\"275\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"245\" y=\"271\" text-anchor=\"start\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">red blood cells (about 44%)</text><text x=\"245\" y=\"289\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">heaviest, sink to the bottom</text></svg>",
+   "caption": "Blood separates into plasma, a thin layer of white blood cells, and red blood cells."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Component",
+    "What it looks like",
+    "Function (what you must know)"
+   ],
+   "rows": [
+    [
+     "**Red blood cells**",
+     "Small, red, biconcave discs (dimpled on both sides); **no nucleus**; millions in every drop",
+     "**Transport oxygen** from the lungs to all body cells"
+    ],
+    [
+     "**White blood cells**",
+     "Larger than red cells; **have a nucleus**; far fewer of them",
+     "**Protect the body against pathogens** (microorganisms that cause disease)"
+    ],
+    [
+     "**Plasma**",
+     "Pale yellow liquid, mostly water",
+     "**Transports blood cells, nutrients** (such as glucose) **and carbon dioxide**"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Extra (not needed for your objective):** blood also contains **platelets**, tiny pieces of cells that help blood to clot when you cut yourself."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 470 300\" width=\"470\" font-family=\"Arial, sans-serif\" font-size=\"15\"><defs><clipPath id=\"c\"><circle cx=\"150\" cy=\"150\" r=\"130\"/></clipPath></defs><circle cx=\"150\" cy=\"150\" r=\"130\" fill=\"#fff1b8\"/><g clip-path=\"url(#c)\"><circle cx=\"104.2\" cy=\"59.2\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"104.2\" cy=\"59.2\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"189.2\" cy=\"38.8\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"189.2\" cy=\"38.8\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"159.3\" cy=\"115.1\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"159.3\" cy=\"115.1\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"35.1\" cy=\"151.9\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"35.1\" cy=\"151.9\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"130.4\" cy=\"235.0\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"130.4\" cy=\"235.0\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"52.2\" cy=\"78.0\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"52.2\" cy=\"78.0\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"183.1\" cy=\"266.4\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"183.1\" cy=\"266.4\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"243.2\" cy=\"95.3\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"243.2\" cy=\"95.3\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"67.0\" cy=\"171.2\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"67.0\" cy=\"171.2\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"30.2\" cy=\"193.7\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"30.2\" cy=\"193.7\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"200.8\" cy=\"174.5\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"200.8\" cy=\"174.5\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"143.3\" cy=\"192.7\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"143.3\" cy=\"192.7\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"92.4\" cy=\"128.0\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"92.4\" cy=\"128.0\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"267.8\" cy=\"199.5\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"267.8\" cy=\"199.5\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"46.4\" cy=\"114.5\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"46.4\" cy=\"114.5\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"141.2\" cy=\"145.8\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"141.2\" cy=\"145.8\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"235.5\" cy=\"62.0\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"235.5\" cy=\"62.0\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"157.3\" cy=\"58.1\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"157.3\" cy=\"58.1\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"63.4\" cy=\"220.7\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"63.4\" cy=\"220.7\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"268.7\" cy=\"136.3\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"268.7\" cy=\"136.3\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"189.8\" cy=\"227.9\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"189.8\" cy=\"227.9\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"84.6\" cy=\"92.0\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"84.6\" cy=\"92.0\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"223.8\" cy=\"253.2\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"223.8\" cy=\"253.2\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"125.2\" cy=\"110.4\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"125.2\" cy=\"110.4\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"195.7\" cy=\"95.6\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"195.7\" cy=\"95.6\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"80.2\" cy=\"253.4\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"80.2\" cy=\"253.4\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"215.0\" cy=\"135.0\" r=\"22\" fill=\"#efe6f7\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"206.6\" cy=\"137.2\" r=\"6.6\" fill=\"#8e6bb8\"/><circle cx=\"215.0\" cy=\"128.4\" r=\"6.6\" fill=\"#8e6bb8\"/><circle cx=\"223.4\" cy=\"137.2\" r=\"6.6\" fill=\"#8e6bb8\"/><circle cx=\"100.0\" cy=\"200.0\" r=\"20\" fill=\"#efe6f7\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"92.4\" cy=\"202.0\" r=\"6.0\" fill=\"#8e6bb8\"/><circle cx=\"100.0\" cy=\"194.0\" r=\"6.0\" fill=\"#8e6bb8\"/><circle cx=\"107.6\" cy=\"202.0\" r=\"6.0\" fill=\"#8e6bb8\"/></g><circle cx=\"150\" cy=\"150\" r=\"130\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"235.502\" y1=\"61.974\" x2=\"324\" y2=\"45\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"235.5\" cy=\"62.0\" r=\"3\" fill=\"#0f1b33\"/><text x=\"330\" y=\"50\" text-anchor=\"start\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">red blood cell</text><line x1=\"225\" y1=\"123\" x2=\"324\" y2=\"135\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"225.0\" cy=\"123.0\" r=\"3\" fill=\"#0f1b33\"/><text x=\"330\" y=\"140\" text-anchor=\"start\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">white blood cell</text><line x1=\"245\" y1=\"222\" x2=\"324\" y2=\"235\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"245.0\" cy=\"222.0\" r=\"3\" fill=\"#0f1b33\"/><text x=\"330\" y=\"240\" text-anchor=\"start\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">plasma</text></svg>",
+   "caption": "Blood seen through a microscope. Red blood cells are far more common than white blood cells."
+  },
+  {
+   "type": "h2",
+   "text": "Red blood cells: carrying oxygen"
+  },
+  {
+   "type": "p",
+   "text": "Red blood cells are full of a red substance called **haemoglobin**. In the **lungs**, where there is a lot of oxygen, oxygen joins with haemoglobin. The blood is pumped round the body. In the **capillaries** next to body cells, where there is little oxygen, the haemoglobin releases the oxygen, which passes into the cells. Cells use oxygen in **respiration** to release energy from glucose."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 240\" width=\"560\" font-family=\"Arial, sans-serif\" font-size=\"15\"><circle cx=\"80.0\" cy=\"80.0\" r=\"40\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"80.0\" cy=\"80.0\" r=\"18.0\" fill=\"#f3b3b0\"/><path d=\"M40.0 170.0C40.0 158.0 55.0 158.0 65.0 164.0C75.0 168.0 85.0 168.0 95.0 164.0C105.0 158.0 120.0 158.0 120.0 170.0C120.0 182.0 105.0 182.0 95.0 176.0C85.0 172.0 75.0 172.0 65.0 176.0C55.0 182.0 40.0 182.0 40.0 170.0Z\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"80\" y=\"225\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">Red blood cell</text><text x=\"80\" y=\"22\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">from above</text><text x=\"80\" y=\"145\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">from the side</text><line x1=\"98\" y1=\"82\" x2=\"160\" y2=\"60\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"165\" y=\"52\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">thin centre (dimple)</text><text x=\"165\" y=\"69\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">no nucleus</text><line x1=\"124\" y1=\"165\" x2=\"160\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"165\" y=\"146\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">biconcave disc</text><text x=\"165\" y=\"163\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">large surface area</text><circle cx=\"430.0\" cy=\"110.0\" r=\"55\" fill=\"#efe6f7\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"409.1\" cy=\"115.5\" r=\"16.5\" fill=\"#8e6bb8\"/><circle cx=\"430.0\" cy=\"93.5\" r=\"16.5\" fill=\"#8e6bb8\"/><circle cx=\"450.9\" cy=\"115.5\" r=\"16.5\" fill=\"#8e6bb8\"/><text x=\"430\" y=\"225\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">White blood cell</text><line x1=\"430\" y1=\"77\" x2=\"400\" y2=\"30\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"398\" y=\"24\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">nucleus</text><text x=\"430\" y=\"190\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">bigger than a red cell</text></svg>",
+   "caption": "A red blood cell from above and from the side, and a white blood cell."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Feature of a red blood cell",
+    "How it helps the cell carry oxygen"
+   ],
+   "rows": [
+    [
+     "Contains **haemoglobin**",
+     "Haemoglobin joins with oxygen in the lungs and releases it in the body."
+    ],
+    [
+     "**No nucleus**",
+     "More space inside for haemoglobin, so it can carry more oxygen."
+    ],
+    [
+     "**Biconcave** shape (a disc pushed in on both sides)",
+     "Large **surface area** for its size, so oxygen moves in and out quickly; the thin centre means oxygen does not have far to go."
+    ],
+    [
+     "**Small and flexible**",
+     "Can squeeze through the narrowest capillaries, right next to the cells."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Haemoglobin contains **iron**. A diet with too little iron means the body cannot make enough haemoglobin, so the blood carries less oxygen and the person feels tired. (You will meet iron again on the diet page.) Red blood cells, like white blood cells, are made in the **bone marrow** inside some bones."
+  },
+  {
+   "type": "h2",
+   "text": "White blood cells: protecting against pathogens"
+  },
+  {
+   "type": "p",
+   "text": "A **pathogen** is a microorganism that causes disease — for example some **bacteria** and **viruses**. Pathogens can enter through cuts, the nose and mouth, or in food and water. **White blood cells protect the body** against them. There are different kinds:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Some white blood cells **engulf** (surround and swallow) pathogens and **digest** them.",
+    "Others make **antibodies** — chemicals that stick to a pathogen so it can be destroyed."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "When you have an **infection**, your body makes more white blood cells, so a blood test showing many white blood cells can be a sign of infection. White blood cells are not red: they have no haemoglobin, so they do not carry oxygen."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "مكوّنات الدم في جملة واحدة",
+   "text": "كرات الدم الحمراء بتشيل الأكسجين (Red = oxygen)، وكرات الدم البيضاء بتحمي الجسم من الميكروبات المُمرضة (pathogens)، والبلازما سائل أصفر بيشيل كرات الدم والمواد الغذائية وثاني أكسيد الكربون. احفظ الثلاثة بالترتيب ده — ده اللي بيتسأل في الامتحان."
+  },
+  {
+   "type": "h2",
+   "text": "Plasma: the transport liquid"
+  },
+  {
+   "type": "p",
+   "text": "Plasma is a pale yellow liquid, mostly water, which makes up a little over half of the blood. Many substances are **dissolved** in it. For Stage 8, plasma transports:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**blood cells** — the red and white blood cells float in the plasma and are carried along with it;",
+    "**nutrients** — for example glucose from digested food, which passes into the blood in the small intestine and is carried to all cells;",
+    "**carbon dioxide** — a waste gas made by cells in respiration, carried to the lungs to be breathed out."
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 295\" width=\"560\" font-family=\"Arial, sans-serif\" font-size=\"15\"><defs><marker id=\"r\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#c0392b\"/></marker><marker id=\"o\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#b8860b\"/></marker><marker id=\"b\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#2b5fb4\"/></marker></defs><rect x=\"20\" y=\"20\" width=\"190\" height=\"70\" rx=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"115\" y=\"48\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">Lungs</text><text x=\"115\" y=\"70\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">oxygen enters the blood</text><rect x=\"20\" y=\"210\" width=\"190\" height=\"70\" rx=\"10\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"115\" y=\"238\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">Small intestine</text><text x=\"115\" y=\"260\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">nutrients enter the blood</text><rect x=\"370\" y=\"110\" width=\"170\" height=\"90\" rx=\"10\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"455\" y=\"138\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">Body cells</text><text x=\"455\" y=\"160\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">e.g. muscle cells:</text><text x=\"455\" y=\"180\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">use O₂, make CO₂</text><path d=\"M210 45H330Q360 45 370 120\" fill=\"none\" stroke=\"#c0392b\" stroke-width=\"3\" marker-end=\"url(#r)\"/><text x=\"222\" y=\"34\" text-anchor=\"start\" font-size=\"13\" font-weight=\"bold\" fill=\"#c0392b\">oxygen — in red blood cells</text><path d=\"M210 255H330Q360 255 370 190\" fill=\"none\" stroke=\"#b8860b\" stroke-width=\"3\" marker-end=\"url(#o)\"/><text x=\"222\" y=\"280\" text-anchor=\"start\" font-size=\"13\" font-weight=\"bold\" fill=\"#8a6508\">nutrients — in plasma</text><path d=\"M370 145Q300 145 260 100Q245 85 212 80\" fill=\"none\" stroke=\"#2b5fb4\" stroke-width=\"3\" marker-end=\"url(#b)\"/><text x=\"250\" y=\"150\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#2b5fb4\">carbon dioxide</text><text x=\"250\" y=\"167\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#2b5fb4\">— in plasma</text></svg>",
+   "caption": "What the blood carries, and which component carries it."
+  },
+  {
+   "type": "p",
+   "text": "**Model (analogy):** blood is like a river carrying boats. The water (plasma) carries the boats along and also carries things dissolved in it (nutrients and carbon dioxide). The red boats are delivery boats loaded with oxygen; the white boats are police boats that look for and remove invaders (pathogens). Limitation: blood goes round in a closed circuit, pumped by the heart; a river flows one way, pulled by gravity."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — matching\nDraw a line from each component of blood to its function. [3]\nComponents: plasma; red blood cell; white blood cell.\nFunctions: protects the body against pathogens; transports oxygen; transports nutrients and carbon dioxide."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "plasma → transports nutrients and carbon dioxide [1]",
+    "red blood cell → transports oxygen [1]",
+    "white blood cell → protects the body against pathogens [1]"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Common mistake:** drawing two lines from one box. Unless the question says so, each box has one line."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — adaptations\nRed blood cells have no nucleus and a biconcave shape. Explain how each feature helps the cell do its job. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "No nucleus: there is **more space for haemoglobin**, so the cell carries **more oxygen** [1].",
+    "Biconcave shape: a **large surface area**, so oxygen can **diffuse in and out quickly** [1]."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Common mistake:** \"The shape lets it carry more blood.\" A red blood cell carries oxygen, not blood."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — a blood test\nA blood test is taken when Yusuf is well and again when he has a chest infection.\nwhen | white blood cells in 1 mm³ of blood\nwell | 6000\nwith infection | 15 000\n(a) Calculate the increase. [1] (b) Explain why the number increased. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) 15 000 − 6000 = **9000** white blood cells in 1 mm³.",
+    "(b) Pathogens (bacteria or viruses) have entered his body [1], so more white blood cells are made to **protect the body / destroy the pathogens** [1]."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — a percentage from the tube\nA tube of settled blood is 60 mm high. The red blood cell layer is 27 mm. (a) Calculate the percentage of red blood cells. [2] (b) The white cell layer is very thin. Suggest why. [1]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) 27 ÷ 60 × 100 = 0.45 × 100 = **45%**.",
+    "(b) There are **far fewer** white blood cells than red blood cells (hundreds of red blood cells for every white blood cell)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — red blood cells at altitude\nAthletes often train in mountains, high above sea level, where there is less oxygen in the air. After a few weeks their blood contains more red blood cells. Suggest why this helps them run faster when they return to sea level. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "More red blood cells can **carry more oxygen** [1],",
+    "so more oxygen reaches the **muscle cells** for respiration, which releases **more energy** [1]."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** — the journey of a nutrient\nDescribe how glucose from a meal reaches a cell in the brain. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Glucose from digested food passes into the blood in the **small intestine** and **dissolves in the plasma** [1].",
+    "The heart pumps the blood (plasma) round the body to the brain, where glucose leaves the capillaries and enters the cells [1]."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Saying white blood cells carry oxygen, or red blood cells fight disease.",
+    "Saying plasma \"is water\". It is mostly water, but it carries cells and many dissolved substances.",
+    "Saying red blood cells carry carbon dioxide. For this Stage 8 objective, carbon dioxide is carried in the **plasma**.",
+    "Writing \"germs\" or \"bad things\" instead of **pathogens**, and \"food\" instead of **nutrients**.",
+    "Saying red blood cells have a nucleus. They do not; white blood cells do.",
+    "Confusing pathogens (microorganisms that cause disease) with antibodies (made by white blood cells)."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "Matching lines: component → function. Learn the three functions word for word.",
+    "A microscope drawing with letters: \"Which letter is a white blood cell?\" — larger, with a nucleus.",
+    "\"Name the part of the blood that transports carbon dioxide / nutrients.\" — plasma.",
+    "Data: a blood-test table (red or white cell numbers). Calculate a difference or a percentage, then explain using the function of the cells.",
+    "Link questions: red blood cells and respiration (oxygen), white blood cells and infection, plasma and digestion (nutrients)."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "إزاي تجاوب سؤال الشرح",
+   "text": "لو السؤال قالك \"Explain\" عن كرات الدم الحمراء: اربط الشكل بالوظيفة. مفيش نواة ← مكان أكتر للهيموجلوبين ← تشيل أكسجين أكتر. الشكل مقعّر من الناحيتين ← مساحة سطح كبيرة ← الأكسجين يدخل ويخرج بسرعة."
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Blood and its components: practice",
+   "timed": false,
+   "intro": "14 Checkpoint-style questions. Use the microscope diagram where shown. Full solutions appear after you check.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 20,
+     "calc": true,
+     "questions": [
+      {
+       "q": "Which part of the blood transports oxygen?",
+       "c": [
+        "red blood cells",
+        "white blood cells",
+        "plasma",
+        "platelets"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Blood",
+       "e": "Red blood cells contain haemoglobin, which picks up oxygen in the lungs and gives it to body cells."
+      },
+      {
+       "q": "What is the main function of white blood cells?",
+       "c": [
+        "to carry carbon dioxide",
+        "to carry digested food",
+        "to protect the body against pathogens",
+        "to carry oxygen"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Blood",
+       "e": "White blood cells protect the body against pathogens (microorganisms that cause disease)."
+      },
+      {
+       "t": "text",
+       "q": "Name the pale yellow liquid part of the blood.",
+       "ans": [
+        "plasma",
+        "blood plasma",
+        "the plasma"
+       ],
+       "m": 1,
+       "s": "Blood",
+       "e": "Plasma is the liquid part of blood. It is mostly water and carries blood cells, nutrients and carbon dioxide."
+      },
+      {
+       "t": "text",
+       "p": "Question 5\nThe diagram shows a drop of blood seen through a microscope.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 380 300\" width=\"380\" font-family=\"Arial, sans-serif\" font-size=\"15\"><defs><clipPath id=\"c\"><circle cx=\"150\" cy=\"150\" r=\"130\"/></clipPath></defs><circle cx=\"150\" cy=\"150\" r=\"130\" fill=\"#fff1b8\"/><g clip-path=\"url(#c)\"><circle cx=\"104.2\" cy=\"59.2\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"104.2\" cy=\"59.2\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"189.2\" cy=\"38.8\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"189.2\" cy=\"38.8\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"159.3\" cy=\"115.1\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"159.3\" cy=\"115.1\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"35.1\" cy=\"151.9\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"35.1\" cy=\"151.9\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"130.4\" cy=\"235.0\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"130.4\" cy=\"235.0\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"52.2\" cy=\"78.0\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"52.2\" cy=\"78.0\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"183.1\" cy=\"266.4\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"183.1\" cy=\"266.4\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"243.2\" cy=\"95.3\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"243.2\" cy=\"95.3\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"67.0\" cy=\"171.2\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"67.0\" cy=\"171.2\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"30.2\" cy=\"193.7\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"30.2\" cy=\"193.7\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"200.8\" cy=\"174.5\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"200.8\" cy=\"174.5\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"143.3\" cy=\"192.7\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"143.3\" cy=\"192.7\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"92.4\" cy=\"128.0\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"92.4\" cy=\"128.0\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"267.8\" cy=\"199.5\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"267.8\" cy=\"199.5\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"46.4\" cy=\"114.5\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"46.4\" cy=\"114.5\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"141.2\" cy=\"145.8\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"141.2\" cy=\"145.8\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"235.5\" cy=\"62.0\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"235.5\" cy=\"62.0\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"157.3\" cy=\"58.1\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"157.3\" cy=\"58.1\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"63.4\" cy=\"220.7\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"63.4\" cy=\"220.7\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"268.7\" cy=\"136.3\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"268.7\" cy=\"136.3\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"189.8\" cy=\"227.9\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"189.8\" cy=\"227.9\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"84.6\" cy=\"92.0\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"84.6\" cy=\"92.0\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"223.8\" cy=\"253.2\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"223.8\" cy=\"253.2\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"125.2\" cy=\"110.4\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"125.2\" cy=\"110.4\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"195.7\" cy=\"95.6\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"195.7\" cy=\"95.6\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"80.2\" cy=\"253.4\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"80.2\" cy=\"253.4\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"215.0\" cy=\"135.0\" r=\"22\" fill=\"#efe6f7\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"206.6\" cy=\"137.2\" r=\"6.6\" fill=\"#8e6bb8\"/><circle cx=\"215.0\" cy=\"128.4\" r=\"6.6\" fill=\"#8e6bb8\"/><circle cx=\"223.4\" cy=\"137.2\" r=\"6.6\" fill=\"#8e6bb8\"/><circle cx=\"100.0\" cy=\"200.0\" r=\"20\" fill=\"#efe6f7\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"92.4\" cy=\"202.0\" r=\"6.0\" fill=\"#8e6bb8\"/><circle cx=\"100.0\" cy=\"194.0\" r=\"6.0\" fill=\"#8e6bb8\"/><circle cx=\"107.6\" cy=\"202.0\" r=\"6.0\" fill=\"#8e6bb8\"/></g><circle cx=\"150\" cy=\"150\" r=\"130\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"235.502\" y1=\"61.974\" x2=\"324\" y2=\"45\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"235.5\" cy=\"62.0\" r=\"3\" fill=\"#0f1b33\"/><text x=\"330\" y=\"50\" text-anchor=\"start\" font-weight=\"bold\" fill=\"#0f1b33\">A</text><line x1=\"225\" y1=\"123\" x2=\"324\" y2=\"135\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"225.0\" cy=\"123.0\" r=\"3\" fill=\"#0f1b33\"/><text x=\"330\" y=\"140\" text-anchor=\"start\" font-weight=\"bold\" fill=\"#0f1b33\">B</text><line x1=\"245\" y1=\"222\" x2=\"324\" y2=\"235\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"245.0\" cy=\"222.0\" r=\"3\" fill=\"#0f1b33\"/><text x=\"330\" y=\"240\" text-anchor=\"start\" font-weight=\"bold\" fill=\"#0f1b33\">C</text></svg>",
+       "q": "(a) Which letter, A, B or C, shows a white blood cell?",
+       "ans": [
+        "B"
+       ],
+       "m": 1,
+       "s": "Blood",
+       "e": "B is larger than the other cells and has a nucleus (the dark purple lobes) — a white blood cell. A is a red blood cell (no nucleus, pale centre)."
+      },
+      {
+       "t": "text",
+       "p": "Question 5\nThe diagram shows a drop of blood seen through a microscope.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 380 300\" width=\"380\" font-family=\"Arial, sans-serif\" font-size=\"15\"><defs><clipPath id=\"c\"><circle cx=\"150\" cy=\"150\" r=\"130\"/></clipPath></defs><circle cx=\"150\" cy=\"150\" r=\"130\" fill=\"#fff1b8\"/><g clip-path=\"url(#c)\"><circle cx=\"104.2\" cy=\"59.2\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"104.2\" cy=\"59.2\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"189.2\" cy=\"38.8\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"189.2\" cy=\"38.8\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"159.3\" cy=\"115.1\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"159.3\" cy=\"115.1\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"35.1\" cy=\"151.9\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"35.1\" cy=\"151.9\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"130.4\" cy=\"235.0\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"130.4\" cy=\"235.0\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"52.2\" cy=\"78.0\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"52.2\" cy=\"78.0\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"183.1\" cy=\"266.4\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"183.1\" cy=\"266.4\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"243.2\" cy=\"95.3\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"243.2\" cy=\"95.3\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"67.0\" cy=\"171.2\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"67.0\" cy=\"171.2\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"30.2\" cy=\"193.7\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"30.2\" cy=\"193.7\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"200.8\" cy=\"174.5\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"200.8\" cy=\"174.5\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"143.3\" cy=\"192.7\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"143.3\" cy=\"192.7\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"92.4\" cy=\"128.0\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"92.4\" cy=\"128.0\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"267.8\" cy=\"199.5\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"267.8\" cy=\"199.5\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"46.4\" cy=\"114.5\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"46.4\" cy=\"114.5\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"141.2\" cy=\"145.8\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"141.2\" cy=\"145.8\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"235.5\" cy=\"62.0\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"235.5\" cy=\"62.0\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"157.3\" cy=\"58.1\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"157.3\" cy=\"58.1\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"63.4\" cy=\"220.7\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"63.4\" cy=\"220.7\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"268.7\" cy=\"136.3\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"268.7\" cy=\"136.3\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"189.8\" cy=\"227.9\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"189.8\" cy=\"227.9\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"84.6\" cy=\"92.0\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"84.6\" cy=\"92.0\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"223.8\" cy=\"253.2\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"223.8\" cy=\"253.2\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"125.2\" cy=\"110.4\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"125.2\" cy=\"110.4\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"195.7\" cy=\"95.6\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"195.7\" cy=\"95.6\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"80.2\" cy=\"253.4\" r=\"15\" fill=\"#e57373\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"80.2\" cy=\"253.4\" r=\"6.8\" fill=\"#f3b3b0\"/><circle cx=\"215.0\" cy=\"135.0\" r=\"22\" fill=\"#efe6f7\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"206.6\" cy=\"137.2\" r=\"6.6\" fill=\"#8e6bb8\"/><circle cx=\"215.0\" cy=\"128.4\" r=\"6.6\" fill=\"#8e6bb8\"/><circle cx=\"223.4\" cy=\"137.2\" r=\"6.6\" fill=\"#8e6bb8\"/><circle cx=\"100.0\" cy=\"200.0\" r=\"20\" fill=\"#efe6f7\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"92.4\" cy=\"202.0\" r=\"6.0\" fill=\"#8e6bb8\"/><circle cx=\"100.0\" cy=\"194.0\" r=\"6.0\" fill=\"#8e6bb8\"/><circle cx=\"107.6\" cy=\"202.0\" r=\"6.0\" fill=\"#8e6bb8\"/></g><circle cx=\"150\" cy=\"150\" r=\"130\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"235.502\" y1=\"61.974\" x2=\"324\" y2=\"45\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"235.5\" cy=\"62.0\" r=\"3\" fill=\"#0f1b33\"/><text x=\"330\" y=\"50\" text-anchor=\"start\" font-weight=\"bold\" fill=\"#0f1b33\">A</text><line x1=\"225\" y1=\"123\" x2=\"324\" y2=\"135\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"225.0\" cy=\"123.0\" r=\"3\" fill=\"#0f1b33\"/><text x=\"330\" y=\"140\" text-anchor=\"start\" font-weight=\"bold\" fill=\"#0f1b33\">B</text><line x1=\"245\" y1=\"222\" x2=\"324\" y2=\"235\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"245.0\" cy=\"222.0\" r=\"3\" fill=\"#0f1b33\"/><text x=\"330\" y=\"240\" text-anchor=\"start\" font-weight=\"bold\" fill=\"#0f1b33\">C</text></svg>",
+       "q": "(b) Which letter, A, B or C, shows the part of the blood that transports carbon dioxide?",
+       "ans": [
+        "C"
+       ],
+       "m": 1,
+       "s": "Blood",
+       "e": "C points to the liquid between the cells: the plasma. At Stage 8, carbon dioxide is transported in the plasma."
+      },
+      {
+       "t": "open",
+       "q": "Describe two ways a red blood cell is adapted to carry oxygen.",
+       "m": 2,
+       "s": "Adaptations",
+       "ms": "1 mark each, any two: contains haemoglobin (which joins with oxygen); has no nucleus, so there is more space for haemoglobin/oxygen; biconcave (dimpled disc) shape gives a large surface area for oxygen to pass in and out; small/flexible so it can squeeze through narrow capillaries. Do not accept: \"it is red\"; \"it has a big nucleus\".",
+       "e": "For example: (1) it has no nucleus, so there is more room for haemoglobin, which carries oxygen; (2) its biconcave shape gives a large surface area, so oxygen can move in and out quickly."
+      },
+      {
+       "q": "Which of these is a pathogen?",
+       "c": [
+        "a red blood cell",
+        "a bacterium that causes a sore throat",
+        "a vitamin",
+        "an antibody"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Pathogens",
+       "e": "A pathogen is a microorganism that causes disease, such as some bacteria and viruses. White blood cells protect the body against them."
+      },
+      {
+       "t": "num",
+       "p": "Question 8\nA sample of blood is left to settle in a tube. The total height of the blood is 80 mm. The plasma layer is 44 mm high.",
+       "q": "Calculate the percentage of the blood that is plasma.",
+       "ans": [
+        55
+       ],
+       "tol": 0,
+       "unit": "%",
+       "m": 2,
+       "s": "Calculation",
+       "e": "percentage = 44 ÷ 80 × 100 = 0.55 × 100 = 55%. [1 mark for 44 ÷ 80 × 100, 1 mark for 55]"
+      },
+      {
+       "t": "num",
+       "q": "1 mm³ of a person's blood contains 5 000 000 red blood cells and 5000 white blood cells. How many times more red blood cells are there than white blood cells?",
+       "ans": [
+        1000
+       ],
+       "tol": 0,
+       "unit": "times",
+       "m": 1,
+       "s": "Calculation",
+       "e": "5 000 000 ÷ 5000 = 1000. There are 1000 times more red blood cells."
+      },
+      {
+       "t": "open",
+       "p": "Question 10\nA scientist measures the number of red blood cells in the blood of adults who live at different heights above sea level.\nheight above sea level in m | 0 | 2000 | 4000\nred blood cells in 1 mm³ of blood (millions) | 5.0 | 5.5 | 6.2",
+       "q": "Describe the pattern in the results and suggest an explanation.",
+       "m": 3,
+       "s": "Analysing data",
+       "ms": "1 mark: the higher above sea level, the more red blood cells (ora). 1 mark: data quoted, e.g. 5.0 million at 0 m and 6.2 million at 4000 m. 1 mark: explanation — there is less oxygen in the air high up / each breath has less oxygen, so more red blood cells are needed to carry enough oxygen to the body cells.",
+       "e": "As the height above sea level increases, the number of red blood cells increases, from 5.0 million per mm³ at sea level to 6.2 million at 4000 m. High up, the air has less oxygen, so the body makes more red blood cells to carry enough oxygen to its cells."
+      },
+      {
+       "q": "A person has too few red blood cells. Why might they feel tired and weak?",
+       "c": [
+        "Their blood cannot fight pathogens.",
+        "Their blood carries too much carbon dioxide to the lungs.",
+        "Their plasma cannot carry blood cells.",
+        "Less oxygen is carried to their cells, so less energy is released."
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Blood",
+       "e": "Red blood cells carry oxygen. With fewer of them, the cells get less oxygen for respiration, so less energy is released and the person feels tired."
+      },
+      {
+       "t": "text",
+       "q": "Name the red substance in red blood cells that carries oxygen.",
+       "ans": [
+        "haemoglobin",
+        "hemoglobin",
+        "haemoglobin protein"
+       ],
+       "m": 1,
+       "s": "Blood",
+       "e": "Haemoglobin (American spelling: hemoglobin) joins with oxygen in the lungs and releases it in the body tissues. It contains iron."
+      },
+      {
+       "t": "open",
+       "q": "Describe how carbon dioxide made in a muscle cell is removed from the body.",
+       "m": 2,
+       "s": "Transport",
+       "ms": "1 mark: carbon dioxide passes from the muscle cell into the blood and is carried in the plasma. 1 mark: the blood takes it to the lungs, where it leaves the blood and is breathed out. Do not accept: carried by red blood cells (for this Stage 8 objective); \"carbon dioxide is carried by white blood cells\".",
+       "e": "Carbon dioxide moves out of the muscle cell into the blood in the capillaries. It is carried in the plasma to the lungs. There it passes into the air in the lungs and is breathed out."
+      },
+      {
+       "q": "A doctor finds that a patient has many more white blood cells than usual. What is the most likely reason?",
+       "c": [
+        "The patient has an infection.",
+        "The patient lives high above sea level.",
+        "The patient has just eaten a meal.",
+        "The patient has too little plasma."
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Blood",
+       "e": "The body makes more white blood cells to fight pathogens, so a high white blood cell count usually shows an infection."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Red blood cells transport oxygen (using haemoglobin); no nucleus; biconcave shape for a large surface area.",
+    "White blood cells protect the body against pathogens; they have a nucleus and increase during an infection.",
+    "Plasma is the yellow liquid that transports blood cells, nutrients (e.g. glucose) and carbon dioxide.",
+    "A pathogen is a microorganism that causes disease.",
+    "In data questions: calculate, then explain using the job of the cells."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,796 @@
+{
+ "slug": "cp6m-data",
+ "title": "Collecting and Representing Data",
+ "kicker": "Cambridge Primary Checkpoint · Mathematics 0096 · Stage 6 · Statistics and Probability",
+ "summary": "Plan an investigation, tell categorical, discrete and continuous data apart, and record and show data with tally charts, Venn and Carroll diagrams, bar charts, waffle and pie charts, frequency diagrams, line graphs, scatter graphs and dot plots.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Plan and carry out a statistical investigation: ask a set of related questions, make predictions, and decide what data to collect — categorical, discrete or continuous (6Ss.01)",
+    "Record, organise and show data using Venn and Carroll diagrams, tally charts and frequency tables, bar charts, waffle diagrams and pie charts, frequency diagrams for continuous data, line graphs, scatter graphs and dot plots — and choose and explain the best one for the situation (6Ss.02)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Statistics is about answering questions with data. At Stage 6 you plan your own small investigation, collect the right kind of data, record it neatly and choose a diagram that shows it clearly. The next page (Mode, Median, Mean and Range) shows how to describe and interpret the data you collect."
+  },
+  {
+   "type": "h2",
+   "text": "Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "data",
+     "بيانات — facts or numbers collected to answer a question"
+    ],
+    [
+     "statistical question",
+     "سؤال إحصائي — a question answered by collecting data that varies, e.g. “How long do Stage 6 students sleep?”"
+    ],
+    [
+     "prediction",
+     "توقّع — what you think the data will show, before you collect it"
+    ],
+    [
+     "categorical data",
+     "بيانات وصفية (فئات) — words or groups, e.g. colours, sports, ways to travel"
+    ],
+    [
+     "discrete data",
+     "بيانات منفصلة — counted, only certain values, e.g. number of pets, goals scored"
+    ],
+    [
+     "continuous data",
+     "بيانات متصلة — measured, can take any value in a range, e.g. height, mass, time, temperature"
+    ],
+    [
+     "survey / questionnaire",
+     "استبيان — asking people questions to collect data"
+    ],
+    [
+     "tally chart",
+     "جدول العلامات — recording with tally marks, grouped in fives"
+    ],
+    [
+     "frequency",
+     "التكرار — how many times something happens"
+    ],
+    [
+     "axis (plural axes)",
+     "محور (محاور) — the horizontal and vertical lines on a graph"
+    ],
+    [
+     "scale",
+     "مقياس الرسم — the numbers marked along an axis"
+    ],
+    [
+     "key / legend",
+     "مفتاح الرسم — tells you what each colour or symbol means"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. Planning an investigation"
+  },
+  {
+   "type": "p",
+   "text": "A statistical investigation follows a cycle. You start with a **question**, and at the end you check whether your **prediction** was right. Usually you investigate a **set of related questions** — one main question split into smaller questions that you can answer with data."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "**Ask** the main question and the related questions. Example — main question: “Do older students sleep less on school nights?” Related questions: How long do Stage 3 students sleep? How long do Stage 6 students sleep? Is there a big difference between students in the same stage?",
+    "**Predict**: “I think Stage 6 students sleep about 1 hour less than Stage 3 students.”",
+    "**Plan the data**: What will you collect (hours of sleep — continuous data)? From whom (for example 20 students from each stage)? How (a questionnaire for parents, or a sleep diary for one week)?",
+    "**Collect** and **record** the data in a tally chart or table.",
+    "**Represent** the data in a suitable diagram.",
+    "**Interpret**: describe what the data shows, answer each question, and **check your prediction**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Good planning tips:** ask enough people (a few answers can be misleading); ask the same question in the same way to everyone; for measurements, decide the unit and how accurate to be (e.g. to the nearest centimetre); and make sure the people you ask fit the question (ask Stage 6 students about Stage 6, not your family)."
+  },
+  {
+   "type": "h2",
+   "text": "2. Three types of data"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Type",
+    "What it is",
+    "Examples",
+    "How to spot it"
+   ],
+   "rows": [
+    [
+     "Categorical",
+     "names, words or groups (not numbers)",
+     "favourite fruit, eye colour, type of pet, way to travel to school",
+     "the answer is a word or a group"
+    ],
+    [
+     "Discrete",
+     "numbers you **count**; only certain values are possible",
+     "number of brothers and sisters, goals in a match, shoe size, number of cars passing",
+     "you can’t have values in between, e.g. 2.5 siblings"
+    ],
+    [
+     "Continuous",
+     "numbers you **measure**; any value in a range is possible",
+     "height, mass, time to run 50 m, temperature, length of a leaf",
+     "you use a ruler, scales, a stopwatch or a thermometer"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Shoe size is a trick question",
+   "text": "Shoe size is measured from your foot, but shoe sizes only come in certain values (35, 36, 37…). So shoe size is **discrete**. Your actual foot length (e.g. 22.4 cm) is continuous."
+  },
+  {
+   "type": "h2",
+   "text": "3. Tally charts and frequency tables"
+  },
+  {
+   "type": "p",
+   "text": "A **tally chart** is the quickest way to record data as you collect it: draw one stroke for each answer and draw every fifth stroke across the four before it, so the marks come in groups of five that are easy to count. The **frequency** is the total for each row. A frequency table shows the frequencies as numbers."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Favourite fruit",
+    "Tally",
+    "Frequency"
+   ],
+   "rows": [
+    [
+     "apple",
+     "group of 5 + 3 strokes",
+     "8"
+    ],
+    [
+     "banana",
+     "group of 5",
+     "5"
+    ],
+    [
+     "mango",
+     "2 groups of 5 + 1 stroke",
+     "11"
+    ],
+    [
+     "orange",
+     "group of 5 + 1 stroke",
+     "6"
+    ],
+    [
+     "**Total**",
+     "",
+     "**30**"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Always check the total: 8 + 5 + 11 + 6 = 30, the number of students asked. For **continuous data**, use groups (class intervals) that do not overlap, for example 130 ≤ h < 135, 135 ≤ h < 140… A height of exactly 135 cm goes in the group 135 ≤ h < 140, because “135 ≤ h” includes 135 but “h < 135” does not."
+  },
+  {
+   "type": "h2",
+   "text": "4. Venn diagrams and Carroll diagrams (sorting)"
+  },
+  {
+   "type": "p",
+   "text": "Both diagrams **sort** items using two properties. In a **Venn diagram**, each circle is one property. Items with both properties go in the **overlap**; items with neither go **outside** the circles but inside the rectangle."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 230\" width=\"440\" font-family=\"Arial, sans-serif\" font-size=\"14\"><rect x=\"10\" y=\"10\" width=\"420\" height=\"210\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"170\" cy=\"125\" r=\"82\" fill=\"#8fb4e8\" fill-opacity=\"0.35\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><circle cx=\"270\" cy=\"125\" r=\"82\" fill=\"#f2c75c\" fill-opacity=\"0.35\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"130\" y=\"34\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">multiples of 3</text><text x=\"310\" y=\"34\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">even numbers</text><text x=\"125\" y=\"100\" font-size=\"15\" text-anchor=\"middle\">3</text><text x=\"125\" y=\"130\" font-size=\"15\" text-anchor=\"middle\">9</text><text x=\"125\" y=\"160\" font-size=\"15\" text-anchor=\"middle\">15</text><text x=\"220\" y=\"100\" font-size=\"15\" text-anchor=\"middle\">6</text><text x=\"220\" y=\"130\" font-size=\"15\" text-anchor=\"middle\">12</text><text x=\"220\" y=\"160\" font-size=\"15\" text-anchor=\"middle\">18</text><text x=\"315\" y=\"95\" font-size=\"15\" text-anchor=\"middle\">2</text><text x=\"315\" y=\"120\" font-size=\"15\" text-anchor=\"middle\">4</text><text x=\"315\" y=\"145\" font-size=\"15\" text-anchor=\"middle\">10</text><text x=\"315\" y=\"170\" font-size=\"15\" text-anchor=\"middle\">20</text><text x=\"36\" y=\"200\" font-size=\"15\" text-anchor=\"middle\">7</text><text x=\"36\" y=\"176\" font-size=\"15\" text-anchor=\"middle\">11</text></svg>",
+   "caption": "The numbers 2, 3, 4, 6, 7, 9, 10, 11, 12, 15, 18, 20 sorted. 6, 12 and 18 are multiples of 3 and even, so they are in the overlap. 7 and 11 are neither."
+  },
+  {
+   "type": "p",
+   "text": "A **Carroll diagram** is a table. Each property has a column (or row) for “yes” and one for “not”. Every item goes in exactly one cell. Here are the same numbers:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "",
+    "multiple of 3",
+    "not a multiple of 3"
+   ],
+   "rows": [
+    [
+     "**even**",
+     "6, 12, 18",
+     "2, 4, 10, 20"
+    ],
+    [
+     "**not even**",
+     "3, 9, 15",
+     "7, 11"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "5. Bar charts"
+  },
+  {
+   "type": "p",
+   "text": "Use a **bar chart** for categorical data or discrete data. Each bar shows a frequency. The bars are the same width and have **gaps** between them. A good bar chart has a title, labels on both axes and a scale with equal steps that starts at 0."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 420 270\" width=\"420\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"54\" y1=\"220\" x2=\"58\" y2=\"220\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"225\" font-size=\"13\" text-anchor=\"end\">0</text><line x1=\"58\" y1=\"188.3\" x2=\"400\" y2=\"188.3\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"188.3\" x2=\"58\" y2=\"188.3\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"193.3\" font-size=\"13\" text-anchor=\"end\">2</text><line x1=\"58\" y1=\"156.7\" x2=\"400\" y2=\"156.7\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"156.7\" x2=\"58\" y2=\"156.7\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"161.7\" font-size=\"13\" text-anchor=\"end\">4</text><line x1=\"58\" y1=\"125\" x2=\"400\" y2=\"125\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"125\" x2=\"58\" y2=\"125\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"130\" font-size=\"13\" text-anchor=\"end\">6</text><line x1=\"58\" y1=\"93.3\" x2=\"400\" y2=\"93.3\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"93.3\" x2=\"58\" y2=\"93.3\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"98.3\" font-size=\"13\" text-anchor=\"end\">8</text><line x1=\"58\" y1=\"61.7\" x2=\"400\" y2=\"61.7\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"61.7\" x2=\"58\" y2=\"61.7\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"66.7\" font-size=\"13\" text-anchor=\"end\">10</text><line x1=\"58\" y1=\"30\" x2=\"400\" y2=\"30\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"30\" x2=\"58\" y2=\"30\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"35\" font-size=\"13\" text-anchor=\"end\">12</text><line x1=\"58\" y1=\"220\" x2=\"400\" y2=\"220\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"58\" y1=\"220\" x2=\"58\" y2=\"24\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"14\" y=\"125\" font-size=\"13\" text-anchor=\"middle\" transform=\"rotate(-90 14 125)\">Number of students</text><text x=\"229\" y=\"260\" font-size=\"13\" text-anchor=\"middle\">Favourite fruit</text><rect x=\"75.1\" y=\"93.3\" width=\"51.3\" height=\"126.7\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"100.8\" y=\"238\" font-size=\"13\" text-anchor=\"middle\">apple</text><rect x=\"160.6\" y=\"140.8\" width=\"51.3\" height=\"79.2\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"186.2\" y=\"238\" font-size=\"13\" text-anchor=\"middle\">banana</text><rect x=\"246.1\" y=\"45.8\" width=\"51.3\" height=\"174.2\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"271.8\" y=\"238\" font-size=\"13\" text-anchor=\"middle\">mango</text><rect x=\"331.6\" y=\"125\" width=\"51.3\" height=\"95\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"357.2\" y=\"238\" font-size=\"13\" text-anchor=\"middle\">orange</text></svg>",
+   "caption": "Favourite fruit of 30 students. Each grid line is 2 students, so a bar ending halfway between 10 and 12 shows 11."
+  },
+  {
+   "type": "p",
+   "text": "**Reading the scale:** first work out what one small step is worth. Here the labelled lines go up in 2s, so halfway between two lines is 1 more."
+  },
+  {
+   "type": "h2",
+   "text": "6. Waffle diagrams and pie charts (parts of a whole)"
+  },
+  {
+   "type": "p",
+   "text": "Use these when you want to show how a whole is **split into parts** — proportions. A **waffle diagram** is a 10 × 10 grid of 100 squares, so **each square is 1%**. Count the squares of one colour to get the percentage."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 420 210\" width=\"420\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M10 10h17v17h-17zM29 10h17v17h-17zM48 10h17v17h-17zM67 10h17v17h-17zM86 10h17v17h-17zM105 10h17v17h-17zM124 10h17v17h-17zM143 10h17v17h-17zM162 10h17v17h-17zM181 10h17v17h-17zM10 29h17v17h-17zM29 29h17v17h-17zM48 29h17v17h-17zM67 29h17v17h-17zM86 29h17v17h-17zM105 29h17v17h-17zM124 29h17v17h-17zM143 29h17v17h-17zM162 29h17v17h-17zM181 29h17v17h-17zM10 48h17v17h-17zM29 48h17v17h-17zM48 48h17v17h-17zM67 48h17v17h-17zM86 48h17v17h-17zM105 48h17v17h-17zM124 48h17v17h-17zM143 48h17v17h-17zM162 48h17v17h-17zM181 48h17v17h-17zM10 67h17v17h-17zM29 67h17v17h-17zM48 67h17v17h-17zM67 67h17v17h-17zM86 67h17v17h-17zM105 67h17v17h-17zM124 67h17v17h-17zM143 67h17v17h-17zM162 67h17v17h-17zM181 67h17v17h-17zM10 86h17v17h-17zM29 86h17v17h-17zM48 86h17v17h-17zM67 86h17v17h-17zM86 86h17v17h-17z\" stroke=\"#0f1b33\" stroke-width=\"0.8\" fill=\"#8fb4e8\"/><path d=\"M105 86h17v17h-17zM124 86h17v17h-17zM143 86h17v17h-17zM162 86h17v17h-17zM181 86h17v17h-17zM10 105h17v17h-17zM29 105h17v17h-17zM48 105h17v17h-17zM67 105h17v17h-17zM86 105h17v17h-17zM105 105h17v17h-17zM124 105h17v17h-17zM143 105h17v17h-17zM162 105h17v17h-17zM181 105h17v17h-17zM10 124h17v17h-17zM29 124h17v17h-17zM48 124h17v17h-17zM67 124h17v17h-17zM86 124h17v17h-17zM105 124h17v17h-17zM124 124h17v17h-17zM143 124h17v17h-17zM162 124h17v17h-17zM181 124h17v17h-17zM10 143h17v17h-17zM29 143h17v17h-17zM48 143h17v17h-17zM67 143h17v17h-17zM86 143h17v17h-17z\" stroke=\"#0f1b33\" stroke-width=\"0.8\" fill=\"#f2c75c\"/><path d=\"M105 143h17v17h-17zM124 143h17v17h-17zM143 143h17v17h-17zM162 143h17v17h-17zM181 143h17v17h-17zM10 162h17v17h-17zM29 162h17v17h-17zM48 162h17v17h-17zM67 162h17v17h-17zM86 162h17v17h-17zM105 162h17v17h-17zM124 162h17v17h-17zM143 162h17v17h-17zM162 162h17v17h-17zM181 162h17v17h-17z\" stroke=\"#0f1b33\" stroke-width=\"0.8\" fill=\"#93cf96\"/><path d=\"M10 181h17v17h-17zM29 181h17v17h-17zM48 181h17v17h-17zM67 181h17v17h-17zM86 181h17v17h-17zM105 181h17v17h-17zM124 181h17v17h-17zM143 181h17v17h-17zM162 181h17v17h-17zM181 181h17v17h-17z\" stroke=\"#0f1b33\" stroke-width=\"0.8\" fill=\"#ee9d92\"/><rect x=\"224\" y=\"27\" width=\"16\" height=\"16\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"248\" y=\"40\" font-size=\"14\" text-anchor=\"start\">bus 45%</text><rect x=\"224\" y=\"57\" width=\"16\" height=\"16\" fill=\"#f2c75c\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"248\" y=\"70\" font-size=\"14\" text-anchor=\"start\">car 30%</text><rect x=\"224\" y=\"87\" width=\"16\" height=\"16\" fill=\"#93cf96\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"248\" y=\"100\" font-size=\"14\" text-anchor=\"start\">walk 15%</text><rect x=\"224\" y=\"117\" width=\"16\" height=\"16\" fill=\"#ee9d92\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"248\" y=\"130\" font-size=\"14\" text-anchor=\"start\">bike 10%</text></svg>",
+   "caption": "How 100 students travel to school. Bus has 45 squares, so 45% travel by bus. Bus and car together: 45% + 30% = 75%, that is three quarters."
+  },
+  {
+   "type": "p",
+   "text": "A **pie chart** is a circle split into sectors. The whole circle is all the data. Half the circle is half the data; a quarter (a right angle at the centre) is a quarter of the data. To find a number of people, find that fraction of the total."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 380 230\" width=\"380\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M120 115L120 20A95 95 0 0 1 120 210Z\" stroke=\"#0f1b33\" stroke-width=\"1.5\" fill=\"#8fb4e8\"/><text x=\"177\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"bold\">12</text><path d=\"M120 115L120 210A95 95 0 0 1 25 115Z\" stroke=\"#0f1b33\" stroke-width=\"1.5\" fill=\"#f2c75c\"/><text x=\"79.7\" y=\"160.3\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"bold\">6</text><path d=\"M120 115L25 115A95 95 0 0 1 72.5 32.7Z\" stroke=\"#0f1b33\" stroke-width=\"1.5\" fill=\"#93cf96\"/><text x=\"70.6\" y=\"91.5\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"bold\">4</text><path d=\"M120 115L72.5 32.7A95 95 0 0 1 120 20Z\" stroke=\"#0f1b33\" stroke-width=\"1.5\" fill=\"#ee9d92\"/><text x=\"105.2\" y=\"64.9\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"bold\">2</text><rect x=\"245\" y=\"43\" width=\"16\" height=\"16\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"269\" y=\"56\" font-size=\"14\" text-anchor=\"start\">football</text><rect x=\"245\" y=\"73\" width=\"16\" height=\"16\" fill=\"#f2c75c\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"269\" y=\"86\" font-size=\"14\" text-anchor=\"start\">basketball</text><rect x=\"245\" y=\"103\" width=\"16\" height=\"16\" fill=\"#93cf96\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"269\" y=\"116\" font-size=\"14\" text-anchor=\"start\">swimming</text><rect x=\"245\" y=\"133\" width=\"16\" height=\"16\" fill=\"#ee9d92\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"269\" y=\"146\" font-size=\"14\" text-anchor=\"start\">tennis</text></svg>",
+   "caption": "Favourite sport of 24 students. Football is half the circle: ½ of 24 = 12. Basketball is a quarter: ¼ of 24 = 6. Swimming is ⅙ of 24 = 4, tennis is 1/12 of 24 = 2. Check: 12 + 6 + 4 + 2 = 24."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Comparing two pie charts",
+   "text": "A bigger sector does not always mean more people. If one pie chart shows 24 students and another shows 200 students, a quarter of the second chart is 50 people, but a quarter of the first is only 6. Always check the totals."
+  },
+  {
+   "type": "h2",
+   "text": "7. Frequency diagrams for continuous data"
+  },
+  {
+   "type": "p",
+   "text": "For grouped **continuous** data (heights, times, masses) we draw a **frequency diagram**. It looks like a bar chart, but the bars **touch** because there are no gaps between the groups — every value from 130 cm to 155 cm belongs in some group. The horizontal axis is a number scale, like a ruler."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Height h (cm)",
+    "130 ≤ h < 135",
+    "135 ≤ h < 140",
+    "140 ≤ h < 145",
+    "145 ≤ h < 150",
+    "150 ≤ h < 155"
+   ],
+   "rows": [
+    [
+     "Frequency",
+     "3",
+     "7",
+     "11",
+     "6",
+     "3"
+    ]
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 430 270\" width=\"430\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"54\" y1=\"218\" x2=\"58\" y2=\"218\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"223\" font-size=\"13\" text-anchor=\"end\">0</text><line x1=\"58\" y1=\"186.7\" x2=\"398\" y2=\"186.7\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"186.7\" x2=\"58\" y2=\"186.7\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"191.7\" font-size=\"13\" text-anchor=\"end\">2</text><line x1=\"58\" y1=\"155.3\" x2=\"398\" y2=\"155.3\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"155.3\" x2=\"58\" y2=\"155.3\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"160.3\" font-size=\"13\" text-anchor=\"end\">4</text><line x1=\"58\" y1=\"124\" x2=\"398\" y2=\"124\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"124\" x2=\"58\" y2=\"124\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"129\" font-size=\"13\" text-anchor=\"end\">6</text><line x1=\"58\" y1=\"92.7\" x2=\"398\" y2=\"92.7\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"92.7\" x2=\"58\" y2=\"92.7\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"97.7\" font-size=\"13\" text-anchor=\"end\">8</text><line x1=\"58\" y1=\"61.3\" x2=\"398\" y2=\"61.3\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"61.3\" x2=\"58\" y2=\"61.3\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"66.3\" font-size=\"13\" text-anchor=\"end\">10</text><line x1=\"58\" y1=\"30\" x2=\"398\" y2=\"30\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"30\" x2=\"58\" y2=\"30\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"35\" font-size=\"13\" text-anchor=\"end\">12</text><line x1=\"58\" y1=\"218\" x2=\"398\" y2=\"218\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"58\" y1=\"218\" x2=\"58\" y2=\"24\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"14\" y=\"124\" font-size=\"13\" text-anchor=\"middle\" transform=\"rotate(-90 14 124)\">Frequency</text><text x=\"228\" y=\"258\" font-size=\"13\" text-anchor=\"middle\">Height (h cm)</text><rect x=\"78\" y=\"171\" width=\"62\" height=\"47\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"140\" y=\"108.3\" width=\"62\" height=\"109.7\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"202\" y=\"45.7\" width=\"62\" height=\"172.3\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"264\" y=\"124\" width=\"62\" height=\"94\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"326\" y=\"171\" width=\"62\" height=\"47\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"78\" y1=\"218\" x2=\"78\" y2=\"223\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"78\" y=\"238\" font-size=\"13\" text-anchor=\"middle\">130</text><line x1=\"140\" y1=\"218\" x2=\"140\" y2=\"223\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"140\" y=\"238\" font-size=\"13\" text-anchor=\"middle\">135</text><line x1=\"202\" y1=\"218\" x2=\"202\" y2=\"223\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"202\" y=\"238\" font-size=\"13\" text-anchor=\"middle\">140</text><line x1=\"264\" y1=\"218\" x2=\"264\" y2=\"223\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"264\" y=\"238\" font-size=\"13\" text-anchor=\"middle\">145</text><line x1=\"326\" y1=\"218\" x2=\"326\" y2=\"223\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"326\" y=\"238\" font-size=\"13\" text-anchor=\"middle\">150</text><line x1=\"388\" y1=\"218\" x2=\"388\" y2=\"223\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"388\" y=\"238\" font-size=\"13\" text-anchor=\"middle\">155</text></svg>",
+   "caption": "Heights of 30 students. The tallest bar shows that the most common group is 140 cm up to (but not including) 145 cm."
+  },
+  {
+   "type": "h2",
+   "text": "8. Line graphs"
+  },
+  {
+   "type": "p",
+   "text": "Use a **line graph** to show how something **changes over time**, when the measurement is continuous (temperature, height of a plant, distance travelled). Plot each reading as a cross, then join the crosses with straight lines. Time always goes on the horizontal axis."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 470 270\" width=\"470\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"54\" y1=\"218\" x2=\"58\" y2=\"218\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"223\" font-size=\"13\" text-anchor=\"end\">0</text><line x1=\"58\" y1=\"191.1\" x2=\"448\" y2=\"191.1\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"191.1\" x2=\"58\" y2=\"191.1\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"196.1\" font-size=\"13\" text-anchor=\"end\">5</text><line x1=\"58\" y1=\"164.3\" x2=\"448\" y2=\"164.3\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"164.3\" x2=\"58\" y2=\"164.3\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"169.3\" font-size=\"13\" text-anchor=\"end\">10</text><line x1=\"58\" y1=\"137.4\" x2=\"448\" y2=\"137.4\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"137.4\" x2=\"58\" y2=\"137.4\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"142.4\" font-size=\"13\" text-anchor=\"end\">15</text><line x1=\"58\" y1=\"110.6\" x2=\"448\" y2=\"110.6\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"110.6\" x2=\"58\" y2=\"110.6\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"115.6\" font-size=\"13\" text-anchor=\"end\">20</text><line x1=\"58\" y1=\"83.7\" x2=\"448\" y2=\"83.7\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"83.7\" x2=\"58\" y2=\"83.7\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"88.7\" font-size=\"13\" text-anchor=\"end\">25</text><line x1=\"58\" y1=\"56.9\" x2=\"448\" y2=\"56.9\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"56.9\" x2=\"58\" y2=\"56.9\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"61.9\" font-size=\"13\" text-anchor=\"end\">30</text><line x1=\"58\" y1=\"30\" x2=\"448\" y2=\"30\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"30\" x2=\"58\" y2=\"30\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"35\" font-size=\"13\" text-anchor=\"end\">35</text><line x1=\"58\" y1=\"218\" x2=\"448\" y2=\"218\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"58\" y1=\"218\" x2=\"58\" y2=\"24\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"14\" y=\"124\" font-size=\"13\" text-anchor=\"middle\" transform=\"rotate(-90 14 124)\">Temperature (°C)</text><text x=\"253\" y=\"258\" font-size=\"13\" text-anchor=\"middle\">Time of day</text><path d=\"M83 132.1L141.3 115.9L199.7 89.1L258 67.6L316.3 56.9L374.7 73L433 94.5\" stroke=\"#1f5fbf\" stroke-width=\"2\" fill=\"none\"/><path d=\"M79 128.1L87 136.1M79 136.1L87 128.1\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"83\" y1=\"218\" x2=\"83\" y2=\"223\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"83\" y=\"238\" font-size=\"13\" text-anchor=\"middle\">06:00</text><path d=\"M137.3 111.9L145.3 119.9M137.3 119.9L145.3 111.9\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"141.3\" y1=\"218\" x2=\"141.3\" y2=\"223\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"141.3\" y=\"238\" font-size=\"13\" text-anchor=\"middle\">08:00</text><path d=\"M195.7 85.1L203.7 93.1M195.7 93.1L203.7 85.1\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"199.7\" y1=\"218\" x2=\"199.7\" y2=\"223\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"199.7\" y=\"238\" font-size=\"13\" text-anchor=\"middle\">10:00</text><path d=\"M254 63.6L262 71.6M254 71.6L262 63.6\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"258\" y1=\"218\" x2=\"258\" y2=\"223\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"258\" y=\"238\" font-size=\"13\" text-anchor=\"middle\">12:00</text><path d=\"M312.3 52.9L320.3 60.9M312.3 60.9L320.3 52.9\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"316.3\" y1=\"218\" x2=\"316.3\" y2=\"223\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"316.3\" y=\"238\" font-size=\"13\" text-anchor=\"middle\">14:00</text><path d=\"M370.7 69L378.7 77M370.7 77L378.7 69\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"374.7\" y1=\"218\" x2=\"374.7\" y2=\"223\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"374.7\" y=\"238\" font-size=\"13\" text-anchor=\"middle\">16:00</text><path d=\"M429 90.5L437 98.5M429 98.5L437 90.5\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"433\" y1=\"218\" x2=\"433\" y2=\"223\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"433\" y=\"238\" font-size=\"13\" text-anchor=\"middle\">18:00</text></svg>",
+   "caption": "Temperature outside a school in Cairo on one day. It rises from 16 °C at 06:00 to its highest, 30 °C, at 14:00, then falls."
+  },
+  {
+   "type": "p",
+   "text": "You can read values **between** the points: at 13:00 the temperature was about 29 °C (halfway between 28 °C and 30 °C). This only makes sense because time and temperature are continuous. Never draw a line graph for categorical data such as favourite fruits — the line between “apple” and “banana” would mean nothing."
+  },
+  {
+   "type": "h2",
+   "text": "9. Scatter graphs"
+  },
+  {
+   "type": "p",
+   "text": "A **scatter graph** shows whether there is a **relationship between two sets of measurements** taken from the same people or things. Each cross is one student: across for height, up for hand span. The points are **not** joined."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 420 280\" width=\"420\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"62\" y1=\"228\" x2=\"62\" y2=\"28\" stroke=\"#c3cede\" stroke-width=\"1\"/><text x=\"62\" y=\"247\" font-size=\"13\" text-anchor=\"middle\">125</text><line x1=\"109.1\" y1=\"228\" x2=\"109.1\" y2=\"28\" stroke=\"#c3cede\" stroke-width=\"1\"/><text x=\"109.1\" y=\"247\" font-size=\"13\" text-anchor=\"middle\">130</text><line x1=\"156.3\" y1=\"228\" x2=\"156.3\" y2=\"28\" stroke=\"#c3cede\" stroke-width=\"1\"/><text x=\"156.3\" y=\"247\" font-size=\"13\" text-anchor=\"middle\">135</text><line x1=\"203.4\" y1=\"228\" x2=\"203.4\" y2=\"28\" stroke=\"#c3cede\" stroke-width=\"1\"/><text x=\"203.4\" y=\"247\" font-size=\"13\" text-anchor=\"middle\">140</text><line x1=\"250.6\" y1=\"228\" x2=\"250.6\" y2=\"28\" stroke=\"#c3cede\" stroke-width=\"1\"/><text x=\"250.6\" y=\"247\" font-size=\"13\" text-anchor=\"middle\">145</text><line x1=\"297.7\" y1=\"228\" x2=\"297.7\" y2=\"28\" stroke=\"#c3cede\" stroke-width=\"1\"/><text x=\"297.7\" y=\"247\" font-size=\"13\" text-anchor=\"middle\">150</text><line x1=\"344.9\" y1=\"228\" x2=\"344.9\" y2=\"28\" stroke=\"#c3cede\" stroke-width=\"1\"/><text x=\"344.9\" y=\"247\" font-size=\"13\" text-anchor=\"middle\">155</text><line x1=\"392\" y1=\"228\" x2=\"392\" y2=\"28\" stroke=\"#c3cede\" stroke-width=\"1\"/><text x=\"392\" y=\"247\" font-size=\"13\" text-anchor=\"middle\">160</text><line x1=\"62\" y1=\"228\" x2=\"392\" y2=\"228\" stroke=\"#c3cede\" stroke-width=\"1\"/><text x=\"55\" y=\"233\" font-size=\"13\" text-anchor=\"end\">12</text><line x1=\"62\" y1=\"188\" x2=\"392\" y2=\"188\" stroke=\"#c3cede\" stroke-width=\"1\"/><text x=\"55\" y=\"193\" font-size=\"13\" text-anchor=\"end\">14</text><line x1=\"62\" y1=\"148\" x2=\"392\" y2=\"148\" stroke=\"#c3cede\" stroke-width=\"1\"/><text x=\"55\" y=\"153\" font-size=\"13\" text-anchor=\"end\">16</text><line x1=\"62\" y1=\"108\" x2=\"392\" y2=\"108\" stroke=\"#c3cede\" stroke-width=\"1\"/><text x=\"55\" y=\"113\" font-size=\"13\" text-anchor=\"end\">18</text><line x1=\"62\" y1=\"68\" x2=\"392\" y2=\"68\" stroke=\"#c3cede\" stroke-width=\"1\"/><text x=\"55\" y=\"73\" font-size=\"13\" text-anchor=\"end\">20</text><line x1=\"62\" y1=\"28\" x2=\"392\" y2=\"28\" stroke=\"#c3cede\" stroke-width=\"1\"/><text x=\"55\" y=\"33\" font-size=\"13\" text-anchor=\"end\">22</text><line x1=\"62\" y1=\"228\" x2=\"398\" y2=\"228\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"62\" y1=\"228\" x2=\"62\" y2=\"22\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"227\" y=\"268\" font-size=\"13\" text-anchor=\"middle\">Height (cm)</text><text x=\"16\" y=\"128\" font-size=\"13\" text-anchor=\"middle\" transform=\"rotate(-90 16 128)\">Hand span (cm)</text><path d=\"M105.1 164L113.1 172M105.1 172L113.1 164\" stroke=\"#1f5fbf\" stroke-width=\"2\"/><path d=\"M142.9 144L150.9 152M142.9 152L150.9 144\" stroke=\"#1f5fbf\" stroke-width=\"2\"/><path d=\"M180.6 144L188.6 152M180.6 152L188.6 144\" stroke=\"#1f5fbf\" stroke-width=\"2\"/><path d=\"M208.9 124L216.9 132M208.9 132L216.9 124\" stroke=\"#1f5fbf\" stroke-width=\"2\"/><path d=\"M246.6 104L254.6 112M246.6 112L254.6 104\" stroke=\"#1f5fbf\" stroke-width=\"2\"/><path d=\"M274.9 104L282.9 112M274.9 112L282.9 104\" stroke=\"#1f5fbf\" stroke-width=\"2\"/><path d=\"M303.1 84L311.1 92M303.1 92L311.1 84\" stroke=\"#1f5fbf\" stroke-width=\"2\"/><path d=\"M340.9 64L348.9 72M340.9 72L348.9 64\" stroke=\"#1f5fbf\" stroke-width=\"2\"/></svg>",
+   "caption": "Height and hand span of 8 students. The crosses go up from left to right: taller students tend to have wider hand spans. Note that the axes do not start at 0, so the scales begin at 125 cm and 12 cm."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Crosses going **up** from left to right: as one value increases, the other tends to increase (e.g. height and hand span).",
+    "Crosses going **down** from left to right: as one value increases, the other tends to decrease (e.g. age of a car and its price).",
+    "Crosses spread **everywhere**: there is no relationship (e.g. height and the number of your house)."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "10. Dot plots"
+  },
+  {
+   "type": "p",
+   "text": "A **dot plot** shows each piece of discrete (or small numerical) data as one dot above a number line. It is quick to draw and you can still see every value, so it is good for small data sets."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 200\" width=\"400\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"25\" y1=\"150\" x2=\"375\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"40\" y1=\"150\" x2=\"40\" y2=\"156\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"40\" y=\"172\" font-size=\"13\" text-anchor=\"middle\">0</text><circle cx=\"40\" cy=\"138\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"40\" cy=\"124\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"40\" cy=\"110\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><line x1=\"104\" y1=\"150\" x2=\"104\" y2=\"156\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"104\" y=\"172\" font-size=\"13\" text-anchor=\"middle\">1</text><circle cx=\"104\" cy=\"138\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"104\" cy=\"124\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"104\" cy=\"110\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"104\" cy=\"96\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"104\" cy=\"82\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"104\" cy=\"68\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"104\" cy=\"54\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"104\" cy=\"40\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><line x1=\"168\" y1=\"150\" x2=\"168\" y2=\"156\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"168\" y=\"172\" font-size=\"13\" text-anchor=\"middle\">2</text><circle cx=\"168\" cy=\"138\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"168\" cy=\"124\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"168\" cy=\"110\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"168\" cy=\"96\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"168\" cy=\"82\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"168\" cy=\"68\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"168\" cy=\"54\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><line x1=\"232\" y1=\"150\" x2=\"232\" y2=\"156\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"232\" y=\"172\" font-size=\"13\" text-anchor=\"middle\">3</text><circle cx=\"232\" cy=\"138\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"232\" cy=\"124\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"232\" cy=\"110\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"232\" cy=\"96\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><line x1=\"296\" y1=\"150\" x2=\"296\" y2=\"156\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"296\" y=\"172\" font-size=\"13\" text-anchor=\"middle\">4</text><circle cx=\"296\" cy=\"138\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"296\" cy=\"124\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><line x1=\"360\" y1=\"150\" x2=\"360\" y2=\"156\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"360\" y=\"172\" font-size=\"13\" text-anchor=\"middle\">5</text><circle cx=\"360\" cy=\"138\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><text x=\"200\" y=\"192\" font-size=\"13\" text-anchor=\"middle\">Number of brothers and sisters</text></svg>",
+   "caption": "Number of brothers and sisters of 25 students. Each dot is one student: 3 + 8 + 7 + 4 + 2 + 1 = 25."
+  },
+  {
+   "type": "h2",
+   "text": "11. Choosing the best representation"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Situation",
+    "Best choice",
+    "Why"
+   ],
+   "rows": [
+    [
+     "sorting numbers or shapes by two properties",
+     "Venn or Carroll diagram",
+     "shows which items have one, both or neither property"
+    ],
+    [
+     "counting answers as you collect them",
+     "tally chart, then frequency table",
+     "quick to record, easy to total"
+    ],
+    [
+     "comparing categories or discrete values",
+     "bar chart (or dot plot for small sets)",
+     "bar heights are easy to compare"
+    ],
+    [
+     "showing parts of a whole / percentages",
+     "waffle diagram or pie chart",
+     "shows the proportion of each part"
+    ],
+    [
+     "grouped continuous data (heights, times)",
+     "frequency diagram",
+     "bars touch because the scale is continuous"
+    ],
+    [
+     "change over time",
+     "line graph",
+     "shows rises and falls; you can read between points"
+    ],
+    [
+     "is there a relationship between two measurements?",
+     "scatter graph",
+     "the pattern of crosses shows the relationship"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "بالعربي: نختار أي رسم؟",
+   "items": [
+    "بيانات وصفية (ألوان، رياضات) أو بيانات معدودة → أعمدة بيانية (bar chart) بينها مسافات.",
+    "بيانات مقاسة ومجمّعة (أطوال، أزمنة) → frequency diagram والأعمدة ملزوقة في بعض.",
+    "تغيّر مع الوقت (درجة الحرارة طول اليوم) → line graph.",
+    "أجزاء من كل (نسب مئوية) → waffle diagram (كل مربع = 1%) أو pie chart.",
+    "هل في علاقة بين قياسين (الطول وطول الكف)؟ → scatter graph، والنقط ما بتتوصلش."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — Types of data  [2 marks]\nWrite whether each set of data is categorical, discrete or continuous: (a) the mass of each student’s school bag; (b) the number of goals each team scored; (c) each student’s favourite subject; (d) the time each student takes to walk to school."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Data",
+    "Ask yourself",
+    "Type"
+   ],
+   "rows": [
+    [
+     "(a) mass of school bag",
+     "Measured with scales? Yes",
+     "continuous"
+    ],
+    [
+     "(b) number of goals",
+     "Counted? Yes — whole numbers only",
+     "discrete"
+    ],
+    [
+     "(c) favourite subject",
+     "Is the answer a word? Yes",
+     "categorical"
+    ],
+    [
+     "(d) time to walk to school",
+     "Measured with a clock? Yes",
+     "continuous"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** (a) continuous, (b) discrete, (c) categorical, (d) continuous. 2 marks for all four, 1 mark for three correct.\n**Common mistake:** calling every set of numbers “discrete”. Ask: was it **counted** or **measured**?"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — Completing a frequency table  [2 marks]\n40 students chose their favourite colour. Red 9, blue 13, green ?, yellow 6. (a) How many chose green? (b) Which colour was the mode (the most popular)?"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Add the known frequencies: 9 + 13 + 6 = 28.",
+    "Subtract from the total: 40 − 28 = 12 chose green.",
+    "Compare: blue 13 is the largest frequency."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** (a) 12 (b) blue.\n**Check:** 9 + 13 + 12 + 6 = 40 ✓"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — Carroll diagram  [1 mark]\nA Carroll diagram has columns “has a right angle” / “has no right angle” and rows “quadrilateral” / “not a quadrilateral”. Write where these shapes go: square, right-angled triangle, rhombus (not a square), equilateral triangle."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "",
+    "has a right angle",
+    "has no right angle"
+   ],
+   "rows": [
+    [
+     "**quadrilateral**",
+     "square",
+     "rhombus"
+    ],
+    [
+     "**not a quadrilateral**",
+     "right-angled triangle",
+     "equilateral triangle"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Method:** take each shape and answer both questions. Square: 4 sides (quadrilateral) and right angles → top-left. A rhombus that is not a square has no right angles → top-right. Each shape goes in exactly **one** cell."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — Waffle diagram  [2 marks]\nUse the waffle diagram of how 100 students travel to school (section 6). (a) What percentage of students walk or cycle? (b) In the whole school 600 students travel in the same proportions. How many travel by car?"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) walk 15% + bike 10% = 25%.",
+    "(b) car = 30%. 10% of 600 = 60, so 30% of 600 = 3 × 60 = 180."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** (a) 25% (b) 180 students.\n**Common mistake:** answering “30” for part (b). 30 is the percentage (30 out of 100), not the number of students out of 600."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — Choosing a graph  [2 marks]\nAmira measured the height of a bean plant every Monday for 8 weeks. Ali measured the heights of 30 bean plants on one day and grouped them. Which type of graph should each of them draw? Explain."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Amira: one plant, measured **over time** → **line graph**, because it shows how the height changes from week to week and she can read heights between the Mondays.",
+    "Ali: many measurements of continuous data, **grouped** → **frequency diagram** with touching bars, because height is continuous so the groups have no gaps."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Exam technique:** in “explain” questions, name the graph **and** give a reason linked to the data (“because the data is continuous” / “because it shows change over time”)."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** — Planning an investigation  [2 marks]\nYoussef wants to find out: “Do students who read more books get higher spelling scores?” (a) Write a prediction. (b) What data should he collect, and which graph should he draw?"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) Prediction: “Students who read more books each month will get higher spelling scores.”",
+    "(b) For each student he needs **two** pieces of data: the number of books read in a month (discrete) and the spelling test score (discrete). He should ask a good number of students, for example the whole class.",
+    "Two measurements for each student, looking for a relationship → **scatter graph**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** prediction as above; collect books read and test score for each student; a scatter graph. If the crosses go up from left to right, his prediction is supported."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Mixing up discrete (counted) and continuous (measured) data.",
+    "Leaving gaps between the bars of a frequency diagram for continuous data — or no gaps in a bar chart for categories.",
+    "Reading a scale wrongly: always work out what one small step is worth before reading a bar.",
+    "Putting an item in both sides of a Carroll diagram, or in a Venn circle when it belongs in the overlap.",
+    "Forgetting that a value on the boundary, like 140 cm, belongs to the group 140 ≤ h < 145.",
+    "Joining the points on a scatter graph, or drawing a line graph for categorical data.",
+    "Giving a percentage when the question asks for a number of people (or the other way round)."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "“Complete the frequency table” or “complete the bar chart” — use a ruler and draw the bar exactly to the scale.",
+    "“Write these numbers in the correct place on the Venn diagram / Carroll diagram.”",
+    "“Is this data categorical, discrete or continuous?”",
+    "“Which graph would be best to show …? Explain your answer.”",
+    "Reading questions: “How many more…”, “What percentage…”, “What fraction of the pie chart…”.",
+    "“Write one more question Ahmed could ask in his investigation” or “Was the prediction correct? Use the data to explain.”"
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "قاعدة لازم تحفظها",
+   "items": [
+    "اسأل نفسك: الإجابة كلمة؟ → categorical. رقم بنعدّه؟ → discrete. رقم بنقيسه بأداة قياس؟ → continuous.",
+    "قبل ما تقرأ أي رسم: شوف المقياس — كل خط يساوي كام؟",
+    "في الـ waffle diagram كل مربع = 1% من 100 مربع."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Collecting and representing data — practice",
+   "timed": false,
+   "intro": "14 questions on types of data, tables, sorting diagrams and graphs. Read every scale carefully before you answer.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 25,
+     "calc": false,
+     "questions": [
+      {
+       "q": "Which of these is continuous data?",
+       "c": [
+        "the number of pets each student has",
+        "each student’s favourite colour",
+        "the mass of each student’s school bag",
+        "each student’s shoe size"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Types of data",
+       "e": "Mass is measured with scales and can take any value (e.g. 3.45 kg), so it is continuous. Number of pets and shoe size are discrete; favourite colour is categorical."
+      },
+      {
+       "t": "text",
+       "q": "Is “the time taken to run 100 m” categorical, discrete or continuous data?",
+       "ans": [
+        "continuous"
+       ],
+       "m": 1,
+       "s": "Types of data",
+       "e": "Time is measured with a stopwatch and can be any value (e.g. 15.37 s), so it is continuous."
+      },
+      {
+       "t": "num",
+       "p": "A frequency table shows how 32 students travel to school: walk 7, bus 11, car ?, bike 5.",
+       "q": "How many students travel by car?",
+       "ans": [
+        9
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Frequency tables",
+       "e": "7 + 11 + 5 = 23. 32 − 23 = 9 students travel by car."
+      },
+      {
+       "t": "num",
+       "p": "The bar chart shows the number of books borrowed from a library each day.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 260\" width=\"400\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"54\" y1=\"210\" x2=\"58\" y2=\"210\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"215\" font-size=\"13\" text-anchor=\"end\">0</text><line x1=\"58\" y1=\"197.1\" x2=\"380\" y2=\"197.1\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"197.1\" x2=\"58\" y2=\"197.1\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"202.1\" font-size=\"13\" text-anchor=\"end\">2</text><line x1=\"58\" y1=\"184.3\" x2=\"380\" y2=\"184.3\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"184.3\" x2=\"58\" y2=\"184.3\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"189.3\" font-size=\"13\" text-anchor=\"end\">4</text><line x1=\"58\" y1=\"171.4\" x2=\"380\" y2=\"171.4\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"171.4\" x2=\"58\" y2=\"171.4\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"176.4\" font-size=\"13\" text-anchor=\"end\">6</text><line x1=\"58\" y1=\"158.6\" x2=\"380\" y2=\"158.6\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"158.6\" x2=\"58\" y2=\"158.6\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"163.6\" font-size=\"13\" text-anchor=\"end\">8</text><line x1=\"58\" y1=\"145.7\" x2=\"380\" y2=\"145.7\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"145.7\" x2=\"58\" y2=\"145.7\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"150.7\" font-size=\"13\" text-anchor=\"end\">10</text><line x1=\"58\" y1=\"132.9\" x2=\"380\" y2=\"132.9\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"132.9\" x2=\"58\" y2=\"132.9\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"137.9\" font-size=\"13\" text-anchor=\"end\">12</text><line x1=\"58\" y1=\"120\" x2=\"380\" y2=\"120\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"120\" x2=\"58\" y2=\"120\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"125\" font-size=\"13\" text-anchor=\"end\">14</text><line x1=\"58\" y1=\"107.1\" x2=\"380\" y2=\"107.1\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"107.1\" x2=\"58\" y2=\"107.1\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"112.1\" font-size=\"13\" text-anchor=\"end\">16</text><line x1=\"58\" y1=\"94.3\" x2=\"380\" y2=\"94.3\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"94.3\" x2=\"58\" y2=\"94.3\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"99.3\" font-size=\"13\" text-anchor=\"end\">18</text><line x1=\"58\" y1=\"81.4\" x2=\"380\" y2=\"81.4\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"81.4\" x2=\"58\" y2=\"81.4\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"86.4\" font-size=\"13\" text-anchor=\"end\">20</text><line x1=\"58\" y1=\"68.6\" x2=\"380\" y2=\"68.6\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"68.6\" x2=\"58\" y2=\"68.6\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"73.6\" font-size=\"13\" text-anchor=\"end\">22</text><line x1=\"58\" y1=\"55.7\" x2=\"380\" y2=\"55.7\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"55.7\" x2=\"58\" y2=\"55.7\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"60.7\" font-size=\"13\" text-anchor=\"end\">24</text><line x1=\"58\" y1=\"42.9\" x2=\"380\" y2=\"42.9\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"42.9\" x2=\"58\" y2=\"42.9\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"47.9\" font-size=\"13\" text-anchor=\"end\">26</text><line x1=\"58\" y1=\"30\" x2=\"380\" y2=\"30\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"30\" x2=\"58\" y2=\"30\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"35\" font-size=\"13\" text-anchor=\"end\">28</text><line x1=\"58\" y1=\"210\" x2=\"380\" y2=\"210\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"58\" y1=\"210\" x2=\"58\" y2=\"24\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"14\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" transform=\"rotate(-90 14 120)\">Number of books</text><text x=\"219\" y=\"250\" font-size=\"13\" text-anchor=\"middle\">Day</text><rect x=\"70.9\" y=\"120\" width=\"38.6\" height=\"90\" fill=\"#93cf96\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"90.2\" y=\"228\" font-size=\"13\" text-anchor=\"middle\">Mon</text><rect x=\"135.3\" y=\"68.6\" width=\"38.6\" height=\"141.4\" fill=\"#93cf96\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"154.6\" y=\"228\" font-size=\"13\" text-anchor=\"middle\">Tue</text><rect x=\"199.7\" y=\"94.3\" width=\"38.6\" height=\"115.7\" fill=\"#93cf96\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"219\" y=\"228\" font-size=\"13\" text-anchor=\"middle\">Wed</text><rect x=\"264.1\" y=\"158.6\" width=\"38.6\" height=\"51.4\" fill=\"#93cf96\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"283.4\" y=\"228\" font-size=\"13\" text-anchor=\"middle\">Thu</text><rect x=\"328.5\" y=\"42.9\" width=\"38.6\" height=\"167.1\" fill=\"#93cf96\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"347.8\" y=\"228\" font-size=\"13\" text-anchor=\"middle\">Fri</text></svg>",
+       "q": "How many more books were borrowed on Friday than on Thursday?",
+       "ans": [
+        18
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Bar charts",
+       "e": "The scale goes up in 2s. Friday = 26, Thursday = 8. 26 − 8 = 18."
+      },
+      {
+       "t": "num",
+       "p": "The bar chart shows the number of books borrowed from a library each day.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 260\" width=\"400\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"54\" y1=\"210\" x2=\"58\" y2=\"210\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"215\" font-size=\"13\" text-anchor=\"end\">0</text><line x1=\"58\" y1=\"197.1\" x2=\"380\" y2=\"197.1\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"197.1\" x2=\"58\" y2=\"197.1\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"202.1\" font-size=\"13\" text-anchor=\"end\">2</text><line x1=\"58\" y1=\"184.3\" x2=\"380\" y2=\"184.3\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"184.3\" x2=\"58\" y2=\"184.3\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"189.3\" font-size=\"13\" text-anchor=\"end\">4</text><line x1=\"58\" y1=\"171.4\" x2=\"380\" y2=\"171.4\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"171.4\" x2=\"58\" y2=\"171.4\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"176.4\" font-size=\"13\" text-anchor=\"end\">6</text><line x1=\"58\" y1=\"158.6\" x2=\"380\" y2=\"158.6\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"158.6\" x2=\"58\" y2=\"158.6\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"163.6\" font-size=\"13\" text-anchor=\"end\">8</text><line x1=\"58\" y1=\"145.7\" x2=\"380\" y2=\"145.7\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"145.7\" x2=\"58\" y2=\"145.7\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"150.7\" font-size=\"13\" text-anchor=\"end\">10</text><line x1=\"58\" y1=\"132.9\" x2=\"380\" y2=\"132.9\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"132.9\" x2=\"58\" y2=\"132.9\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"137.9\" font-size=\"13\" text-anchor=\"end\">12</text><line x1=\"58\" y1=\"120\" x2=\"380\" y2=\"120\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"120\" x2=\"58\" y2=\"120\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"125\" font-size=\"13\" text-anchor=\"end\">14</text><line x1=\"58\" y1=\"107.1\" x2=\"380\" y2=\"107.1\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"107.1\" x2=\"58\" y2=\"107.1\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"112.1\" font-size=\"13\" text-anchor=\"end\">16</text><line x1=\"58\" y1=\"94.3\" x2=\"380\" y2=\"94.3\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"94.3\" x2=\"58\" y2=\"94.3\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"99.3\" font-size=\"13\" text-anchor=\"end\">18</text><line x1=\"58\" y1=\"81.4\" x2=\"380\" y2=\"81.4\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"81.4\" x2=\"58\" y2=\"81.4\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"86.4\" font-size=\"13\" text-anchor=\"end\">20</text><line x1=\"58\" y1=\"68.6\" x2=\"380\" y2=\"68.6\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"68.6\" x2=\"58\" y2=\"68.6\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"73.6\" font-size=\"13\" text-anchor=\"end\">22</text><line x1=\"58\" y1=\"55.7\" x2=\"380\" y2=\"55.7\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"55.7\" x2=\"58\" y2=\"55.7\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"60.7\" font-size=\"13\" text-anchor=\"end\">24</text><line x1=\"58\" y1=\"42.9\" x2=\"380\" y2=\"42.9\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"42.9\" x2=\"58\" y2=\"42.9\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"47.9\" font-size=\"13\" text-anchor=\"end\">26</text><line x1=\"58\" y1=\"30\" x2=\"380\" y2=\"30\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"30\" x2=\"58\" y2=\"30\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"35\" font-size=\"13\" text-anchor=\"end\">28</text><line x1=\"58\" y1=\"210\" x2=\"380\" y2=\"210\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"58\" y1=\"210\" x2=\"58\" y2=\"24\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"14\" y=\"120\" font-size=\"13\" text-anchor=\"middle\" transform=\"rotate(-90 14 120)\">Number of books</text><text x=\"219\" y=\"250\" font-size=\"13\" text-anchor=\"middle\">Day</text><rect x=\"70.9\" y=\"120\" width=\"38.6\" height=\"90\" fill=\"#93cf96\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"90.2\" y=\"228\" font-size=\"13\" text-anchor=\"middle\">Mon</text><rect x=\"135.3\" y=\"68.6\" width=\"38.6\" height=\"141.4\" fill=\"#93cf96\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"154.6\" y=\"228\" font-size=\"13\" text-anchor=\"middle\">Tue</text><rect x=\"199.7\" y=\"94.3\" width=\"38.6\" height=\"115.7\" fill=\"#93cf96\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"219\" y=\"228\" font-size=\"13\" text-anchor=\"middle\">Wed</text><rect x=\"264.1\" y=\"158.6\" width=\"38.6\" height=\"51.4\" fill=\"#93cf96\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"283.4\" y=\"228\" font-size=\"13\" text-anchor=\"middle\">Thu</text><rect x=\"328.5\" y=\"42.9\" width=\"38.6\" height=\"167.1\" fill=\"#93cf96\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"347.8\" y=\"228\" font-size=\"13\" text-anchor=\"middle\">Fri</text></svg>",
+       "q": "How many books were borrowed altogether from Monday to Friday?",
+       "ans": [
+        88
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Bar charts",
+       "e": "Mon 14, Tue 22, Wed 18, Thu 8, Fri 26. 14 + 22 + 18 + 8 + 26 = 88."
+      },
+      {
+       "q": "A Carroll diagram has columns “even” / “not even” and rows “greater than 10” / “not greater than 10”. Where does the number 15 go?",
+       "c": [
+        "even, greater than 10",
+        "even, not greater than 10",
+        "not even, not greater than 10",
+        "not even, greater than 10"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Carroll diagrams",
+       "e": "15 is odd, so “not even”. 15 > 10, so “greater than 10”. It goes in the cell: not even, greater than 10."
+      },
+      {
+       "t": "num",
+       "p": "The Venn diagram shows how many students in a class play football and how many play chess.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 230\" width=\"440\" font-family=\"Arial, sans-serif\" font-size=\"14\"><rect x=\"10\" y=\"10\" width=\"420\" height=\"210\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"170\" cy=\"125\" r=\"82\" fill=\"#8fb4e8\" fill-opacity=\"0.35\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><circle cx=\"270\" cy=\"125\" r=\"82\" fill=\"#f2c75c\" fill-opacity=\"0.35\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"130\" y=\"34\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">football</text><text x=\"310\" y=\"34\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">chess</text><text x=\"125\" y=\"100\" font-size=\"15\" text-anchor=\"middle\">9</text><text x=\"220\" y=\"100\" font-size=\"15\" text-anchor=\"middle\">4</text><text x=\"315\" y=\"100\" font-size=\"15\" text-anchor=\"middle\">6</text><text x=\"36\" y=\"200\" font-size=\"15\" text-anchor=\"middle\">3</text></svg>",
+       "q": "How many students play chess?",
+       "ans": [
+        10
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Venn diagrams",
+       "e": "Everyone inside the chess circle plays chess: 6 (chess only) + 4 (both) = 10. Do not forget the overlap."
+      },
+      {
+       "t": "num",
+       "p": "The Venn diagram shows how many students in a class play football and how many play chess.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 230\" width=\"440\" font-family=\"Arial, sans-serif\" font-size=\"14\"><rect x=\"10\" y=\"10\" width=\"420\" height=\"210\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"170\" cy=\"125\" r=\"82\" fill=\"#8fb4e8\" fill-opacity=\"0.35\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><circle cx=\"270\" cy=\"125\" r=\"82\" fill=\"#f2c75c\" fill-opacity=\"0.35\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"130\" y=\"34\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">football</text><text x=\"310\" y=\"34\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">chess</text><text x=\"125\" y=\"100\" font-size=\"15\" text-anchor=\"middle\">9</text><text x=\"220\" y=\"100\" font-size=\"15\" text-anchor=\"middle\">4</text><text x=\"315\" y=\"100\" font-size=\"15\" text-anchor=\"middle\">6</text><text x=\"36\" y=\"200\" font-size=\"15\" text-anchor=\"middle\">3</text></svg>",
+       "q": "How many students are in the class altogether?",
+       "ans": [
+        22
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Venn diagrams",
+       "e": "Add every region, including outside the circles: 9 + 4 + 6 + 3 = 22."
+      },
+      {
+       "t": "num",
+       "p": "This waffle diagram has 100 squares. The shaded squares show the students who walk to school.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 420 210\" width=\"420\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M10 10h17v17h-17zM29 10h17v17h-17zM48 10h17v17h-17zM67 10h17v17h-17zM86 10h17v17h-17zM105 10h17v17h-17zM124 10h17v17h-17zM143 10h17v17h-17zM162 10h17v17h-17zM181 10h17v17h-17zM10 29h17v17h-17zM29 29h17v17h-17zM48 29h17v17h-17zM67 29h17v17h-17zM86 29h17v17h-17zM105 29h17v17h-17zM124 29h17v17h-17zM143 29h17v17h-17zM162 29h17v17h-17zM181 29h17v17h-17zM10 48h17v17h-17zM29 48h17v17h-17zM48 48h17v17h-17zM67 48h17v17h-17zM86 48h17v17h-17zM105 48h17v17h-17zM124 48h17v17h-17zM143 48h17v17h-17zM162 48h17v17h-17zM181 48h17v17h-17zM10 67h17v17h-17zM29 67h17v17h-17zM48 67h17v17h-17zM67 67h17v17h-17zM86 67h17v17h-17z\" stroke=\"#0f1b33\" stroke-width=\"0.8\" fill=\"#93cf96\"/><path d=\"M105 67h17v17h-17zM124 67h17v17h-17zM143 67h17v17h-17zM162 67h17v17h-17zM181 67h17v17h-17zM10 86h17v17h-17zM29 86h17v17h-17zM48 86h17v17h-17zM67 86h17v17h-17zM86 86h17v17h-17zM105 86h17v17h-17zM124 86h17v17h-17zM143 86h17v17h-17zM162 86h17v17h-17zM181 86h17v17h-17zM10 105h17v17h-17zM29 105h17v17h-17zM48 105h17v17h-17zM67 105h17v17h-17zM86 105h17v17h-17zM105 105h17v17h-17zM124 105h17v17h-17zM143 105h17v17h-17zM162 105h17v17h-17zM181 105h17v17h-17zM10 124h17v17h-17zM29 124h17v17h-17zM48 124h17v17h-17zM67 124h17v17h-17zM86 124h17v17h-17zM105 124h17v17h-17zM124 124h17v17h-17zM143 124h17v17h-17zM162 124h17v17h-17zM181 124h17v17h-17zM10 143h17v17h-17zM29 143h17v17h-17zM48 143h17v17h-17zM67 143h17v17h-17zM86 143h17v17h-17zM105 143h17v17h-17zM124 143h17v17h-17zM143 143h17v17h-17zM162 143h17v17h-17zM181 143h17v17h-17zM10 162h17v17h-17zM29 162h17v17h-17zM48 162h17v17h-17zM67 162h17v17h-17zM86 162h17v17h-17zM105 162h17v17h-17zM124 162h17v17h-17zM143 162h17v17h-17zM162 162h17v17h-17zM181 162h17v17h-17zM10 181h17v17h-17zM29 181h17v17h-17zM48 181h17v17h-17zM67 181h17v17h-17zM86 181h17v17h-17zM105 181h17v17h-17zM124 181h17v17h-17zM143 181h17v17h-17zM162 181h17v17h-17zM181 181h17v17h-17z\" stroke=\"#0f1b33\" stroke-width=\"0.8\" fill=\"#ffffff\"/><rect x=\"224\" y=\"27\" width=\"16\" height=\"16\" fill=\"#93cf96\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"248\" y=\"40\" font-size=\"14\" text-anchor=\"start\">walk</text></svg>",
+       "q": "What percentage of the students walk to school?",
+       "ans": [
+        35
+       ],
+       "tol": 0,
+       "unit": "%",
+       "m": 1,
+       "s": "Waffle diagrams",
+       "e": "Count the shaded squares: 3 full rows of 10 = 30, plus 5 more = 35 squares. Each square is 1%, so 35%."
+      },
+      {
+       "t": "num",
+       "p": "The pie chart shows the favourite activity of 40 students. Sector A is half the circle and sector B is a quarter. Sectors C and D are the same size.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 380 230\" width=\"380\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M120 115L120 20A95 95 0 0 1 120 210Z\" stroke=\"#0f1b33\" stroke-width=\"1.5\" fill=\"#8fb4e8\"/><path d=\"M120 115L120 210A95 95 0 0 1 25 115Z\" stroke=\"#0f1b33\" stroke-width=\"1.5\" fill=\"#f2c75c\"/><path d=\"M120 115L25 115A95 95 0 0 1 52.8 47.8Z\" stroke=\"#0f1b33\" stroke-width=\"1.5\" fill=\"#93cf96\"/><path d=\"M120 115L52.8 47.8A95 95 0 0 1 120 20Z\" stroke=\"#0f1b33\" stroke-width=\"1.5\" fill=\"#ee9d92\"/><rect x=\"245\" y=\"43\" width=\"16\" height=\"16\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"269\" y=\"56\" font-size=\"14\" text-anchor=\"start\">A</text><rect x=\"245\" y=\"73\" width=\"16\" height=\"16\" fill=\"#f2c75c\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"269\" y=\"86\" font-size=\"14\" text-anchor=\"start\">B</text><rect x=\"245\" y=\"103\" width=\"16\" height=\"16\" fill=\"#93cf96\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"269\" y=\"116\" font-size=\"14\" text-anchor=\"start\">C</text><rect x=\"245\" y=\"133\" width=\"16\" height=\"16\" fill=\"#ee9d92\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"269\" y=\"146\" font-size=\"14\" text-anchor=\"start\">D</text></svg>",
+       "q": "How many students chose activity C?",
+       "ans": [
+        5
+       ],
+       "tol": 0,
+       "m": 2,
+       "s": "Pie charts",
+       "e": "A + B = ½ + ¼ = ¾ of the circle. The remaining ¼ is shared equally by C and D, so C = ⅛ of the circle. ⅛ of 40 = 40 ÷ 8 = 5 students. (1 mark for showing C is ⅛ or that C and D together are 10 students.)"
+      },
+      {
+       "q": "Which graph is best for showing how the temperature in a classroom changed during one day?",
+       "c": [
+        "a line graph",
+        "a pie chart",
+        "a Venn diagram",
+        "a waffle diagram"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Choosing a graph",
+       "e": "Temperature is continuous and is changing over time, so a line graph is best: it shows the rises and falls and you can read between the readings."
+      },
+      {
+       "t": "num",
+       "p": "The frequency diagram shows the heights of 30 students.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 430 270\" width=\"430\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"54\" y1=\"218\" x2=\"58\" y2=\"218\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"223\" font-size=\"13\" text-anchor=\"end\">0</text><line x1=\"58\" y1=\"186.7\" x2=\"398\" y2=\"186.7\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"186.7\" x2=\"58\" y2=\"186.7\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"191.7\" font-size=\"13\" text-anchor=\"end\">2</text><line x1=\"58\" y1=\"155.3\" x2=\"398\" y2=\"155.3\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"155.3\" x2=\"58\" y2=\"155.3\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"160.3\" font-size=\"13\" text-anchor=\"end\">4</text><line x1=\"58\" y1=\"124\" x2=\"398\" y2=\"124\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"124\" x2=\"58\" y2=\"124\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"129\" font-size=\"13\" text-anchor=\"end\">6</text><line x1=\"58\" y1=\"92.7\" x2=\"398\" y2=\"92.7\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"92.7\" x2=\"58\" y2=\"92.7\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"97.7\" font-size=\"13\" text-anchor=\"end\">8</text><line x1=\"58\" y1=\"61.3\" x2=\"398\" y2=\"61.3\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"61.3\" x2=\"58\" y2=\"61.3\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"66.3\" font-size=\"13\" text-anchor=\"end\">10</text><line x1=\"58\" y1=\"30\" x2=\"398\" y2=\"30\" stroke=\"#c3cede\" stroke-width=\"1\"/><line x1=\"54\" y1=\"30\" x2=\"58\" y2=\"30\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"51\" y=\"35\" font-size=\"13\" text-anchor=\"end\">12</text><line x1=\"58\" y1=\"218\" x2=\"398\" y2=\"218\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"58\" y1=\"218\" x2=\"58\" y2=\"24\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"14\" y=\"124\" font-size=\"13\" text-anchor=\"middle\" transform=\"rotate(-90 14 124)\">Frequency</text><text x=\"228\" y=\"258\" font-size=\"13\" text-anchor=\"middle\">Height (h cm)</text><rect x=\"78\" y=\"171\" width=\"62\" height=\"47\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"140\" y=\"108.3\" width=\"62\" height=\"109.7\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"202\" y=\"45.7\" width=\"62\" height=\"172.3\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"264\" y=\"124\" width=\"62\" height=\"94\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><rect x=\"326\" y=\"171\" width=\"62\" height=\"47\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"78\" y1=\"218\" x2=\"78\" y2=\"223\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"78\" y=\"238\" font-size=\"13\" text-anchor=\"middle\">130</text><line x1=\"140\" y1=\"218\" x2=\"140\" y2=\"223\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"140\" y=\"238\" font-size=\"13\" text-anchor=\"middle\">135</text><line x1=\"202\" y1=\"218\" x2=\"202\" y2=\"223\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"202\" y=\"238\" font-size=\"13\" text-anchor=\"middle\">140</text><line x1=\"264\" y1=\"218\" x2=\"264\" y2=\"223\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"264\" y=\"238\" font-size=\"13\" text-anchor=\"middle\">145</text><line x1=\"326\" y1=\"218\" x2=\"326\" y2=\"223\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"326\" y=\"238\" font-size=\"13\" text-anchor=\"middle\">150</text><line x1=\"388\" y1=\"218\" x2=\"388\" y2=\"223\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"388\" y=\"238\" font-size=\"13\" text-anchor=\"middle\">155</text></svg>",
+       "q": "How many students are 145 cm or taller?",
+       "ans": [
+        9
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Frequency diagrams",
+       "e": "“145 cm or taller” means the groups 145 ≤ h < 150 (6 students) and 150 ≤ h < 155 (3 students). 6 + 3 = 9."
+      },
+      {
+       "q": "The scatter graph shows the height and hand span of 8 students. Which statement is best?",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 420 280\" width=\"420\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"62\" y1=\"228\" x2=\"62\" y2=\"28\" stroke=\"#c3cede\" stroke-width=\"1\"/><text x=\"62\" y=\"247\" font-size=\"13\" text-anchor=\"middle\">125</text><line x1=\"109.1\" y1=\"228\" x2=\"109.1\" y2=\"28\" stroke=\"#c3cede\" stroke-width=\"1\"/><text x=\"109.1\" y=\"247\" font-size=\"13\" text-anchor=\"middle\">130</text><line x1=\"156.3\" y1=\"228\" x2=\"156.3\" y2=\"28\" stroke=\"#c3cede\" stroke-width=\"1\"/><text x=\"156.3\" y=\"247\" font-size=\"13\" text-anchor=\"middle\">135</text><line x1=\"203.4\" y1=\"228\" x2=\"203.4\" y2=\"28\" stroke=\"#c3cede\" stroke-width=\"1\"/><text x=\"203.4\" y=\"247\" font-size=\"13\" text-anchor=\"middle\">140</text><line x1=\"250.6\" y1=\"228\" x2=\"250.6\" y2=\"28\" stroke=\"#c3cede\" stroke-width=\"1\"/><text x=\"250.6\" y=\"247\" font-size=\"13\" text-anchor=\"middle\">145</text><line x1=\"297.7\" y1=\"228\" x2=\"297.7\" y2=\"28\" stroke=\"#c3cede\" stroke-width=\"1\"/><text x=\"297.7\" y=\"247\" font-size=\"13\" text-anchor=\"middle\">150</text><line x1=\"344.9\" y1=\"228\" x2=\"344.9\" y2=\"28\" stroke=\"#c3cede\" stroke-width=\"1\"/><text x=\"344.9\" y=\"247\" font-size=\"13\" text-anchor=\"middle\">155</text><line x1=\"392\" y1=\"228\" x2=\"392\" y2=\"28\" stroke=\"#c3cede\" stroke-width=\"1\"/><text x=\"392\" y=\"247\" font-size=\"13\" text-anchor=\"middle\">160</text><line x1=\"62\" y1=\"228\" x2=\"392\" y2=\"228\" stroke=\"#c3cede\" stroke-width=\"1\"/><text x=\"55\" y=\"233\" font-size=\"13\" text-anchor=\"end\">12</text><line x1=\"62\" y1=\"188\" x2=\"392\" y2=\"188\" stroke=\"#c3cede\" stroke-width=\"1\"/><text x=\"55\" y=\"193\" font-size=\"13\" text-anchor=\"end\">14</text><line x1=\"62\" y1=\"148\" x2=\"392\" y2=\"148\" stroke=\"#c3cede\" stroke-width=\"1\"/><text x=\"55\" y=\"153\" font-size=\"13\" text-anchor=\"end\">16</text><line x1=\"62\" y1=\"108\" x2=\"392\" y2=\"108\" stroke=\"#c3cede\" stroke-width=\"1\"/><text x=\"55\" y=\"113\" font-size=\"13\" text-anchor=\"end\">18</text><line x1=\"62\" y1=\"68\" x2=\"392\" y2=\"68\" stroke=\"#c3cede\" stroke-width=\"1\"/><text x=\"55\" y=\"73\" font-size=\"13\" text-anchor=\"end\">20</text><line x1=\"62\" y1=\"28\" x2=\"392\" y2=\"28\" stroke=\"#c3cede\" stroke-width=\"1\"/><text x=\"55\" y=\"33\" font-size=\"13\" text-anchor=\"end\">22</text><line x1=\"62\" y1=\"228\" x2=\"398\" y2=\"228\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"62\" y1=\"228\" x2=\"62\" y2=\"22\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"227\" y=\"268\" font-size=\"13\" text-anchor=\"middle\">Height (cm)</text><text x=\"16\" y=\"128\" font-size=\"13\" text-anchor=\"middle\" transform=\"rotate(-90 16 128)\">Hand span (cm)</text><path d=\"M105.1 164L113.1 172M105.1 172L113.1 164\" stroke=\"#1f5fbf\" stroke-width=\"2\"/><path d=\"M142.9 144L150.9 152M142.9 152L150.9 144\" stroke=\"#1f5fbf\" stroke-width=\"2\"/><path d=\"M180.6 144L188.6 152M180.6 152L188.6 144\" stroke=\"#1f5fbf\" stroke-width=\"2\"/><path d=\"M208.9 124L216.9 132M208.9 132L216.9 124\" stroke=\"#1f5fbf\" stroke-width=\"2\"/><path d=\"M246.6 104L254.6 112M246.6 112L254.6 104\" stroke=\"#1f5fbf\" stroke-width=\"2\"/><path d=\"M274.9 104L282.9 112M274.9 112L282.9 104\" stroke=\"#1f5fbf\" stroke-width=\"2\"/><path d=\"M303.1 84L311.1 92M303.1 92L311.1 84\" stroke=\"#1f5fbf\" stroke-width=\"2\"/><path d=\"M340.9 64L348.9 72M340.9 72L348.9 64\" stroke=\"#1f5fbf\" stroke-width=\"2\"/></svg>",
+       "c": [
+        "Taller students have shorter hand spans.",
+        "Taller students tend to have wider hand spans.",
+        "There is no relationship between height and hand span.",
+        "All students have the same hand span."
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Scatter graphs",
+       "e": "The crosses go up from left to right: as height increases, hand span tends to increase."
+      },
+      {
+       "t": "open",
+       "q": "Nour wants to investigate: “Do Stage 6 students spend more time on homework than Stage 4 students?” (a) Write a prediction. (b) Describe what data she should collect and how. (c) Name a suitable way to show her results.",
+       "m": 3,
+       "s": "Planning an investigation",
+       "ms": "1 mark: a sensible prediction linked to the question (e.g. “Stage 6 students spend more time on homework”). 1 mark: collect the time spent on homework (e.g. minutes per day or per week) from a fair number of students in each stage, e.g. by a questionnaire or a homework diary; must mention both stages. 1 mark: a suitable representation, e.g. two frequency diagrams with the same groups, or a dual bar chart of grouped times, or two dot plots; accept a table of averages compared. Do not accept a pie chart alone or a scatter graph.",
+       "e": "Prediction: “Stage 6 students spend more time on homework each day than Stage 4 students.” Data: the number of minutes each student spends on homework per day, from (say) 20 students in Stage 4 and 20 in Stage 6, using a short questionnaire or a one-week diary. Time is continuous, so group the times (e.g. 0 ≤ t < 15, 15 ≤ t < 30 …) and draw a frequency diagram for each stage on the same scale, then compare."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Plan first: question → prediction → what data, from whom, how → collect → represent → interpret and check the prediction.",
+    "Categorical = words; discrete = counted; continuous = measured.",
+    "Bar charts have gaps; frequency diagrams for continuous data have touching bars.",
+    "Line graph = change over time; scatter graph = relationship between two measurements; waffle/pie = parts of a whole.",
+    "Before reading any graph, check the scale: what is one step worth?"
+   ]
+  }
+ ]
+}

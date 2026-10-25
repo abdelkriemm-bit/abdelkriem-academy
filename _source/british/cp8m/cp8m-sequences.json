@@ -1,0 +1,701 @@
+{
+ "slug": "cp8m-sequences",
+ "title": "Sequences and the nth Term",
+ "kicker": "Cambridge Lower Secondary · Mathematics 0862 · Stage 8 · Algebra",
+ "summary": "Use term-to-term rules with whole numbers, negatives and fractions, build sequences from shape patterns, and find and use the nth term an + b of a linear sequence.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Understand term-to-term rules (add, subtract, multiply or divide by a number — including fractions and negative numbers), use them to continue sequences, and make sequences from number patterns and from shape (spatial) patterns. [8As.01]",
+    "Understand and describe the nth term (position-to-term) rule of a sequence using algebra, in the forms n ± a, a × n or an ± b, where a and b are positive or negative whole numbers or fractions. Use it to find any term, find the rule for a linear sequence and decide whether a number is in a sequence. [8As.02]"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "A **sequence** is a list of numbers (or shapes) in order that follow a rule. In Stage 8 you work with two kinds of rule. A **term-to-term rule** tells you how to get from one term to the next. A **position-to-term rule** — the **nth term** — tells you how to work out any term straight from its position, so you can find the 100th term without writing out the first 99. This page shows you both, with fractions and negative numbers, and links them to shape patterns."
+  },
+  {
+   "type": "h2",
+   "text": "1. Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "sequence",
+     "متتابعة — numbers or shapes in order, following a rule"
+    ],
+    [
+     "term",
+     "حد — each number in a sequence"
+    ],
+    [
+     "position, n",
+     "الترتيب — the place of a term: 1st, 2nd, 3rd … (n = 1, 2, 3 …)"
+    ],
+    [
+     "term-to-term rule",
+     "قاعدة من حد للي بعده — how to get the next term, e.g. \"add 4\""
+    ],
+    [
+     "nth term / position-to-term rule",
+     "الحد النوني — a formula that gives the term from its position n, e.g. 4n + 1"
+    ],
+    [
+     "linear sequence",
+     "متتابعة خطية — the terms go up or down by the same amount each time"
+    ],
+    [
+     "common difference",
+     "الفرق الثابت — the amount added each time (can be negative or a fraction)"
+    ],
+    [
+     "ascending / descending",
+     "تصاعدية / تنازلية — going up / going down"
+    ],
+    [
+     "spatial pattern",
+     "نمط من الأشكال — a sequence of drawings, e.g. squares made from sticks"
+    ],
+    [
+     "infinite / finite",
+     "غير منتهية / منتهية — goes on for ever / stops"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "2. Term-to-term rules"
+  },
+  {
+   "type": "p",
+   "text": "To describe a sequence with a term-to-term rule, give the **first term** and the **rule**. The rule can add, subtract, multiply or divide, and the numbers can be negative or fractions."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Sequence",
+    "First term",
+    "Term-to-term rule",
+    "Next two terms"
+   ],
+   "rows": [
+    [
+     "5, 9, 13, 17, …",
+     "5",
+     "add 4",
+     "21, 25"
+    ],
+    [
+     "40, 33, 26, 19, …",
+     "40",
+     "subtract 7",
+     "12, 5"
+    ],
+    [
+     "−11, −8, −5, −2, …",
+     "−11",
+     "add 3",
+     "1, 4"
+    ],
+    [
+     "3, 6, 12, 24, …",
+     "3",
+     "multiply by 2",
+     "48, 96"
+    ],
+    [
+     "800, 400, 200, 100, …",
+     "800",
+     "divide by 2",
+     "50, 25"
+    ],
+    [
+     "1/4, 3/4, 1 1/4, 1 3/4, …",
+     "1/4",
+     "add 1/2",
+     "2 1/4, 2 3/4"
+    ],
+    [
+     "2 1/3, 2, 1 2/3, 1 1/3, …",
+     "2 1/3",
+     "subtract 1/3",
+     "1, 2/3"
+    ],
+    [
+     "1, 3, 7, 15, …",
+     "1",
+     "multiply by 2, then add 1",
+     "31, 63"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Finding missing terms.** In a linear sequence the steps are equal. For 7, __, __, 19 there are 3 equal steps from 7 to 19, so each step is (19 − 7) ÷ 3 = 4. The missing terms are 11 and 15."
+  },
+  {
+   "type": "p",
+   "text": "**Fractions with different denominators.** Write the fractions with a common denominator first. For 1/2, 5/6, 7/6, 3/2: in sixths the terms are 3/6, 5/6, 7/6, 9/6, so the rule is \"add 2/6\", which is \"add 1/3\"."
+  },
+  {
+   "type": "h2",
+   "text": "3. Sequences from shape patterns"
+  },
+  {
+   "type": "p",
+   "text": "Many sequences come from drawings. Count the parts in each pattern, write the numbers as a sequence, then look at **how the shape grows**. The way the shape grows explains the rule."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 120\" width=\"500\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M20 40L20 80M60 40L60 80M20 40L60 40M20 80L60 80\" stroke=\"#a0522d\" stroke-width=\"5\" stroke-linecap=\"round\" fill=\"none\"/><text x=\"40\" y=\"22\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">Pattern 1</text><text x=\"40\" y=\"106\" text-anchor=\"middle\" fill=\"#0f1b33\">4 sticks</text><path d=\"M120 40L120 80M160 40L160 80M200 40L200 80M120 40L160 40M120 80L160 80M160 40L200 40M160 80L200 80\" stroke=\"#a0522d\" stroke-width=\"5\" stroke-linecap=\"round\" fill=\"none\"/><text x=\"160\" y=\"22\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">Pattern 2</text><text x=\"160\" y=\"106\" text-anchor=\"middle\" fill=\"#0f1b33\">7 sticks</text><path d=\"M260 40L260 80M300 40L300 80M340 40L340 80M380 40L380 80M260 40L300 40M260 80L300 80M300 40L340 40M300 80L340 80M340 40L380 40M340 80L380 80\" stroke=\"#a0522d\" stroke-width=\"5\" stroke-linecap=\"round\" fill=\"none\"/><text x=\"320\" y=\"22\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">Pattern 3</text><text x=\"320\" y=\"106\" text-anchor=\"middle\" fill=\"#0f1b33\">10 sticks</text></svg>",
+   "caption": "Squares made from sticks. Each new square needs 3 more sticks."
+  },
+  {
+   "type": "p",
+   "text": "The numbers of sticks are 4, 7, 10, … The term-to-term rule is \"add 3\", because each new square joins on to the one before and only needs 3 new sticks (a top, a bottom and a right side). Pattern 1 needs one extra stick for the left side. So pattern n needs **3n + 1** sticks: 3 for each of the n squares, plus 1 for the very first side."
+  },
+  {
+   "type": "h2",
+   "text": "4. The nth term (position-to-term rule)"
+  },
+  {
+   "type": "p",
+   "text": "The nth term is a formula in n. Put n = 1 to get the 1st term, n = 2 to get the 2nd term, and so on. You can jump straight to any term."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "nth term",
+    "n = 1",
+    "n = 2",
+    "n = 3",
+    "n = 4",
+    "100th term"
+   ],
+   "rows": [
+    [
+     "n + 6",
+     "7",
+     "8",
+     "9",
+     "10",
+     "106"
+    ],
+    [
+     "n − 4",
+     "−3",
+     "−2",
+     "−1",
+     "0",
+     "96"
+    ],
+    [
+     "5n",
+     "5",
+     "10",
+     "15",
+     "20",
+     "500"
+    ],
+    [
+     "4n − 1",
+     "3",
+     "7",
+     "11",
+     "15",
+     "399"
+    ],
+    [
+     "−2n + 10",
+     "8",
+     "6",
+     "4",
+     "2",
+     "−190"
+    ],
+    [
+     "(1/2)n + 3",
+     "3 1/2",
+     "4",
+     "4 1/2",
+     "5",
+     "53"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Look at the pattern: in every linear sequence **the number multiplying n is the common difference**. 4n − 1 goes up in 4s; −2n + 10 goes down in 2s; (1/2)n + 3 goes up in halves."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Term-to-term or position-to-term?",
+   "text": "For 3, 7, 11, 15, … the term-to-term rule is \"add 4\" (it links a term to the next one). The position-to-term rule is 4n − 1 (it links a term to its position n). Read the question carefully to see which one it asks for."
+  },
+  {
+   "type": "h2",
+   "text": "5. Finding the nth term of a linear sequence"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Find the **common difference** d (the amount added each time). It may be negative or a fraction.",
+    "Write **dn** — the sequence of multiples of d.",
+    "Find the **zero term**: go one step backwards from the 1st term (zero term = 1st term − d).",
+    "nth term = **dn + zero term**.",
+    "Check with the 2nd or 3rd term."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 530 214\" width=\"530\" font-family=\"Arial, sans-serif\" font-size=\"14\"><rect x=\"40\" y=\"70\" width=\"70\" height=\"40\" rx=\"6\" fill=\"#ffffff\" stroke=\"#c0392b\" stroke-width=\"2\" stroke-dasharray=\"6 4\"/><text x=\"75\" y=\"96\" font-size=\"17\" text-anchor=\"middle\" fill=\"#c0392b\" font-weight=\"bold\">2</text><text x=\"75\" y=\"132\" text-anchor=\"middle\" fill=\"#0f1b33\">n = 0</text><path d=\"M83 66 Q122.5 36 162 66\" fill=\"none\" stroke=\"#1f5fa8\" stroke-width=\"1.8\"/><polygon points=\"162,67 153,61 159,57\" fill=\"#1f5fa8\" stroke=\"#1f5fa8\" stroke-width=\"1\" stroke-linejoin=\"round\"/><text x=\"122.5\" y=\"44\" text-anchor=\"middle\" fill=\"#1f5fa8\" font-weight=\"bold\">+5</text><rect x=\"135\" y=\"70\" width=\"70\" height=\"40\" rx=\"6\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"170\" y=\"96\" font-size=\"17\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">7</text><text x=\"170\" y=\"132\" text-anchor=\"middle\" fill=\"#0f1b33\">n = 1</text><path d=\"M178 66 Q217.5 36 257 66\" fill=\"none\" stroke=\"#1f5fa8\" stroke-width=\"1.8\"/><polygon points=\"257,67 248,61 254,57\" fill=\"#1f5fa8\" stroke=\"#1f5fa8\" stroke-width=\"1\" stroke-linejoin=\"round\"/><text x=\"217.5\" y=\"44\" text-anchor=\"middle\" fill=\"#1f5fa8\" font-weight=\"bold\">+5</text><rect x=\"230\" y=\"70\" width=\"70\" height=\"40\" rx=\"6\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"265\" y=\"96\" font-size=\"17\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">12</text><text x=\"265\" y=\"132\" text-anchor=\"middle\" fill=\"#0f1b33\">n = 2</text><path d=\"M273 66 Q312.5 36 352 66\" fill=\"none\" stroke=\"#1f5fa8\" stroke-width=\"1.8\"/><polygon points=\"352,67 343,61 349,57\" fill=\"#1f5fa8\" stroke=\"#1f5fa8\" stroke-width=\"1\" stroke-linejoin=\"round\"/><text x=\"312.5\" y=\"44\" text-anchor=\"middle\" fill=\"#1f5fa8\" font-weight=\"bold\">+5</text><rect x=\"325\" y=\"70\" width=\"70\" height=\"40\" rx=\"6\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"360\" y=\"96\" font-size=\"17\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">17</text><text x=\"360\" y=\"132\" text-anchor=\"middle\" fill=\"#0f1b33\">n = 3</text><path d=\"M368 66 Q407.5 36 447 66\" fill=\"none\" stroke=\"#1f5fa8\" stroke-width=\"1.8\"/><polygon points=\"447,67 438,61 444,57\" fill=\"#1f5fa8\" stroke=\"#1f5fa8\" stroke-width=\"1\" stroke-linejoin=\"round\"/><text x=\"407.5\" y=\"44\" text-anchor=\"middle\" fill=\"#1f5fa8\" font-weight=\"bold\">+5</text><rect x=\"420\" y=\"70\" width=\"70\" height=\"40\" rx=\"6\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"455\" y=\"96\" font-size=\"17\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">22</text><text x=\"455\" y=\"132\" text-anchor=\"middle\" fill=\"#0f1b33\">n = 4</text><text x=\"75\" y=\"165\" text-anchor=\"middle\" fill=\"#c0392b\" font-weight=\"bold\">zero term</text><text x=\"300\" y=\"200\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">nth term = 5n + 2   (5 = the difference,  2 = the zero term)</text></svg>",
+   "caption": "Going one step back from the first term gives the zero term."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Sequence",
+    "Difference d",
+    "Zero term",
+    "nth term",
+    "Check (n = 3)"
+   ],
+   "rows": [
+    [
+     "7, 12, 17, 22, …",
+     "5",
+     "7 − 5 = 2",
+     "5n + 2",
+     "15 + 2 = 17 ✓"
+    ],
+    [
+     "20, 17, 14, 11, …",
+     "−3",
+     "20 − (−3) = 23",
+     "−3n + 23  (or 23 − 3n)",
+     "−9 + 23 = 14 ✓"
+    ],
+    [
+     "−6, −2, 2, 6, …",
+     "4",
+     "−6 − 4 = −10",
+     "4n − 10",
+     "12 − 10 = 2 ✓"
+    ],
+    [
+     "2 1/2, 3, 3 1/2, 4, …",
+     "1/2",
+     "2 1/2 − 1/2 = 2",
+     "(1/2)n + 2",
+     "1 1/2 + 2 = 3 1/2 ✓"
+    ],
+    [
+     "3/4, 1 1/4, 1 3/4, 2 1/4, …",
+     "1/2",
+     "3/4 − 1/2 = 1/4",
+     "(1/2)n + 1/4",
+     "1 1/2 + 1/4 = 1 3/4 ✓"
+    ],
+    [
+     "8, 9, 10, 11, …",
+     "1",
+     "8 − 1 = 7",
+     "n + 7",
+     "3 + 7 = 10 ✓"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Only **linear** sequences have an nth term of the form an + b. For 3, 6, 12, 24, … the differences are 3, 6, 12 — not equal — so it is not linear, and an nth term such as 3n does not work. Describe it with its term-to-term rule (\"multiply by 2\") instead."
+  },
+  {
+   "type": "h2",
+   "text": "6. Is a number in the sequence?"
+  },
+  {
+   "type": "p",
+   "text": "Set the nth term equal to the number and solve. If n is a **positive whole number**, the number is in the sequence (and n tells you its position). If n is not a whole number, it is not in the sequence."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Is 100 a term of 3n + 1? 3n + 1 = 100 → 3n = 99 → n = 33. Yes — it is the 33rd term.",
+    "Is 150 a term of 3n + 1? 3n + 1 = 150 → 3n = 149 → n = 49.66… Not a whole number, so **no**. (Also: the terms of 3n + 1 are always 1 more than a multiple of 3, and 150 is a multiple of 3.)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الفرق بين القاعدتين",
+   "items": [
+    "قاعدة حد لحد: بتقولك إزاي تروح من حد للي بعده، زي \"زوّد 5\".",
+    "الحد النوني: بيديك أي حد على طول من ترتيبه n. الفرق الثابت هو اللي بيتضرب في n، وبعدين ارجع خطوة لورا من الحد الأول عشان تعرف تزود أو تطرح كام (الحد الصفري).",
+    "مثال: 7، 12، 17 → الفرق 5 والحد الصفري 2 → الحد النوني 5n + 2."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "7. Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — The first term of a sequence is 2 3/4. The term-to-term rule is \"subtract 1/2\". (a) Write the next four terms. [2] (b) Write down the first negative term. [1]"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Part",
+    "Working and answer"
+   ],
+   "rows": [
+    [
+     "(a)",
+     "2 3/4 − 1/2 = 2 1/4; then 1 3/4; then 1 1/4; then 3/4. **Answer: 2 1/4, 1 3/4, 1 1/4, 3/4**"
+    ],
+    [
+     "(b)",
+     "Keep going: 3/4 → 1/4 → 1/4 − 1/2 = −1/4. **Answer: −1/4**"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Common mistake: 1/4 − 1/2 is not 0 and not 1/4. Change to quarters: 1/4 − 2/4 = −1/4."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — These are the first five terms of a linear sequence: 4, __, __, 25, __. Find the missing terms. [2]"
+  },
+  {
+   "type": "p",
+   "text": "From 4 (1st term) to 25 (4th term) there are 3 equal steps. Each step = (25 − 4) ÷ 3 = 21 ÷ 3 = 7. **Answer: 4, 11, 18, 25, 32.** Common mistake: dividing by 4 (the number of terms) instead of 3 (the number of steps)."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — The nth term of a sequence is 6n − 4. (a) Write down the first three terms. [1] (b) Work out the 50th term. [1] (c) Show that 100 is not a term of this sequence. [2]"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Part",
+    "Working and answer"
+   ],
+   "rows": [
+    [
+     "(a)",
+     "n = 1: 6 − 4 = 2; n = 2: 12 − 4 = 8; n = 3: 18 − 4 = 14. **2, 8, 14**"
+    ],
+    [
+     "(b)",
+     "6 × 50 − 4 = 300 − 4 = **296**"
+    ],
+    [
+     "(c)",
+     "6n − 4 = 100 → 6n = 104 → n = 17.33… This is not a whole number, so 100 is not a term. (Check: the 17th term is 98 and the 18th term is 104.)"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — Find an expression for the nth term of the sequence 9, 5, 1, −3, … [2]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "The difference is 5 − 9 = −4, so start with −4n.",
+    "Zero term = 9 − (−4) = 13.",
+    "nth term = **−4n + 13** (or 13 − 4n).",
+    "Check n = 4: −16 + 13 = −3 ✓"
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "Common mistake: writing 4n + 13 (the sequence goes DOWN, so the coefficient of n is negative) or −4n + 9 (using the first term instead of the zero term)."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — Look at the stick patterns of squares in section 3. (a) How many sticks are in Pattern 10? [1] (b) Write an expression for the number of sticks in Pattern n. [1] (c) Explain, using the diagram, why your expression works. [1] (d) Can a pattern in this sequence use exactly 85 sticks? Show how you decide. [1]"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Part",
+    "Working and answer"
+   ],
+   "rows": [
+    [
+     "(a)",
+     "Sticks: 4, 7, 10, … add 3 each time. 3 × 10 + 1 = **31 sticks**"
+    ],
+    [
+     "(b)",
+     "Difference 3, zero term 4 − 3 = 1 → **3n + 1**"
+    ],
+    [
+     "(c)",
+     "Each square adds 3 new sticks (top, bottom, right side), and there is 1 extra stick on the far left: 3 × n + 1."
+    ],
+    [
+     "(d)",
+     "3n + 1 = 85 → 3n = 84 → n = 28, a whole number. **Yes — Pattern 28.**"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** — A sequence starts 1 1/4, 1 1/2, 1 3/4, 2, … (a) Find the nth term. [2] (b) Which term is equal to 10? [1]"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Part",
+    "Working and answer"
+   ],
+   "rows": [
+    [
+     "(a)",
+     "Difference = 1/4. Zero term = 1 1/4 − 1/4 = 1. nth term = **(1/4)n + 1** (or n/4 + 1). Check n = 4: 1 + 1 = 2 ✓"
+    ],
+    [
+     "(b)",
+     "(1/4)n + 1 = 10 → (1/4)n = 9 → n = 36. **The 36th term.**"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Giving the term-to-term rule when the nth term is asked for: for 7, 12, 17, … the answer \"n + 5\" is wrong; the nth term is 5n + 2.",
+    "Using the first term instead of the zero term: 7, 12, 17 is not 5n + 7. Check your rule with n = 1.",
+    "Losing the negative sign: 20, 17, 14, … has nth term −3n + 23, not 3n + 23.",
+    "Slips with fractions and mixed numbers — change to a common denominator before adding or subtracting.",
+    "Saying a number IS in the sequence because n = 49.7 \"rounds to 50\". n must be a whole number.",
+    "Using an nth term like an + b for a sequence that is not linear (e.g. 3, 6, 12, 24).",
+    "Dividing by the number of terms instead of the number of steps when filling gaps."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "\"Write down the next term\" and \"Write down the term-to-term rule\" — usually 1 mark each. Say the operation AND the number (\"subtract 3/4\", not just \"3/4\").",
+    "\"Complete the table\" of pattern number and number of sticks/tiles — then \"Find an expression for the number of … in pattern n\".",
+    "\"Find the nth term\" — always check your answer by substituting n = 1 and n = 2.",
+    "\"Show that 150 is not in the sequence\" — solve the equation and say clearly that n is not a whole number.",
+    "\"Draw a ring around the nth term of this sequence\" or \"Ali says … Is he correct? Explain.\" — test each option with n = 1, 2, 3.",
+    "Diagram questions: \"Explain how you know\" — link the numbers to the picture (what each new pattern adds)."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Sequences and the nth term — practice quiz",
+   "timed": false,
+   "intro": "14 questions, from easy to Checkpoint-hard. No calculator. Work on paper first. Mark the \"explain\" questions yourself using the mark scheme.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 25,
+     "calc": false,
+     "questions": [
+      {
+       "t": "num",
+       "q": "Write down the next term of the sequence 31, 26, 21, 16, …",
+       "ans": [
+        11
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Term-to-term",
+       "e": "The rule is subtract 5. 16 − 5 = 11."
+      },
+      {
+       "q": "Which sequence has the term-to-term rule \"subtract 1/3\"?",
+       "c": [
+        "3, 2 1/3, 1 2/3, 1",
+        "3, 3 1/3, 3 2/3, 4",
+        "3, 2 2/3, 2 1/3, 2",
+        "3, 1, 1/3, 1/9"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Term-to-term",
+       "e": "3 − 1/3 = 2 2/3, then 2 1/3, then 2. The first option subtracts 2/3 each time, the second adds 1/3, and the last divides by 3."
+      },
+      {
+       "t": "num",
+       "q": "A sequence starts at 1/2. The term-to-term rule is \"add 3/4\". Work out the 4th term.",
+       "ans": [
+        "11/4",
+        2.75
+       ],
+       "tol": 0,
+       "m": 2,
+       "s": "Term-to-term",
+       "e": "In quarters: 1/2 = 2/4. Terms: 2/4, 5/4, 8/4, 11/4. The 4th term is 11/4 = 2 3/4."
+      },
+      {
+       "t": "num",
+       "q": "The nth term of a sequence is 5n − 8. Work out the 20th term.",
+       "ans": [
+        92
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "nth term",
+       "e": "5 × 20 − 8 = 100 − 8 = 92."
+      },
+      {
+       "q": "Which is the nth term of the sequence 4, 10, 16, 22, …?",
+       "c": [
+        "n + 6",
+        "6n − 2",
+        "4n + 6",
+        "6n + 4"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "nth term",
+       "e": "The difference is 6, so start with 6n. Zero term = 4 − 6 = −2. nth term = 6n − 2. Check n = 2: 12 − 2 = 10 ✓. (n + 6 is the term-to-term idea; 6n + 4 uses the first term instead of the zero term.)"
+      },
+      {
+       "q": "Which is the nth term of the sequence 15, 13, 11, 9, …?",
+       "c": [
+        "17 − 2n",
+        "2n + 13",
+        "15 − 2n",
+        "−2n + 13"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "nth term",
+       "e": "The difference is −2, so −2n. Zero term = 15 − (−2) = 17. nth term = −2n + 17 = 17 − 2n. Check n = 1: 15 ✓, n = 4: 9 ✓."
+      },
+      {
+       "t": "num",
+       "q": "The nth term of a sequence is (1/2)n + 4. Work out the 9th term.",
+       "ans": [
+        8.5,
+        "17/2"
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "nth term",
+       "e": "(1/2) × 9 + 4 = 4 1/2 + 4 = 8 1/2 = 8.5."
+      },
+      {
+       "q": "Which is the nth term of the sequence 1 1/3, 1 2/3, 2, 2 1/3, …?",
+       "c": [
+        "n + 1/3",
+        "(1/3)n + 1 1/3",
+        "3n − 1 2/3",
+        "(1/3)n + 1"
+       ],
+       "a": 3,
+       "m": 2,
+       "s": "nth term",
+       "e": "The difference is 1/3, so (1/3)n. Zero term = 1 1/3 − 1/3 = 1. nth term = (1/3)n + 1. Check n = 3: 1 + 1 = 2 ✓. (3n − 1 2/3 gives the right first term but goes up in 3s.)"
+      },
+      {
+       "t": "num",
+       "p": "Here are the first three patterns in a sequence made from sticks.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 115\" width=\"400\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M20 95L64 95M20 95L42 56.9M42 56.9L64 95\" stroke=\"#a0522d\" stroke-width=\"5\" stroke-linecap=\"round\" fill=\"none\"/><text x=\"42\" y=\"30\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">Pattern 1</text><path d=\"M134 95L178 95M156 56.9L200 56.9M134 95L156 56.9M156 56.9L178 95M178 95L200 56.9\" stroke=\"#a0522d\" stroke-width=\"5\" stroke-linecap=\"round\" fill=\"none\"/><text x=\"167\" y=\"30\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">Pattern 2</text><path d=\"M270 95L314 95M292 56.9L336 56.9M314 95L358 95M270 95L292 56.9M292 56.9L314 95M314 95L336 56.9M336 56.9L358 95\" stroke=\"#a0522d\" stroke-width=\"5\" stroke-linecap=\"round\" fill=\"none\"/><text x=\"314\" y=\"30\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">Pattern 3</text></svg>",
+       "q": "(a) How many sticks are needed for Pattern 6?",
+       "ans": [
+        13
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Spatial patterns",
+       "e": "Count: Pattern 1 has 3 sticks, Pattern 2 has 5, Pattern 3 has 7 — add 2 each time. Pattern 4: 9, Pattern 5: 11, Pattern 6: 13."
+      },
+      {
+       "t": "text",
+       "p": "Here are the first three patterns in a sequence made from sticks.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 115\" width=\"400\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M20 95L64 95M20 95L42 56.9M42 56.9L64 95\" stroke=\"#a0522d\" stroke-width=\"5\" stroke-linecap=\"round\" fill=\"none\"/><text x=\"42\" y=\"30\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">Pattern 1</text><path d=\"M134 95L178 95M156 56.9L200 56.9M134 95L156 56.9M156 56.9L178 95M178 95L200 56.9\" stroke=\"#a0522d\" stroke-width=\"5\" stroke-linecap=\"round\" fill=\"none\"/><text x=\"167\" y=\"30\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">Pattern 2</text><path d=\"M270 95L314 95M292 56.9L336 56.9M314 95L358 95M270 95L292 56.9M292 56.9L314 95M314 95L336 56.9M336 56.9L358 95\" stroke=\"#a0522d\" stroke-width=\"5\" stroke-linecap=\"round\" fill=\"none\"/><text x=\"314\" y=\"30\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">Pattern 3</text></svg>",
+       "q": "(b) Write an expression for the number of sticks in Pattern n.",
+       "ans": [
+        "2n+1",
+        "1+2n",
+        "2×n+1",
+        "2xn+1",
+        "2*n+1",
+        "n×2+1"
+       ],
+       "m": 1,
+       "s": "Spatial patterns",
+       "e": "Difference 2, zero term 3 − 2 = 1, so 2n + 1. In the picture each new triangle adds 2 sticks, and the first triangle needs 1 extra stick."
+      },
+      {
+       "t": "num",
+       "p": "Here are the first three patterns in a sequence made from sticks.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 115\" width=\"400\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M20 95L64 95M20 95L42 56.9M42 56.9L64 95\" stroke=\"#a0522d\" stroke-width=\"5\" stroke-linecap=\"round\" fill=\"none\"/><text x=\"42\" y=\"30\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">Pattern 1</text><path d=\"M134 95L178 95M156 56.9L200 56.9M134 95L156 56.9M156 56.9L178 95M178 95L200 56.9\" stroke=\"#a0522d\" stroke-width=\"5\" stroke-linecap=\"round\" fill=\"none\"/><text x=\"167\" y=\"30\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">Pattern 2</text><path d=\"M270 95L314 95M292 56.9L336 56.9M314 95L358 95M270 95L292 56.9M292 56.9L314 95M314 95L336 56.9M336 56.9L358 95\" stroke=\"#a0522d\" stroke-width=\"5\" stroke-linecap=\"round\" fill=\"none\"/><text x=\"314\" y=\"30\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">Pattern 3</text></svg>",
+       "q": "(c) Which pattern number uses exactly 41 sticks?",
+       "ans": [
+        20
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Spatial patterns",
+       "e": "2n + 1 = 41 → 2n = 40 → n = 20. Pattern 20."
+      },
+      {
+       "t": "open",
+       "q": "Is 120 a term of the sequence with nth term 4n + 3? Show how you decide.",
+       "m": 2,
+       "s": "nth term",
+       "ms": "1 mark: forms and solves 4n + 3 = 120 to get 4n = 117 or n = 29.25 (oe), OR finds the 29th term = 119 and the 30th term = 123. 1 mark: concludes No, because n is not a whole number / 120 lies between two terms. Accept: all terms are odd (4n is even, + 3 makes odd) and 120 is even.",
+       "e": "4n + 3 = 120 → 4n = 117 → n = 29.25. This is not a whole number, so 120 is not a term. (The 29th term is 119 and the 30th is 123. Also, every term is odd and 120 is even.)"
+      },
+      {
+       "t": "open",
+       "q": "Ali says: \"The sequence 2, 4, 8, 16, … has nth term 2n, because the terms go up in twos.\" Explain why Ali is wrong.",
+       "m": 1,
+       "s": "Linear or not",
+       "ms": "1 mark for a correct reason, e.g. 2n gives 2, 4, 6, 8 (the 3rd term would be 6, not 8); OR the differences 2, 4, 8 are not constant / the rule is multiply by 2, so it is not linear. Do not accept just \"it is wrong\".",
+       "e": "2n gives 2, 4, 6, 8, … but the sequence is 2, 4, 8, 16. The terms do not go up by the same amount (differences 2, 4, 8) — the rule is \"multiply by 2\", so the sequence is not linear and cannot have an nth term of the form an + b."
+      },
+      {
+       "t": "num",
+       "q": "The nth term of a sequence is 50 − 3n. What is the first negative term in the sequence?",
+       "ans": [
+        -1
+       ],
+       "tol": 0,
+       "m": 2,
+       "s": "nth term",
+       "e": "The terms go 47, 44, 41, … down in 3s. 50 − 3n < 0 when 3n > 50, so n > 16.67; the first whole number is n = 17. The 17th term = 50 − 51 = −1. (The 16th term is 2.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Term-to-term rule = first term + what you do each time (add, subtract, multiply, divide — fractions and negatives allowed).",
+    "nth term of a linear sequence = (difference) × n + (zero term). Zero term = 1st term − difference.",
+    "A falling sequence has a negative coefficient of n, e.g. 23 − 3n.",
+    "To test whether a number is a term, solve nth term = number; it is a term only if n is a positive whole number.",
+    "In shape patterns, explain the rule from the picture: what each new pattern adds, plus what the first one needs extra."
+   ]
+  }
+ ]
+}

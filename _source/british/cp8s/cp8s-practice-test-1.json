@@ -1,0 +1,1107 @@
+{
+ "slug": "cp8s-practice-test-1",
+ "title": "Stage 8 Science — Practice Test 1",
+ "kicker": "Cambridge Lower Secondary · Science 0893 · Stage 8 · Practice test",
+ "summary": "A full, timed end-of-Stage-8 science practice test in Cambridge style: two 45-minute papers of 50 marks each, covering biology, chemistry, physics, Earth and space and investigation skills, with a mark scheme and worked solution for every question.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "Before you start"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "This is a full practice end-of-Stage-8 science test written in the style of Cambridge Lower Secondary. The Cambridge Lower Secondary Checkpoint itself is taken at the end of Stage 9; this test checks the Stage 8 work that Checkpoint builds on.",
+    "There are **two papers**: Paper 1 and Paper 2. Each paper lasts **45 minutes** and is worth **50 marks** (100 marks in total). Both papers mix biology, chemistry, physics, Earth and space, and thinking and working scientifically.",
+    "**Calculator:** Paper 1 allows a calculator, as the Cambridge Checkpoint Paper 1 cover says \"You may use a calculator\". Cambridge has not published the calculator rule for Paper 2, so check with your teacher; every calculation here can be done with careful working.",
+    "**Equipment:** a black or dark blue pen, an HB pencil for diagrams and graphs, a ruler and an eraser. No other materials are needed.",
+    "Answer **all** questions. The number of marks for each part is shown in brackets [ ]. In questions that say \"Show your working\", write every step: you can earn a mark for correct working even if the final answer is wrong.",
+    "You may write your answers on paper first if you like. You can also download and print the question paper and do the whole test on paper.",
+    "How marking works here: typed answers (numbers, single words and multiple choice) are checked automatically. Written answers (explain, describe, suggest) are marked by you, using the mark scheme shown at the end. Be strict with yourself, just as a real examiner would be.",
+    "Your score is a practice score to help you prepare. It is not an official Cambridge result."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "قبل ما تبدأ",
+   "text": "الامتحان ده تدريب لنهاية سنة Stage 8 بنفس شكل امتحانات كامبريدج. فيه ورقتين: كل ورقة 45 دقيقة و50 درجة. اقرأ كل سؤال كويس، وبص على عدد الدرجات بين الأقواس [ ]؛ سؤال عليه درجتين محتاج نقطتين في الإجابة. في أسئلة الحساب اكتب خطوات الحل والوحدة (m/s ،N m ،Pa). الأسئلة القصيرة بتتصحح أوتوماتيك، والأسئلة اللي فيها شرح بتصححها إنت بنفسك من نموذج الإجابة في الآخر. الدرجة دي للتدريب بس، مش نتيجة رسمية من كامبريدج."
+  },
+  {
+   "type": "test",
+   "title": "Stage 8 Science — Practice Test 1",
+   "timed": true,
+   "intro": "Two timed papers, as in a Cambridge Stage 8 end-of-year science test: Paper 1 (45 minutes, 50 marks) then Paper 2 (45 minutes, 50 marks). Typed answers are marked automatically. For written answers, compare your answer with the mark scheme at the end and give yourself the marks honestly.",
+   "pdf": [
+    {
+     "label": "Question paper (PDF)",
+     "href": "pdf/cp8s-practice-test-1-paper.pdf"
+    },
+    {
+     "label": "Mark scheme (PDF)",
+     "href": "pdf/cp8s-practice-test-1-mark-scheme.pdf"
+    }
+   ],
+   "sections": [
+    {
+     "name": "Paper 1",
+     "minutes": 45,
+     "calc": true,
+     "questions": [
+      {
+       "t": "text",
+       "p": "Question 1\nOn sports day, Salma takes part in the long jump. The diagram shows the bones and two muscles of her leg, seen from the side. The front of the leg is on the right.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 430\" width=\"360\" font-family=\"Arial, sans-serif\" font-size=\"20\" fill=\"#0f1b33\"><rect x=\"105\" y=\"20\" width=\"130\" height=\"34\" rx=\"10\" fill=\"#f3ecd9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"172\" y1=\"76\" x2=\"180\" y2=\"226\" stroke=\"#0f1b33\" stroke-width=\"22\" stroke-linecap=\"round\"/><line x1=\"172\" y1=\"76\" x2=\"180\" y2=\"226\" stroke=\"#f3ecd9\" stroke-width=\"18\" stroke-linecap=\"round\"/><line x1=\"182\" y1=\"258\" x2=\"176\" y2=\"405\" stroke=\"#0f1b33\" stroke-width=\"22\" stroke-linecap=\"round\"/><line x1=\"182\" y1=\"258\" x2=\"176\" y2=\"405\" stroke=\"#f3ecd9\" stroke-width=\"18\" stroke-linecap=\"round\"/><circle cx=\"172\" cy=\"64\" r=\"15\" fill=\"#f3ecd9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M152 64A20 20 0 0 1 192 64\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"3\"/><circle cx=\"181\" cy=\"236\" r=\"13\" fill=\"#f3ecd9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><ellipse cx=\"207\" cy=\"152\" rx=\"15\" ry=\"58\" fill=\"#fde2e2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><ellipse cx=\"148\" cy=\"152\" rx=\"15\" ry=\"58\" fill=\"#fde2e2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M208 209L192 270\" stroke=\"#0f1b33\" stroke-width=\"3\" fill=\"none\"/><path d=\"M147 209L171 272\" stroke=\"#0f1b33\" stroke-width=\"3\" fill=\"none\"/><path d=\"M206 94L200 54M150 94L150 54\" stroke=\"#0f1b33\" stroke-width=\"3\" fill=\"none\"/><line x1=\"222\" y1=\"150\" x2=\"282\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"296\" y=\"157\" text-anchor=\"middle\" font-weight=\"bold\">A</text><line x1=\"133\" y1=\"150\" x2=\"74\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"60\" y=\"157\" text-anchor=\"middle\" font-weight=\"bold\">B</text><line x1=\"195\" y1=\"238\" x2=\"282\" y2=\"238\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"296\" y=\"245\" text-anchor=\"middle\" font-weight=\"bold\">C</text><line x1=\"157\" y1=\"66\" x2=\"74\" y2=\"92\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"60\" y=\"99\" text-anchor=\"middle\" font-weight=\"bold\">D</text><text x=\"300\" y=\"420\" text-anchor=\"middle\" font-size=\"16\">front →</text></svg>",
+       "q": "(a) Which letter, A, B, C or D, shows a hinge joint?",
+       "ans": [
+        "C"
+       ],
+       "m": 1,
+       "s": "Joints and muscles",
+       "e": "C is the knee. The knee is a hinge joint: it lets the leg bend and straighten in one direction only, like a door hinge. D is the hip, which is a ball-and-socket joint."
+      },
+      {
+       "t": "text",
+       "p": "Question 1\nOn sports day, Salma takes part in the long jump. The diagram shows the bones and two muscles of her leg, seen from the side. The front of the leg is on the right.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 430\" width=\"360\" font-family=\"Arial, sans-serif\" font-size=\"20\" fill=\"#0f1b33\"><rect x=\"105\" y=\"20\" width=\"130\" height=\"34\" rx=\"10\" fill=\"#f3ecd9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"172\" y1=\"76\" x2=\"180\" y2=\"226\" stroke=\"#0f1b33\" stroke-width=\"22\" stroke-linecap=\"round\"/><line x1=\"172\" y1=\"76\" x2=\"180\" y2=\"226\" stroke=\"#f3ecd9\" stroke-width=\"18\" stroke-linecap=\"round\"/><line x1=\"182\" y1=\"258\" x2=\"176\" y2=\"405\" stroke=\"#0f1b33\" stroke-width=\"22\" stroke-linecap=\"round\"/><line x1=\"182\" y1=\"258\" x2=\"176\" y2=\"405\" stroke=\"#f3ecd9\" stroke-width=\"18\" stroke-linecap=\"round\"/><circle cx=\"172\" cy=\"64\" r=\"15\" fill=\"#f3ecd9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M152 64A20 20 0 0 1 192 64\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"3\"/><circle cx=\"181\" cy=\"236\" r=\"13\" fill=\"#f3ecd9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><ellipse cx=\"207\" cy=\"152\" rx=\"15\" ry=\"58\" fill=\"#fde2e2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><ellipse cx=\"148\" cy=\"152\" rx=\"15\" ry=\"58\" fill=\"#fde2e2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M208 209L192 270\" stroke=\"#0f1b33\" stroke-width=\"3\" fill=\"none\"/><path d=\"M147 209L171 272\" stroke=\"#0f1b33\" stroke-width=\"3\" fill=\"none\"/><path d=\"M206 94L200 54M150 94L150 54\" stroke=\"#0f1b33\" stroke-width=\"3\" fill=\"none\"/><line x1=\"222\" y1=\"150\" x2=\"282\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"296\" y=\"157\" text-anchor=\"middle\" font-weight=\"bold\">A</text><line x1=\"133\" y1=\"150\" x2=\"74\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"60\" y=\"157\" text-anchor=\"middle\" font-weight=\"bold\">B</text><line x1=\"195\" y1=\"238\" x2=\"282\" y2=\"238\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"296\" y=\"245\" text-anchor=\"middle\" font-weight=\"bold\">C</text><line x1=\"157\" y1=\"66\" x2=\"74\" y2=\"92\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"60\" y=\"99\" text-anchor=\"middle\" font-weight=\"bold\">D</text><text x=\"300\" y=\"420\" text-anchor=\"middle\" font-size=\"16\">front →</text></svg>",
+       "q": "(b) Name the type of joint at D.",
+       "ans": [
+        "ball and socket",
+        "ball-and-socket",
+        "ball and socket joint",
+        "ball-and-socket joint",
+        "a ball and socket joint",
+        "a ball-and-socket joint"
+       ],
+       "m": 1,
+       "s": "Joints and muscles",
+       "e": "D is the hip. The round end (ball) of the thigh bone fits into a cup (socket) in the hip bone, so the leg can move in many directions and turn round: a **ball-and-socket joint**."
+      },
+      {
+       "t": "text",
+       "p": "Question 1\nOn sports day, Salma takes part in the long jump. The diagram shows the bones and two muscles of her leg, seen from the side. The front of the leg is on the right.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 430\" width=\"360\" font-family=\"Arial, sans-serif\" font-size=\"20\" fill=\"#0f1b33\"><rect x=\"105\" y=\"20\" width=\"130\" height=\"34\" rx=\"10\" fill=\"#f3ecd9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"172\" y1=\"76\" x2=\"180\" y2=\"226\" stroke=\"#0f1b33\" stroke-width=\"22\" stroke-linecap=\"round\"/><line x1=\"172\" y1=\"76\" x2=\"180\" y2=\"226\" stroke=\"#f3ecd9\" stroke-width=\"18\" stroke-linecap=\"round\"/><line x1=\"182\" y1=\"258\" x2=\"176\" y2=\"405\" stroke=\"#0f1b33\" stroke-width=\"22\" stroke-linecap=\"round\"/><line x1=\"182\" y1=\"258\" x2=\"176\" y2=\"405\" stroke=\"#f3ecd9\" stroke-width=\"18\" stroke-linecap=\"round\"/><circle cx=\"172\" cy=\"64\" r=\"15\" fill=\"#f3ecd9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M152 64A20 20 0 0 1 192 64\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"3\"/><circle cx=\"181\" cy=\"236\" r=\"13\" fill=\"#f3ecd9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><ellipse cx=\"207\" cy=\"152\" rx=\"15\" ry=\"58\" fill=\"#fde2e2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><ellipse cx=\"148\" cy=\"152\" rx=\"15\" ry=\"58\" fill=\"#fde2e2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M208 209L192 270\" stroke=\"#0f1b33\" stroke-width=\"3\" fill=\"none\"/><path d=\"M147 209L171 272\" stroke=\"#0f1b33\" stroke-width=\"3\" fill=\"none\"/><path d=\"M206 94L200 54M150 94L150 54\" stroke=\"#0f1b33\" stroke-width=\"3\" fill=\"none\"/><line x1=\"222\" y1=\"150\" x2=\"282\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"296\" y=\"157\" text-anchor=\"middle\" font-weight=\"bold\">A</text><line x1=\"133\" y1=\"150\" x2=\"74\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"60\" y=\"157\" text-anchor=\"middle\" font-weight=\"bold\">B</text><line x1=\"195\" y1=\"238\" x2=\"282\" y2=\"238\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"296\" y=\"245\" text-anchor=\"middle\" font-weight=\"bold\">C</text><line x1=\"157\" y1=\"66\" x2=\"74\" y2=\"92\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"60\" y=\"99\" text-anchor=\"middle\" font-weight=\"bold\">D</text><text x=\"300\" y=\"420\" text-anchor=\"middle\" font-size=\"16\">front →</text></svg>",
+       "q": "(c) Salma straightens her leg at the knee to push off the ground. Which muscle, A or B, contracts to do this?",
+       "ans": [
+        "A"
+       ],
+       "m": 1,
+       "s": "Joints and muscles",
+       "e": "To straighten the knee, the bone below the knee must be pulled forwards. Muscle A is on the front of the thigh and its tendon is fixed to the front of the lower leg bone, so **A** contracts (and B relaxes)."
+      },
+      {
+       "t": "open",
+       "p": "Question 1\nOn sports day, Salma takes part in the long jump. The diagram shows the bones and two muscles of her leg, seen from the side. The front of the leg is on the right.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 430\" width=\"360\" font-family=\"Arial, sans-serif\" font-size=\"20\" fill=\"#0f1b33\"><rect x=\"105\" y=\"20\" width=\"130\" height=\"34\" rx=\"10\" fill=\"#f3ecd9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"172\" y1=\"76\" x2=\"180\" y2=\"226\" stroke=\"#0f1b33\" stroke-width=\"22\" stroke-linecap=\"round\"/><line x1=\"172\" y1=\"76\" x2=\"180\" y2=\"226\" stroke=\"#f3ecd9\" stroke-width=\"18\" stroke-linecap=\"round\"/><line x1=\"182\" y1=\"258\" x2=\"176\" y2=\"405\" stroke=\"#0f1b33\" stroke-width=\"22\" stroke-linecap=\"round\"/><line x1=\"182\" y1=\"258\" x2=\"176\" y2=\"405\" stroke=\"#f3ecd9\" stroke-width=\"18\" stroke-linecap=\"round\"/><circle cx=\"172\" cy=\"64\" r=\"15\" fill=\"#f3ecd9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M152 64A20 20 0 0 1 192 64\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"3\"/><circle cx=\"181\" cy=\"236\" r=\"13\" fill=\"#f3ecd9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><ellipse cx=\"207\" cy=\"152\" rx=\"15\" ry=\"58\" fill=\"#fde2e2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><ellipse cx=\"148\" cy=\"152\" rx=\"15\" ry=\"58\" fill=\"#fde2e2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M208 209L192 270\" stroke=\"#0f1b33\" stroke-width=\"3\" fill=\"none\"/><path d=\"M147 209L171 272\" stroke=\"#0f1b33\" stroke-width=\"3\" fill=\"none\"/><path d=\"M206 94L200 54M150 94L150 54\" stroke=\"#0f1b33\" stroke-width=\"3\" fill=\"none\"/><line x1=\"222\" y1=\"150\" x2=\"282\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"296\" y=\"157\" text-anchor=\"middle\" font-weight=\"bold\">A</text><line x1=\"133\" y1=\"150\" x2=\"74\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"60\" y=\"157\" text-anchor=\"middle\" font-weight=\"bold\">B</text><line x1=\"195\" y1=\"238\" x2=\"282\" y2=\"238\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"296\" y=\"245\" text-anchor=\"middle\" font-weight=\"bold\">C</text><line x1=\"157\" y1=\"66\" x2=\"74\" y2=\"92\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"60\" y=\"99\" text-anchor=\"middle\" font-weight=\"bold\">D</text><text x=\"300\" y=\"420\" text-anchor=\"middle\" font-size=\"16\">front →</text></svg>",
+       "q": "(d) Muscles A and B are called an antagonistic pair. Explain what this means and why muscles must work in pairs.",
+       "m": 2,
+       "s": "Joints and muscles",
+       "ms": "1 mark: the two muscles have opposite effects / when one contracts the other relaxes (e.g. A straightens the leg, B bends it). 1 mark: a muscle can only pull (contract); it cannot push, so a second muscle is needed to move the bone back. Do not accept: 'muscles push the bones'.",
+       "e": "A muscle can only **pull** when it contracts; it cannot push. So one muscle (A) pulls the lower leg straight and another muscle (B) is needed to pull it back to bend the knee. When one contracts, the other relaxes. Two muscles that work against each other like this are an antagonistic pair."
+      },
+      {
+       "t": "num",
+       "p": "Question 2\nYoussef runs an 800 m race on sports day. His teacher counts his breathing rate before and after the race.\nTime | Breathing rate in breaths per minute\nbefore the race | 15\n1 minute after the race | 42\n5 minutes after the race | 24\n10 minutes after the race | 16\nUse the table to answer the questions.",
+       "q": "(a) By how many breaths per minute did Youssef's breathing rate increase from before the race to 1 minute after the race?",
+       "ans": [
+        27
+       ],
+       "tol": 0,
+       "unit": "breaths per minute",
+       "m": 1,
+       "s": "Breathing",
+       "e": "42 − 15 = **27** breaths per minute."
+      },
+      {
+       "p": "Question 2\nYoussef runs an 800 m race on sports day. His teacher counts his breathing rate before and after the race.\nTime | Breathing rate in breaths per minute\nbefore the race | 15\n1 minute after the race | 42\n5 minutes after the race | 24\n10 minutes after the race | 16\nUse the table to answer the questions.",
+       "q": "(b) Which describes what happens when Youssef breathes in?",
+       "c": [
+        "The diaphragm relaxes and moves up; the ribs move down and in.",
+        "The diaphragm contracts and moves down; the ribs move up and out.",
+        "The diaphragm contracts and moves up; the ribs move down and in.",
+        "The diaphragm relaxes and moves down; the ribs move up and out."
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Breathing",
+       "e": "Breathing in: the diaphragm **contracts and flattens (moves down)** and the intercostal muscles contract to pull the ribs **up and out**. The chest gets bigger, the pressure inside falls and air rushes in. The answer is B."
+      },
+      {
+       "t": "open",
+       "p": "Question 2\nYoussef runs an 800 m race on sports day. His teacher counts his breathing rate before and after the race.\nTime | Breathing rate in breaths per minute\nbefore the race | 15\n1 minute after the race | 42\n5 minutes after the race | 24\n10 minutes after the race | 16\nUse the table to answer the questions.",
+       "q": "(c) Explain why Youssef's breathing rate is much higher just after the race. Use the word **respiration** in your answer.",
+       "m": 2,
+       "s": "Respiration",
+       "ms": "1 mark: his muscles were respiring faster / needed more energy (from respiration) to run. 1 mark: so more oxygen must be taken in / more carbon dioxide must be removed (from the blood). Accept: to repay the oxygen his muscles used. Do not accept 'to make energy' without respiration or oxygen.",
+       "e": "Running muscles need a lot of energy. The energy is released by **aerobic respiration**, which uses oxygen and makes carbon dioxide. So Youssef breathes faster to take in more oxygen for his muscles and to get rid of the extra carbon dioxide."
+      },
+      {
+       "t": "open",
+       "p": "Question 2\nYoussef runs an 800 m race on sports day. His teacher counts his breathing rate before and after the race.\nTime | Breathing rate in breaths per minute\nbefore the race | 15\n1 minute after the race | 42\n5 minutes after the race | 24\n10 minutes after the race | 16\nUse the table to answer the questions.",
+       "q": "(d) Youssef says: \"Breathing and respiration are the same thing.\" Explain why he is wrong.",
+       "m": 2,
+       "s": "Breathing and respiration",
+       "ms": "1 mark: breathing is moving air into and out of the lungs (using the diaphragm and intercostal muscles). 1 mark: respiration is a chemical reaction in (every) cell / in mitochondria that releases energy from glucose (using oxygen). Both ideas are needed for 2 marks.",
+       "e": "**Breathing** is a physical process: muscles move air into and out of the lungs. **Respiration** is a chemical reaction that happens inside every living cell (in the mitochondria): glucose reacts with oxygen to release energy."
+      },
+      {
+       "t": "text",
+       "p": "Question 2\nYoussef runs an 800 m race on sports day. His teacher counts his breathing rate before and after the race.\nTime | Breathing rate in breaths per minute\nbefore the race | 15\n1 minute after the race | 42\n5 minutes after the race | 24\n10 minutes after the race | 16\nUse the table to answer the questions.",
+       "q": "(e) The word equation for aerobic respiration is:\nglucose + oxygen → ______ + water\nWrite the missing product.",
+       "ans": [
+        "carbon dioxide",
+        "CO2",
+        "CO_{2}",
+        "CO₂"
+       ],
+       "m": 1,
+       "s": "Respiration",
+       "e": "glucose + oxygen → **carbon dioxide** + water."
+      },
+      {
+       "t": "open",
+       "p": "Question 2\nYoussef runs an 800 m race on sports day. His teacher counts his breathing rate before and after the race.\nTime | Breathing rate in breaths per minute\nbefore the race | 15\n1 minute after the race | 42\n5 minutes after the race | 24\n10 minutes after the race | 16\nUse the table to answer the questions.",
+       "q": "(f) Describe how oxygen gets from the air in the alveoli into Youssef's blood.",
+       "m": 2,
+       "s": "Gas exchange",
+       "ms": "1 mark: by diffusion. 1 mark: from a high concentration (of oxygen) in the alveoli to a low concentration in the blood / through the thin walls of the alveoli and capillaries (one cell thick). Do not accept 'oxygen is pumped' or 'sucked'.",
+       "e": "Oxygen moves by **diffusion**. There is a high concentration of oxygen in the air in the alveoli and a low concentration in the blood arriving at the lungs, so oxygen moves across the very thin walls of the alveoli and the capillaries into the blood."
+      },
+      {
+       "p": "Question 2\nYoussef runs an 800 m race on sports day. His teacher counts his breathing rate before and after the race.\nTime | Breathing rate in breaths per minute\nbefore the race | 15\n1 minute after the race | 42\n5 minutes after the race | 24\n10 minutes after the race | 16\nUse the table to answer the questions.",
+       "q": "(g) Which statement about aerobic respiration is correct?",
+       "c": [
+        "It happens only in animal cells, inside the nucleus.",
+        "It happens only in the lungs, when air is breathed in.",
+        "It happens in the mitochondria of plant and animal cells and releases energy in a controlled way.",
+        "It releases all the energy in glucose at once, like burning."
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Respiration",
+       "e": "Aerobic respiration happens in the **mitochondria** of both plant and animal cells. It releases energy in small, **controlled** steps, not all at once as in burning. The answer is C."
+      },
+      {
+       "p": "Question 3\nEgypt has built a very large solar park in the desert near Aswan. Egypt also gets electricity from wind farms and from power stations that burn natural gas.",
+       "q": "(a) Which list contains **only** renewable energy resources?",
+       "c": [
+        "wind, solar, natural gas",
+        "tidal, coal, wind",
+        "solar, wind, tidal",
+        "oil, natural gas, coal"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Earth's resources",
+       "e": "Solar, wind and tidal power will not run out, so they are renewable. Coal, oil and natural gas are fossil fuels, which are non-renewable. The answer is C."
+      },
+      {
+       "t": "open",
+       "p": "Question 3\nEgypt has built a very large solar park in the desert near Aswan. Egypt also gets electricity from wind farms and from power stations that burn natural gas.",
+       "q": "(b) Suggest **one** reason why the desert in southern Egypt is a good place for a solar park.",
+       "m": 1,
+       "s": "Earth's resources",
+       "ms": "1 mark for any one: a lot of sunshine / many sunny days / clear skies with little cloud / strong sunlight; large areas of empty land that are not used for farming or homes. Do not accept 'it is hot' on its own.",
+       "e": "Solar panels need sunlight. Southern Egypt has strong sunshine on almost every day of the year, with very few clouds. There is also a lot of empty desert land, so the panels do not take land needed for farms or towns."
+      },
+      {
+       "p": "Question 3\nEgypt has built a very large solar park in the desert near Aswan. Egypt also gets electricity from wind farms and from power stations that burn natural gas.",
+       "q": "(c) A company now makes water bottles from bioplastic instead of plastic made from crude oil. Which is an advantage of bioplastic?",
+       "c": [
+        "It is made from plants, which can be grown again, so it is renewable.",
+        "It is made from coal, so it lasts for millions of years.",
+        "It is made from crude oil, so it is cheaper.",
+        "It can never break down, so it does not need recycling."
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Earth's resources",
+       "e": "Bioplastics are made from plant materials (for example starch from maize or sugar cane). The plants can be grown again every year, so bioplastic is a **renewable** resource, while crude oil will run out. The answer is A."
+      },
+      {
+       "t": "text",
+       "p": "Question 4\nMariam investigates how four metals, W, X, Y and Z, react with dilute hydrochloric acid. The metals are copper, iron, magnesium and zinc, in a random order.\nShe adds 0.5 g of each metal powder to 20 cm³ of the acid and measures the volume of gas made in 1 minute. She does each test three times.\nMetal | Test 1 in cm³ | Test 2 in cm³ | Test 3 in cm³\nW | 6 | 5 | 7\nX | 0 | 0 | 0\nY | 52 | 50 | 51\nZ | 21 | 35 | 23\nUse the results in the table to answer the questions.",
+       "q": "(a) Write the letters of the metals in order of reactivity, starting with the **most** reactive.",
+       "ans": [
+        "YZWX",
+        "Y Z W X",
+        "Y, Z, W, X",
+        "Y,Z,W,X",
+        "Y>Z>W>X",
+        "Y > Z > W > X",
+        "Y-Z-W-X",
+        "Y Z W X"
+       ],
+       "m": 1,
+       "s": "Reactivity of metals",
+       "e": "The more reactive the metal, the more gas it makes in 1 minute. Means: Y about 51, Z about 22, W 6, X 0. Order: **Y, Z, W, X**."
+      },
+      {
+       "t": "text",
+       "p": "Question 4\nMariam investigates how four metals, W, X, Y and Z, react with dilute hydrochloric acid. The metals are copper, iron, magnesium and zinc, in a random order.\nShe adds 0.5 g of each metal powder to 20 cm³ of the acid and measures the volume of gas made in 1 minute. She does each test three times.\nMetal | Test 1 in cm³ | Test 2 in cm³ | Test 3 in cm³\nW | 6 | 5 | 7\nX | 0 | 0 | 0\nY | 52 | 50 | 51\nZ | 21 | 35 | 23\nUse the results in the table to answer the questions.",
+       "q": "(b) Which metal, W, X, Y or Z, is iron?",
+       "ans": [
+        "W"
+       ],
+       "m": 1,
+       "s": "Reactivity of metals",
+       "e": "Reactivity order: magnesium > zinc > iron > copper. So Y = magnesium, Z = zinc, **W = iron** and X = copper (copper does not react with dilute acid)."
+      },
+      {
+       "p": "Question 4\nMariam investigates how four metals, W, X, Y and Z, react with dilute hydrochloric acid. The metals are copper, iron, magnesium and zinc, in a random order.\nShe adds 0.5 g of each metal powder to 20 cm³ of the acid and measures the volume of gas made in 1 minute. She does each test three times.\nMetal | Test 1 in cm³ | Test 2 in cm³ | Test 3 in cm³\nW | 6 | 5 | 7\nX | 0 | 0 | 0\nY | 52 | 50 | 51\nZ | 21 | 35 | 23\nUse the results in the table to answer the questions.",
+       "q": "(c) Which piece of equipment should Mariam use to measure the volume of gas?",
+       "c": [
+        "a thermometer",
+        "a top-pan balance",
+        "a stopwatch",
+        "a gas syringe"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Working scientifically",
+       "e": "A **gas syringe** collects the gas and has a scale in cm³. The stopwatch times the 1 minute but does not measure volume. The answer is D."
+      },
+      {
+       "t": "num",
+       "p": "Question 4\nMariam investigates how four metals, W, X, Y and Z, react with dilute hydrochloric acid. The metals are copper, iron, magnesium and zinc, in a random order.\nShe adds 0.5 g of each metal powder to 20 cm³ of the acid and measures the volume of gas made in 1 minute. She does each test three times.\nMetal | Test 1 in cm³ | Test 2 in cm³ | Test 3 in cm³\nW | 6 | 5 | 7\nX | 0 | 0 | 0\nY | 52 | 50 | 51\nZ | 21 | 35 | 23\nUse the results in the table to answer the questions.",
+       "q": "(d) One result in the table is anomalous. Write down this result.",
+       "ans": [
+        35
+       ],
+       "tol": 0,
+       "unit": "cm³",
+       "m": 1,
+       "s": "Working scientifically",
+       "e": "Metal Z gave 21 and 23 cm³, but test 2 gave **35 cm³**. This does not fit the pattern of the other results, so it is anomalous."
+      },
+      {
+       "t": "num",
+       "p": "Question 4\nMariam investigates how four metals, W, X, Y and Z, react with dilute hydrochloric acid. The metals are copper, iron, magnesium and zinc, in a random order.\nShe adds 0.5 g of each metal powder to 20 cm³ of the acid and measures the volume of gas made in 1 minute. She does each test three times.\nMetal | Test 1 in cm³ | Test 2 in cm³ | Test 3 in cm³\nW | 6 | 5 | 7\nX | 0 | 0 | 0\nY | 52 | 50 | 51\nZ | 21 | 35 | 23\nUse the results in the table to answer the questions.",
+       "q": "(e) Calculate the mean volume of gas for metal Z. Do not include the anomalous result.",
+       "ans": [
+        22
+       ],
+       "tol": 0,
+       "unit": "cm³",
+       "m": 1,
+       "s": "Working scientifically",
+       "e": "(21 + 23) ÷ 2 = 44 ÷ 2 = **22 cm³**. (Including 35 would give 26.3 cm³, which is wrong.)"
+      },
+      {
+       "t": "text",
+       "p": "Question 4\nMariam investigates how four metals, W, X, Y and Z, react with dilute hydrochloric acid. The metals are copper, iron, magnesium and zinc, in a random order.\nShe adds 0.5 g of each metal powder to 20 cm³ of the acid and measures the volume of gas made in 1 minute. She does each test three times.\nMetal | Test 1 in cm³ | Test 2 in cm³ | Test 3 in cm³\nW | 6 | 5 | 7\nX | 0 | 0 | 0\nY | 52 | 50 | 51\nZ | 21 | 35 | 23\nUse the results in the table to answer the questions.",
+       "q": "(f) Complete the word equation for the reaction of iron with hydrochloric acid.\niron + hydrochloric acid → ______ + hydrogen",
+       "ans": [
+        "iron chloride",
+        "iron(II) chloride",
+        "iron (II) chloride",
+        "iron(ii) chloride",
+        "iron 2 chloride"
+       ],
+       "m": 1,
+       "s": "Word equations",
+       "e": "metal + hydrochloric acid → metal **chloride** + hydrogen, so iron + hydrochloric acid → **iron chloride** + hydrogen."
+      },
+      {
+       "t": "open",
+       "p": "Question 4\nMariam investigates how four metals, W, X, Y and Z, react with dilute hydrochloric acid. The metals are copper, iron, magnesium and zinc, in a random order.\nShe adds 0.5 g of each metal powder to 20 cm³ of the acid and measures the volume of gas made in 1 minute. She does each test three times.\nMetal | Test 1 in cm³ | Test 2 in cm³ | Test 3 in cm³\nW | 6 | 5 | 7\nX | 0 | 0 | 0\nY | 52 | 50 | 51\nZ | 21 | 35 | 23\nUse the results in the table to answer the questions.",
+       "q": "(g) Mariam's teacher puts a small piece of gold into the same acid. Predict what Mariam will see, and explain your prediction.",
+       "m": 2,
+       "s": "Reactivity of metals",
+       "ms": "1 mark: no bubbles / no gas / no reaction / no change. 1 mark: gold is (very) unreactive / inert / less reactive than copper (and copper did not react). Do not accept 'gold dissolves slowly'.",
+       "e": "Nothing happens: no bubbles of gas. Gold is at the very bottom of the reactivity series, below copper, which did not react either. Gold is so unreactive that it is described as **inert**."
+      },
+      {
+       "t": "open",
+       "p": "Question 4\nMariam investigates how four metals, W, X, Y and Z, react with dilute hydrochloric acid. The metals are copper, iron, magnesium and zinc, in a random order.\nShe adds 0.5 g of each metal powder to 20 cm³ of the acid and measures the volume of gas made in 1 minute. She does each test three times.\nMetal | Test 1 in cm³ | Test 2 in cm³ | Test 3 in cm³\nW | 6 | 5 | 7\nX | 0 | 0 | 0\nY | 52 | 50 | 51\nZ | 21 | 35 | 23\nUse the results in the table to answer the questions.",
+       "q": "(h) Dilute hydrochloric acid is an irritant. Describe **one** way Mariam can reduce the risk of harm.",
+       "m": 1,
+       "s": "Working scientifically",
+       "ms": "1 mark for any one: wear safety glasses / goggles (to protect the eyes); wash acid off skin with plenty of water at once; use small volumes / dilute acid; stand up and keep the beaker away from the edge of the bench; wipe up spills straight away. Do not accept 'be careful' on its own.",
+       "e": "For example: wear **safety goggles** so the acid cannot splash into her eyes, and wash any acid off her skin with plenty of cold water."
+      },
+      {
+       "t": "text",
+       "p": "Question 5\nThe diagram shows the Rutherford model of an atom.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 380 300\" width=\"380\" font-family=\"Arial, sans-serif\" font-size=\"20\" fill=\"#0f1b33\"><circle cx=\"200\" cy=\"150\" r=\"62\" fill=\"none\" stroke=\"#7f8aa3\" stroke-width=\"1.5\" stroke-dasharray=\"6 5\"/><circle cx=\"200\" cy=\"150\" r=\"112\" fill=\"none\" stroke=\"#7f8aa3\" stroke-width=\"1.5\" stroke-dasharray=\"6 5\"/><circle cx=\"200\" cy=\"150\" r=\"16\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"141.7\" cy=\"171.2\" r=\"7\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"258.3\" cy=\"128.8\" r=\"7\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"297\" cy=\"206\" r=\"7\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"190.2\" cy=\"38.4\" r=\"7\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"103\" cy=\"94\" r=\"7\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"188\" y1=\"161\" x2=\"60\" y2=\"262\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"48\" y=\"280\" text-anchor=\"middle\" font-weight=\"bold\">P</text><line x1=\"303\" y1=\"211\" x2=\"340\" y2=\"262\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"352\" y=\"280\" text-anchor=\"middle\" font-weight=\"bold\">Q</text></svg>",
+       "q": "(a) Which letter, P or Q, shows a particle with a **negative** charge?",
+       "ans": [
+        "Q"
+       ],
+       "m": 1,
+       "s": "Atoms",
+       "e": "Q is an electron moving around the nucleus. Electrons have a **negative** charge. P is the nucleus, which is positive."
+      },
+      {
+       "p": "Question 5\nThe diagram shows the Rutherford model of an atom.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 380 300\" width=\"380\" font-family=\"Arial, sans-serif\" font-size=\"20\" fill=\"#0f1b33\"><circle cx=\"200\" cy=\"150\" r=\"62\" fill=\"none\" stroke=\"#7f8aa3\" stroke-width=\"1.5\" stroke-dasharray=\"6 5\"/><circle cx=\"200\" cy=\"150\" r=\"112\" fill=\"none\" stroke=\"#7f8aa3\" stroke-width=\"1.5\" stroke-dasharray=\"6 5\"/><circle cx=\"200\" cy=\"150\" r=\"16\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"141.7\" cy=\"171.2\" r=\"7\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"258.3\" cy=\"128.8\" r=\"7\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"297\" cy=\"206\" r=\"7\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"190.2\" cy=\"38.4\" r=\"7\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"103\" cy=\"94\" r=\"7\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"188\" y1=\"161\" x2=\"60\" y2=\"262\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"48\" y=\"280\" text-anchor=\"middle\" font-weight=\"bold\">P</text><line x1=\"303\" y1=\"211\" x2=\"340\" y2=\"262\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"352\" y=\"280\" text-anchor=\"middle\" font-weight=\"bold\">Q</text></svg>",
+       "q": "(b) Which row gives the correct charges of a proton and a neutron?\nRow | proton | neutron\nA | positive | no charge\nB | negative | positive\nC | no charge | negative\nD | positive | negative\nChoose the correct row.",
+       "c": [
+        "A",
+        "B",
+        "C",
+        "D"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Atoms",
+       "e": "Protons are **positive** and neutrons have **no charge** (they are neutral). Electrons are negative. The answer is A."
+      },
+      {
+       "t": "num",
+       "p": "Question 5\nThe diagram shows the Rutherford model of an atom.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 380 300\" width=\"380\" font-family=\"Arial, sans-serif\" font-size=\"20\" fill=\"#0f1b33\"><circle cx=\"200\" cy=\"150\" r=\"62\" fill=\"none\" stroke=\"#7f8aa3\" stroke-width=\"1.5\" stroke-dasharray=\"6 5\"/><circle cx=\"200\" cy=\"150\" r=\"112\" fill=\"none\" stroke=\"#7f8aa3\" stroke-width=\"1.5\" stroke-dasharray=\"6 5\"/><circle cx=\"200\" cy=\"150\" r=\"16\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"141.7\" cy=\"171.2\" r=\"7\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"258.3\" cy=\"128.8\" r=\"7\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"297\" cy=\"206\" r=\"7\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"190.2\" cy=\"38.4\" r=\"7\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"103\" cy=\"94\" r=\"7\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"188\" y1=\"161\" x2=\"60\" y2=\"262\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"48\" y=\"280\" text-anchor=\"middle\" font-weight=\"bold\">P</text><line x1=\"303\" y1=\"211\" x2=\"340\" y2=\"262\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"352\" y=\"280\" text-anchor=\"middle\" font-weight=\"bold\">Q</text></svg>",
+       "q": "(c) An atom of fluorine has 9 electrons and 10 neutrons. How many protons does it have?",
+       "ans": [
+        9
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Atoms",
+       "e": "An atom has no overall charge, so the number of protons (+) equals the number of electrons (−): **9 protons**. The 10 neutrons have no charge and do not change this."
+      },
+      {
+       "t": "open",
+       "p": "Question 5\nThe diagram shows the Rutherford model of an atom.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 380 300\" width=\"380\" font-family=\"Arial, sans-serif\" font-size=\"20\" fill=\"#0f1b33\"><circle cx=\"200\" cy=\"150\" r=\"62\" fill=\"none\" stroke=\"#7f8aa3\" stroke-width=\"1.5\" stroke-dasharray=\"6 5\"/><circle cx=\"200\" cy=\"150\" r=\"112\" fill=\"none\" stroke=\"#7f8aa3\" stroke-width=\"1.5\" stroke-dasharray=\"6 5\"/><circle cx=\"200\" cy=\"150\" r=\"16\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"141.7\" cy=\"171.2\" r=\"7\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"258.3\" cy=\"128.8\" r=\"7\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"297\" cy=\"206\" r=\"7\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"190.2\" cy=\"38.4\" r=\"7\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"103\" cy=\"94\" r=\"7\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"188\" y1=\"161\" x2=\"60\" y2=\"262\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"48\" y=\"280\" text-anchor=\"middle\" font-weight=\"bold\">P</text><line x1=\"303\" y1=\"211\" x2=\"340\" y2=\"262\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"352\" y=\"280\" text-anchor=\"middle\" font-weight=\"bold\">Q</text></svg>",
+       "q": "(d) Explain what holds the electrons in an atom.",
+       "m": 2,
+       "s": "Atoms",
+       "ms": "1 mark: electrostatic attraction / the attraction between opposite charges. 1 mark: between the negative electrons and the positive nucleus / positive protons. Do not accept 'gravity' or 'magnetism'.",
+       "e": "The electrons are negative and the protons in the nucleus are positive. Opposite charges attract, so there is an **electrostatic attraction** between the electrons and the nucleus. This force holds the atom together."
+      },
+      {
+       "p": "Question 5\nThe diagram shows the Rutherford model of an atom.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 380 300\" width=\"380\" font-family=\"Arial, sans-serif\" font-size=\"20\" fill=\"#0f1b33\"><circle cx=\"200\" cy=\"150\" r=\"62\" fill=\"none\" stroke=\"#7f8aa3\" stroke-width=\"1.5\" stroke-dasharray=\"6 5\"/><circle cx=\"200\" cy=\"150\" r=\"112\" fill=\"none\" stroke=\"#7f8aa3\" stroke-width=\"1.5\" stroke-dasharray=\"6 5\"/><circle cx=\"200\" cy=\"150\" r=\"16\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"141.7\" cy=\"171.2\" r=\"7\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"258.3\" cy=\"128.8\" r=\"7\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"297\" cy=\"206\" r=\"7\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"190.2\" cy=\"38.4\" r=\"7\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"103\" cy=\"94\" r=\"7\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"188\" y1=\"161\" x2=\"60\" y2=\"262\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"48\" y=\"280\" text-anchor=\"middle\" font-weight=\"bold\">P</text><line x1=\"303\" y1=\"211\" x2=\"340\" y2=\"262\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"352\" y=\"280\" text-anchor=\"middle\" font-weight=\"bold\">Q</text></svg>",
+       "q": "(e) Which statement describes the Rutherford model of the atom?",
+       "c": [
+        "Positive charge is spread through a ball, with electrons dotted inside it like fruit in a cake.",
+        "A tiny positive nucleus holds almost all the mass; electrons move around it, and most of the atom is empty space.",
+        "An atom is a solid ball with no smaller particles inside it.",
+        "A large negative nucleus has positive electrons moving around it."
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Atoms",
+       "e": "Rutherford's model has a tiny, dense, **positive nucleus** with nearly all the mass, electrons moving around it, and mostly **empty space**. A is the older plum-pudding model. The answer is B."
+      },
+      {
+       "p": "Question 6\nThe Western Desert of Egypt is an ecosystem. The diagram shows part of a desert food web.\nFarmers near an oasis spray a pesticide that is not broken down in living things. Scientists measure the pesticide in one food chain.\nOrganism | desert grass | locust | lizard | horned viper | falcon\nPesticide in parts per million | 0.05 | 0.6 | 4.5 | 18 | 72\nUse the food web and the table to answer the questions.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 490\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"17\" fill=\"#0f1b33\"><line x1=\"85\" y1=\"437\" x2=\"85\" y2=\"382\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M85 375L90.5 386L79.5 386Z\" fill=\"#0f1b33\"/><line x1=\"140.8\" y1=\"437\" x2=\"330.6\" y2=\"375.8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M337.3 373.6L328.5 382.2L325.1 371.8Z\" fill=\"#0f1b33\"/><line x1=\"339.2\" y1=\"437\" x2=\"149.4\" y2=\"375.8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M142.7 373.6L154.9 371.8L151.5 382.2Z\" fill=\"#0f1b33\"/><line x1=\"395\" y1=\"437\" x2=\"395\" y2=\"382\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M395 375L400.5 386L389.5 386Z\" fill=\"#0f1b33\"/><line x1=\"112.9\" y1=\"337\" x2=\"204.5\" y2=\"277.9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M210.4 274.1L204.2 284.7L198.2 275.4Z\" fill=\"#0f1b33\"/><line x1=\"85\" y1=\"337\" x2=\"85\" y2=\"177\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M85 170L90.5 181L79.5 181Z\" fill=\"#0f1b33\"/><line x1=\"395\" y1=\"337\" x2=\"395\" y2=\"177\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M395 170L400.5 181L389.5 181Z\" fill=\"#0f1b33\"/><line x1=\"266.6\" y1=\"237\" x2=\"361\" y2=\"173\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M366.8 169.1L360.8 179.8L354.6 170.7Z\" fill=\"#0f1b33\"/><line x1=\"213.4\" y1=\"237\" x2=\"119\" y2=\"173\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M113.2 169.1L125.4 170.7L119.2 179.8Z\" fill=\"#0f1b33\"/><line x1=\"240\" y1=\"237\" x2=\"240\" y2=\"65\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M240 58L245.5 69L234.5 69Z\" fill=\"#0f1b33\"/><line x1=\"370.1\" y1=\"132\" x2=\"272.2\" y2=\"61.3\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M266.5 57.2L278.7 59.2L272.2 68.1Z\" fill=\"#0f1b33\"/><rect x=\"170\" y=\"20\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"240\" y=\"44\" text-anchor=\"middle\">falcon</text><rect x=\"15\" y=\"132\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"85\" y=\"156\" text-anchor=\"middle\">fennec fox</text><rect x=\"325\" y=\"132\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"395\" y=\"156\" text-anchor=\"middle\">horned viper</text><rect x=\"170\" y=\"237\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"240\" y=\"261\" text-anchor=\"middle\">lizard</text><rect x=\"15\" y=\"337\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"85\" y=\"361\" text-anchor=\"middle\">locust</text><rect x=\"325\" y=\"337\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"395\" y=\"361\" text-anchor=\"middle\">jerboa</text><rect x=\"15\" y=\"437\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"85\" y=\"461\" text-anchor=\"middle\">desert grass</text><rect x=\"325\" y=\"437\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"395\" y=\"461\" text-anchor=\"middle\">acacia tree</text></svg>",
+       "q": "(a) Which of these is a **habitat** within the desert ecosystem?",
+       "c": [
+        "the hot, dry climate of the desert",
+        "all the animals that live in the desert",
+        "a small oasis pool with palm trees",
+        "the food web in the diagram"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Ecosystems",
+       "e": "A habitat is the place where an organism lives. An oasis pool is one of many habitats in the desert ecosystem (others are sand dunes, rocky slopes and burrows). The climate, the animals and the food web are not places. The answer is C."
+      },
+      {
+       "t": "text",
+       "p": "Question 6\nThe Western Desert of Egypt is an ecosystem. The diagram shows part of a desert food web.\nFarmers near an oasis spray a pesticide that is not broken down in living things. Scientists measure the pesticide in one food chain.\nOrganism | desert grass | locust | lizard | horned viper | falcon\nPesticide in parts per million | 0.05 | 0.6 | 4.5 | 18 | 72\nUse the food web and the table to answer the questions.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 490\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"17\" fill=\"#0f1b33\"><line x1=\"85\" y1=\"437\" x2=\"85\" y2=\"382\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M85 375L90.5 386L79.5 386Z\" fill=\"#0f1b33\"/><line x1=\"140.8\" y1=\"437\" x2=\"330.6\" y2=\"375.8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M337.3 373.6L328.5 382.2L325.1 371.8Z\" fill=\"#0f1b33\"/><line x1=\"339.2\" y1=\"437\" x2=\"149.4\" y2=\"375.8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M142.7 373.6L154.9 371.8L151.5 382.2Z\" fill=\"#0f1b33\"/><line x1=\"395\" y1=\"437\" x2=\"395\" y2=\"382\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M395 375L400.5 386L389.5 386Z\" fill=\"#0f1b33\"/><line x1=\"112.9\" y1=\"337\" x2=\"204.5\" y2=\"277.9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M210.4 274.1L204.2 284.7L198.2 275.4Z\" fill=\"#0f1b33\"/><line x1=\"85\" y1=\"337\" x2=\"85\" y2=\"177\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M85 170L90.5 181L79.5 181Z\" fill=\"#0f1b33\"/><line x1=\"395\" y1=\"337\" x2=\"395\" y2=\"177\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M395 170L400.5 181L389.5 181Z\" fill=\"#0f1b33\"/><line x1=\"266.6\" y1=\"237\" x2=\"361\" y2=\"173\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M366.8 169.1L360.8 179.8L354.6 170.7Z\" fill=\"#0f1b33\"/><line x1=\"213.4\" y1=\"237\" x2=\"119\" y2=\"173\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M113.2 169.1L125.4 170.7L119.2 179.8Z\" fill=\"#0f1b33\"/><line x1=\"240\" y1=\"237\" x2=\"240\" y2=\"65\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M240 58L245.5 69L234.5 69Z\" fill=\"#0f1b33\"/><line x1=\"370.1\" y1=\"132\" x2=\"272.2\" y2=\"61.3\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M266.5 57.2L278.7 59.2L272.2 68.1Z\" fill=\"#0f1b33\"/><rect x=\"170\" y=\"20\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"240\" y=\"44\" text-anchor=\"middle\">falcon</text><rect x=\"15\" y=\"132\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"85\" y=\"156\" text-anchor=\"middle\">fennec fox</text><rect x=\"325\" y=\"132\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"395\" y=\"156\" text-anchor=\"middle\">horned viper</text><rect x=\"170\" y=\"237\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"240\" y=\"261\" text-anchor=\"middle\">lizard</text><rect x=\"15\" y=\"337\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"85\" y=\"361\" text-anchor=\"middle\">locust</text><rect x=\"325\" y=\"337\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"395\" y=\"361\" text-anchor=\"middle\">jerboa</text><rect x=\"15\" y=\"437\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"85\" y=\"461\" text-anchor=\"middle\">desert grass</text><rect x=\"325\" y=\"437\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"395\" y=\"461\" text-anchor=\"middle\">acacia tree</text></svg>",
+       "q": "(b) Name **one** producer in this food web.",
+       "ans": [
+        "desert grass",
+        "grass",
+        "acacia tree",
+        "acacia",
+        "acacia trees"
+       ],
+       "m": 1,
+       "s": "Ecosystems",
+       "e": "Producers are plants that make their own food by photosynthesis: **desert grass** or **acacia tree**."
+      },
+      {
+       "t": "text",
+       "p": "Question 6\nThe Western Desert of Egypt is an ecosystem. The diagram shows part of a desert food web.\nFarmers near an oasis spray a pesticide that is not broken down in living things. Scientists measure the pesticide in one food chain.\nOrganism | desert grass | locust | lizard | horned viper | falcon\nPesticide in parts per million | 0.05 | 0.6 | 4.5 | 18 | 72\nUse the food web and the table to answer the questions.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 490\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"17\" fill=\"#0f1b33\"><line x1=\"85\" y1=\"437\" x2=\"85\" y2=\"382\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M85 375L90.5 386L79.5 386Z\" fill=\"#0f1b33\"/><line x1=\"140.8\" y1=\"437\" x2=\"330.6\" y2=\"375.8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M337.3 373.6L328.5 382.2L325.1 371.8Z\" fill=\"#0f1b33\"/><line x1=\"339.2\" y1=\"437\" x2=\"149.4\" y2=\"375.8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M142.7 373.6L154.9 371.8L151.5 382.2Z\" fill=\"#0f1b33\"/><line x1=\"395\" y1=\"437\" x2=\"395\" y2=\"382\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M395 375L400.5 386L389.5 386Z\" fill=\"#0f1b33\"/><line x1=\"112.9\" y1=\"337\" x2=\"204.5\" y2=\"277.9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M210.4 274.1L204.2 284.7L198.2 275.4Z\" fill=\"#0f1b33\"/><line x1=\"85\" y1=\"337\" x2=\"85\" y2=\"177\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M85 170L90.5 181L79.5 181Z\" fill=\"#0f1b33\"/><line x1=\"395\" y1=\"337\" x2=\"395\" y2=\"177\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M395 170L400.5 181L389.5 181Z\" fill=\"#0f1b33\"/><line x1=\"266.6\" y1=\"237\" x2=\"361\" y2=\"173\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M366.8 169.1L360.8 179.8L354.6 170.7Z\" fill=\"#0f1b33\"/><line x1=\"213.4\" y1=\"237\" x2=\"119\" y2=\"173\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M113.2 169.1L125.4 170.7L119.2 179.8Z\" fill=\"#0f1b33\"/><line x1=\"240\" y1=\"237\" x2=\"240\" y2=\"65\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M240 58L245.5 69L234.5 69Z\" fill=\"#0f1b33\"/><line x1=\"370.1\" y1=\"132\" x2=\"272.2\" y2=\"61.3\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M266.5 57.2L278.7 59.2L272.2 68.1Z\" fill=\"#0f1b33\"/><rect x=\"170\" y=\"20\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"240\" y=\"44\" text-anchor=\"middle\">falcon</text><rect x=\"15\" y=\"132\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"85\" y=\"156\" text-anchor=\"middle\">fennec fox</text><rect x=\"325\" y=\"132\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"395\" y=\"156\" text-anchor=\"middle\">horned viper</text><rect x=\"170\" y=\"237\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"240\" y=\"261\" text-anchor=\"middle\">lizard</text><rect x=\"15\" y=\"337\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"85\" y=\"361\" text-anchor=\"middle\">locust</text><rect x=\"325\" y=\"337\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"395\" y=\"361\" text-anchor=\"middle\">jerboa</text><rect x=\"15\" y=\"437\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"85\" y=\"461\" text-anchor=\"middle\">desert grass</text><rect x=\"325\" y=\"437\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"395\" y=\"461\" text-anchor=\"middle\">acacia tree</text></svg>",
+       "q": "(c) Name the animal that competes with the lizard for locusts.",
+       "ans": [
+        "fennec fox",
+        "fennec foxes",
+        "fox",
+        "the fennec fox"
+       ],
+       "m": 1,
+       "s": "Ecosystems",
+       "e": "Follow the arrows from the locust: they go to the lizard and to the **fennec fox**. Both eat locusts, so they compete for them."
+      },
+      {
+       "t": "num",
+       "p": "Question 6\nThe Western Desert of Egypt is an ecosystem. The diagram shows part of a desert food web.\nFarmers near an oasis spray a pesticide that is not broken down in living things. Scientists measure the pesticide in one food chain.\nOrganism | desert grass | locust | lizard | horned viper | falcon\nPesticide in parts per million | 0.05 | 0.6 | 4.5 | 18 | 72\nUse the food web and the table to answer the questions.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 490\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"17\" fill=\"#0f1b33\"><line x1=\"85\" y1=\"437\" x2=\"85\" y2=\"382\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M85 375L90.5 386L79.5 386Z\" fill=\"#0f1b33\"/><line x1=\"140.8\" y1=\"437\" x2=\"330.6\" y2=\"375.8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M337.3 373.6L328.5 382.2L325.1 371.8Z\" fill=\"#0f1b33\"/><line x1=\"339.2\" y1=\"437\" x2=\"149.4\" y2=\"375.8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M142.7 373.6L154.9 371.8L151.5 382.2Z\" fill=\"#0f1b33\"/><line x1=\"395\" y1=\"437\" x2=\"395\" y2=\"382\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M395 375L400.5 386L389.5 386Z\" fill=\"#0f1b33\"/><line x1=\"112.9\" y1=\"337\" x2=\"204.5\" y2=\"277.9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M210.4 274.1L204.2 284.7L198.2 275.4Z\" fill=\"#0f1b33\"/><line x1=\"85\" y1=\"337\" x2=\"85\" y2=\"177\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M85 170L90.5 181L79.5 181Z\" fill=\"#0f1b33\"/><line x1=\"395\" y1=\"337\" x2=\"395\" y2=\"177\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M395 170L400.5 181L389.5 181Z\" fill=\"#0f1b33\"/><line x1=\"266.6\" y1=\"237\" x2=\"361\" y2=\"173\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M366.8 169.1L360.8 179.8L354.6 170.7Z\" fill=\"#0f1b33\"/><line x1=\"213.4\" y1=\"237\" x2=\"119\" y2=\"173\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M113.2 169.1L125.4 170.7L119.2 179.8Z\" fill=\"#0f1b33\"/><line x1=\"240\" y1=\"237\" x2=\"240\" y2=\"65\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M240 58L245.5 69L234.5 69Z\" fill=\"#0f1b33\"/><line x1=\"370.1\" y1=\"132\" x2=\"272.2\" y2=\"61.3\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M266.5 57.2L278.7 59.2L272.2 68.1Z\" fill=\"#0f1b33\"/><rect x=\"170\" y=\"20\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"240\" y=\"44\" text-anchor=\"middle\">falcon</text><rect x=\"15\" y=\"132\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"85\" y=\"156\" text-anchor=\"middle\">fennec fox</text><rect x=\"325\" y=\"132\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"395\" y=\"156\" text-anchor=\"middle\">horned viper</text><rect x=\"170\" y=\"237\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"240\" y=\"261\" text-anchor=\"middle\">lizard</text><rect x=\"15\" y=\"337\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"85\" y=\"361\" text-anchor=\"middle\">locust</text><rect x=\"325\" y=\"337\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"395\" y=\"361\" text-anchor=\"middle\">jerboa</text><rect x=\"15\" y=\"437\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"85\" y=\"461\" text-anchor=\"middle\">desert grass</text><rect x=\"325\" y=\"437\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"395\" y=\"461\" text-anchor=\"middle\">acacia tree</text></svg>",
+       "q": "(d) How many times greater is the concentration of pesticide in the falcon than in the locust?",
+       "ans": [
+        120
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Bioaccumulation",
+       "e": "72 ÷ 0.6 = **120** times greater."
+      },
+      {
+       "t": "open",
+       "p": "Question 6\nThe Western Desert of Egypt is an ecosystem. The diagram shows part of a desert food web.\nFarmers near an oasis spray a pesticide that is not broken down in living things. Scientists measure the pesticide in one food chain.\nOrganism | desert grass | locust | lizard | horned viper | falcon\nPesticide in parts per million | 0.05 | 0.6 | 4.5 | 18 | 72\nUse the food web and the table to answer the questions.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 490\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"17\" fill=\"#0f1b33\"><line x1=\"85\" y1=\"437\" x2=\"85\" y2=\"382\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M85 375L90.5 386L79.5 386Z\" fill=\"#0f1b33\"/><line x1=\"140.8\" y1=\"437\" x2=\"330.6\" y2=\"375.8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M337.3 373.6L328.5 382.2L325.1 371.8Z\" fill=\"#0f1b33\"/><line x1=\"339.2\" y1=\"437\" x2=\"149.4\" y2=\"375.8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M142.7 373.6L154.9 371.8L151.5 382.2Z\" fill=\"#0f1b33\"/><line x1=\"395\" y1=\"437\" x2=\"395\" y2=\"382\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M395 375L400.5 386L389.5 386Z\" fill=\"#0f1b33\"/><line x1=\"112.9\" y1=\"337\" x2=\"204.5\" y2=\"277.9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M210.4 274.1L204.2 284.7L198.2 275.4Z\" fill=\"#0f1b33\"/><line x1=\"85\" y1=\"337\" x2=\"85\" y2=\"177\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M85 170L90.5 181L79.5 181Z\" fill=\"#0f1b33\"/><line x1=\"395\" y1=\"337\" x2=\"395\" y2=\"177\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M395 170L400.5 181L389.5 181Z\" fill=\"#0f1b33\"/><line x1=\"266.6\" y1=\"237\" x2=\"361\" y2=\"173\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M366.8 169.1L360.8 179.8L354.6 170.7Z\" fill=\"#0f1b33\"/><line x1=\"213.4\" y1=\"237\" x2=\"119\" y2=\"173\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M113.2 169.1L125.4 170.7L119.2 179.8Z\" fill=\"#0f1b33\"/><line x1=\"240\" y1=\"237\" x2=\"240\" y2=\"65\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M240 58L245.5 69L234.5 69Z\" fill=\"#0f1b33\"/><line x1=\"370.1\" y1=\"132\" x2=\"272.2\" y2=\"61.3\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M266.5 57.2L278.7 59.2L272.2 68.1Z\" fill=\"#0f1b33\"/><rect x=\"170\" y=\"20\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"240\" y=\"44\" text-anchor=\"middle\">falcon</text><rect x=\"15\" y=\"132\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"85\" y=\"156\" text-anchor=\"middle\">fennec fox</text><rect x=\"325\" y=\"132\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"395\" y=\"156\" text-anchor=\"middle\">horned viper</text><rect x=\"170\" y=\"237\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"240\" y=\"261\" text-anchor=\"middle\">lizard</text><rect x=\"15\" y=\"337\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"85\" y=\"361\" text-anchor=\"middle\">locust</text><rect x=\"325\" y=\"337\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"395\" y=\"361\" text-anchor=\"middle\">jerboa</text><rect x=\"15\" y=\"437\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"85\" y=\"461\" text-anchor=\"middle\">desert grass</text><rect x=\"325\" y=\"437\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"395\" y=\"461\" text-anchor=\"middle\">acacia tree</text></svg>",
+       "q": "(e) Explain why the concentration of pesticide is highest in the falcon.",
+       "m": 2,
+       "s": "Bioaccumulation",
+       "ms": "1 mark: the pesticide is not broken down / not excreted, so it stays (is stored) in the body of each animal. 1 mark: each animal eats many of the organisms below it, so the pesticide builds up (accumulates) at each step / the falcon is at the top of the food chain. Accept 'bioaccumulation' with an explanation.",
+       "e": "The pesticide is not broken down or removed, so it stays in the animals' bodies. A lizard eats many locusts, a viper eats many lizards and a falcon eats many vipers, so at each step the pesticide becomes more concentrated (**bioaccumulation**). The falcon is at the top of the chain, so it has the most."
+      },
+      {
+       "t": "open",
+       "p": "Question 6\nThe Western Desert of Egypt is an ecosystem. The diagram shows part of a desert food web.\nFarmers near an oasis spray a pesticide that is not broken down in living things. Scientists measure the pesticide in one food chain.\nOrganism | desert grass | locust | lizard | horned viper | falcon\nPesticide in parts per million | 0.05 | 0.6 | 4.5 | 18 | 72\nUse the food web and the table to answer the questions.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 490\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"17\" fill=\"#0f1b33\"><line x1=\"85\" y1=\"437\" x2=\"85\" y2=\"382\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M85 375L90.5 386L79.5 386Z\" fill=\"#0f1b33\"/><line x1=\"140.8\" y1=\"437\" x2=\"330.6\" y2=\"375.8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M337.3 373.6L328.5 382.2L325.1 371.8Z\" fill=\"#0f1b33\"/><line x1=\"339.2\" y1=\"437\" x2=\"149.4\" y2=\"375.8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M142.7 373.6L154.9 371.8L151.5 382.2Z\" fill=\"#0f1b33\"/><line x1=\"395\" y1=\"437\" x2=\"395\" y2=\"382\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M395 375L400.5 386L389.5 386Z\" fill=\"#0f1b33\"/><line x1=\"112.9\" y1=\"337\" x2=\"204.5\" y2=\"277.9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M210.4 274.1L204.2 284.7L198.2 275.4Z\" fill=\"#0f1b33\"/><line x1=\"85\" y1=\"337\" x2=\"85\" y2=\"177\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M85 170L90.5 181L79.5 181Z\" fill=\"#0f1b33\"/><line x1=\"395\" y1=\"337\" x2=\"395\" y2=\"177\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M395 170L400.5 181L389.5 181Z\" fill=\"#0f1b33\"/><line x1=\"266.6\" y1=\"237\" x2=\"361\" y2=\"173\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M366.8 169.1L360.8 179.8L354.6 170.7Z\" fill=\"#0f1b33\"/><line x1=\"213.4\" y1=\"237\" x2=\"119\" y2=\"173\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M113.2 169.1L125.4 170.7L119.2 179.8Z\" fill=\"#0f1b33\"/><line x1=\"240\" y1=\"237\" x2=\"240\" y2=\"65\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M240 58L245.5 69L234.5 69Z\" fill=\"#0f1b33\"/><line x1=\"370.1\" y1=\"132\" x2=\"272.2\" y2=\"61.3\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M266.5 57.2L278.7 59.2L272.2 68.1Z\" fill=\"#0f1b33\"/><rect x=\"170\" y=\"20\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"240\" y=\"44\" text-anchor=\"middle\">falcon</text><rect x=\"15\" y=\"132\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"85\" y=\"156\" text-anchor=\"middle\">fennec fox</text><rect x=\"325\" y=\"132\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"395\" y=\"156\" text-anchor=\"middle\">horned viper</text><rect x=\"170\" y=\"237\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"240\" y=\"261\" text-anchor=\"middle\">lizard</text><rect x=\"15\" y=\"337\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"85\" y=\"361\" text-anchor=\"middle\">locust</text><rect x=\"325\" y=\"337\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"395\" y=\"361\" text-anchor=\"middle\">jerboa</text><rect x=\"15\" y=\"437\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"85\" y=\"461\" text-anchor=\"middle\">desert grass</text><rect x=\"325\" y=\"437\" width=\"140\" height=\"36\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"395\" y=\"461\" text-anchor=\"middle\">acacia tree</text></svg>",
+       "q": "(f) Trucks bring a new species of rat to the oasis by accident. The rat breeds quickly and eats seeds and grass. Suggest **one** way the rat could make the number of jerboas fall.",
+       "m": 1,
+       "s": "Invasive species",
+       "ms": "1 mark for any one: the rat competes with the jerboas for the same food (seeds / grass / plants); it competes for space / burrows / shelter; it brings a new disease that the jerboas cannot fight. The answer must include a reason, not just 'jerboas die'.",
+       "e": "The rat eats the same food as the jerboa (seeds and grass). It breeds quickly, so it can eat most of the food and the jerboas cannot get enough. This **competition** makes the number of jerboas fall."
+      },
+      {
+       "p": "Question 7\nAthletes need a healthy diet and healthy blood and lungs.",
+       "q": "(a) Which row shows a good source of vitamin C and one of its functions?",
+       "c": [
+        "fish oil — helps the body take in calcium for strong bones",
+        "carrots — needed for good eyesight in dim light",
+        "red meat — needed to make haemoglobin in red blood cells",
+        "oranges and guava — keep the skin and gums healthy"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Diet",
+       "e": "Citrus fruits and guava are rich in **vitamin C**, which keeps skin and gums healthy and helps wounds heal. A describes vitamin D, B vitamin A and C the mineral iron. The answer is D."
+      },
+      {
+       "t": "text",
+       "p": "Question 7\nAthletes need a healthy diet and healthy blood and lungs.",
+       "q": "(b) The night before a long race, Karim eats a big plate of pasta. Pasta is rich in one nutrient that the body uses mainly as a source of energy. Name this nutrient.",
+       "ans": [
+        "carbohydrate",
+        "carbohydrates",
+        "starch",
+        "carbohydrate (starch)"
+       ],
+       "m": 1,
+       "s": "Diet",
+       "e": "Pasta is rich in **carbohydrate** (starch). Carbohydrates are broken down to glucose, which is used in respiration to release energy; extra can be stored for the race."
+      },
+      {
+       "t": "text",
+       "p": "Question 7\nAthletes need a healthy diet and healthy blood and lungs.",
+       "q": "(c) Name the part of the blood that carries glucose from the small intestine to the muscles.",
+       "ans": [
+        "plasma",
+        "blood plasma",
+        "the plasma"
+       ],
+       "m": 1,
+       "s": "Blood",
+       "e": "Dissolved nutrients such as glucose, and carbon dioxide, are carried in the **plasma**, the liquid part of the blood."
+      },
+      {
+       "t": "open",
+       "p": "Question 7\nAthletes need a healthy diet and healthy blood and lungs.",
+       "q": "(d) Explain why a person who smokes usually cannot run as far as a person who does not smoke.",
+       "m": 2,
+       "s": "Lifestyle and health",
+       "ms": "1 mark for any one cause: carbon monoxide (in smoke) is carried by red blood cells instead of oxygen / reduces the oxygen the blood carries; OR tar / smoke damages the alveoli, so less gas exchange; OR smoke damages the airways / makes mucus. 1 mark: so less oxygen reaches the muscles, so less (aerobic) respiration / less energy is released.",
+       "e": "Cigarette smoke contains **carbon monoxide**, which is carried by red blood cells in place of oxygen, and tar, which damages the alveoli so less gas exchange happens. Less oxygen reaches the muscles, so they release less energy by aerobic respiration and the smoker tires quickly."
+      },
+      {
+       "p": "Question 8\nThis question is about the Earth and space.",
+       "q": "(a) Which description of a galaxy is correct?",
+       "c": [
+        "a huge group of stars and planetary systems, with dust and gas, held together by gravity",
+        "one star with the planets that orbit it",
+        "a cloud of gas around one planet",
+        "all the moons in the Solar System"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Galaxies and asteroids",
+       "e": "A **galaxy** contains billions of stars, many with planetary systems, plus clouds of dust and gas, all held together by gravity. B describes a planetary system, such as our Solar System. The answer is A."
+      },
+      {
+       "p": "Question 8\nThis question is about the Earth and space.",
+       "q": "(b) Which statement about asteroids is correct?",
+       "c": [
+        "Asteroids are small stars that give out their own light.",
+        "Asteroids are rocks, smaller than planets, left over from when the planetary system formed.",
+        "Asteroids are clouds of gas between the planets.",
+        "Asteroids are bigger than planets and orbit the Moon."
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Galaxies and asteroids",
+       "e": "Asteroids are **rocks**, smaller than planets. They are pieces of rock **left over from the formation** of the Solar System that never joined together to make a planet. The answer is B."
+      },
+      {
+       "p": "Question 8\nThis question is about the Earth and space.",
+       "q": "(c) Which statement describes the **climate** of Aswan, not its weather?",
+       "c": [
+        "It rained for ten minutes in Aswan yesterday.",
+        "Tomorrow the temperature in Aswan will be 41 °C.",
+        "There is a strong wind in Aswan this morning.",
+        "Aswan has very hot, dry summers and almost no rain in most years."
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Climate and weather",
+       "e": "**Weather** is the conditions on one day or over a few days. **Climate** is the usual (average) pattern of weather in a place over many years. Only D describes the pattern over many years. The answer is D."
+      },
+      {
+       "t": "open",
+       "p": "Question 8\nThis question is about the Earth and space.",
+       "q": "(d) Scientists say that the Earth's climate has changed many times between ice ages and warm periods. Give **one** piece of evidence scientists use for this.",
+       "m": 1,
+       "s": "Climate change",
+       "ms": "1 mark for any one: ice cores (the air bubbles / layers trapped in ancient ice); fossils of plants or animals that lived in a different climate (e.g. tropical fossils in cold places); rocks and land shapes made by glaciers in places that are warm today; layers of sediment on the sea floor. Do not accept 'the weather changes every day'.",
+       "e": "For example, **ice cores**: deep ice in Antarctica contains tiny bubbles of air trapped hundreds of thousands of years ago, which show what the atmosphere and temperature were like. Fossils of animals or plants from a very different climate are also evidence."
+      },
+      {
+       "t": "text",
+       "p": "Question 8\nThis question is about the Earth and space.",
+       "q": "(e) Name **one** gas in the atmosphere whose increase is making the Earth's climate warmer.",
+       "ans": [
+        "carbon dioxide",
+        "CO2",
+        "CO_{2}",
+        "CO₂",
+        "methane",
+        "CH4",
+        "CH_{4}",
+        "CH₄",
+        "water vapour",
+        "nitrous oxide"
+       ],
+       "m": 1,
+       "s": "Climate change",
+       "e": "**Carbon dioxide** (or methane). These greenhouse gases trap heat in the atmosphere; more of them makes the Earth's average temperature rise."
+      }
+     ]
+    },
+    {
+     "name": "Paper 2",
+     "minutes": 45,
+     "questions": [
+      {
+       "t": "num",
+       "p": "Question 1\nAli and Nour sit on a seesaw in the park. The seesaw is balanced. Ali weighs 400 N and sits 1.5 m from the pivot. Nour weighs 300 N and sits a distance d from the pivot.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 235\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"18\" fill=\"#0f1b33\"><rect x=\"40.0\" y=\"114\" width=\"400\" height=\"12\" rx=\"3\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M240 126L214 182L266 182Z\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"20\" y1=\"182\" x2=\"460\" y2=\"182\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"240\" y=\"210\" text-anchor=\"middle\" font-size=\"16\">pivot</text><line x1=\"120\" y1=\"44\" x2=\"120\" y2=\"104\" stroke=\"#0f1b33\" stroke-width=\"3\"/><path d=\"M120 113L114 101L126 101Z\" fill=\"#0f1b33\"/><text x=\"120\" y=\"34\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"bold\">Ali 400 N</text><line x1=\"400\" y1=\"44\" x2=\"400\" y2=\"104\" stroke=\"#0f1b33\" stroke-width=\"3\"/><path d=\"M400 113L394 101L406 101Z\" fill=\"#0f1b33\"/><text x=\"400\" y=\"34\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"bold\">Nour 300 N</text><line x1=\"120\" y1=\"150\" x2=\"228\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M120 150L128 146L128 154Z\" fill=\"#0f1b33\"/><path d=\"M228 150L220 154L220 146Z\" fill=\"#0f1b33\"/><text x=\"174\" y=\"172\" text-anchor=\"middle\" font-size=\"17\">1.5 m</text><line x1=\"252\" y1=\"150\" x2=\"400\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M252 150L260 146L260 154Z\" fill=\"#0f1b33\"/><path d=\"M400 150L392 154L392 146Z\" fill=\"#0f1b33\"/><text x=\"326\" y=\"172\" text-anchor=\"middle\" font-size=\"17\">d</text><line x1=\"120\" y1=\"128\" x2=\"120\" y2=\"156\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-dasharray=\"3 3\"/><line x1=\"400\" y1=\"128\" x2=\"400\" y2=\"156\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-dasharray=\"3 3\"/></svg>",
+       "q": "(a) Calculate the moment of Ali's weight about the pivot. Show your working.",
+       "ans": [
+        600
+       ],
+       "tol": 0,
+       "unit": "N m",
+       "m": 2,
+       "s": "Moments",
+       "e": "moment = force × distance = 400 × 1.5 = **600 N m**. (M1 for 400 × 1.5 seen; A1 for 600 N m.)"
+      },
+      {
+       "t": "num",
+       "p": "Question 1\nAli and Nour sit on a seesaw in the park. The seesaw is balanced. Ali weighs 400 N and sits 1.5 m from the pivot. Nour weighs 300 N and sits a distance d from the pivot.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 235\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"18\" fill=\"#0f1b33\"><rect x=\"40.0\" y=\"114\" width=\"400\" height=\"12\" rx=\"3\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M240 126L214 182L266 182Z\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"20\" y1=\"182\" x2=\"460\" y2=\"182\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"240\" y=\"210\" text-anchor=\"middle\" font-size=\"16\">pivot</text><line x1=\"120\" y1=\"44\" x2=\"120\" y2=\"104\" stroke=\"#0f1b33\" stroke-width=\"3\"/><path d=\"M120 113L114 101L126 101Z\" fill=\"#0f1b33\"/><text x=\"120\" y=\"34\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"bold\">Ali 400 N</text><line x1=\"400\" y1=\"44\" x2=\"400\" y2=\"104\" stroke=\"#0f1b33\" stroke-width=\"3\"/><path d=\"M400 113L394 101L406 101Z\" fill=\"#0f1b33\"/><text x=\"400\" y=\"34\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"bold\">Nour 300 N</text><line x1=\"120\" y1=\"150\" x2=\"228\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M120 150L128 146L128 154Z\" fill=\"#0f1b33\"/><path d=\"M228 150L220 154L220 146Z\" fill=\"#0f1b33\"/><text x=\"174\" y=\"172\" text-anchor=\"middle\" font-size=\"17\">1.5 m</text><line x1=\"252\" y1=\"150\" x2=\"400\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M252 150L260 146L260 154Z\" fill=\"#0f1b33\"/><path d=\"M400 150L392 154L392 146Z\" fill=\"#0f1b33\"/><text x=\"326\" y=\"172\" text-anchor=\"middle\" font-size=\"17\">d</text><line x1=\"120\" y1=\"128\" x2=\"120\" y2=\"156\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-dasharray=\"3 3\"/><line x1=\"400\" y1=\"128\" x2=\"400\" y2=\"156\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-dasharray=\"3 3\"/></svg>",
+       "q": "(b) The seesaw is balanced. Calculate the distance d. Show your working.",
+       "ans": [
+        2,
+        2.0
+       ],
+       "tol": 0,
+       "unit": "m",
+       "m": 2,
+       "s": "Moments",
+       "e": "Balanced, so clockwise moment = anticlockwise moment: 300 × d = 600, d = 600 ÷ 300 = **2.0 m**. (M1 for 600 ÷ 300 or 300 × d = 600; A1 for 2 m. ecf from (a).)"
+      },
+      {
+       "p": "Question 1\nAli and Nour sit on a seesaw in the park. The seesaw is balanced. Ali weighs 400 N and sits 1.5 m from the pivot. Nour weighs 300 N and sits a distance d from the pivot.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 235\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"18\" fill=\"#0f1b33\"><rect x=\"40.0\" y=\"114\" width=\"400\" height=\"12\" rx=\"3\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M240 126L214 182L266 182Z\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"20\" y1=\"182\" x2=\"460\" y2=\"182\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"240\" y=\"210\" text-anchor=\"middle\" font-size=\"16\">pivot</text><line x1=\"120\" y1=\"44\" x2=\"120\" y2=\"104\" stroke=\"#0f1b33\" stroke-width=\"3\"/><path d=\"M120 113L114 101L126 101Z\" fill=\"#0f1b33\"/><text x=\"120\" y=\"34\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"bold\">Ali 400 N</text><line x1=\"400\" y1=\"44\" x2=\"400\" y2=\"104\" stroke=\"#0f1b33\" stroke-width=\"3\"/><path d=\"M400 113L394 101L406 101Z\" fill=\"#0f1b33\"/><text x=\"400\" y=\"34\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"bold\">Nour 300 N</text><line x1=\"120\" y1=\"150\" x2=\"228\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M120 150L128 146L128 154Z\" fill=\"#0f1b33\"/><path d=\"M228 150L220 154L220 146Z\" fill=\"#0f1b33\"/><text x=\"174\" y=\"172\" text-anchor=\"middle\" font-size=\"17\">1.5 m</text><line x1=\"252\" y1=\"150\" x2=\"400\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M252 150L260 146L260 154Z\" fill=\"#0f1b33\"/><path d=\"M400 150L392 154L392 146Z\" fill=\"#0f1b33\"/><text x=\"326\" y=\"172\" text-anchor=\"middle\" font-size=\"17\">d</text><line x1=\"120\" y1=\"128\" x2=\"120\" y2=\"156\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-dasharray=\"3 3\"/><line x1=\"400\" y1=\"128\" x2=\"400\" y2=\"156\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-dasharray=\"3 3\"/></svg>",
+       "q": "(c) Nour moves and sits 1.5 m from the pivot instead. What happens?",
+       "c": [
+        "Ali's end goes down, because Ali's moment is now bigger than Nour's.",
+        "Nour's end goes down, because Nour's moment is now bigger than Ali's.",
+        "The seesaw stays balanced, because they are both 1.5 m from the pivot.",
+        "The seesaw stays balanced, because the pivot is in the middle."
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Moments",
+       "e": "Nour's moment is now 300 × 1.5 = 450 N m, which is less than Ali's 600 N m. The moments are unbalanced, so the seesaw turns and **Ali's end goes down**. The answer is A."
+      },
+      {
+       "t": "num",
+       "p": "Question 1\nAli and Nour sit on a seesaw in the park. The seesaw is balanced. Ali weighs 400 N and sits 1.5 m from the pivot. Nour weighs 300 N and sits a distance d from the pivot.",
+       "q": "(d) At home, Ali pushes on a door handle with a force of 15 N. The handle is 0.80 m from the hinges. Calculate the moment of Ali's push about the hinges.",
+       "ans": [
+        12
+       ],
+       "tol": 0,
+       "unit": "N m",
+       "m": 1,
+       "s": "Moments",
+       "e": "moment = 15 × 0.80 = **12 N m**."
+      },
+      {
+       "t": "open",
+       "p": "Question 1\nAli and Nour sit on a seesaw in the park. The seesaw is balanced. Ali weighs 400 N and sits 1.5 m from the pivot. Nour weighs 300 N and sits a distance d from the pivot.",
+       "q": "(e) Explain why door handles are fixed on the side of the door furthest from the hinges.",
+       "m": 2,
+       "s": "Moments",
+       "ms": "1 mark: the distance from the pivot (hinges) is larger. 1 mark: so the same force gives a bigger moment (turning effect) / a smaller force is needed to open the door (moment = force × distance). Do not accept 'it is easier' with no reason.",
+       "e": "The hinges are the pivot. moment = force × distance, so the larger the distance from the hinges, the **bigger the moment** for the same force. With the handle far from the hinges, only a small force is needed to open the door."
+      },
+      {
+       "t": "num",
+       "p": "Question 2\nKarim runs in an 800 m race on sports day. The distance–time graph shows his race. He stops at B to tie his shoelace, then runs again from C.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 370\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\" fill=\"#0f1b33\"><line x1=\"72.0\" y1=\"300.0\" x2=\"72.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"92.0\" y1=\"300.0\" x2=\"92.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"112.0\" y1=\"300.0\" x2=\"112.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"132.0\" y1=\"300.0\" x2=\"132.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"152.0\" y1=\"300.0\" x2=\"152.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"172.0\" y1=\"300.0\" x2=\"172.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"192.0\" y1=\"300.0\" x2=\"192.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"212.0\" y1=\"300.0\" x2=\"212.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"232.0\" y1=\"300.0\" x2=\"232.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"252.0\" y1=\"300.0\" x2=\"252.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"272.0\" y1=\"300.0\" x2=\"272.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"292.0\" y1=\"300.0\" x2=\"292.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"312.0\" y1=\"300.0\" x2=\"312.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"332.0\" y1=\"300.0\" x2=\"332.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"352.0\" y1=\"300.0\" x2=\"352.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"372.0\" y1=\"300.0\" x2=\"372.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"392.0\" y1=\"300.0\" x2=\"392.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"412.0\" y1=\"300.0\" x2=\"412.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"432.0\" y1=\"300.0\" x2=\"432.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"300\" x2=\"432.0\" y2=\"300\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"285\" x2=\"432.0\" y2=\"285\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"270\" x2=\"432.0\" y2=\"270\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"255\" x2=\"432.0\" y2=\"255\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"240\" x2=\"432.0\" y2=\"240\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"225\" x2=\"432.0\" y2=\"225\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"210\" x2=\"432.0\" y2=\"210\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"195\" x2=\"432.0\" y2=\"195\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"180\" x2=\"432.0\" y2=\"180\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"165\" x2=\"432.0\" y2=\"165\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"150\" x2=\"432.0\" y2=\"150\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"135\" x2=\"432.0\" y2=\"135\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"120\" x2=\"432.0\" y2=\"120\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"105\" x2=\"432.0\" y2=\"105\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"90\" x2=\"432.0\" y2=\"90\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"75\" x2=\"432.0\" y2=\"75\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"60\" x2=\"432.0\" y2=\"60\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72\" y1=\"300\" x2=\"438\" y2=\"300\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"72\" y1=\"300\" x2=\"72\" y2=\"54\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"72.0\" y=\"320.0\" text-anchor=\"middle\">0</text><text x=\"112.0\" y=\"320.0\" text-anchor=\"middle\">20</text><text x=\"152.0\" y=\"320.0\" text-anchor=\"middle\">40</text><text x=\"192.0\" y=\"320.0\" text-anchor=\"middle\">60</text><text x=\"232.0\" y=\"320.0\" text-anchor=\"middle\">80</text><text x=\"272.0\" y=\"320.0\" text-anchor=\"middle\">100</text><text x=\"312.0\" y=\"320.0\" text-anchor=\"middle\">120</text><text x=\"352.0\" y=\"320.0\" text-anchor=\"middle\">140</text><text x=\"392.0\" y=\"320.0\" text-anchor=\"middle\">160</text><text x=\"432.0\" y=\"320.0\" text-anchor=\"middle\">180</text><text x=\"64.0\" y=\"305\" text-anchor=\"end\">0</text><text x=\"64.0\" y=\"275\" text-anchor=\"end\">100</text><text x=\"64.0\" y=\"245\" text-anchor=\"end\">200</text><text x=\"64.0\" y=\"215\" text-anchor=\"end\">300</text><text x=\"64.0\" y=\"185\" text-anchor=\"end\">400</text><text x=\"64.0\" y=\"155\" text-anchor=\"end\">500</text><text x=\"64.0\" y=\"125\" text-anchor=\"end\">600</text><text x=\"64.0\" y=\"95\" text-anchor=\"end\">700</text><text x=\"64.0\" y=\"65\" text-anchor=\"end\">800</text><text x=\"252.0\" y=\"346.0\" text-anchor=\"middle\">Time in s</text><text x=\"18\" y=\"180\" text-anchor=\"middle\" transform=\"rotate(-90 18 180)\">Distance in m</text><polyline points=\"72,300 172,210 232,210 432,60\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"3\"/><circle cx=\"72\" cy=\"300\" r=\"4.5\" fill=\"#0f1b33\"/><circle cx=\"172\" cy=\"210\" r=\"4.5\" fill=\"#0f1b33\"/><circle cx=\"232\" cy=\"210\" r=\"4.5\" fill=\"#0f1b33\"/><circle cx=\"432\" cy=\"60\" r=\"4.5\" fill=\"#0f1b33\"/><text x=\"104\" y=\"295\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\">A</text><text x=\"168\" y=\"200\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" stroke=\"#fff\" stroke-width=\"5\" paint-order=\"stroke\">B</text><text x=\"234\" y=\"200\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" stroke=\"#fff\" stroke-width=\"5\" paint-order=\"stroke\">C</text><text x=\"416\" y=\"64\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" stroke=\"#fff\" stroke-width=\"5\" paint-order=\"stroke\">D</text></svg>",
+       "q": "(a) For how many seconds does Karim stop?",
+       "ans": [
+        30
+       ],
+       "tol": 0,
+       "unit": "s",
+       "m": 1,
+       "s": "Distance–time graphs",
+       "e": "The flat part BC goes from 50 s to 80 s: 80 − 50 = **30 s**. A flat (horizontal) line means the distance is not changing, so he is not moving."
+      },
+      {
+       "t": "num",
+       "p": "Question 2\nKarim runs in an 800 m race on sports day. The distance–time graph shows his race. He stops at B to tie his shoelace, then runs again from C.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 370\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\" fill=\"#0f1b33\"><line x1=\"72.0\" y1=\"300.0\" x2=\"72.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"92.0\" y1=\"300.0\" x2=\"92.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"112.0\" y1=\"300.0\" x2=\"112.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"132.0\" y1=\"300.0\" x2=\"132.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"152.0\" y1=\"300.0\" x2=\"152.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"172.0\" y1=\"300.0\" x2=\"172.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"192.0\" y1=\"300.0\" x2=\"192.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"212.0\" y1=\"300.0\" x2=\"212.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"232.0\" y1=\"300.0\" x2=\"232.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"252.0\" y1=\"300.0\" x2=\"252.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"272.0\" y1=\"300.0\" x2=\"272.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"292.0\" y1=\"300.0\" x2=\"292.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"312.0\" y1=\"300.0\" x2=\"312.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"332.0\" y1=\"300.0\" x2=\"332.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"352.0\" y1=\"300.0\" x2=\"352.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"372.0\" y1=\"300.0\" x2=\"372.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"392.0\" y1=\"300.0\" x2=\"392.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"412.0\" y1=\"300.0\" x2=\"412.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"432.0\" y1=\"300.0\" x2=\"432.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"300\" x2=\"432.0\" y2=\"300\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"285\" x2=\"432.0\" y2=\"285\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"270\" x2=\"432.0\" y2=\"270\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"255\" x2=\"432.0\" y2=\"255\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"240\" x2=\"432.0\" y2=\"240\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"225\" x2=\"432.0\" y2=\"225\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"210\" x2=\"432.0\" y2=\"210\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"195\" x2=\"432.0\" y2=\"195\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"180\" x2=\"432.0\" y2=\"180\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"165\" x2=\"432.0\" y2=\"165\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"150\" x2=\"432.0\" y2=\"150\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"135\" x2=\"432.0\" y2=\"135\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"120\" x2=\"432.0\" y2=\"120\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"105\" x2=\"432.0\" y2=\"105\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"90\" x2=\"432.0\" y2=\"90\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"75\" x2=\"432.0\" y2=\"75\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"60\" x2=\"432.0\" y2=\"60\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72\" y1=\"300\" x2=\"438\" y2=\"300\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"72\" y1=\"300\" x2=\"72\" y2=\"54\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"72.0\" y=\"320.0\" text-anchor=\"middle\">0</text><text x=\"112.0\" y=\"320.0\" text-anchor=\"middle\">20</text><text x=\"152.0\" y=\"320.0\" text-anchor=\"middle\">40</text><text x=\"192.0\" y=\"320.0\" text-anchor=\"middle\">60</text><text x=\"232.0\" y=\"320.0\" text-anchor=\"middle\">80</text><text x=\"272.0\" y=\"320.0\" text-anchor=\"middle\">100</text><text x=\"312.0\" y=\"320.0\" text-anchor=\"middle\">120</text><text x=\"352.0\" y=\"320.0\" text-anchor=\"middle\">140</text><text x=\"392.0\" y=\"320.0\" text-anchor=\"middle\">160</text><text x=\"432.0\" y=\"320.0\" text-anchor=\"middle\">180</text><text x=\"64.0\" y=\"305\" text-anchor=\"end\">0</text><text x=\"64.0\" y=\"275\" text-anchor=\"end\">100</text><text x=\"64.0\" y=\"245\" text-anchor=\"end\">200</text><text x=\"64.0\" y=\"215\" text-anchor=\"end\">300</text><text x=\"64.0\" y=\"185\" text-anchor=\"end\">400</text><text x=\"64.0\" y=\"155\" text-anchor=\"end\">500</text><text x=\"64.0\" y=\"125\" text-anchor=\"end\">600</text><text x=\"64.0\" y=\"95\" text-anchor=\"end\">700</text><text x=\"64.0\" y=\"65\" text-anchor=\"end\">800</text><text x=\"252.0\" y=\"346.0\" text-anchor=\"middle\">Time in s</text><text x=\"18\" y=\"180\" text-anchor=\"middle\" transform=\"rotate(-90 18 180)\">Distance in m</text><polyline points=\"72,300 172,210 232,210 432,60\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"3\"/><circle cx=\"72\" cy=\"300\" r=\"4.5\" fill=\"#0f1b33\"/><circle cx=\"172\" cy=\"210\" r=\"4.5\" fill=\"#0f1b33\"/><circle cx=\"232\" cy=\"210\" r=\"4.5\" fill=\"#0f1b33\"/><circle cx=\"432\" cy=\"60\" r=\"4.5\" fill=\"#0f1b33\"/><text x=\"104\" y=\"295\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\">A</text><text x=\"168\" y=\"200\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" stroke=\"#fff\" stroke-width=\"5\" paint-order=\"stroke\">B</text><text x=\"234\" y=\"200\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" stroke=\"#fff\" stroke-width=\"5\" paint-order=\"stroke\">C</text><text x=\"416\" y=\"64\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" stroke=\"#fff\" stroke-width=\"5\" paint-order=\"stroke\">D</text></svg>",
+       "q": "(b) Calculate Karim's speed between C and D. Show your working.",
+       "ans": [
+        5
+       ],
+       "tol": 0,
+       "unit": "m/s",
+       "m": 2,
+       "s": "Speed",
+       "e": "Distance from C to D = 800 − 300 = 500 m. Time = 180 − 80 = 100 s. speed = distance ÷ time = 500 ÷ 100 = **5 m/s**. (M1 for 500 and 100 read correctly or 500 ÷ 100; A1 for 5.)"
+      },
+      {
+       "t": "num",
+       "p": "Question 2\nKarim runs in an 800 m race on sports day. The distance–time graph shows his race. He stops at B to tie his shoelace, then runs again from C.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 370\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\" fill=\"#0f1b33\"><line x1=\"72.0\" y1=\"300.0\" x2=\"72.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"92.0\" y1=\"300.0\" x2=\"92.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"112.0\" y1=\"300.0\" x2=\"112.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"132.0\" y1=\"300.0\" x2=\"132.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"152.0\" y1=\"300.0\" x2=\"152.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"172.0\" y1=\"300.0\" x2=\"172.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"192.0\" y1=\"300.0\" x2=\"192.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"212.0\" y1=\"300.0\" x2=\"212.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"232.0\" y1=\"300.0\" x2=\"232.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"252.0\" y1=\"300.0\" x2=\"252.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"272.0\" y1=\"300.0\" x2=\"272.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"292.0\" y1=\"300.0\" x2=\"292.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"312.0\" y1=\"300.0\" x2=\"312.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"332.0\" y1=\"300.0\" x2=\"332.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"352.0\" y1=\"300.0\" x2=\"352.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"372.0\" y1=\"300.0\" x2=\"372.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"392.0\" y1=\"300.0\" x2=\"392.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"412.0\" y1=\"300.0\" x2=\"412.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"432.0\" y1=\"300.0\" x2=\"432.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"300\" x2=\"432.0\" y2=\"300\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"285\" x2=\"432.0\" y2=\"285\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"270\" x2=\"432.0\" y2=\"270\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"255\" x2=\"432.0\" y2=\"255\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"240\" x2=\"432.0\" y2=\"240\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"225\" x2=\"432.0\" y2=\"225\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"210\" x2=\"432.0\" y2=\"210\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"195\" x2=\"432.0\" y2=\"195\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"180\" x2=\"432.0\" y2=\"180\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"165\" x2=\"432.0\" y2=\"165\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"150\" x2=\"432.0\" y2=\"150\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"135\" x2=\"432.0\" y2=\"135\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"120\" x2=\"432.0\" y2=\"120\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"105\" x2=\"432.0\" y2=\"105\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"90\" x2=\"432.0\" y2=\"90\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"75\" x2=\"432.0\" y2=\"75\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"60\" x2=\"432.0\" y2=\"60\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72\" y1=\"300\" x2=\"438\" y2=\"300\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"72\" y1=\"300\" x2=\"72\" y2=\"54\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"72.0\" y=\"320.0\" text-anchor=\"middle\">0</text><text x=\"112.0\" y=\"320.0\" text-anchor=\"middle\">20</text><text x=\"152.0\" y=\"320.0\" text-anchor=\"middle\">40</text><text x=\"192.0\" y=\"320.0\" text-anchor=\"middle\">60</text><text x=\"232.0\" y=\"320.0\" text-anchor=\"middle\">80</text><text x=\"272.0\" y=\"320.0\" text-anchor=\"middle\">100</text><text x=\"312.0\" y=\"320.0\" text-anchor=\"middle\">120</text><text x=\"352.0\" y=\"320.0\" text-anchor=\"middle\">140</text><text x=\"392.0\" y=\"320.0\" text-anchor=\"middle\">160</text><text x=\"432.0\" y=\"320.0\" text-anchor=\"middle\">180</text><text x=\"64.0\" y=\"305\" text-anchor=\"end\">0</text><text x=\"64.0\" y=\"275\" text-anchor=\"end\">100</text><text x=\"64.0\" y=\"245\" text-anchor=\"end\">200</text><text x=\"64.0\" y=\"215\" text-anchor=\"end\">300</text><text x=\"64.0\" y=\"185\" text-anchor=\"end\">400</text><text x=\"64.0\" y=\"155\" text-anchor=\"end\">500</text><text x=\"64.0\" y=\"125\" text-anchor=\"end\">600</text><text x=\"64.0\" y=\"95\" text-anchor=\"end\">700</text><text x=\"64.0\" y=\"65\" text-anchor=\"end\">800</text><text x=\"252.0\" y=\"346.0\" text-anchor=\"middle\">Time in s</text><text x=\"18\" y=\"180\" text-anchor=\"middle\" transform=\"rotate(-90 18 180)\">Distance in m</text><polyline points=\"72,300 172,210 232,210 432,60\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"3\"/><circle cx=\"72\" cy=\"300\" r=\"4.5\" fill=\"#0f1b33\"/><circle cx=\"172\" cy=\"210\" r=\"4.5\" fill=\"#0f1b33\"/><circle cx=\"232\" cy=\"210\" r=\"4.5\" fill=\"#0f1b33\"/><circle cx=\"432\" cy=\"60\" r=\"4.5\" fill=\"#0f1b33\"/><text x=\"104\" y=\"295\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\">A</text><text x=\"168\" y=\"200\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" stroke=\"#fff\" stroke-width=\"5\" paint-order=\"stroke\">B</text><text x=\"234\" y=\"200\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" stroke=\"#fff\" stroke-width=\"5\" paint-order=\"stroke\">C</text><text x=\"416\" y=\"64\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" stroke=\"#fff\" stroke-width=\"5\" paint-order=\"stroke\">D</text></svg>",
+       "q": "(c) Calculate Karim's average speed for the whole race. Give your answer to 1 decimal place.",
+       "ans": [
+        4.4
+       ],
+       "tol": 0.05,
+       "unit": "m/s",
+       "m": 2,
+       "s": "Speed",
+       "e": "average speed = total distance ÷ total time = 800 ÷ 180 = 4.444… = **4.4 m/s** (1 d.p.). The 30 s stop counts in the total time. (M1 for 800 ÷ 180; A1 for 4.4.)"
+      },
+      {
+       "p": "Question 2\nKarim runs in an 800 m race on sports day. The distance–time graph shows his race. He stops at B to tie his shoelace, then runs again from C.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 370\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\" fill=\"#0f1b33\"><line x1=\"72.0\" y1=\"300.0\" x2=\"72.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"92.0\" y1=\"300.0\" x2=\"92.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"112.0\" y1=\"300.0\" x2=\"112.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"132.0\" y1=\"300.0\" x2=\"132.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"152.0\" y1=\"300.0\" x2=\"152.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"172.0\" y1=\"300.0\" x2=\"172.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"192.0\" y1=\"300.0\" x2=\"192.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"212.0\" y1=\"300.0\" x2=\"212.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"232.0\" y1=\"300.0\" x2=\"232.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"252.0\" y1=\"300.0\" x2=\"252.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"272.0\" y1=\"300.0\" x2=\"272.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"292.0\" y1=\"300.0\" x2=\"292.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"312.0\" y1=\"300.0\" x2=\"312.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"332.0\" y1=\"300.0\" x2=\"332.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"352.0\" y1=\"300.0\" x2=\"352.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"372.0\" y1=\"300.0\" x2=\"372.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"392.0\" y1=\"300.0\" x2=\"392.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"412.0\" y1=\"300.0\" x2=\"412.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"432.0\" y1=\"300.0\" x2=\"432.0\" y2=\"60.0\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"300\" x2=\"432.0\" y2=\"300\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"285\" x2=\"432.0\" y2=\"285\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"270\" x2=\"432.0\" y2=\"270\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"255\" x2=\"432.0\" y2=\"255\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"240\" x2=\"432.0\" y2=\"240\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"225\" x2=\"432.0\" y2=\"225\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"210\" x2=\"432.0\" y2=\"210\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"195\" x2=\"432.0\" y2=\"195\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"180\" x2=\"432.0\" y2=\"180\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"165\" x2=\"432.0\" y2=\"165\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"150\" x2=\"432.0\" y2=\"150\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"135\" x2=\"432.0\" y2=\"135\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"120\" x2=\"432.0\" y2=\"120\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"105\" x2=\"432.0\" y2=\"105\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"90\" x2=\"432.0\" y2=\"90\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"75\" x2=\"432.0\" y2=\"75\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"60\" x2=\"432.0\" y2=\"60\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72\" y1=\"300\" x2=\"438\" y2=\"300\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"72\" y1=\"300\" x2=\"72\" y2=\"54\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"72.0\" y=\"320.0\" text-anchor=\"middle\">0</text><text x=\"112.0\" y=\"320.0\" text-anchor=\"middle\">20</text><text x=\"152.0\" y=\"320.0\" text-anchor=\"middle\">40</text><text x=\"192.0\" y=\"320.0\" text-anchor=\"middle\">60</text><text x=\"232.0\" y=\"320.0\" text-anchor=\"middle\">80</text><text x=\"272.0\" y=\"320.0\" text-anchor=\"middle\">100</text><text x=\"312.0\" y=\"320.0\" text-anchor=\"middle\">120</text><text x=\"352.0\" y=\"320.0\" text-anchor=\"middle\">140</text><text x=\"392.0\" y=\"320.0\" text-anchor=\"middle\">160</text><text x=\"432.0\" y=\"320.0\" text-anchor=\"middle\">180</text><text x=\"64.0\" y=\"305\" text-anchor=\"end\">0</text><text x=\"64.0\" y=\"275\" text-anchor=\"end\">100</text><text x=\"64.0\" y=\"245\" text-anchor=\"end\">200</text><text x=\"64.0\" y=\"215\" text-anchor=\"end\">300</text><text x=\"64.0\" y=\"185\" text-anchor=\"end\">400</text><text x=\"64.0\" y=\"155\" text-anchor=\"end\">500</text><text x=\"64.0\" y=\"125\" text-anchor=\"end\">600</text><text x=\"64.0\" y=\"95\" text-anchor=\"end\">700</text><text x=\"64.0\" y=\"65\" text-anchor=\"end\">800</text><text x=\"252.0\" y=\"346.0\" text-anchor=\"middle\">Time in s</text><text x=\"18\" y=\"180\" text-anchor=\"middle\" transform=\"rotate(-90 18 180)\">Distance in m</text><polyline points=\"72,300 172,210 232,210 432,60\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"3\"/><circle cx=\"72\" cy=\"300\" r=\"4.5\" fill=\"#0f1b33\"/><circle cx=\"172\" cy=\"210\" r=\"4.5\" fill=\"#0f1b33\"/><circle cx=\"232\" cy=\"210\" r=\"4.5\" fill=\"#0f1b33\"/><circle cx=\"432\" cy=\"60\" r=\"4.5\" fill=\"#0f1b33\"/><text x=\"104\" y=\"295\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\">A</text><text x=\"168\" y=\"200\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" stroke=\"#fff\" stroke-width=\"5\" paint-order=\"stroke\">B</text><text x=\"234\" y=\"200\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" stroke=\"#fff\" stroke-width=\"5\" paint-order=\"stroke\">C</text><text x=\"416\" y=\"64\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" stroke=\"#fff\" stroke-width=\"5\" paint-order=\"stroke\">D</text></svg>",
+       "q": "(d) Between C and D Karim runs at a steady speed. Which statement about the forces on Karim is correct?",
+       "c": [
+        "The forward force is bigger than the backward forces, so he speeds up.",
+        "There are no forces acting on him.",
+        "The forward force and the backward forces are balanced, so his speed does not change.",
+        "The backward forces are bigger than the forward force, so he slows down."
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Forces",
+       "e": "CD is a straight sloping line, so the speed is constant. A constant speed means the forces are **balanced**: the forward force equals the air resistance and friction. The answer is C."
+      },
+      {
+       "t": "num",
+       "p": "Question 3\nThis question is about pressure and particles on sports day.",
+       "q": "(a) A shot-put athlete weighs 720 N. The total area of the soles of both her shoes touching the ground is 0.045 m². Calculate the pressure she puts on the ground. Show your working.",
+       "ans": [
+        16000
+       ],
+       "tol": 0,
+       "unit": "Pa",
+       "m": 2,
+       "s": "Pressure",
+       "e": "pressure = force ÷ area = 720 ÷ 0.045 = **16 000 Pa** (N/m²). (M1 for 720 ÷ 0.045; A1 for 16 000.)"
+      },
+      {
+       "p": "Question 3\nThis question is about pressure and particles on sports day.",
+       "q": "(b) Sprinters wear shoes with small metal spikes underneath. Why do the spikes help them to grip the track?",
+       "c": [
+        "The spikes increase the area touching the track, so the pressure is smaller.",
+        "The spikes have a small area, so the pressure is large and they press into the track.",
+        "The spikes make the runner's weight smaller.",
+        "The spikes have a large area, so the pressure is large."
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Pressure",
+       "e": "The runner's weight acts on the tiny area of the spike tips. A small area gives a **large pressure**, so the spikes press into the track and grip it. The answer is B."
+      },
+      {
+       "t": "open",
+       "p": "Question 3\nThis question is about pressure and particles on sports day.",
+       "q": "(c) A teacher pumps more air into a football. Use ideas about particles to explain why the pressure inside the ball increases.",
+       "m": 2,
+       "s": "Pressure in gases",
+       "ms": "1 mark: there are more (air) particles inside the ball. 1 mark: so there are more collisions (of particles) with the inside wall of the ball each second / more force on the wall. Do not accept 'the particles get bigger' or 'the particles expand'.",
+       "e": "Gas pressure is caused by particles hitting the walls of the container. Pumping adds **more particles** to the same space, so there are **more collisions** with the inside of the ball every second, which push harder on it: the pressure goes up."
+      },
+      {
+       "t": "open",
+       "p": "Question 3\nThis question is about pressure and particles on sports day.",
+       "q": "(d) Spectators at the far end of the field can smell the food being grilled. Use ideas about particles to explain how the smell reaches them.",
+       "m": 2,
+       "s": "Diffusion",
+       "ms": "1 mark: the particles (of the smell / gas) move randomly / constantly / in all directions. 1 mark: they spread out from where there are many (high concentration) to where there are few (low concentration) / they mix (intermingle) with the air particles. Accept 'diffusion' as part of the second mark only with the idea of spreading or mixing.",
+       "e": "This is **diffusion**. Particles of the smelly gas are always moving randomly. They collide with and mix with the air particles and spread out from where they are concentrated (near the grill) to where there are few of them, until some reach the spectators' noses."
+      },
+      {
+       "t": "text",
+       "p": "Question 4\nA scrapyard uses a crane with a large electromagnet to lift old cars.\nSami makes a model of the crane. He winds 20 turns of insulated wire round an iron nail. He changes the current and counts how many small steel nails the electromagnet lifts.\nCurrent in A | 0.2 | 0.4 | 0.6 | 0.8 | 1.0\nNumber of steel nails lifted | 3 | 6 | 9 | 5 | 15\nParts (e) to (j) are about Sami's investigation.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 330\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"20\" fill=\"#0f1b33\"><path d=\"M180 160 L188 153 L196 146 L204 140 L213 134 L223 130 L233 128 L244 127 L254 129 L264 132 L273 137 L282 143 L290 150 L298 157 L301 160\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"1.6\"/><path d=\"M240.6 127L230.6 132.1L230.6 122.1Z\" fill=\"#1d5fbf\"/><path d=\"M180 170 L188 177 L196 184 L204 190 L213 196 L223 200 L233 202 L244 203 L254 201 L264 198 L273 193 L282 187 L290 180 L298 173 L301 170\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"1.6\"/><path d=\"M240.6 203L230.6 207.9L230.6 197.9Z\" fill=\"#1d5fbf\"/><path d=\"M177 158 L182 148 L186 139 L192 130 L198 121 L205 113 L213 106 L222 101 L232 98 L242 97 L252 98 L262 102 L271 108 L279 115 L285 123 L291 132 L296 141 L300 151 L303 158\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"1.6\"/><path d=\"M240.4 96.8L230.5 101.9L230.4 91.9Z\" fill=\"#1d5fbf\"/><path d=\"M177 172 L182 182 L186 191 L192 200 L198 209 L205 217 L213 224 L222 229 L232 232 L242 233 L252 232 L262 228 L271 222 L279 215 L285 207 L291 198 L296 189 L300 179 L303 172\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"1.6\"/><path d=\"M240.4 233.2L230.4 238.1L230.5 228.1Z\" fill=\"#1d5fbf\"/><path d=\"M174 157 L173 147 L174 136 L174 126 L175 115 L177 105 L180 95 L184 85 L188 75 L194 67 L201 59 L210 52 L219 47 L229 44 L239 43 L249 43 L260 46 L269 51 L278 57 L285 64 L291 73 L296 82 L300 92 L303 102 L305 112 L307 122 L307 133 L307 143 L307 154 L306 158\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"1.6\"/><path d=\"M240.5 42.6L230.6 47.7L230.5 37.7Z\" fill=\"#1d5fbf\"/><path d=\"M174 173 L173 183 L174 194 L174 204 L175 215 L177 225 L180 235 L184 245 L188 255 L194 263 L201 271 L210 278 L219 283 L229 286 L239 287 L249 287 L260 284 L269 279 L278 273 L285 266 L291 257 L296 248 L300 238 L303 228 L305 218 L307 208 L307 197 L307 187 L307 176 L306 172\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"1.6\"/><path d=\"M240.5 287.4L230.5 292.3L230.6 282.3Z\" fill=\"#1d5fbf\"/><path d=\"M169 158 L163 150 L158 141 L152 132 L147 123 L142 114 L137 104 L133 95 L129 85 L126 75 L123 65 L120 55 L118 45 L117 34 L115 24 L115 13 L115 4\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"1.6\"/><path d=\"M125.7 75.1L133.5 83.1L124 86.2Z\" fill=\"#1d5fbf\"/><path d=\"M169 172 L163 180 L158 189 L152 198 L147 207 L142 216 L137 226 L133 235 L129 245 L126 255 L123 265 L120 275 L118 285 L117 296 L115 306 L115 317 L115 326\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"1.6\"/><path d=\"M125.7 254.9L124 243.8L133.5 246.9Z\" fill=\"#1d5fbf\"/><path d=\"M166 162 L157 159 L147 155 L137 151 L127 147 L118 143 L108 139 L98 135 L89 131 L79 126 L70 122 L60 117 L51 113 L41 108 L32 103 L23 98 L14 93 L5 87 L5 87\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"1.6\"/><path d=\"M79.1 126.4L90.3 126.1L86 135.1Z\" fill=\"#1d5fbf\"/><path d=\"M166 168 L157 171 L147 175 L137 179 L127 183 L118 187 L108 191 L98 195 L89 199 L79 204 L70 208 L60 213 L51 217 L41 222 L32 227 L23 232 L14 237 L5 243 L5 243\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"1.6\"/><path d=\"M79.1 203.6L86 194.9L90.3 203.9Z\" fill=\"#1d5fbf\"/><path d=\"M365 4 L365 15 L364 25 L363 36 L362 46 L360 56 L357 66 L354 77 L350 86 L346 96 L342 106 L337 115 L332 124 L327 133 L322 142 L316 151 L311 158\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"1.6\"/><path d=\"M353.9 76.5L352.2 65.5L361.7 68.6Z\" fill=\"#1d5fbf\"/><path d=\"M365 326 L365 315 L364 305 L363 294 L362 284 L360 274 L357 264 L354 253 L350 244 L346 234 L342 224 L337 215 L332 206 L327 197 L322 188 L316 179 L311 172\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"1.6\"/><path d=\"M353.9 253.5L361.7 261.4L352.2 264.5Z\" fill=\"#1d5fbf\"/><path d=\"M475 87 L466 93 L457 98 L448 103 L439 108 L429 113 L420 117 L410 122 L401 126 L391 131 L382 135 L372 139 L362 143 L353 147 L343 151 L333 155 L323 159 L314 162 L314 162\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"1.6\"/><path d=\"M400.9 126.4L407.8 117.6L412.1 126.6Z\" fill=\"#1d5fbf\"/><path d=\"M475 243 L466 237 L457 232 L448 227 L439 222 L429 217 L420 213 L410 208 L401 204 L391 199 L382 195 L372 191 L362 187 L353 183 L343 179 L333 175 L323 171 L314 168 L314 168\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"1.6\"/><path d=\"M400.9 203.6L412.1 203.4L407.8 212.4Z\" fill=\"#1d5fbf\"/><rect x=\"160\" y=\"143\" width=\"80\" height=\"44\" fill=\"#fde2e2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"240\" y=\"143\" width=\"80\" height=\"44\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"200\" y=\"173\" text-anchor=\"middle\" font-size=\"22\" font-weight=\"bold\">N</text><text x=\"280\" y=\"173\" text-anchor=\"middle\" font-size=\"22\" font-weight=\"bold\">S</text><text x=\"140\" y=\"135\" text-anchor=\"middle\" font-size=\"22\" font-weight=\"bold\" stroke=\"#fff\" stroke-width=\"5\" paint-order=\"stroke\">J</text><text x=\"240\" y=\"30\" text-anchor=\"middle\" font-size=\"22\" font-weight=\"bold\" stroke=\"#fff\" stroke-width=\"5\" paint-order=\"stroke\">K</text><text x=\"450\" y=\"300\" text-anchor=\"middle\" font-size=\"22\" font-weight=\"bold\" stroke=\"#fff\" stroke-width=\"5\" paint-order=\"stroke\">L</text></svg>",
+       "q": "(a) The diagram shows the magnetic field around a bar magnet. At which point, J, K or L, is the magnetic field strongest?",
+       "ans": [
+        "J"
+       ],
+       "m": 1,
+       "s": "Magnetic fields",
+       "e": "The field is strongest where the field lines are **closest together**, which is near the poles. J is next to the N pole."
+      },
+      {
+       "p": "Question 4\nA scrapyard uses a crane with a large electromagnet to lift old cars.\nSami makes a model of the crane. He winds 20 turns of insulated wire round an iron nail. He changes the current and counts how many small steel nails the electromagnet lifts.\nCurrent in A | 0.2 | 0.4 | 0.6 | 0.8 | 1.0\nNumber of steel nails lifted | 3 | 6 | 9 | 5 | 15\nParts (e) to (j) are about Sami's investigation.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 330\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"20\" fill=\"#0f1b33\"><path d=\"M180 160 L188 153 L196 146 L204 140 L213 134 L223 130 L233 128 L244 127 L254 129 L264 132 L273 137 L282 143 L290 150 L298 157 L301 160\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"1.6\"/><path d=\"M240.6 127L230.6 132.1L230.6 122.1Z\" fill=\"#1d5fbf\"/><path d=\"M180 170 L188 177 L196 184 L204 190 L213 196 L223 200 L233 202 L244 203 L254 201 L264 198 L273 193 L282 187 L290 180 L298 173 L301 170\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"1.6\"/><path d=\"M240.6 203L230.6 207.9L230.6 197.9Z\" fill=\"#1d5fbf\"/><path d=\"M177 158 L182 148 L186 139 L192 130 L198 121 L205 113 L213 106 L222 101 L232 98 L242 97 L252 98 L262 102 L271 108 L279 115 L285 123 L291 132 L296 141 L300 151 L303 158\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"1.6\"/><path d=\"M240.4 96.8L230.5 101.9L230.4 91.9Z\" fill=\"#1d5fbf\"/><path d=\"M177 172 L182 182 L186 191 L192 200 L198 209 L205 217 L213 224 L222 229 L232 232 L242 233 L252 232 L262 228 L271 222 L279 215 L285 207 L291 198 L296 189 L300 179 L303 172\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"1.6\"/><path d=\"M240.4 233.2L230.4 238.1L230.5 228.1Z\" fill=\"#1d5fbf\"/><path d=\"M174 157 L173 147 L174 136 L174 126 L175 115 L177 105 L180 95 L184 85 L188 75 L194 67 L201 59 L210 52 L219 47 L229 44 L239 43 L249 43 L260 46 L269 51 L278 57 L285 64 L291 73 L296 82 L300 92 L303 102 L305 112 L307 122 L307 133 L307 143 L307 154 L306 158\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"1.6\"/><path d=\"M240.5 42.6L230.6 47.7L230.5 37.7Z\" fill=\"#1d5fbf\"/><path d=\"M174 173 L173 183 L174 194 L174 204 L175 215 L177 225 L180 235 L184 245 L188 255 L194 263 L201 271 L210 278 L219 283 L229 286 L239 287 L249 287 L260 284 L269 279 L278 273 L285 266 L291 257 L296 248 L300 238 L303 228 L305 218 L307 208 L307 197 L307 187 L307 176 L306 172\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"1.6\"/><path d=\"M240.5 287.4L230.5 292.3L230.6 282.3Z\" fill=\"#1d5fbf\"/><path d=\"M169 158 L163 150 L158 141 L152 132 L147 123 L142 114 L137 104 L133 95 L129 85 L126 75 L123 65 L120 55 L118 45 L117 34 L115 24 L115 13 L115 4\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"1.6\"/><path d=\"M125.7 75.1L133.5 83.1L124 86.2Z\" fill=\"#1d5fbf\"/><path d=\"M169 172 L163 180 L158 189 L152 198 L147 207 L142 216 L137 226 L133 235 L129 245 L126 255 L123 265 L120 275 L118 285 L117 296 L115 306 L115 317 L115 326\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"1.6\"/><path d=\"M125.7 254.9L124 243.8L133.5 246.9Z\" fill=\"#1d5fbf\"/><path d=\"M166 162 L157 159 L147 155 L137 151 L127 147 L118 143 L108 139 L98 135 L89 131 L79 126 L70 122 L60 117 L51 113 L41 108 L32 103 L23 98 L14 93 L5 87 L5 87\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"1.6\"/><path d=\"M79.1 126.4L90.3 126.1L86 135.1Z\" fill=\"#1d5fbf\"/><path d=\"M166 168 L157 171 L147 175 L137 179 L127 183 L118 187 L108 191 L98 195 L89 199 L79 204 L70 208 L60 213 L51 217 L41 222 L32 227 L23 232 L14 237 L5 243 L5 243\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"1.6\"/><path d=\"M79.1 203.6L86 194.9L90.3 203.9Z\" fill=\"#1d5fbf\"/><path d=\"M365 4 L365 15 L364 25 L363 36 L362 46 L360 56 L357 66 L354 77 L350 86 L346 96 L342 106 L337 115 L332 124 L327 133 L322 142 L316 151 L311 158\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"1.6\"/><path d=\"M353.9 76.5L352.2 65.5L361.7 68.6Z\" fill=\"#1d5fbf\"/><path d=\"M365 326 L365 315 L364 305 L363 294 L362 284 L360 274 L357 264 L354 253 L350 244 L346 234 L342 224 L337 215 L332 206 L327 197 L322 188 L316 179 L311 172\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"1.6\"/><path d=\"M353.9 253.5L361.7 261.4L352.2 264.5Z\" fill=\"#1d5fbf\"/><path d=\"M475 87 L466 93 L457 98 L448 103 L439 108 L429 113 L420 117 L410 122 L401 126 L391 131 L382 135 L372 139 L362 143 L353 147 L343 151 L333 155 L323 159 L314 162 L314 162\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"1.6\"/><path d=\"M400.9 126.4L407.8 117.6L412.1 126.6Z\" fill=\"#1d5fbf\"/><path d=\"M475 243 L466 237 L457 232 L448 227 L439 222 L429 217 L420 213 L410 208 L401 204 L391 199 L382 195 L372 191 L362 187 L353 183 L343 179 L333 175 L323 171 L314 168 L314 168\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"1.6\"/><path d=\"M400.9 203.6L412.1 203.4L407.8 212.4Z\" fill=\"#1d5fbf\"/><rect x=\"160\" y=\"143\" width=\"80\" height=\"44\" fill=\"#fde2e2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"240\" y=\"143\" width=\"80\" height=\"44\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"200\" y=\"173\" text-anchor=\"middle\" font-size=\"22\" font-weight=\"bold\">N</text><text x=\"280\" y=\"173\" text-anchor=\"middle\" font-size=\"22\" font-weight=\"bold\">S</text><text x=\"140\" y=\"135\" text-anchor=\"middle\" font-size=\"22\" font-weight=\"bold\" stroke=\"#fff\" stroke-width=\"5\" paint-order=\"stroke\">J</text><text x=\"240\" y=\"30\" text-anchor=\"middle\" font-size=\"22\" font-weight=\"bold\" stroke=\"#fff\" stroke-width=\"5\" paint-order=\"stroke\">K</text><text x=\"450\" y=\"300\" text-anchor=\"middle\" font-size=\"22\" font-weight=\"bold\" stroke=\"#fff\" stroke-width=\"5\" paint-order=\"stroke\">L</text></svg>",
+       "q": "(b) Which statement about the magnetic field lines is correct?",
+       "c": [
+        "Outside the magnet they go from the S pole to the N pole.",
+        "They are furthest apart near the poles.",
+        "They cross each other near the middle of the magnet.",
+        "Outside the magnet they go from the N pole to the S pole."
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Magnetic fields",
+       "e": "Field lines point from the **north pole to the south pole** outside the magnet (the arrows in the diagram). They never cross, and they are closest near the poles. The answer is D."
+      },
+      {
+       "p": "Question 4\nA scrapyard uses a crane with a large electromagnet to lift old cars.\nSami makes a model of the crane. He winds 20 turns of insulated wire round an iron nail. He changes the current and counts how many small steel nails the electromagnet lifts.\nCurrent in A | 0.2 | 0.4 | 0.6 | 0.8 | 1.0\nNumber of steel nails lifted | 3 | 6 | 9 | 5 | 15\nParts (e) to (j) are about Sami's investigation.",
+       "q": "(c) Which of these is an electromagnet?",
+       "c": [
+        "a steel nail stroked many times with a bar magnet",
+        "a coil of insulated wire wrapped around an iron nail, with the wire connected to a cell",
+        "an iron nail rubbed with a cloth",
+        "a coil of insulated wire wrapped around an iron nail, with both ends of the wire not connected"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Electromagnets",
+       "e": "An electromagnet is a **coil of wire with a current flowing through it**, usually wound round an iron core. Without a current (D) there is no magnetic field. A makes a permanent magnet. The answer is B."
+      },
+      {
+       "t": "open",
+       "p": "Question 4\nA scrapyard uses a crane with a large electromagnet to lift old cars.\nSami makes a model of the crane. He winds 20 turns of insulated wire round an iron nail. He changes the current and counts how many small steel nails the electromagnet lifts.\nCurrent in A | 0.2 | 0.4 | 0.6 | 0.8 | 1.0\nNumber of steel nails lifted | 3 | 6 | 9 | 5 | 15\nParts (e) to (j) are about Sami's investigation.",
+       "q": "(d) Explain why the scrapyard uses an electromagnet and not a large permanent magnet.",
+       "m": 1,
+       "s": "Electromagnets",
+       "ms": "1 mark: an electromagnet can be switched off (by turning off the current), so the scrap / car can be dropped where it is needed. Accept: its strength can be changed. Do not accept 'it is stronger' on its own.",
+       "e": "An electromagnet is only magnetic when a current flows. The crane operator can **switch it off** to drop the car in the right place. A permanent magnet could not let go."
+      },
+      {
+       "t": "text",
+       "p": "Question 4\nA scrapyard uses a crane with a large electromagnet to lift old cars.\nSami makes a model of the crane. He winds 20 turns of insulated wire round an iron nail. He changes the current and counts how many small steel nails the electromagnet lifts.\nCurrent in A | 0.2 | 0.4 | 0.6 | 0.8 | 1.0\nNumber of steel nails lifted | 3 | 6 | 9 | 5 | 15\nParts (e) to (j) are about Sami's investigation.",
+       "q": "(e) What is the independent variable in Sami's investigation?",
+       "ans": [
+        "current",
+        "the current",
+        "electric current",
+        "size of the current",
+        "the size of the current",
+        "current in A",
+        "the current in the wire"
+       ],
+       "m": 1,
+       "s": "Working scientifically",
+       "e": "The independent variable is the one Sami changes on purpose: the **current**. The number of nails lifted is the dependent variable."
+      },
+      {
+       "t": "num",
+       "p": "Question 4\nA scrapyard uses a crane with a large electromagnet to lift old cars.\nSami makes a model of the crane. He winds 20 turns of insulated wire round an iron nail. He changes the current and counts how many small steel nails the electromagnet lifts.\nCurrent in A | 0.2 | 0.4 | 0.6 | 0.8 | 1.0\nNumber of steel nails lifted | 3 | 6 | 9 | 5 | 15\nParts (e) to (j) are about Sami's investigation.",
+       "q": "(f) One result is anomalous. At what current was this result?",
+       "ans": [
+        0.8
+       ],
+       "tol": 0,
+       "unit": "A",
+       "m": 1,
+       "s": "Working scientifically",
+       "e": "The number of nails goes up by 3 each time the current goes up by 0.2 A (3, 6, 9, …, 15), so at 0.8 A it should be about 12. The result of 5 at **0.8 A** does not fit the pattern: it is anomalous."
+      },
+      {
+       "t": "num",
+       "p": "Question 4\nA scrapyard uses a crane with a large electromagnet to lift old cars.\nSami makes a model of the crane. He winds 20 turns of insulated wire round an iron nail. He changes the current and counts how many small steel nails the electromagnet lifts.\nCurrent in A | 0.2 | 0.4 | 0.6 | 0.8 | 1.0\nNumber of steel nails lifted | 3 | 6 | 9 | 5 | 15\nParts (e) to (j) are about Sami's investigation.",
+       "q": "(g) Predict how many nails the electromagnet would lift with a current of 1.2 A.",
+       "ans": [
+        18
+       ],
+       "tol": 1,
+       "unit": "nails",
+       "m": 1,
+       "s": "Electromagnets",
+       "e": "The pattern is +3 nails for each extra 0.2 A, so 15 + 3 = **18** nails (accept 17 to 19)."
+      },
+      {
+       "t": "open",
+       "p": "Question 4\nA scrapyard uses a crane with a large electromagnet to lift old cars.\nSami makes a model of the crane. He winds 20 turns of insulated wire round an iron nail. He changes the current and counts how many small steel nails the electromagnet lifts.\nCurrent in A | 0.2 | 0.4 | 0.6 | 0.8 | 1.0\nNumber of steel nails lifted | 3 | 6 | 9 | 5 | 15\nParts (e) to (j) are about Sami's investigation.",
+       "q": "(h) Describe the pattern in Sami's results. Ignore the anomalous result.",
+       "m": 1,
+       "s": "Electromagnets",
+       "ms": "1 mark: as the current increases, the number of nails lifted increases. Accept: the number of nails goes up by 3 for every 0.2 A / is proportional to the current / doubles when the current doubles. Do not accept a list of the numbers with no pattern.",
+       "e": "The **bigger the current, the more nails** the electromagnet lifts: about 3 more nails for each extra 0.2 A, so doubling the current doubles the number of nails."
+      },
+      {
+       "t": "open",
+       "p": "Question 4\nA scrapyard uses a crane with a large electromagnet to lift old cars.\nSami makes a model of the crane. He winds 20 turns of insulated wire round an iron nail. He changes the current and counts how many small steel nails the electromagnet lifts.\nCurrent in A | 0.2 | 0.4 | 0.6 | 0.8 | 1.0\nNumber of steel nails lifted | 3 | 6 | 9 | 5 | 15\nParts (e) to (j) are about Sami's investigation.",
+       "q": "(i) Give **one** control variable Sami must keep the same.",
+       "m": 1,
+       "s": "Working scientifically",
+       "ms": "1 mark for any one: number of turns (of wire) in the coil; the same iron nail / core; the same size / type / mass of steel nails; the same type / thickness of wire. Do not accept 'the current' (this is the independent variable) or 'the same equipment' on its own.",
+       "e": "For example, the **number of turns** of wire (20) or the same iron core. Each of these also changes the strength of an electromagnet, so it must stay the same for a fair test."
+      },
+      {
+       "t": "open",
+       "p": "Question 4\nA scrapyard uses a crane with a large electromagnet to lift old cars.\nSami makes a model of the crane. He winds 20 turns of insulated wire round an iron nail. He changes the current and counts how many small steel nails the electromagnet lifts.\nCurrent in A | 0.2 | 0.4 | 0.6 | 0.8 | 1.0\nNumber of steel nails lifted | 3 | 6 | 9 | 5 | 15\nParts (e) to (j) are about Sami's investigation.",
+       "q": "(j) Sami took each reading only once. Suggest how he could make his results more reliable, and explain why this helps.",
+       "m": 1,
+       "s": "Working scientifically",
+       "ms": "1 mark: repeat each reading (at least 2 more times) and calculate a mean, so anomalous results can be spotted / ignored. Both the action and a reason are needed for the mark.",
+       "e": "Repeat each reading three times and work out the **mean**. An anomalous result like the one at 0.8 A would then be easy to spot and leave out, so the results are more reliable."
+      },
+      {
+       "t": "text",
+       "p": "Question 4\nA scrapyard uses a crane with a large electromagnet to lift old cars.\nSami makes a model of the crane. He winds 20 turns of insulated wire round an iron nail. He changes the current and counts how many small steel nails the electromagnet lifts.\nCurrent in A | 0.2 | 0.4 | 0.6 | 0.8 | 1.0\nNumber of steel nails lifted | 3 | 6 | 9 | 5 | 15\nParts (e) to (j) are about Sami's investigation.",
+       "q": "(k) The Earth also has a magnetic field. Complete the sentence with one word.\nThe Earth has a magnetic field because its ______ acts like a magnet.",
+       "ans": [
+        "core",
+        "iron core",
+        "outer core",
+        "inner core",
+        "metal core"
+       ],
+       "m": 1,
+       "s": "Planet Earth",
+       "e": "The Earth's **core** is made mostly of iron and nickel, and it acts like a huge magnet. This is why a compass points north."
+      },
+      {
+       "t": "text",
+       "p": "Question 5\nThis question is about light and colour: a rainbow and the coloured lights on a school stage.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 280\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"18\" fill=\"#0f1b33\"><path d=\"M230 30L125 212L335 212Z\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"58.6\" y1=\"165.6\" x2=\"172.9\" y2=\"129\" stroke=\"#0f1b33\" stroke-width=\"3\"/><path d=\"M123.7 145.9L114.1 155.3L110.5 143.8Z\" fill=\"#0f1b33\"/><text x=\"56.6\" y=\"191.6\" text-anchor=\"start\" font-size=\"17\">white light</text><line x1=\"172.9\" y1=\"129\" x2=\"286\" y2=\"127.1\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><line x1=\"286\" y1=\"127.1\" x2=\"440\" y2=\"166.6\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><line x1=\"172.9\" y1=\"129\" x2=\"286.8\" y2=\"128.5\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><line x1=\"286.8\" y1=\"128.5\" x2=\"440\" y2=\"174.9\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><line x1=\"172.9\" y1=\"129\" x2=\"287.6\" y2=\"129.8\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><line x1=\"287.6\" y1=\"129.8\" x2=\"440\" y2=\"183.5\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><line x1=\"172.9\" y1=\"129\" x2=\"288.3\" y2=\"131.1\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><line x1=\"288.3\" y1=\"131.1\" x2=\"440\" y2=\"192.7\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><line x1=\"172.9\" y1=\"129\" x2=\"289.1\" y2=\"132.4\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><line x1=\"289.1\" y1=\"132.4\" x2=\"440\" y2=\"202.6\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><text x=\"444\" y=\"160.6\" text-anchor=\"start\" font-size=\"20\" font-weight=\"bold\">X</text><text x=\"444\" y=\"220.6\" text-anchor=\"start\" font-size=\"20\" font-weight=\"bold\">Y</text><text x=\"230\" y=\"250\" text-anchor=\"middle\" font-size=\"17\">glass prism</text></svg>",
+       "q": "(a) A rainbow forms when sunlight passes through raindrops. In the laboratory, Hana shines a ray of white light into a glass prism (diagram not drawn to scale). The white light splits into colours. What is the name for the splitting of white light into colours?",
+       "ans": [
+        "dispersion",
+        "dispersal"
+       ],
+       "m": 1,
+       "s": "Dispersion",
+       "e": "White light is a mixture of many colours. The prism slows and bends each colour by a slightly different amount, so the colours spread out: this is **dispersion**."
+      },
+      {
+       "t": "text",
+       "p": "Question 5\nThis question is about light and colour: a rainbow and the coloured lights on a school stage.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 280\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"18\" fill=\"#0f1b33\"><path d=\"M230 30L125 212L335 212Z\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"58.6\" y1=\"165.6\" x2=\"172.9\" y2=\"129\" stroke=\"#0f1b33\" stroke-width=\"3\"/><path d=\"M123.7 145.9L114.1 155.3L110.5 143.8Z\" fill=\"#0f1b33\"/><text x=\"56.6\" y=\"191.6\" text-anchor=\"start\" font-size=\"17\">white light</text><line x1=\"172.9\" y1=\"129\" x2=\"286\" y2=\"127.1\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><line x1=\"286\" y1=\"127.1\" x2=\"440\" y2=\"166.6\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><line x1=\"172.9\" y1=\"129\" x2=\"286.8\" y2=\"128.5\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><line x1=\"286.8\" y1=\"128.5\" x2=\"440\" y2=\"174.9\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><line x1=\"172.9\" y1=\"129\" x2=\"287.6\" y2=\"129.8\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><line x1=\"287.6\" y1=\"129.8\" x2=\"440\" y2=\"183.5\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><line x1=\"172.9\" y1=\"129\" x2=\"288.3\" y2=\"131.1\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><line x1=\"288.3\" y1=\"131.1\" x2=\"440\" y2=\"192.7\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><line x1=\"172.9\" y1=\"129\" x2=\"289.1\" y2=\"132.4\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><line x1=\"289.1\" y1=\"132.4\" x2=\"440\" y2=\"202.6\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><text x=\"444\" y=\"160.6\" text-anchor=\"start\" font-size=\"20\" font-weight=\"bold\">X</text><text x=\"444\" y=\"220.6\" text-anchor=\"start\" font-size=\"20\" font-weight=\"bold\">Y</text><text x=\"230\" y=\"250\" text-anchor=\"middle\" font-size=\"17\">glass prism</text></svg>",
+       "q": "(b) Look at the diagram of Hana's prism. Which ray, X or Y, is red light?",
+       "ans": [
+        "X"
+       ],
+       "m": 1,
+       "s": "Dispersion",
+       "e": "Red light is refracted (bent) the **least** and violet light the most. X has changed direction least, so **X is red** and Y is violet."
+      },
+      {
+       "t": "open",
+       "p": "Question 5\nThis question is about light and colour: a rainbow and the coloured lights on a school stage.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 280\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"18\" fill=\"#0f1b33\"><path d=\"M230 30L125 212L335 212Z\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"58.6\" y1=\"165.6\" x2=\"172.9\" y2=\"129\" stroke=\"#0f1b33\" stroke-width=\"3\"/><path d=\"M123.7 145.9L114.1 155.3L110.5 143.8Z\" fill=\"#0f1b33\"/><text x=\"56.6\" y=\"191.6\" text-anchor=\"start\" font-size=\"17\">white light</text><line x1=\"172.9\" y1=\"129\" x2=\"286\" y2=\"127.1\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><line x1=\"286\" y1=\"127.1\" x2=\"440\" y2=\"166.6\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><line x1=\"172.9\" y1=\"129\" x2=\"286.8\" y2=\"128.5\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><line x1=\"286.8\" y1=\"128.5\" x2=\"440\" y2=\"174.9\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><line x1=\"172.9\" y1=\"129\" x2=\"287.6\" y2=\"129.8\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><line x1=\"287.6\" y1=\"129.8\" x2=\"440\" y2=\"183.5\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><line x1=\"172.9\" y1=\"129\" x2=\"288.3\" y2=\"131.1\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><line x1=\"288.3\" y1=\"131.1\" x2=\"440\" y2=\"192.7\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><line x1=\"172.9\" y1=\"129\" x2=\"289.1\" y2=\"132.4\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><line x1=\"289.1\" y1=\"132.4\" x2=\"440\" y2=\"202.6\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><text x=\"444\" y=\"160.6\" text-anchor=\"start\" font-size=\"20\" font-weight=\"bold\">X</text><text x=\"444\" y=\"220.6\" text-anchor=\"start\" font-size=\"20\" font-weight=\"bold\">Y</text><text x=\"230\" y=\"250\" text-anchor=\"middle\" font-size=\"17\">glass prism</text></svg>",
+       "q": "(c) Explain why the light changes direction when it goes from the air into the glass.",
+       "m": 1,
+       "s": "Refraction",
+       "ms": "1 mark: light slows down / changes speed when it enters the glass (glass is denser than air). Do not accept 'the glass reflects it'.",
+       "e": "Light travels more **slowly** in glass than in air. When a ray enters the glass at an angle, the change of speed makes it change direction: this is **refraction**."
+      },
+      {
+       "t": "text",
+       "p": "Question 5\nThis question is about light and colour: a rainbow and the coloured lights on a school stage.",
+       "q": "(d) At a school concert, the stage is lit with coloured spotlights. A red spotlight and a green spotlight shine onto the same part of a white screen. What colour is seen where they overlap?",
+       "ans": [
+        "yellow"
+       ],
+       "m": 1,
+       "s": "Colour",
+       "e": "Adding coloured lights: red + green = **yellow**. (Red + green + blue = white.)"
+      },
+      {
+       "t": "open",
+       "p": "Question 5\nThis question is about light and colour: a rainbow and the coloured lights on a school stage.",
+       "q": "(e) On the stage, a singer wears a white shirt and blue trousers. Only a red spotlight shines on him. Describe and explain what colour his shirt and his trousers look.",
+       "m": 2,
+       "s": "Colour",
+       "ms": "1 mark: the shirt looks red because white reflects all colours, so it reflects the red light. 1 mark: the trousers look black because blue (objects) absorb red light / reflect only blue light, and there is no blue light to reflect. Colour without a reason gets no mark.",
+       "e": "A white object reflects every colour that falls on it, so the shirt reflects the red light and **looks red**. Blue trousers reflect only blue light and absorb the other colours. There is no blue in the red spotlight, so the red is absorbed, no light is reflected and the trousers **look black**."
+      },
+      {
+       "t": "num",
+       "p": "Question 5\nThis question is about light and colour: a rainbow and the coloured lights on a school stage.",
+       "q": "(f) A spotlight beam hits a flat mirror on the stage. The angle of incidence is 25°. What is the angle between the incident ray and the reflected ray?",
+       "ans": [
+        50
+       ],
+       "tol": 0,
+       "unit": "°",
+       "m": 1,
+       "s": "Reflection",
+       "e": "Law of reflection: angle of reflection = angle of incidence = 25°. Both angles are measured from the normal, on opposite sides, so the angle between the rays is 25° + 25° = **50°**."
+      },
+      {
+       "t": "text",
+       "p": "Question 6\nIn the chemistry laboratory, Laila tests the colouring in an orange sports drink, S. She uses paper chromatography to compare it with four food dyes, P, Q, R and T.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 330\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"18\" fill=\"#0f1b33\"><rect x=\"20\" y=\"15\" width=\"360\" height=\"290\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"20\" y1=\"262\" x2=\"380\" y2=\"262\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"20\" y1=\"52\" x2=\"380\" y2=\"52\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-dasharray=\"7 5\"/><text x=\"390\" y=\"48\" font-size=\"16\">solvent</text><text x=\"390\" y=\"67\" font-size=\"16\">front</text><text x=\"390\" y=\"258\" font-size=\"16\">start line</text><text x=\"390\" y=\"277\" font-size=\"16\">(pencil)</text><circle cx=\"70\" cy=\"262\" r=\"2.5\" fill=\"#0f1b33\"/><ellipse cx=\"70\" cy=\"131.8\" rx=\"11\" ry=\"8\" fill=\"#f6b9b9\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"70\" y=\"292\" text-anchor=\"middle\" font-size=\"19\" font-weight=\"bold\">P</text><circle cx=\"140\" cy=\"262\" r=\"2.5\" fill=\"#0f1b33\"/><ellipse cx=\"140\" cy=\"188.5\" rx=\"11\" ry=\"8\" fill=\"#ffe08a\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><ellipse cx=\"140\" cy=\"94\" rx=\"11\" ry=\"8\" fill=\"#b9d3f6\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"140\" y=\"292\" text-anchor=\"middle\" font-size=\"19\" font-weight=\"bold\">Q</text><circle cx=\"210\" cy=\"262\" r=\"2.5\" fill=\"#0f1b33\"/><ellipse cx=\"210\" cy=\"209.5\" rx=\"11\" ry=\"8\" fill=\"#f7cf9c\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"210\" y=\"292\" text-anchor=\"middle\" font-size=\"19\" font-weight=\"bold\">R</text><circle cx=\"280\" cy=\"262\" r=\"2.5\" fill=\"#0f1b33\"/><ellipse cx=\"280\" cy=\"161.2\" rx=\"11\" ry=\"8\" fill=\"#c9e7b5\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"280\" y=\"292\" text-anchor=\"middle\" font-size=\"19\" font-weight=\"bold\">T</text><circle cx=\"340\" cy=\"262\" r=\"2.5\" fill=\"#0f1b33\"/><ellipse cx=\"340\" cy=\"131.8\" rx=\"11\" ry=\"8\" fill=\"#f6b9b9\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><ellipse cx=\"340\" cy=\"209.5\" rx=\"11\" ry=\"8\" fill=\"#f7cf9c\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"340\" y=\"292\" text-anchor=\"middle\" font-size=\"19\" font-weight=\"bold\">S</text></svg>",
+       "q": "(a) Which **two** food dyes are in the sports drink S? Write two letters.",
+       "ans": [
+        "P and R",
+        "PR",
+        "RP",
+        "R and P",
+        "P,R",
+        "R,P",
+        "P R",
+        "R P",
+        "P & R",
+        "R & P"
+       ],
+       "m": 1,
+       "s": "Chromatography",
+       "e": "S has two spots. One is at the same height as the spot of P and the other at the same height as the spot of R, so S contains **P and R**."
+      },
+      {
+       "t": "text",
+       "p": "Question 6\nIn the chemistry laboratory, Laila tests the colouring in an orange sports drink, S. She uses paper chromatography to compare it with four food dyes, P, Q, R and T.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 330\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"18\" fill=\"#0f1b33\"><rect x=\"20\" y=\"15\" width=\"360\" height=\"290\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"20\" y1=\"262\" x2=\"380\" y2=\"262\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"20\" y1=\"52\" x2=\"380\" y2=\"52\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-dasharray=\"7 5\"/><text x=\"390\" y=\"48\" font-size=\"16\">solvent</text><text x=\"390\" y=\"67\" font-size=\"16\">front</text><text x=\"390\" y=\"258\" font-size=\"16\">start line</text><text x=\"390\" y=\"277\" font-size=\"16\">(pencil)</text><circle cx=\"70\" cy=\"262\" r=\"2.5\" fill=\"#0f1b33\"/><ellipse cx=\"70\" cy=\"131.8\" rx=\"11\" ry=\"8\" fill=\"#f6b9b9\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"70\" y=\"292\" text-anchor=\"middle\" font-size=\"19\" font-weight=\"bold\">P</text><circle cx=\"140\" cy=\"262\" r=\"2.5\" fill=\"#0f1b33\"/><ellipse cx=\"140\" cy=\"188.5\" rx=\"11\" ry=\"8\" fill=\"#ffe08a\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><ellipse cx=\"140\" cy=\"94\" rx=\"11\" ry=\"8\" fill=\"#b9d3f6\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"140\" y=\"292\" text-anchor=\"middle\" font-size=\"19\" font-weight=\"bold\">Q</text><circle cx=\"210\" cy=\"262\" r=\"2.5\" fill=\"#0f1b33\"/><ellipse cx=\"210\" cy=\"209.5\" rx=\"11\" ry=\"8\" fill=\"#f7cf9c\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"210\" y=\"292\" text-anchor=\"middle\" font-size=\"19\" font-weight=\"bold\">R</text><circle cx=\"280\" cy=\"262\" r=\"2.5\" fill=\"#0f1b33\"/><ellipse cx=\"280\" cy=\"161.2\" rx=\"11\" ry=\"8\" fill=\"#c9e7b5\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"280\" y=\"292\" text-anchor=\"middle\" font-size=\"19\" font-weight=\"bold\">T</text><circle cx=\"340\" cy=\"262\" r=\"2.5\" fill=\"#0f1b33\"/><ellipse cx=\"340\" cy=\"131.8\" rx=\"11\" ry=\"8\" fill=\"#f6b9b9\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><ellipse cx=\"340\" cy=\"209.5\" rx=\"11\" ry=\"8\" fill=\"#f7cf9c\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"340\" y=\"292\" text-anchor=\"middle\" font-size=\"19\" font-weight=\"bold\">S</text></svg>",
+       "q": "(b) Which food dye, P, Q, R or T, is a mixture of more than one substance?",
+       "ans": [
+        "Q"
+       ],
+       "m": 1,
+       "s": "Chromatography",
+       "e": "**Q** separates into two spots, so it contains two different substances. P, R and T each give one spot."
+      },
+      {
+       "t": "num",
+       "p": "Question 6\nIn the chemistry laboratory, Laila tests the colouring in an orange sports drink, S. She uses paper chromatography to compare it with four food dyes, P, Q, R and T.",
+       "q": "(c) Laila also makes some copper sulfate crystals. Her 20 g sample contains 18.4 g of copper sulfate. The rest is water and unreacted copper oxide. Calculate the percentage purity of Laila's copper sulfate. Show your working.",
+       "ans": [
+        92
+       ],
+       "tol": 0,
+       "unit": "%",
+       "m": 2,
+       "s": "Purity",
+       "e": "percentage purity = mass of the pure substance ÷ total mass × 100 = 18.4 ÷ 20 × 100 = **92%**. (M1 for 18.4 ÷ 20 (× 100); A1 for 92.)"
+      },
+      {
+       "t": "open",
+       "p": "Question 6\nIn the chemistry laboratory, Laila tests the colouring in an orange sports drink, S. She uses paper chromatography to compare it with four food dyes, P, Q, R and T.",
+       "q": "(d) Laila's copper sulfate is not pure. Suggest **one** reason why the product of a chemical reaction is often not pure.",
+       "m": 1,
+       "s": "Impure products",
+       "ms": "1 mark for any one: some reactant is left over / unreacted (e.g. copper oxide); more than one product is made / other (side) reactions happen; the reactants were not pure; the product is mixed with the solvent (water) / dirt from the apparatus.",
+       "e": "For example, some of a reactant does not react and stays mixed with the product (like the unreacted copper oxide), or the reaction makes more than one product, so the product is an **impure mixture**."
+      },
+      {
+       "t": "text",
+       "p": "Question 6\nIn the chemistry laboratory, Laila tests the colouring in an orange sports drink, S. She uses paper chromatography to compare it with four food dyes, P, Q, R and T.",
+       "q": "(e) Laila makes two sugary sports drinks.\nDrink | Mass of sugar in g | Volume of drink in cm³\nA | 30 | 500\nB | 20 | 250\nWhich drink, A or B, is more concentrated?",
+       "ans": [
+        "B"
+       ],
+       "m": 1,
+       "s": "Concentration",
+       "e": "Compare the mass in the same volume. A: 30 g in 500 cm³ = 6 g in 100 cm³. B: 20 g in 250 cm³ = 8 g in 100 cm³. **B** has more sugar particles in each cm³, so it is more concentrated."
+      },
+      {
+       "t": "text",
+       "p": "Question 6\nIn the chemistry laboratory, Laila tests the colouring in an orange sports drink, S. She uses paper chromatography to compare it with four food dyes, P, Q, R and T.",
+       "q": "(f) The school nurse keeps instant cold packs for sports injuries. When a cold pack is squeezed, a solid dissolves in the water inside. The temperature falls from 21 °C to 4 °C. Is dissolving this solid exothermic or endothermic?",
+       "ans": [
+        "endothermic",
+        "endothermic process",
+        "endothermic reaction",
+        "it is endothermic"
+       ],
+       "m": 1,
+       "s": "Exothermic and endothermic",
+       "e": "The temperature **falls** (by 17 °C), so energy is taken in from the surroundings: the process is **endothermic**."
+      },
+      {
+       "t": "num",
+       "p": "Question 6\nIn the chemistry laboratory, Laila tests the colouring in an orange sports drink, S. She uses paper chromatography to compare it with four food dyes, P, Q, R and T.",
+       "q": "(g) The table shows the solubility of potassium nitrate at different temperatures.\nTemperature in °C | 0 | 20 | 40 | 60 | 80\nSolubility in g per 100 g of water | 13 | 32 | 64 | 110 | 169\nLaila makes a saturated solution of potassium nitrate in 100 g of water at 60 °C. She cools it to 20 °C. What mass of crystals forms? Show your working.",
+       "ans": [
+        78
+       ],
+       "tol": 0,
+       "unit": "g",
+       "m": 2,
+       "s": "Solubility",
+       "e": "At 60 °C, 110 g dissolves in 100 g of water. At 20 °C only 32 g can stay dissolved. The rest comes out as crystals: 110 − 32 = **78 g**. (M1 for 110 and 32 read from the table or 110 − 32; A1 for 78.)"
+      },
+      {
+       "t": "num",
+       "p": "Question 7\nThe graph shows how the average temperature of the Earth changed over the last 400 000 years, compared with the temperature today. The pattern is based on evidence from ice cores.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 330\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\" fill=\"#0f1b33\"><text x=\"10\" y=\"22\">Temperature compared with today in °C</text><line x1=\"452\" y1=\"50\" x2=\"452\" y2=\"260\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"404.5\" y1=\"50\" x2=\"404.5\" y2=\"260\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"357\" y1=\"50\" x2=\"357\" y2=\"260\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"309.5\" y1=\"50\" x2=\"309.5\" y2=\"260\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"262\" y1=\"50\" x2=\"262\" y2=\"260\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"214.5\" y1=\"50\" x2=\"214.5\" y2=\"260\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"167\" y1=\"50\" x2=\"167\" y2=\"260\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"119.5\" y1=\"50\" x2=\"119.5\" y2=\"260\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72\" y1=\"50\" x2=\"72\" y2=\"260\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"260\" x2=\"452.0\" y2=\"260\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"245\" x2=\"452.0\" y2=\"245\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"230\" x2=\"452.0\" y2=\"230\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"215\" x2=\"452.0\" y2=\"215\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"200\" x2=\"452.0\" y2=\"200\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"185\" x2=\"452.0\" y2=\"185\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"170\" x2=\"452.0\" y2=\"170\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"155\" x2=\"452.0\" y2=\"155\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"140\" x2=\"452.0\" y2=\"140\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"125\" x2=\"452.0\" y2=\"125\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"110\" x2=\"452.0\" y2=\"110\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"95\" x2=\"452.0\" y2=\"95\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"80\" x2=\"452.0\" y2=\"80\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"65\" x2=\"452.0\" y2=\"65\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"50\" x2=\"452.0\" y2=\"50\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72\" y1=\"260\" x2=\"452\" y2=\"260\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"72\" y1=\"260\" x2=\"72\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"72\" y1=\"110\" x2=\"452\" y2=\"110\" stroke=\"#0f1b33\" stroke-width=\"1.6\" stroke-dasharray=\"6 4\"/><text x=\"452\" y=\"280\" text-anchor=\"middle\">0</text><text x=\"357\" y=\"280\" text-anchor=\"middle\">100</text><text x=\"262\" y=\"280\" text-anchor=\"middle\">200</text><text x=\"167\" y=\"280\" text-anchor=\"middle\">300</text><text x=\"72\" y=\"280\" text-anchor=\"middle\">400</text><text x=\"64.0\" y=\"265\" text-anchor=\"end\">−10</text><text x=\"64.0\" y=\"235\" text-anchor=\"end\">−8</text><text x=\"64.0\" y=\"205\" text-anchor=\"end\">−6</text><text x=\"64.0\" y=\"175\" text-anchor=\"end\">−4</text><text x=\"64.0\" y=\"145\" text-anchor=\"end\">−2</text><text x=\"64.0\" y=\"115\" text-anchor=\"end\">0</text><text x=\"64.0\" y=\"85\" text-anchor=\"end\">+2</text><text x=\"64.0\" y=\"55\" text-anchor=\"end\">+4</text><text x=\"262\" y=\"304\" text-anchor=\"middle\">Time in thousands of years ago</text><polyline points=\"72,80 81.5,125 100.5,170 129,200 148,230 157.5,230 167,80 176.5,125 195.5,170 224,200 243,230 252.5,230 262,80 271.5,125 290.5,170 319,200 338,230 347.5,230 357,80 366.5,125 385.5,170 414,200 433,230 442.5,230 452,110\" fill=\"none\" stroke=\"#c62828\" stroke-width=\"2.5\"/></svg>",
+       "q": "(a) What is the lowest temperature shown on the graph, compared with today?",
+       "ans": [
+        -8
+       ],
+       "tol": 0,
+       "unit": "°C",
+       "m": 1,
+       "s": "Climate change",
+       "e": "The lowest points of the line are at **−8 °C**, which means 8 °C colder than today. These cold times are ice ages."
+      },
+      {
+       "t": "num",
+       "p": "Question 7\nThe graph shows how the average temperature of the Earth changed over the last 400 000 years, compared with the temperature today. The pattern is based on evidence from ice cores.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 330\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\" fill=\"#0f1b33\"><text x=\"10\" y=\"22\">Temperature compared with today in °C</text><line x1=\"452\" y1=\"50\" x2=\"452\" y2=\"260\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"404.5\" y1=\"50\" x2=\"404.5\" y2=\"260\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"357\" y1=\"50\" x2=\"357\" y2=\"260\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"309.5\" y1=\"50\" x2=\"309.5\" y2=\"260\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"262\" y1=\"50\" x2=\"262\" y2=\"260\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"214.5\" y1=\"50\" x2=\"214.5\" y2=\"260\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"167\" y1=\"50\" x2=\"167\" y2=\"260\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"119.5\" y1=\"50\" x2=\"119.5\" y2=\"260\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72\" y1=\"50\" x2=\"72\" y2=\"260\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"260\" x2=\"452.0\" y2=\"260\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"245\" x2=\"452.0\" y2=\"245\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"230\" x2=\"452.0\" y2=\"230\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"215\" x2=\"452.0\" y2=\"215\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"200\" x2=\"452.0\" y2=\"200\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"185\" x2=\"452.0\" y2=\"185\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"170\" x2=\"452.0\" y2=\"170\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"155\" x2=\"452.0\" y2=\"155\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"140\" x2=\"452.0\" y2=\"140\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"125\" x2=\"452.0\" y2=\"125\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"110\" x2=\"452.0\" y2=\"110\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"95\" x2=\"452.0\" y2=\"95\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"80\" x2=\"452.0\" y2=\"80\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72.0\" y1=\"65\" x2=\"452.0\" y2=\"65\" stroke=\"#c9d3e6\" stroke-width=\"0.6\"/><line x1=\"72.0\" y1=\"50\" x2=\"452.0\" y2=\"50\" stroke=\"#c9d3e6\" stroke-width=\"1.2\"/><line x1=\"72\" y1=\"260\" x2=\"452\" y2=\"260\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"72\" y1=\"260\" x2=\"72\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"72\" y1=\"110\" x2=\"452\" y2=\"110\" stroke=\"#0f1b33\" stroke-width=\"1.6\" stroke-dasharray=\"6 4\"/><text x=\"452\" y=\"280\" text-anchor=\"middle\">0</text><text x=\"357\" y=\"280\" text-anchor=\"middle\">100</text><text x=\"262\" y=\"280\" text-anchor=\"middle\">200</text><text x=\"167\" y=\"280\" text-anchor=\"middle\">300</text><text x=\"72\" y=\"280\" text-anchor=\"middle\">400</text><text x=\"64.0\" y=\"265\" text-anchor=\"end\">−10</text><text x=\"64.0\" y=\"235\" text-anchor=\"end\">−8</text><text x=\"64.0\" y=\"205\" text-anchor=\"end\">−6</text><text x=\"64.0\" y=\"175\" text-anchor=\"end\">−4</text><text x=\"64.0\" y=\"145\" text-anchor=\"end\">−2</text><text x=\"64.0\" y=\"115\" text-anchor=\"end\">0</text><text x=\"64.0\" y=\"85\" text-anchor=\"end\">+2</text><text x=\"64.0\" y=\"55\" text-anchor=\"end\">+4</text><text x=\"262\" y=\"304\" text-anchor=\"middle\">Time in thousands of years ago</text><polyline points=\"72,80 81.5,125 100.5,170 129,200 148,230 157.5,230 167,80 176.5,125 195.5,170 224,200 243,230 252.5,230 262,80 271.5,125 290.5,170 319,200 338,230 347.5,230 357,80 366.5,125 385.5,170 414,200 433,230 442.5,230 452,110\" fill=\"none\" stroke=\"#c62828\" stroke-width=\"2.5\"/></svg>",
+       "q": "(b) The climate goes through a cycle of ice ages and warm periods. How many thousand years are there between one warm period and the next?",
+       "ans": [
+        100
+       ],
+       "tol": 5,
+       "unit": "thousand years",
+       "m": 1,
+       "s": "Climate change",
+       "e": "Warm peaks are at 400, 300, 200 and 100 thousand years ago (and today), so the cycle repeats every **100 thousand years** (100 000 years). Climate cycles take place over very long time periods."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "After the test",
+   "items": [
+    "Read the worked solution and the mark scheme for **every** question, including the ones you got right.",
+    "For each written answer, compare your words with the mark scheme point by point. If your answer was only half right, write the full answer again in your notebook.",
+    "Make a list of the topic tags of the questions you lost marks on, then revisit those lessons. Biology: \"Joints and Antagonistic Muscles\", \"Blood and Its Components\", \"Breathing, Gas Exchange and Diffusion in the Lungs\", \"A Balanced Diet, Energy Stores and Lifestyle\", \"Aerobic Respiration\", \"Ecosystems, Bioaccumulation and Invasive Species\".",
+    "Chemistry: \"The Structure of the Atom\", \"Purity, Concentration and Chromatography\", \"Word Equations, Exothermic and Endothermic Reactions\", \"The Reactivity of Metals\", \"Impure Products and Solubility of Salts\".",
+    "Physics: \"Speed and Distance–Time Graphs\", \"Balanced and Unbalanced Forces, and Moments\", \"Pressure, Particles and Diffusion\", \"Reflection and Refraction\", \"Dispersion and Colour\", \"Magnetic Fields and Electromagnets\".",
+    "Earth and space: \"The Earth's Magnetic Field and Earth's Resources\", \"Climate, Weather and Climate Change\", \"Galaxies and Asteroids\". For the investigation questions (variables, anomalous results, means, risks, improvements), revisit \"Thinking and Working Scientifically: Models, Investigations and Analysing Results\".",
+    "Check your calculations: did you write the formula, show the working and give the unit? Many marks are lost on missing units.",
+    "A week later, try Practice Test 2 under timed conditions and compare your scores."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,610 @@
+{
+ "slug": "cp8m-data-collection",
+ "title": "Data Collection and Sampling",
+ "kicker": "Cambridge Lower Secondary · Mathematics 0862 · Stage 8 · Statistics and Probability",
+ "summary": "Plan a statistical investigation: write related questions and predictions, decide whether data are categorical, discrete or continuous, write and trial good questionnaires, and choose and justify random, systematic, stratified or convenience samples.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Choose, try out (trial) and **justify** a way of collecting data and a **sampling method** to test **predictions** for a set of related statistical questions, deciding what data to collect: **categorical**, **discrete** or **continuous** (8Ss.01)",
+    "Understand the **advantages and disadvantages** of different sampling methods (8Ss.02)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Statistics starts **before** any chart is drawn. A good investigation begins with clear questions and a sensible prediction, then collects the **right** data from the **right** people in a fair way. In Checkpoint-style tests you are often asked to criticise a question, name a type of data, choose a sampling method and **explain why** — so this page gives you the words to use."
+  },
+  {
+   "type": "h2",
+   "text": "Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "statistical question",
+     "سؤال إحصائي — a question answered by collecting data that varies, e.g. “How long do Year 8 students sleep?”"
+    ],
+    [
+     "prediction (hypothesis)",
+     "توقع / فرضية — what you think the data will show, written so it can be checked"
+    ],
+    [
+     "categorical data",
+     "بيانات وصفية (نوعية) — words or groups: colour, favourite sport, type of phone"
+    ],
+    [
+     "discrete data",
+     "بيانات منفصلة — numbers you count; only certain values: number of brothers, goals, shoe size"
+    ],
+    [
+     "continuous data",
+     "بيانات متصلة — numbers you measure; any value in a range: height, mass, time"
+    ],
+    [
+     "primary / secondary data",
+     "بيانات أولية / ثانوية — collected by you / collected by someone else"
+    ],
+    [
+     "population",
+     "المجتمع الإحصائي — everyone (or everything) you want to find out about"
+    ],
+    [
+     "sample",
+     "العينة — the part of the population you actually collect data from"
+    ],
+    [
+     "biased",
+     "متحيز — not fair; some answers or people are more likely to be included than others"
+    ],
+    [
+     "trial (pilot)",
+     "تجربة مبدئية — testing your questionnaire or method on a few people first, then improving it"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. Statistical questions and predictions"
+  },
+  {
+   "type": "p",
+   "text": "A **statistical question** expects answers that **vary**. “How old is Omar?” has one answer, so it is not statistical. “How much time do Year 8 students spend on homework each night?” has many different answers — it is statistical. A real investigation usually has a **set of related questions** about one big theme, and each question has a **prediction** that the data can show to be right or wrong."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Big theme: sleep and school",
+    "Prediction",
+    "Data needed (type)"
+   ],
+   "rows": [
+    [
+     "How long do Year 8 students sleep on a school night?",
+     "Most sleep less than 8 hours.",
+     "hours of sleep (continuous)"
+    ],
+    [
+     "Do students who use a phone after 10 p.m. sleep less?",
+     "Phone users after 10 p.m. sleep less, on average.",
+     "uses phone after 10 p.m.: yes/no (categorical) + hours of sleep (continuous)"
+    ],
+    [
+     "Do older students sleep less than younger ones?",
+     "Year 9 students sleep less than Year 7 students.",
+     "year group (categorical) + hours of sleep (continuous)"
+    ],
+    [
+     "How many times a week do students feel tired in class?",
+     "Students who sleep less feel tired more often.",
+     "number of times (discrete) + hours of sleep (continuous)"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "A good prediction is **specific** and **checkable**: “Year 9 students sleep less than Year 7 students, on average” can be tested by comparing two averages. “Sleep is important” cannot be tested with data."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 520 250\" width=\"520\" font-family=\"Arial, sans-serif\" font-size=\"14\"><rect x=\"190\" y=\"14\" width=\"150\" height=\"52\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"265\" y=\"36\" font-size=\"15\" text-anchor=\"middle\" font-weight=\"bold\">1. Plan</text><text x=\"265\" y=\"55\" font-size=\"13\" text-anchor=\"middle\">question + prediction</text><rect x=\"350\" y=\"100\" width=\"150\" height=\"52\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"425\" y=\"122\" font-size=\"15\" text-anchor=\"middle\" font-weight=\"bold\">2. Collect</text><text x=\"425\" y=\"141\" font-size=\"13\" text-anchor=\"middle\">sample, method, trial</text><rect x=\"190\" y=\"186\" width=\"150\" height=\"52\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"265\" y=\"208\" font-size=\"15\" text-anchor=\"middle\" font-weight=\"bold\">3. Organise</text><text x=\"265\" y=\"227\" font-size=\"13\" text-anchor=\"middle\">tables and charts</text><rect x=\"30\" y=\"100\" width=\"150\" height=\"52\" fill=\"#fbe9e7\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"105\" y=\"122\" font-size=\"15\" text-anchor=\"middle\" font-weight=\"bold\">4. Interpret</text><text x=\"105\" y=\"141\" font-size=\"13\" text-anchor=\"middle\">conclude, check</text><line x1=\"340\" y1=\"40\" x2=\"410\" y2=\"96\" stroke=\"#1f5fbf\" stroke-width=\"2\"/><polygon points=\"410,96 402.1,94.8 407.1,88.5\" fill=\"#1f5fbf\"/><line x1=\"410\" y1=\"154\" x2=\"344\" y2=\"206\" stroke=\"#1f5fbf\" stroke-width=\"2\"/><polygon points=\"344,206 347,198.6 351.9,204.9\" fill=\"#1f5fbf\"/><line x1=\"186\" y1=\"212\" x2=\"110\" y2=\"156\" stroke=\"#1f5fbf\" stroke-width=\"2\"/><polygon points=\"110,156 118,156.9 113.2,163.3\" fill=\"#1f5fbf\"/><line x1=\"110\" y1=\"96\" x2=\"186\" y2=\"42\" stroke=\"#1f5fbf\" stroke-width=\"2\"/><polygon points=\"186,42 182.7,49.3 178,42.8\" fill=\"#1f5fbf\"/><text x=\"265\" y=\"118\" font-size=\"13\" text-anchor=\"middle\" font-style=\"italic\" fill=\"#1f5fbf\">new questions?</text><text x=\"265\" y=\"136\" font-size=\"13\" text-anchor=\"middle\" font-style=\"italic\" fill=\"#1f5fbf\">go round again</text></svg>",
+   "caption": "The statistical enquiry cycle. After interpreting the data you may find new questions and go round again."
+  },
+  {
+   "type": "h2",
+   "text": "2. Types of data"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 236\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\"><rect x=\"195\" y=\"10\" width=\"150\" height=\"36\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"270\" y=\"34\" font-size=\"15\" text-anchor=\"middle\" font-weight=\"bold\">Data</text><rect x=\"20\" y=\"80\" width=\"200\" height=\"36\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"120\" y=\"104\" font-size=\"15\" text-anchor=\"middle\" font-weight=\"bold\">Categorical</text><rect x=\"320\" y=\"80\" width=\"200\" height=\"36\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"420\" y=\"104\" font-size=\"15\" text-anchor=\"middle\" font-weight=\"bold\">Numerical</text><rect x=\"250\" y=\"160\" width=\"130\" height=\"36\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"315\" y=\"184\" font-size=\"15\" text-anchor=\"middle\" font-weight=\"bold\">Discrete</text><rect x=\"400\" y=\"160\" width=\"130\" height=\"36\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"465\" y=\"184\" font-size=\"15\" text-anchor=\"middle\" font-weight=\"bold\">Continuous</text><line x1=\"250\" y1=\"46\" x2=\"120\" y2=\"80\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"290\" y1=\"46\" x2=\"420\" y2=\"80\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"400\" y1=\"116\" x2=\"315\" y2=\"160\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"440\" y1=\"116\" x2=\"465\" y2=\"160\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"120\" y=\"140\" font-size=\"13\" text-anchor=\"middle\">words / groups:</text><text x=\"120\" y=\"158\" font-size=\"13\" text-anchor=\"middle\">colour, sport, city</text><text x=\"120\" y=\"176\" font-size=\"13\" text-anchor=\"middle\">(no numbers to measure)</text><text x=\"315\" y=\"222\" font-size=\"13\" text-anchor=\"middle\" font-style=\"italic\">counted</text><text x=\"465\" y=\"222\" font-size=\"13\" text-anchor=\"middle\" font-style=\"italic\">measured</text></svg>",
+   "caption": "Categorical data are words or groups. Numerical data are numbers: discrete (counted) or continuous (measured)."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Type",
+    "How you get it",
+    "Examples",
+    "Quick test"
+   ],
+   "rows": [
+    [
+     "Categorical",
+     "choose a group or a word",
+     "eye colour, favourite subject, way of travelling to school, yes/no answers",
+     "Can you do arithmetic with it? No."
+    ],
+    [
+     "Discrete",
+     "count",
+     "number of pets, people in a family, goals scored, shoe size (only 38, 38½, 39 …)",
+     "Only certain separate values; no values in between."
+    ],
+    [
+     "Continuous",
+     "measure",
+     "height, mass, time to run 100 m, temperature, length of a leaf",
+     "Any value is possible in a range; it is rounded when recorded."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Tricky cases.** Age is continuous (you get older every second), even though we usually record it in whole years. Shoe size is discrete because only certain sizes exist. Money is usually treated as discrete because amounts go up in steps (1 piastre). A number used as a label (a bus number, a football shirt number) is categorical — you cannot do sensible calculations with it."
+  },
+  {
+   "type": "p",
+   "text": "The type of data matters because it decides how you record it and which chart to use: categorical and discrete data go in tally charts and bar charts; continuous data are put into **class intervals** such as 150 ≤ h < 155 and shown on frequency diagrams with no gaps between the bars."
+  },
+  {
+   "type": "h2",
+   "text": "3. Ways of collecting data"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Method",
+    "Good for",
+    "Advantages",
+    "Disadvantages"
+   ],
+   "rows": [
+    [
+     "Questionnaire / survey",
+     "opinions, habits",
+     "many people quickly; easy to compare answers",
+     "people may not answer, may not tell the truth, or may misunderstand"
+    ],
+    [
+     "Observation",
+     "counting what happens (cars passing, birds visiting)",
+     "you see what really happens",
+     "takes time; you must be there at the right moment"
+    ],
+    [
+     "Experiment / measuring",
+     "times, lengths, masses, results of trials",
+     "accurate numbers you control",
+     "needs equipment; measuring errors"
+    ],
+    [
+     "Secondary data (internet, school records, books)",
+     "large or old data sets",
+     "quick and cheap; lots of data",
+     "may be out of date, unreliable or not quite what you need"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Primary data** are collected by you for your investigation. **Secondary data** were collected by someone else. Always say where secondary data came from, and check that the source is reliable."
+  },
+  {
+   "type": "p",
+   "text": "**Writing good questionnaire questions.** A question should be clear, not personal, not leading, and every person must be able to tick **exactly one** box."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Poor question",
+    "What is wrong",
+    "Better question"
+   ],
+   "rows": [
+    [
+     "“How much do you sleep?” □ a little □ a lot",
+     "vague; “a lot” means different things to different people; no time frame",
+     "“On a school night, how many hours do you usually sleep?”"
+    ],
+    [
+     "Hours: □ 5–6 □ 6–7 □ 7–8 □ 8–9",
+     "overlapping boxes (where does 6 go?); no box for less than 5 or more than 9",
+     "□ less than 6 □ 6 or more but less than 7 □ 7 or more but less than 8 □ 8 or more"
+    ],
+    [
+     "“Don’t you agree that phones are bad for sleep?”",
+     "leading — it pushes people to say yes",
+     "“Do you think using a phone before bed affects sleep? □ Yes □ No □ Not sure”"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Trial your method.** Before the real survey, try the questionnaire on a few people (a **pilot**). You may find a confusing question, a missing box or that it takes too long. Improve it, **then** collect the real data. In a test, “trial” answers sound like: “I would test my questionnaire on five students first to check the questions are clear.”"
+  },
+  {
+   "type": "h2",
+   "text": "4. Populations and samples"
+  },
+  {
+   "type": "p",
+   "text": "The **population** is everyone the question is about (for example, all 480 students in a school). Asking everyone is called a **census**. It gives complete information but takes a long time and costs a lot, so we usually ask a **sample**. A sample must **represent** the population: it should contain the same kinds of people in about the same proportions. A sample that leaves out or favours some groups is **biased**, and conclusions from it can be wrong."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**Bigger sample** → results are more reliable (less affected by a few unusual people), but it takes more time and effort.",
+    "**Too small** (for example 5 people) → results can change a lot by chance.",
+    "Two different samples from the same population usually give slightly **different** results. This is **sampling variation** — it is normal, and it is why we should not trust a tiny sample."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "5. Sampling methods"
+  },
+  {
+   "type": "p",
+   "text": "**Random sampling.** Every member of the population has the **same chance** of being chosen — for example, numbers in a bag, or a random number generator on a calculator or computer, using a numbered list of the population."
+  },
+  {
+   "type": "p",
+   "text": "**Systematic sampling.** Put the population in a list, work out the step k = population size ÷ sample size, choose a random start between 1 and k, then take **every k-th** member."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 520 190\" width=\"520\" font-family=\"Arial, sans-serif\" font-size=\"14\"><text x=\"22\" y=\"31\" text-anchor=\"middle\">1</text><text x=\"55\" y=\"31\" text-anchor=\"middle\">2</text><text x=\"88\" y=\"31\" text-anchor=\"middle\">3</text><circle cx=\"121\" cy=\"26\" r=\"14\" fill=\"#c76a00\"/><text x=\"121\" y=\"31\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#fff\">4</text><text x=\"154\" y=\"31\" text-anchor=\"middle\">5</text><text x=\"187\" y=\"31\" text-anchor=\"middle\">6</text><text x=\"220\" y=\"31\" text-anchor=\"middle\">7</text><text x=\"253\" y=\"31\" text-anchor=\"middle\">8</text><text x=\"286\" y=\"31\" text-anchor=\"middle\">9</text><circle cx=\"319\" cy=\"26\" r=\"14\" fill=\"#c76a00\"/><text x=\"319\" y=\"31\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#fff\">10</text><text x=\"352\" y=\"31\" text-anchor=\"middle\">11</text><text x=\"385\" y=\"31\" text-anchor=\"middle\">12</text><text x=\"418\" y=\"31\" text-anchor=\"middle\">13</text><text x=\"451\" y=\"31\" text-anchor=\"middle\">14</text><text x=\"484\" y=\"31\" text-anchor=\"middle\">15</text><circle cx=\"22\" cy=\"60\" r=\"14\" fill=\"#c76a00\"/><text x=\"22\" y=\"65\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#fff\">16</text><text x=\"55\" y=\"65\" text-anchor=\"middle\">17</text><text x=\"88\" y=\"65\" text-anchor=\"middle\">18</text><text x=\"121\" y=\"65\" text-anchor=\"middle\">19</text><text x=\"154\" y=\"65\" text-anchor=\"middle\">20</text><text x=\"187\" y=\"65\" text-anchor=\"middle\">21</text><circle cx=\"220\" cy=\"60\" r=\"14\" fill=\"#c76a00\"/><text x=\"220\" y=\"65\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#fff\">22</text><text x=\"253\" y=\"65\" text-anchor=\"middle\">23</text><text x=\"286\" y=\"65\" text-anchor=\"middle\">24</text><text x=\"319\" y=\"65\" text-anchor=\"middle\">25</text><text x=\"352\" y=\"65\" text-anchor=\"middle\">26</text><text x=\"385\" y=\"65\" text-anchor=\"middle\">27</text><circle cx=\"418\" cy=\"60\" r=\"14\" fill=\"#c76a00\"/><text x=\"418\" y=\"65\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#fff\">28</text><text x=\"451\" y=\"65\" text-anchor=\"middle\">29</text><text x=\"484\" y=\"65\" text-anchor=\"middle\">30</text><text x=\"22\" y=\"99\" text-anchor=\"middle\">31</text><text x=\"55\" y=\"99\" text-anchor=\"middle\">32</text><text x=\"88\" y=\"99\" text-anchor=\"middle\">33</text><circle cx=\"121\" cy=\"94\" r=\"14\" fill=\"#c76a00\"/><text x=\"121\" y=\"99\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#fff\">34</text><text x=\"154\" y=\"99\" text-anchor=\"middle\">35</text><text x=\"187\" y=\"99\" text-anchor=\"middle\">36</text><text x=\"220\" y=\"99\" text-anchor=\"middle\">37</text><text x=\"253\" y=\"99\" text-anchor=\"middle\">38</text><text x=\"286\" y=\"99\" text-anchor=\"middle\">39</text><circle cx=\"319\" cy=\"94\" r=\"14\" fill=\"#c76a00\"/><text x=\"319\" y=\"99\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#fff\">40</text><text x=\"352\" y=\"99\" text-anchor=\"middle\">41</text><text x=\"385\" y=\"99\" text-anchor=\"middle\">42</text><text x=\"418\" y=\"99\" text-anchor=\"middle\">43</text><text x=\"451\" y=\"99\" text-anchor=\"middle\">44</text><text x=\"484\" y=\"99\" text-anchor=\"middle\">45</text><circle cx=\"22\" cy=\"128\" r=\"14\" fill=\"#c76a00\"/><text x=\"22\" y=\"133\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#fff\">46</text><text x=\"55\" y=\"133\" text-anchor=\"middle\">47</text><text x=\"88\" y=\"133\" text-anchor=\"middle\">48</text><text x=\"121\" y=\"133\" text-anchor=\"middle\">49</text><text x=\"154\" y=\"133\" text-anchor=\"middle\">50</text><text x=\"187\" y=\"133\" text-anchor=\"middle\">51</text><circle cx=\"220\" cy=\"128\" r=\"14\" fill=\"#c76a00\"/><text x=\"220\" y=\"133\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#fff\">52</text><text x=\"253\" y=\"133\" text-anchor=\"middle\">53</text><text x=\"286\" y=\"133\" text-anchor=\"middle\">54</text><text x=\"319\" y=\"133\" text-anchor=\"middle\">55</text><text x=\"352\" y=\"133\" text-anchor=\"middle\">56</text><text x=\"385\" y=\"133\" text-anchor=\"middle\">57</text><circle cx=\"418\" cy=\"128\" r=\"14\" fill=\"#c76a00\"/><text x=\"418\" y=\"133\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#fff\">58</text><text x=\"451\" y=\"133\" text-anchor=\"middle\">59</text><text x=\"484\" y=\"133\" text-anchor=\"middle\">60</text><text x=\"260\" y=\"178\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">Population 60, sample 10: 60 ÷ 10 = 6, start at 4, then every 6th</text></svg>",
+   "caption": "A systematic sample: 60 students, sample of 10, so every 6th name starting from number 4 (4, 10, 16, …, 58)."
+  },
+  {
+   "type": "p",
+   "text": "**Stratified sampling.** Split the population into groups (strata) such as year groups, then choose from each group **in proportion** to its size. Number from a group = (group size ÷ population size) × sample size. Inside each group, choose people at random."
+  },
+  {
+   "type": "p",
+   "text": "**Convenience (opportunity) sampling.** Ask whoever is easiest to reach — your friends, the first 20 people at the gate. It is quick, but it is usually **biased**."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Method",
+    "Advantages",
+    "Disadvantages"
+   ],
+   "rows": [
+    [
+     "Random",
+     "fair: everyone has an equal chance; avoids the collector’s own bias",
+     "needs a full list of the population; by chance it may miss a group"
+    ],
+    [
+     "Systematic",
+     "quick and easy from a list; spread evenly through the list",
+     "needs a list; can be biased if the list has a pattern (e.g. every 10th house is a corner house)"
+    ],
+    [
+     "Stratified",
+     "every group is fairly represented, in the right proportion",
+     "needs to know the size of each group; more calculation and work"
+    ],
+    [
+     "Convenience",
+     "very quick, cheap and easy",
+     "likely to be biased — the people are not typical (friends think alike; people at a gym exercise more)"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "بالعربي: العينة الكويسة",
+   "items": [
+    "المجتمع (population) = كل الناس اللي عايز تعرف عنهم. العينة (sample) = الجزء اللي هتسألهم فعلًا.",
+    "العينة لازم تمثّل المجتمع: نفس أنواع الناس وبنفس النِّسَب تقريبًا، وإلا تبقى متحيزة (biased).",
+    "عشوائية (random): كل واحد له نفس الفرصة. منتظمة (systematic): كل k-th اسم في القائمة. طبقية (stratified): من كل مجموعة حسب حجمها. ملائمة (convenience): أسهل ناس — سريعة بس غالبًا متحيزة.",
+    "عينة أكبر = نتيجة أدق، بس محتاجة وقت ومجهود أكتر."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — Types of data  [2 marks]\nWrite whether each is categorical, discrete or continuous: (a) the number of books a student read last month, (b) the time a student takes to walk to school, (c) a student’s favourite type of book, (d) the mass of a school bag."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) Books are counted, only whole numbers: **discrete**.",
+    "(b) Time is measured; it can be any value, e.g. 12.4 minutes: **continuous**.",
+    "(c) Answers are words (adventure, science fiction…): **categorical**.",
+    "(d) Mass is measured: **continuous**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** discrete, continuous, categorical, continuous (2 marks all correct; 1 mark for 2 or 3 correct).\n**Common mistake:** calling every number “discrete”. Ask yourself: is it counted or measured?"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — Criticising a questionnaire  [2 marks]\nLaila wants to know how much time students spend reading. She writes: “How long do you read for? □ 0–1 hour □ 1–2 hours □ 2–3 hours”. Write **two** different criticisms of her question."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "There is no time frame — per day? per week?",
+    "The boxes overlap: a student who reads exactly 1 hour could tick two boxes.",
+    "There is no box for more than 3 hours."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** any two of the three points (1 mark each). A good improved version: “How long did you spend reading **yesterday**? □ less than 1 hour □ 1 hour or more but less than 2 hours □ 2 hours or more but less than 3 hours □ 3 hours or more”.\n**Common mistake:** writing two criticisms that are really the same point, e.g. “the boxes overlap” and “1 is in two boxes”."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — Systematic sample  [2 marks]\nA sports club has 450 members on a numbered list. The manager wants a systematic sample of 30 members. Explain how to choose the sample, and write the first three member numbers if she starts at member 7."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Step size: 450 ÷ 30 = 15, so choose every 15th member.",
+    "Choose a random start between 1 and 15 — here 7.",
+    "Members 7, 7 + 15 = 22, 22 + 15 = 37, … (the last is 7 + 29 × 15 = 442)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** every 15th member after a random start; 7, 22, 37.\n**Common mistake:** dividing the wrong way round (30 ÷ 450) or choosing every 30th member, which gives only 15 people."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — Stratified sample  [2 marks]\nA school has 220 students in Year 7, 200 in Year 8 and 180 in Year 9. A stratified sample of 60 students is taken. How many students should be chosen from each year?"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Total population = 220 + 200 + 180 = 600.",
+    "The sample is 60 out of 600, which is 1/10 of each group.",
+    "Year 7: 220 ÷ 10 = 22. Year 8: 200 ÷ 10 = 20. Year 9: 180 ÷ 10 = 18.",
+    "Check: 22 + 20 + 18 = 60 ✓"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** 22, 20 and 18.\n**Common mistake:** taking 20 from each year. That ignores the different sizes of the groups."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — Choosing and justifying a sample  [2 marks]\nYoussef wants to find out whether students at his school (Years 7 to 9) think the school day should start later. He plans to ask the 25 students in his own Year 8 class. (a) Give one reason why his sample may be biased. (b) Describe a better sampling method."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) Only Year 8 is asked, so the views of Years 7 and 9 are missing; his classmates may also share his opinion.",
+    "(b) Use a **stratified** sample: choose students from each year group in proportion to the number of students in that year, picking names at random within each year (from the school register). This represents all years fairly."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** as above (1 mark each). A random sample from a list of the whole school also earns the mark for (b) if explained.\n**Common mistake:** answering “the sample is too small” for (a). 25 might be small, but the main problem is that it is not **representative**."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** — Planning related questions  [2 marks]\nNour predicts: “Students who eat breakfast run 100 m faster than students who do not.” (a) What two pieces of data must she collect from each student? (b) State the type of each."
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** (a) whether the student eats breakfast, and the student’s 100 m time. (b) Eats breakfast (yes/no) is **categorical**; 100 m time is **continuous**. To check the prediction she can compare the mean (or median) times of the two groups.\n**Common mistake:** collecting only the times. Without the breakfast data she cannot split the students into two groups."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Calling all numerical data discrete. Measured quantities (time, mass, length, temperature) are **continuous**.",
+    "Response boxes that overlap (1–2, 2–3) or leave gaps (1–2, 3–4). Use “1 or more but less than 2” or inequalities.",
+    "Saying a sample is biased only because it is “small”. Bias is about who is chosen, not just how many.",
+    "In systematic sampling, dividing sample size by population. The step is population ÷ sample.",
+    "In stratified sampling, taking the same number from each group regardless of size.",
+    "Forgetting to explain a choice. “Random sampling” alone is not a justification — say **why** (everyone has an equal chance, so it is not biased).",
+    "Using a convenience sample (friends, people outside a shop) and claiming it represents everyone."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "“Is this data categorical, discrete or continuous?” — often a table to complete or words to ring.",
+    "“Write one criticism of this question” or “Write a better question” — look for vague words, overlapping or missing boxes, no time frame, leading wording.",
+    "“Explain why this sample may be biased” — name the group that is left out or over-represented.",
+    "“Which sampling method …?” and “Give one advantage and one disadvantage” — use the words fair, representative, quick, needs a list.",
+    "Short calculations: the step for a systematic sample, or how many from each group in a stratified sample.",
+    "Explanations get the marks when they mention the context (the students, the club, the shop…) — not just a general rule."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Data collection and sampling — practice",
+   "timed": false,
+   "intro": "12 questions from easy to Checkpoint-hard. For the explain questions, write your answer on paper and mark it with the mark scheme shown after you finish.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 20,
+     "calc": true,
+     "questions": [
+      {
+       "q": "Which of these is **continuous** data?",
+       "c": [
+        "number of goals scored",
+        "favourite fruit",
+        "shoe size",
+        "time taken to solve a puzzle"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Types of data",
+       "e": "Time is measured and can take any value (e.g. 47.3 s), so it is continuous. Goals and shoe sizes can only take certain values (discrete). Favourite fruit is categorical."
+      },
+      {
+       "t": "text",
+       "q": "Write whether “the number of people in a car” is categorical, discrete or continuous.",
+       "ans": [
+        "discrete"
+       ],
+       "m": 1,
+       "s": "Types of data",
+       "e": "People are counted — only whole numbers 1, 2, 3 … — so the data are discrete."
+      },
+      {
+       "t": "text",
+       "q": "Write whether “the type of car (saloon, 4×4, minibus…)” is categorical, discrete or continuous.",
+       "ans": [
+        "categorical"
+       ],
+       "m": 1,
+       "s": "Types of data",
+       "e": "The answers are groups/words, not numbers, so the data are categorical."
+      },
+      {
+       "q": "Which of these is a statistical question?",
+       "c": [
+        "How long do Year 8 students spend on homework each night?",
+        "How tall is the school building?",
+        "What is 15% of 80?",
+        "What time does the bus leave?"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Statistical questions",
+       "e": "A statistical question expects answers that vary and needs data to be collected. Homework time varies from student to student. The other questions each have one fixed answer."
+      },
+      {
+       "t": "open",
+       "q": "A question on a survey is: “How many hours of TV do you watch? □ 0–2 □ 2–4 □ 4–6”. Write **two** different criticisms of this question.",
+       "m": 2,
+       "s": "Questionnaires",
+       "ms": "1 mark each for any two different points: no time frame (per day / per week); boxes overlap (2 and 4 are in two boxes); no box for more than 6 hours; (accept: the question does not say whether to include streaming/online TV). Do not accept two versions of the same point.",
+       "e": "No time period is given; 2 and 4 each appear in two boxes so a person could tick two boxes; anyone who watches more than 6 hours has no box to tick."
+      },
+      {
+       "t": "num",
+       "q": "A factory makes 1200 bottles a day. A worker checks a systematic sample of 40 bottles. How many bottles are there between one chosen bottle and the next (the step size)?",
+       "ans": [
+        30
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Systematic sampling",
+       "e": "Step = population ÷ sample size = 1200 ÷ 40 = 30. She checks every 30th bottle."
+      },
+      {
+       "t": "num",
+       "p": "A club has 240 members: 90 adults and 150 children. A stratified sample of 40 members is chosen.",
+       "q": "(a) How many adults should be in the sample?",
+       "ans": [
+        15
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Stratified sampling",
+       "e": "40 out of 240 is 1/6. Adults: 90 ÷ 6 = 15."
+      },
+      {
+       "t": "num",
+       "p": "A club has 240 members: 90 adults and 150 children. A stratified sample of 40 members is chosen.",
+       "q": "(b) How many children should be in the sample?",
+       "ans": [
+        25
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Stratified sampling",
+       "e": "Children: 150 ÷ 6 = 25. Check: 15 + 25 = 40 ✓"
+      },
+      {
+       "q": "Sara wants to know how often people in her town exercise. She asks 50 people leaving a gym. Why is this sample likely to be biased?",
+       "c": [
+        "50 people is too many.",
+        "The question is about exercise.",
+        "People leaving a gym probably exercise more than most people.",
+        "She should have asked people in the morning."
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Bias",
+       "e": "Everyone in her sample has just been exercising, so they are likely to exercise more often than a typical person in the town. Her results would overestimate how often people exercise."
+      },
+      {
+       "t": "text",
+       "q": "A teacher puts the names of all 30 students in a bag and pulls out 5 without looking. Name this sampling method.",
+       "ans": [
+        "random",
+        "random sampling",
+        "random sample",
+        "simple random sampling",
+        "simple random"
+       ],
+       "m": 1,
+       "s": "Sampling methods",
+       "e": "Every student has the same chance of being chosen, so it is random sampling."
+      },
+      {
+       "t": "open",
+       "q": "Give one advantage and one disadvantage of a convenience sample (for example, asking your friends).",
+       "m": 2,
+       "s": "Sampling methods",
+       "ms": "1 mark for an advantage: quick / easy / cheap / no list needed. 1 mark for a disadvantage: likely to be biased / not representative / friends may have similar views. Do not accept “it is small” as the disadvantage unless linked to reliability.",
+       "e": "Advantage: it is quick and easy — no list of the population is needed. Disadvantage: the people are not chosen fairly, so the sample is probably not representative (biased)."
+      },
+      {
+       "t": "open",
+       "q": "Karim predicts: “Taller students have longer arm spans.” Describe what data he should collect and how he could choose a sample of 30 students from the 300 students in Years 7–9. Explain why your sampling method is a good choice.",
+       "m": 3,
+       "s": "Planning",
+       "ms": "1 mark: collect each student’s height and arm span (both continuous, measured, e.g. in cm). 1 mark: a suitable method described, e.g. random sample from the school list, systematic every 10th student (300 ÷ 30 = 10) from a random start, or stratified by year group in proportion. 1 mark: a justification linked to the method, e.g. every student has an equal chance so it is not biased / all year groups are represented. Do not accept a convenience sample of his own class for the 2nd or 3rd mark.",
+       "e": "He must measure both height and arm span for each student (continuous data, in cm), so he can see if they go together. Sample: list all 300 students and take every 10th student from a random start between 1 and 10 (300 ÷ 30 = 10), or a stratified sample in proportion to the year sizes. This is fair because it covers all year groups and does not depend on who Karim knows."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Start with related statistical questions and clear, checkable predictions; decide what data you need for each.",
+    "Categorical = words/groups; discrete = counted; continuous = measured.",
+    "Good questions: clear, with a time frame, not leading, and response boxes that do not overlap and cover every answer. Trial the questionnaire first.",
+    "A sample must represent the population. Random = equal chance; systematic = every k-th (k = population ÷ sample); stratified = in proportion to group sizes; convenience = quick but often biased.",
+    "Bigger samples are more reliable; different samples give slightly different results (sampling variation)."
+   ]
+  }
+ ]
+}

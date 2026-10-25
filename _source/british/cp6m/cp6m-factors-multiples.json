@@ -1,0 +1,562 @@
+{
+ "slug": "cp6m-factors-multiples",
+ "title": "Factors, Multiples and Tests of Divisibility",
+ "kicker": "Cambridge Primary Checkpoint · Mathematics 0096 · Stage 6 · Number",
+ "summary": "Find factors, multiples, common factors and common multiples, and use quick tests to see whether a number is divisible by 3, 6 or 9.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Understand common multiples and common factors of two numbers, and use them to solve problems (6Ni.06).",
+    "Use what you know about factors and multiples to understand and use the tests of divisibility by 3, 6 and 9 (6Ni.07)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Factors and multiples are the \"family members\" of a number. They help you simplify fractions, find common denominators, check divisions and solve real problems such as \"When will the two buses leave together again?\". On this page you will also learn quick tests that tell you if a big number can be divided by **3**, **6** or **9** — without dividing!"
+  },
+  {
+   "type": "h2",
+   "text": "Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "factor",
+     "عامل — a whole number that divides another number exactly. 4 is a factor of 24."
+    ],
+    [
+     "factor pair",
+     "زوج عوامل — two factors that multiply to give the number: 4 × 6 = 24"
+    ],
+    [
+     "multiple",
+     "مضاعف — a number in the times table of another number. 24 is a multiple of 4."
+    ],
+    [
+     "common factor",
+     "عامل مشترك — a number that is a factor of both numbers"
+    ],
+    [
+     "highest common factor (HCF)",
+     "العامل المشترك الأكبر — the biggest common factor"
+    ],
+    [
+     "common multiple",
+     "مضاعف مشترك — a number that is a multiple of both numbers"
+    ],
+    [
+     "lowest common multiple (LCM)",
+     "المضاعف المشترك الأصغر — the smallest common multiple"
+    ],
+    [
+     "divisible by",
+     "يقبل القسمة على — can be divided exactly (no remainder)"
+    ],
+    [
+     "digit sum",
+     "مجموع الأرقام — add all the digits: the digit sum of 4 734 is 4 + 7 + 3 + 4 = 18"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Factor or multiple?** Factors are **small** (they fit into the number): factors of 12 are 1, 2, 3, 4, 6, 12. Multiples are **big** (the number fits into them) and go on for ever: multiples of 12 are 12, 24, 36, 48, … The two ideas are linked: \"4 is a factor of 24\" means the same as \"24 is a multiple of 4\"."
+  },
+  {
+   "type": "h2",
+   "text": "1. Finding all the factors of a number"
+  },
+  {
+   "type": "p",
+   "text": "Work **in pairs** so you never miss one."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Start with 1 × the number: 1 × 36.",
+    "Try 2, 3, 4, 5, … in order. If it divides exactly, write the pair: 2 × 18, 3 × 12, 4 × 9. (5 does not divide 36.)",
+    "Stop when the pairs meet or repeat: 6 × 6. The next one, 9 × 4, is already written.",
+    "List the factors in order: 1, 2, 3, 4, 6, 9, 12, 18, 36."
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 227\" width=\"540\" font-family=\"Arial, sans-serif\"><path d=\"M40 161 Q280.0 -127 520 161\" fill=\"none\" stroke=\"#1f5fbf\" stroke-width=\"2.5\"/><path d=\"M100 161 Q280.0 -55 460 161\" fill=\"none\" stroke=\"#1b6e2a\" stroke-width=\"2.5\"/><path d=\"M160 161 Q280.0 17 400 161\" fill=\"none\" stroke=\"#b35c00\" stroke-width=\"2.5\"/><path d=\"M220 161 Q280.0 89 340 161\" fill=\"none\" stroke=\"#7a3fb0\" stroke-width=\"2.5\"/><circle cx=\"40\" cy=\"175\" r=\"15\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"40\" y=\"180\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">1</text><circle cx=\"100\" cy=\"175\" r=\"15\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"100\" y=\"180\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">2</text><circle cx=\"160\" cy=\"175\" r=\"15\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"160\" y=\"180\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">3</text><circle cx=\"220\" cy=\"175\" r=\"15\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"220\" y=\"180\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">4</text><circle cx=\"280\" cy=\"175\" r=\"15\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"280\" y=\"180\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">6</text><circle cx=\"340\" cy=\"175\" r=\"15\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"340\" y=\"180\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">9</text><circle cx=\"400\" cy=\"175\" r=\"15\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"400\" y=\"180\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">12</text><circle cx=\"460\" cy=\"175\" r=\"15\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"460\" y=\"180\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">18</text><circle cx=\"520\" cy=\"175\" r=\"15\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"520\" y=\"180\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">36</text><text x=\"70\" y=\"217\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\">1 × 36</text><text x=\"170\" y=\"217\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\">2 × 18</text><text x=\"270\" y=\"217\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\">3 × 12</text><text x=\"370\" y=\"217\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\">4 × 9</text><text x=\"470\" y=\"217\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\">6 × 6</text></svg>",
+   "caption": "A factor rainbow for 36. Each arc joins a factor pair. 6 has no partner because 6 × 6 = 36 — this happens only for square numbers."
+  },
+  {
+   "type": "h2",
+   "text": "2. Common factors"
+  },
+  {
+   "type": "p",
+   "text": "List the factors of both numbers, then find the numbers that appear in **both** lists. A Venn diagram shows this clearly: common factors go in the overlap."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 520 262\" width=\"520\" font-family=\"Arial, sans-serif\"><circle cx=\"190\" cy=\"125\" r=\"105\" fill=\"#eaf1fb\" fill-opacity=\"0.8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"330\" cy=\"125\" r=\"105\" fill=\"#fff4d6\" fill-opacity=\"0.6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"150\" y=\"14\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">Factors of 24</text><text x=\"370\" y=\"14\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">Factors of 36</text><text x=\"125\" y=\"110\" font-size=\"17\" text-anchor=\"middle\" fill=\"#0f1b33\">8</text><text x=\"125\" y=\"150\" font-size=\"17\" text-anchor=\"middle\" fill=\"#0f1b33\">24</text><text x=\"395\" y=\"95\" font-size=\"17\" text-anchor=\"middle\" fill=\"#0f1b33\">9</text><text x=\"395\" y=\"130\" font-size=\"17\" text-anchor=\"middle\" fill=\"#0f1b33\">18</text><text x=\"395\" y=\"165\" font-size=\"17\" text-anchor=\"middle\" fill=\"#0f1b33\">36</text><text x=\"244\" y=\"96\" font-size=\"17\" text-anchor=\"middle\" fill=\"#1b6e2a\" font-weight=\"bold\">1</text><text x=\"278\" y=\"96\" font-size=\"17\" text-anchor=\"middle\" fill=\"#1b6e2a\" font-weight=\"bold\">2</text><text x=\"244\" y=\"128\" font-size=\"17\" text-anchor=\"middle\" fill=\"#1b6e2a\" font-weight=\"bold\">3</text><text x=\"278\" y=\"128\" font-size=\"17\" text-anchor=\"middle\" fill=\"#1b6e2a\" font-weight=\"bold\">4</text><text x=\"244\" y=\"160\" font-size=\"17\" text-anchor=\"middle\" fill=\"#1b6e2a\" font-weight=\"bold\">6</text><text x=\"278\" y=\"160\" font-size=\"17\" text-anchor=\"middle\" fill=\"#1b6e2a\" font-weight=\"bold\">12</text><text x=\"260\" y=\"252\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\">Common factors: 1, 2, 3, 4, 6, 12 · Highest common factor: 12</text></svg>",
+   "caption": "Factors of 24 and 36 in a Venn diagram. The overlap holds the common factors."
+  },
+  {
+   "type": "p",
+   "text": "1 is a common factor of every pair of numbers. The **highest common factor** is useful for simplifying fractions: 24/36 — divide top and bottom by 12 → 2/3."
+  },
+  {
+   "type": "h2",
+   "text": "3. Common multiples"
+  },
+  {
+   "type": "p",
+   "text": "List the first few multiples of each number until you find numbers in both lists."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Multiples of 4: 4, 8, **12**, 16, 20, **24**, 28, 32, **36**, 40, …",
+    "Multiples of 6: 6, **12**, 18, **24**, 30, **36**, 42, …",
+    "Common multiples of 4 and 6: 12, 24, 36, … The **lowest common multiple** is **12**. Every other common multiple is a multiple of 12."
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 530 182\" width=\"530\" font-family=\"Arial, sans-serif\"><g font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\"><rect x=\"15\" y=\"10\" width=\"50\" height=\"34\" fill=\"#fff\" stroke=\"#0f1b33\"/><text x=\"40.0\" y=\"32\">1</text><rect x=\"65\" y=\"10\" width=\"50\" height=\"34\" fill=\"#fff\" stroke=\"#0f1b33\"/><text x=\"90.0\" y=\"32\">2</text><rect x=\"115\" y=\"10\" width=\"50\" height=\"34\" fill=\"#fff\" stroke=\"#0f1b33\"/><text x=\"140.0\" y=\"32\">3</text><rect x=\"165\" y=\"10\" width=\"50\" height=\"34\" fill=\"#eaf1fb\" stroke=\"#0f1b33\"/><text x=\"190.0\" y=\"32\">4</text><rect x=\"215\" y=\"10\" width=\"50\" height=\"34\" fill=\"#fff\" stroke=\"#0f1b33\"/><text x=\"240.0\" y=\"32\">5</text><rect x=\"265\" y=\"10\" width=\"50\" height=\"34\" fill=\"#fff4d6\" stroke=\"#0f1b33\"/><text x=\"290.0\" y=\"32\">6</text><rect x=\"315\" y=\"10\" width=\"50\" height=\"34\" fill=\"#fff\" stroke=\"#0f1b33\"/><text x=\"340.0\" y=\"32\">7</text><rect x=\"365\" y=\"10\" width=\"50\" height=\"34\" fill=\"#eaf1fb\" stroke=\"#0f1b33\"/><text x=\"390.0\" y=\"32\">8</text><rect x=\"415\" y=\"10\" width=\"50\" height=\"34\" fill=\"#fff\" stroke=\"#0f1b33\"/><text x=\"440.0\" y=\"32\">9</text><rect x=\"465\" y=\"10\" width=\"50\" height=\"34\" fill=\"#fff\" stroke=\"#0f1b33\"/><text x=\"490.0\" y=\"32\">10</text><rect x=\"15\" y=\"44\" width=\"50\" height=\"34\" fill=\"#fff\" stroke=\"#0f1b33\"/><text x=\"40.0\" y=\"66\">11</text><rect x=\"65\" y=\"44\" width=\"50\" height=\"34\" fill=\"#e3f4e5\" stroke=\"#0f1b33\"/><text x=\"90.0\" y=\"66\" font-weight=\"bold\">12</text><rect x=\"115\" y=\"44\" width=\"50\" height=\"34\" fill=\"#fff\" stroke=\"#0f1b33\"/><text x=\"140.0\" y=\"66\">13</text><rect x=\"165\" y=\"44\" width=\"50\" height=\"34\" fill=\"#fff\" stroke=\"#0f1b33\"/><text x=\"190.0\" y=\"66\">14</text><rect x=\"215\" y=\"44\" width=\"50\" height=\"34\" fill=\"#fff\" stroke=\"#0f1b33\"/><text x=\"240.0\" y=\"66\">15</text><rect x=\"265\" y=\"44\" width=\"50\" height=\"34\" fill=\"#eaf1fb\" stroke=\"#0f1b33\"/><text x=\"290.0\" y=\"66\">16</text><rect x=\"315\" y=\"44\" width=\"50\" height=\"34\" fill=\"#fff\" stroke=\"#0f1b33\"/><text x=\"340.0\" y=\"66\">17</text><rect x=\"365\" y=\"44\" width=\"50\" height=\"34\" fill=\"#fff4d6\" stroke=\"#0f1b33\"/><text x=\"390.0\" y=\"66\">18</text><rect x=\"415\" y=\"44\" width=\"50\" height=\"34\" fill=\"#fff\" stroke=\"#0f1b33\"/><text x=\"440.0\" y=\"66\">19</text><rect x=\"465\" y=\"44\" width=\"50\" height=\"34\" fill=\"#eaf1fb\" stroke=\"#0f1b33\"/><text x=\"490.0\" y=\"66\">20</text><rect x=\"15\" y=\"78\" width=\"50\" height=\"34\" fill=\"#fff\" stroke=\"#0f1b33\"/><text x=\"40.0\" y=\"100\">21</text><rect x=\"65\" y=\"78\" width=\"50\" height=\"34\" fill=\"#fff\" stroke=\"#0f1b33\"/><text x=\"90.0\" y=\"100\">22</text><rect x=\"115\" y=\"78\" width=\"50\" height=\"34\" fill=\"#fff\" stroke=\"#0f1b33\"/><text x=\"140.0\" y=\"100\">23</text><rect x=\"165\" y=\"78\" width=\"50\" height=\"34\" fill=\"#e3f4e5\" stroke=\"#0f1b33\"/><text x=\"190.0\" y=\"100\" font-weight=\"bold\">24</text><rect x=\"215\" y=\"78\" width=\"50\" height=\"34\" fill=\"#fff\" stroke=\"#0f1b33\"/><text x=\"240.0\" y=\"100\">25</text><rect x=\"265\" y=\"78\" width=\"50\" height=\"34\" fill=\"#fff\" stroke=\"#0f1b33\"/><text x=\"290.0\" y=\"100\">26</text><rect x=\"315\" y=\"78\" width=\"50\" height=\"34\" fill=\"#fff\" stroke=\"#0f1b33\"/><text x=\"340.0\" y=\"100\">27</text><rect x=\"365\" y=\"78\" width=\"50\" height=\"34\" fill=\"#eaf1fb\" stroke=\"#0f1b33\"/><text x=\"390.0\" y=\"100\">28</text><rect x=\"415\" y=\"78\" width=\"50\" height=\"34\" fill=\"#fff\" stroke=\"#0f1b33\"/><text x=\"440.0\" y=\"100\">29</text><rect x=\"465\" y=\"78\" width=\"50\" height=\"34\" fill=\"#fff4d6\" stroke=\"#0f1b33\"/><text x=\"490.0\" y=\"100\">30</text><rect x=\"15\" y=\"112\" width=\"50\" height=\"34\" fill=\"#fff\" stroke=\"#0f1b33\"/><text x=\"40.0\" y=\"134\">31</text><rect x=\"65\" y=\"112\" width=\"50\" height=\"34\" fill=\"#eaf1fb\" stroke=\"#0f1b33\"/><text x=\"90.0\" y=\"134\">32</text><rect x=\"115\" y=\"112\" width=\"50\" height=\"34\" fill=\"#fff\" stroke=\"#0f1b33\"/><text x=\"140.0\" y=\"134\">33</text><rect x=\"165\" y=\"112\" width=\"50\" height=\"34\" fill=\"#fff\" stroke=\"#0f1b33\"/><text x=\"190.0\" y=\"134\">34</text><rect x=\"215\" y=\"112\" width=\"50\" height=\"34\" fill=\"#fff\" stroke=\"#0f1b33\"/><text x=\"240.0\" y=\"134\">35</text><rect x=\"265\" y=\"112\" width=\"50\" height=\"34\" fill=\"#e3f4e5\" stroke=\"#0f1b33\"/><text x=\"290.0\" y=\"134\" font-weight=\"bold\">36</text><rect x=\"315\" y=\"112\" width=\"50\" height=\"34\" fill=\"#fff\" stroke=\"#0f1b33\"/><text x=\"340.0\" y=\"134\">37</text><rect x=\"365\" y=\"112\" width=\"50\" height=\"34\" fill=\"#fff\" stroke=\"#0f1b33\"/><text x=\"390.0\" y=\"134\">38</text><rect x=\"415\" y=\"112\" width=\"50\" height=\"34\" fill=\"#fff\" stroke=\"#0f1b33\"/><text x=\"440.0\" y=\"134\">39</text><rect x=\"465\" y=\"112\" width=\"50\" height=\"34\" fill=\"#eaf1fb\" stroke=\"#0f1b33\"/><text x=\"490.0\" y=\"134\">40</text></g><rect x=\"15\" y=\"159\" width=\"16\" height=\"16\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" rx=\"0\"/><text x=\"37\" y=\"172\" font-size=\"14\" text-anchor=\"start\" fill=\"#0f1b33\">multiple of 4 only</text><rect x=\"185\" y=\"159\" width=\"16\" height=\"16\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" rx=\"0\"/><text x=\"207\" y=\"172\" font-size=\"14\" text-anchor=\"start\" fill=\"#0f1b33\">multiple of 6 only</text><rect x=\"355\" y=\"159\" width=\"16\" height=\"16\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\" rx=\"0\"/><text x=\"377\" y=\"172\" font-size=\"14\" text-anchor=\"start\" fill=\"#0f1b33\">multiple of both</text></svg>",
+   "caption": "On a 1–40 grid the multiples of both 4 and 6 (green) are 12, 24 and 36 — the multiples of 12."
+  },
+  {
+   "type": "p",
+   "text": "**Quick method for the lowest common multiple:** go through the multiples of the **bigger** number and stop at the first one the smaller number divides. LCM of 6 and 8: 8 (no), 16 (no), **24** (yes, 24 ÷ 6 = 4). Careful: the LCM is **not always** the two numbers multiplied: 6 × 8 = 48 is a common multiple, but not the lowest."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Problem says…",
+    "Usually means",
+    "Example"
+   ],
+   "rows": [
+    [
+     "\"together again\", \"at the same time\", \"first time both…\"",
+     "lowest common multiple",
+     "Buses every 12 and 18 minutes leave together; again after LCM = **36** minutes"
+    ],
+    [
+     "\"largest possible equal pieces / groups\", \"no waste\", \"share both equally\"",
+     "highest common factor",
+     "Ribbons 24 cm and 40 cm cut into equal pieces as long as possible: HCF = **8 cm**"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "4. Tests of divisibility"
+  },
+  {
+   "type": "p",
+   "text": "You already know some tests from earlier stages. Stage 6 adds the tests for **3, 6 and 9**."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Divisible by",
+    "Test",
+    "Example"
+   ],
+   "rows": [
+    [
+     "2",
+     "the last digit is even (0, 2, 4, 6, 8)",
+     "4 73**4** ✓"
+    ],
+    [
+     "5",
+     "the last digit is 0 or 5",
+     "7 42**5** ✓"
+    ],
+    [
+     "10",
+     "the last digit is 0",
+     "6 25**0** ✓"
+    ],
+    [
+     "4",
+     "the last two digits make a multiple of 4",
+     "3 5**16** ✓ (16 = 4 × 4)"
+    ],
+    [
+     "**3**",
+     "the **digit sum** is a multiple of 3",
+     "2 316: 2 + 3 + 1 + 6 = 12 ✓"
+    ],
+    [
+     "**9**",
+     "the **digit sum** is a multiple of 9",
+     "7 425: 7 + 4 + 2 + 5 = 18 ✓"
+    ],
+    [
+     "**6**",
+     "the number is **even** AND passes the test for **3**",
+     "4 734: even ✓, 4 + 7 + 3 + 4 = 18 ✓"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "If the digit sum is still big, add its digits again: 5 976 → 5 + 9 + 7 + 6 = 27 → 2 + 7 = 9, so 5 976 is divisible by 9 (and by 3)."
+  },
+  {
+   "type": "p",
+   "text": "**Why does the digit sum work?** 10 = 9 + 1, 100 = 99 + 1, 1000 = 999 + 1. So 432 = 4 × 100 + 3 × 10 + 2 = (4 × 99 + 3 × 9) + (4 + 3 + 2). The part in the first bracket is always a multiple of 9 (and so of 3). So 432 is divisible by 9 exactly when the digit sum 4 + 3 + 2 = 9 is. This is a good example of **convincing** — explaining why a rule is always true."
+  },
+  {
+   "type": "p",
+   "text": "**Why does the test for 6 need two parts?** 6 = 2 × 3, so a multiple of 6 must be a multiple of 2 **and** of 3. 15 passes the test for 3 but is odd, so it is not divisible by 6. 14 is even but its digit sum is 5, so it is not divisible by 6."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 510 210\" width=\"510\" font-family=\"Arial, sans-serif\"><text x=\"215\" y=\"28\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">divisible by 3</text><text x=\"405\" y=\"28\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">not divisible by 3</text><text x=\"110\" y=\"85\" font-size=\"14\" text-anchor=\"end\" fill=\"#0f1b33\" font-weight=\"bold\">even</text><text x=\"110\" y=\"165\" font-size=\"14\" text-anchor=\"end\" fill=\"#0f1b33\" font-weight=\"bold\">not even</text><rect x=\"120\" y=\"40\" width=\"190\" height=\"80\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\" rx=\"0\"/><rect x=\"310\" y=\"40\" width=\"190\" height=\"80\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\" rx=\"0\"/><rect x=\"120\" y=\"120\" width=\"190\" height=\"80\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\" rx=\"0\"/><rect x=\"310\" y=\"120\" width=\"190\" height=\"80\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\" rx=\"0\"/><text x=\"215\" y=\"86\" font-size=\"16\" text-anchor=\"middle\" fill=\"#0f1b33\">18, 96, 138</text><text x=\"405\" y=\"86\" font-size=\"16\" text-anchor=\"middle\" fill=\"#0f1b33\">34, 100</text><text x=\"215\" y=\"166\" font-size=\"16\" text-anchor=\"middle\" fill=\"#0f1b33\">45, 117</text><text x=\"405\" y=\"166\" font-size=\"16\" text-anchor=\"middle\" fill=\"#0f1b33\">125</text><text x=\"215\" y=\"112\" font-size=\"13\" text-anchor=\"middle\" fill=\"#1b6e2a\" font-weight=\"bold\">divisible by 6</text></svg>",
+   "caption": "A Carroll diagram sorting 18, 34, 45, 96, 100, 117, 125 and 138. The green box (even AND divisible by 3) holds the multiples of 6."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Every multiple of 9 is a multiple of 3 (9 = 3 × 3). But not every multiple of 3 is a multiple of 9: 12, 15, 21 are counter-examples.",
+    "Every multiple of 6 is even and a multiple of 3.",
+    "A number with digit sum 9, 18, 27 … is divisible by 3 **and** 9."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "بالعربي: اختبارات القسمة على 3 و 6 و 9",
+   "items": [
+    "القسمة على 3: اجمع أرقام العدد، لو المجموع من جدول الـ 3 يبقى العدد يقبل القسمة على 3.",
+    "القسمة على 9: نفس الفكرة، بس المجموع لازم يكون من جدول الـ 9 (9، 18، 27…).",
+    "القسمة على 6: لازم الشرطين مع بعض — العدد زوجي (آخر رقم زوجي) ومجموع أرقامه من جدول الـ 3.",
+    "العوامل صغيرة وبتدخل في العدد، والمضاعفات كبيرة ومالهاش نهاية."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** (1 mark) — Write all the factors of 48."
+  },
+  {
+   "type": "p",
+   "text": "Pairs: 1 × 48, 2 × 24, 3 × 16, 4 × 12, 6 × 8 (5 and 7 do not divide 48; the next, 8 × 6, repeats). **Answer: 1, 2, 3, 4, 6, 8, 12, 16, 24, 48.** Common mistake: forgetting 1 and 48 themselves."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** (1 mark) — Find the highest common factor of 18 and 30."
+  },
+  {
+   "type": "p",
+   "text": "Factors of 18: 1, 2, 3, 6, 9, 18. Factors of 30: 1, 2, 3, 5, 6, 10, 15, 30. Common: 1, 2, 3, 6. **Answer: 6.**"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** (1 mark) — Write the two common multiples of 6 and 8 that are less than 50."
+  },
+  {
+   "type": "p",
+   "text": "Multiples of 8: 8, 16, 24, 32, 40, 48. Which are divisible by 6? 24 and 48. **Answer: 24 and 48.**"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** (1 mark) — Tick the numbers that are divisible by 6:   3 582   7 425   2 316   4 105"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Number",
+    "Even?",
+    "Digit sum",
+    "Divisible by 3?",
+    "Divisible by 6?"
+   ],
+   "rows": [
+    [
+     "3 582",
+     "yes",
+     "18",
+     "yes",
+     "**yes ✓**"
+    ],
+    [
+     "7 425",
+     "no",
+     "18",
+     "yes",
+     "no (odd)"
+    ],
+    [
+     "2 316",
+     "yes",
+     "12",
+     "yes",
+     "**yes ✓**"
+    ],
+    [
+     "4 105",
+     "no",
+     "10",
+     "no",
+     "no"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Common mistake: ticking 7 425 because its digit sum is 18. It is divisible by 3 and by 9, but it is odd, so it is **not** divisible by 6."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** (2 marks) — 73□ is a 3-digit number that is divisible by 6. Find **all** the possible missing digits."
+  },
+  {
+   "type": "p",
+   "text": "It must be even: □ is 0, 2, 4, 6 or 8. Digit sum 7 + 3 + □ = 10 + □ must be a multiple of 3: □ = 2 (sum 12) or □ = 8 (sum 18). Both are even. **Answer: 2 or 8** (732 and 738). Check: 732 ÷ 6 = 122 ✓, 738 ÷ 6 = 123 ✓. Common mistake: also giving 5 (sum 15) — but 735 is odd."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** (1 mark) — Two lights flash at the same moment. One flashes every 8 seconds, the other every 12 seconds. After how many seconds will they next flash together?"
+  },
+  {
+   "type": "p",
+   "text": "Multiples of 12: 12, **24**. 24 ÷ 8 = 3 ✓. **Answer: 24 seconds** (the lowest common multiple). Common mistake: 8 × 12 = 96 — that is a common multiple, but not the first one."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Mixing up factors and multiples. Factors of 12 are ≤ 12; multiples of 12 are ≥ 12.",
+    "Missing factor pairs — always work systematically from 1 upwards.",
+    "Forgetting 1 and the number itself as factors.",
+    "Using the digit-sum test for 6 without checking the number is even.",
+    "Thinking \"divisible by 3\" means \"divisible by 9\" — 12 is divisible by 3 but not 9.",
+    "Giving a common multiple that is not the lowest (multiplying the two numbers).",
+    "Using the last digit to test for 3 or 9 — those tests need the digit **sum**."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "\"Write all the factors of …\" / \"Write a common factor of …\" — list in order, in pairs.",
+    "\"Write a number that is a multiple of 6 and a multiple of 9\" — any common multiple (18, 36, 54 …) gets the mark.",
+    "Venn and Carroll diagrams: sort numbers by \"factor of 24\", \"multiple of 3\", \"divisible by 6\" … Check every number against both labels.",
+    "\"Tick the numbers that are divisible by 9\" — use the digit sum, write it next to each number.",
+    "Missing-digit questions: \"□ is a digit. 5□4 is divisible by 9. Find the possible values.\" — there may be more than one answer.",
+    "\"Is Sara correct? Explain.\" — give a counter-example (one number that breaks the rule) or a test result.",
+    "Word problems: \"together again\" = LCM; \"largest equal groups / pieces\" = HCF."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Factors, multiples and divisibility practice",
+   "timed": false,
+   "intro": "No calculator. Use digit sums for 3, 6 and 9. Written answers are self-marked against the mark scheme at the end.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 20,
+     "calc": false,
+     "questions": [
+      {
+       "q": "Which of these numbers is a factor of 42?",
+       "c": [
+        "8",
+        "9",
+        "12",
+        "14"
+       ],
+       "a": 3,
+       "m": 1,
+       "e": "14 × 3 = 42, so 14 is a factor of 42. 42 ÷ 8, 42 ÷ 9 and 42 ÷ 12 all leave remainders.",
+       "s": "Factors"
+      },
+      {
+       "t": "num",
+       "q": "How many factors does 36 have?",
+       "ans": [
+        9
+       ],
+       "tol": 0,
+       "m": 1,
+       "e": "Pairs: 1×36, 2×18, 3×12, 4×9, 6×6. Factors: 1, 2, 3, 4, 6, 9, 12, 18, 36 → 9 factors (6 is counted once).",
+       "s": "Factors"
+      },
+      {
+       "t": "num",
+       "q": "What is the highest common factor of 28 and 42?",
+       "ans": [
+        14
+       ],
+       "tol": 0,
+       "m": 1,
+       "e": "Factors of 28: 1, 2, 4, 7, 14, 28. Factors of 42: 1, 2, 3, 6, 7, 14, 21, 42. Common: 1, 2, 7, 14. Highest: 14.",
+       "s": "Common factors"
+      },
+      {
+       "t": "num",
+       "q": "What is the lowest common multiple of 6 and 9?",
+       "ans": [
+        18
+       ],
+       "tol": 0,
+       "m": 1,
+       "e": "Multiples of 9: 9, 18. 18 ÷ 6 = 3 ✓. LCM = 18 (not 54 = 6 × 9).",
+       "s": "Common multiples"
+      },
+      {
+       "q": "Which of these numbers is divisible by 9?",
+       "c": [
+        "5 672",
+        "3 465",
+        "4 832",
+        "7 103"
+       ],
+       "a": 1,
+       "m": 1,
+       "e": "Digit sums: 5 672 → 20, 3 465 → 18, 4 832 → 17, 7 103 → 11. Only 18 is a multiple of 9, so 3 465.",
+       "s": "Divisibility by 9"
+      },
+      {
+       "q": "Which of these numbers is divisible by 6?",
+       "c": [
+        "3 615",
+        "2 714",
+        "4 512",
+        "1 003"
+       ],
+       "a": 2,
+       "m": 1,
+       "e": "3 615 and 1 003 are odd, so not divisible by 6. 2 714 is even but its digit sum 14 is not a multiple of 3. 4 512 is even and its digit sum is 12 → divisible by 6 (4 512 ÷ 6 = 752).",
+       "s": "Divisibility by 6"
+      },
+      {
+       "t": "num",
+       "q": "47□ is a 3-digit number. It is divisible by 9. What is the missing digit □?",
+       "ans": [
+        7
+       ],
+       "tol": 0,
+       "m": 1,
+       "e": "4 + 7 + □ = 11 + □ must be a multiple of 9. The only digit that works is 7 (11 + 7 = 18). 477 ÷ 9 = 53 ✓",
+       "s": "Divisibility by 9"
+      },
+      {
+       "t": "num",
+       "q": "6□2 is a 3-digit number. It is divisible by 6. Write one possible value of the missing digit □.",
+       "ans": [
+        1,
+        4,
+        7
+       ],
+       "tol": 0,
+       "m": 1,
+       "e": "6□2 is already even (ends in 2). It also needs 6 + □ + 2 = 8 + □ to be a multiple of 3: □ = 1 (9), 4 (12) or 7 (15). Any one of 1, 4, 7 is correct: 612, 642, 672.",
+       "s": "Divisibility by 6"
+      },
+      {
+       "t": "text",
+       "p": "Look at this Carroll diagram. The regions are labelled A, B, C and D.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 510 210\" width=\"510\" font-family=\"Arial, sans-serif\"><text x=\"215\" y=\"28\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">divisible by 3</text><text x=\"405\" y=\"28\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">not divisible by 3</text><text x=\"110\" y=\"85\" font-size=\"14\" text-anchor=\"end\" fill=\"#0f1b33\" font-weight=\"bold\">even</text><text x=\"110\" y=\"165\" font-size=\"14\" text-anchor=\"end\" fill=\"#0f1b33\" font-weight=\"bold\">not even</text><rect x=\"120\" y=\"40\" width=\"190\" height=\"80\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\" rx=\"0\"/><rect x=\"310\" y=\"40\" width=\"190\" height=\"80\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\" rx=\"0\"/><rect x=\"120\" y=\"120\" width=\"190\" height=\"80\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\" rx=\"0\"/><rect x=\"310\" y=\"120\" width=\"190\" height=\"80\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\" rx=\"0\"/><text x=\"215\" y=\"88\" font-size=\"24\" text-anchor=\"middle\" fill=\"#3c4a63\" font-weight=\"bold\">A</text><text x=\"405\" y=\"88\" font-size=\"24\" text-anchor=\"middle\" fill=\"#3c4a63\" font-weight=\"bold\">B</text><text x=\"215\" y=\"168\" font-size=\"24\" text-anchor=\"middle\" fill=\"#3c4a63\" font-weight=\"bold\">C</text><text x=\"405\" y=\"168\" font-size=\"24\" text-anchor=\"middle\" fill=\"#3c4a63\" font-weight=\"bold\">D</text></svg>",
+       "q": "(a) Write the letter of the region where 135 belongs.",
+       "ans": [
+        "C"
+       ],
+       "m": 1,
+       "e": "135 is odd (not even). Digit sum 1 + 3 + 5 = 9, a multiple of 3, so it is divisible by 3. Bottom row, left column → C.",
+       "s": "Carroll diagram"
+      },
+      {
+       "t": "text",
+       "p": "Look at this Carroll diagram. The regions are labelled A, B, C and D.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 510 210\" width=\"510\" font-family=\"Arial, sans-serif\"><text x=\"215\" y=\"28\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">divisible by 3</text><text x=\"405\" y=\"28\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">not divisible by 3</text><text x=\"110\" y=\"85\" font-size=\"14\" text-anchor=\"end\" fill=\"#0f1b33\" font-weight=\"bold\">even</text><text x=\"110\" y=\"165\" font-size=\"14\" text-anchor=\"end\" fill=\"#0f1b33\" font-weight=\"bold\">not even</text><rect x=\"120\" y=\"40\" width=\"190\" height=\"80\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\" rx=\"0\"/><rect x=\"310\" y=\"40\" width=\"190\" height=\"80\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\" rx=\"0\"/><rect x=\"120\" y=\"120\" width=\"190\" height=\"80\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\" rx=\"0\"/><rect x=\"310\" y=\"120\" width=\"190\" height=\"80\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\" rx=\"0\"/><text x=\"215\" y=\"88\" font-size=\"24\" text-anchor=\"middle\" fill=\"#3c4a63\" font-weight=\"bold\">A</text><text x=\"405\" y=\"88\" font-size=\"24\" text-anchor=\"middle\" fill=\"#3c4a63\" font-weight=\"bold\">B</text><text x=\"215\" y=\"168\" font-size=\"24\" text-anchor=\"middle\" fill=\"#3c4a63\" font-weight=\"bold\">C</text><text x=\"405\" y=\"168\" font-size=\"24\" text-anchor=\"middle\" fill=\"#3c4a63\" font-weight=\"bold\">D</text></svg>",
+       "q": "(b) Every number in one region is divisible by 6. Write the letter of that region.",
+       "ans": [
+        "A"
+       ],
+       "m": 1,
+       "e": "Divisible by 6 = even AND divisible by 3 → top row, left column → A.",
+       "s": "Carroll diagram"
+      },
+      {
+       "t": "num",
+       "q": "Bus X leaves the station every 12 minutes. Bus Y leaves every 18 minutes. Both leave at 08:00. After how many minutes will they next leave at the same time?",
+       "ans": [
+        36
+       ],
+       "tol": 0,
+       "unit": "minutes",
+       "m": 1,
+       "e": "Find the lowest common multiple of 12 and 18. Multiples of 18: 18, 36. 36 ÷ 12 = 3 ✓. They leave together again after 36 minutes (at 08:36).",
+       "s": "Common multiples"
+      },
+      {
+       "t": "num",
+       "q": "A red ribbon is 24 cm long and a blue ribbon is 40 cm long. Both are cut into equal pieces, all the same length, as long as possible, with nothing left over. How long is each piece?",
+       "ans": [
+        8
+       ],
+       "tol": 0,
+       "unit": "cm",
+       "m": 2,
+       "e": "The piece length must be a factor of 24 and of 40, and as big as possible: highest common factor. Factors of 24: 1, 2, 3, 4, 6, 8, 12, 24. Factors of 40: 1, 2, 4, 5, 8, 10, 20, 40. HCF = 8 cm (3 red pieces and 5 blue pieces).",
+       "s": "Common factors"
+      },
+      {
+       "q": "Which statement is always true?",
+       "c": [
+        "All multiples of 6 are even.",
+        "All multiples of 3 are odd.",
+        "All even numbers are multiples of 6.",
+        "All multiples of 9 are multiples of 6."
+       ],
+       "a": 0,
+       "m": 1,
+       "e": "6 = 2 × 3, so every multiple of 6 is a multiple of 2 (even). Counter-examples for the others: 6 is a multiple of 3 and even; 8 is even but not a multiple of 6; 9 is a multiple of 9 but not of 6.",
+       "s": "Reasoning"
+      },
+      {
+       "t": "open",
+       "q": "Sara says: \"If a number is divisible by 3, it is also divisible by 9.\" Is she correct? Explain your answer.",
+       "m": 1,
+       "ms": "1 mark: No, with a correct counter-example — any multiple of 3 that is not a multiple of 9, e.g. 3, 6, 12, 15, 21, 24 (oe, e.g. \"12: digit sum 3 is a multiple of 3 but not of 9\"). Do not accept \"No\" without an example or reason.",
+       "e": "No. 12 is divisible by 3 (12 ÷ 3 = 4) but not by 9. The opposite is true: every number divisible by 9 is divisible by 3.",
+       "s": "Reasoning"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Find factors **in pairs** from 1 upwards; multiples are the times table and never end.",
+    "Common factor = in both factor lists (HCF = biggest); common multiple = in both multiple lists (LCM = smallest).",
+    "Divisible by 3 → digit sum is a multiple of 3. Divisible by 9 → digit sum is a multiple of 9.",
+    "Divisible by 6 → **even AND** digit sum a multiple of 3.",
+    "\"Together again\" → LCM. \"Largest equal pieces/groups\" → HCF."
+   ]
+  }
+ ]
+}

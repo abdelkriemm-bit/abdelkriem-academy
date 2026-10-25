@@ -1,0 +1,644 @@
+{
+ "slug": "cp8s-diet-health",
+ "title": "A Balanced Diet, Energy Stores and Lifestyle",
+ "kicker": "Cambridge Lower Secondary · Science 0893 · Stage 8 · Biology",
+ "summary": "The nutrients in a balanced diet and what each one does, how animals get and store energy, and how diet and smoking affect growth and health — with food-label calculations and Checkpoint-style practice.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Name the parts of a balanced diet — protein, carbohydrates, fats and oils, water, minerals (calcium and iron) and vitamins (A, C and D) — and describe what each one does (8Bp.01)",
+    "Understand that animals store energy as carbohydrates and fats, and that animals eat food to get energy and nutrients (8Bp.02)",
+    "Discuss how lifestyle — including diet and smoking — affects human growth, development and health (8Bp.03)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Food gives your body two things: **energy** (to move, grow, keep warm and keep every cell working) and **nutrients** (the raw materials to build and repair the body). Plants make their own food by photosynthesis, but **animals cannot**, so animals — including humans — must **eat** food. A **balanced diet** contains all the nutrients in the right amounts, and the right amount of energy for the person."
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "nutrient",
+     "عنصر غذائي — a substance in food that the body needs"
+    ],
+    [
+     "balanced diet",
+     "غذاء متوازن — all the nutrients in the right amounts"
+    ],
+    [
+     "carbohydrate",
+     "الكربوهيدرات (النشويات والسكريات) — the main source of energy"
+    ],
+    [
+     "protein",
+     "البروتين — for growth and repair"
+    ],
+    [
+     "fats and oils",
+     "الدهون والزيوت — a store of energy; keep the body warm"
+    ],
+    [
+     "mineral",
+     "معدن (أملاح معدنية) — e.g. calcium and iron"
+    ],
+    [
+     "vitamin",
+     "فيتامين — needed in small amounts to stay healthy"
+    ],
+    [
+     "deficiency",
+     "نقص — not getting enough of a nutrient"
+    ],
+    [
+     "malnutrition",
+     "سوء التغذية — eating too much, too little or the wrong balance"
+    ],
+    [
+     "obesity",
+     "السمنة — being very overweight"
+    ],
+    [
+     "kilojoule (kJ)",
+     "كيلوجول — the unit for energy in food"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "The seven parts of a balanced diet"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Nutrient",
+    "What it does in the body",
+    "Good sources"
+   ],
+   "rows": [
+    [
+     "**Carbohydrates** (starch and sugars)",
+     "The **main source of energy** for the body's cells",
+     "bread (aish baladi), rice, pasta, potatoes, dates, honey"
+    ],
+    [
+     "**Fats and oils**",
+     "A **store of energy**; **insulation** (keeps the body warm); **protects** organs such as the kidneys",
+     "butter, ghee (samna), cooking oil, nuts, tahini, cheese"
+    ],
+    [
+     "**Protein**",
+     "**Growth and repair** — building new cells, muscles and other tissues",
+     "meat, chicken, fish, eggs, milk, beans (ful), lentils"
+    ],
+    [
+     "**Water**",
+     "Most of the blood **plasma** is water, so it **transports** substances; reactions in cells happen in water; sweat cools you; urine removes waste",
+     "drinking water, drinks, fruit and vegetables, soup"
+    ],
+    [
+     "**Minerals: calcium**",
+     "Strong **bones and teeth**",
+     "milk, cheese, yoghurt, sardines (with the bones), sesame"
+    ],
+    [
+     "**Minerals: iron**",
+     "Needed to make **haemoglobin** in **red blood cells**, which carries **oxygen**",
+     "red meat, liver, lentils, beans, dark green leafy vegetables (spinach)"
+    ],
+    [
+     "**Vitamin A**",
+     "Good **eyesight**, especially seeing in dim light; healthy skin",
+     "carrots, sweet potatoes, mango, liver, eggs"
+    ],
+    [
+     "**Vitamin C**",
+     "Healthy **skin and gums**; helps **wounds heal**; helps the body fight infection",
+     "guava, oranges, lemons, tomatoes, green peppers"
+    ],
+    [
+     "**Vitamin D**",
+     "Helps the body **absorb calcium**, so bones and teeth grow strong",
+     "made in your **skin in sunlight**; oily fish (sardines, salmon), egg yolk"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Also needed:** **fibre** (from vegetables, fruit, brown bread, beans) is not digested, but it keeps food moving through the gut and prevents constipation. Your objective does not list fibre, but it is part of a healthy diet and may appear in questions about meals."
+  },
+  {
+   "type": "h2",
+   "text": "What happens when a nutrient is missing (deficiency)"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Missing nutrient",
+    "Effect (deficiency disease or symptom)"
+   ],
+   "rows": [
+    [
+     "Protein",
+     "Slow growth in children; weak muscles; wounds heal slowly"
+    ],
+    [
+     "Iron",
+     "**Anaemia**: not enough haemoglobin, so less oxygen is carried — the person is **tired**, pale and short of breath"
+    ],
+    [
+     "Calcium or vitamin D",
+     "Weak, soft bones that can bend (**rickets** in children); weak teeth"
+    ],
+    [
+     "Vitamin A",
+     "Poor eyesight in dim light (**night blindness**)"
+    ],
+    [
+     "Vitamin C",
+     "**Scurvy**: bleeding gums, wounds that do not heal"
+    ],
+    [
+     "Water",
+     "Dehydration: headache, tiredness, dark urine"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Link:** iron and red blood cells. On the Blood page you learned that red blood cells carry oxygen. Without enough iron the body cannot make enough haemoglobin, so less oxygen reaches the cells for respiration, less energy is released and the person feels tired."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "احفظها كده",
+   "text": "النشويات = طاقة سريعة. الدهون = مخزن طاقة + تدفئة + حماية الأعضاء. البروتين = بناء وتعويض الخلايا (النمو). الكالسيوم = عضم وسنان. الحديد = الهيموجلوبين في كرات الدم الحمرا اللي بتشيل الأكسجين (نقصه = أنيميا وتعب). فيتامين A = النظر في الضلمة. فيتامين C = اللثة والجلد والتئام الجروح. فيتامين D = بيساعد الجسم يمتص الكالسيوم، وجلدك بيعمله في الشمس."
+  },
+  {
+   "type": "h2",
+   "text": "Energy: why animals eat, and how they store energy"
+  },
+  {
+   "type": "p",
+   "text": "Energy in food is measured in **kilojoules (kJ)**. Food labels show the energy in **100 g** and in one portion. Foods with a lot of **fat** contain the most energy for their mass."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 330\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#0f1b33\"><text x=\"270\" y=\"16\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">Energy in 100 g of some foods (approximate)</text><line x1=\"85\" y1=\"268\" x2=\"525\" y2=\"268\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"238.5\" x2=\"525\" y2=\"238.5\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"209\" x2=\"525\" y2=\"209\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"179.5\" x2=\"525\" y2=\"179.5\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"150\" x2=\"525\" y2=\"150\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"120.5\" x2=\"525\" y2=\"120.5\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"91\" x2=\"525\" y2=\"91\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"61.5\" x2=\"525\" y2=\"61.5\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"32\" x2=\"525\" y2=\"32\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"80\" y1=\"268\" x2=\"85\" y2=\"268\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"77\" y=\"273\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">0</text><line x1=\"80\" y1=\"238.5\" x2=\"85\" y2=\"238.5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"77\" y=\"243.5\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">500</text><line x1=\"80\" y1=\"209\" x2=\"85\" y2=\"209\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"77\" y=\"214\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">1 000</text><line x1=\"80\" y1=\"179.5\" x2=\"85\" y2=\"179.5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"77\" y=\"184.5\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">1 500</text><line x1=\"80\" y1=\"150\" x2=\"85\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"77\" y=\"155\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">2 000</text><line x1=\"80\" y1=\"120.5\" x2=\"85\" y2=\"120.5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"77\" y=\"125.5\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">2 500</text><line x1=\"80\" y1=\"91\" x2=\"85\" y2=\"91\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"77\" y=\"96\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">3 000</text><line x1=\"80\" y1=\"61.5\" x2=\"85\" y2=\"61.5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"77\" y=\"66.5\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">3 500</text><line x1=\"80\" y1=\"32\" x2=\"85\" y2=\"32\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"77\" y=\"37\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">4 000</text><rect x=\"99.7\" y=\"264.2\" width=\"44\" height=\"3.8\" rx=\"0\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"121.7\" y=\"286\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">cucumber</text><rect x=\"173\" y=\"255\" width=\"44\" height=\"13\" rx=\"0\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"195\" y=\"286\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">apple</text><rect x=\"246.3\" y=\"235.6\" width=\"44\" height=\"32.4\" rx=\"0\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"268.3\" y=\"286\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">rice</text><text x=\"268.3\" y=\"301\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">(cooked)</text><rect x=\"319.7\" y=\"203.1\" width=\"44\" height=\"64.9\" rx=\"0\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"341.7\" y=\"286\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">white</text><text x=\"341.7\" y=\"301\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">bread</text><rect x=\"393\" y=\"167.7\" width=\"44\" height=\"100.3\" rx=\"0\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"415\" y=\"286\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">cheese</text><rect x=\"466.3\" y=\"49.7\" width=\"44\" height=\"218.3\" rx=\"0\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"488.3\" y=\"286\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">olive oil</text><path d=\"M85 268H525M85 268V32\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"305\" y=\"322\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">food</text><text x=\"18\" y=\"150\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\" transform=\"rotate(-90 18 150)\">energy in kJ per 100 g</text></svg>",
+   "caption": "Fatty foods such as cheese and olive oil contain far more energy per 100 g than fruit and vegetables, which are mostly water."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Energy store",
+    "Where it is kept in animals",
+    "Notes"
+   ],
+   "rows": [
+    [
+     "**Carbohydrate** (stored as glycogen)",
+     "In the **liver** and **muscles**",
+     "A small, quick store — used up in a day or less without food"
+    ],
+    [
+     "**Fat**",
+     "Under the **skin** and around **organs**",
+     "A large, long-term store. 1 g of fat releases about **twice as much energy** as 1 g of carbohydrate (about 37 kJ compared with about 17 kJ)"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Animals **cannot make their own food**, so they **consume** (eat) other organisms to get **energy** and **nutrients**.",
+    "If an animal takes in **more energy than it uses**, the extra is **stored**, mostly as **fat**, and the animal gains mass.",
+    "If it takes in **less energy than it uses**, it uses its **stores** of carbohydrate and then fat, and it loses mass.",
+    "Examples: a **camel's hump** is a store of **fat** (not water) that it can use for energy when food is scarce in the desert. Bears build up thick fat stores before winter. Seals and whales have a thick layer of fat (blubber) that is both an energy store and insulation."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Different people need different amounts of energy.** A person needs more energy if they are **more active**, **bigger**, **growing** (teenagers), or **pregnant**. For example, a builder who lifts heavy loads all day needs much more energy than an office worker of the same age."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "**Method for food-label calculations:** find the energy per 100 g on the label.",
+    "Divide by 100 to get the energy in 1 g.",
+    "Multiply by the mass you eat. (Shortcut: energy in portion = energy per 100 g × mass ÷ 100.)",
+    "To find a percentage of daily needs: energy in portion ÷ daily need × 100."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Lifestyle, growth and health"
+  },
+  {
+   "type": "p",
+   "text": "Your **lifestyle** is the way you live: what you eat, how active you are, whether you smoke, how much you sleep. Lifestyle choices affect how well children **grow** and **develop**, and how healthy people are now and later in life."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Lifestyle factor",
+    "Possible effects on growth, development and health"
+   ],
+   "rows": [
+    [
+     "**Too much energy** (lots of fatty and sugary food, little exercise)",
+     "Extra energy stored as fat → **overweight** and **obesity** → higher risk of **heart disease**, **type 2 diabetes**, high blood pressure and joint problems"
+    ],
+    [
+     "**Too much sugar**",
+     "**Tooth decay**; adds extra energy"
+    ],
+    [
+     "**Too much salt**",
+     "High blood pressure, which can lead to heart disease and strokes"
+    ],
+    [
+     "**Too little food / too little protein**",
+     "Underweight; children **do not grow properly** and may develop more slowly; tiredness; more infections"
+    ],
+    [
+     "**Missing minerals or vitamins**",
+     "Deficiency diseases: anaemia (iron), rickets (calcium / vitamin D), scurvy (vitamin C), night blindness (vitamin A)"
+    ],
+    [
+     "**Regular exercise**",
+     "Uses energy, strengthens the heart, lungs, muscles and bones; lowers the risk of obesity and heart disease"
+    ],
+    [
+     "**Smoking**",
+     "See the table below — damages the lungs, heart and blood vessels and harms unborn babies"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Smoking and health"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Substance in tobacco smoke",
+    "What it does"
+   ],
+   "rows": [
+    [
+     "**Nicotine**",
+     "A drug that is **addictive** (makes it hard to stop); increases heart rate and blood pressure"
+    ],
+    [
+     "**Tar**",
+     "A sticky substance that coats the lungs; contains chemicals that cause **cancer** (lung, mouth and throat cancer); damages the **cilia**, so mucus and dirt collect → **smoker's cough** and bronchitis; damages the walls of the **alveoli** (less surface area for gas exchange)"
+    ],
+    [
+     "**Carbon monoxide**",
+     "A poisonous gas that **joins to red blood cells** in place of oxygen, so the blood carries **less oxygen** — smokers get out of breath more easily"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**Smoking in pregnancy:** carbon monoxide reduces the oxygen that reaches the baby through the mother's blood. The baby may **grow less** before birth (low birth mass) and may be born **early**.",
+    "**Second-hand smoke:** people who breathe in other people's smoke — especially children — are also harmed (more asthma and chest infections).",
+    "**Shisha (water pipe)** is not a safe choice: its smoke still contains tar, nicotine and carbon monoxide."
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 330\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#0f1b33\"><text x=\"270\" y=\"16\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">Lung cancer deaths and smoking (example data)</text><line x1=\"85\" y1=\"275\" x2=\"525\" y2=\"275\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"265.3\" x2=\"525\" y2=\"265.3\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"255.6\" x2=\"525\" y2=\"255.6\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"245.8\" x2=\"525\" y2=\"245.8\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"236.1\" x2=\"525\" y2=\"236.1\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"226.4\" x2=\"525\" y2=\"226.4\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"216.7\" x2=\"525\" y2=\"216.7\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"207\" x2=\"525\" y2=\"207\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"197.2\" x2=\"525\" y2=\"197.2\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"187.5\" x2=\"525\" y2=\"187.5\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"177.8\" x2=\"525\" y2=\"177.8\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"168.1\" x2=\"525\" y2=\"168.1\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"158.4\" x2=\"525\" y2=\"158.4\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"148.6\" x2=\"525\" y2=\"148.6\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"138.9\" x2=\"525\" y2=\"138.9\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"129.2\" x2=\"525\" y2=\"129.2\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"119.5\" x2=\"525\" y2=\"119.5\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"109.8\" x2=\"525\" y2=\"109.8\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"100\" x2=\"525\" y2=\"100\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"90.3\" x2=\"525\" y2=\"90.3\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"80.6\" x2=\"525\" y2=\"80.6\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"70.9\" x2=\"525\" y2=\"70.9\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"61.2\" x2=\"525\" y2=\"61.2\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"51.4\" x2=\"525\" y2=\"51.4\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"41.7\" x2=\"525\" y2=\"41.7\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"32\" x2=\"525\" y2=\"32\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"80\" y1=\"275\" x2=\"85\" y2=\"275\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"77\" y=\"280\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">0</text><line x1=\"80\" y1=\"226.4\" x2=\"85\" y2=\"226.4\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"77\" y=\"231.4\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">50</text><line x1=\"80\" y1=\"177.8\" x2=\"85\" y2=\"177.8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"77\" y=\"182.8\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">100</text><line x1=\"80\" y1=\"129.2\" x2=\"85\" y2=\"129.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"77\" y=\"134.2\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">150</text><line x1=\"80\" y1=\"80.6\" x2=\"85\" y2=\"80.6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"77\" y=\"85.6\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">200</text><line x1=\"80\" y1=\"32\" x2=\"85\" y2=\"32\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"77\" y=\"37\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">250</text><rect x=\"107\" y=\"265.3\" width=\"66\" height=\"9.7\" rx=\"0\" fill=\"#f7d9d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"140\" y=\"293\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">0</text><rect x=\"217\" y=\"216.7\" width=\"66\" height=\"58.3\" rx=\"0\" fill=\"#f7d9d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"250\" y=\"293\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">1–14</text><rect x=\"327\" y=\"138.9\" width=\"66\" height=\"136.1\" rx=\"0\" fill=\"#f7d9d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"360\" y=\"293\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">15–24</text><rect x=\"437\" y=\"51.4\" width=\"66\" height=\"223.6\" rx=\"0\" fill=\"#f7d9d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"470\" y=\"293\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">25 or more</text><path d=\"M85 275H525M85 275V32\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"305\" y=\"322\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">number of cigarettes smoked per day</text><text x=\"18\" y=\"153.5\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\" transform=\"rotate(-90 18 153.5)\">deaths per 100 000 people per year</text></svg>",
+   "caption": "Example data: the more cigarettes smoked per day, the higher the rate of lung cancer deaths."
+  },
+  {
+   "type": "p",
+   "text": "**Exam technique — data about health:** describe the pattern with numbers (\"as the number of cigarettes per day increases, the death rate increases, from 10 to 230 per 100 000\"). Data like this shows a **link** (correlation). Scientists also found **how** tar causes cancer, which is why we can say smoking **causes** lung cancer. Not every smoker gets lung cancer, and some non-smokers do — the **risk** is much higher for smokers."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "التدخين والصحة",
+   "text": "السجاير فيها 3 حاجات خطيرة: النيكوتين (بيخليك تدمن)، القطران (بيسبب سرطان وبيبوّظ الشعيرات اللي بتنضف الرئة فتيجي كحة المدخنين)، وأول أكسيد الكربون (بيركب على كرات الدم الحمرا مكان الأكسجين، فالجسم ياخد أكسجين أقل). والشيشة مش أأمن — دخانها فيه نفس المواد."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** (functions)\nComplete the table. [3]\nNutrient | Function\ncalcium | ______\n______ | growth and repair of cells\nvitamin D | ______"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "calcium → **strong bones and teeth** [1]",
+    "**protein** → growth and repair [1]",
+    "vitamin D → **helps the body absorb calcium** (for strong bones and teeth) [1]",
+    "**Common mistake:** writing \"vitamin D makes bones strong\" — the mark scheme wants the idea of **absorbing calcium**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** (food label)\nA breakfast cereal contains 1 600 kJ per 100 g. Hana eats a 40 g portion.\n(a) Calculate the energy in her portion. [1]\n(b) Hana needs 9 000 kJ each day. What percentage of her daily energy does the portion give? Give your answer to 1 decimal place. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "(a) 1 600 × 40 ÷ 100 = **640 kJ**",
+    "(b) 640 ÷ 9 000 × 100 = 7.11… = **7.1%** [1 for the method, 1 for the answer; ecf from (a)]",
+    "**Common mistake:** using 1 600 kJ as the energy in the portion. Always check whether the label gives energy per 100 g or per portion."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** (energy stores)\nCamels can live for many days in the desert without food. Explain how the camel's hump helps. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "The hump is a **store of fat**. [1]",
+    "When the camel cannot find food, it **uses the fat for energy** (fat releases a lot of energy per gram). [1]",
+    "**Common mistake:** \"The hump stores water.\" It stores fat."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** (deficiency)\nYoussef often feels tired and is short of breath when he climbs stairs. A blood test shows his red blood cells contain too little haemoglobin.\n(a) Name the mineral he is probably short of. [1]\n(b) Suggest two foods he should eat more of. [1]\n(c) Explain why he feels tired. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "(a) **iron**",
+    "(b) any two of: red meat, liver, lentils, beans, spinach / dark green leafy vegetables",
+    "(c) Less haemoglobin, so his blood carries **less oxygen** to his cells [1]; so his cells carry out **less respiration** and release **less energy** [1].",
+    "**Exam technique:** in a 2-mark \"explain\", give the cause **and** the effect, linked with \"so\"."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** (smoking in pregnancy)\nExplain why a woman who smokes during pregnancy may have a baby with a low birth mass. [3]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Cigarette smoke contains **carbon monoxide**, which joins to her **red blood cells**. [1]",
+    "Her blood carries **less oxygen**, so **less oxygen reaches the baby**. [1]",
+    "The baby's cells get less oxygen for respiration / less energy for growth, so the baby **grows less**. [1]",
+    "**Common mistake:** writing \"the smoke goes into the baby's lungs\". The baby does not breathe air before birth; it gets oxygen from the mother's blood."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** (evaluating a meal)\nOmar's lunch every day is fried potatoes, white bread and a fizzy drink. Give two reasons why this is not a balanced diet and suggest one improvement. [3]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Too much **fat** and **sugar** / too much energy, which can lead to obesity. [1]",
+    "Very little **protein**, **vitamins** (e.g. vitamin C, A), **minerals** (calcium, iron) or **fibre**. [1]",
+    "Improvement: e.g. replace the fizzy drink with water or milk; add ful, lentils, eggs or chicken for protein; add salad or fruit for vitamins and fibre. [1]"
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Saying \"protein gives energy\" as its main job. The main job of protein is **growth and repair**; carbohydrates and fats give energy.",
+    "Writing \"iron makes blood\" — say iron is needed to make **haemoglobin** in **red blood cells**, which **carries oxygen**.",
+    "Mixing up vitamin C (skin, gums, healing) and vitamin D (absorbing calcium for bones).",
+    "Forgetting **water** as part of a balanced diet.",
+    "Thinking a balanced diet means equal amounts of each nutrient. It means the **right amounts** — you need much more carbohydrate than vitamins.",
+    "Saying carbon monoxide causes cancer. **Tar** causes cancer; carbon monoxide **reduces the oxygen** carried by the blood.",
+    "Reading energy per 100 g as energy per portion."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "**Matching lines**: nutrient → function, or nutrient → food source.",
+    "**Complete a table** of nutrients and functions; use the exact words (e.g. \"growth and repair\", \"absorb calcium\").",
+    "**Calculations** from a food label: energy in a portion, percentage of daily needs. Show your working and units.",
+    "**Read a graph or table** about diet, exercise or smoking and **describe the trend with numbers**.",
+    "**Suggest and explain**: why a person is tired (iron), why bones are weak (calcium / vitamin D), why a smoker is breathless (carbon monoxide, damaged alveoli).",
+    "**Discuss** questions: give both the effect and the reason, and link them with \"because\" or \"so\"."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Balanced diet and lifestyle: practice",
+   "timed": false,
+   "intro": "14 Checkpoint-style questions, from easy to hard. You may use a calculator. Full solutions are given after you check your answers.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 20,
+     "calc": true,
+     "questions": [
+      {
+       "q": "What is the main function of protein in the diet?",
+       "c": [
+        "to give quick energy",
+        "growth and repair of cells",
+        "to keep the body warm",
+        "to help absorb calcium"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Nutrients",
+       "e": "Protein is used for growth and repair (building new cells and tissues). Carbohydrates give quick energy; fat insulates; vitamin D helps absorb calcium."
+      },
+      {
+       "t": "text",
+       "q": "Name the mineral needed for strong bones and teeth.",
+       "ans": [
+        "calcium",
+        "calsium",
+        "ca"
+       ],
+       "m": 1,
+       "s": "Nutrients",
+       "e": "Calcium (found in milk, cheese, yoghurt) builds strong bones and teeth."
+      },
+      {
+       "q": "Which statement about vitamin D is correct?",
+       "c": [
+        "It is found mainly in oranges and lemons",
+        "It is needed to make haemoglobin",
+        "It helps you see in dim light",
+        "It helps the body absorb calcium and can be made in the skin in sunlight"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Nutrients",
+       "e": "Vitamin D helps the body absorb calcium for bones and teeth, and the skin makes it in sunlight. Oranges give vitamin C; iron is needed for haemoglobin; vitamin A helps eyesight in dim light."
+      },
+      {
+       "t": "text",
+       "q": "Name the mineral that the body needs to make haemoglobin in red blood cells.",
+       "ans": [
+        "iron",
+        "fe"
+       ],
+       "m": 1,
+       "s": "Nutrients",
+       "e": "Iron is needed to make haemoglobin, which carries oxygen in red blood cells. Lack of iron causes anaemia."
+      },
+      {
+       "q": "Which nutrient releases the most energy per gram?",
+       "c": [
+        "protein",
+        "carbohydrate",
+        "fat",
+        "vitamin C"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Energy",
+       "e": "Fat releases about 37 kJ per gram, roughly twice as much as carbohydrate or protein (about 17 kJ per gram). Vitamins give no energy."
+      },
+      {
+       "t": "num",
+       "p": "Question 6\nA packet of crisps contains 25 g. The label says: Energy 2 200 kJ per 100 g.",
+       "q": "(a) Calculate the energy in the whole packet.",
+       "ans": [
+        550
+       ],
+       "tol": 0,
+       "unit": "kJ",
+       "m": 1,
+       "s": "Food labels",
+       "e": "2 200 × 25 ÷ 100 = 550 kJ."
+      },
+      {
+       "t": "num",
+       "p": "Question 6\nA packet of crisps contains 25 g. The label says: Energy 2 200 kJ per 100 g.",
+       "q": "(b) Leila needs 8 800 kJ a day. What percentage of her daily energy is in the packet?",
+       "ans": [
+        6.25,
+        6.3,
+        6.2
+       ],
+       "tol": 0.05,
+       "unit": "%",
+       "m": 2,
+       "s": "Food labels",
+       "e": "550 ÷ 8 800 × 100 = 6.25%. [1 for 550 ÷ 8 800 × 100; 1 for 6.25 (accept 6.3); ecf from (a)]"
+      },
+      {
+       "t": "open",
+       "q": "Explain why animals must eat food but green plants do not need to. [2]",
+       "m": 2,
+       "s": "Energy",
+       "ms": "1 mark: plants make their own food (glucose) by photosynthesis. 1 mark: animals cannot make their own food, so they must eat (consume) other organisms to get energy and nutrients. Do not accept 'plants get food from the soil'.",
+       "e": "Green plants make their own food (glucose) by photosynthesis using light, carbon dioxide and water. Animals cannot make their own food, so they must eat plants or other animals to obtain energy and nutrients."
+      },
+      {
+       "t": "num",
+       "p": "Question 9\nThe bar chart shows example data about lung cancer deaths for people who smoke different numbers of cigarettes each day.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 330\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#0f1b33\"><text x=\"270\" y=\"16\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">Lung cancer deaths and smoking (example data)</text><line x1=\"85\" y1=\"275\" x2=\"525\" y2=\"275\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"265.3\" x2=\"525\" y2=\"265.3\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"255.6\" x2=\"525\" y2=\"255.6\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"245.8\" x2=\"525\" y2=\"245.8\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"236.1\" x2=\"525\" y2=\"236.1\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"226.4\" x2=\"525\" y2=\"226.4\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"216.7\" x2=\"525\" y2=\"216.7\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"207\" x2=\"525\" y2=\"207\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"197.2\" x2=\"525\" y2=\"197.2\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"187.5\" x2=\"525\" y2=\"187.5\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"177.8\" x2=\"525\" y2=\"177.8\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"168.1\" x2=\"525\" y2=\"168.1\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"158.4\" x2=\"525\" y2=\"158.4\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"148.6\" x2=\"525\" y2=\"148.6\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"138.9\" x2=\"525\" y2=\"138.9\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"129.2\" x2=\"525\" y2=\"129.2\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"119.5\" x2=\"525\" y2=\"119.5\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"109.8\" x2=\"525\" y2=\"109.8\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"100\" x2=\"525\" y2=\"100\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"90.3\" x2=\"525\" y2=\"90.3\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"80.6\" x2=\"525\" y2=\"80.6\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"70.9\" x2=\"525\" y2=\"70.9\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"61.2\" x2=\"525\" y2=\"61.2\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"51.4\" x2=\"525\" y2=\"51.4\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"41.7\" x2=\"525\" y2=\"41.7\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"32\" x2=\"525\" y2=\"32\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"80\" y1=\"275\" x2=\"85\" y2=\"275\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"77\" y=\"280\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">0</text><line x1=\"80\" y1=\"226.4\" x2=\"85\" y2=\"226.4\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"77\" y=\"231.4\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">50</text><line x1=\"80\" y1=\"177.8\" x2=\"85\" y2=\"177.8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"77\" y=\"182.8\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">100</text><line x1=\"80\" y1=\"129.2\" x2=\"85\" y2=\"129.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"77\" y=\"134.2\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">150</text><line x1=\"80\" y1=\"80.6\" x2=\"85\" y2=\"80.6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"77\" y=\"85.6\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">200</text><line x1=\"80\" y1=\"32\" x2=\"85\" y2=\"32\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"77\" y=\"37\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">250</text><rect x=\"107\" y=\"265.3\" width=\"66\" height=\"9.7\" rx=\"0\" fill=\"#f7d9d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"140\" y=\"293\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">0</text><rect x=\"217\" y=\"216.7\" width=\"66\" height=\"58.3\" rx=\"0\" fill=\"#f7d9d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"250\" y=\"293\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">1–14</text><rect x=\"327\" y=\"138.9\" width=\"66\" height=\"136.1\" rx=\"0\" fill=\"#f7d9d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"360\" y=\"293\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">15–24</text><rect x=\"437\" y=\"51.4\" width=\"66\" height=\"223.6\" rx=\"0\" fill=\"#f7d9d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"470\" y=\"293\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">25 or more</text><path d=\"M85 275H525M85 275V32\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"305\" y=\"322\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">number of cigarettes smoked per day</text><text x=\"18\" y=\"153.5\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\" transform=\"rotate(-90 18 153.5)\">deaths per 100 000 people per year</text></svg>",
+       "q": "(a) How many times greater is the death rate for people who smoke 25 or more cigarettes a day than for non-smokers?",
+       "ans": [
+        23
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Data",
+       "e": "25 or more: 230 per 100 000. Non-smokers (0): 10 per 100 000. 230 ÷ 10 = 23 times greater."
+      },
+      {
+       "t": "open",
+       "p": "Question 9\nThe bar chart shows example data about lung cancer deaths for people who smoke different numbers of cigarettes each day.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 330\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#0f1b33\"><text x=\"270\" y=\"16\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">Lung cancer deaths and smoking (example data)</text><line x1=\"85\" y1=\"275\" x2=\"525\" y2=\"275\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"265.3\" x2=\"525\" y2=\"265.3\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"255.6\" x2=\"525\" y2=\"255.6\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"245.8\" x2=\"525\" y2=\"245.8\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"236.1\" x2=\"525\" y2=\"236.1\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"226.4\" x2=\"525\" y2=\"226.4\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"216.7\" x2=\"525\" y2=\"216.7\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"207\" x2=\"525\" y2=\"207\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"197.2\" x2=\"525\" y2=\"197.2\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"187.5\" x2=\"525\" y2=\"187.5\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"177.8\" x2=\"525\" y2=\"177.8\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"168.1\" x2=\"525\" y2=\"168.1\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"158.4\" x2=\"525\" y2=\"158.4\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"148.6\" x2=\"525\" y2=\"148.6\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"138.9\" x2=\"525\" y2=\"138.9\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"129.2\" x2=\"525\" y2=\"129.2\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"119.5\" x2=\"525\" y2=\"119.5\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"109.8\" x2=\"525\" y2=\"109.8\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"100\" x2=\"525\" y2=\"100\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"90.3\" x2=\"525\" y2=\"90.3\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"80.6\" x2=\"525\" y2=\"80.6\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"70.9\" x2=\"525\" y2=\"70.9\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"61.2\" x2=\"525\" y2=\"61.2\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"51.4\" x2=\"525\" y2=\"51.4\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"41.7\" x2=\"525\" y2=\"41.7\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"85\" y1=\"32\" x2=\"525\" y2=\"32\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"80\" y1=\"275\" x2=\"85\" y2=\"275\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"77\" y=\"280\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">0</text><line x1=\"80\" y1=\"226.4\" x2=\"85\" y2=\"226.4\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"77\" y=\"231.4\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">50</text><line x1=\"80\" y1=\"177.8\" x2=\"85\" y2=\"177.8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"77\" y=\"182.8\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">100</text><line x1=\"80\" y1=\"129.2\" x2=\"85\" y2=\"129.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"77\" y=\"134.2\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">150</text><line x1=\"80\" y1=\"80.6\" x2=\"85\" y2=\"80.6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"77\" y=\"85.6\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">200</text><line x1=\"80\" y1=\"32\" x2=\"85\" y2=\"32\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"77\" y=\"37\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">250</text><rect x=\"107\" y=\"265.3\" width=\"66\" height=\"9.7\" rx=\"0\" fill=\"#f7d9d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"140\" y=\"293\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">0</text><rect x=\"217\" y=\"216.7\" width=\"66\" height=\"58.3\" rx=\"0\" fill=\"#f7d9d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"250\" y=\"293\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">1–14</text><rect x=\"327\" y=\"138.9\" width=\"66\" height=\"136.1\" rx=\"0\" fill=\"#f7d9d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"360\" y=\"293\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">15–24</text><rect x=\"437\" y=\"51.4\" width=\"66\" height=\"223.6\" rx=\"0\" fill=\"#f7d9d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"470\" y=\"293\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">25 or more</text><path d=\"M85 275H525M85 275V32\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"305\" y=\"322\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">number of cigarettes smoked per day</text><text x=\"18\" y=\"153.5\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\" transform=\"rotate(-90 18 153.5)\">deaths per 100 000 people per year</text></svg>",
+       "q": "(b) Describe the pattern shown by the data. Use numbers in your answer. [2]",
+       "m": 2,
+       "s": "Data",
+       "ms": "1 mark: the more cigarettes smoked per day, the higher the death rate (from lung cancer) / ora. 1 mark: correct numbers quoted, e.g. from 10 (non-smokers) to 230 (25 or more) per 100 000 per year.",
+       "e": "As the number of cigarettes smoked per day increases, the lung cancer death rate increases: from 10 per 100 000 people per year for non-smokers to 230 per 100 000 for people who smoke 25 or more a day."
+      },
+      {
+       "q": "Which substance in cigarette smoke reduces the amount of oxygen the blood can carry?",
+       "c": [
+        "carbon monoxide",
+        "tar",
+        "nicotine",
+        "water vapour"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Smoking",
+       "e": "Carbon monoxide joins to red blood cells in place of oxygen. Tar causes cancer and damages cilia; nicotine is addictive."
+      },
+      {
+       "t": "open",
+       "q": "A girl does not eat enough iron. Explain why she feels tired. [3]",
+       "m": 3,
+       "s": "Deficiency",
+       "ms": "1 mark: she cannot make enough haemoglobin / red blood cells (anaemia). 1 mark: so her blood carries less oxygen (to her cells). 1 mark: so less respiration happens / less energy is released in her cells (muscles).",
+       "e": "Iron is needed to make haemoglobin in red blood cells. With too little iron her blood carries less oxygen, so her cells (for example her muscle cells) carry out less respiration and release less energy — she feels tired. This condition is called anaemia."
+      },
+      {
+       "q": "A man eats more energy each day than his body uses. What is most likely to happen?",
+       "c": [
+        "He will lose mass because he uses his fat stores",
+        "The extra energy is stored as fat and he gains mass",
+        "The extra energy is removed in his urine",
+        "His muscles will grow because of the extra energy"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Energy",
+       "e": "Extra energy that is not used is stored, mostly as fat under the skin and around organs, so his mass increases. Over time this can lead to obesity."
+      },
+      {
+       "t": "text",
+       "q": "A sailor long ago ate no fruit or vegetables for many months. His gums began to bleed and his cuts did not heal. Which vitamin was he lacking?",
+       "ans": [
+        "vitamin c",
+        "c",
+        "vit c",
+        "vitamin-c",
+        "ascorbic acid"
+       ],
+       "m": 1,
+       "s": "Deficiency",
+       "e": "Bleeding gums and wounds that do not heal are signs of scurvy, caused by a lack of vitamin C (found in fresh fruit and vegetables such as guava and oranges)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Balanced diet = protein, carbohydrates, fats and oils, water, minerals (calcium, iron) and vitamins (A, C, D) in the right amounts.",
+    "Carbohydrates: energy. Fats: energy store, insulation, protection. Protein: growth and repair. Calcium: bones and teeth. Iron: haemoglobin to carry oxygen. A: eyesight. C: skin, gums, healing. D: absorb calcium.",
+    "Animals cannot make food, so they eat to get energy and nutrients; they store energy as carbohydrate (liver, muscles) and fat (under the skin, around organs).",
+    "Too much energy → stored as fat → obesity, heart disease, diabetes; too little food or protein → poor growth.",
+    "Smoking: nicotine (addictive), tar (cancer, damaged cilia and alveoli), carbon monoxide (less oxygen in the blood; smaller babies)."
+   ]
+  }
+ ]
+}

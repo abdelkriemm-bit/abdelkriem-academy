@@ -1,0 +1,626 @@
+{
+ "slug": "cp8m-3d-shapes",
+ "title": "3D Shapes: Euler's Formula and Plans and Elevations",
+ "kicker": "Checkpoint 8 Maths · Geometry and Measure · 8Gg.05 · 8Gg.07",
+ "summary": "Count faces, vertices and edges, use Euler's formula F + V − E = 2 to find missing values or spot impossible shapes, and draw plans and elevations of 3D shapes to scale.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Understand and use **Euler's formula**, which connects the number of **faces (F)**, **vertices (V)** and **edges (E)** of a 3D shape: F + V − E = 2. (8Gg.05)",
+    "Draw the **front view (front elevation)**, **side view (side elevation)** and **top view (plan)** of 3D shapes **to scale**. (8Gg.07)"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "face (F)",
+     "وجه — a flat surface of a 3D shape"
+    ],
+    [
+     "edge (E)",
+     "حرف — a line where two faces meet"
+    ],
+    [
+     "vertex, vertices (V)",
+     "رأس، رؤوس — a corner where edges meet"
+    ],
+    [
+     "polyhedron (plural: polyhedra)",
+     "متعدد السطوح — a 3D shape whose faces are all flat polygons"
+    ],
+    [
+     "prism",
+     "منشور — the same cross-section all the way through; two identical ends joined by rectangles"
+    ],
+    [
+     "pyramid",
+     "هرم — a polygon base with triangles meeting at one point (the apex)"
+    ],
+    [
+     "plan (top view)",
+     "المسقط الأفقي — what you see looking straight down from above"
+    ],
+    [
+     "front elevation",
+     "المسقط الرأسي الأمامي — what you see looking straight at the front"
+    ],
+    [
+     "side elevation",
+     "المسقط الجانبي — what you see looking straight at the side"
+    ],
+    [
+     "to scale",
+     "بمقياس رسم — every length is multiplied or divided by the same number"
+    ],
+    [
+     "isometric drawing",
+     "رسم أيزومتري — a 3D drawing on triangle-dot paper"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "2. Faces, vertices and edges"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 208\" width=\"560\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"20,89.5 108,89.5 129.1,71.8 41.1,71.8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"20,150 108,150 108,89.5 20,89.5\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"108,150 129.1,132.3 129.1,71.8 108,89.5\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><path d=\"M41.1 132.3L129.1 132.3M20 150L41.1 132.3M41.1 132.3L41.1 71.8\" stroke=\"#0f1b33\" stroke-width=\"1.4\" stroke-dasharray=\"5 4\" fill=\"none\"/><path d=\"M20 150L108 150M108 150L129.1 132.3M20 89.5L108 89.5M108 89.5L129.1 71.8M41.1 71.8L129.1 71.8M20 89.5L41.1 71.8M108 150L108 89.5M20 150L20 89.5M129.1 132.3L129.1 71.8\" stroke=\"#0f1b33\" stroke-width=\"2\" fill=\"none\" stroke-linejoin=\"round\"/><text x=\"70\" y=\"178\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">cuboid</text><text x=\"70\" y=\"197\" text-anchor=\"middle\" font-size=\"13\">F = 6, V = 8, E = 12</text><polygon points=\"160,150 248,150 204,84\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"248,150 204,84 233.5,59.3 277.5,125.3\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><path d=\"M189.5 125.3L277.5 125.3M189.5 125.3L233.5 59.3M160 150L189.5 125.3\" stroke=\"#0f1b33\" stroke-width=\"1.4\" stroke-dasharray=\"5 4\" fill=\"none\"/><path d=\"M160 150L248 150M248 150L204 84M160 150L204 84M277.5 125.3L233.5 59.3M248 150L277.5 125.3M204 84L233.5 59.3\" stroke=\"#0f1b33\" stroke-width=\"2\" fill=\"none\" stroke-linejoin=\"round\"/><text x=\"210\" y=\"178\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">triangular prism</text><text x=\"210\" y=\"197\" text-anchor=\"middle\" font-size=\"13\">F = 5, V = 6, E = 9</text><polygon points=\"295,150 377.5,150 352,48.7\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"377.5,150 409.1,123.5 352,48.7\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><path d=\"M409.1 123.5L326.6 123.5M295 150L326.6 123.5M326.6 123.5L352 48.7\" stroke=\"#0f1b33\" stroke-width=\"1.4\" stroke-dasharray=\"5 4\" fill=\"none\"/><path d=\"M295 150L377.5 150M377.5 150L409.1 123.5M377.5 150L352 48.7M295 150L352 48.7M409.1 123.5L352 48.7\" stroke=\"#0f1b33\" stroke-width=\"2\" fill=\"none\" stroke-linejoin=\"round\"/><text x=\"345\" y=\"178\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">square-based pyramid</text><text x=\"345\" y=\"197\" text-anchor=\"middle\" font-size=\"13\">F = 5, V = 5, E = 8</text><polygon points=\"450.6,78.6 491.9,78.6 512.5,114.3 491.9,150 450.6,150 430,114.3\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"450.6,78.6 491.9,78.6 519.3,55.6 478,55.6\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"491.9,78.6 512.5,114.3 539.9,91.3 519.3,55.6\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"512.5,114.3 491.9,150 519.3,127 539.9,91.3\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><path d=\"M519.3 127L478 127M478 127L457.4 91.3M478 55.6L457.4 91.3M450.6 150L478 127M430 114.3L457.4 91.3\" stroke=\"#0f1b33\" stroke-width=\"1.4\" stroke-dasharray=\"5 4\" fill=\"none\"/><path d=\"M450.6 78.6L491.9 78.6M491.9 78.6L512.5 114.3M512.5 114.3L491.9 150M491.9 150L450.6 150M450.6 150L430 114.3M450.6 78.6L430 114.3M478 55.6L519.3 55.6M519.3 55.6L539.9 91.3M539.9 91.3L519.3 127M491.9 78.6L519.3 55.6M450.6 78.6L478 55.6M512.5 114.3L539.9 91.3M491.9 150L519.3 127\" stroke=\"#0f1b33\" stroke-width=\"2\" fill=\"none\" stroke-linejoin=\"round\"/><text x=\"480\" y=\"178\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">hexagonal prism</text><text x=\"480\" y=\"197\" text-anchor=\"middle\" font-size=\"13\">F = 8, V = 12, E = 18</text></svg>",
+   "caption": "Four polyhedra with their numbers of faces (F), vertices (V) and edges (E). Dashed lines are hidden edges: count them too."
+  },
+  {
+   "type": "p",
+   "text": "Count carefully and in an organised way: **faces** — count the front and back, then the faces around the sides; **vertices** — count the corners on the top layer, then the bottom layer (or the base, then the apex); **edges** — count the edges round each end, then the edges joining the ends."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "3D shape",
+    "F",
+    "V",
+    "E",
+    "F + V − E"
+   ],
+   "rows": [
+    [
+     "cube / cuboid",
+     "6",
+     "8",
+     "12",
+     "6 + 8 − 12 = 2"
+    ],
+    [
+     "triangular prism",
+     "5",
+     "6",
+     "9",
+     "5 + 6 − 9 = 2"
+    ],
+    [
+     "square-based pyramid",
+     "5",
+     "5",
+     "8",
+     "5 + 5 − 8 = 2"
+    ],
+    [
+     "tetrahedron (triangle-based pyramid)",
+     "4",
+     "4",
+     "6",
+     "4 + 4 − 6 = 2"
+    ],
+    [
+     "pentagonal prism",
+     "7",
+     "10",
+     "15",
+     "7 + 10 − 15 = 2"
+    ],
+    [
+     "hexagonal prism",
+     "8",
+     "12",
+     "18",
+     "8 + 12 − 18 = 2"
+    ],
+    [
+     "octahedron (8 triangles)",
+     "8",
+     "6",
+     "12",
+     "8 + 6 − 12 = 2"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "3. Euler's formula"
+  },
+  {
+   "type": "p",
+   "text": "Look at the last column of the table: it is **always 2**. This pattern was discovered by the mathematician Leonhard Euler and is called **Euler's formula**."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Euler's formula",
+   "text": "**F + V − E = 2**   (faces + vertices − edges = 2). It can also be written **F + V = E + 2**. It works for polyhedra: shapes with flat faces, straight edges and no holes through them."
+  },
+  {
+   "type": "p",
+   "text": "**Rearranging the formula** lets you find a missing number:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**E = F + V − 2**",
+    "**F = E + 2 − V**",
+    "**V = E + 2 − F**"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Prisms and pyramids in general (generalising).** If the end of a prism (or the base of a pyramid) has **n** sides:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Shape",
+    "F",
+    "V",
+    "E",
+    "Check F + V − E"
+   ],
+   "rows": [
+    [
+     "prism with an n-sided end",
+     "n + 2",
+     "2n",
+     "3n",
+     "(n + 2) + 2n − 3n = 2 ✓"
+    ],
+    [
+     "pyramid with an n-sided base",
+     "n + 1",
+     "n + 1",
+     "2n",
+     "(n + 1) + (n + 1) − 2n = 2 ✓"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Curved shapes do not follow the formula.** A cylinder has 3 faces (2 flat, 1 curved), 2 curved edges and 0 vertices: 3 + 0 − 2 = 1, not 2. So use Euler's formula only for shapes with flat faces."
+  },
+  {
+   "type": "p",
+   "text": "**Compound shapes** also follow the formula, if they have flat faces and no holes. The tower below is a cube with a square-based pyramid on top. The square where they join is inside, so it is not a face."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 170 200\" width=\"170\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"30,180 115,180 115,95 30,95\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"115,180 147.6,152.7 147.6,67.7 115,95\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"30,95 115,95 88.8,13.3\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"115,95 147.6,67.7 88.8,13.3\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><path d=\"M147.6 152.7L62.6 152.7M30 180L62.6 152.7M62.6 152.7L62.6 67.7M147.6 67.7L62.6 67.7M30 95L62.6 67.7M62.6 67.7L88.8 13.3\" stroke=\"#0f1b33\" stroke-width=\"1.4\" stroke-dasharray=\"5 4\" fill=\"none\"/><path d=\"M30 180L115 180M115 180L147.6 152.7M115 180L115 95M30 95L115 95M30 180L30 95M147.6 152.7L147.6 67.7M115 95L147.6 67.7M115 95L88.8 13.3M30 95L88.8 13.3M147.6 67.7L88.8 13.3\" stroke=\"#0f1b33\" stroke-width=\"2\" fill=\"none\" stroke-linejoin=\"round\"/></svg>",
+   "caption": "Cube + square-based pyramid: F = 5 + 4 = 9, V = 8 + 1 = 9, E = 12 + 4 = 16, and 9 + 9 − 16 = 2."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "قانون أويلر بالعربي",
+   "text": "عدد الأوجه + عدد الرؤوس − عدد الأحرف = 2 دايمًا (F + V − E = 2) لأي مجسم أوجهه كلها مستوية ومفيهوش خرم. لو ناقصك رقم، عوّض في القانون وهات المجهول: مثلاً الأحرف E = F + V − 2. والقانون ده مش بيشتغل مع الأسطوانة أو المخروط لأن فيهم أسطح منحنية. ولو حد قالك مجسم مجموعه مش بيدي 2، يبقى المجسم ده مستحيل."
+  },
+  {
+   "type": "h2",
+   "text": "4. Plans and elevations"
+  },
+  {
+   "type": "p",
+   "text": "A 3D shape can be shown by three flat (2D) drawings, each looking **straight at** one side:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**Plan** (top view): looking straight down from above.",
+    "**Front elevation** (front view): looking straight at the front, from the direction marked F.",
+    "**Side elevation** (side view): looking straight at the side, from the direction marked S."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "In each view you see only the **outline and the edges facing you**, with no depth. You draw a line wherever there is an **edge**: where the height or the depth of the shape changes. A flat surface made of several cubes is drawn as **one** region, with no lines across it."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 330 250\" width=\"330\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"100.7,150 135.4,170 135.4,130 100.7,110\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"204.6,90 239.3,110 204.6,130 170,110\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"204.6,90 170,110 170,70 204.6,50\" fill=\"#cfdcf0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"170,110 204.6,130 170,150 135.4,130\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"135.4,170 170,190 170,150 135.4,130\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"239.3,110 273.9,130 239.3,150 204.6,130\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"273.9,170 239.3,190 239.3,150 273.9,130\" fill=\"#cfdcf0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"135.4,50 170,70 135.4,90 100.7,70\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"170,110 135.4,130 135.4,90 170,70\" fill=\"#cfdcf0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"100.7,110 135.4,130 135.4,90 100.7,70\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"170,-10 204.6,10 170,30 135.4,10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"204.6,50 170,70 170,30 204.6,10\" fill=\"#cfdcf0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"135.4,50 170,70 170,30 135.4,10\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"204.6,130 239.3,150 204.6,170 170,150\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"239.3,190 204.6,210 204.6,170 239.3,150\" fill=\"#cfdcf0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"170,190 204.6,210 204.6,170 170,150\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><line x1=\"87.7\" y1=\"197.5\" x2=\"132.4\" y2=\"171.7\" stroke=\"#c0392b\" stroke-width=\"2.2\"/><polygon points=\"137.1,169 131.3,177 127.3,170\" fill=\"#c0392b\" stroke=\"#c0392b\" stroke-width=\"1\" stroke-linejoin=\"round\"/><text x=\"76.5\" y=\"209\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\" fill=\"#c0392b\">F</text><line x1=\"304.2\" y1=\"207.5\" x2=\"259.5\" y2=\"181.7\" stroke=\"#c0392b\" stroke-width=\"2.2\"/><polygon points=\"254.9,179 264.7,180 260.6,187\" fill=\"#c0392b\" stroke=\"#c0392b\" stroke-width=\"1\" stroke-linejoin=\"round\"/><text x=\"315.5\" y=\"219\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\" fill=\"#c0392b\">S</text></svg>",
+   "caption": "A solid made from 9 cubes. F shows the front direction, S the side direction."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 160\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\"><text x=\"70\" y=\"20\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">front elevation</text><path d=\"M25 32v90M55 32v90M85 32v90M115 32v90M25 32h90M25 62h90M25 92h90M25 122h90\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><rect x=\"55\" y=\"92\" width=\"30\" height=\"30\" fill=\"#eaf1fb\"/><rect x=\"25\" y=\"92\" width=\"30\" height=\"30\" fill=\"#eaf1fb\"/><rect x=\"85\" y=\"92\" width=\"30\" height=\"30\" fill=\"#eaf1fb\"/><rect x=\"25\" y=\"32\" width=\"30\" height=\"30\" fill=\"#eaf1fb\"/><rect x=\"25\" y=\"62\" width=\"30\" height=\"30\" fill=\"#eaf1fb\"/><path d=\"M55 122L85 122M55 92L85 92M25 92L25 122M25 122L55 122M115 92L115 122M85 122L115 122M85 92L115 92M55 32L55 62M25 32L25 62M25 62L55 62M25 32L55 32M55 62L55 92M25 62L25 92\" stroke=\"#0f1b33\" stroke-width=\"2.4\" fill=\"none\" stroke-linecap=\"round\"/><text x=\"255\" y=\"20\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">side elevation</text><path d=\"M225 32v90M255 32v90M285 32v90M225 32h60M225 62h60M225 92h60M225 122h60\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><rect x=\"225\" y=\"92\" width=\"30\" height=\"30\" fill=\"#eaf1fb\"/><rect x=\"255\" y=\"92\" width=\"30\" height=\"30\" fill=\"#eaf1fb\"/><rect x=\"255\" y=\"32\" width=\"30\" height=\"30\" fill=\"#eaf1fb\"/><rect x=\"255\" y=\"62\" width=\"30\" height=\"30\" fill=\"#eaf1fb\"/><rect x=\"225\" y=\"62\" width=\"30\" height=\"30\" fill=\"#eaf1fb\"/><path d=\"M225 92L225 122M225 122L255 122M285 92L285 122M255 122L285 122M285 32L285 62M255 32L255 62M255 32L285 32M285 62L285 92M255 92L285 92M225 62L225 92M225 92L255 92M225 62L255 62\" stroke=\"#0f1b33\" stroke-width=\"2.4\" fill=\"none\" stroke-linecap=\"round\"/><text x=\"440\" y=\"20\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">plan (top view)</text><path d=\"M395 32v60M425 32v60M455 32v60M485 32v60M395 32h90M395 62h90M395 92h90\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><rect x=\"425\" y=\"62\" width=\"30\" height=\"30\" fill=\"#eaf1fb\"/><rect x=\"395\" y=\"62\" width=\"30\" height=\"30\" fill=\"#eaf1fb\"/><rect x=\"455\" y=\"62\" width=\"30\" height=\"30\" fill=\"#eaf1fb\"/><rect x=\"395\" y=\"32\" width=\"30\" height=\"30\" fill=\"#eaf1fb\"/><rect x=\"425\" y=\"32\" width=\"30\" height=\"30\" fill=\"#eaf1fb\"/><rect x=\"455\" y=\"32\" width=\"30\" height=\"30\" fill=\"#eaf1fb\"/><path d=\"M425 92L455 92M425 62L425 92M395 62L395 92M395 92L425 92M485 62L485 92M455 92L485 92M425 32L425 62M395 32L395 62M395 62L425 62M395 32L425 32M425 32L455 32M485 32L485 62M455 32L485 32\" stroke=\"#0f1b33\" stroke-width=\"2.4\" fill=\"none\" stroke-linecap=\"round\"/><text x=\"280\" y=\"150\" text-anchor=\"middle\" font-size=\"13\">each grid square = one cube edge</text></svg>",
+   "caption": "Its three views. Front: the left column is 3 cubes high. Side: the back column (on the right, as S sees it) is 3 high. Plan: the lines show where the height changes."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "**Find the width, height and depth** of the shape (count the cubes, or read the measurements).",
+    "**Front elevation:** stand at F. For each column across, how high is it? Draw that outline. Add a line wherever a nearer part stops and a part further back continues.",
+    "**Side elevation:** stand at S. Your left and right are now different! Check which end is on your left.",
+    "**Plan:** look from above with the front at the bottom of your drawing. Draw the outline of the whole 'footprint', then lines where the height changes.",
+    "**To scale:** multiply or divide every real length by the scale (for example 1 cm represents 2 m means divide metres by 2). Use a ruler and a sharp pencil; label each view."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Common solids.** It helps to know these views:"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 556 150\" width=\"556\" font-family=\"Arial, sans-serif\" font-size=\"14\"><text x=\"95\" y=\"18\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">square-based pyramid</text><polygon points=\"25,120 95,120 60,40\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><text x=\"60\" y=\"140\" text-anchor=\"middle\" font-size=\"13\">front</text><polygon points=\"110,50 180,50 180,120 110,120\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"110\" y1=\"50\" x2=\"180\" y2=\"120\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"180\" y1=\"50\" x2=\"110\" y2=\"120\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"145\" y=\"140\" text-anchor=\"middle\" font-size=\"13\">plan</text><text x=\"285\" y=\"18\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">cylinder</text><polygon points=\"220,40 270,40 270,120 220,120\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><text x=\"245\" y=\"140\" text-anchor=\"middle\" font-size=\"13\">front</text><circle cx=\"325\" cy=\"85\" r=\"30\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"325\" y=\"140\" text-anchor=\"middle\" font-size=\"13\">plan</text><text x=\"470\" y=\"18\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">cone</text><polygon points=\"395,120 455,120 425,40\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><text x=\"425\" y=\"140\" text-anchor=\"middle\" font-size=\"13\">front</text><circle cx=\"510\" cy=\"85\" r=\"30\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"510\" cy=\"85\" r=\"3.5\" fill=\"#0f1b33\"/><text x=\"510\" y=\"140\" text-anchor=\"middle\" font-size=\"13\">plan</text></svg>",
+   "caption": "Front elevation and plan of a square-based pyramid, a cylinder (standing up) and a cone. The dot in the plan of the cone is the apex."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Solid (standing on its base)",
+    "Front elevation",
+    "Side elevation",
+    "Plan"
+   ],
+   "rows": [
+    [
+     "cube",
+     "square",
+     "square",
+     "square"
+    ],
+    [
+     "cuboid",
+     "rectangle",
+     "rectangle",
+     "rectangle"
+    ],
+    [
+     "square-based pyramid",
+     "triangle",
+     "triangle",
+     "square with both diagonals"
+    ],
+    [
+     "cylinder",
+     "rectangle",
+     "rectangle",
+     "circle"
+    ],
+    [
+     "cone",
+     "triangle",
+     "triangle",
+     "circle with a dot at the centre"
+    ],
+    [
+     "sphere",
+     "circle",
+     "circle",
+     "circle"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "المساقط بالعربي",
+   "items": [
+    "Plan = المسقط من فوق (كأنك طاير فوق المجسم). Front elevation = من قدام. Side elevation = من الجنب.",
+    "ارسم خط بس في الأماكن اللي فيها حرف — يعني الارتفاع أو العمق بيتغير. السطح المستوي ماترسمش جواه خطوط.",
+    "بمقياس رسم: كل الأطوال بتتقسم على نفس الرقم. مثلاً 1 cm بيمثل 2 m ← اقسم كل الأمتار على 2."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "5. Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** [1 mark]\nA polyhedron has 8 faces and 12 vertices. Use Euler's formula to find the number of edges."
+  },
+  {
+   "type": "p",
+   "text": "E = F + V − 2 = 8 + 12 − 2 = **18 edges**. (This is a hexagonal prism: 3 × 6 = 18 ✓.)"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** [2 marks]\nA polyhedron has 10 vertices and 15 edges. How many faces does it have? Which prism could it be?"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "F = E + 2 − V = 15 + 2 − 10 = **7 faces**.",
+    "A prism with an n-sided end has 2n vertices: 2n = 10, so n = 5. It could be a **pentagonal prism** (7 faces, 10 vertices, 15 edges ✓)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** [2 marks]\nSamira says: 'I have made a polyhedron with 6 faces, 6 vertices and 11 edges.' Explain why she must have counted wrongly."
+  },
+  {
+   "type": "p",
+   "text": "F + V − E = 6 + 6 − 11 = 1. For every polyhedron F + V − E = 2, and **1 ≠ 2**, so these numbers are impossible. (1 mark for the calculation, 1 mark for comparing with 2.)"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** [2 marks]\nA pyramid has 20 edges. How many faces and vertices does it have?"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "A pyramid with an n-sided base has 2n edges: 2n = 20, so n = 10 (a decagonal pyramid).",
+    "Faces = n + 1 = 11; vertices = n + 1 = 11.",
+    "Check with Euler: 11 + 11 − 20 = 2 ✓"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** [3 marks]\nA tent is a triangular prism. The front is an isosceles triangle 3 m wide and 2 m high. The tent is 4 m long. Draw the front elevation, side elevation and plan to a scale of 1 cm to 1 m."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 175\" width=\"360\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"90,140 204,140 147,64\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"204,140 147,64 205.2,15.1 262.2,91.1\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><path d=\"M148.2 91.1L262.2 91.1M148.2 91.1L205.2 15.1M90 140L148.2 91.1\" stroke=\"#0f1b33\" stroke-width=\"1.4\" stroke-dasharray=\"5 4\" fill=\"none\"/><path d=\"M90 140L204 140M204 140L147 64M90 140L147 64M262.2 91.1L205.2 15.1M204 140L262.2 91.1M147 64L205.2 15.1\" stroke=\"#0f1b33\" stroke-width=\"2\" fill=\"none\" stroke-linejoin=\"round\"/><text x=\"147\" y=\"157\" text-anchor=\"middle\">3 m</text><text x=\"110.5\" y=\"107\" text-anchor=\"end\" font-size=\"13\">height 2 m</text><line x1=\"147\" y1=\"140\" x2=\"147\" y2=\"64\" stroke=\"#0f1b33\" stroke-width=\"1.4\" stroke-dasharray=\"4 3\"/><text x=\"255.1\" y=\"129.6\">4 m</text></svg>",
+   "caption": "The tent: width 3 m, height 2 m, length 4 m."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 510 222\" width=\"510\" font-family=\"Arial, sans-serif\" font-size=\"14\"><text x=\"62\" y=\"22\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">front elevation</text><path d=\"M20 40v84M48 40v84M76 40v84M104 40v84M132 40v84M20 40h112M20 68h112M20 96h112M20 124h112\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><polygon points=\"20,124 104,124 62,68\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2.4\" stroke-linejoin=\"round\"/><text x=\"231\" y=\"22\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">side elevation</text><path d=\"M175 40v84M203 40v84M231 40v84M259 40v84M287 40v84M315 40v84M175 40h140M175 68h140M175 96h140M175 124h140\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><polygon points=\"175,124 287,124 287,68 175,68\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2.4\" stroke-linejoin=\"round\"/><text x=\"412\" y=\"22\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\">plan</text><path d=\"M370 40v140M398 40v140M426 40v140M454 40v140M482 40v140M370 40h112M370 68h112M370 96h112M370 124h112M370 152h112M370 180h112\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><polygon points=\"370,40 454,40 454,152 370,152\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2.4\" stroke-linejoin=\"round\"/><line x1=\"412\" y1=\"40\" x2=\"412\" y2=\"152\" stroke=\"#0f1b33\" stroke-width=\"2.4\"/><text x=\"130\" y=\"210\" text-anchor=\"middle\" font-size=\"13\">scale: 1 grid square (1 cm) represents 1 m</text></svg>",
+   "caption": "The three views drawn to scale (1 cm represents 1 m)."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**Front elevation:** a triangle with base 3 cm and height 2 cm (the top is above the middle of the base, 1.5 cm from each end).",
+    "**Side elevation:** a rectangle 4 cm long and 2 cm high (you see the sloping roof side-on).",
+    "**Plan:** a rectangle 3 cm by 4 cm with a line down the middle: the ridge (top edge) of the tent.",
+    "**Common mistake:** forgetting the ridge line in the plan, or drawing the side elevation with the sloping length instead of the height."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** [1 mark]\nThe front elevation of a building is drawn to a scale of 1 cm to 5 m. On the drawing, the building is 7.2 cm wide. How wide is the real building?\n7.2 × 5 = **36 m**."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Forgetting the hidden edges, faces and vertices at the back when counting.",
+    "Using Euler's formula for a cylinder, cone or sphere (curved surfaces).",
+    "Rearranging wrongly: E = F + V − 2, not F + V + 2.",
+    "Drawing a 3D (sloping) picture instead of a flat view. Each view is 2D.",
+    "Mixing up the side elevation and the front elevation, or swapping left and right in the side view.",
+    "Drawing lines across a flat surface in a plan or elevation, or missing the line where the height changes.",
+    "Not using the scale for every length (for example scaling the width but not the height)."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "\"Complete the table\" of faces, vertices and edges, then \"Show that Euler's formula works for this shape.\"",
+    "\"A shape has 9 faces and 14 vertices. Work out the number of edges.\" Write the formula, substitute, answer.",
+    "\"Explain why a polyhedron cannot have…\" Show F + V − E and say it is not 2.",
+    "Isometric drawings of shapes made of cubes: \"On the grid, draw the plan / front elevation / side elevation.\" Arrows on the drawing show the directions.",
+    "\"Draw a ring around the plan of this shape\" from several options.",
+    "Scale drawings: \"Draw the front elevation to a scale of 1 cm to 2 m\" or \"How tall is the real object?\" Use a ruler and label lengths."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Euler's formula, plans and elevations — practice",
+   "timed": false,
+   "intro": "14 questions, from easy to Checkpoint-hard. No calculator needed. Have squared paper ready for the drawing question.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 25,
+     "calc": false,
+     "questions": [
+      {
+       "q": "Which is Euler's formula for a polyhedron with F faces, V vertices and E edges?",
+       "c": [
+        "F + V − E = 2",
+        "F + E − V = 2",
+        "F + V + E = 2",
+        "V − F − E = 2"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Euler's formula",
+       "e": "Faces + vertices − edges = 2. Check with a cube: 6 + 8 − 12 = 2."
+      },
+      {
+       "t": "num",
+       "q": "A polyhedron has 7 faces and 10 vertices. How many edges does it have?",
+       "ans": [
+        15
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Euler's formula",
+       "e": "E = F + V − 2 = 7 + 10 − 2 = 15."
+      },
+      {
+       "t": "num",
+       "q": "A polyhedron has 12 edges and 6 vertices. How many faces does it have?",
+       "ans": [
+        8
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Euler's formula",
+       "e": "F = E + 2 − V = 12 + 2 − 6 = 8. (This is an octahedron.)"
+      },
+      {
+       "t": "num",
+       "q": "How many edges does a pentagonal pyramid have?",
+       "ans": [
+        10
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Prisms and pyramids",
+       "e": "5 edges round the pentagon base + 5 edges up to the apex = 10 (2n with n = 5)."
+      },
+      {
+       "t": "num",
+       "q": "How many vertices does an octagonal prism have?",
+       "ans": [
+        16
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Prisms and pyramids",
+       "e": "Two octagonal ends with 8 vertices each: 2 × 8 = 16."
+      },
+      {
+       "t": "open",
+       "q": "Show that Euler's formula works for a hexagonal pyramid.",
+       "m": 2,
+       "s": "Euler's formula",
+       "ms": "1 mark: F = 7, V = 7 and E = 12 all correct. 1 mark: 7 + 7 − 12 = 2 shown (accept F + V = 14 = E + 2).",
+       "e": "Faces: 1 hexagon + 6 triangles = 7. Vertices: 6 round the base + 1 apex = 7. Edges: 6 round the base + 6 to the apex = 12. F + V − E = 7 + 7 − 12 = 2 ✓, so the formula works."
+      },
+      {
+       "q": "Which set of numbers is **impossible** for a polyhedron?",
+       "c": [
+        "F = 6, V = 8, E = 12",
+        "F = 5, V = 6, E = 9",
+        "F = 7, V = 7, E = 13",
+        "F = 8, V = 6, E = 12"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Euler's formula",
+       "e": "Work out F + V − E for each: A 6 + 8 − 12 = 2; B 5 + 6 − 9 = 2; C 7 + 7 − 13 = 1; D 8 + 6 − 12 = 2. Only C does not give 2, so it is impossible."
+      },
+      {
+       "t": "num",
+       "p": "This tower is a cube with a square-based pyramid on top.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 170 200\" width=\"170\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"30,180 115,180 115,95 30,95\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"115,180 147.6,152.7 147.6,67.7 115,95\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"30,95 115,95 88.8,13.3\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><polygon points=\"115,95 147.6,67.7 88.8,13.3\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\" stroke-linejoin=\"round\"/><path d=\"M147.6 152.7L62.6 152.7M30 180L62.6 152.7M62.6 152.7L62.6 67.7M147.6 67.7L62.6 67.7M30 95L62.6 67.7M62.6 67.7L88.8 13.3\" stroke=\"#0f1b33\" stroke-width=\"1.4\" stroke-dasharray=\"5 4\" fill=\"none\"/><path d=\"M30 180L115 180M115 180L147.6 152.7M115 180L115 95M30 95L115 95M30 180L30 95M147.6 152.7L147.6 67.7M115 95L147.6 67.7M115 95L88.8 13.3M30 95L88.8 13.3M147.6 67.7L88.8 13.3\" stroke=\"#0f1b33\" stroke-width=\"2\" fill=\"none\" stroke-linejoin=\"round\"/></svg>",
+       "q": "How many edges does the tower have?",
+       "ans": [
+        16
+       ],
+       "tol": 0,
+       "m": 2,
+       "s": "Compound shapes",
+       "e": "Cube: 12 edges. The pyramid adds the 4 sloping edges up to the apex (its base edges are the cube's top edges, already counted). 12 + 4 = 16. Check: F = 5 + 4 = 9, V = 8 + 1 = 9, and 9 + 9 − 16 = 2 ✓."
+      },
+      {
+       "t": "text",
+       "q": "A cylinder stands on its circular base. Which view of it is a circle: the plan, the front elevation or the side elevation?",
+       "ans": [
+        "plan",
+        "the plan",
+        "top view",
+        "the top view",
+        "plan view"
+       ],
+       "m": 1,
+       "s": "Plans and elevations",
+       "e": "Looking down from above you see the circular top, so the plan is a circle. The front and side elevations are rectangles."
+      },
+      {
+       "q": "A solid has a triangle as its front elevation, a triangle as its side elevation, and a square with both diagonals drawn as its plan. What is the solid?",
+       "c": [
+        "triangular prism",
+        "cone",
+        "cube",
+        "square-based pyramid"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Plans and elevations",
+       "e": "Square base seen from above, with the 4 sloping edges meeting at the apex (the diagonals in the plan); from the front and side it looks like a triangle. It is a square-based pyramid. (A cone's plan is a circle; a triangular prism's side view is a rectangle.)"
+      },
+      {
+       "p": "The solid is made from 6 cubes. F shows the front, S shows the side. Four drawings, A, B, C and D, are shown under it.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 360\" width=\"560\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"314.6,80 349.3,100 314.6,120 280,100\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"280,140 314.6,160 314.6,120 280,100\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"245.4,80 280,100 245.4,120 210.7,100\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"280,140 245.4,160 245.4,120 280,100\" fill=\"#cfdcf0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"210.7,140 245.4,160 245.4,120 210.7,100\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"280,20 314.6,40 280,60 245.4,40\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"314.6,80 280,100 280,60 314.6,40\" fill=\"#cfdcf0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"245.4,80 280,100 280,60 245.4,40\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"383.9,160 349.3,180 349.3,140 383.9,120\" fill=\"#cfdcf0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"314.6,160 349.3,180 349.3,140 314.6,120\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"349.3,60 383.9,80 349.3,100 314.6,80\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"383.9,120 349.3,140 349.3,100 383.9,80\" fill=\"#cfdcf0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"314.6,120 349.3,140 349.3,100 314.6,80\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><line x1=\"197.7\" y1=\"187.5\" x2=\"242.4\" y2=\"161.7\" stroke=\"#c0392b\" stroke-width=\"2.2\"/><polygon points=\"247.1,159 241.3,167 237.3,160\" fill=\"#c0392b\" stroke=\"#c0392b\" stroke-width=\"1\" stroke-linejoin=\"round\"/><text x=\"186.5\" y=\"199\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\" fill=\"#c0392b\">F</text><line x1=\"414.2\" y1=\"197.5\" x2=\"369.5\" y2=\"171.7\" stroke=\"#c0392b\" stroke-width=\"2.2\"/><polygon points=\"364.9,169 374.7,170 370.6,177\" fill=\"#c0392b\" stroke=\"#c0392b\" stroke-width=\"1\" stroke-linejoin=\"round\"/><text x=\"425.5\" y=\"209\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\" fill=\"#c0392b\">S</text><g transform=\"translate(0,225)\"><text x=\"65\" y=\"20\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\">A</text><path d=\"M20 32v60M50 32v60M80 32v60M110 32v60M20 32h90M20 62h90M20 92h90\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><rect x=\"50\" y=\"32\" width=\"30\" height=\"30\" fill=\"#eaf1fb\"/><rect x=\"20\" y=\"32\" width=\"30\" height=\"30\" fill=\"#eaf1fb\"/><rect x=\"80\" y=\"62\" width=\"30\" height=\"30\" fill=\"#eaf1fb\"/><rect x=\"80\" y=\"32\" width=\"30\" height=\"30\" fill=\"#eaf1fb\"/><path d=\"M80 32L80 62M50 62L80 62M50 32L80 32M50 32L50 62M20 32L20 62M20 62L50 62M20 32L50 32M110 62L110 92M80 62L80 92M80 92L110 92M110 32L110 62M80 62L110 62M80 32L110 32\" stroke=\"#0f1b33\" stroke-width=\"2.4\" fill=\"none\" stroke-linecap=\"round\"/><text x=\"200\" y=\"20\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\">B</text><path d=\"M155 32v60M185 32v60M215 32v60M245 32v60M155 32h90M155 62h90M155 92h90\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><rect x=\"185\" y=\"32\" width=\"30\" height=\"30\" fill=\"#eaf1fb\"/><rect x=\"215\" y=\"32\" width=\"30\" height=\"30\" fill=\"#eaf1fb\"/><rect x=\"155\" y=\"62\" width=\"30\" height=\"30\" fill=\"#eaf1fb\"/><rect x=\"155\" y=\"32\" width=\"30\" height=\"30\" fill=\"#eaf1fb\"/><path d=\"M215 32L215 62M185 62L215 62M185 32L215 32M245 32L245 62M215 62L245 62M215 32L245 32M185 62L185 92M155 62L155 92M155 92L185 92M185 32L185 62M155 32L155 62M155 62L185 62M155 32L185 32\" stroke=\"#0f1b33\" stroke-width=\"2.4\" fill=\"none\" stroke-linecap=\"round\"/><text x=\"335\" y=\"20\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\">C</text><path d=\"M290 32v60M320 32v60M350 32v60M380 32v60M290 32h90M290 62h90M290 92h90\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><rect x=\"320\" y=\"62\" width=\"30\" height=\"30\" fill=\"#eaf1fb\"/><rect x=\"350\" y=\"32\" width=\"30\" height=\"30\" fill=\"#eaf1fb\"/><rect x=\"290\" y=\"62\" width=\"30\" height=\"30\" fill=\"#eaf1fb\"/><rect x=\"350\" y=\"62\" width=\"30\" height=\"30\" fill=\"#eaf1fb\"/><rect x=\"290\" y=\"32\" width=\"30\" height=\"30\" fill=\"#eaf1fb\"/><path d=\"M320 92L350 92M320 62L350 62M380 32L380 62M350 32L350 62M350 32L380 32M320 62L320 92M290 62L290 92M290 92L320 92M380 62L380 92M350 92L380 92M320 32L320 62M290 32L290 62M290 62L320 62M290 32L320 32\" stroke=\"#0f1b33\" stroke-width=\"2.4\" fill=\"none\" stroke-linecap=\"round\"/><text x=\"470\" y=\"20\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\">D</text><path d=\"M425 32v60M455 32v60M485 32v60M515 32v60M425 32h90M425 62h90M425 92h90\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><rect x=\"455\" y=\"62\" width=\"30\" height=\"30\" fill=\"#eaf1fb\"/><rect x=\"485\" y=\"62\" width=\"30\" height=\"30\" fill=\"#eaf1fb\"/><rect x=\"425\" y=\"32\" width=\"30\" height=\"30\" fill=\"#eaf1fb\"/><rect x=\"425\" y=\"62\" width=\"30\" height=\"30\" fill=\"#eaf1fb\"/><path d=\"M485 62L485 92M455 92L485 92M455 62L485 62M515 62L515 92M485 92L515 92M485 62L515 62M455 32L455 62M425 32L425 62M425 62L455 62M425 32L455 32M455 62L455 92M425 62L425 92M425 92L455 92\" stroke=\"#0f1b33\" stroke-width=\"2.4\" fill=\"none\" stroke-linecap=\"round\"/></g></svg>",
+       "q": "Which drawing is the **plan** of the solid?",
+       "c": [
+        "A",
+        "B",
+        "C",
+        "D"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Plans and elevations",
+       "e": "From above (front at the bottom): the back row has 3 cubes across; in front of it there is 1 cube at the left end. So the plan is a row of 3 squares with 1 square below the left one: B. There are lines where the height changes (the two towers are 2 cubes high). A is the mirror image, C is the front elevation, D is upside down."
+      },
+      {
+       "t": "num",
+       "q": "A building is 24 m long. Its front elevation is drawn to a scale of 1 cm to 4 m. How long is the building on the drawing?",
+       "ans": [
+        6
+       ],
+       "tol": 0,
+       "unit": "cm",
+       "m": 1,
+       "s": "Scale",
+       "e": "Each 4 m becomes 1 cm: 24 ÷ 4 = 6 cm."
+      },
+      {
+       "t": "num",
+       "q": "The front elevation of a tent is drawn to a scale of 1 cm to 50 cm. On the drawing, the base of the tent is 6 cm. How wide is the real tent, in metres?",
+       "ans": [
+        3
+       ],
+       "tol": 0,
+       "unit": "m",
+       "m": 2,
+       "s": "Scale",
+       "e": "Real width = 6 × 50 = 300 cm. 300 cm = 3 m (divide by 100)."
+      },
+      {
+       "t": "open",
+       "p": "This solid is made from 8 cubes. F shows the front.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 250\" width=\"300\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"115.4,100 150,120 115.4,140 80.7,120\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"219.3,160 184.6,180 184.6,140 219.3,120\" fill=\"#cfdcf0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"115.4,100 150,120 150,80 115.4,60\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"150,120 184.6,140 150,160 115.4,140\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"184.6,180 150,200 150,160 184.6,140\" fill=\"#cfdcf0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"115.4,180 150,200 150,160 115.4,140\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"80.7,120 115.4,140 80.7,160 46.1,140\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"115.4,180 80.7,200 80.7,160 115.4,140\" fill=\"#cfdcf0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"46.1,180 80.7,200 80.7,160 46.1,140\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"184.6,60 219.3,80 184.6,100 150,80\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"219.3,120 184.6,140 184.6,100 219.3,80\" fill=\"#cfdcf0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"150,120 184.6,140 184.6,100 150,80\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"150,0 184.6,20 150,40 115.4,20\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"184.6,60 150,80 150,40 184.6,20\" fill=\"#cfdcf0\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><polygon points=\"115.4,60 150,80 150,40 115.4,20\" fill=\"#b7c9e6\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><line x1=\"15.8\" y1=\"217.5\" x2=\"60.5\" y2=\"191.7\" stroke=\"#c0392b\" stroke-width=\"2.2\"/><polygon points=\"65.1,189 59.4,197 55.3,190\" fill=\"#c0392b\" stroke=\"#c0392b\" stroke-width=\"1\" stroke-linejoin=\"round\"/><text x=\"4.5\" y=\"229\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\" fill=\"#c0392b\">F</text><line x1=\"232.3\" y1=\"207.5\" x2=\"187.6\" y2=\"181.7\" stroke=\"#c0392b\" stroke-width=\"2.2\"/><polygon points=\"182.9,179 192.7,180 188.7,187\" fill=\"#c0392b\" stroke=\"#c0392b\" stroke-width=\"1\" stroke-linejoin=\"round\"/><text x=\"243.5\" y=\"219\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\" fill=\"#c0392b\">S</text></svg>",
+       "q": "On squared paper, draw the **plan** of the solid. Use one square for each cube edge.",
+       "m": 2,
+       "s": "Plans and elevations",
+       "ms": "1 mark: correct outline: 3 rows (front at the bottom) — back row 2 squares, middle row 2 squares, front row 1 square on the left (a 2-by-2 square with one extra square below the left side). 1 mark: correct lines inside: a line separating the whole back row from the middle row, and a line between the two squares of the back row (heights 3 and 2); no other inside lines. Accept the whole drawing rotated 180° only if the front is clearly labelled.",
+       "e": "Look down from above with the front at the bottom. The footprint: back row 2 cubes (x = 0 and 1), middle row 2 cubes, front row 1 cube on the left. Heights: back-left 3 cubes, back-right 2 cubes, the other three are 1 cube high. So draw the outline of a 2 × 2 square with one more square below the left side. Draw lines where the height changes: between the back row and the middle row, and between the two back squares. The middle row and the front square are all 1 cube high, so there are no lines between them."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Euler's formula: F + V − E = 2 for any polyhedron (flat faces, no holes). Rearrange it to find a missing value: E = F + V − 2.",
+    "Prism with an n-sided end: F = n + 2, V = 2n, E = 3n. Pyramid with an n-sided base: F = V = n + 1, E = 2n.",
+    "If F + V − E is not 2, the shape is impossible (or counted wrongly).",
+    "Plan = from above; front elevation = from the front; side elevation = from the side. Each is a flat 2D drawing.",
+    "Draw lines only where there is an edge (height or depth changes), and use the same scale for every length."
+   ]
+  }
+ ]
+}

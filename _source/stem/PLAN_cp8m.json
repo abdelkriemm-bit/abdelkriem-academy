@@ -1,0 +1,134 @@
+{
+ "course": "cp8m",
+ "spec": "SPEC_LS8_MATHS.md",
+ "pages": {
+  "cp8m-overview": {
+   "title": "Stage 8 Maths: The Tests and How to Prepare",
+   "covers": "exam overview (Stage 8 Progression-test style + Checkpoint at Stage 9) + TWM explained"
+  },
+  "cp8m-order-of-operations-integers": {
+   "title": "Order of Operations and Calculating with Integers",
+   "covers": "8Ni.01 8Ni.02"
+  },
+  "cp8m-factors-primes": {
+   "title": "Factors, Multiples, Primes, HCF and LCM",
+   "covers": "8Ni.03"
+  },
+  "cp8m-number-types-indices": {
+   "title": "Types of Number and Index Laws",
+   "covers": "8Ni.04 8Ni.05"
+  },
+  "cp8m-squares-cubes-roots": {
+   "title": "Squares, Cubes and Roots (Positive and Negative)",
+   "covers": "8Ni.06 8Ni.07"
+  },
+  "cp8m-place-value-significant-figures": {
+   "title": "Multiplying and Dividing by 0.1 and 0.01, and Significant Figures",
+   "covers": "8Np.01 8Np.02"
+  },
+  "cp8m-fractions": {
+   "title": "Fractions: Recurring Decimals, Mixed Numbers and Order of Operations",
+   "covers": "8Nf.01 8Nf.02 8Nf.03 8Nf.04"
+  },
+  "cp8m-percentages": {
+   "title": "Percentage Increase, Decrease and Absolute Change",
+   "covers": "8Nf.05"
+  },
+  "cp8m-decimals": {
+   "title": "Ordering and Calculating with Decimals",
+   "covers": "8Nf.06 8Nf.07 8Nf.08"
+  },
+  "cp8m-ratio-proportion": {
+   "title": "Ratio and Proportion",
+   "covers": "8Nf.09 8Nf.10 8Nf.11"
+  },
+  "cp8m-expressions": {
+   "title": "Algebraic Expressions: Simplifying, Expanding and Factorising",
+   "covers": "8Ae.01 8Ae.02 8Ae.03"
+  },
+  "cp8m-formulae": {
+   "title": "Writing Expressions and Formulae, and Changing the Subject",
+   "covers": "8Ae.04 8Ae.05"
+  },
+  "cp8m-equations-inequalities": {
+   "title": "Equations and Inequalities",
+   "covers": "8Ae.06 8Ae.07"
+  },
+  "cp8m-sequences": {
+   "title": "Sequences and the nth Term",
+   "covers": "8As.01 8As.02"
+  },
+  "cp8m-functions-linear-graphs": {
+   "title": "Functions and Straight-line Graphs (y = mx + c)",
+   "covers": "8As.03 8As.04 8As.05 8As.06"
+  },
+  "cp8m-real-life-graphs": {
+   "title": "Reading and Interpreting Real-life Graphs",
+   "covers": "8As.07"
+  },
+  "cp8m-quadrilaterals-polygons": {
+   "title": "Quadrilaterals and Regular Polygons",
+   "covers": "8Gg.01 8Gg.09"
+  },
+  "cp8m-circles-units": {
+   "title": "Circumference of a Circle, and Miles and Kilometres",
+   "covers": "8Gg.02 8Gg.03"
+  },
+  "cp8m-area": {
+   "title": "Area of Parallelograms and Trapezia",
+   "covers": "8Gg.04"
+  },
+  "cp8m-3d-shapes": {
+   "title": "3D Shapes: Euler's Formula and Plans and Elevations",
+   "covers": "8Gg.05 8Gg.07"
+  },
+  "cp8m-volume-surface-area": {
+   "title": "Volume of Prisms and Surface Area",
+   "covers": "8Gg.06 8Gg.08"
+  },
+  "cp8m-angles": {
+   "title": "Angles in Triangles and on Parallel Lines",
+   "covers": "8Gg.10 8Gg.11"
+  },
+  "cp8m-constructions": {
+   "title": "Constructions with Ruler and Compasses",
+   "covers": "8Gg.12"
+  },
+  "cp8m-bearings-midpoints": {
+   "title": "Bearings and Midpoints",
+   "covers": "8Gp.01 8Gp.02"
+  },
+  "cp8m-transformations": {
+   "title": "Translation, Reflection, Rotation and Enlargement",
+   "covers": "8Gp.03 8Gp.04 8Gp.05 8Gp.06"
+  },
+  "cp8m-data-collection": {
+   "title": "Data Collection and Sampling",
+   "covers": "8Ss.01 8Ss.02"
+  },
+  "cp8m-representing-data": {
+   "title": "Representing Data",
+   "covers": "8Ss.03"
+  },
+  "cp8m-comparing-distributions": {
+   "title": "Averages, Range and Comparing Distributions",
+   "covers": "8Ss.04 8Ss.05"
+  },
+  "cp8m-probability": {
+   "title": "Probability: Complementary and Combined Events",
+   "covers": "8Sp.01 8Sp.02 8Sp.03 8Sp.04"
+  },
+  "cp8m-practice-test-1": {
+   "title": "Stage 8 Maths — Practice Test 1",
+   "covers": "TEST"
+  },
+  "cp8m-practice-test-2": {
+   "title": "Stage 8 Maths — Practice Test 2",
+   "covers": "TEST"
+  },
+  "cp8m-practice-test-3": {
+   "title": "Stage 8 Maths — Practice Test 3",
+   "covers": "TEST"
+  }
+ }
+}

@@ -1,0 +1,1116 @@
+{
+ "slug": "cp8m-practice-test-3",
+ "title": "Stage 8 Maths — Practice Test 3",
+ "kicker": "Cambridge Lower Secondary · Mathematics 0862 · Stage 8 · Practice test",
+ "summary": "A full end-of-Stage-8 practice test in Checkpoint style: Paper 1 (no calculator) and Paper 2 (calculator), 1 hour and 50 marks each, with worked solutions and a mark scheme.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "Before you start"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "This is a full **end-of-Stage-8 practice test** written in the style of Cambridge Lower Secondary tests. It covers the whole Stage 8 curriculum: Number, Algebra, Geometry and Measure, and Statistics and Probability. The Checkpoint test itself is taken at the end of Stage 9; this test prepares you for your Stage 8 end-of-year tests and builds the base for Checkpoint.",
+    "**Paper 1:** 1 hour, 50 marks, **no calculator**. **Paper 2:** 1 hour, 50 marks, **calculator allowed**. Answer all the questions. The marks for each part are shown, and most parts are worth 1 or 2 marks.",
+    "Equipment: pen, pencil, ruler, protractor, compasses (geometrical instruments), a calculator for Paper 2 only, and tracing paper if you like. Keep squared paper ready for the drawing questions.",
+    "The timer starts when you begin a paper. Sit both papers in one session if you can, with a short break between them, exactly as you would on test day.",
+    "You may write on paper first if you like, then type your final answer. In the real test you **show all your working** on the paper; marks are given for correct working even when the final answer is wrong.",
+    "How marking works here: typed answers (numbers, short answers and multiple-choice) are checked automatically. For written answers, drawings and explanations, you mark yourself at the end using the mark scheme shown with each question. Be strict: give the mark only if your answer matches the mark scheme.",
+    "Your score is a **practice score** to help you see your strengths and weaknesses. It is not an official Cambridge result."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "قبل ما تبدأ",
+   "text": "الامتحان ده ورقتين: الورقة الأولى ساعة من غير آلة حاسبة، والورقة التانية ساعة والآلة الحاسبة مسموحة. كل ورقة عليها 50 درجة. جهّز مسطرة ومنقلة وبرجل وورق مربعات. اكتب خطوات الحل على ورقة، لأن في الامتحان الحقيقي بتاخد درجات على الخطوات حتى لو الإجابة النهائية غلط. الإجابات المكتوبة بالأرقام بتتصحح أوتوماتيك، وأسئلة الشرح والرسم بتصححها بنفسك من نموذج الإجابة. الدرجة اللي هتطلع لك للتدريب بس، مش نتيجة رسمية من كامبريدج."
+  },
+  {
+   "type": "h2",
+   "text": "The test"
+  },
+  {
+   "type": "test",
+   "title": "Stage 8 Maths — Practice Test 3",
+   "timed": true,
+   "intro": "Two papers, 1 hour each, 50 marks each. Paper 1: no calculator. Paper 2: calculator allowed. Diagrams marked NOT TO SCALE must be worked out, not measured. Show your working on paper.",
+   "pdf": [
+    {
+     "label": "Question paper (PDF)",
+     "href": "pdf/cp8m-practice-test-3-paper.pdf"
+    },
+    {
+     "label": "Mark scheme (PDF)",
+     "href": "pdf/cp8m-practice-test-3-mark-scheme.pdf"
+    }
+   ],
+   "sections": [
+    {
+     "name": "Paper 1",
+     "minutes": 60,
+     "calc": false,
+     "questions": [
+      {
+       "t": "num",
+       "p": "Question 1",
+       "q": "(a) Work out  5 + 3 × 2^{2}",
+       "ans": [
+        17
+       ],
+       "m": 1,
+       "s": "Order of operations",
+       "e": "Indices first: 2^{2} = 4. Then multiply: 3 × 4 = 12. Then add: 5 + 12 = **17**. Common wrong answer: 8 × 4 = 32 (adding first)."
+      },
+      {
+       "t": "num",
+       "p": "Question 1",
+       "q": "(b) Work out  (−6) × (−4) ÷ (−3)",
+       "ans": [
+        -8
+       ],
+       "m": 1,
+       "s": "Integers",
+       "e": "(−6) × (−4) = +24 (two negatives make a positive). 24 ÷ (−3) = **−8** (positive ÷ negative is negative)."
+      },
+      {
+       "t": "num",
+       "p": "Question 2",
+       "q": "Find the value of n.\n7^{5} × 7^{3} ÷ 7^{8} = 7^{n}",
+       "ans": [
+        0
+       ],
+       "m": 1,
+       "s": "Index laws",
+       "e": "Multiply → add the indices: 5 + 3 = 8. Divide → subtract: 8 − 8 = 0. So **n = 0** (and 7^{0} = 1). Do not write n = 1: the value of the expression is 1, but the index is 0."
+      },
+      {
+       "t": "open",
+       "p": "Question 3",
+       "q": "(a) Write 84 as a product of its prime factors.",
+       "m": 1,
+       "s": "Prime factors",
+       "ms": "1 mark for 2 × 2 × 3 × 7 or 2^{2} × 3 × 7 (factors in any order). Do not accept answers that include 1 or a non-prime factor such as 4 × 3 × 7.",
+       "e": "84 = 2 × 42 = 2 × 2 × 21 = 2 × 2 × 3 × 7, so **84 = 2^{2} × 3 × 7**. A factor tree or repeated division by primes both work. Check: 4 × 3 × 7 = 84."
+      },
+      {
+       "t": "text",
+       "p": "Question 3",
+       "q": "(b) At a railway station, a train to Riverside leaves every 12 minutes and a train to Hilltop leaves every 18 minutes.\nTwo trains, one to each town, leave together at 09:00.\nAt what time will a train to Riverside and a train to Hilltop next leave together? Show your working.",
+       "ans": [
+        "09:36",
+        "9:36",
+        "0936",
+        "09.36",
+        "9.36",
+        "09:36 am",
+        "9:36 am",
+        "9:36am",
+        "09:36am"
+       ],
+       "m": 2,
+       "s": "LCM",
+       "e": "We need the lowest common multiple of 12 and 18.\nMultiples of 12: 12, 24, **36**, 48 …   Multiples of 18: 18, **36**, 54 …\n(or 12 = 2^{2} × 3 and 18 = 2 × 3^{2}, so LCM = 2^{2} × 3^{2} = 36.)\n09:00 + 36 minutes = **09:36**.\nMarking: 1 mark for 36 seen (LCM); 1 mark for 09:36. Common mistake: using the HCF (6) and answering 09:06."
+      },
+      {
+       "p": "Question 4",
+       "q": "Which of these numbers is an integer but **not** a natural number?",
+       "c": [
+        "7",
+        "−3",
+        "0.5",
+        "2/3"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Types of number",
+       "e": "Natural numbers are the counting numbers 1, 2, 3, … Integers are whole numbers, including negative ones. 7 is natural (and an integer); 0.5 and 2/3 are rational but not integers. **−3** is an integer but not a natural number."
+      },
+      {
+       "t": "num",
+       "p": "Question 5",
+       "q": "(a) Work out  ∛(−64)",
+       "ans": [
+        -4
+       ],
+       "m": 1,
+       "s": "Cube roots",
+       "e": "(−4) × (−4) × (−4) = 16 × (−4) = −64, so ∛(−64) = **−4**. Negative numbers DO have a cube root (but not a square root)."
+      },
+      {
+       "t": "open",
+       "p": "Question 5",
+       "q": "(b) Youssef says, '−49 has two square roots: 7 and −7.'\nIs he correct? Explain your answer.",
+       "m": 1,
+       "s": "Square roots",
+       "ms": "1 mark for 'No' with a correct reason, e.g. 7^{2} = 49 and (−7)^{2} = 49, so 7 and −7 are the square roots of 49, not −49; OR a square of any number cannot be negative. Do not accept 'No' with no reason.",
+       "e": "He is **not correct**. 7 × 7 = 49 and (−7) × (−7) = 49. Squaring a positive or a negative number always gives a positive answer, so no number squared gives −49. The two square roots he wrote (7 and −7) belong to **+49**."
+      },
+      {
+       "t": "num",
+       "p": "Question 6",
+       "q": "(a) Work out  46 × 0.01",
+       "ans": [
+        0.46
+       ],
+       "m": 1,
+       "s": "Multiply by 0.01",
+       "e": "Multiplying by 0.01 is the same as dividing by 100: 46 ÷ 100 = **0.46**."
+      },
+      {
+       "t": "num",
+       "p": "Question 6",
+       "q": "(b) Work out  0.75 ÷ 0.01",
+       "ans": [
+        75
+       ],
+       "m": 1,
+       "s": "Divide by 0.01",
+       "e": "Dividing by 0.01 is the same as multiplying by 100: 0.75 × 100 = **75**. Check: 75 × 0.01 = 0.75 ✓. Dividing by a number less than 1 makes the answer bigger."
+      },
+      {
+       "t": "text",
+       "p": "Question 7",
+       "q": "(a) Work out  4 1/3 − 1 3/4\nGive your answer as a mixed number in its simplest form. Show your working.",
+       "ans": [
+        "2 7/12"
+       ],
+       "m": 2,
+       "s": "Mixed numbers",
+       "e": "Estimate: about 4 − 2 = 2.\nMethod 1 (improper fractions): 4 1/3 = 13/3 = 52/12 and 1 3/4 = 7/4 = 21/12. 52/12 − 21/12 = 31/12 = **2 7/12**.\nMethod 2: 4 1/3 − 1 = 3 1/3 = 3 4/12; 3 4/12 − 9/12 = 2 16/12 − 9/12 = 2 7/12.\nMarking: 1 mark for both fractions over a common denominator (e.g. 52/12 and 21/12, or 4/12 and 9/12); 1 mark for 2 7/12. 31/12 alone scores 1 mark (not a mixed number)."
+      },
+      {
+       "t": "num",
+       "p": "Question 7",
+       "q": "(b) Work out  6 × 2 2/3",
+       "ans": [
+        16
+       ],
+       "m": 1,
+       "s": "Integer × mixed number",
+       "e": "6 × 2 = 12 and 6 × 2/3 = 4, so 6 × 2 2/3 = 12 + 4 = **16**. (Or 6 × 8/3 = 48/3 = 16.)"
+      },
+      {
+       "t": "num",
+       "p": "Question 7",
+       "q": "(c) Work out  5 ÷ 2/3",
+       "ans": [
+        7.5,
+        "15/2"
+       ],
+       "m": 1,
+       "s": "Integer ÷ fraction",
+       "e": "Dividing by 2/3 is the same as multiplying by 3/2: 5 × 3/2 = 15/2 = **7 1/2** (7.5). Check: 7.5 × 2/3 = 5 ✓. The answer is bigger than 5 because we divide by a number less than 1."
+      },
+      {
+       "p": "Question 7",
+       "q": "(d) Which of these fractions is equal to a **recurring** decimal?",
+       "c": [
+        "3/8",
+        "7/20",
+        "5/6",
+        "9/25"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Recurring decimals",
+       "e": "3/8 = 0.375, 7/20 = 0.35 and 9/25 = 0.36 all terminate (their denominators have only 2s and 5s as prime factors). **5/6** = 0.8333… = 0.83̇ recurs, because 6 = 2 × 3 has a factor 3."
+      },
+      {
+       "t": "text",
+       "p": "Question 8",
+       "q": "(a) Write the correct symbol, <, > or =, in the box.\n−0.45  ☐  −4/9",
+       "ans": [
+        "<"
+       ],
+       "m": 1,
+       "s": "Ordering decimals and fractions",
+       "e": "4/9 = 0.444…, so −4/9 = −0.444… Now −0.45 is further below zero than −0.444…, so −0.45 is smaller: **−0.45 < −4/9**. Common mistake: thinking 0.45 > 0.444 means −0.45 > −0.444."
+      },
+      {
+       "t": "num",
+       "p": "Question 8",
+       "q": "(b) Work out  0.6 × 0.07",
+       "ans": [
+        0.042
+       ],
+       "m": 1,
+       "s": "Multiplying decimals",
+       "e": "6 × 7 = 42. There are 1 + 2 = 3 decimal places in the question, so the answer has 3: **0.042**. Estimate check: a bit less than 0.1 × 0.6 = 0.06 ✓."
+      },
+      {
+       "t": "num",
+       "p": "Question 8",
+       "q": "(c) Work out  7.2 ÷ 0.3",
+       "ans": [
+        24
+       ],
+       "m": 1,
+       "s": "Dividing decimals",
+       "e": "Multiply both numbers by 10 so the divisor is whole: 7.2 ÷ 0.3 = 72 ÷ 3 = **24**."
+      },
+      {
+       "t": "num",
+       "p": "Question 9",
+       "q": "(a) A youth club raises $1500 at a fundraising evening.\nThe money is shared between a charity, a club trip and new equipment in the ratio\ncharity : trip : equipment = 5 : 3 : 2\nHow much money is given to the club trip? Show your working.",
+       "ans": [
+        450
+       ],
+       "unit": "$",
+       "m": 2,
+       "s": "Sharing in a ratio",
+       "e": "Total parts: 5 + 3 + 2 = 10. One part: $1500 ÷ 10 = $150. Trip: 3 × $150 = **$450**.\n(Check: charity $750 + trip $450 + equipment $300 = $1500 ✓.)\nMarking: 1 mark for 1500 ÷ 10 or 150 seen; 1 mark for 450."
+      },
+      {
+       "t": "text",
+       "p": "Question 9",
+       "q": "(b) The club's banner is 40 cm wide and 2 m long.\nWrite the ratio width : length in its simplest form.",
+       "ans": [
+        "1:5"
+       ],
+       "m": 1,
+       "s": "Ratio with different units",
+       "e": "Use the same units first: 2 m = 200 cm. 40 : 200, divide both by 40 → **1 : 5**. Common mistake: 40 : 2 = 20 : 1 (units not changed)."
+      },
+      {
+       "t": "text",
+       "p": "Question 10",
+       "q": "(a) Simplify  3a^{2} + 5a − a^{2} + 2a",
+       "ans": [
+        "2a^2+7a",
+        "7a+2a^2",
+        "2a^{2}+7a",
+        "7a+2a^{2}"
+       ],
+       "m": 1,
+       "s": "Simplifying",
+       "e": "Collect like terms: a^{2} terms: 3a^{2} − a^{2} = 2a^{2}; a terms: 5a + 2a = 7a. Answer **2a^{2} + 7a**. a^{2} and a are NOT like terms, so they cannot be added to make 9a^{3} or 9a^{2}."
+      },
+      {
+       "t": "text",
+       "p": "Question 10",
+       "q": "(b) Expand  2x(x^{2} + 5)",
+       "ans": [
+        "2x^3+10x",
+        "10x+2x^3",
+        "2x^{3}+10x",
+        "10x+2x^{3}"
+       ],
+       "m": 1,
+       "s": "Expanding",
+       "e": "Multiply each term inside the bracket by 2x: 2x × x^{2} = 2x^{3} and 2x × 5 = 10x. Answer **2x^{3} + 10x**."
+      },
+      {
+       "t": "text",
+       "p": "Question 10",
+       "q": "(c) Factorise completely  12y^{2} + 18y",
+       "ans": [
+        "6y(2y+3)",
+        "6y(3+2y)",
+        "(2y+3)6y",
+        "(3+2y)6y",
+        "6y×(2y+3)",
+        "6y*(2y+3)"
+       ],
+       "m": 2,
+       "s": "Factorising",
+       "e": "HCF of 12 and 18 is 6; both terms contain y. So the HCF is 6y. 12y^{2} ÷ 6y = 2y and 18y ÷ 6y = 3. Answer **6y(2y + 3)**. Check by expanding: 12y^{2} + 18y ✓.\nMarking: 2 marks for 6y(2y + 3); 1 mark for a correct partial factorisation such as 6(2y^{2} + 3y), 3y(4y + 6) or 2y(6y + 9) ('completely' means take out the HCF)."
+      },
+      {
+       "p": "Question 10",
+       "q": "(d) Which one of these is an **equation**?",
+       "c": [
+        "4n + 7",
+        "P = 2l + 2w",
+        "y > 2",
+        "3t − 5 = 16"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Expressions, formulae, equations",
+       "e": "4n + 7 is an expression (no = sign). P = 2l + 2w is a formula (links several variables; it works for any values). y > 2 is an inequality. **3t − 5 = 16** is an equation: it is true for one value of t only (t = 7)."
+      },
+      {
+       "t": "num",
+       "p": "Question 11\nSolve these equations.",
+       "q": "(a)  5x − 7 = 2x + 8\nShow your working.",
+       "ans": [
+        5
+       ],
+       "m": 2,
+       "s": "Equations",
+       "e": "Subtract 2x from both sides: 3x − 7 = 8. Add 7: 3x = 15. Divide by 3: **x = 5**. Check: 5 × 5 − 7 = 18 and 2 × 5 + 8 = 18 ✓.\nMarking: 1 mark for a correct first step that collects x terms or numbers (e.g. 3x − 7 = 8 or 3x = 15); 1 mark for x = 5."
+      },
+      {
+       "t": "num",
+       "p": "Question 11\nSolve these equations.",
+       "q": "(b)  x/4 + 3 = 1",
+       "ans": [
+        -8
+       ],
+       "m": 1,
+       "s": "Equations with fractions",
+       "e": "Subtract 3: x/4 = −2. Multiply by 4: **x = −8**. Check: −8 ÷ 4 + 3 = −2 + 3 = 1 ✓."
+      },
+      {
+       "t": "text",
+       "p": "Question 12\nThe diagram shows an inequality on a number line.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 90\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\"><line x1=\"22.4\" y1=\"45\" x2=\"453.6\" y2=\"45\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"40\" y1=\"37\" x2=\"40\" y2=\"53\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"40\" y=\"76\" text-anchor=\"middle\" font-size=\"16\">−4</text><line x1=\"84\" y1=\"37\" x2=\"84\" y2=\"53\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"84\" y=\"76\" text-anchor=\"middle\" font-size=\"16\">−3</text><line x1=\"128\" y1=\"37\" x2=\"128\" y2=\"53\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"128\" y=\"76\" text-anchor=\"middle\" font-size=\"16\">−2</text><line x1=\"172\" y1=\"37\" x2=\"172\" y2=\"53\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"172\" y=\"76\" text-anchor=\"middle\" font-size=\"16\">−1</text><line x1=\"216\" y1=\"37\" x2=\"216\" y2=\"53\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"216\" y=\"76\" text-anchor=\"middle\" font-size=\"16\">0</text><line x1=\"260\" y1=\"37\" x2=\"260\" y2=\"53\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"260\" y=\"76\" text-anchor=\"middle\" font-size=\"16\">1</text><line x1=\"304\" y1=\"37\" x2=\"304\" y2=\"53\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"304\" y=\"76\" text-anchor=\"middle\" font-size=\"16\">2</text><line x1=\"348\" y1=\"37\" x2=\"348\" y2=\"53\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"348\" y=\"76\" text-anchor=\"middle\" font-size=\"16\">3</text><line x1=\"392\" y1=\"37\" x2=\"392\" y2=\"53\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"392\" y=\"76\" text-anchor=\"middle\" font-size=\"16\">4</text><line x1=\"436\" y1=\"37\" x2=\"436\" y2=\"53\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"436\" y=\"76\" text-anchor=\"middle\" font-size=\"16\">5</text><line x1=\"128\" y1=\"45\" x2=\"348\" y2=\"45\" stroke=\"#0f1b33\" stroke-width=\"5\"/><circle cx=\"128\" cy=\"45\" r=\"7\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><circle cx=\"348\" cy=\"45\" r=\"7\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/></svg>",
+       "q": "Write down the inequality shown, using x.",
+       "ans": [
+        "-2 < x <= 3",
+        "-2 < x <=3",
+        "-2 < x =< 3",
+        "-2 < x =<3",
+        "-2 < x ≤ 3",
+        "-2 < x ≤3",
+        "-2 < x<= 3",
+        "-2 < x<=3",
+        "-2 < x=< 3",
+        "-2 < x=<3",
+        "-2 < x≤ 3",
+        "-2 < x≤3",
+        "-2 <x <= 3",
+        "-2 <x <=3",
+        "-2 <x =< 3",
+        "-2 <x =<3",
+        "-2 <x ≤ 3",
+        "-2 <x ≤3",
+        "-2 <x<= 3",
+        "-2 <x<=3",
+        "-2 <x=< 3",
+        "-2 <x=<3",
+        "-2 <x≤ 3",
+        "-2 <x≤3",
+        "-2< x <= 3",
+        "-2< x <=3",
+        "-2< x =< 3",
+        "-2< x =<3",
+        "-2< x ≤ 3",
+        "-2< x ≤3",
+        "-2< x<= 3",
+        "-2< x<=3",
+        "-2< x=< 3",
+        "-2< x=<3",
+        "-2< x≤ 3",
+        "-2< x≤3",
+        "-2<x <= 3",
+        "-2<x <=3",
+        "-2<x =< 3",
+        "-2<x =<3",
+        "-2<x ≤ 3",
+        "-2<x ≤3",
+        "-2<x<= 3",
+        "-2<x<=3",
+        "-2<x=< 3",
+        "-2<x=<3",
+        "-2<x≤ 3",
+        "-2<x≤3",
+        "3 >= x > -2",
+        "3 >= x >-2",
+        "3 >= x> -2",
+        "3 >= x>-2",
+        "3 >=x > -2",
+        "3 >=x >-2",
+        "3 >=x> -2",
+        "3 >=x>-2",
+        "3 ≥ x > -2",
+        "3 ≥ x >-2",
+        "3 ≥ x> -2",
+        "3 ≥ x>-2",
+        "3 ≥x > -2",
+        "3 ≥x >-2",
+        "3 ≥x> -2",
+        "3 ≥x>-2",
+        "3>= x > -2",
+        "3>= x >-2",
+        "3>= x> -2",
+        "3>= x>-2",
+        "3>=x > -2",
+        "3>=x >-2",
+        "3>=x> -2",
+        "3>=x>-2",
+        "3≥ x > -2",
+        "3≥ x >-2",
+        "3≥ x> -2",
+        "3≥ x>-2",
+        "3≥x > -2",
+        "3≥x >-2",
+        "3≥x> -2",
+        "3≥x>-2"
+       ],
+       "m": 1,
+       "s": "Inequalities",
+       "e": "An open (empty) circle means the number is NOT included: x > −2, written −2 < x. A filled circle means it IS included: x ≤ 3. Together: **−2 < x ≤ 3**."
+      },
+      {
+       "t": "num",
+       "p": "Question 13",
+       "q": "(a) The first term of a sequence is 3/4. The term-to-term rule is 'add 1/2'.\nWork out the 4th term. Give your answer as a mixed number.",
+       "ans": [
+        2.25
+       ],
+       "m": 1,
+       "s": "Term-to-term rules",
+       "e": "3/4 → 5/4 → 7/4 → 9/4. The 4th term is 9/4 = **2 1/4**. (Adding 1/2 = 2/4 each time.)"
+      },
+      {
+       "t": "text",
+       "p": "Question 13",
+       "q": "(b) Here are the first four terms of another sequence.\n7,   4,   1,   −2,   …\nFind an expression for the nth term.",
+       "ans": [
+        "10-3n",
+        "-3n+10",
+        "10-3×n",
+        "-3×n+10"
+       ],
+       "m": 2,
+       "s": "nth term",
+       "e": "The terms go down by 3 each time, so the nth term starts with −3n. When n = 1, −3n = −3, and we need 7, so add 10. nth term = **10 − 3n** (or −3n + 10). Check n = 4: 10 − 12 = −2 ✓.\nMarking: 2 marks for 10 − 3n oe; 1 mark for −3n + c with c ≠ 10, or for 10 − 3n written as a term-to-term rule. Common mistake: n − 3 (that is the term-to-term rule idea, not the nth term)."
+      },
+      {
+       "t": "num",
+       "p": "Question 14\nHere is a function machine.\ninput → [ × 3 ] → [ − 5 ] → output",
+       "q": "(a) Find the output when the input is 4.",
+       "ans": [
+        7
+       ],
+       "m": 1,
+       "s": "Functions",
+       "e": "4 × 3 = 12, then 12 − 5 = **7**."
+      },
+      {
+       "t": "num",
+       "p": "Question 14\nHere is a function machine.\ninput → [ × 3 ] → [ − 5 ] → output",
+       "q": "(b) Find the input when the output is −3.\nGive your answer as a fraction.",
+       "ans": [
+        "2/3"
+       ],
+       "tol": 0.004,
+       "m": 1,
+       "s": "Inverse functions",
+       "e": "Work backwards with inverse operations: −3 + 5 = 2, then 2 ÷ 3 = **2/3**. Check: 2/3 × 3 = 2, 2 − 5 = −3 ✓."
+      },
+      {
+       "p": "Question 15",
+       "q": "(a) Which line has gradient −2 and crosses the y-axis at (0, 5)?",
+       "c": [
+        "y = −2x + 5",
+        "y = 5x − 2",
+        "y = 2x + 5",
+        "y = −5x + 2"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "y = mx + c",
+       "e": "In y = mx + c, m is the gradient and c is the y-intercept. m = −2 and c = 5 give **y = −2x + 5**."
+      },
+      {
+       "t": "open",
+       "p": "Question 15",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 248 340\" width=\"248\" font-family=\"Arial, sans-serif\" font-size=\"16\"><line x1=\"40\" y1=\"310\" x2=\"40\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"68\" y1=\"310\" x2=\"68\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"96\" y1=\"310\" x2=\"96\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"124\" y1=\"310\" x2=\"124\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"152\" y1=\"310\" x2=\"152\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"180\" y1=\"310\" x2=\"180\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"208\" y1=\"310\" x2=\"208\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"310\" x2=\"208\" y2=\"310\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"282\" x2=\"208\" y2=\"282\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"254\" x2=\"208\" y2=\"254\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"226\" x2=\"208\" y2=\"226\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"198\" x2=\"208\" y2=\"198\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"170\" x2=\"208\" y2=\"170\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"142\" x2=\"208\" y2=\"142\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"114\" x2=\"208\" y2=\"114\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"86\" x2=\"208\" y2=\"86\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"58\" x2=\"208\" y2=\"58\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"30\" x2=\"208\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"142\" x2=\"208\" y2=\"142\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"96\" y1=\"310\" x2=\"96\" y2=\"30\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"218\" y=\"148\" text-anchor=\"start\" font-size=\"16\" font-style=\"italic\">x</text><text x=\"104\" y=\"24\" text-anchor=\"start\" font-size=\"16\" font-style=\"italic\">y</text><text x=\"40\" y=\"161\" text-anchor=\"middle\" font-size=\"16\">−2</text><text x=\"152\" y=\"161\" text-anchor=\"middle\" font-size=\"16\">2</text><text x=\"208\" y=\"161\" text-anchor=\"middle\" font-size=\"16\">4</text><text x=\"90\" y=\"316\" text-anchor=\"end\" font-size=\"16\">−6</text><text x=\"90\" y=\"260\" text-anchor=\"end\" font-size=\"16\">−4</text><text x=\"90\" y=\"204\" text-anchor=\"end\" font-size=\"16\">−2</text><text x=\"90\" y=\"92\" text-anchor=\"end\" font-size=\"16\">2</text><text x=\"90\" y=\"36\" text-anchor=\"end\" font-size=\"16\">4</text><text x=\"90\" y=\"161\" text-anchor=\"end\" font-size=\"16\">0</text></svg>",
+       "q": "(b) Complete a table of values for y = 2x − 3 for x = −1, 0, 1, 2, 3.\nThen draw the graph of y = 2x − 3 for values of x from −1 to 3 on a copy of this grid.\nDraw the graph (on paper), then mark it with the mark scheme.",
+       "m": 2,
+       "s": "Plotting linear graphs",
+       "ms": "1 mark for at least 3 correct points plotted from the table: (−1, −5), (0, −3), (1, −1), (2, 1), (3, 3). 1 mark for a correct straight ruled line from x = −1 to x = 3 through all the points. Do not accept a line drawn freehand that misses points.",
+       "e": "Table: x = −1, 0, 1, 2, 3 gives y = −5, −3, −1, 1, 3.\nPlot the five points and join them with ONE straight ruled line. Check: the line crosses the y-axis at −3 (c = −3) and goes up 2 for every 1 across (gradient 2)."
+      },
+      {
+       "t": "num",
+       "p": "Question 16",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 250\" width=\"440\" font-family=\"Arial, sans-serif\" font-size=\"16\"><polygon points=\"60,200 280,200 206.7,42.7\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"280\" y1=\"200\" x2=\"410\" y2=\"200\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M94,200 A34,34 0 0 0 83.2,175.1\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"111.4\" y=\"183.7\" text-anchor=\"middle\" font-size=\"16\">47°</text><path d=\"M186.2,64.7 A30,30 0 0 0 219.3,69.9\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"198.5\" y=\"100.1\" text-anchor=\"middle\" font-size=\"16\">68°</text><path d=\"M310,200 A30,30 0 0 0 267.3,172.8\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"307.9\" y=\"162.1\" text-anchor=\"middle\" font-size=\"16\"><tspan font-style=\"italic\">x</tspan></text><text x=\"330\" y=\"236\" text-anchor=\"middle\" font-size=\"16\">NOT TO SCALE</text></svg>",
+       "q": "Work out the size of angle x.",
+       "ans": [
+        115
+       ],
+       "unit": "°",
+       "m": 1,
+       "s": "Exterior angle of a triangle",
+       "e": "The exterior angle of a triangle equals the sum of the two interior opposite angles: x = 47° + 68° = **115°**. (Or: third angle = 180 − 47 − 68 = 65°, then x = 180 − 65 = 115°.)"
+      },
+      {
+       "t": "num",
+       "p": "Question 17\nThe two lines with arrows are parallel.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 220\" width=\"440\" font-family=\"Arial, sans-serif\" font-size=\"16\"><line x1=\"40\" y1=\"60\" x2=\"400\" y2=\"60\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"40\" y1=\"160\" x2=\"400\" y2=\"160\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polyline points=\"352,54 362,60 352,66\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polyline points=\"352,154 362,160 352,166\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"159.3\" y1=\"205\" x2=\"251.9\" y2=\"15\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M260,60 A30,30 0 0 0 243.2,33\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"275.8\" y=\"37.4\" text-anchor=\"middle\" font-size=\"16\">64°</text><path d=\"M193.5,134.8 A28,28 0 0 0 153.2,160\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"155.8\" y=\"125.3\" text-anchor=\"middle\" font-size=\"16\"><tspan font-style=\"italic\">y</tspan></text><text x=\"340\" y=\"205\" text-anchor=\"middle\" font-size=\"16\">NOT TO SCALE</text></svg>",
+       "q": "(a) Work out the size of angle y.",
+       "ans": [
+        116
+       ],
+       "unit": "°",
+       "m": 1,
+       "s": "Angles on parallel lines",
+       "e": "The angle above the lower line, to the right of the transversal, corresponds to the 64° angle, so it is also 64°. y is on a straight line with it: y = 180° − 64° = **116°**. (Or: y and 64° are co-interior, so they add up to 180°.)"
+      },
+      {
+       "t": "open",
+       "p": "Question 17\nThe two lines with arrows are parallel.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 220\" width=\"440\" font-family=\"Arial, sans-serif\" font-size=\"16\"><line x1=\"40\" y1=\"60\" x2=\"400\" y2=\"60\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"40\" y1=\"160\" x2=\"400\" y2=\"160\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polyline points=\"352,54 362,60 352,66\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polyline points=\"352,154 362,160 352,166\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"159.3\" y1=\"205\" x2=\"251.9\" y2=\"15\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M260,60 A30,30 0 0 0 243.2,33\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"275.8\" y=\"37.4\" text-anchor=\"middle\" font-size=\"16\">64°</text><path d=\"M193.5,134.8 A28,28 0 0 0 153.2,160\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"155.8\" y=\"125.3\" text-anchor=\"middle\" font-size=\"16\"><tspan font-style=\"italic\">y</tspan></text><text x=\"340\" y=\"205\" text-anchor=\"middle\" font-size=\"16\">NOT TO SCALE</text></svg>",
+       "q": "(b) Give reasons for your answer to part (a).",
+       "m": 1,
+       "s": "Angle reasons",
+       "ms": "1 mark for a complete reason using correct vocabulary, e.g. 'corresponding angles are equal AND angles on a straight line add up to 180°', OR 'vertically opposite angles are equal AND co-interior angles add up to 180°', OR 'alternate angles are equal and angles on a straight line add up to 180°'. Do not accept 'F angles', 'Z angles' or 'parallel lines' on its own.",
+       "e": "Corresponding angles are equal, so the angle at the lower crossing in the same position as 64° is 64°. Angles on a straight line add up to 180°, so y = 180° − 64° = 116°. Always use the proper words: corresponding, alternate, vertically opposite, angles on a straight line."
+      },
+      {
+       "t": "open",
+       "p": "Question 18",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 240\" width=\"300\" font-family=\"Arial, sans-serif\" font-size=\"16\"><polygon points=\"237.8,75.6 186.4,24.2 113.6,24.2 62.2,75.6 62.2,148.4 113.6,199.8 186.4,199.8 237.8,148.4\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"198.3,92 170,63.7 130,63.7 101.7,92 101.7,132 130,160.3 170,160.3 198.3,132\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><text x=\"150\" y=\"232\" text-anchor=\"middle\" font-size=\"16\">Plan view of the fountain</text></svg>",
+       "q": "(a) A mosque courtyard has a fountain in its centre. From above, the fountain is a regular octagon.\nWrite down the number of lines of symmetry and the order of rotational symmetry of a regular octagon.",
+       "m": 1,
+       "s": "Symmetry of regular polygons",
+       "ms": "1 mark for BOTH: 8 lines of symmetry AND rotational symmetry of order 8.",
+       "e": "A regular polygon with n sides has n lines of symmetry and rotational symmetry of order n. An octagon has 8 sides, so it has **8 lines of symmetry** (4 through opposite corners and 4 through the midpoints of opposite sides) and **rotational symmetry of order 8** (it looks the same after every turn of 360° ÷ 8 = 45°)."
+      },
+      {
+       "p": "Question 18",
+       "q": "(b) The courtyard floor is decorated with quadrilaterals.\nWhich statement is **always** true?",
+       "c": [
+        "A rhombus is a square.",
+        "A trapezium is a parallelogram.",
+        "A kite is a rhombus.",
+        "A square is a rectangle."
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Hierarchy of quadrilaterals",
+       "e": "A square has four right angles and two pairs of parallel sides, so it has every property of a rectangle: **a square is always a rectangle**. A rhombus need not have right angles; a trapezium may have only one pair of parallel sides; a kite need not have four equal sides."
+      },
+      {
+       "t": "num",
+       "p": "Question 18",
+       "q": "(c) A lantern in the courtyard is a polyhedron with 12 vertices and 18 edges.\nUse Euler's formula to work out the number of faces of the lantern.",
+       "ans": [
+        8
+       ],
+       "m": 1,
+       "s": "Euler's formula",
+       "e": "Euler's formula: F + V − E = 2. So F + 12 − 18 = 2 → F − 6 = 2 → **F = 8**. (This is a hexagonal prism: 2 hexagons + 6 rectangles.)"
+      },
+      {
+       "t": "open",
+       "p": "Question 19",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 336 320\" width=\"336\" font-family=\"Arial, sans-serif\" font-size=\"16\"><line x1=\"40\" y1=\"286\" x2=\"40\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"72\" y1=\"286\" x2=\"72\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"104\" y1=\"286\" x2=\"104\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"136\" y1=\"286\" x2=\"136\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"168\" y1=\"286\" x2=\"168\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"200\" y1=\"286\" x2=\"200\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"232\" y1=\"286\" x2=\"232\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"264\" y1=\"286\" x2=\"264\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"296\" y1=\"286\" x2=\"296\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"286\" x2=\"296\" y2=\"286\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"254\" x2=\"296\" y2=\"254\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"222\" x2=\"296\" y2=\"222\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"190\" x2=\"296\" y2=\"190\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"158\" x2=\"296\" y2=\"158\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"126\" x2=\"296\" y2=\"126\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"94\" x2=\"296\" y2=\"94\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"62\" x2=\"296\" y2=\"62\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"30\" x2=\"296\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"222\" x2=\"296\" y2=\"222\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"104\" y1=\"286\" x2=\"104\" y2=\"30\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"306\" y=\"228\" text-anchor=\"start\" font-size=\"16\" font-style=\"italic\">x</text><text x=\"112\" y=\"24\" text-anchor=\"start\" font-size=\"16\" font-style=\"italic\">y</text><text x=\"40\" y=\"241\" text-anchor=\"middle\" font-size=\"16\">−2</text><text x=\"72\" y=\"241\" text-anchor=\"middle\" font-size=\"16\">−1</text><text x=\"136\" y=\"241\" text-anchor=\"middle\" font-size=\"16\">1</text><text x=\"168\" y=\"241\" text-anchor=\"middle\" font-size=\"16\">2</text><text x=\"200\" y=\"241\" text-anchor=\"middle\" font-size=\"16\">3</text><text x=\"232\" y=\"241\" text-anchor=\"middle\" font-size=\"16\">4</text><text x=\"264\" y=\"241\" text-anchor=\"middle\" font-size=\"16\">5</text><text x=\"296\" y=\"241\" text-anchor=\"middle\" font-size=\"16\">6</text><text x=\"98\" y=\"292\" text-anchor=\"end\" font-size=\"16\">−2</text><text x=\"98\" y=\"260\" text-anchor=\"end\" font-size=\"16\">−1</text><text x=\"98\" y=\"196\" text-anchor=\"end\" font-size=\"16\">1</text><text x=\"98\" y=\"164\" text-anchor=\"end\" font-size=\"16\">2</text><text x=\"98\" y=\"132\" text-anchor=\"end\" font-size=\"16\">3</text><text x=\"98\" y=\"100\" text-anchor=\"end\" font-size=\"16\">4</text><text x=\"98\" y=\"68\" text-anchor=\"end\" font-size=\"16\">5</text><text x=\"98\" y=\"36\" text-anchor=\"end\" font-size=\"16\">6</text><text x=\"98\" y=\"241\" text-anchor=\"end\" font-size=\"16\">0</text><polygon points=\"136,126 136,62 200,62\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"200,190 264,190 264,126\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><text x=\"157.3\" y=\"89.3\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\">A</text><text x=\"242.7\" y=\"174.7\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\">B</text></svg>",
+       "q": "Describe fully the **single** transformation that maps triangle A onto triangle B.",
+       "m": 2,
+       "s": "Reflection",
+       "ms": "1 mark for 'reflection'; 1 mark for 'in the line y = x'. Also accept, for full marks, 'rotation of 180° about (3, 3)' — because this triangle is isosceles, this rotation also maps A exactly onto B. Do not accept 'flip' or 'mirror'. A combination of two transformations scores 0.",
+       "e": "**Reflection in the line y = x.** Check each vertex: (1, 3) → (3, 1), (1, 5) → (5, 1), (3, 5) → (5, 3). Reflecting in y = x swaps the coordinates: (a, b) → (b, a). Each point and its image are the same distance from the line y = x."
+      },
+      {
+       "t": "num",
+       "p": "Question 20\nIn a board game, a player spins a fair spinner numbered 1, 2, 3, 4 and rolls a fair six-sided dice numbered 1 to 6.",
+       "q": "(a) In this game, the probability that a player lands on a 'bonus' square on a turn is 0.18.\nWork out the probability that the player does **not** land on a bonus square.",
+       "ans": [
+        0.82
+       ],
+       "m": 1,
+       "s": "Complementary events",
+       "e": "Landing on a bonus square and not landing on one are complementary events, so their probabilities add up to 1: 1 − 0.18 = **0.82**."
+      },
+      {
+       "t": "num",
+       "p": "Question 20\nIn a board game, a player spins a fair spinner numbered 1, 2, 3, 4 and rolls a fair six-sided dice numbered 1 to 6.",
+       "q": "(b) The player adds the number on the spinner and the number on the dice.\nWork out the probability that the total is 7. Show your working.",
+       "ans": [
+        "1/6"
+       ],
+       "tol": 0.002,
+       "m": 2,
+       "s": "Combined events",
+       "e": "There are 4 × 6 = 24 equally likely outcomes (use a sample-space table: spinner 1–4 down the side, dice 1–6 across the top).\nTotals of 7: (1, 6), (2, 5), (3, 4), (4, 3) → 4 outcomes.\nP(total 7) = 4/24 = **1/6**.\nMarking: 1 mark for 24 outcomes or the 4 correct pairs seen; 1 mark for 4/24 oe. Common mistake: counting only the possible totals 2 to 10 (9 totals) as if they were equally likely."
+      }
+     ]
+    },
+    {
+     "name": "Paper 2",
+     "minutes": 60,
+     "calc": true,
+     "questions": [
+      {
+       "t": "num",
+       "p": "Question 1\nAn online shop is having a sale.",
+       "q": "(a) A jacket normally costs $64. In the sale its price is reduced by 15%.\nWork out the sale price of the jacket, in dollars. Show your working.",
+       "ans": [
+        54.4
+       ],
+       "tol": 0.001,
+       "m": 2,
+       "s": "Percentage decrease",
+       "e": "Multiplier method: 100% − 15% = 85% = 0.85. 64 × 0.85 = **$54.40**.\nOr: 15% of 64 = 9.60, then 64 − 9.60 = 54.40.\nMarking: 1 mark for 64 × 0.85 or 9.6 seen; 1 mark for 54.40 (accept 54.4). Common mistake: 64 − 15 = 49."
+      },
+      {
+       "t": "num",
+       "p": "Question 1\nAn online shop is having a sale.",
+       "q": "(b) After the sale, the price of a pair of headphones goes up from $48 to $54.\nWork out the percentage increase. Show your working.",
+       "ans": [
+        12.5
+       ],
+       "tol": 0.001,
+       "unit": "%",
+       "m": 2,
+       "s": "Percentage change",
+       "e": "Absolute change = 54 − 48 = $6. Percentage increase = change ÷ ORIGINAL × 100 = 6 ÷ 48 × 100 = **12.5%**.\nMarking: 1 mark for 6/48 seen (or 54/48 = 1.125); 1 mark for 12.5. Common mistake: dividing by the new price, 6 ÷ 54 × 100 = 11.1%."
+      },
+      {
+       "t": "open",
+       "p": "Question 1\nAn online shop is having a sale.",
+       "q": "(c) The price of a pencil case rises from $20 to $25.\nThe price of a school bag rises from $80 to $92.\nHana says, 'The price of the school bag increased more.'\nExplain why Hana is correct in one way but not correct in another way. Show your working.",
+       "m": 2,
+       "s": "Absolute and percentage change",
+       "ms": "1 mark for the absolute changes: bag $12 and pencil case $5, so the bag increased more in dollars. 1 mark for the percentage changes: pencil case 25% and bag 15%, so the pencil case increased more in percentage terms. Accept 25/20 = 1.25 and 92/80 = 1.15 for the second mark.",
+       "e": "Absolute change: bag 92 − 80 = $12; pencil case 25 − 20 = $5. In dollars, Hana is correct: the bag went up more.\nPercentage change: pencil case 5 ÷ 20 × 100 = 25%; bag 12 ÷ 80 × 100 = 15%. Compared with its original price, the pencil case went up more, so Hana is not correct in percentage terms."
+      },
+      {
+       "t": "open",
+       "p": "Question 2",
+       "q": "(a) The online shop sells rice in two pack sizes.\nPack A: 750 g for $4.20\nPack B: 1.2 kg for $6.60\nWhich pack is better value for money? Show your working.",
+       "m": 2,
+       "s": "Comparing using direct proportion",
+       "ms": "1 mark for two values that can be compared, using the same units, e.g. $5.60 per kg and $5.50 per kg; OR 56 cents and 55 cents per 100 g; OR 178.6 g and 181.8 g per dollar. 1 mark for 'Pack B' with correct supporting values. 'Pack B' with no working scores 0.",
+       "e": "Change to the same units: 750 g = 0.75 kg.\nPack A: 4.20 ÷ 0.75 = $5.60 per kg.  Pack B: 6.60 ÷ 1.2 = $5.50 per kg.\nPack B costs less per kilogram, so **Pack B** is better value.\nCommon mistake: comparing 4.20 ÷ 750 with 6.60 ÷ 1.2 (different units)."
+      },
+      {
+       "t": "num",
+       "p": "Question 2",
+       "q": "(b) 5 m of garden hose costs $13.75. The cost is directly proportional to the length.\nWork out the cost of 8 m of the same hose.",
+       "ans": [
+        22
+       ],
+       "tol": 0.001,
+       "unit": "$",
+       "m": 1,
+       "s": "Direct proportion",
+       "e": "Cost of 1 m: 13.75 ÷ 5 = $2.75. Cost of 8 m: 2.75 × 8 = **$22** ($22.00). (Or 13.75 × 8/5 = 22.)"
+      },
+      {
+       "t": "num",
+       "p": "Question 3\nA passenger train runs between several towns.",
+       "q": "(a) In one week the train travelled 6847.5 km.\nRound 6847.5 to 2 significant figures.",
+       "ans": [
+        6800
+       ],
+       "m": 1,
+       "s": "Significant figures",
+       "e": "The first two significant figures are 6 and 8 (6800…). The next digit is 4, which is less than 5, so round down: **6800** km. Keep the zeros to hold the place value: 68 is wrong."
+      },
+      {
+       "t": "num",
+       "p": "Question 3\nA passenger train runs between several towns.",
+       "q": "(b) The distance between two of the towns is 45 miles.\nUse 1 mile ≈ 1.6 km to change 45 miles into kilometres.",
+       "ans": [
+        72
+       ],
+       "unit": "km",
+       "m": 1,
+       "s": "Miles and kilometres",
+       "e": "45 × 1.6 = **72 km**. A kilometre is shorter than a mile, so the number of kilometres must be bigger."
+      },
+      {
+       "t": "num",
+       "p": "Question 3\nA passenger train runs between several towns.",
+       "q": "(c) The whole route is 120 km long.\nUse 1 km ≈ 5/8 mile to change 120 km into miles.",
+       "ans": [
+        75
+       ],
+       "unit": "miles",
+       "m": 1,
+       "s": "Miles and kilometres",
+       "e": "120 × 5/8 = 600 ÷ 8 = **75 miles**. (Check with the other fact: 75 × 1.6 = 120 ✓.)"
+      },
+      {
+       "t": "num",
+       "p": "Question 4\nTwo water tanks, A and B, are connected to pipes.\nThe graph shows the volume of water in each tank over 40 minutes.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 395\" width=\"500\" font-family=\"Arial, sans-serif\" font-size=\"16\"><line x1=\"90\" y1=\"330\" x2=\"90\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"137.5\" y1=\"330\" x2=\"137.5\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"185\" y1=\"330\" x2=\"185\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"232.5\" y1=\"330\" x2=\"232.5\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"280\" y1=\"330\" x2=\"280\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"327.5\" y1=\"330\" x2=\"327.5\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"375\" y1=\"330\" x2=\"375\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"422.5\" y1=\"330\" x2=\"422.5\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"470\" y1=\"330\" x2=\"470\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"330\" x2=\"470\" y2=\"330\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"310\" x2=\"470\" y2=\"310\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"290\" x2=\"470\" y2=\"290\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"270\" x2=\"470\" y2=\"270\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"250\" x2=\"470\" y2=\"250\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"230\" x2=\"470\" y2=\"230\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"210\" x2=\"470\" y2=\"210\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"190\" x2=\"470\" y2=\"190\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"170\" x2=\"470\" y2=\"170\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"150\" x2=\"470\" y2=\"150\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"130\" x2=\"470\" y2=\"130\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"110\" x2=\"470\" y2=\"110\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"90\" x2=\"470\" y2=\"90\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"70\" x2=\"470\" y2=\"70\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"50\" x2=\"470\" y2=\"50\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"30\" x2=\"470\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"330\" x2=\"470\" y2=\"330\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"90\" y1=\"330\" x2=\"90\" y2=\"30\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"90\" y=\"352\" text-anchor=\"middle\" font-size=\"16\">0</text><text x=\"185\" y=\"352\" text-anchor=\"middle\" font-size=\"16\">10</text><text x=\"280\" y=\"352\" text-anchor=\"middle\" font-size=\"16\">20</text><text x=\"375\" y=\"352\" text-anchor=\"middle\" font-size=\"16\">30</text><text x=\"470\" y=\"352\" text-anchor=\"middle\" font-size=\"16\">40</text><text x=\"82\" y=\"336\" text-anchor=\"end\" font-size=\"16\">0</text><text x=\"82\" y=\"276\" text-anchor=\"end\" font-size=\"16\">120</text><text x=\"82\" y=\"216\" text-anchor=\"end\" font-size=\"16\">240</text><text x=\"82\" y=\"156\" text-anchor=\"end\" font-size=\"16\">360</text><text x=\"82\" y=\"96\" text-anchor=\"end\" font-size=\"16\">480</text><text x=\"82\" y=\"36\" text-anchor=\"end\" font-size=\"16\">600</text><text x=\"280\" y=\"378\" text-anchor=\"middle\" font-size=\"16\">Time (minutes)</text><text x=\"22\" y=\"180\" text-anchor=\"middle\" font-size=\"16\" transform=\"rotate(-90 22 180)\">Volume of water (litres)</text><polyline points=\"90,290 470,90\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"3\" stroke-linejoin=\"round\"/><polyline points=\"90,30 375,270 470,270\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"3\" stroke-linejoin=\"round\"/><text x=\"337\" y=\"120\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\">Tank A</text><text x=\"182.8\" y=\"64\" text-anchor=\"start\" font-size=\"16\" font-weight=\"bold\">Tank B</text></svg>",
+       "q": "(a) How many litres of water are in Tank B at the start?",
+       "ans": [
+        600
+       ],
+       "unit": "litres",
+       "m": 1,
+       "s": "Reading real-life graphs",
+       "e": "At time 0 the Tank B line starts at **600 litres**."
+      },
+      {
+       "t": "num",
+       "p": "Question 4\nTwo water tanks, A and B, are connected to pipes.\nThe graph shows the volume of water in each tank over 40 minutes.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 395\" width=\"500\" font-family=\"Arial, sans-serif\" font-size=\"16\"><line x1=\"90\" y1=\"330\" x2=\"90\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"137.5\" y1=\"330\" x2=\"137.5\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"185\" y1=\"330\" x2=\"185\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"232.5\" y1=\"330\" x2=\"232.5\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"280\" y1=\"330\" x2=\"280\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"327.5\" y1=\"330\" x2=\"327.5\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"375\" y1=\"330\" x2=\"375\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"422.5\" y1=\"330\" x2=\"422.5\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"470\" y1=\"330\" x2=\"470\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"330\" x2=\"470\" y2=\"330\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"310\" x2=\"470\" y2=\"310\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"290\" x2=\"470\" y2=\"290\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"270\" x2=\"470\" y2=\"270\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"250\" x2=\"470\" y2=\"250\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"230\" x2=\"470\" y2=\"230\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"210\" x2=\"470\" y2=\"210\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"190\" x2=\"470\" y2=\"190\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"170\" x2=\"470\" y2=\"170\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"150\" x2=\"470\" y2=\"150\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"130\" x2=\"470\" y2=\"130\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"110\" x2=\"470\" y2=\"110\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"90\" x2=\"470\" y2=\"90\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"70\" x2=\"470\" y2=\"70\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"50\" x2=\"470\" y2=\"50\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"30\" x2=\"470\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"330\" x2=\"470\" y2=\"330\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"90\" y1=\"330\" x2=\"90\" y2=\"30\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"90\" y=\"352\" text-anchor=\"middle\" font-size=\"16\">0</text><text x=\"185\" y=\"352\" text-anchor=\"middle\" font-size=\"16\">10</text><text x=\"280\" y=\"352\" text-anchor=\"middle\" font-size=\"16\">20</text><text x=\"375\" y=\"352\" text-anchor=\"middle\" font-size=\"16\">30</text><text x=\"470\" y=\"352\" text-anchor=\"middle\" font-size=\"16\">40</text><text x=\"82\" y=\"336\" text-anchor=\"end\" font-size=\"16\">0</text><text x=\"82\" y=\"276\" text-anchor=\"end\" font-size=\"16\">120</text><text x=\"82\" y=\"216\" text-anchor=\"end\" font-size=\"16\">240</text><text x=\"82\" y=\"156\" text-anchor=\"end\" font-size=\"16\">360</text><text x=\"82\" y=\"96\" text-anchor=\"end\" font-size=\"16\">480</text><text x=\"82\" y=\"36\" text-anchor=\"end\" font-size=\"16\">600</text><text x=\"280\" y=\"378\" text-anchor=\"middle\" font-size=\"16\">Time (minutes)</text><text x=\"22\" y=\"180\" text-anchor=\"middle\" font-size=\"16\" transform=\"rotate(-90 22 180)\">Volume of water (litres)</text><polyline points=\"90,290 470,90\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"3\" stroke-linejoin=\"round\"/><polyline points=\"90,30 375,270 470,270\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"3\" stroke-linejoin=\"round\"/><text x=\"337\" y=\"120\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\">Tank A</text><text x=\"182.8\" y=\"64\" text-anchor=\"start\" font-size=\"16\" font-weight=\"bold\">Tank B</text></svg>",
+       "q": "(b) After how many minutes do the two tanks hold the same volume of water?",
+       "ans": [
+        20
+       ],
+       "unit": "minutes",
+       "m": 1,
+       "s": "Intersection of graphs",
+       "e": "The lines cross at **20 minutes** (both tanks then hold 280 litres)."
+      },
+      {
+       "t": "open",
+       "p": "Question 4\nTwo water tanks, A and B, are connected to pipes.\nThe graph shows the volume of water in each tank over 40 minutes.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 395\" width=\"500\" font-family=\"Arial, sans-serif\" font-size=\"16\"><line x1=\"90\" y1=\"330\" x2=\"90\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"137.5\" y1=\"330\" x2=\"137.5\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"185\" y1=\"330\" x2=\"185\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"232.5\" y1=\"330\" x2=\"232.5\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"280\" y1=\"330\" x2=\"280\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"327.5\" y1=\"330\" x2=\"327.5\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"375\" y1=\"330\" x2=\"375\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"422.5\" y1=\"330\" x2=\"422.5\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"470\" y1=\"330\" x2=\"470\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"330\" x2=\"470\" y2=\"330\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"310\" x2=\"470\" y2=\"310\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"290\" x2=\"470\" y2=\"290\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"270\" x2=\"470\" y2=\"270\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"250\" x2=\"470\" y2=\"250\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"230\" x2=\"470\" y2=\"230\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"210\" x2=\"470\" y2=\"210\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"190\" x2=\"470\" y2=\"190\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"170\" x2=\"470\" y2=\"170\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"150\" x2=\"470\" y2=\"150\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"130\" x2=\"470\" y2=\"130\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"110\" x2=\"470\" y2=\"110\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"90\" x2=\"470\" y2=\"90\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"70\" x2=\"470\" y2=\"70\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"50\" x2=\"470\" y2=\"50\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"30\" x2=\"470\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"330\" x2=\"470\" y2=\"330\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"90\" y1=\"330\" x2=\"90\" y2=\"30\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"90\" y=\"352\" text-anchor=\"middle\" font-size=\"16\">0</text><text x=\"185\" y=\"352\" text-anchor=\"middle\" font-size=\"16\">10</text><text x=\"280\" y=\"352\" text-anchor=\"middle\" font-size=\"16\">20</text><text x=\"375\" y=\"352\" text-anchor=\"middle\" font-size=\"16\">30</text><text x=\"470\" y=\"352\" text-anchor=\"middle\" font-size=\"16\">40</text><text x=\"82\" y=\"336\" text-anchor=\"end\" font-size=\"16\">0</text><text x=\"82\" y=\"276\" text-anchor=\"end\" font-size=\"16\">120</text><text x=\"82\" y=\"216\" text-anchor=\"end\" font-size=\"16\">240</text><text x=\"82\" y=\"156\" text-anchor=\"end\" font-size=\"16\">360</text><text x=\"82\" y=\"96\" text-anchor=\"end\" font-size=\"16\">480</text><text x=\"82\" y=\"36\" text-anchor=\"end\" font-size=\"16\">600</text><text x=\"280\" y=\"378\" text-anchor=\"middle\" font-size=\"16\">Time (minutes)</text><text x=\"22\" y=\"180\" text-anchor=\"middle\" font-size=\"16\" transform=\"rotate(-90 22 180)\">Volume of water (litres)</text><polyline points=\"90,290 470,90\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"3\" stroke-linejoin=\"round\"/><polyline points=\"90,30 375,270 470,270\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"3\" stroke-linejoin=\"round\"/><text x=\"337\" y=\"120\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\">Tank A</text><text x=\"182.8\" y=\"64\" text-anchor=\"start\" font-size=\"16\" font-weight=\"bold\">Tank B</text></svg>",
+       "q": "(c) Describe what happens to the water in Tank B between 30 minutes and 40 minutes. Give a reason for the shape of the graph.",
+       "m": 1,
+       "s": "Interpreting graph shape",
+       "ms": "1 mark for: the volume stays the same (at 120 litres) because water is no longer flowing out (the pipe/tap is closed), with reference to the horizontal/flat line. Do not accept 'the tank is empty'.",
+       "e": "The graph is horizontal (flat) from 30 to 40 minutes, so the volume stays at **120 litres**: water has stopped flowing out of Tank B (the outlet pipe has been closed). A flat line means no change."
+      },
+      {
+       "t": "open",
+       "p": "Question 4\nTwo water tanks, A and B, are connected to pipes.\nThe graph shows the volume of water in each tank over 40 minutes.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 395\" width=\"500\" font-family=\"Arial, sans-serif\" font-size=\"16\"><line x1=\"90\" y1=\"330\" x2=\"90\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"137.5\" y1=\"330\" x2=\"137.5\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"185\" y1=\"330\" x2=\"185\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"232.5\" y1=\"330\" x2=\"232.5\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"280\" y1=\"330\" x2=\"280\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"327.5\" y1=\"330\" x2=\"327.5\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"375\" y1=\"330\" x2=\"375\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"422.5\" y1=\"330\" x2=\"422.5\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"470\" y1=\"330\" x2=\"470\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"330\" x2=\"470\" y2=\"330\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"310\" x2=\"470\" y2=\"310\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"290\" x2=\"470\" y2=\"290\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"270\" x2=\"470\" y2=\"270\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"250\" x2=\"470\" y2=\"250\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"230\" x2=\"470\" y2=\"230\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"210\" x2=\"470\" y2=\"210\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"190\" x2=\"470\" y2=\"190\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"170\" x2=\"470\" y2=\"170\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"150\" x2=\"470\" y2=\"150\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"130\" x2=\"470\" y2=\"130\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"110\" x2=\"470\" y2=\"110\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"90\" x2=\"470\" y2=\"90\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"70\" x2=\"470\" y2=\"70\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"50\" x2=\"470\" y2=\"50\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"30\" x2=\"470\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"90\" y1=\"330\" x2=\"470\" y2=\"330\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"90\" y1=\"330\" x2=\"90\" y2=\"30\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"90\" y=\"352\" text-anchor=\"middle\" font-size=\"16\">0</text><text x=\"185\" y=\"352\" text-anchor=\"middle\" font-size=\"16\">10</text><text x=\"280\" y=\"352\" text-anchor=\"middle\" font-size=\"16\">20</text><text x=\"375\" y=\"352\" text-anchor=\"middle\" font-size=\"16\">30</text><text x=\"470\" y=\"352\" text-anchor=\"middle\" font-size=\"16\">40</text><text x=\"82\" y=\"336\" text-anchor=\"end\" font-size=\"16\">0</text><text x=\"82\" y=\"276\" text-anchor=\"end\" font-size=\"16\">120</text><text x=\"82\" y=\"216\" text-anchor=\"end\" font-size=\"16\">240</text><text x=\"82\" y=\"156\" text-anchor=\"end\" font-size=\"16\">360</text><text x=\"82\" y=\"96\" text-anchor=\"end\" font-size=\"16\">480</text><text x=\"82\" y=\"36\" text-anchor=\"end\" font-size=\"16\">600</text><text x=\"280\" y=\"378\" text-anchor=\"middle\" font-size=\"16\">Time (minutes)</text><text x=\"22\" y=\"180\" text-anchor=\"middle\" font-size=\"16\" transform=\"rotate(-90 22 180)\">Volume of water (litres)</text><polyline points=\"90,290 470,90\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"3\" stroke-linejoin=\"round\"/><polyline points=\"90,30 375,270 470,270\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"3\" stroke-linejoin=\"round\"/><text x=\"337\" y=\"120\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\">Tank A</text><text x=\"182.8\" y=\"64\" text-anchor=\"start\" font-size=\"16\" font-weight=\"bold\">Tank B</text></svg>",
+       "q": "(d) Tank A fills at a steady rate. Use the graph to find this rate, in litres per minute, and explain what the steady rate tells you about the shape of the graph for Tank A.",
+       "m": 1,
+       "s": "Gradient as a rate",
+       "ms": "1 mark for 10 litres per minute (e.g. (480 − 80) ÷ 40) with a statement that a steady rate gives a straight line (constant gradient). Accept 100 litres every 10 minutes.",
+       "e": "Tank A goes from 80 litres to 480 litres in 40 minutes: 400 ÷ 40 = **10 litres per minute**. Because the rate is constant, the graph for Tank A is a straight line (its gradient stays the same)."
+      },
+      {
+       "t": "num",
+       "p": "Question 5",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 460 262\" width=\"460\" font-family=\"Arial, sans-serif\" font-size=\"16\"><polygon points=\"240,210 420,150 320,20 140,80\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"40,210 240,210 140,80\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"40\" y1=\"210\" x2=\"220\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><line x1=\"220\" y1=\"150\" x2=\"420\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><line x1=\"220\" y1=\"150\" x2=\"320\" y2=\"20\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><line x1=\"140\" y1=\"80\" x2=\"140\" y2=\"210\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><polyline points=\"140,198 152,198 152,210\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><text x=\"140\" y=\"234\" text-anchor=\"middle\" font-size=\"16\">1.2 m</text><text x=\"134\" y=\"172\" text-anchor=\"end\" font-size=\"16\">0.8 m</text><text x=\"348\" y=\"202\" text-anchor=\"start\" font-size=\"16\">2.5 m</text><text x=\"370\" y=\"254\" text-anchor=\"middle\" font-size=\"16\">NOT TO SCALE</text></svg>",
+       "q": "(a) A water trough on a farm is a triangular prism.\nWork out the volume of the trough. Show your working.",
+       "ans": [
+        1.2
+       ],
+       "tol": 0.001,
+       "unit": "m^{3}",
+       "m": 2,
+       "s": "Volume of a triangular prism",
+       "e": "Area of the triangular cross-section = ½ × base × height = ½ × 1.2 × 0.8 = 0.48 m^{2}.\nVolume = area of cross-section × length = 0.48 × 2.5 = **1.2 m^{3}**.\nMarking: 1 mark for 0.48 seen (or ½ × 1.2 × 0.8 × 2.5 seen); 1 mark for 1.2. Common mistake: 1.2 × 0.8 × 2.5 = 2.4 (forgetting the ½)."
+      },
+      {
+       "t": "num",
+       "p": "Question 5",
+       "q": "(b) A water trough on a farm is a triangular prism.\n1 m^{3} = 1000 litres.\nHow many litres of water does the full trough hold?",
+       "ans": [
+        1200
+       ],
+       "unit": "litres",
+       "m": 1,
+       "s": "Units of capacity",
+       "e": "1.2 × 1000 = **1200 litres**. (Follow through: 1000 × your answer to part (a).)"
+      },
+      {
+       "t": "num",
+       "p": "Question 5",
+       "q": "(c) A closed water tank is a cuboid 2 m long, 1.5 m wide and 1.2 m high.\nThe outside of the tank is painted. Work out its total surface area. Show your working.",
+       "ans": [
+        14.4
+       ],
+       "tol": 0.001,
+       "unit": "m^{2}",
+       "m": 2,
+       "s": "Surface area of a cuboid",
+       "e": "There are three pairs of equal faces:\n2 × 1.5 = 3 m^{2};  2 × 1.2 = 2.4 m^{2};  1.5 × 1.2 = 1.8 m^{2}.\nTotal = 2 × (3 + 2.4 + 1.8) = 2 × 7.2 = **14.4 m^{2}**.\nMarking: 1 mark for at least two of 3, 2.4, 1.8 seen; 1 mark for 14.4. Common mistake: 7.2 (only one face of each pair)."
+      },
+      {
+       "t": "num",
+       "p": "Question 6\nA new courtyard is being designed for a mosque.",
+       "q": "(a) A circular pool in the courtyard has a diameter of 3.5 m.\nWork out the circumference of the pool. Give your answer correct to 1 decimal place.",
+       "ans": [
+        11
+       ],
+       "tol": 0.05,
+       "unit": "m",
+       "m": 2,
+       "s": "Circumference",
+       "e": "C = πd = π × 3.5 = 10.995… m = **11.0 m** (1 d.p.).\nMarking: 1 mark for π × 3.5 seen or 10.99…; 1 mark for 11.0 (accept 11). Common mistake: using the formula for area, or π × 3.5 × 2 = 22.0 (3.5 is the diameter, not the radius)."
+      },
+      {
+       "t": "num",
+       "p": "Question 6\nA new courtyard is being designed for a mosque.",
+       "q": "(b) A circular path around the courtyard has a circumference of 40 m.\nWork out the diameter of the path. Give your answer correct to 1 decimal place.",
+       "ans": [
+        12.7
+       ],
+       "tol": 0.05,
+       "unit": "m",
+       "m": 1,
+       "s": "Circumference (inverse)",
+       "e": "C = πd, so d = C ÷ π = 40 ÷ π = 12.732… = **12.7 m** (1 d.p.). π is the ratio circumference ÷ diameter."
+      },
+      {
+       "t": "num",
+       "p": "Question 6\nA new courtyard is being designed for a mosque.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 420 200\" width=\"420\" font-family=\"Arial, sans-serif\" font-size=\"16\"><polygon points=\"60,150 336,150 278,60 110,60\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"110\" y1=\"60\" x2=\"110\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-dasharray=\"6 4\"/><polyline points=\"110,138 122,138 122,150\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-linejoin=\"round\"/><text x=\"194\" y=\"50\" text-anchor=\"middle\" font-size=\"16\">2.8 m</text><text x=\"198\" y=\"174\" text-anchor=\"middle\" font-size=\"16\">4.6 m</text><text x=\"118\" y=\"112\" text-anchor=\"start\" font-size=\"16\">1.5 m</text><text x=\"330\" y=\"194\" text-anchor=\"middle\" font-size=\"16\">NOT TO SCALE</text></svg>",
+       "q": "(c) A marble panel on the courtyard wall is a trapezium.\nWork out the area of the panel. Show your working.",
+       "ans": [
+        5.55
+       ],
+       "tol": 0.001,
+       "unit": "m^{2}",
+       "m": 2,
+       "s": "Area of a trapezium",
+       "e": "Area of a trapezium = ½ × (a + b) × h = ½ × (4.6 + 2.8) × 1.5 = ½ × 7.4 × 1.5 = 3.7 × 1.5 = **5.55 m^{2}**.\nMarking: 1 mark for ½ × (4.6 + 2.8) × 1.5 seen; 1 mark for 5.55."
+      },
+      {
+       "t": "num",
+       "p": "Question 7\nThe youth club held a car wash to raise money. The stem-and-leaf diagram shows the amounts, in dollars, collected by 15 boys.\nStem | Leaf\n1 | 2  5  8\n2 | 0  3  3  7  9\n3 | 1  4  4  6\n4 | 0  2  8\nKey: stem 2, leaf 3 means $23",
+       "q": "(a) Find the median amount.",
+       "ans": [
+        29
+       ],
+       "unit": "$",
+       "m": 1,
+       "s": "Median from stem-and-leaf",
+       "e": "There are 15 values, so the median is the (15 + 1) ÷ 2 = 8th value. Counting in order: 12, 15, 18, 20, 23, 23, 27, **29** … Median = **$29**."
+      },
+      {
+       "t": "num",
+       "p": "Question 7\nThe youth club held a car wash to raise money. The stem-and-leaf diagram shows the amounts, in dollars, collected by 15 boys.\nStem | Leaf\n1 | 2  5  8\n2 | 0  3  3  7  9\n3 | 1  4  4  6\n4 | 0  2  8\nKey: stem 2, leaf 3 means $23",
+       "q": "(b) Find the range of the amounts.",
+       "ans": [
+        36
+       ],
+       "unit": "$",
+       "m": 1,
+       "s": "Range",
+       "e": "Range = largest − smallest = 48 − 12 = **$36**."
+      },
+      {
+       "t": "open",
+       "p": "Question 7\nThe youth club held a car wash to raise money. The stem-and-leaf diagram shows the amounts, in dollars, collected by 15 boys.\nStem | Leaf\n1 | 2  5  8\n2 | 0  3  3  7  9\n3 | 1  4  4  6\n4 | 0  2  8\nKey: stem 2, leaf 3 means $23",
+       "q": "(c) For 15 girls at the same car wash, the median amount was $33 and the range was $18.\nMake two comparisons between the amounts collected by the boys and the girls.",
+       "m": 2,
+       "s": "Comparing distributions",
+       "ms": "1 mark for comparing averages in context: the girls' median ($33) is higher than the boys' ($29), so on average the girls collected more. 1 mark for comparing spread in context: the girls' range ($18) is smaller than the boys' ($36), so the girls' amounts were more consistent / less spread out. FT their (a) and (b). Do not accept statements that only quote the numbers without saying what they mean.",
+       "e": "Average: the girls' median, $33, is greater than the boys' median, $29, so **on average the girls collected more money**.\nSpread: the girls' range, $18, is smaller than the boys' range, $36, so **the girls' amounts were more consistent** (less spread out)."
+      },
+      {
+       "t": "num",
+       "p": "Question 8",
+       "q": "(a) Altogether, the youth club raised $2400 this year. It gave $1080 of this to charity.\nThe club draws a pie chart to show how the $2400 was used.\nWork out the angle of the sector for charity.",
+       "ans": [
+        162
+       ],
+       "unit": "°",
+       "m": 1,
+       "s": "Pie charts",
+       "e": "Fraction for charity = 1080 ÷ 2400 = 0.45. Angle = 0.45 × 360° = **162°**."
+      },
+      {
+       "p": "Question 8",
+       "q": "(b) The club has 240 members. The leader wants to know which activities the members would like next term. He decides to ask a sample of members.\nWhich sample is **least** likely to be biased?",
+       "c": [
+        "Choose 30 members at random from the full list of 240 members",
+        "Ask the first 20 members who arrive on Friday evening",
+        "Ask 20 members of the club's football team",
+        "Ask the leader's own friends in the club"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Sampling methods",
+       "e": "A **random sample from the full list** gives every member the same chance of being chosen. The other samples only include certain kinds of member (early arrivals, footballers, the leader's friends), whose views may not represent the whole club."
+      },
+      {
+       "t": "open",
+       "p": "Question 8",
+       "q": "(c) The club has 240 members. The leader wants to know which activities the members would like next term. He decides to ask a sample of members.\nGive one advantage and one disadvantage of asking a sample instead of asking all 240 members.",
+       "m": 1,
+       "s": "Sampling: advantages and disadvantages",
+       "ms": "1 mark for BOTH: an advantage (e.g. quicker / cheaper / easier to collect and analyse) AND a disadvantage (e.g. may not represent all members / results less reliable / some opinions are missed).",
+       "e": "Advantage: a sample is **quicker and easier** to collect and analyse than asking everyone.\nDisadvantage: the sample **might not represent all 240 members**, so the results may be less reliable than asking everybody."
+      },
+      {
+       "t": "num",
+       "p": "Question 9\nKarim makes a spinner for a board game. It has five equal sections: 2 red, 2 blue and 1 green.\nHe spins it 200 times. The results are:\nColour | Red | Blue | Green\nFrequency | 74 | 85 | 41",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 260 250\" width=\"260\" font-family=\"Arial, sans-serif\" font-size=\"16\"><path d=\"M130,125 L130,20 A105,105 0 0 1 229.9,92.6 Z\" fill=\"#fde2e2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"168.9\" y=\"77.5\" text-anchor=\"middle\" font-size=\"16\">Red</text><path d=\"M130,125 L229.9,92.6 A105,105 0 0 1 191.7,209.9 Z\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"192.9\" y=\"151.4\" text-anchor=\"middle\" font-size=\"16\">Blue</text><path d=\"M130,125 L191.7,209.9 A105,105 0 0 1 68.3,209.9 Z\" fill=\"#fde2e2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"130\" y=\"197.2\" text-anchor=\"middle\" font-size=\"16\">Red</text><path d=\"M130,125 L68.3,209.9 A105,105 0 0 1 30.1,92.6 Z\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"67.1\" y=\"151.4\" text-anchor=\"middle\" font-size=\"16\">Blue</text><path d=\"M130,125 L30.1,92.6 A105,105 0 0 1 130,20 Z\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"91.1\" y=\"77.5\" text-anchor=\"middle\" font-size=\"16\">Green</text><circle cx=\"130\" cy=\"125\" r=\"6\" fill=\"#0f1b33\"/></svg>",
+       "q": "(a) Work out the experimental probability of the spinner landing on red.",
+       "ans": [
+        0.37,
+        "74/200",
+        "37/100"
+       ],
+       "tol": 0.0001,
+       "m": 1,
+       "s": "Experimental probability",
+       "e": "Experimental probability = frequency ÷ number of trials = 74 ÷ 200 = **0.37** (= 37/100)."
+      },
+      {
+       "t": "num",
+       "p": "Question 9\nKarim makes a spinner for a board game. It has five equal sections: 2 red, 2 blue and 1 green.\nHe spins it 200 times. The results are:\nColour | Red | Blue | Green\nFrequency | 74 | 85 | 41",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 260 250\" width=\"260\" font-family=\"Arial, sans-serif\" font-size=\"16\"><path d=\"M130,125 L130,20 A105,105 0 0 1 229.9,92.6 Z\" fill=\"#fde2e2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"168.9\" y=\"77.5\" text-anchor=\"middle\" font-size=\"16\">Red</text><path d=\"M130,125 L229.9,92.6 A105,105 0 0 1 191.7,209.9 Z\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"192.9\" y=\"151.4\" text-anchor=\"middle\" font-size=\"16\">Blue</text><path d=\"M130,125 L191.7,209.9 A105,105 0 0 1 68.3,209.9 Z\" fill=\"#fde2e2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"130\" y=\"197.2\" text-anchor=\"middle\" font-size=\"16\">Red</text><path d=\"M130,125 L68.3,209.9 A105,105 0 0 1 30.1,92.6 Z\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"67.1\" y=\"151.4\" text-anchor=\"middle\" font-size=\"16\">Blue</text><path d=\"M130,125 L30.1,92.6 A105,105 0 0 1 130,20 Z\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"91.1\" y=\"77.5\" text-anchor=\"middle\" font-size=\"16\">Green</text><circle cx=\"130\" cy=\"125\" r=\"6\" fill=\"#0f1b33\"/></svg>",
+       "q": "(b) Write down the theoretical probability of the spinner landing on red.",
+       "ans": [
+        0.4,
+        "2/5"
+       ],
+       "tol": 0.0001,
+       "m": 1,
+       "s": "Theoretical probability",
+       "e": "2 of the 5 equal sections are red, so P(red) = **2/5** = 0.4."
+      },
+      {
+       "t": "open",
+       "p": "Question 9\nKarim makes a spinner for a board game. It has five equal sections: 2 red, 2 blue and 1 green.\nHe spins it 200 times. The results are:\nColour | Red | Blue | Green\nFrequency | 74 | 85 | 41",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 260 250\" width=\"260\" font-family=\"Arial, sans-serif\" font-size=\"16\"><path d=\"M130,125 L130,20 A105,105 0 0 1 229.9,92.6 Z\" fill=\"#fde2e2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"168.9\" y=\"77.5\" text-anchor=\"middle\" font-size=\"16\">Red</text><path d=\"M130,125 L229.9,92.6 A105,105 0 0 1 191.7,209.9 Z\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"192.9\" y=\"151.4\" text-anchor=\"middle\" font-size=\"16\">Blue</text><path d=\"M130,125 L191.7,209.9 A105,105 0 0 1 68.3,209.9 Z\" fill=\"#fde2e2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"130\" y=\"197.2\" text-anchor=\"middle\" font-size=\"16\">Red</text><path d=\"M130,125 L68.3,209.9 A105,105 0 0 1 30.1,92.6 Z\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"67.1\" y=\"151.4\" text-anchor=\"middle\" font-size=\"16\">Blue</text><path d=\"M130,125 L30.1,92.6 A105,105 0 0 1 130,20 Z\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"91.1\" y=\"77.5\" text-anchor=\"middle\" font-size=\"16\">Green</text><circle cx=\"130\" cy=\"125\" r=\"6\" fill=\"#0f1b33\"/></svg>",
+       "q": "(c) Karim says, 'My spinner must be biased, because 0.37 is not the same as my answer to part (b).'\nIs Karim correct? Explain your answer.",
+       "m": 1,
+       "s": "Comparing experimental and theoretical",
+       "ms": "1 mark for 'No' (or 'not necessarily') with a reason, e.g. 0.37 is close to 0.4; experimental results vary and are not expected to match exactly; he should do more trials to check. Do not accept 'Yes'.",
+       "e": "**Not necessarily.** Experimental probabilities change from one experiment to another, and 0.37 is close to 0.4 (blue, 0.425, and green, 0.205, are also close to 0.4 and 0.2). To test for bias he should spin it many more times: with a large number of trials, the experimental probability should get closer to the theoretical one if the spinner is fair."
+      },
+      {
+       "t": "open",
+       "p": "Question 10",
+       "q": "(a) At the youth club quiz night, an adult ticket costs $x and a child ticket costs $4 less than an adult ticket.\nA family buys 2 adult tickets and 3 child tickets. They pay $43 altogether.\nShow that 5x − 12 = 43.",
+       "m": 1,
+       "s": "Forming equations",
+       "ms": "1 mark for a correct expression for the total cost, e.g. 2x + 3(x − 4) = 43, expanded to reach 5x − 12 = 43 with no errors.",
+       "e": "A child ticket costs x − 4 dollars. Total: 2x + 3(x − 4) = 43 → 2x + 3x − 12 = 43 → **5x − 12 = 43**."
+      },
+      {
+       "t": "num",
+       "p": "Question 10",
+       "q": "(b) At the youth club quiz night, an adult ticket costs $x and a child ticket costs $4 less than an adult ticket.\nA family buys 2 adult tickets and 3 child tickets. They pay $43 altogether.\nSolve the equation to find the cost of an adult ticket.",
+       "ans": [
+        11
+       ],
+       "unit": "$",
+       "m": 1,
+       "s": "Solving equations",
+       "e": "5x − 12 = 43 → 5x = 55 → **x = 11**. An adult ticket costs $11 (and a child ticket $7). Check: 2 × 11 + 3 × 7 = 22 + 21 = 43 ✓."
+      },
+      {
+       "t": "num",
+       "p": "Question 10",
+       "q": "(c) The online shop uses this formula for the delivery cost, C dollars, of a parcel with a mass of w kilograms:\nC = 4.5 + 0.8w\nWork out the delivery cost for a parcel with a mass of 12.5 kg.",
+       "ans": [
+        14.5
+       ],
+       "tol": 0.001,
+       "unit": "$",
+       "m": 1,
+       "s": "Substituting into formulae",
+       "e": "C = 4.5 + 0.8 × 12.5 = 4.5 + 10 = **$14.50**. Multiply before adding."
+      },
+      {
+       "t": "open",
+       "p": "Question 10",
+       "q": "(d) The online shop uses this formula for the delivery cost, C dollars, of a parcel with a mass of w kilograms:\nC = 4.5 + 0.8w\nRearrange the formula to make w the subject.",
+       "m": 1,
+       "s": "Changing the subject",
+       "ms": "1 mark for w = (C − 4.5) ÷ 0.8 oe, e.g. w = (C − 4.5)/0.8, w = 1.25(C − 4.5), w = 1.25C − 5.625. Brackets must be correct: do not accept w = C − 4.5 ÷ 0.8.",
+       "e": "Subtract 4.5 from both sides: C − 4.5 = 0.8w. Divide both sides by 0.8: **w = (C − 4.5) ÷ 0.8** (which is the same as 1.25(C − 4.5)). Check with part (c): (14.5 − 4.5) ÷ 0.8 = 12.5 ✓."
+      },
+      {
+       "t": "text",
+       "p": "Question 10",
+       "q": "(e) The youth club has p members. Two-thirds of the members go on a trip, and 5 leaders go with them.\nWrite an expression, in terms of p, for the total number of people who go on the trip.",
+       "ans": [
+        "2/3p+5",
+        "(2/3)p+5",
+        "2p/3+5",
+        "(2p)/3+5",
+        "5+2/3p",
+        "5+(2/3)p",
+        "5+2p/3",
+        "2/3×p+5",
+        "⅔p+5",
+        "2/3*p+5"
+       ],
+       "m": 1,
+       "s": "Writing expressions",
+       "e": "Two-thirds of p is (2/3)p, also written 2p/3. Add the 5 leaders: **(2/3)p + 5**. Common mistake: 2/3 + p + 5 or 2/3(p + 5)."
+      },
+      {
+       "t": "text",
+       "p": "Question 11",
+       "q": "(a) Triangle T has vertices at (2, 3), (3, 3) and (2, 5).\nT is enlarged by scale factor 3, with centre of enlargement (1, 1).\nWrite down the coordinates of the image of the vertex (2, 5).",
+       "ans": [
+        "(4,13)",
+        "4,13"
+       ],
+       "m": 1,
+       "s": "Enlargement",
+       "e": "From the centre (1, 1) to (2, 5) is 1 right and 4 up. Multiply by the scale factor 3: 3 right and 12 up. From (1, 1): (1 + 3, 1 + 12) = **(4, 13)**. Common mistake: multiplying the coordinates by 3 from the origin, giving (6, 15)."
+      },
+      {
+       "t": "open",
+       "p": "Question 11",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 340 324\" width=\"340\" font-family=\"Arial, sans-serif\" font-size=\"16\"><line x1=\"40\" y1=\"290\" x2=\"40\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"66\" y1=\"290\" x2=\"66\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"92\" y1=\"290\" x2=\"92\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"118\" y1=\"290\" x2=\"118\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"144\" y1=\"290\" x2=\"144\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"170\" y1=\"290\" x2=\"170\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"196\" y1=\"290\" x2=\"196\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"222\" y1=\"290\" x2=\"222\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"248\" y1=\"290\" x2=\"248\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"274\" y1=\"290\" x2=\"274\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"300\" y1=\"290\" x2=\"300\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"290\" x2=\"300\" y2=\"290\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"264\" x2=\"300\" y2=\"264\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"238\" x2=\"300\" y2=\"238\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"212\" x2=\"300\" y2=\"212\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"186\" x2=\"300\" y2=\"186\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"160\" x2=\"300\" y2=\"160\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"134\" x2=\"300\" y2=\"134\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"108\" x2=\"300\" y2=\"108\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"82\" x2=\"300\" y2=\"82\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"56\" x2=\"300\" y2=\"56\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"30\" x2=\"300\" y2=\"30\" stroke=\"#b8c4d6\" stroke-width=\"1\"/><line x1=\"40\" y1=\"160\" x2=\"300\" y2=\"160\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"170\" y1=\"290\" x2=\"170\" y2=\"30\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"310\" y=\"166\" text-anchor=\"start\" font-size=\"16\" font-style=\"italic\">x</text><text x=\"178\" y=\"24\" text-anchor=\"start\" font-size=\"16\" font-style=\"italic\">y</text><text x=\"66\" y=\"179\" text-anchor=\"middle\" font-size=\"16\">−4</text><text x=\"118\" y=\"179\" text-anchor=\"middle\" font-size=\"16\">−2</text><text x=\"222\" y=\"179\" text-anchor=\"middle\" font-size=\"16\">2</text><text x=\"274\" y=\"179\" text-anchor=\"middle\" font-size=\"16\">4</text><text x=\"164\" y=\"270\" text-anchor=\"end\" font-size=\"16\">−4</text><text x=\"164\" y=\"218\" text-anchor=\"end\" font-size=\"16\">−2</text><text x=\"164\" y=\"114\" text-anchor=\"end\" font-size=\"16\">2</text><text x=\"164\" y=\"62\" text-anchor=\"end\" font-size=\"16\">4</text><text x=\"164\" y=\"179\" text-anchor=\"end\" font-size=\"16\">0</text><polygon points=\"196,134 274,134 196,82\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"196,186 196,264 248,186\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><text x=\"222\" y=\"122.7\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\">R</text><text x=\"213.3\" y=\"218\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\">S</text></svg>",
+       "q": "(b) Describe fully the single transformation that maps triangle R onto triangle S.",
+       "m": 2,
+       "s": "Rotation",
+       "ms": "1 mark for 'rotation' with '90° clockwise' (accept 270° anticlockwise); 1 mark for 'centre (0, 0)' or 'about the origin'. Only 1 mark in total if two different transformations are given.",
+       "e": "**Rotation, 90° clockwise, centre (0, 0).** Check: (1, 1) → (1, −1), (4, 1) → (1, −4), (1, 3) → (3, −1). A rotation needs three facts: the centre, the angle and the direction. Use tracing paper to check: trace R, put your pencil on (0, 0) and turn a quarter-turn clockwise."
+      },
+      {
+       "t": "num",
+       "p": "Question 12",
+       "q": "(a) On a plan of the mosque courtyard, the bearing of the minaret from the gate is 125°.\nWork out the bearing of the gate from the minaret.",
+       "ans": [
+        305
+       ],
+       "unit": "°",
+       "m": 1,
+       "s": "Bearings",
+       "e": "The back bearing differs by 180°: 125° + 180° = **305°**. (If the bearing is more than 180°, subtract 180° instead.) Draw a sketch with north lines at both points to check."
+      },
+      {
+       "t": "text",
+       "p": "Question 12",
+       "q": "(b) On the same plan, a straight path goes from (−3, 5) to (7, −1). A lamp is placed at the midpoint of the path.\nFind the coordinates of the lamp.",
+       "ans": [
+        "(2,2)",
+        "2,2"
+       ],
+       "m": 1,
+       "s": "Midpoints",
+       "e": "Midpoint = (mean of the x-coordinates, mean of the y-coordinates) = ((−3 + 7) ÷ 2, (5 + (−1)) ÷ 2) = (4 ÷ 2, 4 ÷ 2) = **(2, 2)**."
+      },
+      {
+       "t": "open",
+       "p": "Question 13\nA triangular flower bed in the courtyard is drawn to scale as triangle ABC with AB = 7 cm, AC = 5 cm and BC = 6 cm.",
+       "q": "On paper, use a ruler and compasses only to construct triangle ABC. Leave in your construction arcs.",
+       "m": 2,
+       "s": "Constructing triangles",
+       "ms": "1 mark for AB drawn 7 cm (±1 mm) with an arc of radius 5 cm from A or 6 cm from B. 1 mark for a complete correct triangle with both arcs shown and sides within ±1 mm. Do not award the second mark if no arcs are visible.",
+       "e": "1. Draw AB = 7 cm with a ruler.\n2. Open the compasses to 5 cm; with the point on A, draw an arc above AB.\n3. Open the compasses to 6 cm; with the point on B, draw an arc that crosses the first arc. The crossing point is C.\n4. Join AC and BC with a ruler. Do not rub out the arcs: they show your method.\nCheck: measure AC = 5 cm and BC = 6 cm (angle A should be about 57°)."
+      },
+      {
+       "p": "Question 14\nThe diagram shows a shape made from four cubes, and four drawings A, B, C and D.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 350\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\"><polygon points=\"190,102 226.4,123 190,144 153.6,123\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"153.6,165 190,186 190,144 153.6,123\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"226.4,165 190,186 190,144 226.4,123\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"226.4,123 262.7,144 226.4,165 190,144\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"190,186 226.4,207 226.4,165 190,144\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"262.7,186 226.4,207 226.4,165 262.7,144\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"190,60 226.4,81 190,102 153.6,81\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"153.6,123 190,144 190,102 153.6,81\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"226.4,123 190,144 190,102 226.4,81\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"262.7,144 299.1,165 262.7,186 226.4,165\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"226.4,207 262.7,228 262.7,186 226.4,165\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"299.1,207 262.7,228 262.7,186 299.1,165\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"135.4\" y1=\"217.5\" x2=\"188.2\" y2=\"187.1\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><polygon points=\"188.2,187.1 180.9,196.6 176.3,188.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><text x=\"131.4\" y=\"235.5\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\">Front</text><line x1=\"342.8\" y1=\"232.2\" x2=\"293.7\" y2=\"203.8\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><polygon points=\"293.7,203.8 305.6,205.3 300.9,213.4\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><text x=\"346.8\" y=\"250.2\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\">Side</text><rect x=\"40\" y=\"288\" width=\"24\" height=\"24\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"64\" y=\"288\" width=\"24\" height=\"24\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"40\" y=\"264\" width=\"24\" height=\"24\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"64\" y=\"264\" width=\"24\" height=\"24\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"64\" y=\"338\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\">A</text><rect x=\"160\" y=\"288\" width=\"24\" height=\"24\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"160\" y=\"264\" width=\"24\" height=\"24\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"172\" y=\"338\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\">B</text><rect x=\"250\" y=\"288\" width=\"24\" height=\"24\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"274\" y=\"288\" width=\"24\" height=\"24\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"298\" y=\"288\" width=\"24\" height=\"24\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"250\" y=\"264\" width=\"24\" height=\"24\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"286\" y=\"338\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\">C</text><rect x=\"370\" y=\"288\" width=\"24\" height=\"24\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"394\" y=\"288\" width=\"24\" height=\"24\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"418\" y=\"288\" width=\"24\" height=\"24\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"418\" y=\"264\" width=\"24\" height=\"24\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"406\" y=\"338\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\">D</text></svg>",
+       "q": "(a) Which drawing is the **front elevation** of the shape (the view in the direction of the arrow marked Front)?",
+       "c": [
+        "A",
+        "B",
+        "C",
+        "D"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Plans and elevations",
+       "e": "From the front you see the long side: three squares along the bottom and one square on top of the LEFT-hand cube, because the tall stack is at the far left of the front face. That is **drawing C**. D is the same shape reversed (as if seen from the back); B is the side elevation; A is not a view of this shape."
+      },
+      {
+       "t": "open",
+       "p": "Question 14\nThe diagram shows a shape made from four cubes, and four drawings A, B, C and D.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 350\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\"><polygon points=\"190,102 226.4,123 190,144 153.6,123\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"153.6,165 190,186 190,144 153.6,123\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"226.4,165 190,186 190,144 226.4,123\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"226.4,123 262.7,144 226.4,165 190,144\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"190,186 226.4,207 226.4,165 190,144\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"262.7,186 226.4,207 226.4,165 262.7,144\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"190,60 226.4,81 190,102 153.6,81\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"153.6,123 190,144 190,102 153.6,81\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"226.4,123 190,144 190,102 226.4,81\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"262.7,144 299.1,165 262.7,186 226.4,165\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"226.4,207 262.7,228 262.7,186 226.4,165\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"299.1,207 262.7,228 262.7,186 299.1,165\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"135.4\" y1=\"217.5\" x2=\"188.2\" y2=\"187.1\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><polygon points=\"188.2,187.1 180.9,196.6 176.3,188.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><text x=\"131.4\" y=\"235.5\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\">Front</text><line x1=\"342.8\" y1=\"232.2\" x2=\"293.7\" y2=\"203.8\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><polygon points=\"293.7,203.8 305.6,205.3 300.9,213.4\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><text x=\"346.8\" y=\"250.2\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\">Side</text><rect x=\"40\" y=\"288\" width=\"24\" height=\"24\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"64\" y=\"288\" width=\"24\" height=\"24\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"40\" y=\"264\" width=\"24\" height=\"24\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"64\" y=\"264\" width=\"24\" height=\"24\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"64\" y=\"338\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\">A</text><rect x=\"160\" y=\"288\" width=\"24\" height=\"24\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"160\" y=\"264\" width=\"24\" height=\"24\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"172\" y=\"338\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\">B</text><rect x=\"250\" y=\"288\" width=\"24\" height=\"24\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"274\" y=\"288\" width=\"24\" height=\"24\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"298\" y=\"288\" width=\"24\" height=\"24\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"250\" y=\"264\" width=\"24\" height=\"24\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"286\" y=\"338\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\">C</text><rect x=\"370\" y=\"288\" width=\"24\" height=\"24\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"394\" y=\"288\" width=\"24\" height=\"24\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"418\" y=\"288\" width=\"24\" height=\"24\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"418\" y=\"264\" width=\"24\" height=\"24\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"406\" y=\"338\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\">D</text></svg>",
+       "q": "(b) On squared paper, draw the plan (the view from above) of the shape.",
+       "m": 1,
+       "s": "Plans and elevations",
+       "ms": "1 mark for a row of three squares (1 by 3 rectangle divided into three equal squares). Accept with or without the internal lines. Do not accept an L shape.",
+       "e": "From above you see the tops of the three cubes in the bottom row; the top cube sits directly above the left-hand one, so it does not change the outline. The plan is **a row of three squares**."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "After the test",
+   "items": [
+    "Read the worked solution for every question, including the ones you got right, and check that your method matches. In the real test the working earns marks too.",
+    "Mark your written answers honestly with the mark scheme. If you are not sure whether an answer earns the mark, do not give it.",
+    "Make a list of the questions you lost marks on, and next to each one write the topic tag and what went wrong (a rule you forgot, a careless slip, misreading the question, running out of time).",
+    "Number mistakes: revisit 'Order of Operations and Calculating with Integers', 'Factors, Multiples, Primes, HCF and LCM', 'Fractions: Recurring Decimals, Mixed Numbers and Order of Operations', 'Percentage Increase, Decrease and Absolute Change' and 'Ratio and Proportion'.",
+    "Algebra mistakes: revisit 'Algebraic Expressions: Simplifying, Expanding and Factorising', 'Equations and Inequalities', 'Writing Expressions and Formulae, and Changing the Subject', 'Sequences and the nth Term' and 'Reading and Interpreting Real-life Graphs'.",
+    "Geometry mistakes: revisit 'Angles in Triangles and on Parallel Lines', 'Area of Parallelograms and Trapezia', 'Volume of Prisms and Surface Area', 'Circumference of a Circle, and Miles and Kilometres', '3D Shapes: Euler's Formula and Plans and Elevations' and 'Translation, Reflection, Rotation and Enlargement'.",
+    "Statistics and probability mistakes: revisit 'Averages, Range and Comparing Distributions', 'Data Collection and Sampling' and 'Probability: Complementary and Combined Events'.",
+    "After two weeks of revision, try Practice Test 1 or 2 and compare your scores paper by paper."
+   ]
+  }
+ ]
+}

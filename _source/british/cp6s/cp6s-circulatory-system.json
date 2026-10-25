@@ -1,0 +1,610 @@
+{
+ "slug": "cp6s-circulatory-system",
+ "title": "The Heart and Circulatory System",
+ "kicker": "Cambridge Primary Checkpoint · Science 0097 · Stage 6 · Biology",
+ "summary": "How the heart pumps blood through arteries, capillaries and veins to carry oxygen, nutrients and waste around the body — with pulse-rate investigations and Checkpoint-style practice.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Describe the human circulatory system: the heart pumps blood through arteries, capillaries and veins (6Bs.01)",
+    "Know that the job of the circulatory system is to transport oxygen, nutrients and waste around the body (6Bs.01)",
+    "Know that many vertebrates have a similar system (6Bs.01)",
+    "Skills used on this page: models and diagrams, pattern seeking, reading line graphs, repeating measurements (6TWSm.02, 6TWSp.02, 6TWSa.05, 6TWSc.04)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Every cell in your body needs a supply of **oxygen** and **nutrients**, and every cell makes **waste** that must be taken away. Cells in your toes are far from your lungs and your stomach, so the body needs a delivery system. That system is the **circulatory system**: the **heart**, the **blood vessels** and the **blood**."
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "circulatory system",
+     "الجهاز الدوري — heart + blood vessels + blood"
+    ],
+    [
+     "heart",
+     "القلب — a muscle that pumps blood"
+    ],
+    [
+     "blood vessel",
+     "وعاء دموي — a tube that carries blood"
+    ],
+    [
+     "artery (arteries)",
+     "شريان (شرايين) — carries blood AWAY from the heart"
+    ],
+    [
+     "vein",
+     "وريد (أوردة) — carries blood back TO the heart"
+    ],
+    [
+     "capillary (capillaries)",
+     "شعيرة دموية — the tiniest blood vessels, next to the cells"
+    ],
+    [
+     "oxygen",
+     "الأكسجين — the gas cells need, collected in the lungs"
+    ],
+    [
+     "nutrients",
+     "العناصر الغذائية — useful substances from digested food"
+    ],
+    [
+     "waste",
+     "الفضلات — substances the body must get rid of, e.g. carbon dioxide"
+    ],
+    [
+     "pulse",
+     "النبض — the beat you feel in an artery each time the heart pumps"
+    ],
+    [
+     "vertebrate",
+     "حيوان فقاري — an animal with a backbone"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "The heart: a pump made of muscle"
+  },
+  {
+   "type": "p",
+   "text": "The **heart** is an organ about the size of your fist. It is in your chest, between your two lungs, protected by your ribs. The heart is made of **muscle**. When the muscle squeezes, it **pumps** (pushes) blood out into blood vessels. Then it relaxes and fills with blood again. One squeeze and relax is one **heartbeat**. When you are resting, your heart beats roughly once every second, all day and all night, for your whole life."
+  },
+  {
+   "type": "p",
+   "text": "**Model:** the heart works like a squeezy water bottle. Squeeze it and water is pushed out; let go and it fills again. This model helps us see how a pump works, but it is not exactly like the heart: the heart squeezes by itself, many times a minute, and blood goes round and round instead of spilling out."
+  },
+  {
+   "type": "h2",
+   "text": "Three kinds of blood vessel"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Blood vessel",
+    "Which way the blood goes",
+    "What it is like"
+   ],
+   "rows": [
+    [
+     "**Artery**",
+     "**Away** from the heart to the organs",
+     "Thick, stretchy, muscular wall, because the heart pushes blood into arteries very strongly"
+    ],
+    [
+     "**Capillary**",
+     "Through the organs, between arteries and veins, right next to the cells",
+     "Tiny and very narrow; the wall is only **one cell thick**, so substances pass through it easily"
+    ],
+    [
+     "**Vein**",
+     "**Back** to the heart from the organs",
+     "Thinner wall and a wider space inside; the blood flows more gently"
+    ]
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 225\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#0f1b33\"><circle cx=\"100\" cy=\"85\" r=\"55\" fill=\"#f7d9d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"100\" cy=\"85\" r=\"20\" fill=\"#fff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"100\" y=\"168\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">artery</text><text x=\"100\" y=\"188\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">thick, stretchy wall</text><circle cx=\"290\" cy=\"85\" r=\"55\" fill=\"#f7d9d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"290\" cy=\"85\" r=\"40\" fill=\"#fff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"290\" y=\"168\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">vein</text><text x=\"290\" y=\"188\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">thin wall, wide space</text><circle cx=\"460\" cy=\"85\" r=\"12\" fill=\"#f7d9d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"460\" cy=\"85\" r=\"8\" fill=\"#fff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"460\" y=\"168\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">capillary</text><text x=\"460\" y=\"188\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">wall one cell thick</text><text x=\"270\" y=\"214\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">Cut across (not to scale: capillaries are far smaller)</text></svg>",
+   "caption": "The three blood vessels cut across. Arteries have the thickest walls; capillaries have walls only one cell thick."
+  },
+  {
+   "type": "p",
+   "text": "**Memory trick:** **A**rteries carry blood **A**way from the heart. Veins bring blood back \"in\" to the heart."
+  },
+  {
+   "type": "p",
+   "text": "So the route of blood is always: **heart → arteries → capillaries → veins → heart**. The blood never leaves the blood vessels; it goes round and round in a circuit — that is why it is called the **circulatory** system (\"circulate\" means go round)."
+  },
+  {
+   "type": "h2",
+   "text": "The journey of the blood"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 385\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#0f1b33\"><defs><marker id=\"r\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#c0392b\"/></marker><marker id=\"b\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#2b5fb4\"/></marker><marker id=\"k\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#0f1b33\"/></marker></defs><rect x=\"150\" y=\"20\" width=\"220\" height=\"62\" rx=\"12\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"260\" y=\"45\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">lungs</text><text x=\"260\" y=\"68\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">blood collects oxygen here</text><rect x=\"200\" y=\"150\" width=\"60\" height=\"60\" fill=\"#d6e4f7\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"260\" y=\"150\" width=\"60\" height=\"60\" fill=\"#f7d9d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"260\" y=\"230\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">heart</text><rect x=\"150\" y=\"278\" width=\"220\" height=\"62\" rx=\"12\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"260\" y=\"303\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">body (organs, muscles)</text><text x=\"260\" y=\"326\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">cells take oxygen and nutrients</text><path d=\"M225 150 V88\" fill=\"none\" stroke=\"#2b5fb4\" stroke-width=\"5\" marker-end=\"url(#b)\"/><path d=\"M295 84 V144\" fill=\"none\" stroke=\"#c0392b\" stroke-width=\"5\" marker-end=\"url(#r)\"/><path d=\"M320 180 H400 V272\" fill=\"none\" stroke=\"#c0392b\" stroke-width=\"5\" marker-end=\"url(#r)\"/><path d=\"M120 278 V180 H194\" fill=\"none\" stroke=\"#2b5fb4\" stroke-width=\"5\" marker-end=\"url(#b)\"/><text x=\"410\" y=\"230\" text-anchor=\"start\" font-size=\"14\" font-weight=\"bold\" fill=\"#c0392b\">artery</text><text x=\"410\" y=\"248\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">(away from</text><text x=\"410\" y=\"264\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">the heart)</text><text x=\"110\" y=\"230\" text-anchor=\"end\" font-size=\"14\" font-weight=\"bold\" fill=\"#2b5fb4\">vein</text><text x=\"110\" y=\"248\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">(back to</text><text x=\"110\" y=\"264\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">the heart)</text><line x1=\"60\" y1=\"370\" x2=\"100\" y2=\"370\" stroke=\"#c0392b\" stroke-width=\"5\"/><text x=\"108\" y=\"375\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">blood with a lot of oxygen</text><line x1=\"300\" y1=\"370\" x2=\"340\" y2=\"370\" stroke=\"#2b5fb4\" stroke-width=\"5\"/><text x=\"348\" y=\"375\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">blood with less oxygen</text></svg>",
+   "caption": "A simple model of the circulatory system. The heart pumps blood to the lungs to collect oxygen, and pumps blood through arteries to the body. Veins bring the blood back to the heart."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "The heart pumps blood to the **lungs**. There, in the capillaries of the lungs, the blood **collects oxygen** and gets rid of **carbon dioxide** (you breathe this out).",
+    "The blood, now full of oxygen, goes back to the **heart**.",
+    "The heart pumps it out through **arteries** to every part of the body.",
+    "In the **capillaries**, oxygen and nutrients pass out of the blood into the body's **cells**. Waste, such as carbon dioxide, passes from the cells into the blood.",
+    "The blood returns to the heart in **veins**, and the journey starts again."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Colours in diagrams:** books draw blood with a lot of oxygen in red and blood with less oxygen in blue. This is only a colour code. Real blood is always red — it is just a darker red when it has less oxygen. Veins look bluish through the skin, but the blood inside them is not blue."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "طريق الدم",
+   "text": "القلب عضلة بتضخ (بتزق) الدم. الدم بيخرج من القلب في الشرايين (Arteries = Away)، وبيوصل لكل خلية عن طريق الشعيرات الدموية (capillaries)، وبيرجع للقلب في الأوردة (veins). وظيفة الدورة الدموية في المنهج: نقل الأكسجين، والعناصر الغذائية، والفضلات."
+  },
+  {
+   "type": "h2",
+   "text": "What does blood carry?"
+  },
+  {
+   "type": "p",
+   "text": "At Stage 6 you need to know **three** things the circulatory system transports:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Substance",
+    "Picked up from…",
+    "Delivered to…"
+   ],
+   "rows": [
+    [
+     "**Oxygen**",
+     "the lungs (from the air you breathe in)",
+     "all body cells — they use it with nutrients to release energy"
+    ],
+    [
+     "**Nutrients** (from digested food)",
+     "the small intestine (part of the digestive system)",
+     "all body cells — for energy and for growing and repairing the body"
+    ],
+    [
+     "**Waste**: carbon dioxide",
+     "all body cells",
+     "the lungs, where it is breathed out"
+    ],
+    [
+     "**Waste**: other waste substances",
+     "all body cells",
+     "the kidneys, which remove it from the body in urine"
+    ]
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 240\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#0f1b33\"><defs><marker id=\"r\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#c0392b\"/></marker><marker id=\"b\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#2b5fb4\"/></marker><marker id=\"k\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"6\" markerHeight=\"6\" orient=\"auto\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#0f1b33\"/></marker></defs><rect x=\"140\" y=\"40\" width=\"300\" height=\"34\" rx=\"17\" fill=\"#f7d9d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"290\" y=\"63\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">capillary</text><text x=\"132\" y=\"62\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">from an artery</text><text x=\"448\" y=\"62\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">to a vein</text><line x1=\"190\" y1=\"30\" x2=\"280\" y2=\"30\" stroke=\"#0f1b33\" stroke-width=\"2\" marker-end=\"url(#k)\"/><text x=\"235\" y=\"22\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">blood flows</text><rect x=\"80\" y=\"160\" width=\"70\" height=\"44\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"160\" y=\"160\" width=\"70\" height=\"44\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"240\" y=\"160\" width=\"70\" height=\"44\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"320\" y=\"160\" width=\"70\" height=\"44\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"400\" y=\"160\" width=\"70\" height=\"44\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"270\" y=\"226\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">body cells</text><line x1=\"170\" y1=\"80\" x2=\"170\" y2=\"152\" stroke=\"#c0392b\" stroke-width=\"3\" marker-end=\"url(#r)\"/><text x=\"160\" y=\"110\" text-anchor=\"end\" font-size=\"13\" fill=\"#c0392b\">oxygen and</text><text x=\"160\" y=\"127\" text-anchor=\"end\" font-size=\"13\" fill=\"#c0392b\">nutrients</text><line x1=\"370\" y1=\"152\" x2=\"370\" y2=\"82\" stroke=\"#2b5fb4\" stroke-width=\"3\" marker-end=\"url(#b)\"/><text x=\"380\" y=\"110\" text-anchor=\"start\" font-size=\"13\" fill=\"#2b5fb4\">carbon dioxide</text><text x=\"380\" y=\"127\" text-anchor=\"start\" font-size=\"13\" fill=\"#2b5fb4\">and other waste</text></svg>",
+   "caption": "In the capillaries, oxygen and nutrients move out of the blood into the cells, and waste moves from the cells into the blood."
+  },
+  {
+   "type": "p",
+   "text": "**Model:** the circulatory system is like a delivery service. The heart is the depot that keeps the lorries moving, the blood vessels are the roads (arteries = big roads out of the city, capillaries = narrow streets next to every house, veins = roads back), and the blood is the lorry that drops off oxygen and food and collects rubbish."
+  },
+  {
+   "type": "h2",
+   "text": "Your pulse and exercise"
+  },
+  {
+   "type": "p",
+   "text": "Each time the heart pumps, a surge of blood stretches the arteries. Where an artery is close to the skin — on the inside of your **wrist** or the side of your **neck** — you can feel this as your **pulse**. Your **pulse rate** is the number of beats in one minute, so it tells you your heart rate."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Put two fingers (not your thumb — it has its own pulse) gently on the inside of your wrist below the thumb.",
+    "Count the beats for 15 seconds using a stopwatch.",
+    "Multiply by 4 to get beats per minute (15 s × 4 = 60 s).",
+    "Repeat and work out a mean, because it is easy to miss or add a beat."
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 355\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#0f1b33\"><rect x=\"176\" y=\"35\" width=\"129\" height=\"270\" fill=\"#fff4d6\"/><text x=\"240.5\" y=\"22\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#0f1b33\">skipping</text><path d=\"M90 305H520M90 288.125H520M90 271.25H520M90 254.375H520M90 237.5H520M90 220.625H520M90 203.75H520M90 186.875H520M90 170H520M90 153.125H520M90 136.25H520M90 119.375H520M90 102.5H520M90 85.625H520M90 68.75H520M90 51.875H520M90 35H520M90 305V35M133 305V35M176 305V35M219 305V35M262 305V35M305 305V35M348 305V35M391 305V35M434 305V35M477 305V35M520 305V35\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><path d=\"M520 305H90V35\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M85 305h5M85 288.125h5M85 271.25h5M85 254.375h5M85 237.5h5M85 220.625h5M85 203.75h5M85 186.875h5M85 170h5M85 153.125h5M85 136.25h5M85 119.375h5M85 102.5h5M85 85.625h5M85 68.75h5M85 51.875h5M85 35h5M90 305v5M133 305v5M176 305v5M219 305v5M262 305v5M305 305v5M348 305v5M391 305v5M434 305v5M477 305v5M520 305v5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"82\" y=\"310\" text-anchor=\"end\" font-size=\"13\">0</text><text x=\"82\" y=\"293.125\" text-anchor=\"end\" font-size=\"13\">10</text><text x=\"82\" y=\"276.25\" text-anchor=\"end\" font-size=\"13\">20</text><text x=\"82\" y=\"259.375\" text-anchor=\"end\" font-size=\"13\">30</text><text x=\"82\" y=\"242.5\" text-anchor=\"end\" font-size=\"13\">40</text><text x=\"82\" y=\"225.625\" text-anchor=\"end\" font-size=\"13\">50</text><text x=\"82\" y=\"208.75\" text-anchor=\"end\" font-size=\"13\">60</text><text x=\"82\" y=\"191.875\" text-anchor=\"end\" font-size=\"13\">70</text><text x=\"82\" y=\"175\" text-anchor=\"end\" font-size=\"13\">80</text><text x=\"82\" y=\"158.125\" text-anchor=\"end\" font-size=\"13\">90</text><text x=\"82\" y=\"141.25\" text-anchor=\"end\" font-size=\"13\">100</text><text x=\"82\" y=\"124.375\" text-anchor=\"end\" font-size=\"13\">110</text><text x=\"82\" y=\"107.5\" text-anchor=\"end\" font-size=\"13\">120</text><text x=\"82\" y=\"90.625\" text-anchor=\"end\" font-size=\"13\">130</text><text x=\"82\" y=\"73.75\" text-anchor=\"end\" font-size=\"13\">140</text><text x=\"82\" y=\"56.875\" text-anchor=\"end\" font-size=\"13\">150</text><text x=\"82\" y=\"40\" text-anchor=\"end\" font-size=\"13\">160</text><text x=\"90\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">0</text><text x=\"133\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">1</text><text x=\"176\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">2</text><text x=\"219\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">3</text><text x=\"262\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">4</text><text x=\"305\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">5</text><text x=\"348\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">6</text><text x=\"391\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">7</text><text x=\"434\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">8</text><text x=\"477\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">9</text><text x=\"520\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">10</text><text x=\"305\" y=\"345\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">time in minutes</text><text x=\"48\" y=\"170\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\" transform=\"rotate(-90 48 170)\">pulse rate in beats per minute</text><polyline points=\"90,170 133,170 176,170 219,119.375 262,85.625 305,68.75 348,102.5 391,136.25 434,153.125 477,170 520,170\" fill=\"none\" stroke=\"#c0392b\" stroke-width=\"2\"/><line x1=\"86\" y1=\"166\" x2=\"94\" y2=\"174\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"86\" y1=\"174\" x2=\"94\" y2=\"166\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"129\" y1=\"166\" x2=\"137\" y2=\"174\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"129\" y1=\"174\" x2=\"137\" y2=\"166\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"172\" y1=\"166\" x2=\"180\" y2=\"174\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"172\" y1=\"174\" x2=\"180\" y2=\"166\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"215\" y1=\"115.375\" x2=\"223\" y2=\"123.375\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"215\" y1=\"123.375\" x2=\"223\" y2=\"115.375\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"258\" y1=\"81.625\" x2=\"266\" y2=\"89.625\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"258\" y1=\"89.625\" x2=\"266\" y2=\"81.625\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"301\" y1=\"64.75\" x2=\"309\" y2=\"72.75\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"301\" y1=\"72.75\" x2=\"309\" y2=\"64.75\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"344\" y1=\"98.5\" x2=\"352\" y2=\"106.5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"344\" y1=\"106.5\" x2=\"352\" y2=\"98.5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"387\" y1=\"132.25\" x2=\"395\" y2=\"140.25\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"387\" y1=\"140.25\" x2=\"395\" y2=\"132.25\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"430\" y1=\"149.125\" x2=\"438\" y2=\"157.125\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"430\" y1=\"157.125\" x2=\"438\" y2=\"149.125\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"473\" y1=\"166\" x2=\"481\" y2=\"174\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"473\" y1=\"174\" x2=\"481\" y2=\"166\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"516\" y1=\"166\" x2=\"524\" y2=\"174\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"516\" y1=\"174\" x2=\"524\" y2=\"166\" stroke=\"#0f1b33\" stroke-width=\"2\"/></svg>",
+   "caption": "Omar's pulse rate before, during and after 3 minutes of skipping."
+  },
+  {
+   "type": "p",
+   "text": "**Why does the pulse go up during exercise?** Working muscles need **more oxygen and nutrients** to release more energy, and they make **more waste** (carbon dioxide). So the heart **beats faster** to pump blood around the body more quickly. After exercise the pulse rate slowly falls back to the resting rate."
+  },
+  {
+   "type": "p",
+   "text": "Pulse investigations can be **fair tests** (\"Does the time spent skipping change the pulse rate?\" — change the skipping time, measure the pulse, keep the person and the type of exercise the same) or **pattern seeking** (\"Do people who play sport every day have a lower resting pulse rate?\" — you cannot control people's lives, so you collect data from many people and look for a pattern)."
+  },
+  {
+   "type": "h2",
+   "text": "Other vertebrates"
+  },
+  {
+   "type": "p",
+   "text": "**Vertebrates** are animals with a backbone: fish, amphibians, reptiles, birds and mammals. **Many vertebrates have a circulatory system similar to ours**: a **heart** that pumps **blood** through **blood vessels** to carry oxygen, nutrients and waste."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Animal",
+    "Similar to humans",
+    "Small difference"
+   ],
+   "rows": [
+    [
+     "Dog, camel, cat (mammals)",
+     "Heart, arteries, veins, capillaries; blood collects oxygen in the lungs",
+     "Very similar to us"
+    ],
+    [
+     "Pigeon, eagle (birds)",
+     "Heart pumps blood through blood vessels; oxygen collected in the lungs",
+     "A small bird's heart beats much faster than ours"
+    ],
+    [
+     "Tilapia, shark (fish)",
+     "Heart pumps blood through blood vessels",
+     "Blood collects oxygen from water in the **gills**, not lungs"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** (naming the parts)"
+  },
+  {
+   "type": "p",
+   "text": "(a) Name the organ that pumps blood around the body. [1]\n(b) Name the blood vessels that carry blood away from the heart. [1]\n(c) Name the blood vessels where oxygen passes from the blood into the cells. [1]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) the **heart**",
+    "(b) **arteries** (A for Away)",
+    "(c) **capillaries** — their walls are only one cell thick."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Common mistake:** writing \"veins\" for (b). Veins bring blood back to the heart."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** (order of flow)"
+  },
+  {
+   "type": "p",
+   "text": "Complete the order in which blood flows from the heart: heart → ______ → ______ → ______ → heart. [1]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "heart → **arteries** → **capillaries** → **veins** → heart. All three must be in the correct order for the mark."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** (reading the pulse graph)"
+  },
+  {
+   "type": "p",
+   "text": "Use Omar's graph. (a) What is his resting pulse rate? [1] (b) What is his highest pulse rate? [1] (c) Work out how much his pulse rate increased. [1] (d) Explain why his pulse rate increased. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) Before exercise (0–2 min) the line is flat at **80 beats per minute**.",
+    "(b) The highest point is at 5 minutes: **140 beats per minute**.",
+    "(c) 140 − 80 = **60 beats per minute**.",
+    "(d) His muscles needed **more oxygen (and nutrients)** for energy [1], so his heart **pumped faster** to carry blood to the muscles more quickly [1]. (Also accept: to remove more carbon dioxide / waste.)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Common mistake:** \"His heart beats faster because he is tired.\" That gives no science. Talk about oxygen and the muscles."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** (repeats and mean)"
+  },
+  {
+   "type": "p",
+   "text": "Huda counts her pulse for 15 seconds, three times: 21, 19, 20 beats. (a) Work out the mean number of beats in 15 seconds. [1] (b) Work out her pulse rate in beats per minute. [1]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) (21 + 19 + 20) ÷ 3 = 60 ÷ 3 = **20 beats** in 15 seconds.",
+    "(b) 15 seconds × 4 = 1 minute, so 20 × 4 = **80 beats per minute**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** (the journey of oxygen)"
+  },
+  {
+   "type": "p",
+   "text": "Describe how oxygen from the air gets to a muscle in your leg. [3]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Oxygen moves from the air in the **lungs** into the **blood** [1].",
+    "The blood goes to the heart, and the **heart pumps** it through **arteries** to the leg [1].",
+    "In the **capillaries** in the leg muscle, oxygen passes out of the blood into the muscle cells [1]."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** (other vertebrates)"
+  },
+  {
+   "type": "p",
+   "text": "A fish has a heart and blood vessels. Give one way a fish's circulatory system is similar to a human's and one way it is different. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Similar [1]: both have a heart that pumps blood through blood vessels / both carry oxygen, nutrients and waste in the blood.",
+    "Different [1]: a fish's blood collects oxygen in its **gills**, but a human's blood collects oxygen in the **lungs**."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Mixing up arteries and veins. Arteries = Away from the heart; veins = back to the heart.",
+    "Saying blood in veins is blue. It is dark red; blue is only a colour code in diagrams.",
+    "Saying the heart \"makes\" blood or \"cleans\" blood. The heart only **pumps** it.",
+    "Saying the circulatory system carries \"air\". It carries **oxygen** (one gas from the air).",
+    "Forgetting waste: blood also carries carbon dioxide to the lungs.",
+    "Saying capillaries have thick walls. Their walls are one cell thick so substances can pass through.",
+    "When working out a pulse rate from 15 seconds, forgetting to multiply by 4."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "Label a simple diagram: heart, artery, vein, capillary, lungs. Read the arrows: which way is the blood going?",
+    "\"Draw a line from each blood vessel to its job.\"",
+    "\"Name two substances that blood carries to the cells\" — oxygen and nutrients (not \"air\" or \"food\" on their own).",
+    "Pulse-rate investigations: read the graph, work out an increase, name the variables, explain why the rate goes up (muscles need more oxygen), suggest why readings should be repeated.",
+    "\"Many vertebrates have a similar system\" — be ready to name one similarity (heart, blood vessels, blood) for a fish, bird or mammal."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "النبض والتمرين",
+   "text": "النبض هو إحساس الدم وهو بيتدفع في الشريان مع كل ضربة قلب. لما بنتمرّن، العضلات بتحتاج أكسجين وغذاء أكتر، فالقلب بيدق أسرع عشان يوصّل الدم بسرعة. ولو عدّيت النبض ١٥ ثانية، اضرب في ٤ عشان تعرف عدد النبضات في الدقيقة."
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "The heart and circulation: practice",
+   "timed": false,
+   "intro": "14 Checkpoint-style questions. Use the diagrams and the graph. Full solutions are given after you check your answers.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 20,
+     "calc": true,
+     "questions": [
+      {
+       "q": "Which organ pumps blood around the body?",
+       "c": [
+        "the lungs",
+        "the heart",
+        "the stomach",
+        "the brain"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Circulatory system",
+       "e": "The heart is a muscle that pumps blood. The lungs are where blood collects oxygen."
+      },
+      {
+       "t": "text",
+       "q": "Name the type of blood vessel that carries blood away from the heart.",
+       "ans": [
+        "arteries",
+        "artery",
+        "an artery",
+        "the arteries"
+       ],
+       "m": 1,
+       "s": "Blood vessels",
+       "e": "Arteries carry blood Away from the heart."
+      },
+      {
+       "t": "text",
+       "q": "Name the type of blood vessel that carries blood back to the heart.",
+       "ans": [
+        "veins",
+        "vein",
+        "a vein",
+        "the veins"
+       ],
+       "m": 1,
+       "s": "Blood vessels",
+       "e": "Veins carry blood back to the heart."
+      },
+      {
+       "q": "Which shows the correct order of blood flow?",
+       "c": [
+        "heart → veins → capillaries → arteries → heart",
+        "heart → capillaries → arteries → veins → heart",
+        "heart → arteries → veins → capillaries → heart",
+        "heart → arteries → capillaries → veins → heart"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Blood flow",
+       "e": "Blood leaves the heart in arteries, passes through capillaries next to the cells, and returns in veins."
+      },
+      {
+       "t": "open",
+       "q": "Capillaries have walls that are only one cell thick. Explain why this is important.",
+       "m": 1,
+       "s": "Blood vessels",
+       "ms": "1 mark: so substances / oxygen / nutrients / waste can pass through the wall easily (between the blood and the cells). Do not accept: \"so blood can get out\".",
+       "e": "A very thin wall lets oxygen and nutrients pass easily out of the blood into the cells, and lets waste pass from the cells into the blood. Blood itself stays inside."
+      },
+      {
+       "q": "Which of these is NOT a job of the circulatory system?",
+       "c": [
+        "breaking down food into nutrients",
+        "carrying oxygen to the cells",
+        "carrying nutrients to the cells",
+        "carrying waste away from the cells"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Functions",
+       "e": "Breaking down food is the job of the digestive system. The circulatory system transports oxygen, nutrients and waste."
+      },
+      {
+       "t": "num",
+       "p": "Question 7\nOmar measures his pulse rate every minute. He rests for 2 minutes, skips for 3 minutes, then rests again. The graph shows his results.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 355\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#0f1b33\"><rect x=\"176\" y=\"35\" width=\"129\" height=\"270\" fill=\"#fff4d6\"/><text x=\"240.5\" y=\"22\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#0f1b33\">skipping</text><path d=\"M90 305H520M90 288.125H520M90 271.25H520M90 254.375H520M90 237.5H520M90 220.625H520M90 203.75H520M90 186.875H520M90 170H520M90 153.125H520M90 136.25H520M90 119.375H520M90 102.5H520M90 85.625H520M90 68.75H520M90 51.875H520M90 35H520M90 305V35M133 305V35M176 305V35M219 305V35M262 305V35M305 305V35M348 305V35M391 305V35M434 305V35M477 305V35M520 305V35\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><path d=\"M520 305H90V35\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M85 305h5M85 288.125h5M85 271.25h5M85 254.375h5M85 237.5h5M85 220.625h5M85 203.75h5M85 186.875h5M85 170h5M85 153.125h5M85 136.25h5M85 119.375h5M85 102.5h5M85 85.625h5M85 68.75h5M85 51.875h5M85 35h5M90 305v5M133 305v5M176 305v5M219 305v5M262 305v5M305 305v5M348 305v5M391 305v5M434 305v5M477 305v5M520 305v5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"82\" y=\"310\" text-anchor=\"end\" font-size=\"13\">0</text><text x=\"82\" y=\"293.125\" text-anchor=\"end\" font-size=\"13\">10</text><text x=\"82\" y=\"276.25\" text-anchor=\"end\" font-size=\"13\">20</text><text x=\"82\" y=\"259.375\" text-anchor=\"end\" font-size=\"13\">30</text><text x=\"82\" y=\"242.5\" text-anchor=\"end\" font-size=\"13\">40</text><text x=\"82\" y=\"225.625\" text-anchor=\"end\" font-size=\"13\">50</text><text x=\"82\" y=\"208.75\" text-anchor=\"end\" font-size=\"13\">60</text><text x=\"82\" y=\"191.875\" text-anchor=\"end\" font-size=\"13\">70</text><text x=\"82\" y=\"175\" text-anchor=\"end\" font-size=\"13\">80</text><text x=\"82\" y=\"158.125\" text-anchor=\"end\" font-size=\"13\">90</text><text x=\"82\" y=\"141.25\" text-anchor=\"end\" font-size=\"13\">100</text><text x=\"82\" y=\"124.375\" text-anchor=\"end\" font-size=\"13\">110</text><text x=\"82\" y=\"107.5\" text-anchor=\"end\" font-size=\"13\">120</text><text x=\"82\" y=\"90.625\" text-anchor=\"end\" font-size=\"13\">130</text><text x=\"82\" y=\"73.75\" text-anchor=\"end\" font-size=\"13\">140</text><text x=\"82\" y=\"56.875\" text-anchor=\"end\" font-size=\"13\">150</text><text x=\"82\" y=\"40\" text-anchor=\"end\" font-size=\"13\">160</text><text x=\"90\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">0</text><text x=\"133\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">1</text><text x=\"176\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">2</text><text x=\"219\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">3</text><text x=\"262\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">4</text><text x=\"305\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">5</text><text x=\"348\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">6</text><text x=\"391\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">7</text><text x=\"434\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">8</text><text x=\"477\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">9</text><text x=\"520\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">10</text><text x=\"305\" y=\"345\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">time in minutes</text><text x=\"48\" y=\"170\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\" transform=\"rotate(-90 48 170)\">pulse rate in beats per minute</text><polyline points=\"90,170 133,170 176,170 219,119.375 262,85.625 305,68.75 348,102.5 391,136.25 434,153.125 477,170 520,170\" fill=\"none\" stroke=\"#c0392b\" stroke-width=\"2\"/><line x1=\"86\" y1=\"166\" x2=\"94\" y2=\"174\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"86\" y1=\"174\" x2=\"94\" y2=\"166\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"129\" y1=\"166\" x2=\"137\" y2=\"174\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"129\" y1=\"174\" x2=\"137\" y2=\"166\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"172\" y1=\"166\" x2=\"180\" y2=\"174\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"172\" y1=\"174\" x2=\"180\" y2=\"166\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"215\" y1=\"115.375\" x2=\"223\" y2=\"123.375\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"215\" y1=\"123.375\" x2=\"223\" y2=\"115.375\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"258\" y1=\"81.625\" x2=\"266\" y2=\"89.625\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"258\" y1=\"89.625\" x2=\"266\" y2=\"81.625\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"301\" y1=\"64.75\" x2=\"309\" y2=\"72.75\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"301\" y1=\"72.75\" x2=\"309\" y2=\"64.75\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"344\" y1=\"98.5\" x2=\"352\" y2=\"106.5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"344\" y1=\"106.5\" x2=\"352\" y2=\"98.5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"387\" y1=\"132.25\" x2=\"395\" y2=\"140.25\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"387\" y1=\"140.25\" x2=\"395\" y2=\"132.25\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"430\" y1=\"149.125\" x2=\"438\" y2=\"157.125\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"430\" y1=\"157.125\" x2=\"438\" y2=\"149.125\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"473\" y1=\"166\" x2=\"481\" y2=\"174\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"473\" y1=\"174\" x2=\"481\" y2=\"166\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"516\" y1=\"166\" x2=\"524\" y2=\"174\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"516\" y1=\"174\" x2=\"524\" y2=\"166\" stroke=\"#0f1b33\" stroke-width=\"2\"/></svg>",
+       "q": "(a) What was Omar's pulse rate at 4 minutes?",
+       "ans": [
+        130
+       ],
+       "tol": 0,
+       "unit": "beats per minute",
+       "m": 1,
+       "s": "Reading graphs",
+       "e": "Go up from 4 on the time axis to the line, then across: 130 beats per minute."
+      },
+      {
+       "t": "num",
+       "p": "Question 7\nOmar measures his pulse rate every minute. He rests for 2 minutes, skips for 3 minutes, then rests again. The graph shows his results.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 355\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#0f1b33\"><rect x=\"176\" y=\"35\" width=\"129\" height=\"270\" fill=\"#fff4d6\"/><text x=\"240.5\" y=\"22\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#0f1b33\">skipping</text><path d=\"M90 305H520M90 288.125H520M90 271.25H520M90 254.375H520M90 237.5H520M90 220.625H520M90 203.75H520M90 186.875H520M90 170H520M90 153.125H520M90 136.25H520M90 119.375H520M90 102.5H520M90 85.625H520M90 68.75H520M90 51.875H520M90 35H520M90 305V35M133 305V35M176 305V35M219 305V35M262 305V35M305 305V35M348 305V35M391 305V35M434 305V35M477 305V35M520 305V35\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><path d=\"M520 305H90V35\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M85 305h5M85 288.125h5M85 271.25h5M85 254.375h5M85 237.5h5M85 220.625h5M85 203.75h5M85 186.875h5M85 170h5M85 153.125h5M85 136.25h5M85 119.375h5M85 102.5h5M85 85.625h5M85 68.75h5M85 51.875h5M85 35h5M90 305v5M133 305v5M176 305v5M219 305v5M262 305v5M305 305v5M348 305v5M391 305v5M434 305v5M477 305v5M520 305v5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"82\" y=\"310\" text-anchor=\"end\" font-size=\"13\">0</text><text x=\"82\" y=\"293.125\" text-anchor=\"end\" font-size=\"13\">10</text><text x=\"82\" y=\"276.25\" text-anchor=\"end\" font-size=\"13\">20</text><text x=\"82\" y=\"259.375\" text-anchor=\"end\" font-size=\"13\">30</text><text x=\"82\" y=\"242.5\" text-anchor=\"end\" font-size=\"13\">40</text><text x=\"82\" y=\"225.625\" text-anchor=\"end\" font-size=\"13\">50</text><text x=\"82\" y=\"208.75\" text-anchor=\"end\" font-size=\"13\">60</text><text x=\"82\" y=\"191.875\" text-anchor=\"end\" font-size=\"13\">70</text><text x=\"82\" y=\"175\" text-anchor=\"end\" font-size=\"13\">80</text><text x=\"82\" y=\"158.125\" text-anchor=\"end\" font-size=\"13\">90</text><text x=\"82\" y=\"141.25\" text-anchor=\"end\" font-size=\"13\">100</text><text x=\"82\" y=\"124.375\" text-anchor=\"end\" font-size=\"13\">110</text><text x=\"82\" y=\"107.5\" text-anchor=\"end\" font-size=\"13\">120</text><text x=\"82\" y=\"90.625\" text-anchor=\"end\" font-size=\"13\">130</text><text x=\"82\" y=\"73.75\" text-anchor=\"end\" font-size=\"13\">140</text><text x=\"82\" y=\"56.875\" text-anchor=\"end\" font-size=\"13\">150</text><text x=\"82\" y=\"40\" text-anchor=\"end\" font-size=\"13\">160</text><text x=\"90\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">0</text><text x=\"133\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">1</text><text x=\"176\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">2</text><text x=\"219\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">3</text><text x=\"262\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">4</text><text x=\"305\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">5</text><text x=\"348\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">6</text><text x=\"391\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">7</text><text x=\"434\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">8</text><text x=\"477\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">9</text><text x=\"520\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">10</text><text x=\"305\" y=\"345\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">time in minutes</text><text x=\"48\" y=\"170\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\" transform=\"rotate(-90 48 170)\">pulse rate in beats per minute</text><polyline points=\"90,170 133,170 176,170 219,119.375 262,85.625 305,68.75 348,102.5 391,136.25 434,153.125 477,170 520,170\" fill=\"none\" stroke=\"#c0392b\" stroke-width=\"2\"/><line x1=\"86\" y1=\"166\" x2=\"94\" y2=\"174\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"86\" y1=\"174\" x2=\"94\" y2=\"166\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"129\" y1=\"166\" x2=\"137\" y2=\"174\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"129\" y1=\"174\" x2=\"137\" y2=\"166\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"172\" y1=\"166\" x2=\"180\" y2=\"174\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"172\" y1=\"174\" x2=\"180\" y2=\"166\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"215\" y1=\"115.375\" x2=\"223\" y2=\"123.375\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"215\" y1=\"123.375\" x2=\"223\" y2=\"115.375\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"258\" y1=\"81.625\" x2=\"266\" y2=\"89.625\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"258\" y1=\"89.625\" x2=\"266\" y2=\"81.625\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"301\" y1=\"64.75\" x2=\"309\" y2=\"72.75\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"301\" y1=\"72.75\" x2=\"309\" y2=\"64.75\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"344\" y1=\"98.5\" x2=\"352\" y2=\"106.5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"344\" y1=\"106.5\" x2=\"352\" y2=\"98.5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"387\" y1=\"132.25\" x2=\"395\" y2=\"140.25\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"387\" y1=\"140.25\" x2=\"395\" y2=\"132.25\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"430\" y1=\"149.125\" x2=\"438\" y2=\"157.125\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"430\" y1=\"157.125\" x2=\"438\" y2=\"149.125\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"473\" y1=\"166\" x2=\"481\" y2=\"174\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"473\" y1=\"174\" x2=\"481\" y2=\"166\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"516\" y1=\"166\" x2=\"524\" y2=\"174\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"516\" y1=\"174\" x2=\"524\" y2=\"166\" stroke=\"#0f1b33\" stroke-width=\"2\"/></svg>",
+       "q": "(b) Work out the increase from his resting pulse rate to his highest pulse rate.",
+       "ans": [
+        60
+       ],
+       "tol": 0,
+       "unit": "beats per minute",
+       "m": 1,
+       "s": "Reading graphs",
+       "e": "Resting = 80 beats per minute; highest = 140 beats per minute (at 5 minutes). 140 − 80 = 60 beats per minute."
+      },
+      {
+       "t": "num",
+       "p": "Question 7\nOmar measures his pulse rate every minute. He rests for 2 minutes, skips for 3 minutes, then rests again. The graph shows his results.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 355\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\" fill=\"#0f1b33\"><rect x=\"176\" y=\"35\" width=\"129\" height=\"270\" fill=\"#fff4d6\"/><text x=\"240.5\" y=\"22\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#0f1b33\">skipping</text><path d=\"M90 305H520M90 288.125H520M90 271.25H520M90 254.375H520M90 237.5H520M90 220.625H520M90 203.75H520M90 186.875H520M90 170H520M90 153.125H520M90 136.25H520M90 119.375H520M90 102.5H520M90 85.625H520M90 68.75H520M90 51.875H520M90 35H520M90 305V35M133 305V35M176 305V35M219 305V35M262 305V35M305 305V35M348 305V35M391 305V35M434 305V35M477 305V35M520 305V35\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><path d=\"M520 305H90V35\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M85 305h5M85 288.125h5M85 271.25h5M85 254.375h5M85 237.5h5M85 220.625h5M85 203.75h5M85 186.875h5M85 170h5M85 153.125h5M85 136.25h5M85 119.375h5M85 102.5h5M85 85.625h5M85 68.75h5M85 51.875h5M85 35h5M90 305v5M133 305v5M176 305v5M219 305v5M262 305v5M305 305v5M348 305v5M391 305v5M434 305v5M477 305v5M520 305v5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"82\" y=\"310\" text-anchor=\"end\" font-size=\"13\">0</text><text x=\"82\" y=\"293.125\" text-anchor=\"end\" font-size=\"13\">10</text><text x=\"82\" y=\"276.25\" text-anchor=\"end\" font-size=\"13\">20</text><text x=\"82\" y=\"259.375\" text-anchor=\"end\" font-size=\"13\">30</text><text x=\"82\" y=\"242.5\" text-anchor=\"end\" font-size=\"13\">40</text><text x=\"82\" y=\"225.625\" text-anchor=\"end\" font-size=\"13\">50</text><text x=\"82\" y=\"208.75\" text-anchor=\"end\" font-size=\"13\">60</text><text x=\"82\" y=\"191.875\" text-anchor=\"end\" font-size=\"13\">70</text><text x=\"82\" y=\"175\" text-anchor=\"end\" font-size=\"13\">80</text><text x=\"82\" y=\"158.125\" text-anchor=\"end\" font-size=\"13\">90</text><text x=\"82\" y=\"141.25\" text-anchor=\"end\" font-size=\"13\">100</text><text x=\"82\" y=\"124.375\" text-anchor=\"end\" font-size=\"13\">110</text><text x=\"82\" y=\"107.5\" text-anchor=\"end\" font-size=\"13\">120</text><text x=\"82\" y=\"90.625\" text-anchor=\"end\" font-size=\"13\">130</text><text x=\"82\" y=\"73.75\" text-anchor=\"end\" font-size=\"13\">140</text><text x=\"82\" y=\"56.875\" text-anchor=\"end\" font-size=\"13\">150</text><text x=\"82\" y=\"40\" text-anchor=\"end\" font-size=\"13\">160</text><text x=\"90\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">0</text><text x=\"133\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">1</text><text x=\"176\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">2</text><text x=\"219\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">3</text><text x=\"262\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">4</text><text x=\"305\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">5</text><text x=\"348\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">6</text><text x=\"391\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">7</text><text x=\"434\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">8</text><text x=\"477\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">9</text><text x=\"520\" y=\"325\" text-anchor=\"middle\" font-size=\"13\">10</text><text x=\"305\" y=\"345\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">time in minutes</text><text x=\"48\" y=\"170\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\" transform=\"rotate(-90 48 170)\">pulse rate in beats per minute</text><polyline points=\"90,170 133,170 176,170 219,119.375 262,85.625 305,68.75 348,102.5 391,136.25 434,153.125 477,170 520,170\" fill=\"none\" stroke=\"#c0392b\" stroke-width=\"2\"/><line x1=\"86\" y1=\"166\" x2=\"94\" y2=\"174\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"86\" y1=\"174\" x2=\"94\" y2=\"166\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"129\" y1=\"166\" x2=\"137\" y2=\"174\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"129\" y1=\"174\" x2=\"137\" y2=\"166\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"172\" y1=\"166\" x2=\"180\" y2=\"174\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"172\" y1=\"174\" x2=\"180\" y2=\"166\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"215\" y1=\"115.375\" x2=\"223\" y2=\"123.375\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"215\" y1=\"123.375\" x2=\"223\" y2=\"115.375\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"258\" y1=\"81.625\" x2=\"266\" y2=\"89.625\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"258\" y1=\"89.625\" x2=\"266\" y2=\"81.625\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"301\" y1=\"64.75\" x2=\"309\" y2=\"72.75\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"301\" y1=\"72.75\" x2=\"309\" y2=\"64.75\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"344\" y1=\"98.5\" x2=\"352\" y2=\"106.5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"344\" y1=\"106.5\" x2=\"352\" y2=\"98.5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"387\" y1=\"132.25\" x2=\"395\" y2=\"140.25\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"387\" y1=\"140.25\" x2=\"395\" y2=\"132.25\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"430\" y1=\"149.125\" x2=\"438\" y2=\"157.125\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"430\" y1=\"157.125\" x2=\"438\" y2=\"149.125\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"473\" y1=\"166\" x2=\"481\" y2=\"174\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"473\" y1=\"174\" x2=\"481\" y2=\"166\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"516\" y1=\"166\" x2=\"524\" y2=\"174\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"516\" y1=\"174\" x2=\"524\" y2=\"166\" stroke=\"#0f1b33\" stroke-width=\"2\"/></svg>",
+       "q": "(c) Omar stopped skipping at 5 minutes. How many minutes later was his pulse rate back to its resting rate?",
+       "ans": [
+        4
+       ],
+       "tol": 0,
+       "unit": "minutes",
+       "m": 1,
+       "s": "Reading graphs",
+       "e": "The pulse rate is back to 80 beats per minute at 9 minutes. 9 − 5 = 4 minutes."
+      },
+      {
+       "t": "open",
+       "p": "Question 7\nOmar measures his pulse rate every minute. He rests for 2 minutes, skips for 3 minutes, then rests again. The graph shows his results.",
+       "q": "(d) Explain why Omar's pulse rate increased while he was skipping.",
+       "m": 2,
+       "s": "Exercise",
+       "ms": "1 mark: his muscles needed more oxygen / nutrients / energy (OR needed more waste / carbon dioxide removed). 1 mark: so the heart beat / pumped faster to carry (more) blood to the muscles (more quickly). Do not accept: \"because he was tired\" or \"to get more air\" alone.",
+       "e": "His working muscles needed more oxygen and nutrients to release energy, and made more carbon dioxide. The heart pumped faster so that blood carried these to and from the muscles more quickly."
+      },
+      {
+       "t": "text",
+       "q": "Name the gas that blood collects in the lungs and carries to the body cells.",
+       "ans": [
+        "oxygen",
+        "o2"
+       ],
+       "m": 1,
+       "s": "Functions",
+       "e": "In the lungs, oxygen moves from the air into the blood. The blood carries it to the cells."
+      },
+      {
+       "t": "num",
+       "q": "Sami counts his pulse for 15 seconds. He counts 18 beats. What is his pulse rate in beats per minute?",
+       "ans": [
+        72
+       ],
+       "tol": 0,
+       "unit": "beats per minute",
+       "m": 1,
+       "s": "Pulse",
+       "e": "There are 4 lots of 15 seconds in 1 minute. 18 × 4 = 72 beats per minute."
+      },
+      {
+       "q": "Which statement about vertebrates is correct?",
+       "c": [
+        "Only humans have a heart and blood vessels.",
+        "Fish do not have blood.",
+        "Many vertebrates, such as birds and fish, have a heart that pumps blood through blood vessels.",
+        "A bird's heart does not pump blood."
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Vertebrates",
+       "e": "Many vertebrates have a circulatory system similar to ours: a heart that pumps blood through blood vessels."
+      },
+      {
+       "t": "open",
+       "q": "A teacher says: \"The heart is like a squeezy bottle.\" Give one way this model is like the heart and one way it is not like the heart.",
+       "m": 2,
+       "s": "Models",
+       "ms": "1 mark for a similarity: both push / pump liquid out when squeezed; both fill up again when they relax / are released. 1 mark for a difference: the heart is made of muscle and squeezes by itself (a bottle must be squeezed by a hand); the heart pumps all the time / many times a minute; blood goes round in a circuit and comes back (water from the bottle spills out); the heart is connected to blood vessels. Accept any sensible scientific difference.",
+       "e": "Like the heart: squeezing pushes the liquid out, and it fills again when it relaxes. Not like the heart: the heart is a muscle that squeezes by itself about once a second, and the blood travels round in a closed circuit of blood vessels instead of spilling out."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "The heart is a muscle that pumps blood around the body.",
+    "Arteries carry blood Away from the heart; veins carry it back; capillaries are tiny vessels with walls one cell thick, next to the cells.",
+    "Order: heart → arteries → capillaries → veins → heart.",
+    "Blood transports oxygen (from the lungs), nutrients (from digested food) and waste (such as carbon dioxide, taken to the lungs).",
+    "Exercise → muscles need more oxygen → the heart beats faster → the pulse rate goes up.",
+    "Many vertebrates (mammals, birds, fish…) have a similar system: a heart, blood and blood vessels."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,649 @@
+{
+ "slug": "cp8m-number-types-indices",
+ "title": "Types of Number and Index Laws",
+ "kicker": "Cambridge Lower Secondary · Mathematics 0862 · Stage 8 · Number",
+ "summary": "Classify numbers as natural numbers, integers or rational numbers, and use positive and zero indices with the index laws for multiplication and division.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Understand how the natural numbers, the integers and the rational numbers fit inside each other (the hierarchy of numbers) (8Ni.04)",
+    "Use positive and zero indices, and the index laws for multiplying and dividing powers of the same number (8Ni.05)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Mathematicians sort numbers into families. Each family sits inside a bigger one, like a box inside a box. In the first part of this page you will learn the three families you need at Stage 8 and how to decide which ones a number belongs to. In the second part you will learn to multiply and divide **powers** quickly using two **index laws**, and why any number to the power 0 equals 1."
+  },
+  {
+   "type": "h2",
+   "text": "Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "natural numbers",
+     "الأعداد الطبيعية — the counting numbers 1, 2, 3, 4, …"
+    ],
+    [
+     "integers",
+     "الأعداد الصحيحة — whole numbers: positive, negative and zero … −2, −1, 0, 1, 2 …"
+    ],
+    [
+     "rational numbers",
+     "الأعداد النسبية — numbers that can be written as a fraction a/b of two integers (b ≠ 0)"
+    ],
+    [
+     "hierarchy",
+     "تسلسل / ترتيب هرمي — an order of groups, each one inside the next"
+    ],
+    [
+     "terminating decimal",
+     "عدد عشري منتهٍ — stops, e.g. 0.75"
+    ],
+    [
+     "recurring decimal",
+     "عدد عشري دوري — repeats for ever, e.g. 0.333…"
+    ],
+    [
+     "base",
+     "الأساس — the number being multiplied: in 5^{3} the base is 5"
+    ],
+    [
+     "index / power / exponent",
+     "الأس — how many times the base is multiplied: in 5^{3} the index is 3"
+    ],
+    [
+     "index form",
+     "صورة الأسس — 7 × 7 × 7 × 7 written as 7^{4}"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. Natural numbers, integers and rational numbers"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**Natural numbers** are the counting numbers: 1, 2, 3, 4, 5, … (In this course natural numbers start at 1. Some books also count 0 as a natural number; either way, 0 is certainly an integer and a rational number.)",
+    "**Integers** are all the whole numbers: the natural numbers, zero and the negative whole numbers: …, −3, −2, −1, 0, 1, 2, 3, …",
+    "**Rational numbers** are all numbers that can be written as a fraction a/b, where a and b are integers and b is not 0. This includes every integer (7 = 7/1), every fraction, every **terminating** decimal (0.75 = 3/4) and every **recurring** decimal (0.333… = 1/3)."
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 550 322\" width=\"550\" font-family=\"Arial, sans-serif\" font-size=\"15\"><rect x=\"10\" y=\"30\" width=\"530\" height=\"250\" rx=\"14\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"30\" y=\"70\" width=\"330\" height=\"196\" rx=\"12\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"50\" y=\"110\" width=\"150\" height=\"140\" rx=\"10\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"24\" y=\"56\" text-anchor=\"start\" font-size=\"16\" font-weight=\"bold\" fill=\"#0f1b33\">Rational numbers</text><text x=\"44\" y=\"96\" text-anchor=\"start\" font-size=\"16\" font-weight=\"bold\" fill=\"#0f1b33\">Integers</text><text x=\"62\" y=\"136\" text-anchor=\"start\" font-weight=\"bold\" fill=\"#0f1b33\">Natural numbers</text><text x=\"125\" y=\"172\" text-anchor=\"middle\" font-size=\"17\" fill=\"#0f1b33\">1</text><text x=\"125\" y=\"200\" text-anchor=\"middle\" font-size=\"17\" fill=\"#0f1b33\">7</text><text x=\"125\" y=\"228\" text-anchor=\"middle\" font-size=\"17\" fill=\"#0f1b33\">250</text><text x=\"280\" y=\"150\" text-anchor=\"middle\" font-size=\"17\" fill=\"#0f1b33\">0</text><text x=\"280\" y=\"186\" text-anchor=\"middle\" font-size=\"17\" fill=\"#0f1b33\">−3</text><text x=\"280\" y=\"222\" text-anchor=\"middle\" font-size=\"17\" fill=\"#0f1b33\">−40</text><text x=\"450\" y=\"110\" text-anchor=\"middle\" font-size=\"17\" fill=\"#0f1b33\">3/8</text><text x=\"450\" y=\"150\" text-anchor=\"middle\" font-size=\"17\" fill=\"#0f1b33\">−0.75</text><text x=\"450\" y=\"190\" text-anchor=\"middle\" font-size=\"17\" fill=\"#0f1b33\">0.333…</text><text x=\"450\" y=\"230\" text-anchor=\"middle\" font-size=\"17\" fill=\"#0f1b33\">−2.4</text><text x=\"275\" y=\"310\" text-anchor=\"middle\" font-size=\"14\" fill=\"#b3261e\">Not rational (outside the box): √2, π — you will meet these later</text></svg>",
+   "caption": "The hierarchy: every natural number is an integer, and every integer is a rational number — but not the other way round."
+  },
+  {
+   "type": "p",
+   "text": "So the families form a **hierarchy**: natural numbers ⊂ integers ⊂ rational numbers. To decide where a number belongs, ask three questions in order: Is it a counting number? Is it a whole number (positive, negative or zero)? Can it be written as a fraction of two integers?"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Number",
+    "Natural?",
+    "Integer?",
+    "Rational?",
+    "Written as a/b"
+   ],
+   "rows": [
+    [
+     "12",
+     "✓",
+     "✓",
+     "✓",
+     "12/1"
+    ],
+    [
+     "0",
+     "✗ (in this course)",
+     "✓",
+     "✓",
+     "0/1"
+    ],
+    [
+     "−5",
+     "✗",
+     "✓",
+     "✓",
+     "−5/1"
+    ],
+    [
+     "3/8",
+     "✗",
+     "✗",
+     "✓",
+     "3/8"
+    ],
+    [
+     "0.6",
+     "✗",
+     "✗",
+     "✓",
+     "6/10 = 3/5"
+    ],
+    [
+     "−2.25",
+     "✗",
+     "✗",
+     "✓",
+     "−9/4"
+    ],
+    [
+     "0.333… (recurring)",
+     "✗",
+     "✗",
+     "✓",
+     "1/3"
+    ],
+    [
+     "√16",
+     "✓",
+     "✓",
+     "✓",
+     "√16 = 4 = 4/1"
+    ],
+    [
+     "√2 = 1.41421…",
+     "✗",
+     "✗",
+     "✗",
+     "cannot be written as a fraction"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Look past the appearance.** √16 looks strange but equals 4, a natural number. 20/4 looks like a fraction but equals 5, a natural number. −18/6 = −3 is an integer. Always simplify first, then classify."
+  },
+  {
+   "type": "h2",
+   "text": "Why do we need bigger families?"
+  },
+  {
+   "type": "p",
+   "text": "Each family was needed because some calculations had no answer in the smaller family:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Calculation",
+    "Always stays in the family?",
+    "Example"
+   ],
+   "rows": [
+    [
+     "natural + natural",
+     "Yes — always natural",
+     "4 + 9 = 13"
+    ],
+    [
+     "natural × natural",
+     "Yes — always natural",
+     "4 × 9 = 36"
+    ],
+    [
+     "natural − natural",
+     "No — can be zero or negative, so we need **integers**",
+     "4 − 9 = −5"
+    ],
+    [
+     "integer ÷ integer (not ÷ 0)",
+     "No — can be a fraction, so we need **rational numbers**",
+     "4 ÷ 9 = 4/9"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Always, sometimes or never true?** (This is classifying and convincing.) \"An integer is a natural number\" — **sometimes** (true for 5, false for −5). \"A natural number is a rational number\" — **always**. \"A negative number is a natural number\" — **never**. \"A rational number is an integer\" — **sometimes** (true for 6/3, false for 1/2). To show \"sometimes\", give one example where it is true and one where it is false."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "عائلات الأعداد",
+   "items": [
+    "الطبيعية: أعداد العد ١، ٢، ٣، …",
+    "الصحيحة: الطبيعية + الصفر + السالبة.",
+    "النسبية: أي عدد ممكن يتكتب كسر (عدد صحيح ÷ عدد صحيح، والمقام مش صفر) — زي ٠٫٧٥ و ٠٫٣٣٣… و −٥.",
+    "كل طبيعي صحيح، وكل صحيح نسبي — لكن العكس مش دايمًا صح."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "2. Powers and index form"
+  },
+  {
+   "type": "p",
+   "text": "A **power** is a short way to write repeated multiplication. In 2^{5} the **base** is 2 and the **index** is 5: 2^{5} = 2 × 2 × 2 × 2 × 2 = 32. Also, any number to the power 1 is itself: 9^{1} = 9."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Repeated multiplication",
+    "Index form",
+    "Value"
+   ],
+   "rows": [
+    [
+     "7 × 7 × 7 × 7",
+     "7^{4}",
+     "2401"
+    ],
+    [
+     "3 × 3 × 3 × 3 × 3",
+     "3^{5}",
+     "243"
+    ],
+    [
+     "10 × 10 × 10 × 10 × 10 × 10",
+     "10^{6}",
+     "1 000 000"
+    ],
+    [
+     "a × a × a",
+     "a^{3}",
+     "—"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Careful:** 2^{5} is not 2 × 5. And 2^{10} = 1024 while 10^{2} = 100, so swapping the base and the index changes the value."
+  },
+  {
+   "type": "h2",
+   "text": "3. Index law for multiplication"
+  },
+  {
+   "type": "p",
+   "text": "When you multiply powers of the **same base**, count how many times the base is multiplied altogether:"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 160\" width=\"560\" font-family=\"Arial, sans-serif\" font-size=\"15\"><rect x=\"70\" y=\"60\" width=\"48\" height=\"44\" rx=\"6\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"94\" y=\"89\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">2</text><text x=\"124\" y=\"89\" text-anchor=\"middle\" fill=\"#0f1b33\">×</text><rect x=\"130\" y=\"60\" width=\"48\" height=\"44\" rx=\"6\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"154\" y=\"89\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">2</text><text x=\"184\" y=\"89\" text-anchor=\"middle\" fill=\"#0f1b33\">×</text><rect x=\"190\" y=\"60\" width=\"48\" height=\"44\" rx=\"6\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"214\" y=\"89\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">2</text><text x=\"244\" y=\"89\" text-anchor=\"middle\" fill=\"#0f1b33\">×</text><rect x=\"250\" y=\"60\" width=\"48\" height=\"44\" rx=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"274\" y=\"89\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">2</text><text x=\"304\" y=\"89\" text-anchor=\"middle\" fill=\"#0f1b33\">×</text><rect x=\"310\" y=\"60\" width=\"48\" height=\"44\" rx=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"334\" y=\"89\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">2</text><text x=\"364\" y=\"89\" text-anchor=\"middle\" fill=\"#0f1b33\">×</text><rect x=\"370\" y=\"60\" width=\"48\" height=\"44\" rx=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"394\" y=\"89\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">2</text><text x=\"424\" y=\"89\" text-anchor=\"middle\" fill=\"#0f1b33\">×</text><rect x=\"430\" y=\"60\" width=\"48\" height=\"44\" rx=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"454\" y=\"89\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">2</text><path d=\"M70 54 L70 44 L238 44 L238 54\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"154\" y=\"34\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">2<tspan dy=\"-7\" font-size=\"13\">3</tspan><tspan dy=\"7\"> </tspan> (3 twos)</text><path d=\"M250 54 L250 44 L478 44 L478 54\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"364\" y=\"34\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">2<tspan dy=\"-7\" font-size=\"13\">4</tspan><tspan dy=\"7\"> </tspan> (4 twos)</text><path d=\"M70 110 L70 120 L478 120 L478 110\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"274\" y=\"146\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\" fill=\"#0f1b33\">7 twos altogether: 2<tspan dy=\"-7\" font-size=\"13\">3</tspan><tspan dy=\"7\"> </tspan>× 2<tspan dy=\"-7\" font-size=\"13\">4</tspan><tspan dy=\"7\"> </tspan>= 2<tspan dy=\"-7\" font-size=\"13\">7</tspan><tspan dy=\"7\"> </tspan>= 128</text></svg>",
+   "caption": "2^{3} × 2^{4}: three 2s and four 2s make seven 2s, so 2^{3} × 2^{4} = 2^{7}."
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Multiplication law",
+   "text": "a^{m} × a^{n} = a^{m + n}  — same base: **add** the indices. Examples: 5^{4} × 5^{3} = 5^{7}; 10^{2} × 10^{5} = 10^{7}; x^{4} × x^{3} = x^{7}; 6 × 6^{8} = 6^{1} × 6^{8} = 6^{9}."
+  },
+  {
+   "type": "h2",
+   "text": "4. Index law for division"
+  },
+  {
+   "type": "p",
+   "text": "When you divide powers of the same base, the factors on the bottom cancel with factors on the top:"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 180\" width=\"560\" font-family=\"Arial, sans-serif\" font-size=\"15\"><rect x=\"40\" y=\"20\" width=\"42\" height=\"40\" rx=\"6\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"61\" y=\"47\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">5</text><line x1=\"44\" y1=\"56\" x2=\"78\" y2=\"24\" stroke=\"#b3261e\" stroke-width=\"3\"/><rect x=\"92\" y=\"20\" width=\"42\" height=\"40\" rx=\"6\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"113\" y=\"47\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">5</text><line x1=\"96\" y1=\"56\" x2=\"130\" y2=\"24\" stroke=\"#b3261e\" stroke-width=\"3\"/><rect x=\"144\" y=\"20\" width=\"42\" height=\"40\" rx=\"6\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"165\" y=\"47\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">5</text><rect x=\"196\" y=\"20\" width=\"42\" height=\"40\" rx=\"6\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"217\" y=\"47\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">5</text><rect x=\"248\" y=\"20\" width=\"42\" height=\"40\" rx=\"6\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"269\" y=\"47\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">5</text><rect x=\"300\" y=\"20\" width=\"42\" height=\"40\" rx=\"6\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"321\" y=\"47\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">5</text><line x1=\"30\" y1=\"76\" x2=\"350\" y2=\"76\" stroke=\"#0f1b33\" stroke-width=\"3\"/><rect x=\"40\" y=\"92\" width=\"42\" height=\"40\" rx=\"6\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"61\" y=\"119\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">5</text><line x1=\"44\" y1=\"128\" x2=\"78\" y2=\"96\" stroke=\"#b3261e\" stroke-width=\"3\"/><rect x=\"92\" y=\"92\" width=\"42\" height=\"40\" rx=\"6\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"113\" y=\"119\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">5</text><line x1=\"96\" y1=\"128\" x2=\"130\" y2=\"96\" stroke=\"#b3261e\" stroke-width=\"3\"/><text x=\"370\" y=\"70\" text-anchor=\"start\" font-size=\"22\" fill=\"#0f1b33\">=</text><text x=\"400\" y=\"70\" text-anchor=\"start\" font-size=\"16\" fill=\"#0f1b33\">5 × 5 × 5 × 5</text><text x=\"400\" y=\"100\" text-anchor=\"start\" font-size=\"16\" font-weight=\"bold\" fill=\"#0f1b33\">= 5<tspan dy=\"-7\" font-size=\"13\">4</tspan><tspan dy=\"7\"> </tspan></text><text x=\"280\" y=\"165\" text-anchor=\"middle\" fill=\"#0f1b33\">5<tspan dy=\"-7\" font-size=\"13\">6</tspan><tspan dy=\"7\"> </tspan>÷ 5<tspan dy=\"-7\" font-size=\"13\">2</tspan><tspan dy=\"7\"> </tspan>= 5<tspan dy=\"-7\" font-size=\"13\">6 − 2</tspan><tspan dy=\"7\"> </tspan>= 5<tspan dy=\"-7\" font-size=\"13\">4</tspan><tspan dy=\"7\"> </tspan>(cancel the pairs that divide to 1)</text></svg>",
+   "caption": "Two 5s on the bottom cancel two 5s on the top, leaving four 5s."
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Division law",
+   "text": "a^{m} ÷ a^{n} = a^{m − n}  — same base: **subtract** the indices. Examples: 5^{6} ÷ 5^{2} = 5^{4}; 9^{8} ÷ 9^{3} = 9^{5}; y^{9} ÷ y^{4} = y^{5}. At Stage 8 the first index is always at least as big as the second, so the answer never has a negative index."
+  },
+  {
+   "type": "h2",
+   "text": "5. The zero index"
+  },
+  {
+   "type": "p",
+   "text": "What is 3^{4} ÷ 3^{4}? Any number divided by itself is 1. But the division law gives 3^{4 − 4} = 3^{0}. So **3^{0} = 1**. The pattern below shows the same thing: each time the index goes down by 1, you divide by 2."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 330 220\" width=\"330\" font-family=\"Arial, sans-serif\" font-size=\"15\"><text x=\"80\" y=\"40\" text-anchor=\"middle\" font-size=\"18\" fill=\"#0f1b33\">2<tspan dy=\"-7\" font-size=\"13\">4</tspan><tspan dy=\"7\"> </tspan></text><text x=\"130\" y=\"40\" text-anchor=\"middle\" font-size=\"18\" fill=\"#0f1b33\">=</text><text x=\"190\" y=\"40\" text-anchor=\"end\" font-size=\"18\" fill=\"#0f1b33\">16</text><text x=\"80\" y=\"80\" text-anchor=\"middle\" font-size=\"18\" fill=\"#0f1b33\">2<tspan dy=\"-7\" font-size=\"13\">3</tspan><tspan dy=\"7\"> </tspan></text><text x=\"130\" y=\"80\" text-anchor=\"middle\" font-size=\"18\" fill=\"#0f1b33\">=</text><text x=\"190\" y=\"80\" text-anchor=\"end\" font-size=\"18\" fill=\"#0f1b33\">8</text><text x=\"80\" y=\"120\" text-anchor=\"middle\" font-size=\"18\" fill=\"#0f1b33\">2<tspan dy=\"-7\" font-size=\"13\">2</tspan><tspan dy=\"7\"> </tspan></text><text x=\"130\" y=\"120\" text-anchor=\"middle\" font-size=\"18\" fill=\"#0f1b33\">=</text><text x=\"190\" y=\"120\" text-anchor=\"end\" font-size=\"18\" fill=\"#0f1b33\">4</text><text x=\"80\" y=\"160\" text-anchor=\"middle\" font-size=\"18\" fill=\"#0f1b33\">2<tspan dy=\"-7\" font-size=\"13\">1</tspan><tspan dy=\"7\"> </tspan></text><text x=\"130\" y=\"160\" text-anchor=\"middle\" font-size=\"18\" fill=\"#0f1b33\">=</text><text x=\"190\" y=\"160\" text-anchor=\"end\" font-size=\"18\" fill=\"#0f1b33\">2</text><rect x=\"30\" y=\"174\" width=\"200\" height=\"36\" rx=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"80\" y=\"200\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">2<tspan dy=\"-7\" font-size=\"13\">0</tspan><tspan dy=\"7\"> </tspan></text><text x=\"130\" y=\"200\" text-anchor=\"middle\" font-size=\"18\" fill=\"#0f1b33\">=</text><text x=\"190\" y=\"200\" text-anchor=\"end\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">1</text><line x1=\"240\" y1=\"34\" x2=\"240\" y2=\"194\" stroke=\"#1d5fbf\" stroke-width=\"2\"/><path d=\"M234 186 L240 198 L246 186z\" fill=\"#1d5fbf\"/><text x=\"252\" y=\"60\" text-anchor=\"start\" font-weight=\"bold\" fill=\"#1d5fbf\">÷ 2</text><text x=\"252\" y=\"100\" text-anchor=\"start\" font-weight=\"bold\" fill=\"#1d5fbf\">÷ 2</text><text x=\"252\" y=\"140\" text-anchor=\"start\" font-weight=\"bold\" fill=\"#1d5fbf\">÷ 2</text><text x=\"252\" y=\"180\" text-anchor=\"start\" font-weight=\"bold\" fill=\"#1d5fbf\">÷ 2</text></svg>",
+   "caption": "Continue the pattern: 2^{1} = 2, and 2 ÷ 2 = 1, so 2^{0} = 1."
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Zero index",
+   "text": "a^{0} = 1 for any number a that is not 0. Examples: 7^{0} = 1, 100^{0} = 1, (−4)^{0} = 1. It is **not** 0."
+  },
+  {
+   "type": "h2",
+   "text": "6. Using the laws together"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**Several steps:** (3^{5} × 3^{4}) ÷ 3^{7} = 3^{9} ÷ 3^{7} = 3^{2} = **9**.",
+    "**A fraction line:** 7^{3} × 7^{5} on top and 7^{6} on the bottom → top = 7^{8}, so 7^{8} ÷ 7^{6} = 7^{2} = **49**.",
+    "**Numbers in front (coefficients):** multiply or divide the numbers, then use the index law for the letters. 2a^{3} × 5a^{2} = (2 × 5) × a^{3 + 2} = **10a^{5}**. 12b^{7} ÷ 4b^{3} = (12 ÷ 4) × b^{7 − 3} = **3b^{4}**.",
+    "**Missing index:** 4^{☐} × 4^{3} = 4^{9}. The indices must add to 9, so ☐ = **6**.",
+    "**Different bases do not combine:** 2^{3} × 5^{2} cannot be written as one power. Work it out: 8 × 25 = **200**."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — Complete the table with ticks to show which sets each number belongs to: −5, 3/8, 12, 0.6. [2 marks]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "−5: a whole number but negative → **integer** and **rational** (−5 = −5/1), not natural.",
+    "3/8: not whole → **rational** only.",
+    "12: a counting number → **natural**, **integer** and **rational**.",
+    "0.6 = 3/5 → **rational** only.",
+    "Mark scheme style: 2 marks for all correct; 1 mark for three numbers correct."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Common mistake:** forgetting that every integer is also rational, so leaving the rational box empty for −5 and 12."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — Write down (a) a number that is an integer but not a natural number (b) a rational number that is not an integer. [2 marks]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) Any negative whole number or 0: for example **−4**.",
+    "(b) Any fraction or decimal that is not whole: for example **2/3** or **0.5**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Common mistake:** giving 8/4 for (b) — it equals 2, which is an integer."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — Simplify, giving each answer in index form: (a) 6^{4} × 6^{5} (b) 9^{8} ÷ 9^{3}. Then (c) work out (2^{5} × 2^{3}) ÷ 2^{6}. [3 marks]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) Same base, multiply → add indices: 6^{4 + 5} = **6^{9}**.",
+    "(b) Same base, divide → subtract indices: 9^{8 − 3} = **9^{5}**.",
+    "(c) Top: 2^{5 + 3} = 2^{8}. Then 2^{8 − 6} = 2^{2} = **4**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Common mistake:** multiplying the indices (6^{20}) or multiplying the bases (36^{9})."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — Work out 7^{0} + 4^{0} × 5. [1 mark]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "7^{0} = 1 and 4^{0} = 1.",
+    "Order of operations: 1 + 1 × 5 = 1 + 5 = **6**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Common mistake:** thinking a^{0} = 0 and getting 0, or adding first and getting 10."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — Find the value of n. (a) 3^{n} × 3^{4} = 3^{10} (b) 5^{8} ÷ 5^{n} = 1 [2 marks]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) n + 4 = 10, so **n = 6**.",
+    "(b) 1 = 5^{0}, so 8 − n = 0 and **n = 8**. (A number divided by itself is 1.)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** — Hassan says, \"2^{3} × 4^{2} = 8^{5}.\" Explain why Hassan is wrong, and find the correct value. [2 marks]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "The index laws only work when the **bases are the same**. 2 and 4 are different bases, and the bases are never multiplied together.",
+    "Correct value: 2^{3} × 4^{2} = 8 × 16 = **128**.",
+    "(Extension: 4^{2} = 4 × 4 = 2^{2} × 2^{2} = 2^{4}, so 2^{3} × 4^{2} = 2^{3} × 2^{4} = 2^{7} = 128 ✓. But 8^{5} = 32 768, which is much bigger.)"
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Thinking 0 or a negative number is a natural number, or forgetting that integers and natural numbers are also rational.",
+    "Classifying by appearance: √16 = 4 and 20/4 = 5 are natural numbers.",
+    "Working out 2^{5} as 2 × 5 = 10 instead of 32.",
+    "Multiplying the indices when you multiply powers: 3^{4} × 3^{2} = 3^{6}, not 3^{8}.",
+    "Multiplying the bases: 3^{4} × 3^{2} = 3^{6}, not 9^{6}. The base stays the same.",
+    "Using the index laws with different bases: 2^{3} × 5^{2} is 8 × 25 = 200.",
+    "Writing a^{0} = 0. Any non-zero number to the power 0 is 1."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "\"Tick the boxes to show which numbers are integers / rational numbers\" — a table to complete.",
+    "\"Write a number that is rational but not an integer\" — give a simple example such as 1/2.",
+    "\"Is this statement always, sometimes or never true?\" — give examples as evidence.",
+    "\"Write as a single power\" or \"Give your answer in index form\" — leave it as, e.g., 5^{7}; do not work it out unless asked.",
+    "\"Find the value of n\" in an index equation — write an equation for the indices, e.g. n + 4 = 10.",
+    "\"Ring the expressions equal to 1\" — look for zero indices and equal powers divided, such as 9^{0} or 4^{3} ÷ 4^{3}.",
+    "\"Explain the mistake\" — name the wrong rule (multiplied the bases / multiplied the indices) and give the correct answer."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Types of number and index laws practice",
+   "timed": false,
+   "intro": "14 questions, no calculator. For index-form answers, type a power like 4^9. Full solutions appear when you check.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 20,
+     "calc": false,
+     "questions": [
+      {
+       "q": "Which number is an integer but not a natural number?",
+       "c": [
+        "7",
+        "2.5",
+        "−9",
+        "1/3"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Number types",
+       "e": "7 is natural (and an integer). 2.5 and 1/3 are not whole numbers, so they are not integers. −9 is a whole number but negative, so it is an integer but not a natural number."
+      },
+      {
+       "q": "Which statement is true?",
+       "c": [
+        "Every natural number is a rational number.",
+        "Every integer is a natural number.",
+        "Every rational number is an integer.",
+        "Some integers are not rational numbers."
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Number types",
+       "e": "Any natural number n can be written as n/1, so it is rational ✓. −2 is an integer but not natural; 1/2 is rational but not an integer; every integer is rational (n = n/1), so the last statement is false."
+      },
+      {
+       "t": "num",
+       "q": "Here is a list of numbers: 6, −2, 0.4, 3/7, 0, 15. How many of them are integers?",
+       "ans": [
+        4
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Number types",
+       "e": "Integers are whole numbers (positive, negative or zero): 6, −2, 0, 15. That is 4. 0.4 and 3/7 are rational but not integers."
+      },
+      {
+       "t": "num",
+       "q": "Work out 2^{3} × 5^{2}.",
+       "ans": [
+        200
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Indices",
+       "e": "Different bases, so no index law: 2^{3} = 8 and 5^{2} = 25. 8 × 25 = 200."
+      },
+      {
+       "t": "text",
+       "q": "Simplify 4^{6} × 4^{3}. Give your answer in index form (type it like 4^5).",
+       "ans": [
+        "4^9",
+        "4^{9}",
+        "4⁹",
+        "262144"
+       ],
+       "m": 1,
+       "s": "Index laws",
+       "e": "Same base, multiplying → add the indices: 4^{6 + 3} = 4^{9}."
+      },
+      {
+       "t": "text",
+       "q": "Simplify 10^{9} ÷ 10^{4}. Give your answer in index form (type it like 10^3).",
+       "ans": [
+        "10^5",
+        "10^{5}",
+        "10⁵",
+        "100000"
+       ],
+       "m": 1,
+       "s": "Index laws",
+       "e": "Same base, dividing → subtract the indices: 10^{9 − 4} = 10^{5} (= 100 000)."
+      },
+      {
+       "t": "num",
+       "q": "Write down the value of 8^{0}.",
+       "ans": [
+        1
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Zero index",
+       "e": "Any non-zero number to the power 0 equals 1. (8^{3} ÷ 8^{3} = 8^{0}, and any number divided by itself is 1.)"
+      },
+      {
+       "t": "num",
+       "q": "Work out (2^{6} × 2^{3}) ÷ 2^{7}.",
+       "ans": [
+        4
+       ],
+       "tol": 0,
+       "m": 2,
+       "s": "Index laws",
+       "e": "Top: 2^{6 + 3} = 2^{9}. Then 2^{9 − 7} = 2^{2} = 4."
+      },
+      {
+       "t": "num",
+       "q": "Find the value of n: 7^{n} × 7^{2} = 7^{9}",
+       "ans": [
+        7
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Index laws",
+       "e": "Add the indices: n + 2 = 9, so n = 7."
+      },
+      {
+       "q": "Which of these is equal to 1?",
+       "c": [
+        "5^{1}",
+        "0^{5}",
+        "2^{0} + 1",
+        "9^{0}"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Zero index",
+       "e": "5^{1} = 5; 0^{5} = 0; 2^{0} + 1 = 1 + 1 = 2; 9^{0} = 1 ✓."
+      },
+      {
+       "t": "text",
+       "q": "Simplify x^{5} × x^{4}. (Type your answer like x^2.)",
+       "ans": [
+        "x^9",
+        "x^{9}",
+        "x⁹"
+       ],
+       "m": 1,
+       "s": "Index laws",
+       "e": "Same base x, multiplying → add the indices: x^{5 + 4} = x^{9}."
+      },
+      {
+       "t": "num",
+       "q": "Find the value of n: 6^{4} ÷ 6^{n} = 36",
+       "ans": [
+        2
+       ],
+       "tol": 0,
+       "m": 2,
+       "s": "Index laws",
+       "e": "36 = 6^{2}. So 6^{4 − n} = 6^{2}, which gives 4 − n = 2 and n = 2. Check: 6^{4} ÷ 6^{2} = 1296 ÷ 36 = 36 ✓."
+      },
+      {
+       "t": "open",
+       "q": "Lina says, \"5^{3} × 5^{4} = 25^{7}.\" Explain Lina's mistake and write the correct answer in index form.",
+       "m": 2,
+       "s": "Index laws",
+       "ms": "1 mark: explains that the base should stay as 5 / she multiplied the bases (5 × 5 = 25) / you only add the indices. 1 mark: 5^{7} (accept 78 125).",
+       "e": "When you multiply powers of the same base, the base stays the same and you add the indices. Lina wrongly multiplied the bases. Correct: 5^{3} × 5^{4} = 5^{7}."
+      },
+      {
+       "t": "open",
+       "q": "Ziad says, \"If you subtract one natural number from another natural number, the answer is always a natural number.\" Is Ziad correct? Give an example to support your answer.",
+       "m": 2,
+       "s": "Number types",
+       "ms": "1 mark: No / not correct. 1 mark: a correct counter-example where the answer is zero or negative, e.g. 3 − 8 = −5 (−5 is an integer, not a natural number). The example must be correct for the mark.",
+       "e": "Ziad is not correct. Example: 3 − 8 = −5, and −5 is not a natural number (it is an integer). It is only sometimes true — e.g. 8 − 3 = 5 is natural. This is why we need the integers."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Natural numbers ⊂ integers ⊂ rational numbers. Every natural number is an integer; every integer is rational (n = n/1).",
+    "A rational number can be written as a fraction of two integers: terminating and recurring decimals are rational.",
+    "Same base, multiply → add the indices: a^{m} × a^{n} = a^{m + n}.",
+    "Same base, divide → subtract the indices: a^{m} ÷ a^{n} = a^{m − n}.",
+    "a^{0} = 1 (a ≠ 0). Different bases do not combine — work out each power."
+   ]
+  }
+ ]
+}

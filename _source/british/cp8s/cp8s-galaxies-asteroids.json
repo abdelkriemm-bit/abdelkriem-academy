@@ -1,0 +1,605 @@
+{
+ "slug": "cp8s-galaxies-asteroids",
+ "title": "Galaxies and Asteroids",
+ "kicker": "Cambridge Lower Secondary · Science 0893 · Stage 8 · Earth and Space",
+ "summary": "What a galaxy is made of — stars, planetary systems, dust and gas — and how asteroids formed from rocks left over when the Solar System formed, with diagrams, worked examples and a Checkpoint-style quiz.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Describe a galaxy: a huge group of stars and planetary systems, with clouds of dust and gas between them (stellar dust and gas). (8ESs.01)",
+    "Describe asteroids as rocks that are smaller than planets, and explain that they formed from rocks left over when a planetary system formed. (8ESs.02)"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "star",
+     "نجم — a huge ball of hot gas that gives out its own light, like the Sun"
+    ],
+    [
+     "planet",
+     "كوكب — a large, round object that orbits a star and does not give out its own light"
+    ],
+    [
+     "orbit",
+     "مدار / يدور حول — the path of one object around another"
+    ],
+    [
+     "planetary system",
+     "نظام كوكبي — a star and all the planets and smaller objects that orbit it"
+    ],
+    [
+     "Solar System",
+     "المجموعة الشمسية — our planetary system: the Sun, eight planets, moons, asteroids and comets"
+    ],
+    [
+     "galaxy",
+     "مجرة — a huge group of stars, planetary systems, dust and gas held together by gravity"
+    ],
+    [
+     "the Milky Way",
+     "درب التبانة — the galaxy we live in"
+    ],
+    [
+     "stellar dust",
+     "غبار نجمي — tiny solid grains floating between the stars"
+    ],
+    [
+     "nebula (plural nebulae)",
+     "سديم — a cloud of dust and gas in space where new stars form"
+    ],
+    [
+     "gravity",
+     "الجاذبية — the force of attraction between all objects with mass"
+    ],
+    [
+     "asteroid",
+     "كويكب — a rocky object, smaller than a planet, that orbits the Sun"
+    ],
+    [
+     "asteroid belt",
+     "حزام الكويكبات — the region between Mars and Jupiter where most asteroids orbit"
+    ],
+    [
+     "Universe",
+     "الكون — everything that exists: all the galaxies and the space between them"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "2. What is a galaxy?"
+  },
+  {
+   "type": "p",
+   "text": "A **galaxy** is an enormous group of **stars**, **planetary systems** and clouds of **dust and gas**, all held together by **gravity**. Our Sun is just one star in a galaxy called the **Milky Way**."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Part of a galaxy",
+    "What it is"
+   ],
+   "rows": [
+    [
+     "**Stars**",
+     "Huge balls of hot gas that give out light. A galaxy can have millions to hundreds of billions of stars. The Milky Way has more than 100 billion."
+    ],
+    [
+     "**Planetary systems**",
+     "Many stars have planets and other objects orbiting them. Our planetary system is the Solar System. Astronomers have already found more than 5000 planets orbiting other stars."
+    ],
+    [
+     "**Stellar dust**",
+     "Tiny solid grains (a bit like soot and very fine sand) spread between the stars."
+    ],
+    [
+     "**Gas**",
+     "Mostly **hydrogen** and **helium**. Where dust and gas gather into big clouds (**nebulae**), gravity can pull them together to make **new stars and planets**."
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "A full-mark description of a galaxy",
+   "text": "A galaxy is a very large group of **stars** and their **planetary systems**, with **dust and gas** between them, held together by **gravity**."
+  },
+  {
+   "type": "h2",
+   "text": "3. Our galaxy — the Milky Way"
+  },
+  {
+   "type": "p",
+   "text": "The Milky Way is a **spiral galaxy**: from above it would look like a flat, spinning disc with a bulge of stars in the centre and long curved **spiral arms**. The arms are full of stars, dust and gas. The Sun is in one of the arms, about halfway from the centre to the edge."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 330\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\" fill=\"#0f1b33\"><circle cx=\"150\" cy=\"160\" r=\"130\" fill=\"#f4f6fb\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><polyline points=\"172,160 172.7,164.6 172.4,169.5 171.1,174.4 168.7,179.3 165.3,183.8 160.8,187.7 155.3,190.8 149,192.8 142.2,193.6 134.9,193 127.6,190.8 120.4,187.1 113.9,181.7 108.3,174.8 103.9,166.6 101.1,157.1 100.2,146.8 101.5,136.1 105,125.2 110.9,114.7 119.2,105.2 129.7,97.1 142.2,91 156.4,87.2 171.8,86.4 187.8,88.7 203.9,94.4 219.2,103.7 233.1,116.4 244.7,132.5 253.3,151.4 258.2,172.7 258.9,195.7 254.7,219.5\" fill=\"none\" stroke=\"#b7c6dd\" stroke-width=\"14\"/><polyline points=\"128,160 127.3,155.4 127.6,150.5 128.9,145.6 131.3,140.7 134.7,136.2 139.2,132.3 144.7,129.2 151,127.2 157.8,126.4 165.1,127 172.4,129.2 179.6,132.9 186.1,138.3 191.7,145.2 196.1,153.4 198.9,162.9 199.8,173.2 198.5,183.9 195,194.8 189.1,205.3 180.8,214.8 170.3,222.9 157.8,229 143.6,232.8 128.2,233.6 112.2,231.3 96.1,225.6 80.8,216.3 66.9,203.6 55.3,187.5 46.7,168.6 41.8,147.3 41.1,124.3 45.3,100.5\" fill=\"none\" stroke=\"#b7c6dd\" stroke-width=\"14\"/><path d=\"M174 163h0M176 166h0M176 171h0M166 164h0M179 172h0M178 164h0M171 171h0M172 175h0M162 175h0M166 185h0M169 179h0M169 179h0M162 182h0M154 193h0M151 187h0M162 196h0M146 199h0M150 195h0M138 200h0M145 200h0M140 190h0M133 188h0M123 185h0M125 192h0M113 190h0M118 184h0M118 181h0M111 181h0M111 169h0M115 168h0M107 171h0M97 171h0M99 158h0M94 151h0M96 153h0M96 150h0M107 142h0M99 134h0M105 129h0M100 129h0M115 120h0M104 121h0M113 103h0M121 111h0M127 103h0M130 94h0M140 86h0M136 86h0M159 94h0M152 81h0M179 87h0M170 83h0M189 93h0M187 88h0M198 100h0M197 94h0M224 99h0M222 110h0M235 120h0M228 116h0M240 137h0M242 132h0M260 156h0M260 151h0M258 176h0M258 170h0M258 191h0M257 203h0M261 221h0M255 217h0M122 157h0M132 165h0M125 159h0M131 158h0M130 154h0M126 153h0M126 145h0M133 148h0M128 147h0M133 142h0M128 137h0M131 139h0M139 137h0M141 136h0M143 131h0M148 134h0M149 132h0M156 130h0M165 133h0M158 127h0M160 132h0M171 127h0M175 132h0M176 125h0M183 134h0M182 132h0M188 142h0M188 141h0M185 140h0M191 147h0M192 156h0M198 147h0M198 159h0M193 158h0M197 169h0M195 167h0M198 182h0M200 185h0M191 200h0M188 193h0M186 204h0M184 210h0M179 208h0M182 209h0M171 221h0M171 229h0M162 228h0M162 231h0M142 228h0M145 234h0M135 240h0M130 232h0M118 224h0M107 232h0M98 221h0M98 231h0M79 215h0M77 213h0M74 202h0M73 209h0M57 184h0M62 187h0M46 166h0M53 168h0M39 147h0M36 149h0M40 121h0M45 129h0M38 101h0M42 107h0\" stroke=\"#2b5fa8\" stroke-width=\"2.8\" stroke-linecap=\"round\" fill=\"none\"/><circle cx=\"150\" cy=\"160\" r=\"22\" fill=\"#ffe9a8\" stroke=\"#d9822b\" stroke-width=\"1.5\"/><circle cx=\"195\" cy=\"194.8\" r=\"6\" fill=\"#c0392b\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"166\" cy=\"144\" r=\"3\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"166\" y1=\"144\" x2=\"294\" y2=\"65\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"300\" y=\"70\">Central bulge:</text><text x=\"300\" y=\"90\">many old stars</text><circle cx=\"195\" cy=\"194.8\" r=\"3\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"195\" y1=\"194.8\" x2=\"294\" y2=\"187\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"300\" y=\"192\">The Sun and</text><text x=\"300\" y=\"212\">Solar System</text><circle cx=\"254.7\" cy=\"219.5\" r=\"3\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"254.7\" y1=\"219.5\" x2=\"294\" y2=\"257\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"300\" y=\"262\">Spiral arm: stars,</text><text x=\"300\" y=\"282\">dust and gas</text><text x=\"150\" y=\"318\" text-anchor=\"middle\">The Milky Way seen from above (model)</text></svg>",
+   "caption": "A model of the Milky Way seen from above. We can never see it like this, because we are inside it."
+  },
+  {
+   "type": "list",
+   "items": [
+    "The Milky Way is about **100 000 light-years** across. A **light-year** is the distance light travels in one year — about 9.5 million million km. Light is the fastest thing there is, yet it would take 100 000 years to cross our galaxy.",
+    "The Sun takes about 230 million years to travel once around the centre of the galaxy.",
+    "On a very dark night, far from city lights (for example in the Western Desert or Sinai), you can see the Milky Way as a pale band of light across the sky. That band is the light of billions of distant stars in the disc of our galaxy, seen from the inside.",
+    "The dark patches in the band are clouds of **dust** blocking the light of the stars behind them."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Other galaxies:** the Universe contains at least hundreds of billions of galaxies. They have different shapes:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Type",
+    "Shape",
+    "Example"
+   ],
+   "rows": [
+    [
+     "Spiral",
+     "Flat disc with spiral arms and a central bulge",
+     "The Milky Way; the Andromeda Galaxy (about 2.5 million light-years away)"
+    ],
+    [
+     "Elliptical",
+     "Smooth, oval or round ball of stars, with little dust and gas",
+     "Many of the largest galaxies"
+    ],
+    [
+     "Irregular",
+     "No clear shape",
+     "The Large and Small Magellanic Clouds, small galaxies near the Milky Way"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "It helps to see how all these objects fit inside each other:"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 300\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\" fill=\"#0f1b33\"><rect x=\"10\" y=\"10\" width=\"460\" height=\"280\" rx=\"12\" fill=\"#f4f6fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"24\" y=\"36\" font-weight=\"bold\">The Universe: hundreds of billions of galaxies</text><rect x=\"30\" y=\"50\" width=\"420\" height=\"220\" rx=\"12\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"44\" y=\"76\">A galaxy (e.g. the Milky Way)</text><rect x=\"50\" y=\"90\" width=\"380\" height=\"160\" rx=\"12\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"64\" y=\"116\">A planetary system (e.g. the Solar System)</text><rect x=\"70\" y=\"130\" width=\"340\" height=\"100\" rx=\"12\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"84\" y=\"156\">A star (the Sun) and its planets</text><text x=\"240\" y=\"192\" text-anchor=\"middle\">Planet (the Earth), moons</text><text x=\"240\" y=\"214\" text-anchor=\"middle\">asteroids, comets</text></svg>",
+   "caption": "From small to large: a planet orbits a star; a star and its planets make a planetary system; billions of planetary systems and stars make a galaxy; billions of galaxies make the Universe."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "المجرة يعني إيه؟",
+   "text": "**المجرة** = مجموعة ضخمة جدًا من **النجوم** و**الأنظمة الكوكبية** (نجم وحواليه كواكب) و**غبار وغاز** بين النجوم، وكلهم مربوطين ببعض بـ**الجاذبية**. إحنا عايشين في مجرة اسمها **درب التبانة**، والشمس نجم واحد بس من أكتر من ١٠٠ مليار نجم فيها. الترتيب من الأصغر: كوكب ← نجم ← نظام كوكبي ← مجرة ← الكون."
+  },
+  {
+   "type": "h2",
+   "text": "4. What is an asteroid?"
+  },
+  {
+   "type": "p",
+   "text": "An **asteroid** is a lump of **rock** (some also contain a lot of metal, such as iron and nickel) that orbits the Sun. Asteroids are **much smaller than planets**. Most are not round: they are lumpy, like potatoes, because their gravity is too weak to pull them into a ball."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Asteroid",
+    "Approximate diameter"
+   ],
+   "rows": [
+    [
+     "Ceres (the largest; now also called a dwarf planet)",
+     "940 km"
+    ],
+    [
+     "Vesta",
+     "525 km"
+    ],
+    [
+     "Pallas",
+     "510 km"
+    ],
+    [
+     "Most asteroids",
+     "less than 1 km"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Compare these with the Earth, which is about 12 700 km across. Even all the asteroids in the asteroid belt put together have only a few per cent of the mass of our Moon."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Most asteroids orbit the Sun in the **asteroid belt**, between the orbits of **Mars** and **Jupiter**. There are more than a million asteroids bigger than 1 km there.",
+    "In films the asteroid belt is crowded, but really the asteroids are very far apart — spacecraft have flown through it without hitting anything.",
+    "Some asteroids have orbits that come close to the Earth. About 66 million years ago an asteroid roughly 10 km wide hit the Earth, and scientists link it to the extinction of the dinosaurs. Today astronomers track near-Earth asteroids, and in 2022 a spacecraft (the DART mission) crashed into a small asteroid and changed its orbit."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 300\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\" fill=\"#0f1b33\"><circle cx=\"10\" cy=\"280\" r=\"34\" fill=\"#ffd84d\" stroke=\"#c99a00\" stroke-width=\"2\"/><path d=\"M248 206h0M279 228h0M228 129h0M169 115h0M184 133h0M235 231h0M89 36h0M226 188h0M49 11h0M224 118h0M305 235h0M264 142h0M238 221h0M90 45h0M157 92h0M233 123h0M272 233h0M223 195h0M223 104h0M162 83h0M236 153h0M145 30h0M161 90h0M74 24h0M256 147h0M299 205h0M113 45h0M178 114h0M127 84h0M186 59h0M261 133h0M176 58h0M210 101h0M52 -5h0M145 57h0M118 78h0M32 7h0M263 145h0M140 62h0M177 127h0M240 221h0M99 68h0M223 181h0M73 34h0M183 127h0M72 21h0M84 3h0M202 126h0M68 35h0M294 192h0M228 184h0M184 111h0M251 161h0M185 138h0M169 84h0M154 21h0M161 64h0M282 235h0M119 8h0M111 8h0M212 126h0M139 86h0M236 238h0M239 205h0M257 240h0M225 213h0M202 148h0M66 60h0M269 201h0M214 147h0M254 215h0M33 -8h0M196 99h0M235 227h0M234 168h0M283 191h0M41 55h0M263 203h0M274 247h0M36 17h0\" stroke=\"#7b6a58\" stroke-width=\"3.6\" stroke-linecap=\"round\" fill=\"none\"/><polyline points=\"130,280 129.8,273.7 129.3,267.5 128.5,261.2 127.4,255.1 125.9,248.9 124.1,242.9 122,237 119.6,231.2 116.9,225.5 113.9,220 110.6,214.6 107.1,209.5 103.3,204.5 99.2,199.7 94.9,195.1 90.3,190.8 85.5,186.7 80.5,182.9 75.4,179.4 70,176.1 64.5,173.1 58.8,170.4 53,168 47.1,165.9 41.1,164.1 34.9,162.6 28.8,161.5 22.5,160.7 16.3,160.2 10,160\" fill=\"none\" stroke=\"#9aa6b8\" stroke-width=\"1.2\" stroke-dasharray=\"5 4\"/><polyline points=\"185,280 184.8,270.8 184,261.7 182.8,252.6 181.2,243.6 179,234.7 176.4,225.9 173.4,217.3 169.9,208.8 165.9,200.6 161.6,192.5 156.8,184.7 151.6,177.1 146,169.9 140.1,162.9 133.7,156.3 127.1,149.9 120.1,144 112.9,138.4 105.3,133.2 97.5,128.4 89.4,124.1 81.2,120.1 72.7,116.6 64.1,113.6 55.3,111 46.4,108.8 37.4,107.2 28.3,106 19.2,105.2 10,105\" fill=\"none\" stroke=\"#9aa6b8\" stroke-width=\"1.2\" stroke-dasharray=\"5 4\"/><polyline points=\"400,280 399.5,259.6 397.9,239.2 395.2,219 391.5,198.9 386.7,179.1 380.9,159.5 374.1,140.2 366.3,121.4 357.5,102.9 347.7,85 337.1,67.6 325.5,50.8 313.1,34.6 299.8,19 285.8,4.2 271,-9.8 255.4,-23.1 239.2,-35.5 222.4,-47.1 205,-57.7 187.1,-67.5 168.6,-76.3 149.8,-84.1 130.5,-90.9 110.9,-96.7 91.1,-101.5 71,-105.2 50.8,-107.9 30.4,-109.5 10,-110\" fill=\"none\" stroke=\"#9aa6b8\" stroke-width=\"1.2\" stroke-dasharray=\"5 4\"/><circle cx=\"78.8\" cy=\"181.7\" r=\"7\" fill=\"#4f8fd6\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"161.6\" cy=\"192.5\" r=\"5\" fill=\"#c9603a\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"308.8\" cy=\"29.3\" r=\"16\" fill=\"#e0b27a\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"90.8\" y=\"173.7\">Earth</text><text x=\"171.6\" y=\"184.5\">Mars</text><text x=\"328.8\" y=\"35.3\">Jupiter</text><text x=\"50\" y=\"272\">Sun</text><line x1=\"222\" y1=\"86\" x2=\"260\" y2=\"128\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"218\" y=\"70\" text-anchor=\"middle\" font-weight=\"bold\">asteroid belt</text><text x=\"470\" y=\"292\" text-anchor=\"end\">not to scale</text></svg>",
+   "caption": "Most asteroids orbit the Sun between Mars and Jupiter, in the asteroid belt. (Mercury, Venus and the planets beyond Jupiter are not shown.)"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Object",
+    "What it is",
+    "Do not confuse because…"
+   ],
+   "rows": [
+    [
+     "**Asteroid**",
+     "Rock (and metal) orbiting the Sun, smaller than a planet",
+     "—"
+    ],
+    [
+     "Comet",
+     "A lump of **ice and dust**; it grows a glowing tail when it comes close to the Sun",
+     "Comets are icy, asteroids are rocky"
+    ],
+    [
+     "Meteor",
+     "The streak of light (\"shooting star\") made when a small piece of rock burns up in the Earth's atmosphere",
+     "A meteor is the light, not the rock"
+    ],
+    [
+     "Meteorite",
+     "A piece of space rock that lands on the Earth's surface",
+     "Many meteorites are small pieces of asteroids"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "5. How asteroids formed"
+  },
+  {
+   "type": "p",
+   "text": "To understand asteroids, look at how a planetary system such as the Solar System forms. Scientists think this happened about **4.6 billion years ago**:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A huge cloud of **dust and gas** (a nebula) in the galaxy began to collapse because of **gravity**.",
+    "As it shrank, it began to spin and flattened into a **disc**.",
+    "Most of the material was pulled to the centre and became hot enough to form a **star** — the Sun.",
+    "In the disc, dust grains stuck together to make small rocks; rocks crashed together and joined to make bigger rocks; the biggest pulled in more material by gravity and grew into **planets**.",
+    "**Not all the rocks became part of a planet.** The rocks **left over** are the **asteroids**.",
+    "Between Mars and Jupiter, the very strong gravity of the giant planet **Jupiter** kept stirring the rocks up, so they crashed and broke instead of joining together. That is why there is an asteroid belt there instead of another planet."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 400\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\" fill=\"#0f1b33\"><rect x=\"4\" y=\"4\" width=\"232\" height=\"192\" rx=\"8\" fill=\"#f9fafc\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><path d=\"M67 64h0M41 90h0M69 57h0M84 76h0M138 35h0M112 94h0M129 62h0M188 90h0M201 66h0M69 48h0M153 80h0M177 93h0M122 102h0M106 80h0M151 47h0M82 47h0M89 44h0M110 115h0M204 76h0M100 28h0M126 109h0M161 91h0M60 107h0M62 112h0M167 33h0M120 79h0M41 88h0M54 111h0M104 67h0M111 127h0M108 92h0M124 23h0M121 97h0M145 85h0M153 123h0M61 92h0M116 54h0M101 62h0M95 87h0M115 104h0M147 26h0M155 58h0M90 94h0M71 38h0M147 77h0M118 104h0M85 121h0M161 92h0M98 70h0M87 62h0M71 88h0M38 84h0M163 46h0M140 98h0M153 29h0\" stroke=\"#8a7a68\" stroke-width=\"3.2\" stroke-linecap=\"round\" fill=\"none\"/><text x=\"120\" y=\"150\" text-anchor=\"middle\">1. A cloud of</text><text x=\"120\" y=\"170\" text-anchor=\"middle\">dust and gas</text><rect x=\"244\" y=\"4\" width=\"232\" height=\"192\" rx=\"8\" fill=\"#f9fafc\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><ellipse cx=\"360\" cy=\"78\" rx=\"95\" ry=\"30\" fill=\"none\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><circle cx=\"360\" cy=\"78\" r=\"8\" fill=\"#ffe9a8\" stroke=\"#d9822b\" stroke-width=\"1\"/><line x1=\"420\" y1=\"118\" x2=\"387.2\" y2=\"118\" stroke=\"#2b5fa8\" stroke-width=\"2\"/><polygon points=\"380,118 388.2,114.3 388.2,121.7\" fill=\"#2b5fa8\"/><path d=\"M370 86h0M425 70h0M382 76h0M295 62h0M394 86h0M369 77h0M353 70h0M373 70h0M345 96h0M356 71h0M362 82h0M392 64h0M349 96h0M384 104h0M359 80h0M401 83h0M346 83h0M397 91h0M389 70h0M310 54h0M304 67h0M378 79h0M366 77h0M424 73h0M355 76h0M354 63h0M393 78h0M348 77h0M416 65h0M340 57h0M424 66h0M346 67h0M418 59h0M371 65h0M288 67h0M316 91h0M317 67h0M352 75h0M427 58h0M308 92h0M300 67h0M383 66h0M360 74h0M353 76h0M366 93h0M294 78h0M412 69h0M388 79h0M346 69h0M371 85h0M315 55h0M394 69h0M343 69h0M339 81h0M425 66h0\" stroke=\"#8a7a68\" stroke-width=\"3.2\" stroke-linecap=\"round\" fill=\"none\"/><text x=\"360\" y=\"150\" text-anchor=\"middle\">2. Gravity pulls it into</text><text x=\"360\" y=\"170\" text-anchor=\"middle\">a spinning disc</text><rect x=\"4\" y=\"204\" width=\"232\" height=\"192\" rx=\"8\" fill=\"#f9fafc\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><ellipse cx=\"120\" cy=\"278\" rx=\"95\" ry=\"30\" fill=\"none\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><circle cx=\"120\" cy=\"278\" r=\"13\" fill=\"#ffd84d\" stroke=\"#c99a00\" stroke-width=\"1.5\"/><circle cx=\"90\" cy=\"280\" r=\"4\" fill=\"#4f8fd6\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"72\" cy=\"280\" r=\"4\" fill=\"#c9603a\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"34\" cy=\"280\" r=\"9\" fill=\"#e0b27a\" stroke=\"#0f1b33\" stroke-width=\"1\"/><path d=\"M58 296h0M96 296h0M94 278h0M166 257h0M187 271h0M138 288h0M112 294h0M92 283h0M56 279h0M141 267h0M33 287h0M141 279h0M200 285h0M57 268h0M130 266h0M131 282h0M170 281h0M126 303h0M146 280h0M60 285h0M84 261h0M195 272h0M141 299h0M143 293h0M103 279h0M150 298h0\" stroke=\"#8a7a68\" stroke-width=\"3.2\" stroke-linecap=\"round\" fill=\"none\"/><text x=\"120\" y=\"350\" text-anchor=\"middle\">3. A star forms; planets</text><text x=\"120\" y=\"370\" text-anchor=\"middle\">grow from clumps</text><rect x=\"244\" y=\"204\" width=\"232\" height=\"192\" rx=\"8\" fill=\"#f9fafc\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><ellipse cx=\"360\" cy=\"278\" rx=\"95\" ry=\"30\" fill=\"none\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><circle cx=\"360\" cy=\"278\" r=\"13\" fill=\"#ffd84d\" stroke=\"#c99a00\" stroke-width=\"1.5\"/><circle cx=\"330\" cy=\"280\" r=\"4\" fill=\"#4f8fd6\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"312\" cy=\"280\" r=\"4\" fill=\"#c9603a\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"274\" cy=\"280\" r=\"9\" fill=\"#e0b27a\" stroke=\"#0f1b33\" stroke-width=\"1\"/><path d=\"M323 295h0M290 275h0M363 256h0M377 257h0M422 290h0M347 255h0M299 284h0M419 266h0M300 269h0M381 256h0M289 283h0M380 299h0M389 257h0M346 256h0M412 266h0M433 275h0M377 257h0M416 267h0M318 297h0M301 285h0M368 256h0M427 282h0M426 287h0M393 298h0\" stroke=\"#8a7a68\" stroke-width=\"4.4\" stroke-linecap=\"round\" fill=\"none\"/><text x=\"360\" y=\"350\" text-anchor=\"middle\">4. Leftover rocks</text><text x=\"360\" y=\"370\" text-anchor=\"middle\">= asteroids</text></svg>",
+   "caption": "How a planetary system forms. Asteroids are the rocks left over after the planets formed."
+  },
+  {
+   "type": "p",
+   "text": "Because asteroids have hardly changed since then, they are like **time capsules**. Spacecraft from Japan and the USA have collected tiny samples from asteroids and brought them back to the Earth to learn what the early Solar System was made of."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الكويكب يعني إيه؟",
+   "text": "**الكويكب** = صخرة (وأحيانًا فيها معادن) بتدور حوالين الشمس، و**أصغر بكتير من الكواكب**. أغلب الكويكبات في **حزام الكويكبات** بين **المريخ** و**المشتري**. اتكونت من **الصخور اللي فضلت** بعد ما الكواكب اتكونت من سحابة الغبار والغاز، وجاذبية المشتري منعتها تتجمع وتعمل كوكب."
+  },
+  {
+   "type": "h2",
+   "text": "6. Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — Describe what a galaxy is made of. [3]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Stars (1).",
+    "Planetary systems / planets orbiting stars (1).",
+    "Dust and gas (clouds of stellar dust and gas) (1).",
+    "Extra detail that helps: they are all held together by **gravity**.",
+    "**Common mistake:** \"a galaxy is a group of planets\". Planets are only part of it — the main things are **stars**, plus dust and gas."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — Write these in order of size, starting with the smallest: **galaxy, planet, Universe, star, planetary system**. [2]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Think about what is inside what: a planet orbits a star; a star with its planets is a planetary system; billions of these make a galaxy; all the galaxies are in the Universe.",
+    "Answer: **planet → star → planetary system → galaxy → Universe** (2 marks; 1 mark if only one pair is swapped).",
+    "**Common mistake:** putting the Solar System before the Sun. The Solar System *contains* the Sun, so it is bigger."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — Give **two** ways in which asteroids are different from planets. [2]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Any two: asteroids are much **smaller** (1); most are **not round** / irregular in shape (1); there are millions of asteroids but only eight planets (1); most asteroids orbit together in a belt, but each planet has its own orbit (1).",
+    "**Exam tip:** \"Asteroids are rocks\" is not a difference by itself — Mercury, Venus, Earth and Mars are rocky too. Say **smaller**."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — Describe how the asteroids in the asteroid belt formed. [3]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "The Solar System formed from a cloud of dust and gas; the dust stuck together to make rocks (1).",
+    "Most rocks joined together to make planets, but some were **left over** — these are the asteroids (1).",
+    "Between Mars and Jupiter, **Jupiter's gravity** stopped the rocks from joining to form a planet (1).",
+    "**Common mistake:** \"asteroids are pieces of a planet that exploded\". There is no evidence for this; they are left-over building material."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — The Earth's diameter is about 12 700 km. Vesta's diameter is about 525 km. How many times wider is the Earth than Vesta? Give your answer to the nearest whole number. [2]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "12 700 ÷ 525 (1)",
+    "= 24.19… ≈ **24 times** (1)",
+    "This shows why asteroids are described as **much smaller than planets**."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** — A teacher says: \"The Milky Way is like a huge city. Each house is a planetary system, and the people in the house are the star and its planets.\" (a) Give one way the analogy is useful. [1] (b) Give one way it is **not** like a real galaxy. [1]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "(a) It shows that a galaxy is made of a very large number of planetary systems grouped together / that a planetary system is a small part of the galaxy (1).",
+    "(b) Any one: a city has no clouds of dust and gas between the houses / a galaxy is held together by gravity, a city is not / the planetary systems in a galaxy are extremely far apart compared with houses (1).",
+    "**Exam tip:** an analogy is a model. For a strength say what it **shows correctly**; for a weakness say what is **different in the real thing**."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Mixing up **galaxy** and **Solar System**. The Solar System is one star and its planets; a galaxy has billions of stars.",
+    "Describing a galaxy as \"a group of planets\". Always name **stars**, **planetary systems**, and **dust and gas**.",
+    "Saying asteroids are in a belt between **Earth and Mars**. The asteroid belt is between **Mars and Jupiter**.",
+    "Mixing up asteroids (rock) and **comets** (ice and dust with a tail).",
+    "Saying asteroids came from a planet that broke apart. They are rocks **left over** from when the planets formed.",
+    "Giving a difference that is not a difference: \"asteroids are made of rock\" (so are the rocky planets). Say **smaller** or **irregular shape**."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "**Describe** a galaxy (2–3 marks): one mark for each correct part — stars, planetary systems, dust and gas.",
+    "**Order** objects by size, or **match** words (star, planet, galaxy, asteroid) to descriptions with lines.",
+    "**Label a diagram** of the Solar System: where is the asteroid belt?",
+    "**Explain** how asteroids formed — use the words **left over** and **formation of the Solar System / planetary system**.",
+    "**Use data** in a table (diameters, distances) to compare asteroids with planets — calculator allowed, show working.",
+    "**Analogies and models** (8TWSm.01): give a strength and a limitation of a model of a galaxy or of the Solar System."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Galaxies and asteroids — practice",
+   "timed": false,
+   "intro": "Answer every part. Type short answers in the box; for longer answers write yours on paper, then mark it with the mark scheme.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 20,
+     "calc": true,
+     "questions": [
+      {
+       "q": "Which is the best description of a galaxy?",
+       "c": [
+        "One star with planets orbiting it",
+        "A huge group of stars, planetary systems, dust and gas held together by gravity",
+        "The empty space between the planets",
+        "A ball of ice and dust with a long tail"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Galaxies",
+       "e": "A galaxy contains **stars**, **planetary systems** and **dust and gas**, held together by gravity. One star with its planets is a planetary system; a ball of ice and dust with a tail is a comet."
+      },
+      {
+       "t": "text",
+       "q": "What is the name of the galaxy that contains our Solar System?",
+       "ans": [
+        "Milky Way",
+        "the Milky Way",
+        "milkyway"
+       ],
+       "m": 1,
+       "s": "Galaxies",
+       "e": "We live in the **Milky Way**, a spiral galaxy. The Sun is in one of its spiral arms."
+      },
+      {
+       "q": "Which list is in order of size, from **smallest** to **largest**?",
+       "c": [
+        "planet, star, galaxy, planetary system",
+        "star, planet, planetary system, galaxy",
+        "planet, star, planetary system, galaxy",
+        "galaxy, planetary system, star, planet"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Galaxies",
+       "e": "A planet is smaller than its star; a star plus its planets makes a planetary system; billions of these make a galaxy: **planet, star, planetary system, galaxy**."
+      },
+      {
+       "p": "Question 4\nThe diagram shows part of the Solar System. It is not drawn to scale.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 300\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\" fill=\"#0f1b33\"><circle cx=\"10\" cy=\"280\" r=\"34\" fill=\"#ffd84d\" stroke=\"#c99a00\" stroke-width=\"2\"/><path d=\"M248 206h0M279 228h0M228 129h0M169 115h0M184 133h0M235 231h0M89 36h0M226 188h0M49 11h0M224 118h0M305 235h0M264 142h0M238 221h0M90 45h0M157 92h0M233 123h0M272 233h0M223 195h0M223 104h0M162 83h0M236 153h0M145 30h0M161 90h0M74 24h0M256 147h0M299 205h0M113 45h0M178 114h0M127 84h0M186 59h0M261 133h0M176 58h0M210 101h0M52 -5h0M145 57h0M118 78h0M32 7h0M263 145h0M140 62h0M177 127h0M240 221h0M99 68h0M223 181h0M73 34h0M183 127h0M72 21h0M84 3h0M202 126h0M68 35h0M294 192h0M228 184h0M184 111h0M251 161h0M185 138h0M169 84h0M154 21h0M161 64h0M282 235h0M119 8h0M111 8h0M212 126h0M139 86h0M236 238h0M239 205h0M257 240h0M225 213h0M202 148h0M66 60h0M269 201h0M214 147h0M254 215h0M33 -8h0M196 99h0M235 227h0M234 168h0M283 191h0M41 55h0M263 203h0M274 247h0M36 17h0\" stroke=\"#7b6a58\" stroke-width=\"3.6\" stroke-linecap=\"round\" fill=\"none\"/><polyline points=\"130,280 129.8,273.7 129.3,267.5 128.5,261.2 127.4,255.1 125.9,248.9 124.1,242.9 122,237 119.6,231.2 116.9,225.5 113.9,220 110.6,214.6 107.1,209.5 103.3,204.5 99.2,199.7 94.9,195.1 90.3,190.8 85.5,186.7 80.5,182.9 75.4,179.4 70,176.1 64.5,173.1 58.8,170.4 53,168 47.1,165.9 41.1,164.1 34.9,162.6 28.8,161.5 22.5,160.7 16.3,160.2 10,160\" fill=\"none\" stroke=\"#9aa6b8\" stroke-width=\"1.2\" stroke-dasharray=\"5 4\"/><polyline points=\"185,280 184.8,270.8 184,261.7 182.8,252.6 181.2,243.6 179,234.7 176.4,225.9 173.4,217.3 169.9,208.8 165.9,200.6 161.6,192.5 156.8,184.7 151.6,177.1 146,169.9 140.1,162.9 133.7,156.3 127.1,149.9 120.1,144 112.9,138.4 105.3,133.2 97.5,128.4 89.4,124.1 81.2,120.1 72.7,116.6 64.1,113.6 55.3,111 46.4,108.8 37.4,107.2 28.3,106 19.2,105.2 10,105\" fill=\"none\" stroke=\"#9aa6b8\" stroke-width=\"1.2\" stroke-dasharray=\"5 4\"/><polyline points=\"400,280 399.5,259.6 397.9,239.2 395.2,219 391.5,198.9 386.7,179.1 380.9,159.5 374.1,140.2 366.3,121.4 357.5,102.9 347.7,85 337.1,67.6 325.5,50.8 313.1,34.6 299.8,19 285.8,4.2 271,-9.8 255.4,-23.1 239.2,-35.5 222.4,-47.1 205,-57.7 187.1,-67.5 168.6,-76.3 149.8,-84.1 130.5,-90.9 110.9,-96.7 91.1,-101.5 71,-105.2 50.8,-107.9 30.4,-109.5 10,-110\" fill=\"none\" stroke=\"#9aa6b8\" stroke-width=\"1.2\" stroke-dasharray=\"5 4\"/><circle cx=\"78.8\" cy=\"181.7\" r=\"7\" fill=\"#4f8fd6\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"161.6\" cy=\"192.5\" r=\"5\" fill=\"#c9603a\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"308.8\" cy=\"29.3\" r=\"16\" fill=\"#e0b27a\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"90.8\" y=\"173.7\" font-size=\"18\" font-weight=\"bold\">A</text><text x=\"171.6\" y=\"184.5\" font-size=\"18\" font-weight=\"bold\">B</text><rect x=\"193\" y=\"88\" width=\"24\" height=\"26\" rx=\"4\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"205\" y=\"107\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\">C</text><text x=\"328.8\" y=\"35.3\" font-size=\"18\" font-weight=\"bold\">D</text><text x=\"50\" y=\"272\">Sun</text><text x=\"470\" y=\"292\" text-anchor=\"end\">not to scale</text></svg>",
+       "q": "(a) Which letter shows the asteroid belt?",
+       "c": [
+        "A",
+        "B",
+        "C",
+        "D"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Asteroids",
+       "e": "**C** is in the region full of small rocks between the orbit of Mars (B) and the orbit of Jupiter (D). A is the Earth."
+      },
+      {
+       "t": "text",
+       "p": "Question 4\nThe diagram shows part of the Solar System. It is not drawn to scale.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 300\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\" fill=\"#0f1b33\"><circle cx=\"10\" cy=\"280\" r=\"34\" fill=\"#ffd84d\" stroke=\"#c99a00\" stroke-width=\"2\"/><path d=\"M248 206h0M279 228h0M228 129h0M169 115h0M184 133h0M235 231h0M89 36h0M226 188h0M49 11h0M224 118h0M305 235h0M264 142h0M238 221h0M90 45h0M157 92h0M233 123h0M272 233h0M223 195h0M223 104h0M162 83h0M236 153h0M145 30h0M161 90h0M74 24h0M256 147h0M299 205h0M113 45h0M178 114h0M127 84h0M186 59h0M261 133h0M176 58h0M210 101h0M52 -5h0M145 57h0M118 78h0M32 7h0M263 145h0M140 62h0M177 127h0M240 221h0M99 68h0M223 181h0M73 34h0M183 127h0M72 21h0M84 3h0M202 126h0M68 35h0M294 192h0M228 184h0M184 111h0M251 161h0M185 138h0M169 84h0M154 21h0M161 64h0M282 235h0M119 8h0M111 8h0M212 126h0M139 86h0M236 238h0M239 205h0M257 240h0M225 213h0M202 148h0M66 60h0M269 201h0M214 147h0M254 215h0M33 -8h0M196 99h0M235 227h0M234 168h0M283 191h0M41 55h0M263 203h0M274 247h0M36 17h0\" stroke=\"#7b6a58\" stroke-width=\"3.6\" stroke-linecap=\"round\" fill=\"none\"/><polyline points=\"130,280 129.8,273.7 129.3,267.5 128.5,261.2 127.4,255.1 125.9,248.9 124.1,242.9 122,237 119.6,231.2 116.9,225.5 113.9,220 110.6,214.6 107.1,209.5 103.3,204.5 99.2,199.7 94.9,195.1 90.3,190.8 85.5,186.7 80.5,182.9 75.4,179.4 70,176.1 64.5,173.1 58.8,170.4 53,168 47.1,165.9 41.1,164.1 34.9,162.6 28.8,161.5 22.5,160.7 16.3,160.2 10,160\" fill=\"none\" stroke=\"#9aa6b8\" stroke-width=\"1.2\" stroke-dasharray=\"5 4\"/><polyline points=\"185,280 184.8,270.8 184,261.7 182.8,252.6 181.2,243.6 179,234.7 176.4,225.9 173.4,217.3 169.9,208.8 165.9,200.6 161.6,192.5 156.8,184.7 151.6,177.1 146,169.9 140.1,162.9 133.7,156.3 127.1,149.9 120.1,144 112.9,138.4 105.3,133.2 97.5,128.4 89.4,124.1 81.2,120.1 72.7,116.6 64.1,113.6 55.3,111 46.4,108.8 37.4,107.2 28.3,106 19.2,105.2 10,105\" fill=\"none\" stroke=\"#9aa6b8\" stroke-width=\"1.2\" stroke-dasharray=\"5 4\"/><polyline points=\"400,280 399.5,259.6 397.9,239.2 395.2,219 391.5,198.9 386.7,179.1 380.9,159.5 374.1,140.2 366.3,121.4 357.5,102.9 347.7,85 337.1,67.6 325.5,50.8 313.1,34.6 299.8,19 285.8,4.2 271,-9.8 255.4,-23.1 239.2,-35.5 222.4,-47.1 205,-57.7 187.1,-67.5 168.6,-76.3 149.8,-84.1 130.5,-90.9 110.9,-96.7 91.1,-101.5 71,-105.2 50.8,-107.9 30.4,-109.5 10,-110\" fill=\"none\" stroke=\"#9aa6b8\" stroke-width=\"1.2\" stroke-dasharray=\"5 4\"/><circle cx=\"78.8\" cy=\"181.7\" r=\"7\" fill=\"#4f8fd6\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"161.6\" cy=\"192.5\" r=\"5\" fill=\"#c9603a\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"308.8\" cy=\"29.3\" r=\"16\" fill=\"#e0b27a\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"90.8\" y=\"173.7\" font-size=\"18\" font-weight=\"bold\">A</text><text x=\"171.6\" y=\"184.5\" font-size=\"18\" font-weight=\"bold\">B</text><rect x=\"193\" y=\"88\" width=\"24\" height=\"26\" rx=\"4\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"205\" y=\"107\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\">C</text><text x=\"328.8\" y=\"35.3\" font-size=\"18\" font-weight=\"bold\">D</text><text x=\"50\" y=\"272\">Sun</text><text x=\"470\" y=\"292\" text-anchor=\"end\">not to scale</text></svg>",
+       "q": "(b) Name the planet labelled D.",
+       "ans": [
+        "Jupiter"
+       ],
+       "m": 1,
+       "s": "Asteroids",
+       "e": "D is the large planet just outside the asteroid belt: **Jupiter**. (A is the Earth and B is Mars.)"
+      },
+      {
+       "q": "What are asteroids mainly made of?",
+       "c": [
+        "rock (some contain a lot of metal)",
+        "hydrogen and helium gas",
+        "ice, with a tail of dust",
+        "burning gas, like the Sun"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Asteroids",
+       "e": "Asteroids are **rocky** objects; some also contain metals such as iron and nickel. Icy objects with tails are comets; burning gas describes stars."
+      },
+      {
+       "q": "Where did the asteroids in the asteroid belt come from?",
+       "c": [
+        "Pieces knocked off the Earth by volcanoes",
+        "Rocks left over from when the planets of the Solar System formed",
+        "Old stars that cooled down and became solid",
+        "Pieces of the Moon"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Asteroids",
+       "e": "Asteroids are **rocks left over from the formation of the Solar System** — material that never became part of a planet."
+      },
+      {
+       "t": "text",
+       "q": "The gas in the clouds between the stars in a galaxy is mostly two gases. One is helium. Name the other.",
+       "ans": [
+        "hydrogen",
+        "H2",
+        "H₂",
+        "H"
+       ],
+       "m": 1,
+       "s": "Galaxies",
+       "e": "The gas between the stars is mostly **hydrogen**, with helium. Gravity can pull these clouds of gas and dust together to form new stars."
+      },
+      {
+       "t": "num",
+       "q": "Ceres is the largest asteroid. Its diameter is about 940 km. The Earth's diameter is about 12 740 km. How many times wider is the Earth than Ceres? Give your answer to the nearest whole number.",
+       "ans": [
+        14
+       ],
+       "tol": 0,
+       "m": 2,
+       "s": "Asteroids",
+       "e": "12 740 ÷ 940 (1) = 13.55… → **14** to the nearest whole number (1). Even the largest asteroid is tiny compared with a planet."
+      },
+      {
+       "t": "num",
+       "q": "The inner edge of the asteroid belt is about 330 million km from the Sun. The outer edge is about 480 million km from the Sun. How wide is the asteroid belt, in millions of km?",
+       "ans": [
+        150
+       ],
+       "tol": 0,
+       "unit": "million km",
+       "m": 1,
+       "s": "Asteroids",
+       "e": "480 − 330 = **150 million km**."
+      },
+      {
+       "t": "open",
+       "q": "Describe a galaxy. [3]",
+       "m": 3,
+       "s": "Galaxies",
+       "ms": "1 mark: (very large number of) stars. 1 mark: planetary systems / planets orbiting stars. 1 mark: (stellar) dust and gas / nebulae. Accept 'held together by gravity' as a third mark only if one of the other points is missing. Do not accept: 'a group of planets' on its own.",
+       "e": "A galaxy is a huge group of **stars** (1) and their **planetary systems** (1), with clouds of **dust and gas** between them (1), all held together by gravity."
+      },
+      {
+       "t": "open",
+       "q": "Explain how the asteroids in the asteroid belt formed. [3]",
+       "m": 3,
+       "s": "Asteroids",
+       "ms": "1 mark: the planetary system / Solar System formed from a cloud of dust and gas, and rocks formed from it. 1 mark: most rocks joined together to make the planets. 1 mark: some rocks were left over and did not join to make a planet — these are the asteroids (accept: rocks left over between Mars and Jupiter). Do not accept: 'from a planet that exploded'.",
+       "e": "When the Solar System formed, dust in the spinning cloud stuck together to make rocks (1). Most rocks joined to form planets, but some were **left over** — these are the asteroids (1). Between Mars and Jupiter, **Jupiter's strong gravity** stopped them joining to make another planet (1)."
+      },
+      {
+       "t": "open",
+       "q": "Scientists say that studying asteroids helps them to learn what the early Solar System was like. Explain why. [2]",
+       "m": 2,
+       "s": "Asteroids",
+       "ms": "1 mark: asteroids are rocks left over from when the Solar System / planets formed. 1 mark: they have hardly changed since then (unlike the surface of the Earth), so they show what the original material was made of. Accept: 'they are like time capsules' with an explanation.",
+       "e": "Asteroids are **left over from the formation of the Solar System** (1). They have changed very little in 4.6 billion years, so they still show what the **original building material** of the planets was made of (1)."
+      },
+      {
+       "q": "Which of these is the **smallest**?",
+       "c": [
+        "the Milky Way",
+        "the Sun",
+        "the Solar System",
+        "a typical asteroid"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Galaxies",
+       "e": "Most asteroids are less than 1 km across. The Sun is a star, the Solar System contains the Sun, and the Milky Way contains billions of stars — so **a typical asteroid** is the smallest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "A **galaxy** is a huge group of **stars**, **planetary systems** and **dust and gas**, held together by gravity.",
+    "We live in the **Milky Way**, a spiral galaxy; the Sun is one star in one of its arms.",
+    "Order of size: planet → star → planetary system → galaxy → Universe.",
+    "**Asteroids** are rocks (some with metal), **smaller than planets**, orbiting the Sun — most in the **asteroid belt** between **Mars and Jupiter**.",
+    "Asteroids are rocks **left over from the formation of the Solar System**; Jupiter's gravity stopped them from forming a planet."
+   ]
+  }
+ ]
+}

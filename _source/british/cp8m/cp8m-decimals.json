@@ -1,0 +1,678 @@
+{
+ "slug": "cp8m-decimals",
+ "title": "Ordering and Calculating with Decimals",
+ "kicker": "Checkpoint 8 Maths · Number · Decimals",
+ "summary": "Compare and order positive and negative decimals and fractions with =, ≠, >, <, ≤ and ≥, then estimate and multiply decimals by decimals and divide by numbers with one decimal place.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Understand how big decimals and fractions are — including **negative** ones — so you can compare and order them, and use the symbols =, ≠, >, <, ≤ and ≥ correctly (8Nf.06)",
+    "Estimate, then multiply decimals by whole numbers and by other decimals, e.g. 2.7 × 6, 0.4 × 0.03 and 3.6 × 1.25 (8Nf.07)",
+    "Estimate, then divide decimals by numbers with **one decimal place**, e.g. 7.56 ÷ 0.6 and 18 ÷ 0.4 (8Nf.08)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "In Stage 6 and 7 you added, subtracted, multiplied and divided decimals by whole numbers. In Stage 8 you go further: you compare negative decimals and fractions, you multiply a decimal by another decimal, and you divide by a decimal such as 0.6. The written methods are the ones you already know — the new skill is **knowing where the decimal point goes** and **checking with an estimate**."
+  },
+  {
+   "type": "h2",
+   "text": "Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "decimal place (d.p.)",
+     "خانة عشرية — a digit after the decimal point; 3.45 has 2 decimal places"
+    ],
+    [
+     "tenth, hundredth, thousandth",
+     "جزء من عشرة / من مئة / من ألف — 0.1, 0.01, 0.001"
+    ],
+    [
+     "negative number",
+     "عدد سالب — a number less than zero, e.g. −0.6"
+    ],
+    [
+     "compare / order",
+     "يقارن / يرتب — decide which is bigger; put numbers from smallest to largest (ascending) or largest to smallest (descending)"
+    ],
+    [
+     "inequality symbols",
+     "رموز المتباينة — > greater than, < less than, ≥ greater than or equal to, ≤ less than or equal to, ≠ not equal to"
+    ],
+    [
+     "estimate",
+     "تقدير — a quick rough answer using rounded numbers"
+    ],
+    [
+     "product",
+     "حاصل الضرب — the answer to a multiplication"
+    ],
+    [
+     "quotient",
+     "خارج القسمة — the answer to a division"
+    ],
+    [
+     "divisor",
+     "المقسوم عليه — the number you divide by (in 7.56 ÷ 0.6 the divisor is 0.6)"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. Comparing and ordering decimals"
+  },
+  {
+   "type": "p",
+   "text": "**Positive decimals.** Compare digit by digit from the left, place by place. It helps to give every number the same number of decimal places by writing zeros on the end — this does not change the value."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Compare",
+    "Write with the same d.p.",
+    "Look at the first different digit",
+    "Result"
+   ],
+   "rows": [
+    [
+     "0.507 and 0.57",
+     "0.507 and 0.570",
+     "tenths are equal (5); hundredths: 0 < 7",
+     "0.507 < 0.57"
+    ],
+    [
+     "2.4 and 2.399",
+     "2.400 and 2.399",
+     "tenths: 4 > 3",
+     "2.4 > 2.399"
+    ],
+    [
+     "0.08 and 0.080",
+     "0.080 and 0.080",
+     "all digits equal",
+     "0.08 = 0.080"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Negative decimals.** Think of a number line: numbers get **smaller as you move left**. −0.6 is closer to zero than −0.75, so −0.6 is the bigger number. A quick rule: for two negative numbers, the one that looks 'bigger' without its minus sign is actually **smaller**. Any positive number is bigger than any negative number."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 140\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"30\" y1=\"70\" x2=\"510\" y2=\"70\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"30\" y1=\"62\" x2=\"30\" y2=\"78\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"54\" y1=\"65\" x2=\"54\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"78\" y1=\"65\" x2=\"78\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"102\" y1=\"65\" x2=\"102\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"126\" y1=\"65\" x2=\"126\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"150\" y1=\"62\" x2=\"150\" y2=\"78\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"174\" y1=\"65\" x2=\"174\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"198\" y1=\"65\" x2=\"198\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"222\" y1=\"65\" x2=\"222\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"246\" y1=\"65\" x2=\"246\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"270\" y1=\"62\" x2=\"270\" y2=\"78\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"294\" y1=\"65\" x2=\"294\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"318\" y1=\"65\" x2=\"318\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"342\" y1=\"65\" x2=\"342\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"366\" y1=\"65\" x2=\"366\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"390\" y1=\"62\" x2=\"390\" y2=\"78\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"414\" y1=\"65\" x2=\"414\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"438\" y1=\"65\" x2=\"438\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"462\" y1=\"65\" x2=\"462\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"486\" y1=\"65\" x2=\"486\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"510\" y1=\"62\" x2=\"510\" y2=\"78\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"30\" y=\"98\" text-anchor=\"middle\" fill=\"#0f1b33\" font-size=\"14\">−1</text><text x=\"150\" y=\"98\" text-anchor=\"middle\" fill=\"#0f1b33\" font-size=\"14\">−0.5</text><text x=\"270\" y=\"98\" text-anchor=\"middle\" fill=\"#0f1b33\" font-size=\"14\">0</text><text x=\"390\" y=\"98\" text-anchor=\"middle\" fill=\"#0f1b33\" font-size=\"14\">0.5</text><text x=\"510\" y=\"98\" text-anchor=\"middle\" fill=\"#0f1b33\" font-size=\"14\">1</text><circle cx=\"90\" cy=\"70\" r=\"5\" fill=\"#c0392b\"/><line x1=\"90\" y1=\"27\" x2=\"90\" y2=\"63\" stroke=\"#c0392b\" stroke-width=\"1\"/><text x=\"90\" y=\"22\" text-anchor=\"middle\" fill=\"#c0392b\" font-size=\"14\" font-weight=\"bold\">−3/4</text><circle cx=\"126\" cy=\"70\" r=\"5\" fill=\"#c0392b\"/><line x1=\"126\" y1=\"51\" x2=\"126\" y2=\"63\" stroke=\"#c0392b\" stroke-width=\"1\"/><text x=\"126\" y=\"46\" text-anchor=\"middle\" fill=\"#c0392b\" font-size=\"14\" font-weight=\"bold\">−0.6</text><circle cx=\"255.6\" cy=\"70\" r=\"5\" fill=\"#c0392b\"/><line x1=\"255.6\" y1=\"51\" x2=\"255.6\" y2=\"63\" stroke=\"#c0392b\" stroke-width=\"1\"/><text x=\"255.6\" y=\"46\" text-anchor=\"middle\" fill=\"#c0392b\" font-size=\"14\" font-weight=\"bold\">−0.06</text><circle cx=\"366\" cy=\"70\" r=\"5\" fill=\"#c0392b\"/><line x1=\"366\" y1=\"51\" x2=\"366\" y2=\"63\" stroke=\"#c0392b\" stroke-width=\"1\"/><text x=\"366\" y=\"46\" text-anchor=\"middle\" fill=\"#c0392b\" font-size=\"14\" font-weight=\"bold\">2/5</text><circle cx=\"426\" cy=\"70\" r=\"5\" fill=\"#c0392b\"/><line x1=\"426\" y1=\"27\" x2=\"426\" y2=\"63\" stroke=\"#c0392b\" stroke-width=\"1\"/><text x=\"426\" y=\"22\" text-anchor=\"middle\" fill=\"#c0392b\" font-size=\"14\" font-weight=\"bold\">0.65</text><text x=\"30\" y=\"128\" text-anchor=\"start\" fill=\"#0f1b33\" font-size=\"13\">← smaller</text><text x=\"510\" y=\"128\" text-anchor=\"end\" fill=\"#0f1b33\" font-size=\"13\">bigger →</text></svg>",
+   "caption": "Five numbers on a number line from −1 to 1. Reading from left to right gives the order from smallest to biggest: −3/4, −0.6, −0.06, 2/5, 0.65."
+  },
+  {
+   "type": "p",
+   "text": "**Fractions and decimals together.** Change every fraction to a decimal (divide the numerator by the denominator), then compare the decimals. Learn the common ones by heart:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Fraction",
+    "1/2",
+    "1/4",
+    "3/4",
+    "1/5",
+    "2/5",
+    "1/8",
+    "3/8",
+    "1/20",
+    "1/3",
+    "2/3"
+   ],
+   "rows": [
+    [
+     "Decimal",
+     "0.5",
+     "0.25",
+     "0.75",
+     "0.2",
+     "0.4",
+     "0.125",
+     "0.375",
+     "0.05",
+     "0.333…",
+     "0.666…"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "For harder fractions, divide: 5/6 = 5 ÷ 6 = 0.8333…  and  7/9 = 7 ÷ 9 = 0.777… Write enough decimal places to see the difference (at least 3)."
+  },
+  {
+   "type": "h2",
+   "text": "2. The six symbols"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Symbol",
+    "Meaning",
+    "True example",
+    "False example"
+   ],
+   "rows": [
+    [
+     "=",
+     "is equal to",
+     "0.4 = 2/5",
+     "0.4 = 4/5"
+    ],
+    [
+     "≠",
+     "is not equal to",
+     "0.3 ≠ 1/3",
+     "0.25 ≠ 1/4"
+    ],
+    [
+     ">",
+     "is greater than",
+     "−0.2 > −0.5",
+     "−0.5 > −0.2"
+    ],
+    [
+     "<",
+     "is less than",
+     "−1.5 < −1.05",
+     "0.7 < 0.65"
+    ],
+    [
+     "≥",
+     "is greater than or equal to",
+     "0.6 ≥ 3/5  (they are equal)",
+     "0.59 ≥ 3/5"
+    ],
+    [
+     "≤",
+     "is less than or equal to",
+     "−0.9 ≤ −0.8",
+     "−0.8 ≤ −0.9"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "The symbol always **opens towards the bigger number** (the 'mouth' eats the bigger one). Remember that ≥ and ≤ are true when the two numbers are equal, but > and < are **false** when they are equal: 0.75 ≤ 3/4 is true, but 0.75 < 3/4 is false. Also note 0.3 ≠ 1/3, because 1/3 = 0.333…"
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الأعداد السالبة",
+   "text": "في الأعداد السالبة: كل ما الرقم يبعد عن الصفر ناحية الشمال يبقى أصغر. يعني −0.75 أصغر من −0.6، مع إن 75 أكبر من 6. ارسم خط أعداد صغير في ورقة الامتحان لو اتلخبطت، وحوّل الكسور لعشري قبل المقارنة."
+  },
+  {
+   "type": "h2",
+   "text": "3. Multiplying decimals"
+  },
+  {
+   "type": "p",
+   "text": "**Method — 'ignore the points, then put them back':**"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "**Estimate** by rounding each number (often to 1 significant figure).",
+    "Remove the decimal points and multiply the whole numbers (use any method: grid, column).",
+    "**Count** the decimal places in the question — add the counts for both numbers.",
+    "Your answer has **the same number of decimal places**. Count them from the right; write extra zeros at the front if you need them.",
+    "Only now remove any zeros at the end (4.500 = 4.5). Compare with your estimate."
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Question",
+    "Estimate",
+    "Whole-number product",
+    "d.p. in question",
+    "Answer"
+   ],
+   "rows": [
+    [
+     "2.7 × 6",
+     "3 × 6 = 18",
+     "27 × 6 = 162",
+     "1 + 0 = 1",
+     "16.2"
+    ],
+    [
+     "0.4 × 0.03",
+     "very small (less than 0.03)",
+     "4 × 3 = 12",
+     "1 + 2 = 3",
+     "0.012"
+    ],
+    [
+     "3.6 × 1.25",
+     "4 × 1 = 4",
+     "36 × 125 = 4500",
+     "1 + 2 = 3",
+     "4.500 = 4.5"
+    ],
+    [
+     "0.8 × 0.5",
+     "about 0.4",
+     "8 × 5 = 40",
+     "1 + 1 = 2",
+     "0.40 = 0.4"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Why does it work?** 0.3 = 3 tenths and 0.4 = 4 tenths. Tenths × tenths = hundredths, so 0.3 × 0.4 = 12 hundredths = 0.12. The diagram shows it as an area."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 470 255\" width=\"470\" font-family=\"Arial, sans-serif\" font-size=\"14\"><rect x=\"40\" y=\"40\" width=\"200\" height=\"200\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"40\" y=\"40\" width=\"60\" height=\"200\" fill=\"#d6e6fa\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"40\" y=\"40\" width=\"200\" height=\"80\" fill=\"#fff0c2\" stroke=\"#0f1b33\" stroke-width=\"0\"/><rect x=\"40\" y=\"40\" width=\"60\" height=\"80\" fill=\"#9fd3a8\" stroke=\"#0f1b33\" stroke-width=\"0\"/><line x1=\"60\" y1=\"40\" x2=\"60\" y2=\"240\" stroke=\"#7a869a\" stroke-width=\"0.6\"/><line x1=\"40\" y1=\"60\" x2=\"240\" y2=\"60\" stroke=\"#7a869a\" stroke-width=\"0.6\"/><line x1=\"80\" y1=\"40\" x2=\"80\" y2=\"240\" stroke=\"#7a869a\" stroke-width=\"0.6\"/><line x1=\"40\" y1=\"80\" x2=\"240\" y2=\"80\" stroke=\"#7a869a\" stroke-width=\"0.6\"/><line x1=\"100\" y1=\"40\" x2=\"100\" y2=\"240\" stroke=\"#7a869a\" stroke-width=\"0.6\"/><line x1=\"40\" y1=\"100\" x2=\"240\" y2=\"100\" stroke=\"#7a869a\" stroke-width=\"0.6\"/><line x1=\"120\" y1=\"40\" x2=\"120\" y2=\"240\" stroke=\"#7a869a\" stroke-width=\"0.6\"/><line x1=\"40\" y1=\"120\" x2=\"240\" y2=\"120\" stroke=\"#7a869a\" stroke-width=\"0.6\"/><line x1=\"140\" y1=\"40\" x2=\"140\" y2=\"240\" stroke=\"#7a869a\" stroke-width=\"0.6\"/><line x1=\"40\" y1=\"140\" x2=\"240\" y2=\"140\" stroke=\"#7a869a\" stroke-width=\"0.6\"/><line x1=\"160\" y1=\"40\" x2=\"160\" y2=\"240\" stroke=\"#7a869a\" stroke-width=\"0.6\"/><line x1=\"40\" y1=\"160\" x2=\"240\" y2=\"160\" stroke=\"#7a869a\" stroke-width=\"0.6\"/><line x1=\"180\" y1=\"40\" x2=\"180\" y2=\"240\" stroke=\"#7a869a\" stroke-width=\"0.6\"/><line x1=\"40\" y1=\"180\" x2=\"240\" y2=\"180\" stroke=\"#7a869a\" stroke-width=\"0.6\"/><line x1=\"200\" y1=\"40\" x2=\"200\" y2=\"240\" stroke=\"#7a869a\" stroke-width=\"0.6\"/><line x1=\"40\" y1=\"200\" x2=\"240\" y2=\"200\" stroke=\"#7a869a\" stroke-width=\"0.6\"/><line x1=\"220\" y1=\"40\" x2=\"220\" y2=\"240\" stroke=\"#7a869a\" stroke-width=\"0.6\"/><line x1=\"40\" y1=\"220\" x2=\"240\" y2=\"220\" stroke=\"#7a869a\" stroke-width=\"0.6\"/><rect x=\"40\" y=\"40\" width=\"200\" height=\"200\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"40\" y1=\"28\" x2=\"100\" y2=\"28\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"40\" y1=\"23\" x2=\"40\" y2=\"33\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"100\" y1=\"23\" x2=\"100\" y2=\"33\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"70\" y=\"20\" text-anchor=\"middle\" fill=\"#0f1b33\" font-size=\"14\" font-weight=\"bold\">0.3</text><line x1=\"28\" y1=\"40\" x2=\"28\" y2=\"120\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"23\" y1=\"40\" x2=\"33\" y2=\"40\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"23\" y1=\"120\" x2=\"33\" y2=\"120\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"18\" y=\"85\" text-anchor=\"middle\" fill=\"#0f1b33\" font-size=\"14\" font-weight=\"bold\">0.4</text><text x=\"270\" y=\"70\" text-anchor=\"start\" fill=\"#0f1b33\">The whole square = 1</text><text x=\"270\" y=\"95\" text-anchor=\"start\" fill=\"#0f1b33\">Each small square = 0.01</text><rect x=\"270\" y=\"110\" width=\"16\" height=\"16\" fill=\"#9fd3a8\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"294\" y=\"123\" text-anchor=\"start\" fill=\"#0f1b33\">overlap = 12 small squares</text><text x=\"270\" y=\"160\" text-anchor=\"start\" fill=\"#0f1b33\" font-size=\"18\" font-weight=\"bold\">0.3 × 0.4 = 0.12</text><text x=\"270\" y=\"185\" text-anchor=\"start\" fill=\"#0f1b33\" font-size=\"13\">(3 tenths × 4 tenths</text><text x=\"270\" y=\"203\" text-anchor=\"start\" fill=\"#0f1b33\" font-size=\"13\">= 12 hundredths)</text></svg>",
+   "caption": "A 1 by 1 square cut into 100 hundredths. A rectangle 0.3 wide and 0.4 tall covers 12 hundredths, so 0.3 × 0.4 = 0.12."
+  },
+  {
+   "type": "p",
+   "text": "**Big idea:** multiplying by a number **between 0 and 1 makes the answer smaller** (8 × 0.4 = 3.2, which is less than 8). Multiplying by a number bigger than 1 makes it bigger. Use this to check your answer is sensible."
+  },
+  {
+   "type": "p",
+   "text": "**Using a known fact.** If you know 23 × 47 = 1081, you can write many related answers without calculating again — just count decimal places: 2.3 × 4.7 = 10.81 (2 d.p.), 0.23 × 47 = 10.81, 2.3 × 0.47 = 1.081 (3 d.p.), 230 × 4.7 = 1081 (the zero and the decimal place cancel out)."
+  },
+  {
+   "type": "h2",
+   "text": "4. Dividing by a decimal with one decimal place"
+  },
+  {
+   "type": "p",
+   "text": "Dividing by a decimal like 0.6 is awkward. The trick: **multiply both numbers by 10** so the divisor becomes a whole number. The answer does not change, because a division is like a fraction and 7.56/0.6 = 75.6/6 (equivalent fractions)."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 185\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\"><text x=\"110\" y=\"40\" text-anchor=\"middle\" fill=\"#0f1b33\" font-size=\"22\" font-weight=\"bold\">7.56</text><text x=\"185\" y=\"40\" text-anchor=\"middle\" fill=\"#0f1b33\" font-size=\"22\" font-weight=\"bold\">÷</text><text x=\"255\" y=\"40\" text-anchor=\"middle\" fill=\"#0f1b33\" font-size=\"22\" font-weight=\"bold\">0.6</text><text x=\"110\" y=\"135\" text-anchor=\"middle\" fill=\"#1b6e2e\" font-size=\"22\" font-weight=\"bold\">75.6</text><text x=\"185\" y=\"135\" text-anchor=\"middle\" fill=\"#1b6e2e\" font-size=\"22\" font-weight=\"bold\">÷</text><text x=\"255\" y=\"135\" text-anchor=\"middle\" fill=\"#1b6e2e\" font-size=\"22\" font-weight=\"bold\">6</text><line x1=\"110\" y1=\"52\" x2=\"110\" y2=\"110\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><polygon points=\"110.0,110.0 107.3,103.6 112.7,103.6\" fill=\"#0f1b33\"/><text x=\"122\" y=\"87\" text-anchor=\"start\" fill=\"#c0392b\" font-size=\"14\" font-weight=\"bold\">× 10</text><line x1=\"255\" y1=\"52\" x2=\"255\" y2=\"110\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><polygon points=\"255.0,110.0 252.3,103.6 257.7,103.6\" fill=\"#0f1b33\"/><text x=\"267\" y=\"87\" text-anchor=\"start\" fill=\"#c0392b\" font-size=\"14\" font-weight=\"bold\">× 10</text><text x=\"330\" y=\"135\" text-anchor=\"start\" fill=\"#1b6e2e\" font-size=\"22\" font-weight=\"bold\">= 12.6</text><text x=\"330\" y=\"40\" text-anchor=\"start\" fill=\"#0f1b33\" font-size=\"13\">hard (decimal divisor)</text><text x=\"270\" y=\"172\" text-anchor=\"middle\" fill=\"#0f1b33\" font-size=\"14\">Both numbers × 10 → the answer does not change</text></svg>",
+   "caption": "Multiplying both numbers by 10 turns 7.56 ÷ 0.6 into 75.6 ÷ 6, which has the same answer, 12.6."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "**Estimate** using friendly numbers, e.g. 7.56 ÷ 0.6 ≈ 7.2 ÷ 0.6 = 12.",
+    "Multiply **both** the number and the divisor by 10 (move each decimal point one place right).",
+    "Do the division by a whole number (short division). Keep the decimal point in the answer above the point in the number.",
+    "Check: answer × divisor should give the number (12.6 × 0.6 = 7.56 ✓), and the answer should be close to your estimate."
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Question",
+    "× 10 both",
+    "Short division",
+    "Answer"
+   ],
+   "rows": [
+    [
+     "18 ÷ 0.4",
+     "180 ÷ 4",
+     "4 into 18 = 4 r 2, 4 into 20 = 5",
+     "45"
+    ],
+    [
+     "2.35 ÷ 0.5",
+     "23.5 ÷ 5",
+     "5 into 23 = 4 r 3, 5 into 35 = 7",
+     "4.7"
+    ],
+    [
+     "0.84 ÷ 1.2",
+     "8.4 ÷ 12",
+     "12 into 8 = 0 r 8, 12 into 84 = 7",
+     "0.7"
+    ],
+    [
+     "6.3 ÷ 0.7",
+     "63 ÷ 7",
+     "7 × 9 = 63",
+     "9"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Big idea:** dividing by a number **between 0 and 1 makes the answer bigger** (18 ÷ 0.4 = 45, which is more than 18). That is because you are asking 'how many 0.4s fit into 18?' — and lots of small pieces fit."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "القاعدة اللي لازم تحفظها",
+   "text": "الضرب: اضرب من غير العلامة العشرية، وبعدين عدّ الخانات العشرية في السؤال كله وحطها في الناتج. القسمة على عدد عشري: اضرب الرقمين في 10 لحد ما المقسوم عليه يبقى عدد صحيح، وبعدين اقسم عادي. وقبل أي حاجة: قدّر الناتج الأول."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — Write these numbers in order, starting with the smallest:  0.65   −0.6   2/5   −3/4   −0.06   [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Change the fractions to decimals: 2/5 = 0.4 and −3/4 = −0.75.",
+    "Negatives first. Their sizes without signs are 0.6, 0.75, 0.06. The biggest of these (0.75) gives the smallest number: −0.75 < −0.6 < −0.06.",
+    "Positives next: 0.4 < 0.65.",
+    "Write the answer in the **original form**: **−3/4,  −0.6,  −0.06,  2/5,  0.65**"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Common mistake: putting −0.06 first because '6 hundredths looks smallest'. −0.06 is very close to zero, so it is the biggest negative. Another mistake: writing the decimals (−0.75, 0.4) instead of the numbers you were given."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — Write one of the symbols =, ≠, <, > in each box.  (a) −0.45 ☐ −0.5   (b) 3/8 ☐ 0.375   (c) 7/9 ☐ 0.78   [3]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "(a) −0.45 is closer to zero than −0.50, so **−0.45 > −0.5**.",
+    "(b) 3/8 = 3 ÷ 8 = 0.375, so **3/8 = 0.375**.",
+    "(c) 7/9 = 0.7777…, and 0.7777… < 0.7800, so **7/9 < 0.78** (≠ would also be true, but < gives more information; read what the question asks)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — (a) Estimate 3.6 × 1.25.  (b) Work out 3.6 × 1.25 exactly. Show your working.  [3]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "(a) 3.6 ≈ 4 and 1.25 ≈ 1, so the estimate is 4 × 1 = **4**.",
+    "(b) Ignore the points: 36 × 125. Split it: 36 × 100 = 3600 and 36 × 25 = 900, so 36 × 125 = 4500.",
+    "Decimal places: 3.6 has 1, 1.25 has 2 → 3 in total. 4500 → 4.500.",
+    "Answer: **4.5**. Check: close to the estimate 4 ✓."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Common mistake: removing the zeros first (4500 → 45) and then counting 3 places to get 0.045. Count the decimal places **before** you remove the end zeros."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — You are told that 23 × 47 = 1081. Use this to write down the answers to (a) 2.3 × 4.7  (b) 0.23 × 470  (c) 10.81 ÷ 2.3  [3]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "(a) 2.3 × 4.7: two decimal places in total → **10.81**.",
+    "(b) 0.23 × 470 = 0.23 × 47 × 10. 0.23 × 47 = 10.81, then × 10 = **108.1**. (Check: 0.2 × 500 = 100 ✓)",
+    "(c) Division is the inverse: since 2.3 × 4.7 = 10.81, then 10.81 ÷ 2.3 = **4.7**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — Work out 7.56 ÷ 0.6. Show your working.  [2]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Estimate: 7.2 ÷ 0.6 = 72 ÷ 6 = 12, so the answer is about 12.",
+    "× 10 both: 7.56 ÷ 0.6 = 75.6 ÷ 6.",
+    "Short division: 6 into 7 = 1 r 1; 6 into 15 = 2 r 3; decimal point; 6 into 36 = 6. So 75.6 ÷ 6 = 12.6.",
+    "Answer: **12.6**. Check: 12.6 × 0.6 = 7.56 ✓"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Common mistake: multiplying only the divisor by 10 (7.56 ÷ 6 = 1.26). You must change **both** numbers in the same way."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** — A shop has 9.3 kg of rice. It packs the rice into bags of 0.6 kg.  (a) How many full bags can it make?  (b) How much rice is left over?  [3]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "(a) 9.3 ÷ 0.6 = 93 ÷ 6 = 15.5. Only **full** bags count, so the answer is **15 bags** (do not round up to 16 — there is not enough rice for a 16th bag).",
+    "(b) 15 bags use 15 × 0.6 = 9 kg. Left over: 9.3 − 9 = **0.3 kg**.",
+    "Exam technique: in a real-life question, always ask 'does my answer make sense?' — a decimal number of bags is not a final answer."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Thinking −0.8 > −0.08 because 8 tenths is 'more'. On the number line −0.8 is further left, so −0.8 < −0.08.",
+    "Thinking a longer decimal is always bigger: 0.507 is less than 0.57.",
+    "Writing 0.4 × 0.03 = 0.12. Count the decimal places: 1 + 2 = 3, so 0.012.",
+    "Removing end zeros too early: 0.8 × 0.5 → 40 → 2 d.p. → 0.40 = 0.4 (not 0.04).",
+    "When dividing, changing only one number: 18 ÷ 0.4 is 180 ÷ 4, not 18 ÷ 4.",
+    "Believing 'multiplying always makes bigger' and 'dividing always makes smaller'. With numbers between 0 and 1 it is the opposite.",
+    "Using < when the numbers are equal. If they are equal, only =, ≤ or ≥ can be correct."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "'Write these in order of size, starting with the smallest' — a mix of negative decimals and fractions. Write the final answer using the numbers exactly as given.",
+    "'Write <, > or = in the box' or 'Draw a ring around the correct symbol'. Convert fractions to decimals in the margin first.",
+    "'Tick (✓) to show whether each statement is true or false', e.g. 0.6 ≥ 3/5. Remember ≥ is true for equal numbers.",
+    "'Use the fact that 34 × 56 = 1904 to work out…' — no long calculation is needed; just place the decimal point and check with an estimate.",
+    "'Estimate…' — show the rounded numbers you used (e.g. 7 × 4 = 28). An exact calculation does not get the estimation mark.",
+    "Paper 1 is non-calculator, so multiplying and dividing decimals by hand is tested there. 'Show your working' means write the whole-number calculation and the decimal-place count.",
+    "Word problems (money, lengths, masses): give the unit and round sensibly — money to 2 d.p. ($16.10), 'full bags' down, 'buses needed' up."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Decimals — practice quiz",
+   "timed": false,
+   "intro": "Paper 1 style: no calculator. Write your working on paper, then type the answer. Use the minus sign for negative numbers.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 25,
+     "calc": false,
+     "questions": [
+      {
+       "q": "Which number is the largest?",
+       "c": [
+        "−0.3",
+        "−0.31",
+        "−0.29",
+        "−0.4"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Ordering decimals",
+       "e": "All are negative, so the largest is the one closest to zero. Sizes without signs: 0.30, 0.31, 0.29, 0.40. The smallest of these is 0.29, so −0.29 is the largest number."
+      },
+      {
+       "t": "num",
+       "q": "What number is the arrow pointing to?",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 108\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"40\" y1=\"70\" x2=\"500\" y2=\"70\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"40\" y1=\"62\" x2=\"40\" y2=\"78\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"86\" y1=\"65\" x2=\"86\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"132\" y1=\"65\" x2=\"132\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"178\" y1=\"65\" x2=\"178\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"224\" y1=\"65\" x2=\"224\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"270\" y1=\"62\" x2=\"270\" y2=\"78\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"316\" y1=\"65\" x2=\"316\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"362\" y1=\"65\" x2=\"362\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"408\" y1=\"65\" x2=\"408\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"454\" y1=\"65\" x2=\"454\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><line x1=\"500\" y1=\"62\" x2=\"500\" y2=\"78\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"40\" y=\"98\" text-anchor=\"middle\" fill=\"#0f1b33\">−3</text><text x=\"270\" y=\"98\" text-anchor=\"middle\" fill=\"#0f1b33\">−2.5</text><text x=\"500\" y=\"98\" text-anchor=\"middle\" fill=\"#0f1b33\">−2</text><line x1=\"178\" y1=\"14\" x2=\"178\" y2=\"60\" stroke=\"#c0392b\" stroke-width=\"2.5\"/><polygon points=\"178.0,60.0 173.7,49.9 182.3,49.9\" fill=\"#c0392b\"/></svg>",
+       "ans": [
+        -2.7
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Negative decimals",
+       "e": "The line from −3 to −2 is split into 10 equal steps, so each step is 0.1. The arrow is 3 steps to the right of −3: −3 + 0.3 = −2.7."
+      },
+      {
+       "t": "text",
+       "q": "Write <, > or = to make this statement correct.\n−0.8 ☐ −0.08",
+       "ans": [
+        "<"
+       ],
+       "m": 1,
+       "s": "Inequality symbols",
+       "e": "−0.8 = −0.80 is further from zero (further left on the number line) than −0.08, so −0.8 < −0.08."
+      },
+      {
+       "q": "Which statement is true?",
+       "c": [
+        "0.35 > 3/8",
+        "−2/5 ≤ −0.4",
+        "0.6 ≠ 3/5",
+        "−0.7 > −0.65"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Inequality symbols",
+       "e": "3/8 = 0.375, so 0.35 > 0.375 is false. −2/5 = −0.4, and ≤ is true when the numbers are equal, so −2/5 ≤ −0.4 is TRUE. 3/5 = 0.6, so 0.6 ≠ 3/5 is false. −0.7 is further left than −0.65, so −0.7 > −0.65 is false."
+      },
+      {
+       "t": "num",
+       "p": "Question 5\nPaper 1 — no calculator.",
+       "q": "(a) Work out 0.06 × 0.7",
+       "ans": [
+        0.042
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Multiplying decimals",
+       "e": "6 × 7 = 42. Decimal places: 0.06 has 2, 0.7 has 1 → 3 in total. 42 → 0.042."
+      },
+      {
+       "t": "num",
+       "p": "Question 5\nPaper 1 — no calculator.",
+       "q": "(b) Work out 4.8 × 2.5",
+       "ans": [
+        12
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Multiplying decimals",
+       "e": "48 × 25 = 1200 (48 × 100 = 4800, ÷ 4 = 1200). Decimal places: 1 + 1 = 2 → 12.00 = 12. Estimate: 5 × 2.5 = 12.5 ✓"
+      },
+      {
+       "q": "Which is the best estimate of 6.82 × 3.9?",
+       "c": [
+        "2.8",
+        "18",
+        "280",
+        "28"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Estimating",
+       "e": "Round to 1 significant figure: 6.82 ≈ 7 and 3.9 ≈ 4, so 7 × 4 = 28. (Exact answer 26.598, which is close to 28.)"
+      },
+      {
+       "t": "num",
+       "q": "Work out 5.04 ÷ 0.7",
+       "ans": [
+        7.2
+       ],
+       "tol": 0,
+       "m": 2,
+       "s": "Dividing by a decimal",
+       "e": "Multiply both by 10: 50.4 ÷ 7. 7 into 50 = 7 r 1; 7 into 14 = 2. Answer 7.2. Check: 7.2 × 0.7 = 5.04 ✓"
+      },
+      {
+       "t": "num",
+       "p": "Question 9\nYou are told that 34 × 56 = 1904.\nUse this fact to write down the answers. Do not do a long calculation.",
+       "q": "(a) 3.4 × 5.6",
+       "ans": [
+        19.04
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Using known facts",
+       "e": "Two decimal places in total (1 + 1), so 1904 → 19.04. Estimate 3 × 6 = 18 ✓"
+      },
+      {
+       "t": "num",
+       "p": "Question 9\nYou are told that 34 × 56 = 1904.\nUse this fact to write down the answers. Do not do a long calculation.",
+       "q": "(b) 0.34 × 5.6",
+       "ans": [
+        1.904
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Using known facts",
+       "e": "Three decimal places in total (2 + 1), so 1904 → 1.904. Estimate 0.3 × 6 = 1.8 ✓"
+      },
+      {
+       "t": "num",
+       "p": "Question 9\nYou are told that 34 × 56 = 1904.\nUse this fact to write down the answers. Do not do a long calculation.",
+       "q": "(c) 190.4 ÷ 5.6",
+       "ans": [
+        34
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Using known facts",
+       "e": "Multiply both by 10: 1904 ÷ 56. Since 34 × 56 = 1904, the answer is 34."
+      },
+      {
+       "t": "open",
+       "q": "Hana says, 'Multiplying always makes a number bigger, so 8 × 0.4 must be more than 8.'\nExplain why Hana is wrong and give the correct value of 8 × 0.4.",
+       "m": 2,
+       "s": "Reasoning",
+       "ms": "1 mark: explanation that multiplying by a number between 0 and 1 (less than 1) makes the answer smaller, oe (e.g. 0.4 is less than one whole, so you get less than one lot of 8; 8 × 0.4 means 4 tenths of 8). 1 mark: 3.2 cao. Do not accept just 'she is wrong' without a reason.",
+       "e": "0.4 is less than 1, so 8 × 0.4 is less than one whole lot of 8. 8 × 0.4 = 8 × 4 ÷ 10 = 32 ÷ 10 = 3.2, which is smaller than 8."
+      },
+      {
+       "t": "num",
+       "q": "Fabric costs $4.60 per metre. Laila buys 3.5 metres.\nWork out the total cost in dollars.",
+       "ans": [
+        16.1
+       ],
+       "tol": 0,
+       "m": 2,
+       "s": "Problem solving",
+       "e": "4.6 × 3.5: 46 × 35 = 1610 (46 × 30 = 1380, 46 × 5 = 230). Two decimal places → 16.10. Total cost $16.10. Estimate: 5 × 3.5 = 17.5 ✓"
+      },
+      {
+       "q": "Which of these is the smallest?",
+       "c": [
+        "−4/3",
+        "−1.33",
+        "−1.3",
+        "−1 3/10"
+       ],
+       "a": 0,
+       "m": 2,
+       "s": "Ordering fractions and decimals",
+       "e": "Change all to decimals: −4/3 = −1.333…, −1.33, −1.3, −1 3/10 = −1.3. Without signs: 1.333… is the biggest, so −4/3 is the smallest. (Note −1.3 = −1 3/10.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "To compare: same number of decimal places, then compare from the left. Change fractions to decimals first.",
+    "For negatives, further from zero = smaller: −0.75 < −0.6 < −0.06.",
+    "≤ and ≥ include 'equal'; < and > do not; ≠ means 'not equal'.",
+    "Multiply decimals: ignore the points, multiply, then the answer has as many decimal places as the question in total.",
+    "Divide by a 1 d.p. number: multiply both numbers by 10, then use short division.",
+    "Always estimate first and check at the end. × by a number less than 1 → smaller; ÷ by a number less than 1 → bigger."
+   ]
+  }
+ ]
+}

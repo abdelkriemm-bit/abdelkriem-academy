@@ -1,0 +1,569 @@
+{
+ "slug": "cp8m-percentages",
+ "title": "Percentage Increase, Decrease and Absolute Change",
+ "kicker": "Cambridge Lower Secondary · Mathematics 0862 · Stage 8 · Number",
+ "summary": "Increase and decrease amounts by a percentage with and without a calculator, use multipliers, and find and compare absolute and percentage changes.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Understand percentage increase and percentage decrease, and absolute change — increase or decrease an amount by a percentage, and find the change as an amount and as a percentage of the original (8Nf.05)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Prices go up, sales take money off, populations grow, a phone battery runs down. There are two ways to describe any change: the **absolute change** (the actual amount it went up or down by, in dollars, kilograms, people…) and the **percentage change** (how big the change is compared with the original amount). This page teaches both, and shows why they can tell different stories."
+  },
+  {
+   "type": "h2",
+   "text": "Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "percentage (%)",
+     "نسبة مئوية — a number out of 100: 15% = 15/100 = 0.15"
+    ],
+    [
+     "original amount",
+     "القيمة الأصلية — the amount before the change; percentages of change are always of this amount"
+    ],
+    [
+     "increase",
+     "زيادة — go up"
+    ],
+    [
+     "decrease",
+     "نقص / تخفيض — go down"
+    ],
+    [
+     "absolute change",
+     "التغير المطلق — the actual amount of the change: new amount − original amount"
+    ],
+    [
+     "percentage change",
+     "التغير بالنسبة المئوية — the change as a percentage of the original: change ÷ original × 100"
+    ],
+    [
+     "multiplier",
+     "المضروب فيه (المعامل) — the single number you multiply by: increase by 15% → × 1.15"
+    ],
+    [
+     "discount",
+     "خصم — a decrease in price, often given as a percentage"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. Absolute change and percentage change"
+  },
+  {
+   "type": "p",
+   "text": "**Absolute change = new amount − original amount.** It has the same units as the amounts. A positive answer is an increase; a negative answer is a decrease."
+  },
+  {
+   "type": "p",
+   "text": "**Percentage change = (change ÷ original amount) × 100.** It compares the change with where you **started**."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 262\" width=\"540\" font-family=\"Arial, sans-serif\"><text x=\"270\" y=\"22\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">Which price rose more?</text><text x=\"20\" y=\"90\" font-size=\"15\" text-anchor=\"start\" fill=\"#0f1b33\" font-weight=\"bold\">Shop A</text><rect x=\"100\" y=\"60\" width=\"220\" height=\"24\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"210\" y=\"77\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">before $20</text><rect x=\"100\" y=\"90\" width=\"275\" height=\"24\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"210\" y=\"107\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">after $25</text><rect x=\"320\" y=\"90\" width=\"55\" height=\"24\" fill=\"#f3c95a\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"383\" y=\"107\" font-size=\"13\" text-anchor=\"start\" fill=\"#9a6a00\" font-weight=\"bold\">+$5  = 25% increase</text><text x=\"20\" y=\"190\" font-size=\"15\" text-anchor=\"start\" fill=\"#0f1b33\" font-weight=\"bold\">Shop B</text><rect x=\"100\" y=\"160\" width=\"220\" height=\"24\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"210\" y=\"177\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">before $200</text><rect x=\"100\" y=\"190\" width=\"231\" height=\"24\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"210\" y=\"207\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">after $210</text><rect x=\"320\" y=\"190\" width=\"11\" height=\"24\" fill=\"#f3c95a\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"339\" y=\"207\" font-size=\"13\" text-anchor=\"start\" fill=\"#9a6a00\" font-weight=\"bold\">+$10 = 5% increase</text><text x=\"270\" y=\"248\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">Bars are drawn so that each \"before\" price is the same length (100%).</text></svg>",
+   "caption": "Shop B's price went up by more dollars, but Shop A's price went up by a bigger percentage."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "",
+    "Shop A",
+    "Shop B"
+   ],
+   "rows": [
+    [
+     "Original price",
+     "$20",
+     "$200"
+    ],
+    [
+     "New price",
+     "$25",
+     "$210"
+    ],
+    [
+     "Absolute change",
+     "$25 − $20 = $5",
+     "$210 − $200 = $10"
+    ],
+    [
+     "Percentage change",
+     "5 ÷ 20 × 100 = 25%",
+     "10 ÷ 200 × 100 = 5%"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "So \"Which price rose more?\" has two possible answers. Shop B had the bigger **absolute** increase; Shop A had the bigger **percentage** increase. In a Checkpoint question, always say which one you mean, and back it up with numbers."
+  },
+  {
+   "type": "h2",
+   "text": "2. Increasing an amount by a percentage"
+  },
+  {
+   "type": "p",
+   "text": "**Method 1 — find the percentage, then add it on.** This is best without a calculator. Build the percentage from easy parts: 10% (÷ 10), 5% (half of 10%), 1% (÷ 100), 50% (÷ 2), 25% (÷ 4)."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 184\" width=\"540\" font-family=\"Arial, sans-serif\"><text x=\"270\" y=\"20\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">Increase $60 by 15%</text><rect x=\"30\" y=\"60\" width=\"40\" height=\"44\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"50\" y=\"88\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">$6</text><rect x=\"70\" y=\"60\" width=\"40\" height=\"44\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"90\" y=\"88\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">$6</text><rect x=\"110\" y=\"60\" width=\"40\" height=\"44\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"130\" y=\"88\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">$6</text><rect x=\"150\" y=\"60\" width=\"40\" height=\"44\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"170\" y=\"88\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">$6</text><rect x=\"190\" y=\"60\" width=\"40\" height=\"44\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"210\" y=\"88\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">$6</text><rect x=\"230\" y=\"60\" width=\"40\" height=\"44\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"250\" y=\"88\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">$6</text><rect x=\"270\" y=\"60\" width=\"40\" height=\"44\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"290\" y=\"88\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">$6</text><rect x=\"310\" y=\"60\" width=\"40\" height=\"44\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"330\" y=\"88\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">$6</text><rect x=\"350\" y=\"60\" width=\"40\" height=\"44\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"370\" y=\"88\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">$6</text><rect x=\"390\" y=\"60\" width=\"40\" height=\"44\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"410\" y=\"88\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">$6</text><rect x=\"430\" y=\"60\" width=\"60\" height=\"44\" fill=\"#f3c95a\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"460\" y=\"88\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">$9</text><rect x=\"30\" y=\"60\" width=\"400\" height=\"44\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><line x1=\"30\" y1=\"108\" x2=\"30\" y2=\"116\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"30\" y1=\"116\" x2=\"430\" y2=\"116\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"430\" y1=\"108\" x2=\"430\" y2=\"116\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"230\" y=\"136\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">100% = $60  (10% = $6)</text><line x1=\"430\" y1=\"108\" x2=\"430\" y2=\"116\" stroke=\"#9a6a00\" stroke-width=\"1.5\"/><line x1=\"430\" y1=\"116\" x2=\"490\" y2=\"116\" stroke=\"#9a6a00\" stroke-width=\"1.5\"/><line x1=\"490\" y1=\"108\" x2=\"490\" y2=\"116\" stroke=\"#9a6a00\" stroke-width=\"1.5\"/><text x=\"460\" y=\"136\" font-size=\"14\" text-anchor=\"middle\" fill=\"#9a6a00\" font-weight=\"bold\">15%</text><line x1=\"30\" y1=\"56\" x2=\"30\" y2=\"48\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"30\" y1=\"48\" x2=\"490\" y2=\"48\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"490\" y1=\"56\" x2=\"490\" y2=\"48\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"260\" y=\"40\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\"></text><text x=\"260\" y=\"42\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">115% = $69</text><text x=\"260\" y=\"170\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">New amount = 115% of $60 = $60 + $9 = $69</text></svg>",
+   "caption": "The original amount is 100%. An increase of 15% makes 115%."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "10% of $60 = $6, 5% of $60 = $3, so 15% = $6 + $3 = $9.",
+    "Add it on: $60 + $9 = **$69**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Method 2 — use a multiplier.** The new amount is 100% + 15% = 115% of the original, and 115% = 1.15. So multiply by **1.15**: $60 × 1.15 = $69. This is one step on a calculator."
+  },
+  {
+   "type": "h2",
+   "text": "3. Decreasing an amount by a percentage"
+  },
+  {
+   "type": "p",
+   "text": "**Method 1:** find the percentage and **subtract** it. **Method 2:** the new amount is 100% − 20% = 80% of the original, so multiply by **0.8**."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 170\" width=\"540\" font-family=\"Arial, sans-serif\"><text x=\"270\" y=\"22\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">Decrease $250 by 20%</text><rect x=\"45\" y=\"46\" width=\"90\" height=\"44\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"90\" y=\"66\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">20%</text><text x=\"90\" y=\"83\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">$50</text><rect x=\"135\" y=\"46\" width=\"90\" height=\"44\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"180\" y=\"66\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">20%</text><text x=\"180\" y=\"83\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">$50</text><rect x=\"225\" y=\"46\" width=\"90\" height=\"44\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"270\" y=\"66\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">20%</text><text x=\"270\" y=\"83\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">$50</text><rect x=\"315\" y=\"46\" width=\"90\" height=\"44\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"360\" y=\"66\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">20%</text><text x=\"360\" y=\"83\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">$50</text><rect x=\"405\" y=\"46\" width=\"90\" height=\"44\" fill=\"#f6d5d1\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"450\" y=\"66\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">20%</text><text x=\"450\" y=\"83\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">$50</text><rect x=\"45\" y=\"46\" width=\"450\" height=\"44\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.2\"/><line x1=\"45\" y1=\"94\" x2=\"45\" y2=\"102\" stroke=\"#2e7d4f\" stroke-width=\"1.5\"/><line x1=\"45\" y1=\"102\" x2=\"405\" y2=\"102\" stroke=\"#2e7d4f\" stroke-width=\"1.5\"/><line x1=\"405\" y1=\"94\" x2=\"405\" y2=\"102\" stroke=\"#2e7d4f\" stroke-width=\"1.5\"/><text x=\"225\" y=\"122\" font-size=\"14\" text-anchor=\"middle\" fill=\"#2e7d4f\" font-weight=\"bold\">80% is left = $200</text><line x1=\"405\" y1=\"94\" x2=\"405\" y2=\"102\" stroke=\"#c0392b\" stroke-width=\"1.5\"/><line x1=\"405\" y1=\"102\" x2=\"495\" y2=\"102\" stroke=\"#c0392b\" stroke-width=\"1.5\"/><line x1=\"495\" y1=\"94\" x2=\"495\" y2=\"102\" stroke=\"#c0392b\" stroke-width=\"1.5\"/><text x=\"450\" y=\"122\" font-size=\"14\" text-anchor=\"middle\" fill=\"#c0392b\" font-weight=\"bold\">take away</text><text x=\"270\" y=\"156\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">$250 × 0.8 = $200</text></svg>",
+   "caption": "A 20% decrease leaves 80% of the original."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Change",
+    "New amount is",
+    "Multiplier"
+   ],
+   "rows": [
+    [
+     "increase by 15%",
+     "115%",
+     "× 1.15"
+    ],
+    [
+     "increase by 7%",
+     "107%",
+     "× 1.07"
+    ],
+    [
+     "increase by 40%",
+     "140%",
+     "× 1.4"
+    ],
+    [
+     "increase by 100% (double)",
+     "200%",
+     "× 2"
+    ],
+    [
+     "decrease by 20%",
+     "80%",
+     "× 0.8"
+    ],
+    [
+     "decrease by 35%",
+     "65%",
+     "× 0.65"
+    ],
+    [
+     "decrease by 3%",
+     "97%",
+     "× 0.97"
+    ],
+    [
+     "decrease by 12.5%",
+     "87.5%",
+     "× 0.875"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Quick check:** an increase multiplier is **more than 1**; a decrease multiplier is **less than 1**. An increase of 7% is × 1.07, not × 1.7 (that would be a 70% increase)."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "افتكر القاعدة دي",
+   "items": [
+    "التغير المطلق = الجديد − الأصلي (بالجنيه أو الكيلو…).",
+    "النسبة المئوية للتغير = (التغير ÷ الأصلي) × ١٠٠ — دايماً اقسم على القيمة الأصلية، مش الجديدة.",
+    "زيادة ١٥٪ يعني اضرب في ١٫١٥، ونقص ٢٠٪ يعني اضرب في ٠٫٨."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "4. Finding the percentage change"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Find the absolute change: new − original.",
+    "Divide by the **original** amount.",
+    "Multiply by 100 and write %. Say whether it is an increase or a decrease."
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Original → new",
+    "Absolute change",
+    "÷ original × 100",
+    "Percentage change"
+   ],
+   "rows": [
+    [
+     "80 → 92",
+     "+12",
+     "12 ÷ 80 × 100",
+     "15% increase"
+    ],
+    [
+     "250 → 215",
+     "−35",
+     "35 ÷ 250 × 100",
+     "14% decrease"
+    ],
+    [
+     "1.6 kg → 1.2 kg",
+     "−0.4 kg",
+     "0.4 ÷ 1.6 × 100",
+     "25% decrease"
+    ],
+    [
+     "30 → 60",
+     "+30",
+     "30 ÷ 30 × 100",
+     "100% increase (it doubled)"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Without a calculator** write the change as a fraction of the original and make the denominator 100: 12/80 = 3/20 = 15/100 = 15%. And 35/250 = 7/50 = 14/100 = 14%."
+  },
+  {
+   "type": "h2",
+   "text": "5. One change after another"
+  },
+  {
+   "type": "p",
+   "text": "A price of $500 goes up by 10%, then the new price goes down by 10%. Is it back to $500?"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Up 10%: $500 × 1.1 = $550.",
+    "Down 10%: $550 × 0.9 = **$495**.",
+    "It is **not** back to $500, because the second 10% is a percentage of $550, not of $500. Overall: absolute change −$5, percentage change 5 ÷ 500 × 100 = 1% decrease."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "This is a favourite \"Is he correct? Explain\" question. Always ask: **a percentage of which amount?**"
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 (no calculator)** — A gym membership costs $240 a year. The price increases by 15%. Work out the new price. [2 marks]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "10% of 240 = 24; 5% = 12; so 15% = 36. (1 mark for 36 seen.)",
+    "New price = 240 + 36 = **$276**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Common mistake:** giving $36 as the final answer. The question asks for the new price, so add the increase on."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 (calculator)** — A car is worth $8400. Its value decreases by 35%. Work out its new value. [2 marks]"
+  },
+  {
+   "type": "p",
+   "text": "100% − 35% = 65%, so the multiplier is 0.65. $8400 × 0.65 = **$5460**. Check: 35% of 8400 = 2940, and 8400 − 2940 = 5460 ✓."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — The number of students in a school went from 2400 to 2760. (a) Work out the absolute change. (b) Work out the percentage change. [3 marks]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "(a) 2760 − 2400 = **360 students** (an increase).",
+    "(b) 360 ÷ 2400 × 100 = 0.15 × 100 = **15% increase**. Without a calculator: 360/2400 = 36/240 = 3/20 = 15/100."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Common mistake:** dividing by the new number (360 ÷ 2760 = 13.0…%). The percentage change always uses the original."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — Hoda's bag of flour had a mass of 1.6 kg. After baking it had a mass of 1.2 kg. Work out the percentage decrease in the mass. [2 marks]"
+  },
+  {
+   "type": "p",
+   "text": "Change = 1.6 − 1.2 = 0.4 kg. Percentage = 0.4 ÷ 1.6 × 100 = 0.25 × 100 = **25% decrease**. (0.4/1.6 = 4/16 = 1/4.)"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — Two shops sell the same phone. Shop P: was $300, now 20% off. Shop Q: was $280, now $50 off. Which shop is cheaper now? Show your working. [2 marks]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Shop P: $300 × 0.8 = $240.",
+    "Shop Q: $280 − $50 = $230.",
+    "**Shop Q is cheaper** (by $10). Notice: Shop P's discount is $60 (bigger absolute discount), but the starting prices were different, so you must compare the final prices."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** — Youssef says, \"If a price goes up by 10% and then down by 10%, it ends up the same.\" Use a price of $500 to show that Youssef is wrong. [2 marks]"
+  },
+  {
+   "type": "p",
+   "text": "$500 × 1.1 = $550 (1 mark). $550 × 0.9 = $495, which is not $500, so Youssef is **wrong**. The 10% decrease is taken from the bigger amount, $550, so it removes more ($55) than the increase added ($50)."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Giving only the increase (e.g. $36) when the question asks for the new amount.",
+    "Using the wrong multiplier: increase by 7% is × 1.07, not × 1.7 or × 0.07; decrease by 35% is × 0.65, not × 0.35.",
+    "Dividing by the new amount instead of the original when finding a percentage change.",
+    "Mixing up absolute and percentage change — the absolute change has units ($, kg, people); the percentage change has %.",
+    "Thinking that +10% then −10% gets you back to the start.",
+    "Forgetting to say whether the change is an increase or a decrease."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "Non-calculator paper: \"Increase 80 by 15%\" — build the percentage from 10%, 5% and 1%, and show those steps for method marks.",
+    "Calculator paper: real-life contexts (prices, populations, masses) — use a multiplier and write the calculation, e.g. 8400 × 0.65.",
+    "Two-part questions: \"(a) Work out the absolute change (b) Work out the percentage change.\" Give units in (a) and % in (b).",
+    "\"Which is the better deal?\" or \"Which had the greater increase?\" — calculate both, then write a clear sentence comparing them.",
+    "\"Is he correct? Explain your answer.\" — use a numerical example as your evidence (Thinking and Working Mathematically: convincing).",
+    "\"Draw a ring around\" the correct multiplier or the correct new amount."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Percentage change — practice",
+   "timed": false,
+   "intro": "14 questions, from easy to Checkpoint-hard. Questions 1–6 without a calculator; a calculator may be used where it says so. Type numbers only (no $ or % sign needed). For the explain questions, mark yourself with the mark scheme.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 25,
+     "calc": true,
+     "questions": [
+      {
+       "t": "num",
+       "q": "Increase 80 by 10%.",
+       "ans": [
+        88
+       ],
+       "m": 1,
+       "s": "Percentage increase",
+       "e": "10% of 80 = 8. 80 + 8 = 88. (Or 80 × 1.1 = 88.)"
+      },
+      {
+       "t": "num",
+       "q": "Decrease 250 by 20%.",
+       "ans": [
+        200
+       ],
+       "m": 1,
+       "s": "Percentage decrease",
+       "e": "10% of 250 = 25, so 20% = 50. 250 − 50 = 200. (Or 250 × 0.8 = 200.)"
+      },
+      {
+       "q": "Draw a ring around the multiplier for an increase of 7%.",
+       "c": [
+        "0.07",
+        "1.7",
+        "1.07",
+        "0.93"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Multipliers",
+       "e": "100% + 7% = 107% = 1.07. (1.7 would be a 70% increase; 0.93 is a 7% decrease; 0.07 only finds the 7%.)"
+      },
+      {
+       "q": "Draw a ring around the multiplier for a decrease of 35%.",
+       "c": [
+        "0.65",
+        "1.35",
+        "0.35",
+        "0.065"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Multipliers",
+       "e": "100% − 35% = 65% = 0.65. Multiplying by 0.35 would give only the amount taken off."
+      },
+      {
+       "t": "num",
+       "p": "The price of a bag goes up from $40 to $46.",
+       "q": "(a) Work out the absolute change in the price.",
+       "ans": [
+        6
+       ],
+       "m": 1,
+       "s": "Absolute change",
+       "e": "Absolute change = new − original = 46 − 40 = $6 (an increase)."
+      },
+      {
+       "t": "num",
+       "p": "The price of a bag goes up from $40 to $46.",
+       "q": "(b) Work out the percentage increase.",
+       "ans": [
+        15
+       ],
+       "unit": "%",
+       "m": 1,
+       "s": "Percentage change",
+       "e": "6 ÷ 40 × 100 = 15%. Without a calculator: 6/40 = 3/20 = 15/100 = 15%."
+      },
+      {
+       "t": "num",
+       "q": "A calculator may be used. Increase $360 by 12.5%.",
+       "ans": [
+        405
+       ],
+       "m": 1,
+       "s": "Percentage increase",
+       "e": "Multiplier 1.125: 360 × 1.125 = 405. (Or 12.5% = 1/8, and 360 ÷ 8 = 45; 360 + 45 = 405.)"
+      },
+      {
+       "t": "num",
+       "q": "A calculator may be used. A laptop costs $1250. In a sale the price is reduced by 18%. Work out the sale price.",
+       "ans": [
+        1025
+       ],
+       "m": 2,
+       "s": "Percentage decrease",
+       "e": "100% − 18% = 82%, so multiply by 0.82: 1250 × 0.82 = $1025. (Or 18% of 1250 = 225 [1 mark], then 1250 − 225 = 1025.)"
+      },
+      {
+       "t": "num",
+       "q": "The mass of a melon goes down from 2.5 kg to 2.1 kg as it dries. Work out the percentage decrease in its mass.",
+       "ans": [
+        16
+       ],
+       "unit": "%",
+       "m": 2,
+       "s": "Percentage change",
+       "e": "Change = 2.5 − 2.1 = 0.4 kg (1 mark). 0.4 ÷ 2.5 × 100 = 16%. (0.4/2.5 = 4/25 = 16/100.)"
+      },
+      {
+       "q": "Town A grows from 5000 to 5500 people. Town B grows from 800 to 960 people. Which statement is true?",
+       "c": [
+        "Town A has the greater absolute increase and the greater percentage increase.",
+        "Town B has the greater absolute increase and the greater percentage increase.",
+        "Both towns have the same percentage increase.",
+        "Town A has the greater absolute increase, but Town B has the greater percentage increase."
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Absolute vs percentage change",
+       "e": "Town A: +500 people, 500 ÷ 5000 × 100 = 10%. Town B: +160 people, 160 ÷ 800 × 100 = 20%. A has the bigger absolute increase; B has the bigger percentage increase."
+      },
+      {
+       "t": "num",
+       "p": "A shirt costs $50. Its price is increased by 20%. Later the new price is decreased by 20%.",
+       "q": "(a) Work out the final price of the shirt.",
+       "ans": [
+        48
+       ],
+       "m": 2,
+       "s": "Successive changes",
+       "e": "50 × 1.2 = $60 (1 mark). 60 × 0.8 = $48. The 20% decrease is 20% of $60 = $12, which is more than the $10 that was added."
+      },
+      {
+       "t": "num",
+       "p": "A shirt costs $50. Its price is increased by 20%. Later the new price is decreased by 20%.",
+       "q": "(b) Work out the overall percentage decrease from the original price of $50.",
+       "ans": [
+        4
+       ],
+       "unit": "%",
+       "m": 1,
+       "s": "Successive changes",
+       "e": "Absolute change = 50 − 48 = $2. 2 ÷ 50 × 100 = 4% decrease."
+      },
+      {
+       "t": "open",
+       "q": "Ali says, \"A rise from 3 to 6 is a 200% increase, because 6 is double 3.\" Is Ali correct? Explain your answer.",
+       "m": 1,
+       "s": "Convincing",
+       "ms": "1 mark: Not correct, with a reason, e.g. the increase is 3, and 3 ÷ 3 × 100 = 100%; or 6 is 200% OF 3, but the increase is 100%; or doubling is a 100% increase. Do not accept \"No\" without a reason.",
+       "e": "Not correct. The absolute change is 6 − 3 = 3. Percentage increase = 3 ÷ 3 × 100 = 100%. The new value 6 is 200% of the original, but the increase is only 100%. A 200% increase would give 3 + 6 = 9."
+      },
+      {
+       "t": "open",
+       "q": "A calculator may be used. Shop X sells a jacket for $120 with 25% off. Shop Y sells the same jacket for $110 with 15% off. Which shop is cheaper? Show your working.",
+       "m": 2,
+       "s": "Comparing",
+       "ms": "1 mark: one correct sale price, $90 (Shop X) or $93.50 (Shop Y). 1 mark: both correct and the conclusion Shop X is cheaper (accept 'by $3.50'). Do not award the second mark for 'Shop X' with no working.",
+       "e": "Shop X: 120 × 0.75 = $90. Shop Y: 110 × 0.85 = $93.50. Shop X is cheaper, by $3.50 — even though its original price was higher."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Absolute change = new − original (with units). Percentage change = change ÷ original × 100 (with %).",
+    "Always compare with the ORIGINAL amount.",
+    "Increase by r%: multiply by (100 + r)/100, e.g. 15% → × 1.15. Decrease by r%: multiply by (100 − r)/100, e.g. 20% → × 0.8.",
+    "No calculator: build percentages from 10%, 5% and 1%.",
+    "A bigger absolute change is not always a bigger percentage change — and +10% then −10% does not return to the start."
+   ]
+  }
+ ]
+}

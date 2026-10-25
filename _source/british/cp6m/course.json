@@ -1,0 +1,87 @@
+{
+ "hub": "checkpoint-6-maths.html",
+ "active": "british.html",
+ "short": "Checkpoint 6 Maths",
+ "labels": {
+  "prev": "← Previous",
+  "next": "Next →",
+  "back": "← Back to",
+  "done": "Finished! Back to",
+  "toc": "All pages in this course",
+  "start": "Start the course →",
+  "crumb": "<a href=\"british.html\">British &amp; IGCSE</a> › <a href=\"checkpoint-6.html\">Checkpoint 6</a> › "
+ },
+ "kicker": "Cambridge Primary Checkpoint · Mathematics 0096 · Stage 6",
+ "title": "Checkpoint 6 Maths — Complete Course",
+ "summary": "The whole Cambridge Primary Stage 6 Mathematics curriculum, taught step by step with worked examples, diagrams and an interactive quiz on every page, plus full Checkpoint-style practice tests (Paper 1 and Paper 2) with printable PDFs and mark schemes.",
+ "meta_desc": "The whole Cambridge Primary Stage 6 Mathematics curriculum, taught step by step with worked examples, diagrams and an interactive quiz on every page, plus full Checkpoint-style practice tests (Paper 1 and Paper 2) with printable PDFs and mark schemes.",
+ "sections": [
+  {
+   "title": "Start here",
+   "desc": "How the Checkpoint Maths test works and how to use this course.",
+   "pages": [
+    "cp6m-overview"
+   ]
+  },
+  {
+   "title": "Number: integers and calculation",
+   "desc": "Negative numbers, sequences, the four operations, factors, squares and cubes.",
+   "pages": [
+    "cp6m-negative-numbers",
+    "cp6m-sequences",
+    "cp6m-order-of-operations",
+    "cp6m-multiplication",
+    "cp6m-division",
+    "cp6m-factors-multiples",
+    "cp6m-square-cube-numbers"
+   ]
+  },
+  {
+   "title": "Number: place value, decimals, fractions, percentages and ratio",
+   "desc": "",
+   "pages": [
+    "cp6m-place-value-decimals",
+    "cp6m-rounding",
+    "cp6m-fractions",
+    "cp6m-adding-subtracting-fractions",
+    "cp6m-multiplying-dividing-fractions",
+    "cp6m-fractions-decimals-percentages",
+    "cp6m-calculating-with-decimals",
+    "cp6m-ratio-proportion"
+   ]
+  },
+  {
+   "title": "Geometry and measure",
+   "desc": "",
+   "pages": [
+    "cp6m-time",
+    "cp6m-quadrilaterals",
+    "cp6m-circles",
+    "cp6m-angles",
+    "cp6m-area-triangles",
+    "cp6m-3d-shapes-nets",
+    "cp6m-capacity-volume-surface-area",
+    "cp6m-coordinates",
+    "cp6m-symmetry-transformations"
+   ]
+  },
+  {
+   "title": "Statistics and probability",
+   "desc": "",
+   "pages": [
+    "cp6m-data",
+    "cp6m-averages",
+    "cp6m-probability"
+   ]
+  },
+  {
+   "title": "Practice tests",
+   "desc": "Full Checkpoint-style tests: Paper 1 (no calculator) and Paper 2 (calculator), 45 minutes and 40 marks each.",
+   "pages": [
+    "cp6m-practice-test-1",
+    "cp6m-practice-test-2",
+    "cp6m-practice-test-3"
+   ]
+  }
+ ]
+}

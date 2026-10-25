@@ -1,0 +1,649 @@
+{
+ "slug": "cp8s-earth-resources",
+ "title": "The Earth's Magnetic Field and Earth's Resources",
+ "kicker": "Cambridge Lower Secondary · Science 0893 · Stage 8 · Earth and Space",
+ "summary": "Why the Earth is a giant magnet, and how humans use renewable resources (wind, tidal and solar power, bioplastics) and non-renewable fossil fuels — with worked examples and a Checkpoint-style quiz.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Know that the Earth has a magnetic field because its core acts as a magnet. (8ESp.01)",
+    "Identify renewable resources (such as wind, tidal and solar power, and bioplastics) and non-renewable resources (such as fossil fuels), and describe how humans use them. (8ESp.02)"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "core",
+     "اللب (قلب الأرض) — the centre of the Earth, made mostly of iron and nickel"
+    ],
+    [
+     "inner core / outer core",
+     "اللب الداخلي / اللب الخارجي — the solid centre / the liquid layer around it"
+    ],
+    [
+     "mantle",
+     "الوشاح — the thick layer of hot rock between the crust and the core"
+    ],
+    [
+     "crust",
+     "القشرة — the thin, solid outer layer of the Earth"
+    ],
+    [
+     "magnetic field",
+     "مجال مغناطيسي — the space around a magnet where it pushes or pulls on magnetic materials"
+    ],
+    [
+     "compass",
+     "بوصلة — a small magnet (needle) that turns to line up with a magnetic field"
+    ],
+    [
+     "resource",
+     "مورد — something useful that humans take from the Earth or nature"
+    ],
+    [
+     "renewable",
+     "متجدد — will not run out, or is replaced quickly by nature"
+    ],
+    [
+     "non-renewable",
+     "غير متجدد — will run out; it took millions of years to form"
+    ],
+    [
+     "fossil fuel",
+     "وقود أحفوري — coal, oil or natural gas, made from organisms that died millions of years ago"
+    ],
+    [
+     "tidal power",
+     "طاقة المد والجزر — electricity from the rise and fall of the sea"
+    ],
+    [
+     "solar power",
+     "الطاقة الشمسية — electricity or heat from sunlight"
+    ],
+    [
+     "wind power",
+     "طاقة الرياح — electricity from wind turning a turbine"
+    ],
+    [
+     "bioplastic",
+     "بلاستيك حيوي — plastic made from plants (for example maize starch or sugar cane), not from crude oil"
+    ],
+    [
+     "biodegradable",
+     "قابل للتحلل — can be broken down by microorganisms"
+    ],
+    [
+     "turbine / generator",
+     "توربين / مولد — the turbine spins; the generator turns the spinning into electricity"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "2. Inside the Earth"
+  },
+  {
+   "type": "p",
+   "text": "The Earth is made of layers. We live on the thin **crust**. Under it is the thick **mantle** of very hot rock. At the centre is the **core**, which is made mostly of the metals **iron** and **nickel**. The **outer core** is liquid; the **inner core** is solid because the pressure there is so great."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 300\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\" fill=\"#0f1b33\"><circle cx=\"150\" cy=\"150\" r=\"132\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"3\"/><circle cx=\"150\" cy=\"150\" r=\"128\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"150\" cy=\"150\" r=\"72\" fill=\"#ffe0b8\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"150\" cy=\"150\" r=\"38\" fill=\"#f6c49a\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"251.1\" cy=\"65.2\" r=\"3\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"251.1\" y1=\"65.2\" x2=\"292\" y2=\"35\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"298\" y=\"40\">Crust (thin, solid rock)</text><circle cx=\"247.8\" cy=\"129.2\" r=\"3\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"247.8\" y1=\"129.2\" x2=\"292\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"298\" y=\"105\">Mantle (hot rock)</text><circle cx=\"205.1\" cy=\"159.7\" r=\"3\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"205.1\" y1=\"159.7\" x2=\"292\" y2=\"170\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"298\" y=\"175\">Outer core: liquid</text><text x=\"298\" y=\"195\">iron and nickel</text><circle cx=\"165.3\" cy=\"162.9\" r=\"3\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"165.3\" y1=\"162.9\" x2=\"292\" y2=\"240\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"298\" y=\"245\">Inner core: solid</text><text x=\"298\" y=\"265\">iron and nickel</text></svg>",
+   "caption": "The layers of the Earth (not drawn to scale; the crust is really much thinner than shown)."
+  },
+  {
+   "type": "p",
+   "text": "Remember from magnetism: iron and nickel are **magnetic materials**. This is the key to why the Earth is magnetic."
+  },
+  {
+   "type": "h2",
+   "text": "3. The Earth's magnetic field"
+  },
+  {
+   "type": "p",
+   "text": "A **magnetic field** is the area around a magnet where it can push or pull on magnetic materials and on other magnets. The Earth is surrounded by its own magnetic field, and the reason is simple:"
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "The one sentence to learn",
+   "text": "The Earth has a magnetic field because its **core acts as a magnet**."
+  },
+  {
+   "type": "p",
+   "text": "The field around the Earth has the **same shape as the field around a bar magnet**. It is as if a giant bar magnet were placed inside the Earth, along the line from the North Pole to the South Pole."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 330\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\" fill=\"#0f1b33\"><polyline points=\"287.6,130.2 291.7,129.7 296,129.4 300.2,129.5 304.4,129.8 308.6,130.5 312.7,131.5 316.6,132.7 320.5,134.3 324.1,136.1 327.5,138.2 330.7,140.6 333.7,143.2 336.3,146 338.7,149.1 340.7,152.3 342.4,155.6 343.7,159.1 344.6,162.7 345.2,166.3 345.4,170 345.2,173.7 344.6,177.3 343.7,180.9 342.4,184.4 340.7,187.7 338.7,190.9 336.3,194 333.7,196.8 330.7,199.4 327.5,201.8 324.1,203.9 320.5,205.7 316.6,207.3 312.7,208.5 308.6,209.5 304.4,210.2 300.2,210.5 296,210.6 291.7,210.3 287.6,209.8\" fill=\"none\" stroke=\"#2b5fa8\" stroke-width=\"1.8\"/><polygon points=\"345.4,164 349.9,174 340.9,174\" fill=\"#2b5fa8\"/><polyline points=\"192.4,130.2 188.3,129.7 184,129.4 179.8,129.5 175.6,129.8 171.4,130.5 167.3,131.5 163.4,132.7 159.5,134.3 155.9,136.1 152.5,138.2 149.3,140.6 146.3,143.2 143.7,146 141.3,149.1 139.3,152.3 137.6,155.6 136.3,159.1 135.4,162.7 134.8,166.3 134.6,170 134.8,173.7 135.4,177.3 136.3,180.9 137.6,184.4 139.3,187.7 141.3,190.9 143.7,194 146.3,196.8 149.3,199.4 152.5,201.8 155.9,203.9 159.5,205.7 163.4,207.3 167.3,208.5 171.4,209.5 175.6,210.2 179.8,210.5 184,210.6 188.3,210.3 192.4,209.8\" fill=\"none\" stroke=\"#2b5fa8\" stroke-width=\"1.8\"/><polygon points=\"134.6,164 139.1,174 130.1,174\" fill=\"#2b5fa8\"/><polyline points=\"280,122.6 286.4,119.7 293.1,117.2 300.1,115.2 307.4,113.8 314.8,113 322.2,112.7 329.7,113.2 337,114.3 344.2,116 351,118.5 357.6,121.5 363.7,125.2 369.2,129.4 374.2,134.2 378.5,139.4 382.2,145 385,151 387.1,157.2 388.4,163.5 388.8,170 388.4,176.5 387.1,182.8 385,189 382.2,195 378.5,200.6 374.2,205.8 369.2,210.6 363.7,214.8 357.6,218.5 351,221.5 344.2,224 337,225.7 329.7,226.8 322.2,227.3 314.8,227 307.4,226.2 300.1,224.8 293.1,222.8 286.4,220.3 280,217.4\" fill=\"none\" stroke=\"#2b5fa8\" stroke-width=\"1.8\"/><polygon points=\"388.8,164 393.3,174 384.3,174\" fill=\"#2b5fa8\"/><polyline points=\"200,122.6 193.6,119.7 186.9,117.2 179.9,115.2 172.6,113.8 165.2,113 157.8,112.7 150.3,113.2 143,114.3 135.8,116 129,118.5 122.4,121.5 116.3,125.2 110.8,129.4 105.8,134.2 101.5,139.4 97.8,145 95,151 92.9,157.2 91.6,163.5 91.2,170 91.6,176.5 92.9,182.8 95,189 97.8,195 101.5,200.6 105.8,205.8 110.8,210.6 116.3,214.8 122.4,218.5 129,221.5 135.8,224 143,225.7 150.3,226.8 157.8,227.3 165.2,227 172.6,226.2 179.9,224.8 186.9,222.8 193.6,220.3 200,217.4\" fill=\"none\" stroke=\"#2b5fa8\" stroke-width=\"1.8\"/><polygon points=\"91.2,164 95.7,174 86.7,174\" fill=\"#2b5fa8\"/><polyline points=\"274.1,118.2 282.2,112.3 291.2,106.9 300.9,102.1 311.3,98 322.2,94.8 333.5,92.6 345.1,91.4 356.7,91.4 368.3,92.5 379.7,94.8 390.6,98.3 400.9,102.9 410.4,108.6 419,115.3 426.5,123 432.9,131.4 437.9,140.5 441.6,150 443.9,159.9 444.6,170 443.9,180.1 441.6,190 437.9,199.5 432.9,208.6 426.5,217 419,224.7 410.4,231.4 400.9,237.1 390.6,241.7 379.7,245.2 368.3,247.5 356.7,248.6 345.1,248.6 333.5,247.4 322.2,245.2 311.3,242 300.9,237.9 291.2,233.1 282.2,227.7 274.1,221.8\" fill=\"none\" stroke=\"#2b5fa8\" stroke-width=\"1.8\"/><polygon points=\"444.6,164 449.1,174 440.1,174\" fill=\"#2b5fa8\"/><polyline points=\"205.9,118.2 197.8,112.3 188.8,106.9 179.1,102.1 168.7,98 157.8,94.8 146.5,92.6 134.9,91.4 123.3,91.4 111.7,92.5 100.3,94.8 89.4,98.3 79.1,102.9 69.6,108.6 61,115.3 53.5,123 47.1,131.4 42.1,140.5 38.4,150 36.1,159.9 35.4,170 36.1,180.1 38.4,190 42.1,199.5 47.1,208.6 53.5,217 61,224.7 69.6,231.4 79.1,237.1 89.4,241.7 100.3,245.2 111.7,247.5 123.3,248.6 134.9,248.6 146.5,247.4 157.8,245.2 168.7,242 179.1,237.9 188.8,233.1 197.8,227.7 205.9,221.8\" fill=\"none\" stroke=\"#2b5fa8\" stroke-width=\"1.8\"/><polygon points=\"35.4,164 39.9,174 30.9,174\" fill=\"#2b5fa8\"/><circle cx=\"240\" cy=\"170\" r=\"62\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"226\" y=\"122\" width=\"28\" height=\"48\" fill=\"#f3d0d0\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"226\" y=\"170\" width=\"28\" height=\"48\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"240\" y=\"152\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\">S</text><text x=\"240\" y=\"200\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\">N</text><line x1=\"240\" y1=\"102\" x2=\"240\" y2=\"74\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-dasharray=\"4 3\"/><line x1=\"240\" y1=\"238\" x2=\"240\" y2=\"266\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-dasharray=\"4 3\"/><text x=\"240\" y=\"32\" text-anchor=\"middle\" font-weight=\"bold\">Geographic North Pole</text><text x=\"240\" y=\"322\" text-anchor=\"middle\" font-weight=\"bold\">Geographic South Pole</text><circle cx=\"445\" cy=\"282\" r=\"20\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><polygon points=\"445,265 440,282 450,282\" fill=\"#c0392b\"/><polygon points=\"445,299 440,282 450,282\" fill=\"#9aa6b8\"/><text x=\"417\" y=\"288\" text-anchor=\"end\">compass</text><circle cx=\"100.3\" cy=\"245.2\" r=\"3\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"100.3\" y1=\"245.2\" x2=\"40\" y2=\"272\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"14\" y=\"290\">field line</text></svg>",
+   "caption": "The Earth's magnetic field is like the field of a bar magnet inside the core. Field lines leave the N pole of the 'magnet' and go into its S pole. A compass needle lines up with the field and points north."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A **compass needle** is a tiny magnet. It turns until it lines up with the Earth's magnetic field, so its north-seeking end (N) points towards the **geographic North Pole**. This is how people have found their way at sea and in the desert for hundreds of years.",
+    "Look at the diagram: the pole of the 'magnet' near the geographic North Pole is a **magnetic south pole**. That is why the **N** end of a compass is pulled towards it — **opposite poles attract**.",
+    "The magnetic poles are **close to, but not exactly at**, the geographic poles, and they move slowly over the years.",
+    "The core is extremely hot, much too hot to be an ordinary permanent magnet. Scientists explain the field by the **movement of the liquid iron in the outer core**. At Stage 8 you only need to say that the core acts as a magnet.",
+    "The field reaches far into space. It protects the Earth from many of the charged particles that stream out from the Sun. Some animals, such as turtles and some birds, use the field to find their way on long journeys."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "ليه الأرض مغناطيس؟",
+   "text": "لأن **اللب** (قلب الأرض) معمول أغلبه من **الحديد والنيكل**، وهو بيتصرف كأنه **مغناطيس كبير** جوه الأرض. عشان كده المجال المغناطيسي حوالين الأرض شكله زي مجال **المغناطيس العادي (بار)**. والبوصلة بتشاور على الشمال لأن إبرتها مغناطيس صغير بيتجاذب مع مجال الأرض."
+  },
+  {
+   "type": "h2",
+   "text": "4. Resources: renewable or non-renewable?"
+  },
+  {
+   "type": "p",
+   "text": "A **resource** is anything useful that we get from the Earth: fuels for energy, materials for building and making things, water and food. Scientists sort energy resources and materials into two groups."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "",
+    "Renewable resources",
+    "Non-renewable resources"
+   ],
+   "rows": [
+    [
+     "Meaning",
+     "Will **not run out**; they are replaced naturally as fast as we use them",
+     "**Will run out** one day; they took millions of years to form and cannot be replaced"
+    ],
+    [
+     "Examples",
+     "**wind**, **tidal**, **solar**, hydroelectric (water from a dam), geothermal (heat from underground rocks), biofuels and wood (if new plants are grown), **bioplastics**",
+     "**fossil fuels** (**coal**, **oil**, **natural gas**), uranium (nuclear fuel), metal ores"
+    ],
+    [
+     "Carbon dioxide",
+     "Wind, tidal and solar power make no carbon dioxide while they produce electricity",
+     "Burning fossil fuels releases carbon dioxide, a greenhouse gas"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "A quick test",
+   "text": "Ask: **\"Will it run out if we keep using it?\"** If nature makes more of it quickly (the wind blows again tomorrow, the tide comes in twice a day, new maize grows next season), it is **renewable**. If it took millions of years to form, it is **non-renewable**."
+  },
+  {
+   "type": "h2",
+   "text": "5. Fossil fuels — non-renewable"
+  },
+  {
+   "type": "p",
+   "text": "**Coal** formed from the remains of plants that died in swamps millions of years ago. **Oil** (crude oil) and **natural gas** formed from tiny sea organisms. They were buried and squashed by layers of rock, and heat and pressure changed them slowly over **millions of years**. We are using them much faster than they could ever form again, so they are **non-renewable**."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Fossil fuel",
+    "How humans use it"
+   ],
+   "rows": [
+    [
+     "Coal",
+     "Burned in power stations to generate electricity; used to make steel from iron ore"
+    ],
+    [
+     "Crude oil",
+     "Separated into petrol and diesel (cars, lorries), jet fuel (aircraft) and fuel oil (ships); also the raw material for most **plastics**, and for some medicines and paints"
+    ],
+    [
+     "Natural gas",
+     "Generating electricity; cooking and heating in homes (gas cylinders and pipes)"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Problems with fossil fuels:** they will run out; burning them releases **carbon dioxide**, which is changing the Earth's climate; burning coal and oil also releases gases such as sulfur dioxide that cause acid rain; oil spills harm sea life."
+  },
+  {
+   "type": "p",
+   "text": "**How a fossil-fuel power station works:** the fuel is burned, the heat boils water, the steam spins a **turbine**, and the turbine turns a **generator**, which produces electricity. Wind and tidal power skip the burning: the moving air or water spins the turbine directly."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 330\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\" fill=\"#0f1b33\"><text x=\"120\" y=\"24\" text-anchor=\"middle\" font-weight=\"bold\">Fossil-fuel power station</text><text x=\"360\" y=\"24\" text-anchor=\"middle\" font-weight=\"bold\">Wind or tidal power</text><rect x=\"14\" y=\"44\" width=\"212\" height=\"44\" rx=\"8\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"120\" y=\"72\" text-anchor=\"middle\">Fuel is burned</text><line x1=\"120\" y1=\"90\" x2=\"120\" y2=\"98\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"120,106 115.9,96.9 124.1,96.9\" fill=\"#0f1b33\"/><rect x=\"14\" y=\"108\" width=\"212\" height=\"44\" rx=\"8\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"120\" y=\"136\" text-anchor=\"middle\">Heat boils water</text><line x1=\"120\" y1=\"154\" x2=\"120\" y2=\"162\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"120,170 115.9,160.9 124.1,160.9\" fill=\"#0f1b33\"/><rect x=\"14\" y=\"172\" width=\"212\" height=\"44\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"120\" y=\"200\" text-anchor=\"middle\">Steam spins a turbine</text><line x1=\"120\" y1=\"218\" x2=\"120\" y2=\"226\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"120,234 115.9,224.9 124.1,224.9\" fill=\"#0f1b33\"/><rect x=\"14\" y=\"236\" width=\"212\" height=\"44\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"120\" y=\"264\" text-anchor=\"middle\">Turbine turns a generator</text><rect x=\"254\" y=\"108\" width=\"212\" height=\"108\" rx=\"8\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"360\" y=\"140\" text-anchor=\"middle\">Wind or moving water</text><text x=\"360\" y=\"162\" text-anchor=\"middle\">(the tide) pushes the</text><text x=\"360\" y=\"184\" text-anchor=\"middle\">blades and spins a turbine</text><line x1=\"360\" y1=\"218\" x2=\"360\" y2=\"226\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"360,234 355.9,224.9 364.1,224.9\" fill=\"#0f1b33\"/><rect x=\"254\" y=\"236\" width=\"212\" height=\"44\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"360\" y=\"264\" text-anchor=\"middle\">Turbine turns a generator</text><line x1=\"120\" y1=\"282\" x2=\"192.3\" y2=\"301.9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"200,304 190.1,305.5 192.3,297.6\" fill=\"#0f1b33\"/><line x1=\"360\" y1=\"282\" x2=\"287.7\" y2=\"301.9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"280,304 287.7,297.6 289.9,305.5\" fill=\"#0f1b33\"/><text x=\"240\" y=\"322\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"bold\">electricity</text><text x=\"360\" y=\"72\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#2e7d32\">no fuel burned</text><text x=\"360\" y=\"92\" text-anchor=\"middle\" fill=\"#2e7d32\">no carbon dioxide made</text></svg>",
+   "caption": "How electricity is produced in a power station: fossil fuels need burning; wind and tidal power turn the turbine directly."
+  },
+  {
+   "type": "h2",
+   "text": "6. Renewable resources and how we use them"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Resource",
+    "How humans use it",
+    "Advantages",
+    "Disadvantages"
+   ],
+   "rows": [
+    [
+     "**Solar power**",
+     "**Solar cells** (solar panels) change light into electricity; solar water heaters on roofs heat water",
+     "Free fuel; no carbon dioxide while working; works well in sunny countries such as Egypt",
+     "No electricity at night; less on cloudy or dusty days; large solar farms need a lot of land"
+    ],
+    [
+     "**Wind power**",
+     "Wind turns the blades of a **wind turbine**, which turns a generator",
+     "Free fuel; no carbon dioxide while working",
+     "Only works when the wind blows; some people find turbines noisy or ugly; can harm birds"
+    ],
+    [
+     "**Tidal power**",
+     "The sea rises and falls about twice a day; the moving water turns turbines, often in a barrier (barrage) across a river mouth",
+     "**Predictable** — we know exactly when the tides will come; no carbon dioxide while working",
+     "Only a few coasts have big enough tides; expensive to build; can damage habitats of fish and birds"
+    ],
+    [
+     "Hydroelectric power",
+     "Water stored behind a dam flows down through turbines",
+     "Can be switched on quickly when needed",
+     "Flooding land behind the dam destroys habitats and homes"
+    ],
+    [
+     "**Bioplastics**",
+     "Plastic made from **plant materials** such as maize (corn) starch, sugar cane or potato starch; used for food packaging, cups, cutlery, bags and dissolving stitches",
+     "Made from plants that can be grown again; many are **biodegradable** so they do not stay in the environment for hundreds of years",
+     "Need farmland that could grow food; some only break down in special composting plants; often cost more"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Egypt as an example:** Egypt has strong sunshine almost all year, so it has built very large solar farms, such as the one at Benban near Aswan. The coast of the Gulf of Suez is very windy, so wind farms have been built there. The Aswan High Dam produces hydroelectric power from the Nile. The Mediterranean and Red Sea have only small tides, so tidal power is not a good choice for Egypt. **The best renewable resource depends on the place.**"
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "افتكر الفرق",
+   "text": "**متجدد** = مش هيخلص (الشمس، الرياح، المد والجزر، البلاستيك الحيوي من النباتات). **غير متجدد** = هيخلص لأنه اتكوّن في ملايين السنين (الفحم، البترول، الغاز الطبيعي). البلاستيك العادي بيتعمل من **البترول**، لكن **البلاستيك الحيوي** بيتعمل من **النباتات** زي نشا الذرة وقصب السكر."
+  },
+  {
+   "type": "h2",
+   "text": "7. Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — Write each resource in the correct column of the table: **coal, wind, natural gas, solar, bioplastic, crude oil, tidal, uranium**. [3]"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Renewable",
+    "Non-renewable"
+   ],
+   "rows": [
+    [
+     "wind",
+     "coal"
+    ],
+    [
+     "solar",
+     "natural gas"
+    ],
+    [
+     "bioplastic",
+     "crude oil"
+    ],
+    [
+     "tidal",
+     "uranium"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "Ask for each one: will it run out? Wind, sunlight and tides are replaced naturally; bioplastics are made from plants that can be grown again.",
+    "Coal, natural gas and crude oil are fossil fuels; uranium is a nuclear fuel dug from rocks — all will run out.",
+    "Marks: all 8 correct = 3 marks; 6–7 correct = 2 marks; 4–5 correct = 1 mark.",
+    "**Common mistake:** putting bioplastic under non-renewable because \"plastic comes from oil\". Ordinary plastic does; **bio**plastic comes from plants."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — A compass needle always points north. Explain why. [2]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "The Earth has a magnetic field because its **core acts as a magnet** (1).",
+    "The compass needle is a small magnet, so it **lines up with the Earth's magnetic field** / is attracted to the magnetic pole near the geographic North Pole (1).",
+    "**Common mistake:** writing \"the North Pole is made of iron\" or \"gravity pulls the needle\". It is the core, and it is magnetism, not gravity."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — The table shows where a country gets its electricity."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Energy resource",
+    "Percentage of electricity (%)"
+   ],
+   "rows": [
+    [
+     "natural gas",
+     "55"
+    ],
+    [
+     "oil",
+     "10"
+    ],
+    [
+     "hydroelectric",
+     "20"
+    ],
+    [
+     "wind",
+     "9"
+    ],
+    [
+     "solar",
+     "6"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "(a) What percentage of the electricity comes from fossil fuels? [1]  (b) What percentage comes from renewable resources? [1]  (c) The country wants to use more solar power. Give **two** reasons why. [2]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "(a) Fossil fuels are natural gas and oil: 55 + 10 = **65%**.",
+    "(b) Renewables are hydroelectric, wind and solar: 20 + 9 + 6 = **35%**. Check: 65 + 35 = 100 ✓.",
+    "(c) Any two: solar power is renewable / will not run out (1); it releases no carbon dioxide while it generates electricity (1); the fuel (sunlight) is free (1); fossil fuels will run out (1).",
+    "**Exam tip:** always check that the parts add up to 100%."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — A café changes from plastic cups made from crude oil to cups made of bioplastic. Give **one** advantage and **one** disadvantage of the bioplastic cups. [2]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Advantage (1): made from a renewable resource (plants) / does not use up crude oil / many bioplastics are biodegradable, so they cause less long-lasting litter.",
+    "Disadvantage (1): growing the plants uses farmland that could grow food / some bioplastics only break down in special composting conditions / they may cost more.",
+    "**Exam tip:** \"It is better for the environment\" is too vague for a mark. Say **why**: renewable, or biodegradable."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — Sara says: \"Coal is made from plants, and plants grow back, so coal is a renewable fuel.\" Explain why Sara is wrong. [2]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Coal took **millions of years** to form from buried plants (1).",
+    "We use it much faster than it can form, so it **will run out** — it is non-renewable (1).",
+    "**Common mistake:** agreeing with Sara. Wood is renewable (trees can be replanted in a few years); coal is not."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** — A town in southern Egypt is far from the sea and has sunshine almost every day. An engineer says tidal power is a good choice for the town. Do you agree? Explain your answer. [2]"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**No** (no mark for this alone).",
+    "Tidal power needs a coast with big tides, but the town is far from the sea (and Egypt's seas have only small tides) (1).",
+    "Solar power would be a better choice because there is strong sunshine almost every day (1).",
+    "**Exam tip:** in \"Do you agree?\" questions the marks are for the **reasons**, and the best reasons use the information in the question."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Saying the Earth is magnetic because of the **crust**, the poles, the Moon or the Sun. The answer is the **core acts as a magnet**.",
+    "Thinking the magnetic pole near the geographic North Pole is a magnetic **north** pole. It must be a magnetic **south** pole, because it attracts the **N** end of a compass.",
+    "Calling all plastics non-renewable. **Bioplastics** come from plants, so they are renewable.",
+    "Calling coal renewable because it came from plants. It took millions of years to form, so it is **non-renewable**.",
+    "Writing \"solar power does not pollute at all\". Making solar panels and wind turbines uses energy and materials; the correct point is that they release **no carbon dioxide while they generate electricity**.",
+    "Giving a vague answer such as \"it is good for the environment\". Name the reason: renewable, no carbon dioxide, biodegradable, free fuel, predictable (tides)."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "**Sort into a table**: renewable or non-renewable (one mark is often lost for each one or two mistakes).",
+    "**Complete the sentence**: The Earth has a magnetic field because the ______ acts as a magnet.",
+    "**Read a bar chart or table** of energy resources and add up the renewable or fossil-fuel percentages.",
+    "**Give one advantage and one disadvantage** of a resource (solar, wind, tidal, bioplastic). Make the two points different.",
+    "**Suggest the best resource** for a place described in the question (windy coast, sunny desert, big tides) — use the clues in the question.",
+    "**Explain** why a compass points north, or why fossil fuels are non-renewable — 2 marks means two separate points."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Earth's magnetic field and Earth's resources — practice",
+   "timed": false,
+   "intro": "Answer every part. Type short answers in the box; for longer answers write yours on paper, then mark it with the mark scheme.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 20,
+     "calc": true,
+     "questions": [
+      {
+       "q": "Why does the Earth have a magnetic field?",
+       "c": [
+        "Because the Moon pulls on the Earth",
+        "Because the Earth's core acts as a magnet",
+        "Because the crust contains many small magnets",
+        "Because the Sun is a magnet"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Earth's magnetic field",
+       "e": "The Earth's core is made mostly of iron and nickel and **acts as a magnet**. That is the reason the Earth has a magnetic field. The Moon's pull causes tides, not magnetism."
+      },
+      {
+       "t": "text",
+       "q": "The Earth's core is made mostly of nickel and one other metal. Name the other metal.",
+       "ans": [
+        "iron",
+        "Fe"
+       ],
+       "m": 1,
+       "s": "Earth's magnetic field",
+       "e": "**Iron** (with nickel). Both are magnetic materials, which is why the core can act as a magnet."
+      },
+      {
+       "t": "text",
+       "q": "Which layer of the Earth is made of **liquid** iron and nickel?",
+       "ans": [
+        "outer core",
+        "the outer core",
+        "outercore"
+       ],
+       "m": 1,
+       "s": "Earth's magnetic field",
+       "e": "The **outer core** is liquid. The inner core is solid (because of the huge pressure), the mantle is hot rock and the crust is solid rock."
+      },
+      {
+       "q": "Which of these is a **renewable** energy resource?",
+       "c": [
+        "coal",
+        "natural gas",
+        "tidal power",
+        "crude oil"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Resources",
+       "e": "**Tidal power** uses the rise and fall of the sea, which happens about twice every day and will not run out. Coal, natural gas and crude oil are fossil fuels — non-renewable."
+      },
+      {
+       "q": "Which of these is a **non-renewable** resource?",
+       "c": [
+        "wind",
+        "sunlight",
+        "bioplastic",
+        "natural gas"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Resources",
+       "e": "**Natural gas** is a fossil fuel. It formed over millions of years and will run out. Wind and sunlight are replaced naturally, and bioplastics are made from plants that can be grown again."
+      },
+      {
+       "t": "num",
+       "p": "Question 6\nThe bar chart shows where one country gets its electricity from.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 330\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\" fill=\"#0f1b33\"><line x1=\"70\" y1=\"270\" x2=\"465\" y2=\"270\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><text x=\"62\" y=\"275\" text-anchor=\"end\">0</text><line x1=\"70\" y1=\"222\" x2=\"465\" y2=\"222\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><text x=\"62\" y=\"227\" text-anchor=\"end\">10</text><line x1=\"70\" y1=\"174\" x2=\"465\" y2=\"174\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><text x=\"62\" y=\"179\" text-anchor=\"end\">20</text><line x1=\"70\" y1=\"126\" x2=\"465\" y2=\"126\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><text x=\"62\" y=\"131\" text-anchor=\"end\">30</text><line x1=\"70\" y1=\"78\" x2=\"465\" y2=\"78\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><text x=\"62\" y=\"83\" text-anchor=\"end\">40</text><line x1=\"70\" y1=\"30\" x2=\"465\" y2=\"30\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><text x=\"62\" y=\"35\" text-anchor=\"end\">50</text><line x1=\"70\" y1=\"270\" x2=\"465\" y2=\"270\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"70\" y1=\"270\" x2=\"70\" y2=\"25\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"87.8\" y=\"126\" width=\"43.5\" height=\"144\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"109.5\" y=\"292\" text-anchor=\"middle\">Coal</text><rect x=\"166.8\" y=\"78\" width=\"43.5\" height=\"192\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"188.5\" y=\"292\" text-anchor=\"middle\">Gas</text><rect x=\"245.8\" y=\"222\" width=\"43.5\" height=\"48\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"267.5\" y=\"292\" text-anchor=\"middle\">Wind</text><rect x=\"324.8\" y=\"198\" width=\"43.5\" height=\"72\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"346.5\" y=\"292\" text-anchor=\"middle\">Solar</text><rect x=\"403.8\" y=\"246\" width=\"43.5\" height=\"24\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"425.5\" y=\"292\" text-anchor=\"middle\">Hydro</text><text x=\"20\" y=\"150\" text-anchor=\"middle\" transform=\"rotate(-90 20 150)\">Percentage of electricity (%)</text><text x=\"267.5\" y=\"322\" text-anchor=\"middle\" font-weight=\"bold\">Energy resource</text></svg>",
+       "q": "(a) What percentage of the country's electricity comes from **renewable** resources?",
+       "ans": [
+        30
+       ],
+       "tol": 0,
+       "unit": "%",
+       "m": 1,
+       "s": "Resources",
+       "e": "Renewable: wind 10% + solar 15% + hydro 5% = **30%**. (Coal and gas are fossil fuels.)"
+      },
+      {
+       "t": "num",
+       "p": "Question 6\nThe bar chart shows where one country gets its electricity from.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 330\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\" fill=\"#0f1b33\"><line x1=\"70\" y1=\"270\" x2=\"465\" y2=\"270\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><text x=\"62\" y=\"275\" text-anchor=\"end\">0</text><line x1=\"70\" y1=\"222\" x2=\"465\" y2=\"222\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><text x=\"62\" y=\"227\" text-anchor=\"end\">10</text><line x1=\"70\" y1=\"174\" x2=\"465\" y2=\"174\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><text x=\"62\" y=\"179\" text-anchor=\"end\">20</text><line x1=\"70\" y1=\"126\" x2=\"465\" y2=\"126\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><text x=\"62\" y=\"131\" text-anchor=\"end\">30</text><line x1=\"70\" y1=\"78\" x2=\"465\" y2=\"78\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><text x=\"62\" y=\"83\" text-anchor=\"end\">40</text><line x1=\"70\" y1=\"30\" x2=\"465\" y2=\"30\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><text x=\"62\" y=\"35\" text-anchor=\"end\">50</text><line x1=\"70\" y1=\"270\" x2=\"465\" y2=\"270\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"70\" y1=\"270\" x2=\"70\" y2=\"25\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"87.8\" y=\"126\" width=\"43.5\" height=\"144\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"109.5\" y=\"292\" text-anchor=\"middle\">Coal</text><rect x=\"166.8\" y=\"78\" width=\"43.5\" height=\"192\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"188.5\" y=\"292\" text-anchor=\"middle\">Gas</text><rect x=\"245.8\" y=\"222\" width=\"43.5\" height=\"48\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"267.5\" y=\"292\" text-anchor=\"middle\">Wind</text><rect x=\"324.8\" y=\"198\" width=\"43.5\" height=\"72\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"346.5\" y=\"292\" text-anchor=\"middle\">Solar</text><rect x=\"403.8\" y=\"246\" width=\"43.5\" height=\"24\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"425.5\" y=\"292\" text-anchor=\"middle\">Hydro</text><text x=\"20\" y=\"150\" text-anchor=\"middle\" transform=\"rotate(-90 20 150)\">Percentage of electricity (%)</text><text x=\"267.5\" y=\"322\" text-anchor=\"middle\" font-weight=\"bold\">Energy resource</text></svg>",
+       "q": "(b) What percentage comes from **fossil fuels**?",
+       "ans": [
+        70
+       ],
+       "tol": 0,
+       "unit": "%",
+       "m": 1,
+       "s": "Resources",
+       "e": "Coal 30% + gas 40% = **70%**. Check: 70 + 30 = 100 ✓."
+      },
+      {
+       "t": "num",
+       "p": "Question 6\nThe bar chart shows where one country gets its electricity from.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 330\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\" fill=\"#0f1b33\"><line x1=\"70\" y1=\"270\" x2=\"465\" y2=\"270\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><text x=\"62\" y=\"275\" text-anchor=\"end\">0</text><line x1=\"70\" y1=\"222\" x2=\"465\" y2=\"222\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><text x=\"62\" y=\"227\" text-anchor=\"end\">10</text><line x1=\"70\" y1=\"174\" x2=\"465\" y2=\"174\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><text x=\"62\" y=\"179\" text-anchor=\"end\">20</text><line x1=\"70\" y1=\"126\" x2=\"465\" y2=\"126\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><text x=\"62\" y=\"131\" text-anchor=\"end\">30</text><line x1=\"70\" y1=\"78\" x2=\"465\" y2=\"78\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><text x=\"62\" y=\"83\" text-anchor=\"end\">40</text><line x1=\"70\" y1=\"30\" x2=\"465\" y2=\"30\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><text x=\"62\" y=\"35\" text-anchor=\"end\">50</text><line x1=\"70\" y1=\"270\" x2=\"465\" y2=\"270\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"70\" y1=\"270\" x2=\"70\" y2=\"25\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"87.8\" y=\"126\" width=\"43.5\" height=\"144\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"109.5\" y=\"292\" text-anchor=\"middle\">Coal</text><rect x=\"166.8\" y=\"78\" width=\"43.5\" height=\"192\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"188.5\" y=\"292\" text-anchor=\"middle\">Gas</text><rect x=\"245.8\" y=\"222\" width=\"43.5\" height=\"48\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"267.5\" y=\"292\" text-anchor=\"middle\">Wind</text><rect x=\"324.8\" y=\"198\" width=\"43.5\" height=\"72\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"346.5\" y=\"292\" text-anchor=\"middle\">Solar</text><rect x=\"403.8\" y=\"246\" width=\"43.5\" height=\"24\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"425.5\" y=\"292\" text-anchor=\"middle\">Hydro</text><text x=\"20\" y=\"150\" text-anchor=\"middle\" transform=\"rotate(-90 20 150)\">Percentage of electricity (%)</text><text x=\"267.5\" y=\"322\" text-anchor=\"middle\" font-weight=\"bold\">Energy resource</text></svg>",
+       "q": "(c) The country generates 1200 units of electricity each day. How many units come from gas? Show your working.",
+       "ans": [
+        480
+       ],
+       "tol": 0,
+       "unit": "units",
+       "m": 2,
+       "s": "Resources",
+       "e": "Gas gives 40%. 40% of 1200 = 40 ÷ 100 × 1200 (1) = **480 units** (1)."
+      },
+      {
+       "q": "What are bioplastics made from?",
+       "c": [
+        "crude oil",
+        "plant materials such as maize starch or sugar cane",
+        "coal",
+        "metal ores"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Resources",
+       "e": "**Bio**plastics are made from **plants** (for example maize starch, sugar cane or potato starch). Ordinary plastics are made from crude oil."
+      },
+      {
+       "q": "Which is a **disadvantage** of solar power?",
+       "c": [
+        "It does not generate electricity at night",
+        "It releases a lot of carbon dioxide while working",
+        "It will run out in about 50 years",
+        "It only works near the sea"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Resources",
+       "e": "Solar cells need light, so they produce **no electricity at night** (and less on cloudy days). Solar power is renewable and releases no carbon dioxide while working; it does not need the sea (tidal power does)."
+      },
+      {
+       "t": "open",
+       "q": "Explain why crude oil is described as a **non-renewable** resource. [2]",
+       "m": 2,
+       "s": "Resources",
+       "ms": "1 mark: it took millions of years to form (from the remains of dead sea organisms). 1 mark: it is used much faster than it can form / it cannot be replaced / it will run out. Do not accept: 'it pollutes' (true, but it is not what non-renewable means).",
+       "e": "Crude oil formed over **millions of years** from tiny sea organisms buried under rock. We use it far faster than it can form, so it **will run out** — it is non-renewable."
+      },
+      {
+       "t": "open",
+       "q": "Omar says: \"The north end of a compass needle points to the Earth's North Pole, so there must be a magnetic **north** pole there.\" Explain why Omar is wrong. [2]",
+       "m": 2,
+       "s": "Earth's magnetic field",
+       "ms": "1 mark: opposite poles attract / like poles repel. 1 mark: so the N end of the needle is attracted to a magnetic south pole; the magnetic pole near the geographic North Pole is a (magnetic) south pole. Accept: the 'magnet' in the core has its S pole near the geographic North Pole.",
+       "e": "**Opposite poles attract** (like poles repel). The N end of the compass is pulled towards the north, so the magnetic pole there must be a **magnetic south pole**. The core acts like a bar magnet whose S end is near the geographic North Pole."
+      },
+      {
+       "t": "open",
+       "p": "Question 13\nA small town is on a windy coast with very large tides.",
+       "q": "Suggest **one** renewable resource the town could use to generate electricity. Give **one** advantage and **one** disadvantage of your choice. [3]",
+       "m": 3,
+       "s": "Resources",
+       "ms": "1 mark: wind power or tidal power (a choice that fits the clues). 1 mark: a correct advantage, e.g. renewable / no carbon dioxide while working / free fuel / tides are predictable (tidal only). 1 mark: a correct disadvantage, e.g. wind: does not work when there is no wind, noisy, can harm birds; tidal: expensive to build, can damage habitats of fish and birds. Do not accept a vague point such as 'good for the environment' without a reason.",
+       "e": "Example: **tidal power** (1). Advantage: it is **predictable** — the tides come in and go out at known times every day (1). Disadvantage: a tidal barrage is **expensive** to build and can damage the habitats of fish and wading birds (1). (Wind power with a matching advantage and disadvantage also scores 3.)"
+      },
+      {
+       "t": "text",
+       "q": "Complete the sentence with one word: a renewable resource is one that will not ______ out.",
+       "ans": [
+        "run"
+       ],
+       "m": 1,
+       "s": "Resources",
+       "e": "A renewable resource will not **run** out, because nature replaces it as fast as we use it."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "The Earth has a magnetic field because its **core** (mostly iron and nickel) **acts as a magnet**; the field is shaped like a bar magnet's.",
+    "A compass needle lines up with the Earth's field; its N end points to the geographic North Pole, where there is a **magnetic south pole**.",
+    "**Renewable** = will not run out: wind, tidal, solar, hydroelectric, **bioplastics** (made from plants).",
+    "**Non-renewable** = will run out, took millions of years to form: **fossil fuels** (coal, oil, natural gas), uranium.",
+    "Humans use fossil fuels for electricity, transport, heating and making plastics; burning them releases carbon dioxide.",
+    "Choose a renewable resource to suit the place: sunny → solar, windy → wind, big tides → tidal."
+   ]
+  }
+ ]
+}

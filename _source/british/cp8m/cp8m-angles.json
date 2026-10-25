@@ -1,0 +1,607 @@
+{
+ "slug": "cp8m-angles",
+ "title": "Angles in Triangles and on Parallel Lines",
+ "kicker": "Cambridge Lower Secondary · Mathematics 0862 · Stage 8 · Geometry and Measure",
+ "summary": "Prove and use the exterior-angle fact for triangles, and find angles on intersecting and parallel lines using vertically opposite, corresponding and alternate angles — with reasons.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Explain (derive) why the exterior angle of a triangle is equal to the sum of the two interior opposite angles, and use this fact to find missing angles. [8Gg.10]",
+    "Recognise and describe the angle properties of parallel lines and intersecting lines, using words such as alternate, corresponding and vertically opposite. [8Gg.11]"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "In Stage 8 you stop just measuring angles and start **reasoning** about them. You use a small set of angle facts to work out angles you cannot measure, and you **give a reason** for every step. This page teaches the facts for intersecting lines, parallel lines and triangles, shows you how to prove the exterior-angle fact, and practises the 'find the angle, give a reason' questions that appear in every Checkpoint-style test."
+  },
+  {
+   "type": "h2",
+   "text": "1. Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "intersecting lines",
+     "خطوط متقاطعة — lines that cross at a point"
+    ],
+    [
+     "vertically opposite angles",
+     "زاويتان متقابلتان بالرأس — the angles opposite each other where two lines cross; they are equal"
+    ],
+    [
+     "parallel lines",
+     "خطوط متوازية — lines that never meet and are always the same distance apart; shown with matching arrows"
+    ],
+    [
+     "transversal",
+     "القاطع — a line that crosses two (or more) other lines"
+    ],
+    [
+     "corresponding angles",
+     "زاويتان متناظرتان — angles in the same position at each crossing (F shape); equal on parallel lines"
+    ],
+    [
+     "alternate angles",
+     "زاويتان متبادلتان — angles between the parallel lines on opposite sides of the transversal (Z shape); equal"
+    ],
+    [
+     "co-interior angles",
+     "زاويتان داخليتان في جهة واحدة — between the parallel lines on the same side (C shape); add up to 180°"
+    ],
+    [
+     "interior angle",
+     "زاوية داخلية — an angle inside a shape"
+    ],
+    [
+     "exterior angle",
+     "زاوية خارجية — the angle between one side of a shape and the next side extended (made longer)"
+    ],
+    [
+     "interior opposite angles",
+     "الزاويتان الداخليتان البعيدتان — the two angles inside the triangle that are not next to the exterior angle"
+    ],
+    [
+     "derive / prove",
+     "يستنتج / يبرهن — show why a fact must be true using facts you already know"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "2. Facts you already know"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Angles on a straight line add up to **180°**.",
+    "Angles around a point add up to **360°**.",
+    "Angles in a triangle add up to **180°**.",
+    "In an isosceles triangle the two base angles are equal; in an equilateral triangle every angle is 60°."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "3. Vertically opposite angles"
+  },
+  {
+   "type": "p",
+   "text": "When two straight lines cross, they make four angles. The angles **opposite** each other are equal. Here is why: a + b = 180° (straight line) and b + (the angle opposite a) = 180° (another straight line), so the angle opposite a must equal a."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 215\" width=\"500\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"27.8\" y1=\"149.5\" x2=\"272.2\" y2=\"60.5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"213.4\" y1=\"195.5\" x2=\"86.6\" y2=\"14.5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M150 105L176.3 95.4A28 28 0 0 0 133.9 82.1Z\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"1.6\"/><text x=\"163.2\" y=\"67.9\" text-anchor=\"middle\">a</text><path d=\"M150 105L123.7 114.6A28 28 0 0 0 166.1 127.9Z\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"1.6\"/><text x=\"136.8\" y=\"151.9\" text-anchor=\"middle\">a</text><path d=\"M150 105L129.4 75.5A36 36 0 0 0 116.2 117.3Z\" fill=\"#e3f4e5\" stroke=\"#1f5fbf\" stroke-width=\"1.6\"/><text x=\"100.4\" y=\"94.3\" text-anchor=\"middle\">b</text><path d=\"M150 105L170.6 134.5A36 36 0 0 0 183.8 92.7Z\" fill=\"#e3f4e5\" stroke=\"#1f5fbf\" stroke-width=\"1.6\"/><text x=\"199.6\" y=\"125.5\" text-anchor=\"middle\">b</text><text x=\"300\" y=\"65\">The two angles marked a</text><text x=\"300\" y=\"85\">are equal.</text><text x=\"300\" y=\"115\">The two angles marked b</text><text x=\"300\" y=\"135\">are equal.</text><text x=\"300\" y=\"165\">a + b = 180° (straight line)</text></svg>",
+   "caption": "Two intersecting lines: vertically opposite angles are equal, and two angles next to each other add up to 180°."
+  },
+  {
+   "type": "h2",
+   "text": "4. Angles on parallel lines"
+  },
+  {
+   "type": "p",
+   "text": "Parallel lines are marked with matching arrows (> or >>). When a transversal crosses two parallel lines, it makes the same angles at both crossings. This gives three pairs to learn:"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 200\" width=\"560\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"10\" y1=\"55\" x2=\"180\" y2=\"55\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"10\" y1=\"135\" x2=\"180\" y2=\"135\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polyline points=\"147.5,59.9 154.5,55 147.5,50.1\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polyline points=\"147.5,139.9 154.5,135 147.5,130.1\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"51.9\" y1=\"169.6\" x2=\"138.1\" y2=\"20.4\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M118.1 55L138.1 55A20 20 0 0 0 128.1 37.7Z\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"1.6\"/><text x=\"147.5\" y=\"42.9\" text-anchor=\"middle\">x</text><path d=\"M71.9 135L91.9 135A20 20 0 0 0 81.9 117.7Z\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"1.6\"/><text x=\"101.4\" y=\"122.9\" text-anchor=\"middle\">y</text><text x=\"95\" y=\"20\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\">Corresponding</text><text x=\"95\" y=\"187\" text-anchor=\"middle\" font-size=\"13\">x = y  (F shape)</text><line x1=\"195\" y1=\"55\" x2=\"365\" y2=\"55\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"195\" y1=\"135\" x2=\"365\" y2=\"135\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polyline points=\"332.5,59.9 339.5,55 332.5,50.1\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polyline points=\"332.5,139.9 339.5,135 332.5,130.1\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"236.9\" y1=\"169.6\" x2=\"323.1\" y2=\"20.4\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M303.1 55L283.1 55A20 20 0 0 0 293.1 72.3Z\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"1.6\"/><text x=\"273.6\" y=\"76.9\" text-anchor=\"middle\">x</text><path d=\"M256.9 135L276.9 135A20 20 0 0 0 266.9 117.7Z\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"1.6\"/><text x=\"286.4\" y=\"122.9\" text-anchor=\"middle\">y</text><text x=\"280\" y=\"20\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\">Alternate</text><text x=\"280\" y=\"187\" text-anchor=\"middle\" font-size=\"13\">x = y  (Z shape)</text><line x1=\"380\" y1=\"55\" x2=\"550\" y2=\"55\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"380\" y1=\"135\" x2=\"550\" y2=\"135\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polyline points=\"517.5,59.9 524.5,55 517.5,50.1\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polyline points=\"517.5,139.9 524.5,135 517.5,130.1\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"421.9\" y1=\"169.6\" x2=\"508.1\" y2=\"20.4\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M488.1 55L478.1 72.3A20 20 0 0 0 508.1 55Z\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"1.6\"/><text x=\"505.1\" y=\"89.3\" text-anchor=\"middle\">x</text><path d=\"M441.9 135L461.9 135A20 20 0 0 0 451.9 117.7Z\" fill=\"#e3f4e5\" stroke=\"#1f5fbf\" stroke-width=\"1.6\"/><text x=\"471.4\" y=\"122.9\" text-anchor=\"middle\">y</text><text x=\"465\" y=\"20\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\">Co-interior</text><text x=\"465\" y=\"187\" text-anchor=\"middle\" font-size=\"13\">x + y = 180°  (C shape)</text></svg>",
+   "caption": "Corresponding angles are equal (F), alternate angles are equal (Z), co-interior angles add up to 180° (C)."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Pair",
+    "Where they are",
+    "Shape to look for",
+    "Fact"
+   ],
+   "rows": [
+    [
+     "Corresponding",
+     "same position at each crossing (e.g. both above the line, to the right of the transversal)",
+     "F (it may be backwards or upside down)",
+     "equal"
+    ],
+    [
+     "Alternate",
+     "between the parallel lines, on opposite sides of the transversal",
+     "Z (or N, or a backwards Z)",
+     "equal"
+    ],
+    [
+     "Co-interior",
+     "between the parallel lines, on the same side of the transversal",
+     "C (or U)",
+     "add up to 180°"
+    ],
+    [
+     "Vertically opposite",
+     "opposite each other at one crossing",
+     "X",
+     "equal"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Only on PARALLEL lines!",
+   "text": "Corresponding angles and alternate angles are equal **only if the lines are parallel**. If the diagram has no arrows and the question does not say the lines are parallel, you cannot use these facts. (Vertically opposite angles are always equal — they do not need parallel lines.)"
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "افتكر الحروف",
+   "items": [
+    "F = متناظرتان (corresponding) → متساويتين.",
+    "Z = متبادلتان (alternate) → متساويتين.",
+    "C = داخليتان في جهة واحدة (co-interior) → مجموعهم 180°.",
+    "X = متقابلتان بالرأس (vertically opposite) → متساويتين.",
+    "بس خلي بالك: F و Z و C تنفع بس لو الخطين متوازيين (عليهم أسهم)."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "5. The exterior angle of a triangle"
+  },
+  {
+   "type": "p",
+   "text": "Extend one side of a triangle (make it longer). The angle between the extended side and the next side is an **exterior angle**. In the diagram, d is the exterior angle at C, and a and b are the **interior opposite angles** (the two angles inside the triangle that are not next to d)."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 260.3\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"178.2,35 40,232.3 250,232.3\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"250\" y1=\"232.3\" x2=\"380\" y2=\"232.3\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M40 232.3L70 232.3A30 30 0 0 0 57.2 207.8Z\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"1.6\"/><text x=\"80.8\" y=\"216\" text-anchor=\"middle\">b</text><path d=\"M178.2 35L162.1 57.9A28 28 0 0 0 187.8 61.3Z\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"1.6\"/><text x=\"172.4\" y=\"83.5\" text-anchor=\"middle\">a</text><path d=\"M250 232.3L241.1 207.9A26 26 0 0 0 224 232.3Z\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"1.6\"/><text x=\"215.6\" y=\"213.1\" text-anchor=\"middle\">c</text><path d=\"M250 232.3L284 232.3A34 34 0 0 0 238.4 200.4Z\" fill=\"#e3f4e5\" stroke=\"#1f5fbf\" stroke-width=\"1.6\"/><text x=\"279.8\" y=\"194.6\" text-anchor=\"middle\">d</text><text x=\"178.2\" y=\"25\" text-anchor=\"middle\" font-weight=\"bold\">A</text><text x=\"28\" y=\"238.3\" text-anchor=\"middle\" font-weight=\"bold\">B</text><text x=\"250\" y=\"254.3\" text-anchor=\"middle\" font-weight=\"bold\">C</text><text x=\"390\" y=\"237.3\" text-anchor=\"middle\" font-weight=\"bold\">D</text><text x=\"470\" y=\"40\" text-anchor=\"end\" font-size=\"16\" font-weight=\"bold\" fill=\"#1f5fbf\">d = a + b</text></svg>",
+   "caption": "Triangle ABC with side BC extended to D. The exterior angle d equals a + b."
+  },
+  {
+   "type": "p",
+   "text": "**Derivation (proof) — learn these three lines:**"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "a + b + c = 180° (angles in a triangle add up to 180°).",
+    "c + d = 180° (angles on a straight line add up to 180°).",
+    "Both totals equal 180°, so a + b + c = c + d. Take c away from both sides: **d = a + b**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**The exterior angle of a triangle is equal to the sum of the two interior opposite angles.** This saves a step: you do not need to find c first."
+  },
+  {
+   "type": "h2",
+   "text": "6. Why the angles in a triangle add up to 180° (using parallel lines)"
+  },
+  {
+   "type": "p",
+   "text": "Draw a line through A parallel to BC. The angle marked b at A is equal to angle B (alternate angles), and the angle marked c at A is equal to angle C (alternate angles). At A, the three angles b, a and c lie on a straight line, so b + a + c = 180°. These are exactly the three angles of the triangle. This is a good example of **convincing** — using known facts to prove a new one."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 215\" width=\"400\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"171,12.4 60,190 320,190\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"21\" y1=\"12.4\" x2=\"321\" y2=\"12.4\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polyline points=\"284,17.3 291,12.4 284,7.5\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polyline points=\"248,194.9 255,190 248,185.1\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M60 190L90 190A30 30 0 0 0 75.9 164.6Z\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"1.6\"/><text x=\"100.2\" y=\"172.6\" text-anchor=\"middle\">b</text><path d=\"M320 190L300.7 167A30 30 0 0 0 290 190Z\" fill=\"#e3f4e5\" stroke=\"#1f5fbf\" stroke-width=\"1.6\"/><text x=\"278.3\" y=\"175.5\" text-anchor=\"middle\">c</text><path d=\"M171 12.4L145 12.4A26 26 0 0 0 157.2 34.4Z\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"1.6\"/><text x=\"134.2\" y=\"37.7\" text-anchor=\"middle\">b</text><path d=\"M171 12.4L187.7 32.3A26 26 0 0 0 197 12.4Z\" fill=\"#e3f4e5\" stroke=\"#1f5fbf\" stroke-width=\"1.6\"/><text x=\"209\" y=\"35.1\" text-anchor=\"middle\">c</text><path d=\"M171 12.4L159.3 31.1A22 22 0 0 0 185.1 29.3Z\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"173.6\" y=\"55.2\" text-anchor=\"middle\">a</text><text x=\"171\" y=\"0.4\" text-anchor=\"middle\" font-weight=\"bold\">A</text><text x=\"48\" y=\"196\" text-anchor=\"middle\" font-weight=\"bold\">B</text><text x=\"332\" y=\"196\" text-anchor=\"middle\" font-weight=\"bold\">C</text></svg>",
+   "caption": "A line through A parallel to BC: the two alternate-angle pairs show that a + b + c = 180°."
+  },
+  {
+   "type": "h2",
+   "text": "7. Giving reasons"
+  },
+  {
+   "type": "p",
+   "text": "Checkpoint questions often say 'Give a reason for your answer'. Use the correct angle words — 'Z angles' or 'F angles' may not get the mark. Learn these reasons:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Fact",
+    "Reason to write"
+   ],
+   "rows": [
+    [
+     "a + b = 180°",
+     "angles on a straight line add up to 180°"
+    ],
+    [
+     "sum = 360°",
+     "angles around a point add up to 360°"
+    ],
+    [
+     "equal (X)",
+     "vertically opposite angles are equal"
+    ],
+    [
+     "equal (F)",
+     "corresponding angles are equal"
+    ],
+    [
+     "equal (Z)",
+     "alternate angles are equal"
+    ],
+    [
+     "sum = 180° (C)",
+     "co-interior angles add up to 180°"
+    ],
+    [
+     "triangle",
+     "angles in a triangle add up to 180°"
+    ],
+    [
+     "exterior angle",
+     "the exterior angle of a triangle equals the sum of the interior opposite angles"
+    ],
+    [
+     "isosceles",
+     "base angles of an isosceles triangle are equal"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "8. Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — Work out the size of angle x. Give a reason for your answer. [2]"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 269.5\" width=\"400\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"135.3,25 40,249.5 240,249.5\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"240\" y1=\"249.5\" x2=\"360\" y2=\"249.5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M40 249.5L66 249.5A26 26 0 0 0 50.2 225.6Z\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"1.6\"/><text x=\"80\" y=\"227.9\" text-anchor=\"middle\">67°</text><path d=\"M135.3 25L125.1 48.9A26 26 0 0 0 146.3 48.6Z\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"1.6\"/><text x=\"136.1\" y=\"75.9\" text-anchor=\"middle\">48°</text><path d=\"M240 249.5L270 249.5A30 30 0 0 0 227.3 222.3Z\" fill=\"#e3f4e5\" stroke=\"#1f5fbf\" stroke-width=\"1.6\"/><text x=\"264.7\" y=\"215.6\" text-anchor=\"middle\">x</text><text x=\"330\" y=\"30\" text-anchor=\"middle\" font-size=\"13\">NOT TO SCALE</text></svg>",
+   "caption": "Worked example 1"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "x is the exterior angle; 67° and 48° are the interior opposite angles.",
+    "x = 67° + 48° = **115°**.",
+    "Reason: the exterior angle of a triangle is equal to the sum of the two interior opposite angles."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Check another way: third angle = 180 − 67 − 48 = 65°, then x = 180 − 65 = 115° ✓"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — An exterior angle of a triangle is 130°. One of the interior opposite angles is 75°. Work out the other interior opposite angle. [1]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "75 + ? = 130 (exterior angle = sum of interior opposite angles).",
+    "? = 130 − 75 = **55°**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Common mistake: doing 180 − 130 − 75. The 180 − 130 = 50° is the interior angle next to the exterior angle — it is not one of the opposite angles."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — Two straight lines cross. One of the angles is 38°. Work out the other three angles. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "The angle opposite 38° is **38°** (vertically opposite angles are equal).",
+    "The angles next to it are 180 − 38 = **142°** each (angles on a straight line add up to 180°).",
+    "Check: 38 + 142 + 38 + 142 = 360° (angles around a point) ✓"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — Use the diagram of the parallel lines in section 4 with a transversal at 60°. If the angle above the top line and to the right of the transversal is 60°, find (a) the angle in the same position at the bottom line, (b) the angle below the top line on the left of the transversal, (c) the angle below the top line on the right of the transversal. Give reasons. [3]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) **60°** — corresponding angles are equal.",
+    "(b) **60°** — vertically opposite to the 60° angle (it is also alternate to the 60° angle at the bottom line).",
+    "(c) 180 − 60 = **120°** — angles on a straight line add up to 180°. (It is co-interior with the 60° angle at the bottom line: 120 + 60 = 180 ✓)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — PQ and RS are parallel. Work out angles p, q and r. Give a reason for each. [3]"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 220\" width=\"500\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"40\" y1=\"50\" x2=\"480\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"40\" y1=\"190\" x2=\"480\" y2=\"190\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polyline points=\"429,54.9 436,50 429,45.1\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polyline points=\"429,194.9 436,190 429,185.1\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"250,50 140.6,190 327.6,190\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><path d=\"M250 50L216 50A34 34 0 0 0 229.1 76.8Z\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"1.6\"/><text x=\"201.5\" y=\"78.6\" text-anchor=\"middle\">52°</text><path d=\"M250 50L266.5 79.7A34 34 0 0 0 284 50Z\" fill=\"#e3f4e5\" stroke=\"#1f5fbf\" stroke-width=\"1.6\"/><text x=\"296.5\" y=\"82.3\" text-anchor=\"middle\">61°</text><path d=\"M140.6 190L170.6 190A30 30 0 0 0 159.1 166.4Z\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"1.6\"/><text x=\"182\" y=\"174.7\" text-anchor=\"middle\">p</text><path d=\"M327.6 190L313.1 163.8A30 30 0 0 0 297.6 190Z\" fill=\"#e3f4e5\" stroke=\"#1f5fbf\" stroke-width=\"1.6\"/><text x=\"288\" y=\"171.6\" text-anchor=\"middle\">q</text><path d=\"M250 50L237.7 65.8A20 20 0 0 0 259.7 67.5Z\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"247.6\" y=\"84.5\" text-anchor=\"middle\" font-size=\"13\">r</text><text x=\"28\" y=\"55\" text-anchor=\"middle\" font-weight=\"bold\">P</text><text x=\"492\" y=\"55\" text-anchor=\"middle\" font-weight=\"bold\">Q</text><text x=\"28\" y=\"195\" text-anchor=\"middle\" font-weight=\"bold\">R</text><text x=\"492\" y=\"195\" text-anchor=\"middle\" font-weight=\"bold\">S</text><text x=\"250\" y=\"40\" text-anchor=\"middle\" font-weight=\"bold\">A</text><text x=\"136.6\" y=\"212\" text-anchor=\"middle\" font-weight=\"bold\">B</text><text x=\"331.6\" y=\"212\" text-anchor=\"middle\" font-weight=\"bold\">C</text></svg>",
+   "caption": "Worked example 5 (PQ is parallel to RS)."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "p = **52°** (alternate angles are equal: angle PAB and angle ABC).",
+    "q = **61°** (alternate angles are equal: angle QAC and angle ACB).",
+    "r = 180 − 52 − 61 = **67°** (angles on a straight line at A add up to 180°; or angles in triangle ABC add up to 180°)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** — In a triangle, the two interior opposite angles are 2x and 3x. The exterior angle is 125°. Work out x. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Exterior angle = sum of interior opposite angles: 2x + 3x = 125.",
+    "5x = 125, so x = **25°**.",
+    "Check: 2 × 25 + 3 × 25 = 50 + 75 = 125 ✓"
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Using alternate or corresponding angles when the lines are **not** parallel (look for the arrows).",
+    "Mixing up alternate (equal) and co-interior (add to 180°). Ask: are the angles on the same side of the transversal or opposite sides?",
+    "Adding the wrong angles for the exterior angle: use the two angles **far away** from it, not the one next to it.",
+    "Writing 'Z angles' or 'F angles' as the reason — write 'alternate angles are equal' or 'corresponding angles are equal'.",
+    "Measuring with a protractor when the diagram says NOT TO SCALE — you must calculate.",
+    "Forgetting the ° sign, or giving a reflex angle when the question wants the angle inside the shape."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "'Work out the size of angle x. Give a reason for your answer.' — one mark for the angle, one for the reason with correct vocabulary.",
+    "'Complete the sentence: angle a and angle b are ______ angles.' — write alternate, corresponding, co-interior or vertically opposite.",
+    "Tick or ring the correct statement, e.g. 'a = b because they are corresponding / alternate / vertically opposite'.",
+    "Multi-step diagrams: find one angle at a time, write each angle on the diagram as you go, and give a reason for each step.",
+    "Show-that / prove questions: 'Show that the exterior angle equals …' — write the facts in order with reasons, as in section 5.",
+    "Algebra in angles: form an equation (for example 2x + 3x = 125) and solve it."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Angles in Triangles and on Parallel Lines — practice",
+   "timed": false,
+   "intro": "15 questions, from easy to Checkpoint-hard. Diagrams marked NOT TO SCALE must be calculated, not measured. Write a reason for each step on paper.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 25,
+     "calc": false,
+     "questions": [
+      {
+       "p": "Question 1\nThe two lines with arrows are parallel. The angles are labelled a to h.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 200\" width=\"400\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"60\" y1=\"50\" x2=\"340\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"60\" y1=\"150\" x2=\"340\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polyline points=\"305,54.9 312,50 305,45.1\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polyline points=\"305,154.9 312,150 305,145.1\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"152.3\" y1=\"189.7\" x2=\"247.7\" y2=\"10.3\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"245.4\" y=\"43.9\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\">b</text><text x=\"215.3\" y=\"36.4\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\">a</text><text x=\"207.7\" y=\"66.6\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\">c</text><text x=\"237.9\" y=\"74.1\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\">d</text><text x=\"192.3\" y=\"143.9\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\">f</text><text x=\"162.1\" y=\"136.4\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\">e</text><text x=\"154.6\" y=\"166.6\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\">g</text><text x=\"184.7\" y=\"174.1\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\">h</text></svg>",
+       "q": "(a) Which pair of angles are alternate angles?",
+       "c": [
+        "a and e",
+        "d and e",
+        "c and e",
+        "a and d"
+       ],
+       "a": 1,
+       "m": 1,
+       "e": "Alternate angles are between the parallel lines on opposite sides of the transversal (Z shape): d (below the top line, right of the transversal) and e (above the bottom line, left of the transversal). a and e are corresponding; c and e are co-interior; a and d are vertically opposite.",
+       "s": "Parallel lines"
+      },
+      {
+       "p": "Question 1\nThe two lines with arrows are parallel. The angles are labelled a to h.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 200\" width=\"400\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"60\" y1=\"50\" x2=\"340\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"60\" y1=\"150\" x2=\"340\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polyline points=\"305,54.9 312,50 305,45.1\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polyline points=\"305,154.9 312,150 305,145.1\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"152.3\" y1=\"189.7\" x2=\"247.7\" y2=\"10.3\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"245.4\" y=\"43.9\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\">b</text><text x=\"215.3\" y=\"36.4\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\">a</text><text x=\"207.7\" y=\"66.6\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\">c</text><text x=\"237.9\" y=\"74.1\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\">d</text><text x=\"192.3\" y=\"143.9\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\">f</text><text x=\"162.1\" y=\"136.4\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\">e</text><text x=\"154.6\" y=\"166.6\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\">g</text><text x=\"184.7\" y=\"174.1\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\">h</text></svg>",
+       "q": "(b) Angles c and e are …",
+       "c": [
+        "alternate angles",
+        "corresponding angles",
+        "co-interior angles",
+        "vertically opposite angles"
+       ],
+       "a": 2,
+       "m": 1,
+       "e": "c and e are both between the parallel lines and on the same side (left) of the transversal — a C shape — so they are co-interior angles (they add up to 180°).",
+       "s": "Parallel lines"
+      },
+      {
+       "t": "num",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 330 200\" width=\"330\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"44.1\" y1=\"131.1\" x2=\"275.9\" y2=\"68.9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"156.6\" y1=\"195.9\" x2=\"163.4\" y2=\"4.1\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M160 100L185.1 93.3A26 26 0 0 0 160.9 74Z\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"1.6\"/><text x=\"188.6\" y=\"68.9\" text-anchor=\"middle\">73°</text><path d=\"M160 100L160.8 78A22 22 0 0 0 138.7 105.7Z\" fill=\"#e3f4e5\" stroke=\"#1f5fbf\" stroke-width=\"1.6\"/><text x=\"130.3\" y=\"81.2\" text-anchor=\"middle\">y</text></svg>",
+       "q": "Two straight lines cross. Work out the size of angle y.",
+       "ans": [
+        107
+       ],
+       "tol": 0,
+       "unit": "°",
+       "m": 1,
+       "e": "y and 73° lie on a straight line: y = 180 − 73 = 107°.",
+       "s": "Intersecting lines"
+      },
+      {
+       "q": "Which statement about vertically opposite angles is always true?",
+       "c": [
+        "They add up to 180°.",
+        "They are only equal when the lines are parallel.",
+        "They add up to 90°.",
+        "They are equal."
+       ],
+       "a": 3,
+       "m": 1,
+       "e": "Vertically opposite angles are always equal — this works for any two intersecting straight lines and does not need parallel lines.",
+       "s": "Intersecting lines"
+      },
+      {
+       "t": "num",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 380 226.9\" width=\"380\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"102.6,25 40,206.9 230,206.9\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"230\" y1=\"206.9\" x2=\"340\" y2=\"206.9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M40 206.9L66 206.9A26 26 0 0 0 48.5 182.3Z\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"1.6\"/><text x=\"79.1\" y=\"183.9\" text-anchor=\"middle\">71°</text><path d=\"M102.6 25L94.8 47.7A24 24 0 0 0 116.4 44.7Z\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"1.6\"/><text x=\"108.8\" y=\"73.5\" text-anchor=\"middle\">54°</text><path d=\"M230 206.9L258 206.9A28 28 0 0 0 213.9 184Z\" fill=\"#e3f4e5\" stroke=\"#1f5fbf\" stroke-width=\"1.6\"/><text x=\"250.3\" y=\"172.8\" text-anchor=\"middle\">x</text></svg>",
+       "q": "Work out the size of the exterior angle x.",
+       "ans": [
+        125
+       ],
+       "tol": 0,
+       "unit": "°",
+       "m": 1,
+       "e": "Exterior angle = sum of the interior opposite angles: x = 71 + 54 = 125°.",
+       "s": "Exterior angle"
+      },
+      {
+       "t": "num",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 380 209.2\" width=\"380\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"54.4,25 40,189.2 250,189.2\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"250\" y1=\"189.2\" x2=\"360\" y2=\"189.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M40 189.2L64 189.2A24 24 0 0 0 42.1 165.3Z\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"1.6\"/><text x=\"72.4\" y=\"164.3\" text-anchor=\"middle\">85°</text><path d=\"M54.4 25L52.3 48.9A24 24 0 0 0 72.7 40.4Z\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"1.6\"/><text x=\"69.7\" y=\"66.9\" text-anchor=\"middle\">y</text><path d=\"M250 189.2L278 189.2A28 28 0 0 0 228.6 171.2Z\" fill=\"#e3f4e5\" stroke=\"#1f5fbf\" stroke-width=\"1.6\"/><text x=\"267.8\" y=\"145.2\" text-anchor=\"middle\">140°</text></svg>",
+       "q": "The exterior angle is 140°. Work out angle y.",
+       "ans": [
+        55
+       ],
+       "tol": 0,
+       "unit": "°",
+       "m": 2,
+       "e": "y and 85° are the interior opposite angles of the 140° exterior angle, so y + 85 = 140 and y = 55°. (Or: interior angle at C = 180 − 140 = 40°, then y = 180 − 85 − 40 = 55°.)",
+       "s": "Exterior angle"
+      },
+      {
+       "t": "num",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 205\" width=\"400\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"60\" y1=\"50\" x2=\"340\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"60\" y1=\"150\" x2=\"340\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polyline points=\"305,54.9 312,50 305,45.1\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polyline points=\"305,154.9 312,150 305,145.1\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"152.3\" y1=\"189.7\" x2=\"247.7\" y2=\"10.3\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M226.6 50L236.9 30.6A22 22 0 0 0 204.6 50Z\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"1.6\"/><text x=\"203.9\" y=\"17.2\" text-anchor=\"middle\">118°</text><path d=\"M173.4 150L195.4 150A22 22 0 0 0 183.7 130.6Z\" fill=\"#e3f4e5\" stroke=\"#1f5fbf\" stroke-width=\"1.6\"/><text x=\"206\" y=\"135.3\" text-anchor=\"middle\">x</text><text x=\"330\" y=\"195\" text-anchor=\"end\" font-size=\"13\">NOT TO SCALE</text></svg>",
+       "q": "The lines with arrows are parallel. Work out the size of angle x.",
+       "ans": [
+        62
+       ],
+       "tol": 0,
+       "unit": "°",
+       "m": 2,
+       "e": "The angle next to 118° on the top straight line is 180 − 118 = 62° (angles on a straight line). x is corresponding to that 62° angle, so x = 62°.",
+       "s": "Parallel lines"
+      },
+      {
+       "t": "text",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 190 185\" width=\"190\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"10\" y1=\"40\" x2=\"180\" y2=\"40\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"10\" y1=\"120\" x2=\"180\" y2=\"120\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polyline points=\"147.5,44.9 154.5,40 147.5,35.1\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polyline points=\"147.5,124.9 154.5,120 147.5,115.1\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"44\" y1=\"152.8\" x2=\"146\" y2=\"7.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M123 40L103 40A20 20 0 0 0 111.5 56.4Z\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"1.6\"/><text x=\"92.8\" y=\"60.6\" text-anchor=\"middle\">x</text><path d=\"M67 120L87 120A20 20 0 0 0 78.5 103.6Z\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"1.6\"/><text x=\"97.2\" y=\"109.2\" text-anchor=\"middle\">y</text><text x=\"95\" y=\"20\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\"></text><text x=\"95\" y=\"172\" text-anchor=\"middle\" font-size=\"13\"></text></svg>",
+       "q": "The lines with arrows are parallel. Complete the reason: x = y because they are ______ angles.",
+       "ans": [
+        "alternate",
+        "alternate angles",
+        "alternate angle"
+       ],
+       "m": 1,
+       "e": "x is below the top line on the left of the transversal; y is above the bottom line on the right. They are between the parallel lines on opposite sides — a Z shape — so they are alternate angles.",
+       "s": "Parallel lines"
+      },
+      {
+       "t": "num",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 205\" width=\"400\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"60\" y1=\"50\" x2=\"340\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"60\" y1=\"150\" x2=\"340\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polyline points=\"305,54.9 312,50 305,45.1\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polyline points=\"305,154.9 312,150 305,145.1\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"175\" y1=\"193.5\" x2=\"225\" y2=\"6.5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M213.4 50L207.7 71.3A22 22 0 0 0 235.4 50Z\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"1.6\"/><text x=\"236.5\" y=\"85\" text-anchor=\"middle\">w</text><path d=\"M186.6 150L208.6 150A22 22 0 0 0 192.3 128.7Z\" fill=\"#e3f4e5\" stroke=\"#1f5fbf\" stroke-width=\"1.6\"/><text x=\"221.5\" y=\"128.1\" text-anchor=\"middle\">75°</text></svg>",
+       "q": "The lines with arrows are parallel. Work out the size of angle w.",
+       "ans": [
+        105
+       ],
+       "tol": 0,
+       "unit": "°",
+       "m": 1,
+       "e": "w and 75° are between the parallel lines on the same side of the transversal (co-interior), so w = 180 − 75 = 105°.",
+       "s": "Parallel lines"
+      },
+      {
+       "q": "Two co-interior angles between parallel lines are such that one is three times the other. What is the smaller angle?",
+       "c": [
+        "45°",
+        "60°",
+        "90°",
+        "135°"
+       ],
+       "a": 0,
+       "m": 1,
+       "e": "Co-interior angles add up to 180°: x + 3x = 180, 4x = 180, x = 45°. (The other is 135°.)",
+       "s": "Parallel lines"
+      },
+      {
+       "t": "num",
+       "q": "The two interior opposite angles of an exterior angle are 2x and 3x. The exterior angle is 110°. Work out the value of x.",
+       "ans": [
+        22
+       ],
+       "tol": 0,
+       "m": 2,
+       "e": "2x + 3x = 110 (exterior angle = sum of interior opposite angles). 5x = 110, x = 22. Check: 44 + 66 = 110 ✓",
+       "s": "Exterior angle"
+      },
+      {
+       "t": "num",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 390 218.8\" width=\"390\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"135,30 60,190.8 210,190.8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"210\" y1=\"190.8\" x2=\"320\" y2=\"190.8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"102.9\" y1=\"113\" x2=\"92.1\" y2=\"107.9\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"177.9\" y1=\"107.9\" x2=\"167.1\" y2=\"113\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><path d=\"M210 190.8L238 190.8A28 28 0 0 0 198.2 165.5Z\" fill=\"#e3f4e5\" stroke=\"#1f5fbf\" stroke-width=\"1.6\"/><text x=\"237.9\" y=\"151.9\" text-anchor=\"middle\">115°</text><text x=\"135\" y=\"20\" text-anchor=\"middle\" font-weight=\"bold\">A</text><text x=\"48\" y=\"196.8\" text-anchor=\"middle\" font-weight=\"bold\">B</text><text x=\"206\" y=\"212.8\" text-anchor=\"middle\" font-weight=\"bold\">C</text><text x=\"330\" y=\"195.8\" text-anchor=\"middle\" font-weight=\"bold\">D</text><text x=\"380\" y=\"30\" text-anchor=\"end\" font-size=\"13\">NOT TO SCALE</text></svg>",
+       "q": "Triangle ABC is isosceles with AB = AC. BC is extended to D and angle ACD = 115°. Work out angle BAC.",
+       "ans": [
+        50
+       ],
+       "tol": 0,
+       "unit": "°",
+       "m": 3,
+       "e": "Angle ACB = 180 − 115 = 65° (angles on a straight line). Angle ABC = 65° (base angles of an isosceles triangle are equal). Angle BAC = 180 − 65 − 65 = 50° (angles in a triangle). Or: 115 = BAC + 65 (exterior angle), so BAC = 50°.",
+       "s": "Exterior angle"
+      },
+      {
+       "t": "num",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 420 245\" width=\"420\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"40\" y1=\"40\" x2=\"400\" y2=\"40\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"40\" y1=\"220\" x2=\"400\" y2=\"220\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polyline points=\"357,44.9 364,40 357,35.1\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polyline points=\"357,224.9 364,220 357,215.1\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"80\" y1=\"40\" x2=\"175.1\" y2=\"106.6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"80\" y1=\"220\" x2=\"175.1\" y2=\"106.6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M80 40L112.8 62.9A40 40 0 0 0 120 40Z\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"1.6\"/><text x=\"137.2\" y=\"62.9\" text-anchor=\"middle\">35°</text><path d=\"M80 220L114 220A34 34 0 0 0 101.9 194Z\" fill=\"#e3f4e5\" stroke=\"#1f5fbf\" stroke-width=\"1.6\"/><text x=\"128.9\" y=\"202.1\" text-anchor=\"middle\">50°</text><path d=\"M175.1 106.6L157.1 94A22 22 0 0 0 161 123.5Z\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"137.5\" y=\"116.5\" text-anchor=\"middle\">x</text><text x=\"80\" y=\"30\" text-anchor=\"middle\" font-weight=\"bold\">A</text><text x=\"412\" y=\"45\" text-anchor=\"middle\" font-weight=\"bold\">B</text><text x=\"80\" y=\"242\" text-anchor=\"middle\" font-weight=\"bold\">C</text><text x=\"412\" y=\"225\" text-anchor=\"middle\" font-weight=\"bold\">D</text><text x=\"189.1\" y=\"111.6\" text-anchor=\"middle\" font-weight=\"bold\">E</text><text x=\"400\" y=\"140\" text-anchor=\"end\" font-size=\"13\">NOT TO SCALE</text></svg>",
+       "q": "AB is parallel to CD. Angle BAE = 35° and angle DCE = 50°. Work out angle AEC, marked x.",
+       "ans": [
+        85
+       ],
+       "tol": 0,
+       "unit": "°",
+       "m": 3,
+       "e": "Draw a line through E parallel to AB and CD. The angle between EA and this line is 35° (alternate to angle BAE), and the angle between EC and this line is 50° (alternate to angle DCE). So x = 35 + 50 = 85°.",
+       "s": "Parallel lines"
+      },
+      {
+       "t": "open",
+       "q": "Show that the exterior angle of any triangle is equal to the sum of the two interior opposite angles. Use a triangle with interior angles a, b and c, and exterior angle d next to angle c.",
+       "ms": "1 mark: a + b + c = 180° with reason (angles in a triangle). 1 mark: c + d = 180° with reason (angles on a straight line). 1 mark: conclusion a + b + c = c + d so d = a + b. Do not accept a numerical example only (it does not show it is true for every triangle).",
+       "m": 3,
+       "e": "a + b + c = 180° (angles in a triangle). c + d = 180° (angles on a straight line). So a + b + c = c + d, and subtracting c from both sides gives d = a + b.",
+       "s": "Exterior angle"
+      },
+      {
+       "t": "open",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 210\" width=\"400\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"40\" y1=\"50\" x2=\"360\" y2=\"30\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"40\" y1=\"160\" x2=\"360\" y2=\"185\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"151\" y1=\"197.4\" x2=\"225.5\" y2=\"11.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M214.4 39.1L192.4 40.5A22 22 0 0 0 206.2 59.5Z\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"1.6\"/><text x=\"183.6\" y=\"66.3\" text-anchor=\"middle\">x</text><path d=\"M162.2 169.5L184.1 171.3A22 22 0 0 0 170.4 149.1Z\" fill=\"#e3f4e5\" stroke=\"#1f5fbf\" stroke-width=\"1.6\"/><text x=\"194.5\" y=\"154.4\" text-anchor=\"middle\">y</text></svg>",
+       "q": "Lina says: 'Angles x and y are alternate angles, so x = y.' Is Lina correct? Explain your answer.",
+       "ms": "1 mark: Not correct (or 'we cannot tell'). 1 mark: the lines are not (marked as) parallel, so alternate angles are not necessarily equal. Accept: the lines have no arrows / are not parallel. Do not accept 'x and y are not alternate'.",
+       "m": 2,
+       "e": "x and y are in alternate positions, but the two lines are not marked parallel (no arrows) — and they clearly are not parallel. Alternate angles are only equal when the lines are parallel, so Lina is not correct.",
+       "s": "Parallel lines"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Vertically opposite angles are equal; angles on a straight line add up to 180°.",
+    "On parallel lines: corresponding angles are equal (F), alternate angles are equal (Z), co-interior angles add up to 180° (C).",
+    "Exterior angle of a triangle = sum of the two interior opposite angles (proof: triangle 180° and straight line 180°).",
+    "Always give a reason in proper words: 'alternate angles are equal', not 'Z angles'.",
+    "Check for parallel arrows before using F, Z or C facts."
+   ]
+  }
+ ]
+}

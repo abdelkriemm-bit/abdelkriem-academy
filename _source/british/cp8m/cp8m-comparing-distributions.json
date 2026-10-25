@@ -1,0 +1,524 @@
+{
+ "slug": "cp8m-comparing-distributions",
+ "title": "Averages, Range and Comparing Distributions",
+ "kicker": "Cambridge Lower Secondary · Mathematics 0862 · Stage 8 · Statistics and Probability",
+ "summary": "Find the mode, median, mean and range from lists and frequency tables, choose the best average, compare two distributions using centre and spread, and write sensible conclusions about predictions and sampling variation.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Use the **mode, median, mean and range** to **compare two distributions**, thinking about how the average (centre) and the range (spread) work together (8Ss.04)",
+    "**Interpret** data: find patterns, trends and relationships within and between data sets to answer statistical questions; **discuss conclusions**, thinking about where variation comes from (including sampling), and **check predictions** (8Ss.05)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "An **average** tells you a typical value — the **centre** of the data. The **range** tells you how **spread out** the data are. To compare two groups properly you need **both**: one average and the range, each written as a sentence **in the context** of the question."
+  },
+  {
+   "type": "h2",
+   "text": "Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "mode",
+     "المنوال — the value (or group) that appears most often"
+    ],
+    [
+     "median",
+     "الوسيط — the middle value when the data are in order"
+    ],
+    [
+     "mean",
+     "المتوسط الحسابي — total of the values ÷ number of values"
+    ],
+    [
+     "range",
+     "المدى — largest value − smallest value; a measure of spread"
+    ],
+    [
+     "distribution",
+     "التوزيع — the whole set of values and how they are spread"
+    ],
+    [
+     "consistent",
+     "منتظم / ثابت — values are close together (small range)"
+    ],
+    [
+     "outlier",
+     "قيمة شاذة — a value much bigger or smaller than the rest"
+    ],
+    [
+     "variation",
+     "التباين / الاختلاف — the natural differences between values or between samples"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. Mode, median, mean and range"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Measure",
+    "How to find it",
+    "Good points",
+    "Weak points"
+   ],
+   "rows": [
+    [
+     "Mode",
+     "the most common value",
+     "easy; the only average for categorical data (e.g. favourite colour)",
+     "there may be no mode or more than one; may not be near the centre"
+    ],
+    [
+     "Median",
+     "put in order; the middle value (for an even number of values, halfway between the middle two)",
+     "not affected by outliers",
+     "does not use the actual size of every value"
+    ],
+    [
+     "Mean",
+     "add all the values and divide by how many there are",
+     "uses every value",
+     "pulled up or down by outliers"
+    ],
+    [
+     "Range",
+     "largest − smallest",
+     "quick measure of spread / consistency",
+     "affected by one extreme value"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Finding the median position:** for n values in order, the median is the ((n + 1) ÷ 2)th value. With 9 values it is the 5th; with 6 values it is the 3.5th — halfway between the 3rd and 4th values."
+  },
+  {
+   "type": "p",
+   "text": "**Mean from a frequency table.** Multiply each value by its frequency (fx), add these, and divide by the total frequency. Example: goals scored by a team in 20 matches."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Goals (x)",
+    "Frequency (f)",
+    "f × x"
+   ],
+   "rows": [
+    [
+     "0",
+     "4",
+     "0"
+    ],
+    [
+     "1",
+     "6",
+     "6"
+    ],
+    [
+     "2",
+     "5",
+     "10"
+    ],
+    [
+     "3",
+     "3",
+     "9"
+    ],
+    [
+     "4",
+     "2",
+     "8"
+    ],
+    [
+     "Total",
+     "20",
+     "33"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Mean = 33 ÷ 20 = **1.65** goals (a mean does not have to be a possible value).",
+    "Mode = **1** goal (highest frequency, 6) — not 6!",
+    "Median: n = 20, so halfway between the 10th and 11th values. Running totals: 0 goals → 4 values, 1 goal → up to the 10th value, 2 goals → up to the 15th. 10th = 1 and 11th = 2, so median = **1.5** goals.",
+    "Range = 4 − 0 = **4** goals."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Working backwards from the mean.** Total = mean × number of values. If 5 numbers have a mean of 8, their total is 40. If four of them are 6, 9, 7 and 10 (total 32), the fifth is 40 − 32 = 8."
+  },
+  {
+   "type": "h2",
+   "text": "2. Choosing the best average"
+  },
+  {
+   "type": "p",
+   "text": "Five people are in a lift: four students aged 12, 13, 13, 14 and a teacher aged 45. Mean = 97 ÷ 5 = 19.4 years, median = 13 years, mode = 13 years. The mean is pulled up by the **outlier** 45, so it describes nobody in the lift. Here the **median** (or mode) is more typical."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Categorical data (colours, sports) → **mode** only.",
+    "Data with an outlier → **median**.",
+    "Data without outliers, when every value should count (e.g. test marks) → **mean**.",
+    "Always say **why**: “The median, because it is not affected by the outlier of 45.”"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "3. Comparing two distributions: centre and spread"
+  },
+  {
+   "type": "p",
+   "text": "Karim and Adam play basketball. Here are their points in their last seven games. Karim: 12, 15, 14, 13, 16, 14, 14. Adam: 6, 22, 10, 25, 8, 14, 13."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 200\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"90\" y1=\"70\" x2=\"520\" y2=\"70\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><line x1=\"90\" y1=\"70\" x2=\"90\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"90\" y=\"90\" font-size=\"13\" text-anchor=\"middle\">4</text><line x1=\"129.1\" y1=\"70\" x2=\"129.1\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"129.1\" y=\"90\" font-size=\"13\" text-anchor=\"middle\">6</text><line x1=\"168.2\" y1=\"70\" x2=\"168.2\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"168.2\" y=\"90\" font-size=\"13\" text-anchor=\"middle\">8</text><line x1=\"207.3\" y1=\"70\" x2=\"207.3\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"207.3\" y=\"90\" font-size=\"13\" text-anchor=\"middle\">10</text><line x1=\"246.4\" y1=\"70\" x2=\"246.4\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"246.4\" y=\"90\" font-size=\"13\" text-anchor=\"middle\">12</text><line x1=\"285.5\" y1=\"70\" x2=\"285.5\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"285.5\" y=\"90\" font-size=\"13\" text-anchor=\"middle\">14</text><line x1=\"324.5\" y1=\"70\" x2=\"324.5\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"324.5\" y=\"90\" font-size=\"13\" text-anchor=\"middle\">16</text><line x1=\"363.6\" y1=\"70\" x2=\"363.6\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"363.6\" y=\"90\" font-size=\"13\" text-anchor=\"middle\">18</text><line x1=\"402.7\" y1=\"70\" x2=\"402.7\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"402.7\" y=\"90\" font-size=\"13\" text-anchor=\"middle\">20</text><line x1=\"441.8\" y1=\"70\" x2=\"441.8\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"441.8\" y=\"90\" font-size=\"13\" text-anchor=\"middle\">22</text><line x1=\"480.9\" y1=\"70\" x2=\"480.9\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"480.9\" y=\"90\" font-size=\"13\" text-anchor=\"middle\">24</text><line x1=\"520\" y1=\"70\" x2=\"520\" y2=\"75\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"520\" y=\"90\" font-size=\"13\" text-anchor=\"middle\">26</text><path d=\"M285.5 26V70\" stroke=\"#b3261e\" stroke-width=\"1.6\" stroke-dasharray=\"4 3\"/><circle cx=\"246.4\" cy=\"62.0\" r=\"5.5\" fill=\"#9cc0ea\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"305.0\" cy=\"62.0\" r=\"5.5\" fill=\"#9cc0ea\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"285.5\" cy=\"62.0\" r=\"5.5\" fill=\"#9cc0ea\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"265.9\" cy=\"62.0\" r=\"5.5\" fill=\"#9cc0ea\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"324.5\" cy=\"62.0\" r=\"5.5\" fill=\"#9cc0ea\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"285.5\" cy=\"49.0\" r=\"5.5\" fill=\"#9cc0ea\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"285.5\" cy=\"36.0\" r=\"5.5\" fill=\"#9cc0ea\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"80\" y=\"66\" font-size=\"14\" text-anchor=\"end\" font-weight=\"bold\">Karim</text><line x1=\"90\" y1=\"140\" x2=\"520\" y2=\"140\" stroke=\"#0f1b33\" stroke-width=\"1.4\"/><line x1=\"90\" y1=\"140\" x2=\"90\" y2=\"145\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"90\" y=\"160\" font-size=\"13\" text-anchor=\"middle\">4</text><line x1=\"129.1\" y1=\"140\" x2=\"129.1\" y2=\"145\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"129.1\" y=\"160\" font-size=\"13\" text-anchor=\"middle\">6</text><line x1=\"168.2\" y1=\"140\" x2=\"168.2\" y2=\"145\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"168.2\" y=\"160\" font-size=\"13\" text-anchor=\"middle\">8</text><line x1=\"207.3\" y1=\"140\" x2=\"207.3\" y2=\"145\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"207.3\" y=\"160\" font-size=\"13\" text-anchor=\"middle\">10</text><line x1=\"246.4\" y1=\"140\" x2=\"246.4\" y2=\"145\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"246.4\" y=\"160\" font-size=\"13\" text-anchor=\"middle\">12</text><line x1=\"285.5\" y1=\"140\" x2=\"285.5\" y2=\"145\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"285.5\" y=\"160\" font-size=\"13\" text-anchor=\"middle\">14</text><line x1=\"324.5\" y1=\"140\" x2=\"324.5\" y2=\"145\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"324.5\" y=\"160\" font-size=\"13\" text-anchor=\"middle\">16</text><line x1=\"363.6\" y1=\"140\" x2=\"363.6\" y2=\"145\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"363.6\" y=\"160\" font-size=\"13\" text-anchor=\"middle\">18</text><line x1=\"402.7\" y1=\"140\" x2=\"402.7\" y2=\"145\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"402.7\" y=\"160\" font-size=\"13\" text-anchor=\"middle\">20</text><line x1=\"441.8\" y1=\"140\" x2=\"441.8\" y2=\"145\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"441.8\" y=\"160\" font-size=\"13\" text-anchor=\"middle\">22</text><line x1=\"480.9\" y1=\"140\" x2=\"480.9\" y2=\"145\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"480.9\" y=\"160\" font-size=\"13\" text-anchor=\"middle\">24</text><line x1=\"520\" y1=\"140\" x2=\"520\" y2=\"145\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"520\" y=\"160\" font-size=\"13\" text-anchor=\"middle\">26</text><path d=\"M285.5 96V140\" stroke=\"#b3261e\" stroke-width=\"1.6\" stroke-dasharray=\"4 3\"/><circle cx=\"129.1\" cy=\"132.0\" r=\"5.5\" fill=\"#f4c26b\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"441.8\" cy=\"132.0\" r=\"5.5\" fill=\"#f4c26b\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"207.3\" cy=\"132.0\" r=\"5.5\" fill=\"#f4c26b\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"500.5\" cy=\"132.0\" r=\"5.5\" fill=\"#f4c26b\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"168.2\" cy=\"132.0\" r=\"5.5\" fill=\"#f4c26b\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"285.5\" cy=\"132.0\" r=\"5.5\" fill=\"#f4c26b\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"265.9\" cy=\"132.0\" r=\"5.5\" fill=\"#f4c26b\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"80\" y=\"136\" font-size=\"14\" text-anchor=\"end\" font-weight=\"bold\">Adam</text><text x=\"395.5\" y=\"34\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#b3261e\">mean = 14 (dashed line)</text></svg>",
+   "caption": "Both players have a mean of 14 points, but Adam’s scores are spread much more widely than Karim’s."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "",
+    "Mean",
+    "Median",
+    "Range"
+   ],
+   "rows": [
+    [
+     "Karim",
+     "98 ÷ 7 = 14",
+     "14",
+     "16 − 12 = 4"
+    ],
+    [
+     "Adam",
+     "98 ÷ 7 = 14",
+     "13",
+     "25 − 6 = 19"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Two-sentence comparison (the Checkpoint way):**\n1. **Average:** “Karim and Adam scored the same mean number of points (14), so on average they score equally well.”\n2. **Spread:** “Karim’s range (4) is much smaller than Adam’s (19), so Karim is more **consistent**; Adam’s scores vary a lot.”"
+  },
+  {
+   "type": "p",
+   "text": "**Centre and spread together.** The average alone hides the difference between the players. A coach who needs a reliable 12+ points might choose Karim; a coach who needs a chance of a very high score might choose Adam. In general: **a higher average means “better/bigger on average”; a smaller range means “more consistent”** — but say which is “better” only in context (for times in a race, a **lower** average is better!)."
+  },
+  {
+   "type": "h2",
+   "text": "4. Interpreting data and discussing conclusions"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "**Look for patterns and trends** within one data set (most values between 30 and 50; sales rise every summer) and **relationships** between data sets (taller students tend to have longer arm spans).",
+    "**Answer the statistical question** in words, using numbers as evidence.",
+    "**Check the prediction**: does the evidence support it? Say “the data support the prediction” rather than “prove it”.",
+    "**Discuss reliability and variation.** Data vary naturally (people are different; measurements have errors). A different sample would give slightly different results — **sampling variation**. Small or biased samples make conclusions weaker. Suggest an improvement: a larger or more representative sample, more trials, repeating the survey at a different time."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Example.** Prediction: “Year 9 students are taller than Year 7 students.” A sample of 10 students from each year gave: Year 7 mean 148 cm, range 20 cm; Year 9 mean 160 cm, range 24 cm.\n**Conclusion:** Year 9 students in the sample were taller on average (mean 160 cm compared with 148 cm), so the data **support** the prediction. The ranges are similar, so the heights are about equally spread in both years. However, only 10 students from each year were measured; another sample could give different means, so a larger random sample would make the conclusion more reliable."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "بالعربي: إزاي أقارن مجموعتين؟",
+   "items": [
+    "لازم جملتين: جملة عن المتوسط (المتوسط/الوسيط) وجملة عن المدى (range)، وكل جملة فيها الأرقام والسياق.",
+    "متوسط أكبر = أعلى في المتوسط. مدى أصغر = أكثر انتظامًا (consistent).",
+    "لو فيه قيمة شاذة (outlier) استخدم الوسيط (median) لأنه مش بيتأثر بيها.",
+    "النتيجة من عينة صغيرة ممكن تتغير لو أخدنا عينة تانية — ده اسمه sampling variation."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — All four measures  [4 marks]\nFind the mode, median, mean and range of: 7, 3, 9, 4, 8, 13, 5, 10, 4."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Order: 3, 4, 4, 5, 7, 8, 9, 10, 13 (9 values).",
+    "Mode = 4 (twice).",
+    "Median = 5th value = 7.",
+    "Mean = (3 + 4 + 4 + 5 + 7 + 8 + 9 + 10 + 13) ÷ 9 = 63 ÷ 9 = 7.",
+    "Range = 13 − 3 = 10."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** mode 4, median 7, mean 7, range 10.\n**Common mistake:** finding the middle of the unordered list (8) as the median."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — Median of an even number of values  [1 mark]\nFind the median of 12, 15, 9, 20, 17, 11."
+  },
+  {
+   "type": "p",
+   "text": "Order: 9, 11, **12, 15**, 17, 20. The middle two are 12 and 15. Median = (12 + 15) ÷ 2 = **13.5**."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — Missing value  [2 marks]\nThe mean of six numbers is 9. Five of the numbers are 7, 12, 5, 10 and 11. Find the sixth number."
+  },
+  {
+   "type": "p",
+   "text": "Total of six numbers = 6 × 9 = 54. Total of five = 7 + 12 + 5 + 10 + 11 = 45. Sixth number = 54 − 45 = **9**.\n**Common mistake:** finding the mean of the five numbers instead of using the total."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — Comparing two classes  [2 marks]\nClass 8A: median mark 62, range 15. Class 8B: median mark 58, range 34. Make **two** comparisons between the classes."
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** (1) Class 8A did better on average, because its median mark (62) is higher than 8B’s (58). (2) Class 8A’s marks were more consistent, because its range (15) is smaller than 8B’s (34).\n**Common mistake:** “8A’s median is 62 and 8B’s median is 58.” Just copying the numbers is not a comparison — say which is higher **and what that means**."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — Choosing an average  [2 marks]\nThe weekly pocket money of seven friends is: 50, 60, 60, 70, 75, 80, 500 Egyptian pounds. Which average best represents a typical amount? Explain."
+  },
+  {
+   "type": "p",
+   "text": "Mean = 895 ÷ 7 ≈ 127.9 pounds; median = 70 pounds. Six of the seven friends get 80 pounds or less, so the mean is not typical.\n**Answer:** the median (70 pounds), because the mean is pulled up by the outlier 500."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** — Checking a prediction  [2 marks]\nRana predicts that students who sleep more than 8 hours get higher test scores. In her sample of 12 students, the 5 students who slept more than 8 hours had a mean score of 71; the other 7 had a mean score of 69. Rana says: “This proves my prediction.” Explain why Rana should be careful."
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** the difference in the means (71 − 69 = 2) is very small, and the sample is very small (12 students), so a different sample could easily give the opposite result (sampling variation). The data only slightly support the prediction; they do not prove it. A larger sample is needed."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Forgetting to put the data in order before finding the median.",
+    "Giving the highest frequency instead of the value as the mode in a frequency table.",
+    "Mean from a frequency table: dividing Σfx by the number of rows instead of the total frequency.",
+    "Giving the range as “3 to 13” — the range is one number: 13 − 3 = 10.",
+    "Comparing only averages and forgetting spread (or the other way round).",
+    "Writing numbers without words: always say what the comparison means in the context.",
+    "Saying a small sample “proves” something. Data can support or not support a prediction."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "“Work out the mean / median / range” from a list, a frequency table or a stem-and-leaf diagram — show your working.",
+    "“The mean of … numbers is …; find the missing number” — use total = mean × number of values.",
+    "“Compare the … of the two groups” — usually 2 marks: one for an average comparison, one for a spread comparison, both in context.",
+    "“Which average should … use? Give a reason.” — mention the outlier or the type of data.",
+    "“Is … correct? Explain.” — critique a statement or a conclusion; mention sample size or variation."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Averages, range and comparing — practice",
+   "timed": false,
+   "intro": "13 questions from easy to Checkpoint-hard. Calculator allowed. For the explain questions, mark yourself with the mark scheme shown after you finish.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 25,
+     "calc": true,
+     "questions": [
+      {
+       "t": "num",
+       "p": "Data: 6, 2, 9, 4, 6, 8, 6, 3",
+       "q": "(a) Write the mode.",
+       "ans": [
+        6
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Averages",
+       "e": "6 appears three times, more than any other value."
+      },
+      {
+       "t": "num",
+       "p": "Data: 6, 2, 9, 4, 6, 8, 6, 3",
+       "q": "(b) Work out the median.",
+       "ans": [
+        6
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Averages",
+       "e": "Ordered: 2, 3, 4, 6, 6, 6, 8, 9. Eight values, so the median is halfway between the 4th and 5th values: (6 + 6) ÷ 2 = 6."
+      },
+      {
+       "t": "num",
+       "p": "Data: 6, 2, 9, 4, 6, 8, 6, 3",
+       "q": "(c) Work out the mean.",
+       "ans": [
+        5.5
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Averages",
+       "e": "Total = 6 + 2 + 9 + 4 + 6 + 8 + 6 + 3 = 44. Mean = 44 ÷ 8 = 5.5."
+      },
+      {
+       "t": "num",
+       "p": "Data: 6, 2, 9, 4, 6, 8, 6, 3",
+       "q": "(d) Work out the range.",
+       "ans": [
+        7
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Range",
+       "e": "9 − 2 = 7."
+      },
+      {
+       "t": "num",
+       "q": "Find the median of 21, 14, 30, 18, 25, 16.",
+       "ans": [
+        19.5
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Averages",
+       "e": "Ordered: 14, 16, 18, 21, 25, 30. Median = (18 + 21) ÷ 2 = 19.5."
+      },
+      {
+       "t": "num",
+       "p": "The table shows the number of pets owned by 20 students.\nPets | 1 | 2 | 3 | 4\nFrequency | 5 | 8 | 4 | 3",
+       "q": "Work out the mean number of pets.",
+       "ans": [
+        2.25
+       ],
+       "tol": 0,
+       "m": 2,
+       "s": "Mean from a table",
+       "e": "Σfx = 1×5 + 2×8 + 3×4 + 4×3 = 5 + 16 + 12 + 12 = 45. Mean = 45 ÷ 20 = 2.25 pets."
+      },
+      {
+       "t": "num",
+       "q": "The mean of five numbers is 12. Four of the numbers are 10, 15, 8 and 13. Work out the fifth number.",
+       "ans": [
+        14
+       ],
+       "tol": 0,
+       "m": 2,
+       "s": "Mean",
+       "e": "Total = 5 × 12 = 60. Four numbers total 10 + 15 + 8 + 13 = 46. Fifth = 60 − 46 = 14."
+      },
+      {
+       "t": "num",
+       "p": "Stem-and-leaf diagram of the masses (kg) of 10 dogs. Key: 4|1 means 41 kg.\nStem | Leaf\n3 | 2 5 8\n4 | 0 1 1 6 9\n5 | 3 7",
+       "q": "Work out the median mass.",
+       "ans": [
+        41
+       ],
+       "tol": 0,
+       "unit": "kg",
+       "m": 1,
+       "s": "Stem-and-leaf",
+       "e": "Values: 32, 35, 38, 40, 41, 41, 46, 49, 53, 57. Median = (5th + 6th) ÷ 2 = (41 + 41) ÷ 2 = 41 kg."
+      },
+      {
+       "q": "Which average must be used for the favourite colours of a class?",
+       "c": [
+        "mean",
+        "median",
+        "range",
+        "mode"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Choosing an average",
+       "e": "Colours are categorical — you cannot add or order them — so only the mode can be used. (The range is not an average.)"
+      },
+      {
+       "q": "The heights of four plants are 20 cm, 22 cm, 23 cm and 25 cm. A fifth plant 60 cm tall is added. What happens?",
+       "c": [
+        "The mean increases a lot but the median increases only a little.",
+        "The median increases a lot but the mean stays the same.",
+        "Both stay the same.",
+        "The range decreases."
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Outliers",
+       "e": "Before: mean 90 ÷ 4 = 22.5, median 22.5. After: mean 150 ÷ 5 = 30, median 23. The outlier pulls the mean up by 7.5 cm, the median by only 0.5 cm. The range increases from 5 to 40."
+      },
+      {
+       "q": "Team P: mean 64 seconds, range 5 seconds. Team Q: mean 61 seconds, range 12 seconds (times to complete a relay — lower is better). Which statement is correct?",
+       "c": [
+        "Team P was faster on average and more consistent.",
+        "Team Q was faster on average; Team P was more consistent.",
+        "Team Q was faster on average and more consistent.",
+        "Team P was faster on average; Team Q was more consistent."
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Comparing distributions",
+       "e": "Lower times are better, so Q (61 s) was faster on average. P has the smaller range (5 s), so P was more consistent."
+      },
+      {
+       "t": "open",
+       "q": "Two machines fill bags of rice. Machine X: mean 1002 g, range 6 g. Machine Y: mean 1002 g, range 25 g. The bags should contain 1000 g. Make **two** comparisons and say which machine is better.",
+       "m": 2,
+       "s": "Comparing distributions",
+       "ms": "1 mark: both machines fill the same amount on average (same mean, 1002 g). 1 mark: Machine X is more consistent (smaller range, 6 g compared with 25 g), so X is better. Comparisons must be in context, not just the numbers copied.",
+       "e": "On average both machines put the same mass in a bag (mean 1002 g). Machine X’s range is much smaller (6 g against 25 g), so its bags are much more consistent — Machine Y sometimes puts in far too little or too much. X is better."
+      },
+      {
+       "t": "open",
+       "q": "Omar asks 8 of his friends how many hours they spend on games each week. The mean is 14 hours. He concludes: “Students at my school spend 14 hours a week on games.” Give **two** reasons why his conclusion may not be reliable.",
+       "m": 2,
+       "s": "Conclusions and sampling",
+       "ms": "1 mark each, any two: the sample is small (only 8); the sample is biased / friends are not representative (they may have similar habits); a different sample would give a different mean (sampling variation); the answers are estimates or may not be honest; one week may not be typical. Do not accept two versions of the same point.",
+       "e": "Only 8 students were asked, which is a very small sample, and they are all his friends, who probably have similar habits — the sample is not representative of the whole school. Another sample would give a different mean."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Mode = most common; median = middle of the ordered data; mean = total ÷ number of values; range = largest − smallest.",
+    "Frequency table: mean = Σfx ÷ Σf. Missing value: total = mean × number of values.",
+    "Outliers pull the mean; use the median then. Use the mode for categorical data.",
+    "Compare with one average **and** the range, in context: higher average = more/better on average; smaller range = more consistent.",
+    "Conclusions from samples can only support a prediction; think about sample size, bias and sampling variation."
+   ]
+  }
+ ]
+}

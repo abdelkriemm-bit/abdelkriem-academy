@@ -1,0 +1,583 @@
+{
+ "slug": "cp6m-overview",
+ "title": "Checkpoint 6 Maths: The Test and How to Prepare",
+ "kicker": "Cambridge Primary Checkpoint · Mathematics 0096 · Stage 6 · Start here",
+ "summary": "How the Cambridge Primary Checkpoint Mathematics test works — papers, marks, calculator rules, mark-scheme words and results — plus a study plan and Thinking and Working Mathematically explained.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "This course follows the Cambridge Primary Mathematics curriculum framework (0096) for Stage 6: all 54 content objectives in three strands — Number; Geometry and Measure; Statistics and Probability.",
+    "It also builds the eight characteristics of Thinking and Working Mathematically (TWM.01–TWM.08), which run through every topic rather than being a separate chapter.",
+    "Every lesson page starts with a box like this one that lists its objectives and their codes (for example 6Ni.01), so students, parents and teachers can see exactly what is covered."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Cambridge Primary Checkpoint is taken at the end of Cambridge Primary. It tests the skills, knowledge and understanding a student should have at the **end of Stage 6**. This page explains how the Mathematics test works, what the examiners look for, and how to use this free course to get ready — step by step."
+  },
+  {
+   "type": "h2",
+   "text": "1. The test at a glance"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 520 210\" width=\"520\" font-family=\"Arial, sans-serif\"><rect x=\"20\" y=\"10\" width=\"230\" height=\"160\" rx=\"10\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"135\" y=\"42\" font-size=\"20\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#0f1b33\">Paper 1</text><text x=\"135\" y=\"74\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\">45 minutes</text><text x=\"135\" y=\"100\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\">40 marks</text><text x=\"135\" y=\"132\" font-size=\"15\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#b3261e\">No calculator</text><text x=\"135\" y=\"156\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">answer on the paper</text><rect x=\"270\" y=\"10\" width=\"230\" height=\"160\" rx=\"10\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"385\" y=\"42\" font-size=\"20\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#0f1b33\">Paper 2</text><text x=\"385\" y=\"74\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\">45 minutes</text><text x=\"385\" y=\"100\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\">40 marks</text><text x=\"385\" y=\"132\" font-size=\"15\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#1d5fbf\">Calculator allowed</text><text x=\"385\" y=\"156\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">answer on the paper</text><text x=\"260.0\" y=\"198\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\">Total: 2 papers · 90 minutes · 80 marks</text></svg>",
+   "caption": "Checkpoint Mathematics: two papers of 45 minutes, 40 marks each."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "",
+    "Paper 1",
+    "Paper 2"
+   ],
+   "rows": [
+    [
+     "Time",
+     "45 minutes",
+     "45 minutes"
+    ],
+    [
+     "Marks",
+     "40",
+     "40"
+    ],
+    [
+     "Calculator",
+     "Not allowed",
+     "Allowed"
+    ],
+    [
+     "Where you answer",
+     "On the question paper",
+     "On the question paper"
+    ],
+    [
+     "Test code",
+     "0096/01",
+     "0096/02"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Equipment:** the paper covers list compasses and a protractor, with tracing paper as optional. You also need your pens and an HB pencil, and a calculator for Paper 2.",
+    "**Pen and pencil:** write answers in black or dark blue pen. Use an HB pencil for diagrams and graphs. Do not use erasable pens or correction fluid — if you make a mistake, cross it out neatly and write the new answer next to it.",
+    "**Working:** show all your working in the booklet, in the space next to the question.",
+    "**Size of the papers:** recent papers have been about 20 pages long, with roughly 30 numbered questions. Most questions are worth **1 mark**; a few are worth **2 marks**.",
+    "**When:** from 2026 Cambridge runs Checkpoint in three series a year — March, May and October — on a fixed timetable. Your school will tell you which series and dates apply to you."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Older past papers",
+   "text": "You may find past papers with the code **0845**. They were written for the previous curriculum. They are still useful practice, but papers with the code **0096** match the current framework that this course follows."
+  },
+  {
+   "type": "h2",
+   "text": "2. What the questions look like"
+  },
+  {
+   "type": "p",
+   "text": "There is no separate multiple-choice section. Short \"choose\" questions (tick, ring, match) are mixed in with questions where you write your own answer. Here are the styles you will meet — every lesson in this course practises them."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Question style",
+    "What you do",
+    "Example"
+   ],
+   "rows": [
+    [
+     "Short answer",
+     "Write a number in the answer box or space",
+     "Work out 3.6 × 7."
+    ],
+    [
+     "Ring / tick",
+     "Draw a ring around, or tick, the correct answer(s)",
+     "Ring the two numbers that are multiples of 6."
+    ],
+    [
+     "True or false + explain",
+     "Tick a box and give a reason",
+     "Is 0.5 bigger than 0.45? Explain how you know."
+    ],
+    [
+     "Complete the table",
+     "Fill in the empty cells",
+     "A position–term table for a sequence"
+    ],
+    [
+     "Matching",
+     "Draw lines between equal values",
+     "Match each fraction to its percentage."
+    ],
+    [
+     "Sorting diagrams",
+     "Write numbers or shapes in a Venn or Carroll diagram",
+     "Sort 12, 15, 18, 20 by \"even\" and \"multiple of 3\"."
+    ],
+    [
+     "Grids and drawings",
+     "Plot points, draw a reflection, rotation or translation, construct a circle",
+     "Reflect the triangle in the mirror line."
+    ],
+    [
+     "Read a graph or chart",
+     "Take values from a bar chart, line graph, pie chart…",
+     "How many more…? What was the temperature at 2 pm?"
+    ],
+    [
+     "Missing numbers and symbols",
+     "Fill in boxes, or write <, > or =",
+     "3/4 ☐ 0.7"
+    ],
+    [
+     "Written calculation layouts",
+     "Complete a column method or grid",
+     "Fill in the missing digits in a long multiplication."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Timing:** 45 minutes for 40 marks is just over 1 minute per mark. A 1-mark question should not take you 5 minutes. If you are stuck, mark it in the margin, move on, and come back at the end."
+  },
+  {
+   "type": "h2",
+   "text": "3. How the papers are marked"
+  },
+  {
+   "type": "p",
+   "text": "The papers are marked by Cambridge using a **mark scheme**. Each row of the mark scheme gives the question, the correct answer, the marks, any **part marks**, and **guidance** for the examiner. Knowing the short codes helps you understand why working matters."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Code",
+    "Meaning",
+    "What it means for you"
+   ],
+   "rows": [
+    [
+     "M1",
+     "method mark",
+     "You get a mark for a correct method, even if the final answer is wrong — so write the method down."
+    ],
+    [
+     "A1",
+     "accuracy mark",
+     "A mark for the correct answer. It usually depends on a correct method."
+    ],
+    [
+     "B1",
+     "independent mark",
+     "A mark for a correct answer or statement on its own."
+    ],
+    [
+     "FT",
+     "follow through",
+     "If you got part (a) wrong but used your answer correctly in part (b), you can still get the mark for (b)."
+    ],
+    [
+     "oe",
+     "or equivalent",
+     "Other correct forms are accepted, e.g. ½, 0.5 or 2/4."
+    ],
+    [
+     "cao",
+     "correct answer only",
+     "Only that exact answer earns the mark — no other form, no part credit."
+    ],
+    [
+     "isw",
+     "ignore subsequent working",
+     "Once the correct answer is seen, later extra work is ignored."
+    ],
+    [
+     "soi",
+     "seen or implied",
+     "A step earns credit if it is written, or clearly used in your working."
+    ],
+    [
+     "dep",
+     "dependent",
+     "This mark can only be given if an earlier mark was given."
+    ],
+    [
+     "SC",
+     "special case",
+     "A mark given for a particular partly correct answer described in the scheme."
+    ],
+    [
+     "nfww",
+     "not from wrong working",
+     "The answer only scores if it did not come from incorrect working."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Typical examiner guidance says things like \"award 1 mark for a complete correct method with arithmetic errors\" or \"if any arithmetic is shown, it must be correct\". So on 2-mark questions, **always show your working**: a clear method can earn 1 mark even if you slip at the end. But keep the working neat and correct — wrong extra working can cost you."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "\"Show your working\" — what to write",
+   "items": [
+    "Write the calculation you are doing, not just the answer: 3 × 28 = 84, then 100 − 84 = 16.",
+    "Number lines, tables, bar models and sketches count as working.",
+    "Put your final answer where the question asks (in the box or on the line), with units if needed.",
+    "If you change your mind, cross out the wrong work with one neat line so the examiner can see your new answer."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "4. How results are reported"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Students receive a **statement of achievement**.",
+    "Schools receive a **diagnostic feedback report**, showing strengths and weaknesses. Results are reported for the subject as a whole and for each **strand** (Number; Geometry and Measure; Statistics and Probability).",
+    "Results also give schools an **international benchmark** for their students' performance."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "Because results are reported by strand, a gap in one area (for example Statistics) shows up clearly. This course is arranged by strand so that you can fix weak areas one at a time."
+  },
+  {
+   "type": "h2",
+   "text": "5. How to use this course"
+  },
+  {
+   "type": "p",
+   "text": "Every lesson page has the same shape: **In the curriculum** → key words (with Arabic) → teaching with diagrams → **worked examples** → common mistakes and **How Checkpoint asks this** → an interactive **practice quiz** with full solutions → **Remember** summary."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Read the teaching sections and copy the key words and rules into a maths notebook.",
+    "Cover each worked example's solution, try it yourself, then compare line by line.",
+    "Do the practice quiz without a calculator unless it says calculator allowed. Use paper for working, exactly as in the real test.",
+    "Write every question you got wrong into an **error log**: the question, your mistake, the correct method.",
+    "One week later, redo the quiz. Aim for full marks before you move on.",
+    "After each strand, do a mixed review; at the end, do the three full practice tests in timed conditions (45 minutes per paper)."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Suggested weeks",
+    "Pages",
+    "Focus"
+   ],
+   "rows": [
+    [
+     "Week 1",
+     "This page",
+     "Know the test, set up your notebook and error log"
+    ],
+    [
+     "Weeks 2–5",
+     "Number: integers and calculation (7 pages)",
+     "Negative numbers, sequences, order of operations, ×, ÷, factors, squares and cubes"
+    ],
+    [
+     "Weeks 6–9",
+     "Number: place value, decimals, fractions, percentages and ratio (8 pages)",
+     "Most of Paper 1 and Paper 2 use these skills"
+    ],
+    [
+     "Weeks 10–14",
+     "Geometry and measure (9 pages)",
+     "Bring compasses, protractor and a ruler"
+    ],
+    [
+     "Weeks 15–16",
+     "Statistics and probability (3 pages)",
+     "Reading and drawing graphs; averages; probability words"
+    ],
+    [
+     "Weeks 17–18",
+     "Practice tests 1–3",
+     "Timed: Paper 1 without a calculator, Paper 2 with one; mark using the solutions"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "This is a suggestion — two lesson pages a week fits well around school. If your test is sooner, do one page a day and spend the extra time on your weakest strand."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "لولي الأمر",
+   "items": [
+    "امتحان Checkpoint رياضيات = ورقتين، كل ورقة 45 دقيقة و40 درجة. الورقة الأولى بدون آلة حاسبة، والثانية مسموح فيها بالآلة الحاسبة.",
+    "الطالب بيجاوب في ورقة الأسئلة نفسها، ولازم يكتب خطوات الحل لأن في درجات على الطريقة (method marks).",
+    "النتيجة بتطلع شهادة للطالب وتقرير للمدرسة يوضح المستوى في كل فرع (الأعداد – الهندسة والقياس – الإحصاء والاحتمالات).",
+    "أفضل طريقة: صفحتين في الأسبوع، وكراسة أخطاء يكتب فيها الطالب كل سؤال غلط فيه ويعيد حله بعد أسبوع."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "6. Thinking and Working Mathematically (TWM)"
+  },
+  {
+   "type": "p",
+   "text": "Cambridge wants you not only to calculate, but to **think like a mathematician**. There are eight characteristics, in four pairs. You will not see the words \"specialising\" or \"conjecturing\" in a test question, but you will see questions such as \"Explain how you know\", \"Give an example to show this is wrong\", \"Sort these numbers\" and \"Describe the pattern\" — those are TWM."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 520 230\" width=\"520\" font-family=\"Arial, sans-serif\"><rect x=\"15\" y=\"10\" width=\"240\" height=\"100\" rx=\"10\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"135\" y=\"38\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#0f1b33\">Specialising</text><text x=\"135\" y=\"59\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\">and</text><text x=\"135\" y=\"80\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#0f1b33\">Generalising</text><text x=\"135\" y=\"100\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">TWM.01 · TWM.02</text><rect x=\"265\" y=\"10\" width=\"240\" height=\"100\" rx=\"10\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"385\" y=\"38\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#0f1b33\">Conjecturing</text><text x=\"385\" y=\"59\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\">and</text><text x=\"385\" y=\"80\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#0f1b33\">Convincing</text><text x=\"385\" y=\"100\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">TWM.03 · TWM.04</text><rect x=\"15\" y=\"120\" width=\"240\" height=\"100\" rx=\"10\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"135\" y=\"148\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#0f1b33\">Characterising</text><text x=\"135\" y=\"169\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\">and</text><text x=\"135\" y=\"190\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#0f1b33\">Classifying</text><text x=\"135\" y=\"210\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">TWM.05 · TWM.06</text><rect x=\"265\" y=\"120\" width=\"240\" height=\"100\" rx=\"10\" fill=\"#f3e8f8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"385\" y=\"148\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#0f1b33\">Critiquing</text><text x=\"385\" y=\"169\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\">and</text><text x=\"385\" y=\"190\" font-size=\"16\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#0f1b33\">Improving</text><text x=\"385\" y=\"210\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">TWM.07 · TWM.08</text></svg>",
+   "caption": "The eight TWM characteristics come in four pairs."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Code",
+    "Characteristic",
+    "In simple words",
+    "Stage 6 example"
+   ],
+   "rows": [
+    [
+     "TWM.01",
+     "Specialising",
+     "Try a particular example to test an idea",
+     "Is the sum of three numbers in a row always a multiple of 3? Try 4 + 5 + 6 = 15 ✓ and 10 + 11 + 12 = 33 ✓."
+    ],
+    [
+     "TWM.02",
+     "Generalising",
+     "Spot the pattern that works for all the examples",
+     "\"The sum of three numbers in a row is always 3 × the middle number.\""
+    ],
+    [
+     "TWM.03",
+     "Conjecturing",
+     "Make a guess or ask a \"what if…?\" question",
+     "\"I think two odd numbers always add to an even number.\" \"What if I add four numbers in a row?\""
+    ],
+    [
+     "TWM.04",
+     "Convincing",
+     "Give evidence to prove an idea — or one example to show it is wrong",
+     "\"All numbers ending in 4 are multiples of 4\" is wrong: 14 ÷ 4 = 3.5."
+    ],
+    [
+     "TWM.05",
+     "Characterising",
+     "Describe the mathematical properties of something",
+     "A square: 4 equal sides, 4 right angles, 2 pairs of parallel sides, 4 lines of symmetry, rotational symmetry of order 4."
+    ],
+    [
+     "TWM.06",
+     "Classifying",
+     "Sort things into groups by their properties",
+     "Put 6, 9, 12, 14, 15 into a Venn diagram for \"even\" and \"multiple of 3\"."
+    ],
+    [
+     "TWM.07",
+     "Critiquing",
+     "Compare methods or answers; find advantages and disadvantages",
+     "For 8 × 49: column method vs 8 × 50 − 8. The second is quicker in your head."
+    ],
+    [
+     "TWM.08",
+     "Improving",
+     "Make a method or diagram better",
+     "Change a messy list of pairs that add to 10 into an organised table, so no pair is missed."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**A TWM example in action.** Look at 1 + 3 = 4, 1 + 3 + 5 = 9, 1 + 3 + 5 + 7 = 16. **Specialising:** we tried three cases. **Conjecturing:** \"I think adding the first few odd numbers always gives a square number.\" **Generalising:** the first 5 odd numbers should give 5 × 5 = 25 — check: 1 + 3 + 5 + 7 + 9 = 25 ✓. **Convincing:** the dot diagram of a square grows by an L-shape of an odd number of dots each time."
+  },
+  {
+   "type": "h2",
+   "text": "7. Exam technique for both papers"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Read every question twice. Underline the key words: **estimate**, **explain**, **show**, **nearest**, **units**, **two**.",
+    "If a question says \"Tick two\" or \"Ring all\", count how many you have given.",
+    "Write the units (cm, cm^{2}, kg, °C) when the answer line does not already show them.",
+    "On Paper 1, use quick written methods and number facts; on Paper 2, use the calculator but still write the calculation you typed.",
+    "Estimate before you calculate, then check your answer is sensible.",
+    "For \"Explain\" questions write a full sentence with a number fact, e.g. \"No, because 7 × 7 = 49 and 8 × 8 = 64, so 50 is not a square number.\"",
+    "Use a sharp HB pencil and a ruler for drawings; draw points and lines accurately.",
+    "Leave no question blank — a sensible attempt or a method can still score."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes in Checkpoint Maths",
+   "items": [
+    "Answering a different question: giving the total when it asks for the difference, or the area when it asks for the perimeter.",
+    "Only writing an answer on a 2-mark question, with no method — a slip then scores 0 instead of 1.",
+    "Forgetting \"to the nearest…\" or \"give your answer as a fraction\".",
+    "Spending too long on one hard question and not finishing the paper.",
+    "Using the calculator for everything on Paper 2 and typing it wrongly — always ask: is my answer about the right size?",
+    "Writing the answer in pencil or using correction fluid."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks TWM",
+   "items": [
+    "\"Explain how you know.\" → give a reason with numbers (Convincing).",
+    "\"Give an example to show that … is not correct.\" → one counter-example (Specialising/Convincing).",
+    "\"Sort these numbers/shapes into the diagram.\" → Classifying.",
+    "\"Describe the pattern\" / \"What is the 20th term?\" → Generalising.",
+    "\"Which method is better? Why?\" or \"Explain the mistake\" → Critiquing."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Check your understanding"
+  },
+  {
+   "type": "test",
+   "title": "Know your test",
+   "timed": false,
+   "intro": "8 quick questions about the Checkpoint test and Thinking and Working Mathematically.",
+   "sections": [
+    {
+     "name": "Quiz",
+     "minutes": 10,
+     "calc": false,
+     "questions": [
+      {
+       "t": "num",
+       "q": "How many minutes is each Checkpoint Mathematics paper?",
+       "ans": [
+        45
+       ],
+       "tol": 0,
+       "unit": "minutes",
+       "m": 1,
+       "e": "Each paper (Paper 1 and Paper 2) lasts 45 minutes.",
+       "s": "The test"
+      },
+      {
+       "q": "In which paper are you allowed to use a calculator?",
+       "c": [
+        "Paper 1 only",
+        "Paper 2 only",
+        "Both papers",
+        "Neither paper"
+       ],
+       "a": 1,
+       "m": 1,
+       "e": "Paper 1 is the non-calculator paper. A calculator is allowed in Paper 2.",
+       "s": "The test"
+      },
+      {
+       "q": "In a mark scheme, what does \"oe\" mean?",
+       "c": [
+        "or equivalent",
+        "only exact",
+        "one error allowed",
+        "out of each"
+       ],
+       "a": 0,
+       "m": 1,
+       "e": "oe = or equivalent: other correct forms (for example ½, 0.5 or 2/4) are accepted.",
+       "s": "Mark schemes"
+      },
+      {
+       "q": "In a 2-mark question, you write a correct method but make a small adding mistake, so your final answer is wrong. What will you most likely get?",
+       "c": [
+        "0 marks, because the answer is wrong",
+        "2 marks, because the method is right",
+        "You lose a mark from another question",
+        "1 mark for the method"
+       ],
+       "a": 3,
+       "m": 1,
+       "e": "Two-mark questions usually give a method mark (M1) for a correct method even when the final answer is wrong. That is why you should always show your working.",
+       "s": "Mark schemes"
+      },
+      {
+       "q": "Hana wants to check the statement \"Every multiple of 4 is even.\" She tries 12, 20 and 36. Which TWM characteristic is she using?",
+       "c": [
+        "Classifying",
+        "Improving",
+        "Specialising",
+        "Critiquing"
+       ],
+       "a": 2,
+       "m": 1,
+       "e": "Choosing particular examples to test whether they meet a rule is specialising (TWM.01).",
+       "s": "TWM"
+      },
+      {
+       "q": "Youssef sorts a set of shapes into a Carroll diagram: \"has a right angle / does not have a right angle\" and \"quadrilateral / not a quadrilateral\". Which TWM characteristic is this?",
+       "c": [
+        "Convincing",
+        "Generalising",
+        "Characterising",
+        "Classifying"
+       ],
+       "a": 3,
+       "m": 1,
+       "e": "Organising objects into groups by their properties is classifying (TWM.06). (Describing the properties of one shape would be characterising.)",
+       "s": "TWM"
+      },
+      {
+       "t": "num",
+       "p": "1 + 3 = 4\n1 + 3 + 5 = 9\n1 + 3 + 5 + 7 = 16",
+       "q": "Continue the pattern (generalising). What is the total of the first 10 odd numbers, 1 + 3 + 5 + … + 19?",
+       "ans": [
+        100
+       ],
+       "tol": 0,
+       "m": 1,
+       "e": "The first 2 odd numbers add to 2 × 2 = 4, the first 3 to 3 × 3 = 9, the first 4 to 4 × 4 = 16. So the first 10 odd numbers add to 10 × 10 = 100. (Check by pairing: 1 + 19 = 20, 3 + 17 = 20, … 5 pairs × 20 = 100 ✓)",
+       "s": "TWM"
+      },
+      {
+       "t": "open",
+       "q": "Sami says: \"All numbers that end in 4 are multiples of 4.\" Give an example to show that Sami is wrong, and explain.",
+       "m": 1,
+       "ms": "1 mark: a correct counter-example with a reason, e.g. 14 (14 ÷ 4 = 3.5, not a whole number), or 34, 54, 74, 94… Accept any number ending in 4 that is not a multiple of 4, with working or a reason. Do not accept 4, 24, 44, 64, 84 (these are multiples of 4).",
+       "e": "Example: 14 ends in 4, but 14 ÷ 4 = 3.5, which is not a whole number, so 14 is not a multiple of 4. One counter-example is enough to show a statement is false (convincing, TWM.04).",
+       "s": "TWM"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Two papers, 45 minutes and 40 marks each. Paper 1: no calculator. Paper 2: calculator allowed.",
+    "Answer on the paper in black or dark blue pen; diagrams in HB pencil; no correction fluid.",
+    "Show your working — 2-mark questions often give a method mark.",
+    "Results are reported for the subject and for each strand, so work on your weakest strand.",
+    "Think like a mathematician: test examples, spot patterns, explain, sort, compare and improve (TWM).",
+    "Use every lesson page fully: worked examples → quiz → error log → redo."
+   ]
+  }
+ ]
+}

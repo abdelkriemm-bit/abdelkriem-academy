@@ -1,0 +1,748 @@
+{
+ "slug": "cp8m-expressions",
+ "title": "Algebraic Expressions: Simplifying, Expanding and Factorising",
+ "kicker": "Checkpoint 8 Maths · Algebra · Expressions",
+ "summary": "What letters mean in expressions, formulae and equations; simplifying with the laws of arithmetic (including squares and cubes); expanding a single bracket and factorising by taking out the highest common factor.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Understand that a letter can mean different things: in an **expression** it can stand for any number, in a **formula** it stands for a quantity linked to other quantities, and in an **equation** it stands for an unknown number you can find (8Ae.01)",
+    "Use the laws of arithmetic and the order of operations with algebra — adding, subtracting, multiplying and dividing terms, including squares and cubes (8Ae.02)",
+    "Expand a bracket multiplied by a single term (including answers with squares and cubes), and factorise an expression by taking out the highest common factor (8Ae.03)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Algebra is arithmetic with letters. Every rule you use with numbers — brackets first, multiplication before addition, a × b = b × a — works in exactly the same way with letters. This page teaches you to read algebra correctly, simplify it, multiply out brackets (**expand**) and put brackets back in (**factorise**)."
+  },
+  {
+   "type": "h2",
+   "text": "Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "term",
+     "حد — a number, a letter, or numbers and letters multiplied together, e.g. 5, x, 3ab, 4y²"
+    ],
+    [
+     "coefficient",
+     "معامل — the number in front of the letter; in 7x² the coefficient is 7"
+    ],
+    [
+     "like terms",
+     "حدود متشابهة — terms with exactly the same letters and powers, e.g. 3x and −5x; 2a² and a²"
+    ],
+    [
+     "expression",
+     "مقدار جبري — terms joined by + or −, with no equals sign, e.g. 3n + 5"
+    ],
+    [
+     "formula",
+     "قانون / صيغة — a rule linking quantities, e.g. A = lw"
+    ],
+    [
+     "equation",
+     "معادلة — two sides that are equal, with an unknown to find, e.g. 3n + 5 = 20"
+    ],
+    [
+     "variable / unknown",
+     "متغير / مجهول — a letter that can change / a letter with a particular value to find"
+    ],
+    [
+     "simplify",
+     "يبسّط — write in the shortest form by collecting like terms"
+    ],
+    [
+     "expand",
+     "يفك الأقواس — multiply out the brackets"
+    ],
+    [
+     "factorise",
+     "يحلل — write as a product by taking out a common factor"
+    ],
+    [
+     "highest common factor (HCF)",
+     "العامل المشترك الأكبر — the biggest factor shared by all the terms"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. Expressions, formulae and equations"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "",
+    "Example",
+    "What the letter means",
+    "How to spot it"
+   ],
+   "rows": [
+    [
+     "Expression",
+     "3n + 5",
+     "n can be **any** number (a variable). Different n gives a different value.",
+     "No equals sign"
+    ],
+    [
+     "Formula",
+     "A = l × w",
+     "Each letter is a **quantity** (area, length, width). Change l or w and A changes.",
+     "Equals sign; letters on both sides stand for named quantities; one letter is the subject"
+    ],
+    [
+     "Equation",
+     "3n + 5 = 20",
+     "n is an **unknown** with a particular value. Here n = 5 only.",
+     "Equals sign; you can solve it to find the letter"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "The same letter can play different roles. In the expression 2t + 1, t can be anything. In the formula s = d/t, t means 'time taken'. In the equation 2t + 1 = 9, t must be 4. Checkpoint may ask you to sort examples into expression / formula / equation, or to say what a letter represents."
+  },
+  {
+   "type": "h2",
+   "text": "2. Writing algebra the standard way"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Instead of…",
+    "Write",
+    "Note"
+   ],
+   "rows": [
+    [
+     "3 × a",
+     "3a",
+     "number first, no × sign"
+    ],
+    [
+     "a × b",
+     "ab",
+     "letters usually in alphabetical order"
+    ],
+    [
+     "1 × x",
+     "x",
+     "never write 1x"
+    ],
+    [
+     "a × a",
+     "a²",
+     "a squared"
+    ],
+    [
+     "a × a × a",
+     "a³",
+     "a cubed"
+    ],
+    [
+     "y ÷ 4",
+     "y/4",
+     "division is written as a fraction"
+    ],
+    [
+     "4 × (x + 2)",
+     "4(x + 2)",
+     "the number touches the bracket"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Order of operations still applies.** 3x² means 3 × x², so square x first, then multiply by 3. (3x)² means work out 3x first, then square. If x = −2: 3x² = 3 × (−2)² = 3 × 4 = **12**, but (3x)² = (−6)² = **36**. And x³ + 4 = (−2)³ + 4 = −8 + 4 = **−4**."
+  },
+  {
+   "type": "p",
+   "text": "**The laws of arithmetic work with letters:** a + b = b + a and ab = ba (commutative); (a + b) + c = a + (b + c) and (ab)c = a(bc) (associative); a(b + c) = ab + ac (distributive). These laws are why we can collect like terms and expand brackets."
+  },
+  {
+   "type": "h2",
+   "text": "3. Collecting like terms"
+  },
+  {
+   "type": "p",
+   "text": "You can only add or subtract **like terms**: same letters, same powers. Each term owns the sign in front of it. Underline or colour each group of like terms."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Expression",
+    "Like terms grouped",
+    "Simplified"
+   ],
+   "rows": [
+    [
+     "4a + 3b − a + 5b",
+     "(4a − a) + (3b + 5b)",
+     "3a + 8b"
+    ],
+    [
+     "2x² + 5x − x² + 3x",
+     "(2x² − x²) + (5x + 3x)",
+     "x² + 8x"
+    ],
+    [
+     "3ab + 2ba − ab",
+     "ab and ba are like terms",
+     "4ab"
+    ],
+    [
+     "7y − 3 − 2y + 8",
+     "(7y − 2y) + (−3 + 8)",
+     "5y + 5"
+    ],
+    [
+     "x² + x",
+     "not like terms",
+     "x² + x (cannot be simplified)"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "x² and x are **not** like terms (x² = x × x is a different thing from x), so x² + x stays as it is. Also x + x = 2x, but x × x = x²."
+  },
+  {
+   "type": "h2",
+   "text": "4. Multiplying and dividing terms"
+  },
+  {
+   "type": "p",
+   "text": "**Multiply the numbers, then multiply the letters.** Same letters multiplied make a power: x × x = x², x × x² = x³. **Divide** by writing it as a fraction and cancelling numbers and letters."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Calculation",
+    "Numbers",
+    "Letters",
+    "Answer"
+   ],
+   "rows": [
+    [
+     "3a × 4b",
+     "3 × 4 = 12",
+     "a × b = ab",
+     "12ab"
+    ],
+    [
+     "2x × 5x",
+     "2 × 5 = 10",
+     "x × x = x²",
+     "10x²"
+    ],
+    [
+     "3y × y²",
+     "3 × 1 = 3",
+     "y × y² = y³",
+     "3y³"
+    ],
+    [
+     "4p × 2p × p",
+     "4 × 2 × 1 = 8",
+     "p × p × p = p³",
+     "8p³"
+    ],
+    [
+     "12ab ÷ 3a",
+     "12 ÷ 3 = 4",
+     "ab ÷ a = b",
+     "4b"
+    ],
+    [
+     "10x² ÷ 2x",
+     "10 ÷ 2 = 5",
+     "x² ÷ x = x",
+     "5x"
+    ],
+    [
+     "18y³ ÷ 6y",
+     "18 ÷ 6 = 3",
+     "y³ ÷ y = y²",
+     "3y²"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "5. Expanding brackets"
+  },
+  {
+   "type": "p",
+   "text": "To **expand** a(b + c), multiply **every** term inside the bracket by the term outside: a(b + c) = ab + ac. An area diagram shows why."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 240\" width=\"400\" font-family=\"Arial, sans-serif\" font-size=\"14\"><rect x=\"70\" y=\"40\" width=\"150\" height=\"150\" fill=\"#d6e6fa\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"220\" y=\"40\" width=\"90\" height=\"150\" fill=\"#fff0c2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"145\" y=\"28\" text-anchor=\"middle\" fill=\"#0f1b33\" font-size=\"18\" font-weight=\"bold\" font-style=\"italic\">x</text><text x=\"265\" y=\"28\" text-anchor=\"middle\" fill=\"#0f1b33\" font-size=\"18\" font-weight=\"bold\">3</text><text x=\"54\" y=\"121\" text-anchor=\"middle\" fill=\"#0f1b33\" font-size=\"18\" font-weight=\"bold\" font-style=\"italic\">x</text><text x=\"145\" y=\"119\" text-anchor=\"middle\" fill=\"#0f1b33\" font-size=\"15\">x × x</text><text x=\"145\" y=\"141\" text-anchor=\"middle\" fill=\"#0f1b33\" font-size=\"18\" font-weight=\"bold\">= x²</text><text x=\"265\" y=\"119\" text-anchor=\"middle\" fill=\"#0f1b33\" font-size=\"15\">x × 3</text><text x=\"265\" y=\"141\" text-anchor=\"middle\" fill=\"#0f1b33\" font-size=\"18\" font-weight=\"bold\">= 3x</text><text x=\"190\" y=\"224\" text-anchor=\"middle\" fill=\"#0f1b33\" font-size=\"17\" font-weight=\"bold\">Area = x(x + 3) = x² + 3x</text></svg>",
+   "caption": "A rectangle x by (x + 3) splits into two parts with areas x² and 3x, so x(x + 3) = x² + 3x."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Expand",
+    "Working",
+    "Answer"
+   ],
+   "rows": [
+    [
+     "4(2x − 3)",
+     "4 × 2x = 8x;  4 × (−3) = −12",
+     "8x − 12"
+    ],
+    [
+     "x(x + 7)",
+     "x × x = x²;  x × 7 = 7x",
+     "x² + 7x"
+    ],
+    [
+     "3a(2a − 5)",
+     "3a × 2a = 6a²;  3a × (−5) = −15a",
+     "6a² − 15a"
+    ],
+    [
+     "y(y² + 4)",
+     "y × y² = y³;  y × 4 = 4y",
+     "y³ + 4y"
+    ],
+    [
+     "2p(p² − 3p)",
+     "2p × p² = 2p³;  2p × (−3p) = −6p²",
+     "2p³ − 6p²"
+    ],
+    [
+     "−2(x − 4)",
+     "−2 × x = −2x;  −2 × (−4) = +8",
+     "−2x + 8"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Expand and simplify:** expand each bracket, then collect like terms. 3(x + 2) + 2(x − 5) = 3x + 6 + 2x − 10 = **5x − 4**. Watch the sign when a negative number is outside the bracket: 5(y + 1) − 2(y − 3) = 5y + 5 − 2y + 6 = **3y + 11**."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "فك الأقواس",
+   "text": "اضرب الحد اللي برّه القوس في كل حد جوه القوس — كلهم، مش الأول بس. وخلي بالك من الإشارة: سالب × سالب = موجب، يعني −2(x − 4) = −2x + 8. وتذكّر: x × x = x² و x × x² = x³."
+  },
+  {
+   "type": "h2",
+   "text": "6. Factorising (taking out the HCF)"
+  },
+  {
+   "type": "p",
+   "text": "**Factorising** is the reverse of expanding: you put the brackets back in."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 95\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"14\"><text x=\"70\" y=\"45\" text-anchor=\"middle\" fill=\"#0f1b33\" font-size=\"20\" font-weight=\"bold\">6x² + 9x</text><text x=\"400\" y=\"45\" text-anchor=\"middle\" fill=\"#1b6e2e\" font-size=\"20\" font-weight=\"bold\">3x(2x + 3)</text><line x1=\"140\" y1=\"30\" x2=\"330\" y2=\"30\" stroke=\"#1b6e2e\" stroke-width=\"2\"/><polygon points=\"330.0,30.0 320.8,33.9 320.8,26.1\" fill=\"#1b6e2e\"/><text x=\"235\" y=\"20\" text-anchor=\"middle\" fill=\"#1b6e2e\" font-size=\"13\">factorise (take out HCF 3x)</text><line x1=\"330\" y1=\"62\" x2=\"140\" y2=\"62\" stroke=\"#1f5fbf\" stroke-width=\"2\"/><polygon points=\"140.0,62.0 149.2,58.1 149.2,65.9\" fill=\"#1f5fbf\"/><text x=\"235\" y=\"82\" text-anchor=\"middle\" fill=\"#1f5fbf\" font-size=\"13\">expand (multiply out)</text></svg>",
+   "caption": "Expanding and factorising are inverse processes."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Find the HCF of the **numbers** (coefficients).",
+    "Find the HCF of the **letters**: a letter is in the HCF only if it is in every term; use its lowest power.",
+    "Write the HCF outside the bracket. Inside, write what each term must be multiplied by to give the original term (divide each term by the HCF).",
+    "Check by expanding. 'Factorise **fully**' means you must take out the **highest** common factor."
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Expression",
+    "HCF",
+    "Factorised fully"
+   ],
+   "rows": [
+    [
+     "6x + 9",
+     "3",
+     "3(2x + 3)"
+    ],
+    [
+     "x² + 5x",
+     "x",
+     "x(x + 5)"
+    ],
+    [
+     "8a² − 12a",
+     "4a",
+     "4a(2a − 3)"
+    ],
+    [
+     "10y³ + 15y²",
+     "5y²",
+     "5y²(2y + 3)"
+    ],
+    [
+     "12pq + 18p",
+     "6p",
+     "6p(2q + 3)"
+    ],
+    [
+     "7m + 7",
+     "7",
+     "7(m + 1) — the 1 is needed!"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "8a² − 12a = 2a(4a − 6) is factorised, but **not fully**: 4a − 6 still has a common factor 2. The full answer is 4a(2a − 3)."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — Write E (expression), F (formula) or Q (equation) for each.  (a) 5y − 2   (b) 5y − 2 = 18   (c) P = 4s, where P is the perimeter of a square of side s.  [2]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "(a) **Expression** — no equals sign; y can be any number.",
+    "(b) **Equation** — it can be solved: 5y = 20, so y = 4.",
+    "(c) **Formula** — it links two quantities (perimeter and side length); P changes when s changes."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — Simplify  (a) 7m + 3n − 2m − 5n   (b) 4x² + 3x − x² − 7x  [2]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "(a) m terms: 7m − 2m = 5m. n terms: 3n − 5n = −2n. Answer **5m − 2n**.",
+    "(b) x² terms: 4x² − x² = 3x². x terms: 3x − 7x = −4x. Answer **3x² − 4x**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Common mistake: combining x² and x terms (e.g. writing −x³ or −x² as the answer to (b)). They are not like terms."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — Simplify  (a) 5a × 3a   (b) 2b × 3b²   (c) 20c³ ÷ 4c  [3]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "(a) 5 × 3 = 15; a × a = a² → **15a²**.",
+    "(b) 2 × 3 = 6; b × b² = b × b × b = b³ → **6b³**.",
+    "(c) 20 ÷ 4 = 5; c³ ÷ c = (c × c × c) ÷ c = c² → **5c²**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — x = −3. Work out the value of  (a) 2x²   (b) (2x)²   (c) x³ + 10  [3]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "(a) Indices before multiplication: x² = (−3)² = 9, then 2 × 9 = **18**.",
+    "(b) Brackets first: 2x = −6, then (−6)² = **36**.",
+    "(c) x³ = (−3) × (−3) × (−3) = −27, then −27 + 10 = **−17**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Common mistake: in (a) working out (2 × −3)² = 36. Only x is squared in 2x²."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — Expand and simplify 3(2y + 5) − 2(y − 4).  [2]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "First bracket: 3 × 2y = 6y, 3 × 5 = 15 → 6y + 15.",
+    "Second bracket (the −2 goes with it): −2 × y = −2y, −2 × (−4) = +8 → −2y + 8.",
+    "Collect: 6y − 2y + 15 + 8 = **4y + 23**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Common mistake: writing −2(y − 4) = −2y − 8. A negative times a negative is positive."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** — (a) Expand a(a² + 3a).  (b) Factorise fully 12x² − 18x.  [3]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "(a) a × a² = a³ and a × 3a = 3a² → **a³ + 3a²**.",
+    "(b) HCF of 12 and 18 is 6. Both terms contain x; the lowest power is x. HCF = 6x.",
+    "12x² ÷ 6x = 2x and 18x ÷ 6x = 3 → **6x(2x − 3)**. Check: 6x × 2x − 6x × 3 = 12x² − 18x ✓"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 7** — Kamal factorises 15n² + 10n and writes 5(3n² + 2n). Is his answer fully factorised? Explain.  [1]"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**No.** 3n² and 2n still have a common factor of n, so the HCF of the original terms is 5n, not 5.",
+    "Fully factorised: **5n(3n + 2)**."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Adding unlike terms: 3x + 2y ≠ 5xy and x² + x ≠ x³.",
+    "Mixing up 2x (= x + x) and x² (= x × x).",
+    "Multiplying only the first term when expanding: 4(2x − 3) is 8x − 12, not 8x − 3.",
+    "Losing the sign: −2(y − 4) = −2y + 8.",
+    "Squaring the coefficient by mistake: 3x² with x = 4 is 3 × 16 = 48, not 12² = 144.",
+    "Not factorising fully: 8a² − 12a = 4a(2a − 3), not 2(4a² − 6a).",
+    "Forgetting the 1 when a whole term is the HCF: 7m + 7 = 7(m + 1), not 7m."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "'Simplify', 'Expand', 'Expand and simplify', 'Factorise fully' — each has a different meaning; do exactly what the command word says.",
+    "'Draw a line from each item to expression, formula or equation' or 'Tick the correct box'.",
+    "'Find the value of … when x = −3' — substitute with brackets around negative numbers, and follow the order of operations.",
+    "Area of a rectangle with sides like 2x and (x + 5): 'Write an expression for the area. Expand the brackets.'",
+    "'Ali says… Is he correct?' — check by expanding or substituting a number. Substituting a number (e.g. x = 2) into both forms is a quick way to test whether two expressions are equal.",
+    "Your final answer should be fully simplified; an unsimplified correct expression may lose the last mark."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Algebraic expressions — practice quiz",
+   "timed": false,
+   "intro": "No calculator. Type powers with ^ (x^2, y^3) or use ² ³. Spaces do not matter.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 25,
+     "calc": false,
+     "questions": [
+      {
+       "q": "Which of these is an equation?",
+       "c": [
+        "3t − 7",
+        "3t − 7 = 11",
+        "V = l × w × h, the volume of a cuboid",
+        "t² + 3t"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Expression, formula, equation",
+       "e": "3t − 7 and t² + 3t have no equals sign — they are expressions. V = l × w × h links quantities (volume, length, width, height) — it is a formula. 3t − 7 = 11 can be solved (t = 6), so it is an equation."
+      },
+      {
+       "t": "text",
+       "q": "Simplify 3x² + 5x − x² − 2x\n(Type x² as x^2.)",
+       "ans": [
+        "2x²+3x",
+        "2x^2+3x",
+        "2x2+3x",
+        "3x+2x²",
+        "3x+2x^2",
+        "3x+2x2"
+       ],
+       "m": 2,
+       "s": "Collecting like terms",
+       "e": "x² terms: 3x² − x² = 2x². x terms: 5x − 2x = 3x. Answer 2x² + 3x."
+      },
+      {
+       "q": "Simplify 4y × 3y",
+       "c": [
+        "7y",
+        "12y",
+        "7y²",
+        "12y²"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Multiplying terms",
+       "e": "Numbers: 4 × 3 = 12. Letters: y × y = y². Answer 12y²."
+      },
+      {
+       "t": "text",
+       "q": "Simplify 18a³ ÷ 6a",
+       "ans": [
+        "3a²",
+        "3a^2",
+        "3a2"
+       ],
+       "m": 1,
+       "s": "Dividing terms",
+       "e": "18 ÷ 6 = 3. a³ ÷ a = (a × a × a) ÷ a = a². Answer 3a²."
+      },
+      {
+       "t": "num",
+       "p": "Question 5\nx = −2",
+       "q": "(a) Work out the value of 5x²",
+       "ans": [
+        20
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Substitution",
+       "e": "Square first: (−2)² = 4. Then 5 × 4 = 20."
+      },
+      {
+       "t": "num",
+       "p": "Question 5\nx = −2",
+       "q": "(b) Work out the value of (5x)²",
+       "ans": [
+        100
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Substitution",
+       "e": "Brackets first: 5 × (−2) = −10. Then (−10)² = 100."
+      },
+      {
+       "t": "num",
+       "p": "Question 5\nx = −2",
+       "q": "(c) Work out the value of x³ − 3x",
+       "ans": [
+        -2
+       ],
+       "tol": 0,
+       "m": 2,
+       "s": "Substitution",
+       "e": "x³ = (−2)³ = −8. 3x = −6. So x³ − 3x = −8 − (−6) = −8 + 6 = −2."
+      },
+      {
+       "t": "text",
+       "q": "Expand x(x − 6)",
+       "ans": [
+        "x²-6x",
+        "x^2-6x",
+        "x2-6x",
+        "-6x+x²",
+        "-6x+x^2",
+        "-6x+x2"
+       ],
+       "m": 1,
+       "s": "Expanding",
+       "e": "x × x = x² and x × (−6) = −6x. Answer x² − 6x."
+      },
+      {
+       "t": "text",
+       "q": "Expand 2y(y² + 5)",
+       "ans": [
+        "2y³+10y",
+        "2y^3+10y",
+        "2y3+10y",
+        "10y+2y³",
+        "10y+2y^3",
+        "10y+2y3"
+       ],
+       "m": 2,
+       "s": "Expanding",
+       "e": "2y × y² = 2y³ and 2y × 5 = 10y. Answer 2y³ + 10y."
+      },
+      {
+       "t": "text",
+       "q": "Expand and simplify 4(a + 3) − 3(a − 2)",
+       "ans": [
+        "a+18",
+        "18+a",
+        "1a+18"
+       ],
+       "m": 2,
+       "s": "Expand and simplify",
+       "e": "4(a + 3) = 4a + 12. −3(a − 2) = −3a + 6. Collect: 4a − 3a + 12 + 6 = a + 18."
+      },
+      {
+       "t": "text",
+       "q": "Factorise fully 14n − 21",
+       "ans": [
+        "7(2n-3)",
+        "7(-3+2n)"
+       ],
+       "m": 1,
+       "s": "Factorising",
+       "e": "HCF of 14 and 21 is 7 (n is not in both terms). 14n ÷ 7 = 2n, 21 ÷ 7 = 3 → 7(2n − 3)."
+      },
+      {
+       "t": "text",
+       "q": "Factorise fully 9x² + 12x",
+       "ans": [
+        "3x(3x+4)",
+        "3x(4+3x)",
+        "(3x+4)3x"
+       ],
+       "m": 2,
+       "s": "Factorising",
+       "e": "HCF of 9 and 12 is 3; both terms contain x → HCF = 3x. 9x² ÷ 3x = 3x, 12x ÷ 3x = 4 → 3x(3x + 4). Check: 9x² + 12x ✓"
+      },
+      {
+       "t": "text",
+       "q": "The diagram shows a rectangle.\nWrite an expression for its area. Expand the brackets.\n(Type x² as x^2.)",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 380 160\" width=\"380\" font-family=\"Arial, sans-serif\" font-size=\"14\"><rect x=\"60\" y=\"25\" width=\"240\" height=\"100\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"180\" y=\"17\" text-anchor=\"middle\" fill=\"#0f1b33\" font-size=\"15\">(x + 5) cm</text><text x=\"310\" y=\"80\" text-anchor=\"start\" fill=\"#0f1b33\" font-size=\"15\">2x cm</text><text x=\"180\" y=\"150\" text-anchor=\"middle\" fill=\"#0f1b33\" font-size=\"13\">NOT TO SCALE</text></svg>",
+       "ans": [
+        "2x²+10x",
+        "2x^2+10x",
+        "2x2+10x",
+        "10x+2x²",
+        "10x+2x^2",
+        "10x+2x2"
+       ],
+       "m": 2,
+       "s": "Expanding",
+       "e": "Area = length × width = 2x(x + 5) = 2x × x + 2x × 5 = 2x² + 10x (cm²)."
+      },
+      {
+       "t": "open",
+       "q": "Rania says that 6t² + 8t = 2(3t² + 4t) is factorised fully.\nIs she correct? Explain your answer and give the fully factorised form.",
+       "m": 2,
+       "s": "Reasoning",
+       "ms": "1 mark: No, with a reason, e.g. 3t² and 4t still have a common factor of t / the HCF is 2t not 2. 1 mark: 2t(3t + 4) cao. Do not accept 'No' with no reason for the first mark.",
+       "e": "No. The terms 3t² and 4t inside the bracket still share a factor t, so 2 is not the highest common factor. The HCF of 6t² and 8t is 2t: 6t² ÷ 2t = 3t, 8t ÷ 2t = 4 → 2t(3t + 4)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Expression: no equals sign, letter = any number. Formula: links quantities. Equation: letter = unknown to find.",
+    "Only like terms (same letters, same powers) can be added or subtracted.",
+    "Multiply terms: numbers × numbers, letters × letters (x × x = x², x × x² = x³). Divide by cancelling.",
+    "Expand: multiply every term inside the bracket by the term outside — watch the signs.",
+    "Factorise fully: take out the HCF of the numbers AND the letters; check by expanding."
+   ]
+  }
+ ]
+}

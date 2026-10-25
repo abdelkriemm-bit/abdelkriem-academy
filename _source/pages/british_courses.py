@@ -5,7 +5,7 @@
 import json as _bj, os as _bo, re as _bre, html as _bh
 
 _BR_ROOT = _bo.path.join(_bo.path.dirname(PAGES_DIR), "british")
-_BR_COURSES = [c for c in _bo.environ.get("BRITISH_COURSES", "oxford,0510,cp8,cp6,bac,parents,sat,act,est").split(",") if c]
+_BR_COURSES = [c for c in _bo.environ.get("BRITISH_COURSES", "oxford,0510,cp8,cp6,bac,parents,sat,act,est,cp6m,cp6s,cp8m,cp8s").split(",") if c]
 
 _BR_CSS = """<style>
 .bc{max-width:860px;margin:0 auto;overflow-wrap:break-word}
@@ -80,6 +80,14 @@ def _bE(s):
     s = _bre.sub(r"\(((?:sat|act|est)-[a-z0-9-]+)\.html\)", r'(<a href="\1.html">open lesson</a>)', s)
     return s
 
+def _bMix(s):
+    # a cell mixing English and Arabic: keep English order (ltr) and isolate each Arabic run so it reads correctly
+    h = _bE(s)
+    if _bre.search(r"[\u0600-\u06FF]", str(s)) and _bre.search(r"[A-Za-z]", str(s)):
+        h = _bre.sub(r"([\u0600-\u06FF][\u0600-\u06FF\s/()،]*[\u0600-\u06FF)])", r'<bdi dir="rtl" lang="ar">\1</bdi>', h)
+        return f'<td dir="ltr">{h}</td>'
+    return f'<td dir="auto">{h}</td>'
+
 def _bAr(s):
     return f'<span dir="rtl" lang="ar">{_bE(s)}</span>'
 
@@ -129,7 +137,7 @@ def _bblock(b):
             for i in b["items"]) + "</ol>"
     if t == "vocab":
         return '<div class="tw"><table class="vocab"><thead><tr><th>Word / phrase</th><th>Meaning / use</th></tr></thead><tbody>' + "".join(
-            f'<tr><td>{_bE(w[0])}</td><td dir="auto">{_bE(w[1])}</td></tr>' for w in b["items"]) + "</tbody></table></div>"
+            f'<tr><td>{_bE(w[0])}</td>{_bMix(w[1])}</tr>' for w in b["items"]) + "</tbody></table></div>"
     if t == "phrases":
         return '<div class="phr">' + "".join(
             f'<div><h3>{_bE(g["title"])}</h3><ul>' + "".join(f"<li>{_bE(i)}</li>" for i in g["items"]) + "</ul></div>"

@@ -1,0 +1,681 @@
+{
+ "slug": "cp8m-functions-linear-graphs",
+ "title": "Functions and Straight-line Graphs (y = mx + c)",
+ "kicker": "Cambridge Lower Secondary · Mathematics 0862 · Stage 8 · Algebra",
+ "summary": "Use function machines and inverse operations, write real situations as y = mx + c, plot straight-line graphs from tables of values, and read the gradient and y-intercept.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Understand that a function is a rule where each input gives exactly one output. Work out outputs from inputs, and work backwards with inverse operations to find the input from an output — including with fractions. [8As.03]",
+    "Turn a situation described in words into a linear function y = mx + c, and describe a function y = mx + c as a real situation in words. [8As.04]",
+    "Use coordinate pairs to make a table of values for a function such as y = 3x − 2, and plot its straight-line graph. [8As.05]",
+    "Know that every equation y = mx + c gives a straight line, where m is the gradient (how steep the line is) and c is the y-intercept (where it crosses the y-axis), for whole-number values of m. [8As.06]"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "A **function** is a mathematical machine: you put a number in, it does the same operations every time, and one number comes out. When you write a function as y = mx + c and plot the input–output pairs as coordinates, you always get a straight line. This page takes you from function machines to tables of values, straight-line graphs, and the meaning of m and c."
+  },
+  {
+   "type": "h2",
+   "text": "1. Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "function",
+     "دالة — a rule that gives exactly one output for each input"
+    ],
+    [
+     "input / output",
+     "المدخل / المخرج — the number you put in / the number you get out"
+    ],
+    [
+     "function machine",
+     "آلة الدالة — a diagram showing the operations in order"
+    ],
+    [
+     "inverse",
+     "العكسي — the operation that undoes another; used to work backwards"
+    ],
+    [
+     "mapping, x → 2x + 1",
+     "تحويل — another way to write a function: \"x maps to 2x + 1\""
+    ],
+    [
+     "table of values",
+     "جدول قيم — a table of x values and the y values they give"
+    ],
+    [
+     "coordinates (x, y)",
+     "إحداثيات — a point: across first, then up or down"
+    ],
+    [
+     "linear",
+     "خطي — makes a straight-line graph"
+    ],
+    [
+     "gradient, m",
+     "الميل — how steep a line is: change in y ÷ change in x"
+    ],
+    [
+     "y-intercept, c",
+     "الجزء المقطوع من محور y — where the line crosses the y-axis, the point (0, c)"
+    ],
+    [
+     "parallel",
+     "متوازي — lines that never meet; they have the same gradient"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "2. Functions and function machines"
+  },
+  {
+   "type": "p",
+   "text": "In a function, **each input has exactly one output**. Put 5 into the machine below and you always get 13 — never anything else. A rule like \"output any number bigger than the input\" is **not** a function, because one input could give many different outputs. (Two different inputs giving the same output is allowed: x → 4 sends every input to 4.)"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 198\" width=\"560\" font-family=\"Arial, sans-serif\" font-size=\"14\"><text x=\"40\" y=\"55\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">input x</text><line x1=\"80\" y1=\"50\" x2=\"122\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"130,50 121,45 121,55\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><rect x=\"132\" y=\"28\" width=\"100\" height=\"44\" rx=\"6\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"182\" y=\"56\" font-size=\"18\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">× 3</text><line x1=\"232\" y1=\"50\" x2=\"282\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"290,50 281,45 281,55\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><rect x=\"292\" y=\"28\" width=\"100\" height=\"44\" rx=\"6\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"342\" y=\"56\" font-size=\"18\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">− 2</text><line x1=\"392\" y1=\"50\" x2=\"432\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"440,50 431,45 431,55\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><text x=\"490\" y=\"55\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">output y</text><text x=\"40\" y=\"145\" font-size=\"15\" text-anchor=\"middle\" fill=\"#c0392b\" font-weight=\"bold\">input x</text><line x1=\"130\" y1=\"140\" x2=\"88\" y2=\"140\" stroke=\"#c0392b\" stroke-width=\"2\"/><polygon points=\"80,140 89,135 89,145\" fill=\"#c0392b\" stroke=\"#c0392b\" stroke-width=\"1\" stroke-linejoin=\"round\"/><rect x=\"132\" y=\"118\" width=\"100\" height=\"44\" rx=\"6\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"2\"/><text x=\"182\" y=\"146\" font-size=\"18\" text-anchor=\"middle\" fill=\"#c0392b\" font-weight=\"bold\">÷ 3</text><line x1=\"290\" y1=\"140\" x2=\"240\" y2=\"140\" stroke=\"#c0392b\" stroke-width=\"2\"/><polygon points=\"232,140 241,135 241,145\" fill=\"#c0392b\" stroke=\"#c0392b\" stroke-width=\"1\" stroke-linejoin=\"round\"/><rect x=\"292\" y=\"118\" width=\"100\" height=\"44\" rx=\"6\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"2\"/><text x=\"342\" y=\"146\" font-size=\"18\" text-anchor=\"middle\" fill=\"#c0392b\" font-weight=\"bold\">+ 2</text><line x1=\"440\" y1=\"140\" x2=\"400\" y2=\"140\" stroke=\"#c0392b\" stroke-width=\"2\"/><polygon points=\"392,140 401,135 401,145\" fill=\"#c0392b\" stroke=\"#c0392b\" stroke-width=\"1\" stroke-linejoin=\"round\"/><text x=\"490\" y=\"145\" font-size=\"15\" text-anchor=\"middle\" fill=\"#c0392b\" font-weight=\"bold\">output y</text><text x=\"280\" y=\"98\" text-anchor=\"middle\" fill=\"#c0392b\">Working backwards: inverse operations in reverse order</text><text x=\"280\" y=\"186\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">5 → 15 → 13      and back:  22 → 24 → 8</text></svg>",
+   "caption": "The function y = 3x − 2 as a machine (top) and its inverse (bottom)."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Finding an output:** follow the arrows. Input 5: 5 × 3 = 15, 15 − 2 = 13.",
+    "**Finding an input:** start at the output and go backwards, using the **inverse** of each operation in **reverse order**. Output 22: 22 + 2 = 24, 24 ÷ 3 = 8. So the input was 8.",
+    "The same function can be written as a machine, as a mapping **x → 3x − 2**, or as an equation **y = 3x − 2**.",
+    "Inputs can be negative or fractions: input −1 gives −3 − 2 = −5; input 1/2 gives 1 1/2 − 2 = −1/2."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Fractions in the machine.** For the machine \"× 3/4, then + 1\": input 8 → 8 × 3/4 = 6 → 6 + 1 = 7. To find the input for output 4, go backwards: 4 − 1 = 3, then the inverse of × 3/4 is ÷ 3/4, which is the same as × 4/3: 3 × 4/3 = **4**."
+  },
+  {
+   "type": "p",
+   "text": "**Finding the rule from a table.** If the inputs 1, 2, 3, 4 give outputs 5, 8, 11, 14, the outputs go up by 3 when the input goes up by 1, so the rule starts \"× 3\". Then 1 × 3 = 3 and we need 5, so \"+ 2\". The function is y = 3x + 2. (This is the same method as finding the nth term of a sequence.)"
+  },
+  {
+   "type": "h2",
+   "text": "3. From words to y = mx + c (and back)"
+  },
+  {
+   "type": "p",
+   "text": "Many real situations are linear: there is a **starting amount** and then a **fixed amount for each unit**. The fixed amount per unit is m; the starting amount is c."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Situation in words",
+    "Function",
+    "m means…",
+    "c means…"
+   ],
+   "rows": [
+    [
+     "A taxi charges $4 to start plus $2 per kilometre.",
+     "C = 2d + 4",
+     "$2 for each km",
+     "the $4 starting charge"
+    ],
+    [
+     "A tank holds 500 litres and drains at 20 litres per minute.",
+     "W = −20t + 500",
+     "loses 20 litres each minute",
+     "the 500 litres at the start"
+    ],
+    [
+     "A plant is 6 cm tall and grows 3 cm each week.",
+     "h = 3w + 6",
+     "grows 3 cm per week",
+     "the height at week 0"
+    ],
+    [
+     "Each ticket costs $9 (no booking fee).",
+     "C = 9n",
+     "$9 per ticket",
+     "c = 0: no fixed charge"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Going back to words.** For y = 5x + 30 you could write: \"A gym charges a $30 joining fee and then $5 for each visit. y is the total cost in dollars for x visits.\" Explain what x and y stand for, and where the 5 and the 30 appear in your story."
+  },
+  {
+   "type": "h2",
+   "text": "4. Tables of values and plotting a straight line"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Make a table with the x values you are given (for example from −2 to 3).",
+    "Substitute each x into the function to find y. Take care with negative numbers.",
+    "Write the coordinate pairs (x, y).",
+    "Plot each point with a small, neat cross.",
+    "Join the points with a **ruler** — one straight line through all of them, going right to the edges of the x range. Label the line with its equation.",
+    "If one point is not on the line, check that calculation again — the points of y = mx + c are always in a straight line."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "table",
+   "headers": [
+    "x",
+    "−2",
+    "−1",
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "rows": [
+    [
+     "y = 2x + 1",
+     "−3",
+     "−1",
+     "1",
+     "3",
+     "5",
+     "7"
+    ]
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 262 386\" width=\"262\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M36 360V24M64 360V24M92 360V24M120 360V24M148 360V24M176 360V24M204 360V24M232 360V24M36 360H232M36 332H232M36 304H232M36 276H232M36 248H232M36 220H232M36 192H232M36 164H232M36 136H232M36 108H232M36 80H232M36 52H232M36 24H232\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><line x1=\"36\" y1=\"248\" x2=\"240\" y2=\"248\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"120\" y1=\"360\" x2=\"120\" y2=\"16\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><polygon points=\"240,248 232,244 232,252\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><polygon points=\"120,16 116,24 124,24\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><text x=\"244\" y=\"253\" font-size=\"15\" fill=\"#0f1b33\" font-weight=\"bold\">x</text><text x=\"129\" y=\"22\" font-size=\"15\" fill=\"#0f1b33\" font-weight=\"bold\">y</text><line x1=\"50\" y1=\"360\" x2=\"218\" y2=\"24\" stroke=\"#c0392b\" stroke-width=\"2.5\"/><line x1=\"59\" y1=\"327\" x2=\"69\" y2=\"337\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"59\" y1=\"337\" x2=\"69\" y2=\"327\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"87\" y1=\"271\" x2=\"97\" y2=\"281\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"87\" y1=\"281\" x2=\"97\" y2=\"271\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"115\" y1=\"215\" x2=\"125\" y2=\"225\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"115\" y1=\"225\" x2=\"125\" y2=\"215\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"143\" y1=\"159\" x2=\"153\" y2=\"169\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"143\" y1=\"169\" x2=\"153\" y2=\"159\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"171\" y1=\"103\" x2=\"181\" y2=\"113\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"171\" y1=\"113\" x2=\"181\" y2=\"103\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"199\" y1=\"47\" x2=\"209\" y2=\"57\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"199\" y1=\"57\" x2=\"209\" y2=\"47\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\" x=\"153.6\" y=\"318\" font-size=\"15\" fill=\"#c0392b\" font-weight=\"bold\">y = 2x + 1</text><g stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\" stroke-linejoin=\"round\"><text x=\"36\" y=\"265\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−3</text><text x=\"64\" y=\"265\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−2</text><text x=\"92\" y=\"265\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−1</text><text x=\"148\" y=\"265\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">1</text><text x=\"176\" y=\"265\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">2</text><text x=\"204\" y=\"265\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">3</text><text x=\"232\" y=\"265\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">4</text><text x=\"114\" y=\"365\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">−4</text><text x=\"114\" y=\"337\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">−3</text><text x=\"114\" y=\"309\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">−2</text><text x=\"114\" y=\"281\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">−1</text><text x=\"114\" y=\"225\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">1</text><text x=\"114\" y=\"197\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">2</text><text x=\"114\" y=\"169\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">3</text><text x=\"114\" y=\"141\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">4</text><text x=\"114\" y=\"113\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">5</text><text x=\"114\" y=\"85\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">6</text><text x=\"114\" y=\"57\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">7</text><text x=\"114\" y=\"29\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">8</text><text x=\"114\" y=\"265\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">0</text></g></svg>",
+   "caption": "The graph of y = 2x + 1, plotted from the table of values."
+  },
+  {
+   "type": "h2",
+   "text": "5. Gradient and y-intercept"
+  },
+  {
+   "type": "p",
+   "text": "Every straight line (except a vertical one) has an equation **y = mx + c**."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**c is the y-intercept**: the line crosses the y-axis at (0, c). Put x = 0: y = m × 0 + c = c.",
+    "**m is the gradient**: for every 1 step to the right, the line goes up m steps. Gradient = change in y ÷ change in x (rise ÷ run).",
+    "m positive → the line goes **up** from left to right. m negative → it goes **down**. m = 0 → it is horizontal (y = c).",
+    "A bigger number for m (ignoring the sign) means a **steeper** line. y = 5x is steeper than y = 2x.",
+    "Lines with the **same gradient are parallel**."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 410 386\" width=\"410\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M36 360V24M64 360V24M92 360V24M120 360V24M148 360V24M176 360V24M204 360V24M232 360V24M260 360V24M36 360H260M36 332H260M36 304H260M36 276H260M36 248H260M36 220H260M36 192H260M36 164H260M36 136H260M36 108H260M36 80H260M36 52H260M36 24H260\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><line x1=\"36\" y1=\"220\" x2=\"268\" y2=\"220\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"120\" y1=\"360\" x2=\"120\" y2=\"16\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><polygon points=\"268,220 260,216 260,224\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><polygon points=\"120,16 116,24 124,24\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><text x=\"272\" y=\"225\" font-size=\"15\" fill=\"#0f1b33\" font-weight=\"bold\">x</text><text x=\"129\" y=\"22\" font-size=\"15\" fill=\"#0f1b33\" font-weight=\"bold\">y</text><line x1=\"36\" y1=\"360\" x2=\"204\" y2=\"24\" stroke=\"#c0392b\" stroke-width=\"2.5\"/><line x1=\"92\" y1=\"360\" x2=\"260\" y2=\"24\" stroke=\"#d35400\" stroke-width=\"2.5\"/><line x1=\"92\" y1=\"80\" x2=\"260\" y2=\"248\" stroke=\"#1f5fa8\" stroke-width=\"2.5\"/><polyline points=\"120,192 176,192 176,80\" fill=\"none\" stroke=\"#1e7b34\" stroke-width=\"2.2\" stroke-linejoin=\"round\"/><text x=\"148\" y=\"209\" font-size=\"13\" text-anchor=\"middle\" fill=\"#1e7b34\" font-weight=\"bold\">run 2</text><text stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\" x=\"181\" y=\"102.4\" font-size=\"13\" fill=\"#1e7b34\" font-weight=\"bold\">rise 4</text><circle cx=\"120\" cy=\"192\" r=\"4\" fill=\"#c0392b\"/><circle cx=\"120\" cy=\"304\" r=\"4\" fill=\"#d35400\"/><circle cx=\"120\" cy=\"108\" r=\"4\" fill=\"#1f5fa8\"/><line x1=\"294\" y1=\"33\" x2=\"320\" y2=\"33\" stroke=\"#c0392b\" stroke-width=\"3\"/><text x=\"326\" y=\"38\" fill=\"#c0392b\" font-weight=\"bold\">y = 2x + 1</text><line x1=\"294\" y1=\"59\" x2=\"320\" y2=\"59\" stroke=\"#d35400\" stroke-width=\"3\"/><text x=\"326\" y=\"64\" fill=\"#d35400\" font-weight=\"bold\">y = 2x − 3</text><line x1=\"294\" y1=\"85\" x2=\"320\" y2=\"85\" stroke=\"#1f5fa8\" stroke-width=\"3\"/><text x=\"326\" y=\"90\" fill=\"#1f5fa8\" font-weight=\"bold\">y = −x + 4</text><g stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\" stroke-linejoin=\"round\"><text x=\"36\" y=\"237\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−3</text><text x=\"64\" y=\"237\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−2</text><text x=\"92\" y=\"237\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−1</text><text x=\"148\" y=\"237\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">1</text><text x=\"176\" y=\"237\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">2</text><text x=\"204\" y=\"237\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">3</text><text x=\"232\" y=\"237\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">4</text><text x=\"260\" y=\"237\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">5</text><text x=\"114\" y=\"365\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">−5</text><text x=\"114\" y=\"337\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">−4</text><text x=\"114\" y=\"309\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">−3</text><text x=\"114\" y=\"281\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">−2</text><text x=\"114\" y=\"253\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">−1</text><text x=\"114\" y=\"197\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">1</text><text x=\"114\" y=\"169\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">2</text><text x=\"114\" y=\"141\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">3</text><text x=\"114\" y=\"113\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">4</text><text x=\"114\" y=\"85\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">5</text><text x=\"114\" y=\"57\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">6</text><text x=\"114\" y=\"29\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">7</text><text x=\"114\" y=\"237\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">0</text></g></svg>",
+   "caption": "y = 2x + 1 (red) and y = 2x − 3 (orange) are parallel — both have gradient 2. y = −x + 4 (blue) slopes down — gradient −1. The dots show the y-intercepts 1, −3 and 4."
+  },
+  {
+   "type": "p",
+   "text": "On y = 2x + 1 the green triangle goes 2 units right (run) and 4 units up (rise), so the gradient = 4 ÷ 2 = **2**. ✓"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Equation",
+    "Gradient m",
+    "y-intercept c",
+    "Note"
+   ],
+   "rows": [
+    [
+     "y = 4x − 7",
+     "4",
+     "−7",
+     "steep, upwards"
+    ],
+    [
+     "y = −3x + 2",
+     "−3",
+     "2",
+     "downwards"
+    ],
+    [
+     "y = 5 − 2x",
+     "−2",
+     "5",
+     "rewrite as y = −2x + 5 first"
+    ],
+    [
+     "y = x",
+     "1",
+     "0",
+     "passes through the origin"
+    ],
+    [
+     "y = 6",
+     "0",
+     "6",
+     "horizontal line"
+    ],
+    [
+     "x = 3",
+     "—",
+     "—",
+     "vertical line: not of the form y = mx + c"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Finding the equation from a graph:** (1) read c where the line crosses the y-axis; (2) choose two points where the line crosses grid corners exactly; (3) gradient = change in y ÷ change in x (negative if the line goes down); (4) write y = mx + c."
+  },
+  {
+   "type": "p",
+   "text": "**Is a point on the line?** Substitute the x-coordinate. Is (4, 9) on y = 2x + 1? 2 × 4 + 1 = 9 ✓ — yes. Is (4, 10)? No, because y would be 9, not 10."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "افتكر y = mx + c",
+   "items": [
+    "c = النقطة اللي الخط بيقطع فيها محور y (لما x = 0).",
+    "m = الميل: كل ما تمشي خطوة واحدة يمين، الخط بيطلع m خطوات (ولو m سالبة بينزل).",
+    "خطين ليهم نفس الـ m يبقوا متوازيين.",
+    "الدالة: كل مدخل ليه مخرج واحد بس. ولو عايز ترجع من المخرج للمدخل، اعكس العمليات وابدأ من الآخر."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "6. Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — A function machine multiplies by 4 and then subtracts 5. (a) Find the output when the input is −2. [1] (b) Find the input when the output is 19. [1] (c) Find the input when the output is 0. [1]"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Part",
+    "Working and answer"
+   ],
+   "rows": [
+    [
+     "(a)",
+     "−2 × 4 = −8; −8 − 5 = **−13**"
+    ],
+    [
+     "(b)",
+     "Backwards: 19 + 5 = 24; 24 ÷ 4 = **6**"
+    ],
+    [
+     "(c)",
+     "0 + 5 = 5; 5 ÷ 4 = **5/4 = 1 1/4**"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Common mistake: going backwards in the wrong order (19 ÷ 4 first, then + 5). Undo the LAST operation FIRST."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — A function is x → (2/3)x + 1. (a) Find the output when x = 9. [1] (b) Find x when the output is 5. [2]"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Part",
+    "Working and answer"
+   ],
+   "rows": [
+    [
+     "(a)",
+     "(2/3) × 9 = 6; 6 + 1 = **7**"
+    ],
+    [
+     "(b)",
+     "5 − 1 = 4. Undo × 2/3 by × 3/2: 4 × 3/2 = **6**. Check: (2/3) × 6 + 1 = 4 + 1 = 5 ✓"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — (a) Complete the table of values for y = 3 − 2x. [2] (b) Draw the graph for x from −1 to 3. [2]"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "x",
+    "−1",
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "rows": [
+    [
+     "y = 3 − 2x",
+     "5",
+     "3",
+     "1",
+     "−1",
+     "−3"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Working: x = −1: 3 − 2 × (−1) = 3 + 2 = 5. x = 3: 3 − 6 = −3. The line goes **down** because the gradient is −2, and it crosses the y-axis at 3."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 234 330\" width=\"234\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M36 304V24M64 304V24M92 304V24M120 304V24M148 304V24M176 304V24M204 304V24M36 304H204M36 276H204M36 248H204M36 220H204M36 192H204M36 164H204M36 136H204M36 108H204M36 80H204M36 52H204M36 24H204\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><line x1=\"36\" y1=\"192\" x2=\"212\" y2=\"192\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"92\" y1=\"304\" x2=\"92\" y2=\"16\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><polygon points=\"212,192 204,188 204,196\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><polygon points=\"92,16 88,24 96,24\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><text x=\"216\" y=\"197\" font-size=\"15\" fill=\"#0f1b33\" font-weight=\"bold\">x</text><text x=\"101\" y=\"22\" font-size=\"15\" fill=\"#0f1b33\" font-weight=\"bold\">y</text><line x1=\"52.8\" y1=\"29.6\" x2=\"187.2\" y2=\"298.4\" stroke=\"#c0392b\" stroke-width=\"2.5\"/><line x1=\"59\" y1=\"47\" x2=\"69\" y2=\"57\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"59\" y1=\"57\" x2=\"69\" y2=\"47\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"87\" y1=\"103\" x2=\"97\" y2=\"113\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"87\" y1=\"113\" x2=\"97\" y2=\"103\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"115\" y1=\"159\" x2=\"125\" y2=\"169\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"115\" y1=\"169\" x2=\"125\" y2=\"159\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"143\" y1=\"215\" x2=\"153\" y2=\"225\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"143\" y1=\"225\" x2=\"153\" y2=\"215\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"171\" y1=\"271\" x2=\"181\" y2=\"281\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"171\" y1=\"281\" x2=\"181\" y2=\"271\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\" x=\"136.8\" y=\"63.2\" font-size=\"15\" fill=\"#c0392b\" font-weight=\"bold\">y = 3 − 2x</text><g stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\" stroke-linejoin=\"round\"><text x=\"36\" y=\"209\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−2</text><text x=\"64\" y=\"209\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−1</text><text x=\"120\" y=\"209\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">1</text><text x=\"148\" y=\"209\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">2</text><text x=\"176\" y=\"209\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">3</text><text x=\"204\" y=\"209\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">4</text><text x=\"86\" y=\"309\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">−4</text><text x=\"86\" y=\"281\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">−3</text><text x=\"86\" y=\"253\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">−2</text><text x=\"86\" y=\"225\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">−1</text><text x=\"86\" y=\"169\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">1</text><text x=\"86\" y=\"141\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">2</text><text x=\"86\" y=\"113\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">3</text><text x=\"86\" y=\"85\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">4</text><text x=\"86\" y=\"57\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">5</text><text x=\"86\" y=\"29\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">6</text><text x=\"86\" y=\"209\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">0</text></g></svg>",
+   "caption": "Worked example 3: the graph of y = 3 − 2x."
+  },
+  {
+   "type": "p",
+   "text": "Common mistake: 3 − 2 × (−1) = 1. Subtracting a negative is adding: 3 − (−2) = 5."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — A candle is 30 cm tall when it is lit. It burns down 2 cm every hour. (a) Write a function for its height h cm after t hours. [1] (b) What do the gradient and the y-intercept mean? [2] (c) After how many hours is the candle 12 cm tall? [1]"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Part",
+    "Working and answer"
+   ],
+   "rows": [
+    [
+     "(a)",
+     "Starts at 30, goes down 2 each hour: **h = 30 − 2t** (or h = −2t + 30)"
+    ],
+    [
+     "(b)",
+     "Gradient −2: the height goes down by 2 cm each hour. y-intercept 30: the height at the start (t = 0) is 30 cm."
+    ],
+    [
+     "(c)",
+     "30 − 2t = 12 → 2t = 18 → **t = 9 hours**"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — Find the equation of this straight line. [2]"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 222 414\" width=\"222\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M36 388V24M62 388V24M88 388V24M114 388V24M140 388V24M166 388V24M192 388V24M36 388H192M36 362H192M36 336H192M36 310H192M36 284H192M36 258H192M36 232H192M36 206H192M36 180H192M36 154H192M36 128H192M36 102H192M36 76H192M36 50H192M36 24H192\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><line x1=\"36\" y1=\"232\" x2=\"200\" y2=\"232\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"88\" y1=\"388\" x2=\"88\" y2=\"16\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><polygon points=\"200,232 192,228 192,236\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><polygon points=\"88,16 84,24 92,24\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><text x=\"204\" y=\"237\" font-size=\"15\" fill=\"#0f1b33\" font-weight=\"bold\">x</text><text x=\"97\" y=\"22\" font-size=\"15\" fill=\"#0f1b33\" font-weight=\"bold\">y</text><line x1=\"54.2\" y1=\"385.4\" x2=\"173.8\" y2=\"26.6\" stroke=\"#c0392b\" stroke-width=\"2.5\"/><circle cx=\"88\" cy=\"284\" r=\"5\" fill=\"#1f5fa8\"/><circle cx=\"140\" cy=\"128\" r=\"5\" fill=\"#1f5fa8\"/><text stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\" x=\"94.5\" y=\"293.2\" fill=\"#1f5fa8\" font-weight=\"bold\">(0, −2)</text><text stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\" x=\"146.5\" y=\"137.2\" fill=\"#1f5fa8\" font-weight=\"bold\">(2, 4)</text><g stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\" stroke-linejoin=\"round\"><text x=\"36\" y=\"249\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−2</text><text x=\"62\" y=\"249\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−1</text><text x=\"114\" y=\"249\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">1</text><text x=\"140\" y=\"249\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">2</text><text x=\"166\" y=\"249\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">3</text><text x=\"192\" y=\"249\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">4</text><text x=\"82\" y=\"393\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">−6</text><text x=\"82\" y=\"367\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">−5</text><text x=\"82\" y=\"341\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">−4</text><text x=\"82\" y=\"315\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">−3</text><text x=\"82\" y=\"289\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">−2</text><text x=\"82\" y=\"263\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">−1</text><text x=\"82\" y=\"211\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">1</text><text x=\"82\" y=\"185\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">2</text><text x=\"82\" y=\"159\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">3</text><text x=\"82\" y=\"133\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">4</text><text x=\"82\" y=\"107\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">5</text><text x=\"82\" y=\"81\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">6</text><text x=\"82\" y=\"55\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">7</text><text x=\"82\" y=\"29\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">8</text><text x=\"82\" y=\"249\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">0</text></g></svg>",
+   "caption": "Worked example 5."
+  },
+  {
+   "type": "list",
+   "items": [
+    "The line crosses the y-axis at (0, −2), so c = −2.",
+    "From (0, −2) to (2, 4): run = 2, rise = 4 − (−2) = 6. Gradient m = 6 ÷ 2 = 3.",
+    "Equation: **y = 3x − 2**. Check with (2, 4): 3 × 2 − 2 = 4 ✓"
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** — Here are four equations: A: y = 4x − 1  B: y = x + 4  C: y = 4x + 3  D: y = −1 − 2x. (a) Which two lines are parallel? [1] (b) Which line has the same y-intercept as line A? [1] (c) Does the point (−3, −13) lie on line A? Show how you decide. [1]"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Part",
+    "Working and answer"
+   ],
+   "rows": [
+    [
+     "(a)",
+     "A and C both have gradient 4, so **A and C** are parallel."
+    ],
+    [
+     "(b)",
+     "A crosses at −1. D = −2x − 1 also crosses at −1: **D**."
+    ],
+    [
+     "(c)",
+     "4 × (−3) − 1 = −12 − 1 = −13 ✓ **Yes**, it lies on line A."
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Working backwards through a machine in the wrong order. Undo the last operation first.",
+    "Negative x values: 3 − 2 × (−1) = 5, not 1; 2 × (−2) + 1 = −3, not 5.",
+    "Joining points by hand, with a wavy line, or stopping the line at the last point instead of the whole x range.",
+    "Reading the gradient from y = 5 − 2x as 5. Rewrite as y = −2x + 5: m = −2, c = 5.",
+    "Forgetting the sign of the gradient: a line going down from left to right has a negative gradient.",
+    "Gradient as run ÷ rise. It is change in y ÷ change in x.",
+    "Mixing up coordinates: (3, 1) means 3 across, 1 up — not 3 up."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "\"Complete the table of values\" then \"Draw the graph of y = … on the grid\": each correct value and a ruled line through correct points earn marks.",
+    "\"Find the input when the output is …\" — show the inverse operations.",
+    "\"Write down the gradient / y-intercept of the line y = …\" — 1 mark each; rearrange to y = mx + c first.",
+    "\"Draw a ring around the equation of the line that is parallel to …\" or \"Match each equation to its graph\": compare m (steepness, up or down) and c (crossing point).",
+    "\"Does the point (…) lie on the line? Show how you decide\" — substitute and state Yes or No.",
+    "Word problems: \"Write a formula/function for …\", then \"What does the number … represent?\" — answer in the context (cost per km, starting height…)."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Functions and straight-line graphs — practice quiz",
+   "timed": false,
+   "intro": "14 questions, from easy to Checkpoint-hard. No calculator. Have squared paper and a ruler ready for the graph question and mark it yourself.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 30,
+     "calc": false,
+     "questions": [
+      {
+       "t": "num",
+       "q": "A function machine multiplies by 5 and then adds 3. What is the output when the input is −4?",
+       "ans": [
+        -17
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Functions",
+       "e": "−4 × 5 = −20; −20 + 3 = −17."
+      },
+      {
+       "t": "num",
+       "q": "A function machine multiplies by 3/4 and then subtracts 1. The output is 8. What was the input?",
+       "ans": [
+        12
+       ],
+       "tol": 0,
+       "m": 2,
+       "s": "Inverse functions",
+       "e": "Work backwards: 8 + 1 = 9. Undo × 3/4 by × 4/3: 9 × 4/3 = 12. Check: 12 × 3/4 = 9, 9 − 1 = 8 ✓"
+      },
+      {
+       "q": "Which table could NOT show a function?",
+       "c": [
+        "input 1, 2, 3 → output 3, 5, 7",
+        "input 4, 4, 9 → output 2, −2, 3",
+        "input 1, 2, 3 → output 6, 6, 6",
+        "input 0, 1, 2 → output 0, 1, 4"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Functions",
+       "e": "In a function each input has exactly one output. In the second table the input 4 gives two different outputs (2 and −2), so it is not a function. Different inputs giving the same output (third table) is allowed."
+      },
+      {
+       "t": "num",
+       "p": "Here is part of a table of values for y = 4x − 3.\nx | −2 | −1 | 0 | 1 | 2\ny |  |  | −3 |  | 5",
+       "q": "Work out the value of y when x = −2.",
+       "ans": [
+        -11
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Tables of values",
+       "e": "y = 4 × (−2) − 3 = −8 − 3 = −11."
+      },
+      {
+       "q": "What is the gradient of the line y = 7 − 3x?",
+       "c": [
+        "−3",
+        "7",
+        "3",
+        "−7"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Gradient",
+       "e": "Rewrite as y = −3x + 7. The number multiplying x is the gradient: m = −3. (7 is the y-intercept.)"
+      },
+      {
+       "t": "num",
+       "q": "Write down the y-intercept of the line y = 5x − 8.",
+       "ans": [
+        -8
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "y-intercept",
+       "e": "In y = mx + c, c is the y-intercept. Here c = −8: the line crosses the y-axis at (0, −8)."
+      },
+      {
+       "q": "Which is the equation of the line on this grid?",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 262 274\" width=\"262\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M36 248V24M64 248V24M92 248V24M120 248V24M148 248V24M176 248V24M204 248V24M232 248V24M36 248H232M36 220H232M36 192H232M36 164H232M36 136H232M36 108H232M36 80H232M36 52H232M36 24H232\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><line x1=\"36\" y1=\"164\" x2=\"240\" y2=\"164\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"120\" y1=\"248\" x2=\"120\" y2=\"16\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><polygon points=\"240,164 232,160 232,168\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><polygon points=\"120,16 116,24 124,24\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><text x=\"244\" y=\"169\" font-size=\"15\" fill=\"#0f1b33\" font-weight=\"bold\">x</text><text x=\"129\" y=\"22\" font-size=\"15\" fill=\"#0f1b33\" font-weight=\"bold\">y</text><line x1=\"36\" y1=\"24\" x2=\"232\" y2=\"220\" stroke=\"#c0392b\" stroke-width=\"2.5\"/><g stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\" stroke-linejoin=\"round\"><text x=\"36\" y=\"181\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−3</text><text x=\"64\" y=\"181\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−2</text><text x=\"92\" y=\"181\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−1</text><text x=\"148\" y=\"181\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">1</text><text x=\"176\" y=\"181\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">2</text><text x=\"204\" y=\"181\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">3</text><text x=\"232\" y=\"181\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">4</text><text x=\"114\" y=\"253\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">−3</text><text x=\"114\" y=\"225\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">−2</text><text x=\"114\" y=\"197\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">−1</text><text x=\"114\" y=\"141\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">1</text><text x=\"114\" y=\"113\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">2</text><text x=\"114\" y=\"85\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">3</text><text x=\"114\" y=\"57\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">4</text><text x=\"114\" y=\"29\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">5</text><text x=\"114\" y=\"181\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">0</text></g></svg>",
+       "c": [
+        "y = x + 2",
+        "y = −2x + 2",
+        "y = −x − 2",
+        "y = −x + 2"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Equation from a graph",
+       "e": "The line crosses the y-axis at 2, so c = 2. It goes down 1 for every 1 to the right (e.g. (0, 2) to (2, 0)), so m = −1. y = −x + 2."
+      },
+      {
+       "t": "text",
+       "q": "Write down the coordinates of the point where the line y = 3x + 6 crosses the x-axis.",
+       "ans": [
+        "(-2,0)",
+        "(−2,0)",
+        "-2,0",
+        "−2,0"
+       ],
+       "m": 2,
+       "s": "Coordinates",
+       "e": "On the x-axis, y = 0. So 3x + 6 = 0 → 3x = −6 → x = −2. The point is (−2, 0)."
+      },
+      {
+       "q": "Which line is parallel to y = 3x + 2?",
+       "c": [
+        "y = 2x + 3",
+        "y = −3x + 2",
+        "y = 3x − 5",
+        "y = 2 − 3x"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Parallel lines",
+       "e": "Parallel lines have the same gradient. y = 3x + 2 has gradient 3; so does y = 3x − 5. (y = −3x + 2 and y = 2 − 3x have gradient −3.)"
+      },
+      {
+       "t": "text",
+       "p": "A plumber charges a fixed fee of $25 plus $15 for each hour of work. C is the total charge in dollars and h is the number of hours.",
+       "q": "(a) Write a formula for C in terms of h.",
+       "ans": [
+        "C=15h+25",
+        "C=25+15h",
+        "C=15×h+25",
+        "C=15xh+25",
+        "C=15*h+25",
+        "C=25+15×h"
+       ],
+       "m": 1,
+       "s": "Words to functions",
+       "e": "$15 for each hour gives 15h; add the fixed fee of 25: C = 15h + 25."
+      },
+      {
+       "t": "num",
+       "p": "A plumber charges a fixed fee of $25 plus $15 for each hour of work. C is the total charge in dollars and h is the number of hours.",
+       "q": "(b) Work out the charge for 6 hours of work, in dollars.",
+       "ans": [
+        115
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Words to functions",
+       "e": "C = 15 × 6 + 25 = 90 + 25 = 115 dollars."
+      },
+      {
+       "t": "num",
+       "p": "A plumber charges a fixed fee of $25 plus $15 for each hour of work. C is the total charge in dollars and h is the number of hours.",
+       "q": "(c) A job cost $160. How many hours did the plumber work?",
+       "ans": [
+        9
+       ],
+       "tol": 0,
+       "m": 2,
+       "s": "Words to functions",
+       "e": "15h + 25 = 160 → 15h = 135 → h = 9 hours."
+      },
+      {
+       "t": "open",
+       "q": "Draw the graph of y = 2x − 3 for values of x from −1 to 4. Show your table of values.",
+       "m": 3,
+       "s": "Plotting graphs",
+       "ms": "1 mark: table with at least 3 correct values: (−1, −5), (0, −3), (1, −1), (2, 1), (3, 3), (4, 5). 1 mark: at least 4 points plotted correctly (FT from your table). 1 mark: one ruled straight line through the points from x = −1 to x = 4. Do not accept a line drawn freehand.",
+       "e": "Table: x = −1, 0, 1, 2, 3, 4 gives y = −5, −3, −1, 1, 3, 5. Plot these six points and join them with a ruler. The line crosses the y-axis at −3 and goes up 2 for every 1 to the right."
+      },
+      {
+       "t": "num",
+       "q": "What is the gradient of the line on this grid?",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 234 330\" width=\"234\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M36 304V24M64 304V24M92 304V24M120 304V24M148 304V24M176 304V24M204 304V24M36 304H204M36 276H204M36 248H204M36 220H204M36 192H204M36 164H204M36 136H204M36 108H204M36 80H204M36 52H204M36 24H204\" stroke=\"#c9d3e3\" stroke-width=\"1\" fill=\"none\"/><line x1=\"36\" y1=\"164\" x2=\"212\" y2=\"164\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"92\" y1=\"304\" x2=\"92\" y2=\"16\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><polygon points=\"212,164 204,160 204,168\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><polygon points=\"92,16 88,24 96,24\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\" stroke-linejoin=\"round\"/><text x=\"216\" y=\"169\" font-size=\"15\" fill=\"#0f1b33\" font-weight=\"bold\">x</text><text x=\"101\" y=\"22\" font-size=\"15\" fill=\"#0f1b33\" font-weight=\"bold\">y</text><line x1=\"64\" y1=\"304\" x2=\"204\" y2=\"24\" stroke=\"#c0392b\" stroke-width=\"2.5\"/><g stroke=\"#ffffff\" stroke-width=\"4\" paint-order=\"stroke\" stroke-linejoin=\"round\"><text x=\"36\" y=\"181\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−2</text><text x=\"64\" y=\"181\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">−1</text><text x=\"120\" y=\"181\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">1</text><text x=\"148\" y=\"181\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">2</text><text x=\"176\" y=\"181\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">3</text><text x=\"204\" y=\"181\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">4</text><text x=\"86\" y=\"309\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">−5</text><text x=\"86\" y=\"281\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">−4</text><text x=\"86\" y=\"253\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">−3</text><text x=\"86\" y=\"225\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">−2</text><text x=\"86\" y=\"197\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">−1</text><text x=\"86\" y=\"141\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">1</text><text x=\"86\" y=\"113\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">2</text><text x=\"86\" y=\"85\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">3</text><text x=\"86\" y=\"57\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">4</text><text x=\"86\" y=\"29\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">5</text><text x=\"86\" y=\"181\" font-size=\"13\" text-anchor=\"end\" fill=\"#0f1b33\">0</text></g></svg>",
+       "ans": [
+        2
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Gradient",
+       "e": "The line passes through (0, −3) and (2, 1). Run = 2, rise = 1 − (−3) = 4. Gradient = 4 ÷ 2 = 2. (Its equation is y = 2x − 3.)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "A function gives exactly one output for each input. To go backwards, use inverse operations in reverse order.",
+    "In real situations y = mx + c: m is the amount per unit (rate), c is the starting amount.",
+    "Table of values → coordinate pairs → neat crosses → one ruled straight line across the whole range.",
+    "y = mx + c: m = gradient (rise ÷ run; negative means downhill), c = y-intercept (0, c).",
+    "Same gradient → parallel lines. To test a point, substitute its x-coordinate."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1017 @@
+{
+ "slug": "cp6s-practice-test-2",
+ "title": "Checkpoint 6 Science — Practice Test 2",
+ "kicker": "Cambridge Primary Checkpoint Science 0097 · Stage 6 · Practice test",
+ "summary": "A full two-paper practice test in Checkpoint style (2 × 35 minutes, 2 × 40 marks), with automatic marking and a full mark scheme. By Mohamed Abdelkriem.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "This is a full practice test for Cambridge Primary Checkpoint Science (0097): two papers that cover the whole Stage 6 curriculum.",
+    "Biology: the heart and blood (6Bs.01), the lungs (6Bs.02), growing up (6Bs.03, 6Bp.01), diseases, hygiene and defences (6Bp.02, 6Bp.03, 6Bp.04), food webs, toxins and energy (6Be.01, 6Be.02, 6Be.03)",
+    "Chemistry: melting and boiling points, gases, conductors (6Cp.01, 6Cp.02, 6Cp.03); reversible changes, dissolving, boiling and evaporation, chemical reactions (6Cc.01 to 6Cc.05)",
+    "Physics: mass, weight and gravity, force diagrams, forces and motion, floating and sinking (6Pf.01 to 6Pf.05); reflection and refraction (6Ps.01, 6Ps.02); circuits (6Pe.01, 6Pe.02)",
+    "Earth and space: rocks, fossils and soil (6ESp.01 to 6ESp.04); the rock cycle (6ESc.01); the Solar System and the Moon (6ESs.01, 6ESs.02)",
+    "Thinking and Working Scientifically: variables, fair tests, anomalous results, means, patterns, predictions, graphs and conclusions"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Before you start"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**What this is:** a complete practice test written in the style of the Cambridge Primary Checkpoint Science test (0097), taken at the end of Stage 6. Every question is new; the contexts are a family kitchen, a football match, a farm in the Nile Delta, a playground, a night sky observation log and a model boat competition.",
+    "**Two papers, like the real test:** Paper 1 — **35 minutes, 40 marks**. Paper 2 — **35 minutes, 40 marks**. That is 80 marks in total. The timer here runs for 35 minutes for each paper.",
+    "**Calculator:** the cover of the real Paper 1 says \"You may use a calculator.\" For Paper 2, check with your teacher. The numbers in this test are small, so you can also work them out by hand.",
+    "**Equipment:** a black or dark blue pen, an HB pencil for diagrams and graphs, a ruler and a calculator. In the real test you answer on the question paper, and no extra materials are needed.",
+    "**Write on paper first if you like.** You can also print the question paper (PDF link above the questions) and do it like a real exam, then type your answers in.",
+    "**Look at the marks:** [1] = one point; [2] = two separate points, or a point and a reason. Give one answer only — a wrong answer next to a right one loses the mark.",
+    "**How marking works here:** answers you type (a word, a letter, a number) or choose (multiple choice) are **checked automatically**. Written explanations are **marked by you**: when you finish, compare your answer with the mark scheme shown and give yourself the marks you really earned. Be strict, like an examiner.",
+    "**Your score is a practice score only.** It shows your strengths and weaknesses; it is not an official Cambridge result."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "قبل ما تبدأ",
+   "text": "الامتحان ده تدريب كامل زي Checkpoint Science الحقيقي: ورقتين، كل ورقة ٣٥ دقيقة و٤٠ درجة. حل في هدوء، واقرأ القصة اللي في أول كل سؤال كويس. بص على الدرجات: لو السؤال عليه درجتين يبقى لازم تكتب فكرتين (معلومة + سبب). الإجابات القصيرة بتتصحح لوحدها، أما الشرح فإنت اللي هتصححه بنفسك بنموذج الإجابة — كن أمين مع نفسك. الدرجة دي للتدريب بس، مش نتيجة رسمية من كامبريدج."
+  },
+  {
+   "type": "test",
+   "title": "Checkpoint 6 Science — Practice Test 2",
+   "timed": true,
+   "intro": "Two papers, 35 minutes each, 40 marks each. Answer every part. Typed and multiple-choice answers are marked automatically; for written answers, use the mark scheme to mark yourself after each paper.",
+   "pdf": [
+    {
+     "label": "Question paper (PDF)",
+     "href": "pdf/cp6s-practice-test-2-paper.pdf"
+    },
+    {
+     "label": "Mark scheme (PDF)",
+     "href": "pdf/cp6s-practice-test-2-mark-scheme.pdf"
+    }
+   ],
+   "sections": [
+    {
+     "name": "Paper 1",
+     "minutes": 35,
+     "calc": true,
+     "questions": [
+      {
+       "t": "text",
+       "p": "Question 1\nKarim plays in a school football match. The diagram is a simple model of how blood travels around his body. The arrows show the direction in which the blood flows. A, B, C and D are blood vessels.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 330\" width=\"440\" font-family=\"Arial, sans-serif\" font-size=\"16\"><rect x=\"150\" y=\"20\" width=\"140\" height=\"50\" rx=\"8\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"220\" y=\"51\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">lungs</text><rect x=\"150\" y=\"140\" width=\"140\" height=\"50\" rx=\"8\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"220\" y=\"171\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">heart</text><rect x=\"150\" y=\"260\" width=\"140\" height=\"50\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"220\" y=\"291\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">body cells</text><path d=\"M150,155 H110 V45 H148\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"110\" y1=\"120\" x2=\"110\" y2=\"92\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><polygon points=\"110,80 116,92 104,92\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><path d=\"M290,45 H330 V155 H292\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"330\" y1=\"80\" x2=\"330\" y2=\"108\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><polygon points=\"330,120 324,108 336,108\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><path d=\"M290,180 H370 V285 H292\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"370\" y1=\"210\" x2=\"370\" y2=\"238\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><polygon points=\"370,250 364,238 376,238\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><path d=\"M150,285 H70 V180 H148\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"70\" y1=\"250\" x2=\"70\" y2=\"222\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><polygon points=\"70,210 76,222 64,222\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"94\" y=\"105\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">A</text><text x=\"346\" y=\"105\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">B</text><text x=\"386\" y=\"236\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">C</text><text x=\"54\" y=\"236\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">D</text></svg>",
+       "q": "(a) Which letter shows the blood vessel that carries blood **from the heart to the body cells**?",
+       "ans": [
+        "C"
+       ],
+       "m": 1,
+       "s": "Circulatory system",
+       "e": "Follow the arrows: blood leaves the heart and flows down the right-hand side to the body cells in vessel **C**. A vessel that carries blood away from the heart is an artery. (A also leaves the heart, but it goes to the lungs, not to the body cells.)"
+      },
+      {
+       "t": "text",
+       "p": "Question 1\nKarim plays in a school football match. The diagram is a simple model of how blood travels around his body. The arrows show the direction in which the blood flows. A, B, C and D are blood vessels.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 330\" width=\"440\" font-family=\"Arial, sans-serif\" font-size=\"16\"><rect x=\"150\" y=\"20\" width=\"140\" height=\"50\" rx=\"8\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"220\" y=\"51\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">lungs</text><rect x=\"150\" y=\"140\" width=\"140\" height=\"50\" rx=\"8\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"220\" y=\"171\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">heart</text><rect x=\"150\" y=\"260\" width=\"140\" height=\"50\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"220\" y=\"291\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">body cells</text><path d=\"M150,155 H110 V45 H148\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"110\" y1=\"120\" x2=\"110\" y2=\"92\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><polygon points=\"110,80 116,92 104,92\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><path d=\"M290,45 H330 V155 H292\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"330\" y1=\"80\" x2=\"330\" y2=\"108\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><polygon points=\"330,120 324,108 336,108\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><path d=\"M290,180 H370 V285 H292\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"370\" y1=\"210\" x2=\"370\" y2=\"238\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><polygon points=\"370,250 364,238 376,238\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><path d=\"M150,285 H70 V180 H148\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"70\" y1=\"250\" x2=\"70\" y2=\"222\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><polygon points=\"70,210 76,222 64,222\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"94\" y=\"105\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">A</text><text x=\"346\" y=\"105\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">B</text><text x=\"386\" y=\"236\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">C</text><text x=\"54\" y=\"236\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">D</text></svg>",
+       "q": "(b) Blood in vessel B has just come from the lungs. Name the gas that the blood has picked up in the lungs.",
+       "ans": [
+        "oxygen",
+        "O2",
+        "O_{2}"
+       ],
+       "m": 1,
+       "s": "Circulatory system",
+       "e": "**Oxygen.** In the lungs, oxygen moves from the air into the blood, so blood coming back from the lungs (vessel B) is rich in oxygen. Do not accept carbon dioxide — that gas leaves the blood in the lungs."
+      },
+      {
+       "t": "text",
+       "p": "Question 1\nKarim plays in a school football match. The diagram is a simple model of how blood travels around his body. The arrows show the direction in which the blood flows. A, B, C and D are blood vessels.",
+       "q": "(c) In Karim's leg muscles, blood flows through very narrow blood vessels with walls only one cell thick. Name these blood vessels.",
+       "ans": [
+        "capillaries",
+        "capillary",
+        "capilaries",
+        "capillarys"
+       ],
+       "m": 1,
+       "s": "Circulatory system",
+       "e": "**Capillaries.** Their very thin walls let oxygen and nutrients pass out of the blood into the muscle cells, and let waste such as carbon dioxide pass back into the blood."
+      },
+      {
+       "p": "Question 1\nKarim plays in a school football match. The diagram is a simple model of how blood travels around his body. The arrows show the direction in which the blood flows. A, B, C and D are blood vessels.",
+       "q": "(d) Which sentence describes the job of Karim's circulatory system?",
+       "c": [
+        "It breaks down his food into small pieces.",
+        "It moves the bones in his legs when he runs.",
+        "It carries oxygen, nutrients and waste around his body.",
+        "It takes air into his body and lets air out."
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Circulatory system",
+       "e": "The circulatory system (heart, blood vessels and blood) **transports** oxygen, nutrients and waste. Breaking down food is the digestive system, moving bones is muscles and the skeleton, and taking air in and out is the respiratory system."
+      },
+      {
+       "t": "num",
+       "p": "Question 2\nKarim wears a heart-rate watch. He plays football for the first 40 minutes, then sits and rests on the bench from 40 to 60 minutes. The graph shows his heart rate.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 470 330\" width=\"470\" font-family=\"Arial, sans-serif\" font-size=\"16\"><line x1=\"70\" y1=\"270\" x2=\"450\" y2=\"270\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"256.1\" x2=\"450\" y2=\"256.1\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"70\" y1=\"242.2\" x2=\"450\" y2=\"242.2\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"228.3\" x2=\"450\" y2=\"228.3\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"70\" y1=\"214.4\" x2=\"450\" y2=\"214.4\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"200.6\" x2=\"450\" y2=\"200.6\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"70\" y1=\"186.7\" x2=\"450\" y2=\"186.7\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"172.8\" x2=\"450\" y2=\"172.8\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"70\" y1=\"158.9\" x2=\"450\" y2=\"158.9\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"145\" x2=\"450\" y2=\"145\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"70\" y1=\"131.1\" x2=\"450\" y2=\"131.1\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"117.2\" x2=\"450\" y2=\"117.2\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"70\" y1=\"103.3\" x2=\"450\" y2=\"103.3\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"89.4\" x2=\"450\" y2=\"89.4\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"70\" y1=\"75.6\" x2=\"450\" y2=\"75.6\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"61.7\" x2=\"450\" y2=\"61.7\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"70\" y1=\"47.8\" x2=\"450\" y2=\"47.8\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"33.9\" x2=\"450\" y2=\"33.9\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"70\" y1=\"20\" x2=\"450\" y2=\"20\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"20\" x2=\"70\" y2=\"270\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"101.7\" y1=\"20\" x2=\"101.7\" y2=\"270\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"133.3\" y1=\"20\" x2=\"133.3\" y2=\"270\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"165\" y1=\"20\" x2=\"165\" y2=\"270\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"196.7\" y1=\"20\" x2=\"196.7\" y2=\"270\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"228.3\" y1=\"20\" x2=\"228.3\" y2=\"270\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"260\" y1=\"20\" x2=\"260\" y2=\"270\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"291.7\" y1=\"20\" x2=\"291.7\" y2=\"270\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"323.3\" y1=\"20\" x2=\"323.3\" y2=\"270\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"355\" y1=\"20\" x2=\"355\" y2=\"270\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"386.7\" y1=\"20\" x2=\"386.7\" y2=\"270\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"418.3\" y1=\"20\" x2=\"418.3\" y2=\"270\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"450\" y1=\"20\" x2=\"450\" y2=\"270\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"270\" x2=\"450\" y2=\"270\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"70\" y1=\"20\" x2=\"70\" y2=\"270\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"62\" y=\"275\" text-anchor=\"end\" fill=\"#0f1b33\">0</text><text x=\"62\" y=\"247.2\" text-anchor=\"end\" fill=\"#0f1b33\">20</text><text x=\"62\" y=\"219.4\" text-anchor=\"end\" fill=\"#0f1b33\">40</text><text x=\"62\" y=\"191.7\" text-anchor=\"end\" fill=\"#0f1b33\">60</text><text x=\"62\" y=\"163.9\" text-anchor=\"end\" fill=\"#0f1b33\">80</text><text x=\"62\" y=\"136.1\" text-anchor=\"end\" fill=\"#0f1b33\">100</text><text x=\"62\" y=\"108.3\" text-anchor=\"end\" fill=\"#0f1b33\">120</text><text x=\"62\" y=\"80.6\" text-anchor=\"end\" fill=\"#0f1b33\">140</text><text x=\"62\" y=\"52.8\" text-anchor=\"end\" fill=\"#0f1b33\">160</text><text x=\"62\" y=\"25\" text-anchor=\"end\" fill=\"#0f1b33\">180</text><text x=\"70\" y=\"290\" text-anchor=\"middle\" fill=\"#0f1b33\">0</text><text x=\"133.3\" y=\"290\" text-anchor=\"middle\" fill=\"#0f1b33\">10</text><text x=\"196.7\" y=\"290\" text-anchor=\"middle\" fill=\"#0f1b33\">20</text><text x=\"260\" y=\"290\" text-anchor=\"middle\" fill=\"#0f1b33\">30</text><text x=\"323.3\" y=\"290\" text-anchor=\"middle\" fill=\"#0f1b33\">40</text><text x=\"386.7\" y=\"290\" text-anchor=\"middle\" fill=\"#0f1b33\">50</text><text x=\"450\" y=\"290\" text-anchor=\"middle\" fill=\"#0f1b33\">60</text><text x=\"260\" y=\"314\" text-anchor=\"middle\" fill=\"#0f1b33\">time in minutes</text><text x=\"18\" y=\"145\" text-anchor=\"middle\" fill=\"#0f1b33\" transform=\"rotate(-90 18 145)\">heart rate in beats per minute</text><path d=\"M70,172.8 L133.3,103.3 L196.7,75.6 L260,61.7 L323.3,47.8 L386.7,117.2 L450,145\" fill=\"none\" stroke=\"#1f5fae\" stroke-width=\"2.5\"/><line x1=\"65\" y1=\"167.8\" x2=\"75\" y2=\"177.8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"65\" y1=\"177.8\" x2=\"75\" y2=\"167.8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"128.3\" y1=\"98.3\" x2=\"138.3\" y2=\"108.3\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"128.3\" y1=\"108.3\" x2=\"138.3\" y2=\"98.3\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"191.7\" y1=\"70.6\" x2=\"201.7\" y2=\"80.6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"191.7\" y1=\"80.6\" x2=\"201.7\" y2=\"70.6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"255\" y1=\"56.7\" x2=\"265\" y2=\"66.7\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"255\" y1=\"66.7\" x2=\"265\" y2=\"56.7\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"318.3\" y1=\"42.8\" x2=\"328.3\" y2=\"52.8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"318.3\" y1=\"52.8\" x2=\"328.3\" y2=\"42.8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"381.7\" y1=\"112.2\" x2=\"391.7\" y2=\"122.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"381.7\" y1=\"122.2\" x2=\"391.7\" y2=\"112.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"445\" y1=\"140\" x2=\"455\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"445\" y1=\"150\" x2=\"455\" y2=\"140\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"196.7\" y=\"242.2\" text-anchor=\"middle\" fill=\"#1f5fae\">playing</text><text x=\"386.7\" y=\"242.2\" text-anchor=\"middle\" fill=\"#1f5fae\">resting</text><line x1=\"323.3\" y1=\"214.4\" x2=\"323.3\" y2=\"270\" stroke=\"#1f5fae\" stroke-width=\"1.5\" stroke-dasharray=\"5,4\"/></svg>",
+       "q": "(a) What was Karim's heart rate after 20 minutes?",
+       "ans": [
+        140
+       ],
+       "tol": 0,
+       "unit": "beats per minute",
+       "m": 1,
+       "s": "Circulatory system / graphs",
+       "e": "Go up from 20 on the time axis to the line, then across to the heart-rate axis: **140 beats per minute**."
+      },
+      {
+       "t": "num",
+       "p": "Question 2\nKarim wears a heart-rate watch. He plays football for the first 40 minutes, then sits and rests on the bench from 40 to 60 minutes. The graph shows his heart rate.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 470 330\" width=\"470\" font-family=\"Arial, sans-serif\" font-size=\"16\"><line x1=\"70\" y1=\"270\" x2=\"450\" y2=\"270\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"256.1\" x2=\"450\" y2=\"256.1\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"70\" y1=\"242.2\" x2=\"450\" y2=\"242.2\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"228.3\" x2=\"450\" y2=\"228.3\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"70\" y1=\"214.4\" x2=\"450\" y2=\"214.4\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"200.6\" x2=\"450\" y2=\"200.6\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"70\" y1=\"186.7\" x2=\"450\" y2=\"186.7\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"172.8\" x2=\"450\" y2=\"172.8\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"70\" y1=\"158.9\" x2=\"450\" y2=\"158.9\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"145\" x2=\"450\" y2=\"145\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"70\" y1=\"131.1\" x2=\"450\" y2=\"131.1\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"117.2\" x2=\"450\" y2=\"117.2\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"70\" y1=\"103.3\" x2=\"450\" y2=\"103.3\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"89.4\" x2=\"450\" y2=\"89.4\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"70\" y1=\"75.6\" x2=\"450\" y2=\"75.6\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"61.7\" x2=\"450\" y2=\"61.7\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"70\" y1=\"47.8\" x2=\"450\" y2=\"47.8\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"33.9\" x2=\"450\" y2=\"33.9\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"70\" y1=\"20\" x2=\"450\" y2=\"20\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"20\" x2=\"70\" y2=\"270\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"101.7\" y1=\"20\" x2=\"101.7\" y2=\"270\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"133.3\" y1=\"20\" x2=\"133.3\" y2=\"270\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"165\" y1=\"20\" x2=\"165\" y2=\"270\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"196.7\" y1=\"20\" x2=\"196.7\" y2=\"270\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"228.3\" y1=\"20\" x2=\"228.3\" y2=\"270\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"260\" y1=\"20\" x2=\"260\" y2=\"270\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"291.7\" y1=\"20\" x2=\"291.7\" y2=\"270\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"323.3\" y1=\"20\" x2=\"323.3\" y2=\"270\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"355\" y1=\"20\" x2=\"355\" y2=\"270\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"386.7\" y1=\"20\" x2=\"386.7\" y2=\"270\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"418.3\" y1=\"20\" x2=\"418.3\" y2=\"270\" stroke=\"#c9d3e3\" stroke-width=\"1\"/><line x1=\"450\" y1=\"20\" x2=\"450\" y2=\"270\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"270\" x2=\"450\" y2=\"270\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"70\" y1=\"20\" x2=\"70\" y2=\"270\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"62\" y=\"275\" text-anchor=\"end\" fill=\"#0f1b33\">0</text><text x=\"62\" y=\"247.2\" text-anchor=\"end\" fill=\"#0f1b33\">20</text><text x=\"62\" y=\"219.4\" text-anchor=\"end\" fill=\"#0f1b33\">40</text><text x=\"62\" y=\"191.7\" text-anchor=\"end\" fill=\"#0f1b33\">60</text><text x=\"62\" y=\"163.9\" text-anchor=\"end\" fill=\"#0f1b33\">80</text><text x=\"62\" y=\"136.1\" text-anchor=\"end\" fill=\"#0f1b33\">100</text><text x=\"62\" y=\"108.3\" text-anchor=\"end\" fill=\"#0f1b33\">120</text><text x=\"62\" y=\"80.6\" text-anchor=\"end\" fill=\"#0f1b33\">140</text><text x=\"62\" y=\"52.8\" text-anchor=\"end\" fill=\"#0f1b33\">160</text><text x=\"62\" y=\"25\" text-anchor=\"end\" fill=\"#0f1b33\">180</text><text x=\"70\" y=\"290\" text-anchor=\"middle\" fill=\"#0f1b33\">0</text><text x=\"133.3\" y=\"290\" text-anchor=\"middle\" fill=\"#0f1b33\">10</text><text x=\"196.7\" y=\"290\" text-anchor=\"middle\" fill=\"#0f1b33\">20</text><text x=\"260\" y=\"290\" text-anchor=\"middle\" fill=\"#0f1b33\">30</text><text x=\"323.3\" y=\"290\" text-anchor=\"middle\" fill=\"#0f1b33\">40</text><text x=\"386.7\" y=\"290\" text-anchor=\"middle\" fill=\"#0f1b33\">50</text><text x=\"450\" y=\"290\" text-anchor=\"middle\" fill=\"#0f1b33\">60</text><text x=\"260\" y=\"314\" text-anchor=\"middle\" fill=\"#0f1b33\">time in minutes</text><text x=\"18\" y=\"145\" text-anchor=\"middle\" fill=\"#0f1b33\" transform=\"rotate(-90 18 145)\">heart rate in beats per minute</text><path d=\"M70,172.8 L133.3,103.3 L196.7,75.6 L260,61.7 L323.3,47.8 L386.7,117.2 L450,145\" fill=\"none\" stroke=\"#1f5fae\" stroke-width=\"2.5\"/><line x1=\"65\" y1=\"167.8\" x2=\"75\" y2=\"177.8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"65\" y1=\"177.8\" x2=\"75\" y2=\"167.8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"128.3\" y1=\"98.3\" x2=\"138.3\" y2=\"108.3\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"128.3\" y1=\"108.3\" x2=\"138.3\" y2=\"98.3\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"191.7\" y1=\"70.6\" x2=\"201.7\" y2=\"80.6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"191.7\" y1=\"80.6\" x2=\"201.7\" y2=\"70.6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"255\" y1=\"56.7\" x2=\"265\" y2=\"66.7\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"255\" y1=\"66.7\" x2=\"265\" y2=\"56.7\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"318.3\" y1=\"42.8\" x2=\"328.3\" y2=\"52.8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"318.3\" y1=\"52.8\" x2=\"328.3\" y2=\"42.8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"381.7\" y1=\"112.2\" x2=\"391.7\" y2=\"122.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"381.7\" y1=\"122.2\" x2=\"391.7\" y2=\"112.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"445\" y1=\"140\" x2=\"455\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"445\" y1=\"150\" x2=\"455\" y2=\"140\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"196.7\" y=\"242.2\" text-anchor=\"middle\" fill=\"#1f5fae\">playing</text><text x=\"386.7\" y=\"242.2\" text-anchor=\"middle\" fill=\"#1f5fae\">resting</text><line x1=\"323.3\" y1=\"214.4\" x2=\"323.3\" y2=\"270\" stroke=\"#1f5fae\" stroke-width=\"1.5\" stroke-dasharray=\"5,4\"/></svg>",
+       "q": "(b) Work out how much Karim's heart rate increased from the start (0 minutes) to 40 minutes.",
+       "ans": [
+        90
+       ],
+       "tol": 0,
+       "unit": "beats per minute",
+       "m": 1,
+       "s": "Circulatory system / graphs",
+       "e": "At 0 minutes: 70 beats per minute. At 40 minutes: 160 beats per minute. Increase = 160 − 70 = **90 beats per minute**."
+      },
+      {
+       "t": "open",
+       "p": "Question 2\nKarim wears a heart-rate watch. He plays football for the first 40 minutes, then sits and rests on the bench from 40 to 60 minutes. The graph shows his heart rate.",
+       "q": "(c) Explain why Karim's heart rate increased while he was playing football.",
+       "m": 2,
+       "s": "Circulatory system",
+       "ms": "1 mark: his muscles need more oxygen / more energy / more nutrients (glucose) when he exercises. 1 mark: the heart beats faster to pump blood faster, so more oxygen (and nutrients) reach the muscles / more carbon dioxide (waste) is taken away. Do not accept 'he is tired' or 'his heart is working hard' with no reason.",
+       "e": "Model answer: \"When Karim runs, his **muscles need more oxygen** (and nutrients) to release energy. His heart beats faster so that blood carrying oxygen is **pumped to the muscles more quickly**, and carbon dioxide is taken away faster.\" Two separate ideas are needed for 2 marks: the need (more oxygen) and the job of the faster heart beat (delivering it)."
+      },
+      {
+       "p": "Question 3\nMum is cooking dinner in the family kitchen. She cuts up raw chicken and then makes a salad.",
+       "q": "(a) Raw chicken can carry harmful bacteria. Which action is best for stopping these bacteria from getting into the salad?",
+       "c": [
+        "Use the same knife for the chicken and the salad, but cut the salad quickly.",
+        "Leave the salad on the worktop near the chicken for a few hours.",
+        "Rinse the chicken in the sink next to the salad bowl.",
+        "Wash the board, the knife and her hands with hot soapy water after cutting the chicken."
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Hygiene",
+       "e": "Washing the board, knife and hands with hot soapy water removes and kills the bacteria, so they are not passed to food that will not be cooked. The other actions all help bacteria spread or grow."
+      },
+      {
+       "t": "text",
+       "p": "Question 3\nMum is cooking dinner in the family kitchen. She cuts up raw chicken and then makes a salad.",
+       "q": "(b) If a few bacteria are swallowed with food, most of them are killed in the stomach. Name the substance in the stomach that kills them.",
+       "ans": [
+        "acid",
+        "stomach acid",
+        "hydrochloric acid",
+        "the acid",
+        "acid in the stomach",
+        "gastric acid",
+        "an acid"
+       ],
+       "m": 1,
+       "s": "Body defences",
+       "e": "**Stomach acid** (hydrochloric acid) kills most pathogens that we swallow. It is one of the body's defences, together with the skin and mucus."
+      },
+      {
+       "t": "open",
+       "p": "Question 3\nMum is cooking dinner in the family kitchen. She cuts up raw chicken and then makes a salad.",
+       "q": "(c) In summer the family leaves the kitchen window open at night and mosquitoes fly in. Some mosquitoes can carry pathogens from one person to another. Give **two** ways the family can avoid being bitten by mosquitoes.",
+       "m": 2,
+       "s": "Hygiene / vectors",
+       "ms": "1 mark each, any two: put a net/screen on the window or close the window at dusk; sleep under a mosquito net; use insect repellent (cream/spray) on the skin; wear long sleeves and long trousers in the evening; empty standing water (buckets, plant pots) where mosquitoes breed; use a plug-in mosquito repellent/insect spray in the room. Do not accept 'wash hands' or 'cook food well' (these do not stop bites).",
+       "e": "Example answer: \"1. Put a net (screen) over the window. 2. Spray insect repellent on their skin before sleeping.\" A mosquito that carries a pathogen is called a **vector**; stopping the bite stops the pathogen from passing between hosts."
+      },
+      {
+       "t": "text",
+       "p": "Question 4\nThe diagram shows part of a food web on a farm in the Nile Delta. The farmer grows rice and clover (berseem).",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 360\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\"><line x1=\"130\" y1=\"312\" x2=\"130\" y2=\"269\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"130,258 135,269 125,269\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"165.4\" y1=\"317.3\" x2=\"319.7\" y2=\"261.7\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"330,258 321.3,266.4 318,257\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"372\" y1=\"312\" x2=\"376.8\" y2=\"268.9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"378,258 381.8,269.5 371.8,268.4\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"365.6\" y1=\"222\" x2=\"321.3\" y2=\"166.6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"314.4,158 325.2,163.5 317.4,169.7\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"382.6\" y1=\"222\" x2=\"405.8\" y2=\"63.9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"407.4,53 410.7,64.6 400.8,63.2\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"318.9\" y1=\"122\" x2=\"383.2\" y2=\"60.6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"391.1,53 386.6,64.2 379.7,57\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"264.6\" y1=\"140\" x2=\"131\" y2=\"140\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"120,140 131,135 131,145\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"121\" y1=\"222\" x2=\"93.9\" y2=\"167.8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"89,158 98.4,165.6 89.4,170.1\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"136.1\" y1=\"222\" x2=\"190.3\" y2=\"63.4\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"193.9,53 195,65 185.6,61.8\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"100.6\" y1=\"122\" x2=\"171.2\" y2=\"60.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"179.4,53 174.4,64 167.9,56.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"172.2\" y=\"20\" width=\"55.6\" height=\"30\" rx=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"200\" y=\"41\" text-anchor=\"middle\" fill=\"#0f1b33\">owl</text><rect x=\"373\" y=\"20\" width=\"74\" height=\"30\" rx=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"410\" y=\"41\" text-anchor=\"middle\" fill=\"#0f1b33\">egret</text><rect x=\"43\" y=\"125\" width=\"74\" height=\"30\" rx=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"80\" y=\"146\" text-anchor=\"middle\" fill=\"#0f1b33\">snake</text><rect x=\"267.6\" y=\"125\" width=\"64.8\" height=\"30\" rx=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"300\" y=\"146\" text-anchor=\"middle\" fill=\"#0f1b33\">frog</text><rect x=\"102.2\" y=\"225\" width=\"55.6\" height=\"30\" rx=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"130\" y=\"246\" text-anchor=\"middle\" fill=\"#0f1b33\">rat</text><rect x=\"315.4\" y=\"225\" width=\"129.2\" height=\"30\" rx=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"380\" y=\"246\" text-anchor=\"middle\" fill=\"#0f1b33\">grasshopper</text><rect x=\"97.6\" y=\"315\" width=\"64.8\" height=\"30\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"130\" y=\"336\" text-anchor=\"middle\" fill=\"#0f1b33\">rice</text><rect x=\"282.4\" y=\"315\" width=\"175.2\" height=\"30\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"370\" y=\"336\" text-anchor=\"middle\" fill=\"#0f1b33\">clover (berseem)</text></svg>",
+       "q": "(a) Name **one** producer in this food web.",
+       "ans": [
+        "rice",
+        "clover",
+        "berseem",
+        "clover (berseem)",
+        "rice plant",
+        "rice plants",
+        "clover plant",
+        "clover plants"
+       ],
+       "m": 1,
+       "s": "Food webs",
+       "e": "Producers are plants: they make their own food using light energy. Here they are **rice** and **clover (berseem)**. Either one scores."
+      },
+      {
+       "t": "num",
+       "p": "Question 4\nThe diagram shows part of a food web on a farm in the Nile Delta. The farmer grows rice and clover (berseem).",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 360\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\"><line x1=\"130\" y1=\"312\" x2=\"130\" y2=\"269\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"130,258 135,269 125,269\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"165.4\" y1=\"317.3\" x2=\"319.7\" y2=\"261.7\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"330,258 321.3,266.4 318,257\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"372\" y1=\"312\" x2=\"376.8\" y2=\"268.9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"378,258 381.8,269.5 371.8,268.4\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"365.6\" y1=\"222\" x2=\"321.3\" y2=\"166.6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"314.4,158 325.2,163.5 317.4,169.7\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"382.6\" y1=\"222\" x2=\"405.8\" y2=\"63.9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"407.4,53 410.7,64.6 400.8,63.2\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"318.9\" y1=\"122\" x2=\"383.2\" y2=\"60.6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"391.1,53 386.6,64.2 379.7,57\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"264.6\" y1=\"140\" x2=\"131\" y2=\"140\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"120,140 131,135 131,145\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"121\" y1=\"222\" x2=\"93.9\" y2=\"167.8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"89,158 98.4,165.6 89.4,170.1\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"136.1\" y1=\"222\" x2=\"190.3\" y2=\"63.4\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"193.9,53 195,65 185.6,61.8\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"100.6\" y1=\"122\" x2=\"171.2\" y2=\"60.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"179.4,53 174.4,64 167.9,56.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"172.2\" y=\"20\" width=\"55.6\" height=\"30\" rx=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"200\" y=\"41\" text-anchor=\"middle\" fill=\"#0f1b33\">owl</text><rect x=\"373\" y=\"20\" width=\"74\" height=\"30\" rx=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"410\" y=\"41\" text-anchor=\"middle\" fill=\"#0f1b33\">egret</text><rect x=\"43\" y=\"125\" width=\"74\" height=\"30\" rx=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"80\" y=\"146\" text-anchor=\"middle\" fill=\"#0f1b33\">snake</text><rect x=\"267.6\" y=\"125\" width=\"64.8\" height=\"30\" rx=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"300\" y=\"146\" text-anchor=\"middle\" fill=\"#0f1b33\">frog</text><rect x=\"102.2\" y=\"225\" width=\"55.6\" height=\"30\" rx=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"130\" y=\"246\" text-anchor=\"middle\" fill=\"#0f1b33\">rat</text><rect x=\"315.4\" y=\"225\" width=\"129.2\" height=\"30\" rx=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"380\" y=\"246\" text-anchor=\"middle\" fill=\"#0f1b33\">grasshopper</text><rect x=\"97.6\" y=\"315\" width=\"64.8\" height=\"30\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"130\" y=\"336\" text-anchor=\"middle\" fill=\"#0f1b33\">rice</text><rect x=\"282.4\" y=\"315\" width=\"175.2\" height=\"30\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"370\" y=\"336\" text-anchor=\"middle\" fill=\"#0f1b33\">clover (berseem)</text></svg>",
+       "q": "(b) How many food chains in this food web include the **rat**?",
+       "ans": [
+        2
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Food webs",
+       "e": "Start at the rat and follow every path. Rat is eaten by the snake and by the owl. Chains: rice → rat → owl; rice → rat → snake → owl. That is **2** food chains."
+      },
+      {
+       "p": "Question 4\nThe diagram shows part of a food web on a farm in the Nile Delta. The farmer grows rice and clover (berseem).",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 360\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\"><line x1=\"130\" y1=\"312\" x2=\"130\" y2=\"269\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"130,258 135,269 125,269\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"165.4\" y1=\"317.3\" x2=\"319.7\" y2=\"261.7\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"330,258 321.3,266.4 318,257\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"372\" y1=\"312\" x2=\"376.8\" y2=\"268.9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"378,258 381.8,269.5 371.8,268.4\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"365.6\" y1=\"222\" x2=\"321.3\" y2=\"166.6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"314.4,158 325.2,163.5 317.4,169.7\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"382.6\" y1=\"222\" x2=\"405.8\" y2=\"63.9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"407.4,53 410.7,64.6 400.8,63.2\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"318.9\" y1=\"122\" x2=\"383.2\" y2=\"60.6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"391.1,53 386.6,64.2 379.7,57\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"264.6\" y1=\"140\" x2=\"131\" y2=\"140\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"120,140 131,135 131,145\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"121\" y1=\"222\" x2=\"93.9\" y2=\"167.8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"89,158 98.4,165.6 89.4,170.1\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"136.1\" y1=\"222\" x2=\"190.3\" y2=\"63.4\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"193.9,53 195,65 185.6,61.8\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"100.6\" y1=\"122\" x2=\"171.2\" y2=\"60.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"179.4,53 174.4,64 167.9,56.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"172.2\" y=\"20\" width=\"55.6\" height=\"30\" rx=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"200\" y=\"41\" text-anchor=\"middle\" fill=\"#0f1b33\">owl</text><rect x=\"373\" y=\"20\" width=\"74\" height=\"30\" rx=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"410\" y=\"41\" text-anchor=\"middle\" fill=\"#0f1b33\">egret</text><rect x=\"43\" y=\"125\" width=\"74\" height=\"30\" rx=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"80\" y=\"146\" text-anchor=\"middle\" fill=\"#0f1b33\">snake</text><rect x=\"267.6\" y=\"125\" width=\"64.8\" height=\"30\" rx=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"300\" y=\"146\" text-anchor=\"middle\" fill=\"#0f1b33\">frog</text><rect x=\"102.2\" y=\"225\" width=\"55.6\" height=\"30\" rx=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"130\" y=\"246\" text-anchor=\"middle\" fill=\"#0f1b33\">rat</text><rect x=\"315.4\" y=\"225\" width=\"129.2\" height=\"30\" rx=\"6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"380\" y=\"246\" text-anchor=\"middle\" fill=\"#0f1b33\">grasshopper</text><rect x=\"97.6\" y=\"315\" width=\"64.8\" height=\"30\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"130\" y=\"336\" text-anchor=\"middle\" fill=\"#0f1b33\">rice</text><rect x=\"282.4\" y=\"315\" width=\"175.2\" height=\"30\" rx=\"6\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"370\" y=\"336\" text-anchor=\"middle\" fill=\"#0f1b33\">clover (berseem)</text></svg>",
+       "q": "(c) A disease kills most of the frogs. What is most likely to happen to the number of grasshoppers at first?",
+       "c": [
+        "It will decrease, because grasshoppers eat frogs.",
+        "It will increase, because fewer grasshoppers are eaten.",
+        "It will stay the same, because grasshoppers eat plants.",
+        "All the grasshoppers will die."
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Food webs",
+       "e": "Frogs eat grasshoppers. With fewer frogs, fewer grasshoppers are eaten, so the number of grasshoppers **increases** at first. (Option A has the arrow the wrong way round: frogs eat grasshoppers, not the opposite.)"
+      },
+      {
+       "t": "open",
+       "p": "Question 4\nThe diagram shows part of a food web on a farm in the Nile Delta. The farmer grows rice and clover (berseem).",
+       "q": "(d) The farmer puts out rat poison. The poison is toxic and stays inside the bodies of animals that take it in. A few weeks later, an owl on the farm is found dead. Explain how the poison got into the owl's body.",
+       "m": 2,
+       "s": "Toxins in food chains",
+       "ms": "1 mark: rats eat the poison (the poison is in the rats' bodies). 1 mark: the owl eats (many) poisoned rats / eats snakes that ate poisoned rats, so the poison passes along the food chain (and builds up in the owl). Do not accept 'the owl ate the poison' with no link to the rats.",
+       "e": "Model answer: \"The **rats ate the poison**, and it stayed in their bodies. The **owl ate the poisoned rats** (and snakes that had eaten poisoned rats), so the poison passed along the food chain into the owl.\" Because an owl eats many rats, the poison builds up to a large amount in its body."
+      },
+      {
+       "t": "text",
+       "p": "Question 4\nThe diagram shows part of a food web on a farm in the Nile Delta. The farmer grows rice and clover (berseem).",
+       "q": "(e) Name the original source of the energy for every food chain in this food web.",
+       "ans": [
+        "the Sun",
+        "Sun",
+        "sunlight",
+        "light from the Sun",
+        "light",
+        "the sun's light",
+        "solar energy",
+        "sun light",
+        "light energy"
+       ],
+       "m": 1,
+       "s": "Energy in food chains",
+       "e": "The **Sun**. Rice and clover trap light energy from the Sun to make food; the energy then passes to each animal that eats them, one link at a time."
+      },
+      {
+       "t": "text",
+       "p": "Question 5\nThe table shows the melting points and boiling points of some substances found in the family kitchen.\nSubstance | Melting point in °C | Boiling point in °C\nwater | 0 | 100\nsalt | 801 | 1413\nethanol (cleaning spirit) | −114 | 78\npure ethanoic acid (used to make vinegar) | 17 | 118",
+       "q": "(a) What is the state of salt at room temperature (25 °C)? Write solid, liquid or gas.",
+       "ans": [
+        "solid",
+        "a solid"
+       ],
+       "m": 1,
+       "s": "Melting and boiling points",
+       "e": "25 °C is below salt's melting point (801 °C), so salt is a **solid**."
+      },
+      {
+       "t": "text",
+       "p": "Question 5\nThe table shows the melting points and boiling points of some substances found in the family kitchen.\nSubstance | Melting point in °C | Boiling point in °C\nwater | 0 | 100\nsalt | 801 | 1413\nethanol (cleaning spirit) | −114 | 78\npure ethanoic acid (used to make vinegar) | 17 | 118",
+       "q": "(b) Which substance in the table is a **gas** at 90 °C?",
+       "ans": [
+        "ethanol",
+        "cleaning spirit",
+        "ethanol (cleaning spirit)"
+       ],
+       "m": 1,
+       "s": "Melting and boiling points",
+       "e": "A substance is a gas above its boiling point. Only **ethanol** boils below 90 °C (it boils at 78 °C). Water (100 °C) and ethanoic acid (118 °C) are still liquids at 90 °C, and salt is a solid."
+      },
+      {
+       "t": "text",
+       "p": "Question 5\nThe table shows the melting points and boiling points of some substances found in the family kitchen.\nSubstance | Melting point in °C | Boiling point in °C\nwater | 0 | 100\nsalt | 801 | 1413\nethanol (cleaning spirit) | −114 | 78\npure ethanoic acid (used to make vinegar) | 17 | 118",
+       "q": "(c) On a cold winter morning the kitchen is at 10 °C. What is the state of the pure ethanoic acid in its bottle?",
+       "ans": [
+        "solid",
+        "a solid"
+       ],
+       "m": 1,
+       "s": "Melting and boiling points",
+       "e": "10 °C is **below** the melting point of pure ethanoic acid (17 °C), so it has frozen: it is a **solid**. Each substance has its own melting point; this is a property of the substance."
+      },
+      {
+       "t": "num",
+       "p": "Question 6\nSalma mixes lemon juice with baking soda in a glass in the kitchen. The mixture fizzes. She puts a thermometer in the mixture.\ntemperature at the start = 22 °C\ntemperature after 1 minute = 17 °C\nThe word equation for the reaction is:\ncitric acid + sodium hydrogencarbonate → sodium citrate + water + carbon dioxide",
+       "q": "(a) By how many degrees did the temperature fall?",
+       "ans": [
+        5
+       ],
+       "tol": 0,
+       "unit": "°C",
+       "m": 1,
+       "s": "Chemical reactions",
+       "e": "22 − 17 = **5 °C**. A change in temperature is evidence that a chemical reaction has taken place."
+      },
+      {
+       "t": "open",
+       "p": "Question 6\nSalma mixes lemon juice with baking soda in a glass in the kitchen. The mixture fizzes. She puts a thermometer in the mixture.\ntemperature at the start = 22 °C\ntemperature after 1 minute = 17 °C\nThe word equation for the reaction is:\ncitric acid + sodium hydrogencarbonate → sodium citrate + water + carbon dioxide",
+       "q": "(b) Give **one other** observation that shows a chemical reaction is happening.",
+       "m": 1,
+       "s": "Chemical reactions",
+       "ms": "1 mark: fizzing / bubbles / a gas is produced (accept: carbon dioxide is given off). Do not accept 'the temperature changed' (already given) or 'it dissolves'.",
+       "e": "**The mixture fizzes — bubbles of gas are made.** A gas being produced is evidence of a chemical reaction. (The gas is carbon dioxide, a product in the word equation.)"
+      },
+      {
+       "t": "num",
+       "p": "Question 6\nSalma mixes lemon juice with baking soda in a glass in the kitchen. The mixture fizzes. She puts a thermometer in the mixture.\ntemperature at the start = 22 °C\ntemperature after 1 minute = 17 °C\nThe word equation for the reaction is:\ncitric acid + sodium hydrogencarbonate → sodium citrate + water + carbon dioxide",
+       "q": "(c) How many **reactants** are there in this reaction?",
+       "ans": [
+        2
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Chemical reactions",
+       "e": "Reactants are the substances on the **left** of the arrow, the ones that react: citric acid and sodium hydrogencarbonate. That is **2**. The three substances on the right are products (new substances)."
+      },
+      {
+       "p": "Question 6\nSalma mixes lemon juice with baking soda in a glass in the kitchen. The mixture fizzes. She puts a thermometer in the mixture.\ntemperature at the start = 22 °C\ntemperature after 1 minute = 17 °C\nThe word equation for the reaction is:\ncitric acid + sodium hydrogencarbonate → sodium citrate + water + carbon dioxide",
+       "q": "(d) Salma also cooks dinner. Which of these changes is **reversible**?",
+       "c": [
+        "melting butter in a warm pan",
+        "frying an egg",
+        "toasting bread",
+        "baking a cake"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Reversible changes",
+       "e": "Melted butter turns back into solid butter when it cools, so **melting butter** is a reversible (physical) change. Frying an egg, toasting bread and baking a cake make new substances, so they cannot be reversed."
+      },
+      {
+       "p": "Question 7\nYoussef investigates friction on the playground slide. He sticks a different material to the bottom of the same wooden block, lets the block go from the top of the slide and measures the time it takes to reach the bottom. He does each test three times.\nMaterial on the block | Test 1 time in s | Test 2 time in s | Test 3 time in s | Mean time in s\nplastic | 2.1 | 2.3 | 2.2 | 2.2\ncotton cloth | 2.8 | 2.9 | 3.0 | 2.9\ncarpet | 4.6 | 3.5 | 4.8 | ?\nsandpaper | 6.2 | 6.0 | 6.4 | 6.2",
+       "q": "(a) Which is the **independent** variable in Youssef's investigation (the variable he changes)?",
+       "c": [
+        "the time taken to reach the bottom",
+        "the material on the bottom of the block",
+        "the length of the slide",
+        "the mass of the block"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Investigation: variables",
+       "e": "The independent variable is the one Youssef **changes on purpose**: the **material** stuck to the block. The time is the dependent variable (what he measures); the slide and the block's mass are control variables."
+      },
+      {
+       "t": "text",
+       "p": "Question 7\nYoussef investigates friction on the playground slide. He sticks a different material to the bottom of the same wooden block, lets the block go from the top of the slide and measures the time it takes to reach the bottom. He does each test three times.\nMaterial on the block | Test 1 time in s | Test 2 time in s | Test 3 time in s | Mean time in s\nplastic | 2.1 | 2.3 | 2.2 | 2.2\ncotton cloth | 2.8 | 2.9 | 3.0 | 2.9\ncarpet | 4.6 | 3.5 | 4.8 | ?\nsandpaper | 6.2 | 6.0 | 6.4 | 6.2",
+       "q": "(b) Name the **dependent** variable (the variable he measures).",
+       "ans": [
+        "time",
+        "the time",
+        "time taken",
+        "the time taken",
+        "time to reach the bottom",
+        "the time to reach the bottom",
+        "time taken to reach the bottom",
+        "the time taken to reach the bottom",
+        "time to slide down",
+        "time taken to slide down",
+        "the time it takes",
+        "the time it takes to reach the bottom",
+        "time in s",
+        "time (s)"
+       ],
+       "m": 1,
+       "s": "Investigation: variables",
+       "e": "He measures the **time** (in seconds) for the block to reach the bottom of the slide."
+      },
+      {
+       "t": "open",
+       "p": "Question 7\nYoussef investigates friction on the playground slide. He sticks a different material to the bottom of the same wooden block, lets the block go from the top of the slide and measures the time it takes to reach the bottom. He does each test three times.\nMaterial on the block | Test 1 time in s | Test 2 time in s | Test 3 time in s | Mean time in s\nplastic | 2.1 | 2.3 | 2.2 | 2.2\ncotton cloth | 2.8 | 2.9 | 3.0 | 2.9\ncarpet | 4.6 | 3.5 | 4.8 | ?\nsandpaper | 6.2 | 6.0 | 6.4 | 6.2",
+       "q": "(c) Give **one** variable Youssef must keep the same to make this a fair test.",
+       "m": 1,
+       "s": "Investigation: fair test",
+       "ms": "1 mark, any one: the same block / same mass of block; the same slide; start from the same place (same height) on the slide; let go without pushing; the same size of material on the block; the same person timing / same stopwatch. Do not accept 'the material' (that is the variable he changes) or 'the time'.",
+       "e": "For example: \"He must let the block go from the **same starting point** at the top of the slide each time, without pushing it.\" Only the material should change."
+      },
+      {
+       "t": "num",
+       "p": "Question 7\nYoussef investigates friction on the playground slide. He sticks a different material to the bottom of the same wooden block, lets the block go from the top of the slide and measures the time it takes to reach the bottom. He does each test three times.\nMaterial on the block | Test 1 time in s | Test 2 time in s | Test 3 time in s | Mean time in s\nplastic | 2.1 | 2.3 | 2.2 | 2.2\ncotton cloth | 2.8 | 2.9 | 3.0 | 2.9\ncarpet | 4.6 | 3.5 | 4.8 | ?\nsandpaper | 6.2 | 6.0 | 6.4 | 6.2",
+       "q": "(d) One result in the table is anomalous (it does not fit the pattern). Write down this time.",
+       "ans": [
+        3.5
+       ],
+       "tol": 0,
+       "unit": "s",
+       "m": 1,
+       "s": "Investigation: anomalous results",
+       "e": "For carpet the times are 4.6 s, **3.5 s** and 4.8 s. 3.5 s is much shorter than the other two carpet times, so it is the anomalous result (perhaps Youssef pushed the block or started the stopwatch late)."
+      },
+      {
+       "t": "num",
+       "p": "Question 7\nYoussef investigates friction on the playground slide. He sticks a different material to the bottom of the same wooden block, lets the block go from the top of the slide and measures the time it takes to reach the bottom. He does each test three times.\nMaterial on the block | Test 1 time in s | Test 2 time in s | Test 3 time in s | Mean time in s\nplastic | 2.1 | 2.3 | 2.2 | 2.2\ncotton cloth | 2.8 | 2.9 | 3.0 | 2.9\ncarpet | 4.6 | 3.5 | 4.8 | ?\nsandpaper | 6.2 | 6.0 | 6.4 | 6.2",
+       "q": "(e) Work out the mean time for carpet. Do **not** use the anomalous result.",
+       "ans": [
+        4.7
+       ],
+       "tol": 0.001,
+       "unit": "s",
+       "m": 1,
+       "s": "Investigation: mean",
+       "e": "Leave out 3.5 s. Mean = (4.6 + 4.8) ÷ 2 = 9.4 ÷ 2 = **4.7 s**. (If you used all three: (4.6 + 3.5 + 4.8) ÷ 3 = 4.3 s, which is wrong because the anomalous result pulls the mean down.)"
+      },
+      {
+       "t": "open",
+       "p": "Question 7\nYoussef investigates friction on the playground slide. He sticks a different material to the bottom of the same wooden block, lets the block go from the top of the slide and measures the time it takes to reach the bottom. He does each test three times.\nMaterial on the block | Test 1 time in s | Test 2 time in s | Test 3 time in s | Mean time in s\nplastic | 2.1 | 2.3 | 2.2 | 2.2\ncotton cloth | 2.8 | 2.9 | 3.0 | 2.9\ncarpet | 4.6 | 3.5 | 4.8 | ?\nsandpaper | 6.2 | 6.0 | 6.4 | 6.2",
+       "q": "(f) Write a conclusion for Youssef's investigation. Use your scientific knowledge to explain it.",
+       "m": 2,
+       "s": "Forces: friction",
+       "ms": "1 mark: the rougher the material, the longer the time / sandpaper took longest and plastic took the shortest time (a correct pattern from the results). 1 mark: rougher materials make more friction, which acts against the movement (opposite to the direction of motion) and slows the block down. Do not accept 'sandpaper is heavier'.",
+       "e": "Model answer: \"The **rougher** the material, the **longer** the block took to slide down: plastic was fastest (2.2 s) and sandpaper slowest (6.2 s). This is because a rougher surface makes **more friction** between the block and the slide. Friction acts **against the movement**, so it slows the block down more.\""
+      },
+      {
+       "t": "text",
+       "p": "Question 8\nThe family kitchen has a granite worktop, a marble floor and a sandstone wall tile.",
+       "q": "(a) Granite is made of large crystals that fit tightly together. It formed when hot liquid rock cooled slowly underground. What type of rock is granite?",
+       "ans": [
+        "igneous",
+        "igneous rock",
+        "an igneous rock"
+       ],
+       "m": 1,
+       "s": "Rocks",
+       "e": "Rock that forms when magma (liquid rock) cools and **solidifies** is **igneous** rock. Its crystals fit tightly together; slow cooling underground makes large crystals."
+      },
+      {
+       "p": "Question 8\nThe family kitchen has a granite worktop, a marble floor and a sandstone wall tile.",
+       "q": "(b) Marble is a metamorphic rock. How did the marble form?",
+       "c": [
+        "Sand grains were stuck together in layers under the sea.",
+        "Lava cooled quickly on the surface of the Earth.",
+        "Pieces of rock were carried away by a river.",
+        "Limestone was heated and squeezed deep underground, without melting."
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Rock cycle",
+       "e": "Metamorphic rock forms when an existing rock is changed by **heat and pressure** deep underground **without melting**. Marble forms from limestone in this way (metamorphism). Option A describes sedimentary rock and option B describes igneous rock."
+      },
+      {
+       "t": "open",
+       "p": "Question 8\nThe family kitchen has a granite worktop, a marble floor and a sandstone wall tile.",
+       "q": "(c) The sandstone tile has a fossil of a small sea shell in it. Describe how this fossil formed in sedimentary rock.",
+       "m": 2,
+       "s": "Fossils",
+       "ms": "Any two, 1 mark each: the animal died and fell to the sea bed / bottom of the water; it was quickly covered (buried) by sand / sediment; more layers of sediment built up on top and pressed the lower layers into rock (sandstone); the shell (hard part) was replaced by minerals / left its shape (a mould or cast) in the rock. Do not accept 'the shell melted into the rock'.",
+       "e": "Model answer: \"The sea animal **died** and its shell sank to the sea bed. It was **covered by sand** (sediment). More layers built up on top, and over a very long time the weight **pressed the sand into sandstone**. The shell was slowly **replaced by minerals**, which kept its shape as a fossil.\" Fossils form in sedimentary rock because the sediment buries the remains gently, without the heat that melts igneous rock."
+      },
+      {
+       "p": "Question 9\nLaila keeps a night sky observation log. Every week she draws the Moon as she sees it from her balcony in Egypt.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 300\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\"><rect x=\"5\" y=\"5\" width=\"470\" height=\"140\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"240\" y=\"28\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">Laila's observation log</text><circle cx=\"65\" cy=\"78\" r=\"30\" fill=\"#6b7489\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M65,48 A30,30 0 0 1 65,108 A16.5,30 0 0 0 65,48 Z\" fill=\"#fff4d6\" stroke=\"none\" stroke-width=\"0\"/><circle cx=\"65\" cy=\"78\" r=\"30\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"65\" y=\"132\" text-anchor=\"middle\" fill=\"#0f1b33\">2 Oct</text><circle cx=\"182\" cy=\"78\" r=\"30\" fill=\"#6b7489\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M182,48 A30,30 0 0 1 182,108 Z\" fill=\"#fff4d6\" stroke=\"none\" stroke-width=\"0\"/><circle cx=\"182\" cy=\"78\" r=\"30\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"182\" y=\"132\" text-anchor=\"middle\" fill=\"#0f1b33\">9 Oct</text><circle cx=\"299\" cy=\"78\" r=\"30\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"299\" y=\"132\" text-anchor=\"middle\" fill=\"#0f1b33\">16 Oct</text><circle cx=\"416\" cy=\"78\" r=\"30\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"416\" y=\"85\" text-anchor=\"middle\" font-size=\"22\" font-weight=\"bold\" fill=\"#0f1b33\">?</text><text x=\"416\" y=\"132\" text-anchor=\"middle\" fill=\"#0f1b33\">23 Oct</text><text x=\"240\" y=\"178\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">Possible drawings for 23 October:</text><circle cx=\"65\" cy=\"225\" r=\"30\" fill=\"#6b7489\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M65,195 A30,30 0 0 1 65,255 A16.5,30 0 0 0 65,195 Z\" fill=\"#fff4d6\" stroke=\"none\" stroke-width=\"0\"/><circle cx=\"65\" cy=\"225\" r=\"30\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"65\" y=\"284\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">A</text><circle cx=\"182\" cy=\"225\" r=\"30\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"182\" y=\"284\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">B</text><circle cx=\"299\" cy=\"225\" r=\"30\" fill=\"#6b7489\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M299,195 A30,30 0 0 0 299,255 Z\" fill=\"#fff4d6\" stroke=\"none\" stroke-width=\"0\"/><circle cx=\"299\" cy=\"225\" r=\"30\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"299\" y=\"284\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">C</text><circle cx=\"416\" cy=\"225\" r=\"30\" fill=\"#6b7489\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M416,195 A30,30 0 0 1 416,255 Z\" fill=\"#fff4d6\" stroke=\"none\" stroke-width=\"0\"/><circle cx=\"416\" cy=\"225\" r=\"30\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"416\" y=\"284\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">D</text></svg>",
+       "q": "(a) Which drawing, A, B, C or D, shows what Laila will most likely see on 23 October?",
+       "c": [
+        "A",
+        "B",
+        "C",
+        "D"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Phases of the Moon",
+       "e": "The Moon was full on 16 October. About one week after a full Moon we see a **half Moon** again, but now the **other half** is lit — the left half from Egypt. The right half was lit on 9 October (before full Moon), so on 23 October it is the left half: drawing **C**."
+      },
+      {
+       "t": "text",
+       "p": "Question 9\nLaila keeps a night sky observation log. Every week she draws the Moon as she sees it from her balcony in Egypt.",
+       "q": "(b) About one week after 23 October, Laila cannot see the Moon at all. What is this phase of the Moon called?",
+       "ans": [
+        "new moon",
+        "a new moon",
+        "the new moon",
+        "new"
+       ],
+       "m": 1,
+       "s": "Phases of the Moon",
+       "e": "When the Moon is between the Earth and the Sun, its lit side faces away from us and we cannot see it: this is a **new Moon**. The cycle from one new Moon to the next takes about a month (about 29.5 days)."
+      },
+      {
+       "t": "open",
+       "p": "Question 9\nLaila keeps a night sky observation log. Every week she draws the Moon as she sees it from her balcony in Egypt.",
+       "q": "(c) From 2 October to 16 October, the lit part of the Moon that Laila sees gets bigger. Explain why.",
+       "m": 2,
+       "s": "Phases of the Moon",
+       "ms": "1 mark: the Moon does not make its own light; it reflects light from the Sun / half of the Moon is always lit by the Sun. 1 mark: as the Moon moves round (orbits) the Earth, we see more of the lit half from Earth (until full Moon, when we see all of the lit half). Do not accept 'the Earth's shadow covers the Moon' or 'the Moon grows'.",
+       "e": "Model answer: \"The Sun **always lights up half** of the Moon, and we see the Moon because it **reflects** sunlight. As the Moon **orbits the Earth**, we see a different amount of the lit half. From 2 to 16 October, more and more of the lit half faces the Earth, until at full Moon we see all of it.\" A common mistake is to say the Earth's shadow causes the phases — it does not."
+      }
+     ]
+    },
+    {
+     "name": "Paper 2",
+     "minutes": 35,
+     "questions": [
+      {
+       "p": "Question 1\nThis question is about growing up.",
+       "q": "(a) Which change happens to **both** boys and girls during puberty?",
+       "c": [
+        "The voice becomes much deeper.",
+        "Hair grows under the arms.",
+        "Breasts develop.",
+        "The shoulders become much wider."
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Puberty",
+       "e": "**Hair grows under the arms** (and in the pubic area) in both boys and girls. Other changes for both: a growth spurt, more sweat and oily skin. A much deeper voice and much wider shoulders happen in boys; breasts develop in girls."
+      },
+      {
+       "t": "text",
+       "p": "Question 1\nThis question is about growing up.",
+       "q": "(b) Name the organs in the female reproductive system that make egg cells.",
+       "ans": [
+        "ovaries",
+        "ovary",
+        "the ovaries",
+        "ovarys",
+        "ovaries (2)"
+       ],
+       "m": 1,
+       "s": "Reproductive system",
+       "e": "The **ovaries** (there are two) make and release egg cells."
+      },
+      {
+       "t": "text",
+       "p": "Question 2\nAhmed kicks a football high into the air during a match. The diagram shows the ball at the top of its path, when it is moving to the right. The arrows A, B, C and D are possible forces.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 420 280\" width=\"420\" font-family=\"Arial, sans-serif\" font-size=\"16\"><circle cx=\"200\" cy=\"140\" r=\"26\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"200,130 209,137 206,148 194,148 191,137\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"200\" y1=\"110\" x2=\"200\" y2=\"46\" stroke=\"#c0392b\" stroke-width=\"2.5\"/><polygon points=\"200,34 206,46 194,46\" fill=\"#c0392b\" stroke=\"#c0392b\" stroke-width=\"1\"/><text x=\"218\" y=\"54\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">A</text><line x1=\"200\" y1=\"170\" x2=\"200\" y2=\"234\" stroke=\"#c0392b\" stroke-width=\"2.5\"/><polygon points=\"200,246 194,234 206,234\" fill=\"#c0392b\" stroke=\"#c0392b\" stroke-width=\"1\"/><text x=\"218\" y=\"236\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">B</text><line x1=\"170\" y1=\"140\" x2=\"106\" y2=\"140\" stroke=\"#c0392b\" stroke-width=\"2.5\"/><polygon points=\"94,140 106,134 106,146\" fill=\"#c0392b\" stroke=\"#c0392b\" stroke-width=\"1\"/><text x=\"112\" y=\"128\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">C</text><line x1=\"230\" y1=\"140\" x2=\"294\" y2=\"140\" stroke=\"#c0392b\" stroke-width=\"2.5\"/><polygon points=\"306,140 294,146 294,134\" fill=\"#c0392b\" stroke=\"#c0392b\" stroke-width=\"1\"/><text x=\"288\" y=\"128\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">D</text><line x1=\"290\" y1=\"40\" x2=\"378\" y2=\"40\" stroke=\"#1f5fae\" stroke-width=\"2.5\"/><polygon points=\"390,40 378,46 378,34\" fill=\"#1f5fae\" stroke=\"#1f5fae\" stroke-width=\"1\"/><text x=\"320\" y=\"26\" text-anchor=\"middle\" fill=\"#1f5fae\">direction the ball moves</text></svg>",
+       "q": "(a) Which arrow shows the **weight** of the ball?",
+       "ans": [
+        "B"
+       ],
+       "m": 1,
+       "s": "Force diagrams",
+       "e": "Weight is the pull of gravity. It always acts **downwards**, towards the centre of the Earth: arrow **B**."
+      },
+      {
+       "t": "text",
+       "p": "Question 2\nAhmed kicks a football high into the air during a match. The diagram shows the ball at the top of its path, when it is moving to the right. The arrows A, B, C and D are possible forces.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 420 280\" width=\"420\" font-family=\"Arial, sans-serif\" font-size=\"16\"><circle cx=\"200\" cy=\"140\" r=\"26\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><polygon points=\"200,130 209,137 206,148 194,148 191,137\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><line x1=\"200\" y1=\"110\" x2=\"200\" y2=\"46\" stroke=\"#c0392b\" stroke-width=\"2.5\"/><polygon points=\"200,34 206,46 194,46\" fill=\"#c0392b\" stroke=\"#c0392b\" stroke-width=\"1\"/><text x=\"218\" y=\"54\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">A</text><line x1=\"200\" y1=\"170\" x2=\"200\" y2=\"234\" stroke=\"#c0392b\" stroke-width=\"2.5\"/><polygon points=\"200,246 194,234 206,234\" fill=\"#c0392b\" stroke=\"#c0392b\" stroke-width=\"1\"/><text x=\"218\" y=\"236\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">B</text><line x1=\"170\" y1=\"140\" x2=\"106\" y2=\"140\" stroke=\"#c0392b\" stroke-width=\"2.5\"/><polygon points=\"94,140 106,134 106,146\" fill=\"#c0392b\" stroke=\"#c0392b\" stroke-width=\"1\"/><text x=\"112\" y=\"128\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">C</text><line x1=\"230\" y1=\"140\" x2=\"294\" y2=\"140\" stroke=\"#c0392b\" stroke-width=\"2.5\"/><polygon points=\"306,140 294,146 294,134\" fill=\"#c0392b\" stroke=\"#c0392b\" stroke-width=\"1\"/><text x=\"288\" y=\"128\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">D</text><line x1=\"290\" y1=\"40\" x2=\"378\" y2=\"40\" stroke=\"#1f5fae\" stroke-width=\"2.5\"/><polygon points=\"390,40 378,46 378,34\" fill=\"#1f5fae\" stroke=\"#1f5fae\" stroke-width=\"1\"/><text x=\"320\" y=\"26\" text-anchor=\"middle\" fill=\"#1f5fae\">direction the ball moves</text></svg>",
+       "q": "(b) Which arrow shows the **air resistance** on the ball?",
+       "ans": [
+        "C"
+       ],
+       "m": 1,
+       "s": "Force diagrams",
+       "e": "Air resistance acts in the **opposite direction to the movement**. The ball moves to the right, so air resistance acts to the left: arrow **C**. (Arrow D is not a real force: once the ball leaves Ahmed's foot, the kick no longer pushes it.)"
+      },
+      {
+       "t": "open",
+       "p": "Question 2\nAhmed kicks a football high into the air during a match. The diagram shows the ball at the top of its path, when it is moving to the right. The arrows A, B, C and D are possible forces.",
+       "q": "(c) Later, the goalkeeper catches a ball that is moving towards him. Describe the effect of the force from his hands on the ball.",
+       "m": 1,
+       "s": "Forces and motion",
+       "ms": "1 mark: the force acts against the movement / in the opposite direction, so it slows the ball down and stops it. Accept: changes the ball's speed so it stops. Do not accept 'it makes the ball go faster'.",
+       "e": "The goalkeeper's hands push **against the direction of movement**, so the force **slows the ball down until it stops**. A force on a moving object can speed it up, slow it down or change its direction."
+      },
+      {
+       "p": "Question 2\nAhmed kicks a football high into the air during a match. The diagram shows the ball at the top of its path, when it is moving to the right. The arrows A, B, C and D are possible forces.",
+       "q": "(d) Ahmed breathes faster during the match. Which sentence describes what happens in his lungs?",
+       "c": [
+        "Oxygen moves from his blood into the air in his lungs.",
+        "Carbon dioxide moves from the air in his lungs into his blood.",
+        "Food moves from the air in his lungs into his blood.",
+        "Oxygen moves from the air in his lungs into his blood."
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Respiratory system",
+       "e": "In the air sacs of the lungs, **oxygen moves from the air into the blood**, and carbon dioxide moves the other way (from the blood into the air, to be breathed out). Many other vertebrates, such as cats and birds, have lungs that work in a similar way."
+      },
+      {
+       "t": "num",
+       "p": "Question 3\nMona plays in the playground. Her mass is 35 kg. On Earth, gravity is 10 N/kg.",
+       "q": "(a) Calculate Mona's weight on Earth.",
+       "ans": [
+        350
+       ],
+       "tol": 0,
+       "unit": "N",
+       "m": 1,
+       "s": "Mass and weight",
+       "e": "Weight = mass × gravity = 35 kg × 10 N/kg = **350 N**. Weight is a force, so it is measured in newtons (N)."
+      },
+      {
+       "p": "Question 3\nMona plays in the playground. Her mass is 35 kg. On Earth, gravity is 10 N/kg.",
+       "q": "(b) Mona imagines playing on the Moon, where gravity is about 1.6 N/kg. Which sentence about Mona on the Moon is correct?",
+       "c": [
+        "Her mass is still 35 kg, but her weight is less than 350 N.",
+        "Her mass is less than 35 kg, but her weight is still 350 N.",
+        "Her mass and her weight are both less than on Earth.",
+        "Her mass and her weight are both the same as on Earth."
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Gravity",
+       "e": "Mass (the amount of matter, in kg) does **not** change from place to place, so it is still 35 kg. Gravity is weaker on the Moon, so her **weight is less**: 35 × 1.6 = 56 N."
+      },
+      {
+       "t": "num",
+       "p": "Question 3\nMona plays in the playground. Her mass is 35 kg. On Earth, gravity is 10 N/kg.\nMona now sits still on a swing. The diagram shows the forces on Mona and the seat. Ignore the weight of the seat and the ropes.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 380 300\" width=\"380\" font-family=\"Arial, sans-serif\" font-size=\"16\"><rect x=\"40\" y=\"20\" width=\"300\" height=\"14\" rx=\"3\" fill=\"#d9dde6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"120\" y1=\"34\" x2=\"120\" y2=\"170\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"260\" y1=\"34\" x2=\"260\" y2=\"170\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"95\" y=\"170\" width=\"190\" height=\"26\" rx=\"4\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"190\" y=\"189\" text-anchor=\"middle\" fill=\"#0f1b33\">Mona on the seat</text><line x1=\"98\" y1=\"164\" x2=\"98\" y2=\"96\" stroke=\"#c0392b\" stroke-width=\"2.5\"/><polygon points=\"98,84 104,96 92,96\" fill=\"#c0392b\" stroke=\"#c0392b\" stroke-width=\"1\"/><text x=\"98\" y=\"76\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"bold\" fill=\"#0f1b33\">?</text><line x1=\"282\" y1=\"164\" x2=\"282\" y2=\"96\" stroke=\"#c0392b\" stroke-width=\"2.5\"/><polygon points=\"282,84 288,96 276,96\" fill=\"#c0392b\" stroke=\"#c0392b\" stroke-width=\"1\"/><text x=\"282\" y=\"76\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"bold\" fill=\"#0f1b33\">?</text><line x1=\"190\" y1=\"200\" x2=\"190\" y2=\"258\" stroke=\"#c0392b\" stroke-width=\"2.5\"/><polygon points=\"190,270 184,258 196,258\" fill=\"#c0392b\" stroke=\"#c0392b\" stroke-width=\"1\"/><text x=\"200\" y=\"260\" fill=\"#0f1b33\">weight 350 N</text><text x=\"128\" y=\"110\" fill=\"#0f1b33\">rope</text><text x=\"252\" y=\"110\" text-anchor=\"end\" fill=\"#0f1b33\">rope</text></svg>",
+       "q": "(c) Mona is not moving. What is the **total** upward force of the two ropes?",
+       "ans": [
+        350
+       ],
+       "tol": 0,
+       "unit": "N",
+       "m": 1,
+       "s": "Balanced forces",
+       "e": "Mona is still, so the forces on her are **balanced**: total up = total down. Total upward force = **350 N**."
+      },
+      {
+       "t": "num",
+       "p": "Question 3\nMona plays in the playground. Her mass is 35 kg. On Earth, gravity is 10 N/kg.\nMona now sits still on a swing. The diagram shows the forces on Mona and the seat. Ignore the weight of the seat and the ropes.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 380 300\" width=\"380\" font-family=\"Arial, sans-serif\" font-size=\"16\"><rect x=\"40\" y=\"20\" width=\"300\" height=\"14\" rx=\"3\" fill=\"#d9dde6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"120\" y1=\"34\" x2=\"120\" y2=\"170\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"260\" y1=\"34\" x2=\"260\" y2=\"170\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"95\" y=\"170\" width=\"190\" height=\"26\" rx=\"4\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"190\" y=\"189\" text-anchor=\"middle\" fill=\"#0f1b33\">Mona on the seat</text><line x1=\"98\" y1=\"164\" x2=\"98\" y2=\"96\" stroke=\"#c0392b\" stroke-width=\"2.5\"/><polygon points=\"98,84 104,96 92,96\" fill=\"#c0392b\" stroke=\"#c0392b\" stroke-width=\"1\"/><text x=\"98\" y=\"76\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"bold\" fill=\"#0f1b33\">?</text><line x1=\"282\" y1=\"164\" x2=\"282\" y2=\"96\" stroke=\"#c0392b\" stroke-width=\"2.5\"/><polygon points=\"282,84 288,96 276,96\" fill=\"#c0392b\" stroke=\"#c0392b\" stroke-width=\"1\"/><text x=\"282\" y=\"76\" text-anchor=\"middle\" font-size=\"20\" font-weight=\"bold\" fill=\"#0f1b33\">?</text><line x1=\"190\" y1=\"200\" x2=\"190\" y2=\"258\" stroke=\"#c0392b\" stroke-width=\"2.5\"/><polygon points=\"190,270 184,258 196,258\" fill=\"#c0392b\" stroke=\"#c0392b\" stroke-width=\"1\"/><text x=\"200\" y=\"260\" fill=\"#0f1b33\">weight 350 N</text><text x=\"128\" y=\"110\" fill=\"#0f1b33\">rope</text><text x=\"252\" y=\"110\" text-anchor=\"end\" fill=\"#0f1b33\">rope</text></svg>",
+       "q": "(d) The two ropes pull up equally. What is the force in **each** rope?",
+       "ans": [
+        175
+       ],
+       "tol": 0,
+       "unit": "N",
+       "m": 1,
+       "s": "Balanced forces",
+       "e": "350 N ÷ 2 = **175 N** in each rope. (ecf: if your answer to (c) was wrong, half of it scores here.)"
+      },
+      {
+       "p": "Question 4\nAt a model boat competition, Omar's team tests how the mass of cargo affects how deep their boat sits in the water. They measure the depth of the bottom of the boat below the water surface.\nMass of cargo in g | 0 | 20 | 40 | 60 | 80\nDepth of boat in cm | 1.0 | 1.5 | 2.0 | ? | 3.0",
+       "q": "(a) Which is the **independent** variable in this investigation?",
+       "c": [
+        "the depth of the boat in the water",
+        "the size of the water tank",
+        "the mass of the cargo",
+        "the shape of the boat"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Investigation: variables",
+       "e": "The team changes the **mass of the cargo** on purpose, so it is the independent variable. The depth is what they measure (dependent). The boat's shape and the tank stay the same (control variables)."
+      },
+      {
+       "t": "open",
+       "p": "Question 4\nAt a model boat competition, Omar's team tests how the mass of cargo affects how deep their boat sits in the water. They measure the depth of the bottom of the boat below the water surface.\nMass of cargo in g | 0 | 20 | 40 | 60 | 80\nDepth of boat in cm | 1.0 | 1.5 | 2.0 | ? | 3.0",
+       "q": "(b) Describe the pattern in the results.",
+       "m": 1,
+       "s": "Investigation: patterns",
+       "ms": "1 mark: the greater the mass of cargo, the deeper the boat sits (lower in the water). Accept: depth goes up by 0.5 cm for every 20 g. Do not accept 'the depth changes' (no direction).",
+       "e": "**As the mass of the cargo increases, the boat sits deeper in the water.** In fact, every extra 20 g makes it sit 0.5 cm deeper."
+      },
+      {
+       "t": "num",
+       "p": "Question 4\nAt a model boat competition, Omar's team tests how the mass of cargo affects how deep their boat sits in the water. They measure the depth of the bottom of the boat below the water surface.\nMass of cargo in g | 0 | 20 | 40 | 60 | 80\nDepth of boat in cm | 1.0 | 1.5 | 2.0 | ? | 3.0",
+       "q": "(c) Use the pattern to predict the depth of the boat when it carries 60 g of cargo.",
+       "ans": [
+        2.5
+       ],
+       "tol": 0.001,
+       "unit": "cm",
+       "m": 1,
+       "s": "Investigation: predictions",
+       "e": "Each 20 g adds 0.5 cm. 40 g → 2.0 cm, so 60 g → 2.0 + 0.5 = **2.5 cm**. This also fits halfway between 2.0 cm (40 g) and 3.0 cm (80 g)."
+      },
+      {
+       "t": "open",
+       "p": "Question 4\nAt a model boat competition, Omar's team tests how the mass of cargo affects how deep their boat sits in the water. They measure the depth of the bottom of the boat below the water surface.\nMass of cargo in g | 0 | 20 | 40 | 60 | 80\nDepth of boat in cm | 1.0 | 1.5 | 2.0 | ? | 3.0",
+       "q": "(d) Another team rolls the same mass of modelling clay into a solid ball, and it sinks. Omar's team shapes the same mass of clay into a wide, hollow boat, and it floats. Explain why the boat floats but the ball sinks.",
+       "m": 1,
+       "s": "Floating and sinking",
+       "ms": "1 mark: the boat shape pushes aside (displaces) more water, so the upthrust is bigger / big enough to balance the weight (the ball's upthrust is smaller than its weight). Accept: the shape is different, so the upward push of the water is bigger. Do not accept 'the boat is lighter' (the mass is the same) or 'the boat has air so it has less mass'.",
+       "e": "The mass, and so the weight, is the same. The wide hollow **shape** pushes aside much more water, so the **upthrust** on the boat is bigger — big enough to balance its weight. The small ball pushes aside only a little water, so its upthrust is smaller than its weight and it sinks. Shape, as well as mass, affects floating."
+      },
+      {
+       "t": "text",
+       "p": "Question 5\nAt the model boat competition, a judge drops a coin into the pool. Light from the coin travels up through the water and into the air. Lines A, B and C show three possible paths for the light in the air.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 330\" width=\"440\" font-family=\"Arial, sans-serif\" font-size=\"16\"><rect x=\"0\" y=\"150\" width=\"440\" height=\"180\" fill=\"#cfe6f7\" stroke=\"none\" stroke-width=\"0\"/><line x1=\"0\" y1=\"150\" x2=\"440\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"20\" y=\"30\" font-weight=\"bold\" fill=\"#0f1b33\">air</text><text x=\"20\" y=\"180\" font-weight=\"bold\" fill=\"#0f1b33\">water</text><line x1=\"200\" y1=\"10\" x2=\"200\" y2=\"320\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-dasharray=\"6,5\"/><text x=\"192\" y=\"24\" text-anchor=\"end\" fill=\"#0f1b33\">normal</text><line x1=\"105\" y1=\"314.5\" x2=\"200\" y2=\"150\" stroke=\"#b9770e\" stroke-width=\"2.5\"/><polygon points=\"160.8,218 158.9,233.1 148.6,227.1\" fill=\"#b9770e\" stroke=\"#b9770e\" stroke-width=\"1\"/><circle cx=\"105\" cy=\"314.5\" r=\"9\" fill=\"#e8c25a\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"119\" y=\"320.5\" fill=\"#0f1b33\">coin</text><path d=\"M200,205 A55,55 0 0 1 172.5,197.6\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"190\" y=\"230\" text-anchor=\"end\" fill=\"#0f1b33\">30°</text><line x1=\"200\" y1=\"150\" x2=\"230.5\" y2=\"36\" stroke=\"#1f5fae\" stroke-width=\"2.5\"/><text x=\"233.6\" y=\"29.4\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">A</text><line x1=\"200\" y1=\"150\" x2=\"259\" y2=\"47.8\" stroke=\"#1f5fae\" stroke-width=\"2.5\"/><text x=\"265\" y=\"42.4\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">B</text><line x1=\"200\" y1=\"150\" x2=\"279\" y2=\"62.3\" stroke=\"#1f5fae\" stroke-width=\"2.5\"/><text x=\"287\" y=\"58.4\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">C</text></svg>",
+       "q": "(a) Which line, A, B or C, shows the correct path of the light in the air?",
+       "ans": [
+        "C"
+       ],
+       "m": 1,
+       "s": "Refraction",
+       "e": "When light passes **from water into air** at an angle, it bends **away from the normal**. The ray in the water makes 30° with the normal, so in the air it makes a bigger angle: line **C**. (Line B does not bend at all; line A bends towards the normal, which happens when light goes from air into water.)"
+      },
+      {
+       "t": "text",
+       "p": "Question 5\nAt the model boat competition, a judge drops a coin into the pool. Light from the coin travels up through the water and into the air. Lines A, B and C show three possible paths for the light in the air.",
+       "q": "(b) What is the name for the change in direction of light when it passes from one material into another?",
+       "ans": [
+        "refraction",
+        "refracting",
+        "refraction of light",
+        "refracted"
+       ],
+       "m": 1,
+       "s": "Refraction",
+       "e": "**Refraction.** Light changes direction (bends) as it passes between transparent materials such as water, glass and air."
+      },
+      {
+       "t": "num",
+       "p": "Question 5 (continued)\nThe judge also uses a plane mirror. The diagram shows a ray of light reflected from the mirror. The angle between the ray going in and the ray coming out is 70°.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 420 250\" width=\"420\" font-family=\"Arial, sans-serif\" font-size=\"16\"><line x1=\"40\" y1=\"200\" x2=\"380\" y2=\"200\" stroke=\"#0f1b33\" stroke-width=\"4\"/><line x1=\"48\" y1=\"202\" x2=\"38\" y2=\"214\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"64\" y1=\"202\" x2=\"54\" y2=\"214\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"80\" y1=\"202\" x2=\"70\" y2=\"214\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"96\" y1=\"202\" x2=\"86\" y2=\"214\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"112\" y1=\"202\" x2=\"102\" y2=\"214\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"128\" y1=\"202\" x2=\"118\" y2=\"214\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"144\" y1=\"202\" x2=\"134\" y2=\"214\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"160\" y1=\"202\" x2=\"150\" y2=\"214\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"176\" y1=\"202\" x2=\"166\" y2=\"214\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"192\" y1=\"202\" x2=\"182\" y2=\"214\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"208\" y1=\"202\" x2=\"198\" y2=\"214\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"224\" y1=\"202\" x2=\"214\" y2=\"214\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"240\" y1=\"202\" x2=\"230\" y2=\"214\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"256\" y1=\"202\" x2=\"246\" y2=\"214\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"272\" y1=\"202\" x2=\"262\" y2=\"214\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"288\" y1=\"202\" x2=\"278\" y2=\"214\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"304\" y1=\"202\" x2=\"294\" y2=\"214\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"320\" y1=\"202\" x2=\"310\" y2=\"214\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"336\" y1=\"202\" x2=\"326\" y2=\"214\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"352\" y1=\"202\" x2=\"342\" y2=\"214\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"368\" y1=\"202\" x2=\"358\" y2=\"214\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"330\" y=\"236\" text-anchor=\"middle\" fill=\"#0f1b33\">plane mirror</text><line x1=\"210\" y1=\"200\" x2=\"210\" y2=\"30\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-dasharray=\"6,5\"/><text x=\"210\" y=\"22\" text-anchor=\"middle\" fill=\"#0f1b33\">normal</text><line x1=\"112.5\" y1=\"60.7\" x2=\"210\" y2=\"200\" stroke=\"#b9770e\" stroke-width=\"2.5\"/><polygon points=\"170.1,143.1 157.2,135 167,128.2\" fill=\"#b9770e\" stroke=\"#b9770e\" stroke-width=\"1\"/><line x1=\"210\" y1=\"200\" x2=\"307.5\" y2=\"60.7\" stroke=\"#b9770e\" stroke-width=\"2.5\"/><polygon points=\"257.9,131.6 254.8,146.5 244.9,139.6\" fill=\"#b9770e\" stroke=\"#b9770e\" stroke-width=\"1\"/><path d=\"M175.6,150.9 A60,60 0 0 1 244.4,150.9\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"190\" y=\"108\" width=\"40\" height=\"22\" fill=\"#ffffff\" stroke=\"none\" stroke-width=\"0\"/><text x=\"210\" y=\"125\" text-anchor=\"middle\" fill=\"#0f1b33\">70°</text></svg>",
+       "q": "(c) What is the angle of incidence?",
+       "ans": [
+        35
+       ],
+       "tol": 0,
+       "unit": "°",
+       "m": 1,
+       "s": "Reflection",
+       "e": "The angle of incidence equals the angle of reflection, and both are measured from the **normal**. The 70° between the rays is split equally by the normal: 70 ÷ 2 = **35°**."
+      },
+      {
+       "t": "text",
+       "p": "Question 6\nRana fits a horn and a light to her model boat. The diagram shows her circuit. P, Q, R and S are the components.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 280\" width=\"440\" font-family=\"Arial, sans-serif\" font-size=\"16\"><line x1=\"60\" y1=\"50\" x2=\"180\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"260\" y1=\"50\" x2=\"380\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"190\" y1=\"28\" x2=\"190\" y2=\"72\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"202\" y1=\"39\" x2=\"202\" y2=\"61\" stroke=\"#0f1b33\" stroke-width=\"5\"/><line x1=\"226\" y1=\"28\" x2=\"226\" y2=\"72\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"238\" y1=\"39\" x2=\"238\" y2=\"61\" stroke=\"#0f1b33\" stroke-width=\"5\"/><line x1=\"180\" y1=\"50\" x2=\"190\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"202\" y1=\"50\" x2=\"226\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"238\" y1=\"50\" x2=\"260\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"220\" y=\"18\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">P</text><line x1=\"380\" y1=\"50\" x2=\"380\" y2=\"110\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"380\" y1=\"170\" x2=\"380\" y2=\"230\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"380\" cy=\"110\" r=\"4\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"380\" cy=\"170\" r=\"4\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"380\" y1=\"166\" x2=\"408\" y2=\"116\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><text x=\"420\" y=\"145\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">Q</text><line x1=\"380\" y1=\"230\" x2=\"238\" y2=\"230\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"202\" y1=\"230\" x2=\"60\" y2=\"230\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"220\" cy=\"230\" r=\"18\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"207.3\" y1=\"217.3\" x2=\"232.7\" y2=\"242.7\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"207.3\" y1=\"242.7\" x2=\"232.7\" y2=\"217.3\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"220\" y=\"270\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">R</text><line x1=\"60\" y1=\"230\" x2=\"60\" y2=\"162\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"60\" y1=\"50\" x2=\"60\" y2=\"118\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M60,118 H74 M60,162 H74\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M74,114 A26,26 0 0 1 74,166 Z\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"116\" y=\"146\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">S</text></svg>",
+       "q": "(a) Which letter labels the **buzzer**?",
+       "ans": [
+        "S"
+       ],
+       "m": 1,
+       "s": "Circuit symbols",
+       "e": "The buzzer symbol looks like a half circle (a bell shape) with two wires: **S**. P is a battery of two cells, Q is a switch and R is a lamp."
+      },
+      {
+       "t": "text",
+       "p": "Question 6\nRana fits a horn and a light to her model boat. The diagram shows her circuit. P, Q, R and S are the components.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 280\" width=\"440\" font-family=\"Arial, sans-serif\" font-size=\"16\"><line x1=\"60\" y1=\"50\" x2=\"180\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"260\" y1=\"50\" x2=\"380\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"190\" y1=\"28\" x2=\"190\" y2=\"72\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"202\" y1=\"39\" x2=\"202\" y2=\"61\" stroke=\"#0f1b33\" stroke-width=\"5\"/><line x1=\"226\" y1=\"28\" x2=\"226\" y2=\"72\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"238\" y1=\"39\" x2=\"238\" y2=\"61\" stroke=\"#0f1b33\" stroke-width=\"5\"/><line x1=\"180\" y1=\"50\" x2=\"190\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"202\" y1=\"50\" x2=\"226\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"238\" y1=\"50\" x2=\"260\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"220\" y=\"18\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">P</text><line x1=\"380\" y1=\"50\" x2=\"380\" y2=\"110\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"380\" y1=\"170\" x2=\"380\" y2=\"230\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"380\" cy=\"110\" r=\"4\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"380\" cy=\"170\" r=\"4\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"380\" y1=\"166\" x2=\"408\" y2=\"116\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><text x=\"420\" y=\"145\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">Q</text><line x1=\"380\" y1=\"230\" x2=\"238\" y2=\"230\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"202\" y1=\"230\" x2=\"60\" y2=\"230\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"220\" cy=\"230\" r=\"18\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"207.3\" y1=\"217.3\" x2=\"232.7\" y2=\"242.7\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"207.3\" y1=\"242.7\" x2=\"232.7\" y2=\"217.3\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"220\" y=\"270\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">R</text><line x1=\"60\" y1=\"230\" x2=\"60\" y2=\"162\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"60\" y1=\"50\" x2=\"60\" y2=\"118\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M60,118 H74 M60,162 H74\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M74,114 A26,26 0 0 1 74,166 Z\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"116\" y=\"146\" text-anchor=\"middle\" font-size=\"18\" font-weight=\"bold\" fill=\"#0f1b33\">S</text></svg>",
+       "q": "(b) Is switch Q open or closed? Write open or closed.",
+       "ans": [
+        "open",
+        "it is open",
+        "open switch"
+       ],
+       "m": 1,
+       "s": "Circuit symbols",
+       "e": "The line of the switch is lifted away from the second contact, so there is a gap: the switch is **open** (off)."
+      },
+      {
+       "t": "open",
+       "p": "Question 6\nRana fits a horn and a light to her model boat. The diagram shows her circuit. P, Q, R and S are the components.",
+       "q": "(c) Explain why the buzzer is not sounding.",
+       "m": 1,
+       "s": "Circuits",
+       "ms": "1 mark: the switch is open, so the circuit is not complete / there is a gap, so no electricity (current) can flow. Do not accept 'the battery is flat' or 'the buzzer is broken' (not shown).",
+       "e": "**The switch is open, so there is a gap in the circuit.** Electricity (current) can only flow around a **complete** circuit, so the buzzer and the lamp are both off."
+      },
+      {
+       "p": "Question 6\nRana fits a horn and a light to her model boat. The diagram shows her circuit. P, Q, R and S are the components.",
+       "q": "(d) Rana wants to add a second, identical lamp so that, when the switch is closed, **each** lamp is as bright as lamp R would be on its own. How should she connect the new lamp?",
+       "c": [
+        "in series with lamp R",
+        "in parallel with lamp R",
+        "in place of the battery",
+        "across the open switch"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Series and parallel",
+       "e": "In a **parallel** circuit each lamp is connected directly across the battery, so each lamp is as bright as one lamp on its own. In series, two lamps share the push of the battery and are both dimmer."
+      },
+      {
+       "t": "open",
+       "p": "Question 7\nAli lives on a farm in the Nile Delta. He grows bean plants in pots of three different soils from the farm: sandy soil, clay soil and loam (a mixture of sand, clay and humus). He grows four plants in each soil and measures their heights after three weeks. The bar chart shows the mean height for each soil.",
+       "q": "(a) What is the **dependent** variable in Ali's investigation?",
+       "m": 1,
+       "s": "Investigation: variables",
+       "ms": "1 mark: the height of the (bean) plants / how tall the plants grow (after three weeks). Do not accept 'the soil' / 'type of soil' (independent variable) or 'growth' on its own without saying what is measured.",
+       "e": "Ali measures the **height of the plants**, so that is the dependent variable. The type of soil is the independent variable (the one he changes).",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 320\" width=\"440\" font-family=\"Arial, sans-serif\" font-size=\"16\"><line x1=\"70\" y1=\"260\" x2=\"420\" y2=\"260\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"248\" x2=\"420\" y2=\"248\" stroke=\"#dde3ee\" stroke-width=\"1\"/><line x1=\"70\" y1=\"236\" x2=\"420\" y2=\"236\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"224\" x2=\"420\" y2=\"224\" stroke=\"#dde3ee\" stroke-width=\"1\"/><line x1=\"70\" y1=\"212\" x2=\"420\" y2=\"212\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"200\" x2=\"420\" y2=\"200\" stroke=\"#dde3ee\" stroke-width=\"1\"/><line x1=\"70\" y1=\"188\" x2=\"420\" y2=\"188\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"176\" x2=\"420\" y2=\"176\" stroke=\"#dde3ee\" stroke-width=\"1\"/><line x1=\"70\" y1=\"164\" x2=\"420\" y2=\"164\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"152\" x2=\"420\" y2=\"152\" stroke=\"#dde3ee\" stroke-width=\"1\"/><line x1=\"70\" y1=\"140\" x2=\"420\" y2=\"140\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"128\" x2=\"420\" y2=\"128\" stroke=\"#dde3ee\" stroke-width=\"1\"/><line x1=\"70\" y1=\"116\" x2=\"420\" y2=\"116\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"104\" x2=\"420\" y2=\"104\" stroke=\"#dde3ee\" stroke-width=\"1\"/><line x1=\"70\" y1=\"92\" x2=\"420\" y2=\"92\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"80\" x2=\"420\" y2=\"80\" stroke=\"#dde3ee\" stroke-width=\"1\"/><line x1=\"70\" y1=\"68\" x2=\"420\" y2=\"68\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"56\" x2=\"420\" y2=\"56\" stroke=\"#dde3ee\" stroke-width=\"1\"/><line x1=\"70\" y1=\"44\" x2=\"420\" y2=\"44\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"32\" x2=\"420\" y2=\"32\" stroke=\"#dde3ee\" stroke-width=\"1\"/><line x1=\"70\" y1=\"20\" x2=\"420\" y2=\"20\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"260\" x2=\"420\" y2=\"260\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"70\" y1=\"20\" x2=\"70\" y2=\"260\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"62\" y=\"265\" text-anchor=\"end\" fill=\"#0f1b33\">0</text><text x=\"62\" y=\"241\" text-anchor=\"end\" fill=\"#0f1b33\">2</text><text x=\"62\" y=\"217\" text-anchor=\"end\" fill=\"#0f1b33\">4</text><text x=\"62\" y=\"193\" text-anchor=\"end\" fill=\"#0f1b33\">6</text><text x=\"62\" y=\"169\" text-anchor=\"end\" fill=\"#0f1b33\">8</text><text x=\"62\" y=\"145\" text-anchor=\"end\" fill=\"#0f1b33\">10</text><text x=\"62\" y=\"121\" text-anchor=\"end\" fill=\"#0f1b33\">12</text><text x=\"62\" y=\"97\" text-anchor=\"end\" fill=\"#0f1b33\">14</text><text x=\"62\" y=\"73\" text-anchor=\"end\" fill=\"#0f1b33\">16</text><text x=\"62\" y=\"49\" text-anchor=\"end\" fill=\"#0f1b33\">18</text><text x=\"62\" y=\"25\" text-anchor=\"end\" fill=\"#0f1b33\">20</text><rect x=\"100\" y=\"164\" width=\"70\" height=\"96\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"135\" y=\"282\" text-anchor=\"middle\" fill=\"#0f1b33\">sandy</text><rect x=\"215\" y=\"116\" width=\"70\" height=\"144\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"250\" y=\"282\" text-anchor=\"middle\" fill=\"#0f1b33\">clay</text><rect x=\"330\" y=\"44\" width=\"70\" height=\"216\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"365\" y=\"282\" text-anchor=\"middle\" fill=\"#0f1b33\">loam</text><text x=\"245\" y=\"308\" text-anchor=\"middle\" fill=\"#0f1b33\">type of soil</text><text x=\"20\" y=\"140\" text-anchor=\"middle\" fill=\"#0f1b33\" transform=\"rotate(-90 20 140)\">mean height in cm</text></svg>"
+      },
+      {
+       "t": "open",
+       "p": "Question 7\nAli lives on a farm in the Nile Delta. He grows bean plants in pots of three different soils from the farm: sandy soil, clay soil and loam (a mixture of sand, clay and humus). He grows four plants in each soil and measures their heights after three weeks. The bar chart shows the mean height for each soil.",
+       "q": "(b) Give **one** variable Ali must keep the same to make his test fair.",
+       "m": 1,
+       "s": "Investigation: fair test",
+       "ms": "1 mark, any one: the same amount of water; the same type of bean (seed); the same size of pot; the same amount of soil; the same amount of light / same place; the same temperature; the same time (three weeks). Do not accept 'the soil' (that is what he changes) or 'the height'.",
+       "e": "For example: \"He must give each pot the **same volume of water** every day.\" Everything except the type of soil should stay the same.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 320\" width=\"440\" font-family=\"Arial, sans-serif\" font-size=\"16\"><line x1=\"70\" y1=\"260\" x2=\"420\" y2=\"260\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"248\" x2=\"420\" y2=\"248\" stroke=\"#dde3ee\" stroke-width=\"1\"/><line x1=\"70\" y1=\"236\" x2=\"420\" y2=\"236\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"224\" x2=\"420\" y2=\"224\" stroke=\"#dde3ee\" stroke-width=\"1\"/><line x1=\"70\" y1=\"212\" x2=\"420\" y2=\"212\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"200\" x2=\"420\" y2=\"200\" stroke=\"#dde3ee\" stroke-width=\"1\"/><line x1=\"70\" y1=\"188\" x2=\"420\" y2=\"188\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"176\" x2=\"420\" y2=\"176\" stroke=\"#dde3ee\" stroke-width=\"1\"/><line x1=\"70\" y1=\"164\" x2=\"420\" y2=\"164\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"152\" x2=\"420\" y2=\"152\" stroke=\"#dde3ee\" stroke-width=\"1\"/><line x1=\"70\" y1=\"140\" x2=\"420\" y2=\"140\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"128\" x2=\"420\" y2=\"128\" stroke=\"#dde3ee\" stroke-width=\"1\"/><line x1=\"70\" y1=\"116\" x2=\"420\" y2=\"116\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"104\" x2=\"420\" y2=\"104\" stroke=\"#dde3ee\" stroke-width=\"1\"/><line x1=\"70\" y1=\"92\" x2=\"420\" y2=\"92\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"80\" x2=\"420\" y2=\"80\" stroke=\"#dde3ee\" stroke-width=\"1\"/><line x1=\"70\" y1=\"68\" x2=\"420\" y2=\"68\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"56\" x2=\"420\" y2=\"56\" stroke=\"#dde3ee\" stroke-width=\"1\"/><line x1=\"70\" y1=\"44\" x2=\"420\" y2=\"44\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"32\" x2=\"420\" y2=\"32\" stroke=\"#dde3ee\" stroke-width=\"1\"/><line x1=\"70\" y1=\"20\" x2=\"420\" y2=\"20\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"260\" x2=\"420\" y2=\"260\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"70\" y1=\"20\" x2=\"70\" y2=\"260\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"62\" y=\"265\" text-anchor=\"end\" fill=\"#0f1b33\">0</text><text x=\"62\" y=\"241\" text-anchor=\"end\" fill=\"#0f1b33\">2</text><text x=\"62\" y=\"217\" text-anchor=\"end\" fill=\"#0f1b33\">4</text><text x=\"62\" y=\"193\" text-anchor=\"end\" fill=\"#0f1b33\">6</text><text x=\"62\" y=\"169\" text-anchor=\"end\" fill=\"#0f1b33\">8</text><text x=\"62\" y=\"145\" text-anchor=\"end\" fill=\"#0f1b33\">10</text><text x=\"62\" y=\"121\" text-anchor=\"end\" fill=\"#0f1b33\">12</text><text x=\"62\" y=\"97\" text-anchor=\"end\" fill=\"#0f1b33\">14</text><text x=\"62\" y=\"73\" text-anchor=\"end\" fill=\"#0f1b33\">16</text><text x=\"62\" y=\"49\" text-anchor=\"end\" fill=\"#0f1b33\">18</text><text x=\"62\" y=\"25\" text-anchor=\"end\" fill=\"#0f1b33\">20</text><rect x=\"100\" y=\"164\" width=\"70\" height=\"96\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"135\" y=\"282\" text-anchor=\"middle\" fill=\"#0f1b33\">sandy</text><rect x=\"215\" y=\"116\" width=\"70\" height=\"144\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"250\" y=\"282\" text-anchor=\"middle\" fill=\"#0f1b33\">clay</text><rect x=\"330\" y=\"44\" width=\"70\" height=\"216\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"365\" y=\"282\" text-anchor=\"middle\" fill=\"#0f1b33\">loam</text><text x=\"245\" y=\"308\" text-anchor=\"middle\" fill=\"#0f1b33\">type of soil</text><text x=\"20\" y=\"140\" text-anchor=\"middle\" fill=\"#0f1b33\" transform=\"rotate(-90 20 140)\">mean height in cm</text></svg>"
+      },
+      {
+       "t": "num",
+       "p": "Question 7\nAli lives on a farm in the Nile Delta. He grows bean plants in pots of three different soils from the farm: sandy soil, clay soil and loam (a mixture of sand, clay and humus). He grows four plants in each soil and measures their heights after three weeks. The bar chart shows the mean height for each soil.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 320\" width=\"440\" font-family=\"Arial, sans-serif\" font-size=\"16\"><line x1=\"70\" y1=\"260\" x2=\"420\" y2=\"260\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"248\" x2=\"420\" y2=\"248\" stroke=\"#dde3ee\" stroke-width=\"1\"/><line x1=\"70\" y1=\"236\" x2=\"420\" y2=\"236\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"224\" x2=\"420\" y2=\"224\" stroke=\"#dde3ee\" stroke-width=\"1\"/><line x1=\"70\" y1=\"212\" x2=\"420\" y2=\"212\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"200\" x2=\"420\" y2=\"200\" stroke=\"#dde3ee\" stroke-width=\"1\"/><line x1=\"70\" y1=\"188\" x2=\"420\" y2=\"188\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"176\" x2=\"420\" y2=\"176\" stroke=\"#dde3ee\" stroke-width=\"1\"/><line x1=\"70\" y1=\"164\" x2=\"420\" y2=\"164\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"152\" x2=\"420\" y2=\"152\" stroke=\"#dde3ee\" stroke-width=\"1\"/><line x1=\"70\" y1=\"140\" x2=\"420\" y2=\"140\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"128\" x2=\"420\" y2=\"128\" stroke=\"#dde3ee\" stroke-width=\"1\"/><line x1=\"70\" y1=\"116\" x2=\"420\" y2=\"116\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"104\" x2=\"420\" y2=\"104\" stroke=\"#dde3ee\" stroke-width=\"1\"/><line x1=\"70\" y1=\"92\" x2=\"420\" y2=\"92\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"80\" x2=\"420\" y2=\"80\" stroke=\"#dde3ee\" stroke-width=\"1\"/><line x1=\"70\" y1=\"68\" x2=\"420\" y2=\"68\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"56\" x2=\"420\" y2=\"56\" stroke=\"#dde3ee\" stroke-width=\"1\"/><line x1=\"70\" y1=\"44\" x2=\"420\" y2=\"44\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"32\" x2=\"420\" y2=\"32\" stroke=\"#dde3ee\" stroke-width=\"1\"/><line x1=\"70\" y1=\"20\" x2=\"420\" y2=\"20\" stroke=\"#9fb0c8\" stroke-width=\"1\"/><line x1=\"70\" y1=\"260\" x2=\"420\" y2=\"260\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"70\" y1=\"20\" x2=\"70\" y2=\"260\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"62\" y=\"265\" text-anchor=\"end\" fill=\"#0f1b33\">0</text><text x=\"62\" y=\"241\" text-anchor=\"end\" fill=\"#0f1b33\">2</text><text x=\"62\" y=\"217\" text-anchor=\"end\" fill=\"#0f1b33\">4</text><text x=\"62\" y=\"193\" text-anchor=\"end\" fill=\"#0f1b33\">6</text><text x=\"62\" y=\"169\" text-anchor=\"end\" fill=\"#0f1b33\">8</text><text x=\"62\" y=\"145\" text-anchor=\"end\" fill=\"#0f1b33\">10</text><text x=\"62\" y=\"121\" text-anchor=\"end\" fill=\"#0f1b33\">12</text><text x=\"62\" y=\"97\" text-anchor=\"end\" fill=\"#0f1b33\">14</text><text x=\"62\" y=\"73\" text-anchor=\"end\" fill=\"#0f1b33\">16</text><text x=\"62\" y=\"49\" text-anchor=\"end\" fill=\"#0f1b33\">18</text><text x=\"62\" y=\"25\" text-anchor=\"end\" fill=\"#0f1b33\">20</text><rect x=\"100\" y=\"164\" width=\"70\" height=\"96\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"135\" y=\"282\" text-anchor=\"middle\" fill=\"#0f1b33\">sandy</text><rect x=\"215\" y=\"116\" width=\"70\" height=\"144\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"250\" y=\"282\" text-anchor=\"middle\" fill=\"#0f1b33\">clay</text><rect x=\"330\" y=\"44\" width=\"70\" height=\"216\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"365\" y=\"282\" text-anchor=\"middle\" fill=\"#0f1b33\">loam</text><text x=\"245\" y=\"308\" text-anchor=\"middle\" fill=\"#0f1b33\">type of soil</text><text x=\"20\" y=\"140\" text-anchor=\"middle\" fill=\"#0f1b33\" transform=\"rotate(-90 20 140)\">mean height in cm</text></svg>",
+       "q": "(c) How much taller, on average, were the plants in loam than the plants in sandy soil?",
+       "ans": [
+        10
+       ],
+       "tol": 0,
+       "unit": "cm",
+       "m": 1,
+       "s": "Investigation: graphs",
+       "e": "Read the bars: loam = 18 cm, sandy soil = 8 cm. Difference = 18 − 8 = **10 cm**."
+      },
+      {
+       "t": "open",
+       "p": "Question 7\nAli lives on a farm in the Nile Delta. He grows bean plants in pots of three different soils from the farm: sandy soil, clay soil and loam (a mixture of sand, clay and humus). He grows four plants in each soil and measures their heights after three weeks. The bar chart shows the mean height for each soil.",
+       "q": "(d) Explain why the plants grew least well in the sandy soil.",
+       "m": 2,
+       "s": "Soil",
+       "ms": "Any two, 1 mark each: sandy soil has large particles / large spaces, so water drains through quickly; it holds (keeps) little water for the roots; it has little humus / organic matter; so it has few nutrients (minerals) for the plants. Do not accept 'sandy soil has no air' or 'it is too heavy'.",
+       "e": "Model answer: \"Sandy soil has **large particles with big spaces** between them, so **water drains away quickly** and the roots get little water. It also has **little humus**, so it has **few nutrients** for the plants.\" Loam grew the best plants because it holds water but still drains, and the humus gives nutrients."
+      },
+      {
+       "p": "Question 7\nAli lives on a farm in the Nile Delta. He grows bean plants in pots of three different soils from the farm: sandy soil, clay soil and loam (a mixture of sand, clay and humus). He grows four plants in each soil and measures their heights after three weeks. The bar chart shows the mean height for each soil.",
+       "q": "(e) Ali wants to grow beans in the sandy soil next year. Which change would most help the plants to grow?",
+       "c": [
+        "Mix in compost (humus) to the sandy soil.",
+        "Add more sand to the soil.",
+        "Remove all the small stones and humus.",
+        "Press the soil down hard so that no air is left."
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Soil",
+       "e": "Adding **compost** (organic matter) changes the soil's composition: humus holds water like a sponge and adds nutrients, so it **supports** plant growth. Adding sand or removing humus would make it worse; pressing out the air **hinders** roots."
+      },
+      {
+       "t": "text",
+       "p": "Question 8\nThe diagram shows part of the rock cycle. X, Y and Z are three types of rock.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 330\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\"><rect x=\"40\" y=\"36\" width=\"140\" height=\"48\" rx=\"8\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"110\" y=\"66\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">magma</text><rect x=\"300\" y=\"36\" width=\"140\" height=\"48\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"370\" y=\"66\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">rock X</text><rect x=\"300\" y=\"246\" width=\"140\" height=\"48\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"370\" y=\"276\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">rock Y</text><rect x=\"40\" y=\"246\" width=\"140\" height=\"48\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"110\" y=\"276\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">rock Z</text><line x1=\"184\" y1=\"60\" x2=\"284\" y2=\"60\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><polygon points=\"296,60 284,66 284,54\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"240\" y=\"44\" text-anchor=\"middle\" fill=\"#0f1b33\">cooling and</text><text x=\"240\" y=\"100\" text-anchor=\"middle\" fill=\"#0f1b33\">solidification</text><line x1=\"370\" y1=\"88\" x2=\"370\" y2=\"230\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><polygon points=\"370,242 364,230 376,230\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"362\" y=\"150\" text-anchor=\"end\" fill=\"#0f1b33\">erosion,</text><text x=\"362\" y=\"170\" text-anchor=\"end\" fill=\"#0f1b33\">sedimentation</text><text x=\"362\" y=\"190\" text-anchor=\"end\" fill=\"#0f1b33\">and burial</text><line x1=\"296\" y1=\"270\" x2=\"196\" y2=\"270\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><polygon points=\"184,270 196,264 196,276\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"240\" y=\"255\" text-anchor=\"middle\" fill=\"#0f1b33\">heat and</text><text x=\"240\" y=\"305\" text-anchor=\"middle\" fill=\"#0f1b33\">pressure</text><line x1=\"110\" y1=\"242\" x2=\"110\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><polygon points=\"110,88 116,100 104,100\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"126\" y=\"170\" font-size=\"22\" font-weight=\"bold\" fill=\"#0f1b33\">?</text></svg>",
+       "q": "(a) Name the type of rock X.",
+       "ans": [
+        "igneous",
+        "igneous rock"
+       ],
+       "m": 1,
+       "s": "Rock cycle",
+       "e": "Rock X forms when magma **cools and solidifies**, so it is **igneous** rock."
+      },
+      {
+       "t": "text",
+       "p": "Question 8\nThe diagram shows part of the rock cycle. X, Y and Z are three types of rock.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 330\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\"><rect x=\"40\" y=\"36\" width=\"140\" height=\"48\" rx=\"8\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"110\" y=\"66\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">magma</text><rect x=\"300\" y=\"36\" width=\"140\" height=\"48\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"370\" y=\"66\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">rock X</text><rect x=\"300\" y=\"246\" width=\"140\" height=\"48\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"370\" y=\"276\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">rock Y</text><rect x=\"40\" y=\"246\" width=\"140\" height=\"48\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"110\" y=\"276\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">rock Z</text><line x1=\"184\" y1=\"60\" x2=\"284\" y2=\"60\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><polygon points=\"296,60 284,66 284,54\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"240\" y=\"44\" text-anchor=\"middle\" fill=\"#0f1b33\">cooling and</text><text x=\"240\" y=\"100\" text-anchor=\"middle\" fill=\"#0f1b33\">solidification</text><line x1=\"370\" y1=\"88\" x2=\"370\" y2=\"230\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><polygon points=\"370,242 364,230 376,230\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"362\" y=\"150\" text-anchor=\"end\" fill=\"#0f1b33\">erosion,</text><text x=\"362\" y=\"170\" text-anchor=\"end\" fill=\"#0f1b33\">sedimentation</text><text x=\"362\" y=\"190\" text-anchor=\"end\" fill=\"#0f1b33\">and burial</text><line x1=\"296\" y1=\"270\" x2=\"196\" y2=\"270\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><polygon points=\"184,270 196,264 196,276\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"240\" y=\"255\" text-anchor=\"middle\" fill=\"#0f1b33\">heat and</text><text x=\"240\" y=\"305\" text-anchor=\"middle\" fill=\"#0f1b33\">pressure</text><line x1=\"110\" y1=\"242\" x2=\"110\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><polygon points=\"110,88 116,100 104,100\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"126\" y=\"170\" font-size=\"22\" font-weight=\"bold\" fill=\"#0f1b33\">?</text></svg>",
+       "q": "(b) Name the type of rock Z.",
+       "ans": [
+        "metamorphic",
+        "metamorphic rock"
+       ],
+       "m": 1,
+       "s": "Rock cycle",
+       "e": "Rock Y is sedimentary (made by erosion, sedimentation and burial). When it is changed by **heat and pressure**, it becomes **metamorphic** rock Z."
+      },
+      {
+       "t": "text",
+       "p": "Question 8\nThe diagram shows part of the rock cycle. X, Y and Z are three types of rock.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 330\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"16\"><rect x=\"40\" y=\"36\" width=\"140\" height=\"48\" rx=\"8\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"110\" y=\"66\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">magma</text><rect x=\"300\" y=\"36\" width=\"140\" height=\"48\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"370\" y=\"66\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">rock X</text><rect x=\"300\" y=\"246\" width=\"140\" height=\"48\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"370\" y=\"276\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">rock Y</text><rect x=\"40\" y=\"246\" width=\"140\" height=\"48\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"110\" y=\"276\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">rock Z</text><line x1=\"184\" y1=\"60\" x2=\"284\" y2=\"60\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><polygon points=\"296,60 284,66 284,54\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"240\" y=\"44\" text-anchor=\"middle\" fill=\"#0f1b33\">cooling and</text><text x=\"240\" y=\"100\" text-anchor=\"middle\" fill=\"#0f1b33\">solidification</text><line x1=\"370\" y1=\"88\" x2=\"370\" y2=\"230\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><polygon points=\"370,242 364,230 376,230\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"362\" y=\"150\" text-anchor=\"end\" fill=\"#0f1b33\">erosion,</text><text x=\"362\" y=\"170\" text-anchor=\"end\" fill=\"#0f1b33\">sedimentation</text><text x=\"362\" y=\"190\" text-anchor=\"end\" fill=\"#0f1b33\">and burial</text><line x1=\"296\" y1=\"270\" x2=\"196\" y2=\"270\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><polygon points=\"184,270 196,264 196,276\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"240\" y=\"255\" text-anchor=\"middle\" fill=\"#0f1b33\">heat and</text><text x=\"240\" y=\"305\" text-anchor=\"middle\" fill=\"#0f1b33\">pressure</text><line x1=\"110\" y1=\"242\" x2=\"110\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><polygon points=\"110,88 116,100 104,100\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"126\" y=\"170\" font-size=\"22\" font-weight=\"bold\" fill=\"#0f1b33\">?</text></svg>",
+       "q": "(c) Name the process shown by the arrow marked ? that changes rock Z back into magma.",
+       "ans": [
+        "melting",
+        "it melts",
+        "melt",
+        "melted",
+        "melting (heating)"
+       ],
+       "m": 1,
+       "s": "Rock cycle",
+       "e": "**Melting.** Deep in the Earth, rock gets hot enough to melt into magma, and the cycle can start again."
+      },
+      {
+       "p": "Question 9\nLaila's night sky observation log also records three planets that she saw from Egypt: Venus, Mars and Jupiter.",
+       "q": "(a) Which sentence correctly describes the movements in our Solar System?",
+       "c": [
+        "The Sun and the planets orbit the Earth.",
+        "The Moon orbits the Sun, and the Earth stays still.",
+        "The planets orbit the Moon, and the Moon orbits the Sun.",
+        "The planets orbit the Sun, and the Moon orbits the Earth."
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Solar System",
+       "e": "The **Sun is at the centre**. The eight planets, including Earth, **orbit the Sun**, and the **Moon orbits the Earth**. The Earth also spins on its axis, which gives us day and night."
+      },
+      {
+       "t": "text",
+       "p": "Question 9\nLaila's night sky observation log also records three planets that she saw from Egypt: Venus, Mars and Jupiter.",
+       "q": "(b) Which of the three planets in Laila's log is **closest** to the Sun?",
+       "ans": [
+        "Venus"
+       ],
+       "m": 1,
+       "s": "Solar System",
+       "e": "The order of the planets from the Sun is Mercury, **Venus**, Earth, Mars, Jupiter, Saturn, Uranus, Neptune. So Venus is the closest of the three."
+      },
+      {
+       "t": "text",
+       "p": "Question 9\nLaila's night sky observation log also records three planets that she saw from Egypt: Venus, Mars and Jupiter.",
+       "q": "(c) Which planet in Laila's log has its orbit between the orbit of the Earth and the orbit of Jupiter?",
+       "ans": [
+        "Mars"
+       ],
+       "m": 1,
+       "s": "Solar System",
+       "e": "From the Sun: Earth (3rd), **Mars** (4th), Jupiter (5th). So Mars orbits between the Earth and Jupiter."
+      },
+      {
+       "p": "Question 10\nDad cooks pasta in a pan of salty water on the cooker in the family kitchen.",
+       "q": "(a) The water in the pan boils. Which sentence describes **boiling** but **not** evaporation?",
+       "c": [
+        "The liquid changes into a gas.",
+        "It only happens at the surface of the liquid.",
+        "Bubbles of gas form all through the liquid, at one temperature.",
+        "It can happen at any temperature."
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Boiling and evaporation",
+       "e": "In **boiling**, bubbles of gas form **throughout** the liquid, and it happens only at the **boiling point**. Evaporation happens only at the **surface** and at **any** temperature. Both change a liquid into a gas, so option A describes both."
+      },
+      {
+       "t": "text",
+       "p": "Question 10\nDad cooks pasta in a pan of salty water on the cooker in the family kitchen.",
+       "q": "(b) After dinner, Dad wipes the worktop with a wet cloth. One hour later the worktop is dry, even though the water never got hot enough to boil. Name the process that dried the worktop.",
+       "ans": [
+        "evaporation",
+        "evaporating",
+        "it evaporated",
+        "evaporate",
+        "evaporated"
+       ],
+       "m": 1,
+       "s": "Boiling and evaporation",
+       "e": "**Evaporation.** Water particles at the surface escape into the air as water vapour, even at room temperature."
+      },
+      {
+       "t": "num",
+       "p": "Question 10\nDad cooks pasta in a pan of salty water on the cooker in the family kitchen.\nDad reads that 36 g of salt can dissolve in 100 ml of water at 20 °C, and 39 g can dissolve in 100 ml of water at 100 °C.",
+       "q": "(c) How many more grams of salt can dissolve in 100 ml of water at 100 °C than at 20 °C?",
+       "ans": [
+        3
+       ],
+       "tol": 0,
+       "unit": "g",
+       "m": 1,
+       "s": "Dissolving",
+       "e": "39 − 36 = **3 g**. More salt can dissolve in hot water than in cold water."
+      },
+      {
+       "t": "open",
+       "p": "Question 10\nDad cooks pasta in a pan of salty water on the cooker in the family kitchen.",
+       "q": "(d) Dad notices that salt dissolves **faster** in hot water than in cold water. Use the particle model to explain why.",
+       "m": 2,
+       "s": "Dissolving and particles",
+       "ms": "1 mark: in hot water the (water) particles have more energy / move faster. 1 mark: so they hit (collide with) the salt more often / harder, pulling the salt particles away and spreading them out between the water particles more quickly. Do not accept 'the salt melts' or 'heat makes the salt disappear'.",
+       "e": "Model answer: \"In hot water the **water particles move faster** (they have more energy). They **hit the salt crystals more often and harder**, so salt particles break away and **spread out between the water particles** more quickly.\" Remember: the salt dissolves; it does not melt."
+      },
+      {
+       "p": "Question 11\nThe family is getting ready for a party in the kitchen.",
+       "q": "(a) Hana ties two blown-up balloons to the ends of a stick. She hangs the stick from a string so that it balances. Then she pops one balloon. What happens?",
+       "c": [
+        "The stick stays balanced, because air has no mass.",
+        "The end with the popped balloon goes down.",
+        "The end with the full balloon goes down, because the air in it has mass.",
+        "Both ends go up."
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Gases have mass",
+       "e": "When the balloon is popped, the air inside it escapes. The full balloon still has its squashed air inside, so that end is now heavier and **goes down**. This shows that **air (a gas) has mass**."
+      },
+      {
+       "p": "Question 11\nThe family is getting ready for a party in the kitchen.",
+       "q": "(b) Hana puts four spoons into cups of hot tea. Which spoon will feel hot fastest when she touches its handle?",
+       "c": [
+        "a steel spoon",
+        "a wooden spoon",
+        "a plastic spoon",
+        "a bamboo spoon"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Thermal conductors",
+       "e": "Metals such as **steel** are good **thermal conductors**: heat travels through them quickly, so the handle soon feels hot. Wood, plastic and bamboo are poor thermal conductors (thermal insulators). Metals are also good electrical conductors — conductivity is a property of a substance."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "After the test",
+   "items": [
+    "**Mark honestly.** For each written answer, find the marking points in the mark scheme. Give a mark only if your answer says the same science, even in different words.",
+    "**Make a mistakes list.** For every lost mark, write the question number, the topic and why you lost it (did not know it / misread the question / only one point for a [2] / no unit / read the graph wrongly).",
+    "**Revisit the lessons:** Paper 1 Q1–Q2 and Paper 2 Q2(d) → *The Heart and Circulatory System* and *The Lungs and Respiratory System*; Paper 2 Q1 → *Human Reproductive System and Puberty*; Paper 1 Q3 → *Diseases, Hygiene and the Body's Defences*; Paper 1 Q4 → *Food Chains, Food Webs, Energy and Toxins*.",
+    "Paper 1 Q5 and Paper 2 Q11 → *Properties of Substances: Melting and Boiling Points, Gases, Conductors*; Paper 1 Q6 → *Chemical Reactions: Reactants, Products and Evidence* and *Reversible Changes and Dissolving*; Paper 2 Q10 → *Boiling and Evaporation* and *Reversible Changes and Dissolving*.",
+    "Paper 2 Q3 → *Mass, Weight and Gravity*; Paper 1 Q7 and Paper 2 Q2 → *Force Diagrams and Forces on Moving Objects*; Paper 2 Q4 → *Floating and Sinking*; Paper 2 Q5 → *Light: Reflection and Refraction*; Paper 2 Q6 → *Electric Circuits, Symbols, Series and Parallel*.",
+    "Paper 1 Q8 → *Rocks and Fossils*; Paper 2 Q7 → *Types of Soil*; Paper 2 Q8 → *The Rock Cycle*; Paper 1 Q9 and Paper 2 Q9 → *The Solar System and the Phases of the Moon*.",
+    "Investigation parts (variables, fair test, anomalous result, mean, pattern, prediction, conclusion) → *Thinking and Working Scientifically: Investigations, Variables, Tables and Graphs*.",
+    "A week later, redo only the questions you got wrong — without looking at the answers. Then try another practice test, timed."
+   ]
+  }
+ ]
+}

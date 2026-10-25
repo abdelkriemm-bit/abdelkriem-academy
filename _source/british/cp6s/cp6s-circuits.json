@@ -1,0 +1,598 @@
+{
+ "slug": "cp6s-circuits",
+ "title": "Electric Circuits, Symbols, Series and Parallel",
+ "kicker": "Cambridge Primary Checkpoint · Science 0097 · Stage 6 · Physics",
+ "summary": "Draw and read circuit diagrams with the standard symbols, and compare how bright lamps are in series and parallel circuits.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Use circuit diagrams and the standard symbols to show, build and compare circuits with cells, switches, lamps and buzzers (6Pe.01).",
+    "Build simple circuits and compare how bright the lamps are in **series** and **parallel** circuits (6Pe.02)."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. What makes a circuit work?"
+  },
+  {
+   "type": "p",
+   "text": "An electric **circuit** is a path that electricity flows around. A circuit only works when it is a **complete loop** with no gaps: from one end of the cell, through the wires and components, and back to the other end of the cell. The flow of electricity around the circuit is called the **current**."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A **cell** pushes the current around the circuit. Two or more cells joined together make a **battery**, which gives a bigger push.",
+    "**Wires** are made of a metal such as copper, which is a good electrical **conductor**. They are covered in plastic, an **insulator**, to keep us safe.",
+    "**Components** such as lamps and buzzers use the electricity: a lamp gives out light, a buzzer makes a sound.",
+    "A **switch** opens or closes a gap in the circuit. Closed switch = complete circuit = current flows. Open switch = gap = no current."
+   ]
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "circuit",
+     "دائرة كهربية — a complete path for electricity"
+    ],
+    [
+     "current",
+     "التيار الكهربي — the flow of electricity around a circuit"
+    ],
+    [
+     "cell",
+     "خلية / عمود كهربي — pushes the current around the circuit (often called a battery in everyday English)"
+    ],
+    [
+     "battery",
+     "بطارية — two or more cells joined together"
+    ],
+    [
+     "lamp / bulb",
+     "مصباح / لمبة — gives out light when current flows"
+    ],
+    [
+     "buzzer",
+     "جرس / بازر — makes a sound when current flows"
+    ],
+    [
+     "switch (open / closed)",
+     "مفتاح (مفتوح / مغلق) — makes a gap in the circuit or closes it"
+    ],
+    [
+     "junction",
+     "نقطة تفرّع — a point where wires join and the current can split"
+    ],
+    [
+     "series circuit",
+     "توصيل على التوالي — all components in one loop, one path"
+    ],
+    [
+     "parallel circuit",
+     "توصيل على التوازي — components on separate branches, more than one path"
+    ],
+    [
+     "conductor / insulator",
+     "موصل / عازل — lets electricity through / does not"
+    ],
+    [
+     "brightness",
+     "شدة الإضاءة — how bright a lamp is"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Safety",
+   "text": "Only do circuit experiments with **cells**. Never use mains electricity (wall sockets) — it can kill. Do not connect a wire straight from one end of a cell to the other with nothing in between: the wire and cell get hot."
+  },
+  {
+   "type": "h2",
+   "text": "2. Circuit symbols"
+  },
+  {
+   "type": "p",
+   "text": "Scientists all over the world draw circuits with the same simple **symbols** instead of pictures. Learn these eight — you must be able to draw them and recognise them."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 545 215\" width=\"545\" font-family=\"Arial, sans-serif\" font-size=\"14\"><rect x=\"7\" y=\"12\" width=\"126\" height=\"92\" rx=\"6\" fill=\"none\" stroke=\"#c7d3e3\" stroke-width=\"1\"/><line x1=\"20\" y1=\"50\" x2=\"64\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(70 50) rotate(0.0)\"><line x1=\"-6\" y1=\"-18\" x2=\"-6\" y2=\"18\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"6\" y1=\"-9\" x2=\"6\" y2=\"9\" stroke=\"#0f1b33\" stroke-width=\"6\"/></g><line x1=\"76\" y1=\"50\" x2=\"120\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"70\" y=\"96\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#0f1b33\">cell</text><rect x=\"142\" y=\"12\" width=\"126\" height=\"92\" rx=\"6\" fill=\"none\" stroke=\"#c7d3e3\" stroke-width=\"1\"/><line x1=\"155\" y1=\"50\" x2=\"184\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(205 50) rotate(0.0)\"><line x1=\"-21\" y1=\"-18\" x2=\"-21\" y2=\"18\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"-9\" y1=\"-9\" x2=\"-9\" y2=\"9\" stroke=\"#0f1b33\" stroke-width=\"6\"/><line x1=\"-9\" y1=\"0\" x2=\"9\" y2=\"0\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"9\" y1=\"-18\" x2=\"9\" y2=\"18\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"21\" y1=\"-9\" x2=\"21\" y2=\"9\" stroke=\"#0f1b33\" stroke-width=\"6\"/></g><line x1=\"226\" y1=\"50\" x2=\"255\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"205\" y=\"96\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#0f1b33\">battery of cells</text><rect x=\"277\" y=\"12\" width=\"126\" height=\"92\" rx=\"6\" fill=\"none\" stroke=\"#c7d3e3\" stroke-width=\"1\"/><line x1=\"290\" y1=\"50\" x2=\"327\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(340 50) rotate(0)\"><circle cx=\"0\" cy=\"0\" r=\"13\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"-9.2\" x2=\"9.2\" y2=\"9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"9.2\" x2=\"9.2\" y2=\"-9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"353\" y1=\"50\" x2=\"390\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"340\" y=\"96\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#0f1b33\">lamp</text><rect x=\"412\" y=\"12\" width=\"126\" height=\"92\" rx=\"6\" fill=\"none\" stroke=\"#c7d3e3\" stroke-width=\"1\"/><line x1=\"425\" y1=\"50\" x2=\"465\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(475 50) rotate(0)\"><line x1=\"-10\" y1=\"0\" x2=\"-10\" y2=\"-8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"10\" y1=\"0\" x2=\"10\" y2=\"-8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M-17,-8 L17,-8 A17,17 0 0 0 -17,-8 Z\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"485\" y1=\"50\" x2=\"525\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"475\" y=\"96\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#0f1b33\">buzzer</text><rect x=\"7\" y=\"117\" width=\"126\" height=\"92\" rx=\"6\" fill=\"none\" stroke=\"#c7d3e3\" stroke-width=\"1\"/><line x1=\"20\" y1=\"155\" x2=\"53\" y2=\"155\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(70 155) rotate(0)\"><circle cx=\"-14\" cy=\"0\" r=\"3\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"0\" r=\"3\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-11.5\" y1=\"-1.5\" x2=\"12\" y2=\"-15\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"87\" y1=\"155\" x2=\"120\" y2=\"155\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"70\" y=\"201\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#0f1b33\">open switch</text><rect x=\"142\" y=\"117\" width=\"126\" height=\"92\" rx=\"6\" fill=\"none\" stroke=\"#c7d3e3\" stroke-width=\"1\"/><line x1=\"155\" y1=\"155\" x2=\"188\" y2=\"155\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(205 155) rotate(0)\"><circle cx=\"-14\" cy=\"0\" r=\"3\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"0\" r=\"3\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-11\" y1=\"0\" x2=\"11\" y2=\"0\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"222\" y1=\"155\" x2=\"255\" y2=\"155\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"205\" y=\"201\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#0f1b33\">closed switch</text><rect x=\"277\" y=\"117\" width=\"126\" height=\"92\" rx=\"6\" fill=\"none\" stroke=\"#c7d3e3\" stroke-width=\"1\"/><line x1=\"290\" y1=\"155\" x2=\"390\" y2=\"155\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"340\" y=\"201\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#0f1b33\">wire</text><rect x=\"412\" y=\"117\" width=\"126\" height=\"92\" rx=\"6\" fill=\"none\" stroke=\"#c7d3e3\" stroke-width=\"1\"/><line x1=\"425\" y1=\"155\" x2=\"525\" y2=\"155\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"475\" y1=\"155\" x2=\"475\" y2=\"181\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"475\" cy=\"155\" r=\"4.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"475\" y=\"201\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#0f1b33\">junction</text></svg>",
+   "caption": "The circuit symbols you need for Stage 6."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Symbol",
+    "What to remember"
+   ],
+   "rows": [
+    [
+     "Cell",
+     "Two lines: a **long thin** line and a **short thick** line. The long line is the positive (+) end."
+    ],
+    [
+     "Battery of cells",
+     "Two or more cell symbols joined in a row, all facing the same way. Count the pairs of lines to count the cells."
+    ],
+    [
+     "Lamp",
+     "A circle with a cross (×) inside."
+    ],
+    [
+     "Buzzer",
+     "A dome shape on two short legs."
+    ],
+    [
+     "Open switch",
+     "A gap: the lever is lifted up, so no current flows."
+    ],
+    [
+     "Closed switch",
+     "No gap: the lever is down, so current flows."
+    ],
+    [
+     "Wire",
+     "A straight line drawn with a ruler."
+    ],
+    [
+     "Junction",
+     "A dot where three or more wires meet."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Rules for drawing circuit diagrams**"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Use a **ruler** and a pencil. Draw wires as straight lines with square corners.",
+    "Use the correct **symbol** for every component — never a picture.",
+    "Leave **no gaps** in the wires (except an open switch, which is meant to be a gap).",
+    "Do not draw a wire through the middle of a symbol.",
+    "Put a **dot** at every junction where wires join.",
+    "Label components if the question names them (lamp A, switch S1…)."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "3. Series circuits"
+  },
+  {
+   "type": "p",
+   "text": "In a **series circuit**, all the components are joined **one after another in a single loop**. There is only **one path** for the current, so the same current flows through every component."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 470 265\" width=\"470\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"90\" y1=\"60\" x2=\"234\" y2=\"60\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(240 60) rotate(0.0)\"><line x1=\"-6\" y1=\"-18\" x2=\"-6\" y2=\"18\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"6\" y1=\"-9\" x2=\"6\" y2=\"9\" stroke=\"#0f1b33\" stroke-width=\"6\"/></g><line x1=\"246\" y1=\"60\" x2=\"390\" y2=\"60\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"390\" y1=\"60\" x2=\"390\" y2=\"220\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"390\" y1=\"220\" x2=\"304\" y2=\"220\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(291 220) rotate(0)\"><circle cx=\"0\" cy=\"0\" r=\"13\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"-9.2\" x2=\"9.2\" y2=\"9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"9.2\" x2=\"9.2\" y2=\"-9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"278\" y1=\"220\" x2=\"202\" y2=\"220\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(189 220) rotate(0)\"><circle cx=\"0\" cy=\"0\" r=\"13\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"-9.2\" x2=\"9.2\" y2=\"9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"9.2\" x2=\"9.2\" y2=\"-9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"176\" y1=\"220\" x2=\"90\" y2=\"220\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"90\" y1=\"220\" x2=\"90\" y2=\"157\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(90 140) rotate(90)\"><circle cx=\"-14\" cy=\"0\" r=\"3\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"0\" r=\"3\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-11\" y1=\"0\" x2=\"11\" y2=\"0\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"90\" y1=\"123\" x2=\"90\" y2=\"60\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"240\" y=\"32\" text-anchor=\"middle\" fill=\"#0f1b33\">cell</text><text x=\"290\" y=\"252\" text-anchor=\"middle\" fill=\"#0f1b33\">lamp A</text><text x=\"190\" y=\"252\" text-anchor=\"middle\" fill=\"#0f1b33\">lamp B</text><text x=\"78\" y=\"145\" text-anchor=\"end\" fill=\"#0f1b33\">switch</text><line x1=\"250\" y1=\"82\" x2=\"291\" y2=\"82\" stroke=\"#2e7d32\" stroke-width=\"2\"/><polygon points=\"300,82 291,87 291,77\" fill=\"#2e7d32\" stroke=\"#2e7d32\" stroke-width=\"1\"/><text x=\"275\" y=\"102\" text-anchor=\"middle\" font-size=\"13\" fill=\"#2e7d32\">current</text></svg>",
+   "caption": "A series circuit with one cell, a closed switch and two lamps. The current has only one path."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Adding **more lamps** in series makes **every lamp dimmer**. The push from the cell has to be shared between the lamps.",
+    "If **one lamp breaks** or is unscrewed, there is a gap in the only path, so **all the lamps go out**.",
+    "**One switch** anywhere in the loop turns everything on and off together.",
+    "Adding **more cells** (in the same direction) gives a bigger push, so lamps get **brighter** and buzzers get **louder**. Too many cells can make a lamp **blow** (its thin wire breaks)."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "4. Parallel circuits"
+  },
+  {
+   "type": "p",
+   "text": "In a **parallel circuit**, the components are on **separate branches**. At each **junction** the current splits up and then joins again. There is **more than one path** for the current."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 490 285\" width=\"490\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"90\" y1=\"50\" x2=\"234\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(240 50) rotate(0.0)\"><line x1=\"-6\" y1=\"-18\" x2=\"-6\" y2=\"18\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"6\" y1=\"-9\" x2=\"6\" y2=\"9\" stroke=\"#0f1b33\" stroke-width=\"6\"/></g><line x1=\"246\" y1=\"50\" x2=\"390\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"390\" y1=\"50\" x2=\"390\" y2=\"240\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"390\" y1=\"240\" x2=\"253\" y2=\"240\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(240 240) rotate(0)\"><circle cx=\"0\" cy=\"0\" r=\"13\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"-9.2\" x2=\"9.2\" y2=\"9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"9.2\" x2=\"9.2\" y2=\"-9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"227\" y1=\"240\" x2=\"90\" y2=\"240\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"90\" y1=\"240\" x2=\"90\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"390\" y1=\"145\" x2=\"253\" y2=\"145\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(240 145) rotate(0)\"><circle cx=\"0\" cy=\"0\" r=\"13\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"-9.2\" x2=\"9.2\" y2=\"9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"9.2\" x2=\"9.2\" y2=\"-9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"227\" y1=\"145\" x2=\"90\" y2=\"145\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"145\" r=\"4.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"390\" cy=\"145\" r=\"4.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"240\" y=\"24\" text-anchor=\"middle\" fill=\"#0f1b33\">cell</text><text x=\"240\" y=\"128\" text-anchor=\"middle\" fill=\"#0f1b33\">lamp A</text><text x=\"240\" y=\"272\" text-anchor=\"middle\" fill=\"#0f1b33\">lamp B</text><text x=\"402\" y=\"150\" font-size=\"13\" fill=\"#0f1b33\">junction</text></svg>",
+   "caption": "A parallel circuit: lamp A and lamp B are on separate branches. The dots are junctions."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Each lamp in parallel gets the **full push** of the cell, so **each lamp is as bright as one lamp on its own** with the same cell.",
+    "If **one lamp breaks**, the other branch is still a complete loop, so the **other lamp stays on** (at the same brightness).",
+    "A switch on a **branch** controls only the lamp on that branch. A switch on the **main** part of the circuit (next to the cell) controls everything.",
+    "The lights in your home are wired in **parallel**: you can switch each light on and off on its own, and one broken bulb does not turn off the whole house."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "5. Comparing brightness"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 545 208\" width=\"545\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"20\" y1=\"45\" x2=\"79\" y2=\"45\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(85 45) rotate(0.0)\"><line x1=\"-6\" y1=\"-18\" x2=\"-6\" y2=\"18\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"6\" y1=\"-9\" x2=\"6\" y2=\"9\" stroke=\"#0f1b33\" stroke-width=\"6\"/></g><line x1=\"91\" y1=\"45\" x2=\"150\" y2=\"45\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"150\" y1=\"45\" x2=\"150\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"150\" y1=\"150\" x2=\"98\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(85 150) rotate(0)\"><circle cx=\"0\" cy=\"0\" r=\"13\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"-9.2\" x2=\"9.2\" y2=\"9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"9.2\" x2=\"9.2\" y2=\"-9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"72\" y1=\"150\" x2=\"20\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"20\" y1=\"150\" x2=\"20\" y2=\"45\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"85\" y=\"22\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">A</text><line x1=\"205\" y1=\"45\" x2=\"264\" y2=\"45\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(270 45) rotate(0.0)\"><line x1=\"-6\" y1=\"-18\" x2=\"-6\" y2=\"18\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"6\" y1=\"-9\" x2=\"6\" y2=\"9\" stroke=\"#0f1b33\" stroke-width=\"6\"/></g><line x1=\"276\" y1=\"45\" x2=\"335\" y2=\"45\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"335\" y1=\"45\" x2=\"335\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"335\" y1=\"150\" x2=\"309\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(296 150) rotate(0)\"><circle cx=\"0\" cy=\"0\" r=\"13\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"-9.2\" x2=\"9.2\" y2=\"9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"9.2\" x2=\"9.2\" y2=\"-9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"283\" y1=\"150\" x2=\"257\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(244 150) rotate(0)\"><circle cx=\"0\" cy=\"0\" r=\"13\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"-9.2\" x2=\"9.2\" y2=\"9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"9.2\" x2=\"9.2\" y2=\"-9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"231\" y1=\"150\" x2=\"205\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"205\" y1=\"150\" x2=\"205\" y2=\"45\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"270\" y=\"22\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">B</text><line x1=\"390\" y1=\"45\" x2=\"449\" y2=\"45\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(455 45) rotate(0.0)\"><line x1=\"-6\" y1=\"-18\" x2=\"-6\" y2=\"18\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"6\" y1=\"-9\" x2=\"6\" y2=\"9\" stroke=\"#0f1b33\" stroke-width=\"6\"/></g><line x1=\"461\" y1=\"45\" x2=\"520\" y2=\"45\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"520\" y1=\"45\" x2=\"520\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"520\" y1=\"150\" x2=\"468\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(455 150) rotate(0)\"><circle cx=\"0\" cy=\"0\" r=\"13\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"-9.2\" x2=\"9.2\" y2=\"9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"9.2\" x2=\"9.2\" y2=\"-9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"442\" y1=\"150\" x2=\"390\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"390\" y1=\"150\" x2=\"390\" y2=\"45\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"520\" y1=\"100\" x2=\"468\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(455 100) rotate(0)\"><circle cx=\"0\" cy=\"0\" r=\"13\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"-9.2\" x2=\"9.2\" y2=\"9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"9.2\" x2=\"9.2\" y2=\"-9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"442\" y1=\"100\" x2=\"390\" y2=\"100\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"390\" cy=\"100\" r=\"4.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"520\" cy=\"100\" r=\"4.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"455\" y=\"22\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">C</text><text x=\"85\" y=\"180\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#0f1b33\">one lamp:</text><text x=\"85\" y=\"198\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">normal brightness</text><text x=\"270\" y=\"180\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#0f1b33\">two lamps in series:</text><text x=\"270\" y=\"198\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">both dimmer</text><text x=\"455\" y=\"180\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#0f1b33\">two lamps in parallel:</text><text x=\"455\" y=\"198\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">both normal brightness</text></svg>",
+   "caption": "Three circuits, each with one identical cell and identical lamps."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Circuit (identical cells and lamps)",
+    "Brightness of each lamp"
+   ],
+   "rows": [
+    [
+     "1 cell, 1 lamp",
+     "normal brightness (this is our standard)"
+    ],
+    [
+     "1 cell, 2 lamps in series",
+     "both **dimmer** than normal (both the same)"
+    ],
+    [
+     "1 cell, 3 lamps in series",
+     "all **even dimmer**"
+    ],
+    [
+     "1 cell, 2 lamps in parallel",
+     "both at **normal** brightness"
+    ],
+    [
+     "2 cells, 1 lamp",
+     "**brighter** than normal"
+    ],
+    [
+     "2 cells, 2 lamps in series",
+     "about **normal** brightness (double push shared by two lamps)"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Quick rule",
+   "text": "**More cells → brighter. More lamps in series → dimmer. Lamps in parallel → each one as bright as a single lamp.** The same rules work for buzzers: more cells → louder; more components in series → quieter."
+  },
+  {
+   "type": "h2",
+   "text": "6. Series or parallel? Summary"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "",
+    "Series circuit",
+    "Parallel circuit"
+   ],
+   "rows": [
+    [
+     "Paths for the current",
+     "one",
+     "more than one (branches)"
+    ],
+    [
+     "Brightness of two lamps (1 cell)",
+     "both dimmer than one lamp alone",
+     "each as bright as one lamp alone"
+    ],
+    [
+     "One lamp breaks",
+     "all lamps go out",
+     "lamps on other branches stay on"
+    ],
+    [
+     "Switches",
+     "one switch controls everything",
+     "a switch on a branch controls only that branch"
+    ],
+    [
+     "Used for",
+     "simple torches, some decoration lights",
+     "lights and sockets in homes"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Why might a circuit not work?** Check: Is a switch **open**? Is there a **gap** or a loose connection? Is a lamp **broken** (blown)? Is the cell **used up** (flat)? Has an **insulator** (plastic, wood, rubber) been placed in the circuit? Are two cells in a battery facing **opposite ways** so their pushes cancel?"
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "بالعربي — أهم حاجة تفتكرها",
+   "items": [
+    "الدائرة لازم تكون مقفولة (complete) من غير أي فتحة، وإلا التيار مش هيمشي.",
+    "التوالي (series): مسار واحد. كل ما تزوّد لمبات اللمبات تضعف، ولو لمبة اتحرقت الكل يطفي.",
+    "التوازي (parallel): كذا فرع. كل لمبة بتنور زي لمبة لوحدها، ولو لمبة اتحرقت الباقي يفضل منوّر.",
+    "تزوّد خلايا (cells) = اللمبة تنور أكتر والجرس صوته يعلى.",
+    "ارسم الدائرة بالمسطرة وبالرموز (symbols) مش بالصور."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "7. Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — Look at the circuit below. (a) How many cells are there? [1] (b) Name the two components on the bottom wire. [1] (c) Is the switch open or closed? [1]"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 225\" width=\"500\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"80\" y1=\"60\" x2=\"214\" y2=\"60\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(250 60) rotate(0.0)\"><line x1=\"-36\" y1=\"-18\" x2=\"-36\" y2=\"18\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"-24\" y1=\"-9\" x2=\"-24\" y2=\"9\" stroke=\"#0f1b33\" stroke-width=\"6\"/><line x1=\"-24\" y1=\"0\" x2=\"-6\" y2=\"0\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-6\" y1=\"-18\" x2=\"-6\" y2=\"18\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"6\" y1=\"-9\" x2=\"6\" y2=\"9\" stroke=\"#0f1b33\" stroke-width=\"6\"/><line x1=\"6\" y1=\"0\" x2=\"24\" y2=\"0\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"24\" y1=\"-18\" x2=\"24\" y2=\"18\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"36\" y1=\"-9\" x2=\"36\" y2=\"9\" stroke=\"#0f1b33\" stroke-width=\"6\"/></g><line x1=\"286\" y1=\"60\" x2=\"420\" y2=\"60\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"420\" y1=\"60\" x2=\"420\" y2=\"113\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(420 130) rotate(90)\"><circle cx=\"-14\" cy=\"0\" r=\"3\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"0\" r=\"3\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-11\" y1=\"0\" x2=\"11\" y2=\"0\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"420\" y1=\"147\" x2=\"420\" y2=\"200\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"420\" y1=\"200\" x2=\"328\" y2=\"200\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(318 200) rotate(0)\"><line x1=\"-10\" y1=\"0\" x2=\"-10\" y2=\"-8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"10\" y1=\"0\" x2=\"10\" y2=\"-8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M-17,-8 L17,-8 A17,17 0 0 0 -17,-8 Z\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"308\" y1=\"200\" x2=\"195\" y2=\"200\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(182 200) rotate(0)\"><circle cx=\"0\" cy=\"0\" r=\"13\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"-9.2\" x2=\"9.2\" y2=\"9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"9.2\" x2=\"9.2\" y2=\"-9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"169\" y1=\"200\" x2=\"80\" y2=\"200\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"80\" y1=\"200\" x2=\"80\" y2=\"60\" stroke=\"#0f1b33\" stroke-width=\"2\"/></svg>",
+   "caption": "Circuit for worked example 1."
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** (a) **3** cells (count the pairs of long and short lines). (b) a **lamp** and a **buzzer**. (c) **closed** — the line joins both terminals, so there is no gap. It is a series circuit, so the lamp lights and the buzzer sounds."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — Draw a circuit diagram for: one cell, an open switch, a lamp and a buzzer, all in series. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Draw a rectangle loop with a ruler.",
+    "Put the cell symbol on the top side, the open switch on one side, and the lamp and buzzer on the bottom.",
+    "Check: one single loop, correct symbols, no extra gaps, no wire through a symbol."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Mark scheme style:** 1 mark for all four correct symbols; 1 mark for everything in one complete loop (series). **Common mistake:** drawing the cell as two equal lines, or drawing a picture of a bulb."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — Circuits A, B and C in section 5 all use identical cells and lamps. (a) In which circuit(s) are the lamps dimmest? [1] (b) Explain why. [1]"
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** (a) **B**. (b) The two lamps are in **series**, so the push of one cell is shared between two lamps. (In C, each lamp in parallel gets the full push of the cell, so each is as bright as the lamp in A.)"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — Mariam's circuit has two lamps in parallel (like the parallel circuit in section 4). Lamp A breaks. What happens to lamp B? Explain. [2]"
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** Lamp B **stays on at the same brightness** (1 mark), because it is on a **separate branch** that is still a complete loop with the cell (1 mark). **Common mistake:** saying lamp B gets brighter — in a parallel circuit it stays the same."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — Look at the circuit with switches S1, S2 and S3. Which switches must be closed to light lamp P but **not** lamp Q? [2]"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 285\" width=\"500\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"90\" y1=\"50\" x2=\"180\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(186 50) rotate(0.0)\"><line x1=\"-6\" y1=\"-18\" x2=\"-6\" y2=\"18\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"6\" y1=\"-9\" x2=\"6\" y2=\"9\" stroke=\"#0f1b33\" stroke-width=\"6\"/></g><line x1=\"192\" y1=\"50\" x2=\"297\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(314 50) rotate(0)\"><circle cx=\"-14\" cy=\"0\" r=\"3\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"0\" r=\"3\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-11.5\" y1=\"-1.5\" x2=\"12\" y2=\"-15\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"331\" y1=\"50\" x2=\"410\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"410\" y1=\"50\" x2=\"410\" y2=\"240\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"410\" y1=\"240\" x2=\"315\" y2=\"240\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(298 240) rotate(0)\"><circle cx=\"-14\" cy=\"0\" r=\"3\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"0\" r=\"3\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-11.5\" y1=\"-1.5\" x2=\"12\" y2=\"-15\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"281\" y1=\"240\" x2=\"215\" y2=\"240\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(202 240) rotate(0)\"><circle cx=\"0\" cy=\"0\" r=\"13\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"-9.2\" x2=\"9.2\" y2=\"9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"9.2\" x2=\"9.2\" y2=\"-9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"189\" y1=\"240\" x2=\"90\" y2=\"240\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"90\" y1=\"240\" x2=\"90\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"410\" y1=\"145\" x2=\"315\" y2=\"145\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(298 145) rotate(0)\"><circle cx=\"-14\" cy=\"0\" r=\"3\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"0\" r=\"3\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-11.5\" y1=\"-1.5\" x2=\"12\" y2=\"-15\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"281\" y1=\"145\" x2=\"215\" y2=\"145\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(202 145) rotate(0)\"><circle cx=\"0\" cy=\"0\" r=\"13\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"-9.2\" x2=\"9.2\" y2=\"9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"9.2\" x2=\"9.2\" y2=\"-9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"189\" y1=\"145\" x2=\"90\" y2=\"145\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"145\" r=\"4.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"410\" cy=\"145\" r=\"4.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"186\" y=\"24\" text-anchor=\"middle\" fill=\"#0f1b33\">cell</text><text x=\"314\" y=\"24\" text-anchor=\"middle\" fill=\"#0f1b33\">S3</text><text x=\"298\" y=\"172\" text-anchor=\"middle\" fill=\"#0f1b33\">S1</text><text x=\"178\" y=\"128\" text-anchor=\"middle\" fill=\"#0f1b33\">P</text><text x=\"298\" y=\"272\" text-anchor=\"middle\" fill=\"#0f1b33\">S2</text><text x=\"178\" y=\"272\" text-anchor=\"middle\" fill=\"#0f1b33\">Q</text></svg>",
+   "caption": "S3 is on the main part of the circuit; S1 is on the branch with lamp P; S2 is on the branch with lamp Q."
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** close **S3** (the main switch, so current can leave the cell) **and S1** (to complete lamp P's branch); keep **S2 open** so lamp Q stays off."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6 (investigation)** — Ali investigates how the number of cells affects the loudness of a buzzer. (a) Name the independent variable. [1] (b) Give one control variable. [1] (c) Predict the result. [1]"
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** (a) **the number of cells**. (b) the same buzzer / the same wires / the same distance from the buzzer to the ear or sound meter. (c) **The more cells, the louder the buzzer**, because more cells give a bigger push to the current."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Drawing pictures of bulbs and batteries instead of symbols, or drawing wires freehand with gaps.",
+    "Drawing a cell with two lines of the same length. One is long and thin, the other short and thick.",
+    "Thinking lamps in parallel are dimmer. They are each as bright as a single lamp.",
+    "Thinking the lamp nearest the cell is brightest in a series circuit. All identical lamps in series are equally bright.",
+    "Forgetting that an open switch anywhere in a series loop turns **everything** off.",
+    "Saying \"the current is used up\" by the first lamp. The current flows all the way round the loop."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "**Match or name symbols:** draw lines from names to symbols, or write the name under a symbol.",
+    "**Draw a circuit diagram** from a picture or description — use a ruler and the correct symbols.",
+    "**Compare brightness:** \"Which circuit has the brightest lamp?\" — count cells and count lamps in series.",
+    "**Predict and explain** what happens when a lamp breaks or a switch opens, in series and in parallel.",
+    "**Switch puzzles:** which switches to close to make only one lamp or buzzer work.",
+    "**Investigations:** variables, predictions and conclusions about the number of cells or lamps."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Circuits — practice",
+   "timed": false,
+   "intro": "Count cells, count lamps, and look for junctions to decide series or parallel. Check each worked solution after you answer.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 20,
+     "calc": true,
+     "questions": [
+      {
+       "p": "Look at this circuit symbol.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 90\" width=\"240\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"40\" y1=\"55\" x2=\"110\" y2=\"55\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(120 55) rotate(0)\"><line x1=\"-10\" y1=\"0\" x2=\"-10\" y2=\"-8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"10\" y1=\"0\" x2=\"10\" y2=\"-8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M-17,-8 L17,-8 A17,17 0 0 0 -17,-8 Z\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"130\" y1=\"55\" x2=\"200\" y2=\"55\" stroke=\"#0f1b33\" stroke-width=\"2\"/></svg>",
+       "q": "What does this symbol show?",
+       "c": [
+        "a lamp",
+        "a cell",
+        "a buzzer",
+        "an open switch"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Electric circuits",
+       "e": "A dome shape on two short legs is the symbol for a buzzer."
+      },
+      {
+       "t": "num",
+       "p": "Look at this circuit.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 265\" width=\"500\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"90\" y1=\"50\" x2=\"181\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(202 50) rotate(0.0)\"><line x1=\"-21\" y1=\"-18\" x2=\"-21\" y2=\"18\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"-9\" y1=\"-9\" x2=\"-9\" y2=\"9\" stroke=\"#0f1b33\" stroke-width=\"6\"/><line x1=\"-9\" y1=\"0\" x2=\"9\" y2=\"0\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"9\" y1=\"-18\" x2=\"9\" y2=\"18\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"21\" y1=\"-9\" x2=\"21\" y2=\"9\" stroke=\"#0f1b33\" stroke-width=\"6\"/></g><line x1=\"223\" y1=\"50\" x2=\"313\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(330 50) rotate(0)\"><circle cx=\"-14\" cy=\"0\" r=\"3\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"0\" r=\"3\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-11\" y1=\"0\" x2=\"11\" y2=\"0\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"347\" y1=\"50\" x2=\"410\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"410\" y1=\"50\" x2=\"410\" y2=\"240\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"410\" y1=\"240\" x2=\"260\" y2=\"240\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(250 240) rotate(0)\"><line x1=\"-10\" y1=\"0\" x2=\"-10\" y2=\"-8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"10\" y1=\"0\" x2=\"10\" y2=\"-8\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M-17,-8 L17,-8 A17,17 0 0 0 -17,-8 Z\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"240\" y1=\"240\" x2=\"90\" y2=\"240\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"90\" y1=\"240\" x2=\"90\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"410\" y1=\"145\" x2=\"263\" y2=\"145\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(250 145) rotate(0)\"><circle cx=\"0\" cy=\"0\" r=\"13\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"-9.2\" x2=\"9.2\" y2=\"9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"9.2\" x2=\"9.2\" y2=\"-9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"237\" y1=\"145\" x2=\"90\" y2=\"145\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"145\" r=\"4.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"410\" cy=\"145\" r=\"4.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/></svg>",
+       "q": "(a) How many cells are in the battery?",
+       "ans": [
+        2
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Electric circuits",
+       "e": "There are two pairs of long-and-short lines, so 2 cells."
+      },
+      {
+       "t": "text",
+       "p": "Look at this circuit.",
+       "q": "(b) Is this a series circuit or a parallel circuit?",
+       "ans": [
+        "parallel",
+        "parallel circuit"
+       ],
+       "m": 1,
+       "s": "Electric circuits",
+       "e": "The lamp and the buzzer are on separate branches joined at two junctions, so there is more than one path: it is a parallel circuit."
+      },
+      {
+       "t": "text",
+       "q": "What is the name of the dot drawn where three or more wires meet in a circuit diagram?",
+       "ans": [
+        "junction",
+        "a junction",
+        "junction point"
+       ],
+       "m": 1,
+       "s": "Electric circuits",
+       "e": "The dot shows a junction, where the current can split or join."
+      },
+      {
+       "q": "A circuit has one cell and one lamp. A second identical lamp is added **in series**. What happens to the brightness of the first lamp?",
+       "c": [
+        "It gets brighter.",
+        "It stays the same.",
+        "It goes out.",
+        "It gets dimmer."
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Electric circuits",
+       "e": "In series the push of the cell is shared between the two lamps, so both are dimmer than one lamp alone."
+      },
+      {
+       "q": "Two lamps are connected in **parallel** to a cell. One lamp breaks. What happens to the other lamp?",
+       "c": [
+        "It stays on at the same brightness.",
+        "It goes out.",
+        "It gets much brighter.",
+        "It flickers and goes out."
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Electric circuits",
+       "e": "The other lamp is on its own branch, which is still a complete loop, so it stays on at the same brightness."
+      },
+      {
+       "t": "num",
+       "q": "Sara has three identical lamps connected in series with a cell. All three are lit. She unscrews one lamp. How many lamps are lit now?",
+       "ans": [
+        0
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Electric circuits",
+       "e": "In series there is only one path. Unscrewing one lamp makes a gap, so no current flows and all 3 lamps go out: 0 lamps are lit."
+      },
+      {
+       "p": "All the cells and lamps are identical.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 545 165\" width=\"545\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"20\" y1=\"45\" x2=\"79\" y2=\"45\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(85 45) rotate(0.0)\"><line x1=\"-6\" y1=\"-18\" x2=\"-6\" y2=\"18\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"6\" y1=\"-9\" x2=\"6\" y2=\"9\" stroke=\"#0f1b33\" stroke-width=\"6\"/></g><line x1=\"91\" y1=\"45\" x2=\"150\" y2=\"45\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"150\" y1=\"45\" x2=\"150\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"150\" y1=\"150\" x2=\"98\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(85 150) rotate(0)\"><circle cx=\"0\" cy=\"0\" r=\"13\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"-9.2\" x2=\"9.2\" y2=\"9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"9.2\" x2=\"9.2\" y2=\"-9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"72\" y1=\"150\" x2=\"20\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"20\" y1=\"150\" x2=\"20\" y2=\"45\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"85\" y=\"22\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">X</text><line x1=\"205\" y1=\"45\" x2=\"264\" y2=\"45\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(270 45) rotate(0.0)\"><line x1=\"-6\" y1=\"-18\" x2=\"-6\" y2=\"18\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"6\" y1=\"-9\" x2=\"6\" y2=\"9\" stroke=\"#0f1b33\" stroke-width=\"6\"/></g><line x1=\"276\" y1=\"45\" x2=\"335\" y2=\"45\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"335\" y1=\"45\" x2=\"335\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"335\" y1=\"150\" x2=\"309\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(296 150) rotate(0)\"><circle cx=\"0\" cy=\"0\" r=\"13\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"-9.2\" x2=\"9.2\" y2=\"9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"9.2\" x2=\"9.2\" y2=\"-9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"283\" y1=\"150\" x2=\"257\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(244 150) rotate(0)\"><circle cx=\"0\" cy=\"0\" r=\"13\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"-9.2\" x2=\"9.2\" y2=\"9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"9.2\" x2=\"9.2\" y2=\"-9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"231\" y1=\"150\" x2=\"205\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"205\" y1=\"150\" x2=\"205\" y2=\"45\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"270\" y=\"22\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">Y</text><line x1=\"390\" y1=\"45\" x2=\"434\" y2=\"45\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(455 45) rotate(0.0)\"><line x1=\"-21\" y1=\"-18\" x2=\"-21\" y2=\"18\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"-9\" y1=\"-9\" x2=\"-9\" y2=\"9\" stroke=\"#0f1b33\" stroke-width=\"6\"/><line x1=\"-9\" y1=\"0\" x2=\"9\" y2=\"0\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"9\" y1=\"-18\" x2=\"9\" y2=\"18\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"21\" y1=\"-9\" x2=\"21\" y2=\"9\" stroke=\"#0f1b33\" stroke-width=\"6\"/></g><line x1=\"476\" y1=\"45\" x2=\"520\" y2=\"45\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"520\" y1=\"45\" x2=\"520\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"520\" y1=\"150\" x2=\"468\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(455 150) rotate(0)\"><circle cx=\"0\" cy=\"0\" r=\"13\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"-9.2\" x2=\"9.2\" y2=\"9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"9.2\" x2=\"9.2\" y2=\"-9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"442\" y1=\"150\" x2=\"390\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"390\" y1=\"150\" x2=\"390\" y2=\"45\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"455\" y=\"22\" text-anchor=\"middle\" font-size=\"15\" font-weight=\"bold\" fill=\"#0f1b33\">Z</text></svg>",
+       "q": "Which list puts the circuits in order from the **brightest** lamp to the **dimmest** lamp?",
+       "c": [
+        "X, Y, Z",
+        "Z, X, Y",
+        "Y, X, Z",
+        "Z, Y, X"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Electric circuits",
+       "e": "Z has two cells and one lamp (brightest). X has one cell and one lamp (normal). Y has one cell and two lamps in series (dimmest). Order: Z, X, Y."
+      },
+      {
+       "p": "Look at this circuit.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 500 285\" width=\"500\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"90\" y1=\"50\" x2=\"180\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(186 50) rotate(0.0)\"><line x1=\"-6\" y1=\"-18\" x2=\"-6\" y2=\"18\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"6\" y1=\"-9\" x2=\"6\" y2=\"9\" stroke=\"#0f1b33\" stroke-width=\"6\"/></g><line x1=\"192\" y1=\"50\" x2=\"297\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(314 50) rotate(0)\"><circle cx=\"-14\" cy=\"0\" r=\"3\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"0\" r=\"3\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-11.5\" y1=\"-1.5\" x2=\"12\" y2=\"-15\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"331\" y1=\"50\" x2=\"410\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"410\" y1=\"50\" x2=\"410\" y2=\"240\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"410\" y1=\"240\" x2=\"315\" y2=\"240\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(298 240) rotate(0)\"><circle cx=\"-14\" cy=\"0\" r=\"3\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"0\" r=\"3\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-11.5\" y1=\"-1.5\" x2=\"12\" y2=\"-15\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"281\" y1=\"240\" x2=\"215\" y2=\"240\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(202 240) rotate(0)\"><circle cx=\"0\" cy=\"0\" r=\"13\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"-9.2\" x2=\"9.2\" y2=\"9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"9.2\" x2=\"9.2\" y2=\"-9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"189\" y1=\"240\" x2=\"90\" y2=\"240\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"90\" y1=\"240\" x2=\"90\" y2=\"50\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"410\" y1=\"145\" x2=\"315\" y2=\"145\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(298 145) rotate(0)\"><circle cx=\"-14\" cy=\"0\" r=\"3\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"14\" cy=\"0\" r=\"3\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-11.5\" y1=\"-1.5\" x2=\"12\" y2=\"-15\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"281\" y1=\"145\" x2=\"215\" y2=\"145\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g transform=\"translate(202 145) rotate(0)\"><circle cx=\"0\" cy=\"0\" r=\"13\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"-9.2\" x2=\"9.2\" y2=\"9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"-9.2\" y1=\"9.2\" x2=\"9.2\" y2=\"-9.2\" stroke=\"#0f1b33\" stroke-width=\"2\"/></g><line x1=\"189\" y1=\"145\" x2=\"90\" y2=\"145\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"90\" cy=\"145\" r=\"4.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><circle cx=\"410\" cy=\"145\" r=\"4.5\" fill=\"#0f1b33\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"186\" y=\"24\" text-anchor=\"middle\" fill=\"#0f1b33\">cell</text><text x=\"314\" y=\"24\" text-anchor=\"middle\" fill=\"#0f1b33\">S3</text><text x=\"298\" y=\"172\" text-anchor=\"middle\" fill=\"#0f1b33\">S1</text><text x=\"178\" y=\"128\" text-anchor=\"middle\" fill=\"#0f1b33\">P</text><text x=\"298\" y=\"272\" text-anchor=\"middle\" fill=\"#0f1b33\">S2</text><text x=\"178\" y=\"272\" text-anchor=\"middle\" fill=\"#0f1b33\">Q</text></svg>",
+       "q": "Which switches must be closed so that lamp Q lights but lamp P does **not**?",
+       "c": [
+        "S2 only",
+        "S1 and S3",
+        "S2 and S3",
+        "S1, S2 and S3"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Electric circuits",
+       "e": "S3 must be closed so current can flow from the cell, and S2 must be closed to complete lamp Q's branch. S1 stays open so P is off."
+      },
+      {
+       "q": "Which change would make a buzzer in a series circuit **louder**?",
+       "c": [
+        "Add another buzzer in series.",
+        "Add another cell, facing the same way.",
+        "Open the switch.",
+        "Use a longer piece of plastic instead of a wire."
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Electric circuits",
+       "e": "Another cell gives a bigger push, so the buzzer is louder. Extra components in series make it quieter; an open switch or plastic (an insulator) stops the current."
+      },
+      {
+       "t": "open",
+       "q": "Describe the circuit diagram you would draw for one cell, a closed switch and two lamps in series. Then draw it on paper. [2]",
+       "ms": "1 mark: correct symbols for cell (long thin + short thick line), closed switch and two lamps (circle with ×). 1 mark: all in ONE complete loop with no gaps, drawn with straight lines. Do not accept pictures of components.",
+       "m": 2,
+       "s": "Electric circuits",
+       "e": "A single rectangular loop: the cell symbol on one side, the closed switch on another, and the two lamp symbols one after the other on the same loop."
+      },
+      {
+       "t": "open",
+       "q": "Explain why the lights in a house are connected in parallel, not in series. Give two reasons. [2]",
+       "ms": "1 mark each, any two: each light can be switched on/off on its own; if one bulb breaks the others stay on; each light gets the full push so all are bright / adding more lights does not make the others dimmer.",
+       "m": 2,
+       "s": "Electric circuits",
+       "e": "In parallel, each light is on its own branch: it can be switched on and off separately, a broken bulb does not turn off the others, and every light is fully bright."
+      },
+      {
+       "t": "open",
+       "q": "Hassan builds a series circuit with a cell, a switch and a lamp. He closes the switch but the lamp does not light. Suggest two possible reasons. [2]",
+       "ms": "1 mark each, any two: the lamp is broken/blown; the cell is flat/used up; a wire is loose / there is a gap in the circuit; the switch is faulty/not closed properly; an insulator is in the circuit; two cells face opposite ways.",
+       "m": 2,
+       "s": "Electric circuits",
+       "e": "For example: the lamp has blown, or the cell is flat, or a wire is not properly connected, leaving a gap in the circuit."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "A circuit must be a **complete loop**; an open switch or a gap stops the current.",
+    "Learn the eight symbols: cell, battery, lamp, buzzer, open switch, closed switch, wire, junction.",
+    "**Series:** one path; more lamps → dimmer; one breaks → all go out.",
+    "**Parallel:** branches; each lamp as bright as one alone; one breaks → the others stay on.",
+    "More cells → brighter lamps and louder buzzers (too many can blow a lamp).",
+    "Draw with a ruler, use symbols, no gaps, dots at junctions."
+   ]
+  }
+ ]
+}

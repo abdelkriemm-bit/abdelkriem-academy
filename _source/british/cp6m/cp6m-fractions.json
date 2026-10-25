@@ -1,0 +1,571 @@
+{
+ "slug": "cp6m-fractions",
+ "title": "Fractions: Division, Operators and Simplest Form",
+ "kicker": "Cambridge Primary Checkpoint · Mathematics 0096 · Stage 6 · Number",
+ "summary": "See every fraction as a division, find fractions of amounts with proper and improper fractions, and write fractions in their simplest form — with bar models, worked examples and a Checkpoint-style quiz.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Understand that a fraction is the numerator divided by the denominator — for proper and improper fractions (6Nf.01)",
+    "Understand that proper and improper fractions can act as operators: find 3/5 of 40 or 7/4 of 12 (6Nf.02)",
+    "Use equivalent fractions to write fractions in their simplest form (6Nf.03)"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "numerator",
+     "البسط — the top number: how many parts you have"
+    ],
+    [
+     "denominator",
+     "المقام — the bottom number: how many equal parts make one whole"
+    ],
+    [
+     "proper fraction",
+     "كسر حقيقي — numerator smaller than denominator, worth less than 1: 3/4"
+    ],
+    [
+     "improper fraction",
+     "كسر غير حقيقي — numerator equal to or bigger than denominator, worth 1 or more: 7/4"
+    ],
+    [
+     "mixed number",
+     "عدد كسري — a whole number and a proper fraction: 1 3/4 (one and three-quarters)"
+    ],
+    [
+     "operator",
+     "مؤثر / عملية — a fraction that acts on a number: 3/5 of 40 means 3/5 × 40"
+    ],
+    [
+     "equivalent fractions",
+     "كسور متكافئة — fractions with the same value: 3/4 = 6/8"
+    ],
+    [
+     "simplest form",
+     "أبسط صورة — numerator and denominator have no common factor except 1"
+    ],
+    [
+     "common factor",
+     "عامل مشترك — a number that divides both numbers exactly"
+    ],
+    [
+     "highest common factor (HCF)",
+     "العامل المشترك الأكبر — the biggest common factor"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. A fraction is a division"
+  },
+  {
+   "type": "p",
+   "text": "The fraction line means **divide**. So 3/4 means 3 ÷ 4, and 3 ÷ 4 can be written as 3/4. The numerator is the number being shared; the denominator is the number of equal shares."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 190\" width=\"540\" font-family=\"Arial, sans-serif\"><path d=\"M70,80 L70,34 A46,46 0 0 1 116,80 Z\" fill=\"#f3c95a\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M70,80 L116,80 A46,46 0 0 1 70,126 Z\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M70,80 L70,126 A46,46 0 0 1 24,80 Z\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M70,80 L24,80 A46,46 0 0 1 70,34 Z\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"70\" y=\"150\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">pizza 1</text><path d=\"M180,80 L180,34 A46,46 0 0 1 226,80 Z\" fill=\"#f3c95a\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M180,80 L226,80 A46,46 0 0 1 180,126 Z\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M180,80 L180,126 A46,46 0 0 1 134,80 Z\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M180,80 L134,80 A46,46 0 0 1 180,34 Z\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"180\" y=\"150\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">pizza 2</text><path d=\"M290,80 L290,34 A46,46 0 0 1 336,80 Z\" fill=\"#f3c95a\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M290,80 L336,80 A46,46 0 0 1 290,126 Z\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M290,80 L290,126 A46,46 0 0 1 244,80 Z\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M290,80 L244,80 A46,46 0 0 1 290,34 Z\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"290\" y=\"150\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">pizza 3</text><defs><marker id=\"ah\" markerWidth=\"10\" markerHeight=\"10\" refX=\"8\" refY=\"5\" orient=\"auto\"><path d=\"M0,0 L10,5 L0,10 z\" fill=\"#0f1b33\"/></marker></defs><line x1=\"350\" y1=\"80\" x2=\"398\" y2=\"80\" stroke=\"#0f1b33\" stroke-width=\"2\" marker-end=\"url(#ah)\"/><path d=\"M460,80 L460,34 A46,46 0 0 1 506,80 Z\" fill=\"#f3c95a\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M460,80 L506,80 A46,46 0 0 1 460,126 Z\" fill=\"#f3c95a\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M460,80 L460,126 A46,46 0 0 1 414,80 Z\" fill=\"#f3c95a\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M460,80 L414,80 A46,46 0 0 1 460,34 Z\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"460\" y=\"150\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">one share</text><text x=\"270\" y=\"22\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">3 pizzas shared equally by 4 people: 3 ÷ 4</text><text x=\"270\" y=\"180\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">Each person gets one quarter of every pizza = 3 quarters = 3/4</text></svg>",
+   "caption": "3 ÷ 4 = 3/4. Each person gets 3/4 of a pizza."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Division",
+    "As a fraction",
+    "Value"
+   ],
+   "rows": [
+    [
+     "2 ÷ 5",
+     "2/5",
+     "less than 1 (proper fraction)"
+    ],
+    [
+     "5 ÷ 8",
+     "5/8",
+     "less than 1"
+    ],
+    [
+     "7 ÷ 3",
+     "7/3",
+     "more than 1: 7 ÷ 3 = 2 remainder 1 → 2 1/3"
+    ],
+    [
+     "12 ÷ 4",
+     "12/4",
+     "exactly 3"
+    ],
+    [
+     "9 ÷ 9",
+     "9/9",
+     "exactly 1"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Improper fractions to mixed numbers.** Because 17/5 means 17 ÷ 5, divide: 17 ÷ 5 = 3 remainder 2. The 3 is the whole number and the remainder 2 is still to be shared by 5, so 17/5 = **3 2/5** (three and two-fifths)."
+  },
+  {
+   "type": "p",
+   "text": "**Mixed numbers to improper fractions.** Reverse it: 3 2/5 = (3 × 5 + 2)/5 = 17/5."
+  },
+  {
+   "type": "p",
+   "text": "**Remainders as fractions.** Sharing 22 metres of rope between 5 people: 22 ÷ 5 = 22/5 = 4 2/5 metres each. The remainder 2 is divided by 5 too."
+  },
+  {
+   "type": "h2",
+   "text": "2. Fractions as operators: \"a fraction of a number\""
+  },
+  {
+   "type": "p",
+   "text": "In maths, **of** means **multiply**. 3/5 of 40 means 3/5 × 40. The fraction is an **operator** — it does something to the number."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Divide the number by the **denominator** to find one part (40 ÷ 5 = 8).",
+    "Multiply by the **numerator** to find the parts you need (8 × 3 = 24)."
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 196\" width=\"540\" font-family=\"Arial, sans-serif\"><rect x=\"40\" y=\"60\" width=\"92\" height=\"50\" fill=\"#9fc0ea\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"86\" y=\"91\" font-size=\"16\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">8</text><rect x=\"132\" y=\"60\" width=\"92\" height=\"50\" fill=\"#9fc0ea\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"178\" y=\"91\" font-size=\"16\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">8</text><rect x=\"224\" y=\"60\" width=\"92\" height=\"50\" fill=\"#9fc0ea\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"270\" y=\"91\" font-size=\"16\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">8</text><rect x=\"316\" y=\"60\" width=\"92\" height=\"50\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"362\" y=\"91\" font-size=\"16\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">8</text><rect x=\"408\" y=\"60\" width=\"92\" height=\"50\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"454\" y=\"91\" font-size=\"16\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">8</text><line x1=\"40\" y1=\"40\" x2=\"500\" y2=\"40\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"40\" y1=\"34\" x2=\"40\" y2=\"46\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"500\" y1=\"34\" x2=\"500\" y2=\"46\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"270\" y=\"30\" font-size=\"15\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">40</text><line x1=\"40\" y1=\"130\" x2=\"316\" y2=\"130\" stroke=\"#c0392b\" stroke-width=\"1.5\"/><line x1=\"40\" y1=\"124\" x2=\"40\" y2=\"136\" stroke=\"#c0392b\" stroke-width=\"1.5\"/><line x1=\"316\" y1=\"124\" x2=\"316\" y2=\"136\" stroke=\"#c0392b\" stroke-width=\"1.5\"/><text x=\"178\" y=\"156\" font-size=\"15\" text-anchor=\"middle\" fill=\"#c0392b\" font-weight=\"bold\">3/5 of 40 = 3 × 8 = 24</text><text x=\"270\" y=\"186\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">Divide 40 into 5 equal parts (40 ÷ 5 = 8), then take 3 parts.</text></svg>",
+   "caption": "Bar model for 3/5 of 40."
+  },
+  {
+   "type": "p",
+   "text": "**Improper fractions as operators** work the same way, but the answer is **bigger** than the starting number, because the fraction is more than 1 whole."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 184\" width=\"540\" font-family=\"Arial, sans-serif\"><rect x=\"40\" y=\"40\" width=\"75\" height=\"42\" fill=\"#8fd19a\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"77.5\" y=\"67\" font-size=\"16\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">3</text><rect x=\"115\" y=\"40\" width=\"75\" height=\"42\" fill=\"#8fd19a\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"152.5\" y=\"67\" font-size=\"16\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">3</text><rect x=\"190\" y=\"40\" width=\"75\" height=\"42\" fill=\"#8fd19a\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"227.5\" y=\"67\" font-size=\"16\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">3</text><rect x=\"265\" y=\"40\" width=\"75\" height=\"42\" fill=\"#8fd19a\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"302.5\" y=\"67\" font-size=\"16\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">3</text><rect x=\"40\" y=\"100\" width=\"75\" height=\"42\" fill=\"#8fd19a\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"77.5\" y=\"127\" font-size=\"16\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">3</text><rect x=\"115\" y=\"100\" width=\"75\" height=\"42\" fill=\"#8fd19a\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"152.5\" y=\"127\" font-size=\"16\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">3</text><rect x=\"190\" y=\"100\" width=\"75\" height=\"42\" fill=\"#8fd19a\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"227.5\" y=\"127\" font-size=\"16\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">3</text><rect x=\"265\" y=\"100\" width=\"75\" height=\"42\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"302.5\" y=\"127\" font-size=\"16\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">3</text><text x=\"360\" y=\"66\" font-size=\"14\" text-anchor=\"start\" fill=\"#0f1b33\">4/4 = 12 (one whole)</text><text x=\"360\" y=\"126\" font-size=\"14\" text-anchor=\"start\" fill=\"#0f1b33\">3/4 = 9</text><text x=\"270\" y=\"24\" font-size=\"13\" text-anchor=\"middle\" fill=\"#0f1b33\">Each quarter of 12 is 12 ÷ 4 = 3</text><text x=\"270\" y=\"172\" font-size=\"15\" text-anchor=\"middle\" fill=\"#c0392b\" font-weight=\"bold\">7/4 of 12 = 7 × 3 = 21 (more than 12!)</text></svg>",
+   "caption": "7/4 of 12: seven quarters of 12."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Question",
+    "÷ denominator",
+    "× numerator",
+    "Answer",
+    "Bigger or smaller?"
+   ],
+   "rows": [
+    [
+     "2/3 of 27",
+     "27 ÷ 3 = 9",
+     "9 × 2",
+     "18",
+     "smaller (proper)"
+    ],
+    [
+     "5/8 of 64",
+     "64 ÷ 8 = 8",
+     "8 × 5",
+     "40",
+     "smaller (proper)"
+    ],
+    [
+     "3/2 of 18",
+     "18 ÷ 2 = 9",
+     "9 × 3",
+     "27",
+     "bigger (improper)"
+    ],
+    [
+     "9/5 of 35",
+     "35 ÷ 5 = 7",
+     "7 × 9",
+     "63",
+     "bigger (improper)"
+    ],
+    [
+     "3/4 of 1 hour (60 minutes)",
+     "60 ÷ 4 = 15",
+     "15 × 3",
+     "45 minutes",
+     "smaller (proper)"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Working backwards.** If 2/3 of a number is 18, then 1/3 of it is 18 ÷ 2 = 9, and the whole number (3/3) is 9 × 3 = 27. Divide by the numerator to find one part, then multiply by the denominator."
+  },
+  {
+   "type": "h2",
+   "text": "3. Equivalent fractions and simplest form"
+  },
+  {
+   "type": "p",
+   "text": "Equivalent fractions have the **same value**. You make them by multiplying (or dividing) the numerator **and** the denominator by the **same** number."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 220\" width=\"540\" font-family=\"Arial, sans-serif\"><rect x=\"90\" y=\"20\" width=\"100\" height=\"36\" fill=\"#9fc0ea\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"190\" y=\"20\" width=\"100\" height=\"36\" fill=\"#9fc0ea\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"290\" y=\"20\" width=\"100\" height=\"36\" fill=\"#9fc0ea\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"390\" y=\"20\" width=\"100\" height=\"36\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"45\" y=\"34\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\">3</text><line x1=\"38.7\" y1=\"38\" x2=\"51.3\" y2=\"38\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"45\" y=\"53\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\">4</text><rect x=\"90\" y=\"76\" width=\"50\" height=\"36\" fill=\"#9fc0ea\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"140\" y=\"76\" width=\"50\" height=\"36\" fill=\"#9fc0ea\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"190\" y=\"76\" width=\"50\" height=\"36\" fill=\"#9fc0ea\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"240\" y=\"76\" width=\"50\" height=\"36\" fill=\"#9fc0ea\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"290\" y=\"76\" width=\"50\" height=\"36\" fill=\"#9fc0ea\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"340\" y=\"76\" width=\"50\" height=\"36\" fill=\"#9fc0ea\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"390\" y=\"76\" width=\"50\" height=\"36\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"440\" y=\"76\" width=\"50\" height=\"36\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"45\" y=\"90\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\">6</text><line x1=\"38.7\" y1=\"94\" x2=\"51.3\" y2=\"94\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"45\" y=\"109\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\">8</text><rect x=\"90\" y=\"132\" width=\"33.3\" height=\"36\" fill=\"#9fc0ea\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"123.3\" y=\"132\" width=\"33.3\" height=\"36\" fill=\"#9fc0ea\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"156.7\" y=\"132\" width=\"33.3\" height=\"36\" fill=\"#9fc0ea\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"190\" y=\"132\" width=\"33.3\" height=\"36\" fill=\"#9fc0ea\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"223.3\" y=\"132\" width=\"33.3\" height=\"36\" fill=\"#9fc0ea\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"256.7\" y=\"132\" width=\"33.3\" height=\"36\" fill=\"#9fc0ea\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"290\" y=\"132\" width=\"33.3\" height=\"36\" fill=\"#9fc0ea\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"323.3\" y=\"132\" width=\"33.3\" height=\"36\" fill=\"#9fc0ea\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"356.7\" y=\"132\" width=\"33.3\" height=\"36\" fill=\"#9fc0ea\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"390\" y=\"132\" width=\"33.3\" height=\"36\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"423.3\" y=\"132\" width=\"33.3\" height=\"36\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"456.7\" y=\"132\" width=\"33.3\" height=\"36\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"45\" y=\"146\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\">9</text><line x1=\"34.3\" y1=\"150\" x2=\"55.7\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"45\" y=\"165\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\">12</text><line x1=\"390\" y1=\"10\" x2=\"390\" y2=\"194\" stroke=\"#c0392b\" stroke-width=\"2\" stroke-dasharray=\"6 4\"/><text x=\"270\" y=\"210\" font-size=\"14\" text-anchor=\"middle\" fill=\"#0f1b33\" font-weight=\"bold\">The shaded lengths are equal: 3/4 = 6/8 = 9/12</text></svg>",
+   "caption": "A fraction wall: 3/4, 6/8 and 9/12 cover the same length."
+  },
+  {
+   "type": "p",
+   "text": "3/4 = 6/8 (× 2 top and bottom) = 9/12 (× 3 top and bottom). Going the other way, dividing top and bottom by a common factor, **simplifies** the fraction."
+  },
+  {
+   "type": "p",
+   "text": "**Method — writing a fraction in its simplest form:**"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Find a common factor of the numerator and denominator (try 2, 3, 5 … or use your times tables).",
+    "Divide both by it.",
+    "Repeat until the only common factor is 1. (Quicker: divide by the highest common factor in one step.)",
+    "Check: can any number except 1 divide both? If not, you are finished."
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Fraction",
+    "Working",
+    "Simplest form"
+   ],
+   "rows": [
+    [
+     "18/24",
+     "÷ 6 (HCF) → 3/4",
+     "3/4"
+    ],
+    [
+     "20/35",
+     "÷ 5 → 4/7",
+     "4/7"
+    ],
+    [
+     "36/48",
+     "÷ 2 → 18/24, ÷ 2 → 9/12, ÷ 3 → 3/4 (or ÷ 12 in one step)",
+     "3/4"
+    ],
+    [
+     "45/60",
+     "÷ 15 → 3/4",
+     "3/4"
+    ],
+    [
+     "30/12",
+     "÷ 6 → 5/2",
+     "5/2 = 2 1/2"
+    ],
+    [
+     "7/12",
+     "7 and 12 have no common factor except 1",
+     "already 7/12"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Missing numbers.** 4/5 = ☐/35: the denominator was multiplied by 7 (5 × 7 = 35), so multiply the numerator by 7 too: 4 × 7 = 28. So 4/5 = 28/35."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "افتكر القاعدة دي",
+   "items": [
+    "خط الكسر معناه «قسمة»: ٣/٤ = ٣ ÷ ٤. يعني ٣ بيتزا بين ٤ أشخاص = كل واحد ٣/٤.",
+    "«٣/٥ من ٤٠» = اقسم على المقام (٤٠ ÷ ٥ = ٨) وبعدين اضرب في البسط (٨ × ٣ = ٢٤). لو الكسر أكبر من ١ الناتج هيطلع أكبر من العدد.",
+    "أبسط صورة: اقسم البسط والمقام على نفس العدد لحد ما مايبقاش فيه عامل مشترك غير ١."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — 4 friends share 3 pizzas equally. What fraction of a pizza does each friend get? [1 mark]"
+  },
+  {
+   "type": "p",
+   "text": "Sharing means dividing: 3 ÷ 4 = **3/4** of a pizza. **Common mistake:** writing 4/3 — the number being shared (3 pizzas) goes on top."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — Write 23/6 as a mixed number. [1 mark]"
+  },
+  {
+   "type": "p",
+   "text": "23 ÷ 6 = 3 remainder 5 (because 3 × 6 = 18 and 23 − 18 = 5). The remainder is still divided by 6: **3 5/6**. **Check:** 3 × 6 + 5 = 23 ✓."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — Work out (a) 5/8 of 56 (b) 9/4 of 20. [2 marks]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) 56 ÷ 8 = 7, then 7 × 5 = **35**.",
+    "(b) 20 ÷ 4 = 5, then 5 × 9 = **45**. The answer is more than 20 because 9/4 is more than 1 whole."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — Write 42/56 in its simplest form. [1 mark]"
+  },
+  {
+   "type": "p",
+   "text": "Both are in the 7 times table: 42 ÷ 7 = 6 and 56 ÷ 7 = 8, giving 6/8. 6 and 8 are both even: ÷ 2 gives **3/4**. (The HCF of 42 and 56 is 14, so ÷ 14 does it in one step.) **Common mistake:** stopping at 6/8 — check again for a common factor."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — Hana has 60 stickers. She gives 2/5 of them to her brother. Then she gives 1/4 of the stickers she has left to her friend. How many stickers does Hana keep? [2 marks]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "2/5 of 60: 60 ÷ 5 = 12, 12 × 2 = 24 given to her brother.",
+    "Left: 60 − 24 = 36.",
+    "1/4 of 36 = 36 ÷ 4 = 9 given to her friend.",
+    "Keeps 36 − 9 = **27** stickers."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Common mistake:** finding 1/4 of 60 instead of 1/4 of the stickers that are **left**. Underline \"the rest\" or \"left\" in the question. (A method mark is usually given for 24 or 36 seen.)"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** — 3/4 of a number is 27. What is the number? [1 mark]"
+  },
+  {
+   "type": "p",
+   "text": "3 quarters = 27, so 1 quarter = 27 ÷ 3 = 9. The whole = 4 quarters = 9 × 4 = **36**. **Check:** 3/4 of 36 = 36 ÷ 4 × 3 = 27 ✓."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Writing the division the wrong way round: 3 ÷ 4 = 3/4, not 4/3.",
+    "For \"3/5 of 40\", dividing by the numerator and multiplying by the denominator. Divide by the **bottom**, multiply by the **top**.",
+    "Thinking a fraction of a number is always smaller. With an improper fraction (7/4 of 12) the answer is bigger.",
+    "Changing only the numerator or only the denominator when making equivalent fractions.",
+    "Adding or subtracting the same number top and bottom: 3/4 is not equal to 4/5.",
+    "Not simplifying fully: 6/8 is not the simplest form of 42/56 — 3/4 is."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "\"Write 5 ÷ 8 as a fraction\" or \"Which fraction is equal to 9 ÷ 4? Ring it.\"",
+    "Sharing stories: \"7 cakes are shared equally between 3 children…\" — write numerator ÷ denominator.",
+    "\"Work out 3/5 of 45\" in a box, often with an improper fraction to check you understand the answer can be bigger.",
+    "Multi-step word problems (\"… of the rest\"): show each step so you can get a method mark.",
+    "\"Write 18/24 in its simplest form\" — the answer must be fully simplified for the mark.",
+    "\"Tick the fraction that is in its simplest form\" or matching equivalent fractions with lines.",
+    "Missing-number equivalences: 4/5 = ☐/35 or 12/☐ = 3/4."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Fractions — practice",
+   "timed": false,
+   "intro": "14 questions, from easy to Checkpoint-hard. No calculator. Type fractions like 3/4 and mixed numbers like 3 2/5 (whole number, space, fraction). For the explain question, mark yourself with the mark scheme.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 20,
+     "calc": false,
+     "questions": [
+      {
+       "t": "num",
+       "q": "Write 3 ÷ 8 as a fraction.",
+       "ans": [
+        "3/8",
+        0.375
+       ],
+       "m": 1,
+       "s": "Fractions as division",
+       "e": "The fraction line means divide: 3 ÷ 8 = 3/8."
+      },
+      {
+       "q": "Which fraction is equal to 9 ÷ 4?",
+       "c": [
+        "4/9",
+        "1 1/4",
+        "9/4",
+        "3/4"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Fractions as division",
+       "e": "9 ÷ 4 = 9/4 (= 2 1/4). 4/9 is the division the wrong way round; 1 1/4 = 5/4 and 3/4 are not equal to 9/4."
+      },
+      {
+       "t": "num",
+       "q": "5 pizzas are shared equally between 8 children. What fraction of a pizza does each child get?",
+       "ans": [
+        "5/8",
+        0.625
+       ],
+       "m": 1,
+       "s": "Fractions as division",
+       "e": "Sharing is dividing: 5 ÷ 8 = 5/8 of a pizza each."
+      },
+      {
+       "t": "text",
+       "q": "Write 17/5 as a mixed number.",
+       "ans": [
+        "3 2/5",
+        "3 and 2/5",
+        "3+2/5"
+       ],
+       "m": 1,
+       "s": "Fractions as division",
+       "e": "17 ÷ 5 = 3 remainder 2, so 17/5 = 3 2/5. Check: 3 × 5 + 2 = 17 ✓."
+      },
+      {
+       "t": "num",
+       "q": "Work out 3/5 of 45.",
+       "ans": [
+        27
+       ],
+       "m": 1,
+       "s": "Fractions as operators",
+       "e": "45 ÷ 5 = 9, then 9 × 3 = 27."
+      },
+      {
+       "t": "num",
+       "q": "Work out 7/4 of 20.",
+       "ans": [
+        35
+       ],
+       "m": 1,
+       "s": "Fractions as operators",
+       "e": "20 ÷ 4 = 5, then 5 × 7 = 35. The answer is more than 20 because 7/4 is more than 1."
+      },
+      {
+       "q": "Which of these has the largest answer?",
+       "c": [
+        "2/3 of 24",
+        "5/4 of 16",
+        "3/4 of 20",
+        "1/2 of 30"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Fractions as operators",
+       "e": "2/3 of 24 = 16; 5/4 of 16 = 16 ÷ 4 × 5 = 20; 3/4 of 20 = 15; 1/2 of 30 = 15. The largest is 5/4 of 16 = 20."
+      },
+      {
+       "t": "num",
+       "q": "There are 30 children in a class. 2/5 of them are boys. How many girls are in the class?",
+       "ans": [
+        18
+       ],
+       "m": 2,
+       "s": "Fractions as operators",
+       "e": "Boys: 30 ÷ 5 = 6, 6 × 2 = 12. Girls: 30 − 12 = 18. (Or girls are 3/5: 6 × 3 = 18.) 1 mark for 12 boys seen."
+      },
+      {
+       "t": "num",
+       "q": "2/3 of a number is 18. What is the number?",
+       "ans": [
+        27
+       ],
+       "m": 1,
+       "s": "Fractions as operators",
+       "e": "2 thirds = 18, so 1 third = 18 ÷ 2 = 9. The whole = 3 thirds = 9 × 3 = 27. Check: 2/3 of 27 = 18 ✓."
+      },
+      {
+       "t": "text",
+       "q": "Write 18/24 in its simplest form.",
+       "ans": [
+        "3/4"
+       ],
+       "m": 1,
+       "s": "Simplest form",
+       "e": "The HCF of 18 and 24 is 6: 18 ÷ 6 = 3, 24 ÷ 6 = 4. Simplest form 3/4. (9/12 or 6/8 are equivalent but not fully simplified.)"
+      },
+      {
+       "q": "Which fraction is in its simplest form?",
+       "c": [
+        "7/12",
+        "6/9",
+        "10/15",
+        "14/21"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Simplest form",
+       "e": "7 and 12 have no common factor except 1, so 7/12 is in simplest form. 6/9 = 2/3 (÷ 3), 10/15 = 2/3 (÷ 5), 14/21 = 2/3 (÷ 7)."
+      },
+      {
+       "t": "num",
+       "q": "Write the missing number: 4/5 = ☐/35",
+       "ans": [
+        28
+       ],
+       "m": 1,
+       "s": "Equivalent fractions",
+       "e": "5 × 7 = 35, so multiply the numerator by 7 too: 4 × 7 = 28. 4/5 = 28/35."
+      },
+      {
+       "q": "Which is 15 ÷ 6 written as a fraction in its simplest form?",
+       "c": [
+        "6/15",
+        "15/6",
+        "2/5",
+        "5/2"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Simplest form",
+       "e": "15 ÷ 6 = 15/6. The HCF of 15 and 6 is 3: 15/6 = 5/2. (15/6 is correct but not in simplest form; 6/15 and 2/5 are the wrong way round.)"
+      },
+      {
+       "t": "open",
+       "q": "Explain why 12/16 and 15/20 are equivalent fractions.",
+       "m": 1,
+       "s": "Equivalent fractions",
+       "ms": "1 mark: shows both simplify to 3/4, e.g. 12/16 = 3/4 (÷ 4) and 15/20 = 3/4 (÷ 5); or both have the same value 0.75 / 75%; or converts both to a common denominator (e.g. 60/80 and 60/80). Do not accept 'because both numerators and denominators are 4 apart'.",
+       "e": "12/16: divide top and bottom by 4 → 3/4. 15/20: divide top and bottom by 5 → 3/4. Both are equal to 3/4, so they are equivalent."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "A fraction is a division: a/b = a ÷ b. 3 shared by 4 = 3/4 each.",
+    "Improper → mixed: divide (17 ÷ 5 = 3 r 2 → 3 2/5). Mixed → improper: whole × denominator + numerator.",
+    "Fraction of a number: ÷ by the denominator, × by the numerator. Improper fractions give a bigger answer.",
+    "Equivalent fractions: × or ÷ top and bottom by the same number.",
+    "Simplest form: divide by common factors (best: the HCF) until only 1 is left in common."
+   ]
+  }
+ ]
+}

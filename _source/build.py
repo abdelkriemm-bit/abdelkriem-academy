@@ -27,7 +27,7 @@ def head(title, desc, rtl=False):
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;800&family=Fraunces:opsz,wght@9..144,600;9..144,800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css?v=20261025b">
+<link rel="stylesheet" href="style.css?v=20261025c">
 <meta name="google-adsense-account" content="ca-pub-8885402561273130">
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8885402561273130" crossorigin="anonymous"></script>
 </head>
@@ -122,15 +122,23 @@ page("index.html","Abdelkriem Academy — Free Educational Resources | Checkpoin
      "Free educational resources by Mohamed Abdelkriem: notes, practice and video lessons for Cambridge Checkpoint 6 & 8, IGCSE 0510, Oxford GCSE, تانية بكالوريا, a complete Quran course and English from zero to pro.", home)
 
 # ---------- BRITISH HUB ----------
-brit = pagehead("Section 1","British &amp; IGCSE English","Cambridge and Oxford English, organised by year. Pick your level to see its resources.") + f'''
-<section class="block"><div class="wrap grid4">
-{card("Checkpoint 6","Cambridge Primary Checkpoint English (0058) — the complete Year 6 course, 43 lessons.","checkpoint-6.html","Year 6")}
-{card("Checkpoint 8","Cambridge Lower Secondary English 0861 — the complete Year 8 course, 48 lessons.","checkpoint-8.html","Year 8")}
+brit = pagehead("Section 1","British &amp; IGCSE","Cambridge and Oxford courses organised by year: English, and Maths and Science for the Checkpoint years.") + f'''
+<section class="block"><div class="wrap"><h2>Year 6 · Cambridge Primary Checkpoint</h2><div class="grid3">
+{card("Checkpoint 6 English","Cambridge Primary Checkpoint English (0058) — the complete Year 6 course, 43 lessons.","checkpoint-6.html","English")}
+{card("Checkpoint 6 Maths","Cambridge Primary Mathematics 0096 — the whole Stage 6 curriculum with worked examples, quizzes and full Checkpoint-style practice tests with PDFs.","checkpoint-6-maths.html","Maths")}
+{card("Checkpoint 6 Science","Cambridge Primary Science 0097 — biology, chemistry, physics, Earth and space, with diagrams, quizzes and full practice tests with PDFs.","checkpoint-6-science.html","Science")}
+</div></div></section>
+<section class="block alt"><div class="wrap"><h2>Year 8 · Cambridge Lower Secondary</h2><div class="grid3">
+{card("Checkpoint 8 English","Cambridge Lower Secondary English 0861 — the complete Year 8 course, 48 lessons.","checkpoint-8.html","English")}
+{card("Checkpoint 8 Maths","Cambridge Lower Secondary Mathematics 0862 — the whole Stage 8 curriculum with worked examples, quizzes and full end-of-year practice tests with PDFs.","checkpoint-8-maths.html","Maths")}
+{card("Checkpoint 8 Science","Cambridge Lower Secondary Science 0893 — the whole Stage 8 curriculum with diagrams, quizzes and full end-of-year practice tests with PDFs.","checkpoint-8-science.html","Science")}
+</div></div></section>
+<section class="block"><div class="wrap"><h2>Years 9 and 10 · IGCSE and International GCSE</h2><div class="grid3">
 {card("IGCSE 0510","Cambridge IGCSE English as a Second Language — the complete course, 15 lessons.","year-9-0510.html","Year 9")}
 {card("Oxford International GCSE","OxfordAQA English as a Second Language 9280 — the complete course, 18 lessons.","year-10-oxford.html","Year 10")}
-</div></section>
+</div></div></section>
 <section class="block alt"><div class="wrap split"><div><h2>Writing skills</h2><p>Step-by-step lessons for every text type: persuasive writing, articles, reports, biographies and more.</p></div>{yt(PL["writing"],"Writing skills playlist")}</div></section>'''
-page("british.html","British & IGCSE English — Abdelkriem Academy","Free resources for Cambridge Checkpoint 6 & 8, IGCSE 0510 and Oxford International GCSE English.", brit)
+page("british.html","British & IGCSE — English, Maths and Science — Abdelkriem Academy","Free courses for Cambridge Checkpoint 6 and 8 English, Maths and Science, IGCSE 0510 and Oxford International GCSE English, with practice tests.", brit)
 
 def checkpoint(fname, n, code, active="british.html"):
     def part(title, desc):

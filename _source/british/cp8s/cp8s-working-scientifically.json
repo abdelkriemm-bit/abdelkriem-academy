@@ -1,0 +1,909 @@
+{
+ "slug": "cp8s-working-scientifically",
+ "title": "Thinking and Working Scientifically: Models, Investigations and Analysing Results",
+ "kicker": "Cambridge Lower Secondary · Science 0893 · Stage 8 · Start here",
+ "summary": "Every Stage 8 science skill — analogies and formulae, hypotheses, planning, risk, keys, accurate measuring, tables, graphs, anomalies, conclusions and evaluation — with one investigation followed from start to finish.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Describe what an analogy is, use one as a model, and use symbols and formulae (8TWSm.01, 8TWSm.02, 8TWSm.03)",
+    "Decide if a hypothesis is testable, and how evidence supports or contradicts it (8TWSp.01, 8TWSp.02)",
+    "Make predictions using scientific knowledge (8TWSp.03)",
+    "Plan different types of investigation, with variables, knowing that not all investigations can be fair tests (8TWSp.04)",
+    "Make risk assessments and work safely (8TWSp.05, 8TWSc.05)",
+    "Sort, group and classify, including making and using keys (8TWSc.01)",
+    "Choose and use equipment; take accurate and precise measurements and explain why they matter (8TWSc.02, 8TWSc.04)",
+    "Decide if measurements have been repeated enough to be reliable (8TWSc.03)",
+    "Judge secondary sources for relevance and bias (8TWSc.06)",
+    "Collect and record enough results in a suitable form (8TWSc.07)",
+    "Say how accurate a prediction was; describe trends and anomalous results; make conclusions and state their limitations; evaluate and suggest improvements (8TWSa.01, 8TWSa.02, 8TWSa.03, 8TWSa.04)",
+    "Present and interpret observations and measurements (8TWSa.05)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Thinking and Working Scientifically (TWS) is how scientists ask questions, plan, measure, and decide what their results mean. In tests it is mixed into almost every question, so these skills earn marks in biology, chemistry, physics, and Earth and space. On this page one investigation — **how the number of coils changes the strength of an electromagnet** — runs through most of the sections, so you can see every step of real science."
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "analogy",
+     "تشبيه — comparing something new with something familiar that works in a similar way"
+    ],
+    [
+     "model",
+     "نموذج — a simple way of showing or explaining a scientific idea"
+    ],
+    [
+     "hypothesis",
+     "فرضية — an idea that explains something and can be tested"
+    ],
+    [
+     "prediction",
+     "توقّع — what you think will happen, with a scientific reason"
+    ],
+    [
+     "independent variable",
+     "المتغيّر المستقل — the one you change"
+    ],
+    [
+     "dependent variable",
+     "المتغيّر التابع — the one you measure"
+    ],
+    [
+     "control variable",
+     "المتغيّر الثابت (الضابط) — one you keep the same"
+    ],
+    [
+     "hazard / risk",
+     "مصدر خطر / احتمال حدوث الضرر"
+    ],
+    [
+     "accurate",
+     "دقيق (قريب من القيمة الحقيقية) — close to the true value"
+    ],
+    [
+     "precise",
+     "مضبوط / متقارب — repeated values close together; fine scale divisions"
+    ],
+    [
+     "reliable",
+     "موثوق — you get similar results when you repeat"
+    ],
+    [
+     "anomalous result",
+     "نتيجة شاذة — a result that does not fit the pattern"
+    ],
+    [
+     "bias",
+     "تحيّز — information that favours one side"
+    ],
+    [
+     "evaluate",
+     "يقيّم — judge the method and suggest improvements"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. Models: analogies, symbols and formulae"
+  },
+  {
+   "type": "p",
+   "text": "An **analogy** is a comparison between something new and difficult and something familiar that works in a **similar way**. Scientists use analogies as **models**: they help us understand, explain and even predict. But an analogy is never exactly the same as the real thing, so every analogy has **limitations** (ways it does not match)."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Real thing",
+    "Analogy",
+    "How it helps",
+    "Limitation"
+   ],
+   "rows": [
+    [
+     "The heart",
+     "a pump",
+     "Shows that the heart pushes blood round the body.",
+     "The heart is a living muscle that beats by itself."
+    ],
+    [
+     "Electric current in a circuit",
+     "water flowing in pipes, pushed by a pump",
+     "Cell = pump, wires = pipes, current = flow of water; a narrow pipe is like a resistance.",
+     "Water spills from a broken pipe; current does not pour out of a cut wire."
+    ],
+    [
+     "The atom (Rutherford model)",
+     "a tiny solar system",
+     "A small, heavy centre (nucleus) with electrons around it, like planets round the Sun.",
+     "Electrons are held by electric attraction, not gravity; most of the atom is empty space."
+    ],
+    [
+     "Antagonistic muscles",
+     "two people pulling a door with ropes from opposite sides",
+     "Each one can only pull, so you need one on each side to open and to close it.",
+     "Muscles are joined to bones by tendons and change shape when they contract."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Using an analogy for a purpose (8TWSm.02):** choose the part of the analogy that matches the question. For example: \"Use the pipe analogy to explain why adding a second cell makes a bigger current.\" → A second pump pushes the water harder, so more water flows each second; in the same way two cells push a bigger current round the circuit."
+  },
+  {
+   "type": "p",
+   "text": "**Symbols and formulae (8TWSm.03)** are another kind of model: short, exact ways to write scientific ideas that everyone in the world understands."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Type",
+    "Examples you will use in Stage 8"
+   ],
+   "rows": [
+    [
+     "Chemical symbols and formulae",
+     "O_{2} (oxygen), CO_{2} (carbon dioxide), H_{2}O (water), Fe (iron), Mg (magnesium), NaCl (sodium chloride)"
+    ],
+    [
+     "Word equations",
+     "glucose + oxygen → carbon dioxide + water"
+    ],
+    [
+     "Formulae (equations)",
+     "speed = distance ÷ time; pressure = force ÷ area; moment = force × distance"
+    ],
+    [
+     "Units and their symbols",
+     "m (metre), s (second), m/s (metres per second), N (newton), cm³ (cubic centimetre), °C, g, kg"
+    ],
+    [
+     "Diagram symbols",
+     "circuit symbols for a cell, lamp, switch; arrows for forces and for rays of light"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "2. Hypotheses and predictions"
+  },
+  {
+   "type": "p",
+   "text": "A **hypothesis** is a scientific idea that explains something, for example: \"An electromagnet with more coils of wire is stronger, because more turns of current make a stronger magnetic field.\" A **prediction** says what you expect to happen in your investigation, and **why**, using science you know: \"I predict that if I double the number of coils, the electromagnet will pick up about twice as many paperclips, because…\""
+  },
+  {
+   "type": "p",
+   "text": "**Is it testable? (8TWSp.01)** A hypothesis is testable only if you can collect evidence about it by observing or measuring. Opinions (best, prettiest, nicest, more fun) and ideas about things that cannot be measured are **not** testable."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Hypothesis",
+    "Testable?",
+    "Why"
+   ],
+   "rows": [
+    [
+     "Plants grow taller in more light.",
+     "Yes",
+     "You can change the light and measure the height."
+    ],
+    [
+     "Iron rusts faster in salty water.",
+     "Yes",
+     "You can compare the rust on nails in salty and in pure water."
+    ],
+    [
+     "Gold is the most beautiful metal.",
+     "No",
+     "\"Beautiful\" is an opinion; it cannot be measured."
+    ],
+    [
+     "People will live on Mars in the year 3000.",
+     "No",
+     "We cannot collect evidence now."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Evidence supports or contradicts (8TWSp.02).** If the results match the prediction, the evidence **supports** the hypothesis. If they do not, the evidence **contradicts** it, and the hypothesis may need to change. One investigation never **proves** a hypothesis for ever: other scientists repeat the work, and new evidence can still change our ideas."
+  },
+  {
+   "type": "h2",
+   "text": "3. Planning investigations"
+  },
+  {
+   "type": "p",
+   "text": "In a **fair test** you change **one** variable, measure **one** variable and keep **all the others the same**."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Variable",
+    "Meaning",
+    "Electromagnet example"
+   ],
+   "rows": [
+    [
+     "Independent",
+     "The one you change on purpose",
+     "number of coils of wire (10, 20, 30, 40, 50, 60)"
+    ],
+    [
+     "Dependent",
+     "The one you measure",
+     "number of paperclips picked up"
+    ],
+    [
+     "Control",
+     "Ones you keep the same, so the test is fair",
+     "same iron nail (core), same wire, same battery/voltage, same size of paperclips"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Not all investigations can be fair tests (8TWSp.04).** Scientists choose the type of enquiry that fits the question:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Type of investigation",
+    "When it is used",
+    "Example"
+   ],
+   "rows": [
+    [
+     "Fair test",
+     "You can change one variable and control the rest.",
+     "Does the number of coils affect the strength of an electromagnet?"
+    ],
+    [
+     "Pattern seeking",
+     "You cannot control the variables, so you collect lots of data and look for a pattern.",
+     "Do people who smoke have more breathing problems?"
+    ],
+    [
+     "Observing over time",
+     "You watch how something changes.",
+     "How does the Moon's shape change over a month?"
+    ],
+    [
+     "Identifying and classifying",
+     "You sort things into groups or name them.",
+     "Using a key to identify invertebrates in a pond."
+    ],
+    [
+     "Research using secondary sources",
+     "The investigation is too big, slow or dangerous to do yourself.",
+     "How has the Earth's climate changed over 800 000 years?"
+    ],
+    [
+     "Using models",
+     "The real thing is too small, big or far away.",
+     "Using a ball-and-string model to explain how a hinge joint moves."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Choosing equipment (8TWSc.02).** Choose an instrument that measures the right quantity, with a suitable **range** (big enough) and fine enough **scale divisions**."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Quantity",
+    "Instrument",
+    "Unit"
+   ],
+   "rows": [
+    [
+     "Volume of a liquid",
+     "measuring cylinder (small volumes: syringe or pipette)",
+     "cm³"
+    ],
+    [
+     "Mass",
+     "balance (scales)",
+     "g or kg"
+    ],
+    [
+     "Temperature",
+     "thermometer",
+     "°C"
+    ],
+    [
+     "Time",
+     "stopwatch / stop clock",
+     "s"
+    ],
+    [
+     "Length or distance",
+     "ruler, metre rule, tape measure",
+     "mm, cm, m"
+    ],
+    [
+     "Force or weight",
+     "newton meter (force meter)",
+     "N"
+    ],
+    [
+     "Volume of a gas",
+     "gas syringe, or upturned measuring cylinder in water",
+     "cm³"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "4. Risk assessments and working safely"
+  },
+  {
+   "type": "p",
+   "text": "A **hazard** is something that could cause harm (acid, a flame, hot water). The **risk** is the chance that harm happens. A **risk assessment** lists the hazards and how you will **control** (reduce) the risk. Then you follow it while you work (8TWSp.05, 8TWSc.05)."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Hazard",
+    "Possible harm",
+    "Control"
+   ],
+   "rows": [
+    [
+     "Wire of an electromagnet gets hot",
+     "burn to fingers",
+     "use a low voltage; switch off between readings; do not hold the coil"
+    ],
+    [
+     "Dilute acid",
+     "stings skin; damages eyes",
+     "wear eye protection (goggles); wipe up spills; wash skin with water"
+    ],
+    [
+     "Bunsen burner flame",
+     "burns; hair or paper catches fire",
+     "tie back hair; heatproof mat; keep paper away; use the safety (yellow) flame when not heating"
+    ],
+    [
+     "Hot water / hot glass",
+     "scalds and burns",
+     "let it cool; use tongs; stand up while heating"
+    ],
+    [
+     "Broken glass",
+     "cuts",
+     "tell the teacher; do not pick up with fingers"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "5. Sorting, classifying and keys"
+  },
+  {
+   "type": "p",
+   "text": "Scientists **sort and classify** objects, materials and living things by **testing** (is it magnetic? does it conduct electricity?), by **observation** (number of legs, leaf shape), by **secondary information** (books, databases) and by using **keys** (8TWSc.01). A **dichotomous key** asks one question at a time with two possible answers (yes/no), until only one thing is left."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 240\" width=\"560\" font-family=\"Arial, sans-serif\" font-size=\"15\"><rect x=\"155\" y=\"12\" width=\"250\" height=\"36\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"280\" y=\"35\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">Is the leaf divided into leaflets?</text><rect x=\"30\" y=\"102\" width=\"220\" height=\"36\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"140\" y=\"125\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">Are the edges toothed?</text><rect x=\"305\" y=\"102\" width=\"230\" height=\"36\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"420\" y=\"125\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">More than 5 leaflets?</text><circle cx=\"80\" cy=\"210\" r=\"20\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"80\" y=\"216\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\" fill=\"#0f1b33\">A</text><circle cx=\"200\" cy=\"210\" r=\"20\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"200\" y=\"216\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\" fill=\"#0f1b33\">B</text><circle cx=\"360\" cy=\"210\" r=\"20\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"360\" y=\"216\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\" fill=\"#0f1b33\">C</text><circle cx=\"480\" cy=\"210\" r=\"20\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"480\" y=\"216\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\" fill=\"#0f1b33\">D</text><line x1=\"220\" y1=\"48\" x2=\"140\" y2=\"102\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"340\" y1=\"48\" x2=\"420\" y2=\"102\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"165\" y=\"72\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">no</text><text x=\"395\" y=\"72\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">yes</text><line x1=\"110\" y1=\"138\" x2=\"80\" y2=\"190\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"170\" y1=\"138\" x2=\"200\" y2=\"190\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"84\" y=\"166\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">yes</text><text x=\"196\" y=\"166\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">no</text><line x1=\"390\" y1=\"138\" x2=\"360\" y2=\"190\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"450\" y1=\"138\" x2=\"480\" y2=\"190\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"364\" y=\"166\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">yes</text><text x=\"476\" y=\"166\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">no</text></svg>",
+   "caption": "A key for four leaves, A to D. Start at the top and answer each question."
+  },
+  {
+   "type": "p",
+   "text": "**Using the key:** a leaf is not divided into leaflets and has smooth edges: no → no → **B**. A leaf has 7 leaflets: yes → yes → **C**. **Making a key:** choose features you can see clearly and that split the group into two (\"Has it got legs?\"), never opinions (\"Is it big?\" — big compared with what?)."
+  },
+  {
+   "type": "h2",
+   "text": "6. Accuracy, precision and repeating measurements"
+  },
+  {
+   "type": "p",
+   "text": "**Accurate** measurements are close to the **true value**. **Precise** measurements are close to **each other** when you repeat them; a precise instrument has small scale divisions (a thermometer marked every 0.5 °C is more precise than one marked every 2 °C). Accuracy and precision matter because conclusions are only as good as the measurements they are based on (8TWSc.04)."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 215\" width=\"560\" font-family=\"Arial, sans-serif\" font-size=\"15\"><circle cx=\"70\" cy=\"80\" r=\"55\" fill=\"#fff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"70\" cy=\"80\" r=\"38\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"70\" cy=\"80\" r=\"20\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"70\" cy=\"80\" r=\"6\" fill=\"#f6d5d2\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M68 77L76 85M68 85L76 77\" stroke=\"#b3261e\" stroke-width=\"2.5\"/><path d=\"M64 78L72 86M64 86L72 78\" stroke=\"#b3261e\" stroke-width=\"2.5\"/><path d=\"M67 74L75 82M67 82L75 74\" stroke=\"#b3261e\" stroke-width=\"2.5\"/><path d=\"M65 75L73 83M65 83L73 75\" stroke=\"#b3261e\" stroke-width=\"2.5\"/><text x=\"70\" y=\"160\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#0f1b33\">accurate and precise</text><circle cx=\"210\" cy=\"80\" r=\"55\" fill=\"#fff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"210\" cy=\"80\" r=\"38\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"210\" cy=\"80\" r=\"20\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"210\" cy=\"80\" r=\"6\" fill=\"#f6d5d2\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M236 48L244 56M236 56L244 48\" stroke=\"#b3261e\" stroke-width=\"2.5\"/><path d=\"M240 51L248 59M240 59L248 51\" stroke=\"#b3261e\" stroke-width=\"2.5\"/><path d=\"M237 44L245 52M237 52L245 44\" stroke=\"#b3261e\" stroke-width=\"2.5\"/><path d=\"M241 46L249 54M241 54L249 46\" stroke=\"#b3261e\" stroke-width=\"2.5\"/><text x=\"210\" y=\"160\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#0f1b33\">precise,</text><text x=\"210\" y=\"177\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#0f1b33\">not accurate</text><circle cx=\"350\" cy=\"80\" r=\"55\" fill=\"#fff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"350\" cy=\"80\" r=\"38\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"350\" cy=\"80\" r=\"20\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"350\" cy=\"80\" r=\"6\" fill=\"#f6d5d2\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M318 82L326 90M318 90L326 82\" stroke=\"#b3261e\" stroke-width=\"2.5\"/><path d=\"M371 94L379 102M371 102L379 94\" stroke=\"#b3261e\" stroke-width=\"2.5\"/><path d=\"M350 46L358 54M350 54L358 46\" stroke=\"#b3261e\" stroke-width=\"2.5\"/><path d=\"M344 102L352 110M344 110L352 102\" stroke=\"#b3261e\" stroke-width=\"2.5\"/><text x=\"350\" y=\"160\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#0f1b33\">accurate,</text><text x=\"350\" y=\"177\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#0f1b33\">not precise</text><circle cx=\"490\" cy=\"80\" r=\"55\" fill=\"#fff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"490\" cy=\"80\" r=\"38\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"490\" cy=\"80\" r=\"20\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><circle cx=\"490\" cy=\"80\" r=\"6\" fill=\"#f6d5d2\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><path d=\"M456 106L464 114M456 114L464 106\" stroke=\"#b3261e\" stroke-width=\"2.5\"/><path d=\"M508 66L516 74M508 74L516 66\" stroke=\"#b3261e\" stroke-width=\"2.5\"/><path d=\"M471 40L479 48M471 48L479 40\" stroke=\"#b3261e\" stroke-width=\"2.5\"/><path d=\"M524 98L532 106M524 106L532 98\" stroke=\"#b3261e\" stroke-width=\"2.5\"/><text x=\"490\" y=\"160\" text-anchor=\"middle\" font-size=\"13\" font-weight=\"bold\" fill=\"#0f1b33\">neither</text><text x=\"280\" y=\"205\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">centre = true value;  × = repeated measurements</text></svg>",
+   "caption": "Four sets of repeated measurements. The centre of each target is the true value."
+  },
+  {
+   "type": "p",
+   "text": "How to measure accurately: read scales at **eye level**; read a liquid at the **bottom of the meniscus**; check the balance reads zero before you start; choose an instrument with a suitable scale; start the stopwatch and stop it at exactly the right moments."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 470 285\" width=\"470\" font-family=\"Arial, sans-serif\" font-size=\"15\"><path d=\"M110 270V90.0Q150.0 102.0 190 90.0V270Z\" fill=\"#cfe2f7\"/><line x1=\"110\" y1=\"15\" x2=\"110\" y2=\"270\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"190\" y1=\"15\" x2=\"190\" y2=\"270\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M110 90.0Q150.0 102.0 190 90.0\" fill=\"none\" stroke=\"#2b5fb4\" stroke-width=\"2\"/><line x1=\"110\" y1=\"250\" x2=\"132\" y2=\"250\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"102\" y=\"255\" text-anchor=\"end\" font-size=\"14\" fill=\"#0f1b33\">20</text><line x1=\"110\" y1=\"239\" x2=\"122\" y2=\"239\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"228\" x2=\"122\" y2=\"228\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"217\" x2=\"122\" y2=\"217\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"206\" x2=\"122\" y2=\"206\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"195\" x2=\"132\" y2=\"195\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"102\" y=\"200\" text-anchor=\"end\" font-size=\"14\" fill=\"#0f1b33\">25</text><line x1=\"110\" y1=\"184\" x2=\"122\" y2=\"184\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"173\" x2=\"122\" y2=\"173\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"162\" x2=\"122\" y2=\"162\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"151\" x2=\"122\" y2=\"151\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"140\" x2=\"132\" y2=\"140\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"102\" y=\"145\" text-anchor=\"end\" font-size=\"14\" fill=\"#0f1b33\">30</text><line x1=\"110\" y1=\"129\" x2=\"122\" y2=\"129\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"118\" x2=\"122\" y2=\"118\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"107\" x2=\"122\" y2=\"107\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"96\" x2=\"122\" y2=\"96\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"85\" x2=\"132\" y2=\"85\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"102\" y=\"90\" text-anchor=\"end\" font-size=\"14\" fill=\"#0f1b33\">35</text><line x1=\"110\" y1=\"74\" x2=\"122\" y2=\"74\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"63\" x2=\"122\" y2=\"63\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"52\" x2=\"122\" y2=\"52\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"41\" x2=\"122\" y2=\"41\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"30\" x2=\"132\" y2=\"30\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"102\" y=\"35\" text-anchor=\"end\" font-size=\"14\" fill=\"#0f1b33\">40</text><text x=\"60\" y=\"20\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">cm³</text><line x1=\"200\" y1=\"96\" x2=\"260\" y2=\"96\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-dasharray=\"5 4\"/><ellipse cx=\"280\" cy=\"96.0\" rx=\"16\" ry=\"9\" fill=\"#fff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"274\" cy=\"96.0\" r=\"5\" fill=\"#0f1b33\"/><text x=\"302\" y=\"78\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">eye level with the</text><text x=\"302\" y=\"94\" text-anchor=\"start\" font-size=\"13\" fill=\"#0f1b33\">bottom of the meniscus</text></svg>",
+   "caption": "Each small division is 1 cm³. The bottom of the meniscus is at 34 cm³."
+  },
+  {
+   "type": "p",
+   "text": "**Repeating (8TWSc.03).** Repeat each measurement (often three times) and calculate a **mean**. Repeats let you spot anomalous results. Your readings are **repeated sufficiently** (enough) if the repeats are **close together**. If they are spread out, do more repeats."
+  },
+  {
+   "type": "p",
+   "text": "**Secondary sources (8TWSc.06).** Information from books, websites, adverts and other people's results must be checked. Is it **relevant** (about exactly your question)? Is it from a **reliable** source (scientists, a university, an official organisation)? Could it be **biased** — written by someone who gains from you believing it, such as a company selling a product? Compare several sources."
+  },
+  {
+   "type": "h2",
+   "text": "7. Recording results"
+  },
+  {
+   "type": "p",
+   "text": "Collect **enough** results (at least five different values of the independent variable, with repeats) and record them in a table as you go (8TWSc.07). Rules: independent variable in the **first column**; dependent variable in the next columns; **units in the headings**, not in every box; same number of decimal places in a column."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Number of coils",
+    "Paperclips: trial 1",
+    "Trial 2",
+    "Trial 3",
+    "Mean"
+   ],
+   "rows": [
+    [
+     "10",
+     "3",
+     "3",
+     "3",
+     "3"
+    ],
+    [
+     "20",
+     "6",
+     "5",
+     "7",
+     "6"
+    ],
+    [
+     "30",
+     "9",
+     "10",
+     "8",
+     "9"
+    ],
+    [
+     "40",
+     "12",
+     "**7**",
+     "12",
+     "12"
+    ],
+    [
+     "50",
+     "15",
+     "14",
+     "16",
+     "15"
+    ],
+    [
+     "60",
+     "18",
+     "19",
+     "17",
+     "18"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "In the row for 40 coils, trial 2 (7) is far from the other two (12 and 12): it is **anomalous**, so it is left out of the mean. Mean = (12 + 12) ÷ 2 = 12. A possible cause: some paperclips fell off, or the current was not switched on fully."
+  },
+  {
+   "type": "h2",
+   "text": "8. Presenting results: bar chart or line graph?"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Use a…",
+    "When the independent variable is…",
+    "Example"
+   ],
+   "rows": [
+    [
+     "**bar chart**",
+     "**categoric** — names or groups (types of metal, kinds of food)",
+     "volume of gas made by different metals in acid"
+    ],
+    [
+     "**line graph**",
+     "**continuous** — numbers that can take any value (time, temperature, length, number of coils)",
+     "paperclips picked up for different numbers of coils"
+    ]
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 440 270\" width=\"440\" font-family=\"Arial, sans-serif\" font-size=\"15\"><path d=\"M70 215.0H420M70 195.5H420M70 176.0H420M70 156.5H420M70 137.0H420M70 117.5H420M70 98.0H420M70 78.5H420M70 59.0H420M70 39.5H420M70 20.0H420\" stroke=\"#c9d6ea\" stroke-width=\"1\"/><line x1=\"70\" y1=\"215\" x2=\"420\" y2=\"215\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"70\" y1=\"215\" x2=\"70\" y2=\"20\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"65\" y1=\"215\" x2=\"70\" y2=\"215\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"61\" y=\"220\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">0</text><line x1=\"65\" y1=\"176\" x2=\"70\" y2=\"176\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"61\" y=\"181\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">10</text><line x1=\"65\" y1=\"137\" x2=\"70\" y2=\"137\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"61\" y=\"142\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">20</text><line x1=\"65\" y1=\"98\" x2=\"70\" y2=\"98\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"61\" y=\"103\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">30</text><line x1=\"65\" y1=\"59\" x2=\"70\" y2=\"59\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"61\" y=\"64\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">40</text><line x1=\"65\" y1=\"20\" x2=\"70\" y2=\"20\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"61\" y=\"25\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">50</text><rect x=\"92\" y=\"59\" width=\"50\" height=\"156\" rx=\"0\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"117\" y=\"235\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">magnesium</text><rect x=\"174\" y=\"129.2\" width=\"50\" height=\"85.8\" rx=\"0\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"199\" y=\"235\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">zinc</text><rect x=\"256\" y=\"176\" width=\"50\" height=\"39\" rx=\"0\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"281\" y=\"235\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">iron</text><text x=\"363\" y=\"235\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">copper</text><text x=\"245\" y=\"260\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">metal (categories)</text><text x=\"18\" y=\"117.5\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\" transform=\"rotate(-90 18 117.5)\">volume of gas in cm³</text></svg>",
+   "caption": "Categories on the x-axis, so the bars are separate. Copper made no gas."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Put the **independent variable on the x-axis** (across) and the dependent variable on the y-axis (up).",
+    "Label both axes with the quantity **and unit**.",
+    "Choose an even scale (1, 2, 5 or 10 per square) that uses **more than half** of the grid.",
+    "Plot each point as a small cross (×) exactly.",
+    "Draw a **line of best fit** (straight or a smooth curve) with roughly equal numbers of points above and below it. **Ignore anomalous points** when drawing it. Do not join dot to dot."
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 520 330\" width=\"520\" font-family=\"Arial, sans-serif\" font-size=\"15\"><path d=\"M70.0 20V275M105.8 20V275M141.7 20V275M177.5 20V275M213.3 20V275M249.2 20V275M285.0 20V275M320.8 20V275M356.7 20V275M392.5 20V275M428.3 20V275M464.2 20V275M500.0 20V275M70 275.0H500M70 262.2H500M70 249.5H500M70 236.8H500M70 224.0H500M70 211.2H500M70 198.5H500M70 185.8H500M70 173.0H500M70 160.2H500M70 147.5H500M70 134.8H500M70 122.0H500M70 109.2H500M70 96.5H500M70 83.8H500M70 71.0H500M70 58.2H500M70 45.5H500M70 32.8H500M70 20.0H500\" stroke=\"#c9d6ea\" stroke-width=\"1\"/><line x1=\"70\" y1=\"275\" x2=\"500\" y2=\"275\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"70\" y1=\"275\" x2=\"70\" y2=\"20\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"70\" y1=\"275\" x2=\"70\" y2=\"280\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"70\" y=\"296\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">0</text><line x1=\"141.667\" y1=\"275\" x2=\"141.667\" y2=\"280\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"141.667\" y=\"296\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">10</text><line x1=\"213.333\" y1=\"275\" x2=\"213.333\" y2=\"280\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"213.333\" y=\"296\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">20</text><line x1=\"285\" y1=\"275\" x2=\"285\" y2=\"280\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"285\" y=\"296\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">30</text><line x1=\"356.667\" y1=\"275\" x2=\"356.667\" y2=\"280\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"356.667\" y=\"296\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">40</text><line x1=\"428.333\" y1=\"275\" x2=\"428.333\" y2=\"280\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"428.333\" y=\"296\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">50</text><line x1=\"500\" y1=\"275\" x2=\"500\" y2=\"280\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"500\" y=\"296\" text-anchor=\"middle\" font-size=\"13\" fill=\"#0f1b33\">60</text><line x1=\"65\" y1=\"275\" x2=\"70\" y2=\"275\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"61\" y=\"280\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">0</text><line x1=\"65\" y1=\"249.5\" x2=\"70\" y2=\"249.5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"61\" y=\"254.5\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">2</text><line x1=\"65\" y1=\"224\" x2=\"70\" y2=\"224\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"61\" y=\"229\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">4</text><line x1=\"65\" y1=\"198.5\" x2=\"70\" y2=\"198.5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"61\" y=\"203.5\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">6</text><line x1=\"65\" y1=\"173\" x2=\"70\" y2=\"173\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"61\" y=\"178\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">8</text><line x1=\"65\" y1=\"147.5\" x2=\"70\" y2=\"147.5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"61\" y=\"152.5\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">10</text><line x1=\"65\" y1=\"122\" x2=\"70\" y2=\"122\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"61\" y=\"127\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">12</text><line x1=\"65\" y1=\"96.5\" x2=\"70\" y2=\"96.5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"61\" y=\"101.5\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">14</text><line x1=\"65\" y1=\"71\" x2=\"70\" y2=\"71\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"61\" y=\"76\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">16</text><line x1=\"65\" y1=\"45.5\" x2=\"70\" y2=\"45.5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"61\" y=\"50.5\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">18</text><line x1=\"65\" y1=\"20\" x2=\"70\" y2=\"20\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"61\" y=\"25\" text-anchor=\"end\" font-size=\"13\" fill=\"#0f1b33\">20</text><text x=\"285\" y=\"320\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">number of coils of wire</text><text x=\"18\" y=\"147.5\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\" transform=\"rotate(-90 18 147.5)\">number of paperclips picked up</text><line x1=\"70\" y1=\"275\" x2=\"500\" y2=\"45.5\" stroke=\"#1d5fbf\" stroke-width=\"2\"/><path d=\"M136.7 231.8L146.7 241.8M136.7 241.8L146.7 231.8\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><path d=\"M208.3 193.5L218.3 203.5M208.3 203.5L218.3 193.5\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><path d=\"M280.0 155.2L290.0 165.2M280.0 165.2L290.0 155.2\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><path d=\"M351.7 168.0L361.7 178.0M351.7 178.0L361.7 168.0\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><path d=\"M423.3 78.8L433.3 88.8M423.3 88.8L433.3 78.8\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><path d=\"M495.0 40.5L505.0 50.5M495.0 50.5L505.0 40.5\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><circle cx=\"356.7\" cy=\"173.0\" r=\"13\" fill=\"none\" stroke=\"#b3261e\" stroke-width=\"2\"/><text x=\"374.667\" y=\"197\" text-anchor=\"start\" font-size=\"13\" font-weight=\"bold\" fill=\"#b3261e\">anomalous result</text></svg>",
+   "caption": "Laila's electromagnet results (one reading for each number of coils), with a line of best fit."
+  },
+  {
+   "type": "h2",
+   "text": "9. Trends, anomalies, conclusions and evaluation"
+  },
+  {
+   "type": "p",
+   "text": "**Describe the trend (8TWSa.02):** use the sentence \"As the [independent variable] increases, the [dependent variable] increases / decreases\", then add numbers. From the graph: \"As the number of coils increases from 10 to 60, the number of paperclips increases from 3 to 18. The paperclips increase by 3 for every 10 extra coils (a straight line through the origin).\" The point at 40 coils (8 paperclips) is **anomalous**: it is well below the line."
+  },
+  {
+   "type": "p",
+   "text": "**Was the prediction accurate? (8TWSa.01)** Compare the prediction with the results and give a reason. \"I predicted that doubling the coils would double the paperclips. My prediction was accurate: 20 coils picked up 6 paperclips and 40 coils picked up 12 (mean values).\" If a prediction was not accurate, suggest why — perhaps your scientific idea was incomplete, or there was an error in the measurements."
+  },
+  {
+   "type": "p",
+   "text": "**Conclusion and its limitations (8TWSa.03):** a conclusion says what the results show, using the evidence: \"The more coils, the stronger the electromagnet.\" **Limitations** are the limits of what you can claim: it was only tested from 10 to 60 coils, with one type of nail and one battery; paperclips only measure strength roughly (you cannot pick up half a paperclip)."
+  },
+  {
+   "type": "p",
+   "text": "**Evaluate and improve (8TWSa.04):** say what went well or badly in the method and suggest a change **with a reason**. Example: \"Use smaller paperclips or measure the force with a newton meter, so the strength can be measured more precisely.\" \"Repeat each reading three times and calculate a mean, so anomalous results can be spotted and the results are more reliable.\" \"Use a variable resistor and ammeter to keep the current the same, so that it is a fair test.\""
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "المتغيرات في سطرين",
+   "text": "المتغيّر المستقل = اللي إنت بتغيّره بإيدك. المتغيّر التابع = اللي بتقيسه. المتغيّرات الثابتة = كل حاجة تانية لازم تفضل زي ما هي عشان التجربة تبقى عادلة (fair test). ولو فيه نتيجة بعيدة عن الباقي (anomalous) متدخلهاش في حساب المتوسط."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — using an analogy\nA teacher says: \"An electric circuit is like water flowing round a loop of pipes, pushed by a pump.\"\n(a) What is an analogy? [1] (b) In this analogy, what does the pump represent? [1] (c) Give one limitation of this analogy. [1]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) A comparison with something familiar that works in a similar way, used to help explain a scientific idea.",
+    "(b) The **cell** (or battery) — it pushes the current round, as the pump pushes the water.",
+    "(c) If a pipe breaks, water pours out, but if a wire is cut the electric current does not flow out — it just stops. (Accept other sensible differences.)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Common mistake:** in (c), saying what is the **same**. A limitation is a way the analogy is **different** from the real thing."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — testable hypotheses and evidence\nOmar's hypothesis: \"Seeds germinate faster when they are warmer.\" (a) Is this hypothesis testable? Explain your answer. [1] (b) Seeds at 25 °C germinated in 3 days; seeds at 10 °C took 8 days. Does this evidence support or contradict the hypothesis? [1]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) Yes: he can change the temperature and **measure** the time the seeds take to germinate.",
+    "(b) It **supports** the hypothesis: the warmer seeds germinated faster (3 days compared with 8 days).",
+    "Note: say \"supports\", not \"proves\". More tests, at more temperatures and with more seeds, would make the evidence stronger."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — planning\nLaila investigates how the number of coils affects the strength of an electromagnet.\n(a) Name the independent and dependent variables. [2] (b) Name two control variables. [2] (c) Write a prediction and give a scientific reason. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) Independent: the **number of coils** [1]. Dependent: the **number of paperclips** picked up [1].",
+    "(b) Any two: the same nail (core); the same battery / voltage / current; the same type and size of paperclips; the same wire [2].",
+    "(c) Prediction: more coils will pick up more paperclips [1]. Reason: more turns of wire carrying current make a **stronger magnetic field** [1]."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Common mistake:** a prediction with no reason (\"It will pick up more\") scores only 1 of the 2 marks."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — repeats, means and anomalies\nUse the results table in section 7. (a) Which result is anomalous? [1] (b) Calculate the mean for 20 coils. [1] (c) Have the readings been repeated enough? Explain. [1]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) 40 coils, trial 2 (7 paperclips) — far below 12 and 12.",
+    "(b) (6 + 5 + 7) ÷ 3 = 18 ÷ 3 = **6** paperclips.",
+    "(c) Yes: for each number of coils the three repeats are close together (within 1 or 2 paperclips), apart from one anomaly, which was easy to spot."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — graphs and conclusions\nUse Laila's graph. (a) Describe the trend. [2] (b) Use the line of best fit to predict the number of paperclips for 35 coils. [1] (c) State one limitation of her conclusion. [1]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) As the number of coils increases, the number of paperclips increases [1]; from 3 paperclips at 10 coils to 18 at 60 coils / it goes up in proportion (doubling the coils doubles the paperclips) [1].",
+    "(b) Go up from 35 on the x-axis to the line, then across: 0.3 × 35 = 10.5, so about **10 or 11** paperclips (you cannot pick up half a paperclip).",
+    "(c) It was only tested between 10 and 60 coils / with one size of nail / with one battery, so we do not know what happens outside these conditions."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** — choosing equipment and improving accuracy\nAdam needs to measure 8 cm³ of water. He can choose a 10 cm³, a 100 cm³ or a 1000 cm³ measuring cylinder. (a) Which should he choose? Explain. [2] (b) Suggest how he should read the scale. [1]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) The **10 cm³** cylinder [1]: it has smaller scale divisions (e.g. 0.2 cm³), so the measurement is more precise/accurate; a large cylinder has big divisions and 8 cm³ would only fill the bottom [1].",
+    "(b) With his eye level with the **bottom of the meniscus**, on a flat surface."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Mixing up independent (changed) and dependent (measured) variables. Ask: \"Which one did they choose before starting?\"",
+    "Control variables written as \"the amount\" — name the quantity: \"the volume of acid\", \"the mass of the magnesium\".",
+    "Joining dot to dot on a line graph, or drawing a line of best fit through the anomalous point.",
+    "Including an anomalous result in the mean.",
+    "Saying results \"prove\" a hypothesis. Evidence supports or contradicts it.",
+    "Describing a trend with no numbers, or a prediction with no reason.",
+    "Using a bar chart for continuous data such as temperature or time.",
+    "Saying \"repeat it to make it a fair test\". Repeats make results more **reliable**; controlling variables makes it **fair**."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "\"Name the independent variable / two variables that should be kept the same.\" [1] each — be specific.",
+    "\"Which result is anomalous? Suggest a reason.\" Find the value that breaks the pattern; give a real experimental cause.",
+    "\"Calculate the mean.\" Leave out the anomaly; show the sum and the division.",
+    "\"Plot the results and draw a line of best fit.\" Plot crosses exactly; smooth line; ignore anomalies.",
+    "\"Describe the pattern.\" As … increases, … increases/decreases + numbers.",
+    "\"Was the prediction correct? Use the results.\" Yes/no + data from the table.",
+    "\"Suggest one improvement and explain why.\" Change + reason (more accurate / more reliable / fairer).",
+    "\"Which source is most reliable?\" Think: who wrote it, and do they gain from it?"
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الدقة والتكرار",
+   "text": "accurate يعني قريب من القيمة الحقيقية، و precise يعني القراءات المتكررة قريبة من بعض. بنكرر التجربة ٣ مرات ونحسب المتوسط عشان النتائج تبقى موثوقة (reliable). التكرار مش بيخلي التجربة عادلة — اللي بيخليها عادلة هو تثبيت المتغيرات."
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Thinking and Working Scientifically: practice",
+   "timed": false,
+   "intro": "14 Checkpoint-style questions on models, planning, measuring and analysing. Full solutions are shown after you check.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 25,
+     "calc": true,
+     "questions": [
+      {
+       "q": "Which statement best describes an analogy?",
+       "c": [
+        "an exact, full-size copy of a real object",
+        "a comparison with something familiar that works in a similar way",
+        "a prediction of what will happen in an experiment",
+        "a list of the equipment needed"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Models",
+       "e": "An analogy explains something new by comparing it with something familiar that behaves in a similar way (e.g. the heart is like a pump). It is a model, so it is never an exact copy."
+      },
+      {
+       "t": "num",
+       "q": "Speed is written as a formula: speed = distance ÷ time. A toy car travels 3 m in 4 s. Calculate its speed.",
+       "ans": [
+        0.75,
+        "3/4"
+       ],
+       "tol": 0,
+       "unit": "m/s",
+       "m": 1,
+       "s": "Symbols and formulae",
+       "e": "speed = distance ÷ time = 3 ÷ 4 = 0.75 m/s."
+      },
+      {
+       "q": "Which hypothesis is testable by a scientific investigation?",
+       "c": [
+        "Blue flowers are prettier than red flowers.",
+        "Science lessons are more fun in the morning.",
+        "Salt dissolves faster in warm water than in cold water.",
+        "Cats are better pets than dogs."
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Hypotheses",
+       "e": "Only the salt hypothesis can be checked by measuring something (the time to dissolve at different temperatures). The others are opinions: \"prettier\", \"more fun\" and \"better\" cannot be measured in a fair, agreed way."
+      },
+      {
+       "t": "text",
+       "p": "Question 4\nKarim adds a 2 cm piece of magnesium ribbon to 25 cm³ of hydrochloric acid. He measures the volume of gas made in 1 minute. He repeats this with acid of different concentrations.",
+       "q": "(a) Name the independent variable.",
+       "ans": [
+        "concentration of the acid",
+        "concentration of acid",
+        "the concentration of the acid",
+        "acid concentration",
+        "the concentration",
+        "concentration",
+        "concentration of hydrochloric acid",
+        "the concentration of hydrochloric acid"
+       ],
+       "m": 1,
+       "s": "Variables",
+       "e": "Karim changes the concentration of the acid on purpose, so it is the independent variable."
+      },
+      {
+       "t": "text",
+       "p": "Question 4\nKarim adds a 2 cm piece of magnesium ribbon to 25 cm³ of hydrochloric acid. He measures the volume of gas made in 1 minute. He repeats this with acid of different concentrations.",
+       "q": "(b) Name the dependent variable.",
+       "ans": [
+        "volume of gas",
+        "the volume of gas",
+        "volume of gas made",
+        "the volume of gas made",
+        "volume of gas produced",
+        "the volume of gas produced",
+        "volume of gas made in 1 minute",
+        "volume of gas in 1 minute",
+        "amount of gas",
+        "the amount of gas",
+        "volume of hydrogen",
+        "the volume of hydrogen"
+       ],
+       "m": 1,
+       "s": "Variables",
+       "e": "He measures the volume of gas made in 1 minute — that is the dependent variable."
+      },
+      {
+       "t": "open",
+       "p": "Question 4\nKarim adds a 2 cm piece of magnesium ribbon to 25 cm³ of hydrochloric acid. He measures the volume of gas made in 1 minute. He repeats this with acid of different concentrations.",
+       "q": "(c) Name two control variables Karim must keep the same.",
+       "m": 2,
+       "s": "Variables",
+       "ms": "1 mark each, any two: length / mass of magnesium ribbon (2 cm); volume of acid (25 cm³); temperature of the acid; time the gas is collected for (1 minute); type of acid (hydrochloric). Do not accept: concentration of the acid (independent variable); volume of gas (dependent variable); \"the amount\" with no quantity named.",
+       "e": "The question already tells you some: 2 cm of magnesium, 25 cm³ of acid, 1 minute. Temperature also changes the rate of reaction, so it must be kept the same."
+      },
+      {
+       "q": "Hana wants to find out whether students with longer legs can run 100 m faster. What type of investigation is this, and why?",
+       "c": [
+        "pattern seeking, because many other variables (fitness, age, practice) cannot be controlled",
+        "a fair test, because she can control every variable",
+        "observing over time, because she watches one student for a year",
+        "identifying and classifying, because she sorts students into groups"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Types of investigation",
+       "e": "She cannot change people's leg length or control their fitness, so it cannot be a fair test. She collects data from many students and looks for a pattern — pattern seeking."
+      },
+      {
+       "t": "num",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 260 285\" width=\"260\" font-family=\"Arial, sans-serif\" font-size=\"15\"><path d=\"M110 270V167.0Q150.0 179.0 190 167.0V270Z\" fill=\"#cfe2f7\"/><line x1=\"110\" y1=\"15\" x2=\"110\" y2=\"270\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"190\" y1=\"15\" x2=\"190\" y2=\"270\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M110 167.0Q150.0 179.0 190 167.0\" fill=\"none\" stroke=\"#2b5fb4\" stroke-width=\"2\"/><line x1=\"110\" y1=\"250\" x2=\"132\" y2=\"250\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"102\" y=\"255\" text-anchor=\"end\" font-size=\"14\" fill=\"#0f1b33\">20</text><line x1=\"110\" y1=\"239\" x2=\"122\" y2=\"239\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"228\" x2=\"122\" y2=\"228\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"217\" x2=\"122\" y2=\"217\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"206\" x2=\"122\" y2=\"206\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"195\" x2=\"132\" y2=\"195\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"102\" y=\"200\" text-anchor=\"end\" font-size=\"14\" fill=\"#0f1b33\">25</text><line x1=\"110\" y1=\"184\" x2=\"122\" y2=\"184\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"173\" x2=\"122\" y2=\"173\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"162\" x2=\"122\" y2=\"162\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"151\" x2=\"122\" y2=\"151\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"140\" x2=\"132\" y2=\"140\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"102\" y=\"145\" text-anchor=\"end\" font-size=\"14\" fill=\"#0f1b33\">30</text><line x1=\"110\" y1=\"129\" x2=\"122\" y2=\"129\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"118\" x2=\"122\" y2=\"118\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"107\" x2=\"122\" y2=\"107\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"96\" x2=\"122\" y2=\"96\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"85\" x2=\"132\" y2=\"85\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"102\" y=\"90\" text-anchor=\"end\" font-size=\"14\" fill=\"#0f1b33\">35</text><line x1=\"110\" y1=\"74\" x2=\"122\" y2=\"74\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"63\" x2=\"122\" y2=\"63\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"52\" x2=\"122\" y2=\"52\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"41\" x2=\"122\" y2=\"41\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"110\" y1=\"30\" x2=\"132\" y2=\"30\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"102\" y=\"35\" text-anchor=\"end\" font-size=\"14\" fill=\"#0f1b33\">40</text><text x=\"60\" y=\"20\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">cm³</text></svg>",
+       "q": "Read the volume of liquid in the measuring cylinder.",
+       "ans": [
+        27
+       ],
+       "tol": 0,
+       "unit": "cm³",
+       "m": 1,
+       "s": "Measuring",
+       "e": "Each small division is 1 cm³ (five spaces between 20 and 25). Read the bottom of the meniscus at eye level: it is two divisions above 25, so 27 cm³."
+      },
+      {
+       "t": "num",
+       "q": "Four students time how long a sugar cube takes to dissolve. Their results are 24 s, 25 s, 31 s and 23 s. One result is anomalous. Calculate the mean of the other three results.",
+       "ans": [
+        24
+       ],
+       "tol": 0,
+       "unit": "s",
+       "m": 2,
+       "s": "Mean and anomalies",
+       "e": "31 s is far from the others, so it is anomalous and is left out. Mean = (24 + 25 + 23) ÷ 3 = 72 ÷ 3 = 24 s. [1 mark for leaving out 31, 1 mark for 24]"
+      },
+      {
+       "t": "num",
+       "p": "Question 10\nRana counts the paperclips picked up by an electromagnet with different numbers of coils.\nnumber of coils | 10 | 20 | 30 | 40 | 50\nnumber of paperclips | 4 | 8 | 5 | 16 | 20",
+       "q": "Which number of coils gave the anomalous result?",
+       "ans": [
+        30
+       ],
+       "tol": 0,
+       "unit": "coils",
+       "m": 1,
+       "s": "Mean and anomalies",
+       "e": "The pattern is 4 paperclips for every 10 coils: 4, 8, 12, 16, 20. At 30 coils we expect 12 but Rana got 5, so 30 coils is the anomalous result."
+      },
+      {
+       "q": "Sara measures the temperature of a beaker of hot water every minute for 10 minutes as it cools. How should she present her results?",
+       "c": [
+        "a bar chart",
+        "a pie chart",
+        "a pictogram",
+        "a line graph"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Presenting results",
+       "e": "Both time and temperature are continuous (they can have any value), so a line graph is used. Bar charts are for categories (e.g. different metals)."
+      },
+      {
+       "t": "open",
+       "p": "Question 12\nA student measures the mass of potassium nitrate that dissolves in 100 g of water at different temperatures.\ntemperature in °C | 20 | 40 | 60 | 80\nmass that dissolves in g | 32 | 64 | 110 | 169",
+       "q": "Describe the pattern in the results. Use numbers in your answer.",
+       "m": 2,
+       "s": "Trends",
+       "ms": "1 mark: as the temperature increases, the mass that dissolves increases (ora). 1 mark: correct use of data, e.g. from 32 g at 20 °C to 169 g at 80 °C; OR the mass increases by larger amounts as the temperature rises (32 g, then 46 g, then 59 g). Do not accept: \"it increases\" with no variable named.",
+       "e": "As the temperature increases from 20 °C to 80 °C, the mass of potassium nitrate that dissolves increases from 32 g to 169 g. The increase gets bigger at higher temperatures: +32 g, +46 g, +59 g for each 20 °C."
+      },
+      {
+       "q": "A company says its new energy drink improves exam results. Which source of information is most likely to be biased?",
+       "c": [
+        "an advert written by the company that sells the drink",
+        "a report by scientists who tested the drink on 500 students and have no link to the company",
+        "a school science textbook",
+        "a government health website"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Secondary sources",
+       "e": "The company makes money if people believe the drink works, so its advert may only show the good results — it is likely to be biased."
+      },
+      {
+       "t": "open",
+       "q": "Students heat water to 80 °C in a beaker over a Bunsen burner. Identify one hazard and describe how to control the risk.",
+       "m": 2,
+       "s": "Risk assessment",
+       "ms": "1 mark for a hazard: hot water / hot beaker or tripod can burn (scald); Bunsen flame can burn skin or set hair, ties or paper on fire; glass beaker can break. 1 mark for a matching control: let equipment cool before touching / use tongs; tie back long hair, tuck in ties, keep paper away; use a heatproof mat; stand up while heating; wear eye protection (goggles) in case of splashes. The control must match the hazard.",
+       "e": "Example: Hazard: the hot water and beaker can burn your skin. Control: do not touch the beaker until it has cooled, and move it with tongs; wear goggles in case the water spits."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "An analogy compares a new idea with something familiar; always know one limitation.",
+    "Independent = changed, dependent = measured, control = kept the same. Not every investigation can be a fair test.",
+    "Accurate = close to the true value; precise = repeats close together. Repeat, leave out anomalies, calculate the mean.",
+    "Bar chart for categories; line graph for continuous data, with a line of best fit.",
+    "Describe trends with numbers; conclusions need evidence and limitations; improvements need a reason."
+   ]
+  }
+ ]
+}

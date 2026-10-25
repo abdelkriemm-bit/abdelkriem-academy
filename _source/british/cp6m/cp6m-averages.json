@@ -1,0 +1,618 @@
+{
+ "slug": "cp6m-averages",
+ "title": "Mode, Median, Mean and Range, and Interpreting Data",
+ "kicker": "Cambridge Primary Checkpoint · Mathematics 0096 · Stage 6 · Statistics and Probability",
+ "summary": "Find and interpret the mode (including bimodal data), median, mean and range, choose the most suitable average, and compare data sets to draw conclusions and check predictions.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Understand that the **mode, median, mean and range** describe and summarise a set of data; find and interpret each one (including data with two modes), and decide which is most suitable for the situation (6Ss.03)",
+    "Interpret data and find patterns within one data set and between two data sets to answer statistical questions; discuss conclusions, think about why data varies, and check predictions (6Ss.04)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "When you have collected a lot of data, you need a few numbers that sum it up. An **average** tells you what is typical. The three averages are the **mode**, the **median** and the **mean**. The **range** is not an average: it tells you how **spread out** the data is. We will use this data all the way through: the number of goals a school team scored in 7 matches."
+  },
+  {
+   "type": "p",
+   "text": "**Goals scored: 2, 5, 1, 3, 5, 0, 5**"
+  },
+  {
+   "type": "h2",
+   "text": "Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "average",
+     "متوسط / قيمة نموذجية — one number that represents the whole data set"
+    ],
+    [
+     "mode",
+     "المنوال — the value that appears most often"
+    ],
+    [
+     "bimodal",
+     "ثنائي المنوال — data with two modes"
+    ],
+    [
+     "median",
+     "الوسيط — the middle value when the data is in order"
+    ],
+    [
+     "mean",
+     "المتوسط الحسابي — the total of all values ÷ the number of values"
+    ],
+    [
+     "range",
+     "المدى — largest value − smallest value; shows how spread out the data is"
+    ],
+    [
+     "data set",
+     "مجموعة بيانات"
+    ],
+    [
+     "consistent",
+     "منتظم / ثابت — the values are close together (small range)"
+    ],
+    [
+     "outlier (extreme value)",
+     "قيمة متطرفة — a value much bigger or smaller than the rest"
+    ],
+    [
+     "variation",
+     "التباين — the way data values differ from each other"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. The mode"
+  },
+  {
+   "type": "p",
+   "text": "The **mode** is the value that occurs **most often**. In 2, 5, 1, 3, 5, 0, 5 the value 5 appears three times — more than any other — so the **mode is 5**."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**Two modes (bimodal):** shoe sizes 35, 36, 36, 37, 38, 38, 39 — both 36 and 38 appear twice, so the modes are 36 and 38. The data is **bimodal**.",
+    "**No mode:** if every value appears once (e.g. 4, 7, 9, 12), there is no mode.",
+    "The mode is the **only** average you can use for categorical data: “The modal colour is blue.”",
+    "From a frequency table, bar chart or dot plot, the mode is the value with the **highest frequency** (the tallest bar), **not** the frequency itself."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "2. The median"
+  },
+  {
+   "type": "p",
+   "text": "The **median** is the **middle value** when the data is written **in order** from smallest to largest."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Write the values in order: 0, 1, 2, 3, 5, 5, 5. Count them to make sure none is missing (7 values).",
+    "Cross off one value from each end, again and again, until you reach the middle.",
+    "With an **odd** number of values there is one middle value. Here it is the 4th value: **3**."
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 460 120\" width=\"460\" font-family=\"Arial, sans-serif\" font-size=\"14\"><rect x=\"18\" y=\"30\" width=\"44\" height=\"40\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"40\" y=\"57\" font-size=\"18\" text-anchor=\"middle\" font-weight=\"bold\">0</text><rect x=\"81\" y=\"30\" width=\"44\" height=\"40\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"103\" y=\"57\" font-size=\"18\" text-anchor=\"middle\" font-weight=\"bold\">1</text><rect x=\"144\" y=\"30\" width=\"44\" height=\"40\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"166\" y=\"57\" font-size=\"18\" text-anchor=\"middle\" font-weight=\"bold\">2</text><rect x=\"207\" y=\"30\" width=\"44\" height=\"40\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"229\" y=\"57\" font-size=\"18\" text-anchor=\"middle\" font-weight=\"bold\">3</text><rect x=\"270\" y=\"30\" width=\"44\" height=\"40\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"292\" y=\"57\" font-size=\"18\" text-anchor=\"middle\" font-weight=\"bold\">5</text><rect x=\"333\" y=\"30\" width=\"44\" height=\"40\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"355\" y=\"57\" font-size=\"18\" text-anchor=\"middle\" font-weight=\"bold\">5</text><rect x=\"396\" y=\"30\" width=\"44\" height=\"40\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"418\" y=\"57\" font-size=\"18\" text-anchor=\"middle\" font-weight=\"bold\">5</text><path d=\"M201 24h56v52h-56z\" fill=\"none\" stroke=\"#b3261e\" stroke-width=\"2.5\"/><text x=\"229\" y=\"100\" font-size=\"15\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#b3261e\">median = 3</text><text x=\"103\" y=\"100\" font-size=\"14\" text-anchor=\"middle\">3 values</text><text x=\"355\" y=\"100\" font-size=\"14\" text-anchor=\"middle\">3 values</text></svg>",
+   "caption": "The 7 goals data in order. There are 3 values on each side of the median."
+  },
+  {
+   "type": "p",
+   "text": "**Even number of values:** there are two middle values. The median is halfway between them: add them and divide by 2. Heights of 6 plants (cm): 12, 15, 9, 14, 11, 17 → in order 9, 11, **12, 14**, 15, 17 → median = (12 + 14) ÷ 2 = **13 cm**. The median does not have to be one of the values."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Where is the middle?",
+   "text": "For n values in order, the median is the value in position (n + 1) ÷ 2. For 7 values: (7 + 1) ÷ 2 = 4th. For 6 values: (6 + 1) ÷ 2 = 3.5, which means halfway between the 3rd and 4th values. For 25 values: the 13th value."
+  },
+  {
+   "type": "h2",
+   "text": "3. The mean"
+  },
+  {
+   "type": "p",
+   "text": "The **mean** shares the total out **equally**. **Mean = total of all the values ÷ number of values.**"
+  },
+  {
+   "type": "p",
+   "text": "Goals: total = 2 + 5 + 1 + 3 + 5 + 0 + 5 = 21. Number of matches = 7. Mean = 21 ÷ 7 = **3 goals per match**. Remember to count the 0 — it is a value!"
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 470 230\" width=\"470\" font-family=\"Arial, sans-serif\" font-size=\"14\"><rect x=\"40\" y=\"168\" width=\"35.2\" height=\"22\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"40\" y=\"146\" width=\"35.2\" height=\"22\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"57.6\" y=\"210\" font-size=\"13\" text-anchor=\"middle\">match 1</text><rect x=\"100\" y=\"168\" width=\"35.2\" height=\"22\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"100\" y=\"146\" width=\"35.2\" height=\"22\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"100\" y=\"124\" width=\"35.2\" height=\"22\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"100\" y=\"102\" width=\"35.2\" height=\"22\" fill=\"#f2c75c\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"100\" y=\"80\" width=\"35.2\" height=\"22\" fill=\"#f2c75c\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"117.6\" y=\"210\" font-size=\"13\" text-anchor=\"middle\">match 2</text><rect x=\"160\" y=\"168\" width=\"35.2\" height=\"22\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"177.6\" y=\"210\" font-size=\"13\" text-anchor=\"middle\">match 3</text><rect x=\"220\" y=\"168\" width=\"35.2\" height=\"22\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"220\" y=\"146\" width=\"35.2\" height=\"22\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"220\" y=\"124\" width=\"35.2\" height=\"22\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"237.6\" y=\"210\" font-size=\"13\" text-anchor=\"middle\">match 4</text><rect x=\"280\" y=\"168\" width=\"35.2\" height=\"22\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"280\" y=\"146\" width=\"35.2\" height=\"22\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"280\" y=\"124\" width=\"35.2\" height=\"22\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"280\" y=\"102\" width=\"35.2\" height=\"22\" fill=\"#f2c75c\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"280\" y=\"80\" width=\"35.2\" height=\"22\" fill=\"#f2c75c\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"297.6\" y=\"210\" font-size=\"13\" text-anchor=\"middle\">match 5</text><text x=\"357.6\" y=\"210\" font-size=\"13\" text-anchor=\"middle\">match 6</text><rect x=\"400\" y=\"168\" width=\"35.2\" height=\"22\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"400\" y=\"146\" width=\"35.2\" height=\"22\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"400\" y=\"124\" width=\"35.2\" height=\"22\" fill=\"#8fb4e8\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"400\" y=\"102\" width=\"35.2\" height=\"22\" fill=\"#f2c75c\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"400\" y=\"80\" width=\"35.2\" height=\"22\" fill=\"#f2c75c\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"417.6\" y=\"210\" font-size=\"13\" text-anchor=\"middle\">match 7</text><line x1=\"30\" y1=\"190\" x2=\"450\" y2=\"190\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"30\" y1=\"124\" x2=\"450\" y2=\"124\" stroke=\"#b3261e\" stroke-width=\"2\" stroke-dasharray=\"7 5\"/><text x=\"30\" y=\"116\" font-size=\"15\" text-anchor=\"start\" font-weight=\"bold\" fill=\"#b3261e\">mean = 3</text></svg>",
+   "caption": "The mean is a “levelling out”. If the cubes above the red line (yellow) were moved into the gaps below it, every tower would be 3 cubes tall."
+  },
+  {
+   "type": "p",
+   "text": "**Mean from a frequency table or dot plot.** Multiply each value by its frequency, add these, then divide by the total frequency. Number of brothers and sisters of 25 students:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Number of brothers and sisters",
+    "Frequency",
+    "Value × frequency"
+   ],
+   "rows": [
+    [
+     "0",
+     "3",
+     "0"
+    ],
+    [
+     "1",
+     "8",
+     "8"
+    ],
+    [
+     "2",
+     "7",
+     "14"
+    ],
+    [
+     "3",
+     "4",
+     "12"
+    ],
+    [
+     "4",
+     "2",
+     "8"
+    ],
+    [
+     "5",
+     "1",
+     "5"
+    ],
+    [
+     "**Total**",
+     "**25**",
+     "**47**"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Mean = 47 ÷ 25 = **1.88**. The mean can be a decimal even when the data is whole numbers — nobody has 1.88 brothers, but it is a useful summary. The mode here is 1 (frequency 8). The median is the 13th value: the first 3 are 0, the next 8 (4th to 11th) are 1, the next 7 (12th to 18th) are 2, so the median is **2**. The range is 5 − 0 = **5**."
+  },
+  {
+   "type": "p",
+   "text": "**Working backwards.** If you know the mean, you can find the total: total = mean × number of values. Example: the mean of 4 numbers is 6, so their total is 24. If three of them are 4, 7 and 5 (total 16), the fourth is 24 − 16 = **8**."
+  },
+  {
+   "type": "h2",
+   "text": "4. The range"
+  },
+  {
+   "type": "p",
+   "text": "**Range = largest value − smallest value.** Goals: 5 − 0 = **5**. The range is always one number (not “0 to 5”). A **small range** means the values are close together — the data is **consistent**. A **large range** means the values are spread out."
+  },
+  {
+   "type": "h2",
+   "text": "5. Which average should you use?"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Measure",
+    "Good for",
+    "Watch out"
+   ],
+   "rows": [
+    [
+     "Mode",
+     "categorical data; the most popular or most common item (e.g. which shoe size a shop should stock most)",
+     "there may be no mode, or two modes; it can be far from the centre (goals: mode 5, but most matches had fewer)"
+    ],
+    [
+     "Median",
+     "data with an extreme value (outlier), e.g. house prices or pocket money with one very large value",
+     "uses only the middle of the data"
+    ],
+    [
+     "Mean",
+     "numerical data with values fairly close together; it uses every value",
+     "one extreme value can pull it a long way up or down"
+    ],
+    [
+     "Range",
+     "describing how spread out or consistent the data is; use it with an average to compare data sets",
+     "it is not an average; one extreme value makes it large"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "For the goals data: mode 5, median 3, mean 3. The median and mean describe a “typical” match better than the mode, because 4 of the 7 matches had fewer than 5 goals."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "بالعربي: المتوسطات الثلاثة والمدى",
+   "items": [
+    "المنوال (mode) = الأكثر تكرارًا. ممكن يبقى في منوالين (bimodal) أو مافيش منوال.",
+    "الوسيط (median) = الرقم اللي في النص بعد الترتيب. لو العدد زوجي ناخد الرقمين اللي في النص ونجمعهم ونقسم على 2.",
+    "المتوسط الحسابي (mean) = المجموع ÷ العدد.",
+    "المدى (range) = الأكبر − الأصغر، وده مش متوسط — ده بيقيس قد إيه البيانات متفرقة."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "6. Interpreting and comparing data"
+  },
+  {
+   "type": "p",
+   "text": "To **compare two data sets**, use **one average** (to say which is generally higher) **and the range** (to say which is more consistent). Then write a sentence **in the context** of the question."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 460 250\" width=\"460\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"80\" y1=\"105\" x2=\"430\" y2=\"105\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"10\" y=\"93\" font-size=\"14\" text-anchor=\"start\" font-weight=\"bold\">Class A</text><line x1=\"85\" y1=\"105\" x2=\"85\" y2=\"110\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"85\" y=\"125\" font-size=\"13\" text-anchor=\"middle\">2</text><line x1=\"127.5\" y1=\"105\" x2=\"127.5\" y2=\"110\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"127.5\" y=\"125\" font-size=\"13\" text-anchor=\"middle\">3</text><line x1=\"170\" y1=\"105\" x2=\"170\" y2=\"110\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"170\" y=\"125\" font-size=\"13\" text-anchor=\"middle\">4</text><line x1=\"212.5\" y1=\"105\" x2=\"212.5\" y2=\"110\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"212.5\" y=\"125\" font-size=\"13\" text-anchor=\"middle\">5</text><line x1=\"255\" y1=\"105\" x2=\"255\" y2=\"110\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"255\" y=\"125\" font-size=\"13\" text-anchor=\"middle\">6</text><circle cx=\"255\" cy=\"94\" r=\"5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"255\" cy=\"81\" r=\"5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><line x1=\"297.5\" y1=\"105\" x2=\"297.5\" y2=\"110\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"297.5\" y=\"125\" font-size=\"13\" text-anchor=\"middle\">7</text><circle cx=\"297.5\" cy=\"94\" r=\"5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"297.5\" cy=\"81\" r=\"5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"297.5\" cy=\"68\" r=\"5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><line x1=\"340\" y1=\"105\" x2=\"340\" y2=\"110\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"340\" y=\"125\" font-size=\"13\" text-anchor=\"middle\">8</text><circle cx=\"340\" cy=\"94\" r=\"5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"340\" cy=\"81\" r=\"5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><line x1=\"382.5\" y1=\"105\" x2=\"382.5\" y2=\"110\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"382.5\" y=\"125\" font-size=\"13\" text-anchor=\"middle\">9</text><line x1=\"425\" y1=\"105\" x2=\"425\" y2=\"110\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"425\" y=\"125\" font-size=\"13\" text-anchor=\"middle\">10</text><line x1=\"80\" y1=\"205\" x2=\"430\" y2=\"205\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"10\" y=\"193\" font-size=\"14\" text-anchor=\"start\" font-weight=\"bold\">Class B</text><line x1=\"85\" y1=\"205\" x2=\"85\" y2=\"210\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"85\" y=\"225\" font-size=\"13\" text-anchor=\"middle\">2</text><line x1=\"127.5\" y1=\"205\" x2=\"127.5\" y2=\"210\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"127.5\" y=\"225\" font-size=\"13\" text-anchor=\"middle\">3</text><circle cx=\"127.5\" cy=\"194\" r=\"5\" fill=\"#c76a00\" stroke=\"#c76a00\" stroke-width=\"1\"/><line x1=\"170\" y1=\"205\" x2=\"170\" y2=\"210\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"170\" y=\"225\" font-size=\"13\" text-anchor=\"middle\">4</text><circle cx=\"170\" cy=\"194\" r=\"5\" fill=\"#c76a00\" stroke=\"#c76a00\" stroke-width=\"1\"/><line x1=\"212.5\" y1=\"205\" x2=\"212.5\" y2=\"210\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"212.5\" y=\"225\" font-size=\"13\" text-anchor=\"middle\">5</text><line x1=\"255\" y1=\"205\" x2=\"255\" y2=\"210\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"255\" y=\"225\" font-size=\"13\" text-anchor=\"middle\">6</text><circle cx=\"255\" cy=\"194\" r=\"5\" fill=\"#c76a00\" stroke=\"#c76a00\" stroke-width=\"1\"/><line x1=\"297.5\" y1=\"205\" x2=\"297.5\" y2=\"210\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"297.5\" y=\"225\" font-size=\"13\" text-anchor=\"middle\">7</text><circle cx=\"297.5\" cy=\"194\" r=\"5\" fill=\"#c76a00\" stroke=\"#c76a00\" stroke-width=\"1\"/><line x1=\"340\" y1=\"205\" x2=\"340\" y2=\"210\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"340\" y=\"225\" font-size=\"13\" text-anchor=\"middle\">8</text><line x1=\"382.5\" y1=\"205\" x2=\"382.5\" y2=\"210\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"382.5\" y=\"225\" font-size=\"13\" text-anchor=\"middle\">9</text><circle cx=\"382.5\" cy=\"194\" r=\"5\" fill=\"#c76a00\" stroke=\"#c76a00\" stroke-width=\"1\"/><line x1=\"425\" y1=\"205\" x2=\"425\" y2=\"210\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"425\" y=\"225\" font-size=\"13\" text-anchor=\"middle\">10</text><circle cx=\"425\" cy=\"194\" r=\"5\" fill=\"#c76a00\" stroke=\"#c76a00\" stroke-width=\"1\"/><circle cx=\"425\" cy=\"181\" r=\"5\" fill=\"#c76a00\" stroke=\"#c76a00\" stroke-width=\"1\"/></svg>",
+   "caption": "Spelling scores out of 10 for 7 students in each class. Both classes have a total of 49, so both means are 49 ÷ 7 = 7. Class A: range 8 − 6 = 2. Class B: range 10 − 3 = 7."
+  },
+  {
+   "type": "p",
+   "text": "**Conclusion:** “On average, both classes did equally well (mean 7). Class A’s scores were much more consistent (range 2) than Class B’s (range 7), where some students scored very high and some very low.”"
+  },
+  {
+   "type": "p",
+   "text": "**Why does data vary?** When you discuss a conclusion, think about the **sources of variation**:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**Natural differences** — people, plants and days are not all the same.",
+    "**Measuring** — different people may measure in slightly different ways or round differently; instruments are not perfectly accurate.",
+    "**Chance** — a test on a different day, or a different group of students, could give different results.",
+    "**Sample size** — with only a few values, one unusual value changes the results a lot; more data gives a more reliable conclusion.",
+    "**Mistakes** — a value recorded wrongly (e.g. 200 cm for a child’s height) should be checked."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Checking a prediction.** Compare what you predicted with the averages and ranges you found. Say whether the data **supports** the prediction, quote the numbers, and say how sure you can be (e.g. “only 7 students in each class, so we should collect more data”)."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — All four measures  [3 marks]\nThe number of books 8 students read in a month: 4, 2, 7, 3, 4, 6, 4, 2. Find the mode, the median, the mean and the range."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "In order: 2, 2, 3, 4, 4, 4, 6, 7 (8 values ✓).",
+    "Mode: 4 appears three times → **mode = 4**.",
+    "Median: 8 values, so the middle is between the 4th and 5th values: 4 and 4 → (4 + 4) ÷ 2 = **4**.",
+    "Mean: total = 2 + 2 + 3 + 4 + 4 + 4 + 6 + 7 = 32; 32 ÷ 8 = **4**.",
+    "Range: 7 − 2 = **5**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** mode 4, median 4, mean 4, range 5.\n**Common mistake:** finding the median from the unordered list (the 4th and 5th values there are 3 and 4, giving 3.5 — wrong)."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — Median of an even number of values  [1 mark]\nThe times (in seconds) for 6 children to run 60 m: 11.4, 10.8, 12.0, 11.0, 13.2, 10.5. Find the median time."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "In order: 10.5, 10.8, **11.0, 11.4**, 12.0, 13.2.",
+    "Middle two: 11.0 and 11.4. (11.0 + 11.4) ÷ 2 = 22.4 ÷ 2 = 11.2."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** 11.2 seconds."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — Bimodal data and choosing the mode  [2 marks]\nA shop sold these sizes of school shoes on Monday: 36, 38, 35, 38, 37, 36, 39, 38, 36. (a) Find the mode. (b) Why is the mode the most useful average for the shop?"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Tally: 35 → 1, 36 → 3, 37 → 1, 38 → 3, 39 → 1.",
+    "36 and 38 both appear 3 times → the data is **bimodal**: modes 36 and 38.",
+    "The shop needs to know which sizes are **most often bought** so it can order more of them. A mean shoe size such as 37.0 is not useful for ordering stock and might not even be a real size."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** (a) 36 and 38 (both needed). (b) It shows the most popular sizes, which the shop should stock most."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — An extreme value  [2 marks]\nThe weekly pocket money of 6 friends (in pounds): 20, 25, 25, 30, 30, 200. (a) Work out the mean and the median. (b) Which one better describes the typical pocket money? Explain."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Mean: total = 20 + 25 + 25 + 30 + 30 + 200 = 330; 330 ÷ 6 = **55**.",
+    "Median: middle values are 25 and 30 → (25 + 30) ÷ 2 = **27.5**.",
+    "Five of the six friends get 30 pounds or less, but the mean is 55 because the one value of 200 pulls it up."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** (a) mean 55 pounds, median 27.5 pounds. (b) The median, because the extreme value 200 makes the mean bigger than what almost everyone gets."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — Finding a missing value from the mean  [2 marks]\nThe mean mass of 5 parcels is 3 kg. Four of the parcels have masses 2.5 kg, 4 kg, 1.5 kg and 3 kg. Find the mass of the fifth parcel."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Total of all 5 = mean × number = 3 × 5 = 15 kg.",
+    "Total of the four known = 2.5 + 4 + 1.5 + 3 = 11 kg.",
+    "Fifth parcel = 15 − 11 = **4 kg**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Check:** (2.5 + 4 + 1.5 + 3 + 4) ÷ 5 = 15 ÷ 5 = 3 ✓\n**Common mistake:** answering 3 kg (“the mean”), or adding the four values and dividing by 4."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** — Comparing and checking a prediction  [2 marks]\nOmar predicted: “Class B is better at spelling than Class A.” Use the dot plots in section 6 to say whether the data supports his prediction."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Compare an average: both means are 7, so on average the classes are the same.",
+    "Compare the range: Class A 2, Class B 7. Class B has the two highest scores (10) but also the lowest (3).",
+    "Conclusion in context."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** The data does not support Omar’s prediction: both classes have the same mean score (7). Class B’s scores are more spread out (range 7 compared with 2), so Class B is less consistent, not better. With only 7 students in each class, more data would make the conclusion more reliable."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Finding the median without putting the data in order first.",
+    "Giving the frequency instead of the value for the mode (e.g. “3” instead of “shoe size 36”).",
+    "Forgetting values of 0 when finding the mean, or dividing by the wrong number of values.",
+    "Writing the range as “0 – 5” instead of one number, 5.",
+    "Saying there is “no mode” when there are two modes — two modes means bimodal.",
+    "Comparing two data sets with only one number, or without writing in context (“Class A is more consistent”, not just “A has a smaller range”)."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "“Find the median / mode / mean / range of …” — show your working (the ordered list, or the total and the division).",
+    "“The mean of five numbers is 8. Four of the numbers are … Find the fifth number.”",
+    "“Write a set of four numbers with a mode of 5, a median of 6 and a range of 4” — build the list and check every condition.",
+    "“Which average is the best to use? Explain why.”",
+    "“Compare the two sets of data” — one comment on an average and one on the range, in context.",
+    "“Was the prediction correct? Use the data to explain your answer.”"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Averages and interpreting data — practice",
+   "timed": false,
+   "intro": "14 questions on the mode, median, mean and range, choosing an average and comparing data. Write your working on paper.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 25,
+     "calc": false,
+     "questions": [
+      {
+       "t": "num",
+       "q": "Find the mode of this data: 4, 7, 2, 7, 9, 3, 7, 2",
+       "ans": [
+        7
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Mode",
+       "e": "7 appears three times; 2 appears twice; the others once. Mode = 7."
+      },
+      {
+       "t": "num",
+       "q": "Find the median of: 12, 7, 9, 15",
+       "ans": [
+        10.5
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Median",
+       "e": "In order: 7, 9, 12, 15. Middle two: 9 and 12. (9 + 12) ÷ 2 = 21 ÷ 2 = 10.5."
+      },
+      {
+       "t": "num",
+       "q": "Find the mean of: 6, 9, 4, 11, 5",
+       "ans": [
+        7
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Mean",
+       "e": "Total = 6 + 9 + 4 + 11 + 5 = 35. 35 ÷ 5 = 7."
+      },
+      {
+       "t": "num",
+       "q": "The temperatures (°C) at midday on five days were 23, 31, 17, 35, 29. Find the range.",
+       "ans": [
+        18
+       ],
+       "tol": 0,
+       "unit": "°C",
+       "m": 1,
+       "s": "Range",
+       "e": "Largest 35, smallest 17. 35 − 17 = 18 °C."
+      },
+      {
+       "q": "What is the mode of 2, 3, 3, 5, 6, 6, 8?",
+       "c": [
+        "3 only",
+        "6 only",
+        "3 and 6",
+        "there is no mode"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Mode",
+       "e": "3 and 6 each appear twice, more than any other value. The data is bimodal: the modes are 3 and 6."
+      },
+      {
+       "q": "A class voted for their favourite ice-cream flavour. Which measure can describe the most popular flavour?",
+       "c": [
+        "the mean",
+        "the mode",
+        "the median",
+        "the range"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Choosing an average",
+       "e": "Flavours are categorical data (words), so you cannot add them or put them in number order. Only the mode can be used."
+      },
+      {
+       "t": "num",
+       "q": "The mean of five numbers is 8. Four of the numbers are 6, 11, 7 and 9. What is the fifth number?",
+       "ans": [
+        7
+       ],
+       "tol": 0,
+       "m": 2,
+       "s": "Mean",
+       "e": "Total of five numbers = 8 × 5 = 40. Total of the four = 6 + 11 + 7 + 9 = 33. Fifth number = 40 − 33 = 7. (1 mark for 40 seen.)"
+      },
+      {
+       "t": "num",
+       "p": "The dot plot shows the number of pets owned by 20 students.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 380 190\" width=\"380\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"25\" y1=\"140\" x2=\"355\" y2=\"140\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"40\" y1=\"140\" x2=\"40\" y2=\"146\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"40\" y=\"162\" font-size=\"13\" text-anchor=\"middle\">0</text><circle cx=\"40\" cy=\"128\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"40\" cy=\"114\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"40\" cy=\"100\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"40\" cy=\"86\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><line x1=\"115\" y1=\"140\" x2=\"115\" y2=\"146\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"115\" y=\"162\" font-size=\"13\" text-anchor=\"middle\">1</text><circle cx=\"115\" cy=\"128\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"115\" cy=\"114\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"115\" cy=\"100\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"115\" cy=\"86\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"115\" cy=\"72\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"115\" cy=\"58\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"115\" cy=\"44\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"146\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"190\" y=\"162\" font-size=\"13\" text-anchor=\"middle\">2</text><circle cx=\"190\" cy=\"128\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"190\" cy=\"114\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"190\" cy=\"100\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"190\" cy=\"86\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"190\" cy=\"72\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><line x1=\"265\" y1=\"140\" x2=\"265\" y2=\"146\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"265\" y=\"162\" font-size=\"13\" text-anchor=\"middle\">3</text><circle cx=\"265\" cy=\"128\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"265\" cy=\"114\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"265\" cy=\"100\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><line x1=\"340\" y1=\"140\" x2=\"340\" y2=\"146\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"340\" y=\"162\" font-size=\"13\" text-anchor=\"middle\">4</text><circle cx=\"340\" cy=\"128\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><text x=\"190\" y=\"182\" font-size=\"13\" text-anchor=\"middle\">Number of pets</text></svg>",
+       "q": "(a) Find the median number of pets.",
+       "ans": [
+        1
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Median",
+       "e": "20 values, so the median is halfway between the 10th and 11th values. 0 pets: 1st–4th; 1 pet: 5th–11th. The 10th and 11th are both 1, so the median is 1."
+      },
+      {
+       "t": "num",
+       "p": "The dot plot shows the number of pets owned by 20 students.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 380 190\" width=\"380\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"25\" y1=\"140\" x2=\"355\" y2=\"140\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"40\" y1=\"140\" x2=\"40\" y2=\"146\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"40\" y=\"162\" font-size=\"13\" text-anchor=\"middle\">0</text><circle cx=\"40\" cy=\"128\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"40\" cy=\"114\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"40\" cy=\"100\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"40\" cy=\"86\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><line x1=\"115\" y1=\"140\" x2=\"115\" y2=\"146\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"115\" y=\"162\" font-size=\"13\" text-anchor=\"middle\">1</text><circle cx=\"115\" cy=\"128\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"115\" cy=\"114\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"115\" cy=\"100\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"115\" cy=\"86\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"115\" cy=\"72\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"115\" cy=\"58\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"115\" cy=\"44\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"146\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"190\" y=\"162\" font-size=\"13\" text-anchor=\"middle\">2</text><circle cx=\"190\" cy=\"128\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"190\" cy=\"114\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"190\" cy=\"100\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"190\" cy=\"86\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"190\" cy=\"72\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><line x1=\"265\" y1=\"140\" x2=\"265\" y2=\"146\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"265\" y=\"162\" font-size=\"13\" text-anchor=\"middle\">3</text><circle cx=\"265\" cy=\"128\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"265\" cy=\"114\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><circle cx=\"265\" cy=\"100\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><line x1=\"340\" y1=\"140\" x2=\"340\" y2=\"146\" stroke=\"#0f1b33\" stroke-width=\"1.2\"/><text x=\"340\" y=\"162\" font-size=\"13\" text-anchor=\"middle\">4</text><circle cx=\"340\" cy=\"128\" r=\"5.5\" fill=\"#1f5fbf\" stroke=\"#1f5fbf\" stroke-width=\"1\"/><text x=\"190\" y=\"182\" font-size=\"13\" text-anchor=\"middle\">Number of pets</text></svg>",
+       "q": "(b) Find the mean number of pets.",
+       "ans": [
+        1.5,
+        "3/2"
+       ],
+       "tol": 0,
+       "m": 2,
+       "s": "Mean",
+       "e": "Total pets = 0×4 + 1×7 + 2×5 + 3×3 + 4×1 = 0 + 7 + 10 + 9 + 4 = 30. Mean = 30 ÷ 20 = 1.5. (1 mark for a total of 30.)"
+      },
+      {
+       "q": "The prices of five houses in a street are 2 million, 2.1 million, 2.3 million, 2.4 million and 15 million pounds. Which average best describes a typical price?",
+       "c": [
+        "the median, because the 15 million is an extreme value",
+        "the mean, because it uses every value",
+        "the mode, because it is the most common",
+        "the range, because it shows the spread"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Choosing an average",
+       "e": "The median (2.3 million) is typical of the first four houses. The mean (23.8 ÷ 5 = 4.76 million) is pulled up by the extreme 15 million house. There is no mode, and the range is not an average."
+      },
+      {
+       "q": "Which statement about the range is true?",
+       "c": [
+        "It is the value that appears most often.",
+        "It is the middle value of the ordered data.",
+        "It is the total divided by the number of values.",
+        "It shows how spread out the data is."
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Range",
+       "e": "Range = largest − smallest. It measures spread (consistency), not a typical value."
+      },
+      {
+       "t": "num",
+       "q": "Four whole numbers have a mode of 5, a median of 6 and a mean of 7. What is the largest of the four numbers?",
+       "ans": [
+        11
+       ],
+       "tol": 0,
+       "m": 2,
+       "s": "Mode, median, mean",
+       "e": "Mode 5 → at least two 5s. Median 6 → the 2nd and 3rd values (in order) average 6. If the 5s were 2nd and 3rd, the median would be 5, so the 5s are 1st and 2nd: 5, 5, c, d with (5 + c) ÷ 2 = 6 → c = 7. Mean 7 → total 28 → d = 28 − 5 − 5 − 7 = 11. Numbers: 5, 5, 7, 11. Check: mode 5 ✓ median 6 ✓ mean 7 ✓."
+      },
+      {
+       "t": "open",
+       "p": "Two runners each ran 100 m five times. Times in seconds — Karim: 15, 14, 16, 15, 15. Hany: 12, 18, 13, 17, 15.",
+       "q": "Compare the two runners. Use the mean and the range.",
+       "m": 2,
+       "s": "Comparing data",
+       "ms": "1 mark: both means correct (Karim 75 ÷ 5 = 15 s, Hany 75 ÷ 5 = 15 s) with a comment that on average they are equally fast (oe). 1 mark: both ranges correct (Karim 2 s, Hany 6 s) with a comment that Karim is more consistent (oe). Comments must be in context; do not accept “Karim’s range is smaller” without saying what it means.",
+       "e": "Karim: total 75, mean 15 s, range 16 − 14 = 2 s. Hany: total 75, mean 15 s, range 18 − 12 = 6 s. On average they are equally fast (both means 15 s), but Karim’s times are more consistent (range 2 s compared with 6 s)."
+      },
+      {
+       "t": "open",
+       "q": "Two groups of students each measured the height of the same tree seedling. Group 1 got 23.4 cm and Group 2 got 24.1 cm. Give two reasons why their measurements might be different.",
+       "m": 2,
+       "s": "Variation",
+       "ms": "1 mark for each different sensible reason, e.g. they measured from different starting points (soil level / top of the pot); one ruler not held straight; reading the scale from an angle; measured to different accuracy / rounded differently; the seedling grew between measurements (if measured at different times); a recording mistake. Do not accept “they did it wrong” without a reason.",
+       "e": "For example: the groups may have started measuring from different points (the soil or the rim of the pot), or one group may not have held the ruler straight. Measurements always vary a little, so it is sensible to repeat them and use an average."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Mode = most common (there can be two: bimodal). Median = middle value after ordering. Mean = total ÷ number of values.",
+    "Range = largest − smallest: it measures spread, not a typical value.",
+    "Use the mode for categorical data, the median when there is an extreme value, and the mean when the values are close together.",
+    "To compare two data sets: compare an average and the range, and write your conclusion in context.",
+    "Data varies because of natural differences, measuring, chance and sample size — more data gives more reliable conclusions."
+   ]
+  }
+ ]
+}

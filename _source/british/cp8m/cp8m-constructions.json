@@ -1,0 +1,569 @@
+{
+ "slug": "cp8m-constructions",
+ "title": "Constructions with Ruler and Compasses",
+ "kicker": "Cambridge Lower Secondary · Mathematics 0862 · Stage 8 · Geometry and Measure",
+ "summary": "Construct triangles from sides and angles, and use a ruler and compasses to construct the midpoint and perpendicular bisector of a line and the bisector of an angle.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Construct triangles accurately from given information; construct the midpoint and the perpendicular bisector of a line segment; construct the bisector of an angle. [8Gg.12]"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "A **construction** is an accurate drawing made with a ruler, a pair of compasses and (for triangles with given angles) a protractor. The arcs you draw with the compasses are your **working** — in a test you must leave them on the page so the examiner can see your method. On this page you will learn the three ways to construct a triangle, how to find the exact middle of a line and draw a line at right angles through it, and how to cut an angle exactly in half."
+  },
+  {
+   "type": "h2",
+   "text": "1. Key words and equipment"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "construct",
+     "يرسم بدقة (إنشاء هندسي) — draw accurately using ruler and compasses (and protractor if needed)"
+    ],
+    [
+     "pair of compasses",
+     "الفرجار — draws arcs and circles; keeps a fixed distance"
+    ],
+    [
+     "arc",
+     "قوس — part of a circle; leave construction arcs on your drawing"
+    ],
+    [
+     "line segment",
+     "قطعة مستقيمة — a straight line with two end points"
+    ],
+    [
+     "midpoint",
+     "نقطة المنتصف — the point exactly halfway along a line segment"
+    ],
+    [
+     "perpendicular",
+     "عمودي — at 90° (a right angle) to another line"
+    ],
+    [
+     "bisect / bisector",
+     "ينصّف / المنصّف — cut into two equal parts / the line that does it"
+    ],
+    [
+     "perpendicular bisector",
+     "العمود المنصّف — the line that cuts a segment in half at 90°"
+    ],
+    [
+     "angle bisector",
+     "منصّف الزاوية — the line that cuts an angle into two equal angles"
+    ],
+    [
+     "vertex",
+     "رأس — the corner point of an angle or triangle"
+    ],
+    [
+     "included angle",
+     "الزاوية المحصورة — the angle between two given sides"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "Use a **sharp pencil** — a thick line can be 1 mm wide, which is already an error.",
+    "Use **stiff compasses** that do not slip, and keep the point firmly on the centre.",
+    "Measure lengths from the **0 mark** of the ruler, not from the end of the ruler.",
+    "**Never rub out your arcs.** They are the evidence of the construction."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "2. Constructing triangles"
+  },
+  {
+   "type": "p",
+   "text": "You can construct a triangle when you know enough about it. There are three common cases:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "You are given",
+    "Short name",
+    "Equipment"
+   ],
+   "rows": [
+    [
+     "three sides",
+     "SSS (side, side, side)",
+     "ruler + compasses"
+    ],
+    [
+     "two sides and the angle between them",
+     "SAS (side, angle, side)",
+     "ruler + protractor"
+    ],
+    [
+     "two angles and the side between them",
+     "ASA (angle, side, angle)",
+     "ruler + protractor"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Case 1: three sides (SSS)** — Construct triangle ABC with AB = 7 cm, AC = 5 cm and BC = 6 cm."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Draw the longest side, AB = 7 cm, with a ruler. Label A and B.",
+    "Open the compasses to 5 cm (measure on the ruler). Put the point on A and draw an arc above AB.",
+    "Open the compasses to 6 cm. Put the point on B and draw an arc that crosses the first arc.",
+    "The crossing point is C. Join AC and BC with a ruler.",
+    "Leave the arcs. Label the lengths."
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 215\" width=\"360\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"70,190 280,190 151.4,64\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2.5\" stroke-linejoin=\"round\"/><path d=\"M179.5 87.5A150 150 0 0 0 128.3 51.8\" fill=\"none\" stroke=\"#1f5fbf\" stroke-width=\"1.5\"/><path d=\"M175.3 43.6A180 180 0 0 0 124.8 98.9\" fill=\"none\" stroke=\"#1f5fbf\" stroke-width=\"1.5\"/><text x=\"58\" y=\"195\" text-anchor=\"middle\" font-weight=\"bold\">A</text><text x=\"292\" y=\"195\" text-anchor=\"middle\" font-weight=\"bold\">B</text><text x=\"151.4\" y=\"54\" text-anchor=\"middle\" font-weight=\"bold\">C</text><text x=\"175\" y=\"212\" text-anchor=\"middle\">7 cm</text><text x=\"100.7\" y=\"131\" text-anchor=\"end\">5 cm</text><text x=\"225.7\" y=\"131\">6 cm</text></svg>",
+   "caption": "SSS construction (drawn at 1 cm = 30 pixels). The blue arcs show how C was found."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "When is a triangle impossible?",
+   "text": "The two shorter sides must add up to **more than** the longest side, or the arcs will never meet. 3 cm, 4 cm and 8 cm: 3 + 4 = 7, which is less than 8, so there is no triangle. 3 cm, 4 cm and 7 cm: the arcs meet on the line, so the 'triangle' is flat. This is a good example of **specialising**: test the rule with the numbers in the question."
+  },
+  {
+   "type": "p",
+   "text": "**Case 2: two sides and the included angle (SAS)** — Construct triangle ABC with AB = 6 cm, angle BAC = 50° and AC = 4.5 cm."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Draw AB = 6 cm.",
+    "Put the centre of the protractor on A, with the base line along AB. Mark 50° (use the scale that starts at 0 on AB).",
+    "Draw a line from A through your mark.",
+    "Measure 4.5 cm along this line from A and mark C.",
+    "Join BC. If asked, measure BC: it is about 4.6 cm."
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 330 205\" width=\"330\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"50\" y1=\"180\" x2=\"230\" y2=\"180\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"50\" y1=\"180\" x2=\"162.5\" y2=\"45.9\" stroke=\"#0f1b33\" stroke-width=\"1.3\" stroke-dasharray=\"5 4\"/><polygon points=\"50,180 230,180 136.8,76.6\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2.5\" stroke-linejoin=\"round\"/><path d=\"M50 180L80 180A30 30 0 0 0 69.3 157Z\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"1.6\"/><text x=\"95.3\" y=\"163.8\" text-anchor=\"middle\">50°</text><text x=\"38\" y=\"185\" text-anchor=\"middle\" font-weight=\"bold\">A</text><text x=\"242\" y=\"185\" text-anchor=\"middle\" font-weight=\"bold\">B</text><text x=\"134.8\" y=\"66.6\" text-anchor=\"middle\" font-weight=\"bold\">C</text><text x=\"140\" y=\"202\" text-anchor=\"middle\">6 cm</text><text x=\"83.4\" y=\"132.3\" text-anchor=\"end\">4.5 cm</text><text x=\"193.4\" y=\"132.3\" fill=\"#c0392b\">≈ 4.6 cm</text></svg>",
+   "caption": "SAS construction: the 50° angle is between the two given sides."
+  },
+  {
+   "type": "p",
+   "text": "**Case 3: two angles and the included side (ASA)** — Construct triangle ABC with AB = 7 cm, angle A = 40° and angle B = 65°."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Draw AB = 7 cm.",
+    "At A, measure 40° with the protractor and draw a long line.",
+    "At B, measure 65° (measured from BA) and draw a long line.",
+    "The lines cross at C. Check: angle C should be 180 − 40 − 65 = 75°."
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 235\" width=\"300\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"40,210 250,210 190.9,83.3\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2.5\" stroke-linejoin=\"round\"/><path d=\"M40 210L74 210A34 34 0 0 0 66 188.1Z\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"1.6\"/><text x=\"90.7\" y=\"196.4\" text-anchor=\"middle\">40°</text><path d=\"M250 210L237.3 182.8A30 30 0 0 0 220 210Z\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"1.6\"/><text x=\"207.8\" y=\"188\" text-anchor=\"middle\">65°</text><text x=\"28\" y=\"215\" text-anchor=\"middle\" font-weight=\"bold\">A</text><text x=\"262\" y=\"215\" text-anchor=\"middle\" font-weight=\"bold\">B</text><text x=\"190.9\" y=\"73.3\" text-anchor=\"middle\" font-weight=\"bold\">C</text><text x=\"145\" y=\"232\" text-anchor=\"middle\">7 cm</text><path d=\"M190.9 83.3L174.1 97.5A22 22 0 0 0 200.2 103.3Z\" fill=\"#e3f4e5\" stroke=\"#1f5fbf\" stroke-width=\"1.6\"/><text x=\"182.7\" y=\"125\" text-anchor=\"middle\" font-size=\"13\">75°</text></svg>",
+   "caption": "ASA construction: the third angle must be 75°, which is a good check on accuracy."
+  },
+  {
+   "type": "h2",
+   "text": "3. The perpendicular bisector and the midpoint"
+  },
+  {
+   "type": "p",
+   "text": "The **perpendicular bisector** of a line segment AB cuts AB into two equal halves **and** crosses it at 90°. The point where it crosses AB is the **midpoint** M. You construct it with compasses only — no protractor and no measuring of the halves."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Open the compasses to **more than half** the length of AB.",
+    "Put the point on A. Draw an arc above AB and an arc below AB.",
+    "**Without changing the compasses**, put the point on B and draw arcs that cross the first two arcs.",
+    "Use a ruler to draw a straight line through the two crossing points. This is the perpendicular bisector.",
+    "Where it crosses AB is the midpoint M. (Check: AM = MB and the angle is 90°.)"
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 430 300\" width=\"430\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"90\" y1=\"150\" x2=\"330\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><path d=\"M226.1 86.9A150 150 0 0 0 188.7 37\" fill=\"none\" stroke=\"#1f5fbf\" stroke-width=\"1.5\"/><path d=\"M188.7 263A150 150 0 0 0 226.1 213.1\" fill=\"none\" stroke=\"#1f5fbf\" stroke-width=\"1.5\"/><path d=\"M231.3 37A150 150 0 0 0 193.9 86.9\" fill=\"none\" stroke=\"#1f5fbf\" stroke-width=\"1.5\"/><path d=\"M193.9 213.1A150 150 0 0 0 231.3 263\" fill=\"none\" stroke=\"#1f5fbf\" stroke-width=\"1.5\"/><line x1=\"210\" y1=\"38\" x2=\"210\" y2=\"262\" stroke=\"#c0392b\" stroke-width=\"2\"/><polyline points=\"221,150 221,139 210,139\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><line x1=\"150\" y1=\"144\" x2=\"150\" y2=\"156\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><line x1=\"270\" y1=\"144\" x2=\"270\" y2=\"156\" stroke=\"#0f1b33\" stroke-width=\"1.8\"/><circle cx=\"90\" cy=\"150\" r=\"3.5\" fill=\"#0f1b33\"/><circle cx=\"330\" cy=\"150\" r=\"3.5\" fill=\"#0f1b33\"/><circle cx=\"210\" cy=\"150\" r=\"3.5\" fill=\"#c0392b\"/><text x=\"76\" y=\"155\" text-anchor=\"middle\" font-weight=\"bold\">A</text><text x=\"344\" y=\"155\" text-anchor=\"middle\" font-weight=\"bold\">B</text><text x=\"196\" y=\"172\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#c0392b\">M</text><text x=\"236\" y=\"94\" font-size=\"13\" fill=\"#c0392b\">perpendicular bisector</text><text x=\"150\" y=\"172\" text-anchor=\"middle\" font-size=\"13\">4 cm</text><text x=\"270\" y=\"172\" text-anchor=\"middle\" font-size=\"13\">4 cm</text></svg>",
+   "caption": "Perpendicular bisector of an 8 cm line AB (compasses set to 5 cm). It meets AB at the midpoint M, 4 cm from each end, at 90°."
+  },
+  {
+   "type": "p",
+   "text": "**Why does it work?** Each crossing point is the same distance from A as from B (both arcs have the same radius). Every point on the perpendicular bisector is **equidistant** (the same distance) from A and from B. This is useful in real problems: 'a tree is planted the same distance from two gates' means it lies on the perpendicular bisector of the line joining the gates."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "العمود المنصّف بالفرجار",
+   "items": [
+    "افتح الفرجار أكتر من نص طول الخط AB.",
+    "ارسم قوس فوق وقوس تحت من A، وبنفس الفتحة ارسم قوسين من B.",
+    "وصّل نقطتين التقاطع بالمسطرة: ده العمود المنصّف، وبيقابل AB في نقطة المنتصف بزاوية 90°.",
+    "ماتمسحش الأقواس أبداً — هي دليل إنك رسمت صح."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "4. The angle bisector"
+  },
+  {
+   "type": "p",
+   "text": "The **angle bisector** cuts an angle into two equal angles. Again you use compasses, not a protractor."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Put the compass point on the vertex O. Draw an arc that crosses both arms of the angle. Label the crossing points P and Q.",
+    "Put the compass point on P and draw an arc inside the angle.",
+    "**Keep the same radius**, put the point on Q and draw an arc that crosses the last arc at R.",
+    "Draw a straight line from O through R. This is the angle bisector."
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 400 262\" width=\"400\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"50\" y1=\"230\" x2=\"380\" y2=\"230\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"50\" y1=\"230\" x2=\"127\" y2=\"18.6\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><path d=\"M168.8 246.7A120 120 0 0 0 74.9 112.6\" fill=\"none\" stroke=\"#1f5fbf\" stroke-width=\"1.5\"/><path d=\"M222.1 133.1A110 110 0 0 0 178.2 120.3\" fill=\"none\" stroke=\"#1f5fbf\" stroke-width=\"1.5\"/><path d=\"M196.9 147.1A110 110 0 0 0 199.9 101.4\" fill=\"none\" stroke=\"#1f5fbf\" stroke-width=\"1.5\"/><line x1=\"50\" y1=\"230\" x2=\"295.7\" y2=\"57.9\" stroke=\"#c0392b\" stroke-width=\"2\"/><path d=\"M50 230L95 230A45 45 0 0 0 86.9 204.2Z\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"1.6\"/><text x=\"112.9\" y=\"214.7\" text-anchor=\"middle\" font-size=\"13\">35°</text><path d=\"M50 230L92.6 200.2A52 52 0 0 0 67.8 181.1Z\" fill=\"#e3f4e5\" stroke=\"#c0392b\" stroke-width=\"1.6\"/><text x=\"93.8\" y=\"177.4\" text-anchor=\"middle\" font-size=\"13\">35°</text><circle cx=\"50\" cy=\"230\" r=\"3.5\" fill=\"#0f1b33\"/><circle cx=\"170\" cy=\"230\" r=\"3.5\" fill=\"#0f1b33\"/><circle cx=\"91\" cy=\"117.2\" r=\"3.5\" fill=\"#0f1b33\"/><circle cx=\"200.8\" cy=\"124.4\" r=\"3.5\" fill=\"#c0392b\"/><text x=\"38\" y=\"236\" text-anchor=\"middle\" font-weight=\"bold\">O</text><text x=\"184\" y=\"250\" text-anchor=\"middle\" font-weight=\"bold\">P</text><text x=\"77\" y=\"115.2\" text-anchor=\"middle\" font-weight=\"bold\">Q</text><text x=\"206.8\" y=\"114.4\" font-weight=\"bold\" fill=\"#c0392b\">R</text><text x=\"285.7\" y=\"49.9\" text-anchor=\"end\" font-size=\"13\" fill=\"#c0392b\">angle bisector</text></svg>",
+   "caption": "Bisecting a 70° angle gives two angles of 35°. Every point on the bisector is the same distance from both arms."
+  },
+  {
+   "type": "p",
+   "text": "**Why does it work?** OP = OQ (the same arc) and PR = QR (the same compass setting), and OR is shared. So triangles OPR and OQR have three equal sides — they are identical (congruent) — which means angle POR = angle QOR."
+  },
+  {
+   "type": "h2",
+   "text": "5. Special angles with compasses only"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**60°**: draw a line OP. With the compasses set to OP, draw an arc from O and an arc from P; they cross at Q. Triangle OPQ is equilateral, so angle QOP = 60°.",
+    "**30°**: bisect a 60° angle.",
+    "**90°**: draw the perpendicular bisector of a line segment (or bisect a straight angle of 180°).",
+    "**45°**: bisect a 90° angle."
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 260 255\" width=\"260\" font-family=\"Arial, sans-serif\" font-size=\"14\"><line x1=\"40\" y1=\"200\" x2=\"240\" y2=\"200\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><line x1=\"40\" y1=\"200\" x2=\"135\" y2=\"35.5\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><path d=\"M149.4 211.5A110 110 0 0 0 77.6 96.6\" fill=\"none\" stroke=\"#1f5fbf\" stroke-width=\"1.5\"/><path d=\"M108.8 98A110 110 0 0 0 82.3 113.3\" fill=\"none\" stroke=\"#1f5fbf\" stroke-width=\"1.5\"/><path d=\"M40 200L70 200A30 30 0 0 0 55 174Z\" fill=\"#fff4d6\" stroke=\"#c0392b\" stroke-width=\"1.6\"/><text x=\"83.3\" y=\"179.9\" text-anchor=\"middle\">60°</text><circle cx=\"40\" cy=\"200\" r=\"3.5\" fill=\"#0f1b33\"/><circle cx=\"150\" cy=\"200\" r=\"3.5\" fill=\"#0f1b33\"/><circle cx=\"95\" cy=\"104.7\" r=\"3.5\" fill=\"#0f1b33\"/><line x1=\"150\" y1=\"200\" x2=\"95\" y2=\"104.7\" stroke=\"#0f1b33\" stroke-width=\"1.5\" stroke-dasharray=\"5 4\"/><text x=\"28\" y=\"206\" text-anchor=\"middle\" font-weight=\"bold\">O</text><text x=\"160\" y=\"220\" text-anchor=\"middle\" font-weight=\"bold\">P</text><text x=\"81\" y=\"100.7\" text-anchor=\"middle\" font-weight=\"bold\">Q</text><text x=\"130\" y=\"245\" text-anchor=\"middle\" font-size=\"13\">OP = OQ = PQ</text></svg>",
+   "caption": "Constructing 60°: OP, OQ and PQ are all the same length, so triangle OPQ is equilateral."
+  },
+  {
+   "type": "h2",
+   "text": "6. Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — Construct triangle PQR with PQ = 8 cm, PR = 6 cm and QR = 5 cm. Leave your construction arcs. [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Draw PQ = 8 cm (the longest side) as the base.",
+    "Compasses at 6 cm, point on P: arc above PQ.",
+    "Compasses at 5 cm, point on Q: arc crossing the first arc. Label the crossing R.",
+    "Join PR and QR. Check by measuring: PR = 6 cm and QR = 5 cm.",
+    "Aim for every side to be correct to within 1 mm, and keep both arcs visible as evidence of the construction."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Common mistake: drawing PR and QR with a ruler by 'trying' different positions. Without arcs there is no evidence of construction."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — Construct triangle ABC with AB = 6 cm, angle BAC = 50° and AC = 4.5 cm. Measure BC. [3]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Follow Case 2 above.",
+    "Measure BC with a ruler: **BC ≈ 4.6 cm** (an answer between 4.5 cm and 4.7 cm shows an accurate drawing)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — Construct triangle XYZ with XY = 7 cm, angle X = 40° and angle Y = 65°. Measure XZ. [3]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Draw XY = 7 cm; draw 40° at X and 65° at Y; the lines meet at Z.",
+    "Measure XZ: **about 6.6 cm**. Check angle Z with the protractor: it should be 75°."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — Draw a line AB = 9 cm. Construct the perpendicular bisector of AB and mark the midpoint M. How far is M from A? [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Set the compasses to more than 4.5 cm (for example 6 cm). Draw arcs above and below AB from A, then from B.",
+    "Join the crossing points. Mark M where this line crosses AB.",
+    "AM = 9 ÷ 2 = **4.5 cm**. Check with the ruler."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Common mistake: setting the compasses to less than half of AB. The arcs from A and B then do not meet."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — Draw an angle of 110°. Construct its bisector. What is the size of each new angle? [2]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Draw the 110° angle with a protractor and label the vertex O.",
+    "Arc from O crossing both arms at P and Q; equal arcs from P and Q meeting at R; join OR.",
+    "Each angle = 110 ÷ 2 = **55°**. Measure both to check."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6 (thinking mathematically)** — Amir wants to construct a triangle with sides 4 cm, 5 cm and 10 cm. Explain why he cannot. [1]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "The two shorter sides add up to 4 + 5 = 9 cm, which is less than 10 cm.",
+    "The arcs of radius 4 cm and 5 cm from the ends of the 10 cm line cannot reach each other, so they never cross — **no triangle can be made**."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Rubbing out the construction arcs — you lose the method mark.",
+    "Changing the compass width between the two ends of the line (perpendicular bisector) or between P and Q (angle bisector).",
+    "Opening the compasses to less than half the line, so the arcs never meet.",
+    "Reading the wrong scale on the protractor (drawing 130° instead of 50°). Ask: should this angle be acute or obtuse?",
+    "Measuring from the end of the ruler instead of from 0.",
+    "Using a protractor to bisect an angle when the question says 'use a ruler and compasses only'."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "'Construct triangle ABC… Leave in your construction lines.' — marks for the accurate triangle and for visible arcs.",
+    "'Use a ruler and compasses only to construct the perpendicular bisector of AB / the bisector of angle PQR.' — no protractor; arcs must be visible.",
+    "A sketch with lengths or angles is given and you construct the accurate version, then measure a side or angle — write the measurement with its unit.",
+    "Explain questions: why a triangle cannot be made, or why a construction works (equal radii, equal distances).",
+    "Before you hand in: measure your sides and angles again to check them."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Constructions with Ruler and Compasses — practice",
+   "timed": false,
+   "intro": "14 questions. You need a sharp pencil, a ruler, a pair of compasses and a protractor. Do the constructions on paper, then type your measurements; open answers are self-marked with the mark scheme.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 30,
+     "calc": false,
+     "questions": [
+      {
+       "q": "Which equipment do you need to construct a triangle when you are given the lengths of all three sides?",
+       "c": [
+        "a protractor only",
+        "a ruler and a protractor",
+        "a ruler and a pair of compasses",
+        "a pair of compasses only"
+       ],
+       "a": 2,
+       "m": 1,
+       "e": "SSS: the ruler draws the first side and measures the compass settings; the compasses draw the arcs for the other two sides. No angles are given, so no protractor is needed.",
+       "s": "Triangles"
+      },
+      {
+       "t": "text",
+       "q": "Complete the sentence: The line that cuts a line segment into two equal parts at right angles is called the ______.",
+       "ans": [
+        "perpendicular bisector",
+        "the perpendicular bisector",
+        "perpendicular-bisector"
+       ],
+       "m": 1,
+       "e": "It bisects (cuts in half) and is perpendicular (at 90°): the perpendicular bisector.",
+       "s": "Perpendicular bisector"
+      },
+      {
+       "t": "num",
+       "q": "An angle of 84° is bisected. What is the size of each of the two new angles?",
+       "ans": [
+        42
+       ],
+       "tol": 0,
+       "unit": "°",
+       "m": 1,
+       "e": "Bisect = cut into two equal parts: 84 ÷ 2 = 42°.",
+       "s": "Angle bisector"
+      },
+      {
+       "t": "num",
+       "q": "The perpendicular bisector of AB crosses AB at M. AB = 9.4 cm. Work out the length AM.",
+       "ans": [
+        4.7
+       ],
+       "tol": 0,
+       "unit": "cm",
+       "m": 1,
+       "e": "M is the midpoint, so AM = 9.4 ÷ 2 = 4.7 cm.",
+       "s": "Perpendicular bisector"
+      },
+      {
+       "t": "num",
+       "q": "P is a point on the perpendicular bisector of AB. PA = 6.3 cm. What is the length PB?",
+       "ans": [
+        6.3
+       ],
+       "tol": 0,
+       "unit": "cm",
+       "m": 1,
+       "e": "Every point on the perpendicular bisector of AB is the same distance from A and from B, so PB = PA = 6.3 cm.",
+       "s": "Perpendicular bisector"
+      },
+      {
+       "q": "Which set of lengths can NOT be used to construct a triangle?",
+       "c": [
+        "4 cm, 5 cm, 8 cm",
+        "3 cm, 4 cm, 8 cm",
+        "6 cm, 6 cm, 6 cm",
+        "5 cm, 7 cm, 11 cm"
+       ],
+       "a": 1,
+       "m": 1,
+       "e": "The two shorter sides must add up to more than the longest side. 3 + 4 = 7 < 8, so the arcs cannot meet. The others work: 4 + 5 = 9 > 8, 6 + 6 > 6, 5 + 7 = 12 > 11.",
+       "s": "Triangles"
+      },
+      {
+       "t": "num",
+       "q": "Construct triangle ABC with AB = 8 cm, angle A = 45° and angle B = 60°. Use your drawing (or a calculation) to find the size of angle C.",
+       "ans": [
+        75
+       ],
+       "tol": 0,
+       "unit": "°",
+       "m": 1,
+       "e": "Angles in a triangle add up to 180°: C = 180 − 45 − 60 = 75°. Your measured angle should be 74°–76°.",
+       "s": "Triangles"
+      },
+      {
+       "t": "num",
+       "q": "Construct triangle ABC with AB = 7 cm, AC = 5 cm and BC = 6 cm. Measure angle BAC.",
+       "ans": [
+        57
+       ],
+       "tol": 2,
+       "unit": "°",
+       "m": 2,
+       "e": "Draw AB = 7 cm, arc of radius 5 cm from A, arc of radius 6 cm from B, crossing at C. Measuring gives angle BAC ≈ 57° (accept 55°–59°). 1 mark for the accurate triangle with arcs, 1 mark for the angle.",
+       "s": "Triangles"
+      },
+      {
+       "t": "num",
+       "q": "Construct triangle DEF with DE = 5 cm, angle EDF = 90° and DF = 12 cm. Measure EF.",
+       "ans": [
+        13
+       ],
+       "tol": 0.2,
+       "unit": "cm",
+       "m": 2,
+       "e": "Draw DE = 5 cm, a right angle at D, and DF = 12 cm along it. Join EF and measure: EF = 13 cm (accept 12.8–13.2 cm).",
+       "s": "Triangles"
+      },
+      {
+       "t": "num",
+       "q": "Sara constructs a 60° angle using compasses only, then bisects it. Then she bisects one of the new angles. What is the size of the smallest angle she has made?",
+       "ans": [
+        15
+       ],
+       "tol": 0,
+       "unit": "°",
+       "m": 1,
+       "e": "60 ÷ 2 = 30°, then 30 ÷ 2 = 15°.",
+       "s": "Angle bisector"
+      },
+      {
+       "t": "num",
+       "q": "Construct triangle KLM with KL = 6 cm, angle K = 70° and KM = 6 cm. Measure angle KLM.",
+       "ans": [
+        55
+       ],
+       "tol": 2,
+       "unit": "°",
+       "m": 2,
+       "e": "KL = KM, so the triangle is isosceles and angles L and M are equal: (180 − 70) ÷ 2 = 55°. Your measured angle should be 53°–57°.",
+       "s": "Triangles"
+      },
+      {
+       "t": "open",
+       "q": "Draw a line segment AB of length 8 cm. Using a ruler and compasses only, construct the perpendicular bisector of AB. Leave in your construction arcs.",
+       "ms": "1 mark: two pairs of intersecting arcs drawn from A and B with the same radius (radius more than 4 cm), visible. 1 mark: a straight line through both intersection points, crossing AB at 4 cm (±1 mm) from A, at 90° (±1°). Do not award the second mark if no arcs are visible.",
+       "m": 2,
+       "e": "Set the compasses to about 5 cm. Draw arcs above and below AB from A, and the same from B. Join the two crossing points with a ruler. Check: it meets AB at 4 cm from each end and at a right angle.",
+       "s": "Perpendicular bisector"
+      },
+      {
+       "t": "open",
+       "q": "Draw an angle of 70° with a protractor. Using a ruler and compasses only, construct the bisector of the angle. Leave in your construction arcs.",
+       "ms": "1 mark: an arc centred at the vertex cutting both arms, and two equal-radius arcs from those points crossing inside the angle, all visible. 1 mark: bisector drawn so both angles are 35° (±1°). Do not award marks for a line drawn with a protractor and no arcs.",
+       "m": 2,
+       "e": "Arc from the vertex O cutting the arms at P and Q. Same radius from P and from Q, arcs crossing at R. Join OR. Each half measures 35°.",
+       "s": "Angle bisector"
+      },
+      {
+       "t": "open",
+       "q": "Explain why the angle-bisector construction always gives two equal angles. Use the points O (vertex), P and Q (where the first arc cuts the arms) and R (where the two arcs cross).",
+       "ms": "1 mark: OP = OQ (same arc) and PR = QR (same compass setting), with OR common/shared. 1 mark: so triangles OPR and OQR are identical/congruent (three equal sides), therefore angle POR = angle QOR. Accept a correct explanation using a kite/rhombus OPRQ that is symmetrical about OR.",
+       "m": 2,
+       "e": "OP = OQ because they are radii of the same arc. PR = QR because the compasses were not changed. OR is a side of both triangles. Triangles OPR and OQR have three pairs of equal sides, so they are congruent, and the angles at O are equal — OR bisects the angle.",
+       "s": "Angle bisector"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "SSS: base with ruler, two arcs with compasses; SAS and ASA: ruler and protractor.",
+    "Perpendicular bisector: compasses more than half the line, equal arcs from both ends, join the crossings — it passes through the midpoint at 90°.",
+    "Angle bisector: arc from the vertex, equal arcs from the two crossing points, join the vertex to the new crossing.",
+    "Never rub out construction arcs, and keep the compass width the same when the method says so.",
+    "Check your drawing: measure again, and use facts (angle sum 180°, the two shorter sides must add up to more than the longest)."
+   ]
+  }
+ ]
+}

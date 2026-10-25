@@ -1,0 +1,552 @@
+{
+ "slug": "cp6s-chemical-reactions",
+ "title": "Chemical Reactions: Reactants, Products and Evidence",
+ "kicker": "Cambridge Primary Checkpoint · Science 0097 · Stage 6 · Chemistry",
+ "summary": "What a chemical reaction is, how to name reactants and products in a word equation, and the three pieces of evidence Checkpoint asks about: a gas being produced, a change in colour and a change in temperature.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Understand that in a chemical reaction, substances called reactants interact (react) to make new substances called products. (6Cc.04)",
+    "Observe and describe the evidence that a chemical reaction has happened: a gas is produced, the colour changes, or the temperature changes. (6Cc.05)"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "chemical reaction",
+     "تفاعل كيميائي — a change in which new substances are made"
+    ],
+    [
+     "reactants",
+     "المتفاعلات — the substances you start with, before the reaction"
+    ],
+    [
+     "products",
+     "النواتج — the new substances made by the reaction"
+    ],
+    [
+     "word equation",
+     "معادلة لفظية — reactants → products, written in words"
+    ],
+    [
+     "evidence",
+     "دليل — something you observe that shows a reaction has happened"
+    ],
+    [
+     "fizzing / effervescence",
+     "فوران — many bubbles of gas being produced"
+    ],
+    [
+     "irreversible",
+     "غير عكسي — cannot be changed back to the starting substances"
+    ],
+    [
+     "acid",
+     "حمض — e.g. vinegar or lemon juice; reacts with some substances (wear goggles)"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "2. What is a chemical reaction?"
+  },
+  {
+   "type": "p",
+   "text": "In a physical change (melting, dissolving, boiling) the substance stays the same substance. In a **chemical reaction**, the starting substances **react** — their particles join up in a new way — and **new substances** are made. The new substances have different properties from the old ones."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**Reactants** = the substances at the start (the ones that are used up).",
+    "**Products** = the new substances made at the end.",
+    "Most chemical reactions are **irreversible**: you cannot easily get the reactants back. A burnt match cannot become a match again; a cooked egg cannot be uncooked."
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 220\" width=\"560\" font-family=\"Arial, sans-serif\" font-size=\"13\"><rect x=\"10\" y=\"30\" width=\"210\" height=\"150\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><rect x=\"330\" y=\"30\" width=\"210\" height=\"150\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"115\" y=\"20\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">Reactants</text><text x=\"435\" y=\"20\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">Products</text><g stroke=\"#0f1b33\" stroke-width=\"1.5\"><circle cx=\"45\" cy=\"65\" r=\"11\" fill=\"#e0a33a\"/><circle cx=\"120\" cy=\"80\" r=\"11\" fill=\"#e0a33a\"/><circle cx=\"185\" cy=\"60\" r=\"11\" fill=\"#e0a33a\"/><circle cx=\"70\" cy=\"140\" r=\"11\" fill=\"#e0a33a\"/><circle cx=\"90\" cy=\"105\" r=\"11\" fill=\"#5b8fd6\"/><circle cx=\"160\" cy=\"125\" r=\"11\" fill=\"#5b8fd6\"/><circle cx=\"40\" cy=\"105\" r=\"11\" fill=\"#5b8fd6\"/><circle cx=\"190\" cy=\"155\" r=\"11\" fill=\"#5b8fd6\"/><circle cx=\"370\" cy=\"70\" r=\"11\" fill=\"#e0a33a\"/><circle cx=\"391\" cy=\"70\" r=\"11\" fill=\"#5b8fd6\"/><circle cx=\"460\" cy=\"65\" r=\"11\" fill=\"#e0a33a\"/><circle cx=\"481\" cy=\"65\" r=\"11\" fill=\"#5b8fd6\"/><circle cx=\"390\" cy=\"140\" r=\"11\" fill=\"#e0a33a\"/><circle cx=\"411\" cy=\"140\" r=\"11\" fill=\"#5b8fd6\"/><circle cx=\"475\" cy=\"135\" r=\"11\" fill=\"#e0a33a\"/><circle cx=\"496\" cy=\"135\" r=\"11\" fill=\"#5b8fd6\"/></g><line x1=\"232\" y1=\"105\" x2=\"309\" y2=\"105\" stroke=\"#0f1b33\" stroke-width=\"2.5\"/><polygon points=\"318,105 309,109.5 309,100.5\" fill=\"#0f1b33\"/><text x=\"275\" y=\"92\" text-anchor=\"middle\" fill=\"#0f1b33\">react</text><text x=\"275\" y=\"205\" text-anchor=\"middle\" fill=\"#0f1b33\">The particles join up in a new way, so new substances are made.</text></svg>",
+   "caption": "A model of a reaction: two kinds of particle (the reactants) join together to make a new kind of particle (the product)."
+  },
+  {
+   "type": "h2",
+   "text": "3. Writing a word equation"
+  },
+  {
+   "type": "p",
+   "text": "We show a reaction with a **word equation**. The reactants go on the **left**, the products on the **right**, and the arrow means \"react to make\". A plus sign (+) separates substances. **Never use an equals sign.**"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Reaction",
+    "Reactants",
+    "→",
+    "Products"
+   ],
+   "rows": [
+    [
+     "A candle burning",
+     "wax + oxygen",
+     "→",
+     "carbon dioxide + water"
+    ],
+    [
+     "Gas burning in a cooker",
+     "natural gas + oxygen",
+     "→",
+     "carbon dioxide + water"
+    ],
+    [
+     "A nail rusting",
+     "iron + oxygen + water",
+     "→",
+     "rust"
+    ],
+    [
+     "Magnesium in acid",
+     "magnesium + hydrochloric acid",
+     "→",
+     "magnesium chloride + hydrogen"
+    ],
+    [
+     "Baking soda in vinegar",
+     "baking soda + vinegar",
+     "→",
+     "carbon dioxide + water + a new salt"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Oxygen** from the air is a reactant in burning and rusting, even though you cannot see it. That is why a candle under a jar goes out, and why a nail kept in dry air with no oxygen and no water does not rust."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Reading a word equation",
+   "text": "Everything **before** the arrow = reactants. Everything **after** the arrow = products. If a question asks \"name one product\", choose any one substance after the arrow — not the whole side."
+  },
+  {
+   "type": "h2",
+   "text": "4. Evidence of a chemical reaction"
+  },
+  {
+   "type": "p",
+   "text": "We cannot see particles, so we look for clues. At Stage 6 you must know three kinds of evidence:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Evidence",
+    "What you observe",
+    "Examples"
+   ],
+   "rows": [
+    [
+     "**1. A gas is produced**",
+     "bubbles, fizzing, a balloon on the flask fills up",
+     "baking soda + vinegar; chalk + vinegar; magnesium + acid; baking powder making a cake rise"
+    ],
+    [
+     "**2. A change in colour**",
+     "the colour of the substance is different afterwards",
+     "grey iron → orange-brown rust; white bread → brown toast; a cut apple turns brown; a copper roof slowly turns green; clear egg white → white when cooked"
+    ],
+    [
+     "**3. A change in temperature**",
+     "the mixture gets hotter (or colder) — measure with a thermometer",
+     "burning gives out heat; magnesium + acid gets warmer; hand warmers get hot; baking soda + vinegar gets colder"
+    ]
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 420 240\" width=\"420\" font-family=\"Arial, sans-serif\" font-size=\"13\"><path d=\"M92 70 L92 110 L40 220 L172 220 L120 110 L120 70\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"2\"/><path d=\"M82.5 130 L129.5 130 L172 220 L40 220 Z\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"0\"/><path d=\"M92 70 L92 110 L40 220 L172 220 L120 110 L120 70\" fill=\"none\" stroke=\"#0f1b33\" stroke-width=\"2\"/><g stroke=\"#0f1b33\" stroke-width=\"1.2\"><circle cx=\"80\" cy=\"200\" r=\"4\" fill=\"#ffffff\"/><circle cx=\"105\" cy=\"190\" r=\"5\" fill=\"#ffffff\"/><circle cx=\"130\" cy=\"205\" r=\"4\" fill=\"#ffffff\"/><circle cx=\"95\" cy=\"165\" r=\"3\" fill=\"#ffffff\"/><circle cx=\"115\" cy=\"150\" r=\"3\" fill=\"#ffffff\"/><circle cx=\"104\" cy=\"138\" r=\"3\" fill=\"#ffffff\"/></g><rect x=\"70\" y=\"213\" width=\"6\" height=\"5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"79\" y=\"213\" width=\"6\" height=\"5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"88\" y=\"213\" width=\"6\" height=\"5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"97\" y=\"213\" width=\"6\" height=\"5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"106\" y=\"213\" width=\"6\" height=\"5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"115\" y=\"213\" width=\"6\" height=\"5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"124\" y=\"213\" width=\"6\" height=\"5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"133\" y=\"213\" width=\"6\" height=\"5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><rect x=\"142\" y=\"213\" width=\"6\" height=\"5\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1\"/><path d=\"M92 70 C60 40 70 0 106 4 C142 0 152 40 120 70 Z\" fill=\"#f6c9c9\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"170\" y=\"30\" fill=\"#0f1b33\">balloon fills with carbon dioxide gas</text><line x1=\"150\" y1=\"30\" x2=\"166\" y2=\"26\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"190\" y=\"150\" fill=\"#0f1b33\">bubbles (fizzing)</text><line x1=\"119\" y1=\"150\" x2=\"186\" y2=\"146\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"190\" y=\"190\" fill=\"#0f1b33\">vinegar</text><line x1=\"150\" y1=\"186\" x2=\"186\" y2=\"187\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><text x=\"190\" y=\"222\" fill=\"#0f1b33\">baking soda</text><line x1=\"146\" y1=\"216\" x2=\"186\" y2=\"218\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/></svg>",
+   "caption": "Evidence of a gas: baking soda reacting with vinegar fizzes, and the carbon dioxide made fills the balloon."
+  },
+  {
+   "type": "p",
+   "text": "**Temperature change:** put a thermometer in the reactants, read it before mixing, then read it again after the reaction. Temperature change = higher reading − lower reading. Say whether it went **up** (got hotter) or **down** (got colder) — both are evidence."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Careful — physical changes can look similar",
+   "items": [
+    "Boiling water makes bubbles, but the gas is still water (water vapour) — no new substance, so it is not a reaction.",
+    "Heating water makes it hotter, but nothing new is made.",
+    "Mixing blue and yellow paint makes green, but the paints are only mixed.",
+    "Bubbles from a fizzy drink are gas that was already dissolved in it.",
+    "So the evidence is a clue. The real test is: **has a new substance been made?**"
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "تذكر",
+   "text": "التفاعل الكيميائي = مواد جديدة تتكون. المواد في البداية اسمها reactants (المتفاعلات) وتُكتب قبل السهم، والمواد الجديدة اسمها products (النواتج) وتُكتب بعد السهم. الأدلة المطلوبة ثلاثة فقط: خروج غاز (فقاعات/فوران)، تغير اللون، تغير درجة الحرارة (سخونة أو برودة)."
+  },
+  {
+   "type": "h2",
+   "text": "5. Physical change or chemical reaction?"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "",
+    "Physical change",
+    "Chemical reaction"
+   ],
+   "rows": [
+    [
+     "New substance made?",
+     "**no**",
+     "**yes**"
+    ],
+    [
+     "Can it be reversed easily?",
+     "usually yes (melting, freezing, dissolving, evaporating)",
+     "usually no (burning, cooking, rusting)"
+    ],
+    [
+     "Examples",
+     "ice melting, salt dissolving, water boiling, wax melting",
+     "wax burning, bread toasting, iron rusting, milk going sour"
+    ],
+    [
+     "What you might see",
+     "change of state or shape; the substance is still the same",
+     "gas made, colour change, temperature change"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "A candle is a good example of both. The wax near the flame **melts** (physical, reversible: it sets again when it cools). The wax vapour in the flame **burns** (chemical: wax + oxygen → carbon dioxide + water), giving out heat and light."
+  },
+  {
+   "type": "h2",
+   "text": "6. Chemical reactions in everyday life"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**Cooking:** frying an egg, toasting bread and grilling meat all make new substances (the colour change shows this).",
+    "**Baking:** baking powder reacts in the hot, wet cake mixture and makes carbon dioxide gas; the bubbles make the cake rise.",
+    "**Burning fuels:** natural gas in a cooker, petrol in a car and wood on a fire react with oxygen and give out heat.",
+    "**Rusting:** iron on bridges, cars and railings reacts with oxygen and water. Painting or oiling iron keeps the water and oxygen away.",
+    "**Food going bad:** milk going sour and fruit going brown are slow reactions."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "7. Gases have mass too"
+  },
+  {
+   "type": "p",
+   "text": "When a reaction makes a gas in an **open** flask, the gas escapes into the air and the balance reading goes **down**. The gas has mass, and it has left the flask. If a balloon (or a stopper) traps the gas, the reading stays the same, because nothing has left. Mass lost = starting mass − final mass."
+  },
+  {
+   "type": "h2",
+   "text": "8. Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — Look at the word equation: **magnesium + oxygen → magnesium oxide**. (a) Name the two reactants. [1] (b) Name the product. [1] (c) Why is this a chemical reaction? [1]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) The reactants are before the arrow: **magnesium and oxygen**.",
+    "(b) The product is after the arrow: **magnesium oxide**.",
+    "(c) A **new substance** (magnesium oxide) is made.",
+    "**Common mistake:** writing \"magnesium oxide\" as a reactant because it contains the word magnesium. Look at which side of the arrow it is on."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — Yara adds iron filings to blue copper sulfate solution. After a few minutes the solution turns pale green, a brown-red solid forms on the iron, and the thermometer reading rises from 21 °C to 26 °C. Give **two** pieces of evidence that a chemical reaction happened. [2 marks]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "The colour changed (blue → pale green, and a red-brown solid appeared) (1).",
+    "The temperature rose by 5 °C (26 − 21 = 5) (1).",
+    "**Exam tip:** describe what you **see** (\"the solution turned from blue to green\"), not just \"it changed\"."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — Before Ziad mixes baking soda and vinegar the thermometer reads 21 °C. After mixing it reads 16 °C. (a) Calculate the temperature change. [1] (b) Is this evidence of a chemical reaction? Explain. [1]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) 21 − 16 = **5 °C** (a **fall** of 5 °C — the mixture got colder).",
+    "(b) Yes — a change in temperature is evidence of a reaction; it can be a rise **or** a fall. (The fizzing, a gas being produced, is more evidence.)",
+    "**Common mistake:** thinking only \"getting hotter\" counts."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — A flask of vinegar and chalk has a mass of 210.0 g at the start. When the fizzing stops, the mass is 207.8 g. The flask was open. (a) Calculate the mass lost. [1] (b) Explain why the mass went down. [1]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) 210.0 − 207.8 = **2.2 g**.",
+    "(b) A gas (carbon dioxide) was produced and **escaped** into the air from the open flask; the gas has mass, so the flask lost mass.",
+    "**Common mistake:** \"the mass was destroyed\" or \"gas has no mass\". Gases do have mass."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — Ahmed heats water in a kettle. It bubbles and gets hot. He says: \"This is a chemical reaction because there are bubbles and a temperature change.\" Is he right? Explain. [2 marks]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "No, he is not right (1).",
+    "No new substance is made — the bubbles are water vapour, which is still water; it can condense back into liquid water. Boiling is a physical (reversible) change (1)."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Mixing up reactants (start, left of the arrow) and products (end, right of the arrow).",
+    "Using \"=\" in a word equation instead of \"→\".",
+    "Forgetting **oxygen** as a reactant in burning and rusting.",
+    "Saying \"it changed\" — always describe the evidence: what gas/bubbles, which colours (from → to), how much the temperature rose or fell.",
+    "Thinking a fall in temperature is not evidence — getting colder counts too.",
+    "Calling boiling, melting or dissolving \"reactions\" — they make no new substance."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "**Name the reactants / products** from a word equation, or **complete** a word equation with a missing word.",
+    "**What is the evidence?** — from a description, picture or results table: bubbles/gas, colour change, temperature change.",
+    "**Read two thermometers** and work out the change — show the subtraction and write °C.",
+    "**Change in mass** — subtract and explain that a gas escaped.",
+    "**Tick the chemical reactions** in a list — look for new substances (burning, cooking, rusting, baking).",
+    "**Safety** — wear eye protection with acids; never taste chemicals."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Chemical reactions — practice",
+   "timed": false,
+   "intro": "Answer every part. Type short answers in the box; for longer answers write yours on paper, then mark it with the mark scheme.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 20,
+     "calc": true,
+     "questions": [
+      {
+       "t": "text",
+       "q": "What name is given to the substances at the start of a chemical reaction?",
+       "ans": [
+        "reactants",
+        "reactant",
+        "the reactants"
+       ],
+       "m": 1,
+       "s": "Reactants and products",
+       "e": "The starting substances are the reactants. The new substances made are the products."
+      },
+      {
+       "p": "magnesium + oxygen → magnesium oxide",
+       "q": "Which is the product of this reaction?",
+       "c": [
+        "magnesium",
+        "oxygen",
+        "magnesium oxide",
+        "magnesium and oxygen"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Reactants and products",
+       "e": "The product is written after the arrow: magnesium oxide. Magnesium and oxygen are the reactants."
+      },
+      {
+       "q": "Which observation shows that a chemical reaction is happening?",
+       "c": [
+        "sugar disappearing when it is stirred into water",
+        "an ice cube melting on a plate",
+        "water bubbling in a hot pan",
+        "bubbles of a new gas when chalk is put in vinegar"
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Evidence",
+       "e": "Chalk and vinegar react to make a new gas (carbon dioxide). Dissolving, melting and boiling are physical changes — no new substance is made."
+      },
+      {
+       "t": "num",
+       "p": "Question 4\nSalma puts a thermometer in some dilute acid. Then she adds a piece of magnesium ribbon. The thermometers show the temperature before and after the reaction.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 340 315\" width=\"340\" font-family=\"Arial, sans-serif\" font-size=\"13\"><rect x=\"63\" y=\"18\" width=\"14\" height=\"249\" rx=\"7\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"67\" y=\"169.5\" width=\"6\" height=\"99.5\" fill=\"#d23c3c\"/><circle cx=\"70\" cy=\"277\" r=\"14\" fill=\"#d23c3c\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><g stroke=\"#0f1b33\" stroke-width=\"1.1\"><path d=\"M79 255h14\"/><path d=\"M79 250.5h6\"/><path d=\"M79 246h6\"/><path d=\"M79 241.5h6\"/><path d=\"M79 237h6\"/><path d=\"M79 232.5h10\"/><path d=\"M79 228h6\"/><path d=\"M79 223.5h6\"/><path d=\"M79 219h6\"/><path d=\"M79 214.5h6\"/><path d=\"M79 210h14\"/><path d=\"M79 205.5h6\"/><path d=\"M79 201h6\"/><path d=\"M79 196.5h6\"/><path d=\"M79 192h6\"/><path d=\"M79 187.5h10\"/><path d=\"M79 183h6\"/><path d=\"M79 178.5h6\"/><path d=\"M79 174h6\"/><path d=\"M79 169.5h6\"/><path d=\"M79 165h14\"/><path d=\"M79 160.5h6\"/><path d=\"M79 156h6\"/><path d=\"M79 151.5h6\"/><path d=\"M79 147h6\"/><path d=\"M79 142.5h10\"/><path d=\"M79 138h6\"/><path d=\"M79 133.5h6\"/><path d=\"M79 129h6\"/><path d=\"M79 124.5h6\"/><path d=\"M79 120h14\"/><path d=\"M79 115.5h6\"/><path d=\"M79 111h6\"/><path d=\"M79 106.5h6\"/><path d=\"M79 102h6\"/><path d=\"M79 97.5h10\"/><path d=\"M79 93h6\"/><path d=\"M79 88.5h6\"/><path d=\"M79 84h6\"/><path d=\"M79 79.5h6\"/><path d=\"M79 75h14\"/><path d=\"M79 70.5h6\"/><path d=\"M79 66h6\"/><path d=\"M79 61.5h6\"/><path d=\"M79 57h6\"/><path d=\"M79 52.5h10\"/><path d=\"M79 48h6\"/><path d=\"M79 43.5h6\"/><path d=\"M79 39h6\"/><path d=\"M79 34.5h6\"/><path d=\"M79 30h14\"/></g><text x=\"100\" y=\"259.5\" fill=\"#0f1b33\">0</text><text x=\"100\" y=\"214.5\" fill=\"#0f1b33\">10</text><text x=\"100\" y=\"169.5\" fill=\"#0f1b33\">20</text><text x=\"100\" y=\"124.5\" fill=\"#0f1b33\">30</text><text x=\"100\" y=\"79.5\" fill=\"#0f1b33\">40</text><text x=\"100\" y=\"34.5\" fill=\"#0f1b33\">50</text><text x=\"80\" y=\"305\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">before</text><rect x=\"233\" y=\"18\" width=\"14\" height=\"249\" rx=\"7\" fill=\"#ffffff\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><rect x=\"237\" y=\"133.5\" width=\"6\" height=\"135.5\" fill=\"#d23c3c\"/><circle cx=\"240\" cy=\"277\" r=\"14\" fill=\"#d23c3c\" stroke=\"#0f1b33\" stroke-width=\"1.5\"/><g stroke=\"#0f1b33\" stroke-width=\"1.1\"><path d=\"M249 255h14\"/><path d=\"M249 250.5h6\"/><path d=\"M249 246h6\"/><path d=\"M249 241.5h6\"/><path d=\"M249 237h6\"/><path d=\"M249 232.5h10\"/><path d=\"M249 228h6\"/><path d=\"M249 223.5h6\"/><path d=\"M249 219h6\"/><path d=\"M249 214.5h6\"/><path d=\"M249 210h14\"/><path d=\"M249 205.5h6\"/><path d=\"M249 201h6\"/><path d=\"M249 196.5h6\"/><path d=\"M249 192h6\"/><path d=\"M249 187.5h10\"/><path d=\"M249 183h6\"/><path d=\"M249 178.5h6\"/><path d=\"M249 174h6\"/><path d=\"M249 169.5h6\"/><path d=\"M249 165h14\"/><path d=\"M249 160.5h6\"/><path d=\"M249 156h6\"/><path d=\"M249 151.5h6\"/><path d=\"M249 147h6\"/><path d=\"M249 142.5h10\"/><path d=\"M249 138h6\"/><path d=\"M249 133.5h6\"/><path d=\"M249 129h6\"/><path d=\"M249 124.5h6\"/><path d=\"M249 120h14\"/><path d=\"M249 115.5h6\"/><path d=\"M249 111h6\"/><path d=\"M249 106.5h6\"/><path d=\"M249 102h6\"/><path d=\"M249 97.5h10\"/><path d=\"M249 93h6\"/><path d=\"M249 88.5h6\"/><path d=\"M249 84h6\"/><path d=\"M249 79.5h6\"/><path d=\"M249 75h14\"/><path d=\"M249 70.5h6\"/><path d=\"M249 66h6\"/><path d=\"M249 61.5h6\"/><path d=\"M249 57h6\"/><path d=\"M249 52.5h10\"/><path d=\"M249 48h6\"/><path d=\"M249 43.5h6\"/><path d=\"M249 39h6\"/><path d=\"M249 34.5h6\"/><path d=\"M249 30h14\"/></g><text x=\"270\" y=\"259.5\" fill=\"#0f1b33\">0</text><text x=\"270\" y=\"214.5\" fill=\"#0f1b33\">10</text><text x=\"270\" y=\"169.5\" fill=\"#0f1b33\">20</text><text x=\"270\" y=\"124.5\" fill=\"#0f1b33\">30</text><text x=\"270\" y=\"79.5\" fill=\"#0f1b33\">40</text><text x=\"270\" y=\"34.5\" fill=\"#0f1b33\">50</text><text x=\"250\" y=\"305\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">after</text><text x=\"170\" y=\"20\" text-anchor=\"middle\" fill=\"#0f1b33\">°C</text></svg>",
+       "q": "By how many degrees did the temperature change?",
+       "ans": [
+        8
+       ],
+       "tol": 0,
+       "unit": "°C",
+       "m": 1,
+       "s": "Evidence",
+       "e": "Each small division is 1 °C. Before: 19 °C; after: 27 °C. Change = 27 − 19 = 8 °C (a rise). A temperature change is evidence of a chemical reaction."
+      },
+      {
+       "t": "text",
+       "q": "Baking soda reacts with vinegar and the mixture fizzes. Name the gas that is produced.",
+       "ans": [
+        "carbon dioxide",
+        "co2",
+        "carbon dioxide gas",
+        "CO_{2}",
+        "CO₂"
+       ],
+       "m": 1,
+       "s": "Evidence",
+       "e": "The gas is carbon dioxide. It is the same gas that makes a cake rise when baking powder reacts in the oven."
+      },
+      {
+       "t": "open",
+       "q": "Describe three different kinds of evidence that a chemical reaction has taken place.",
+       "m": 3,
+       "s": "Evidence",
+       "ms": "1 mark each: a gas is produced / bubbles / fizzing; a change in colour; a change in temperature (gets hotter or colder). Ignore: \"it changes\" without saying what. Note: give credit for clear examples of each type, e.g. \"the balloon fills with gas\". Also accept other correct signs of a new substance, e.g. light or a flame given out, a new solid appearing, a new smell.",
+       "e": "(1) A gas is produced — you see bubbles or fizzing. (2) The colour changes — e.g. grey iron turns orange-brown. (3) The temperature changes — the mixture gets hotter or colder."
+      },
+      {
+       "t": "num",
+       "p": "Question 7\nNadia puts a flask of vinegar on a balance. She adds some baking soda, and the mixture fizzes. She does not put a lid or balloon on the flask.\nMass of flask and contents just after adding the baking soda: 150.0 g. Mass when the fizzing stops: 148.5 g.",
+       "q": "(a) Calculate the mass that was lost.",
+       "ans": [
+        1.5
+       ],
+       "tol": 0.001,
+       "unit": "g",
+       "m": 1,
+       "s": "Gases have mass",
+       "e": "Mass lost = 150.0 − 148.5 = 1.5 g."
+      },
+      {
+       "t": "open",
+       "p": "Question 7\nNadia puts a flask of vinegar on a balance. She adds some baking soda, and the mixture fizzes. She does not put a lid or balloon on the flask.\nMass of flask and contents just after adding the baking soda: 150.0 g. Mass when the fizzing stops: 148.5 g.",
+       "q": "(b) Explain why the mass of the flask went down.",
+       "m": 1,
+       "s": "Gases have mass",
+       "ms": "1 mark: a gas (carbon dioxide) was made and escaped (from the open flask) — gas has mass. Do not accept: the mass was destroyed / the liquid evaporated.",
+       "e": "The reaction made carbon dioxide gas. The flask was open, so the gas escaped into the air. Gases have mass, so the flask lost mass."
+      },
+      {
+       "p": "Question 7\nNadia puts a flask of vinegar on a balance. She adds some baking soda, and the mixture fizzes. She does not put a lid or balloon on the flask.\nMass of flask and contents just after adding the baking soda: 150.0 g. Mass when the fizzing stops: 148.5 g.",
+       "q": "(c) Nadia repeats the experiment with a balloon over the top of the flask to trap all of the gas. The mass at the start is 150.0 g. What will the mass be when the fizzing stops?",
+       "c": [
+        "less than 150.0 g",
+        "150.0 g",
+        "more than 150.0 g",
+        "0 g"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Gases have mass",
+       "e": "The balloon traps the gas, so nothing leaves the flask. The mass stays at 150.0 g."
+      },
+      {
+       "q": "An iron nail is left outside in the rain for a month. What evidence shows that a chemical reaction has happened?",
+       "c": [
+        "a change in colour from grey to orange-brown",
+        "bubbles of gas coming off the nail",
+        "the nail getting very hot",
+        "the nail getting wet"
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Evidence",
+       "e": "Iron reacts with oxygen and water to make rust, which is orange-brown. Getting wet is not a reaction, and rusting is too slow to make the nail feel hot or to see bubbles."
+      },
+      {
+       "t": "text",
+       "p": "iron + oxygen + water → rust",
+       "q": "Name the product of this reaction.",
+       "ans": [
+        "rust",
+        "iron oxide",
+        "hydrated iron oxide"
+       ],
+       "m": 1,
+       "s": "Reactants and products",
+       "e": "The product is after the arrow: rust (a type of iron oxide). Iron, oxygen and water are the reactants."
+      },
+      {
+       "q": "Which of these is a chemical reaction?",
+       "c": [
+        "melting chocolate",
+        "dissolving salt in water",
+        "burning a match",
+        "freezing orange juice"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Chemical reactions",
+       "e": "Burning makes new substances (ash, carbon dioxide and water) and gives out heat and light; it cannot be reversed. The other three are physical changes."
+      },
+      {
+       "t": "open",
+       "q": "Omar says: \"Boiling water makes bubbles, so boiling is a chemical reaction.\" Explain why Omar is wrong.",
+       "m": 2,
+       "s": "Chemical reactions",
+       "ms": "1 mark: no new substance is made / the bubbles are water vapour (still water). 1 mark: boiling is a physical / reversible change — the vapour can condense back to water. Accept: bubbles alone do not prove a reaction.",
+       "e": "The bubbles in boiling water are water vapour, which is still water, so no new substance is made. Boiling is a physical change: cooling the vapour turns it back into liquid water. Bubbles are only evidence of a reaction if a new gas is made."
+      },
+      {
+       "t": "open",
+       "q": "A cut apple is left on a plate for one hour. Describe the evidence that a chemical reaction has happened.",
+       "m": 1,
+       "s": "Evidence",
+       "ms": "1 mark: the colour changes — the cut surface turns (from white/cream) to brown. Do not accept: it goes bad / it dries.",
+       "e": "The cut surface of the apple changes colour from white (cream) to brown. Substances in the apple react with oxygen in the air to make new, brown substances."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Chemical reaction = new substances are made; usually irreversible.",
+    "Reactants (start) → products (new). Word equations use + and →, never =.",
+    "Evidence at Stage 6: a gas is produced (bubbles/fizzing), a colour change, a temperature change (up or down).",
+    "Bubbles or heating alone are not proof: ask whether a new substance was made.",
+    "In an open flask the gas escapes, so the mass goes down — gases have mass."
+   ]
+  }
+ ]
+}

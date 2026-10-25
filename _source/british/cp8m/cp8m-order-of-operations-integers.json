@@ -1,0 +1,716 @@
+{
+ "slug": "cp8m-order-of-operations-integers",
+ "title": "Order of Operations and Calculating with Integers",
+ "kicker": "Cambridge Lower Secondary · Mathematics 0862 · Stage 8 · Number",
+ "summary": "Work out calculations with brackets, powers and roots in the correct order, and estimate, multiply and divide positive and negative integers.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Know that brackets, indices (powers, square roots and cube roots) and the four operations are always worked out in a fixed order (8Ni.01)",
+    "Estimate, multiply and divide positive and negative integers, and find and explain general rules (generalisations) about the signs of the answers (8Ni.02)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Is 2 × 3^{2} equal to 36 or 18? Is (−6) × (−4) positive or negative? On this page you will learn the full **order of operations** for Stage 8 — now including powers and roots — and the rules for **multiplying and dividing negative numbers**, with quick ways to **estimate** answers so you can check your work. Everything on this page is Paper 1 (non-calculator) material, so practise it without a calculator."
+  },
+  {
+   "type": "h2",
+   "text": "Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "integer",
+     "عدد صحيح — a whole number: positive, negative or zero (…, −2, −1, 0, 1, 2, …)"
+    ],
+    [
+     "negative number",
+     "عدد سالب — a number less than zero, e.g. −7"
+    ],
+    [
+     "index / power (plural: indices)",
+     "الأس — the small raised number: in 5^{3} the index is 3, so 5^{3} = 5 × 5 × 5"
+    ],
+    [
+     "square root √",
+     "الجذر التربيعي — √49 = 7 because 7 × 7 = 49"
+    ],
+    [
+     "cube root ∛",
+     "الجذر التكعيبي — ∛64 = 4 because 4 × 4 × 4 = 64"
+    ],
+    [
+     "product",
+     "حاصل الضرب — the answer to a multiplication"
+    ],
+    [
+     "quotient",
+     "خارج القسمة — the answer to a division"
+    ],
+    [
+     "estimate",
+     "تقدير — round the numbers to easy values, then calculate, to get an approximate answer"
+    ],
+    [
+     "generalisation",
+     "تعميم — a rule that is true for a whole group of numbers, not just one example"
+    ],
+    [
+     "inverse operation",
+     "العملية العكسية — the operation that undoes another: × and ÷ are inverses"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. The order of operations — now with powers and roots"
+  },
+  {
+   "type": "p",
+   "text": "At Stage 8 the order of operations has **four levels**. Work from level 1 down to level 4. Inside one level, go from left to right."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 520 250\" width=\"520\" font-family=\"Arial, sans-serif\" font-size=\"15\"><rect x=\"44\" y=\"12\" width=\"460\" height=\"46\" rx=\"8\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"44\" cy=\"35\" r=\"18\" fill=\"#0f1b33\"/><text x=\"44\" y=\"41\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"bold\" fill=\"#ffffff\">1</text><text x=\"76\" y=\"41\" text-anchor=\"start\" font-size=\"16\" fill=\"#0f1b33\">Brackets ( )  — work out the inside first</text><rect x=\"44\" y=\"70\" width=\"460\" height=\"46\" rx=\"8\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"44\" cy=\"93\" r=\"18\" fill=\"#0f1b33\"/><text x=\"44\" y=\"99\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"bold\" fill=\"#ffffff\">2</text><text x=\"76\" y=\"99\" text-anchor=\"start\" font-size=\"16\" fill=\"#0f1b33\">Indices: powers 5<tspan dy=\"-7\" font-size=\"13\">2</tspan><tspan dy=\"7\"> </tspan>and 2<tspan dy=\"-7\" font-size=\"13\">3</tspan><tspan dy=\"7\"> </tspan>and roots √ ∛</text><rect x=\"44\" y=\"128\" width=\"460\" height=\"46\" rx=\"8\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"44\" cy=\"151\" r=\"18\" fill=\"#0f1b33\"/><text x=\"44\" y=\"157\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"bold\" fill=\"#ffffff\">3</text><text x=\"76\" y=\"157\" text-anchor=\"start\" font-size=\"16\" fill=\"#0f1b33\">× and ÷  — equal rank, work left to right</text><rect x=\"44\" y=\"186\" width=\"460\" height=\"46\" rx=\"8\" fill=\"#f6d5d2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><circle cx=\"44\" cy=\"209\" r=\"18\" fill=\"#0f1b33\"/><text x=\"44\" y=\"215\" text-anchor=\"middle\" font-size=\"17\" font-weight=\"bold\" fill=\"#ffffff\">4</text><text x=\"76\" y=\"215\" text-anchor=\"start\" font-size=\"16\" fill=\"#0f1b33\">+ and −  — equal rank, work left to right</text></svg>",
+   "caption": "The four levels of the order of operations. Levels 3 and 4 each contain two operations of equal rank."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "**Brackets.** Work out everything inside brackets first. If there are brackets inside brackets, start with the innermost pair.",
+    "**Indices (powers and roots).** Work out squares, cubes, square roots and cube roots.",
+    "**Multiplication and division**, from left to right.",
+    "**Addition and subtraction**, from left to right."
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Calculation",
+    "Working",
+    "Answer"
+   ],
+   "rows": [
+    [
+     "3 + 4^{2}",
+     "power first: 4^{2} = 16, then 3 + 16",
+     "19"
+    ],
+    [
+     "(3 + 4)^{2}",
+     "bracket first: 7, then 7^{2}",
+     "49"
+    ],
+    [
+     "2 × 3^{2}",
+     "power first: 3^{2} = 9, then 2 × 9",
+     "18 (not 36)"
+    ],
+    [
+     "(2 × 3)^{2}",
+     "bracket first: 6, then 6^{2}",
+     "36"
+    ],
+    [
+     "50 − 2 × √49",
+     "root: √49 = 7; multiply: 2 × 7 = 14; then 50 − 14",
+     "36"
+    ],
+    [
+     "∛64 + 6^{2} ÷ 4",
+     "∛64 = 4 and 6^{2} = 36; divide: 36 ÷ 4 = 9; then 4 + 9",
+     "13"
+    ],
+    [
+     "5 × (8 − 2^{3})",
+     "inside the bracket the power comes first: 8 − 8 = 0; then 5 × 0",
+     "0"
+    ],
+    [
+     "2 × (15 − (4 + 3))",
+     "innermost bracket: 4 + 3 = 7; then 15 − 7 = 8; then 2 × 8",
+     "16"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Hidden brackets: root signs and fraction lines"
+  },
+  {
+   "type": "p",
+   "text": "Two symbols act **like brackets** even though you cannot see the brackets:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**A root sign covers everything under its line.** √(9 + 16) means: add first, 9 + 16 = 25, then √25 = **5**. This is **not** the same as √9 + √16 = 3 + 4 = 7.",
+    "**A fraction line groups the top and the bottom.** In (12 + 8) ÷ (2 × 5), written as a fraction with 12 + 8 on top and 2 × 5 underneath, work out the top (20) and the bottom (10) first, then divide: 20 ÷ 10 = **2**."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "−3^{2} is not the same as (−3)^{2}",
+   "text": "In −3^{2} the power is done before the minus sign is applied, so −3^{2} = −(3 × 3) = **−9**. In (−3)^{2} the bracket tells you to square the negative number: (−3) × (−3) = **9**. A scientific calculator follows the same rule, so type the brackets when you mean (−3)^{2}."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "BIDMAS and your calculator",
+   "text": "Many books use BIDMAS (Brackets, Indices, Division, Multiplication, Addition, Subtraction). Remember that D and M have the same rank, and so do A and S — go left to right. A scientific calculator (allowed on Paper 2 only) follows the order of operations automatically, but only if you type the brackets you need. For a fraction such as (12 + 8) ÷ (2 × 5), type the brackets round the top and the bottom, or use the fraction key."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "ترتيب العمليات في Stage 8",
+   "items": [
+    "١- الأقواس الأول (ولو فيه قوس جوه قوس ابدأ بالداخلي).",
+    "٢- الأسس والجذور: التربيع والتكعيب والجذر التربيعي والتكعيبي.",
+    "٣- الضرب والقسمة — بالترتيب من الشمال لليمين.",
+    "٤- الجمع والطرح — برضه من الشمال لليمين.",
+    "خلي بالك: علامة الجذر وخط الكسر شغالين زي القوس. و −3^{2} = −9 لكن (−3)^{2} = 9."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "2. Multiplying and dividing negative integers"
+  },
+  {
+   "type": "p",
+   "text": "**Multiplication is repeated addition.** 4 × (−3) means four lots of −3: start at 0 and make four jumps of −3. You land on **−12**."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 560 150\" width=\"560\" font-family=\"Arial, sans-serif\" font-size=\"15\"><defs><marker id=\"ah\" viewBox=\"0 0 10 10\" refX=\"9\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M0 0L10 5L0 10z\" fill=\"#1d5fbf\"/></marker></defs><text x=\"280\" y=\"22\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#0f1b33\">4 × (−3) = four jumps of −3 from 0</text><line x1=\"16\" y1=\"110\" x2=\"544\" y2=\"110\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"24\" y1=\"104\" x2=\"24\" y2=\"116\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"56\" y1=\"104\" x2=\"56\" y2=\"116\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"88\" y1=\"104\" x2=\"88\" y2=\"116\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"120\" y1=\"104\" x2=\"120\" y2=\"116\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"152\" y1=\"104\" x2=\"152\" y2=\"116\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"184\" y1=\"104\" x2=\"184\" y2=\"116\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"216\" y1=\"104\" x2=\"216\" y2=\"116\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"248\" y1=\"104\" x2=\"248\" y2=\"116\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"280\" y1=\"104\" x2=\"280\" y2=\"116\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"312\" y1=\"104\" x2=\"312\" y2=\"116\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"344\" y1=\"104\" x2=\"344\" y2=\"116\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"376\" y1=\"104\" x2=\"376\" y2=\"116\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"408\" y1=\"104\" x2=\"408\" y2=\"116\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"440\" y1=\"104\" x2=\"440\" y2=\"116\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"472\" y1=\"104\" x2=\"472\" y2=\"116\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"504\" y1=\"104\" x2=\"504\" y2=\"116\" stroke=\"#0f1b33\" stroke-width=\"2\"/><line x1=\"536\" y1=\"104\" x2=\"536\" y2=\"116\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"24\" y=\"136\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">−14</text><text x=\"88\" y=\"136\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">−12</text><text x=\"152\" y=\"136\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">−10</text><text x=\"216\" y=\"136\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">−8</text><text x=\"280\" y=\"136\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">−6</text><text x=\"344\" y=\"136\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">−4</text><text x=\"408\" y=\"136\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">−2</text><text x=\"472\" y=\"136\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">0</text><text x=\"536\" y=\"136\" text-anchor=\"middle\" font-size=\"14\" fill=\"#0f1b33\">2</text><path d=\"M472 104 Q424.0 50 376 104\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"2.5\" marker-end=\"url(#ah)\"/><text x=\"424\" y=\"70\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#1d5fbf\">−3</text><path d=\"M376 104 Q328.0 50 280 104\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"2.5\" marker-end=\"url(#ah)\"/><text x=\"328\" y=\"70\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#1d5fbf\">−3</text><path d=\"M280 104 Q232.0 50 184 104\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"2.5\" marker-end=\"url(#ah)\"/><text x=\"232\" y=\"70\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#1d5fbf\">−3</text><path d=\"M184 104 Q136.0 50 88 104\" fill=\"none\" stroke=\"#1d5fbf\" stroke-width=\"2.5\" marker-end=\"url(#ah)\"/><text x=\"136\" y=\"70\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#1d5fbf\">−3</text><circle cx=\"88\" cy=\"110\" r=\"6\" fill=\"#b3261e\"/></svg>",
+   "caption": "4 × (−3) = −12. Because multiplication is commutative, (−3) × 4 = −12 too."
+  },
+  {
+   "type": "p",
+   "text": "**Why is negative × negative positive?** Look at the pattern below (this is **generalising**: we look at many examples and find the rule). Each time the multiplier goes down by 1, the answer goes **up by 3**. Keep the pattern going past zero and the answers become positive."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 360 250\" width=\"360\" font-family=\"Arial, sans-serif\" font-size=\"15\"><text x=\"150\" y=\"20\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#0f1b33\">Multiplier goes down by 1 each row</text><text x=\"110\" y=\"50\" text-anchor=\"end\" font-size=\"16\" fill=\"#0f1b33\">(−3) ×</text><text x=\"140\" y=\"50\" text-anchor=\"middle\" font-size=\"16\" fill=\"#0f1b33\">3</text><text x=\"180\" y=\"50\" text-anchor=\"middle\" font-size=\"16\" fill=\"#0f1b33\">=</text><text x=\"250\" y=\"50\" text-anchor=\"end\" font-size=\"16\" fill=\"#0f1b33\">−9</text><text x=\"110\" y=\"80\" text-anchor=\"end\" font-size=\"16\" fill=\"#0f1b33\">(−3) ×</text><text x=\"140\" y=\"80\" text-anchor=\"middle\" font-size=\"16\" fill=\"#0f1b33\">2</text><text x=\"180\" y=\"80\" text-anchor=\"middle\" font-size=\"16\" fill=\"#0f1b33\">=</text><text x=\"250\" y=\"80\" text-anchor=\"end\" font-size=\"16\" fill=\"#0f1b33\">−6</text><text x=\"110\" y=\"110\" text-anchor=\"end\" font-size=\"16\" fill=\"#0f1b33\">(−3) ×</text><text x=\"140\" y=\"110\" text-anchor=\"middle\" font-size=\"16\" fill=\"#0f1b33\">1</text><text x=\"180\" y=\"110\" text-anchor=\"middle\" font-size=\"16\" fill=\"#0f1b33\">=</text><text x=\"250\" y=\"110\" text-anchor=\"end\" font-size=\"16\" fill=\"#0f1b33\">−3</text><text x=\"110\" y=\"140\" text-anchor=\"end\" font-size=\"16\" fill=\"#0f1b33\">(−3) ×</text><text x=\"140\" y=\"140\" text-anchor=\"middle\" font-size=\"16\" fill=\"#0f1b33\">0</text><text x=\"180\" y=\"140\" text-anchor=\"middle\" font-size=\"16\" fill=\"#0f1b33\">=</text><text x=\"250\" y=\"140\" text-anchor=\"end\" font-size=\"16\" fill=\"#0f1b33\">0</text><rect x=\"20\" y=\"149\" width=\"250\" height=\"28\" rx=\"4\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"110\" y=\"170\" text-anchor=\"end\" font-size=\"16\" fill=\"#0f1b33\">(−3) ×</text><text x=\"140\" y=\"170\" text-anchor=\"middle\" font-size=\"16\" fill=\"#0f1b33\">(−1)</text><text x=\"180\" y=\"170\" text-anchor=\"middle\" font-size=\"16\" fill=\"#0f1b33\">=</text><text x=\"250\" y=\"170\" text-anchor=\"end\" font-size=\"16\" font-weight=\"bold\" fill=\"#0f1b33\">3</text><rect x=\"20\" y=\"179\" width=\"250\" height=\"28\" rx=\"4\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"110\" y=\"200\" text-anchor=\"end\" font-size=\"16\" fill=\"#0f1b33\">(−3) ×</text><text x=\"140\" y=\"200\" text-anchor=\"middle\" font-size=\"16\" fill=\"#0f1b33\">(−2)</text><text x=\"180\" y=\"200\" text-anchor=\"middle\" font-size=\"16\" fill=\"#0f1b33\">=</text><text x=\"250\" y=\"200\" text-anchor=\"end\" font-size=\"16\" font-weight=\"bold\" fill=\"#0f1b33\">6</text><rect x=\"20\" y=\"209\" width=\"250\" height=\"28\" rx=\"4\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"1\"/><text x=\"110\" y=\"230\" text-anchor=\"end\" font-size=\"16\" fill=\"#0f1b33\">(−3) ×</text><text x=\"140\" y=\"230\" text-anchor=\"middle\" font-size=\"16\" fill=\"#0f1b33\">(−3)</text><text x=\"180\" y=\"230\" text-anchor=\"middle\" font-size=\"16\" fill=\"#0f1b33\">=</text><text x=\"250\" y=\"230\" text-anchor=\"end\" font-size=\"16\" font-weight=\"bold\" fill=\"#0f1b33\">9</text><line x1=\"282\" y1=\"40\" x2=\"282\" y2=\"222\" stroke=\"#1d5fbf\" stroke-width=\"2\"/><path d=\"M276 216 L282 228 L288 216z\" fill=\"#1d5fbf\"/><text x=\"292\" y=\"65\" text-anchor=\"start\" font-size=\"14\" font-weight=\"bold\" fill=\"#1d5fbf\">+3</text><text x=\"292\" y=\"95\" text-anchor=\"start\" font-size=\"14\" font-weight=\"bold\" fill=\"#1d5fbf\">+3</text><text x=\"292\" y=\"125\" text-anchor=\"start\" font-size=\"14\" font-weight=\"bold\" fill=\"#1d5fbf\">+3</text><text x=\"292\" y=\"155\" text-anchor=\"start\" font-size=\"14\" font-weight=\"bold\" fill=\"#1d5fbf\">+3</text><text x=\"292\" y=\"185\" text-anchor=\"start\" font-size=\"14\" font-weight=\"bold\" fill=\"#1d5fbf\">+3</text><text x=\"292\" y=\"215\" text-anchor=\"start\" font-size=\"14\" font-weight=\"bold\" fill=\"#1d5fbf\">+3</text></svg>",
+   "caption": "Continuing the pattern shows that (−3) × (−1) = 3, (−3) × (−2) = 6 and (−3) × (−3) = 9."
+  },
+  {
+   "type": "p",
+   "text": "This gives the **sign rules**. They work for multiplication **and** division, because division is the inverse of multiplication."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 480 250\" width=\"480\" font-family=\"Arial, sans-serif\" font-size=\"15\"><rect x=\"30\" y=\"30\" width=\"70\" height=\"70\" rx=\"0\" fill=\"#dfe5ee\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"65\" y=\"76\" text-anchor=\"middle\" font-size=\"32\" font-weight=\"bold\" fill=\"#0f1b33\">×</text><rect x=\"100\" y=\"30\" width=\"70\" height=\"70\" rx=\"0\" fill=\"#dfe5ee\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"135\" y=\"76\" text-anchor=\"middle\" font-size=\"32\" font-weight=\"bold\" fill=\"#0f1b33\">+</text><rect x=\"170\" y=\"30\" width=\"70\" height=\"70\" rx=\"0\" fill=\"#dfe5ee\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"205\" y=\"76\" text-anchor=\"middle\" font-size=\"32\" font-weight=\"bold\" fill=\"#0f1b33\">−</text><rect x=\"30\" y=\"100\" width=\"70\" height=\"70\" rx=\"0\" fill=\"#dfe5ee\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"65\" y=\"146\" text-anchor=\"middle\" font-size=\"32\" font-weight=\"bold\" fill=\"#0f1b33\">+</text><rect x=\"100\" y=\"100\" width=\"70\" height=\"70\" rx=\"0\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"135\" y=\"146\" text-anchor=\"middle\" font-size=\"32\" font-weight=\"bold\" fill=\"#0f1b33\">+</text><rect x=\"170\" y=\"100\" width=\"70\" height=\"70\" rx=\"0\" fill=\"#f6d5d2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"205\" y=\"146\" text-anchor=\"middle\" font-size=\"32\" font-weight=\"bold\" fill=\"#0f1b33\">−</text><rect x=\"30\" y=\"170\" width=\"70\" height=\"70\" rx=\"0\" fill=\"#dfe5ee\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"65\" y=\"216\" text-anchor=\"middle\" font-size=\"32\" font-weight=\"bold\" fill=\"#0f1b33\">−</text><rect x=\"100\" y=\"170\" width=\"70\" height=\"70\" rx=\"0\" fill=\"#f6d5d2\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"135\" y=\"216\" text-anchor=\"middle\" font-size=\"32\" font-weight=\"bold\" fill=\"#0f1b33\">−</text><rect x=\"170\" y=\"170\" width=\"70\" height=\"70\" rx=\"0\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\"/><text x=\"205\" y=\"216\" text-anchor=\"middle\" font-size=\"32\" font-weight=\"bold\" fill=\"#0f1b33\">+</text><text x=\"265\" y=\"70\" text-anchor=\"start\" font-size=\"16\" font-weight=\"bold\" fill=\"#0f1b33\">Same signs</text><text x=\"265\" y=\"92\" text-anchor=\"start\" font-size=\"16\" fill=\"#0f1b33\">→ answer is positive</text><text x=\"265\" y=\"150\" text-anchor=\"start\" font-size=\"16\" font-weight=\"bold\" fill=\"#0f1b33\">Different signs</text><text x=\"265\" y=\"172\" text-anchor=\"start\" font-size=\"16\" fill=\"#0f1b33\">→ answer is negative</text><text x=\"265\" y=\"225\" text-anchor=\"start\" fill=\"#1d5fbf\">The same rules work for ÷</text></svg>",
+   "caption": "The sign rules for × and ÷."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Signs",
+    "Multiplication",
+    "Division",
+    "Sign of the answer"
+   ],
+   "rows": [
+    [
+     "positive and positive",
+     "6 × 4 = 24",
+     "24 ÷ 4 = 6",
+     "positive"
+    ],
+    [
+     "positive and negative",
+     "6 × (−4) = −24",
+     "24 ÷ (−4) = −6",
+     "negative"
+    ],
+    [
+     "negative and positive",
+     "(−6) × 4 = −24",
+     "(−24) ÷ 4 = −6",
+     "negative"
+    ],
+    [
+     "negative and negative",
+     "(−6) × (−4) = 24",
+     "(−24) ÷ (−4) = 6",
+     "positive"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Fact families help with division.** Because (−6) × 4 = −24, you also know (−24) ÷ 4 = −6 and (−24) ÷ (−6) = 4. If you are unsure of a division, turn it into a multiplication: (−56) ÷ (−8) = ? asks \"what times −8 makes −56?\" The answer is **7**."
+  },
+  {
+   "type": "h2",
+   "text": "3. Generalisations about signs"
+  },
+  {
+   "type": "p",
+   "text": "Checkpoint likes to ask you to test a statement or explain a rule. These generalisations are always true:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**Same signs give a positive answer; different signs give a negative answer** (for × and ÷).",
+    "**Count the negative signs** when you multiply several numbers. An **even** number of negatives gives a **positive** answer; an **odd** number gives a **negative** answer. (−2) × (−3) × (−5) = 6 × (−5) = −30 (three negatives). (−1) × (−2) × (−3) × (−4) = 24 (four negatives).",
+    "**Multiplying by −1 changes the sign:** (−1) × 9 = −9 and (−1) × (−9) = 9.",
+    "**The square of any non-zero integer is positive**, because it is either positive × positive or negative × negative.",
+    "**Zero:** any number × 0 = 0, and 0 ÷ any non-zero number = 0. You can **never divide by zero**.",
+    "**If a × b is negative, exactly one of a and b is negative.** If a × b is positive (and not zero), a and b have the same sign."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "To show a statement is **false**, one counter-example is enough (this is **convincing**). \"The product of two integers is always bigger than both of them\" is false: 5 × (−2) = −10, which is smaller than both 5 and −2."
+  },
+  {
+   "type": "h2",
+   "text": "4. Multiplying and dividing larger integers"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "**Decide the sign first** using the sign rules.",
+    "**Ignore the signs and calculate** with the positive numbers (grid method, column method or short division).",
+    "**Put the sign on the answer**, then check with an estimate."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Example: (−23) × 14.** Different signs, so the answer is negative. Now work out 23 × 14 with a grid:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "×",
+    "10",
+    "4",
+    "Row total"
+   ],
+   "rows": [
+    [
+     "20",
+     "200",
+     "80",
+     "280"
+    ],
+    [
+     "3",
+     "30",
+     "12",
+     "42"
+    ],
+    [
+     "",
+     "",
+     "Total",
+     "280 + 42 = 322"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "So (−23) × 14 = **−322**. Estimate to check: −20 × 15 = −300, which is close. ✓"
+  },
+  {
+   "type": "p",
+   "text": "**Example: (−432) ÷ (−18).** Same signs, so the answer is positive. 432 ÷ 18: 18 × 20 = 360, leaving 432 − 360 = 72, and 72 ÷ 18 = 4. So 432 ÷ 18 = 24 and (−432) ÷ (−18) = **24**. Check: 18 × 24 = 432 ✓."
+  },
+  {
+   "type": "p",
+   "text": "**Example: 936 ÷ (−6).** Different signs, so negative. Short division: 9 ÷ 6 = 1 remainder 3; 33 ÷ 6 = 5 remainder 3; 36 ÷ 6 = 6. So 936 ÷ 6 = 156 and 936 ÷ (−6) = **−156**."
+  },
+  {
+   "type": "h2",
+   "text": "5. Estimating"
+  },
+  {
+   "type": "p",
+   "text": "To **estimate**, round each number to one significant figure (or to another easy number), work out the easy calculation, and keep the sign from the sign rules. Estimates are used to **check** answers and to answer \"Which is the best estimate…?\" questions. Show the rounded numbers — the examiner wants to see them."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Calculation",
+    "Rounded",
+    "Estimate",
+    "Exact answer"
+   ],
+   "rows": [
+    [
+     "(−48) × 31",
+     "(−50) × 30",
+     "−1500",
+     "−1488"
+    ],
+    [
+     "612 ÷ (−19)",
+     "600 ÷ (−20)",
+     "−30",
+     "about −32.2"
+    ],
+    [
+     "(−79) × (−52)",
+     "(−80) × (−50)",
+     "4000",
+     "4108"
+    ],
+    [
+     "(−8 213) ÷ 41",
+     "(−8 000) ÷ 40",
+     "−200",
+     "−200.3…"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Sometimes it is better to round to a number that divides easily rather than to exactly 1 significant figure. For 3 580 ÷ (−62), rounding to 3 600 ÷ (−60) gives a neat estimate of **−60**."
+  },
+  {
+   "type": "h2",
+   "text": "6. Putting it together: mixed calculations with negatives"
+  },
+  {
+   "type": "p",
+   "text": "Use the order of operations first, then the sign rules at each step. Remember that **subtracting a negative is the same as adding**: 5 − (−3) = 5 + 3 = 8."
+  },
+  {
+   "type": "p",
+   "text": "**Example:** (−4) × 3 − (−20) ÷ 5. Do × and ÷ first: (−4) × 3 = −12 and (−20) ÷ 5 = −4. Then −12 − (−4) = −12 + 4 = **−8**."
+  },
+  {
+   "type": "p",
+   "text": "**Example:** (−2)^{3} + 10 ÷ (−5). Power first: (−2)^{3} = (−2) × (−2) × (−2) = −8. Division: 10 ÷ (−5) = −2. Then −8 + (−2) = **−10**."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — Work out 4 + 3 × 2^{3}. [1 mark]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Power first: 2^{3} = 2 × 2 × 2 = 8.",
+    "Multiply: 3 × 8 = 24.",
+    "Add: 4 + 24 = 28. **Answer: 28**"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Common mistake:** doing 4 + 3 = 7 first and getting 7 × 8 = 56, or working out 3 × 2 = 6 first and then 6^{3}."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — Work out (a) √(100 − 36) (b) 100 − √36. [2 marks]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) The root sign covers 100 − 36, so subtract first: 100 − 36 = 64. Then √64 = **8**.",
+    "(b) Only 36 is under the root sign: √36 = 6. Then 100 − 6 = **94**."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Common mistake:** in (a), writing √100 − √36 = 10 − 6 = 4. You cannot take the root of each part separately."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — Work out (−6) × (−4) ÷ (−3). [1 mark]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "× and ÷ have equal rank, so go left to right.",
+    "(−6) × (−4) = 24 (same signs → positive).",
+    "24 ÷ (−3) = −8 (different signs → negative). **Answer: −8**",
+    "Check by counting negatives: three negatives (odd) → negative answer ✓."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — Kareem says, \"When you multiply three negative numbers together, the answer is always positive.\" Is Kareem correct? Show how you know. [1 mark]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Test the statement with an example (specialising): (−1) × (−2) × (−3).",
+    "(−1) × (−2) = 2, then 2 × (−3) = −6.",
+    "The answer is negative, so **Kareem is not correct**. Three is an odd number of negatives, so the product of three negative numbers is always negative."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Common mistake:** only writing \"No\". The mark is for the evidence — a correct counter-example or a correct reason."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — (a) Estimate (−412) × 29. Show your rounding. (b) Use your estimate to choose the exact answer: −1 948, −11 948, 11 948, −119 480. [2 marks]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) Round: −412 ≈ −400 and 29 ≈ 30. Estimate: (−400) × 30 = **−12 000**.",
+    "(b) The answer must be negative and close to −12 000. Only **−11 948** fits.",
+    "(Check: 412 × 29 = 412 × 30 − 412 = 12 360 − 412 = 11 948.)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Common mistake:** forgetting the negative sign in the estimate, or rounding 412 to 410 and 29 to 29 — that is not an estimate, it is still a hard calculation."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** — Put **one** pair of brackets into this calculation to make it correct: 3 + 5^{2} − 4 × 2 = 56. [1 mark]"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Without brackets: 3 + 25 − 8 = 20. We need a much bigger answer.",
+    "56 is close to 64 = 8^{2}, and 64 − 8 = 56. And 8 = 3 + 5.",
+    "Try (3 + 5)^{2} − 4 × 2 = 8^{2} − 8 = 64 − 8 = 56 ✓",
+    "**Answer: (3 + 5)^{2} − 4 × 2 = 56**"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Common mistake:** putting the bracket round 3 + 5^{2}: (3 + 5^{2}) − 4 × 2 = 28 − 8 = 20. The bracket must make the square apply to 3 + 5."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Squaring before working out the bracket, or squaring only one number: 2 × 3^{2} = 18, but (2 × 3)^{2} = 36.",
+    "Splitting a root: √(9 + 16) = 5, not √9 + √16 = 7.",
+    "Writing −3^{2} = 9. Without brackets, −3^{2} = −9; only (−3)^{2} = 9.",
+    "Doing × before ÷ (or + before −) instead of going left to right: 24 ÷ 4 × 2 = 12, not 3.",
+    "Mixing up the rules for adding and multiplying negatives: (−5) + (−3) = −8, but (−5) × (−3) = +15.",
+    "Losing the sign in a long calculation. Decide the sign first and write it down before you calculate.",
+    "Rounding badly when estimating: round to 1 significant figure (or an easy number) and show the rounded numbers."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "\"Work out\" a mixed calculation with brackets, powers or roots — usually on Paper 1 (no calculator), worth [1] or [2].",
+    "\"Insert brackets to make the calculation correct\" — try the brackets that make one operation happen earlier, and check each try fully.",
+    "\"Draw a ring around\" the calculation with a given answer, or the best estimate.",
+    "\"Is she correct? Explain your answer\" — give a calculation as evidence, e.g. a counter-example. Words alone rarely earn the mark.",
+    "\"Write the missing number\": (−6) × ☐ = 42. Use the inverse: 42 ÷ (−6) = −7.",
+    "On Paper 2 you may use a calculator, but you must still type brackets correctly — and an estimate tells you if you made a typing slip."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Order of operations and integers practice",
+   "timed": false,
+   "intro": "14 questions, no calculator (Paper 1 style). Write your working on paper, type the final answer, then check the full solutions.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 25,
+     "calc": false,
+     "questions": [
+      {
+       "t": "num",
+       "q": "Work out 5 + 6^{2} ÷ 4.",
+       "ans": [
+        14
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Order of operations",
+       "e": "Power first: 6^{2} = 36. Divide: 36 ÷ 4 = 9. Add: 5 + 9 = 14."
+      },
+      {
+       "q": "Which calculation has the answer 7?",
+       "c": [
+        "√(9 + 16)",
+        "√9 + √16",
+        "√(9 × 16)",
+        "(√16 − √9)^{2}"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Order of operations",
+       "e": "√(9 + 16) = √25 = 5. √9 + √16 = 3 + 4 = 7 ✓. √(9 × 16) = √144 = 12. (√16 − √9)^{2} = (4 − 3)^{2} = 1. The answer is √9 + √16."
+      },
+      {
+       "t": "num",
+       "q": "Work out (−7) × (−8).",
+       "ans": [
+        56
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Integers",
+       "e": "Same signs give a positive answer. 7 × 8 = 56, so (−7) × (−8) = 56."
+      },
+      {
+       "t": "num",
+       "q": "Work out (−34) × 26 without a calculator. Show your working.",
+       "ans": [
+        -884
+       ],
+       "tol": 0,
+       "m": 2,
+       "s": "Integers",
+       "e": "Different signs, so the answer is negative. 34 × 26: 30 × 26 = 780 and 4 × 26 = 104; 780 + 104 = 884. Answer: −884. (Estimate: −30 × 30 = −900 ✓.) Mark scheme style: 1 mark for 884 seen, 1 mark for −884."
+      },
+      {
+       "t": "num",
+       "q": "Work out (−2) × 5 × (−3) × (−1).",
+       "ans": [
+        -30
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Integers",
+       "e": "Left to right: (−2) × 5 = −10; (−10) × (−3) = 30; 30 × (−1) = −30. Check: three negative numbers (odd) → negative answer."
+      },
+      {
+       "q": "Ahmed multiplies five negative integers together. Which statement is always true?",
+       "c": [
+        "The answer is negative.",
+        "The answer is positive.",
+        "The answer is zero.",
+        "The answer can be positive or negative."
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Generalising",
+       "e": "Each pair of negatives multiplies to a positive. Five negatives = two pairs and one extra negative, so the product is always negative. An odd number of negative factors always gives a negative answer."
+      },
+      {
+       "t": "text",
+       "q": "a and b are both negative integers. Is a ÷ b positive or negative? Write positive or negative.",
+       "ans": [
+        "positive",
+        "+",
+        "positive number"
+       ],
+       "m": 1,
+       "s": "Generalising",
+       "e": "a and b have the same sign (both negative), and same signs give a positive answer, e.g. (−12) ÷ (−3) = 4. So a ÷ b is positive."
+      },
+      {
+       "t": "num",
+       "q": "Work out 2 × (18 − (3 + 2)^{2} ÷ 5).",
+       "ans": [
+        26
+       ],
+       "tol": 0,
+       "m": 2,
+       "s": "Order of operations",
+       "e": "Innermost bracket: 3 + 2 = 5. Power: 5^{2} = 25. Inside the outer bracket, divide before subtracting: 25 ÷ 5 = 5, then 18 − 5 = 13. Finally 2 × 13 = 26."
+      },
+      {
+       "t": "num",
+       "q": "Work out ∛125 × 2 − 4^{2}.",
+       "ans": [
+        -6
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Order of operations",
+       "e": "Roots and powers first: ∛125 = 5 (5 × 5 × 5 = 125) and 4^{2} = 16. Multiply: 5 × 2 = 10. Subtract: 10 − 16 = −6."
+      },
+      {
+       "q": "Which is the best estimate of (−587) ÷ 31?",
+       "c": [
+        "−2",
+        "20",
+        "−20",
+        "−200"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Estimation",
+       "e": "Round: −587 ≈ −600 and 31 ≈ 30. (−600) ÷ 30 = −20. Different signs give a negative answer, so −20. (The exact value is about −18.9.)"
+      },
+      {
+       "t": "num",
+       "q": "Write the missing number: (−6) × ☐ = 42",
+       "ans": [
+        -7
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Integers",
+       "e": "Use the inverse operation: ☐ = 42 ÷ (−6) = −7. Check: (−6) × (−7) = 42 ✓ (same signs → positive)."
+      },
+      {
+       "t": "open",
+       "q": "Mona says, \"−3^{2} = 9.\" Explain Mona's mistake and write the correct value of −3^{2}.",
+       "m": 2,
+       "s": "Order of operations",
+       "ms": "1 mark: explains that the power is worked out before the negative sign is applied / she has worked out (−3)^{2} instead / 3^{2} must be done first. 1 mark: −9 (cao). Do not accept just \"she is wrong\" without a reason.",
+       "e": "The index comes before the minus sign, so −3^{2} = −(3^{2}) = −(9) = −9. Mona worked out (−3) × (−3) = 9, which is (−3)^{2}, a different calculation with brackets."
+      },
+      {
+       "t": "num",
+       "p": "A submarine changes its depth by −45 metres every minute.",
+       "q": "Work out the total change in depth after 12 minutes. Give your answer as a negative number.",
+       "ans": [
+        -540
+       ],
+       "tol": 0,
+       "unit": "m",
+       "m": 2,
+       "s": "Integers",
+       "e": "Total change = 12 × (−45). 12 × 45 = 10 × 45 + 2 × 45 = 450 + 90 = 540. Different signs → negative, so the change is −540 m (the submarine goes 540 m deeper)."
+      },
+      {
+       "t": "open",
+       "q": "Put one pair of brackets into this calculation to make it correct: 20 − 8 ÷ 2 + 2 × 3 = 12",
+       "m": 1,
+       "s": "Order of operations",
+       "ms": "1 mark: (20 − 8) ÷ 2 + 2 × 3 = 12. No other position of one pair of brackets gives 12.",
+       "e": "Without brackets: 20 − 4 + 6 = 22. Try (20 − 8) ÷ 2 + 2 × 3: 12 ÷ 2 + 6 = 6 + 6 = 12 ✓. Other tries fail, e.g. 20 − 8 ÷ (2 + 2) × 3 = 20 − 2 × 3 = 14, and 20 − (8 ÷ 2 + 2) × 3 = 20 − 18 = 2."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Order: Brackets → Indices (powers and roots) → × and ÷ left to right → + and − left to right.",
+    "A root sign and a fraction line act like brackets: √(9 + 16) = √25 = 5.",
+    "−3^{2} = −9, but (−3)^{2} = 9.",
+    "× and ÷: same signs → positive; different signs → negative. Count the negatives when you multiply several numbers.",
+    "For big numbers: decide the sign, calculate without signs, attach the sign, then check with an estimate (round to 1 significant figure)."
+   ]
+  }
+ ]
+}

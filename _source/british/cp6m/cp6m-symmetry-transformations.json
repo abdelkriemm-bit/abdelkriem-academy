@@ -1,0 +1,732 @@
+{
+ "slug": "cp6m-symmetry-transformations",
+ "title": "Rotational Symmetry, Translation, Reflection and Rotation",
+ "kicker": "Cambridge Primary Checkpoint · Mathematics 0096 · Stage 6 · Geometry and Measure",
+ "summary": "Find the order of rotational symmetry of shapes and patterns, then translate, reflect and rotate shapes on grids, with worked examples, tracing-paper methods and a 14-question practice quiz.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "In the curriculum",
+   "items": [
+    "Find the **order of rotational symmetry** of familiar shapes, patterns and pictures (up to order 4), and describe it as “order 2”, “order 3”… (6Gg.08)",
+    "**Translate** a 2D shape on a coordinate grid and match each point of the shape with its corresponding point on the image, for example A and A′ (6Gp.03)",
+    "**Reflect** a 2D shape in a mirror line that is vertical, horizontal or diagonal, on a square grid (6Gp.04)",
+    "**Rotate** a shape 90° clockwise or anticlockwise around one of its vertices (corners) (6Gp.05)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "This page covers two related ideas. First, **rotational symmetry**: does a shape look exactly the same when you turn it part of the way round? Then the three **transformations** you need at Stage 6: **translation** (slide), **reflection** (flip) and **rotation** (turn). In every transformation the starting shape is called the **object** and the new shape is called the **image**. The image is always exactly the same size and shape as the object — we say the two shapes are **congruent**."
+  },
+  {
+   "type": "h2",
+   "text": "Key words"
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "rotational symmetry",
+     "التماثل الدوراني — the shape fits onto itself when you turn it less than a full turn"
+    ],
+    [
+     "order of rotational symmetry",
+     "رتبة التماثل الدوراني — how many times the shape fits onto itself in one full turn"
+    ],
+    [
+     "centre of rotation",
+     "مركز الدوران — the fixed point the shape turns around"
+    ],
+    [
+     "transformation",
+     "تحويل هندسي — a way of moving a shape: translation, reflection or rotation"
+    ],
+    [
+     "object / image",
+     "الشكل الأصلي / الصورة — the shape before the move / the shape after the move"
+    ],
+    [
+     "translation",
+     "الانتقال (الإزاحة) — every point slides the same distance in the same direction"
+    ],
+    [
+     "reflection",
+     "الانعكاس — the shape is flipped over a mirror line"
+    ],
+    [
+     "mirror line",
+     "محور الانعكاس (خط المرآة) — the line the shape is reflected in"
+    ],
+    [
+     "rotation",
+     "الدوران — the shape is turned around a fixed point"
+    ],
+    [
+     "clockwise / anticlockwise",
+     "مع / عكس اتجاه عقارب الساعة"
+    ],
+    [
+     "vertex (plural vertices)",
+     "رأس (رؤوس) — a corner of a shape"
+    ],
+    [
+     "corresponding points",
+     "نقاط متناظرة — a point on the object and the point it moves to on the image (A and A′)"
+    ],
+    [
+     "congruent",
+     "متطابق — exactly the same shape and size"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. Rotational symmetry and its order"
+  },
+  {
+   "type": "p",
+   "text": "A shape has **rotational symmetry** if it fits exactly onto its own outline when you turn it around its centre **before** it has made a full turn. The **order of rotational symmetry** is the number of times it fits onto itself during **one full turn** (360°). The last position, after a full turn, is counted too — that is why the smallest possible order is 1."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 180\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"30,35 110,35 110,115 30,115\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><circle cx=\"70\" cy=\"75\" r=\"3\" fill=\"#0f1b33\"/><polygon points=\"145,45 255,45 255,105 145,105\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><circle cx=\"200\" cy=\"75\" r=\"3\" fill=\"#0f1b33\"/><polygon points=\"335,30 382.6,112.5 287.4,112.5\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><circle cx=\"335\" cy=\"85\" r=\"3\" fill=\"#0f1b33\"/><polygon points=\"470,22 505,62 470,130 435,62\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><text x=\"70\" y=\"152\" font-size=\"14\" text-anchor=\"middle\">square</text><text x=\"70\" y=\"171\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">order 4</text><text x=\"200\" y=\"152\" font-size=\"14\" text-anchor=\"middle\">rectangle</text><text x=\"200\" y=\"171\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">order 2</text><text x=\"335\" y=\"152\" font-size=\"14\" text-anchor=\"middle\">equilateral triangle</text><text x=\"335\" y=\"171\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">order 3</text><text x=\"470\" y=\"152\" font-size=\"14\" text-anchor=\"middle\">kite</text><text x=\"470\" y=\"171\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">order 1</text></svg>",
+   "caption": "The dot is the centre of rotation. A square fits onto itself 4 times in a full turn, a rectangle 2 times, an equilateral triangle 3 times. A kite only fits back after a full turn: order 1, which means it has **no** rotational symmetry."
+  },
+  {
+   "type": "p",
+   "text": "**How to find the order with tracing paper (the Checkpoint test allows tracing paper):**"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Trace the shape. Put a small arrow or dot in one corner of your tracing so you can see how far you have turned.",
+    "Put your pencil point on the centre of the shape and turn the tracing paper slowly.",
+    "Count every time the tracing fits exactly on top of the shape again.",
+    "Stop when the tracing is back where it started (one full turn). That last fit counts. Your total is the order."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Without tracing paper:** look for a part of the shape that repeats. If the same part appears 4 times around the centre, all the same size, colour and direction, the order is 4. If it appears twice, opposite each other, the order is 2. Colour counts: if one part is shaded differently, the shape does not fit onto itself in that position."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 540 200\" width=\"540\" font-family=\"Arial, sans-serif\" font-size=\"14\"><polygon points=\"90,85 90,27 124,55\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"90,85 148,85 120,119\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"90,85 90,143 56,115\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"90,85 32,85 60,51\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><circle cx=\"90\" cy=\"85\" r=\"3.5\" fill=\"#b3261e\"/><polygon points=\"270,90 270,32 304,60\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"270,90 320.2,119 279,134.4\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"270,90 219.8,119 227,75.6\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><circle cx=\"270\" cy=\"90\" r=\"3.5\" fill=\"#b3261e\"/><polygon points=\"450,85 450,27 484,55\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"450,85 450,143 416,115\" fill=\"#e3f4e5\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><circle cx=\"450\" cy=\"85\" r=\"3.5\" fill=\"#b3261e\"/><text x=\"90\" y=\"180\" font-size=\"15\" text-anchor=\"middle\" font-weight=\"bold\">order 4</text><text x=\"270\" y=\"180\" font-size=\"15\" text-anchor=\"middle\" font-weight=\"bold\">order 3</text><text x=\"450\" y=\"180\" font-size=\"15\" text-anchor=\"middle\" font-weight=\"bold\">order 2</text></svg>",
+   "caption": "Patterns made by turning the same triangle around the red centre: 4 copies give order 4, 3 copies give order 3, 2 copies give order 2. None of these patterns has a line of symmetry — rotational symmetry and line symmetry are different things."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Shape",
+    "Order of rotational symmetry",
+    "Lines of symmetry (for comparison)"
+   ],
+   "rows": [
+    [
+     "square",
+     "4",
+     "4"
+    ],
+    [
+     "rectangle (not a square)",
+     "2",
+     "2"
+    ],
+    [
+     "rhombus (not a square)",
+     "2",
+     "2"
+    ],
+    [
+     "parallelogram (not a rectangle or rhombus)",
+     "2",
+     "0"
+    ],
+    [
+     "kite",
+     "1 (no rotational symmetry)",
+     "1"
+    ],
+    [
+     "isosceles trapezium",
+     "1 (no rotational symmetry)",
+     "1"
+    ],
+    [
+     "equilateral triangle",
+     "3",
+     "3"
+    ],
+    [
+     "isosceles triangle",
+     "1 (no rotational symmetry)",
+     "1"
+    ],
+    [
+     "letters S, N, Z",
+     "2",
+     "0"
+    ],
+    [
+     "letter H",
+     "2",
+     "2"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Quick check for order 2",
+   "text": "Turn the page (or the tracing) upside down — a half turn. If the shape looks exactly the same, it has rotational symmetry of at least order 2. Then check a quarter turn: if it also fits after a quarter turn, the order is 4."
+  },
+  {
+   "type": "h2",
+   "text": "2. Translation (sliding a shape)"
+  },
+  {
+   "type": "p",
+   "text": "In a **translation**, every point of the shape slides the **same distance in the same direction**. The shape does not turn and does not flip — the image looks exactly like the object, the same way up, just in a new place. We describe a translation with two moves: **how many squares left or right**, and **how many squares up or down**."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 350 300\" width=\"350\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M26 30V246M50 30V246M74 30V246M98 30V246M122 30V246M146 30V246M170 30V246M194 30V246M218 30V246M242 30V246M266 30V246M290 30V246M26 246H290M26 222H290M26 198H290M26 174H290M26 150H290M26 126H290M26 102H290M26 78H290M26 54H290M26 30H290\" stroke=\"#c3cede\" stroke-width=\"1\" fill=\"none\"/><line x1=\"26\" y1=\"150\" x2=\"300\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"170\" y1=\"246\" x2=\"170\" y2=\"20\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"306\" y=\"155\" font-size=\"14\" text-anchor=\"middle\" font-style=\"italic\">x</text><text x=\"170\" y=\"16\" font-size=\"14\" text-anchor=\"middle\" font-style=\"italic\">y</text><text x=\"26\" y=\"166\" font-size=\"13\" text-anchor=\"middle\">−6</text><text x=\"50\" y=\"166\" font-size=\"13\" text-anchor=\"middle\">−5</text><text x=\"74\" y=\"166\" font-size=\"13\" text-anchor=\"middle\">−4</text><text x=\"98\" y=\"166\" font-size=\"13\" text-anchor=\"middle\">−3</text><text x=\"122\" y=\"166\" font-size=\"13\" text-anchor=\"middle\">−2</text><text x=\"146\" y=\"166\" font-size=\"13\" text-anchor=\"middle\">−1</text><text x=\"194\" y=\"166\" font-size=\"13\" text-anchor=\"middle\">1</text><text x=\"218\" y=\"166\" font-size=\"13\" text-anchor=\"middle\">2</text><text x=\"242\" y=\"166\" font-size=\"13\" text-anchor=\"middle\">3</text><text x=\"266\" y=\"166\" font-size=\"13\" text-anchor=\"middle\">4</text><text x=\"290\" y=\"166\" font-size=\"13\" text-anchor=\"middle\">5</text><text x=\"164\" y=\"251\" font-size=\"13\" text-anchor=\"end\">−4</text><text x=\"164\" y=\"227\" font-size=\"13\" text-anchor=\"end\">−3</text><text x=\"164\" y=\"203\" font-size=\"13\" text-anchor=\"end\">−2</text><text x=\"164\" y=\"179\" font-size=\"13\" text-anchor=\"end\">−1</text><text x=\"164\" y=\"131\" font-size=\"13\" text-anchor=\"end\">1</text><text x=\"164\" y=\"107\" font-size=\"13\" text-anchor=\"end\">2</text><text x=\"164\" y=\"83\" font-size=\"13\" text-anchor=\"end\">3</text><text x=\"164\" y=\"59\" font-size=\"13\" text-anchor=\"end\">4</text><text x=\"164\" y=\"35\" font-size=\"13\" text-anchor=\"end\">5</text><text x=\"164\" y=\"166\" font-size=\"13\" text-anchor=\"end\">0</text><polygon points=\"50,102 122,102 122,54\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"218,222 290,222 290,174\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"50\" y1=\"102\" x2=\"218\" y2=\"222\" stroke=\"#1f5fbf\" stroke-width=\"1.4\" stroke-dasharray=\"5 4\"/><polygon points=\"218,222 211,221.3 215.1,215.6\" fill=\"#1f5fbf\"/><line x1=\"122\" y1=\"102\" x2=\"290\" y2=\"222\" stroke=\"#1f5fbf\" stroke-width=\"1.4\" stroke-dasharray=\"5 4\"/><polygon points=\"290,222 283,221.3 287.1,215.6\" fill=\"#1f5fbf\"/><line x1=\"122\" y1=\"54\" x2=\"290\" y2=\"174\" stroke=\"#1f5fbf\" stroke-width=\"1.4\" stroke-dasharray=\"5 4\"/><polygon points=\"290,174 283,173.3 287.1,167.6\" fill=\"#1f5fbf\"/><text x=\"38\" y=\"111\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">A</text><text x=\"128\" y=\"121\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">B</text><text x=\"118\" y=\"47\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">C</text><text x=\"204\" y=\"239\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">A′</text><text x=\"306\" y=\"233\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">B′</text><text x=\"304\" y=\"169\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">C′</text></svg>",
+   "caption": "Triangle ABC is translated 7 squares right and 5 squares down. Each dashed arrow joins a pair of corresponding points: A → A′, B → B′, C → C′. All the arrows are the same length and point the same way."
+  },
+  {
+   "type": "p",
+   "text": "**Translating with coordinates.** Moving right adds to the x-coordinate, moving left subtracts from it. Moving up adds to the y-coordinate, moving down subtracts from it."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Point",
+    "Coordinates",
+    "7 right (x + 7)",
+    "5 down (y − 5)",
+    "Image"
+   ],
+   "rows": [
+    [
+     "A",
+     "(−5, 2)",
+     "−5 + 7 = 2",
+     "2 − 5 = −3",
+     "A′(2, −3)"
+    ],
+    [
+     "B",
+     "(−2, 2)",
+     "−2 + 7 = 5",
+     "2 − 5 = −3",
+     "B′(5, −3)"
+    ],
+    [
+     "C",
+     "(−2, 4)",
+     "−2 + 7 = 5",
+     "4 − 5 = −1",
+     "C′(5, −1)"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Choose one vertex. Count the squares across first (right or left), then up or down. Mark the new point.",
+    "Do the same for every other vertex — always with the same two moves.",
+    "Join the new points in the same order and label them A′, B′, C′ (say “A dash” or “A prime”).",
+    "Check: the image must be the same size, the same shape and the same way up as the object."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Describing a translation.** Pick one pair of corresponding points and count from the object to the image: first across, then up or down. For example, from A(−5, 2) to A′(2, −3): x goes from −5 to 2, that is 7 right; y goes from 2 to −3, that is 5 down."
+  },
+  {
+   "type": "h2",
+   "text": "3. Reflection in a mirror line"
+  },
+  {
+   "type": "p",
+   "text": "In a **reflection**, the shape is flipped over a **mirror line**. Every point of the image is the **same distance** from the mirror line as the matching point of the object, but on the other side, and you measure that distance **at right angles to the mirror line**. A point that lies on the mirror line stays where it is. The image is reversed, like your reflection in a real mirror."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 380 250\" width=\"380\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M34 24V206M60 24V206M86 24V206M112 24V206M138 24V206M164 24V206M190 24V206M216 24V206M242 24V206M268 24V206M294 24V206M320 24V206M346 24V206M34 206H346M34 180H346M34 154H346M34 128H346M34 102H346M34 76H346M34 50H346M34 24H346\" stroke=\"#c3cede\" stroke-width=\"1\" fill=\"none\"/><polygon points=\"86,180 138,180 138,154 112,154 112,76 86,76\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"294,180 242,180 242,154 268,154 268,76 294,76\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"190\" y1=\"213.8\" x2=\"190\" y2=\"16.2\" stroke=\"#b3261e\" stroke-width=\"2.2\" stroke-dasharray=\"7 5\"/><line x1=\"138\" y1=\"145\" x2=\"188\" y2=\"145\" stroke=\"#1f5fbf\" stroke-width=\"1.3\"/><polygon points=\"188,145 182.8,148 182.8,142\" fill=\"#1f5fbf\"/><line x1=\"192\" y1=\"145\" x2=\"242\" y2=\"145\" stroke=\"#1f5fbf\" stroke-width=\"1.3\"/><polygon points=\"242,145 236.8,148 236.8,142\" fill=\"#1f5fbf\"/><text x=\"164\" y=\"139\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#1f5fbf\">2</text><text x=\"216\" y=\"139\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#1f5fbf\">2</text><text x=\"190\" y=\"18\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#b3261e\">mirror line</text><text x=\"99\" y=\"226\" font-size=\"14\" text-anchor=\"middle\">object</text><text x=\"281\" y=\"226\" font-size=\"14\" text-anchor=\"middle\">image</text></svg>",
+   "caption": "Reflection in a vertical mirror line. The corner that is 2 squares to the left of the line goes to 2 squares to the right of it. Count straight across (horizontally) for every vertex."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Take one vertex of the object. Count the squares from the vertex to the mirror line, moving at right angles to the line (straight across for a vertical line, straight up or down for a horizontal line).",
+    "Count the same number of squares on the other side of the line and mark the image point.",
+    "Repeat for every vertex. Vertices that are on the mirror line do not move.",
+    "Join the image points with a ruler. Check: if you folded the paper along the mirror line, the object would land exactly on the image."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Diagonal mirror lines.** When the mirror line goes through the corners of the grid squares at 45°, you cannot count straight across. Instead, move from the vertex to the line **diagonally**, through the corners of the squares, at right angles to the mirror line. Then carry on the same number of diagonal steps on the other side. Another good method is to turn the page until the mirror line is vertical — then the reflection looks like an ordinary one."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 290\" width=\"300\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M26 26V250M54 26V250M82 26V250M110 26V250M138 26V250M166 26V250M194 26V250M222 26V250M250 26V250M26 250H250M26 222H250M26 194H250M26 166H250M26 138H250M26 110H250M26 82H250M26 54H250M26 26H250\" stroke=\"#c3cede\" stroke-width=\"1\" fill=\"none\"/><polygon points=\"54,138 110,138 54,54\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"138,222 138,166 222,222\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"26\" y1=\"250\" x2=\"250\" y2=\"26\" stroke=\"#b3261e\" stroke-width=\"2.2\" stroke-dasharray=\"7 5\"/><line x1=\"110\" y1=\"138\" x2=\"138\" y2=\"166\" stroke=\"#1f5fbf\" stroke-width=\"1.6\" stroke-dasharray=\"4 3\"/><rect x=\"119\" y=\"147\" width=\"10\" height=\"10\" fill=\"none\" stroke=\"#1f5fbf\" stroke-width=\"1.2\" transform=\"rotate(45 124 152)\"/><text x=\"42\" y=\"153\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">P</text><text x=\"116\" y=\"129\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">Q</text><text x=\"42\" y=\"55\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">R</text><text x=\"150\" y=\"239\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">P′</text><text x=\"154\" y=\"177\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">Q′</text><text x=\"232\" y=\"239\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">R′</text><text x=\"246\" y=\"18\" font-size=\"14\" text-anchor=\"end\" font-weight=\"bold\" fill=\"#b3261e\">mirror line</text></svg>",
+   "caption": "Reflection in a diagonal mirror line. Q is 1 diagonal step from the line, so Q′ is 1 diagonal step on the other side. The dashed path from Q to Q′ crosses the mirror line at a right angle."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "A pattern you can use",
+   "text": "On this grid the diagonal mirror line goes through (0, 0), (1, 1), (2, 2)… Look at P(1, 4) → P′(4, 1), Q(3, 4) → Q′(4, 3) and R(1, 7) → R′(7, 1): the two numbers swap places. This works only for a diagonal line through points with equal numbers, like (1, 1) and (2, 2). Use it to check your drawing, but always count the squares too."
+  },
+  {
+   "type": "h2",
+   "text": "4. Rotation by 90° around a vertex"
+  },
+  {
+   "type": "p",
+   "text": "In a **rotation**, the shape **turns** around a fixed point called the **centre of rotation**. At Stage 6 the turn is always **90°** (a quarter turn), **clockwise** or **anticlockwise**, and the centre is one of the shape’s own **vertices**. The centre vertex does not move. Every side that starts at the centre turns through 90° and keeps its length."
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 320 250\" width=\"320\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M30 26V222M58 26V222M86 26V222M114 26V222M142 26V222M170 26V222M198 26V222M226 26V222M254 26V222M282 26V222M30 222H282M30 194H282M30 166H282M30 138H282M30 110H282M30 82H282M30 54H282M30 26H282\" stroke=\"#c3cede\" stroke-width=\"1\" fill=\"none\"/><polygon points=\"142,110 226,110 226,54\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"142,110 142,194 198,194\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\" fill-opacity=\"0.85\"/><circle cx=\"142\" cy=\"110\" r=\"4.5\" fill=\"#b3261e\"/><path d=\"M121 110A21 21 0 0 1 142 89\" stroke=\"#b3261e\" stroke-width=\"1.8\" fill=\"none\"/><line x1=\"139\" y1=\"89\" x2=\"143\" y2=\"89\" stroke=\"#b3261e\" stroke-width=\"1.8\"/><polygon points=\"143,89 136.9,92.5 136.9,85.5\" fill=\"#b3261e\"/><text x=\"102\" y=\"129\" font-size=\"13\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#b3261e\">centre</text><text x=\"238\" y=\"115\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">A</text><text x=\"238\" y=\"53\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">B</text><text x=\"128\" y=\"209\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">A′</text><text x=\"212\" y=\"209\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">B′</text></svg>",
+   "caption": "Triangle OAB rotated 90° clockwise about the red vertex. OA pointed 3 squares right; after the turn it points 3 squares down. B was 3 right and 2 up from the centre; after the turn B′ is 3 down and 2 right."
+  },
+  {
+   "type": "p",
+   "text": "**Method 1 — tracing paper:**"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Trace the shape and draw a small arrow on the tracing pointing straight up from the centre vertex.",
+    "Hold the centre vertex down with your pencil point.",
+    "Turn the tracing a quarter turn in the direction asked, until your arrow points right (clockwise) or left (anticlockwise).",
+    "Press through the corners or note where they are, then draw the image on the grid with a ruler."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Method 2 — the “arms” method (no tracing paper).** From the centre vertex, write each other vertex as moves across and up/down. Then turn each move a quarter turn:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Move from the centre",
+    "After 90° clockwise",
+    "After 90° anticlockwise"
+   ],
+   "rows": [
+    [
+     "right",
+     "down",
+     "up"
+    ],
+    [
+     "up",
+     "right",
+     "left"
+    ],
+    [
+     "left",
+     "up",
+     "down"
+    ],
+    [
+     "down",
+     "left",
+     "right"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Think of a clock: the hands move clockwise from 12 to 3, so **up turns into right**. For example, a vertex that is 3 right and 2 up from the centre becomes 3 down and 2 right after a clockwise quarter turn."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "بالعربي: الفرق بين التحويلات الثلاثة",
+   "items": [
+    "الانتقال (translation): الشكل «يتزحلق» فقط — نفس الاتجاه، لا يلف ولا ينقلب. نكتب: كام مربع يمين/شمال وكام مربع فوق/تحت.",
+    "الانعكاس (reflection): الشكل «ينقلب» على خط المرآة — كل نقطة على نفس البعد من الخط لكن في الناحية الثانية، والعد يكون عمودي على الخط.",
+    "الدوران (rotation): الشكل «يلف» ربع لفة (90°) حول رأس ثابت — مع عقارب الساعة: فوق تصبح يمين، ويمين تصبح تحت.",
+    "في كل الحالات الصورة مطابقة للأصل في الشكل والمقاس."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1** — Rotational symmetry  [1 mark]\nTick (✓) the **two** shapes that have rotational symmetry of order 2: rhombus, kite, rectangle, isosceles trapezium."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Imagine a half turn of each shape. A rhombus and a rectangle both look the same upside down, so they fit after a half turn.",
+    "Check a quarter turn: a rhombus that is not a square does not fit after a quarter turn, nor does a rectangle that is not a square. So both have order exactly 2.",
+    "A kite and an isosceles trapezium only fit after a full turn: order 1."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** rhombus ✓ and rectangle ✓ (both needed for the mark).\n**Common mistake:** counting lines of symmetry instead. A rectangle has 2 lines of symmetry **and** order 2 — but a parallelogram has 0 lines of symmetry and still has order 2."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2** — Translation with coordinates  [2 marks]\nTriangle PQR has vertices P(−3, 2), Q(−1, 2) and R(−3, 5). It is translated 4 squares right and 6 squares down. Write the coordinates of P′, Q′ and R′."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Point",
+    "x + 4 (right)",
+    "y − 6 (down)",
+    "Image"
+   ],
+   "rows": [
+    [
+     "P(−3, 2)",
+     "−3 + 4 = 1",
+     "2 − 6 = −4",
+     "P′(1, −4)"
+    ],
+    [
+     "Q(−1, 2)",
+     "−1 + 4 = 3",
+     "2 − 6 = −4",
+     "Q′(3, −4)"
+    ],
+    [
+     "R(−3, 5)",
+     "−3 + 4 = 1",
+     "5 − 6 = −1",
+     "R′(1, −1)"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** P′(1, −4), Q′(3, −4), R′(1, −1). Award 2 marks for all three correct, 1 mark for two correct.\n**Check:** PQ is horizontal and 2 units long; P′Q′ is also horizontal and 2 units long. ✓\n**Common mistake:** adding the 4 to the y-coordinate. Right/left changes **x** (the first number); up/down changes **y** (the second number)."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3** — Describing a translation  [1 mark]\nA shape is translated so that the point A(2, −1) moves to A′(−3, 2). Describe the translation."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Across: x goes from 2 to −3. Count on a number line: 2 → 0 is 2 steps, 0 → −3 is 3 more steps, so 5 steps to the **left**.",
+    "Up/down: y goes from −1 to 2. −1 → 0 → 2 is 3 steps **up**.",
+    "Check with any other corresponding pair — the moves are always the same in a translation."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** 5 squares left and 3 squares up.\n**Common mistake:** counting from the image back to the object, which gives the opposite directions (5 right, 3 down)."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4** — Reflection in a horizontal mirror line  [1 mark]\nThe shape has vertices at (1, 4), (4, 4), (4, 6) and (2, 7) on a square grid. The mirror line is horizontal and passes through the two bottom vertices. Draw the reflection."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "The vertices (1, 4) and (4, 4) are **on** the mirror line, so they stay where they are.",
+    "(4, 6) is 2 squares above the line → its image is 2 squares below the line: (4, 2).",
+    "(2, 7) is 3 squares above the line → its image is 3 squares below: (2, 1).",
+    "Join (1, 4), (4, 4), (4, 2), (2, 1) in order with a ruler."
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 270\" width=\"300\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M24 24V232M50 24V232M76 24V232M102 24V232M128 24V232M154 24V232M180 24V232M206 24V232M232 24V232M24 232H232M24 206H232M24 180H232M24 154H232M24 128H232M24 102H232M24 76H232M24 50H232M24 24H232\" stroke=\"#c3cede\" stroke-width=\"1\" fill=\"none\"/><polygon points=\"50,128 128,128 128,76 76,50\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"50,128 128,128 128,180 76,206\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"16.2\" y1=\"128\" x2=\"239.8\" y2=\"128\" stroke=\"#b3261e\" stroke-width=\"2.2\" stroke-dasharray=\"7 5\"/><text x=\"232\" y=\"120\" font-size=\"14\" text-anchor=\"end\" font-weight=\"bold\" fill=\"#b3261e\">mirror line</text><text x=\"76\" y=\"41\" font-size=\"13\" text-anchor=\"middle\">shape</text><text x=\"76\" y=\"225\" font-size=\"13\" text-anchor=\"middle\">image</text></svg>",
+   "caption": "Answer to worked example 4: the image (yellow) is the shape flipped over the horizontal mirror line. The two vertices on the line do not move."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5** — Rotation about a vertex  [2 marks]\nTriangle JKL has vertices J(1, 1), K(4, 1) and L(4, 3). It is rotated 90° **anticlockwise** about vertex J. Write the coordinates of K′ and L′."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "J is the centre, so J does not move: J′ = (1, 1).",
+    "From J to K is 3 right. Anticlockwise, right turns into up → 3 up from J: K′ = (1, 4).",
+    "From J to L is 3 right and 2 up. Anticlockwise, right turns into up and up turns into left → 3 up and 2 left from J: L′ = (1 − 2, 1 + 3) = (−1, 4).",
+    "Check: JK and JK′ are both 3 units long and meet at a right angle. ✓"
+   ]
+  },
+  {
+   "type": "svg",
+   "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 230\" width=\"300\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M30 26V194M58 26V194M86 26V194M114 26V194M142 26V194M170 26V194M198 26V194M226 26V194M254 26V194M30 194H254M30 166H254M30 138H254M30 110H254M30 82H254M30 54H254M30 26H254\" stroke=\"#c3cede\" stroke-width=\"1\" fill=\"none\"/><line x1=\"30\" y1=\"166\" x2=\"264\" y2=\"166\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"114\" y1=\"194\" x2=\"114\" y2=\"16\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"270\" y=\"171\" font-size=\"14\" text-anchor=\"middle\" font-style=\"italic\">x</text><text x=\"114\" y=\"12\" font-size=\"14\" text-anchor=\"middle\" font-style=\"italic\">y</text><text x=\"30\" y=\"182\" font-size=\"13\" text-anchor=\"middle\">−3</text><text x=\"58\" y=\"182\" font-size=\"13\" text-anchor=\"middle\">−2</text><text x=\"86\" y=\"182\" font-size=\"13\" text-anchor=\"middle\">−1</text><text x=\"142\" y=\"182\" font-size=\"13\" text-anchor=\"middle\">1</text><text x=\"170\" y=\"182\" font-size=\"13\" text-anchor=\"middle\">2</text><text x=\"198\" y=\"182\" font-size=\"13\" text-anchor=\"middle\">3</text><text x=\"226\" y=\"182\" font-size=\"13\" text-anchor=\"middle\">4</text><text x=\"254\" y=\"182\" font-size=\"13\" text-anchor=\"middle\">5</text><text x=\"108\" y=\"199\" font-size=\"13\" text-anchor=\"end\">−1</text><text x=\"108\" y=\"143\" font-size=\"13\" text-anchor=\"end\">1</text><text x=\"108\" y=\"115\" font-size=\"13\" text-anchor=\"end\">2</text><text x=\"108\" y=\"87\" font-size=\"13\" text-anchor=\"end\">3</text><text x=\"108\" y=\"59\" font-size=\"13\" text-anchor=\"end\">4</text><text x=\"108\" y=\"31\" font-size=\"13\" text-anchor=\"end\">5</text><text x=\"108\" y=\"182\" font-size=\"13\" text-anchor=\"end\">0</text><polygon points=\"142,138 226,138 226,82\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><polygon points=\"142,138 142,54 86,54\" fill=\"#fff4d6\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\" fill-opacity=\"0.85\"/><circle cx=\"142\" cy=\"138\" r=\"4.5\" fill=\"#b3261e\"/><text x=\"150\" y=\"155\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">J</text><text x=\"238\" y=\"145\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">K</text><text x=\"238\" y=\"83\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">L</text><text x=\"156\" y=\"49\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">K′</text><text x=\"72\" y=\"49\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">L′</text></svg>",
+   "caption": "Answer to worked example 5: the triangle has made a quarter turn anticlockwise around J."
+  },
+  {
+   "type": "p",
+   "text": "**Answer:** K′(1, 4), L′(−1, 4). 1 mark for each.\n**Common mistake:** turning clockwise instead. Clockwise would send K to (1, −2) — always check the direction word in the question."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 6** — Which transformation?  [2 marks]\nShape A has vertices (1, 1), (3, 1), (1, 4). Shape B has vertices (5, 3), (7, 3), (5, 6). Shape C has vertices (−1, 1), (−3, 1), (−1, 4).\n(a) Describe fully the transformation that maps shape A onto shape B.\n(b) Describe fully the transformation that maps shape A onto shape C."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "(a) Compare corresponding points: (1, 1) → (5, 3), (3, 1) → (7, 3), (1, 4) → (5, 6). Each x goes up by 4 and each y goes up by 2. The shape faces the same way, so it is a **translation of 4 squares right and 2 squares up**.",
+    "(b) Each y-coordinate stays the same, but each x-coordinate changes sign: 1 → −1, 3 → −3. The shape is flipped across the y-axis, so it is a **reflection in the y-axis** (the vertical line through 0)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Exam technique:** “Describe fully” means name the transformation **and** give the details: for a translation the moves; for a reflection the mirror line; for a rotation the angle, the direction and the centre."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Common mistakes",
+   "items": [
+    "Saying a kite or an isosceles triangle has “order 0”. Every shape fits onto itself after a full turn, so the smallest order is **1**.",
+    "Mixing up lines of symmetry and order of rotational symmetry (a parallelogram: 0 lines, but order 2).",
+    "Ignoring colour or shading when finding rotational symmetry — a pattern only fits if the colours match too.",
+    "Translations: changing the y-coordinate for a left/right move, or counting squares from the wrong corner.",
+    "Reflections: counting the distance to the mirror line along the grid when the line is diagonal — count **at right angles** to the line (diagonally through the corners of squares).",
+    "Reflections: moving points that are on the mirror line. They stay where they are.",
+    "Rotations: turning about the centre of the shape instead of the given vertex, or turning the wrong way. Clockwise = the way clock hands move.",
+    "Drawing an image that is a different size. Translations, reflections and rotations never change the size."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "How Checkpoint asks this",
+   "items": [
+    "“Write the order of rotational symmetry” of a shape or pattern — answer with a number, e.g. 2 (not “2 lines”).",
+    "“Tick the shapes that have rotational symmetry of order 2” — every correct box usually needs ticking for the mark.",
+    "“Draw the reflection of the shape in the mirror line” on a square grid — use a ruler and a sharp HB pencil; vertices must be exactly on grid points.",
+    "“Translate the shape 3 squares left and 2 squares down” or “Write the coordinates of the point that corresponds to A”.",
+    "“Rotate the shape 90° clockwise about the point marked X” — tracing paper is allowed in the test, so use it to check.",
+    "“Describe the translation”, or “Is this a reflection or a rotation? Explain how you know.” Give a short reason: e.g. “the shape has been flipped” or “it is the same way round”."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "قاعدة لازم تحفظها",
+   "items": [
+    "رتبة التماثل الدوراني = عدد المرات اللي الشكل ينطبق فيها على نفسه في لفة كاملة. أقل رتبة = 1 (يعني مافيش تماثل دوراني).",
+    "المربع رتبته 4، المستطيل ومتوازي الأضلاع والمعين رتبتهم 2، المثلث المتساوي الأضلاع رتبته 3.",
+    "في الإحداثيات: يمين/شمال تغيّر الرقم الأول (x)، وفوق/تحت تغيّر الرقم الثاني (y)."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Symmetry and transformations — practice",
+   "timed": false,
+   "intro": "14 questions, from easy to Checkpoint-hard. Use squared paper and tracing paper if you have them. For drawing questions, check your answer against the mark scheme shown at the end.",
+   "sections": [
+    {
+     "name": "Practice",
+     "minutes": 25,
+     "calc": false,
+     "questions": [
+      {
+       "q": "Which shape has rotational symmetry of order 4?",
+       "c": [
+        "rectangle",
+        "square",
+        "kite",
+        "equilateral triangle"
+       ],
+       "a": 1,
+       "m": 1,
+       "s": "Rotational symmetry",
+       "e": "A square fits onto itself after every quarter turn: 4 times in a full turn, so order 4. A rectangle has order 2, a kite order 1 and an equilateral triangle order 3."
+      },
+      {
+       "t": "num",
+       "q": "Write the order of rotational symmetry of an equilateral triangle.",
+       "ans": [
+        3
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Rotational symmetry",
+       "e": "Turn it about its centre: it fits onto itself after one third of a turn, two thirds of a turn and a full turn — 3 times. Order 3."
+      },
+      {
+       "t": "num",
+       "q": "This shape is made from four squares. Write its order of rotational symmetry.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 200 150\" width=\"200\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M16 14V126M44 14V126M72 14V126M100 14V126M128 14V126M156 14V126M184 14V126M16 126H184M16 98H184M16 70H184M16 42H184M16 14H184\" stroke=\"#c3cede\" stroke-width=\"1\" fill=\"none\"/><polygon points=\"44,98 100,98 100,70 128,70 128,42 72,42 72,70 44,70\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/></svg>",
+       "ans": [
+        2
+       ],
+       "tol": 0,
+       "m": 1,
+       "s": "Rotational symmetry",
+       "e": "Turn the page upside down (a half turn): the shape looks exactly the same. After a quarter turn it is standing up on its end, so it does not fit. It fits after a half turn and a full turn: order 2. (It has no lines of symmetry.)"
+      },
+      {
+       "q": "A shape has rotational symmetry of order 1. What does this mean?",
+       "c": [
+        "It has exactly one line of symmetry.",
+        "It fits onto itself after a half turn.",
+        "It fits onto itself after every quarter turn.",
+        "It only fits onto itself after a full turn."
+       ],
+       "a": 3,
+       "m": 1,
+       "s": "Rotational symmetry",
+       "e": "Order 1 means the shape fits onto its outline only once in a full turn — at the end of the full turn. So it has no rotational symmetry. Order is not about lines of symmetry."
+      },
+      {
+       "t": "text",
+       "q": "The point (2, −3) is translated 4 squares left and 5 squares up. Write the coordinates of its image.",
+       "ans": [
+        "(-2,2)",
+        "-2,2"
+       ],
+       "m": 1,
+       "s": "Translation",
+       "e": "Left 4: x = 2 − 4 = −2. Up 5: y = −3 + 5 = 2. Image: (−2, 2)."
+      },
+      {
+       "q": "A shape is translated so that the point (−1, 4) moves to (3, 1). Which describes the translation?",
+       "c": [
+        "3 right and 4 down",
+        "4 left and 3 up",
+        "4 right and 3 down",
+        "4 right and 3 up"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Translation",
+       "e": "x: −1 → 3 is 4 to the right. y: 4 → 1 is 3 down. So 4 right and 3 down."
+      },
+      {
+       "t": "text",
+       "p": "A triangle is translated. Its vertex B(3, 0) moves to B′(1, 4).",
+       "q": "The vertex C(5, 2) moves to C′. Write the coordinates of C′.",
+       "ans": [
+        "(3,6)",
+        "3,6"
+       ],
+       "m": 1,
+       "s": "Translation",
+       "e": "From B to B′: x goes 3 → 1 (2 left), y goes 0 → 4 (4 up). Every point moves the same way, so C′ = (5 − 2, 2 + 4) = (3, 6)."
+      },
+      {
+       "t": "open",
+       "q": "Draw the reflection of the triangle in the mirror line. (On paper: copy the grid, or describe the three vertices of your image.)",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 330 230\" width=\"330\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M25 25V193M53 25V193M81 25V193M109 25V193M137 25V193M165 25V193M193 25V193M221 25V193M249 25V193M277 25V193M305 25V193M25 193H305M25 165H305M25 137H305M25 109H305M25 81H305M25 53H305M25 25H305\" stroke=\"#c3cede\" stroke-width=\"1\" fill=\"none\"/><polygon points=\"53,165 137,165 53,53\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><line x1=\"165\" y1=\"201.4\" x2=\"165\" y2=\"16.6\" stroke=\"#b3261e\" stroke-width=\"2.2\" stroke-dasharray=\"7 5\"/><text x=\"165\" y=\"18\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#b3261e\">mirror line</text></svg>",
+       "m": 1,
+       "s": "Reflection",
+       "ms": "1 mark for a correct image: a right-angled triangle on the right of the mirror line with its right angle 4 squares to the right of the line on the bottom row (on the same row as the object’s right angle), its bottom side going 3 squares back towards the line (ending 1 square from the line), and its vertical side 4 squares tall. Vertices must be on grid points; ruled lines.",
+       "e": "Count straight across to the mirror line for each vertex. The right-angle corner is 4 squares left of the line → its image is 4 squares right of the line. The bottom-right corner is 1 square left of the line → image 1 square right of the line. The top corner is 4 squares left of the line (above the right angle) → image 4 squares right, 4 squares up. The image is the triangle “facing” the object, like a mirror."
+      },
+      {
+       "t": "text",
+       "q": "Point A is reflected in the mirror line. Write the coordinates of its image.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 240 300\" width=\"240\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M36 30V246M60 30V246M84 30V246M108 30V246M132 30V246M156 30V246M180 30V246M36 246H180M36 222H180M36 198H180M36 174H180M36 150H180M36 126H180M36 102H180M36 78H180M36 54H180M36 30H180\" stroke=\"#c3cede\" stroke-width=\"1\" fill=\"none\"/><line x1=\"36\" y1=\"150\" x2=\"190\" y2=\"150\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><line x1=\"36\" y1=\"246\" x2=\"36\" y2=\"20\" stroke=\"#0f1b33\" stroke-width=\"1.6\"/><text x=\"196\" y=\"155\" font-size=\"14\" text-anchor=\"middle\" font-style=\"italic\">x</text><text x=\"36\" y=\"16\" font-size=\"14\" text-anchor=\"middle\" font-style=\"italic\">y</text><text x=\"60\" y=\"166\" font-size=\"13\" text-anchor=\"middle\">1</text><text x=\"84\" y=\"166\" font-size=\"13\" text-anchor=\"middle\">2</text><text x=\"108\" y=\"166\" font-size=\"13\" text-anchor=\"middle\">3</text><text x=\"132\" y=\"166\" font-size=\"13\" text-anchor=\"middle\">4</text><text x=\"156\" y=\"166\" font-size=\"13\" text-anchor=\"middle\">5</text><text x=\"180\" y=\"166\" font-size=\"13\" text-anchor=\"middle\">6</text><text x=\"30\" y=\"251\" font-size=\"13\" text-anchor=\"end\">−4</text><text x=\"30\" y=\"227\" font-size=\"13\" text-anchor=\"end\">−3</text><text x=\"30\" y=\"203\" font-size=\"13\" text-anchor=\"end\">−2</text><text x=\"30\" y=\"179\" font-size=\"13\" text-anchor=\"end\">−1</text><text x=\"30\" y=\"131\" font-size=\"13\" text-anchor=\"end\">1</text><text x=\"30\" y=\"107\" font-size=\"13\" text-anchor=\"end\">2</text><text x=\"30\" y=\"83\" font-size=\"13\" text-anchor=\"end\">3</text><text x=\"30\" y=\"59\" font-size=\"13\" text-anchor=\"end\">4</text><text x=\"30\" y=\"35\" font-size=\"13\" text-anchor=\"end\">5</text><text x=\"30\" y=\"166\" font-size=\"13\" text-anchor=\"end\">0</text><line x1=\"36\" y1=\"126\" x2=\"187.2\" y2=\"126\" stroke=\"#b3261e\" stroke-width=\"2.2\" stroke-dasharray=\"7 5\"/><circle cx=\"108\" cy=\"54\" r=\"4.5\" fill=\"#0f1b33\"/><text x=\"108\" y=\"45\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">A</text><text x=\"182\" y=\"118\" font-size=\"13\" text-anchor=\"end\" font-weight=\"bold\" fill=\"#b3261e\">mirror line</text></svg>",
+       "ans": [
+        "(3,-2)",
+        "3,-2"
+       ],
+       "m": 1,
+       "s": "Reflection",
+       "e": "A is at (3, 4). The mirror line is horizontal at y = 1. A is 3 squares above the line (4 − 1 = 3), so the image is 3 squares below it: y = 1 − 3 = −2. The x-coordinate does not change. Image: (3, −2)."
+      },
+      {
+       "q": "Point P is reflected in the diagonal mirror line. Which point is its image?",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 290 290\" width=\"290\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M25 25V249M53 25V249M81 25V249M109 25V249M137 25V249M165 25V249M193 25V249M221 25V249M249 25V249M25 249H249M25 221H249M25 193H249M25 165H249M25 137H249M25 109H249M25 81H249M25 53H249M25 25H249\" stroke=\"#c3cede\" stroke-width=\"1\" fill=\"none\"/><line x1=\"25\" y1=\"249\" x2=\"249\" y2=\"25\" stroke=\"#b3261e\" stroke-width=\"2.2\" stroke-dasharray=\"7 5\"/><circle cx=\"81\" cy=\"81\" r=\"4.5\" fill=\"#b3261e\"/><text x=\"93\" y=\"74\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">P</text><circle cx=\"81\" cy=\"193\" r=\"4.5\" fill=\"#0f1b33\"/><text x=\"93\" y=\"186\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">A</text><circle cx=\"193\" cy=\"81\" r=\"4.5\" fill=\"#0f1b33\"/><text x=\"205\" y=\"74\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">B</text><circle cx=\"193\" cy=\"193\" r=\"4.5\" fill=\"#0f1b33\"/><text x=\"205\" y=\"186\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">C</text><circle cx=\"165\" cy=\"221\" r=\"4.5\" fill=\"#0f1b33\"/><text x=\"177\" y=\"214\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\">D</text></svg>",
+       "c": [
+        "A",
+        "B",
+        "C",
+        "D"
+       ],
+       "a": 2,
+       "m": 1,
+       "s": "Reflection",
+       "e": "Move from P at right angles to the mirror line: diagonally down and to the right, through the corners of squares. P reaches the line after 2 diagonal steps, so go 2 more diagonal steps on the other side: that is point C. (A is straight below P and B is straight across — both are on the mirror line, not reflections.)"
+      },
+      {
+       "t": "text",
+       "p": "Triangle PQR has vertices P(2, 1), Q(5, 1) and R(2, 3). It is rotated 90° clockwise about vertex P.",
+       "q": "(a) Write the coordinates of the image of Q.",
+       "ans": [
+        "(2,-2)",
+        "2,-2"
+       ],
+       "m": 1,
+       "s": "Rotation",
+       "e": "From P to Q is 3 right. Clockwise, right turns into down → 3 down from P: (2, 1 − 3) = (2, −2)."
+      },
+      {
+       "t": "text",
+       "p": "Triangle PQR has vertices P(2, 1), Q(5, 1) and R(2, 3). It is rotated 90° clockwise about vertex P.",
+       "q": "(b) Write the coordinates of the image of R.",
+       "ans": [
+        "(4,1)",
+        "4,1"
+       ],
+       "m": 1,
+       "s": "Rotation",
+       "e": "From P to R is 2 up. Clockwise, up turns into right → 2 right from P: (2 + 2, 1) = (4, 1)."
+      },
+      {
+       "t": "open",
+       "q": "Rotate the triangle 90° anticlockwise about the vertex marked X. Describe or draw the image.",
+       "img": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 300 250\" width=\"300\" font-family=\"Arial, sans-serif\" font-size=\"14\"><path d=\"M22 22V218M50 22V218M78 22V218M106 22V218M134 22V218M162 22V218M190 22V218M218 22V218M246 22V218M274 22V218M22 218H274M22 190H274M22 162H274M22 134H274M22 106H274M22 78H274M22 50H274M22 22H274\" stroke=\"#c3cede\" stroke-width=\"1\" fill=\"none\"/><polygon points=\"134,134 218,134 218,78\" fill=\"#eaf1fb\" stroke=\"#0f1b33\" stroke-width=\"2\" stroke-linejoin=\"round\"/><circle cx=\"134\" cy=\"134\" r=\"4.5\" fill=\"#b3261e\"/><text x=\"124\" y=\"151\" font-size=\"14\" text-anchor=\"middle\" font-weight=\"bold\" fill=\"#b3261e\">X</text></svg>",
+       "m": 2,
+       "s": "Rotation",
+       "ms": "2 marks for a correct image with vertices at X, at 3 squares directly above X, and at 2 squares left and 3 squares up from X. 1 mark for a correct 90° clockwise rotation about X (vertices at X, 3 squares below X, 2 squares right and 3 down from X), or for a correct anticlockwise rotation drawn about a different point.",
+       "e": "The vertices other than X: one is 3 right of X; the other is 3 right and 2 up. Anticlockwise: right → up and up → left. So 3 right → 3 up; and (3 right, 2 up) → (3 up, 2 left). Image vertices: X, the point 3 above X, and the point 2 left and 3 up from X."
+      },
+      {
+       "q": "Which statement is true for every translation, reflection and rotation?",
+       "c": [
+        "The image is congruent to the object (same size and shape).",
+        "The image always faces the same way as the object.",
+        "The image is always in the same position as the object.",
+        "The image is always larger than the object."
+       ],
+       "a": 0,
+       "m": 1,
+       "s": "Transformations",
+       "e": "All three transformations keep the size and shape the same, so the image is congruent to the object. Only a translation keeps the shape facing the same way; reflections flip it and rotations turn it."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Order of rotational symmetry = number of times a shape fits onto itself in one full turn. The smallest order is 1 (no rotational symmetry).",
+    "Translation = slide: left/right changes x, up/down changes y. Describe it as “… squares right/left and … squares up/down”.",
+    "Reflection = flip: each point is the same distance from the mirror line on the other side, measured at right angles to the line.",
+    "Rotation = turn 90° about a vertex: clockwise turns up → right → down → left; the centre vertex does not move.",
+    "The image is always congruent to the object. Label corresponding points A → A′."
+   ]
+  }
+ ]
+}
