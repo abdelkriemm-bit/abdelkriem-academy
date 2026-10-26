@@ -22,8 +22,7 @@ def _xpage(fname, title, desc, head_html, howto_ar, data):
     page(fname, title, desc, body, "improve-english.html")
     EXTRA_PAGES.append(fname)
 
-_pl = _jx.load(open(_ox.path.join(_XD, "exams", "placement.json"), encoding="utf-8"))
-_pl.update({"mode": "placement", "need": 6})
+_pl = {"mode": "placement", "need": 6, "forms": [_jx.load(open(_ox.path.join(_XD, "exams", f), encoding="utf-8")) for f in ("placement.json", "placement_b.json")]}
 _xpage("english-placement-test.html",
        "Free English Placement Test — امتحان تحديد المستوى | Abdelkriem Academy",
        "Free English placement test: 40 questions, about 20 minutes. Find your level (A1–B2) and start the free English course at the right level.",
@@ -31,11 +30,10 @@ _xpage("english-placement-test.html",
                 "English Placement Test<span class='ar-title' lang='ar' dir='rtl'>امتحان تحديد المستوى</span>",
                 "Find your level in 20 minutes, then start the free course at the level that fits you."),
        '<h2>إزاي تمتحن؟</h2><ol><li>40 سؤال، من السهل للصعب. جاوب لوحدك من غير ترجمة ومن غير ما تسأل حد، عشان النتيجة تبقى حقيقية.</li>'
-       '<li>لو مش عارف الإجابة سيبها فاضية، ما تخمّنش.</li><li>في الآخر دوس «خلّصت، وريني النتيجة»، والموقع هيقولك تبدأ من أنهي ليفل، ويوريك الإجابات الصح.</li></ol>',
+       '<li>لو مش عارف الإجابة سيبها فاضية، ما تخمّنش.</li><li>لو امتحنت تاني هتلاقي أسئلة مختلفة.</li><li>في الآخر دوس «خلّصت، وريني النتيجة»، والموقع هيقولك تبدأ من أنهي ليفل، ويوريك الإجابات الصح.</li></ol>',
        _pl)
 
-_fn = _jx.load(open(_ox.path.join(_XD, "exams", "level1_final.json"), encoding="utf-8"))
-_fn.update({"mode": "final"})
+_fn = {"mode": "final", "pass": 28, "forms": [_jx.load(open(_ox.path.join(_XD, "exams", f), encoding="utf-8")) for f in ("level1_final.json", "level1_final_b.json")]}
 _xpage("english-level-1-final-test.html",
        "Level 1 Final Test and Certificate — امتحان نهاية الليفل الأول | Abdelkriem Academy",
        "English Course Level 1 final test: 40 questions on all 12 weeks. Score 28/40 to pass, get your certificate and move on to Level 2.",
@@ -43,7 +41,7 @@ _xpage("english-level-1-final-test.html",
                 "Level 1 Final Test<span class='ar-title' lang='ar' dir='rtl'>امتحان نهاية الليفل الأول + الشهادة</span>",
                 "Finished the 12 weeks? Score 28 out of 40 to pass, download your certificate and move on to Level 2."),
        '<h2>قبل ما تبدأ</h2><ol><li>الامتحان على الـ 12 أسبوع كلهم: جرامر، كلمات، إنجليزي الحياة اليومية، وقطعة قراءة صغيرة.</li>'
-       '<li>عشان تنجح لازم تجيب <b>28 من 40</b> على الأقل.</li><li>لو نجحت: اكتب اسمك وخد شهادتك، وكمّل على الليفل التاني. لو ما نجحتش: الموقع هيقولك تراجع أنهي أسابيع، وتقدر تمتحن تاني في أي وقت.</li></ol>',
+       '<li>عشان تنجح لازم تجيب <b>28 من 40</b> على الأقل.</li><li>لو نجحت: اكتب اسمك وخد شهادتك، وكمّل على الليفل التاني. لو ما نجحتش: الموقع هيقولك تراجع أنهي أسابيع، وتقدر تمتحن تاني في أي وقت بأسئلة جديدة.</li></ol>',
        _fn)
 
 # "New" strip on the English hub, Level 1 page and home page
