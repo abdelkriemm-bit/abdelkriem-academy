@@ -8,8 +8,8 @@ PL = {
  "parents": "PLZn-QO9NSjZSQsQLpm2O2QVnymKTOJ-hD", "tips": "PLZn-QO9NSjZQhhfkg0HBadGcs9Kfn0IRv",
  "ielts": "PLZn-QO9NSjZSuQZSRDvkmDOOnINQqF56t", "situations": "PLZn-QO9NSjZTVogFkUdSRhjTNpm7PjPLX",
 }
-NAV = [("index.html","Home","الرئيسية"),("british.html","British &amp; IGCSE",""),("american.html","American Diploma",""),("egyptian-baccalaureate.html","Egyptian Baccalaureate",""),
-       ("quran.html","Quran",""),("improve-english.html","English from Zero",""),("about.html","About","")]
+NAV = [("index.html","Home","الرئيسية"),("british.html","British &amp; IGCSE",""),("american.html","American Diploma",""),("egyptian-baccalaureate.html","Egyptian Baccalaureate","SUB:البكالوريا المصرية"),
+       ("quran.html","Quran · حفظ قرآن",""),("improve-english.html","English from Zero",""),("about.html","About","")]
 
 def head(title, desc, rtl=False):
     d = 'dir="rtl" lang="ar"' if rtl else 'lang="en"'
@@ -27,7 +27,7 @@ def head(title, desc, rtl=False):
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;800&family=Fraunces:opsz,wght@9..144,600;9..144,800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css?v=20261025c">
+<link rel="stylesheet" href="style.css?v=20261026a">
 <meta name="google-adsense-account" content="ca-pub-8885402561273130">
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8885402561273130" crossorigin="anonymous"></script>
 </head>
@@ -35,7 +35,12 @@ def head(title, desc, rtl=False):
 '''
 
 def header(active):
-    links = "".join(f'<a href="{h}"{" class=on" if h==active else ""}>{n}</a>' for h,n,_ in NAV)
+    def _nl(h,n,x):
+        cls=(["two"] if x.startswith("SUB:") else [])+(["on"] if h==active else [])
+        c=f' class="{" ".join(cls)}"' if cls else ""
+        inner=f'<span>{n}</span><small lang="ar">{x[4:]}</small>' if x.startswith("SUB:") else n
+        return f'<a href="{h}"{c}>{inner}</a>'
+    links = "".join(_nl(h,n,x) for h,n,x in NAV)
     return f'''<header class="top"><div class="wrap bar">
 <a class="brand" href="index.html"><span class="mark">AA</span><span><b>Abdelkriem Academy</b><small>Educate Me Up</small></span></a>
 <button class="menu" aria-label="Menu" onclick="document.body.classList.toggle('nav-open')">☰</button>
