@@ -9,7 +9,7 @@ PL = {
  "ielts": "PLZn-QO9NSjZSuQZSRDvkmDOOnINQqF56t", "situations": "PLZn-QO9NSjZTVogFkUdSRhjTNpm7PjPLX",
 }
 NAV = [("index.html","Home","الرئيسية"),("british.html","British &amp; IGCSE",""),("american.html","American Diploma",""),("egyptian-baccalaureate.html","Egyptian Baccalaureate","SUB:البكالوريا المصرية"),
-       ("quran.html","Quran · حفظ قرآن",""),("improve-english.html","English from Zero",""),("about.html","About","")]
+       ("quran.html","Quran · حفظ قرآن",""),("improve-english.html","English from Zero","SUB:إنجليزي من الصفر"),("about.html","About","")]
 
 def head(title, desc, rtl=False):
     d = 'dir="rtl" lang="ar"' if rtl else 'lang="en"'
