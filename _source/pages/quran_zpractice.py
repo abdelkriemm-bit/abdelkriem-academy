@@ -89,7 +89,7 @@ if (_zo.environ.get("PREVIEW_ALL_LEVELS") or QURAN_PUBLISHED) and "_qpage" in gl
     # ---- 3) "start here" box on the Quran hub and tajweed hub ----
     _box = ("<div class='howbox'><b>أول مرة هنا؟</b> اقرأ <a href='quran-start-here.html'>«ابدأ من هنا»</a>: كيف تستخدم الكورس، وبأي الأحكام نبدأ حسب سن ابنك، "
             "وأن كل درس تجويد فيه شرح، ثم تدريب، ثم اختبار قصير لتطمئن أنه أتقن الحكم، ثم يطبّقه في القراءة.</div>")
-    for _f in ("quran.html", "quran-tajweed.html"):
+    for _f in ("quran-tajweed.html",):
         _pp = _zo.path.join(OUT, _f)
         if _zo.path.exists(_pp):
             _h = open(_pp, encoding="utf-8").read()

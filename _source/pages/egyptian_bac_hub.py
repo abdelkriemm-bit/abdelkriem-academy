@@ -2,8 +2,8 @@
 _eb = TILE_CSS + pagehead("Section 3", "Egyptian Baccalaureate · البكالوريا المصرية",
   "Free study material for the new Egyptian Baccalaureate (البكالوريا المصرية), organised by subject and year.") + f'''
 <section class="block"><div class="wrap"><div class="tiles">
-{tile("English","baccalaureate.html","تانية بكالوريا","92 lessons · the whole curriculum")}
-{tile("Parents' guide","parents-the-new-baccalaureate.html","دليل لولي الأمر","The new Baccalaureate explained")}
+{tile("English<span class='tar' style='display:block;font-size:1.3rem;color:var(--navy);font-weight:800;margin-top:6px;text-align:left' dir='rtl'>منهج إنجليزي البكالوريا كامل</span>","baccalaureate.html","تانية بكالوريا","92 lessons · the whole Ministry curriculum")}
+{tile("Parents' guide<span class='tar' style='display:block;font-size:1.3rem;color:var(--navy);font-weight:800;margin-top:6px;text-align:left' dir='rtl'>دليل ولي الأمر</span>","parents-the-new-baccalaureate.html","البكالوريا المصرية الجديدة","The new Baccalaureate explained")}
 </div></div></section>
 <section class="block alt"><div class="wrap prose" dir="rtl" lang="ar">
 <h2>البكالوريا المصرية</h2>

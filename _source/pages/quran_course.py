@@ -161,15 +161,23 @@ body{padding-bottom:64px}
         return t.strip(" —:.") 
     _rhtml = "".join(f'<li><a href="{_QE(u)}" target="_blank" rel="noopener">{_QE(n)}</a></li>' for n, u in _qr.AR_RESOURCES)
     _lv_list = "".join(f'<li><a href="quran-hifz-{l["level"]}.html"><small>{_qr.ar(len(l["weeks"]))} أسبوعًا</small>{_QE(l["title"])}</a></li>' for l in _levels)
-    _hub = ("<p>كورس مجاني كامل لتعليم القرآن الكريم للأطفال والكبار: من تعلّم الحروف، إلى أحكام التجويد، إلى حفظ القرآن كاملًا بخطة يومية واضحة يتابعها ولي الأمر في البيت.</p>"
-            "<h2>ابدأ من هنا</h2><ul class='grid'>"
-            "<li><a href='quran-guide.html'><small>اقرأه أولًا</small>دليل ولي الأمر</a></li>"
-            + ("<li><a href='quran-tajweed-guide.html'><small>قبل أن تبدأ الحفظ</small>أحكام التجويد كلها في مكان واحد</a></li><li><a href='quran-tajweed-practice.html'><small>اختبر نفسك واستمع</small>تدرّب على أحكام التجويد</a></li>" if _qo.path.exists(_qo.path.join(_QDIR, "tajweed_guide.json")) else "")
-            + (f"<li><a href='quran-reading.html'><small>{_qr.ar(len(_reading))} درسًا</small>التمهيدي: تعلّم القراءة</a></li>" if _reading else "")
-            + (f"<li><a href='quran-tajweed.html'><small>{_qr.ar(len(_tajweed))} درسًا</small>أحكام التجويد من الألف للياء</a></li>" if _tajweed else "")
-            + "</ul><h2>مستويات الحفظ (القرآن كاملًا)</h2>"
-            f"<p>نبدأ بجزء عمّ ثم تبارك ثم قد سمع، ثم باقي القرآن ثلاثة أجزاء في كل مستوى حتى سورة البقرة.</p><ul class='grid'>{_lv_list}</ul>"
-            + (f"<h2>مصادر الاستماع والتعلّم</h2><ul class='lst'>{_rhtml}</ul>" if _rhtml else ""))
+    def _qt(title, href, top="", sub=""):
+        return (f'<a class="tile" href="{href}" style="text-align:right">' + (f'<span class="ty" style="letter-spacing:0">{top}</span>' if top else "")
+                + f'<b style="font-family:Cairo,sans-serif;font-weight:800">{title}</b>' + (f'<span class="tar">{sub}</span>' if sub else "") + '<span class="go">افتح ←</span></a>')
+    _hub = (TILE_CSS + "<p>كورس مجاني لتعليم القرآن الكريم للأطفال والكبار، يتابعه ولي الأمر مع ابنه في البيت. اختر من أين تبدأ:</p><div class='tiles'>"
+            + _qt("ابدأ من هنا", "quran-start-here.html", "اقرأه أولًا", "طريقة الاستخدام، وبأي الأحكام نبدأ حسب السن")
+            + (_qt("تعلّم القراءة", "quran-reading.html", "التمهيدي", f"الحروف والحركات · {_qr.ar(len(_reading))} درسًا") if _reading else "")
+            + (_qt("أحكام التجويد", "quran-tajweed.html", "من الألف للياء", f"{_qr.ar(len(_tajweed))} درسًا · تدريب واختبار في كل درس") if _tajweed else "")
+            + _qt("حفظ القرآن", "quran-hifz.html", "القرآن كاملًا", f"{_qr.ar(len(_levels))} مستوى · خطة يومية مع المراجعة")
+            + "</div><h2>للمراجعة والمساعدة</h2><div class='tiles'>"
+            + _qt("دليل ولي الأمر", "quran-guide.html", "", "كيف تبدأ وتسمّع لابنك وتصحّح بلطف")
+            + (_qt("الأحكام في صفحة واحدة", "quran-tajweed-guide.html", "", "مع ألوان التجويد والأمثلة المسموعة") + _qt("تدريب عام على الأحكام", "quran-tajweed-practice.html", "", "أسئلة من القرآن مع الاستماع") if _qo.path.exists(_qo.path.join(_QDIR, "tajweed_guide.json")) else "")
+            + "</div>" + (f"<h2>مصادر الاستماع والتعلّم</h2><ul class='lst'>{_rhtml}</ul>" if _rhtml else ""))
+    _hz = (TILE_CSS + "<p>نبدأ بجزء عمّ ثم تبارك ثم قد سمع، ثم باقي القرآن ثلاثة أجزاء في كل مستوى حتى سورة البقرة. في كل أسبوع خطة يومية: حفظ جديد ومراجعة قريبة ومراجعة بعيدة.</p><div class='tiles'>"
+           + "".join(_qt(_QE(l["title"].split(":")[0]), f"quran-hifz-{l['level']}.html", f"{_qr.ar(len(l['weeks']))} أسبوعًا", _QE(l["title"].split(":", 1)[1].strip()) if ":" in l["title"] else "") for l in _levels)
+           + "</div><p><a href='quran.html'>→ صفحة الكورس</a></p>")
+    _qpage("quran-hifz.html", "حفظ القرآن الكريم كاملًا: مستويات الحفظ", "مستويات حفظ القرآن الكريم كاملًا بخطة يومية للطفل وولي الأمر، تبدأ بجزء عمّ.",
+           "القرآن الكريم من الألف للياء · الحفظ", "حفظ القرآن الكريم كاملًا", "اختر المستوى · ابدأ بالمستوى الأول (جزء عمّ)", _hz)
     _qpage("quran.html", "القرآن الكريم من الألف للياء: قراءة وتجويد وحفظ", "كورس قرآن مجاني للأطفال وأولياء الأمور: تعلّم القراءة، أحكام التجويد، وخطة حفظ القرآن كاملًا مع المراجعة.",
            "كورس مجاني · لولي الأمر والطفل", "القرآن الكريم من الألف للياء", "قراءة · تجويد · حفظ القرآن كاملًا بخطة يومية", _hub)
 
