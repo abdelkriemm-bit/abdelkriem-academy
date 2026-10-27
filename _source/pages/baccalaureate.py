@@ -111,8 +111,18 @@ BAC_UNITS = [
  ]),
 ]
 
+_BAC_AR = {"grammar": "القواعد", "language": "الكلمات واللغة", "reading": "القراءة", "listening": "الاستماع", "speaking": "الكلام", "writing": "الكتابة", "literature": "الأدب والقصة"}
 def _skill_nav():
-    return '<nav class="skillnav" dir="ltr">' + "".join(f'<a href="#{k}" dir="ltr">{t}</a>' for k, t, _, _ in BAC_SKILLS) + '</nav>'
+    t = "".join(f'<a class="stile" href="#{k}" data-s="{k}"><b dir="ltr">{t}</b><span class="sar">{_BAC_AR.get(k, "")}</span><span dir="ltr">{len(tp)} topics</span></a>' for k, t, _, tp in BAC_SKILLS)
+    return ('<style>.stiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px;margin:.4rem 0 1.4rem}'
+            '.stile{display:flex;flex-direction:column;justify-content:center;min-height:120px;background:var(--card);border:2px solid var(--line);border-radius:18px;padding:16px 18px;text-decoration:none;color:var(--navy);box-shadow:var(--shadow);transition:transform .15s,border-color .15s}'
+            '.stile:hover{transform:translateY(-2px);border-color:var(--gold)}.stile.on{border-color:var(--gold);background:#fbf1dc}'
+            '.stile b{font-family:Fraunces,serif;font-size:1.35rem;text-align:right}.stile span[dir]{text-align:right}.stile .sar{font-weight:800;font-size:1.05rem;margin-top:2px}.stile span[dir]{color:#7f5c1c;font-weight:700;font-size:.85rem;margin-top:6px}</style>'
+            '<h2 style="margin:0 0 .3rem">اختار المهارة:</h2><div class="stiles">' + t + '</div><p id="sall" hidden><a href="#">← كل المهارات</a></p>')
+_BAC_JS = """<script>(function(){var t=document.querySelectorAll('.stile'),b=document.querySelectorAll('section.skill'),a=document.getElementById('sall');
+function show(){var h=location.hash.slice(1),ok=false;b.forEach(function(x){if(x.id===h)ok=true});b.forEach(function(x){x.hidden=x.id!==h});
+t.forEach(function(x){x.classList.toggle('on',x.dataset.s===h)});if(a)a.hidden=!ok;if(ok){var e=document.getElementById(h);if(e)e.scrollIntoView({behavior:'smooth',block:'start'})}}
+window.addEventListener('hashchange',show);show();})();</script>"""
 
 import json as _bacj, os as _baco
 _BAC_DIR = _baco.path.join(_baco.path.dirname(PAGES_DIR), "british", "bac")
@@ -161,7 +171,7 @@ bac2 = BAC_CSS + '''<section class="phead"><div class="wrap"><p class="kicker">�
 </ul>
 <p>أسئلة التدريب في الدروس معمولة بنفس شكل أسئلة الـ Consolidation Reviews اللي في كتاب الوزارة.</p></div>
 {_skills()}
-</div></section>
+</div></section>{_BAC_JS}
 
 <section class="block alt"><div class="wrap">
 <h2>خريطة الكتابين</h2><p class="sub">كل Unit ودروسها زي ما هي في كتاب الوزارة.</p>

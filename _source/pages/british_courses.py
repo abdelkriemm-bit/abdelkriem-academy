@@ -53,7 +53,13 @@ _BR_CSS = """<style>
 .bc .pnav a small{display:block;opacity:.7;font-size:.8rem}
 .bc .toc{margin:2rem 0;border:1px solid #e3ddcd;border-radius:12px;padding:.8rem 1.1rem;background:#faf8f2}
 .bc .toc li.on{font-weight:700}
-.bsec{margin:2rem 0}
+.bsec{margin:2rem 0;scroll-margin-top:80px}
+.stiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin:.6rem 0 1rem}
+.stile{display:flex;flex-direction:column;justify-content:center;min-height:110px;background:#fff;border:2px solid #e6e0d4;border-radius:18px;padding:18px 20px;text-decoration:none;color:#0f1b33;box-shadow:0 10px 30px rgba(15,27,51,.06);transition:transform .15s,border-color .15s}
+.stile:hover{transform:translateY(-2px);border-color:#d4a24c}.stile.on{border-color:#d4a24c;background:#fbf1dc}
+.stile b{font-size:1.15rem;line-height:1.3}.stile span{color:#7f5c1c;font-weight:700;font-size:.9rem;margin-top:6px}
+.pickh{margin:1.6rem 0 .2rem}.blist .ln{display:block;color:#7f5c1c;font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;margin-bottom:.2rem}
+.blist a{transition:border-color .15s}.blist a:hover{border-color:#d4a24c}
 .bsec h2{margin-bottom:.3rem}
 .bsec>p{margin-top:0;opacity:.85}
 .bc .blist,.blist{list-style:none;padding:0;margin:1rem 0;display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:.8rem}
@@ -195,16 +201,33 @@ for _bc in _BR_COURSES:
     if _cpn and not _cfg.get("labels"):
         _L["crumb"] = f'<a href="british.html">British &amp; IGCSE</a> › <a href="british-checkpoint-{_cpn}.html">Checkpoint {_cpn}</a> › '
     if _cfg["hub"]:
-        _secs = ""
-        for sec in _cfg["sections"]:
-            items = "".join(f'<li><a href="{s}.html"><b>{_bE(_pages[s]["title"])}</b><span>{_bE(_pages[s].get("summary",""))}</span></a></li>' for s in sec["pages"])
-            _secs += f'<div class="bsec"><h2>{_bE(sec["title"])}</h2>' + (f'<p>{_bE(sec["desc"])}</p>' if sec.get("desc") else "") + f'<ul class="blist">{items}</ul></div>'
+        _secs = ""; _stiles = ""; _num = 0
+        _lw = "الدرس" if _rtl else "Lesson"
+        for _si, sec in enumerate(_cfg["sections"], 1):
+            items = ""
+            for s in sec["pages"]:
+                _num += 1
+                items += f'<li><a href="{s}.html"><small class="ln">{_lw} {_num}</small><b>{_bE(_pages[s]["title"])}</b><span>{_bE(_pages[s].get("summary",""))}</span></a></li>'
+            _n = len(sec["pages"])
+            _cnt = (f"{_n} دروس" if 3 <= _n <= 10 else f"{_n} درس") if _rtl else (f"{_n} lesson" + ("s" if _n != 1 else ""))
+            _stiles += f'<a class="stile" href="#s{_si}" data-s="s{_si}"><b>{_bE(sec["title"])}</b><span>{_cnt}</span></a>'
+            _secs += f'<div class="bsec" id="s{_si}"><h2>{_bE(sec["title"])}</h2>' + (f'<p>{_bE(sec["desc"])}</p>' if sec.get("desc") else "") + f'<ul class="blist">{items}</ul></div>'
         _intro = "".join(_bblock(b) for b in _cfg.get("intro_blocks", []))
         _first = _order[0]
+        _all = "→ كل الأقسام" if _rtl else "← All sections"
+        _pick = "اختار القسم:" if _rtl else "Choose a section:"
+        _secjs = """<script>(function(){var t=document.querySelectorAll('.stile'),b=document.querySelectorAll('.bsec'),a=document.getElementById('sall');
+function show(){var h=location.hash.slice(1);var ok=false;b.forEach(function(x){if(x.id===h)ok=true});
+b.forEach(function(x){x.hidden=x.id!==h});t.forEach(function(x){x.classList.toggle('on',ok&&x.dataset.s===h)});if(a)a.hidden=!ok;
+if(ok){var e=document.getElementById(h);if(e)e.scrollIntoView({behavior:'smooth',block:'start'})}}
+if(b.length){b.forEach(function(x){x.hidden=true});document.querySelector('.bsecs').classList.add('js');}
+window.addEventListener('hashchange',show);show();})();</script>"""
         _body = _BR_CSS + pagehead(_cfg["kicker"], _cfg["title"], _bE(_cfg["summary"])) + f'''
 <section class="block"><div class="wrap"><div class="bc">{_intro}
 <p><a class="btn" href="{_first}.html">{_L["start"]}</a></p>
-{_secs}</div></div></section>'''
+<h2 class="pickh">{_pick}</h2><div class="stiles">{_stiles}</div>
+<p id="sall" hidden><a href="#">{_all}</a></p>
+<div class="bsecs">{_secs}</div></div></div></section>{_secjs}'''
         page(_hub, f'{_cfg["title"]} — Abdelkriem Academy', _cfg.get("meta_desc", _cfg["summary"]), _body, _active)
     _dir = ' dir="rtl" lang="ar"' if _rtl else ""
     _BR_STATE.clear()

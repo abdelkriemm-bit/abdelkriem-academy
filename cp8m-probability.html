@@ -68,7 +68,13 @@
 .bc .pnav a small{display:block;opacity:.7;font-size:.8rem}
 .bc .toc{margin:2rem 0;border:1px solid #e3ddcd;border-radius:12px;padding:.8rem 1.1rem;background:#faf8f2}
 .bc .toc li.on{font-weight:700}
-.bsec{margin:2rem 0}
+.bsec{margin:2rem 0;scroll-margin-top:80px}
+.stiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin:.6rem 0 1rem}
+.stile{display:flex;flex-direction:column;justify-content:center;min-height:110px;background:#fff;border:2px solid #e6e0d4;border-radius:18px;padding:18px 20px;text-decoration:none;color:#0f1b33;box-shadow:0 10px 30px rgba(15,27,51,.06);transition:transform .15s,border-color .15s}
+.stile:hover{transform:translateY(-2px);border-color:#d4a24c}.stile.on{border-color:#d4a24c;background:#fbf1dc}
+.stile b{font-size:1.15rem;line-height:1.3}.stile span{color:#7f5c1c;font-weight:700;font-size:.9rem;margin-top:6px}
+.pickh{margin:1.6rem 0 .2rem}.blist .ln{display:block;color:#7f5c1c;font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;margin-bottom:.2rem}
+.blist a{transition:border-color .15s}.blist a:hover{border-color:#d4a24c}
 .bsec h2{margin-bottom:.3rem}
 .bsec>p{margin-top:0;opacity:.85}
 .bc .blist,.blist{list-style:none;padding:0;margin:1rem 0;display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:.8rem}
