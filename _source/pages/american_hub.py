@@ -1,13 +1,13 @@
 # American Diploma hub (american.html): SAT, ACT and EST English courses.
-_am = pagehead("Section 2", "American Diploma English: SAT · ACT · EST",
-  "Complete free courses for the English parts of the Digital SAT, the ACT and the EST: every question type taught step by step, a quiz on every page, and full timed practice tests with explanations.") + f'''
-<section class="block"><div class="wrap grid3">
-{card("Digital SAT Reading and Writing","The whole RW section: all four content domains, every question type, every grammar rule tested, a vocabulary toolkit and three full adaptive-style practice tests (2 modules × 32 minutes).","digital-sat.html","SAT")}
-{card("ACT English and Reading","The enhanced ACT: English (50 questions, 35 minutes) and Reading (36 questions, 40 minutes) — punctuation, grammar, style, organisation, reading strategy, and full timed tests.","act-english.html","ACT")}
-{card("EST English (Literacy 1 and 2)","The Egyptian Scholastic Test explained, with a guide to each Literacy test, a map to the lessons you need and a full timed practice test.","est-exam.html","EST")}
-</div></section>
+_am = TILE_CSS + pagehead("Section 2", "American Diploma English: SAT · ACT · EST",
+  "Choose your test. Free full courses and timed practice tests for the English parts of the SAT, ACT and EST.") + f'''
+<section class="block"><div class="wrap"><div class="tiles">
+{tile("SAT","digital-sat.html","Digital SAT","Reading and Writing")}
+{tile("ACT","act-english.html","Enhanced ACT","English and Reading")}
+{tile("EST","est-exam.html","Egyptian Scholastic Test","Literacy 1 and 2")}
+</div></div></section>
 <section class="block alt"><div class="wrap prose">
-<h2>Which test should I take?</h2>
+<details><summary style="cursor:pointer;font-weight:800;font-size:1.3rem;color:var(--navy)">Which test should I take?</summary>
 <div style="overflow-x:auto"><table style="width:100%;border-collapse:collapse;background:#fff;font-size:.95rem;min-width:640px;vertical-align:top">
 <thead><tr style="background:var(--navy);color:#fff"><th style="padding:10px;text-align:left">&nbsp;</th><th style="padding:10px;text-align:left">Digital SAT</th><th style="padding:10px;text-align:left">ACT</th><th style="padding:10px;text-align:left">EST I</th></tr></thead>
 <tbody>
@@ -21,6 +21,7 @@ _am = pagehead("Section 2", "American Diploma English: SAT · ACT · EST",
 <div dir="rtl" lang="ar" style="background:#fff8e8;border-inline-start:4px solid var(--gold);padding:14px 18px;border-radius:10px;margin-top:18px">
 <p><b>لولي الأمر:</b> المهارات اللي بتتقاس في الإنجليزي في الامتحانات التلاتة متشابهة جدًا: قراءة وفهم، وجرامر، وعلامات ترقيم، وأسلوب كتابة. ابدأ بكورس الـ SAT لأنه بيشرح كل قاعدة بالتفصيل، وبعدين لو ابنك هيمتحن ACT أو EST يدخل على الكورس بتاعه يتعود على شكل الامتحان. وقبل ما تختار، اسأل الجامعات اللي عايز تقدم فيها بتقبل أنهي امتحان.</p>
 </div>
+</details>
 <h2>How to use these courses</h2>
 <ol><li>Read the overview page of your test first.</li><li>Work through the lessons in order and do the quiz at the end of each page.</li><li>Take a full timed practice test, then review every explanation, not only the wrong ones.</li><li>Go back to the lessons for the skills where you lost the most marks, then take the next test.</li></ol>
 <p style="font-size:.88rem">Abdelkriem Academy is independent and not affiliated with College Board, ACT or the Egyptian Ministry of Education. All lessons, passages and questions are original.</p>

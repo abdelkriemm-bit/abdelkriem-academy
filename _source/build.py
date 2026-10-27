@@ -127,22 +127,29 @@ page("index.html","Abdelkriem Academy — Free Educational Resources | Checkpoin
      "Free educational resources by Mohamed Abdelkriem: notes, practice and video lessons for Cambridge Checkpoint 6 & 8, IGCSE 0510, Oxford GCSE, تانية بكالوريا, a complete Quran course and English from zero to pro.", home)
 
 # ---------- BRITISH HUB ----------
-brit = pagehead("Section 1","British &amp; IGCSE","Cambridge and Oxford courses organised by year: English, and Maths and Science for the Checkpoint years.") + f'''
-<section class="block"><div class="wrap"><h2>Year 6 · Cambridge Primary Checkpoint</h2><div class="grid3">
-{card("Checkpoint 6 English","Cambridge Primary Checkpoint English (0058) — the complete Year 6 course, 43 lessons.","checkpoint-6.html","English")}
-{card("Checkpoint 6 Maths","Cambridge Primary Mathematics 0096 — the whole Stage 6 curriculum with worked examples, quizzes and full Checkpoint-style practice tests with PDFs.","checkpoint-6-maths.html","Maths")}
-{card("Checkpoint 6 Science","Cambridge Primary Science 0097 — biology, chemistry, physics, Earth and space, with diagrams, quizzes and full practice tests with PDFs.","checkpoint-6-science.html","Science")}
-</div></div></section>
-<section class="block alt"><div class="wrap"><h2>Year 8 · Cambridge Lower Secondary</h2><div class="grid3">
-{card("Checkpoint 8 English","Cambridge Lower Secondary English 0861 — the complete Year 8 course, 48 lessons.","checkpoint-8.html","English")}
-{card("Checkpoint 8 Maths","Cambridge Lower Secondary Mathematics 0862 — the whole Stage 8 curriculum with worked examples, quizzes and full end-of-year practice tests with PDFs.","checkpoint-8-maths.html","Maths")}
-{card("Checkpoint 8 Science","Cambridge Lower Secondary Science 0893 — the whole Stage 8 curriculum with diagrams, quizzes and full end-of-year practice tests with PDFs.","checkpoint-8-science.html","Science")}
-</div></div></section>
-<section class="block"><div class="wrap"><h2>Years 9 and 10 · IGCSE and International GCSE</h2><div class="grid3">
-{card("IGCSE 0510","Cambridge IGCSE English as a Second Language — the complete course, 15 lessons.","year-9-0510.html","Year 9")}
-{card("Oxford International GCSE","OxfordAQA English as a Second Language 9280 — the complete course, 18 lessons.","year-10-oxford.html","Year 10")}
+TILE_CSS = """<style>.tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:20px;margin:6px 0 30px}
+.tile{display:flex;flex-direction:column;justify-content:center;min-height:170px;background:var(--card);border:2px solid var(--line);border-radius:22px;padding:26px 24px;text-decoration:none;color:var(--navy);box-shadow:var(--shadow);transition:transform .15s,border-color .15s}
+.tile:hover{transform:translateY(-3px);border-color:var(--gold)}.tile .ty{font-size:.85rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#7f5c1c;margin-bottom:6px}
+.tile b{font-family:Fraunces,Georgia,serif;font-size:1.7rem;line-height:1.15}.tile .tar{font-family:Cairo,sans-serif;color:var(--muted);margin-top:6px;font-size:1rem}
+.tile .go{margin-top:14px;font-weight:700;color:#7f5c1c}</style>"""
+def tile(title, href, top="", sub=""):
+    return f'<a class="tile" href="{href}">' + (f'<span class="ty">{top}</span>' if top else "") + f'<b>{title}</b>' + (f'<span class="tar">{sub}</span>' if sub else "") + '<span class="go">Open →</span></a>'
+brit = TILE_CSS + pagehead("Section 1","British &amp; IGCSE","Choose your year.") + f'''
+<section class="block"><div class="wrap"><div class="tiles">
+{tile("Checkpoint 6","british-checkpoint-6.html","Year 6","English · Maths · Science")}
+{tile("Checkpoint 8","british-checkpoint-8.html","Year 8","English · Maths · Science")}
+{tile("IGCSE 0510","year-9-0510.html","Year 9","English as a Second Language")}
+{tile("Oxford International GCSE","year-10-oxford.html","Year 10","English as a Second Language")}
 </div></div></section>
 <section class="block alt"><div class="wrap split"><div><h2>Writing skills</h2><p>Step-by-step lessons for every text type: persuasive writing, articles, reports, biographies and more.</p></div>{yt(PL["writing"],"Writing skills playlist")}</div></section>'''
+for _n, _y, _st, _codes in ((6, "Year 6", "Cambridge Primary Checkpoint", ("0058", "0096", "0097")), (8, "Year 8", "Cambridge Lower Secondary Checkpoint", ("0861", "0862", "0893"))):
+    _b = TILE_CSS + f'<section class="phead"><div class="wrap"><p class="kicker"><a href="british.html" style="color:inherit">British &amp; IGCSE</a> › {_y}</p><h1>Checkpoint {_n}</h1><p class="lead">{_st}. Choose your subject.</p></div></section>' + f'''
+<section class="block"><div class="wrap"><div class="tiles">
+{tile("English",f"checkpoint-{_n}.html",f"Checkpoint {_n} · {_codes[0]}","Full course + practice")}
+{tile("Maths",f"checkpoint-{_n}-maths.html",f"Checkpoint {_n} · {_codes[1]}","Full course + practice tests")}
+{tile("Science",f"checkpoint-{_n}-science.html",f"Checkpoint {_n} · {_codes[2]}","Full course + practice tests")}
+</div></div></section>'''
+    page(f"british-checkpoint-{_n}.html", f"Checkpoint {_n} — English, Maths and Science — Abdelkriem Academy", f"Free Cambridge Checkpoint {_n} courses ({_y}): English, Maths and Science with lessons, quizzes and practice tests.", _b, "british.html")
 page("british.html","British & IGCSE — English, Maths and Science — Abdelkriem Academy","Free courses for Cambridge Checkpoint 6 and 8 English, Maths and Science, IGCSE 0510 and Oxford International GCSE English, with practice tests.", brit)
 
 def checkpoint(fname, n, code, active="british.html"):
@@ -273,7 +280,7 @@ if os.path.isdir(PAGES_DIR):
     for _f in sorted(os.listdir(PAGES_DIR)):
         if _f.endswith(".py"):
             exec(open(os.path.join(PAGES_DIR, _f), encoding="utf-8").read())
-pages = ["index.html","british.html","checkpoint-6.html","checkpoint-8.html","year-9-0510.html","year-10-oxford.html","baccalaureate.html","quran.html","improve-english.html","about.html","contact.html","privacy.html","terms.html"] + EXTRA_PAGES
+pages = ["index.html","british.html","british-checkpoint-6.html","british-checkpoint-8.html","checkpoint-6.html","checkpoint-8.html","year-9-0510.html","year-10-oxford.html","baccalaureate.html","quran.html","improve-english.html","about.html","contact.html","privacy.html","terms.html"] + EXTRA_PAGES
 with open(f"{OUT}/sitemap.xml","w") as f:
     f.write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + "".join(f"<url><loc>https://abdelkriemacademy.com/{p[:-5] if p!='index.html' else ''}</loc></url>\n" for p in pages) + "</urlset>\n")
 print("built", len(pages))
