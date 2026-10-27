@@ -51,7 +51,7 @@ _STRIP = f'''<style>{_xcss}</style><section class="block"><div class="wrap"><div
 <p class="ar" lang="ar">امتحن تحديد مستوى ← ابدأ الليفل بتاعك ببلاش ← امتحن في آخر الليفل ← لو نجحت خد شهادتك وكمّل على الليفل اللي بعده.</p></div>
 <div class="ctas"><a class="btn" href="english-placement-test.html">Placement test · حدّد مستواك</a><a class="btn ghost" href="english-level-1-final-test.html">Level 1 final test</a></div>
 </div></div></section>'''
-for _f, _anchor in (("improve-english.html", "</section>"), ("english-in-90-days.html", "</section>"), ("index.html", "</section>")):
+for _f, _anchor in (("english-in-90-days.html", "</section>"), ("index.html", "</section>")):
     _p = _ox.path.join(OUT, _f)
     if _ox.path.exists(_p):
         _h = open(_p, encoding="utf-8").read()

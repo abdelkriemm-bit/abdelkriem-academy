@@ -135,7 +135,7 @@ if PUBLISHED_LEVELS:
         _m = _lj(_L, "meta.json")
         _cards += card(f"Level {_L} · {_E(_m['name_en'])} ({_E(_m['cefr'])})", _E(_m["tagline_en"]), f"english-level-{_L}.html", _E(_m["name_ar"]))
     _strip = f'<section class="block alt"><div class="wrap"><h2>All levels of the English Course</h2><p class="sub">Finish a level, then move to the next one.</p><div class="grid3">{_cards}</div></div></section>'
-    for _f in ("english-in-90-days.html", "improve-english.html"):
+    for _f in ("english-in-90-days.html",):
         _p = _o2.path.join(OUT, _f)
         if _o2.path.exists(_p):
             _h = open(_p, encoding="utf-8").read()

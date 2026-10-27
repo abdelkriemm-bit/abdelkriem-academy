@@ -216,14 +216,27 @@ q = pagehead("Section 3","Quran by Levels","A calm, step-by-step path. Start at 
 page("quran.html","Quran by Levels — Abdelkriem Academy","Learn Quran step by step, organised by level: letters, reading, tajweed basics and memorisation.", q)
 
 # ---------- IMPROVE ENGLISH ----------
-ie = pagehead("Section 4","English: From Zero to Pro<span class='ar-title' lang='ar' dir='rtl'>إنجليزي من الصفر للاحتراف</span>","For students, parents and anyone who wants better everyday English — no exam needed.") + f'''
-<section class="block"><div class="wrap"><a class="feature" href="english-in-90-days.html"><span class="tag">Free beginner course</span><h2>English Course: From Zero<span class="ar-title" lang="ar" dir="rtl">طوّر الإنجليزي بتاعك من الصفر</span></h2><p>12 weeks · 30 minutes a day · 360 words · 120 key sentences · 48 video lessons · 60 exercises with answers. Explained in English and Arabic.</p><span class="btn">Start the course</span></a></div></section>
-<section class="block"><div class="wrap grid4">
-{card("Grammar","Tenses, sentence types and the rules that actually matter.")}
-{card("Vocabulary","Useful words by topic, with examples you can reuse.")}
-{card("Speaking &amp; Pronunciation","Sound natural and avoid the most common mistakes.")}
-{card("English through Situations","Learn the English you need in real daily situations.")}
-</div></section>
+IE_CSS = """<style>.start2{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin:0 0 10px}.st{border-radius:22px;padding:26px 26px;text-decoration:none;display:flex;flex-direction:column;gap:6px;box-shadow:var(--shadow)}
+.st.a{background:var(--navy);color:#fff}.st.b{background:#fff;border:2px solid var(--line);color:var(--navy)}.st .n{font-weight:800;color:var(--gold);letter-spacing:.08em;text-transform:uppercase;font-size:.85rem}
+.st b{font-family:Fraunces,serif;font-size:1.6rem;line-height:1.2}.st .ar{font-family:Cairo,sans-serif;direction:rtl;text-align:right;line-height:1.8;color:inherit;opacity:.92}.st .go{font-weight:800;color:var(--gold);margin-top:6px}.st.b .go{color:#7f5c1c}
+@media (max-width:760px){.start2{grid-template-columns:1fr}}</style>"""
+ie = TILE_CSS + pagehead("Section 4","English: From Zero to Pro<span class='ar-title' lang='ar' dir='rtl'>إنجليزي من الصفر للاحتراف</span>","A free English course in 5 levels, from your first word to fluent English, explained in Arabic.") + f'''
+{IE_CSS}
+<section class="block"><div class="wrap">
+<h2>Where do I start? <span lang="ar" dir="rtl" style="font-family:Cairo,sans-serif">أبدأ منين؟</span></h2>
+<div class="start2">
+<a class="st a" href="english-placement-test.html"><span class="n">Step 1 · recommended</span><b>Find your level</b><span>A free 20-minute placement test tells you which level to start.</span><span class="ar">اعرف مستواك الأول: امتحان تحديد مستوى ببلاش في 20 دقيقة، وهيقولك تبدأ من أنهي ليفل.</span><span class="go">Take the placement test →</span></a>
+<a class="st b" href="english-in-90-days.html"><span class="n">Complete beginner?</span><b>Start from zero</b><span>Never studied English, or forgot everything? Start Level 1.</span><span class="ar">لو بتبدأ من الصفر خالص، ابدأ الليفل الأول على طول.</span><span class="go">Start Level 1 →</span></a>
+</div>
+<p class="note">Every level has progress checks with answers. Level 1 ends with a final test: pass it, get your certificate and move on to Level 2. <span lang="ar" dir="rtl">كل ليفل فيه اختبارات قصيرة بالإجابات، والليفل الأول في آخره امتحان: لو نجحت تاخد شهادة وتكمّل على الليفل التاني.</span></p>
+<h2 style="margin-top:34px">The 5 levels <span lang="ar" dir="rtl" style="font-family:Cairo,sans-serif">الليفلات الخمسة</span></h2>
+<div class="tiles">
+{tile("Level 1 · From Zero","english-in-90-days.html","A1 · Beginner","الليفل الأول: من الصفر")}
+{tile("Level 2 · Elementary","english-level-2.html","A2","المستوى التاني: ابني أساس قوي")}
+{tile("Level 3 · Pre-Intermediate","english-level-3.html","B1","المستوى التالت: اتكلم بثقة")}
+{tile("Level 4 · Intermediate","english-level-4.html","B1+","المستوى الرابع: اتكلم براحتك في أي موقف")}
+{tile("Level 5 · Upper-Intermediate","english-level-5.html","B2","المستوى الخامس: إنجليزي بطلاقة")}
+</div></div></section>
 <section class="block alt"><div class="wrap split"><div><h2>Classic stories, retold</h2><p>Famous short stories told as cinematic summaries — great listening practice and literature revision.</p></div>{yt(PL["lit"],"Literature stories playlist")}</div></section>'''
 page("improve-english.html","English: From Zero to Pro — إنجليزي من الصفر للاحتراف | Abdelkriem Academy","A free English course from zero to fluent in 5 levels (A1–B2): words, sentences, grammar, exercises with answers and daily listening, with Arabic explanations.", ie)
 
