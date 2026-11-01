@@ -63,6 +63,7 @@ details.cn-table{margin-top:12px}details.cn-table summary{cursor:pointer;font-we
 @media (max-width:640px){.cn-days{grid-template-columns:repeat(4,1fr)}}
 </style>"""
 
+_CN_DAYAR = {"30 min": "30 دقيقة", "Review": "مراجعة", "Free day": "راحة"}
 _CN_STORE = """function cnGet(k){try{return JSON.parse(localStorage.getItem(k)||'{}')}catch(e){return {}}}
 function cnSet(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}"""
 
@@ -183,8 +184,8 @@ def _cn_week(path):
         if day != "Day 7":
             steps.append('<li><div><b class="t">Speak</b>Say 3 sentences about your day with today\'s words. <span class="ar" dir="rtl">قول 3 جمل عن يومك بكلمات النهارده.</span></div></li>')
         sub = "Free day" if day == "Day 7" else ("Review" if pt.startswith("Redo") else "30 min")
-        days.append(f'<button type="button" class="cn-day" data-d="{di}">{day}<small>{sub}</small></button>')
-        panels.append(f'<div class="cn-panel" data-d="{di}" hidden><h3>{day} · {"Free day ☺" if day == "Day 7" else "do these steps in order"}</h3><ol class="cn-todo">{"".join(steps)}</ol>'
+        days.append(f'<button type="button" class="cn-day" data-d="{di}">{day}<small>{_CN_DAYAR.get(sub, sub)}</small></button>')
+        panels.append(f'<div class="cn-panel" data-d="{di}" hidden><h3>{day} · {"Free day ☺ · يوم راحة" if day == "Day 7" else "do these steps in order · اعمل دول بالترتيب"}</h3><ol class="cn-todo">{"".join(steps)}</ol>'
                       f'<button type="button" class="cn-done" data-d="{di}">✓ I finished {day}</button></div>')
     block = (f'{_CN_CSS}<div class="wk-sec" id="today"><h2>What to do today · تعمل إيه النهارده؟</h2>'
              f'<p class="arhint" dir="rtl" lang="ar">اختار اليوم اللي إنت فيه، واعمل الخطوات بالترتيب. ولما تخلص دوس على الزرار الأخضر.</p>'
@@ -212,3 +213,117 @@ for _p in sorted(_cg.glob(_co.path.join(_CN_OUT, "english-*.html"))):
     elif _cr.fullmatch(r"english-(?:level-\d-)?week-\d+\.html", _b):
         _cn_w += _cn_week(_p)
 print(f"[course-nav] level pages {_cn_l}, week pages {_cn_w}")
+
+
+# ---- v2: a plain-Arabic "understand first" box: what you do each day / week / 4 weeks, and exactly where to start ----
+_CN2 = "<!--cnav2-->"
+_CN2_CSS = """<style>
+.cn-brief{direction:rtl;text-align:right;font-family:Cairo,sans-serif;background:#fff;border:3px solid var(--navy);border-radius:22px;padding:22px 22px 18px;margin:0 0 26px;box-shadow:var(--shadow)}
+.cn-brief h2{font-family:Cairo,sans-serif;margin:0 0 4px;font-size:1.55rem;color:var(--navy)}
+.cn-brief .sub{margin:0 0 16px;color:var(--muted);font-size:1.02rem}
+.cn-rows{display:grid;gap:12px}
+.cn-row{display:grid;grid-template-columns:120px 1fr;gap:14px;align-items:start;background:var(--paper);border-radius:16px;padding:14px 16px}
+.cn-row .when{background:var(--navy);color:#fff;border-radius:12px;padding:10px 8px;text-align:center;font-weight:800;line-height:1.35}
+.cn-row .when small{display:block;font-weight:600;color:#c9d1e3;font-size:.8rem}
+.cn-row ol{margin:0;padding:0 20px 0 0;line-height:1.9;font-size:1.05rem}
+.cn-row p{margin:0;line-height:1.9;font-size:1.05rem}
+.cn-startbox{margin-top:16px;display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:flex-start}
+.cn-startbox .btn{font-family:Cairo,sans-serif;font-size:1.1rem;padding:14px 22px}
+.cn-startbox .alt{font-size:.98rem}
+.cn-wkbrief{direction:rtl;text-align:right;font-family:Cairo,sans-serif;background:#fbf1dc;border-radius:16px;padding:14px 16px;margin:0 0 14px;line-height:1.9;font-size:1.05rem}
+.cn-wkbrief b{color:var(--navy)}
+@media (max-width:640px){.cn-row{grid-template-columns:1fr}.cn-row .when{display:inline-block;justify-self:start;padding:6px 14px}}
+</style>"""
+
+
+def _cn2_brief(start_href, start_label, extra_btn="", title="فهمني الأول: المطلوب منك إيه؟", sub=""):
+    return (f'<div class="cn-brief">{_CN2_CSS}<h2>{title}</h2>'
+            + (f'<p class="sub">{sub}</p>' if sub else "")
+            + '<div class="cn-rows">'
+            '<div class="cn-row"><div class="when">كل يوم<small>30 دقيقة بس</small></div><ol>'
+            '<li>تحفظ <b>6 كلمات</b> جديدة.</li><li>تحفظ <b>جملتين</b>.</li><li>تسمع <b>فيديو قصير</b>.</li>'
+            '<li>تحل <b>تمرين</b> وتصحّح لنفسك.</li><li>تقول <b>3 جمل</b> بصوت عالي.</li></ol></div>'
+            '<div class="cn-row"><div class="when">كل أسبوع<small>7 أيام</small></div>'
+            '<p>اليوم 1 لحد اليوم 5: مذاكرة بالخطوات اللي فوق.<br>اليوم 6: مراجعة.<br>اليوم 7: راحة، اسمع قصة لو حابب.</p></div>'
+            '<div class="cn-row"><div class="when">كل 4 أسابيع<small>امتحان قصير</small></div>'
+            '<p>امتحان صغير بالإجابات. لو جبت <b>16 من 20</b> كمّل، لو أقل راجع الأسابيع اللي فاتت.</p></div>'
+            '</div>'
+            f'<div class="cn-startbox"><a class="btn" href="{start_href}">{start_label}</a>{extra_btn}</div></div>')
+
+
+def _cn2_level(path):
+    h = open(path, encoding="utf-8").read()
+    if _CN2 in h or 'class="cn-path"' not in h:
+        return False
+    fname = _co.path.basename(path)
+    first = _cr.search(r'id="cn-cont" href="([^"]+)"', h).group(1)
+    _go = _cr.search(r'<div class="cn-go">(.*?)</div>', h, _cr.S).group(1)
+    pdf = _cr.search(r'(<a class="btn ghost"[^>]*>.*?</a>)', _go)
+    if fname == "english-in-90-days.html":
+        sub = "الليفل ده 12 أسبوع. لو بتبدأ من الصفر، ابدأ من الأسبوع 1 – اليوم 1 ومتنطّش أي يوم."
+        extra = '<a class="alt" href="english-placement-test.html">بتعرف إنجليزي شوية؟ اعرف مستواك الأول (امتحان 20 دقيقة)</a>'
+    else:
+        sub = "الليفل ده 12 أسبوع. ابدأ من الأسبوع 1 – اليوم 1، وامشي يوم ورا يوم."
+        extra = ""
+    brief = _cn2_brief(first + "#today", "ابدأ هنا: الأسبوع 1 – اليوم 1 ←", extra, sub=sub)
+    pdfbtn = pdf.group(1) if pdf else ""
+    go = f'<div class="cn-go"><a class="btn ghost" id="cn-cont" href="{first}" style="display:none">Continue</a>{pdfbtn}</div>'
+    h = _cr.sub(r'<div class="cn-path">.*?</div>\n</div><div class="cn-go">.*?</div>(?=<h2>)', lambda m: brief + go, h, count=1, flags=_cr.S)
+    # continue button: show it only when the learner has already finished a week
+    h = h.replace("b.textContent='Continue: '+next.querySelector('.n').textContent+' →';",
+                  "b.textContent='كمّل من مكانك: '+next.querySelector('.n').textContent+' ←';b.style.display='';b.className='btn';")
+    h = h.replace("<main>", "<main>" + _CN2, 1)
+    open(path, "w", encoding="utf-8").write(h)
+    return True
+
+
+def _cn2_week(path):
+    h = open(path, encoding="utf-8").read()
+    if _CN2 in h or 'id="today"' not in h:
+        return False
+    nw = len(_cr.findall(r'<div class="set">.*?</div>', h, _cr.S)) * 6
+    ns = len(_cr.findall(r'<li class="sent">', h))
+    nx = len(_cr.findall(r'<div class="ex"[^>]* id="ex\d+">', h))
+    g = _cr.search(r'<div class="wk-sec" id="grammar"><h2>(?:Grammar:\s*)?(.*?)</h2>', h)
+    gram = f'<br><b>القاعدة:</b> <span dir="ltr" lang="en" style="display:inline-block">{g.group(1)}</span>' if g else ""
+    brief = (f'{_CN2_CSS}<div class="cn-wkbrief"><b>المطلوب منك الأسبوع ده:</b> تحفظ {nw} كلمة، و{ns} جمل، وتحل {nx} تمارين.{gram}<br>'
+             '<b>كل يوم:</b> اختار اليوم تحت، واعمل الخطوات بالترتيب (30 دقيقة)، وفي الآخر دوس على الزرار الأخضر.<br>'
+             '<b>أول مرة تدخل؟</b> ابدأ من <b>اليوم 1</b>. الموقع بيفتكر إنت وصلت لحد فين.</div>')
+    h, k = _cr.subn(r'<p class="arhint" dir="rtl" lang="ar">.*?</p>', lambda m: brief, h, count=1, flags=_cr.S)
+    for _en, _ar in _CN_DAYAR.items():
+        h = h.replace(f"<small>{_en}</small></button>", f"<small>{_ar}</small></button>")
+    h = h.replace("· do these steps in order</h3>", "· do these steps in order · اعمل دول بالترتيب</h3>").replace("· Free day ☺</h3>", "· Free day ☺ · يوم راحة</h3>")
+    if not k:
+        return False
+    h = h.replace("<main>", "<main>" + _CN2, 1)
+    open(path, "w", encoding="utf-8").write(h)
+    return True
+
+
+def _cn2_hub(path):
+    h = open(path, encoding="utf-8").read()
+    if _CN2 in h or '<div class="start2">' not in h:
+        return False
+    brief = _cn2_brief("english-week-1.html#today", "مبتدئ؟ ابدأ هنا: الليفل 1 – الأسبوع 1 – اليوم 1 ←",
+                       '<a class="alt" href="english-placement-test.html">بتعرف إنجليزي شوية؟ اعرف مستواك الأول</a>',
+                       title="الكورس ده ماشي إزاي؟",
+                       sub="5 ليفلات، كل ليفل 12 أسبوع. كل يوم بتدخل وتعمل نفس الخطوات دي:")
+    h, k = _cr.subn(r'<h2>Where do I start\?', lambda m: brief + m.group(0), h, count=1)
+    if not k:
+        return False
+    h = _cr.sub(r'<p class="note">Every level has progress checks.*?</p>', '', h, count=1, flags=_cr.S)
+    h = h.replace("<main>", "<main>" + _CN2, 1)
+    open(path, "w", encoding="utf-8").write(h)
+    return True
+
+
+_cn2 = [0, 0, 0]
+for _p in sorted(_cg.glob(_co.path.join(_CN_OUT, "*.html"))):
+    _b = _co.path.basename(_p)
+    if _b == "english-in-90-days.html" or _cr.fullmatch(r"english-level-\d\.html", _b):
+        _cn2[0] += _cn2_level(_p)
+    elif _cr.fullmatch(r"english-(?:level-\d-)?week-\d+\.html", _b):
+        _cn2[1] += _cn2_week(_p)
+    elif _b == "improve-english.html":
+        _cn2[2] += _cn2_hub(_p)
+print(f"[course-nav v2] level {_cn2[0]}, week {_cn2[1]}, hub {_cn2[2]}")
