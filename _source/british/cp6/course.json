@@ -14,86 +14,68 @@
    ]
   },
   {
-   "title": "Paper 1",
-   "tag": "Non-fiction",
-   "groups": [
-    {
-     "title": "Reading",
-     "pages": [
-      "checkpoint-6-parts-of-speech",
-      "checkpoint-6-phrases-clauses",
-      "checkpoint-6-sentence-types",
-      "checkpoint-6-connectives",
-      "checkpoint-6-punctuation",
-      "checkpoint-6-grammar-in-use",
-      "checkpoint-6-text-types-features",
-      "checkpoint-6-purpose-viewpoint",
-      "checkpoint-6-inference-themes",
-      "checkpoint-6-language-effects",
-      "checkpoint-6-vocabulary-skills",
-      "checkpoint-6-reading-exam-technique"
-     ]
-    },
-    {
-     "title": "Writing",
-     "pages": [
-      "checkpoint-6-nonfiction-writing-basics",
-      "checkpoint-6-autobiography",
-      "checkpoint-6-biography",
-      "checkpoint-6-recount",
-      "checkpoint-6-diary",
-      "checkpoint-6-letters",
-      "checkpoint-6-emails",
-      "checkpoint-6-blog",
-      "checkpoint-6-magazine-article",
-      "checkpoint-6-newspaper-report",
-      "checkpoint-6-non-chronological-report",
-      "checkpoint-6-opinion-writing",
-      "checkpoint-6-persuasive-writing",
-      "checkpoint-6-balanced-argument",
-      "checkpoint-6-leaflet",
-      "checkpoint-6-review",
-      "checkpoint-6-instructions",
-      "checkpoint-6-report-writing"
-     ]
-    }
+   "title": "Grammar and Punctuation",
+   "tag": "Paper 1 & 2",
+   "pages": [
+    "checkpoint-6-parts-of-speech",
+    "checkpoint-6-phrases-clauses",
+    "checkpoint-6-sentence-types",
+    "checkpoint-6-connectives",
+    "checkpoint-6-punctuation",
+    "checkpoint-6-grammar-in-use"
    ]
   },
   {
-   "title": "Paper 2",
-   "tag": "Fiction",
-   "groups": [
-    {
-     "title": "Reading",
-     "pages": [
-      "checkpoint-6-parts-of-speech",
-      "checkpoint-6-phrases-clauses",
-      "checkpoint-6-sentence-types",
-      "checkpoint-6-connectives",
-      "checkpoint-6-punctuation",
-      "checkpoint-6-grammar-in-use",
-      "checkpoint-6-inference-themes",
-      "checkpoint-6-language-effects",
-      "checkpoint-6-vocabulary-skills",
-      "checkpoint-6-reading-exam-technique"
-     ]
-    },
-    {
-     "title": "Writing",
-     "pages": [
-      "checkpoint-6-fiction-writing-basics",
-      "checkpoint-6-describing-setting",
-      "checkpoint-6-describing-character",
-      "checkpoint-6-creating-suspense",
-      "checkpoint-6-fantasy",
-      "checkpoint-6-adventure",
-      "checkpoint-6-horror",
-      "checkpoint-6-mystery",
-      "checkpoint-6-realistic-fiction",
-      "checkpoint-6-fables-fairytales",
-      "checkpoint-6-myths-legends"
-     ]
-    }
+   "title": "Reading Skills",
+   "tag": "Paper 1 & 2",
+   "pages": [
+    "checkpoint-6-text-types-features",
+    "checkpoint-6-purpose-viewpoint",
+    "checkpoint-6-inference-themes",
+    "checkpoint-6-language-effects",
+    "checkpoint-6-vocabulary-skills",
+    "checkpoint-6-reading-exam-technique"
+   ]
+  },
+  {
+   "title": "Writing: Non-fiction",
+   "tag": "Paper 1",
+   "pages": [
+    "checkpoint-6-nonfiction-writing-basics",
+    "checkpoint-6-autobiography",
+    "checkpoint-6-biography",
+    "checkpoint-6-recount",
+    "checkpoint-6-diary",
+    "checkpoint-6-letters",
+    "checkpoint-6-emails",
+    "checkpoint-6-blog",
+    "checkpoint-6-magazine-article",
+    "checkpoint-6-newspaper-report",
+    "checkpoint-6-non-chronological-report",
+    "checkpoint-6-opinion-writing",
+    "checkpoint-6-persuasive-writing",
+    "checkpoint-6-balanced-argument",
+    "checkpoint-6-leaflet",
+    "checkpoint-6-review",
+    "checkpoint-6-instructions",
+    "checkpoint-6-report-writing"
+   ]
+  },
+  {
+   "title": "Writing: Fiction",
+   "tag": "Paper 2",
+   "pages": [
+    "checkpoint-6-fiction-writing-basics",
+    "checkpoint-6-describing-setting",
+    "checkpoint-6-describing-character",
+    "checkpoint-6-creating-suspense",
+    "checkpoint-6-fantasy",
+    "checkpoint-6-adventure",
+    "checkpoint-6-horror",
+    "checkpoint-6-mystery",
+    "checkpoint-6-realistic-fiction",
+    "checkpoint-6-fables-fairytales",
+    "checkpoint-6-myths-legends"
    ]
   }
  ],

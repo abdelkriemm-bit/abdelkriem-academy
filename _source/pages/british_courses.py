@@ -210,6 +210,9 @@ for _bc in _BR_COURSES:
                                  "toc": "All pages in this course", "start": "Start the course →",
                                  "crumb": '<a href="british.html">British &amp; IGCSE</a> › '}
     _cpn = {"cp6": 6, "cp6m": 6, "cp6s": 6, "cp8": 8, "cp8m": 8, "cp8s": 8}.get(_bc)
+    _yh = {"0510": ("british-year-9.html", "Year 9"), "oxford": ("british-igcse.html", "Year 10 · 11 · 12")}.get(_bc)
+    if _yh:
+        _L = dict(_L); _L["crumb"] = f'<a href="british.html">British &amp; IGCSE</a> › <a href="{_yh[0]}">{_yh[1]}</a> › '
     if _cpn and not _cfg.get("labels"):
         _L["crumb"] = f'<a href="british.html">British &amp; IGCSE</a> › <a href="british-checkpoint-{_cpn}.html">Checkpoint {_cpn}</a> › '
     if _cfg["hub"]:

@@ -141,8 +141,8 @@ brit = TILE_CSS + pagehead("Section 1","British &amp; IGCSE","Choose your year."
 <section class="block"><div class="wrap"><div class="tiles">
 {tile("Checkpoint 6","british-checkpoint-6.html","Year 6","English · Maths · Science")}
 {tile("Checkpoint 8","british-checkpoint-8.html","Year 8","English · Maths · Science")}
-{tile("IGCSE 0510","year-9-0510.html","Year 9","English as a Second Language")}
-{tile("Oxford International GCSE","year-10-oxford.html","Year 10","English as a Second Language")}
+{tile("IGCSE Core Subjects","british-year-9.html","Year 9","English · more subjects soon")}
+{tile("IGCSE","british-igcse.html","Year 10 · 11 · 12","Oxford English · more subjects soon")}
 </div></div></section>
 <section class="block alt"><div class="wrap split"><div><h2>Writing skills</h2><p>Step-by-step lessons for every text type: persuasive writing, articles, reports, biographies and more.</p></div>{yt(PL["writing"],"Writing skills playlist")}</div></section>'''
 for _n, _y, _st, _codes in ((6, "Year 6", "Cambridge Primary Checkpoint", ("0058", "0096", "0097")), (8, "Year 8", "Cambridge Lower Secondary Checkpoint", ("0861", "0862", "0893"))):
@@ -153,6 +153,18 @@ for _n, _y, _st, _codes in ((6, "Year 6", "Cambridge Primary Checkpoint", ("0058
 {tile("Science",f"checkpoint-{_n}-science.html",f"Checkpoint {_n} · {_codes[2]}","Full course + practice tests")}
 </div></div></section>'''
     page(f"british-checkpoint-{_n}.html", f"Checkpoint {_n} — English, Maths and Science — Abdelkriem Academy", f"Free Cambridge Checkpoint {_n} courses ({_y}): English, Maths and Science with lessons, quizzes and practice tests.", _b, "british.html")
+for _fn, _y, _h, _lead, _tiles, _desc in (
+    ("british-year-9.html", "Year 9", "Year 9 · IGCSE Core Subjects", "Cambridge IGCSE core subjects. Choose your subject.",
+     tile("English","year-9-0510.html","Cambridge IGCSE · 0510","English as a Second Language"),
+     "Free Year 9 Cambridge IGCSE core-subject courses: English as a Second Language 0510, with more subjects coming."),
+    ("british-igcse.html", "Year 10 · 11 · 12", "IGCSE · Year 10, 11 and 12", "International GCSE courses. Choose your subject.",
+     tile("Oxford English","year-10-oxford.html","OxfordAQA · 9280","English as a Second Language"),
+     "Free IGCSE courses for Years 10, 11 and 12: Oxford International GCSE English as a Second Language 9280, with more subjects coming.")):
+    _b = TILE_CSS + f'<section class="phead"><div class="wrap"><p class="kicker"><a href="british.html" style="color:inherit">British &amp; IGCSE</a> › {_y}</p><h1>{_h}</h1><p class="lead">{_lead}</p></div></section>' + f'''
+<section class="block"><div class="wrap"><div class="tiles">
+{_tiles}
+</div></div></section>'''
+    page(_fn, f"{_h} — Abdelkriem Academy", _desc, _b, "british.html")
 page("british.html","British & IGCSE — English, Maths and Science — Abdelkriem Academy","Free courses for Cambridge Checkpoint 6 and 8 English, Maths and Science, IGCSE 0510 and Oxford International GCSE English, with practice tests.", brit)
 
 def checkpoint(fname, n, code, active="british.html"):
@@ -296,7 +308,7 @@ if os.path.isdir(PAGES_DIR):
     for _f in sorted(os.listdir(PAGES_DIR)):
         if _f.endswith(".py"):
             exec(open(os.path.join(PAGES_DIR, _f), encoding="utf-8").read())
-pages = ["index.html","british.html","british-checkpoint-6.html","british-checkpoint-8.html","checkpoint-6.html","checkpoint-8.html","year-9-0510.html","year-10-oxford.html","baccalaureate.html","quran.html","improve-english.html","about.html","contact.html","privacy.html","terms.html"] + EXTRA_PAGES
+pages = ["index.html","british.html","british-checkpoint-6.html","british-checkpoint-8.html","british-year-9.html","british-igcse.html","checkpoint-6.html","checkpoint-8.html","year-9-0510.html","year-10-oxford.html","baccalaureate.html","quran.html","improve-english.html","about.html","contact.html","privacy.html","terms.html"] + EXTRA_PAGES
 with open(f"{OUT}/sitemap.xml","w") as f:
     f.write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + "".join(f"<url><loc>https://abdelkriemacademy.com/{p[:-5] if p!='index.html' else ''}</loc></url>\n" for p in pages) + "</urlset>\n")
 print("built", len(pages))
