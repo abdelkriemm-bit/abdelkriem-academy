@@ -15,8 +15,8 @@
   {
    "type": "list",
    "items": [
-    "**Direct:** *Hana said, “I am tired.”*",
-    "**Reported:** *Hana said (that) she was tired.*"
+    "**Direct:** Hana said, “I am tired.”",
+    "**Reported:** Hana said (that) she was tired."
    ],
    "ordered": false
   },
@@ -44,23 +44,23 @@
    "rows": [
     [
      "Speaker first",
-     "*Omar said, “The bus is late.”*"
+     "Omar said, “The bus is late.”"
     ],
     [
      "Speech first",
-     "*“The bus is late,” said Omar.*"
+     "“The bus is late,” said Omar."
     ],
     [
      "Question",
-     "*“Where is the bus?” asked Omar.*"
+     "“Where is the bus?” asked Omar."
     ],
     [
      "Exclamation",
-     "*“Look out!” shouted Omar.*"
+     "“Look out!” shouted Omar."
     ],
     [
      "Speech split in two",
-     "*“The bus is late,” said Omar, “so we will walk.”*"
+     "“The bus is late,” said Omar, “so we will walk.”"
     ]
    ]
   },
@@ -68,7 +68,7 @@
    "type": "box",
    "style": "warning",
    "title": "Small but important",
-   "text": "After the closing inverted commas, the next word is usually small: *“Help!” **s**he cried.* ✓ not *“Help!” **S**he cried.* ✗ (unless it is a name: *“Help!” Mona cried.*)"
+   "text": "After the closing inverted commas, the next word is usually small: “Help!” **s**he cried. ✓ not “Help!” **S**he cried. ✗ (unless it is a name: “Help!” Mona cried.)"
   },
   {
    "type": "h2",
@@ -77,9 +77,9 @@
   {
    "type": "list",
    "items": [
-    "**Remove the inverted commas.** You can add *that* (it is optional).",
-    "**Change the pronouns** to fit who is speaking: *I → he/she, we → they, my → his/her, our → their*.",
-    "**Move the tense one step back** if the reporting verb is in the past (*said, told, asked*).",
+    "**Remove the inverted commas.** You can add that (it is optional).",
+    "**Change the pronouns** to fit who is speaking: I → he/she, we → they, my → his/her, our → their.",
+    "**Move the tense one step back** if the reporting verb is in the past (said, told, asked).",
     "**Change time and place words** if needed."
    ],
    "ordered": true
@@ -162,7 +162,7 @@
    "type": "box",
    "style": "tip",
    "title": "Worked example",
-   "text": "*“I will finish this drawing tomorrow,” said Malak.* → remove the inverted commas → *I* becomes *she* → *will* becomes *would* → *this* becomes *that*, *tomorrow* becomes *the next day*: ***Malak said (that) she would finish that drawing the next day.***"
+   "text": "“I will finish this drawing tomorrow,” said Malak. → remove the inverted commas → I becomes she → will becomes would → this becomes that, tomorrow becomes the next day: **Malak said (that) she would finish that drawing the next day.**"
   },
   {
    "type": "h2",
@@ -171,10 +171,10 @@
   {
    "type": "list",
    "items": [
-    "Yes/no question: *“Are you ready?” he asked.* → *He asked **if (whether)** I **was** ready.*",
-    "Wh- question: *“Where do you live?” she asked.* → *She asked where I **lived**.* (no question mark, normal word order)",
-    "Command: *“Sit down,” the teacher said.* → *The teacher **told** us **to sit** down.*",
-    "Negative command: *“Don't run!” Mum said.* → *Mum told us **not to run**.*"
+    "Yes/no question: “Are you ready?” he asked. → He asked **if (whether)** I **was** ready.",
+    "Wh- question: “Where do you live?” she asked. → She asked where I **lived**. (no question mark, normal word order)",
+    "Command: “Sit down,” the teacher said. → The teacher **told** us **to sit** down.",
+    "Negative command: “Don't run!” Mum said. → Mum told us **not to run**."
    ],
    "ordered": false
   },
@@ -182,13 +182,13 @@
    "type": "box",
    "style": "tip",
    "title": "Said or told?",
-   "text": "**told** needs a person after it: *She **told me** that...* ✓. **said** does not: *She **said** that...* ✓. So *She said me...* ✗ and *She told that...* ✗."
+   "text": "**told** needs a person after it: She **told me** that... ✓. **said** does not: She **said** that... ✓. So She said me... ✗ and She told that... ✗."
   },
   {
    "type": "box",
    "style": "tip",
    "title": "No backshift needed",
-   "text": "If the reporting verb is in the present (*says, tells*), the tense does not change: *Ali says, “I am hungry.”* → *Ali says he is hungry.* The tense also usually stays the same for facts that are always true: *She said the Nile flows north.*"
+   "text": "If the reporting verb is in the present (says, tells), the tense does not change: Ali says, “I am hungry.” → Ali says he is hungry. The tense also usually stays the same for facts that are always true: She said the Nile flows north."
   },
   {
    "type": "h2",
@@ -196,7 +196,7 @@
   },
   {
    "type": "p",
-   "text": "Instead of *said* every time, choose a verb that shows **how** something was said. This also helps your **Vocabulary and language** mark."
+   "text": "Instead of said every time, choose a verb that shows **how** something was said. This also helps your **Vocabulary and language** mark."
   },
   {
    "type": "table",
@@ -260,11 +260,11 @@
    "style": "warning",
    "title": "Watch out for these",
    "items": [
-    "Keeping the inverted commas: *He said that “he was tired.”* ✗ → *He said that he was tired.* ✓",
-    "Forgetting the pronoun: *Sara said that I was hungry* ✗ (when Sara meant herself) → *Sara said that **she** was hungry* ✓",
-    "Question word order: *She asked where did I live?* ✗ → *She asked where I **lived**.* ✓",
-    "*He told that he was late* ✗ → *He **said** that he was late* / *He **told me** that he was late* ✓",
-    "Punctuation outside: *“Stop”, she said* ✗ → *“Stop,” she said* ✓"
+    "Keeping the inverted commas: He said that “he was tired.” ✗ → He said that he was tired. ✓",
+    "Forgetting the pronoun: Sara said that I was hungry ✗ (when Sara meant herself) → Sara said that **she** was hungry ✓",
+    "Question word order: She asked where did I live? ✗ → She asked where I **lived**. ✓",
+    "He told that he was late ✗ → He **said** that he was late / He **told me** that he was late ✓",
+    "Punctuation outside: “Stop”, she said ✗ → “Stop,” she said ✓"
    ]
   },
   {
@@ -276,9 +276,9 @@
    "style": "exam",
    "title": "Reading questions in this style",
    "items": [
-    "*Why does the writer use direct speech here?* → to show the character's feelings or personality, to make the scene lively and real, or to move the story on through dialogue.",
-    "In a news report: *Why does the writer include the words of a witness?* → to make the report believable and give a real person's view.",
-    "*What does the verb “whispered” tell you about the character?* → they were scared, secretive or did not want to be heard.",
+    "Why does the writer use direct speech here? → to show the character's feelings or personality, to make the scene lively and real, or to move the story on through dialogue.",
+    "In a news report: Why does the writer include the words of a witness? → to make the report believable and give a real person's view.",
+    "What does the verb “whispered” tell you about the character? → they were scared, secretive or did not want to be heard.",
     "Questions on punctuation can ask why inverted commas are used: they show the exact words someone spoke."
    ]
   },
@@ -289,8 +289,8 @@
   {
    "type": "list",
    "items": [
-    "*“I heard a loud crash and ran outside,” said shop owner Karim Fathy.* (direct)",
-    "*Police said that nobody had been hurt.* (reported)"
+    "“I heard a loud crash and ran outside,” said shop owner Karim Fathy. (direct)",
+    "Police said that nobody had been hurt. (reported)"
    ],
    "ordered": false
   },
@@ -312,44 +312,44 @@
    "type": "qa",
    "items": [
     {
-     "q": "Report it: *“I am going to the market,” said Mum.*",
-     "a": "*Mum said (that) she was going to the market.*"
+     "q": "Report it: “I am going to the market,” said Mum.",
+     "a": "Mum said (that) she was going to the market."
     },
     {
-     "q": "Report it: *“We have finished the project,” the boys said.*",
-     "a": "*The boys said (that) they had finished the project.*"
+     "q": "Report it: “We have finished the project,” the boys said.",
+     "a": "The boys said (that) they had finished the project."
     },
     {
-     "q": "Report it: *“Will you help me tomorrow?” Ali asked his brother.*",
-     "a": "*Ali asked his brother if (whether) he would help him the next day.*"
+     "q": "Report it: “Will you help me tomorrow?” Ali asked his brother.",
+     "a": "Ali asked his brother if (whether) he would help him the next day."
     },
     {
-     "q": "Report it: *“Don't touch the oven!” Grandma told us.*",
-     "a": "*Grandma told us not to touch the oven.*"
+     "q": "Report it: “Don't touch the oven!” Grandma told us.",
+     "a": "Grandma told us not to touch the oven."
     },
     {
-     "q": "Change to direct speech: *The coach said that the match had been cancelled.*",
-     "a": "*The coach said, “The match has been cancelled.”*"
+     "q": "Change to direct speech: The coach said that the match had been cancelled.",
+     "a": "The coach said, “The match has been cancelled.”"
     },
     {
-     "q": "Add the missing punctuation: *where are my keys asked Dad*",
-     "a": "*“Where are my keys?” asked Dad.*"
+     "q": "Add the missing punctuation: where are my keys asked Dad",
+     "a": "“Where are my keys?” asked Dad."
     },
     {
-     "q": "Report it: *“What time does the film start?” Nada asked.*",
-     "a": "*Nada asked what time the film started.*"
+     "q": "Report it: “What time does the film start?” Nada asked.",
+     "a": "Nada asked what time the film started."
     },
     {
-     "q": "Report it: *“I can't find my homework,” said Youssef.*",
-     "a": "*Youssef said (that) he couldn't find his homework.*"
+     "q": "Report it: “I can't find my homework,” said Youssef.",
+     "a": "Youssef said (that) he couldn't find his homework."
     },
     {
-     "q": "Correct the mistake: *The teacher said us to open our books.*",
-     "a": "*The teacher **told** us to open our books.*"
+     "q": "Correct the mistake: The teacher said us to open our books.",
+     "a": "The teacher **told** us to open our books."
     },
     {
-     "q": "Choose a better reporting verb for a frightened character: *“Is someone there?” she ______.*",
-     "a": "***whispered*** (or *stammered*), which shows she is scared and speaking quietly."
+     "q": "Choose a better reporting verb for a frightened character: “Is someone there?” she ______.",
+     "a": "**whispered** (or stammered), which shows she is scared and speaking quietly."
     }
    ]
   }

@@ -15,9 +15,9 @@
   {
    "type": "list",
    "items": [
-    "**Active:** *The children **painted** the wall.* (the children do the action)",
-    "**Passive:** *The wall **was painted** by the children.* (the wall receives the action)",
-    "**Passive with no doer:** *The wall **was painted** last week.*"
+    "**Active:** The children **painted** the wall. (the children do the action)",
+    "**Passive:** The wall **was painted** by the children. (the wall receives the action)",
+    "**Passive with no doer:** The wall **was painted** last week."
    ],
    "ordered": false
   },
@@ -25,7 +25,7 @@
    "type": "box",
    "style": "exam",
    "title": "How to recognise a passive verb",
-   "text": "Look for a form of **be** + a **past participle**: *is made, was found, were taken, has been opened, have been sold, will be built.* If there is no *be* before the past participle, it is not passive."
+   "text": "Look for a form of **be** + a **past participle**: is made, was found, were taken, has been opened, have been sold, will be built. If there is no be before the past participle, it is not passive."
   },
   {
    "type": "h2",
@@ -66,7 +66,7 @@
   },
   {
    "type": "p",
-   "text": "Notice that the verb **be** must agree with the new subject: *fifty trees **were** planted* (plural), *one tree **was** planted* (singular)."
+   "text": "Notice that the verb **be** must agree with the new subject: fifty trees **were** planted (plural), one tree **was** planted (singular)."
   },
   {
    "type": "h2",
@@ -127,9 +127,9 @@
    "style": "exam",
    "title": "The two forms most often asked about",
    "items": [
-    "**Simple past passive** = **was / were + past participle**: *was found, were taken, was built, were invited*.",
-    "**Present perfect passive** = **has / have + been + past participle**: *has been found, have been taken, has been built*.",
-    "To tell them apart, look for **been**. If you see *has been / have been* + past participle, it is present perfect passive."
+    "**Simple past passive** = **was / were + past participle**: was found, were taken, was built, were invited.",
+    "**Present perfect passive** = **has / have + been + past participle**: has been found, have been taken, has been built.",
+    "To tell them apart, look for **been**. If you see has been / have been + past participle, it is present perfect passive."
    ]
   },
   {
@@ -138,14 +138,14 @@
   },
   {
    "type": "p",
-   "text": "Find the doer (after **by**), make it the subject, and put the verb in the same tense without *be*."
+   "text": "Find the doer (after **by**), make it the subject, and put the verb in the same tense without be."
   },
   {
    "type": "list",
    "items": [
-    "*The cake **was eaten** by the twins.* → *The twins **ate** the cake.*",
-    "*The match **has been won** by our team.* → *Our team **has won** the match.*",
-    "If there is no doer, choose a sensible one: *My bag **was taken**.* → *Someone **took** my bag.*"
+    "The cake **was eaten** by the twins. → The twins **ate** the cake.",
+    "The match **has been won** by our team. → Our team **has won** the match.",
+    "If there is no doer, choose a sensible one: My bag **was taken**. → Someone **took** my bag."
    ],
    "ordered": false
   },
@@ -160,11 +160,11 @@
   {
    "type": "list",
    "items": [
-    "to focus on the **thing** or the **action**, not on who did it (*The pyramids were built over 4,000 years ago.*)",
-    "because the doer is **unknown** (*My phone was stolen.*)",
-    "because the doer is **obvious** or **not important** (*The thief was arrested.* We know it was the police.)",
+    "to focus on the **thing** or the **action**, not on who did it (The pyramids were built over 4,000 years ago.)",
+    "because the doer is **unknown** (My phone was stolen.)",
+    "because the doer is **obvious** or **not important** (The thief was arrested. We know it was the police.)",
     "to make the writing sound **formal** and **factual**, as in reports, news reports and science texts",
-    "in stories: to hide who did something, which creates **mystery** (*The window had been smashed.*)"
+    "in stories: to hide who did something, which creates **mystery** (The window had been smashed.)"
    ],
    "ordered": false
   },
@@ -177,11 +177,11 @@
    "style": "warning",
    "title": "Watch out for these",
    "items": [
-    "Missing *be*: *The bike stolen yesterday* ✗ → *The bike **was** stolen yesterday* ✓",
-    "Wrong participle: *The vase was broke* ✗ → *The vase was **broken*** ✓",
-    "Wrong agreement: *The windows was cleaned* ✗ → *The windows **were** cleaned* ✓",
-    "Wrong tense of *be*: *Active: They built it in 1990.* → *It **is** built in 1990* ✗ → *It **was** built in 1990* ✓",
-    "Not every *was* + word is passive: *She was tired* is not passive (*tired* is an adjective here, there is no action done to her)."
+    "Missing be: The bike stolen yesterday ✗ → The bike **was** stolen yesterday ✓",
+    "Wrong participle: The vase was broke ✗ → The vase was **broken** ✓",
+    "Wrong agreement: The windows was cleaned ✗ → The windows **were** cleaned ✓",
+    "Wrong tense of be: Active: They built it in 1990. → It **is** built in 1990 ✗ → It **was** built in 1990 ✓",
+    "Not every was + word is passive: She was tired is not passive (tired is an adjective here, there is no action done to her)."
    ]
   },
   {
@@ -193,16 +193,16 @@
    "style": "exam",
    "title": "Reading questions in this style",
    "items": [
-    "*Tick one box to show the verb form of the highlighted verb.* (for example: simple past passive / present perfect passive)",
-    "*Find and copy a passive verb from the paragraph.*",
-    "*Why does the writer use the passive in this sentence?* (focus on the action, doer unknown or not important, formal tone, mystery)"
+    "Tick one box to show the verb form of the highlighted verb. (for example: simple past passive / present perfect passive)",
+    "Find and copy a passive verb from the paragraph.",
+    "Why does the writer use the passive in this sentence? (focus on the action, doer unknown or not important, formal tone, mystery)"
    ]
   },
   {
    "type": "box",
    "style": "tip",
    "title": "Worked example (tick-one style)",
-   "text": "*Text: ...the old lighthouse **has been repaired** and will open again in June.* Which verb form is the highlighted verb? **A** simple past passive **B** present perfect passive **C** present progressive **D** past perfect. **Answer: B**, because it is *has been* + the past participle *repaired*."
+   "text": "Text: ...the old lighthouse **has been repaired** and will open again in June. Which verb form is the highlighted verb? **A** simple past passive **B** present perfect passive **C** present progressive **D** past perfect. **Answer: B**, because it is has been + the past participle repaired."
   },
   {
    "type": "p",
@@ -211,10 +211,10 @@
   {
    "type": "list",
    "items": [
-    "News report: *Two children **were rescued** from the sea on Friday afternoon.*",
-    "Information text: *Papyrus **was made** from a plant that grows beside the Nile.*",
-    "Formal letter: *I **was told** that the library would be closed for a month.*",
-    "Mystery story: *The drawer **had been opened**, and the map was gone.*"
+    "News report: Two children **were rescued** from the sea on Friday afternoon.",
+    "Information text: Papyrus **was made** from a plant that grows beside the Nile.",
+    "Formal letter: I **was told** that the library would be closed for a month.",
+    "Mystery story: The drawer **had been opened**, and the map was gone."
    ],
    "ordered": false
   },
@@ -236,44 +236,44 @@
    "type": "qa",
    "items": [
     {
-     "q": "Active or passive? *The letter was delivered this morning.*",
-     "a": "**Passive**: *was* + past participle *delivered*."
+     "q": "Active or passive? The letter was delivered this morning.",
+     "a": "**Passive**: was + past participle delivered."
     },
     {
-     "q": "Which verb form is it? *Three new classrooms have been built.*",
-     "a": "**Present perfect passive** (*have been* + past participle)."
+     "q": "Which verb form is it? Three new classrooms have been built.",
+     "a": "**Present perfect passive** (have been + past participle)."
     },
     {
-     "q": "Which verb form is it? *The winners were chosen by the judges.*",
-     "a": "**Simple past passive** (*were* + past participle)."
+     "q": "Which verb form is it? The winners were chosen by the judges.",
+     "a": "**Simple past passive** (were + past participle)."
     },
     {
-     "q": "Change to passive: *A strong wind knocked down the tree.*",
-     "a": "*The tree was knocked down by a strong wind.*"
+     "q": "Change to passive: A strong wind knocked down the tree.",
+     "a": "The tree was knocked down by a strong wind."
     },
     {
-     "q": "Change to passive (no doer needed): *Someone has broken the window.*",
-     "a": "*The window has been broken.*"
+     "q": "Change to passive (no doer needed): Someone has broken the window.",
+     "a": "The window has been broken."
     },
     {
-     "q": "Why does a news report say *A man has been rescued from the river* and not name the rescuers?",
+     "q": "Why does a news report say A man has been rescued from the river and not name the rescuers?",
      "a": "The passive focuses on the man and the rescue, which is the important news; it also sounds formal and factual."
     },
     {
-     "q": "Change to active: *The museum was visited by two hundred pupils.*",
-     "a": "*Two hundred pupils visited the museum.*"
+     "q": "Change to active: The museum was visited by two hundred pupils.",
+     "a": "Two hundred pupils visited the museum."
     },
     {
-     "q": "Correct the mistake: *The new shops was opened last week.*",
-     "a": "*The new shops **were** opened last week.* (*shops* is plural)"
+     "q": "Correct the mistake: The new shops was opened last week.",
+     "a": "The new shops **were** opened last week. (shops is plural)"
     },
     {
-     "q": "Change to passive: *They will serve lunch at one o'clock.*",
-     "a": "*Lunch will be served at one o'clock.*"
+     "q": "Change to passive: They will serve lunch at one o'clock.",
+     "a": "Lunch will be served at one o'clock."
     },
     {
-     "q": "Is this sentence passive? *The sky was very dark.* Explain.",
-     "a": "**No.** *dark* is an adjective, not a past participle, and nothing is being done to the sky."
+     "q": "Is this sentence passive? The sky was very dark. Explain.",
+     "a": "**No.** dark is an adjective, not a past participle, and nothing is being done to the sky."
     }
    ]
   }

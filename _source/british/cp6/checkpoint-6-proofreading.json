@@ -25,10 +25,10 @@
    "items": [
     "**Sentences:** every sentence starts with a capital letter and ends with . ? or ! (no comma splices or run-ons).",
     "**Tense:** the same main tense all the way through.",
-    "**Agreement:** *we were, he doesn't, there are, everyone has*.",
-    "**Standard English:** no *we was, could of, me and him went*.",
-    "**Punctuation:** commas in lists and after opening clauses, speech punctuated correctly, apostrophes in the right place (*its/it's, their/they're/there*).",
-    "**Spelling:** check tricky words, especially irregular past forms and *-er/-est* spellings."
+    "**Agreement:** we were, he doesn't, there are, everyone has.",
+    "**Standard English:** no we was, could of, me and him went.",
+    "**Punctuation:** commas in lists and after opening clauses, speech punctuated correctly, apostrophes in the right place (its/it's, their/they're/there).",
+    "**Spelling:** check tricky words, especially irregular past forms and -er/-est spellings."
    ],
    "ordered": true
   },
@@ -66,43 +66,43 @@
    "rows": [
     [
      "Comma splice (two sentences joined by a comma)",
-     "*It was late, we went home.*",
-     "*It was late, **so** we went home.* / *It was late. We went home.*"
+     "It was late, we went home.",
+     "It was late, **so** we went home. / It was late. We went home."
     ],
     [
      "Missing capital letters",
-     "*on monday we visited cairo.*",
-     "***O**n **M**onday we visited **C**airo.*"
+     "on monday we visited cairo.",
+     "**O**n **M**onday we visited **C**airo."
     ],
     [
      "Tense change",
-     "*She opened the box and finds a key.*",
-     "*She opened the box and **found** a key.*"
+     "She opened the box and finds a key.",
+     "She opened the box and **found** a key."
     ],
     [
      "Agreement",
-     "*The girls was laughing.*",
-     "*The girls **were** laughing.*"
+     "The girls was laughing.",
+     "The girls **were** laughing."
     ],
     [
      "Missing apostrophe",
-     "*Its my brothers bike.*",
-     "***It's** my **brother's** bike.*"
+     "Its my brothers bike.",
+     "**It's** my **brother's** bike."
     ],
     [
      "Wrong apostrophe",
-     "*I bought three apple's.*",
-     "*I bought three **apples**.* (plurals do not need apostrophes)"
+     "I bought three apple's.",
+     "I bought three **apples**. (plurals do not need apostrophes)"
     ],
     [
      "Double comparison",
-     "*the most biggest*",
-     "*the **biggest***"
+     "the most biggest",
+     "the **biggest**"
     ],
     [
      "Missing word",
-     "*We went the beach.*",
-     "*We went **to** the beach.*"
+     "We went the beach.",
+     "We went **to** the beach."
     ]
    ]
   },
@@ -121,37 +121,37 @@
     [
      "there / their / they're",
      "a place / belongs to them / they are",
-     "*They're putting their bags over there.*"
+     "They're putting their bags over there."
     ],
     [
      "its / it's",
      "belongs to it / it is (or it has)",
-     "*It's sad that the bird hurt its wing.*"
+     "It's sad that the bird hurt its wing."
     ],
     [
      "your / you're",
      "belongs to you / you are",
-     "*You're going to love your present.*"
+     "You're going to love your present."
     ],
     [
      "to / too / two",
      "towards / also or more than enough / 2",
-     "*Two of us went to the shop too.*"
+     "Two of us went to the shop too."
     ],
     [
      "where / were / wear",
-     "a place / past of *are* / put on clothes",
-     "*Where were you going to wear that?*"
+     "a place / past of are / put on clothes",
+     "Where were you going to wear that?"
     ],
     [
      "whose / who's",
      "belongs to who? / who is",
-     "*Who's the boy whose dog ran away?*"
+     "Who's the boy whose dog ran away?"
     ],
     [
      "of / off",
      "belonging to / not on",
-     "*A piece of cake fell off the plate.*"
+     "A piece of cake fell off the plate."
     ]
    ]
   },
@@ -165,26 +165,26 @@
   },
   {
    "type": "p",
-   "text": "*last saturday me and my cousin goes to the zoo, we was very excited. The lions was sleeping but the monkeys were the most funniest animals there. Their was a sign that said “dont feed the animals.”*"
+   "text": "last saturday me and my cousin goes to the zoo, we was very excited. The lions was sleeping but the monkeys were the most funniest animals there. Their was a sign that said “dont feed the animals.”"
   },
   {
    "type": "p",
-   "text": "**Corrected:** *Last Saturday, my cousin and I went to the zoo. We were very excited. The lions were sleeping, but the monkeys were the funniest animals there. There was a sign that said, “Don't feed the animals.”*"
+   "text": "**Corrected:** Last Saturday, my cousin and I went to the zoo. We were very excited. The lions were sleeping, but the monkeys were the funniest animals there. There was a sign that said, “Don't feed the animals.”"
   },
   {
    "type": "list",
    "items": [
-    "*last* → *Last* (capital at the start of a sentence)",
-    "*saturday* → *Saturday* (days need capitals)",
-    "*me and my cousin* → *my cousin and I* (standard English)",
-    "*goes* → *went* (past tense)",
-    "*zoo, we* → *zoo. We* (comma splice fixed)",
-    "*we was* → *we were* (agreement)",
-    "*The lions was* → *The lions were* (agreement)",
-    "*the most funniest* → *the funniest* (double superlative)",
-    "*Their was* → *There was* (homophone)",
-    "*dont feed* → *Don't feed* (apostrophe for omission, and a capital letter at the start of the speech)",
-    "*said “* → *said, “* (a comma before the speech)"
+    "last → Last (capital at the start of a sentence)",
+    "saturday → Saturday (days need capitals)",
+    "me and my cousin → my cousin and I (standard English)",
+    "goes → went (past tense)",
+    "zoo, we → zoo. We (comma splice fixed)",
+    "we was → we were (agreement)",
+    "The lions was → The lions were (agreement)",
+    "the most funniest → the funniest (double superlative)",
+    "Their was → There was (homophone)",
+    "dont feed → Don't feed (apostrophe for omission, and a capital letter at the start of the speech)",
+    "said “ → said, “ (a comma before the speech)"
    ],
    "ordered": false
   },
@@ -198,14 +198,14 @@
    "title": "Where proofreading matters",
    "items": [
     "**Writing:** there is no separate mark for checking, but every mistake you fix improves your **Grammar and punctuation** and **Word structure (spelling)** marks.",
-    "**Reading:** grammar and punctuation questions may ask you to spot or correct an error, choose the correct word (*their/there*), or explain why a punctuation mark is used. The same checking eye helps you there."
+    "**Reading:** grammar and punctuation questions may ask you to spot or correct an error, choose the correct word (their/there), or explain why a punctuation mark is used. The same checking eye helps you there."
    ]
   },
   {
    "type": "box",
    "style": "tip",
    "title": "Know your own mistakes",
-   "text": "Look at your last three pieces of marked writing. Write down the **two mistakes you make most** (for example *we was* or missing full stops). In the exam, hunt for those two first."
+   "text": "Look at your last three pieces of marked writing. Write down the **two mistakes you make most** (for example we was or missing full stops). In the exam, hunt for those two first."
   },
   {
    "type": "box",
@@ -225,36 +225,36 @@
    "type": "qa",
    "items": [
     {
-     "q": "Correct the sentence: *my freind and me goes to the park every friday.*",
-     "a": "*My **friend** and **I** **go** to the park every **Friday**.* (capital letters, spelling of *friend*, standard English, agreement)"
+     "q": "Correct the sentence: my freind and me goes to the park every friday.",
+     "a": "My **friend** and **I** **go** to the park every **Friday**. (capital letters, spelling of friend, standard English, agreement)"
     },
     {
-     "q": "Fix the comma splice: *The rain stopped, the children ran outside.*",
-     "a": "*The rain stopped, **and** the children ran outside.* / *When the rain stopped, the children ran outside.* / *The rain stopped. The children ran outside.*"
+     "q": "Fix the comma splice: The rain stopped, the children ran outside.",
+     "a": "The rain stopped, **and** the children ran outside. / When the rain stopped, the children ran outside. / The rain stopped. The children ran outside."
     },
     {
-     "q": "Choose the right words: *(Their / There / They're) going to visit (their / there / they're) grandmother.*",
-     "a": "***They're** going to visit **their** grandmother.*"
+     "q": "Choose the right words: (Their / There / They're) going to visit (their / there / they're) grandmother.",
+     "a": "**They're** going to visit **their** grandmother."
     },
     {
-     "q": "Correct: *The dog wagged it's tail.*",
-     "a": "*The dog wagged **its** tail.* (*its* = belonging to it; no apostrophe)"
+     "q": "Correct: The dog wagged it's tail.",
+     "a": "The dog wagged **its** tail. (its = belonging to it; no apostrophe)"
     },
     {
-     "q": "Find and fix the tense mistake: *I picked up the phone and hear a strange voice.*",
-     "a": "*hear* → ***heard***."
+     "q": "Find and fix the tense mistake: I picked up the phone and hear a strange voice.",
+     "a": "hear → **heard**."
     },
     {
-     "q": "Correct: *I have two sister's and three brother's.*",
-     "a": "*I have two **sisters** and three **brothers**.* (plurals, no apostrophes)"
+     "q": "Correct: I have two sister's and three brother's.",
+     "a": "I have two **sisters** and three **brothers**. (plurals, no apostrophes)"
     },
     {
-     "q": "Correct: *Where you at the match yesterday? I seen you there.*",
-     "a": "***Were** you at the match yesterday? I **saw** you there.*"
+     "q": "Correct: Where you at the match yesterday? I seen you there.",
+     "a": "**Were** you at the match yesterday? I **saw** you there."
     },
     {
-     "q": "Find and fix six mistakes:*yesterday we visit the museum. it was more better than i expected, and the guide were very friendly.*",
-     "a": "*Yesterday we **visited** the museum. **It** was **better** than **I** expected, and the guide **was** very friendly.* (capital *Yesterday*, past tense *visited*, capital *It*, *better* not *more better*, capital *I*, *guide was*)"
+     "q": "Find and fix six mistakes:yesterday we visit the museum. it was more better than i expected, and the guide were very friendly.",
+     "a": "Yesterday we **visited** the museum. **It** was **better** than **I** expected, and the guide **was** very friendly. (capital Yesterday, past tense visited, capital It, better not more better, capital I, guide was)"
     },
     {
      "q": "Why is it a good idea to proofread for one kind of mistake at a time?",
