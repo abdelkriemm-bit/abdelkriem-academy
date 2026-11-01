@@ -57,7 +57,10 @@ FOOT = f'''<footer class="foot" dir="ltr"><div class="wrap fgrid">
 
 def page(fname, title, desc, body, active=None, rtl=False):
     with open(f"{OUT}/{fname}", "w", encoding="utf-8") as f:
-        f.write(head(title, desc, rtl) + header(active or fname) + "<main>" + body + "</main>" + FOOT)
+        _h = head(title, desc, rtl).replace('<meta property="og:image" content="images/', '<meta property="og:image" content="https://abdelkriemacademy.com/images/')
+        _slug = "" if fname == "index.html" else fname[:-5]
+        _h = _h.replace("</title>\n", f'</title>\n<link rel="canonical" href="https://abdelkriemacademy.com/{_slug}">\n', 1)
+        f.write(_h + header(active or fname) + "<main>" + body + "</main>" + FOOT)
 
 def yt(pl, label="Watch the playlist"):
     return f'<div class="video"><iframe loading="lazy" src="https://www.youtube-nocookie.com/embed/videoseries?list={pl}" title="{label}" allowfullscreen></iframe></div>'

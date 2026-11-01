@@ -74,6 +74,11 @@ _BR_CSS = """<style>
 .bc .exs .en{display:block;direction:ltr;text-align:left;font-family:Inter,sans-serif;font-weight:600;color:#1f3a5f}
 .bc .exs .exar{display:block;margin-top:.25rem;color:#4a4a4a}
 .bc .en-p{direction:ltr;text-align:left;font-family:Inter,sans-serif}
+.blist .bgrp{grid-column:1/-1;margin:.9rem 0 -.1rem}
+.blist .bgrp h3{margin:0;font-size:1.05rem;color:#7f5c1c;text-transform:uppercase;letter-spacing:.05em}
+.blist.compact{grid-template-columns:repeat(auto-fit,minmax(210px,1fr))}
+.blist.compact a{display:flex;flex-direction:column;justify-content:center;min-height:84px;border:2px solid #e6e0d4;border-radius:16px}
+.blist.compact a b{font-size:1.05rem;line-height:1.3;margin:0}
 @media (max-width:600px){.bc .pnav a{max-width:100%;flex:1 1 100%}}
 </style>"""
 
@@ -181,15 +186,22 @@ for _bc in _BR_COURSES:
         continue
     _cfg = _bload(_bc, "course.json")
     for _sec in _cfg["sections"]:
+        # a section may be split into named groups (e.g. Reading / Writing inside a paper)
+        if _sec.get("groups"):
+            _sec["pages"] = [p for g in _sec["groups"] for p in g["pages"]]
         _skip = _bo.environ.get("BRITISH_SKIP")
         _miss = [s for s in _sec["pages"] if not _bo.path.exists(_bo.path.join(_BR_ROOT, _bc, s + ".json")) or (_skip and _bre.search(_skip, s))]
         if _miss:
             print(f"[british] {_bc}: skipping {len(_miss)} missing page(s): {', '.join(_miss)}")
         _sec["pages"] = [s for s in _sec["pages"] if s not in _miss]
+        for _g in _sec.get("groups", []):
+            _g["pages"] = [s for s in _g["pages"] if s not in _miss]
     _cfg["sections"] = [s for s in _cfg["sections"] if s["pages"]]
     if not _cfg["sections"]:
         continue
-    _order = [s for sec in _cfg["sections"] for s in sec["pages"]]
+    # one page can sit in two sections (e.g. grammar lessons in Paper 1 and Paper 2): build/link it once
+    _order = list(dict.fromkeys(s for sec in _cfg["sections"] for s in sec["pages"]))
+    _compact = bool(_cfg.get("compact"))
     _pages = {s: _bload(_bc, s + ".json") for s in _order}
     _rtl = bool(_cfg.get("rtl"))
     _hub = _cfg["hub"] or _cfg.get("back", "index.html")
@@ -204,14 +216,22 @@ for _bc in _BR_COURSES:
         _secs = ""; _stiles = ""; _num = 0
         _lw = "الدرس" if _rtl else "Lesson"
         for _si, sec in enumerate(_cfg["sections"], 1):
-            items = ""
-            for s in sec["pages"]:
+            if _compact:
+                _num = 0  # lessons are numbered inside each section
+            def _li(s):
+                global _num
                 _num += 1
-                items += f'<li><a href="{s}.html"><small class="ln">{_lw} {_num}</small><b>{_bE(_pages[s]["title"])}</b><span>{_bE(_pages[s].get("summary",""))}</span></a></li>'
+                if _compact:
+                    return f'<li><a href="{s}.html"><small class="ln">{_lw} {_num}</small><b>{_bE(_pages[s].get("nav") or _pages[s]["title"])}</b></a></li>'
+                return f'<li><a href="{s}.html"><small class="ln">{_lw} {_num}</small><b>{_bE(_pages[s]["title"])}</b><span>{_bE(_pages[s].get("summary",""))}</span></a></li>'
+            if sec.get("groups"):
+                items = "".join(f'<li class="bgrp"><h3>{_bE(g["title"])}</h3></li>' + "".join(_li(s) for s in g["pages"]) for g in sec["groups"] if g["pages"])
+            else:
+                items = "".join(_li(s) for s in sec["pages"])
             _n = len(sec["pages"])
             _cnt = (f"{_n} دروس" if 3 <= _n <= 10 else f"{_n} درس") if _rtl else (f"{_n} lesson" + ("s" if _n != 1 else ""))
-            _stiles += f'<a class="stile" href="#s{_si}" data-s="s{_si}"><b>{_bE(sec["title"])}</b><span>{_cnt}</span></a>'
-            _secs += f'<div class="bsec" id="s{_si}"><h2>{_bE(sec["title"])}</h2>' + (f'<p>{_bE(sec["desc"])}</p>' if sec.get("desc") else "") + f'<ul class="blist">{items}</ul></div>'
+            _stiles += f'<a class="stile" href="#s{_si}" data-s="s{_si}"><b>{_bE(sec["title"])}</b><span>{_bE(sec["tag"]) + " · " if sec.get("tag") else ""}{_cnt}</span></a>'
+            _secs += f'<div class="bsec" id="s{_si}"><h2>{_bE(sec["title"])}</h2>' + (f'<p>{_bE(sec["desc"])}</p>' if sec.get("desc") and not _compact else "") + f'<ul class="blist{" compact" if _compact else ""}">{items}</ul></div>'
         _intro = "".join(_bblock(b) for b in _cfg.get("intro_blocks", []))
         _first = _order[0]
         _all = "→ كل الأقسام" if _rtl else "← All sections"
