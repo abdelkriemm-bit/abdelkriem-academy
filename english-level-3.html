@@ -23,7 +23,60 @@
 <a class="brand" href="index.html"><span class="mark">AA</span><span><b>Abdelkriem Academy</b><small>Educate Me Up</small></span></a>
 <button class="menu" aria-label="Menu" onclick="document.body.classList.toggle('nav-open')">☰</button>
 <nav dir="ltr"><a href="index.html">Home</a><a href="british.html">British &amp; IGCSE</a><a href="american.html">American Diploma</a><a href="egyptian-baccalaureate.html" class="two"><span>Egyptian Baccalaureate</span><small lang="ar">البكالوريا المصرية</small></a><a href="quran.html">Quran · حفظ قرآن</a><a href="improve-english.html" class="two on"><span>English from Zero</span><small lang="ar">إنجليزي من الصفر</small></a><a href="about.html">About</a></nav></div></header>
-<main><section class="phead"><div class="wrap"><p class="kicker">Free English course · Level 3 · B1 · 12 weeks · 30 minutes a day</p><h1>English Course · Level 3: Pre-Intermediate<span class='ar-title' lang='ar' dir='rtl'>المستوى التالت: اتكلم بثقة</span></h1><p class="lead">Speak with confidence about your work, your life, the news and the future.</p></div></section>
+<main><!--cnav--><section class="phead"><div class="wrap"><p class="kicker">Free English course · Level 3 · B1 · 12 weeks · 30 minutes a day</p><h1>English Course · Level 3: Pre-Intermediate<span class='ar-title' lang='ar' dir='rtl'>المستوى التالت: اتكلم بثقة</span></h1><p class="lead">Speak with confidence about your work, your life, the news and the future.</p></div></section><section class="block"><style>
+.cn-path{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:14px;margin:4px 0 26px}
+.cn-step{background:var(--card);border:2px solid var(--line);border-radius:18px;padding:16px 18px}
+.cn-step .k{display:inline-grid;place-items:center;width:30px;height:30px;border-radius:50%;background:var(--navy);color:#fff;font-weight:800;margin-bottom:8px}
+.cn-step>b{display:block;font-size:1.05rem;color:var(--navy)}
+.cn-step p{margin:.35rem 0 0;font-size:.95rem}
+.cn-step .ar{display:block;font-family:Cairo,sans-serif;direction:rtl;text-align:right;color:var(--muted);margin-top:6px;font-size:.92rem}
+.cn-step a{font-weight:700}
+.cn-go{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:0 0 22px}
+.cn-tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:12px;margin:10px 0 8px}
+.cn-tile{position:relative;display:flex;flex-direction:column;justify-content:center;min-height:118px;background:var(--card);border:2px solid var(--line);border-radius:18px;padding:14px 16px;text-decoration:none;color:var(--navy);box-shadow:var(--shadow);transition:transform .15s,border-color .15s}
+.cn-tile:hover{transform:translateY(-2px);border-color:var(--gold)}
+.cn-tile .n{font-size:.78rem;font-weight:800;letter-spacing:.07em;text-transform:uppercase;color:#7f5c1c}
+.cn-tile b{font-size:1.08rem;line-height:1.25;margin-top:4px}
+.cn-tile small{color:var(--muted);margin-top:5px;font-size:.84rem;line-height:1.35}
+.cn-tile.chk{background:#eef7ee;border-color:#bfe0c6}.cn-tile.chk .n{color:#2f7a43}
+.cn-tile.fin{background:#fbf1dc;border-color:var(--gold)}
+.cn-tile.done::after{content:"✓";position:absolute;top:10px;right:12px;width:26px;height:26px;border-radius:50%;background:#2f7a43;color:#fff;display:grid;place-items:center;font-weight:800}
+.cn-tile.next{border-color:var(--navy);box-shadow:0 0 0 3px rgba(15,27,51,.12)}
+details.cn-howto{margin:0}
+details.cn-howto>summary{list-style:none;cursor:pointer}
+details.cn-howto>summary::-webkit-details-marker{display:none}
+details.cn-howto>summary .wrap{display:flex;justify-content:space-between;align-items:center;gap:12px;padding-top:18px;padding-bottom:18px;font-weight:700;color:var(--navy)}
+details.cn-howto>summary .wrap span:last-child{font-family:Cairo,sans-serif}
+details.cn-howto>summary .plus{display:inline-grid;place-items:center;width:30px;height:30px;border-radius:50%;border:2px solid var(--navy)}
+details.cn-howto[open]>summary .plus{transform:rotate(45deg)}
+.cn-days{display:grid;grid-template-columns:repeat(7,1fr);gap:8px;margin:6px 0 16px}
+.cn-day{position:relative;border:2px solid var(--line);background:var(--card);border-radius:14px;padding:12px 6px;text-align:center;cursor:pointer;font-weight:800;color:var(--navy);font-size:1rem}
+.cn-day small{display:block;font-weight:600;color:var(--muted);font-size:.72rem;margin-top:3px}
+.cn-day.on{border-color:var(--navy);background:var(--navy);color:#fff}.cn-day.on small{color:#c9d1e3}
+.cn-day.done::after{content:"✓";position:absolute;top:-8px;right:-6px;width:22px;height:22px;border-radius:50%;background:#2f7a43;color:#fff;display:grid;place-items:center;font-size:.8rem}
+.cn-panel{background:var(--card);border:2px solid var(--line);border-radius:18px;padding:16px 18px}
+.cn-panel h3{margin:0 0 10px;font-family:Inter,sans-serif;font-size:1.15rem;color:var(--navy)}
+.cn-todo{list-style:none;margin:0;padding:0;display:grid;gap:10px;counter-reset:t}
+.cn-todo>li{counter-increment:t;display:grid;grid-template-columns:34px 1fr;gap:10px;align-items:start;border-top:1px dashed var(--line);padding-top:10px}
+.cn-todo>li:first-child{border-top:0;padding-top:0}
+.cn-todo>li::before{content:counter(t);display:grid;place-items:center;width:30px;height:30px;border-radius:50%;background:#fbf1dc;color:#7f5c1c;font-weight:800}
+.cn-todo b.t{display:block;color:var(--navy)}
+.cn-todo .ar{display:block;font-family:Cairo,sans-serif;direction:rtl;text-align:right;color:var(--muted);font-size:.9rem}
+.cn-chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:6px}
+.cn-chips span{background:var(--paper);border:1px solid var(--line);border-radius:999px;padding:4px 10px;font-size:.9rem}
+.cn-chips span i{font-style:normal;font-family:Cairo,sans-serif;color:var(--muted);margin-inline-start:6px}
+.cn-sl{margin:6px 0 0;padding:0;list-style:none;display:grid;gap:4px}
+.cn-sl li{background:var(--paper);border-radius:10px;padding:6px 10px}
+.cn-sl li i{display:block;font-style:normal;font-family:Cairo,sans-serif;direction:rtl;text-align:right;color:var(--muted);font-size:.9rem}
+.cn-done{margin-top:14px;background:#2f7a43;color:#fff;border:0;border-radius:999px;padding:10px 18px;font-weight:800;cursor:pointer}
+.cn-done.is{background:var(--card);color:#2f7a43;border:2px solid #2f7a43}
+details.cn-table{margin-top:12px}details.cn-table summary{cursor:pointer;font-weight:700;color:var(--gold-2)}
+@media (max-width:640px){.cn-days{grid-template-columns:repeat(4,1fr)}}
+</style><div class="wrap"><div class="cn-path">
+<div class="cn-step"><span class="k">1</span><b>Start at your level</b><p>Not sure? Take the free <a href="english-placement-test.html">placement test</a> (20 minutes).</p><span class="ar" dir="rtl">مش متأكد من مستواك؟ امتحن امتحان تحديد المستوى الأول.</span></div>
+<div class="cn-step"><span class="k">2</span><b>One week at a time</b><p>Open your week, pick <b>today</b> (Day 1–7) and do the 5 short steps. 30 minutes a day.</p><span class="ar" dir="rtl">افتح الأسبوع، اختار يوم النهارده، واعمل الخطوات بالترتيب.</span></div>
+<div class="cn-step"><span class="k">3</span><b>Check your progress</b><p>Every 4 weeks take the <b>Progress Check</b> (score 16/20 to move on). Then go to the next level.</p><span class="ar" dir="rtl">كل 4 أسابيع امتحن الـ Progress Check، ولما تخلص الـ 12 أسبوع روح على الليفل اللي بعده.</span></div>
+</div><div class="cn-go"><a class="btn" id="cn-cont" href="english-level-3-week-1.html">Start Week 1 →</a></div><h2>Your 12 weeks <span lang="ar" dir="rtl" style="font-family:Cairo,sans-serif">· الأسابيع</span></h2><div class="cn-tiles"><a class="cn-tile" data-wk="english-level-3-week-1.html" href="english-level-3-week-1.html"><span class="n">Week 1</span><b>Working Life</b><small>Grammar: Present perfect continuous · for / since · How long…?</small></a><a class="cn-tile" data-wk="english-level-3-week-2.html" href="english-level-3-week-2.html"><span class="n">Week 2</span><b>In the News</b><small>Grammar: Narrative tenses · past simple, past continuous and past perfect</small></a><a class="cn-tile" data-wk="english-level-3-week-3.html" href="english-level-3-week-3.html"><span class="n">Week 3</span><b>Our Planet</b><small>Grammar: Future forms · will, going to, might / may · future time clauses (when, as soon as, until…)</small></a><a class="cn-tile" data-wk="english-level-3-week-4.html" href="english-level-3-week-4.html"><span class="n">Week 4</span><b>Tech Talk</b><small>Grammar: Modals of deduction (present) · must, might, could, can&#x27;t</small></a><a class="cn-tile chk" href="english-level-3-check-1.html"><span class="n">Progress Check 1</span><b>Weeks 1–4</b><small>score 16/20 to move on</small></a><a class="cn-tile" data-wk="english-level-3-week-5.html" href="english-level-3-week-5.html"><span class="n">Week 5</span><b>Money Matters</b><small>Grammar: Second conditional · If I had…, I would… · If I were you, I&#x27;d…</small></a><a class="cn-tile" data-wk="english-level-3-week-6.html" href="english-level-3-week-6.html"><span class="n">Week 6</span><b>Customs and Traditions</b><small>Grammar: The passive · present simple and past simple (is made / was built)</small></a><a class="cn-tile" data-wk="english-level-3-week-7.html" href="english-level-3-week-7.html"><span class="n">Week 7</span><b>Relationships</b><small>Grammar: Reported speech (statements) · say and tell</small></a><a class="cn-tile" data-wk="english-level-3-week-8.html" href="english-level-3-week-8.html"><span class="n">Week 8</span><b>The Job Interview</b><small>Grammar: Reported questions and commands · asked if / asked where · told me to</small></a><a class="cn-tile chk" href="english-level-3-check-2.html"><span class="n">Progress Check 2</span><b>Weeks 5–8</b><small>score 16/20 to move on</small></a><a class="cn-tile" data-wk="english-level-3-week-9.html" href="english-level-3-week-9.html"><span class="n">Week 9</span><b>Learning for Life</b><small>Grammar: Relative clauses · defining and non-defining · who, which, whose, where (and commas)</small></a><a class="cn-tile" data-wk="english-level-3-week-10.html" href="english-level-3-week-10.html"><span class="n">Week 10</span><b>Healthy Living</b><small>Grammar: used to · be used to · get used to (+ -ing)</small></a><a class="cn-tile" data-wk="english-level-3-week-11.html" href="english-level-3-week-11.html"><span class="n">Week 11</span><b>Travel Troubles</b><small>Grammar: Question tags · indirect questions (Could you tell me where…? Do you know if…?)</small></a><a class="cn-tile" data-wk="english-level-3-week-12.html" href="english-level-3-week-12.html"><span class="n">Week 12</span><b>Looking Ahead</b><small>Grammar: so / such · too / enough · linking words (although, however, because of, so)</small></a><a class="cn-tile chk" href="english-level-3-check-3.html"><span class="n">Progress Check 3</span><b>Weeks 9–12</b><small>score 16/20 to move on</small></a></div></div></section><details class="cn-howto"><summary><div class="wrap"><span>How to study this course (read once)</span><span>إزاي تذاكر الكورس؟ <span class="plus">+</span></span></div></summary>
 <section class="block"><div class="wrap split">
 <div>
 <ul class="stats dark"><li><b>360</b><span>words</span></li><li><b>120</b><span>key sentences</span></li><li><b>12</b><span>grammar points</span></li><li><b>48</b><span>exercises + answers</span></li></ul>
@@ -64,11 +117,12 @@
 <li>بعد الأسبوع الرابع والثامن والثاني عشر فيه <b>اختبار (Progress Check)</b>: لو جبت 16 من 20 أو أكتر كمّل، لو أقل راجع جمل الأسابيع دي 3 أيام وحاول تاني.</li>
 <li><b>القاعدة الذهبية:</b> مش لازم تفهم كل كلمة. افهم الفكرة وكمّل، والباقي هييجي مع الوقت.</li></ul>
 </div></section>
-<section id="plan" class="block alt"><div class="wrap">
-<h2>The 12-week plan</h2><p class="sub">Each week has 30 words, 10 sentences to memorise, one grammar point, daily listening and exercises with answers.</p>
-<ol class="weeks"><li class="wk"><span class="wn">Week 1</span><div><h3><a href="english-level-3-week-1.html">Working Life</a></h3><p>Grammar: Present perfect continuous · for / since · How long…?</p></div></li><li class="wk"><span class="wn">Week 2</span><div><h3><a href="english-level-3-week-2.html">In the News</a></h3><p>Grammar: Narrative tenses · past simple, past continuous and past perfect</p></div></li><li class="wk"><span class="wn">Week 3</span><div><h3><a href="english-level-3-week-3.html">Our Planet</a></h3><p>Grammar: Future forms · will, going to, might / may · future time clauses (when, as soon as, until…)</p></div></li><li class="wk"><span class="wn">Week 4</span><div><h3><a href="english-level-3-week-4.html">Tech Talk</a></h3><p>Grammar: Modals of deduction (present) · must, might, could, can&#x27;t</p></div></li><li class="chk"><a href="english-level-3-check-1.html">✓ Progress Check 1 · Weeks 1–4</a> — score 16/20 to move on</li><li class="wk"><span class="wn">Week 5</span><div><h3><a href="english-level-3-week-5.html">Money Matters</a></h3><p>Grammar: Second conditional · If I had…, I would… · If I were you, I&#x27;d…</p></div></li><li class="wk"><span class="wn">Week 6</span><div><h3><a href="english-level-3-week-6.html">Customs and Traditions</a></h3><p>Grammar: The passive · present simple and past simple (is made / was built)</p></div></li><li class="wk"><span class="wn">Week 7</span><div><h3><a href="english-level-3-week-7.html">Relationships</a></h3><p>Grammar: Reported speech (statements) · say and tell</p></div></li><li class="wk"><span class="wn">Week 8</span><div><h3><a href="english-level-3-week-8.html">The Job Interview</a></h3><p>Grammar: Reported questions and commands · asked if / asked where · told me to</p></div></li><li class="chk"><a href="english-level-3-check-2.html">✓ Progress Check 2 · Weeks 5–8</a> — score 16/20 to move on</li><li class="wk"><span class="wn">Week 9</span><div><h3><a href="english-level-3-week-9.html">Learning for Life</a></h3><p>Grammar: Relative clauses · defining and non-defining · who, which, whose, where (and commas)</p></div></li><li class="wk"><span class="wn">Week 10</span><div><h3><a href="english-level-3-week-10.html">Healthy Living</a></h3><p>Grammar: used to · be used to · get used to (+ -ing)</p></div></li><li class="wk"><span class="wn">Week 11</span><div><h3><a href="english-level-3-week-11.html">Travel Troubles</a></h3><p>Grammar: Question tags · indirect questions (Could you tell me where…? Do you know if…?)</p></div></li><li class="wk"><span class="wn">Week 12</span><div><h3><a href="english-level-3-week-12.html">Looking Ahead</a></h3><p>Grammar: so / such · too / enough · linking words (although, however, because of, so)</p></div></li><li class="chk"><a href="english-level-3-check-3.html">✓ Progress Check 3 · Weeks 9–12</a> — score 16/20 to move on</li></ol>
-<div class="ctas"><a class="btn" href="english-level-3-week-1.html">Start Week 1</a></div>
-</div></section></main><style>
+</details><script>(function(){function cnGet(k){try{return JSON.parse(localStorage.getItem(k)||'{}')}catch(e){return {}}}
+function cnSet(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}
+var t=document.querySelectorAll('.cn-tile[data-wk]'),next=null;
+t.forEach(function(a){var d=cnGet('cnav:'+a.dataset.wk),n=0;for(var k in d)if(d[k])n++;if(n>=6)a.classList.add('done');else if(!next)next=a;});
+if(next&&document.querySelector('.cn-tile.done')){next.classList.add('next');var b=document.getElementById('cn-cont');if(b){b.href=next.getAttribute('href');b.textContent='Continue: '+next.querySelector('.n').textContent+' →';}}
+})();</script></main><style>
 .social-strip{background:var(--navy);color:#fff;padding:56px 0}
 .social-strip h2{color:#fff;margin-bottom:6px}
 .social-strip .sub{color:#c9d1e3;margin:0 0 24px}
