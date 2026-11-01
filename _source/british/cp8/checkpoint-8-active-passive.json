@@ -1,0 +1,288 @@
+{
+ "slug": "checkpoint-8-active-passive",
+ "title": "Active and Passive Voice",
+ "kicker": "Checkpoint 8 · Grammar in Use",
+ "summary": "How to form the passive in every tense, how to spot it in a text, all the reasons writers use it, and how to use active and passive in your own writing, with practice and answers.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "1. Active and passive: the difference"
+  },
+  {
+   "type": "p",
+   "text": "**Active:** the subject **does** the action. *The workers built the bridge in 1902.*"
+  },
+  {
+   "type": "p",
+   "text": "**Passive:** the subject **receives** the action. *The bridge was built (by the workers) in 1902.* The doer moves to the end after *by*, or disappears."
+  },
+  {
+   "type": "p",
+   "text": "Both sentences give the same facts. What changes is the **focus**: the active sentence is about the workers, the passive sentence is about the bridge."
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Key words",
+   "items": [
+    "**Voice**: whether the subject does the action (active) or receives it (passive).",
+    "**Past participle (V3)**: *written, taken, built, explained*.",
+    "**Agent**: the doer of the action in a passive sentence, introduced by *by* (*by the workers*).",
+    "**Object**: the person or thing that receives the action in an active sentence. Only verbs with an object can become passive."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "2. How to form the passive"
+  },
+  {
+   "type": "p",
+   "text": "**Passive = the right form of *be* + the past participle (V3).**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Take the object of the active sentence and make it the subject.",
+    "Add the verb *be* in the same tense as the active verb.",
+    "Add the past participle of the main verb.",
+    "Add *by* + the doer only if it matters."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Tense",
+    "Active",
+    "Passive (be + V3)"
+   ],
+   "rows": [
+    [
+     "Present simple",
+     "They clean the beach every week.",
+     "The beach **is cleaned** every week."
+    ],
+    [
+     "Present continuous",
+     "They are repairing the road.",
+     "The road **is being repaired**."
+    ],
+    [
+     "Past simple",
+     "Someone stole my bike.",
+     "My bike **was stolen**."
+    ],
+    [
+     "Past continuous",
+     "They were painting the school.",
+     "The school **was being painted**."
+    ],
+    [
+     "Present perfect",
+     "The council has closed the park.",
+     "The park **has been closed**."
+    ],
+    [
+     "Past perfect",
+     "Someone had opened the window.",
+     "The window **had been opened**."
+    ],
+    [
+     "Future simple",
+     "They will announce the results.",
+     "The results **will be announced**."
+    ],
+    [
+     "be going to",
+     "They are going to demolish the stadium.",
+     "The stadium **is going to be demolished**."
+    ],
+    [
+     "Modal",
+     "You must wear a helmet.",
+     "A helmet **must be worn**."
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Negatives**: put *not* after the first auxiliary: *The letter **was not sent**. The work **has not been finished**.*",
+    "**Questions**: move the first auxiliary to the front: ***Was** the letter sent? **Has** the work **been finished**?*",
+    "**Impersonal passive** (very formal): *It is said that... / It is believed that... / It has been reported that...* These hide whose opinion it is and sound objective."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "3. How to spot a passive"
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "How to spot a passive (and the traps)",
+   "items": [
+    "Test: is there a form of **be** (am, is, are, was, were, been, being, be) followed by a **past participle**? And is the subject receiving the action?",
+    "*The window was broken by the storm.* → passive.",
+    "*She was running.* → NOT passive (be + -ing = continuous, active).",
+    "*He has gone home.* → NOT passive (*has* + V3 with no *be* = present perfect, active).",
+    "*She was tired. / He is interested.* → usually adjectives describing a state, not passive actions. If you can add *by someone* and it makes sense, it is passive."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "4. Why writers use the passive"
+  },
+  {
+   "type": "p",
+   "text": "These are all the answers you can write when asked *Why has the writer used the passive voice?* Always link your answer to the words in the text."
+  },
+  {
+   "type": "list",
+   "items": [
+    "The **doer is unknown**: *My phone was stolen.*",
+    "The doer is **obvious** or **unimportant**: *The thief was arrested.* (by the police, obviously)",
+    "To **focus on the action or on what is affected**, not on who did it: *Hundreds of homes were destroyed.* (puts the victims first)",
+    "To sound **formal, objective and impersonal**, as in reports, science and news: *The samples were tested.* rather than *I tested the samples.*",
+    "To **avoid blaming** someone directly: *Mistakes were made.*",
+    "In fiction, to create **mystery or suspense** by hiding the doer: *The door had been unlocked.* (By whom?)",
+    "To **vary sentences** and keep the topic of a paragraph as the subject."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Why writers use the active voice:** it is more direct, lively and clear, it shows exactly **who** is responsible, and it makes stories and persuasive writing feel energetic. *Our school raised £2,000.* sounds prouder than *£2,000 was raised.*"
+  },
+  {
+   "type": "h2",
+   "text": "5. Common mistakes"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Wrong",
+    "Right",
+    "Why"
+   ],
+   "rows": [
+    [
+     "The road is built last year.",
+     "The road was built last year.",
+     "*be* must match the time: past → *was*."
+    ],
+    [
+     "The results announced tomorrow.",
+     "The results will be announced tomorrow.",
+     "The passive needs *be*. Without it, the results seem to announce something."
+    ],
+    [
+     "The cake was eat by the children.",
+     "The cake was eaten by the children.",
+     "Use the past participle (V3), not V1."
+    ],
+    [
+     "The window was broke.",
+     "The window was broken.",
+     "*broke* is V2. The passive needs V3: *broken*."
+    ],
+    [
+     "The accident was happened at night.",
+     "The accident happened at night.",
+     "*happen* has no object, so it cannot be passive (also *arrive, die, occur, disappear*)."
+    ],
+    [
+     "The homework has being checked.",
+     "The homework has been checked.",
+     "After *has / have / had*, use *been*. *being* is for continuous forms."
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "6. How Checkpoint asks about the passive"
+  },
+  {
+   "type": "p",
+   "text": "**In reading**, you may be asked to **identify** a sentence in the passive voice, or to **explain why** the writer used it. Questions often come from news reports, information texts and formal notices, where the passive is common."
+  },
+  {
+   "type": "p",
+   "text": "**Exam-style example.** *The ancient tomb was discovered in 1922. Inside, thousands of objects had been carefully arranged around the coffin.*"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Why has the writer used the passive voice? (1 mark) **Answer:** To focus on the tomb and the objects themselves (what was found) rather than on the people who found or arranged them, which also makes the text sound formal and factual."
+  },
+  {
+   "type": "p",
+   "text": "**In your writing**, use the passive in **news reports** (*A man has been rescued from the river*), **formal reports and information texts** (*The survey was completed by 120 students*), formal letters and notices, and in **stories** to hide a doer and build suspense. Do not use it everywhere: too many passives make writing heavy and unclear. Mix active and passive for control and variety."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "سؤال المبني للمجهول (passive) في القراءة",
+   "items": [
+    "دوّر على be + التصريف التالت (was built / is cleaned / has been closed).",
+    "was running مش passive، و has gone مش passive.",
+    "السبب: الفاعل مش معروف أو مش مهم، أو عشان نركّز على الحدث أو الضحية، أو عشان الأسلوب يبقى رسمي وموضوعي، أو عشان نخبّي الفاعل ونعمل غموض في القصة."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "7. Practice"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "Which sentence is in the passive voice? (a) The guards were watching the gate. (b) The gate was locked at midnight. (c) The guards have left the gate. (d) The gate looked old.",
+     "a": "**(b)** *was locked* = be + past participle, and the gate receives the action. (a) is past continuous active. (c) is present perfect active. (d) is a linking verb with an adjective."
+    },
+    {
+     "q": "Change to the passive: *Scientists will publish the results next month.*",
+     "a": "*The results will be published (by scientists) next month.*"
+    },
+    {
+     "q": "Change to the passive: *Someone is repairing the old fountain.*",
+     "a": "*The old fountain is being repaired.*"
+    },
+    {
+     "q": "Change to the active: *The prize was presented by the head teacher.*",
+     "a": "*The head teacher presented the prize.*"
+    },
+    {
+     "q": "Change to the passive: *The club has cancelled tomorrow's trip.*",
+     "a": "*Tomorrow's trip has been cancelled (by the club).*"
+    },
+    {
+     "q": "Change to the passive: *Students must return all library books by Friday.*",
+     "a": "*All library books must be returned by Friday.*"
+    },
+    {
+     "q": "*Several houses were badly damaged in the flood.* Why has the writer used the passive? (1 mark)",
+     "a": "To focus on the houses that were damaged (the effect of the flood) rather than on what caused it; the doer (the flood) is less important than the damage."
+    },
+    {
+     "q": "*When Nadia returned, she saw that her drawer had been opened.* Why has the writer used the passive here?",
+     "a": "To hide who opened the drawer, which creates mystery and suspense: Nadia and the reader do not know who has been there."
+    },
+    {
+     "q": "*It is believed that the castle was built in the twelfth century.* Give one reason the writer uses *It is believed that...*",
+     "a": "It makes the statement sound formal and objective, and it shows the date is a general belief (from historians), not the writer's personal opinion or a proven fact."
+    },
+    {
+     "q": "Correct: *The new hospital was open by the minister last week.*",
+     "a": "*The new hospital was opened by the minister last week.* (passive needs V3: *opened*)"
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Remember",
+   "text": "Passive = be + V3. *be* shows the tense. Ask: does the subject receive the action? Reasons: doer unknown or unimportant, focus on what is affected, formal and objective, avoid blame, suspense."
+  }
+ ],
+ "nav": "Active and Passive Voice"
+}

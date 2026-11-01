@@ -1,0 +1,282 @@
+{
+ "slug": "checkpoint-6-active-passive",
+ "title": "Active and Passive Verbs",
+ "kicker": "Checkpoint 6 · Grammar in Use",
+ "summary": "How to recognise a passive verb, how to change active sentences into passive ones (and back), the passive forms Checkpoint asks about and why writers use the passive.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "1. Active or passive?"
+  },
+  {
+   "type": "p",
+   "text": "In an **active** sentence, the subject **does** the action. In a **passive** sentence, the subject **receives** the action, and the doer moves to the end after **by**, or disappears."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Active:** *The children **painted** the wall.* (the children do the action)",
+    "**Passive:** *The wall **was painted** by the children.* (the wall receives the action)",
+    "**Passive with no doer:** *The wall **was painted** last week.*"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "How to recognise a passive verb",
+   "text": "Look for a form of **be** + a **past participle**: *is made, was found, were taken, has been opened, have been sold, will be built.* If there is no *be* before the past participle, it is not passive."
+  },
+  {
+   "type": "h2",
+   "text": "2. Changing active into passive"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Take the **object** of the active sentence and make it the **subject**.",
+    "Add the correct form of **be**, in the **same tense** as the active verb.",
+    "Add the **past participle** of the main verb.",
+    "Add **by + the doer** only if it is important."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "table",
+   "headers": [
+    "",
+    "Subject (doer)",
+    "Verb",
+    "Object (receiver)"
+   ],
+   "rows": [
+    [
+     "Active",
+     "Our class",
+     "planted",
+     "fifty trees."
+    ],
+    [
+     "Passive",
+     "Fifty trees",
+     "were planted",
+     "by our class."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Notice that the verb **be** must agree with the new subject: *fifty trees **were** planted* (plural), *one tree **was** planted* (singular)."
+  },
+  {
+   "type": "h2",
+   "text": "3. Passive forms in every tense"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Verb form",
+    "Active",
+    "Passive (be + past participle)"
+   ],
+   "rows": [
+    [
+     "Present simple passive",
+     "Workers **make** these toys.",
+     "These toys **are made** (by workers)."
+    ],
+    [
+     "Present progressive passive",
+     "They **are building** a school.",
+     "A school **is being built**."
+    ],
+    [
+     "**Simple past passive**",
+     "Someone **stole** my bike.",
+     "My bike **was stolen**."
+    ],
+    [
+     "Past progressive passive",
+     "They **were repairing** the road.",
+     "The road **was being repaired**."
+    ],
+    [
+     "**Present perfect passive**",
+     "The council **has opened** a new park.",
+     "A new park **has been opened** (by the council)."
+    ],
+    [
+     "Past perfect passive",
+     "Someone **had locked** the gate.",
+     "The gate **had been locked**."
+    ],
+    [
+     "Future passive",
+     "They **will announce** the winners.",
+     "The winners **will be announced**."
+    ],
+    [
+     "With a modal",
+     "You **must complete** the form.",
+     "The form **must be completed**."
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "The two forms most often asked about",
+   "items": [
+    "**Simple past passive** = **was / were + past participle**: *was found, were taken, was built, were invited*.",
+    "**Present perfect passive** = **has / have + been + past participle**: *has been found, have been taken, has been built*.",
+    "To tell them apart, look for **been**. If you see *has been / have been* + past participle, it is present perfect passive."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "4. Changing passive back into active"
+  },
+  {
+   "type": "p",
+   "text": "Find the doer (after **by**), make it the subject, and put the verb in the same tense without *be*."
+  },
+  {
+   "type": "list",
+   "items": [
+    "*The cake **was eaten** by the twins.* → *The twins **ate** the cake.*",
+    "*The match **has been won** by our team.* → *Our team **has won** the match.*",
+    "If there is no doer, choose a sensible one: *My bag **was taken**.* → *Someone **took** my bag.*"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "5. Why do writers use the passive?"
+  },
+  {
+   "type": "p",
+   "text": "This is a favourite reading question. Learn these answers:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "to focus on the **thing** or the **action**, not on who did it (*The pyramids were built over 4,000 years ago.*)",
+    "because the doer is **unknown** (*My phone was stolen.*)",
+    "because the doer is **obvious** or **not important** (*The thief was arrested.* We know it was the police.)",
+    "to make the writing sound **formal** and **factual**, as in reports, news reports and science texts",
+    "in stories: to hide who did something, which creates **mystery** (*The window had been smashed.*)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "6. Common mistakes"
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Watch out for these",
+   "items": [
+    "Missing *be*: *The bike stolen yesterday* ✗ → *The bike **was** stolen yesterday* ✓",
+    "Wrong participle: *The vase was broke* ✗ → *The vase was **broken*** ✓",
+    "Wrong agreement: *The windows was cleaned* ✗ → *The windows **were** cleaned* ✓",
+    "Wrong tense of *be*: *Active: They built it in 1990.* → *It **is** built in 1990* ✗ → *It **was** built in 1990* ✓",
+    "Not every *was* + word is passive: *She was tired* is not passive (*tired* is an adjective here, there is no action done to her)."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "7. How Checkpoint asks about it"
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Reading questions in this style",
+   "items": [
+    "*Tick one box to show the verb form of the highlighted verb.* (for example: simple past passive / present perfect passive)",
+    "*Find and copy a passive verb from the paragraph.*",
+    "*Why does the writer use the passive in this sentence?* (focus on the action, doer unknown or not important, formal tone, mystery)"
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Worked example (tick-one style)",
+   "text": "*Text: ...the old lighthouse **has been repaired** and will open again in June.* Which verb form is the highlighted verb? **A** simple past passive **B** present perfect passive **C** present progressive **D** past perfect. **Answer: B**, because it is *has been* + the past participle *repaired*."
+  },
+  {
+   "type": "p",
+   "text": "**In your writing**, a few passive sentences show a range of verb forms (Grammar and punctuation) and make non-fiction sound formal (Vocabulary and language). Use it where it fits, not in every sentence."
+  },
+  {
+   "type": "list",
+   "items": [
+    "News report: *Two children **were rescued** from the sea on Friday afternoon.*",
+    "Information text: *Papyrus **was made** from a plant that grows beside the Nile.*",
+    "Formal letter: *I **was told** that the library would be closed for a month.*",
+    "Mystery story: *The drawer **had been opened**, and the map was gone.*"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "نصيحة سريعة",
+   "items": [
+    "المبني للمجهول = فعل be + التصريف الثالث. لو مفيش be يبقى مش passive.",
+    "لو لقيت been بعد has أو have يبقى present perfect passive. لو was أو were بس يبقى simple past passive.",
+    "لما يسألك ليه الكاتب استخدم passive: يا إما الفاعل مش معروف، يا إما مش مهم، يا إما عشان الكلام يبقى رسمي، أو عشان يعمل غموض في القصة."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "8. Practice"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "Active or passive? *The letter was delivered this morning.*",
+     "a": "**Passive**: *was* + past participle *delivered*."
+    },
+    {
+     "q": "Which verb form is it? *Three new classrooms have been built.*",
+     "a": "**Present perfect passive** (*have been* + past participle)."
+    },
+    {
+     "q": "Which verb form is it? *The winners were chosen by the judges.*",
+     "a": "**Simple past passive** (*were* + past participle)."
+    },
+    {
+     "q": "Change to passive: *A strong wind knocked down the tree.*",
+     "a": "*The tree was knocked down by a strong wind.*"
+    },
+    {
+     "q": "Change to passive (no doer needed): *Someone has broken the window.*",
+     "a": "*The window has been broken.*"
+    },
+    {
+     "q": "Why does a news report say *A man has been rescued from the river* and not name the rescuers?",
+     "a": "The passive focuses on the man and the rescue, which is the important news; it also sounds formal and factual."
+    },
+    {
+     "q": "Change to active: *The museum was visited by two hundred pupils.*",
+     "a": "*Two hundred pupils visited the museum.*"
+    },
+    {
+     "q": "Correct the mistake: *The new shops was opened last week.*",
+     "a": "*The new shops **were** opened last week.* (*shops* is plural)"
+    },
+    {
+     "q": "Change to passive: *They will serve lunch at one o'clock.*",
+     "a": "*Lunch will be served at one o'clock.*"
+    },
+    {
+     "q": "Is this sentence passive? *The sky was very dark.* Explain.",
+     "a": "**No.** *dark* is an adjective, not a past participle, and nothing is being done to the sky."
+    }
+   ]
+  }
+ ],
+ "nav": "Active and Passive"
+}

@@ -1,0 +1,542 @@
+{
+ "slug": "checkpoint-6-tenses",
+ "title": "Tenses: Choosing and Using the Right Verb Form",
+ "kicker": "Checkpoint 6 · Grammar in Use",
+ "summary": "The main English tenses, past simple and past progressive in stories, present perfect or past simple, irregular verbs and how to keep your tense the same all the way through.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "1. What is a tense?"
+  },
+  {
+   "type": "p",
+   "text": "A **tense** is the form of a verb that shows **when** something happens: in the **past**, the **present** or the **future**. Choosing the right tense, and keeping it the same, is one of the easiest ways to make your writing clear and correct."
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Words you need to know",
+   "items": [
+    "**Base form**: the verb with nothing added: *go, eat, play*.",
+    "**Past participle** (3rd form): *gone, eaten, played*. Used after *have/has/had* and in the passive.",
+    "**Auxiliary (helping) verb**: *be, have, do, will, can...* used with the main verb.",
+    "**Progressive** (also called continuous): a form with *be + -ing* (*is running, was running*).",
+    "**Perfect**: a form with *have/has/had + past participle* (*has finished, had finished*)."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "2. The main tenses"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Tense",
+    "Form",
+    "Example",
+    "Use it for",
+    "Signal words"
+   ],
+   "rows": [
+    [
+     "Present simple",
+     "base form (+s with he/she/it)",
+     "She walks to school.",
+     "habits, routines, facts",
+     "every day, always, usually, often"
+    ],
+    [
+     "Present progressive",
+     "am/is/are + -ing",
+     "She is walking to school now.",
+     "actions happening now / temporary situations",
+     "now, at the moment, today, this week"
+    ],
+    [
+     "Past simple",
+     "-ed or irregular past",
+     "She walked to school yesterday.",
+     "finished actions at a known past time",
+     "yesterday, last week, in 2020, ago"
+    ],
+    [
+     "Past progressive",
+     "was/were + -ing",
+     "She was walking to school when it started to rain.",
+     "an action in progress in the past, often interrupted by a shorter action",
+     "while, when, at 8 o'clock last night"
+    ],
+    [
+     "Present perfect",
+     "has/have + past participle",
+     "She has walked to school every day this term.",
+     "past actions connected to now / experiences / recent actions / unfinished time",
+     "ever, never, just, already, yet, since, for"
+    ],
+    [
+     "Past perfect",
+     "had + past participle",
+     "She had already left when I phoned.",
+     "an action that happened **before** another past action",
+     "already, before, by the time"
+    ],
+    [
+     "Future",
+     "will + base form / am/is/are going to + base form",
+     "She will walk. / She is going to walk.",
+     "predictions, promises, plans",
+     "tomorrow, next week, soon"
+    ],
+    [
+     "Present perfect progressive",
+     "has/have been + -ing",
+     "She has been walking for an hour.",
+     "an action that started in the past and is still going on",
+     "for, since, all day"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Questions and negatives",
+   "items": [
+    "Present simple: *Do you **like** maths? / He **doesn't like** maths.* (after *do/does*, use the base form)",
+    "Past simple: *Did you **see** the match? / I **didn't see** it.* (after *did*, use the base form, not the past form)",
+    "Present perfect: *Have you **finished**? / I **haven't finished** yet.*"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "3. Past simple and past progressive together"
+  },
+  {
+   "type": "p",
+   "text": "In stories (Paper 2) you will use these two tenses all the time. The **past progressive** sets the scene or shows a longer action; the **past simple** shows the short action that happens in the middle of it."
+  },
+  {
+   "type": "list",
+   "items": [
+    "*I **was reading** in bed when the lights **went** out.* (long action + short interrupting action)",
+    "*While we **were eating** dinner, the phone **rang**.*",
+    "*The sun **was shining** and the birds **were singing**.* (setting the scene)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "While or when?",
+   "text": "Use **while** before the long action (past progressive) and **when** before the short action (past simple): *While I was walking, I saw a fox.* / *I was walking when I saw a fox.*"
+  },
+  {
+   "type": "h2",
+   "text": "4. Present perfect or past simple?"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Present perfect",
+    "Past simple"
+   ],
+   "rows": [
+    [
+     "No finished time: *I **have visited** Luxor.* (at some time in my life)",
+     "Finished time is given: *I **visited** Luxor **last summer**.*"
+    ],
+    [
+     "Result now: *I **have lost** my key.* (I still can't find it)",
+     "Just the past event: *I **lost** my key yesterday, but I found it.*"
+    ],
+    [
+     "Unfinished time: *We **have lived** here **since** 2019 / **for** five years.*",
+     "Finished time: *We **lived** in Giza **for** five years.* (we don't now)"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Since or for?",
+   "text": "Use **since** with a starting point (*since Monday, since 2020, since I was six*). Use **for** with a length of time (*for two days, for a long time, for ten minutes*)."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Never mix them",
+   "text": "Do not use the present perfect with a finished time word: *I have seen him yesterday* ✗ → *I saw him yesterday* ✓"
+  },
+  {
+   "type": "h2",
+   "text": "5. The past perfect: the earlier past"
+  },
+  {
+   "type": "p",
+   "text": "When you are already writing in the past and you need to go **further back**, use **had + past participle**. It helps the reader understand the order of events, especially in stories with a flashback."
+  },
+  {
+   "type": "list",
+   "items": [
+    "*When we reached the station, the train **had** already **left**.* (the train left first)",
+    "*Sami was nervous because he **had** never **flown** before.*",
+    "*By the time the firefighters arrived, the neighbours **had put** out the fire.*"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "6. Spelling the -ed and -ing forms"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Verb ends in...",
+    "Rule",
+    "Examples"
+   ],
+   "rows": [
+    [
+     "most verbs",
+     "add -ed / -ing",
+     "walk → walked, walking"
+    ],
+    [
+     "-e",
+     "add -d / drop the e before -ing",
+     "smile → smiled, smiling"
+    ],
+    [
+     "one vowel + one consonant (short verbs)",
+     "double the last letter",
+     "stop → stopped, stopping / plan → planned, planning"
+    ],
+    [
+     "consonant + -y",
+     "change y to i before -ed; keep y before -ing",
+     "carry → carried, carrying / try → tried, trying"
+    ],
+    [
+     "vowel + -y",
+     "just add -ed",
+     "play → played / enjoy → enjoyed"
+    ],
+    [
+     "-ie",
+     "change ie to y before -ing",
+     "lie → lying / die → dying"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "7. Irregular verbs you must spell correctly"
+  },
+  {
+   "type": "p",
+   "text": "Irregular verbs do not take **-ed**. You have to learn them. These are the ones Year 6 students use (and misspell) most often."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Base",
+    "Past simple",
+    "Past participle",
+    "Base",
+    "Past simple",
+    "Past participle"
+   ],
+   "rows": [
+    [
+     "be",
+     "was / were",
+     "been",
+     "go",
+     "went",
+     "gone"
+    ],
+    [
+     "begin",
+     "began",
+     "begun",
+     "know",
+     "knew",
+     "known"
+    ],
+    [
+     "break",
+     "broke",
+     "broken",
+     "ride",
+     "rode",
+     "ridden"
+    ],
+    [
+     "bring",
+     "brought",
+     "brought",
+     "run",
+     "ran",
+     "run"
+    ],
+    [
+     "buy",
+     "bought",
+     "bought",
+     "see",
+     "saw",
+     "seen"
+    ],
+    [
+     "catch",
+     "caught",
+     "caught",
+     "sing",
+     "sang",
+     "sung"
+    ],
+    [
+     "choose",
+     "chose",
+     "chosen",
+     "speak",
+     "spoke",
+     "spoken"
+    ],
+    [
+     "do",
+     "did",
+     "done",
+     "steal",
+     "stole",
+     "stolen"
+    ],
+    [
+     "drink",
+     "drank",
+     "drunk",
+     "swim",
+     "swam",
+     "swum"
+    ],
+    [
+     "eat",
+     "ate",
+     "eaten",
+     "take",
+     "took",
+     "taken"
+    ],
+    [
+     "fall",
+     "fell",
+     "fallen",
+     "teach",
+     "taught",
+     "taught"
+    ],
+    [
+     "fly",
+     "flew",
+     "flown",
+     "throw",
+     "threw",
+     "thrown"
+    ],
+    [
+     "forget",
+     "forgot",
+     "forgotten",
+     "wear",
+     "wore",
+     "worn"
+    ],
+    [
+     "give",
+     "gave",
+     "given",
+     "write",
+     "wrote",
+     "written"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Brought or bought?",
+   "text": "**brought** comes from *bring* (carry something with you). **bought** comes from *buy* (pay for something). *I **bought** a cake and **brought** it to school.*"
+  },
+  {
+   "type": "h2",
+   "text": "8. Keep your tense consistent"
+  },
+  {
+   "type": "p",
+   "text": "Choose one main tense for your writing and **stay in it**. Changing tense by mistake is one of the most common errors in Year 6 writing."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Text type",
+    "Main tense"
+   ],
+   "rows": [
+    [
+     "Stories, recounts, diaries, biographies, news reports",
+     "**Past** (past simple + past progressive; past perfect for earlier events)"
+    ],
+    [
+     "Information texts (non-chronological reports), reviews, persuasive texts",
+     "**Present** (present simple for facts and opinions)"
+    ],
+    [
+     "Instructions",
+     "**Imperative** (bossy) verbs: *Mix, Cut, Turn*"
+    ],
+    [
+     "Plans, predictions, promises in letters and leaflets",
+     "**Future** (*will / going to*) where you talk about what is coming"
+    ]
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Wrong (tense changes)",
+    "Right"
+   ],
+   "rows": [
+    [
+     "*We arrived at the beach and Dad sets up the umbrella.*",
+     "*We arrived at the beach and Dad set up the umbrella.*"
+    ],
+    [
+     "*Suddenly the door opens and a man walked in.*",
+     "*Suddenly the door opened and a man walked in.*"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Changing tense on purpose is fine",
+   "text": "Speech inside a story can be in any tense: *“I **am** so hungry,” Laila **said**.* The speech is present, the story is past. A news report can also end with the future: *The bridge **will reopen** next month.*"
+  },
+  {
+   "type": "h2",
+   "text": "9. Common mistakes"
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Watch out for these",
+   "items": [
+    "*He didn't went* ✗ → *He didn't **go*** ✓ (base form after *did*)",
+    "*Did you saw it?* ✗ → *Did you **see** it?* ✓",
+    "*I was go to school* ✗ → *I **went** / I **was going*** ✓",
+    "*She don't like it* ✗ → *She **doesn't** like it* ✓",
+    "*I have seen him yesterday* ✗ → *I **saw** him yesterday* ✓",
+    "*I have lived here since five years* ✗ → *I have lived here **for** five years* ✓",
+    "*He has went* ✗ → *He **has gone*** ✓ (past participle after *has*)"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "10. How Checkpoint asks about it"
+  },
+  {
+   "type": "p",
+   "text": "**In the reading section**, a question can point to a verb in the text and ask you to name its **verb form**, or ask you to find a verb in a certain form. You may also be asked **why** the writer chose a tense."
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Reading questions in this style",
+   "items": [
+    "*Tick one box to show the verb form of the highlighted verb.* (for example: past progressive / present perfect / past simple)",
+    "*Find and copy a verb in the past progressive from paragraph 2.*",
+    "*Why is the information text written in the present tense?* → Because it gives facts that are true now.",
+    "*Why does the writer use the past progressive at the start of the story?* → To set the scene and show what was already happening before the main event."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Worked example (tick-one style)",
+   "text": "*Text: ...Nour **was climbing** the last few steps when she heard a strange noise.* Which verb form is the highlighted verb? **A** past simple **B** past progressive **C** present perfect **D** present progressive. **Answer: B**, because it is *was* + *-ing*."
+  },
+  {
+   "type": "p",
+   "text": "**In the writing section**, tenses are marked in **Grammar and punctuation** (7 marks). The examiner wants a **consistent** main tense and a **range** of verb forms used correctly. A story that mixes the past simple, past progressive and past perfect correctly shows you are working at a high level."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Set the scene with the past progressive: *Rain was falling and the wind was howling.*",
+    "Show an earlier event with the past perfect: *Nobody had opened that door for years.*",
+    "In a letter or report, use the present perfect for recent news: *The school has started a new reading club.*"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "نصيحة سريعة",
+   "items": [
+    "أول ما تبدأ تكتب، قرر: القصة دي ماضي ولا مضارع؟ وفضل عليه لحد الآخر.",
+    "بعد did و didn't و does و doesn't الفعل يرجع لأصله: didn't go مش didn't went.",
+    "لو فيه كلمة زي yesterday أو last week أو ago يبقى past simple، مش has/have."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "11. Practice"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "Complete: *While I ______ (walk) home, I ______ (find) a wallet.*",
+     "a": "*While I **was walking** home, I **found** a wallet.* (past progressive + past simple)"
+    },
+    {
+     "q": "Complete: *I ______ (never / see) snow.*",
+     "a": "*I **have never seen** snow.* (present perfect: life experience)"
+    },
+    {
+     "q": "Correct the mistake: *We have gone to Alexandria last summer.*",
+     "a": "*We **went** to Alexandria last summer.* (finished time → past simple)"
+    },
+    {
+     "q": "Complete: *By the time we arrived, the film ______ (start).*",
+     "a": "*the film **had started**.* (past perfect: it happened before we arrived)"
+    },
+    {
+     "q": "Which tense? *They are planting trees in the park this week.*",
+     "a": "**Present progressive** (am/is/are + -ing)."
+    },
+    {
+     "q": "Correct the mistake: *Did you brought your football?*",
+     "a": "*Did you **bring** your football?* (base form after *did*)"
+    },
+    {
+     "q": "Choose *since* or *for*: *My grandparents have lived in Aswan ______ 1985.*",
+     "a": "**since** (1985 is a starting point)."
+    },
+    {
+     "q": "Write the past simple and past participle of *choose* and *throw*.",
+     "a": "*choose → chose → chosen*; *throw → threw → thrown*."
+    },
+    {
+     "q": "Find the tense mistake and correct it: *The crowd cheered as the runners cross the finish line.*",
+     "a": "*cross* → ***crossed***. The sentence is in the past, so both verbs must be past."
+    },
+    {
+     "q": "Why might a story begin: *The wind was howling and the waves were crashing against the rocks*?",
+     "a": "The past progressive sets the scene: it shows what was already happening, which builds atmosphere before the main event."
+    }
+   ]
+  }
+ ],
+ "nav": "Tenses"
+}
