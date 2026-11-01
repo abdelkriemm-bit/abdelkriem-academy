@@ -18,29 +18,26 @@
  "sections": [
   {
    "title": "Start here",
-   "desc": "",
    "pages": [
     "cp8m-overview"
    ]
   },
   {
    "title": "Number",
-   "desc": "",
    "pages": [
-    "cp8m-order-of-operations-integers",
     "cp8m-factors-primes",
-    "cp8m-number-types-indices",
+    "cp8m-order-of-operations-integers",
     "cp8m-squares-cubes-roots",
+    "cp8m-number-types-indices",
     "cp8m-place-value-significant-figures",
+    "cp8m-decimals",
     "cp8m-fractions",
     "cp8m-percentages",
-    "cp8m-decimals",
     "cp8m-ratio-proportion"
    ]
   },
   {
    "title": "Algebra",
-   "desc": "",
    "pages": [
     "cp8m-expressions",
     "cp8m-formulae",
@@ -51,33 +48,30 @@
    ]
   },
   {
-   "title": "Geometry and measure",
-   "desc": "",
+   "title": "Geometry and Measure",
    "pages": [
-    "cp8m-quadrilaterals-polygons",
-    "cp8m-circles-units",
-    "cp8m-area",
-    "cp8m-3d-shapes",
-    "cp8m-volume-surface-area",
     "cp8m-angles",
     "cp8m-constructions",
+    "cp8m-quadrilaterals-polygons",
+    "cp8m-circles-units",
+    "cp8m-3d-shapes",
     "cp8m-bearings-midpoints",
-    "cp8m-transformations"
+    "cp8m-transformations",
+    "cp8m-area",
+    "cp8m-volume-surface-area"
    ]
   },
   {
-   "title": "Statistics and probability",
-   "desc": "",
+   "title": "Statistics and Probability",
    "pages": [
     "cp8m-data-collection",
+    "cp8m-probability",
     "cp8m-representing-data",
-    "cp8m-comparing-distributions",
-    "cp8m-probability"
+    "cp8m-comparing-distributions"
    ]
   },
   {
    "title": "Practice tests",
-   "desc": "End-of-Stage-8 tests in Checkpoint style: Paper 1 (no calculator) and Paper 2 (calculator), 1 hour and 50 marks each.",
    "pages": [
     "cp8m-practice-test-1",
     "cp8m-practice-test-2",

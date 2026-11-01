@@ -18,41 +18,42 @@
  "sections": [
   {
    "title": "Start here",
-   "desc": "",
    "pages": [
-    "cp8s-overview",
+    "cp8s-overview"
+   ]
+  },
+  {
+   "title": "Thinking and Working Scientifically",
+   "pages": [
     "cp8s-working-scientifically"
    ]
   },
   {
    "title": "Biology",
-   "desc": "",
    "pages": [
-    "cp8s-skeleton-muscles",
-    "cp8s-blood",
     "cp8s-breathing-gas-exchange",
-    "cp8s-diet-health",
     "cp8s-respiration",
-    "cp8s-ecosystems"
+    "cp8s-blood",
+    "cp8s-ecosystems",
+    "cp8s-diet-health",
+    "cp8s-skeleton-muscles"
    ]
   },
   {
    "title": "Chemistry",
-   "desc": "",
    "pages": [
-    "cp8s-atoms",
     "cp8s-purity-concentration-chromatography",
+    "cp8s-products-solubility",
+    "cp8s-atoms",
     "cp8s-word-equations-energy",
-    "cp8s-reactivity-of-metals",
-    "cp8s-products-solubility"
+    "cp8s-reactivity-of-metals"
    ]
   },
   {
    "title": "Physics",
-   "desc": "",
    "pages": [
-    "cp8s-speed-graphs",
     "cp8s-forces-moments",
+    "cp8s-speed-graphs",
     "cp8s-pressure-diffusion",
     "cp8s-reflection-refraction",
     "cp8s-colour",
@@ -60,17 +61,15 @@
    ]
   },
   {
-   "title": "Earth and space",
-   "desc": "",
+   "title": "Earth and Space",
    "pages": [
-    "cp8s-earth-resources",
     "cp8s-climate",
-    "cp8s-galaxies-asteroids"
+    "cp8s-galaxies-asteroids",
+    "cp8s-earth-resources"
    ]
   },
   {
    "title": "Practice tests",
-   "desc": "End-of-Stage-8 tests in Checkpoint style: Paper 1 and Paper 2, 45 minutes and 50 marks each.",
    "pages": [
     "cp8s-practice-test-1",
     "cp8s-practice-test-2",

@@ -18,15 +18,18 @@
  "sections": [
   {
    "title": "Start here",
-   "desc": "",
    "pages": [
-    "cp6s-overview",
+    "cp6s-overview"
+   ]
+  },
+  {
+   "title": "Thinking and Working Scientifically",
+   "pages": [
     "cp6s-working-scientifically"
    ]
   },
   {
    "title": "Biology",
-   "desc": "",
    "pages": [
     "cp6s-circulatory-system",
     "cp6s-respiratory-system",
@@ -37,7 +40,6 @@
   },
   {
    "title": "Chemistry",
-   "desc": "",
    "pages": [
     "cp6s-properties-of-substances",
     "cp6s-reversible-changes-dissolving",
@@ -47,28 +49,25 @@
   },
   {
    "title": "Physics",
-   "desc": "",
    "pages": [
     "cp6s-mass-weight-gravity",
     "cp6s-forces-motion",
     "cp6s-floating-sinking",
-    "cp6s-light",
-    "cp6s-circuits"
+    "cp6s-circuits",
+    "cp6s-light"
    ]
   },
   {
-   "title": "Earth and space",
-   "desc": "",
+   "title": "Earth and Space",
    "pages": [
     "cp6s-rocks-fossils",
-    "cp6s-soil",
     "cp6s-rock-cycle",
+    "cp6s-soil",
     "cp6s-solar-system-moon"
    ]
   },
   {
    "title": "Practice tests",
-   "desc": "Full Checkpoint-style tests: Paper 1 and Paper 2, 35 minutes and 40 marks each.",
    "pages": [
     "cp6s-practice-test-1",
     "cp6s-practice-test-2",

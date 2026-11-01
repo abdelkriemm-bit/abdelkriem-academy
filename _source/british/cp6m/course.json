@@ -18,65 +18,54 @@
  "sections": [
   {
    "title": "Start here",
-   "desc": "How the Checkpoint Maths test works and how to use this course.",
    "pages": [
     "cp6m-overview"
    ]
   },
   {
-   "title": "Number: integers and calculation",
-   "desc": "Negative numbers, sequences, the four operations, factors, squares and cubes.",
-   "pages": [
-    "cp6m-negative-numbers",
-    "cp6m-sequences",
-    "cp6m-order-of-operations",
-    "cp6m-multiplication",
-    "cp6m-division",
-    "cp6m-factors-multiples",
-    "cp6m-square-cube-numbers"
-   ]
-  },
-  {
-   "title": "Number: place value, decimals, fractions, percentages and ratio",
-   "desc": "",
+   "title": "Number",
    "pages": [
     "cp6m-place-value-decimals",
     "cp6m-rounding",
+    "cp6m-negative-numbers",
+    "cp6m-sequences",
+    "cp6m-square-cube-numbers",
+    "cp6m-factors-multiples",
     "cp6m-fractions",
-    "cp6m-adding-subtracting-fractions",
-    "cp6m-multiplying-dividing-fractions",
     "cp6m-fractions-decimals-percentages",
     "cp6m-calculating-with-decimals",
-    "cp6m-ratio-proportion"
+    "cp6m-adding-subtracting-fractions",
+    "cp6m-multiplication",
+    "cp6m-division",
+    "cp6m-ratio-proportion",
+    "cp6m-multiplying-dividing-fractions",
+    "cp6m-order-of-operations"
    ]
   },
   {
-   "title": "Geometry and measure",
-   "desc": "",
+   "title": "Geometry and Measure",
    "pages": [
-    "cp6m-time",
     "cp6m-quadrilaterals",
     "cp6m-circles",
-    "cp6m-angles",
     "cp6m-area-triangles",
+    "cp6m-time",
     "cp6m-3d-shapes-nets",
     "cp6m-capacity-volume-surface-area",
+    "cp6m-angles",
     "cp6m-coordinates",
     "cp6m-symmetry-transformations"
    ]
   },
   {
-   "title": "Statistics and probability",
-   "desc": "",
+   "title": "Statistics and Probability",
    "pages": [
-    "cp6m-data",
     "cp6m-averages",
-    "cp6m-probability"
+    "cp6m-probability",
+    "cp6m-data"
    ]
   },
   {
    "title": "Practice tests",
-   "desc": "Full Checkpoint-style tests: Paper 1 (no calculator) and Paper 2 (calculator), 45 minutes and 40 marks each.",
    "pages": [
     "cp6m-practice-test-1",
     "cp6m-practice-test-2",
