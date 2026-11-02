@@ -26,7 +26,13 @@ BAC_CSS = """<style>
 .unit .sec{margin:12px 0 4px}
 .unit ul{margin:0 0 6px;padding-left:20px;color:var(--muted)}
 .unit .rv{color:#a3342b;font-weight:600;margin:8px 0 0}
-@media (max-width:760px){.topics{grid-template-columns:1fr}.skhead{flex-wrap:wrap}}
+.ltiles{list-style:none;padding:0;margin:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:12px}
+.ltiles a,.ltiles .soonl{display:flex;flex-direction:column;justify-content:center;min-height:96px;height:100%;box-sizing:border-box;border:2px solid #e6e0d4;border-radius:16px;padding:14px 16px;background:#fff;text-decoration:none;color:var(--navy);font-family:Inter,sans-serif;transition:transform .15s,border-color .15s}
+.ltiles a:hover{transform:translateY(-2px);border-color:var(--gold)}
+.ltiles .ln{display:block;color:#7f5c1c;font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;margin-bottom:.3rem}
+.ltiles b{font-size:1.05rem;line-height:1.3}
+.ltiles .soonl{opacity:.6}.ltiles .soonl i{font-style:normal;font-size:.8rem;color:var(--muted);margin-top:4px;font-family:Cairo,sans-serif}
+@media (max-width:760px){.topics{grid-template-columns:1fr}.skhead{flex-wrap:wrap}.ltiles{grid-template-columns:repeat(2,1fr);gap:10px}.ltiles a{min-height:88px;padding:12px}.ltiles b{font-size:.95rem}}
 </style>"""
 
 BAC_SKILLS = [
@@ -134,17 +140,25 @@ try:
 except FileNotFoundError:
     pass
 
-def _topic_li(key, t, u):
+import re as _bacre
+def _short(t):
+    t = t.replace("The Lost World · ", "")
+    if t.startswith("The Lost World — "): t = "The Lost World"
+    t = _bacre.split(r"\s+\(|:\s+(?!A |Pro|The |Into|Trap|Mal|Pris|Bat|Proof)| — | \+ | with justification", t)[0] if not t.startswith("Chapter") and not t.startswith("Literary") else t
+    if t.startswith("Literary Extract"): t = "Literary Extract"
+    return t.strip()
+
+def _topic_li(key, t, u, n):
     s = _BAC_SLUG.get((key, t.replace("&amp;", "&")))
-    inner = f'<span class="tt">{t}</span><span class="u">{u}</span>'
-    return f'<li dir="ltr" class="ready"><a href="{s}.html">{inner}</a></li>' if s else f'<li dir="ltr">{inner}</li>'
+    inner = f'<small class="ln">Lesson {n}</small><b>{_short(t)}</b>'
+    return f'<li><a href="{s}.html">{inner}</a></li>' if s else f'<li><span class="soonl">{inner}<i>قريبًا</i></span></li>'
 
 def _skills():
     out = ""
     for i, (key, title, sub, topics) in enumerate(BAC_SKILLS, 1):
-        items = "".join(_topic_li(key, t, u) for t, u in topics)
-        out += f'''<section id="{key}" class="skill"><div class="skhead"><span class="num">{i}</span><div><h2 dir="ltr">{title}</h2><p>{sub}</p></div><span class="count" dir="ltr">{len(topics)} topics</span></div>
-<ul class="topics" dir="ltr">{items}</ul>{'<p class="howto" style="margin:0">دوس على أي Topic عشان تفتح الشرح بالعربي والتدريبات.</p>' if any((key, t.replace("&amp;", "&")) in _BAC_SLUG for t, _ in topics) else '<span class="soon">الشرح والتدريبات قريبًا</span>'}</section>'''
+        items = "".join(_topic_li(key, t, u, n) for n, (t, u) in enumerate(topics, 1))
+        out += f'''<section id="{key}" class="skill"><div class="skhead"><span class="num">{i}</span><div><h2 dir="ltr">{title}</h2><p>{sub}</p></div><span class="count" dir="ltr">{len(topics)} lessons</span></div>
+<ul class="ltiles" dir="ltr">{items}</ul></section>'''
     return out
 
 def _units():
@@ -162,7 +176,7 @@ bac2 = BAC_CSS + '''<section class="phead"><div class="wrap"><p class="kicker">�
 <p class="lead">المنهج كتابين فيهم 10 Units، وكل Unit فيها Section A وSection B وأربع دروس. قسّمنا لك المنهج كله على 7 مهارات، وكل مهارة فيها التوبكس اللي محتاج تذاكرها.</p></div></section>''' + f'''
 <section class="block"><div class="wrap">
 {_skill_nav()}
-<div class="howto"><p><b>إزاي تذاكر:</b> اختار المهارة، وذاكر التوبكس بالترتيب. الحروف اللي جنب كل Topic (U1, U2…) بتقولك هو في أنهي Unit في الكتاب.</p></div>
+<div class="howto"><p><b>إزاي تذاكر:</b> اختار المهارة، وبعدين ادخل على الدروس بالترتيب: Lesson 1 ثم Lesson 2 وهكذا. جوه كل درس هتلاقي الشرح بالعربي والإنجليزي والتدريبات.</p></div>
 <div class="howto official"><p><b>كتب الوزارة الرسمية (PDF من موقع الوزارة):</b></p>
 <ul>
 <li><a href="https://egyptianbaccalaureate.blob.core.windows.net/egyptianbaccalaureate/Eng-L1-EB-Part1.pdf" target="_blank" rel="noopener" dir="ltr">English — Part 1 (Units 1–5)</a></li>
