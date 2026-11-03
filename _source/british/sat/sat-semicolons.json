@@ -1,0 +1,554 @@
+{
+ "slug": "sat-semicolons",
+ "nav": "Semicolons",
+ "title": "Semicolons: Joining Two Complete Sentences",
+ "kicker": "American Diploma · Digital SAT · Grammar: Boundaries",
+ "summary": "When a semicolon is allowed (two independent clauses, and the SAT/ACT list rule), how it works with however and therefore, and every place it is wrong — with 10 practice questions.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Semicolon questions are part of the **Boundaries** skill in the **Standard English Conventions** domain (about 26% of the scored Reading and Writing questions, 11–15 questions). The skill covers punctuation that links clauses and separates list items — and the semicolon does both. It is also one of the favorite **wrong** answers: test writers put it in the choices because it looks “advanced.”"
+  },
+  {
+   "type": "p",
+   "text": "You get a short passage (25–150 words) with a blank and the stem **“Which choice completes the text so that it conforms to the conventions of Standard English?”** Typical choices: “rock, it” / “rock; it” / “rock it” / “rock; and it.” You must know exactly when a semicolon is allowed — and it is allowed in only **two** situations."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الفاصلة المنقوطة = نقطة",
+   "text": "الفاصلة المنقوطة (;) شغلتها الأساسية إنها توصل بين جملتين كاملتين بينهم علاقة. الاختبار السهل: لو ينفع تحط نقطة (.) مكانها والجزئين يفضلوا جمل كاملة، يبقى الفاصلة المنقوطة صح. لو أي جزء مش جملة كاملة، يبقى غلط."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 1: A semicolon joins two independent clauses"
+  },
+  {
+   "type": "p",
+   "text": "**The teacher's rule:** a semicolon joins **two independent clauses** (two complete sentences) that are closely related. Both sides must be able to stand alone as sentences."
+  },
+  {
+   "type": "p",
+   "text": "**The period test:** replace the semicolon with a period. If both parts are still complete sentences, the semicolon is correct. If either part becomes a fragment, the semicolon is wrong."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ Marble is a metamorphic rock; it forms when limestone is exposed to great heat and pressure.",
+    "✓ Some desert plants store water in their thick leaves; others store it in underground stems.",
+    "✓ The museum was full by ten o'clock; visitors had been waiting since dawn.",
+    "✓ The experiment failed twice; the third attempt succeeded.",
+    "✗ Because the road was closed; the bus took a longer route. (left side is a dependent clause)",
+    "✗ The volunteers worked through the night; because the water was rising. (right side is a dependent clause)",
+    "✗ The team collected samples from forty sites; making it the largest survey of its kind. (right side is a phrase)",
+    "✗ The tour visited three cities; Luxor, Aswan, and Cairo. (right side is a list, not a clause — use a colon)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Watch for hidden subjects",
+   "text": "A clause that starts with a pronoun is still independent: “it forms …,” “others store …,” “this means …,” “they left …”. These pronoun starts are where comma splices hide, and a semicolon fixes them."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 2: Semicolon + conjunctive adverb"
+  },
+  {
+   "type": "p",
+   "text": "Words like **however, therefore, as a result, for example, in fact, instead, consequently, moreover, meanwhile** are not FANBOYS. They cannot join two clauses with only a comma. When one of them begins the second independent clause, use a **semicolon before** it and a **comma after** it (or a period)."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ The bridge was too narrow for modern trucks; therefore, the city built a wider one beside it.",
+    "✓ The bridge was too narrow for modern trucks. Therefore, the city built a wider one.",
+    "✗ The bridge was too narrow for modern trucks, therefore, the city built a wider one. (comma splice)",
+    "✗ The bridge was too narrow for modern trucks therefore, the city built a wider one. (run-on)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**But** when the adverb sits **inside** one clause, it is an interrupter and takes a pair of commas — no semicolon: “The second trial, however, was cancelled.” To decide, check what comes **before** the adverb: a complete sentence (→ semicolon) or just a subject (→ commas)."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ The first trial was a success; however, the second was cancelled. (complete sentence before “however”)",
+    "✓ The second trial, however, was cancelled. (only the subject before “however”)",
+    "✗ The second trial; however, was cancelled. (“The second trial” is not a sentence)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Rule 3: No semicolon with FANBOYS between two clauses"
+  },
+  {
+   "type": "p",
+   "text": "A semicolon already does the joining. When you join two independent clauses with **for, and, nor, but, or, yet, so**, the test's standard choice is a **comma** before the FANBOYS word."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ The road was closed, and the bus took a longer route.",
+    "✓ The road was closed; the bus took a longer route.",
+    "✗ The road was closed; and the bus took a longer route. (choose “, and” or “;” — not both)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Rule 4: The places a semicolon can never go"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Never use a semicolon …",
+    "✗ Example"
+   ],
+   "rows": [
+    [
+     "after an introductory dependent clause or phrase",
+     "Although the bridge was finished in May; it did not open until October."
+    ],
+    [
+     "before a dependent clause (because, which, although, when, who …)",
+     "The team won; because it trained harder."
+    ],
+    [
+     "before a phrase or a list that is not a clause",
+     "The kit had three tools; a compass, a whistle, and a lamp."
+    ],
+    [
+     "before examples (such as, including, like)",
+     "Many dishes; such as koshari and ful, use beans."
+    ],
+    [
+     "between a subject and its verb, or a verb and its object",
+     "The students in the club; built a robot."
+    ],
+    [
+     "inside a clause before an interrupter",
+     "The final results; however, were different."
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "SAT/ACT extra rule — semicolons in a complicated list",
+   "items": [
+    "This is an exam rule for the SAT and the ACT. It is the ONLY other use of the semicolon you need for these tests.",
+    "When the items in a list **already contain commas**, use semicolons between the items, so the reader can see where each item ends.",
+    "✓ The tour visits three cities: Luxor, Egypt; Amman, Jordan; and Tunis, Tunisia.",
+    "✓ The panel included Dr. Salma Adel, a geologist; Dr. Youssef Amin, a chemist; and Dr. Rana Farid, an engineer.",
+    "✗ The tour visits three cities: Luxor, Egypt, Amman, Jordan, and Tunis, Tunisia. (How many cities? It is impossible to tell.)",
+    "Be consistent: if one break between items is a semicolon, every break between items is a semicolon — including before the final “and.” The commas INSIDE each item stay commas.",
+    "This is the one case where “; and” is correct."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Semicolon or something else? Comparing the marks"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Left side",
+    "Right side",
+    "Semicolon?",
+    "Use instead"
+   ],
+   "rows": [
+    [
+     "Complete sentence",
+     "Complete sentence",
+     "✓ Yes",
+     "or a period, or “, and/but/so …”"
+    ],
+    [
+     "Complete sentence",
+     "List, word or phrase",
+     "✗ No",
+     "a colon (list/explanation) or a single dash (emphasis)"
+    ],
+    [
+     "Complete sentence",
+     "Dependent clause (because …)",
+     "✗ No",
+     "usually no mark"
+    ],
+    [
+     "Dependent clause / phrase",
+     "Complete sentence",
+     "✗ No",
+     "a comma"
+    ],
+    [
+     "List items that contain commas",
+     "—",
+     "✓ Yes (SAT/ACT extra rule)",
+     "—"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**A semicolon does not change the meaning.** It only shows that two complete, related sentences are joined. The relationship between them — addition, result, example, or difference — comes from the **words** (however, therefore, for example, instead), never from the semicolon itself. So when you choose a semicolon, ask a grammar question (complete + complete?), not a meaning question."
+  },
+  {
+   "type": "p",
+   "text": "**If two choices both look correct** — for example a period and a semicolon in the same place — they cannot both be the key. Look for a second difference: a missing comma after “however,” an extra “and,” or a word that turns a clause into a fragment."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "قاعدة القوائم (خاصة بـ SAT و ACT)",
+   "text": "لو كل عنصر في القائمة جواه فاصلة (زي Luxor, Egypt أو Dr. Salma Adel, a geologist)، نفصل بين العناصر بـ ; ونخلي الفواصل اللي جوه العنصر زي ما هي. ولازم نكون ثابتين: كل الفواصل بين العناصر تبقى ; حتى اللي قبل and الأخيرة."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — two independent clauses**"
+  },
+  {
+   "type": "p",
+   "text": "Text: Plants that live in very dry places have developed different ways of surviving long periods without rain. Some desert plants store water in their thick, fleshy leaves ______ store it in large underground stems that stay cool below the sand."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text so that it conforms to the conventions of Standard English?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) leaves, others",
+    "B) leaves; others",
+    "C) leaves others",
+    "D) leaves: others,"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: Both sides are independent clauses (“others store it …” is complete), so a comma alone makes a comma splice.",
+    "B) ✓ Correct: A semicolon joins two closely related independent clauses. Period test: “Some desert plants store water in their thick, fleshy leaves. Others store it …” ✓",
+    "C) ✗ Wrong: No punctuation between two independent clauses is a run-on.",
+    "D) ✗ Wrong: The comma after “others” separates the subject from its verb “store.”"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — conjunctive adverb**"
+  },
+  {
+   "type": "p",
+   "text": "Text: The old iron bridge over the canal was built for horse carts, not heavy vehicles. It was too narrow for modern trucks ______ the city built a wider bridge beside it in 2010."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text so that it conforms to the conventions of Standard English?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) , therefore,",
+    "B) ; therefore,",
+    "C) therefore",
+    "D) , therefore"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: “Therefore” is not a FANBOYS word, so a comma before it creates a comma splice.",
+    "B) ✓ Correct: “It was too narrow for modern trucks” and “the city built …” are both complete; a semicolon before “therefore” and a comma after it is the standard pattern.",
+    "C) ✗ Wrong: With no punctuation, two independent clauses run together.",
+    "D) ✗ Wrong: Comma splice, and the comma after “therefore” is missing too."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — SAT/ACT extra rule**"
+  },
+  {
+   "type": "p",
+   "text": "Text: An international conference for young scientists is held in a different city every year. Over the next three years, the conference will visit Luxor, Egypt ______ Amman, Jordan; and Tunis, Tunisia."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text so that it conforms to the conventions of Standard English?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) Egypt,",
+    "B) Egypt:",
+    "C) Egypt",
+    "D) Egypt;"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: D**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: Each item already contains a comma (“Luxor, Egypt”), and the text later uses “Jordan; and,” so this break must also be a semicolon. A comma makes the list confusing and inconsistent.",
+    "B) ✗ Wrong: A colon cannot be placed in the middle of a list.",
+    "C) ✗ Wrong: With no mark, “Egypt Amman” runs two items together.",
+    "D) ✓ Correct: Semicolons separate list items that contain commas, and this choice is consistent with “Jordan; and Tunis.”"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4 — when the semicolon is the trap**"
+  },
+  {
+   "type": "p",
+   "text": "Text: Scientists recorded water temperatures every week for ten years. They collected samples from forty different sites along the coast ______ the largest survey of its kind in the region."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text so that it conforms to the conventions of Standard English?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) coast; making it",
+    "B) coast, making it",
+    "C) coast. Making it",
+    "D) coast; and making it"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: The right side (“making it the largest survey …”) is a participle phrase, not a clause, so a semicolon is wrong.",
+    "B) ✓ Correct: A comma attaches the participle phrase to the complete sentence before it.",
+    "C) ✗ Wrong: The period leaves “Making it the largest survey of its kind in the region.” as a fragment.",
+    "D) ✗ Wrong: A semicolon + “and” before a phrase: two errors."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**Semicolon after an introduction:** “Although …; it …”.",
+    "**Semicolon before a dependent clause or phrase:** “; because …”, “; which …”, “; making …”, “; such as …”.",
+    "**Semicolon before a list:** “three tools; a compass …” — a list after a complete sentence needs a colon.",
+    "**Semicolon + FANBOYS** between two clauses: “; and the …” (only correct in the SAT/ACT list rule).",
+    "**Comma splice with however/therefore:** “…, however, the …” between two complete sentences.",
+    "**Inconsistent list:** semicolons between some items and commas between others.",
+    "**Thinking a semicolon carries meaning:** it never “shows” anything; the words do."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Do the period test: could a period go where the semicolon is, with complete sentences on both sides? Yes → semicolon allowed. No → cross it out.",
+    "Before however/therefore: complete sentence on the left → “; however,”. Only a subject → “, however,”.",
+    "See commas inside list items? Use semicolons between all the items.",
+    "If a period and a semicolon both seem right, find the second difference in the choices."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Ten original Digital SAT-style questions. Do the period test on every semicolon you see."
+  },
+  {
+   "type": "test",
+   "title": "Semicolons — Practice Quiz",
+   "timed": false,
+   "intro": "10 questions · untimed. Before choosing a semicolon, check that both sides are complete sentences — or that you have a list whose items contain commas.",
+   "sections": [
+    {
+     "name": "Quiz",
+     "minutes": 13,
+     "questions": [
+      {
+       "p": "Many famous buildings, from the Taj Mahal to ancient Roman temples, are made of the same beautiful stone. Marble is a metamorphic rock ______ forms when limestone is exposed to great heat and pressure deep underground.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "rock, it",
+        "rock; it",
+        "rock it",
+        "rock; and it"
+       ],
+       "a": 1,
+       "e": "Both sides are independent clauses, and the semicolon joins them. A is a comma splice, C is a run-on, and D uses a semicolon together with “and.”",
+       "s": "Boundaries (semicolons)"
+      },
+      {
+       "p": "Coins appeared in Egypt only late in its ancient history. For most of the pharaonic period, the ancient Egyptians did not use coins at all ______ they traded goods directly or measured value in weights of copper and grain.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        ", instead,",
+        ", instead",
+        "instead,",
+        "; instead,"
+       ],
+       "a": 3,
+       "e": "“Instead” begins the second independent clause, so it needs a semicolon before it and a comma after it. A and B are comma splices; C is a run-on.",
+       "s": "Boundaries (semicolons)"
+      },
+      {
+       "p": "A new national program will fund research on water use in agriculture. The selection panel included Dr. Salma Adel, a geologist ______ Dr. Youssef Amin, a chemist; and Dr. Rana Farid, an engineer who designs irrigation systems.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "geologist;",
+        "geologist,",
+        "geologist:",
+        "geologist"
+       ],
+       "a": 0,
+       "e": "SAT/ACT extra rule: the list items already contain commas, and the text uses a semicolon later (“chemist; and”), so every break between items must be a semicolon. B is confusing and inconsistent; C puts a colon inside a list; D runs two items together.",
+       "s": "Boundaries (semicolons)"
+      },
+      {
+       "p": "Heavy rain upstream caused the river to rise very quickly on Thursday evening. In a small village near the river, volunteers filled sandbags and worked through the night ______ the flood water had reached the edge of the village.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "night; because",
+        "night: because",
+        "night because",
+        "night. Because"
+       ],
+       "a": 2,
+       "e": "“Because the flood water had reached …” is a dependent clause, so it attaches to the main clause with no punctuation. A semicolon (A) and a colon (B) cannot come before a dependent clause, and D leaves “Because …” as a fragment.",
+       "s": "Boundaries (semicolons)"
+      },
+      {
+       "p": "Building the new bridge took longer than the engineers had planned. Although the bridge was finished in May ______ did not open to traffic until October, after months of safety tests.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "May; it",
+        "May: it",
+        "May. It",
+        "May, it"
+       ],
+       "a": 3,
+       "e": "An introductory dependent clause (“Although …”) is followed by a comma. A and B need a complete sentence before the mark, and C leaves “Although the bridge was finished in May.” as a fragment.",
+       "s": "Boundaries (semicolons)"
+      },
+      {
+       "p": "The museum's collection begins with objects from the earliest farming villages in Egypt. Its oldest object is a small clay jar ______ more than six thousand years old.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "jar; more",
+        "jar; being more",
+        "jar, more",
+        "jar; and more"
+       ],
+       "a": 2,
+       "e": "“More than six thousand years old” is a phrase that adds information about the jar, so a comma attaches it. A, B and D all put a semicolon before a phrase that is not an independent clause.",
+       "s": "Boundaries (semicolons)"
+      },
+      {
+       "p": "In 1783, two French brothers tested a large hot-air balloon in front of a crowd at the palace of Versailles. It was the first balloon flight to carry living passengers ______ passengers were a sheep, a duck, and a rooster.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "passengers; the",
+        "passengers, the",
+        "passengers the",
+        "passengers, and, the"
+       ],
+       "a": 0,
+       "e": "Both sides are independent clauses, so a semicolon joins them. B is a comma splice, C is a run-on, and D adds a wrong comma after “and.”",
+       "s": "Boundaries (semicolons)"
+      },
+      {
+       "p": "The engineers ran two trials of the new irrigation pump in the desert. The first trial was a complete success. The second trial ______ was cancelled because of a sandstorm.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "; however,",
+        ", however,",
+        "however;",
+        "; however"
+       ],
+       "a": 1,
+       "e": "“However” interrupts the clause “The second trial was cancelled,” so it takes a pair of commas. A, C and D use a semicolon, but “The second trial” is not a complete sentence.",
+       "s": "Boundaries (semicolons)"
+      },
+      {
+       "p": "A travel company has planned a three-week river tour for next winter. The boat will stop in Aswan, Egypt; Wadi Halfa, Sudan ______ Khartoum, Sudan.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        ", and",
+        ": and",
+        "; and",
+        "and"
+       ],
+       "a": 2,
+       "e": "SAT/ACT extra rule: the items contain commas, and the first break is already a semicolon, so the break before the last item must be “; and.” A is inconsistent, B puts a colon inside a list, and D runs the items together.",
+       "s": "Boundaries (semicolons)"
+      },
+      {
+       "p": "The hiking club gives every new member a small emergency kit. The kit contains three tools ______ a compass, a whistle, and a flashlight.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "tools; a",
+        "tools, these are a",
+        "tools a",
+        "tools: a"
+       ],
+       "a": 3,
+       "e": "A complete sentence that promises “three tools” is followed by the list, so a colon is correct. A puts a semicolon before a list (not a clause), B is a comma splice, and C has no mark to introduce the list.",
+       "s": "Boundaries (semicolons)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "A semicolon joins two closely related complete sentences — the period test.",
+    "SAT/ACT extra rule: semicolons separate list items that already contain commas; be consistent, including “; and” before the last item.",
+    "“; however,” between two sentences; “, however,” inside one sentence.",
+    "Never before a dependent clause, a phrase, a list or examples; never after an introduction.",
+    "A semicolon never shows meaning by itself; the words do."
+   ]
+  }
+ ]
+}

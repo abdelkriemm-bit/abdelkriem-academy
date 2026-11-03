@@ -1,0 +1,519 @@
+{
+ "slug": "sat-dashes",
+ "nav": "Dashes",
+ "title": "Dashes — and Choosing Between , ; : —",
+ "kicker": "American Diploma · Digital SAT · Grammar: Boundaries",
+ "summary": "A pair of dashes for extra information, a single dash for emphasis or a sudden break, and a four-step method for choosing between commas, semicolons, colons and dashes — with 10 practice questions.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Dash questions are part of the **Boundaries** skill in the **Standard English Conventions** domain (about 26% of the scored Reading and Writing questions, 11–15 questions). Dashes set off supplements (extra information) and can link a final idea to a sentence, so they appear both as correct answers and as traps."
+  },
+  {
+   "type": "p",
+   "text": "The stem is the usual one: **“Which choice completes the text so that it conforms to the conventions of Standard English?”** You will often see four choices with four different marks — “island,” / “island—” / “island;” / “island” — so this lesson also teaches a complete method for choosing between **, ; : —** when two of them look possible."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "عدّ الشُرَط الأول",
+   "text": "أول ما تشوف شرطة (—) في السؤال، عدّها: لو اتنين يبقى بينهم معلومة إضافية، ولازم الشرطة تتقفل بشرطة زيها مش بفاصلة. لو شرطة واحدة، يبقى للتأكيد على اللي بعدها أو لقطع مفاجئ في الكلام."
+  },
+  {
+   "type": "h2",
+   "text": "Use 1: A pair of dashes = extra information"
+  },
+  {
+   "type": "p",
+   "text": "Two dashes work exactly like a pair of commas or a pair of brackets: they set off **extra (non-essential) information**. The pair must **match**: dash … dash. Remove the words between the dashes and the sentence must still be complete."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ The novel's narrator—a retired lighthouse keeper—tells the story through letters.",
+    "✗ The novel's narrator—a retired lighthouse keeper, tells the story through letters. (dash … comma)",
+    "✗ The novel's narrator, a retired lighthouse keeper—tells the story through letters. (comma … dash)",
+    "✗ The novel's narrator—a retired lighthouse keeper tells the story through letters. (pair never closed)",
+    "Removal test: “The novel's narrator tells the story through letters.” ✓"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Why writers choose dashes:** when the extra information already contains commas, a pair of commas around it would be confusing. Dashes show clearly where the extra part starts and ends."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ The three founding members—Salma, Youssef, and Nour—still meet every Friday.",
+    "✗ The three founding members, Salma, Youssef, and Nour, still meet every Friday. (Is it three people or six? Confusing.)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "If the extra information comes at the **end** of the sentence, one dash opens it and the period closes it: “The prize went to the youngest team—three students from Minya.”"
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Look both ways",
+   "text": "When the blank is at the end of some extra information, look back: did it open with a dash? Then close with a dash. When the blank is at the start, look forward: is there a dash later in the sentence that closes something? Then open with a dash."
+  },
+  {
+   "type": "h2",
+   "text": "Use 2: A single dash = emphasis or a sudden break"
+  },
+  {
+   "type": "p",
+   "text": "**The teacher's rule:** one dash is used to give **emphasis** to what follows it (usually at the end of a sentence), or to show a **sudden break or interruption** — for example, when someone is cut off in the middle of speaking."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ After months of testing, the engineers finally found the cause of the failure—a single loose screw. (emphasis)",
+    "✓ The rare tortoise was seen in the reserve for the first time in decades—a sign that the protection program was working. (emphasis on the final idea)",
+    "✓ “I think the answer is—” Laila began, but the bell rang. (interruption in speech)",
+    "✓ We had planned everything perfectly—or so we thought. (sudden break)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "For emphasis, the part **before** the single dash must be a complete sentence — exactly as with a colon. A dash for emphasis is not a way to join any two words."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ The engineers found—the cause of the failure. (splits a verb from its object)",
+    "✗ The problem was—a single loose screw. (splits a linking verb from its complement)",
+    "✗ The students in the robotics club—won first prize. (splits a subject from its verb)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "A dash is not a “strong comma”",
+   "text": "If there is no extra information to set off, no final idea to emphasize and no sudden break, the dash is wrong. On the SAT, a single dash between a subject and its verb, or between a verb and its object, is always an error."
+  },
+  {
+   "type": "h2",
+   "text": "Choosing between , ; : — when two look correct"
+  },
+  {
+   "type": "p",
+   "text": "Use this method for any question where the choices show different marks in the same place."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Count the marks already in the sentence.** Is there an opening comma, dash or bracket before the blank, or a closing one after it? Then the blank must match it. This decides many questions immediately.",
+    "**Read the left side of the blank.** Is it a complete sentence? If NO → ; and : and a single emphasis dash are all wrong. You need a comma (after an introduction or to close a pair) or nothing.",
+    "**Read the right side.** Is it a complete sentence too? If YES → a comma alone is wrong (comma splice). You need ; or . or , + FANBOYS — or : or — if the second part explains or emphasizes the first.",
+    "**If the right side is NOT a sentence** (a list, a word, a phrase) → ; is wrong. Use : or a single — after a complete sentence, or a comma if it is a descriptive phrase.",
+    "**Still two choices?** They cannot both be correct. Find a second difference: an extra comma, a missing word, “and” after a semicolon, a closing mark that does not match."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Left side",
+    "Right side",
+    "Allowed",
+    "Not allowed"
+   ],
+   "rows": [
+    [
+     "Complete sentence",
+     "Complete sentence",
+     ". or ; or , + FANBOYS; : or — if the 2nd explains / emphasizes",
+     ", alone (comma splice) / nothing (run-on)"
+    ],
+    [
+     "Complete sentence",
+     "List, word or phrase that explains or is emphasized",
+     ": or a single —",
+     "; (right side is not a clause)"
+    ],
+    [
+     "Complete sentence",
+     "Descriptive phrase at the end (extra information)",
+     ", or — (or a bracket)",
+     ";"
+    ],
+    [
+     "Dependent clause / introductory phrase",
+     "Complete sentence",
+     ",",
+     "; : . —"
+    ],
+    [
+     "Start of extra information",
+     "—",
+     "the same mark that closes it",
+     "a different mark"
+    ],
+    [
+     "Subject",
+     "Its verb",
+     "nothing",
+     "any single mark"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Colon and dash can both be right",
+   "text": "After a complete sentence, a colon and a single dash can both introduce a final phrase. Because both are correct, the test normally offers only one of them. If you see both, check the rest of each choice for another error — it will be there."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "طريقة الاختيار بين , ; : —",
+   "text": "1) لو فيه علامة فتحت معلومة إضافية قبل الفراغ، اقفلها بنفس العلامة. 2) لو اللي قبل الفراغ مش جملة كاملة، شيل ; و : و الشرطة الواحدة. 3) لو الجزئين جمل كاملة، الفاصلة لوحدها غلط. 4) لو اللي بعد الفراغ مش جملة، الفاصلة المنقوطة غلط."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — closing a dash pair**"
+  },
+  {
+   "type": "p",
+   "text": "Text: Musicians across North Africa and the Middle East learn the same instrument as their teachers did. The oud—a pear-shaped string instrument played across the Arab world for centuries ______ has no frets, so players can slide easily between notes."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text so that it conforms to the conventions of Standard English?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) centuries,",
+    "B) centuries",
+    "C) centuries—",
+    "D) centuries;"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: The extra information opened with a dash after “oud,” so it must close with a dash; dash … comma is a mismatched pair.",
+    "B) ✗ Wrong: With no closing mark, the reader cannot see where the description ends and the verb “has” begins.",
+    "C) ✓ Correct: A dash closes the pair. Removal test: “The oud has no frets, so players can slide easily between notes.” ✓",
+    "D) ✗ Wrong: A semicolon needs a complete sentence before it; “The oud—a pear-shaped string instrument …” has no verb."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — single dash for emphasis**"
+  },
+  {
+   "type": "p",
+   "text": "Text: A new electric train kept stopping without warning during factory tests, and nobody could explain why. After months of testing, the engineers finally found the cause of the failure ______ a single loose screw inside the motor."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text so that it conforms to the conventions of Standard English?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) failure;",
+    "B) failure, it was",
+    "C) failure—",
+    "D) failure, which"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: After a semicolon you need a complete sentence; “a single loose screw inside the motor” is only a phrase.",
+    "B) ✗ Wrong: “It was a single loose screw” is an independent clause joined with only a comma: comma splice.",
+    "C) ✓ Correct: The left side is complete, and the single dash gives emphasis to the surprising answer.",
+    "D) ✗ Wrong: “Which a single loose screw inside the motor” has no verb and makes no sense."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — dash between subject and verb**"
+  },
+  {
+   "type": "p",
+   "text": "Text: Teams from more than two hundred schools entered this year's national science fair. The students who designed the low-cost water filter ______ won first prize and a visit to a university laboratory."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text so that it conforms to the conventions of Standard English?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) filter—",
+    "B) filter",
+    "C) filter,",
+    "D) filter:"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: Trap: a single dash cannot separate the subject from its verb “won.” There is no extra information to set off.",
+    "B) ✓ Correct: The long subject “The students who designed the low-cost water filter” goes straight to its verb “won.” The who-clause is essential (which students?), so it takes no punctuation.",
+    "C) ✗ Wrong: Trap: the lonely comma between subject and verb.",
+    "D) ✗ Wrong: A colon needs a complete sentence before it."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4 — dash pair with commas inside**"
+  },
+  {
+   "type": "p",
+   "text": "Text: An expedition to study rock art in the Western Desert will set out next month. The expedition's three leaders ______ a geologist, a doctor, and a photographer—met in Cairo last week to plan the route."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text so that it conforms to the conventions of Standard English?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) leaders,",
+    "B) leaders:",
+    "C) leaders—",
+    "D) leaders"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: Trap: a comma cannot open a pair that closes with a dash after “photographer.” It would also make the list confusing.",
+    "B) ✗ Wrong: A colon needs a complete sentence before it, and “The expedition's three leaders” has no verb. The list is extra information inside the sentence, not after it.",
+    "C) ✓ Correct: The dash after “photographer” closes the extra information, so a dash must open it. Dashes are the clear choice because the list contains commas.",
+    "D) ✗ Wrong: With no opening mark, the extra information is never opened, and the sentence cannot be read correctly."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**The mixed pair:** extra information that opens with a dash and closes with a comma, or the reverse.",
+    "**The unclosed dash:** an opening dash with no closing dash in the middle of a sentence.",
+    "**The “style” dash:** a single dash between a subject and its verb or a verb and its object.",
+    "**A dash after an incomplete sentence:** “The problem was—a loose screw.”",
+    "**Semicolon instead of dash:** “; a sign that …” — a semicolon cannot introduce a phrase.",
+    "**Comma splice instead of dash or colon:** “…the failure, it was a loose screw.”"
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Count the dashes. Two = extra information (must match). One = emphasis or a sudden break.",
+    "Look for an opening or closing mark near the blank and match it.",
+    "Before a single emphasis dash: complete sentence? If not, cross it out.",
+    "Use the four-step method to choose between , ; : — and find the second difference if two choices remain."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Ten original Digital SAT-style questions on dashes and on choosing between , ; : —."
+  },
+  {
+   "type": "test",
+   "title": "Dashes — Practice Quiz",
+   "timed": false,
+   "intro": "10 questions · untimed. Count the dashes, match every pair, and test the left and right side of each blank.",
+   "sections": [
+    {
+     "name": "Quiz",
+     "minutes": 13,
+     "questions": [
+      {
+       "p": "The book has been translated into twelve languages since it was first published. The novel's narrator—a retired lighthouse keeper living alone on a rocky island ______ tells the story through a series of letters to his grandson.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "island,",
+        "island—",
+        "island;",
+        "island"
+       ],
+       "a": 1,
+       "e": "The extra information opens with a dash after “narrator,” so it must close with a dash. A mixes dash and comma, C puts a semicolon where no clause ends, and D leaves the pair unclosed.",
+       "s": "Boundaries (dashes)"
+      },
+      {
+       "p": "The Nile has shaped life in northeastern Africa for thousands of years. The Nile ______ which flows north through eleven countries before reaching the Mediterranean Sea—is one of the longest rivers in the world.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "Nile,",
+        "Nile (",
+        "Nile—",
+        "Nile"
+       ],
+       "a": 2,
+       "e": "The extra information closes with a dash after “Sea,” so it must open with a dash. A and B mix different marks; D has no opening mark at all.",
+       "s": "Boundaries (dashes)"
+      },
+      {
+       "p": "The Egyptian tortoise is one of the smallest tortoises in the world, and it is critically endangered. Last spring, rangers at a small nature reserve spotted a young tortoise of this species, which had not been seen there for decades ______ sign that conservation efforts may be working.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "decades—a",
+        "decades; a",
+        "decades a",
+        "decades. A"
+       ],
+       "a": 0,
+       "e": "The first part is complete, and the single dash gives emphasis to the final idea. B puts a semicolon before a phrase, C runs the phrase on with no mark, and D turns “A sign that …” into a fragment.",
+       "s": "Boundaries (dashes)"
+      },
+      {
+       "p": "A new electric train kept stopping during tests, and the factory's engineers searched for the cause for months. They finally discovered that the problem was ______ a single loose screw inside the motor.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "was—",
+        "was:",
+        "was,",
+        "was"
+       ],
+       "a": 3,
+       "e": "“The problem was” is not a complete sentence; the linking verb “was” must go straight to its complement “a single loose screw.” A, B and C all separate the verb from its complement.",
+       "s": "Boundaries (dashes)"
+      },
+      {
+       "p": "In the short story, Amir is trying to explain to his teacher why his project is late when the fire alarm suddenly rings and cuts him off in the middle of his sentence. “The reason my project is late is ______ he began, but no one could hear the rest.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "that—”",
+        "that.”",
+        "that;”",
+        "that,”"
+       ],
+       "a": 0,
+       "e": "A single dash shows that the speaker is interrupted in the middle of his sentence, which is exactly what the text describes. B and D punctuate the unfinished words as if Amir had completed his thought, and C puts a semicolon where no clause has ended.",
+       "s": "Boundaries (dashes)"
+      },
+      {
+       "p": "Founded by three friends in 1998, the Shorouk Book Club now has more than two hundred members. The club's three founding members ______ Salma, Youssef, and Nour—still meet every Friday to choose the next month's book.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "members—",
+        "members,",
+        "members:",
+        "members"
+       ],
+       "a": 0,
+       "e": "The extra information closes with a dash after “Nour,” so it must open with a dash; dashes also make a list with commas inside it easy to read. B mixes marks, C puts a colon after an incomplete sentence, and D never opens the pair.",
+       "s": "Boundaries (dashes)"
+      },
+      {
+       "p": "Students in a school science project grew bean plants of different sizes in the same soil. When they counted the seeds at the end of the season, the results surprised everyone ______ smallest plants had produced the most seeds.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "everyone, the",
+        "everyone the",
+        "everyone—the",
+        "everyone, and, the"
+       ],
+       "a": 2,
+       "e": "Both parts are complete, and the second part explains the surprising result, so a single dash (giving emphasis to the explanation) is correct. A is a comma splice, B is a run-on, and D adds an extra comma after “and.”",
+       "s": "Boundaries (dashes)"
+      },
+      {
+       "p": "The harbor in the old part of the city still has many of its nineteenth-century buildings. The old lighthouse at the edge of the harbor ______ has been turned into a small museum about the history of the port.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "harbor—",
+        "harbor,",
+        "harbor",
+        "harbor;"
+       ],
+       "a": 2,
+       "e": "“The old lighthouse at the edge of the harbor” is the subject, and it must go straight to its verb “has been turned.” A, B and D each put a single mark between the subject and its verb.",
+       "s": "Boundaries (dashes)"
+      },
+      {
+       "p": "For weeks, residents of an old building in Alexandria heard strange noises at night coming from the roof. The building's caretaker finally found the source of the noise ______ family of owls nesting inside an unused chimney.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "noise; a",
+        "noise, it was a",
+        "noise. A",
+        "noise—a"
+       ],
+       "a": 3,
+       "e": "The first part is complete, and the single dash introduces and emphasizes the surprising answer. A puts a semicolon before a phrase, B is a comma splice, and C leaves “A family of owls nesting …” as a fragment.",
+       "s": "Boundaries (dashes)"
+      },
+      {
+       "p": "In the 1960s, an international team took apart two great temples and rebuilt them on higher ground. Abu Simbel, a pair of temples carved into a mountainside ______ was moved to save it from the rising waters of Lake Nasser.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "mountainside—",
+        "mountainside,",
+        "mountainside",
+        "mountainside;"
+       ],
+       "a": 1,
+       "e": "The appositive opens with a comma after “Abu Simbel,” so it must close with a comma. A mixes a comma with a dash, C leaves the pair unclosed, and D puts a semicolon where no independent clause ends.",
+       "s": "Boundaries (dashes)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Pair of dashes = extra information; the pair must match (dash … dash).",
+    "Single dash = emphasis on what follows, or a sudden break / interruption.",
+    "Before an emphasis dash, the sentence must be complete; a dash never splits subject–verb or verb–object.",
+    "Choosing , ; : — : match any open pair, then test the left side and the right side of the blank.",
+    "If two choices look right, find the second difference — only one answer is ever correct."
+   ]
+  }
+ ]
+}

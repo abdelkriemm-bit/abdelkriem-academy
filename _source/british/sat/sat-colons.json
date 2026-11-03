@@ -1,0 +1,539 @@
+{
+ "slug": "sat-colons",
+ "nav": "Colons",
+ "title": "Colons: After a Complete Sentence",
+ "kicker": "American Diploma · Digital SAT · Grammar: Boundaries",
+ "summary": "When a colon is correct (after a complete sentence, for a list, an explanation, emphasis or extra information), where it is never allowed, and how it compares with dashes and semicolons — with 10 practice questions.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Colon questions are tested in the **Boundaries** skill of the **Standard English Conventions** domain (about 26% of the scored Reading and Writing questions, 11–15 questions). A colon can link two clauses or introduce a list or a supplement, so it appears in many boundary questions — sometimes as the key, very often as a trap placed right after a verb or after “such as.”"
+  },
+  {
+   "type": "p",
+   "text": "The format: a short passage (25–150 words) with a blank and the stem **“Which choice completes the text so that it conforms to the conventions of Standard English?”** The choices often show four marks in the same place — “ingredients;” / “ingredients:” / “ingredients,” / “ingredients” — and you must know exactly what a colon is allowed to do."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "النقطتين بعد جملة كاملة بس",
+   "text": "النقطتين (:) لازم قبلهم جملة كاملة تقدر تحط بعدها نقطة. بعدهم ممكن ييجي: قائمة، شرح، كلمة للتأكيد، أو معلومة زيادة. ممنوع تحطهم بعد فعل (were / includes) أو بعد حرف جر (for / of) أو بعد such as."
+  },
+  {
+   "type": "h2",
+   "text": "The rule: complete sentence first"
+  },
+  {
+   "type": "p",
+   "text": "**The teacher's rule:** a colon comes after a **complete sentence** (an independent clause) and introduces a **list, an explanation, emphasis or extra information** about what came before it."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Job",
+    "✓ Example"
+   ],
+   "rows": [
+    [
+     "List",
+     "The recipe needs only three ingredients: flour, water, and salt."
+    ],
+    [
+     "Explanation (a phrase)",
+     "The match was cancelled for one reason: a power cut."
+    ],
+    [
+     "Explanation (a full clause)",
+     "The results surprised the team: the smallest plants produced the most seeds."
+    ],
+    [
+     "Emphasis (often one word or name)",
+     "After weeks of debate, the committee chose the project's name: Horizon."
+    ],
+    [
+     "Extra information / a quotation",
+     "The guide gave us one piece of advice: carry more water than you think you need. / The sign gave one instruction: “Do not touch the paintings.”"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**The period test before every colon:** stop at the colon and read only the part before it. Could a period go there? If yes, the colon may be correct. If no, the colon is wrong — whatever comes after it."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "The colon is an arrow",
+   "text": "The first sentence makes a promise (“three ingredients,” “one reason,” “a simple conclusion,” “the following students”), and what comes after the colon delivers it. If nothing after the colon lists, explains or names what came before, the colon is not the right mark."
+  },
+  {
+   "type": "h2",
+   "text": "Where a colon is never allowed"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Never put a colon …",
+    "✗ Wrong",
+    "✓ Right"
+   ],
+   "rows": [
+    [
+     "after a verb (is, are, were, include, contains, needs)",
+     "The winners were: Hana, Omar, and Rana.",
+     "The winners were Hana, Omar, and Rana."
+    ],
+    [
+     "between a verb and its object",
+     "The recipe needs: flour, water, and salt.",
+     "The recipe needs three things: flour, water, and salt."
+    ],
+    [
+     "after a preposition (for, of, to, with, by, about)",
+     "The recipe calls for: dates, honey, and almonds.",
+     "The recipe calls for dates, honey, and almonds."
+    ],
+    [
+     "after such as / including / for example / like",
+     "Crops such as: rice and cotton grow in the delta.",
+     "Crops such as rice and cotton grow in the delta."
+    ],
+    [
+     "after an incomplete sentence or a dependent clause",
+     "Because the storm was coming: the ferry stayed in port.",
+     "Because the storm was coming, the ferry stayed in port."
+    ],
+    [
+     "inside a list, or twice in one sentence",
+     "The tour visits: Luxor: Aswan, and Cairo.",
+     "The tour visits three cities: Luxor, Aswan, and Cairo."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**How to make the left side complete:** add a noun that names what is coming — “three things,” “the following students,” “several events,” “one reason.” Words like **the following** and **as follows** are made for colons: “The rules are as follows: …” ✓."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ The festival includes: a poetry contest, a film night, and a book fair.",
+    "✓ The festival includes several events: a poetry contest, a film night, and a book fair.",
+    "✓ The festival includes a poetry contest, a film night, and a book fair. (no colon at all)",
+    "✗ The festival includes several events, including: a poetry contest … (never after “including”)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Colon between two complete sentences"
+  },
+  {
+   "type": "p",
+   "text": "A colon can join two independent clauses when the **second explains, proves or gives the result promised by the first**: “The researcher's conclusion was simple: the birds were following the river.” The second clause answers the question the first one raises (What was the conclusion? Why? What exactly?)."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ The village had a serious problem: its only well had dried up.",
+    "✓ The plan worked: within a year, the canal was full of fish again.",
+    "✗ The village had a serious problem, its only well had dried up. (comma splice)",
+    "✗ The village had a serious problem: because its only well had dried up. (dependent clause after the colon — no explanation sentence)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "If two complete sentences are only side by side (two parallel facts) and the choices also offer a semicolon or a period, those are the safer choices. The test will not offer a correct colon and a correct semicolon as two different answers — if both appear, one of the choices has another error."
+  },
+  {
+   "type": "h2",
+   "text": "Colon, dash or semicolon?"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "After a complete sentence comes …",
+    "Colon :",
+    "Single dash —",
+    "Semicolon ;"
+   ],
+   "rows": [
+    [
+     "a list",
+     "✓",
+     "✓ (less common)",
+     "✗"
+    ],
+    [
+     "one word or phrase (emphasis)",
+     "✓",
+     "✓",
+     "✗"
+    ],
+    [
+     "a complete sentence that explains the first",
+     "✓",
+     "✓",
+     "✓ (joins; does not explain)"
+    ],
+    [
+     "a dependent clause (because …)",
+     "✗",
+     "✗",
+     "✗"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Colons and single dashes overlap: both can introduce a final word or phrase that gets emphasis. Because both are correct, a question normally offers only one of them. If a colon and a dash both appear in the choices, the other words in those choices will decide."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "طريقة التأكد السريعة",
+   "text": "غطّي اللي بعد النقطتين واقرا اللي قبلهم: لو جملة كاملة (فيها فاعل وفعل والمعنى كامل) يبقى ممكن. لو بتخلص بفعل أو حرف جر أو such as يبقى غلط أكيد. ولو اللي بعدهم بيشرح أو بيعدد أو بيأكد اللي قبلهم، يبقى النقطتين في مكانهم الصح."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — colon after an incomplete clause**"
+  },
+  {
+   "type": "p",
+   "text": "Text: Members of a desert research expedition must carry everything they need for ten days, because there are no shops for hundreds of kilometers. The expedition's supply list included ______ water filters, solar lamps, and several kilograms of dried dates."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text so that it conforms to the conventions of Standard English?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) included:",
+    "B) included",
+    "C) included;",
+    "D) included—"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: “The expedition's supply list included” is not a complete sentence — the verb has no object. A colon cannot follow it.",
+    "B) ✓ Correct: No punctuation: the verb “included” goes straight to its object, the list.",
+    "C) ✗ Wrong: A semicolon needs complete sentences on both sides; neither side is one.",
+    "D) ✗ Wrong: A dash cannot separate a verb from its object."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — colon for an explanation**"
+  },
+  {
+   "type": "p",
+   "text": "Text: The bus drivers' strike had been expected to last for weeks. Instead, it ended after only two days for one simple reason ______ the city agreed to all of the drivers' demands."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text so that it conforms to the conventions of Standard English?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) reason; because",
+    "B) reason,",
+    "C) reason:",
+    "D) reason, which"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: A semicolon cannot come before a dependent clause, and the left side promises a reason that should be stated directly.",
+    "B) ✗ Wrong: A comma here joins two independent clauses: comma splice.",
+    "C) ✓ Correct: The left side is complete and promises “one simple reason”; the colon introduces the clause that gives it.",
+    "D) ✗ Wrong: “Which the city agreed to …” does not explain the reason and makes the sentence ungrammatical."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — the “such as” trap**"
+  },
+  {
+   "type": "p",
+   "text": "Text: Fertile soil and water from the river make the north of Egypt one of the country's richest farming regions. Several crops ______ rice, cotton, and wheat, are grown in large quantities in the Nile Delta."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text so that it conforms to the conventions of Standard English?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) , such as",
+    "B) such as:",
+    "C) , such as:",
+    "D) : such as"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: A**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✓ Correct: “Such as rice, cotton, and wheat” is extra information here, opened by a comma and closed by the comma after “wheat.” No colon is needed after “such as.”",
+    "B) ✗ Wrong: Never a colon after “such as,” and the extra information is closed by a comma but never opened.",
+    "C) ✗ Wrong: Opening comma ✓, but a colon after “such as” is never allowed.",
+    "D) ✗ Wrong: A colon after “Several crops” — not a complete sentence."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4 — colon for emphasis**"
+  },
+  {
+   "type": "p",
+   "text": "Text: The small engineering team had worked in a borrowed garage for three years, often without pay. Last month, they finally had what they had been working toward ______ a working prototype of their water-cleaning machine."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text so that it conforms to the conventions of Standard English?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) toward; a",
+    "B) toward, it was a",
+    "C) toward a",
+    "D) toward: a"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: D**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: A semicolon needs a complete sentence after it; “a working prototype …” is a phrase.",
+    "B) ✗ Wrong: “It was a working prototype” is an independent clause joined by only a comma: comma splice.",
+    "C) ✗ Wrong: With no mark, “what they had been working toward a working prototype” runs together and becomes confusing.",
+    "D) ✓ Correct: The left side is complete, and the colon introduces the phrase that names what they achieved — emphasis."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**Colon after a verb:** “The winners were:” / “The kit includes:” / “The list included:”.",
+    "**Colon after a preposition:** “calls for:” / “consists of:” / “made of:”.",
+    "**Colon after “such as,” “including,” “for example,” “like.”**",
+    "**Colon after a dependent clause:** “Because …:” — the left side must be complete.",
+    "**Semicolon where a colon belongs:** before a list or a single phrase.",
+    "**Comma splice where a colon belongs:** “for one reason, the city agreed …”."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Period test: cover the right side; is the left side a complete sentence? If not, cross out every colon choice.",
+    "Does the left side end with a verb, a preposition or “such as”? Colon is wrong.",
+    "Does the left side promise something (three things, one reason, the following)? A colon is likely correct.",
+    "After a colon: list, explanation, emphasis or extra information — never a dependent clause on its own."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Ten original Digital SAT-style questions on colons. Read the left side of the blank first."
+  },
+  {
+   "type": "test",
+   "title": "Colons — Practice Quiz",
+   "timed": false,
+   "intro": "10 questions · untimed. Use the period test on the part before every colon.",
+   "sections": [
+    {
+     "name": "Quiz",
+     "minutes": 13,
+     "questions": [
+      {
+       "p": "Beans and lentils have been a main part of the Egyptian diet for thousands of years. Many traditional Egyptian dishes ______ ful medames, koshari, and ta'meya, rely heavily on these cheap and healthy ingredients.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "such as:",
+        ", such as:",
+        "; such as",
+        ", such as"
+       ],
+       "a": 3,
+       "e": "“Such as ful medames, koshari, and ta'meya” is extra information, opened by a comma and closed by the comma after “ta'meya.” A colon never follows “such as” (A, B), and a semicolon cannot introduce examples (C).",
+       "s": "Boundaries (colons)"
+      },
+      {
+       "p": "A popular cooking channel recently showed viewers how to bake bread at home without any special equipment. According to the chef, the basic recipe calls for only three ingredients ______ flour, water, and salt.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "ingredients;",
+        "ingredients, these are",
+        "ingredients:",
+        "ingredients"
+       ],
+       "a": 2,
+       "e": "The first part is a complete sentence that promises “three ingredients,” and the colon introduces the list. A puts a semicolon before a list; B is a comma splice; D gives no mark to introduce the list.",
+       "s": "Boundaries (colons)"
+      },
+      {
+       "p": "The school's after-school clubs were very popular this term, and a survey asked students to name the activities they enjoyed most. The students' three favorite activities were ______ painting, robotics, and debate.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "were",
+        "were:",
+        "were;",
+        "were—"
+       ],
+       "a": 0,
+       "e": "“The students' three favorite activities were” is not a complete sentence; the verb needs its complement. No mark can come between “were” and the list.",
+       "s": "Boundaries (colons)"
+      },
+      {
+       "p": "Scientists tracked a group of migrating birds for three years using tiny GPS tags. Many had expected the birds to fly along the Red Sea coast. The researchers' conclusion, however, was simple ______ the birds were following the Nile, not the coastline.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "simple:",
+        "simple,",
+        "simple",
+        "simple; that"
+       ],
+       "a": 0,
+       "e": "The first part is a complete sentence, and the second clause explains what the conclusion was, so a colon is correct. B is a comma splice, C is a run-on, and D puts a dependent “that” clause after a semicolon.",
+       "s": "Boundaries (colons)"
+      },
+      {
+       "p": "The city's new science center needed a name that would appeal to young visitors. After weeks of debate and a vote by local students, the committee finally announced the center's new name ______ Horizon.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "name;",
+        "name:",
+        "name, it was",
+        "name was"
+       ],
+       "a": 1,
+       "e": "The first part is complete, and the colon gives emphasis to the single word that follows. A puts a semicolon before one word, C is a comma splice, and D gives the sentence two main verbs (“announced … was”).",
+       "s": "Boundaries (colons)"
+      },
+      {
+       "p": "The national reading competition ended last Friday with a ceremony at the Cairo Opera House. The judges awarded first prizes to the following students ______ Hana Sami, Omar Fathy, and Rana Ezz.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "students;",
+        "students",
+        "students:",
+        "students, they were"
+       ],
+       "a": 2,
+       "e": "“The following students” makes the left side complete and promises a list, so a colon introduces the names. A puts a semicolon before a list, B runs the list into the sentence with no mark, and D is a comma splice.",
+       "s": "Boundaries (colons)"
+      },
+      {
+       "p": "Ramadan desserts vary from family to family, but some recipes are shared across the country. One popular recipe calls for ______ dates, honey, and roasted almonds.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "for:",
+        "for;",
+        "for—",
+        "for"
+       ],
+       "a": 3,
+       "e": "“For” is a preposition, and nothing may separate it from its objects “dates, honey, and roasted almonds.” A, B and C all put a mark after the preposition.",
+       "s": "Boundaries (colons)"
+      },
+      {
+       "p": "The new gallery displays paintings that are more than a century old, some of them very fragile. At the entrance, a sign gives visitors one clear instruction ______ “Do not touch the paintings.”",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "instruction:",
+        "instruction;",
+        "instruction",
+        "instruction, it says"
+       ],
+       "a": 0,
+       "e": "The left side is a complete sentence that promises “one clear instruction,” and the colon introduces it. B puts a semicolon before a quotation that is not joined as a clause, C has no mark at all, and D is a comma splice.",
+       "s": "Boundaries (colons)"
+      },
+      {
+       "p": "The town's spring festival has grown every year since it began. This year the festival includes several events ______ a poetry contest, a film night, and a large book fair.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "events, including:",
+        "events:",
+        "events; including",
+        "events including:"
+       ],
+       "a": 1,
+       "e": "“This year the festival includes several events” is complete, so a colon can introduce the list. A and D put a colon after “including,” and C puts a semicolon before a phrase.",
+       "s": "Boundaries (colons)"
+      },
+      {
+       "p": "Farmers in the region changed their planting calendar last year. They did so for a simple reason ______ rains had begun to arrive about three weeks later than in the past.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "reason, the",
+        "reason the",
+        "reason: the",
+        "reason; that the"
+       ],
+       "a": 2,
+       "e": "The left side is complete and promises “a simple reason”; the colon introduces the clause that gives it. A is a comma splice, B is a run-on, and D puts a dependent “that” clause after a semicolon.",
+       "s": "Boundaries (colons)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Colon = complete sentence first, then a list, an explanation, emphasis or extra information.",
+    "Period test: the part before the colon must be able to end with a period.",
+    "Never after a verb, a preposition, “such as,” “including” or “for example.”",
+    "Words like “the following,” “three things,” “one reason” make the left side complete.",
+    "Only one colon per sentence; never inside a list."
+   ]
+  }
+ ]
+}

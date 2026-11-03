@@ -1,0 +1,642 @@
+{
+ "slug": "sat-commas-intro-lists",
+ "nav": "Commas",
+ "title": "Commas: Introductions, Lists, Adjectives — and When NOT to Use One",
+ "kicker": "American Diploma · Digital SAT · Grammar: Boundaries",
+ "summary": "Commas after introductions, between list items and coordinate adjectives, before FANBOYS — plus every place a comma is forbidden, with 10 practice questions.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Comma questions belong to the **Boundaries** skill in the **Standard English Conventions** domain (about 26% of the scored Reading and Writing questions, 11–15 questions in total). The College Board describes this skill as punctuation at the end of sentences and inside them: linking clauses, separating **list items**, setting off supplements, and knowing when **no punctuation** is needed — for example, never between a subject and its verb."
+  },
+  {
+   "type": "p",
+   "text": "The question is always the same: a short passage (25–150 words) with a blank and the stem **“Which choice completes the text so that it conforms to the conventions of Standard English?”** This lesson covers the four comma jobs that are not about extra information — introductions, lists, adjectives and FANBOYS — and then the most important list of all: the places where a comma is **never** allowed. (Commas in pairs around extra information have their own lesson: Extra Information.)"
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الفاصلة مش نَفَس",
+   "text": "ما تحطش فاصلة لمجرد إنك بتاخد نفس وانت بتقرا. الفاصلة ليها شغلانات محددة: بعد المقدمة، بين عناصر القائمة، بين صفتين متساويتين، وقبل and/but لما توصل جملتين كاملتين. أي مكان تاني غالبًا غلط."
+  },
+  {
+   "type": "h2",
+   "text": "Job 1: After an introductory word, phrase or clause"
+  },
+  {
+   "type": "p",
+   "text": "When something comes **before** the main clause (the subject and its verb), put a comma after it. This tells the reader where the main sentence begins."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Type of introduction",
+    "✓ Example"
+   ],
+   "rows": [
+    [
+     "Dependent clause (because, when, although, if, after, since, while …)",
+     "✓ Because the road was flooded, the bus took a different route."
+    ],
+    [
+     "Long prepositional phrase",
+     "✓ After three years of careful restoration work, the old station reopened."
+    ],
+    [
+     "Participle phrase (-ing / -ed)",
+     "✓ Opened in 1869, the Suez Canal shortened the trip from Europe to Asia. / ✓ Hoping to save water, the farmers changed their schedule."
+    ],
+    [
+     "Infinitive phrase (purpose)",
+     "✓ To reduce costs, the factory switched to solar power."
+    ],
+    [
+     "Transition word or phrase",
+     "✓ However, the results were not final. / ✓ For example, Siwa grows dates and olives."
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ Because the road was flooded; the bus took a different route. (a semicolon needs a complete sentence on both sides)",
+    "✗ Because the road was flooded. The bus took a different route. (the first part is a fragment)",
+    "✗ Because the road, was flooded the bus took a different route. (the comma is inside the introduction, between its subject and verb)",
+    "✗ Although the road was flooded, but the bus arrived on time. (although + but: two linking words for one join)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**The reverse order:** when the dependent clause comes **after** the main clause, you normally need **no** comma: “The bus took a different route **because** the road was flooded.” A very short introduction (“In 2015 the museum reopened”) may take a comma or not; the test will not make you choose on that alone."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Find where the main clause starts",
+   "text": "Look for the subject of the main sentence (often “the …” or a name) followed by its verb. The comma goes immediately before that subject — never after it."
+  },
+  {
+   "type": "h2",
+   "text": "Job 2: Before FANBOYS joining two complete sentences"
+  },
+  {
+   "type": "p",
+   "text": "FANBOYS = **for, and, nor, but, or, yet, so**. When one of them joins two independent clauses, put a comma **before** it, never after it. (The full rules for joining clauses are on the Sentence Boundaries page.)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ The road was closed, but the bus found another route.",
+    "✗ The road was closed but, the bus found another route. (comma after the FANBOYS word)",
+    "✗ The road was closed, the bus found another route. (comma splice — the FANBOYS word is missing)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Job 3: Between items in a list"
+  },
+  {
+   "type": "p",
+   "text": "Separate **three or more** items with commas. The comma before the final “and” or “or” is called the **serial comma** (Oxford comma). Using it is always safe."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ The kit contains a compass, a flashlight, and a first-aid manual.",
+    "✓ Over the weekend, the volunteers planted trees, cleaned the canal banks, and painted the school. (the items can be verb phrases)",
+    "✓ Two items only: “a compass and a flashlight” — no comma.",
+    "✗ The kit contains a compass a flashlight, and a first-aid manual. (comma missing between the first two items)",
+    "✗ The kit contains, a compass, a flashlight, and a first-aid manual. (comma between the verb and its object)",
+    "✗ A compass, a flashlight, and a manual, are in the kit. (comma after the last item splits the subject from the verb)",
+    "✗ Spices such as, cumin, coriander, and cardamom are used. (no comma right after “such as”)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "When the items themselves already contain commas (“Luxor, Egypt”), the items are separated by semicolons — a special SAT/ACT rule taught in the Semicolons lesson."
+  },
+  {
+   "type": "h2",
+   "text": "Job 4: Between coordinate adjectives"
+  },
+  {
+   "type": "p",
+   "text": "Two adjectives before a noun are **coordinate** when each one describes the noun separately and equally. Coordinate adjectives take a comma between them. **Cumulative** adjectives build on each other (the first one describes the second adjective + noun together) and take **no** comma."
+  },
+  {
+   "type": "p",
+   "text": "**Two quick tests** — if both work naturally, use a comma:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Swap test:** change the order. “a steep, long climb” still sounds natural → coordinate.",
+    "**“And” test:** put “and” between them. “a long and steep climb” sounds natural → coordinate."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Phrase",
+    "Swap / “and” test",
+    "Comma?"
+   ],
+   "rows": [
+    [
+     "a long, difficult journey",
+     "“a difficult and long journey” ✓",
+     "Yes ✓"
+    ],
+    [
+     "a cold, windy morning",
+     "“a windy and cold morning” ✓",
+     "Yes ✓"
+    ],
+    [
+     "a small wooden chest",
+     "“a wooden and small chest” ✗",
+     "No ✓"
+    ],
+    [
+     "three large stone statues",
+     "“large and three stone statues” ✗",
+     "No ✓"
+    ],
+    [
+     "a bright red car",
+     "“a red and bright car” ✗ (bright describes red)",
+     "No ✓"
+    ],
+    [
+     "an old Egyptian coin",
+     "“an Egyptian and old coin” ✗",
+     "No ✓"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ It was a long, difficult, journey. (never a comma between the last adjective and the noun)",
+    "✗ They found a small, wooden chest. (cumulative adjectives: size + material)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Numbers, colors and materials",
+   "text": "Adjectives of number, age, color, origin and material (three, old, red, Egyptian, wooden) usually join the noun closely and take no comma before them. Opinion and quality adjectives (beautiful, difficult, long, steep) are often coordinate with each other."
+  },
+  {
+   "type": "h2",
+   "text": "When NOT to use a comma — the big list"
+  },
+  {
+   "type": "p",
+   "text": "On the SAT an unnecessary comma is an **error**, not a matter of style. Many questions offer three choices that put a comma in a forbidden place and one choice with no punctuation. Learn these **no-comma zones**:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "No comma between …",
+    "✗ Wrong",
+    "✓ Right"
+   ],
+   "rows": [
+    [
+     "A subject and its verb (even a long subject)",
+     "The students who planted the trees in the school garden, watered them every day.",
+     "The students who planted the trees in the school garden watered them every day."
+    ],
+    [
+     "A verb and its object",
+     "The engineer designed, a small robot.",
+     "The engineer designed a small robot."
+    ],
+    [
+     "A linking verb and its complement",
+     "The winners were, Hana and Omar.",
+     "The winners were Hana and Omar."
+    ],
+    [
+     "A verb and a that-clause",
+     "The survey found, that most teens sleep too little.",
+     "The survey found that most teens sleep too little."
+    ],
+    [
+     "“That” (or “because,” “if,” “when”) and its clause",
+     "The survey found that, most teens sleep too little.",
+     "The survey found that most teens sleep too little."
+    ],
+    [
+     "A preposition and its object",
+     "Storks rest along, the shores of the lake.",
+     "Storks rest along the shores of the lake."
+    ],
+    [
+     "A verb and a prepositional phrase that completes it",
+     "Storks rest, along the shores of the lake.",
+     "Storks rest along the shores of the lake."
+    ],
+    [
+     "Two verbs that share one subject (compound predicate)",
+     "She wrote the report, and sent it to the director.",
+     "She wrote the report and sent it to the director."
+    ],
+    [
+     "Two items joined by “and” / “or”",
+     "The museum displays statues, and jewelry.",
+     "The museum displays statues and jewelry."
+    ],
+    [
+     "A FANBOYS word and what follows it",
+     "The road was closed but, the bus found another route.",
+     "The road was closed, but the bus found another route."
+    ],
+    [
+     "The last adjective and its noun",
+     "It was a long, difficult, journey.",
+     "It was a long, difficult journey."
+    ],
+    [
+     "Cumulative adjectives",
+     "a small, wooden chest",
+     "a small wooden chest"
+    ],
+    [
+     "“Such as” / “like” / “including” and the examples",
+     "Spices such as, cumin and coriander are common.",
+     "Spices such as cumin and coriander are common."
+    ],
+    [
+     "A noun and essential information after it",
+     "The plants, that received extra light, grew faster.",
+     "The plants that received extra light grew faster."
+    ],
+    [
+     "The main clause and a dependent clause that follows it (usually)",
+     "The bus was late, because the road was flooded.",
+     "The bus was late because the road was flooded."
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Strip the sentence to its skeleton",
+   "text": "Cross out any introduction and any extra information, then read the skeleton: subject → verb → object or complement. If a choice puts any mark between those parts, it is wrong. Example: “The researchers who studied the grain samples from the Fayoum concluded that …” — no comma can stand between “Fayoum” and “concluded.”"
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الأقل غالبًا هو الصح",
+   "text": "لو مش متأكد، جرّب تشيل الفاصلة واقرا: هل الجملة اتقطعت بين الفاعل والفعل أو الفعل والمفعول؟ لو الفاصلة بتقطع حاجة من دول يبقى غلط. الامتحان بيحب يحط فواصل زيادة عشان يوقعك، فالاختيار اللي من غير ترقيم كتير بيبقى هو الصح — بس اتأكد إنه ما بيعملش جملتين لازقين في بعض."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — introductory clause**"
+  },
+  {
+   "type": "p",
+   "text": "Text: Farmers in the valley had waited months for rain. When the rains finally arrived in late October ______ began planting wheat and barley on the same day."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text so that it conforms to the conventions of Standard English?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) October; farmers",
+    "B) October, farmers",
+    "C) October farmers,",
+    "D) October. Farmers"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: A semicolon needs a complete sentence before it; “When the rains finally arrived in late October” is a dependent clause.",
+    "B) ✓ Correct: An introductory dependent clause is followed by a comma, then the main clause “farmers began planting …”.",
+    "C) ✗ Wrong: Two errors: no comma after the introduction, and a comma between the subject “farmers” and its verb “began.”",
+    "D) ✗ Wrong: The period leaves “When the rains finally arrived in late October.” as a fragment."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — coordinate adjectives**"
+  },
+  {
+   "type": "p",
+   "text": "Text: Visitors to the monastery are warned to wear good shoes. The path from the village to the gate is a narrow ______ that can be dangerous after rain."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text so that it conforms to the conventions of Standard English?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) winding path",
+    "B) winding, path",
+    "C) , winding path",
+    "D) , winding path,"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: Trap: “a narrow and winding path” sounds natural, and so does “a winding, narrow path,” so the adjectives are coordinate and need a comma between them.",
+    "B) ✗ Wrong: The comma comes between the two adjectives, never between the last adjective and the noun.",
+    "C) ✓ Correct: Both tests work, so “narrow, winding” are coordinate adjectives: “a narrow, winding path that can be dangerous …” ✓",
+    "D) ✗ Wrong: Trap: the comma after “path” separates the noun from its essential that-clause."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — items in a list**"
+  },
+  {
+   "type": "p",
+   "text": "Text: The village school had not been repaired for years, so the student council organized a work weekend. Over two days, the volunteers planted trees, cleaned the canal banks ______ painted the walls of every classroom."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text so that it conforms to the conventions of Standard English?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) , and",
+    "B) and,",
+    "C) , and,",
+    "D) ; and"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: A**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✓ Correct: The third item in a list of three verb phrases is introduced by “, and.” The serial comma matches the comma already used after “trees.”",
+    "B) ✗ Wrong: Trap: a comma after “and” separates the conjunction from the item it introduces.",
+    "C) ✗ Wrong: Trap: the second comma separates “and” from “painted.”",
+    "D) ✗ Wrong: A semicolon is used between list items only when the items already contain commas (SAT/ACT extra rule). These items do not."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4 — compound predicate**"
+  },
+  {
+   "type": "p",
+   "text": "Text: The novelist Salma Nabil publishes her books in both Arabic and English. For her newest book, the author wrote the first draft in Arabic ______ translated it into English herself."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text so that it conforms to the conventions of Standard English?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) , and,",
+    "B) ; and",
+    "C) and",
+    "D) , and"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: Trap: two extra commas, one on each side of “and.”",
+    "B) ✗ Wrong: A semicolon needs a complete sentence on both sides; “translated it into English herself” has no subject.",
+    "C) ✓ Correct: One subject (“the author”) has two verbs (“wrote … and translated …”). This is a compound predicate, so no comma comes before “and.”",
+    "D) ✗ Wrong: Trap: this is the most common wrong answer. A comma + “and” joins two complete sentences; here the second part has no subject of its own."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**The lonely comma** between a long subject and its verb, or between a verb and its object.",
+    "**The semicolon after an introduction:** “Because …; the …”.",
+    "**Comma after the joining word:** “but, the …” / “such as, cumin …” / “that, most …”.",
+    "**Comma before a second verb** with the same subject: “wrote the draft, and translated it.”",
+    "**Comma between cumulative adjectives** (“a small, wooden chest”) or after the last adjective (“a long, steep, climb”).",
+    "**Comma after the last list item:** “salt, pepper, and cumin, are …”."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Find the main subject and verb first. No single mark may separate them.",
+    "Is there an introduction before the main subject? Put the comma right before that subject.",
+    "Is there a list of three or more? Commas between all items; nothing after the last one.",
+    "Two adjectives? Try the swap and “and” tests.",
+    "Before “and”: is there a new subject after it? Yes → comma. No → no comma."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Ten original Digital SAT-style questions on introductions, lists, adjectives and the no-comma zones."
+  },
+  {
+   "type": "test",
+   "title": "Commas — Practice Quiz",
+   "timed": false,
+   "intro": "10 questions · untimed. Find the skeleton first, then decide where a comma is needed and where it is forbidden.",
+   "sections": [
+    {
+     "name": "Quiz",
+     "minutes": 13,
+     "questions": [
+      {
+       "p": "The old tram station in Heliopolis had been closed for more than a decade, and many residents thought it would be torn down. After three years of careful restoration work ______ reopened to visitors in March as a small museum of the city's transport history.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "work the station",
+        "work, the station,",
+        "work, the station",
+        "work; the station"
+       ],
+       "a": 2,
+       "e": "A long introductory phrase is followed by a comma before the main clause. A has no comma after the introduction; B adds a comma between the subject “the station” and its verb “reopened”; D uses a semicolon after a phrase that is not a complete sentence.",
+       "s": "Boundaries (commas)"
+      },
+      {
+       "p": "Many ancient manuscripts are damaged quickly by heat and humidity. Because the museum's air-conditioning system failed during the hottest week of the summer ______ several fragile manuscripts were moved to a cooler room in the basement.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "summer,",
+        "summer;",
+        "summer:",
+        "summer, and"
+       ],
+       "a": 0,
+       "e": "An introductory dependent clause (“Because …”) is followed by a comma before the main clause. B and C need a complete sentence before the mark; D adds “and,” which leaves the sentence with no main clause.",
+       "s": "Boundaries (commas)"
+      },
+      {
+       "p": "Visitors to the old monastery usually arrive tired but happy. The path from the village to the gate is a long ______ that takes most walkers about three hours.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "steep, climb",
+        ", steep, climb",
+        "steep climb,",
+        ", steep climb"
+       ],
+       "a": 3,
+       "e": "“Long” and “steep” are coordinate (“a steep, long climb” and “a long and steep climb” both work), so a comma goes between them, and nothing goes between “steep” and “climb” or before the essential that-clause. A and B put a comma before the noun; C puts a comma before “that.”",
+       "s": "Boundaries (commas)"
+      },
+      {
+       "p": "The museum's newest exhibit was found in a tomb near Luxor last year. It is a ______ chest decorated with thin sheets of gold.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "small, wooden,",
+        "small wooden",
+        "small, wooden",
+        "small wooden,"
+       ],
+       "a": 1,
+       "e": "“Small” and “wooden” are cumulative adjectives (size + material): “a wooden and small chest” does not sound natural, so no comma goes between them. A, C and D add commas between the adjectives or between the adjective and the noun.",
+       "s": "Boundaries (commas)"
+      },
+      {
+       "p": "Every month, a group of students cleans a different beach near Alexandria. Last Saturday, the volunteers collected plastic bottles ______ and old fishing nets from the sand.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        ", aluminum cans,",
+        "aluminum cans,",
+        "aluminum, cans,",
+        ", aluminum cans;"
+       ],
+       "a": 0,
+       "e": "Three items in a list are separated by commas: “plastic bottles, aluminum cans, and old fishing nets.” B misses the comma after the first item; C splits the item “aluminum cans”; D puts a semicolon in a simple list.",
+       "s": "Boundaries (commas)"
+      },
+      {
+       "p": "A small museum in Luxor has opened a new hall for objects from a single burial site. The hall displays painted wooden statues ______ jewelry found in the same tomb.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        ", and",
+        "; and",
+        "and,",
+        "and"
+       ],
+       "a": 3,
+       "e": "Only two items (“statues” and “jewelry”) are joined by “and,” so no comma is needed. A puts a comma before “and” between two items, B uses a semicolon with no complete sentence after it, and C puts a comma right after “and.”",
+       "s": "Boundaries (commas)"
+      },
+      {
+       "p": "A national survey asked more than three thousand secondary-school students about their study habits. The survey ______ most students prefer studying in the early evening rather than late at night.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "found, that",
+        "found that,",
+        "found that",
+        "found: that"
+       ],
+       "a": 2,
+       "e": "“That most students prefer …” is the object of “found,” so no mark goes between the verb and “that” or right after “that.” A, B and D each add a forbidden mark.",
+       "s": "Boundaries (commas)"
+      },
+      {
+       "p": "Some animals avoid the heat of the desert day by staying underground until sunset. Small desert animals such as ______ jerboa are active mainly at night.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "the fennec fox, and the",
+        "the fennec fox and the",
+        ", the fennec fox and the",
+        "the fennec fox and, the"
+       ],
+       "a": 1,
+       "e": "Two examples joined by “and” take no comma, and no comma comes right after “such as.” A adds a comma between two items, C puts a comma after “such as,” and D puts a comma after “and.”",
+       "s": "Boundaries (commas)"
+      },
+      {
+       "p": "The school's new garden was planted in early spring. The students who planted the trees along the garden wall ______ them every morning during the summer holidays.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "watered",
+        ", watered",
+        "—watered",
+        "; watered"
+       ],
+       "a": 0,
+       "e": "The long subject “The students who planted the trees along the garden wall” goes straight to its verb “watered.” B, C and D each separate the subject from its verb.",
+       "s": "Boundaries (commas)"
+      },
+      {
+       "p": "Before the canal was built, ships traveling from Europe to Asia had to sail around the whole of Africa. Opened in 1869 ______ shortened that sea journey by thousands of kilometers.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "the Suez Canal,",
+        "; the Suez Canal",
+        "the Suez Canal",
+        ", the Suez Canal"
+       ],
+       "a": 3,
+       "e": "“Opened in 1869” is an introductory participle phrase, so a comma follows it before the subject “the Suez Canal.” A puts the comma between the subject and its verb, B uses a semicolon after a phrase, and C has no comma after the introduction.",
+       "s": "Boundaries (commas)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Comma after an introductory clause or phrase — right before the main subject.",
+    "Comma before FANBOYS only when it joins two complete sentences; never after it.",
+    "Lists of three or more: comma after each item except the last. Two items: no comma.",
+    "Coordinate adjectives (swap and “and” tests work) take a comma; cumulative adjectives do not.",
+    "Never a single comma between subject–verb, verb–object, a preposition and its object, or before “that.”"
+   ]
+  }
+ ]
+}
