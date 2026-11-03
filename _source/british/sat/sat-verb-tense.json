@@ -1,0 +1,615 @@
+{
+ "slug": "sat-verb-tense",
+ "nav": "Verb Tense",
+ "title": "Verb Tense and Aspect",
+ "kicker": "American Diploma · Digital SAT · Grammar: Form, Structure and Sense",
+ "summary": "Choose the right tense from the clues in the passage — dates, since, by the time, when, currently and the tense of the other verbs.",
+ "blocks": [
+  {
+   "type": "p",
+   "text": "Every verb tells the reader **when** an action happens. On the Digital SAT, tense questions give you four forms of the same verb — *discovered, has discovered, had discovered, will discover* — and only one fits the time the passage describes. The answer is never a matter of taste: the passage always contains a **clue** (a date, a time word, or the tense of the other verbs). This lesson teaches you to find that clue in seconds."
+  },
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "These questions belong to **Standard English Conventions**, which is about **26%** of the scored Reading and Writing questions (about **11–15 questions** across the two modules). Inside that domain, the official skill group **Form, Structure, and Sense** covers **verb tense and aspect**, along with agreement and verb finiteness. Convention questions **usually** come in the later part of each module, after Information and Ideas."
+  },
+  {
+   "type": "p",
+   "text": "The stem is: **\"Which choice completes the text so that it conforms to the conventions of Standard English?\"** You know it is a tense question when all four choices are the **same verb in different times or aspects**, for example: *grew / has grown / had grown / grows* or *completed / will have completed / had completed / have completed*."
+  },
+  {
+   "type": "p",
+   "text": "If the choices mix finite verbs with -ing or to-forms (*attracts / attracting / to attract*), check finiteness first (see the lesson **Finite Verbs**). If they differ in -s or is/are, check agreement first. Tense comes after those checks."
+  },
+  {
+   "type": "h2",
+   "text": "Tense and aspect: the forms you need"
+  },
+  {
+   "type": "p",
+   "text": "**Tense** is the time: past, present or future. **Aspect** adds how the action is seen: **simple** (a fact or a complete action), **progressive** (in progress: be + -ing) or **perfect** (complete before a certain point: have + past participle)."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Form",
+    "Structure",
+    "Use",
+    "✓ Example"
+   ],
+   "rows": [
+    [
+     "Simple present",
+     "studies / study",
+     "Facts, habits, general truths; what a text, author or study **says**",
+     "Water **boils** at 100°C. The author **argues** that …"
+    ],
+    [
+     "Simple past",
+     "studied",
+     "A finished action at a **stated or clear past time**",
+     "The temple **was** moved in 1968."
+    ],
+    [
+     "Present perfect",
+     "has / have studied",
+     "From the past **up to now** (since, for, so far, recently); a past action whose time is not stated and whose result matters now",
+     "Scientists **have studied** the reef **since** 2010."
+    ],
+    [
+     "Past perfect",
+     "had studied",
+     "The **earlier** of two past actions; \"by the time\" + past",
+     "**By the time** the rescue team arrived, the fire **had spread**."
+    ],
+    [
+     "Present progressive",
+     "is / are studying",
+     "In progress **now**, currently",
+     "Engineers **are testing** the new design."
+    ],
+    [
+     "Past progressive",
+     "was / were studying",
+     "In progress in the past, often interrupted by another action",
+     "She **was scanning** the sky **when** she saw the comet."
+    ],
+    [
+     "Simple future",
+     "will study",
+     "Later than now",
+     "The line **will open** next year."
+    ],
+    [
+     "Future perfect",
+     "will have studied",
+     "Complete **before** a future point (by 2030)",
+     "**By 2030**, the city **will have finished** the line."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Passive verbs follow the same pattern: *is built, was built, has been built, had been built, will have been built*. Choose the time first; the passive form simply goes with it."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "زمن الفعل بيتحدد من الدليل",
+   "text": "متختارش الزمن بالإحساس. دوّر على **دليل**: سنة أو تاريخ (in 1990) = ماضي بسيط. **since / for / so far** = has/have + التصريف التالت. **by the time** + حدث في الماضي = had + التصريف التالت. **by** + تاريخ في المستقبل = will have. ولو مفيش كلمة وقت، **امشي على زمن باقي الأفعال** في القطعة."
+  },
+  {
+   "type": "h2",
+   "text": "How to choose the tense: three clues"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Time words.** The strongest clue. Learn the table below by heart.",
+    "**The other verbs in the passage.** If the passage tells a past story, stay in the past unless a time word moves you. If it states facts or describes a study or a book, the present is normal.",
+    "**The order of events.** Two past events in one sentence or passage? The one that happened **first** may need *had* + past participle."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Time clue",
+    "Usual form",
+    "✓ Example",
+    "✗ Trap"
+   ],
+   "rows": [
+    [
+     "in 1990, last year, two weeks ago, yesterday, in the 1800s, when she was young",
+     "Simple past",
+     "The canal **opened in 1869**.",
+     "The canal has opened in 1869."
+    ],
+    [
+     "since + a point, for + a period (still true), so far, recently, over the past decade, to date",
+     "Present perfect",
+     "**Since 2015**, visitor numbers **have risen**.",
+     "Since 2015, visitor numbers rose."
+    ],
+    [
+     "by the time / before / after + past event; already (inside a past story)",
+     "Past perfect",
+     "**By the time** the dam was finished, the temple **had been moved**.",
+     "By the time the dam was finished, the temple has been moved."
+    ],
+    [
+     "when / while + another past action",
+     "Past progressive (the longer, background action)",
+     "He **was reading when** the lights went out.",
+     "He reads when the lights went out."
+    ],
+    [
+     "currently, now, at present, these days, this year",
+     "Present progressive or simple present",
+     "The museum **is currently restoring** the boat.",
+     "The museum currently restored the boat."
+    ],
+    [
+     "every year, usually, each spring, always (general facts)",
+     "Simple present",
+     "Storks **cross** the Gulf of Suez **each autumn**.",
+     "Storks had crossed the Gulf each autumn."
+    ],
+    [
+     "by + future date, by the end of next year",
+     "Future perfect",
+     "**By 2030**, they **will have planted** a million trees.",
+     "By 2030, they had planted a million trees."
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Present perfect vs simple past"
+  },
+  {
+   "type": "p",
+   "text": "This is the most tested pair. Both talk about the past; the difference is **the connection to now**."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Simple past** = the action is finished and placed at a **past time** (a date, *ago*, *last*, *in the 1960s*). ✓ \"The museum **opened** in 2002.\" ✗ \"The museum has opened in 2002.\"",
+    "**Present perfect** = a period that **reaches the present**, or a past action with no stated time whose result matters now. ✓ \"Since 2002, the museum **has welcomed** millions of visitors.\" ✗ \"Since 2002, the museum welcomed millions of visitors.\"",
+    "**Two clues together:** \"The fair began in 1969. Since then, it **has grown** …\" — the first sentence uses the past (a date), the second the present perfect (*since then*)."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Past perfect: the earlier of two past actions"
+  },
+  {
+   "type": "p",
+   "text": "Use *had* + past participle only when there is a **second, later past moment** in the sentence or nearby. It says: this was already complete before that."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ **By the time** the firefighters **arrived**, the fire **had spread** to the roof. (spread first, arrived later)",
+    "✓ The explorers **discovered** that another team **had reached** the spring weeks earlier.",
+    "✗ **In 1922**, Howard Carter **had discovered** the tomb of Tutankhamun. → one past event at a stated time: ✓ **discovered**.",
+    "Words like *already*, *earlier*, *before* and *by the time* inside a past story are strong signals for *had*."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Do not over-use \"had\"",
+   "text": "\"Had\" sounds formal, so students choose it too often. If there is only **one** past time and no later past event to compare it with, the simple past is correct. Ask yourself: \"Earlier than **what**?\" If you cannot answer, do not choose *had*."
+  },
+  {
+   "type": "h2",
+   "text": "Progressive forms: actions in progress"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Past progressive** (was/were + -ing) is the background action that was happening when a shorter action interrupted it: \"The engineer **was inspecting** the cables **when** she **noticed** a crack.\"",
+    "**Present progressive** (is/are + -ing) is for an action happening now or around now: \"Conservators **are restoring** the boat **at present**.\"",
+    "**State verbs** (know, believe, belong, contain, own, seem, prefer, consist) are normally **not** used in the progressive: ✓ \"The box **contains** papyri.\" ✗ \"The box is containing papyri.\""
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Future, future perfect and \"would\""
+  },
+  {
+   "type": "list",
+   "items": [
+    "**will** + verb: simply later than now. \"The line **will open** next year.\"",
+    "**will have** + past participle: complete **before** a future point, usually with *by*: \"**By the end of 2028**, workers **will have completed** all twelve stations.\"",
+    "**would** = the future seen from the past (after a past verb such as *said, predicted, believed*): \"In 1960, engineers **predicted** that the dam **would protect** the valley from floods.\" Not ✗ \"predicted that the dam will protect\" when the whole story is in the past."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Consistency: follow the passage"
+  },
+  {
+   "type": "p",
+   "text": "When there is no time word, the tense of the **surrounding sentences** decides. Do not change tense without a reason."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Past story → stay in the past:** \"She **stood** on the Corniche, and every few minutes she **turned** to watch the waves.\" ✗ \"… she turns to watch …\"",
+    "**General facts → present:** \"Camels **can go** days without water. When a camel **reaches** a well, it **can drink** up to 100 liters.\"",
+    "**Literary and research present:** what a book, author, poem, study or chart **says or shows** is usually in the present: \"In the novel, the narrator **remembers** her childhood.\" But events *inside* the story can be past: \"Every evening, they **sat** on the roof.\" Follow the tense the passage itself uses."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Literary present in one line",
+   "text": "Author/text/study + what it does (argues, describes, shows, suggests) → **present**. Events that happen inside the story → whatever tense the passage is already using."
+  },
+  {
+   "type": "h2",
+   "text": "The method for test day"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Read the choices.** Same verb, different times? It is a tense question. (Check finiteness and agreement first if those differ too.)",
+    "**Circle the time clue:** a date, since/for/so far, by the time, when/while, currently, by + future date.",
+    "**No time word?** Look at the tense of the other verbs in the sentence and the sentences around it.",
+    "**Two past events?** Put the earlier one in *had* + past participle — only if there really is a later one.",
+    "**Read the whole sentence with your answer.** It should sound like one clear timeline."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "h2",
+   "text": "Worked example 1: by the time → past perfect"
+  },
+  {
+   "type": "p",
+   "text": "**Passage:** \"By the time the Aswan High Dam was completed in 1970, engineers and archaeologists ______ the temples of Abu Simbel to higher ground, saving them from the rising waters of Lake Nasser.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice completes the text so that it conforms to the conventions of Standard English?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) moved",
+    "B) have moved",
+    "C) had moved",
+    "D) will have moved"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C) had moved.** \"By the time\" + a past event (the dam was completed in 1970) tells you the moving was **already complete** before that past moment. The earlier of two past actions takes the past perfect: \"had moved\"."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A) moved** — The simple past does not show that the move was finished before 1970; with \"by the time\" + past, the past perfect is expected.",
+    "**B) have moved** — The present perfect connects to now, but the passage is about a finished past period ending in 1970.",
+    "**D) will have moved** — The future perfect is for a future point, not for 1970."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Worked example 2: since → present perfect"
+  },
+  {
+   "type": "p",
+   "text": "**Passage:** \"The Cairo International Book Fair first opened in 1969. Since then, the event ______ into one of the largest book fairs in the Arab world, attracting many publishers and readers every year.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice completes the text so that it conforms to the conventions of Standard English?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) grew",
+    "B) has grown",
+    "C) had grown",
+    "D) grows"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B) has grown.** \"Since then\" describes a period from 1969 **up to now**, and the fair still happens \"every year\". That is the present perfect: \"has grown\". Notice that the first sentence correctly uses the simple past with its date (\"opened in 1969\")."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A) grew** — The simple past is for a finished action at a stated time; it does not fit \"since\".",
+    "**C) had grown** — The past perfect needs a later past moment; this period continues into the present.",
+    "**D) grows** — The simple present does not show growth over a period that started in 1969."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Worked example 3: one past time → simple past (the \"had\" trap)"
+  },
+  {
+   "type": "p",
+   "text": "**Passage:** \"After years of searching in the Valley of the Kings, the British archaeologist Howard Carter ______ the entrance to the tomb of Tutankhamun in November 1922. The tomb's contents took nearly ten years to record and remove.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice completes the text so that it conforms to the conventions of Standard English?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) had discovered",
+    "B) discovered",
+    "C) has discovered",
+    "D) was discovering"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B) discovered.** There is one past event at a stated time (\"in November 1922\"), and the next sentence continues in the simple past (\"took\"). The simple past \"discovered\" is correct."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A) had discovered** — There is no later past moment to compare with, so the past perfect has no reason to be there.",
+    "**C) has discovered** — The present perfect cannot be used with a stated past date such as \"in November 1922\".",
+    "**D) was discovering** — The progressive shows an action in progress, but discovering the entrance is a single, complete event."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Worked example 4: literary present"
+  },
+  {
+   "type": "p",
+   "text": "**Passage:** \"In the short story \"The Boat,\" the author ______ an old fisherman in Rashid who refuses to sell his wooden boat to a developer. The story shows how the fisherman's stubbornness slowly earns the respect of his sons.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice completes the text so that it conforms to the conventions of Standard English?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) described",
+    "B) had described",
+    "C) describes",
+    "D) will describe"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C) describes.** The passage talks about what the story **does**, and the next sentence uses the present (\"The story shows\"). Describing what an author or text does takes the present tense: \"describes\". (The story and author are invented for this example.)"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A) described** — The simple past breaks the present tense that the passage uses for what the story does (\"shows\").",
+    "**B) had described** — The past perfect needs an earlier-past relationship; there is none.",
+    "**D) will describe** — The future makes no sense: the story already exists."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**The \"since\" trap:** simple past with since / for / so far. Use **has / have** + past participle.",
+    "**The date trap:** present perfect with a stated past time (\"has opened in 1869\"). Use the simple past.",
+    "**The \"had\" trap:** past perfect when there is only one past time. Ask \"earlier than what?\"",
+    "**The tense-switch trap:** a present verb in the middle of a past story (or the opposite) with no time clue.",
+    "**The literary-present trap:** past tense for what an author or study argues, describes or shows.",
+    "**The \"will\" in a past story:** after said / predicted / believed in the past, use **would**."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Circle the time words before reading the choices: since → has/have; by the time + past → had; in + year → simple past; when + past action → was/were + -ing; by + future date → will have.",
+    "No time words? Copy the tense of the nearest verbs in the passage.",
+    "Eliminate the two choices that are clearly in the wrong time first, then compare the last two.",
+    "Target time: about 30–40 seconds per question."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "أشهر فخّين",
+   "text": "أولًا: **since** متجيش مع الماضي البسيط — لازم **has/have** + التصريف التالت. ثانيًا: **had** متستخدمهاش غير لو فيه **حدثين في الماضي** وعايز توضّح إن واحد حصل قبل التاني. لو فيه تاريخ واحد بس (in 1922) يبقى الماضي البسيط (discovered)."
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Ten original questions in Digital SAT format. Circle the time clue in each passage before you choose."
+  },
+  {
+   "type": "test",
+   "title": "Verb tense: practice quiz",
+   "timed": false,
+   "intro": "10 original questions in Digital SAT format, untimed. Circle the time clue first.",
+   "sections": [
+    {
+     "name": "Quiz",
+     "minutes": 13,
+     "questions": [
+      {
+       "p": "The Suez Canal ______ to ships in November 1869, cutting thousands of kilometers from the sea journey between Europe and South Asia, which until then had gone around the southern tip of Africa.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "has opened",
+        "had been opening",
+        "opened",
+        "opens"
+       ],
+       "a": 2,
+       "e": "\"In November 1869\" is a stated past time, so the simple past \"opened\" is correct. The present perfect cannot take a stated past date, \"had been opening\" needs a later past reference point, and \"opens\" is present.",
+       "s": "Verb tense and aspect"
+      },
+      {
+       "p": "Ras Mohammed, at the southern tip of the Sinai Peninsula, became Egypt's first protected area in 1983. Since then, Egypt ______ dozens of other protected areas, from coral reefs in the Red Sea to valleys in the Western Desert.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "has established",
+        "established",
+        "had established",
+        "establishes"
+       ],
+       "a": 0,
+       "e": "\"Since then\" covers a period from 1983 up to now, so the present perfect \"has established\" is correct. \"Established\" does not fit \"since\", \"had established\" needs a later past moment, and \"establishes\" does not show a period.",
+       "s": "Verb tense and aspect"
+      },
+      {
+       "p": "By the time the firefighters arrived at the old cotton warehouse, the fire ______ to the roof, so they focused on protecting the neighboring buildings instead.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "has spread",
+        "had spread",
+        "spreads",
+        "will spread"
+       ],
+       "a": 1,
+       "e": "\"By the time\" + a past event (\"arrived\") shows that the spreading was already complete before the firefighters came, so the past perfect \"had spread\" is correct. The other choices are present or future forms in a past story.",
+       "s": "Verb tense and aspect"
+      },
+      {
+       "p": "The engineer ______ the bridge's steel cables for signs of wear when she noticed a small crack in one of the concrete supports. The bridge was closed the next morning for repairs.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "inspects",
+        "has inspected",
+        "will inspect",
+        "was inspecting"
+       ],
+       "a": 3,
+       "e": "The inspection was in progress when another past action interrupted it (\"when she noticed\"), so the past progressive \"was inspecting\" is correct. \"Inspects\", \"has inspected\" and \"will inspect\" are present or future forms in a past story.",
+       "s": "Verb tense and aspect"
+      },
+      {
+       "p": "Each autumn, thousands of white storks fly over the Gulf of Suez on their way to Africa. The birds ______ on warm rising air currents to cross the land, because flapping their wings over long distances uses too much energy.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "had relied",
+        "relied",
+        "rely",
+        "will have relied"
+       ],
+       "a": 2,
+       "e": "The passage describes a regular, general fact in the present (\"Each autumn\", \"fly\", \"uses\"), so the simple present \"rely\" keeps the same time. The two past forms and the future perfect break the present-tense description.",
+       "s": "Verb tense and aspect"
+      },
+      {
+       "p": "The metro authority has announced a timetable for a new line. By the end of 2028, workers ______ all twelve stations, and trains are expected to start carrying passengers early the following year.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "completed",
+        "will have completed",
+        "had completed",
+        "have completed"
+       ],
+       "a": 1,
+       "e": "\"By the end of 2028\" is a future point, and the work will be finished before it, so the future perfect \"will have completed\" is correct. The other three choices are past or present forms.",
+       "s": "Verb tense and aspect"
+      },
+      {
+       "p": "In her memoir, the writer recalls her first visit to Alexandria as a child. She stood on the Corniche for hours, and every few minutes she ______ to watch the waves crash against the sea wall.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "turned",
+        "turns",
+        "has turned",
+        "will turn"
+       ],
+       "a": 0,
+       "e": "The events of the visit are told in the past (\"stood\"), and \"turned\" keeps the same tense in the same sentence. \"Turns\" copies \"recalls\", but \"recalls\" is present only because it describes what the memoir does; \"has turned\" and \"will turn\" switch tense without a reason.",
+       "s": "Verb tense and aspect"
+      },
+      {
+       "p": "When restorers finally removed the layers of soot from the ceiling of the old church, they found that the original painters ______ gold leaf to the halos of the saints, a detail no one had seen for centuries.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "apply",
+        "are applying",
+        "have applied",
+        "had applied"
+       ],
+       "a": 3,
+       "e": "The painting happened long before the restorers found it — the earlier of two past actions — so the past perfect \"had applied\" is correct; \"had seen\" in the same sentence follows the same pattern. The other choices are present forms.",
+       "s": "Verb tense and aspect"
+      },
+      {
+       "p": "Scientists began measuring the coastline of the Nile Delta in the 1970s. So far, their measurements ______ that some beaches are shrinking by several meters each year, while others are slowly growing.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "showed",
+        "have shown",
+        "had shown",
+        "will show"
+       ],
+       "a": 1,
+       "e": "\"So far\" means from the past up to now, so the present perfect \"have shown\" is correct; \"are shrinking\" confirms the link to the present. \"Showed\" ignores \"so far\", \"had shown\" needs a later past moment, and \"will show\" is future.",
+       "s": "Verb tense and aspect"
+      },
+      {
+       "p": "At present, conservators at the museum ______ an ancient wooden boat piece by piece in a laboratory that visitors can view through a large glass wall.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "restored",
+        "had restored",
+        "are restoring",
+        "will have restored"
+       ],
+       "a": 2,
+       "e": "\"At present\" shows an action in progress now, and the rest of the sentence is present (\"can view\"), so the present progressive \"are restoring\" is correct. The past forms and the future perfect do not match \"at present\".",
+       "s": "Verb tense and aspect"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Time clues decide tense: **in 1990** → did; **since / for / so far** → has done; **by the time + past** → had done; **when + past action** → was doing; **by + future date** → will have done.",
+    "Past perfect only when there is a **later** past moment to compare with.",
+    "No time clue? Keep the tense of the passage. What a text, author or study says → present.",
+    "Past story + prediction → **would**, not will.",
+    "Check finiteness and agreement before tense."
+   ]
+  }
+ ]
+}

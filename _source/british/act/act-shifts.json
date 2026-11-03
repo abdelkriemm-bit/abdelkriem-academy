@@ -1,0 +1,585 @@
+{
+ "slug": "act-shifts",
+ "nav": "Unnecessary Shifts",
+ "title": "Unnecessary Shifts: Tense, Point of View, Voice and Mood",
+ "kicker": "American Diploma · ACT · English: Conventions of Standard English",
+ "summary": "Keep the same tense, point of view, voice and mood unless the meaning changes — and learn to read the surrounding sentences to decide, with four worked items and two ACT-style practice essays.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Shift questions belong to the **Conventions of Standard English** reporting category of the ACT English test (38–43% of the English score, together with punctuation, usage and the other sentence-structure skills). The English test has **50 questions (40 scored) in 35 minutes**, over five essays: three of about 340 words with 10 questions each and two of about 185 words with 5 questions each. The essays are informational, argumentative or narrative — and each type has its own \"normal\" tense and point of view, which is exactly what shift questions check."
+  },
+  {
+   "type": "p",
+   "text": "A shift item looks like any other ACT English item: an **underlined** portion, four choices, usually **NO CHANGE** first. The choices are the same verb in different tenses (*opens / opened / has opened / will open*), the same idea with different pronouns (*you / one / we / they*), or the same action in active and passive voice. **The underlined sentence alone usually cannot tell you the answer.** Every choice may be grammatical on its own; only the surrounding sentences show which one fits. That is why this lesson is about reading context."
+  },
+  {
+   "type": "p",
+   "text": "An **unnecessary shift** is a change in tense, person, voice or mood that the meaning does not need. A *necessary* shift — for example from past to present when the essay really moves from history to today — is correct, and the ACT tests that too."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "يعني إيه shift؟",
+   "text": "الـ shift إن الكاتب يغيّر فجأة الزمن (ماضي ← مضارع) أو الضمير (a student ← you) أو المبني للمعلوم/المجهول من غير سبب. الحل: متبصّش على الجملة لوحدها، اقرا الجملة اللي قبلها واللي بعدها، وشوف الأفعال والضماير اللي مش متسطّرة، والتزم بيهم."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 1: Keep one time frame — verb tense"
+  },
+  {
+   "type": "p",
+   "text": "Each essay (and each paragraph) has a main time frame. A **narrative** about a past event is normally in the past tense; an **informational** essay about how something works is normally in the present. Once the writer sets the time frame, the verbs stay in it unless the time really changes."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ In 1952, the family moved to Aswan and **opens** a small bakery.",
+    "✓ In 1952, the family moved to Aswan and **opened** a small bakery.",
+    "✗ Every morning the fishermen leave at dawn, and by noon they **returned** with their catch.",
+    "✓ Every morning the fishermen leave at dawn, and by noon they **return** with their catch."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Time clues to look for:** dates (*in 1925*), time phrases (*last year, today, now, currently, at the time, these days*), and above all **the other verbs that are not underlined**. If the sentence before says *arrived* and *told*, the underlined verb is almost certainly past."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Clue in the sentence",
+    "Tense needed",
+    "Example"
+   ],
+   "rows": [
+    [
+     "A finished past time (in 2009, last week, two years ago)",
+     "Simple past",
+     "The team **found** the site in 2009."
+    ],
+    [
+     "since / for + a period up to now; already, yet, so far",
+     "Present perfect (has/have + past participle)",
+     "Since 2009, the team **has collected** 4,000 seeds."
+    ],
+    [
+     "An earlier past action before another past action; by the time + past",
+     "Past perfect (had + past participle)",
+     "By the time help arrived, the fire **had spread**."
+    ],
+    [
+     "by the time + present, by next year",
+     "Future perfect (will have + past participle)",
+     "By the time you read this, the ship **will have left**."
+    ],
+    [
+     "A general fact or something always true",
+     "Simple present",
+     "Water **boils** at 100 °C."
+    ],
+    [
+     "Habit in the past",
+     "Simple past or would / used to + verb",
+     "Every summer, my grandfather **would take** us to Ras El Bar."
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Rule 2: Necessary shifts are correct"
+  },
+  {
+   "type": "p",
+   "text": "A change in tense is **not** an error when the meaning changes time. The ACT likes NO CHANGE answers that look like shifts but are logical."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ The bridge **was completed** in 1998, and it still **carries** thousands of cars every day. (past event → present situation, signalled by *still … every day*)",
+    "✓ Scientists **believe** that the lake **dried up** about 5,000 years ago. (present belief about a past event)",
+    "✓ The study **found** that honeybees **use** the sun to navigate. (past research, present general fact)",
+    "✓ In the novel, the father **controls** every part of his family's life. (describing what happens in a book or film: the ACT usually uses the present — the *literary present* — as long as it is consistent)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**The test:** is there a real reason — a new time phrase, a general truth, a belief now about the past? If yes, the shift is fine. If the time is the same and only the verb changed, it is an error."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 3: Keep one point of view — pronoun shifts"
+  },
+  {
+   "type": "p",
+   "text": "**Point of view** is the \"person\" the writer uses: first person (*I, we*), second person (*you*), third person (*he, she, it, they, one, a person, students*). Within a sentence — and usually across a paragraph — keep the same one."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ When **a visitor** enters the temple, **you** notice the painted ceiling.",
+    "✓ When **visitors** enter the temple, **they** notice the painted ceiling.",
+    "✓ When **a visitor** enters the temple, **he or she** notices the painted ceiling.",
+    "✗ If **one** practises every day, **you** will improve quickly.",
+    "✓ If **one** practises every day, **one** will improve quickly.",
+    "✗ **We** all know how important sleep is, but **you** rarely get enough of it before an exam.",
+    "✓ **We** all know how important sleep is, but **we** rarely get enough of it before an exam."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Number shifts are a kind of point-of-view shift.** Keep singular with singular and plural with plural: ✗ \"**A student** who wants a scholarship should start preparing early, because **they** will face many tests.\" The ACT avoids this question by offering a consistent version, such as \"**Students** who want a scholarship … **they**\" or \"**A student** … **he or she**\". Choose the consistent one."
+  },
+  {
+   "type": "p",
+   "text": "**Where to look:** find the nearest non-underlined pronoun or noun that names the same people. In an essay written with *I* and *my family*, *we* is natural; in an informational essay about *travellers*, *they* is natural; *you* belongs only in essays that address the reader from the start (for example, instructions)."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "إزاي تعرف الزمن الصح؟",
+   "text": "دوّر على الأفعال اللي مش متسطّرة في نفس الجملة وفي الجملة اللي قبلها، وعلى كلمات الوقت: last year / in 1925 / today / since. لو المقال حكاية في الماضي خليك في الماضي. ولو اتغيّر الوقت فعلاً (still ... today) يبقى التغيير صح. ونفس الكلام في الضماير: لو بدأ بـ a student أو people ما ينفعش يقلب فجأة لـ you."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 4: Keep the same voice — active and passive"
+  },
+  {
+   "type": "p",
+   "text": "In the **active voice** the subject does the action (*The team tested the robot*). In the **passive voice** the subject receives it (*The robot was tested by the team*). Passive is not wrong in itself — it is useful when the doer is unknown or unimportant (*The tomb was discovered in 1922*). The error is an **unnecessary switch** from active to passive when the same person keeps doing the actions."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ The students **built** the model bridge, and then **it was tested by them** with heavy weights.",
+    "✓ The students **built** the model bridge and then **tested** it with heavy weights.",
+    "✗ My uncle **repairs** old radios, and broken clocks **are also fixed by him**.",
+    "✓ My uncle **repairs** old radios and also **fixes** broken clocks."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**ACT signal:** a choice ending in *by them / by him / by the team* after an active verb is almost always wrong. The shorter, active version is usually also the more concise one."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 5: Keep the same mood — commands and conditions"
+  },
+  {
+   "type": "p",
+   "text": "**Mood** shows the writer's attitude: a fact (indicative), a command (imperative), or a condition / wish (conditional and subjunctive). Two mood shifts appear on the ACT."
+  },
+  {
+   "type": "p",
+   "text": "**Commands.** In instructions, keep using the plain command form. ✗ \"**Mix** the flour and water, and then **you should knead** the dough.\" → ✓ \"**Mix** the flour and water, and then **knead** the dough.\""
+  },
+  {
+   "type": "p",
+   "text": "**If-sentences.** Each type of condition has a fixed verb pattern. Mixing patterns is a shift error."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Type",
+    "If-clause",
+    "Main clause",
+    "Example"
+   ],
+   "rows": [
+    [
+     "Real / general",
+     "present",
+     "present or will / can",
+     "If the river **floods**, the road **closes**. / If it **rains**, we **will stay** inside."
+    ],
+    [
+     "Unreal now / imagined future",
+     "past (were for be)",
+     "would / could / might + verb",
+     "If the museum **opened** earlier, more tourists **would visit**."
+    ],
+    [
+     "Unreal past",
+     "had + past participle",
+     "would have / could have + past participle",
+     "If we **had left** earlier, we **would have caught** the train."
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ If the museum **would open** earlier, more tourists would visit. (no *would* in the if-clause)",
+    "✗ If a plant **will disappear**, the seeds could bring it back.",
+    "✓ If a plant **disappeared**, the seeds **could** bring it back. / ✓ If a plant **disappears**, the seeds **can** bring it back.",
+    "✗ If I **was** the coach, I **will** change the team. → ✓ If I **were** the coach, I **would** change the team."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Subjunctive after demands:** verbs such as *recommend, insist, require, ask that* take the base verb: \"The doctor insisted that he **rest** for a week\" (not *rests*)."
+  },
+  {
+   "type": "h2",
+   "text": "How to read the surrounding sentences — a 5-step method"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Notice what changes in the choices.** Tenses? → time frame. Pronouns? → point of view. *by them*? → voice. *would / will / were*? → mood.",
+    "**Read the whole sentence**, then the sentence before (and after, if needed). Collect the verbs and pronouns that are **not** underlined — they are the writer's choices, and the underline must agree with them.",
+    "**Find time and person clues:** dates, *last year, today, still, since, by the time*, and the noun or pronoun the essay uses for its people (*I, we, visitors, one*).",
+    "**Ask: does the meaning really change?** A new time phrase or a general truth allows a shift; otherwise, stay consistent.",
+    "**Choose the consistent, simplest version.** Between two consistent choices, the shorter active one is usually right."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — tense from the surrounding sentences**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: The first public library in the town opened in 1925. At first, it __lends__ books only to adults, but within ten years it had a busy children's room."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) lent",
+    "C) has lent",
+    "D) will lend"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: Present tense in a passage set in the past: *opened in 1925*, *At first*, *had* — all past.",
+    "B) ✓ Correct: *Lent* matches the past time frame given by *1925*, *At first* and *had*.",
+    "C) ✗ Wrong: Present perfect connects the past to now, but *At first* (the 1920s) is a finished time.",
+    "D) ✗ Wrong: Future tense makes no sense for events in the 1920s."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — point of view**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: If one wants to see the comet clearly, __you should__ travel at least thirty kilometres away from city lights."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) we should",
+    "C) one should",
+    "D) they should"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: Shifts from *one* to *you*.",
+    "B) ✗ Wrong: Shifts from *one* to *we*.",
+    "C) ✓ Correct: Keeps *one* throughout the sentence.",
+    "D) ✗ Wrong: *They* has no clear plural noun to refer to; *one* is singular."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — active to passive**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: The students built a model bridge out of wooden sticks, and __it was then tested by them__ with heavier and heavier weights."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) then they tested it",
+    "C) then it was tested",
+    "D) then testing it"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: Unnecessary switch to the passive (*was tested by them*) while the same students keep acting; wordy.",
+    "B) ✓ Correct: Active voice, same subject (*the students … they*), clear and concise.",
+    "C) ✗ Wrong: Still passive; it also hides who did the testing.",
+    "D) ✗ Wrong: *Testing* is not a main verb, so the second clause after *and* has no verb."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4 — a necessary shift (NO CHANGE)**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: The Suez Canal opened in 1869, and today it still __carries__ a large share of the world's sea trade."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) carried",
+    "C) had carried",
+    "D) was carrying"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: A**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✓ Correct: *Today … still* moves the sentence from the past (1869) to the present, so the present tense is required.",
+    "B) ✗ Wrong: Past tense ignores *today* and *still*.",
+    "C) ✗ Wrong: Past perfect means \"before another past action\" — there is none here.",
+    "D) ✗ Wrong: Past progressive ignores *today*."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**Judging the sentence alone:** all four tenses sound fine until you read the sentence before. Always check the non-underlined verbs.",
+    "**The \"fix\" that breaks a correct shift:** changing *still carries* to *carried* because the sentence started in the past.",
+    "**The sudden *you*:** an essay about *visitors*, *students* or *one* that switches to *you* or *we*.",
+    "**The *by them* passive:** an active sentence that turns passive halfway through.",
+    "**The *would* in the if-clause:** \"If it would rain…\" — never on the ACT.",
+    "**The command switch:** instructions that change from *Mix … Stir …* to *you should …*.",
+    "**The fancy tense:** past perfect or future perfect offered without a time reason. More complicated is not more correct."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "When the choices are one verb in four tenses, read one sentence back before choosing.",
+    "Circle (in your head) the verbs that are NOT underlined — match them unless a time word gives a reason to change.",
+    "In a narrative essay, expect past tense; in an informational essay, expect present.",
+    "For pronoun choices, find who the paragraph is about and keep that person and number.",
+    "Prefer the active version unless the doer is unknown.",
+    "If the shift has a clear reason (*today*, *still*, a general fact), keep it — NO CHANGE."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Two short ACT-style essays with five questions each. Every question refers to the numbered underlined portion. All ten items test shifts in tense, point of view, voice or mood — read the surrounding sentences before you answer."
+  },
+  {
+   "type": "test",
+   "title": "Unnecessary Shifts — ACT-style practice",
+   "timed": false,
+   "intro": "Two essays, 10 questions. Choose the best version of each underlined portion. NO CHANGE keeps the original. Read the sentences around each underline before you answer.",
+   "sections": [
+    {
+     "name": "Passages I–II",
+     "minutes": 8,
+     "questions": [
+      {
+       "p": "A Night at the Bakery\n\nLast winter, I spent a week working the night shift at my uncle's bakery in Tanta. On the first evening, I arrived at ten o'clock, and my uncle [1] __hands__ me an apron and a list of jobs. By midnight, I had already mixed three batches of dough, and my arms [2] __ached__.\n\nThe bakers worked quickly and quietly. One man shaped the loaves, another loaded the ovens, and a third [3] __checks__ the bread as it came out. When a visitor watches bakers at that speed, [4] __you can hardly__ believe how few mistakes they make. Watching them, I understood why my uncle's bread sold out every morning.\n\nAround four o'clock, my uncle gave me my most important task. \"Take this tray to the front window,\" he said, \"and [5] __you should arrange__ the rolls in neat rows.\" I did my best, although a few of the rolls looked crooked. When the first customers came in at six, a man pointed at the window and laughed kindly. My uncle told him that his nephew had arranged it himself.\n\nI have worked in many places since then, but I still think of that week whenever I smell fresh bread.",
+       "q": "Question 1: Choose the best version of underlined portion [1]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "handed",
+        "has handed",
+        "will hand"
+       ],
+       "a": 1,
+       "e": "The story is in the past: *Last winter, I spent … I arrived*. *Handed* keeps the same time frame. A shifts to the present; C and D do not fit a finished past evening.",
+       "s": "Shifts: verb tense"
+      },
+      {
+       "p": "A Night at the Bakery\n\nLast winter, I spent a week working the night shift at my uncle's bakery in Tanta. On the first evening, I arrived at ten o'clock, and my uncle [1] __hands__ me an apron and a list of jobs. By midnight, I had already mixed three batches of dough, and my arms [2] __ached__.\n\nThe bakers worked quickly and quietly. One man shaped the loaves, another loaded the ovens, and a third [3] __checks__ the bread as it came out. When a visitor watches bakers at that speed, [4] __you can hardly__ believe how few mistakes they make. Watching them, I understood why my uncle's bread sold out every morning.\n\nAround four o'clock, my uncle gave me my most important task. \"Take this tray to the front window,\" he said, \"and [5] __you should arrange__ the rolls in neat rows.\" I did my best, although a few of the rolls looked crooked. When the first customers came in at six, a man pointed at the window and laughed kindly. My uncle told him that his nephew had arranged it himself.\n\nI have worked in many places since then, but I still think of that week whenever I smell fresh bread.",
+       "q": "Question 2: Choose the best version of underlined portion [2]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "ache",
+        "are aching",
+        "will ache"
+       ],
+       "a": 0,
+       "e": "*By midnight … I had already mixed … and my arms ached* — simple past is right for the narrative. B, C and D shift to the present or future.",
+       "s": "Shifts: verb tense"
+      },
+      {
+       "p": "A Night at the Bakery\n\nLast winter, I spent a week working the night shift at my uncle's bakery in Tanta. On the first evening, I arrived at ten o'clock, and my uncle [1] __hands__ me an apron and a list of jobs. By midnight, I had already mixed three batches of dough, and my arms [2] __ached__.\n\nThe bakers worked quickly and quietly. One man shaped the loaves, another loaded the ovens, and a third [3] __checks__ the bread as it came out. When a visitor watches bakers at that speed, [4] __you can hardly__ believe how few mistakes they make. Watching them, I understood why my uncle's bread sold out every morning.\n\nAround four o'clock, my uncle gave me my most important task. \"Take this tray to the front window,\" he said, \"and [5] __you should arrange__ the rolls in neat rows.\" I did my best, although a few of the rolls looked crooked. When the first customers came in at six, a man pointed at the window and laughed kindly. My uncle told him that his nephew had arranged it himself.\n\nI have worked in many places since then, but I still think of that week whenever I smell fresh bread.",
+       "q": "Question 3: Choose the best version of underlined portion [3]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "has checked",
+        "will check",
+        "checked"
+       ],
+       "a": 3,
+       "e": "The other actions in the series are past (*shaped, loaded*), and *as it came out* is past too. A shifts to the present; B and C shift to other time frames.",
+       "s": "Shifts: verb tense"
+      },
+      {
+       "p": "A Night at the Bakery\n\nLast winter, I spent a week working the night shift at my uncle's bakery in Tanta. On the first evening, I arrived at ten o'clock, and my uncle [1] __hands__ me an apron and a list of jobs. By midnight, I had already mixed three batches of dough, and my arms [2] __ached__.\n\nThe bakers worked quickly and quietly. One man shaped the loaves, another loaded the ovens, and a third [3] __checks__ the bread as it came out. When a visitor watches bakers at that speed, [4] __you can hardly__ believe how few mistakes they make. Watching them, I understood why my uncle's bread sold out every morning.\n\nAround four o'clock, my uncle gave me my most important task. \"Take this tray to the front window,\" he said, \"and [5] __you should arrange__ the rolls in neat rows.\" I did my best, although a few of the rolls looked crooked. When the first customers came in at six, a man pointed at the window and laughed kindly. My uncle told him that his nephew had arranged it himself.\n\nI have worked in many places since then, but I still think of that week whenever I smell fresh bread.",
+       "q": "Question 4: Choose the best version of underlined portion [4]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "he or she can hardly",
+        "we can hardly",
+        "one could hardly"
+       ],
+       "a": 1,
+       "e": "The sentence begins with *a visitor* (third person singular), so it continues with *he or she*. A and C shift to *you* and *we*; D shifts to *one* and also changes the tense.",
+       "s": "Shifts: point of view"
+      },
+      {
+       "p": "A Night at the Bakery\n\nLast winter, I spent a week working the night shift at my uncle's bakery in Tanta. On the first evening, I arrived at ten o'clock, and my uncle [1] __hands__ me an apron and a list of jobs. By midnight, I had already mixed three batches of dough, and my arms [2] __ached__.\n\nThe bakers worked quickly and quietly. One man shaped the loaves, another loaded the ovens, and a third [3] __checks__ the bread as it came out. When a visitor watches bakers at that speed, [4] __you can hardly__ believe how few mistakes they make. Watching them, I understood why my uncle's bread sold out every morning.\n\nAround four o'clock, my uncle gave me my most important task. \"Take this tray to the front window,\" he said, \"and [5] __you should arrange__ the rolls in neat rows.\" I did my best, although a few of the rolls looked crooked. When the first customers came in at six, a man pointed at the window and laughed kindly. My uncle told him that his nephew had arranged it himself.\n\nI have worked in many places since then, but I still think of that week whenever I smell fresh bread.",
+       "q": "Question 5: Choose the best version of underlined portion [5]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "you would arrange",
+        "arrange",
+        "arranging"
+       ],
+       "a": 2,
+       "e": "The uncle gives commands: *Take this tray … and arrange the rolls*. A and B change the mood from a command to advice or a condition; D is not a main verb.",
+       "s": "Shifts: mood"
+      },
+      {
+       "p": "Saving Seeds for the Future\n\nIn a cold room beneath a university building, scientists [6] __store__ thousands of seeds from wild plants. The seeds are dried, sealed in foil packets, and kept at minus twenty degrees Celsius. At that temperature, many seeds stay alive for decades. Every packet carries a label with the plant's name, the place where it grew, and the date it was collected.\n\nThe project started in 2009, when a group of botanists [7] __realizes__ that several local plants were disappearing. Since then, the team has collected seeds from deserts, mountains, and coasts. Each spring, the team members travel to new sites, and [8] __the seeds are gathered by them__ by hand.\n\nWhy should we care about seeds in a freezer? If a rare plant [9] __will disappear__ from the wild, the stored seeds could bring it back. The seeds also help farmers. When a crop suffers from a new disease, researchers can search the collection for a wild relative that resists it. In this way, [10] __you can__ protect our food supply with plants that most of us have never heard of.",
+       "q": "Question 6: Choose the best version of underlined portion [6]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "stored",
+        "had stored",
+        "will have stored"
+       ],
+       "a": 0,
+       "e": "The paragraph describes the seed bank as it is now: *are dried, sealed … kept … stay alive*. The present *store* matches. B, C and D shift away from the present.",
+       "s": "Shifts: verb tense"
+      },
+      {
+       "p": "Saving Seeds for the Future\n\nIn a cold room beneath a university building, scientists [6] __store__ thousands of seeds from wild plants. The seeds are dried, sealed in foil packets, and kept at minus twenty degrees Celsius. At that temperature, many seeds stay alive for decades. Every packet carries a label with the plant's name, the place where it grew, and the date it was collected.\n\nThe project started in 2009, when a group of botanists [7] __realizes__ that several local plants were disappearing. Since then, the team has collected seeds from deserts, mountains, and coasts. Each spring, the team members travel to new sites, and [8] __the seeds are gathered by them__ by hand.\n\nWhy should we care about seeds in a freezer? If a rare plant [9] __will disappear__ from the wild, the stored seeds could bring it back. The seeds also help farmers. When a crop suffers from a new disease, researchers can search the collection for a wild relative that resists it. In this way, [10] __you can__ protect our food supply with plants that most of us have never heard of.",
+       "q": "Question 7: Choose the best version of underlined portion [7]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "has realized",
+        "realized",
+        "will realize"
+       ],
+       "a": 2,
+       "e": "*In 2009* and *were disappearing* put the event in the finished past, so *realized* is right. A shifts to the present; B (present perfect) cannot go with a finished date; D is future.",
+       "s": "Shifts: verb tense"
+      },
+      {
+       "p": "Saving Seeds for the Future\n\nIn a cold room beneath a university building, scientists [6] __store__ thousands of seeds from wild plants. The seeds are dried, sealed in foil packets, and kept at minus twenty degrees Celsius. At that temperature, many seeds stay alive for decades. Every packet carries a label with the plant's name, the place where it grew, and the date it was collected.\n\nThe project started in 2009, when a group of botanists [7] __realizes__ that several local plants were disappearing. Since then, the team has collected seeds from deserts, mountains, and coasts. Each spring, the team members travel to new sites, and [8] __the seeds are gathered by them__ by hand.\n\nWhy should we care about seeds in a freezer? If a rare plant [9] __will disappear__ from the wild, the stored seeds could bring it back. The seeds also help farmers. When a crop suffers from a new disease, researchers can search the collection for a wild relative that resists it. In this way, [10] __you can__ protect our food supply with plants that most of us have never heard of.",
+       "q": "Question 8: Choose the best version of underlined portion [8]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "gathering the seeds",
+        "the seeds were gathered by them",
+        "they gather the seeds"
+       ],
+       "a": 3,
+       "e": "The first clause is active and present (*the team members travel*), so the second stays active and present: *they gather the seeds*. A shifts to the passive; B has no main verb; C is passive and past.",
+       "s": "Shifts: voice"
+      },
+      {
+       "p": "Saving Seeds for the Future\n\nIn a cold room beneath a university building, scientists [6] __store__ thousands of seeds from wild plants. The seeds are dried, sealed in foil packets, and kept at minus twenty degrees Celsius. At that temperature, many seeds stay alive for decades. Every packet carries a label with the plant's name, the place where it grew, and the date it was collected.\n\nThe project started in 2009, when a group of botanists [7] __realizes__ that several local plants were disappearing. Since then, the team has collected seeds from deserts, mountains, and coasts. Each spring, the team members travel to new sites, and [8] __the seeds are gathered by them__ by hand.\n\nWhy should we care about seeds in a freezer? If a rare plant [9] __will disappear__ from the wild, the stored seeds could bring it back. The seeds also help farmers. When a crop suffers from a new disease, researchers can search the collection for a wild relative that resists it. In this way, [10] __you can__ protect our food supply with plants that most of us have never heard of.",
+       "q": "Question 9: Choose the best version of underlined portion [9]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "has been disappearing",
+        "would disappear",
+        "disappeared"
+       ],
+       "a": 3,
+       "e": "With *could* in the main clause, the if-clause takes the past: *If a rare plant disappeared …, the seeds could bring it back*. A and C put *will/would* in the if-clause; B does not fit the condition pattern.",
+       "s": "Shifts: mood (conditionals)"
+      },
+      {
+       "p": "Saving Seeds for the Future\n\nIn a cold room beneath a university building, scientists [6] __store__ thousands of seeds from wild plants. The seeds are dried, sealed in foil packets, and kept at minus twenty degrees Celsius. At that temperature, many seeds stay alive for decades. Every packet carries a label with the plant's name, the place where it grew, and the date it was collected.\n\nThe project started in 2009, when a group of botanists [7] __realizes__ that several local plants were disappearing. Since then, the team has collected seeds from deserts, mountains, and coasts. Each spring, the team members travel to new sites, and [8] __the seeds are gathered by them__ by hand.\n\nWhy should we care about seeds in a freezer? If a rare plant [9] __will disappear__ from the wild, the stored seeds could bring it back. The seeds also help farmers. When a crop suffers from a new disease, researchers can search the collection for a wild relative that resists it. In this way, [10] __you can__ protect our food supply with plants that most of us have never heard of.",
+       "q": "Question 10: Choose the best version of underlined portion [10]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "we can",
+        "one can",
+        "they can"
+       ],
+       "a": 1,
+       "e": "The paragraph uses the first person plural: *Why should we care … our food supply … most of us*. *We can* keeps it consistent. A, C and D shift to another person.",
+       "s": "Shifts: point of view"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Read beyond the underline: the non-underlined verbs and pronouns set the tense and point of view you must match.",
+    "Narrative essays usually stay in the past; informational essays usually stay in the present — shift only when the time really changes (today, still, since, a general fact).",
+    "Do not switch between one / you / we / they, or between singular and plural, for the same people.",
+    "Keep active voice when the same person keeps acting; avoid an added *by them*.",
+    "Keep commands as commands, and use the right if-pattern: never *will* or *would* in the if-clause."
+   ]
+  }
+ ]
+}

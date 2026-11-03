@@ -1,0 +1,583 @@
+{
+ "slug": "act-modifiers",
+ "nav": "Modifiers",
+ "title": "Misplaced and Dangling Modifiers",
+ "kicker": "American Diploma · ACT · English: Conventions of Standard English",
+ "summary": "The opening phrase must describe the noun right after the comma — dangling and misplaced modifiers, only/almost placement, how to spot the fix in the choices, and a 10-question ACT-style practice.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Modifier questions belong to the **Conventions of Standard English** reporting category of the ACT English test (38–43% of the English score, together with punctuation and usage). The English test has **50 questions (40 scored) in 35 minutes** over five essays: three of about 340 words with 10 questions each and two of about 185 words with 5 questions each."
+  },
+  {
+   "type": "p",
+   "text": "A modifier item is easy to recognise: the underlined portion is often **long** — sometimes a whole sentence — and the four choices (the first usually **NO CHANGE**) contain **the same words in a different order**, or switch between active and passive (\"the farmers cut the dates\" / \"the dates are cut by the farmers\"). When the choices shuffle word order, the ACT is testing one thing: **is every describing word or phrase sitting next to the thing it describes?**"
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الفكرة الأساسية",
+   "text": "الكلمة أو الجملة اللي بتوصف حاجة لازم تكون جنبها على طول. لو الجملة بتبدأ بوصف وبعده فاصلة (زي Walking… أو Built in…)، أول اسم بعد الفاصلة لازم يكون هو اللي بيعمل الوصف ده. لو لأ، يبقى dangling modifier = غلط."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 1: The opening phrase describes the noun right after the comma"
+  },
+  {
+   "type": "p",
+   "text": "A **modifier** is a word or phrase that describes something. When a sentence **opens** with a describing phrase and a comma, English grammar attaches that phrase to the **first noun after the comma** (the subject). If that noun is not the one doing or being the action, the modifier is **dangling** — and the sentence says something silly."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ Walking along the Corniche, the sea breeze felt wonderful. (the breeze was not walking)",
+    "✓ Walking along the Corniche, we felt the wonderful sea breeze."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "The ACT uses many kinds of opening modifier. Learn to spot them all:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Opening modifier",
+    "✗ Dangling",
+    "✓ Correct"
+   ],
+   "rows": [
+    [
+     "-ing phrase",
+     "Studying late every night, the exam seemed easy.",
+     "Studying late every night, Omar found the exam easy."
+    ],
+    [
+     "-ed / past participle phrase",
+     "Built in 1902, tourists still visit the old bridge.",
+     "Built in 1902, the old bridge is still visited by tourists."
+    ],
+    [
+     "Having + past participle",
+     "Having finished the final, the trophy was lifted by the captain.",
+     "Having finished the final, the captain lifted the trophy."
+    ],
+    [
+     "To + verb (purpose)",
+     "To win the science fair, a strong hypothesis is needed.",
+     "To win the science fair, a student needs a strong hypothesis."
+    ],
+    [
+     "After / Before / While + -ing",
+     "After reading the report, the plan was changed.",
+     "After reading the report, the manager changed the plan."
+    ],
+    [
+     "Noun phrase (appositive)",
+     "A talented singer, the audience loved Hany's voice.",
+     "A talented singer, Hany was loved by the audience."
+    ],
+    [
+     "Adjective phrase",
+     "Famous for its dates, tourists visit Siwa in October.",
+     "Famous for its dates, Siwa attracts tourists in October."
+    ],
+    [
+     "As a… / Like… / Unlike…",
+     "Unlike her brother, chemistry bores Salma.",
+     "Unlike her brother, Salma finds chemistry boring."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**The test question to ask:** \"Who or what is doing this?\" Then check that this exact noun comes right after the comma."
+  },
+  {
+   "type": "h2",
+   "text": "Three special traps in Rule 1"
+  },
+  {
+   "type": "p",
+   "text": "**1. The possessive trap.** The right name appears, but as a possessive (Mona's, the city's), so the real subject is the thing owned."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ Trained as a pharmacist, Mona's first job was in Tanta. (the job was not trained)",
+    "✓ Trained as a pharmacist, Mona found her first job in Tanta."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**2. The passive trap.** Changing to the passive voice can move the wrong noun to the front. Sometimes the passive is the fix, sometimes it is the problem — always check which noun follows the comma."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ Climbing the tall palms, the dates are cut by the farmers.",
+    "✓ Climbing the tall palms, the farmers cut the dates.",
+    "✓ Packed in wooden boxes, the dates are sent to Cairo. (here the passive is correct: the dates were packed)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**3. The \"it / there\" trap.** \"It\" and \"there\" cannot do an action, so they can never follow an opening -ing phrase that needs a person."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ Entering the classroom, there was a strange smell.",
+    "✓ Entering the classroom, the students noticed a strange smell."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Two ways to fix a dangling modifier"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Put the doer right after the comma.** Keep the opening phrase and change the main clause: \"Walking along the Corniche, **we** felt the breeze.\" This is the fix the ACT uses most.",
+    "**Give the opening phrase its own subject.** Turn it into a full dependent clause: \"**While we were walking** along the Corniche, the sea breeze felt wonderful.\" Now the phrase is not a modifier any more, so any subject can follow."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "Both fixes are correct. On the ACT, the underline usually covers the words **after** the comma, so the first fix is the one you will see in the choices. If the underline covers the opening phrase, look for the second fix."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 2: Misplaced words and phrases"
+  },
+  {
+   "type": "p",
+   "text": "A modifier can also be **misplaced** in the middle or at the end of a sentence. Phrases and relative clauses attach to the **nearest** noun."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ The waiter brought a cake to the table covered in chocolate. (the table is covered?)",
+    "✓ The waiter brought a cake covered in chocolate to the table.",
+    "✗ The first version of the arm could barely lift a block that we built. (we built the block?)",
+    "✓ The first version of the arm that we built could barely lift a block.",
+    "✗ I saw a mosque driving through Old Cairo with a beautiful minaret.",
+    "✓ Driving through Old Cairo, I saw a mosque with a beautiful minaret."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Limiting words.** Words such as **only, almost, nearly, just, even, hardly, barely, merely, exactly** describe the word that comes **right after** them. Moving them changes the meaning — and the ACT wants the logical meaning."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Sentence",
+    "What it really says"
+   ],
+   "rows": [
+    [
+     "✗ She almost read the whole book.",
+     "She nearly started reading, but did not (illogical)."
+    ],
+    [
+     "✓ She read almost the whole book.",
+     "She read most of it."
+    ],
+    [
+     "✗ The library is nearly open every day.",
+     "It is almost open, but not quite (illogical)."
+    ],
+    [
+     "✓ The library is open nearly every day.",
+     "It opens on most days."
+    ],
+    [
+     "✗ He only drinks water at lunch.",
+     "At lunch he only drinks it (does not do anything else with it)."
+    ],
+    [
+     "✓ He drinks only water at lunch.",
+     "Water is his only drink at lunch."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Rule of thumb:** put the limiting word directly in front of the number, amount or word it limits — \"**only** three students\", \"**almost** every round\", \"**nearly** two hours\"."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "only و almost",
+   "text": "كلمات زي only و almost و nearly و just بتوصف الكلمة اللي بعدها على طول. قول: I won almost every game (كسبت تقريبًا كل الماتشات) مش I almost won every game (كنت قربت أكسب بس مكسبتش). حطها قبل الرقم أو الكمية مباشرة."
+  },
+  {
+   "type": "h2",
+   "text": "How to spot the fix in the choices"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Notice the shuffle.** If the four choices use the same words in a different order, this is a modifier question.",
+    "**Name the doer.** Read the opening phrase and decide who or what is doing it (who was climbing? what was built?).",
+    "**Eliminate** every choice where a different noun — or a possessive, \"it\" or \"there\" — follows the comma.",
+    "**Check the rest.** Among the survivors, make sure the sentence is complete and not a comma splice, and that phrases in the middle and end also touch the right noun.",
+    "**Read it aloud in your head.** The correct version should make sense literally, not just \"probably\"."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — dangling -ed phrase**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: __Opened in 1869, ships from all over the world have used the Suez Canal__ to travel between Europe and Asia."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) NO CHANGE",
+    "B) Opened in 1869, the Suez Canal has been used by ships from all over the world",
+    "C) Opened in 1869, the ships of the world have used the Suez Canal",
+    "D) Ships from all over the world, opened in 1869, have used the Suez Canal"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) ✗ Wrong: \"ships\" follows the comma, so the sentence says the ships were opened in 1869.",
+    "B) ✓ Correct: The canal was opened, and \"the Suez Canal\" comes right after the comma. The passive voice is the fix here.",
+    "C) ✗ Wrong: Still dangling — the ships, not the canal, follow the modifier.",
+    "D) ✗ Wrong: Misplaced — \"opened in 1869\" now sits next to \"the world\" / \"ships\"."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — the possessive trap**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: __Trained as a pharmacist in Alexandria, Mona's first job was__ in a small hospital in Tanta."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) NO CHANGE",
+    "B) Trained as a pharmacist in Alexandria, the first job Mona had was",
+    "C) Trained as a pharmacist in Alexandria, Mona found her first job",
+    "D) Mona's first job, trained as a pharmacist in Alexandria, was"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) ✗ Wrong: The subject is \"job\", not Mona — a job cannot be trained.",
+    "B) ✗ Wrong: \"the first job\" follows the comma — still dangling.",
+    "C) ✓ Correct: Mona was trained, and \"Mona\" is the subject right after the comma.",
+    "D) ✗ Wrong: The phrase now describes \"job\" from the middle of the sentence — misplaced."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — a limiting word**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: The new public library is __nearly open__ every day of the year; it closes only on two national holidays."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) NO CHANGE",
+    "B) open nearly",
+    "C) nearly opened",
+    "D) open, nearly,"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) ✗ Wrong: \"nearly open\" means the library is almost open but not quite — illogical with the next clause.",
+    "B) ✓ Correct: \"nearly\" now limits \"every day\": the library opens on almost all days, which matches \"closes only on two holidays\".",
+    "C) ✗ Wrong: Changes the meaning and the tense; still illogical.",
+    "D) ✗ Wrong: Commas make \"nearly\" an interruption and the meaning unclear."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4 — a misplaced phrase at the end**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: At the party, the waiter brought __a cake to the table covered in chocolate__."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) NO CHANGE",
+    "B) a cake to the table, covered in chocolate",
+    "C) covered in chocolate a cake to the table",
+    "D) a cake covered in chocolate to the table"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer: D**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) ✗ Wrong: \"covered in chocolate\" touches \"table\", so the table is covered in chocolate.",
+    "B) ✗ Wrong: A comma does not move the phrase; it still seems to describe the table (or the waiter).",
+    "C) ✗ Wrong: Awkward and unclear word order.",
+    "D) ✓ Correct: The phrase sits right after \"cake\", the thing it describes."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**The possessive dangler:** \"Born in Tanta, Ali's paintings…\" — Ali is mentioned, but the subject is \"paintings\".",
+    "**The passive switch:** \"Climbing the palms, the dates are cut by the farmers\" — the passive puts the wrong noun first.",
+    "**It / there after an -ing opener:** \"Entering the room, there was…\" is always wrong.",
+    "**The one-word answer:** a choice that only changes the verb tense or a comma never fixes a dangling modifier.",
+    "**The misplaced only/almost:** \"I almost won every round\" vs \"I won almost every round\" — pick the logical meaning.",
+    "**The far-away which-clause:** \"…a block that we built\" when we built the arm, not the block."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Same words, different order in the choices → modifier question.",
+    "Opening phrase + comma → ask \"Who is doing this?\" and find that noun right after the comma.",
+    "Cross out choices with a possessive, \"it\", or \"there\" right after the comma.",
+    "only / almost / nearly / just → put it right before the word or amount it limits.",
+    "A long correct choice beats a short dangling one — the ACT does not reward brevity when the meaning is wrong."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "طريقة الحل في الامتحان",
+   "text": "لو الاختيارات الأربعة نفس الكلام بس مترتب بشكل مختلف، يبقى السؤال عن الـ modifier. اسأل نفسك: مين اللي بيعمل الوصف اللي في أول الجملة؟ ودوّر على الاختيار اللي الاسم ده جاي فيه بعد الفاصلة على طول. استبعد أي اختيار فيه 's أو it أو there بعد الفاصلة."
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Two short ACT-style essays, 5 questions each. Every item tests modifier placement — sometimes NO CHANGE is correct. Explanations appear after you answer."
+  },
+  {
+   "type": "test",
+   "title": "Misplaced and Dangling Modifiers — ACT-style practice",
+   "timed": false,
+   "intro": "Two short essays, 10 questions. Choose the best version of each underlined portion. NO CHANGE keeps the original.",
+   "sections": [
+    {
+     "name": "Passages I–II",
+     "minutes": 8,
+     "questions": [
+      {
+       "p": "Dates and Salt in Siwa\n\n[1] __Located far out in Egypt's Western Desert, visitors are often surprised by the oasis of Siwa.__ Thousands of palm trees grow around its salt lakes, and the oasis is famous for its dates.\n\nMy cousin Karim, a farmer there, showed me how the harvest works. [2] __Climbing the tall trunks with only a rope belt, the dates are cut by the farmers.__ The fruit is then lowered to the ground in baskets. The work is dangerous, but Karim has done it since he was fifteen.\n\nAfter the harvest, the dates are spread out on mats in the sun. Karim [3] __only lets them dry for__ a few days, because too much heat makes them hard. [4] __Packed in palm-leaf boxes, the dates are bought by merchants from Cairo and Alexandria__ every October.\n\nKarim also took me to one of the salt lakes. [5] __Floating easily on the water, the lake surprised me with how salty it was__: I could not sink even when I tried. Karim laughed and told me that every visitor says exactly the same thing.",
+       "q": "Question 1: Choose the best version of underlined portion [1]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "Located far out in Egypt's Western Desert, the oasis of Siwa often surprises visitors.",
+        "Located far out in Egypt's Western Desert, there is an oasis called Siwa that often surprises visitors.",
+        "Visitors, located far out in Egypt's Western Desert, are often surprised by the oasis of Siwa."
+       ],
+       "a": 1,
+       "e": "The oasis is located in the desert, so \"the oasis of Siwa\" must follow the comma (B). A says the visitors are located there; C puts \"there\" after the modifier; D attaches the phrase to \"Visitors\".",
+       "s": "Dangling modifiers"
+      },
+      {
+       "p": "Dates and Salt in Siwa\n\n[1] __Located far out in Egypt's Western Desert, visitors are often surprised by the oasis of Siwa.__ Thousands of palm trees grow around its salt lakes, and the oasis is famous for its dates.\n\nMy cousin Karim, a farmer there, showed me how the harvest works. [2] __Climbing the tall trunks with only a rope belt, the dates are cut by the farmers.__ The fruit is then lowered to the ground in baskets. The work is dangerous, but Karim has done it since he was fifteen.\n\nAfter the harvest, the dates are spread out on mats in the sun. Karim [3] __only lets them dry for__ a few days, because too much heat makes them hard. [4] __Packed in palm-leaf boxes, the dates are bought by merchants from Cairo and Alexandria__ every October.\n\nKarim also took me to one of the salt lakes. [5] __Floating easily on the water, the lake surprised me with how salty it was__: I could not sink even when I tried. Karim laughed and told me that every visitor says exactly the same thing.",
+       "q": "Question 2: Choose the best version of underlined portion [2]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "Climbing the tall trunks with only a rope belt, the farmers' knives cut the dates.",
+        "Climbing the tall trunks with only a rope belt, the farmers cut the dates.",
+        "The dates are cut, climbing the tall trunks with only a rope belt, by the farmers."
+       ],
+       "a": 2,
+       "e": "The farmers do the climbing, so \"the farmers\" must follow the comma (C). A (passive) makes the dates climb; B is the possessive trap — the knives climb; D places the phrase next to \"The dates are cut\".",
+       "s": "Dangling modifiers: passive / possessive trap"
+      },
+      {
+       "p": "Dates and Salt in Siwa\n\n[1] __Located far out in Egypt's Western Desert, visitors are often surprised by the oasis of Siwa.__ Thousands of palm trees grow around its salt lakes, and the oasis is famous for its dates.\n\nMy cousin Karim, a farmer there, showed me how the harvest works. [2] __Climbing the tall trunks with only a rope belt, the dates are cut by the farmers.__ The fruit is then lowered to the ground in baskets. The work is dangerous, but Karim has done it since he was fifteen.\n\nAfter the harvest, the dates are spread out on mats in the sun. Karim [3] __only lets them dry for__ a few days, because too much heat makes them hard. [4] __Packed in palm-leaf boxes, the dates are bought by merchants from Cairo and Alexandria__ every October.\n\nKarim also took me to one of the salt lakes. [5] __Floating easily on the water, the lake surprised me with how salty it was__: I could not sink even when I tried. Karim laughed and told me that every visitor says exactly the same thing.",
+       "q": "Question 3: Choose the best version of underlined portion [3]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "lets only them dry for",
+        "lets them only dry for",
+        "lets them dry for only"
+       ],
+       "a": 3,
+       "e": "\"Only\" should limit the time: \"for only a few days\" (D). A and C put \"only\" before the verb, as if drying were the only thing he lets them do; B says only the dates (and nothing else) may dry.",
+       "s": "Misplaced limiting words"
+      },
+      {
+       "p": "Dates and Salt in Siwa\n\n[1] __Located far out in Egypt's Western Desert, visitors are often surprised by the oasis of Siwa.__ Thousands of palm trees grow around its salt lakes, and the oasis is famous for its dates.\n\nMy cousin Karim, a farmer there, showed me how the harvest works. [2] __Climbing the tall trunks with only a rope belt, the dates are cut by the farmers.__ The fruit is then lowered to the ground in baskets. The work is dangerous, but Karim has done it since he was fifteen.\n\nAfter the harvest, the dates are spread out on mats in the sun. Karim [3] __only lets them dry for__ a few days, because too much heat makes them hard. [4] __Packed in palm-leaf boxes, the dates are bought by merchants from Cairo and Alexandria__ every October.\n\nKarim also took me to one of the salt lakes. [5] __Floating easily on the water, the lake surprised me with how salty it was__: I could not sink even when I tried. Karim laughed and told me that every visitor says exactly the same thing.",
+       "q": "Question 4: Choose the best version of underlined portion [4]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "Packed in palm-leaf boxes, merchants from Cairo and Alexandria buy the dates",
+        "Merchants from Cairo and Alexandria, packed in palm-leaf boxes, buy the dates",
+        "Packed in palm-leaf boxes, Cairo and Alexandria's merchants buy the dates"
+       ],
+       "a": 0,
+       "e": "Correct as written: the dates are packed, and \"the dates\" follows the comma — here the passive voice is right. B and D make the merchants packed in boxes; C attaches the phrase directly to \"Merchants\".",
+       "s": "Dangling modifiers"
+      },
+      {
+       "p": "Dates and Salt in Siwa\n\n[1] __Located far out in Egypt's Western Desert, visitors are often surprised by the oasis of Siwa.__ Thousands of palm trees grow around its salt lakes, and the oasis is famous for its dates.\n\nMy cousin Karim, a farmer there, showed me how the harvest works. [2] __Climbing the tall trunks with only a rope belt, the dates are cut by the farmers.__ The fruit is then lowered to the ground in baskets. The work is dangerous, but Karim has done it since he was fifteen.\n\nAfter the harvest, the dates are spread out on mats in the sun. Karim [3] __only lets them dry for__ a few days, because too much heat makes them hard. [4] __Packed in palm-leaf boxes, the dates are bought by merchants from Cairo and Alexandria__ every October.\n\nKarim also took me to one of the salt lakes. [5] __Floating easily on the water, the lake surprised me with how salty it was__: I could not sink even when I tried. Karim laughed and told me that every visitor says exactly the same thing.",
+       "q": "Question 5: Choose the best version of underlined portion [5]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "Floating easily on the water, I was surprised by how salty the lake was",
+        "Floating easily on the water, the lake's saltiness surprised me",
+        "Floating easily on the water, it surprised me how salty the lake was"
+       ],
+       "a": 1,
+       "e": "The writer is floating, so \"I\" must follow the comma (B). A makes the lake float; C is the possessive-style trap (saltiness floats); D puts \"it\" after the modifier.",
+       "s": "Dangling modifiers"
+      },
+      {
+       "p": "Building a Robot in Six Weeks\n\nLast spring, our school entered a national robotics competition for the first time. [6] __Having never built a robot before, the rules seemed__ impossible at first. Each team had six weeks to design a machine that could sort coloured blocks.\n\nOur team captain, Youssef, divided us into small groups and gave each group one clear job. [7] __A careful planner, Youssef made__ a schedule for every afternoon and taped it to the lab door. The programmers worked on the code while the rest of us built the arm.\n\n[8] __The first version of the arm could barely lift a block that we built.__ We rebuilt it three times, changing the motors and the grip each time, and we tested every version late into the evening. [9] __After testing the fourth version, our confidence finally grew.__\n\nAt the competition, [10] __we almost won every round__ in the morning, losing only once, and we finished fifth out of forty teams. The judges even praised the simple design of our arm. For a team of beginners, we were proud of that result.",
+       "q": "Question 6: Choose the best version of underlined portion [6]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "Having never built a robot before, we found the rules",
+        "Having never built a robot before, our team's rules seemed",
+        "The rules, having never built a robot before, seemed"
+       ],
+       "a": 1,
+       "e": "The students had never built a robot, so \"we\" must follow the comma (B). A makes the rules the builders; C is the possessive trap (the subject is \"rules\"); D attaches the phrase to \"The rules\".",
+       "s": "Dangling modifiers"
+      },
+      {
+       "p": "Building a Robot in Six Weeks\n\nLast spring, our school entered a national robotics competition for the first time. [6] __Having never built a robot before, the rules seemed__ impossible at first. Each team had six weeks to design a machine that could sort coloured blocks.\n\nOur team captain, Youssef, divided us into small groups and gave each group one clear job. [7] __A careful planner, Youssef made__ a schedule for every afternoon and taped it to the lab door. The programmers worked on the code while the rest of us built the arm.\n\n[8] __The first version of the arm could barely lift a block that we built.__ We rebuilt it three times, changing the motors and the grip each time, and we tested every version late into the evening. [9] __After testing the fourth version, our confidence finally grew.__\n\nAt the competition, [10] __we almost won every round__ in the morning, losing only once, and we finished fifth out of forty teams. The judges even praised the simple design of our arm. For a team of beginners, we were proud of that result.",
+       "q": "Question 7: Choose the best version of underlined portion [7]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "A careful planner, Youssef's schedule was made",
+        "A careful planner, a schedule was made by Youssef",
+        "A careful planner, it was Youssef who made"
+       ],
+       "a": 0,
+       "e": "Correct as written: \"A careful planner\" describes Youssef, and \"Youssef\" follows the comma. B is the possessive trap; C (passive) and D put \"a schedule\" or \"it\" after the comma.",
+       "s": "Dangling modifiers: appositive"
+      },
+      {
+       "p": "Building a Robot in Six Weeks\n\nLast spring, our school entered a national robotics competition for the first time. [6] __Having never built a robot before, the rules seemed__ impossible at first. Each team had six weeks to design a machine that could sort coloured blocks.\n\nOur team captain, Youssef, divided us into small groups and gave each group one clear job. [7] __A careful planner, Youssef made__ a schedule for every afternoon and taped it to the lab door. The programmers worked on the code while the rest of us built the arm.\n\n[8] __The first version of the arm could barely lift a block that we built.__ We rebuilt it three times, changing the motors and the grip each time, and we tested every version late into the evening. [9] __After testing the fourth version, our confidence finally grew.__\n\nAt the competition, [10] __we almost won every round__ in the morning, losing only once, and we finished fifth out of forty teams. The judges even praised the simple design of our arm. For a team of beginners, we were proud of that result.",
+       "q": "Question 8: Choose the best version of underlined portion [8]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "The first version of the arm could barely lift, that we built, a block.",
+        "The first version of the arm that we built could barely lift a block.",
+        "The first version could barely lift a block of the arm that we built."
+       ],
+       "a": 2,
+       "e": "\"that we built\" describes the arm, so it must come right after \"arm\" (C). A makes it describe the block; B breaks up the sentence; D creates a confusing \"block of the arm\".",
+       "s": "Misplaced modifiers"
+      },
+      {
+       "p": "Building a Robot in Six Weeks\n\nLast spring, our school entered a national robotics competition for the first time. [6] __Having never built a robot before, the rules seemed__ impossible at first. Each team had six weeks to design a machine that could sort coloured blocks.\n\nOur team captain, Youssef, divided us into small groups and gave each group one clear job. [7] __A careful planner, Youssef made__ a schedule for every afternoon and taped it to the lab door. The programmers worked on the code while the rest of us built the arm.\n\n[8] __The first version of the arm could barely lift a block that we built.__ We rebuilt it three times, changing the motors and the grip each time, and we tested every version late into the evening. [9] __After testing the fourth version, our confidence finally grew.__\n\nAt the competition, [10] __we almost won every round__ in the morning, losing only once, and we finished fifth out of forty teams. The judges even praised the simple design of our arm. For a team of beginners, we were proud of that result.",
+       "q": "Question 9: Choose the best version of underlined portion [9]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "After testing the fourth version, confidence finally grew in us.",
+        "After testing the fourth version, our team's confidence finally grew.",
+        "After testing the fourth version, we finally felt confident."
+       ],
+       "a": 3,
+       "e": "The team did the testing, so \"we\" must follow the comma (D). A and C make \"confidence\" the tester (C with the possessive trap); B also puts \"confidence\" after the comma.",
+       "s": "Dangling modifiers"
+      },
+      {
+       "p": "Building a Robot in Six Weeks\n\nLast spring, our school entered a national robotics competition for the first time. [6] __Having never built a robot before, the rules seemed__ impossible at first. Each team had six weeks to design a machine that could sort coloured blocks.\n\nOur team captain, Youssef, divided us into small groups and gave each group one clear job. [7] __A careful planner, Youssef made__ a schedule for every afternoon and taped it to the lab door. The programmers worked on the code while the rest of us built the arm.\n\n[8] __The first version of the arm could barely lift a block that we built.__ We rebuilt it three times, changing the motors and the grip each time, and we tested every version late into the evening. [9] __After testing the fourth version, our confidence finally grew.__\n\nAt the competition, [10] __we almost won every round__ in the morning, losing only once, and we finished fifth out of forty teams. The judges even praised the simple design of our arm. For a team of beginners, we were proud of that result.",
+       "q": "Question 10: Choose the best version of underlined portion [10]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "almost we won every round",
+        "we won almost every round",
+        "we won every almost round"
+       ],
+       "a": 2,
+       "e": "\"almost\" must limit \"every round\": they won most rounds, losing only once (C). A means they nearly won but did not win any — illogical with \"losing only once\"; B and D are unclear or ungrammatical.",
+       "s": "Misplaced limiting words"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "An opening phrase + comma describes the first noun after the comma — make it the right doer.",
+    "Watch the possessive trap (Mona's job), the passive trap and it / there after an opener.",
+    "Fix by putting the doer after the comma, or by giving the opening phrase its own subject (While we were walking…).",
+    "Phrases and which/that clauses go right next to the noun they describe.",
+    "only / almost / nearly / just go right before the word or amount they limit."
+   ]
+  }
+ ]
+}
