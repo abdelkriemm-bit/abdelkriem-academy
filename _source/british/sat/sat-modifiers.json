@@ -1,7 +1,9 @@
 {
- "title": "Modifiers, Parallel Structure and Comparisons",
- "kicker": "American Diploma · Digital SAT · Standard English Conventions",
- "summary": "Dangling and misplaced modifiers, the possessive trap, parallel structure and faulty comparisons — the rule, the 3-step method, worked examples and a 12-question practice quiz.",
+ "slug": "sat-modifiers",
+ "nav": "Modifiers",
+ "title": "Dangling and Misplaced Modifiers",
+ "kicker": "American Diploma · Digital SAT · Grammar: Form, Structure and Sense",
+ "summary": "Make every describing phrase point to the right noun: the doer question, appositive openers, the possessive and \"of\" traps, it/there/passive danglers and misplaced modifiers — with worked examples and a 10-question practice quiz.",
  "blocks": [
   {
    "type": "h2",
@@ -13,11 +15,11 @@
   },
   {
    "type": "p",
-   "text": "The question always looks the same: one short text (25–150 words) with a blank, and the stem **\"Which choice completes the text so that it conforms to the conventions of Standard English?\"** In a modifier question, the sentence usually **starts with a describing phrase followed by a comma**, and the blank comes right after that comma. All four choices contain more or less the same words, but each one puts a different noun first. Your job is to choose the choice that starts with the person or thing the opening phrase actually describes."
+   "text": "The question always looks the same: one short text (25–150 words) with a blank, and the stem **\"Which choice completes the text so that it conforms to the conventions of Standard English?\"** In a modifier question, the sentence usually **starts with a describing phrase followed by a comma**, and the blank comes right after that comma. All four choices contain more or less the same words, but each one puts a different noun first. Your job is to pick the choice that starts with the person or thing the opening phrase really describes."
   },
   {
    "type": "p",
-   "text": "This page also teaches two related \"sense\" problems: **parallel structure** (matching forms in a list or pair) and **faulty comparisons** (comparing two things that cannot logically be compared). They are not named as separate skills in the official skill list, but they are about the same idea — a sentence must say what it means — and they help you reject choices that are grammatically messy."
+   "text": "Less often, the blank holds a whole group of words in a different order, and you must choose the order that keeps each describing phrase **next to** the word it describes. That is a misplaced modifier question (Rule 6 below)."
   },
   {
    "type": "h2",
@@ -25,7 +27,7 @@
   },
   {
    "type": "p",
-   "text": "A **modifier** is a word or group of words that describes something else in the sentence. The SAT mostly tests **introductory modifiers**: phrases that open the sentence, end with a comma, and have **no subject of their own**. Because they have no subject, the reader borrows the first noun after the comma as the subject. If that noun cannot logically do or be what the phrase describes, the modifier is **dangling**."
+   "text": "A **modifier** is a word or group of words that describes something else in the sentence. The SAT mostly tests **introductory modifiers**: phrases that open the sentence, end with a comma, and have **no subject of their own**. Because they have no subject, the reader borrows the first noun after the comma as the subject. If that noun cannot logically do or be what the phrase describes, the modifier is **dangling** — it is \"hanging\" with nothing to hold on to."
   },
   {
    "type": "table",
@@ -74,12 +76,17 @@
      "Subordinator + -ing / -ed",
      "While studying in Paris, / Once dried,",
      "Who was studying? What was dried?"
+    ],
+    [
+     "Comparison opener",
+     "Like her older brother, / Unlike most birds,",
+     "Who is like the brother? What is unlike birds?"
     ]
    ]
   },
   {
    "type": "p",
-   "text": "The answer to the \"Ask yourself\" question must be the **first noun after the comma** — the subject of the main clause."
+   "text": "The answer to the \"Ask yourself\" question must be the **first noun after the comma** — the subject of the main clause. We call this the **doer question**."
   },
   {
    "type": "h2",
@@ -87,7 +94,7 @@
   },
   {
    "type": "p",
-   "text": "This is the one rule that answers most modifier questions. Read the opening phrase, decide who or what it describes, and check that this person or thing comes immediately after the comma."
+   "text": "This one rule answers most modifier questions. Read the opening phrase, decide who or what it describes, and check that this person or thing comes immediately after the comma."
   },
   {
    "type": "list",
@@ -97,9 +104,19 @@
     "✓ Walking along the Corniche, **Salma** felt the cool sea breeze.",
     "✗ Built in the fourteenth century, **tourists** still visit the mosque every day. (The tourists were not built in the fourteenth century.)",
     "✓ Built in the fourteenth century, **the mosque** still welcomes tourists every day.",
-    "✗ To reduce traffic, **new bus lanes** were added by the city. (Bus lanes do not have goals.)",
-    "✓ To reduce traffic, **the city** added new bus lanes."
+    "✗ Famous for its blue tiles, **visitors** photograph the old school all day. (The visitors are not famous for blue tiles.)",
+    "✓ Famous for its blue tiles, **the old school** is photographed by visitors all day.",
+    "✗ Once dried, **you** can grind the coffee beans. (You are not dried.)",
+    "✓ Once dried, **the coffee beans** can be ground."
    ]
+  },
+  {
+   "type": "p",
+   "text": "Notice the last two ✓ sentences use the passive (\"is photographed\", \"can be ground\"). The passive is not wrong in itself. What matters is **which noun comes first**. If the thing being described is the thing that \"receives\" the action, a passive verb may be exactly what the sentence needs."
+  },
+  {
+   "type": "p",
+   "text": "Titles and adjectives in front of the noun do not change anything. \"Egyptian architect Hassan Fathy\", \"the young engineer\" and \"marine biologist Lena Ortiz\" all have a person as the head noun, so they are fine after a phrase that describes a person."
   },
   {
    "type": "h2",
@@ -107,7 +124,7 @@
   },
   {
    "type": "p",
-   "text": "An appositive is a noun phrase such as \"A former math teacher\" or \"The oldest university in Africa\". When it opens the sentence, it is another name for the subject, so the subject must be the **same kind of thing**: a person for a person, a place for a place, an object for an object."
+   "text": "An appositive is a noun phrase such as \"A former math teacher\" or \"The oldest university in Africa\". When it opens the sentence, it is **another name for the subject**, so the subject must be the **same kind of thing**: a person for a person, a place for a place, an object for an object. Test it by joining them with \"is/was\": \"Hana **was** a former math teacher\" makes sense; \"Hana's novels **were** a former math teacher\" does not."
   },
   {
    "type": "list",
@@ -116,7 +133,9 @@
     "✗ A former math teacher, **Hana's novels** often include puzzles. (The novels were not a teacher.)",
     "✓ A former math teacher, **Hana** often includes puzzles in her novels.",
     "✗ A city of over twenty million people, **traffic** is a daily challenge in Cairo.",
-    "✓ A city of over twenty million people, **Cairo** faces a daily traffic challenge."
+    "✓ A city of over twenty million people, **Cairo** faces a daily traffic challenge.",
+    "✗ The first woman to win the prize, **the committee** praised Dr. Amal Zaki's research.",
+    "✓ The first woman to win the prize, **Dr. Amal Zaki** was praised by the committee for her research."
    ]
   },
   {
@@ -125,7 +144,7 @@
   },
   {
    "type": "p",
-   "text": "The SAT's favourite trap is a choice that **mentions** the right person but does not make that person the subject. In \"Hana's novels\", the subject is **novels**; Hana is only describing which novels. In \"the research of Dr. Saleh\", the subject is **research**. Find the **head noun** — the main noun that the verb belongs to."
+   "text": "The SAT's favourite trap is a choice that **mentions** the right person but does not make that person the subject. In \"Hana's novels\", the subject is **novels**; Hana only tells us whose novels. In \"the research of Dr. Saleh\", the subject is **research**. Find the **head noun** — the main noun that the verb belongs to."
   },
   {
    "type": "list",
@@ -133,12 +152,14 @@
    "items": [
     "✗ Having studied the samples for months, **the scientist's conclusion** was surprising. (head noun = conclusion; a conclusion cannot study)",
     "✓ Having studied the samples for months, **the scientist** reached a surprising conclusion.",
+    "✗ Born in Alexandria, **her paintings** often show the sea. (\"her\" is a possessive too; the head noun is paintings, and paintings were not born.)",
+    "✓ Born in Alexandria, **the painter** often shows the sea in her work.",
     "✓ Painted in bright colours, **the temple's columns** attract photographers. (head noun = columns; the columns really were painted, so this possessive is correct)"
    ]
   },
   {
    "type": "p",
-   "text": "So a possessive is not automatically wrong. Ask: **after the possessive, what is the head noun, and can that noun do the action in the opening phrase?**"
+   "text": "So a possessive is **not automatically wrong**. Ask: **after the possessive, what is the head noun, and can that noun do or be what the opening phrase says?** Possessive pronouns (his, her, its, their) work exactly like possessive names."
   },
   {
    "type": "h2",
@@ -146,7 +167,7 @@
   },
   {
    "type": "p",
-   "text": "Choices that begin with **it is…, there is…**, or a **passive verb** (\"was discovered by\") push the real doer to the end of the sentence. After an introductory modifier, these choices are almost always wrong, even though they may sound formal."
+   "text": "Choices that begin with **it is…, there is…**, or a **passive verb with the doer at the end** (\"was discovered by the team\") push the real doer away from the comma. After an introductory modifier that describes a person, these choices are almost always wrong, even though they may sound formal."
   },
   {
    "type": "list",
@@ -159,12 +180,38 @@
    ]
   },
   {
+   "type": "p",
+   "text": "The same is true for infinitive openers. \"To reduce traffic\" needs someone with a goal: \"To reduce traffic, **the city** added bus lanes\" ✓, not \"To reduce traffic, **new bus lanes were added**\" ✗ or \"To reduce traffic, **it was decided** to add bus lanes\" ✗."
+  },
+  {
    "type": "h2",
-   "text": "Rule 5: Misplaced modifiers in the middle or end of a sentence"
+   "text": "Rule 5: When an opener is NOT a dangler"
   },
   {
    "type": "p",
-   "text": "A describing phrase should sit **next to** the word it describes. If it is far away, it seems to describe the wrong word, and the sentence becomes illogical or funny."
+   "text": "Do not panic at every opening phrase. If the opener is a **full clause with its own subject and verb**, it cannot dangle, so the dangling rule does not decide the answer."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "✓ While **Salma was walking** along the Corniche, the sea breeze felt cool. (The opener has its own subject, Salma.)",
+    "✓ Because **the beans had dried** in the sun, the farmers could grind them.",
+    "✓ **Her experiment finished**, the student cleaned the lab. (an absolute phrase: it has its own noun, \"experiment\")",
+    "✓ In 2019, the museum reopened. / In the desert, water is precious. (short time or place phrases do not need a doer)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "In these sentences, use your other grammar tools (verb form, agreement, punctuation) to choose the answer."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 6: Misplaced modifiers in the middle or at the end"
+  },
+  {
+   "type": "p",
+   "text": "A describing phrase should sit **next to** the word it describes. If it is far away, it seems to describe the wrong word, and the sentence becomes illogical or funny. Relative clauses (that…, which…, who…) and prepositional phrases (with…, from…) are the usual troublemakers."
   },
   {
    "type": "list",
@@ -173,8 +220,14 @@
     "✗ The museum displayed a statue for visitors **carved from a single block of granite**. (The visitors were carved?)",
     "✓ The museum displayed a statue **carved from a single block of granite** for visitors.",
     "✗ Omar found a fossil on his way home **that was 50 million years old**. (His way home was 50 million years old?)",
-    "✓ On his way home, Omar found a fossil **that was 50 million years old**."
+    "✓ On his way home, Omar found a fossil **that was 50 million years old**.",
+    "✗ The nurse gave the medicine to the child **in a small plastic cup** who was crying. (The cup was crying?)",
+    "✓ The nurse gave the medicine **in a small plastic cup** to the child **who was crying**."
    ]
+  },
+  {
+   "type": "p",
+   "text": "An -ing phrase at the **end** of a sentence, after a comma, describes the subject of the clause: \"The students left the lab, **forgetting** the samples\" means the students forgot. If that makes no sense, the phrase is misplaced: \"The bus left without us, **running** to the station\" ✗ (the bus was running?)."
   },
   {
    "type": "box",
@@ -183,7 +236,7 @@
    "items": [
     "لو الجملة بادئة بوصف وبعده فاصلة (Walking… / Built… / A former teacher…)، اسأل نفسك: مين اللي بيعمل الحاجة دي؟",
     "الإجابة لازم تكون أول اسم بعد الفاصلة على طول. لو أول اسم مش هو اللي بيعمل الفعل، الاختيار غلط.",
-    "خلي بالك من الملكية: Hana's novels الفاعل فيها novels مش Hana. وأي اختيار بيبدأ بـ it أو there أو مبني للمجهول غالبًا غلط."
+    "خلي بالك من الملكية: Hana's novels الفاعل فيها novels مش Hana. وأي اختيار بيبدأ بـ it أو there غالبًا غلط."
    ]
   },
   {
@@ -194,94 +247,14 @@
    "type": "list",
    "ordered": true,
    "items": [
-    "**Read the opening phrase and ask the doer question.** \"Having analysed the recordings\" → who analysed? Answer in your head: the biologist.",
-    "**Look only at the first noun of each choice.** Cross out every choice whose subject is not your answer. Check for possessives (\"the biologist's study\"), \"the ___ of\", \"it\", \"there\" and passive verbs.",
-    "**Check the survivor in the full sentence.** Make sure the rest of the sentence still works: the verb must agree with the subject and the sentence must be complete. Usually only one choice survives step 2."
+    "**Read the opening phrase and ask the doer question.** \"Having analysed the recordings\" → who analysed? Answer in your head before you read the choices: the biologist.",
+    "**Look only at the first noun of each choice.** Cross out every choice whose head noun is not your answer. Check for possessives (\"the biologist's study\"), \"the ___ of\", \"it\", \"there\" and passives that move the doer to the end.",
+    "**Check the survivor in the full sentence.** The verb must agree with the subject and the sentence must be complete. Usually only one choice survives step 2."
    ]
   },
   {
    "type": "p",
-   "text": "Notice that you often do **not** need to read the whole passage. The context sentence before the blank sometimes helps you understand the topic, but the grammar decision is made inside the sentence with the blank."
-  },
-  {
-   "type": "h2",
-   "text": "Related sense issue 1: parallel structure"
-  },
-  {
-   "type": "p",
-   "text": "When a sentence joins items with **and**, **or**, or a pair such as **both…and, either…or, neither…nor, not only…but also**, the joined items must have the **same grammatical form**: verb with verb, -ing with -ing, noun with noun, infinitive with infinitive. The SAT shows this in lists of actions and after \"not only… but also\"."
-  },
-  {
-   "type": "list",
-   "ordered": false,
-   "items": [
-    "✗ The app lets students **record** lessons, **share** notes, and **the creation of** quizzes.",
-    "✓ The app lets students **record** lessons, **share** notes, and **create** quizzes.",
-    "✗ A strong candidate must be honest, hard-working, and **show patience**.",
-    "✓ A strong candidate must be honest, hard-working, and **patient**.",
-    "✗ The reserve was created not only **to protect** reefs but also **for supporting** fishers.",
-    "✓ The reserve was created not only **to protect** reefs but also **to support** fishers."
-   ]
-  },
-  {
-   "type": "p",
-   "text": "**Quick check:** find the first item in the list, then make every later item start the same way. If the first item is \"to protect\", the second item should be \"to support\"; if the first is \"record\" after \"lets students\", the others must also fit after \"lets students\"."
-  },
-  {
-   "type": "h2",
-   "text": "Related sense issue 2: faulty comparisons"
-  },
-  {
-   "type": "p",
-   "text": "You can only compare **like with like**: a population with a population, a price with a price, a person with a person. A common mistake compares a **feature** of one thing with the **whole** of another thing."
-  },
-  {
-   "type": "list",
-   "ordered": false,
-   "items": [
-    "✗ The population of Cairo is larger than **Alexandria**. (population compared with a city)",
-    "✓ The population of Cairo is larger than **that of Alexandria**. (that = the population)",
-    "✓ Cairo's population is larger than **Alexandria's**. (Alexandria's = Alexandria's population)",
-    "✗ The shells of desert snails are thicker than **coastal snails**. (shells compared with snails)",
-    "✓ The shells of desert snails are thicker than **those of coastal snails**. (those = the shells — plural, so \"those\")",
-    "✗ **Unlike the earlier model's battery**, the new tablet can run all day. (battery compared with tablet)",
-    "✓ **Unlike the earlier model**, the new tablet can run all day."
-   ]
-  },
-  {
-   "type": "table",
-   "headers": [
-    "If the thing being compared is…",
-    "Use…",
-    "Example"
-   ],
-   "rows": [
-    [
-     "singular",
-     "that of",
-     "the cost of rice is higher than **that of** wheat"
-    ],
-    [
-     "plural",
-     "those of",
-     "the wings of bats are thinner than **those of** birds"
-    ],
-    [
-     "owned by a person/thing",
-     "a possessive",
-     "Mona's score was higher than **Karim's**"
-    ]
-   ]
-  },
-  {
-   "type": "p",
-   "text": "\"Unlike…\", \"Like…\", \"Compared with…\" and \"Similar to…\" at the start of a sentence are both comparisons **and** introductory modifiers, so the noun after the comma must be the same kind of thing as the noun in the opening phrase."
-  },
-  {
-   "type": "box",
-   "style": "ar",
-   "title": "المقارنة لازم تكون بين حاجتين من نفس النوع",
-   "text": "ماينفعش تقارن «عدد سكان القاهرة» بـ «الإسكندرية» نفسها. قارن عدد سكان بعدد سكان: than that of Alexandria. لو الحاجة مفرد استخدم that of، ولو جمع استخدم those of. وفي الـ parallel structure: لو أول حاجة في القائمة فعل، كل اللي بعدها أفعال بنفس الشكل."
+   "text": "You often do **not** need to read the whole passage. The sentence before the blank helps you understand the topic, but the grammar decision is made inside the sentence with the blank."
   },
   {
    "type": "h2",
@@ -317,7 +290,7 @@
     "Doer question: who analyzed the recordings? A person — Lena Ortiz. Choice B puts \"marine biologist Lena Ortiz\" right after the comma, and \"concluded that…\" completes the sentence.",
     "A is wrong: the head noun is \"conclusion\". A conclusion cannot analyze recordings (\"the ___ of\" trap).",
     "C is wrong: \"it\" comes after the comma, and the passive \"was concluded by\" hides the doer at the end (it/passive trap).",
-    "D is wrong: \"Lena Ortiz's conclusion\" — the possessive makes \"conclusion\" the subject, not Lena Ortiz (possessive trap)."
+    "D is wrong: in \"Lena Ortiz's conclusion\" the possessive makes \"conclusion\" the subject, not Lena Ortiz (possessive trap)."
    ]
   },
   {
@@ -347,19 +320,19 @@
    "style": "tip",
    "title": "Answer: C) Karim Nassar designed",
    "items": [
-    "The appositive \"A self-taught engineer from Aswan\" renames a person, so a person must come after the comma. Choice C gives \"Karim Nassar designed a low-cost solar water pump\" — a complete, logical sentence.",
-    "A is wrong: the subject is \"the design\", and a design is not an engineer.",
+    "The appositive \"A self-taught engineer from Aswan\" renames a person, so a person must come after the comma. Choice C gives \"Karim Nassar designed a low-cost solar water pump\" — complete and logical.",
+    "A is wrong: the subject is \"the design\", and a design is not an engineer (\"the ___ of/by\" trap).",
     "B is wrong: the subject is \"it\". The sentence now says \"it\" was a self-taught engineer (it/there trap).",
-    "D is wrong: \"Karim Nassar's design\" — head noun \"design\" again (possessive trap)."
+    "D is wrong: \"Karim Nassar's design\" has the head noun \"design\" again (possessive trap)."
    ]
   },
   {
    "type": "p",
-   "text": "**Worked example 3: a faulty comparison**"
+   "text": "**Worked example 3: when the possessive is correct**"
   },
   {
    "type": "p",
-   "text": "Snails that live in the dry hills of Sinai must protect themselves from heat and from birds. In a recent survey, researchers measured hundreds of snail shells and found that the shells of snails collected in the hills were thicker than ______ collected near the coast."
+   "text": "Restorers in Cairo spent two years cleaning an ancient statue that had been stored in a basement since the 1930s. Carved from a single block of red granite, ______ now stands in the museum's main courtyard."
   },
   {
    "type": "p",
@@ -369,30 +342,30 @@
    "type": "list",
    "ordered": false,
    "items": [
-    "A) snails",
-    "B) those of snails",
-    "C) that of snails",
-    "D) the snail"
+    "A) the work of the restorers",
+    "B) the pharaoh's statue",
+    "C) the restorers' cleaning of the statue",
+    "D) it is the statue that"
    ]
   },
   {
    "type": "box",
    "style": "tip",
-   "title": "Answer: B) those of snails",
+   "title": "Answer: B) the pharaoh's statue",
    "items": [
-    "The sentence compares shells. The second half must also be shells: \"those of snails\" = the shells of snails. \"Those\" is plural because \"shells\" is plural. Choice B is correct.",
-    "A is wrong: it compares shells with snails (faulty comparison).",
-    "C is wrong: \"that\" is singular, but it replaces the plural \"shells\" (number error).",
-    "D is wrong: it compares shells with a snail, and it is singular (faulty comparison)."
+    "Doer question: what was carved from granite? The statue. In B the head noun is \"statue\" (\"the pharaoh's\" only tells us whose statue), so the possessive is fine here: \"the pharaoh's statue now stands in the courtyard.\"",
+    "A is wrong: the head noun is \"work\". The restorers' work was not carved from granite (\"the ___ of\" trap).",
+    "C is wrong: the head noun is \"cleaning\", which cannot be carved.",
+    "D is wrong: it starts with \"it\", so the sentence says \"it\" was carved (it/there trap). It is also wordy."
    ]
   },
   {
    "type": "p",
-   "text": "**Worked example 4: parallel structure**"
+   "text": "**Worked example 4: a misplaced modifier**"
   },
   {
    "type": "p",
-   "text": "Each spring, the city holds a fair where teenagers present their own inventions. To qualify for the fair, a project must solve a real local problem, use materials costing less than 500 pounds, and ______ by a team of no more than three students."
+   "text": "A small bakery in Tanta has become famous online for its early-morning queues. Every day, the owner ______."
   },
   {
    "type": "p",
@@ -402,21 +375,21 @@
    "type": "list",
    "ordered": false,
    "items": [
-    "A) be built",
-    "B) building",
-    "C) it is built",
-    "D) to be built"
+    "A) sells bread to customers fresh from the oven who wait in line before sunrise",
+    "B) sells bread fresh from the oven to customers who wait in line before sunrise",
+    "C) sells bread to customers who wait in line before sunrise fresh from the oven",
+    "D) fresh from the oven, sells bread to customers who wait in line before sunrise"
    ]
   },
   {
    "type": "box",
    "style": "tip",
-   "title": "Answer: A) be built",
+   "title": "Answer: B) sells bread fresh from the oven to customers who wait in line before sunrise",
    "items": [
-    "The list follows \"must\": must solve…, (must) use…, and (must) be built. Each item is a base verb, so choice A keeps the list parallel.",
-    "B is wrong: \"must building\" is not a correct verb form, and it breaks the pattern.",
-    "C is wrong: \"it is built\" adds a new subject and verb inside the list, so the items no longer match.",
-    "D is wrong: \"must to be built\" — after \"must\" we never use \"to\"."
+    "\"Fresh from the oven\" describes the bread, so it must sit right after \"bread\"; \"who wait in line\" describes the customers, so it must sit right after \"customers\". Only B keeps both modifiers next to their words.",
+    "A is wrong: \"customers fresh from the oven\" — the customers were baked?",
+    "C is wrong: \"fresh from the oven\" now follows \"sunrise\" and seems to describe the customers or the sunrise.",
+    "D is wrong: the phrase now describes \"the owner\", who is not fresh from the oven."
    ]
   },
   {
@@ -424,13 +397,13 @@
    "style": "warning",
    "title": "Classic traps",
    "items": [
-    "**The possessive trap:** \"the scientist's discovery\", \"Egypt's capital\" — the possessive word is not the subject; the noun after it is.",
+    "**The possessive trap:** \"the scientist's discovery\", \"her paintings\" — the possessive word is not the subject; the noun after it is.",
     "**The \"of\" trap:** \"the work of the scientist\" — the subject is \"work\".",
-    "**The it/there trap:** \"it was found that…\", \"there were…\" after an opening modifier.",
-    "**The passive trap:** \"the results were published by the team\" — the team is at the end, so \"the results\" become the doer.",
+    "**The it/there trap:** \"it was found that…\", \"there were…\" right after an opening modifier.",
+    "**The hidden-doer passive:** \"the results were published by the team\" — the team is at the end, so \"the results\" become the doer.",
+    "**The wrong-person trap:** a choice that starts with a person, but the wrong person (readers, visitors, the committee) instead of the one described.",
     "**The sounds-formal trap:** a long, academic-sounding choice is not better. Short and active is usually right.",
-    "**The comparison trap:** comparing a feature (population, shells, price) with a whole thing (a city, snails, a shop). Look for that of / those of / a possessive.",
-    "**The list trap:** the last item of a list changes form (\"and the creation of…\"). Match the first item."
+    "**The far-away modifier:** a that/which/who clause or a with/from phrase separated from its noun."
    ]
   },
   {
@@ -439,12 +412,18 @@
    "title": "Fast strategy for test day",
    "items": [
     "See an opening phrase + comma + blank? It is a modifier question. Ask \"Who or what did this?\" before you look at the choices.",
-    "Scan only the first noun of each choice; three choices usually fall at once.",
-    "Distrust choices starting with it, there, the ___ of, or a possessive name.",
-    "See \"than\", \"like\", \"unlike\" or \"compared with\"? Check that both sides of the comparison are the same kind of thing.",
-    "See a list or \"not only… but also\"? Copy the form of the first item.",
+    "Scan only the head noun of each choice; three choices usually fall at once.",
+    "Distrust choices starting with it, there, the ___ of, or a possessive name — but check the head noun before you reject a possessive.",
+    "If the opener has its own subject (While she was…, Because the beans…), the dangling rule does not apply; look for another error.",
+    "For word-order choices, put each describing phrase right next to its noun.",
     "These questions are quick. Answer in 30–45 seconds and save time for the reading questions."
    ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الوصف لازم يكون جنب صاحبه",
+   "text": "في الـ misplaced modifier الوصف بيبقى في نص الجملة أو في آخرها بس بعيد عن الكلمة اللي بيوصفها. حط كل وصف جنب الاسم بتاعه على طول: bread fresh from the oven و customers who wait in line. لو الوصف بقى جنب اسم تاني والمعنى بقى غريب أو يضحك، يبقى الاختيار غلط."
   },
   {
    "type": "h2",
@@ -452,13 +431,13 @@
   },
   {
    "type": "test",
-   "title": "Modifiers, Parallelism and Comparisons — Practice Quiz",
+   "title": "Dangling and Misplaced Modifiers — Practice Quiz",
    "timed": false,
-   "intro": "12 questions in Digital SAT format. Untimed: ask the doer question before you look at the choices, then check your answer and read every explanation.",
+   "intro": "10 questions in Digital SAT format. Untimed: ask the doer question before you look at the choices, then check your answer and read every explanation.",
    "sections": [
     {
-     "name": "Practice set",
-     "minutes": 15,
+     "name": "Quiz",
+     "minutes": 13,
      "questions": [
       {
        "p": "Spacecraft returning from orbit enter Earth's atmosphere at very high speed, and friction heats their outer surfaces. Designed to withstand temperatures above 1,000°C, ______ protect the spacecraft during this dangerous part of the journey.",
@@ -470,46 +449,33 @@
         "the job of ceramic tiles is to"
        ],
        "a": 2,
-       "e": "Tiles were designed to withstand heat, so \"ceramic tiles\" must follow the comma. A makes engineers the thing designed to withstand heat; B and D make \"purpose\" and \"job\" the subject.",
+       "e": "The tiles were designed to withstand heat, so \"ceramic tiles\" must follow the comma (C). A makes engineers the thing designed to withstand heat; B and D make \"purpose\" and \"job\" the subject.",
        "s": "Form, Structure, and Sense: Modifiers"
       },
       {
-       "p": "The Nile has shaped life in northeastern Africa for thousands of years. Stretching nearly 6,700 kilometers from its sources to the Mediterranean Sea, ______ to farms and cities in many countries.",
+       "p": "The Nile has shaped life in northeastern Africa for thousands of years. Stretching about 6,700 kilometers from its sources to the Mediterranean Sea, ______ to farms and cities in many countries.",
        "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
        "c": [
-        "the Nile River supplies water",
         "water is supplied by the Nile River",
+        "the Nile River supplies water",
         "the Nile River's water is supplied",
         "the water of the Nile River goes"
        ],
-       "a": 0,
-       "e": "The river stretches 6,700 km, so \"the Nile River\" must come right after the comma. In B, C and D the subject is \"water\", which does not stretch from the sources to the sea.",
+       "a": 1,
+       "e": "The river is what stretches 6,700 km, so \"the Nile River\" must come right after the comma (B). In A, C and D the head noun is \"water\", which does not stretch from the sources to the sea.",
        "s": "Form, Structure, and Sense: Modifiers"
-      },
-      {
-       "p": "A new museum app is designed to make visits more interactive for students. The app lets visitors listen to audio guides, view 3D models of ancient artifacts, and ______ their own virtual tours to share with classmates.",
-       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
-       "c": [
-        "creating",
-        "they can create",
-        "the creation of",
-        "create"
-       ],
-       "a": 3,
-       "e": "After \"lets visitors\", the list uses base verbs: listen, view, and create. A (-ing), B (new clause) and C (noun phrase) break the parallel structure.",
-       "s": "Form, Structure, and Sense: Parallelism"
       },
       {
        "p": "Buildings in the city can apply for a green rating that recognizes energy-saving design. To earn the gold rating from the city's green-building council, ______ at least 40 percent of its electricity from renewable sources.",
        "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
        "c": [
         "the council requires that a building produce",
-        "a building must produce",
         "producing is required of a building for",
-        "it is necessary for a building to produce"
+        "it is necessary for a building to produce",
+        "a building must produce"
        ],
-       "a": 1,
-       "e": "The building is the thing trying to earn the rating, so \"a building\" must be the subject. A makes the council earn its own rating; C and D begin with \"producing\" and \"it\".",
+       "a": 3,
+       "e": "The building is the one trying to earn the rating, so \"a building\" must be the subject (D). A makes the council earn its own rating; B begins with \"producing\" and C with \"it\", neither of which can earn a rating.",
        "s": "Form, Structure, and Sense: Modifiers"
       },
       {
@@ -522,21 +488,8 @@
         "time has caused the temple's columns to"
        ],
        "a": 0,
-       "e": "The head noun in A is \"columns\", and the columns really were painted, so this possessive is correct. B makes \"colors\" painted in colors, C makes visitors painted, D makes time painted.",
+       "e": "The head noun in A is \"columns\", and the columns really were painted, so this possessive is correct. B makes \"colors\" painted in colors, C makes visitors painted and D makes time painted.",
        "s": "Form, Structure, and Sense: Modifiers"
-      },
-      {
-       "p": "The company has released a new tablet for schools. Unlike the earlier model, whose battery lasted only about six hours, ______ can run for an entire school day on a single charge, according to the company.",
-       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
-       "c": [
-        "the battery life of the new tablet",
-        "the new tablet's battery life",
-        "the new tablet",
-        "users of the new tablet"
-       ],
-       "a": 2,
-       "e": "\"Unlike the earlier model\" must compare one model with another model: \"the new tablet\". A and B compare a model with battery life; D compares a model with users.",
-       "s": "Form, Structure, and Sense: Comparisons"
       },
       {
        "p": "Scientists have long suspected that rivers once flowed across what is now Egypt's Western Desert. After reviewing high-resolution satellite images of the region, ______ ancient riverbeds buried several meters beneath the sand.",
@@ -544,11 +497,11 @@
        "c": [
         "evidence was found by geologists of",
         "the geologists' findings revealed",
-        "there was evidence, geologists said, of",
-        "geologists found evidence of"
+        "geologists found evidence of",
+        "there was evidence, geologists said, of"
        ],
-       "a": 3,
-       "e": "The geologists reviewed the images, so they must follow the comma. A is passive with \"evidence\" first, B makes \"findings\" review images, C starts with \"there\".",
+       "a": 2,
+       "e": "The geologists reviewed the images, so they must follow the comma (C). A is passive with \"evidence\" first, B makes \"findings\" review images (possessive trap), and D starts with \"there\".",
        "s": "Form, Structure, and Sense: Modifiers"
       },
       {
@@ -568,53 +521,53 @@
        "p": "Some young writers in Cairo are experimenting with the way characters speak on the page. Written in a mix of Arabic and English, ______ reflects the bilingual way many young Egyptians actually talk with their friends.",
        "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
        "c": [
+        "the novel's dialogue",
         "readers find that the novel's dialogue",
         "the author chose dialogue that",
-        "it is the novel's dialogue that",
-        "the novel's dialogue"
-       ],
-       "a": 3,
-       "e": "The dialogue was written in a mix of Arabic and English, so \"the novel's dialogue\" (head noun: dialogue) must follow the comma. A makes readers written, B makes the author written, C starts with \"it\".",
-       "s": "Form, Structure, and Sense: Modifiers"
-      },
-      {
-       "p": "During a long drought, an ancient olive tree in Siwa lost almost all its leaves, and many people believed it had died. Having lost most of its leaves during the drought, ______ surprised scientists by producing new green shoots within a week of the first rain.",
-       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
-       "c": [
-        "the ancient olive tree",
-        "the ancient olive tree's recovery",
-        "the shoots of the ancient olive tree",
-        "the recovery of the ancient olive tree"
+        "it is the novel's dialogue that"
        ],
        "a": 0,
-       "e": "The tree lost its leaves, so \"the ancient olive tree\" must be the subject. B and D make the recovery lose leaves; C makes the shoots lose leaves.",
+       "e": "The dialogue was written in a mix of Arabic and English, so \"the novel's dialogue\" (head noun: dialogue) must follow the comma (A). B makes readers written, C makes the author written, and D starts with \"it\".",
        "s": "Form, Structure, and Sense: Modifiers"
       },
       {
-       "p": "A survey of public libraries in Giza looked at how teenagers use library services. Researchers found that the number of teenagers borrowing audiobooks in 2025 was nearly double ______ in 2020, when the service was first introduced.",
+       "p": "During a long drought, an ancient olive tree in Siwa lost almost all its leaves, and many people believed it had died. Having survived two dry summers without rain, ______ surprised scientists by producing new green shoots within a week of the first rain.",
        "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
        "c": [
-        "the teenagers",
-        "teenagers who borrowed them",
-        "that",
-        "those"
+        "the ancient olive tree's recovery",
+        "the shoots of the ancient olive tree",
+        "the recovery of the ancient olive tree",
+        "the ancient olive tree"
        ],
-       "a": 2,
-       "e": "The sentence compares a number with a number. \"That\" (singular) replaces \"the number\". A and B compare a number with teenagers; D is plural but \"number\" is singular.",
-       "s": "Form, Structure, and Sense: Comparisons"
+       "a": 3,
+       "e": "The tree survived the dry summers, so \"the ancient olive tree\" must be the subject (D). A and C make the recovery survive two summers; B makes the new shoots, which had not grown yet, survive them.",
+       "s": "Form, Structure, and Sense: Modifiers"
       },
       {
-       "p": "When the marine reserve in the Red Sea was opened, officials explained that it had more than one aim. The reserve was created not only to protect fragile coral reefs but also ______ that depend on healthy fish populations.",
+       "p": "In a recent interview, the director of a small museum in Fayoum described the collection's newest object. According to the director, the museum acquired ______.",
        "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
        "c": [
-        "for the support of local fishing communities",
-        "to support local fishing communities",
-        "supporting local fishing communities",
-        "local fishing communities would be supported"
+        "a bronze mirror from a private collector that is nearly 2,500 years old",
+        "from a private collector that is nearly 2,500 years old a bronze mirror",
+        "a bronze mirror that is nearly 2,500 years old from a private collector",
+        "nearly 2,500 years old, a bronze mirror from a private collector"
        ],
-       "a": 1,
-       "e": "\"Not only to protect… but also to support…\" keeps the two infinitives parallel. A (prepositional phrase), C (-ing) and D (a full clause) do not match \"to protect\".",
-       "s": "Form, Structure, and Sense: Parallelism"
+       "a": 2,
+       "e": "\"That is nearly 2,500 years old\" describes the mirror, so it must follow \"a bronze mirror\" directly (C). In A the clause follows \"collector\", so the collector seems 2,500 years old; B puts the clause after \"collector\" and scrambles the order; D leaves the age phrase with no noun to describe.",
+       "s": "Form, Structure, and Sense: Misplaced modifiers"
+      },
+      {
+       "p": "Many students in Cairo spend more than an hour commuting to school each day. To cut that time in half, ______ a network of express school buses that would stop only at major squares.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "the transport ministry has proposed",
+        "there is now a proposal by the transport ministry for",
+        "it has been proposed by the transport ministry that the city build",
+        "the transport ministry's proposal includes"
+       ],
+       "a": 0,
+       "e": "An infinitive of purpose (\"To cut that time\") needs someone with a goal right after the comma: the transport ministry (A). B starts with \"there\", C with \"it\", and D has the head noun \"proposal\" (possessive trap).",
+       "s": "Form, Structure, and Sense: Modifiers"
       }
      ]
     }
@@ -625,13 +578,12 @@
    "style": "exam",
    "title": "Remember",
    "items": [
-    "An opening phrase + comma must be followed by the noun that does or is the action.",
-    "Possessives, \"the ___ of\", \"it\", \"there\" and passive verbs are the usual wrong choices.",
-    "Keep describing phrases next to the word they describe.",
-    "Items in a list or pair (not only… but also) must have the same form.",
-    "Compare like with like: use that of (singular), those of (plural) or a possessive."
+    "An opening phrase + comma must be followed by the noun that does or is the action — ask the doer question first.",
+    "Find the head noun: in \"the scientist's conclusion\" or \"the work of the scientist\" the subject is not the scientist.",
+    "Choices starting with it or there, or a passive that hides the doer at the end, are the usual wrong answers.",
+    "An opener with its own subject (While she was…) cannot dangle — look for another error.",
+    "Keep every describing phrase right next to the word it describes."
    ]
   }
- ],
- "slug": "sat-modifiers"
+ ]
 }

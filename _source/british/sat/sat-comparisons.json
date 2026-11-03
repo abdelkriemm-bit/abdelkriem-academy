@@ -1,0 +1,544 @@
+{
+ "slug": "sat-comparisons",
+ "nav": "Comparisons",
+ "title": "Faulty and Logical Comparisons",
+ "kicker": "American Diploma · Digital SAT · Grammar: Form, Structure and Sense",
+ "summary": "Compare like with like: that of / those of and possessives, like/unlike openers, than any other, comparative vs superlative and the right partner words — with worked examples and a 10-question practice quiz.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Comparison questions sit in **Standard English Conventions**, the grammar-and-punctuation domain of the Reading and Writing section (about 26% of the scored questions, usually 11–15 of them). The official skill list does not name comparisons as a separate skill, but they are part of writing sentences whose **form and sense** are correct: a comparison that compares the wrong things is not logical, and the choices often differ only in a possessive (Alexandria / Alexandria's), a pronoun (that / those) or a word form (more / most). Grammar questions usually come after the reading questions in each module."
+  },
+  {
+   "type": "p",
+   "text": "The stem is the usual one: **\"Which choice completes the text so that it conforms to the conventions of Standard English?\"** Look for comparison signals: **than, as… as, like, unlike, compared with, similar to, different from**, and words ending in **-er / -est** or starting with **more / most**."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 1: Compare like with like"
+  },
+  {
+   "type": "p",
+   "text": "You can only compare things of the **same kind**: a population with a population, a price with a price, a person with a person. The most common mistake compares a **feature** of one thing with the **whole** of another thing. Ask: **What exactly is being compared on the left side? Is the right side the same kind of thing?**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "✗ The population of Cairo is larger than **Alexandria**. (population compared with a city)",
+    "✓ The population of Cairo is larger than **that of Alexandria**. (that = the population)",
+    "✓ Cairo's population is larger than **Alexandria's**. (Alexandria's = Alexandria's population)",
+    "✗ The shells of desert snails are thicker than **coastal snails**. (shells compared with snails)",
+    "✓ The shells of desert snails are thicker than **those of coastal snails**. (those = the shells)",
+    "✗ Mona's handwriting is neater than **her brother**. (handwriting compared with a person)",
+    "✓ Mona's handwriting is neater than **her brother's**."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Rule 2: That of, those of, or a possessive"
+  },
+  {
+   "type": "p",
+   "text": "To avoid repeating the noun, English uses three tools. Choose by **number** (singular or plural) and keep the sentence logical."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "The compared noun is…",
+    "Use…",
+    "Example (✓)"
+   ],
+   "rows": [
+    [
+     "singular",
+     "that of",
+     "The cost of rice is higher than **that of** wheat."
+    ],
+    [
+     "plural",
+     "those of",
+     "The wings of bats are thinner than **those of** birds."
+    ],
+    [
+     "owned by a person / thing",
+     "a possessive ('s or s')",
+     "Karim's score was higher than **Mona's**. The lions' cage is larger than **the tigers'**."
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "✗ The rules of chess are more complex than **that of** checkers. (rules is plural → those of)",
+    "✗ Karim's score was higher than **that of Mona's**. (double possessive: use \"that of Mona\" or \"Mona's\", never both)",
+    "✗ The number of visitors in 2025 was higher than **those** in 2020. (number is singular → that)"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Tip:** replace \"that\" or \"those\" with the noun it stands for and read the sentence again: \"higher than **the number** in 2020\" ✓."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 3: Like, unlike, compared with — at the start of a sentence"
+  },
+  {
+   "type": "p",
+   "text": "An opener such as **Like…, Unlike…, Compared with…, Similar to…** is both a comparison and an introductory modifier. The noun right after the comma must be the **same kind of thing** as the noun in the opener."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "✗ **Unlike the earlier model's battery**, the new tablet can run all day. (battery compared with tablet)",
+    "✓ **Unlike the earlier model**, the new tablet can run all day. (model vs model)",
+    "✗ **Like the ancient Egyptians**, **cats were kept** in many Roman homes. (people compared with cats)",
+    "✓ **Like the ancient Egyptians**, **many Romans** kept cats in their homes. (people vs people)",
+    "✗ **Compared with last year's exam**, **students** found this year's easier. (exam vs students)",
+    "✓ **Compared with last year's exam**, **this year's** was easier."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Rule 4: \"Than any other\" and \"than anyone else\""
+  },
+  {
+   "type": "p",
+   "text": "When you compare one member of a group with the rest of the **same group**, add **other** or **else**. Without it, the sentence says the thing is bigger than itself."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "✗ Nour read more books than **any student** in her class. (Nour is a student in her class, so she read more than herself?)",
+    "✓ Nour read more books than **any other student** in her class.",
+    "✓ Nour read more books than **any student in the other classes**. (She is not in that group, so no \"other\" is needed.)",
+    "✗ Our team scored more than **anyone** in the league. → ✓ more than **any other team** in the league.",
+    "✓ The coach worked harder than **anyone else**."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Rule 5: Comparative or superlative?"
+  },
+  {
+   "type": "p",
+   "text": "Use the **comparative** (-er / more / less) for **two** things and the **superlative** (-est / most / least) for **three or more**. Never use both endings at once."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Adjective",
+    "Comparative (2 things)",
+    "Superlative (3+ things)"
+   ],
+   "rows": [
+    [
+     "short: fast, cheap",
+     "faster, cheaper",
+     "the fastest, the cheapest"
+    ],
+    [
+     "ending in -y: easy, early",
+     "easier, earlier",
+     "the easiest, the earliest"
+    ],
+    [
+     "long: practical, expensive",
+     "more practical, less expensive",
+     "the most practical, the least expensive"
+    ],
+    [
+     "irregular: good / well",
+     "better",
+     "the best"
+    ],
+    [
+     "irregular: bad / badly",
+     "worse",
+     "the worst"
+    ],
+    [
+     "irregular: far",
+     "farther / further",
+     "the farthest / the furthest"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "✗ Of the two designs, the judges chose **the most practical** one. → ✓ **the more practical** one (two designs)",
+    "✗ Of the three proposals, the committee chose **the cheaper** one. → ✓ **the cheapest** one (three proposals)",
+    "✗ The new train is **more faster** than the old one. → ✓ **faster** (never more + -er)",
+    "✗ This is **the most easiest** route. → ✓ **the easiest** route"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Rule 6: Complete the comparison with the right partner word"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**-er / more … than:** taller **than**, more useful **than** — never \"taller **then**\" (then = time).",
+    "**as … as:** as tall **as**, as much rain **as** — never \"as tall **than**\".",
+    "**different from:** \"Her method is different **from** mine\" (the safest choice in formal writing).",
+    "**the same as / similar to:** \"the same **as** last year\", \"similar **to** a lemon\".",
+    "**Finish the comparison:** \"The new phone is cheaper\" is fine only if the text already says cheaper than what; otherwise add \"than the old one\"."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "المقارنة لازم تكون بين حاجتين من نفس النوع",
+   "items": [
+    "ماينفعش تقارن «عدد سكان القاهرة» بـ «الإسكندرية» نفسها. قارن عدد سكان بعدد سكان: than that of Alexandria أو than Alexandria's.",
+    "لو الحاجة مفرد استخدم that of، ولو جمع استخدم those of.",
+    "لو بتقارن حاجة بباقي المجموعة اللي هي منها قول any other. ولحاجتين استخدم -er / more، ولتلاتة أو أكتر -est / most."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "The 3-step method for test day"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "**Spot the comparison signal:** than, as… as, like, unlike, compared with, -er/-est, more/most.",
+    "**Name the two things being compared.** Read the left side and find its head noun (population, shells, score). Then check that the blank gives the same kind of thing — and the same number (that for singular, those for plural).",
+    "**Check the form:** two things → comparative; three or more → superlative; same group → any other; correct partner word (than / as / from)."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1: those of**"
+  },
+  {
+   "type": "p",
+   "text": "Snails that live in the dry hills of Sinai must protect themselves from heat and from birds. In a recent survey, researchers measured hundreds of snail shells and found that the shells of snails collected in the hills were thicker than ______ collected near the coast."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text so that it conforms to the conventions of Standard English?**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) snails",
+    "B) those of snails",
+    "C) that of snails",
+    "D) the snail"
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Answer: B) those of snails",
+   "items": [
+    "The sentence compares shells. The second side must also be shells: \"those of snails\" = the shells of snails. \"Those\" is plural because \"shells\" is plural (B).",
+    "A is wrong: it compares shells with snails (faulty comparison).",
+    "C is wrong: \"that\" is singular, but it replaces the plural \"shells\" (number error).",
+    "D is wrong: it compares shells with a snail, and it is singular (faulty comparison)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2: than any other**"
+  },
+  {
+   "type": "p",
+   "text": "Every year, students at a secondary school in Assiut take part in a reading challenge. This year, Nour read more books than ______ in her class, finishing 64 titles before the summer holiday."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text so that it conforms to the conventions of Standard English?**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) any student",
+    "B) all students",
+    "C) every student's",
+    "D) any other student"
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Answer: D) any other student",
+   "items": [
+    "Nour is one of the students in her class, so she must be compared with the **other** students: \"any other student\" (D).",
+    "A is wrong: \"any student in her class\" includes Nour herself, so she read more than herself (illogical).",
+    "B is wrong: \"all students\" in her class also includes Nour.",
+    "C is wrong: the possessive \"student's\" leaves nothing for it to own; the comparison is between people, not their things."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3: comparative or superlative**"
+  },
+  {
+   "type": "p",
+   "text": "A youth council in Ismailia asked architects to suggest ideas for a new sports center. Of the two designs that reached the final round, the council chose the ______ one, a plan that uses natural light instead of expensive lamps."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text so that it conforms to the conventions of Standard English?**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) more practical",
+    "B) most practical",
+    "C) practicaler",
+    "D) more practicaler"
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Answer: A) more practical",
+   "items": [
+    "Only **two** designs are compared, so we need the comparative: \"the more practical one\" (A). \"Practical\" is a long adjective, so it takes \"more\", not -er.",
+    "B is wrong: \"most\" is for three or more things.",
+    "C is wrong: \"practicaler\" is not a word; long adjectives use \"more\".",
+    "D is wrong: never use \"more\" and -er together."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4: an unlike opener**"
+  },
+  {
+   "type": "p",
+   "text": "The young painter Ahmed Samir trained for years in the studio of a well-known artist who used only soft browns and greys. Unlike the paintings of his teacher, ______ bright, almost electric colors."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text so that it conforms to the conventions of Standard English?**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) Ahmed likes to use",
+    "B) the young artist Ahmed uses",
+    "C) Ahmed's paintings are full of",
+    "D) Ahmed's style is to use"
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Answer: C) Ahmed's paintings are full of",
+   "items": [
+    "The opener compares paintings, so the noun after the comma must be paintings: \"Ahmed's paintings\" (C). Here the possessive is right because the head noun is \"paintings\".",
+    "A is wrong: it compares the teacher's paintings with Ahmed, a person.",
+    "B is wrong: same problem — paintings compared with \"the young artist\".",
+    "D is wrong: it compares paintings with a style (head noun \"style\")."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**Feature vs whole:** the population of Cairo vs Alexandria, the shells of snails vs snails.",
+    "**Wrong number:** that for a plural noun or those for a singular one (the number… those ✗).",
+    "**Double possessive:** that of Mona's ✗ — use that of Mona or Mona's.",
+    "**Missing \"other\":** than any student in her class ✗ when she is in the class.",
+    "**Two vs three:** the most of two ✗, the -er of three ✗; and never more + -er or most + -est.",
+    "**Wrong partner word:** as tall than ✗, taller then ✗."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "When choices differ only by that / those / a possessive / no word, it is a comparison question. Find the head noun on the left side first.",
+    "Replace that or those with the noun it stands for and read the sentence; if it sounds right, keep it.",
+    "Count the things: two → -er/more; three or more → -est/most.",
+    "For Like/Unlike openers, use the doer question from the Modifiers lesson: the noun after the comma must match the noun in the opener.",
+    "These are quick questions — 30–45 seconds."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Comparisons — Practice Quiz",
+   "timed": false,
+   "intro": "10 questions in Digital SAT format. Untimed: name the two things being compared before you look at the choices, then read every explanation.",
+   "sections": [
+    {
+     "name": "Quiz",
+     "minutes": 13,
+     "questions": [
+      {
+       "p": "The company has released a new tablet for schools. Unlike the earlier model, whose battery lasted only about six hours, ______ can run for an entire school day on a single charge, according to the company.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "the battery life of the new tablet",
+        "the new tablet's battery life",
+        "the new tablet",
+        "users of the new tablet"
+       ],
+       "a": 2,
+       "e": "\"Unlike the earlier model\" must compare one model with another model: \"the new tablet\" (C). A and B compare a model with battery life; D compares a model with users.",
+       "s": "Form, Structure, and Sense: Comparisons"
+      },
+      {
+       "p": "A survey of public libraries in Giza looked at how teenagers use library services. Researchers found that the number of teenagers borrowing audiobooks in 2025 was nearly double ______ in 2020, when the service was first introduced.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "that",
+        "those",
+        "the teenagers",
+        "teenagers who borrowed them"
+       ],
+       "a": 0,
+       "e": "The sentence compares a number with a number. \"That\" (singular) replaces \"the number\" (A). B is plural, but \"number\" is singular; C and D compare a number with teenagers.",
+       "s": "Form, Structure, and Sense: Comparisons"
+      },
+      {
+       "p": "Botanists at a university in Alexandria grew the same type of lettuce under different colored lights. They found that the leaves of plants grown under red light were wider than ______ grown under blue light.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "plants",
+        "that of plants",
+        "the plant's",
+        "those of plants"
+       ],
+       "a": 3,
+       "e": "The sentence compares leaves, which is plural, so the second side needs \"those of plants\" = the leaves of plants (D). A compares leaves with plants, B uses singular \"that\" for plural \"leaves\", and C (\"the plant's\") is singular and does not match \"plants grown\".",
+       "s": "Form, Structure, and Sense: Comparisons"
+      },
+      {
+       "p": "Youssef and Mariam reached the final of the school chess championship. In the end, Youssef's total score was higher than ______, even though she had won more games in the early rounds.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "Mariam",
+        "Mariam's",
+        "that of Mariam's",
+        "Mariam had"
+       ],
+       "a": 1,
+       "e": "Youssef's score must be compared with Mariam's score: \"Mariam's\" (B) means Mariam's score. A compares a score with a person, C is a double possessive, and D (\"than Mariam had\") leaves the comparison incomplete and illogical.",
+       "s": "Form, Structure, and Sense: Comparisons"
+      },
+      {
+       "p": "A secondary school in Tanta runs a yearly fundraising walk for the local hospital. This year, Class 10B collected more money than ______ in the school, raising over 20,000 pounds in just one weekend.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "any class",
+        "all the classes",
+        "every class's",
+        "any other class"
+       ],
+       "a": 3,
+       "e": "Class 10B is one of the classes in the school, so it must be compared with the other classes: \"any other class\" (D). A and B include 10B itself, so it collected more than itself; C uses a possessive that has nothing to own.",
+       "s": "Form, Structure, and Sense: Comparisons"
+      },
+      {
+       "p": "The city council studied three proposals for a new public park. In the end, it chose the ______ of them, a plan that keeps most of the old trees and needs very little new construction.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "less expensive",
+        "least expensive",
+        "lesser expensive",
+        "more cheaper"
+       ],
+       "a": 1,
+       "e": "There are three proposals, so the superlative is needed: \"the least expensive\" (B). A is the comparative, used for two things; C is not a correct form; D combines \"more\" with -er.",
+       "s": "Form, Structure, and Sense: Comparisons"
+      },
+      {
+       "p": "Two new phone models have almost identical cameras and screens. However, reviewers agree that the Nova has the ______ battery of the two, lasting nearly a full day longer.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "longer-lasting",
+        "longest-lasting",
+        "most longer-lasting",
+        "more longer-lasting"
+       ],
+       "a": 0,
+       "e": "\"Of the two\" means only two things are compared, so the comparative is right: \"longer-lasting\" (A). B is a superlative (three or more), and C and D combine more/most with -er.",
+       "s": "Form, Structure, and Sense: Comparisons"
+      },
+      {
+       "p": "Historians have found many signs of how ancient peoples lived with animals. Like the ancient Egyptians, ______ kept cats to protect stored grain from mice.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "the homes of many Roman families",
+        "Roman families' houses",
+        "many Roman families",
+        "there were Roman families who"
+       ],
+       "a": 2,
+       "e": "\"Like the ancient Egyptians\" compares people with people: \"many Roman families\" (C). A and B compare people with homes or houses, and D begins with \"there\", so the Egyptians are compared with nothing.",
+       "s": "Form, Structure, and Sense: Comparisons"
+      },
+      {
+       "p": "Engineers have built a large solar farm in the desert to supply power to nearby towns. On sunny days, the farm produces nearly as much electricity ______ a medium-sized gas power station.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "as",
+        "than",
+        "like",
+        "then"
+       ],
+       "a": 0,
+       "e": "\"As much… as\" is the correct pair (A). B (\"as much… than\") mixes two patterns, C is not used to complete as… as, and D (\"then\") is a time word.",
+       "s": "Form, Structure, and Sense: Comparisons"
+      },
+      {
+       "p": "Fishermen say that the sea breeze makes summers in their small coastal town much more comfortable. Thanks to a cold current offshore, the climate of the town is cooler than ______, which lies only thirty kilometers away.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "the inland city of Damira",
+        "those of the inland city of Damira",
+        "that of the inland city of Damira",
+        "the inland city of Damira's climates"
+       ],
+       "a": 2,
+       "e": "The sentence compares one climate with another, and \"climate\" is singular, so \"that of the inland city\" is right (C). A compares a climate with a city, B uses plural \"those\" for one climate, and D wrongly makes \"climates\" plural.",
+       "s": "Form, Structure, and Sense: Comparisons"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Compare like with like: a feature with the same feature, a person with a person.",
+    "Use that of (singular), those of (plural) or a possessive — never \"that of X's\".",
+    "Like/Unlike openers: the noun after the comma must be the same kind of thing as the noun in the opener.",
+    "Compare one member with the rest of its group using any other / anyone else.",
+    "Two things → -er/more; three or more → -est/most; never both at once."
+   ]
+  }
+ ]
+}

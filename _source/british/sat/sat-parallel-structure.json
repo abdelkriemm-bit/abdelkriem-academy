@@ -1,0 +1,536 @@
+{
+ "slug": "sat-parallel-structure",
+ "nav": "Parallel Structure",
+ "title": "Parallel Structure",
+ "kicker": "American Diploma · Digital SAT · Grammar: Form, Structure and Sense",
+ "summary": "Keep matching forms in lists, paired conjunctions (both/and, either/or, neither/nor, not only/but also) and comparisons with than and as — rules, worked examples and a 10-question practice quiz.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Parallel structure questions sit in **Standard English Conventions**, the grammar-and-punctuation domain of the Reading and Writing section (about 26% of the scored questions, usually 11–15 of them). The official skill list does not name parallelism as a separate skill, but it is part of writing sentences whose **form and structure make sense** — and it is often the quickest way to decide between verb forms such as create / creating / to create / the creation of. Grammar questions usually come after the reading questions in each module."
+  },
+  {
+   "type": "p",
+   "text": "The stem is the usual one: **\"Which choice completes the text so that it conforms to the conventions of Standard English?\"** The blank is almost always the **last item** of a list, the **second half** of a pair (not only… but also…, either… or…), or the part **after \"than\" or \"as\"** in a comparison. The four choices show the same idea in four different grammatical forms. Your job: copy the form of the item that is already in the sentence."
+  },
+  {
+   "type": "h2",
+   "text": "The big idea: same job, same form"
+  },
+  {
+   "type": "p",
+   "text": "When two or more items do the **same job** in a sentence and are joined by **and, or, but**, a paired conjunction, or **than/as**, they must have the **same grammatical form**. Think of a list as a row of matching boxes: if the first box holds a verb, every box holds a verb."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "If the first item is…",
+    "the others must be…",
+    "Example (✓)"
+   ],
+   "rows": [
+    [
+     "a base verb",
+     "base verbs",
+     "The app lets students **record** lessons, **share** notes, and **create** quizzes."
+    ],
+    [
+     "an -ing form (gerund)",
+     "-ing forms",
+     "She enjoys **reading**, **swimming**, and **painting**."
+    ],
+    [
+     "an infinitive (to + verb)",
+     "infinitives",
+     "Our goals are **to save** water and **to cut** costs."
+    ],
+    [
+     "a noun / noun phrase",
+     "nouns / noun phrases",
+     "The kit includes **a map**, **a compass**, and **a first-aid box**."
+    ],
+    [
+     "an adjective",
+     "adjectives",
+     "The report was **short**, **clear**, and **convincing**."
+    ],
+    [
+     "a past verb",
+     "past verbs",
+     "The team **collected** samples, **tested** them, and **published** the results."
+    ],
+    [
+     "a clause (that…)",
+     "clauses (that…)",
+     "The study found **that** sleep improves memory and **that** naps help too."
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Rule 1: Lists of two or three items"
+  },
+  {
+   "type": "p",
+   "text": "Find the first item, check its form, then make the blank match. Look carefully at the word that **controls** all the items (\"lets students…\", \"must…\", \"is…\"): every item must fit after that word."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "✗ The app lets students record lessons, share notes, and **the creation of** quizzes.",
+    "✓ The app lets students record lessons, share notes, and **create** quizzes. (lets students record / share / create)",
+    "✗ A strong candidate must be honest, hard-working, and **show patience**.",
+    "✓ A strong candidate must be honest, hard-working, and **patient**. (be honest / hard-working / patient)",
+    "✗ The volunteers cleaned the beach, **planting** trees, and painted the fence.",
+    "✓ The volunteers **cleaned** the beach, **planted** trees, and **painted** the fence.",
+    "✗ The course teaches how to write emails, giving presentations, and **the leading of** meetings.",
+    "✓ The course teaches how to **write** emails, **give** presentations, and **lead** meetings."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**The \"to\" rule:** with a list of infinitives, either put \"to\" before **every** item or **only before the first**. Do not mix: \"to measure, record and to file\" ✗ → \"to measure, to record and to file\" ✓ or \"to measure, record and file\" ✓. The same idea works for other little words that start a list, such as prepositions: \"**in** the morning, **in** the afternoon, and **in** the evening\" or \"in the morning, afternoon, and evening\"."
+  },
+  {
+   "type": "p",
+   "text": "**Hidden list:** sometimes the items are long, so the list is hard to see. Strip each item down to its first word: \"The new law requires companies **to reduce** packaging that cannot be recycled, **to report** their yearly waste figures to the ministry, and **to pay**…\" — to reduce / to report / to pay."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 2: Paired conjunctions"
+  },
+  {
+   "type": "p",
+   "text": "Some conjunctions come in pairs. Whatever comes right after the **first** word must match what comes right after the **second** word."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Pair",
+    "✓ Parallel",
+    "✗ Not parallel"
+   ],
+   "rows": [
+    [
+     "both … and",
+     "both **for** its beauty and **for** its history",
+     "both for its beauty and **its history was important**"
+    ],
+    [
+     "either … or",
+     "either **call** the office or **send** an email",
+     "either call the office or **sending** an email"
+    ],
+    [
+     "neither … nor",
+     "neither **cheap** nor **easy** to repair",
+     "neither cheap nor **could it be repaired easily**"
+    ],
+    [
+     "not only … but also",
+     "not only **to protect** reefs but also **to support** fishers",
+     "not only to protect reefs but also **for supporting** fishers"
+    ],
+    [
+     "whether … or",
+     "whether **by train** or **by bus**",
+     "whether by train or **taking the bus**"
+    ],
+    [
+     "not … but",
+     "not **in Cairo** but **in Aswan**",
+     "not in Cairo but **the event was in Aswan**"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Also learn the correct partners. **Either** goes with **or**, **neither** with **nor**, **not only** with **but also**, **both** with **and**. \"Neither… or\" ✗, \"both… as well as\" ✗, \"not only… and also\" ✗ are all wrong pairings the test may offer."
+  },
+  {
+   "type": "p",
+   "text": "**Placement of the first word:** \"He **either** will call or email\" ✗ (will call / email do not match) → \"He will **either** call or email\" ✓ (call / email)."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 3: Comparisons with than and as"
+  },
+  {
+   "type": "p",
+   "text": "A comparison is a pair too. The two things on each side of **than** or **as… as** must have the same form: -ing with -ing, infinitive with infinitive, noun with noun."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "✗ **Reading** a map is harder than **to use** a phone app.",
+    "✓ **Reading** a map is harder than **using** a phone app.",
+    "✓ **To read** a map is harder than **to use** a phone app. (correct but more formal)",
+    "✗ Keeping customers is as important as **to attract** new ones.",
+    "✓ **Keeping** customers is as important as **attracting** new ones.",
+    "✗ Many students prefer **studying** in groups **to study** alone.",
+    "✓ Many students prefer **studying** in groups **to studying** alone. (prefer X to Y)",
+    "✓ She chose **to walk** rather than **to wait** for the bus. / She chose to walk rather than wait."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "When the two sides of a comparison are **things** rather than actions (\"the population of Cairo\" vs \"Alexandria\"), the problem is a logical comparison. That is taught in the next lesson, Comparisons."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "القاعدة في جملة واحدة",
+   "items": [
+    "لو فيه قائمة أو حاجتين مربوطين بـ and / or / but أو not only … but also أو than، كل جزء لازم يبقى بنفس الشكل.",
+    "بص على أول عنصر: لو فعل يبقى الكل أفعال، لو ing يبقى الكل ing، لو to + فعل يبقى الكل to + فعل.",
+    "اللي بعد not only لازم يشبه اللي بعد but also، واللي قبل than لازم يشبه اللي بعدها."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "The 3-step method for test day"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "**Spot the signal.** A list with commas + and/or, a paired conjunction, or than / as… as.",
+    "**Find the partner.** Underline the first item (or the item before than / after not only). Name its form: base verb, -ing, to + verb, noun, adjective, past verb or clause.",
+    "**Match and check.** Pick the choice with the same form, then read the whole sentence: the choice must also fit after the controlling word (must…, lets students…, is…). Reject choices that add a new subject and verb (they can…, it is…) inside the list."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1: a list after a helping verb**"
+  },
+  {
+   "type": "p",
+   "text": "Each spring, the city holds a fair where teenagers present their own inventions. To qualify for the fair, a project must solve a real local problem, use materials costing less than 500 pounds, and ______ by a team of no more than three students."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text so that it conforms to the conventions of Standard English?**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) be built",
+    "B) building",
+    "C) it is built",
+    "D) to be built"
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Answer: A) be built",
+   "items": [
+    "The list follows \"must\": must solve…, (must) use…, and (must) be built. Each item is a base verb, so A keeps the list parallel.",
+    "B is wrong: \"must building\" is not a correct verb form, and it breaks the pattern.",
+    "C is wrong: \"it is built\" adds a new subject and verb inside the list, so the items no longer match.",
+    "D is wrong: \"must to be built\" — after \"must\" we never use \"to\"."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2: not only … but also**"
+  },
+  {
+   "type": "p",
+   "text": "When the marine reserve in the Red Sea was opened, officials explained that it had more than one aim. The reserve was created not only to protect fragile coral reefs but also ______ that depend on healthy fish populations."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text so that it conforms to the conventions of Standard English?**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) for the support of local fishing communities",
+    "B) supporting local fishing communities",
+    "C) local fishing communities would be supported",
+    "D) to support local fishing communities"
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Answer: D) to support local fishing communities",
+   "items": [
+    "After \"not only\" comes \"to protect\" (an infinitive), so after \"but also\" we need \"to support\" (D).",
+    "A is wrong: \"for the support of\" is a prepositional phrase, not an infinitive.",
+    "B is wrong: \"supporting\" is an -ing form; it does not match \"to protect\".",
+    "C is wrong: it is a full clause with its own subject, so the two halves no longer match."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3: a comparison with than**"
+  },
+  {
+   "type": "p",
+   "text": "Music teachers at a Cairo conservatory surveyed their beginner students about their first year of lessons. For most beginners, learning to read music turned out to be harder than ______ simple songs by ear."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text so that it conforms to the conventions of Standard English?**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) to play",
+    "B) playing",
+    "C) they played",
+    "D) the playing of"
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Answer: B) playing",
+   "items": [
+    "The subject is \"learning\" (an -ing form), so the other side of \"than\" must also be an -ing form: \"learning… is harder than playing…\" (B).",
+    "A is wrong: \"to play\" is an infinitive; it does not match \"learning\".",
+    "C is wrong: \"they played\" is a clause, not an action that matches \"learning\", and the sentence becomes illogical.",
+    "D is wrong: \"the playing of simple songs\" is a wordy noun phrase that breaks the -ing/-ing match."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4: either … or**"
+  },
+  {
+   "type": "p",
+   "text": "Visitors to the Wadi El Gemal reserve have two ways to explore its coastline. They can either ______ or join a guided boat tour that leaves the harbor every morning."
+  },
+  {
+   "type": "p",
+   "text": "**Which choice completes the text so that it conforms to the conventions of Standard English?**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) hike the coastal trail on their own",
+    "B) hiking the coastal trail on their own",
+    "C) a hike along the coastal trail on their own",
+    "D) to hike the coastal trail on their own"
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Answer: A) hike the coastal trail on their own",
+   "items": [
+    "\"Can either ___ or join\" — after \"or\" comes the base verb \"join\", so after \"either\" we need a base verb too: \"hike\" (A). Both also fit after \"can\".",
+    "B is wrong: \"can hiking\" is not a correct verb form, and -ing does not match \"join\".",
+    "C is wrong: \"a hike\" is a noun phrase; it does not match the verb \"join\".",
+    "D is wrong: \"can to hike\" — after \"can\" we never use \"to\"."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**The last-item switch:** the first items are verbs, the last one becomes a noun phrase (\"and the creation of…\") or an -ing form.",
+    "**The new-clause trap:** the last item adds its own subject and verb (\"and they can create…\", \"and it is built…\").",
+    "**The wordy noun trap:** \"the + noun + of\" choices (the leading of meetings, the support of) sound formal but break the pattern.",
+    "**The wrong partner:** neither… or, not only… and also, both… as well as.",
+    "**The than/as mismatch:** -ing on one side, to + verb on the other (\"Reading is harder than to write\").",
+    "**The half-repeated \"to\":** to measure, record and to file — all or only the first."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "When the four choices are the same verb in four forms (create / creating / to create / the creation of), look for a list, a pair or than/as.",
+    "Look back at the first item, not at the item just before the blank — but check both.",
+    "Read the controlling word plus your choice (\"must be built\", \"lets visitors create\") to make sure it fits.",
+    "The shortest choice that matches the pattern is usually right.",
+    "Do not confuse this with list punctuation: here the commas are already fixed; only the form of the words changes."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "خلي بالك من الفخ ده",
+   "text": "الاختيار الغلط غالبًا بيبان «رسمي» وطويل زي the creation of أو they can create. ده بيكسر الشكل. ارجع لأول عنصر في القائمة واختار نفس الشكل بالظبط، وغالبًا الإجابة الصح هي الأقصر."
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "test",
+   "title": "Parallel Structure — Practice Quiz",
+   "timed": false,
+   "intro": "10 questions in Digital SAT format. Untimed: find the first item or the partner of the blank, name its form, then match it. Read every explanation.",
+   "sections": [
+    {
+     "name": "Quiz",
+     "minutes": 13,
+     "questions": [
+      {
+       "p": "A new museum app is designed to make visits more interactive for students. The app lets visitors listen to audio guides, view 3D models of ancient artifacts, and ______ their own virtual tours to share with classmates.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "create",
+        "creating",
+        "they can create",
+        "the creation of"
+       ],
+       "a": 0,
+       "e": "After \"lets visitors\", the list uses base verbs: listen, view, and create (A). B (-ing), C (a new clause) and D (a noun phrase) break the parallel structure.",
+       "s": "Form, Structure, and Sense: Parallel structure"
+      },
+      {
+       "p": "A coding club in Mansoura has partnered with several local businesses. The club's new program aims not only to train young programmers but also ______ them with companies that offer summer internships.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "connecting",
+        "to connect",
+        "for connecting",
+        "the connection of"
+       ],
+       "a": 1,
+       "e": "\"Not only to train… but also to connect…\" keeps the two infinitives parallel (B). A is an -ing form, C a prepositional phrase and D a noun phrase; none matches \"to train\".",
+       "s": "Form, Structure, and Sense: Parallel structure"
+      },
+      {
+       "p": "Engineers inspected the old wooden footbridge in the village after heavy rains. According to their report, the bridge was neither safe for large groups of people nor ______ to repair at a reasonable cost.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "possible",
+        "could it be",
+        "it was possible",
+        "the possibility"
+       ],
+       "a": 0,
+       "e": "After \"neither\" comes an adjective (\"safe\"), so after \"nor\" we need an adjective too: \"possible\" (A). B and C add new verbs and subjects; D is a noun.",
+       "s": "Form, Structure, and Sense: Parallel structure"
+      },
+      {
+       "p": "A team of doctors reviewed studies on exercise and heart health. They concluded that walking for thirty minutes every day is more beneficial for long-term health than ______ for two hours only once a week.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "to exercise hard",
+        "people who exercise hard",
+        "when people exercise hard",
+        "exercising hard"
+       ],
+       "a": 3,
+       "e": "The first side of the comparison is \"walking\" (-ing), so the other side of \"than\" must be \"exercising\" (D). A is an infinitive, B compares walking with people, and C is a clause.",
+       "s": "Form, Structure, and Sense: Parallel structure"
+      },
+      {
+       "p": "Every year, the national science fair receives thousands of entries from secondary schools. Judges look for projects that are original, carefully tested, and ______.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "explaining them clearly",
+        "clearly explained",
+        "with clear explanation",
+        "they explain them clearly"
+       ],
+       "a": 1,
+       "e": "\"Projects that are original, carefully tested, and clearly explained\" — each item fits after \"are\" and describes the projects (B). A, C and D do not fit after \"are\" in the same way, and D adds a new clause.",
+       "s": "Form, Structure, and Sense: Parallel structure"
+      },
+      {
+       "p": "The Egyptian architect Hassan Fathy designed whole villages using local materials. Today he is admired both for his use of traditional mud brick and ______ who would live in his buildings.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "because he cared about the poor families",
+        "caring about the poor families",
+        "for his concern for the poor families",
+        "he cared about the poor families"
+       ],
+       "a": 2,
+       "e": "After \"both\" comes \"for his use…\", so after \"and\" we need \"for his concern…\" (C) — preposition + noun phrase on both sides. A is a because-clause, B an -ing phrase and D a full clause.",
+       "s": "Form, Structure, and Sense: Parallel structure"
+      },
+      {
+       "p": "A new health clinic in Qena trains young volunteers to help its small team of doctors. Volunteers learn to measure blood pressure, to record each patient's medical history, and ______ patients to the right specialist.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "directing",
+        "the direction of",
+        "they direct",
+        "to direct"
+       ],
+       "a": 3,
+       "e": "The list repeats \"to\" before each item: to measure, to record, and to direct (D). A is an -ing form, B a noun phrase, and C a new clause.",
+       "s": "Form, Structure, and Sense: Parallel structure"
+      },
+      {
+       "p": "A group of students offered to paint a mural on their school's outer wall, but the deadline is only three weeks away. To finish the mural before the festival, the students will either have to work on weekends or ______ the size of the design.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "reducing",
+        "a reduction of",
+        "reduce",
+        "they will reduce"
+       ],
+       "a": 2,
+       "e": "\"Will either have to work… or reduce…\" — both parts are base verbs after \"will\" (C). A (-ing) and B (noun phrase) do not fit after \"will\", and D repeats a subject and verb that the pair does not need.",
+       "s": "Form, Structure, and Sense: Parallel structure"
+      },
+      {
+       "p": "The owner of a family bakery in Heliopolis says that her business depends on regular customers. For her, keeping loyal customers happy is just as important as ______ new ones.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "attracting",
+        "to attract",
+        "when she attracts",
+        "the attraction of"
+       ],
+       "a": 0,
+       "e": "\"Keeping… is as important as attracting…\" — -ing on both sides of \"as… as\" (A). B is an infinitive, C a clause and D a noun phrase.",
+       "s": "Form, Structure, and Sense: Parallel structure"
+      },
+      {
+       "p": "A new exhibition in Cairo looks back at the golden age of Egyptian cinema. It traces this history through original film posters, costumes worn by famous actors, and ______.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "it also includes interviews with directors who worked in the 1950s",
+        "directors who worked in the 1950s were interviewed",
+        "interviewing directors who worked in the 1950s",
+        "interviews with directors who worked in the 1950s"
+       ],
+       "a": 3,
+       "e": "The list after \"through\" is made of noun phrases: posters, costumes, and interviews (D). A and B add new clauses with their own subjects and verbs; C is an -ing phrase, not a noun like the other items.",
+       "s": "Form, Structure, and Sense: Parallel structure"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Items in a list must have the same form: verb–verb–verb, -ing–-ing–-ing, noun–noun–noun.",
+    "In a pair, what follows the first word must match what follows the second: not only to X but also to Y.",
+    "Use the right partners: either/or, neither/nor, both/and, not only/but also.",
+    "Both sides of than or as… as must match: reading is harder than writing.",
+    "Reject choices that start a new clause (they can…, it is…) inside a list."
+   ]
+  }
+ ]
+}
