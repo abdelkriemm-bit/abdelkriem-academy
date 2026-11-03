@@ -175,6 +175,14 @@ def _bblock(b):
         return f'<div class="ptest"><script type="application/json">{data}</script><noscript><p>{_bE(b["title"])} · {n} questions. Turn on JavaScript to take this practice test.</p></noscript></div>'
     raise ValueError(f"unknown block type {t!r}")
 
+def _bref(course, s):
+    # "@act/act-commas" = a lesson that lives in another course (tile links to it, it is not rebuilt here)
+    if s.startswith("@"):
+        c, sl = s[1:].split("/", 1)
+        return _bo.path.join(_BR_ROOT, c, sl + ".json")
+    return _bo.path.join(_BR_ROOT, course, s + ".json")
+def _bhref(s):
+    return (s.split("/", 1)[1] if s.startswith("@") else s) + ".html"
 def _bload(course, name):
     return _bj.load(open(_bo.path.join(_BR_ROOT, course, name), encoding="utf-8"))
 
@@ -190,7 +198,7 @@ for _bc in _BR_COURSES:
         if _sec.get("groups"):
             _sec["pages"] = [p for g in _sec["groups"] for p in g["pages"]]
         _skip = _bo.environ.get("BRITISH_SKIP")
-        _miss = [s for s in _sec["pages"] if not _bo.path.exists(_bo.path.join(_BR_ROOT, _bc, s + ".json")) or (_skip and _bre.search(_skip, s))]
+        _miss = [s for s in _sec["pages"] if not _bo.path.exists(_bref(_bc, s)) or (_skip and _bre.search(_skip, s))]
         if _miss:
             print(f"[british] {_bc}: skipping {len(_miss)} missing page(s): {', '.join(_miss)}")
         _sec["pages"] = [s for s in _sec["pages"] if s not in _miss]
@@ -200,9 +208,11 @@ for _bc in _BR_COURSES:
     if not _cfg["sections"]:
         continue
     # one page can sit in two sections (e.g. grammar lessons in Paper 1 and Paper 2): build/link it once
-    _order = list(dict.fromkeys(s for sec in _cfg["sections"] for s in sec["pages"]))
+    _order = list(dict.fromkeys(s for sec in _cfg["sections"] for s in sec["pages"] if not s.startswith("@")))
+    _refs = [s for sec in _cfg["sections"] for s in sec["pages"] if s.startswith("@")]
     _compact = bool(_cfg.get("compact"))
     _pages = {s: _bload(_bc, s + ".json") for s in _order}
+    _pages.update({s: _bj.load(open(_bref(_bc, s), encoding="utf-8")) for s in _refs})
     _rtl = bool(_cfg.get("rtl"))
     _hub = _cfg["hub"] or _cfg.get("back", "index.html")
     _active = _cfg.get("active", "british.html")
@@ -225,7 +235,7 @@ for _bc in _BR_COURSES:
                 global _num
                 _num += 1
                 if _compact:
-                    return f'<li><a href="{s}.html"><small class="ln">{_lw} {_num}</small><b>{_bE(_pages[s].get("nav") or _pages[s]["title"])}</b></a></li>'
+                    return f'<li><a href="{_bhref(s)}"><small class="ln">{_lw} {_num}</small><b>{_bE(_pages[s].get("nav") or _pages[s]["title"])}</b></a></li>'
                 return f'<li><a href="{s}.html"><small class="ln">{_lw} {_num}</small><b>{_bE(_pages[s]["title"])}</b><span>{_bE(_pages[s].get("summary",""))}</span></a></li>'
             if sec.get("groups"):
                 items = "".join(f'<li class="bgrp"><h3>{_bE(g["title"])}</h3></li>' + "".join(_li(s) for s in g["pages"]) for g in sec["groups"] if g["pages"])
@@ -268,7 +278,7 @@ window.addEventListener('hashchange',show);show();})();</script>"""
         toc = f'<details class="toc"><summary>{_L["toc"]}</summary>'
         for sec in _cfg["sections"]:
             toc += f'<p><b>{_bE(sec["title"])}</b></p><ul>' + "".join(
-                f'<li{" class=on" if x == s else ""}><a href="{x}.html" dir="auto">{_bE(_pages[x]["title"])}</a></li>' for x in sec["pages"]) + "</ul>"
+                f'<li{" class=on" if x == s else ""}><a href="{_bhref(x)}" dir="auto">{_bE(_pages[x]["title"])}</a></li>' for x in sec["pages"]) + "</ul>"
         toc += "</details>"
         _BR_STATE.pop("has_test", None)
         blocks = "".join(_bblock(b) for b in d["blocks"])

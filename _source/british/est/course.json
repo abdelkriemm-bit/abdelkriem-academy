@@ -23,11 +23,103 @@
    ]
   },
   {
-   "title": "The two Literacy tests",
+   "title": "Literacy 1: Strategy",
    "pages": [
-    "est-literacy-1-guide",
-    "est-literacy-2-guide"
-   ]
+    "est-literacy-1-guide"
+   ],
+   "tag": "Literacy 1"
+  },
+  {
+   "title": "Literacy 1: Punctuation",
+   "pages": [
+    "@act/act-commas",
+    "@act/act-semicolons",
+    "@act/act-colons",
+    "@act/act-dashes",
+    "@act/act-apostrophes",
+    "@act/act-unnecessary-punctuation"
+   ],
+   "tag": "Literacy 1"
+  },
+  {
+   "title": "Literacy 1: Sentence Structure",
+   "pages": [
+    "@act/act-fragments",
+    "@act/act-run-ons",
+    "@act/act-modifiers",
+    "@act/act-parallelism",
+    "@act/act-faulty-comparisons",
+    "@act/act-shifts"
+   ],
+   "tag": "Literacy 1"
+  },
+  {
+   "title": "Literacy 1: Usage",
+   "pages": [
+    "@act/act-subject-verb",
+    "@act/act-pronoun-case",
+    "@act/act-pronoun-agreement",
+    "@act/act-verb-tense-forms",
+    "@act/act-adjectives-adverbs",
+    "@act/act-comparatives-superlatives",
+    "@act/act-idioms-prepositions",
+    "@act/act-confused-words"
+   ],
+   "tag": "Literacy 1"
+  },
+  {
+   "title": "Literacy 1: Organisation, Relevance and Style",
+   "pages": [
+    "@act/act-transitions",
+    "@act/act-sentence-placement",
+    "@act/act-add-delete",
+    "@act/act-writers-goal",
+    "@act/act-concision-redundancy",
+    "@act/act-word-choice-tone",
+    "@sat/sat-rhetorical-synthesis"
+   ],
+   "tag": "Literacy 1"
+  },
+  {
+   "title": "Literacy 2: Strategy",
+   "pages": [
+    "est-literacy-2-guide",
+    "@act/act-reading-strategy"
+   ],
+   "tag": "Literacy 2"
+  },
+  {
+   "title": "Literacy 2: Key Ideas and Details",
+   "pages": [
+    "@act/act-reading-main-idea",
+    "@act/act-reading-details",
+    "@act/act-reading-relationships",
+    "@act/act-reading-inferences",
+    "@sat/sat-central-ideas",
+    "@sat/sat-evidence-textual"
+   ],
+   "tag": "Literacy 2"
+  },
+  {
+   "title": "Literacy 2: Craft and Structure",
+   "pages": [
+    "@sat/sat-words-in-context",
+    "@sat/sat-vocab-toolkit",
+    "@act/act-reading-word-meaning",
+    "@act/act-reading-purpose-structure",
+    "@act/act-reading-point-of-view"
+   ],
+   "tag": "Literacy 2"
+  },
+  {
+   "title": "Literacy 2: Integration of Knowledge and Ideas",
+   "pages": [
+    "@act/act-reading-paired-passages",
+    "@act/act-reading-charts-graphs",
+    "@act/act-reading-arguments-evidence",
+    "@sat/sat-evidence-quantitative"
+   ],
+   "tag": "Literacy 2"
   },
   {
    "title": "Practice test",
@@ -35,5 +127,6 @@
     "est-practice-test-1"
    ]
   }
- ]
+ ],
+ "compact": true
 }

@@ -1,5 +1,6 @@
 {
  "slug": "est-literacy-2-guide",
+ "nav": "Literacy 2 Guide",
  "title": "EST Literacy Test 2: Reading",
  "kicker": "American Diploma · EST I · Literacy Test 2",
  "summary": "Every reading skill on the test, a method and pacing plan for 52 questions in 65 minutes, and an original passage with ten practice questions.",
@@ -222,80 +223,17 @@
   },
   {
    "type": "h2",
-   "text": "Where each reading skill is fully taught on this site"
-  },
-  {
-   "type": "table",
-   "headers": [
-    "Skill",
-    "SAT lesson",
-    "ACT lesson"
-   ],
-   "rows": [
-    [
-     "Main idea and detail",
-     "sat-central-ideas.html",
-     "act-reading-key-ideas.html"
-    ],
-    [
-     "Inference",
-     "sat-inferences.html",
-     "act-reading-key-ideas.html"
-    ],
-    [
-     "Vocabulary in context",
-     "sat-words-in-context.html, sat-vocab-toolkit.html",
-     "act-reading-craft-structure.html"
-    ],
-    [
-     "Purpose and structure",
-     "sat-text-structure-purpose.html",
-     "act-reading-craft-structure.html"
-    ],
-    [
-     "Evidence (quotations)",
-     "sat-evidence-textual.html",
-     "act-reading-integration.html"
-    ],
-    [
-     "Data and graphics",
-     "sat-evidence-quantitative.html",
-     "act-reading-integration.html"
-    ],
-    [
-     "Paired texts",
-     "sat-cross-text.html",
-     "act-reading-integration.html"
-    ],
-    [
-     "Long passages and pacing",
-     "sat-strategy-time.html",
-     "act-reading-strategy.html"
-    ]
-   ]
+   "text": "Where each skill is fully taught"
   },
   {
    "type": "p",
-   "text": "The same lessons by title:"
+   "text": "Every skill in this guide has its own lesson with rules, worked examples and a practice quiz. Go back to the **EST** page and open the **Literacy 2** sections: each lesson is one box, numbered in the order to study it."
   },
   {
-   "type": "list",
-   "ordered": false,
-   "items": [
-    "Central Ideas and Details (sat-central-ideas.html)",
-    "Inferences (sat-inferences.html)",
-    "Words in Context (sat-words-in-context.html)",
-    "High-Value Vocabulary for SAT Reading and Writing (sat-vocab-toolkit.html)",
-    "Text Structure and Purpose (sat-text-structure-purpose.html)",
-    "Command of Evidence: Textual (sat-evidence-textual.html)",
-    "Command of Evidence: Quantitative (sat-evidence-quantitative.html)",
-    "Cross-Text Connections (sat-cross-text.html)",
-    "Time Strategy and How to Attack Every Question (sat-strategy-time.html)",
-    "ACT Reading Strategy: Read Fast, Answer Smart (act-reading-strategy.html)",
-    "Key Ideas and Details (act-reading-key-ideas.html)",
-    "Craft and Structure (act-reading-craft-structure.html)",
-    "Integration of Knowledge and Ideas (act-reading-integration.html)"
-   ]
+   "type": "box",
+   "style": "ar",
+   "title": "ذاكر إزاي؟",
+   "text": "ارجع لصفحة الـ EST وافتح أقسام Literacy 2. كل درس في مربع لوحده ومترقّم، ذاكرهم بالترتيب وحل الكويز اللي في آخر كل درس."
   },
   {
    "type": "h2",

@@ -18,62 +18,74 @@
  "sections": [
   {
    "title": "Start here",
-   "desc": "How the test works and how to manage your time.",
    "pages": [
     "sat-overview",
     "sat-strategy-time"
    ]
   },
   {
-   "title": "Craft and Structure",
-   "desc": "Words in context, purpose and structure, and comparing two texts.",
+   "title": "Reading: Craft and Structure",
    "pages": [
     "sat-words-in-context",
     "sat-vocab-toolkit",
     "sat-text-structure-purpose",
     "sat-cross-text"
-   ]
+   ],
+   "tag": "Reading"
   },
   {
-   "title": "Information and Ideas",
-   "desc": "Main ideas, evidence from texts and from data, and logical conclusions.",
+   "title": "Reading: Information and Ideas",
    "pages": [
     "sat-central-ideas",
     "sat-evidence-textual",
     "sat-evidence-quantitative",
     "sat-inferences"
-   ]
+   ],
+   "tag": "Reading"
   },
   {
-   "title": "Standard English Conventions",
-   "desc": "Every grammar and punctuation rule the test checks.",
-   "pages": [
-    "sat-sentence-boundaries",
-    "sat-commas-extra-info",
-    "sat-colons-dashes-semicolons",
-    "sat-subject-verb",
-    "sat-pronouns",
-    "sat-verb-tense-finiteness",
-    "sat-modifiers",
-    "sat-possessives-plurals"
-   ]
-  },
-  {
-   "title": "Expression of Ideas",
-   "desc": "Transitions and rhetorical synthesis (notes questions).",
+   "title": "Writing: Expression of Ideas",
    "pages": [
     "sat-transitions",
     "sat-rhetorical-synthesis"
-   ]
+   ],
+   "tag": "Writing"
   },
   {
-   "title": "Full practice tests",
-   "desc": "Timed, two modules, 54 questions each, with your score by skill and an explanation for every question.",
+   "title": "Grammar: Punctuation (Boundaries)",
+   "pages": [
+    "sat-sentence-boundaries",
+    "sat-commas-extra-info",
+    "sat-commas-intro-lists",
+    "sat-semicolons",
+    "sat-colons",
+    "sat-dashes"
+   ],
+   "tag": "Grammar"
+  },
+  {
+   "title": "Grammar: Form, Structure and Sense",
+   "pages": [
+    "sat-subject-verb",
+    "sat-pronoun-agreement",
+    "sat-pronoun-case",
+    "sat-verb-tense",
+    "sat-verb-finiteness",
+    "sat-modifiers",
+    "sat-parallel-structure",
+    "sat-comparisons",
+    "sat-possessives-plurals"
+   ],
+   "tag": "Grammar"
+  },
+  {
+   "title": "Practice tests",
    "pages": [
     "sat-practice-test-1",
     "sat-practice-test-2",
     "sat-practice-test-3"
    ]
   }
- ]
+ ],
+ "compact": true
 }

@@ -1,5 +1,6 @@
 {
  "slug": "est-overview",
+ "nav": "The EST Explained",
  "title": "The EST Explained",
  "kicker": "American Diploma · EST · Start here",
  "summary": "What the Egyptian Scholastic Test is, how EST I and EST II are organised, how it compares with the SAT and ACT, how to choose, and a 6-week study plan.",
@@ -236,88 +237,53 @@
   },
   {
    "type": "p",
-   "text": "This plan assumes about **45–60 minutes a day, five days a week**. Each lesson on this site teaches the rules, shows worked examples and ends with a practice quiz. Do the quiz, then write every mistake in a notebook with the rule that fixes it. Lesson file names are given so you can find each page."
+   "text": "This plan assumes about **45–60 minutes a day, five days a week**. Each lesson on this site teaches the rules, shows worked examples and ends with a practice quiz. Do the quiz, then write every mistake in a notebook with the rule that fixes it. Every lesson is a numbered box on the EST page."
   },
   {
    "type": "table",
    "headers": [
     "Week",
     "Focus",
-    "Lessons on this site",
+    "Sections on the EST page",
     "Goal by Friday"
    ],
    "rows": [
     [
      "1",
      "Sentence boundaries and punctuation",
-     "est-overview.html, sat-sentence-boundaries.html, sat-commas-extra-info.html, sat-colons-dashes-semicolons.html, act-punctuation.html",
+     "Literacy 1: Punctuation, plus Sentence Boundaries in Sentence Structure",
      "No more comma splices; you can explain every punctuation mark you use"
     ],
     [
      "2",
      "Grammar: agreement and verb forms",
-     "sat-subject-verb.html, sat-pronouns.html, sat-verb-tense-finiteness.html, sat-modifiers.html, sat-possessives-plurals.html",
+     "Literacy 1: Sentence Structure and Usage",
      "80% or more on each lesson quiz"
     ],
     [
      "3",
      "Style: transitions, concision, organisation",
-     "sat-transitions.html, sat-rhetorical-synthesis.html, act-concision-redundancy.html, act-relevance-add-delete.html, act-organization-order.html, act-word-choice-tone.html, est-literacy-1-guide.html",
+     "Literacy 1: Organisation, Relevance and Style, then the Literacy 1 Guide",
      "Finish the Literacy 1 guide quiz; learn the 15-rule checklist by heart"
     ],
     [
      "4",
      "Reading: main idea, detail, inference, vocabulary",
-     "sat-central-ideas.html, sat-evidence-textual.html, sat-inferences.html, sat-words-in-context.html, sat-vocab-toolkit.html",
+     "Literacy 2: Strategy, Key Ideas and Details, and the vocabulary lessons in Craft and Structure",
      "A reliable reading method; 20 new words learnt"
     ],
     [
      "5",
      "Reading: purpose, data, paired texts, long passages",
-     "sat-text-structure-purpose.html, sat-evidence-quantitative.html, sat-cross-text.html, act-reading-strategy.html, est-literacy-2-guide.html",
+     "Literacy 2: Craft and Structure and Integration of Knowledge and Ideas, then the Literacy 2 Guide",
      "Finish the Literacy 2 guide quiz without rushing"
     ],
     [
      "6",
      "Timed practice and review",
-     "est-practice-test-1.html, then the notebook of mistakes; extra timing practice with sat-practice-test-1.html",
+     "The Full Practice Test, then your notebook of mistakes",
      "One full timed test; every mistake reviewed and its rule rewritten"
     ]
-   ]
-  },
-  {
-   "type": "p",
-   "text": "The key lessons for this plan, by title:"
-  },
-  {
-   "type": "list",
-   "ordered": false,
-   "items": [
-    "Sentence Boundaries (sat-sentence-boundaries.html)",
-    "Commas and Extra Information (sat-commas-extra-info.html)",
-    "Colons, Dashes and Semicolons (sat-colons-dashes-semicolons.html)",
-    "Subject–Verb Agreement (sat-subject-verb.html)",
-    "Pronouns (sat-pronouns.html)",
-    "Verb Tense, Aspect and Finiteness (sat-verb-tense-finiteness.html)",
-    "Modifiers, Parallel Structure and Comparisons (sat-modifiers.html)",
-    "Plurals and Possessives (sat-possessives-plurals.html)",
-    "Transitions (sat-transitions.html)",
-    "Rhetorical Synthesis (Student Notes) (sat-rhetorical-synthesis.html)",
-    "Concision and Redundancy (act-concision-redundancy.html)",
-    "Relevance: Add, Delete and Writer's Goal (act-relevance-add-delete.html)",
-    "Organisation: Order and Transitions (act-organization-order.html)",
-    "Word Choice and Tone (act-word-choice-tone.html)",
-    "Central Ideas and Details (sat-central-ideas.html)",
-    "Command of Evidence: Textual (sat-evidence-textual.html)",
-    "Inferences (sat-inferences.html)",
-    "Words in Context (sat-words-in-context.html)",
-    "Text Structure and Purpose (sat-text-structure-purpose.html)",
-    "Command of Evidence: Quantitative (sat-evidence-quantitative.html)",
-    "Cross-Text Connections (sat-cross-text.html)",
-    "ACT Reading Strategy: Read Fast, Answer Smart (act-reading-strategy.html)",
-    "EST Literacy Test 1 (Writing and Language) Guide (est-literacy-1-guide.html)",
-    "EST Literacy Test 2 (Reading) Guide (est-literacy-2-guide.html)",
-    "EST Practice Test 1 (est-practice-test-1.html)"
    ]
   },
   {

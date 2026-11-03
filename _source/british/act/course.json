@@ -18,44 +18,92 @@
  "sections": [
   {
    "title": "Start here",
-   "desc": "The enhanced ACT and how to attack the English section.",
    "pages": [
     "act-overview",
-    "act-english-strategy"
+    "act-english-strategy",
+    "act-reading-strategy"
    ]
   },
   {
-   "title": "English: Conventions of Standard English",
-   "desc": "Punctuation, usage and sentence structure.",
+   "title": "Grammar: Punctuation",
    "pages": [
-    "act-punctuation",
-    "act-grammar-usage",
-    "act-sentence-structure"
-   ]
+    "act-commas",
+    "act-semicolons",
+    "act-colons",
+    "act-dashes",
+    "act-apostrophes",
+    "act-unnecessary-punctuation"
+   ],
+   "tag": "English"
   },
   {
-   "title": "English: Production of Writing and Knowledge of Language",
-   "desc": "Concision, relevance, organisation, word choice and tone.",
+   "title": "Grammar: Sentence Structure",
    "pages": [
+    "act-fragments",
+    "act-run-ons",
+    "act-modifiers",
+    "act-parallelism",
+    "act-faulty-comparisons",
+    "act-shifts"
+   ],
+   "tag": "English"
+  },
+  {
+   "title": "Grammar: Usage",
+   "pages": [
+    "act-subject-verb",
+    "act-pronoun-case",
+    "act-pronoun-agreement",
+    "act-verb-tense-forms",
+    "act-adjectives-adverbs",
+    "act-comparatives-superlatives",
+    "act-idioms-prepositions",
+    "act-confused-words"
+   ],
+   "tag": "English"
+  },
+  {
+   "title": "Writing: Organisation, Relevance and Style",
+   "pages": [
+    "act-transitions",
+    "act-sentence-placement",
+    "act-add-delete",
+    "act-writers-goal",
     "act-concision-redundancy",
-    "act-relevance-add-delete",
-    "act-organization-order",
     "act-word-choice-tone"
-   ]
+   ],
+   "tag": "English"
   },
   {
-   "title": "Reading",
-   "desc": "A method for long passages and every question category.",
+   "title": "Reading: Key Ideas and Details",
    "pages": [
-    "act-reading-strategy",
-    "act-reading-key-ideas",
-    "act-reading-craft-structure",
-    "act-reading-integration"
-   ]
+    "act-reading-main-idea",
+    "act-reading-details",
+    "act-reading-relationships",
+    "act-reading-inferences"
+   ],
+   "tag": "Reading"
+  },
+  {
+   "title": "Reading: Craft and Structure",
+   "pages": [
+    "act-reading-word-meaning",
+    "act-reading-purpose-structure",
+    "act-reading-point-of-view"
+   ],
+   "tag": "Reading"
+  },
+  {
+   "title": "Reading: Integration of Knowledge and Ideas",
+   "pages": [
+    "act-reading-paired-passages",
+    "act-reading-charts-graphs",
+    "act-reading-arguments-evidence"
+   ],
+   "tag": "Reading"
   },
   {
    "title": "Practice tests",
-   "desc": "Timed English and Reading tests with explanations.",
    "pages": [
     "act-english-test-1",
     "act-english-test-2",
@@ -63,5 +111,6 @@
     "act-reading-test-2"
    ]
   }
- ]
+ ],
+ "compact": true
 }

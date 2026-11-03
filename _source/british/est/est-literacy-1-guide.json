@@ -1,5 +1,6 @@
 {
  "slug": "est-literacy-1-guide",
+ "nav": "Literacy 1 Guide",
  "title": "EST Literacy Test 1: Writing and Language",
  "kicker": "American Diploma · EST I · Literacy Test 1",
  "summary": "The skills, a pacing plan for 44 questions in 35 minutes, the 15 rules to know by heart and a passage-style practice quiz.",
@@ -243,7 +244,7 @@
    "type": "box",
    "style": "warning",
    "title": "Semicolons — the rule for this site",
-   "text": "The semicolon has one main job: it joins two independent, closely related clauses. It never \"shows contrast\" by itself; the contrast comes from words such as however. (The SAT/ACT lessons also teach one exam-specific extra use for lists whose items already contain commas — see Colons, Dashes and Semicolons (sat-colons-dashes-semicolons.html).)"
+   "text": "The semicolon has one main job: it joins two independent, closely related clauses. It never \"shows contrast\" by itself; the contrast comes from words such as however. (The SAT/ACT lessons also teach one exam-specific extra use for lists whose items already contain commas — see the Semicolons lesson.)"
   },
   {
    "type": "h2",
@@ -332,117 +333,17 @@
   },
   {
    "type": "h2",
-   "text": "Where each skill is fully taught on this site"
-  },
-  {
-   "type": "table",
-   "headers": [
-    "Skill",
-    "SAT lesson",
-    "ACT lesson"
-   ],
-   "rows": [
-    [
-     "Sentence boundaries, run-ons, fragments",
-     "sat-sentence-boundaries.html",
-     "act-sentence-structure.html"
-    ],
-    [
-     "Commas and extra information",
-     "sat-commas-extra-info.html",
-     "act-punctuation.html"
-    ],
-    [
-     "Colons, dashes, semicolons",
-     "sat-colons-dashes-semicolons.html",
-     "act-punctuation.html"
-    ],
-    [
-     "Subject–verb agreement",
-     "sat-subject-verb.html",
-     "act-grammar-usage.html"
-    ],
-    [
-     "Pronouns",
-     "sat-pronouns.html",
-     "act-grammar-usage.html"
-    ],
-    [
-     "Verb tense and finiteness",
-     "sat-verb-tense-finiteness.html",
-     "act-grammar-usage.html"
-    ],
-    [
-     "Modifiers",
-     "sat-modifiers.html",
-     "act-sentence-structure.html"
-    ],
-    [
-     "Possessives and plurals, its/it's",
-     "sat-possessives-plurals.html",
-     "act-punctuation.html"
-    ],
-    [
-     "Transitions",
-     "sat-transitions.html",
-     "act-organization-order.html"
-    ],
-    [
-     "Concision",
-     "—",
-     "act-concision-redundancy.html"
-    ],
-    [
-     "Add/delete, relevance",
-     "sat-rhetorical-synthesis.html",
-     "act-relevance-add-delete.html"
-    ],
-    [
-     "Sentence order, organisation",
-     "—",
-     "act-organization-order.html"
-    ],
-    [
-     "Word choice and tone",
-     "sat-words-in-context.html",
-     "act-word-choice-tone.html"
-    ],
-    [
-     "Strategy and pacing",
-     "sat-strategy-time.html",
-     "act-english-strategy.html"
-    ]
-   ]
+   "text": "Where each skill is fully taught"
   },
   {
    "type": "p",
-   "text": "The same lessons by title:"
+   "text": "Every skill in this guide has its own lesson with rules, worked examples and a practice quiz. Go back to the **EST** page and open the **Literacy 1** sections: each lesson is one box, numbered in the order to study it."
   },
   {
-   "type": "list",
-   "ordered": false,
-   "items": [
-    "Sentence Boundaries (sat-sentence-boundaries.html)",
-    "Commas and Extra Information (sat-commas-extra-info.html)",
-    "Colons, Dashes and Semicolons (sat-colons-dashes-semicolons.html)",
-    "Subject–Verb Agreement (sat-subject-verb.html)",
-    "Pronouns (sat-pronouns.html)",
-    "Verb Tense, Aspect and Finiteness (sat-verb-tense-finiteness.html)",
-    "Modifiers, Parallel Structure and Comparisons (sat-modifiers.html)",
-    "Plurals and Possessives (sat-possessives-plurals.html)",
-    "Transitions (sat-transitions.html)",
-    "Rhetorical Synthesis (Student Notes) (sat-rhetorical-synthesis.html)",
-    "Words in Context (sat-words-in-context.html)",
-    "Time Strategy and How to Attack Every Question (sat-strategy-time.html)",
-    "How to Attack ACT English (act-english-strategy.html)",
-    "ACT Punctuation (act-punctuation.html)",
-    "ACT Grammar and Usage (act-grammar-usage.html)",
-    "Sentence Structure (act-sentence-structure.html)",
-    "Concision and Redundancy (act-concision-redundancy.html)",
-    "Relevance: Add, Delete and Writer's Goal (act-relevance-add-delete.html)",
-    "Organisation: Order and Transitions (act-organization-order.html)",
-    "Word Choice and Tone (act-word-choice-tone.html)"
-   ]
+   "type": "box",
+   "style": "ar",
+   "title": "ذاكر إزاي؟",
+   "text": "ارجع لصفحة الـ EST وافتح أقسام Literacy 1. كل درس في مربع لوحده ومترقّم، ذاكرهم بالترتيب وحل الكويز اللي في آخر كل درس."
   },
   {
    "type": "h2",
