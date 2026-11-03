@@ -1,0 +1,512 @@
+{
+ "slug": "act-add-delete",
+ "nav": "Add or Delete",
+ "title": "Add or Delete: Should the Writer Make This Change?",
+ "kicker": "American Diploma · ACT · English: Production of Writing",
+ "summary": "How to answer \"Should the writer make this addition/deletion?\" with the yes/no + reason method, the paragraph's focus and the four reason patterns.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Add-or-delete questions belong to **Production of Writing**, the reporting category that is 38–43% of the ACT English score. They test **topic development**: does a sentence (or part of one) help the paragraph do its job? Grammar is not the point. The sentence in the question is almost always correct English; you are judging whether it **belongs**."
+  },
+  {
+   "type": "p",
+   "text": "The stems look like this (in our own words):"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Type",
+    "Typical stem",
+    "What you do"
+   ],
+   "rows": [
+    [
+     "Addition",
+     "\"At this point, the writer is considering adding the following sentence: … Should the writer make this addition here?\"",
+     "Decide Yes or No, then choose the true reason."
+    ],
+    [
+     "Deletion",
+     "\"The writer is considering deleting the underlined sentence. Should the sentence be kept or deleted?\"",
+     "Decide Kept or Deleted, then choose the true reason."
+    ],
+    [
+     "Deleting part of a sentence",
+     "\"The writer is considering deleting the underlined portion (ending the sentence with a period).\"",
+     "Same method on a phrase or clause."
+    ],
+    [
+     "What would be lost",
+     "\"If the writer deleted this sentence, the paragraph would primarily lose …\"",
+     "Say what the sentence does; choose the choice that describes it."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "An addition is marked by a number at a point in the passage with nothing underlined; a deletion is marked by an underlined sentence. Every choice has two parts — a **decision** (Yes/No, Kept/Deleted) and a **reason**. Two choices share each decision, so the reason decides the answer as often as the decision does."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "السؤال الحقيقي: الجملة دي بتخدم الفقرة؟",
+   "text": "مفيش جرامر في النوع ده. حدد فكرة الفقرة الأول في كلمتين، وبعدين اسأل: الجملة دي بتدعم الفكرة دي ولا بتبعدنا عنها؟ وبعد ما تقرر Yes أو No، السبب هو اللي بيحدد الإجابة."
+  },
+  {
+   "type": "h2",
+   "text": "The yes/no + reason method"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Name the focus.** In five or six words, say what the paragraph is about (\"how drip irrigation saves water,\" \"the writer's first tournament\"). Read the sentence before AND the sentence after the point.",
+    "**Read the sentence in question** and say what it does: gives an example? explains? adds a side detail? says something again?",
+    "**Decide.** Supports or explains the focus → Yes/Kept. Off-topic or repeated → No/Deleted. Cross out the two choices on the wrong side.",
+    "**Test the two reasons that are left.** A correct reason must be (a) **accurate** — it describes the sentence truthfully — and (b) **the real reason** — it explains why the sentence helps or hurts the paragraph.",
+    "**Check the word \"here.\"** A sentence can be relevant to the essay but wrong at this point, because it breaks the link between two sentences that belong together."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "Often you can answer by testing reasons alone: if a reason says \"because it gives the exact year\" and the sentence has no year, cross it out — whatever its Yes or No."
+  },
+  {
+   "type": "h2",
+   "text": "The four reason patterns"
+  },
+  {
+   "type": "p",
+   "text": "Almost every correct reason on these questions is one of four patterns — two for keeping, two for deleting."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Pattern",
+    "Decision",
+    "What the sentence really does",
+    "Trap version of the reason"
+   ],
+   "rows": [
+    [
+     "1. Supports",
+     "Yes / Kept",
+     "gives an example, evidence or a specific detail for the claim just made",
+     "It is an example — but of a different idea, or the \"claim\" named in the reason is wrong."
+    ],
+    [
+     "2. Explains",
+     "Yes / Kept",
+     "explains how or why, defines a term the reader needs, fills a gap between two steps, or sets up what comes next",
+     "The sentence does not explain anything; it only adds a fact."
+    ],
+    [
+     "3. Off-topic",
+     "No / Deleted",
+     "shifts to a side topic or an unrelated detail, however interesting",
+     "The focus named in the reason is wrong, or the sentence is actually on topic."
+    ],
+    [
+     "4. Repeats",
+     "No / Deleted",
+     "says again what has already been said, in other words",
+     "Nothing like it appears earlier — a \"fake repetition.\""
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Two rarer reasons also appear: **contradicts** (the sentence says the opposite of something in the essay) and **wrong place** (it belongs somewhere else). Treat them with suspicion: a choice claiming a contradiction is usually a trap unless you can point to the two sentences that disagree."
+  },
+  {
+   "type": "h2",
+   "text": "Relevance: the paragraph's focus decides"
+  },
+  {
+   "type": "p",
+   "text": "A sentence is relevant only to the **paragraph's** focus, not to the general subject. A fact about Egypt is not relevant just because the essay is set in Egypt."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Focus: how Mona's career grew at the radio station.",
+    "✓ Within a year, she was presenting her own music programme. (supports the focus — a career step)",
+    "✗ The city is known for its long seafront promenade. (true, but about the city — off-topic)",
+    "Focus: why drip irrigation saves water.",
+    "✓ On one farm, a field needed a third less water after the switch. (supports — evidence)",
+    "✗ The first plastic pipes were made in the nineteenth century. (about plastic — off-topic)",
+    "✗ Drip lines put water right at the roots. (if this was already said — repeats)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**\"Interesting\" is never a reason.** A choice like \"Kept, because it adds an interesting detail\" is almost always wrong. The ACT rewards focus, not extra facts."
+  },
+  {
+   "type": "h2",
+   "text": "Deleting part of a sentence"
+  },
+  {
+   "type": "p",
+   "text": "Sometimes only a phrase is underlined, for example a clause after a comma. Use the same test on the phrase: does it support or explain the sentence's point, or is it a side detail? Also ask what the sentence would lose. If the phrase carries the key information (\"about the weight of a ten-year-old child\" helps the reader picture 32 kilograms), keep it."
+  },
+  {
+   "type": "h2",
+   "text": "\"The paragraph would primarily lose …\""
+  },
+  {
+   "type": "p",
+   "text": "This stem asks you to describe the sentence's job, not to judge it. Say in your own words what the sentence does, then match. Wrong choices describe something the sentence does not do, or describe only a small part of it."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "السبب لازم يكون صح",
+   "text": "هيفضل عندك اختيارين بعد ما تقرر Yes أو No. اسأل: السبب ده بيوصف الجملة صح؟ هي فعلاً بتدي مثال؟ فعلاً بتكرر؟ فعلاً بتناقض؟ لو السبب مش حقيقي يبقى الاختيار غلط حتى لو القرار صح. وكلمة interesting عمرها ما تكون سبب."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — add a sentence**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: The Aswan High Dam changed farming along the Nile. Before it was built, the river flooded every summer and left a layer of rich mud on the fields. After the dam was completed, the floods stopped. [?] Farmers had to start buying chemical fertilisers.\nAt point [?], the writer is considering adding: \"Without the yearly flood, the fields no longer received fresh mud.\""
+  },
+  {
+   "type": "p",
+   "text": "**Should the writer make this addition here?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) Yes, because it explains the link between the end of the floods and the farmers' need for fertiliser.",
+    "B) Yes, because it gives the exact year the dam was finished.",
+    "C) No, because it repeats the information in the previous sentence.",
+    "D) No, because it shifts the focus from farming to the history of the dam."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: A**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✓ Correct: Pattern 2 (explains): floods stopped → no new mud → fertiliser needed. True, and the real reason.",
+    "B) ✗ Wrong: Inaccurate reason: the sentence contains no year.",
+    "C) ✗ Wrong: Fake repetition: the previous sentence says the floods stopped, not that the mud stopped arriving — the new sentence adds a step.",
+    "D) ✗ Wrong: It stays on farming; nothing about the dam's history."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — delete an off-topic sentence**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: Mona's first job was at a small radio station in Alexandria. She read the weather report at six every morning. __The city is known for its long seafront promenade.__ Within a year, she was presenting her own music programme."
+  },
+  {
+   "type": "p",
+   "text": "**The writer is considering deleting the underlined sentence. Should the sentence be kept or deleted?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) Kept, because it describes where Mona worked.",
+    "B) Kept, because it explains why Mona became a presenter.",
+    "C) Deleted, because it interrupts the account of Mona's career with an unrelated detail.",
+    "D) Deleted, because it contradicts the information about the radio station."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: Half-right: it describes the city, not the station or her work.",
+    "B) ✗ Wrong: Inaccurate: the promenade has nothing to do with her promotion.",
+    "C) ✓ Correct: Pattern 3 (off-topic): the paragraph traces her career step by step; the seafront breaks the sequence.",
+    "D) ✗ Wrong: Fake contradiction — the sentence is irrelevant, not opposite."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — delete a repeated idea**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: Volunteers at the animal shelter in Giza walk the dogs twice a day. __In other words, every dog is taken out two times each day.__ They also clean the cages and keep a record of each animal's meals."
+  },
+  {
+   "type": "p",
+   "text": "**The writer is considering deleting the underlined sentence. Should the sentence be kept or deleted?**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) Kept, because it gives the exact times of the walks.",
+    "B) Kept, because it introduces the volunteers' second task.",
+    "C) Deleted, because it repeats information already given in the previous sentence.",
+    "D) Deleted, because it shifts the focus from the volunteers to the dogs."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: Inaccurate: no times are given — \"two times each day\" is only a number.",
+    "B) ✗ Wrong: Inaccurate: the second task (cleaning) is in the next sentence.",
+    "C) ✓ Correct: Pattern 4 (repeats): \"two times each day\" is \"twice a day\" again, and \"In other words\" even announces the repetition.",
+    "D) ✗ Wrong: The sentence is still about the volunteers' walks — not a shift of focus."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4 — what would be lost**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: Wildlife officers on the Red Sea coast count the dugongs that feed on sea grass near the shore. __The animals are shy and can stay underwater for several minutes at a time.__ For this reason, officers now use small drones to spot them from above."
+  },
+  {
+   "type": "p",
+   "text": "**If the writer deleted the underlined sentence, the paragraph would primarily lose:**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) a description of the sea grass the dugongs eat.",
+    "B) an explanation of why the dugongs are hard to count, which sets up the use of drones.",
+    "C) a comparison between dugongs and other sea animals.",
+    "D) evidence that the number of dugongs is falling."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: The sentence says nothing about the sea grass.",
+    "B) ✓ Correct: It gives the reason counting is hard, and \"For this reason\" in the next sentence depends on it.",
+    "C) ✗ Wrong: No other animal is mentioned.",
+    "D) ✗ Wrong: Nothing about numbers rising or falling."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**Right decision, wrong reason:** \"Yes\" is correct, but the reason describes the sentence wrongly. Always check the reason.",
+    "**\"Interesting\" is not a reason:** a fascinating off-topic fact should still go.",
+    "**Half-right reason:** part of the sentence is relevant, but the reason is about the part that is not.",
+    "**Fake repetition:** a sentence that explains or adds a step is not a repeat.",
+    "**Fake contradiction:** unless you can point to the opposite statement, there is none.",
+    "**Wrong focus:** the reason names a focus the paragraph does not have (\"the history of the dam\").",
+    "**Forgetting \"here\":** a relevant sentence can still break the link between two sentences that belong together."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Say the paragraph's focus in a few words before reading the choices.",
+    "Decide Yes/No first and cross out two choices.",
+    "Test the last two reasons: Is it accurate? Is it the real reason?",
+    "Match the reason to one of the four patterns: supports, explains, off-topic, repeats.",
+    "If you are stuck, cross out any reason with a fact the sentence does not contain."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Read the two essays and answer the 10 questions. A number in brackets marks either an underlined sentence or a point where the writer is considering adding a sentence."
+  },
+  {
+   "type": "test",
+   "title": "Add or delete — ACT-style practice",
+   "timed": false,
+   "intro": "Two short essays, 10 questions on adding and deleting sentences. Explanations appear after you answer.",
+   "sections": [
+    {
+     "name": "Passages I–II",
+     "minutes": 8,
+     "questions": [
+      {
+       "p": "Water, One Drop at a Time\n\nFor thousands of years, Egyptian farmers watered their fields by flooding them: water from a canal was allowed to spread across the land until the soil was soaked. This method is simple, but much of the water is wasted. [1] __Some of it evaporates in the hot sun, and some sinks too deep for the roots to reach.__\n\nDrip irrigation offers another way. Thin plastic tubes run along each row of plants, and small holes in the tubes let water fall, drop by drop, right at the roots. [2] Because the water goes only where it is needed, a field watered this way usually needs far less water than a flooded one. [3]\n\nThe method has other benefits too. Since the soil between the rows stays dry, fewer weeds grow there. [4] __Drip lines also mean that the ground between the rows does not get wet.__ Fertiliser can be mixed into the water as well, so it reaches the roots directly.\n\nDrip systems are not perfect. The tubes cost money, and the small holes can become blocked with sand. [5] Still, as Egypt's population grows and every drop of Nile water becomes more valuable, more and more farmers are deciding that the savings are worth the cost.",
+       "q": "Question 1: The writer is considering deleting the underlined sentence. Should the sentence be kept or deleted?",
+       "c": [
+        "Kept, because it explains how the water mentioned in the previous sentence is wasted.",
+        "Kept, because it gives an example of a modern way of watering crops.",
+        "Deleted, because it repeats the claim that much of the water is wasted.",
+        "Deleted, because it shifts the focus from farming to the weather."
+       ],
+       "a": 0,
+       "e": "The previous sentence says water is wasted; this one explains HOW (evaporation, deep sinking). B is inaccurate — flooding is the old method. C is a fake repetition: the sentence adds the ways water is lost. D — the sun is mentioned only to explain the waste, so the focus stays on watering fields.",
+       "s": "Add/delete — keep: explains"
+      },
+      {
+       "p": "Water, One Drop at a Time\n\nFor thousands of years, Egyptian farmers watered their fields by flooding them: water from a canal was allowed to spread across the land until the soil was soaked. This method is simple, but much of the water is wasted. [1] __Some of it evaporates in the hot sun, and some sinks too deep for the roots to reach.__\n\nDrip irrigation offers another way. Thin plastic tubes run along each row of plants, and small holes in the tubes let water fall, drop by drop, right at the roots. [2] Because the water goes only where it is needed, a field watered this way usually needs far less water than a flooded one. [3]\n\nThe method has other benefits too. Since the soil between the rows stays dry, fewer weeds grow there. [4] __Drip lines also mean that the ground between the rows does not get wet.__ Fertiliser can be mixed into the water as well, so it reaches the roots directly.\n\nDrip systems are not perfect. The tubes cost money, and the small holes can become blocked with sand. [5] Still, as Egypt's population grows and every drop of Nile water becomes more valuable, more and more farmers are deciding that the savings are worth the cost.",
+       "q": "Question 2: At point [2], the writer is considering adding the following sentence:\n\"The first plastic pipes were made in the nineteenth century.\"\nShould the writer make this addition here?",
+       "c": [
+        "Yes, because it explains how the drip tubes are made.",
+        "Yes, because it shows that drip irrigation is an old method.",
+        "No, because it repeats information given earlier in the paragraph.",
+        "No, because it adds a detail about the history of plastic that does not help explain how drip irrigation works."
+       ],
+       "a": 3,
+       "e": "The paragraph explains how drip irrigation works and why it saves water; a date about plastic pipes is off-topic and breaks the link between the tubes and \"Because the water goes only where it is needed.\" A and B describe the sentence wrongly (no making process; nothing about drip irrigation's age). C — nothing about history was mentioned earlier.",
+       "s": "Add/delete — delete: off-topic"
+      },
+      {
+       "p": "Water, One Drop at a Time\n\nFor thousands of years, Egyptian farmers watered their fields by flooding them: water from a canal was allowed to spread across the land until the soil was soaked. This method is simple, but much of the water is wasted. [1] __Some of it evaporates in the hot sun, and some sinks too deep for the roots to reach.__\n\nDrip irrigation offers another way. Thin plastic tubes run along each row of plants, and small holes in the tubes let water fall, drop by drop, right at the roots. [2] Because the water goes only where it is needed, a field watered this way usually needs far less water than a flooded one. [3]\n\nThe method has other benefits too. Since the soil between the rows stays dry, fewer weeds grow there. [4] __Drip lines also mean that the ground between the rows does not get wet.__ Fertiliser can be mixed into the water as well, so it reaches the roots directly.\n\nDrip systems are not perfect. The tubes cost money, and the small holes can become blocked with sand. [5] Still, as Egypt's population grows and every drop of Nile water becomes more valuable, more and more farmers are deciding that the savings are worth the cost.",
+       "q": "Question 3: At point [3], the writer is considering adding the following sentence:\n\"On one farm near Minya, for example, a farmer found that his tomato field needed about a third less water after he switched to drip lines.\"\nShould the writer make this addition here?",
+       "c": [
+        "Yes, because it explains why farmers used flooding for thousands of years.",
+        "Yes, because it gives a specific example that supports the claim in the previous sentence.",
+        "No, because it shifts the focus from saving water to growing tomatoes.",
+        "No, because it contradicts the claim that drip irrigation saves water."
+       ],
+       "a": 1,
+       "e": "The previous sentence claims drip irrigation needs far less water; the farm in Minya is concrete evidence of that claim. A is inaccurate (the sentence is not about flooding's history). C — the tomatoes are only the example; the point is still water. D is reversed: the sentence supports the claim.",
+       "s": "Add/delete — add: example/evidence"
+      },
+      {
+       "p": "Water, One Drop at a Time\n\nFor thousands of years, Egyptian farmers watered their fields by flooding them: water from a canal was allowed to spread across the land until the soil was soaked. This method is simple, but much of the water is wasted. [1] __Some of it evaporates in the hot sun, and some sinks too deep for the roots to reach.__\n\nDrip irrigation offers another way. Thin plastic tubes run along each row of plants, and small holes in the tubes let water fall, drop by drop, right at the roots. [2] Because the water goes only where it is needed, a field watered this way usually needs far less water than a flooded one. [3]\n\nThe method has other benefits too. Since the soil between the rows stays dry, fewer weeds grow there. [4] __Drip lines also mean that the ground between the rows does not get wet.__ Fertiliser can be mixed into the water as well, so it reaches the roots directly.\n\nDrip systems are not perfect. The tubes cost money, and the small holes can become blocked with sand. [5] Still, as Egypt's population grows and every drop of Nile water becomes more valuable, more and more farmers are deciding that the savings are worth the cost.",
+       "q": "Question 4: The writer is considering deleting the underlined sentence. Should the sentence be kept or deleted?",
+       "c": [
+        "Kept, because it adds a new benefit of drip irrigation.",
+        "Kept, because it explains why weeds need water to grow.",
+        "Deleted, because it repeats information already given in the previous sentence.",
+        "Deleted, because it contradicts the earlier claim about weeds."
+       ],
+       "a": 2,
+       "e": "\"The ground between the rows does not get wet\" says again what \"the soil between the rows stays dry\" has just said — redundant. A is a fake new point; B — the sentence says nothing about why weeds need water; D — it agrees with, not contradicts, the earlier sentence.",
+       "s": "Add/delete — delete: repeats"
+      },
+      {
+       "p": "Water, One Drop at a Time\n\nFor thousands of years, Egyptian farmers watered their fields by flooding them: water from a canal was allowed to spread across the land until the soil was soaked. This method is simple, but much of the water is wasted. [1] __Some of it evaporates in the hot sun, and some sinks too deep for the roots to reach.__\n\nDrip irrigation offers another way. Thin plastic tubes run along each row of plants, and small holes in the tubes let water fall, drop by drop, right at the roots. [2] Because the water goes only where it is needed, a field watered this way usually needs far less water than a flooded one. [3]\n\nThe method has other benefits too. Since the soil between the rows stays dry, fewer weeds grow there. [4] __Drip lines also mean that the ground between the rows does not get wet.__ Fertiliser can be mixed into the water as well, so it reaches the roots directly.\n\nDrip systems are not perfect. The tubes cost money, and the small holes can become blocked with sand. [5] Still, as Egypt's population grows and every drop of Nile water becomes more valuable, more and more farmers are deciding that the savings are worth the cost.",
+       "q": "Question 5: At point [5], the writer is considering adding the following sentence:\n\"Many farmers flush their lines with clean water once a week to keep the holes open.\"\nShould the writer make this addition here?",
+       "c": [
+        "Yes, because it shows that drip systems are too expensive for most farmers.",
+        "No, because it simply repeats the information about blocked holes.",
+        "No, because it shifts the focus away from drip irrigation.",
+        "Yes, because it explains how farmers deal with one of the problems just mentioned."
+       ],
+       "a": 3,
+       "e": "The previous sentence names blocked holes as a problem; the new sentence explains how farmers handle it, which also prepares for \"Still, … the savings are worth the cost.\" A describes the sentence wrongly (nothing about cost). B is a fake repetition — it adds a solution. C — flushing the lines is about drip irrigation.",
+       "s": "Add/delete — add: explains"
+      },
+      {
+       "p": "My First Tournament\n\nWhen I was twelve, I entered my first chess tournament, held in a sports club in Heliopolis. Until then, I had played only against my older brother. [6] __He usually beat me in fewer than twenty moves, so I had no idea whether I was any good.__\n\nThe hall was silent except for the tapping of chess clocks. Forty boards stood in neat rows under bright lights. [7] My first opponent, a quiet boy with glasses, opened with a move I had never seen. I lost that game, and the next one too.\n\nIn the third round, I remembered something my brother always said: \"Look at every capture before you move.\" I slowed down, checked each piece, and won. [8] __My brother now studies engineering at Cairo University.__ By the end of the day, I had two wins and three losses. [9]\n\nI still keep the score sheet from that third game folded inside my favourite chess book. [10]",
+       "q": "Question 6: The writer is considering deleting the underlined sentence. Should the sentence be kept or deleted?",
+       "c": [
+        "Kept, because it explains why the writer was unsure of his ability before the tournament.",
+        "Kept, because it describes the rules of the tournament.",
+        "Deleted, because it shifts the focus from the tournament to the writer's family.",
+        "Deleted, because it repeats the information that the writer had played only against his brother."
+       ],
+       "a": 0,
+       "e": "Losing quickly to his brother is why the writer did not know whether he was good — it sets up the tension of the tournament. B is inaccurate (no rules). C — the brother is part of the story and returns later with his advice. D — the previous sentence says who he played; this one adds the results and his doubt, so it is not a repetition.",
+       "s": "Add/delete — keep: explains"
+      },
+      {
+       "p": "My First Tournament\n\nWhen I was twelve, I entered my first chess tournament, held in a sports club in Heliopolis. Until then, I had played only against my older brother. [6] __He usually beat me in fewer than twenty moves, so I had no idea whether I was any good.__\n\nThe hall was silent except for the tapping of chess clocks. Forty boards stood in neat rows under bright lights. [7] My first opponent, a quiet boy with glasses, opened with a move I had never seen. I lost that game, and the next one too.\n\nIn the third round, I remembered something my brother always said: \"Look at every capture before you move.\" I slowed down, checked each piece, and won. [8] __My brother now studies engineering at Cairo University.__ By the end of the day, I had two wins and three losses. [9]\n\nI still keep the score sheet from that third game folded inside my favourite chess book. [10]",
+       "q": "Question 7: At point [7], the writer is considering adding the following sentence:\n\"The club also has a swimming pool and three tennis courts.\"\nShould the writer make this addition here?",
+       "c": [
+        "Yes, because it shows how large the club was.",
+        "No, because it adds a detail about the club that has nothing to do with the tournament.",
+        "Yes, because it explains why the hall was silent.",
+        "No, because it repeats the description of the hall."
+       ],
+       "a": 1,
+       "e": "The paragraph moves from the silent hall to the first game; a swimming pool and tennis courts are an unrelated detail that breaks that flow. A may be true, but the size of the club is not the paragraph's focus. C is inaccurate — pools do not explain silence. D — the pool was never described before.",
+       "s": "Add/delete — delete: off-topic"
+      },
+      {
+       "p": "My First Tournament\n\nWhen I was twelve, I entered my first chess tournament, held in a sports club in Heliopolis. Until then, I had played only against my older brother. [6] __He usually beat me in fewer than twenty moves, so I had no idea whether I was any good.__\n\nThe hall was silent except for the tapping of chess clocks. Forty boards stood in neat rows under bright lights. [7] My first opponent, a quiet boy with glasses, opened with a move I had never seen. I lost that game, and the next one too.\n\nIn the third round, I remembered something my brother always said: \"Look at every capture before you move.\" I slowed down, checked each piece, and won. [8] __My brother now studies engineering at Cairo University.__ By the end of the day, I had two wins and three losses. [9]\n\nI still keep the score sheet from that third game folded inside my favourite chess book. [10]",
+       "q": "Question 8: The writer is considering deleting the underlined sentence. Should the sentence be kept or deleted?",
+       "c": [
+        "Kept, because it shows that the brother's advice was reliable.",
+        "Kept, because it introduces the person who gave the advice.",
+        "Deleted, because it adds information about the brother that interrupts the account of the tournament.",
+        "Deleted, because it contradicts the earlier description of the brother."
+       ],
+       "a": 2,
+       "e": "The paragraph tells how the writer won the third game and ended the day; the brother's university studies have nothing to do with that. A — studying engineering does not prove chess advice was good. B — the brother was introduced in the first paragraph. D — there is no contradiction, just irrelevance.",
+       "s": "Add/delete — delete: off-topic"
+      },
+      {
+       "p": "My First Tournament\n\nWhen I was twelve, I entered my first chess tournament, held in a sports club in Heliopolis. Until then, I had played only against my older brother. [6] __He usually beat me in fewer than twenty moves, so I had no idea whether I was any good.__\n\nThe hall was silent except for the tapping of chess clocks. Forty boards stood in neat rows under bright lights. [7] My first opponent, a quiet boy with glasses, opened with a move I had never seen. I lost that game, and the next one too.\n\nIn the third round, I remembered something my brother always said: \"Look at every capture before you move.\" I slowed down, checked each piece, and won. [8] __My brother now studies engineering at Cairo University.__ By the end of the day, I had two wins and three losses. [9]\n\nI still keep the score sheet from that third game folded inside my favourite chess book. [10]",
+       "q": "Question 9: At point [9], the writer is considering adding the following sentence:\n\"It was not a prize-winning score, but it showed me that I could hold my own against strangers.\"\nShould the writer make this addition here?",
+       "c": [
+        "Yes, because it explains what the result meant to the writer.",
+        "Yes, because it gives the final standings of all the players.",
+        "No, because it repeats the score given in the previous sentence.",
+        "No, because it contradicts the writer's account of losing two games."
+       ],
+       "a": 0,
+       "e": "The sentence interprets the score — it tells the reader why two wins mattered — and answers the doubt from the first paragraph (\"no idea whether I was any good\"). B is inaccurate (no other players' standings). C — it explains the score; it does not repeat it. D — admitting it was not a prize-winning score fits the losses.",
+       "s": "Add/delete — add: explains"
+      },
+      {
+       "p": "My First Tournament\n\nWhen I was twelve, I entered my first chess tournament, held in a sports club in Heliopolis. Until then, I had played only against my older brother. [6] __He usually beat me in fewer than twenty moves, so I had no idea whether I was any good.__\n\nThe hall was silent except for the tapping of chess clocks. Forty boards stood in neat rows under bright lights. [7] My first opponent, a quiet boy with glasses, opened with a move I had never seen. I lost that game, and the next one too.\n\nIn the third round, I remembered something my brother always said: \"Look at every capture before you move.\" I slowed down, checked each piece, and won. [8] __My brother now studies engineering at Cairo University.__ By the end of the day, I had two wins and three losses. [9]\n\nI still keep the score sheet from that third game folded inside my favourite chess book. [10]",
+       "q": "Question 10: At point [10], the writer is considering adding the following sentence:\n\"Whenever I lose a game today, I take it out and remember that slowing down once turned a loss into a win.\"\nShould the writer make this addition here?",
+       "c": [
+        "No, because it repeats the brother's advice word for word.",
+        "Yes, because it explains why the writer has kept the score sheet.",
+        "No, because it shifts the focus from chess to the writer's feelings.",
+        "Yes, because it describes the moves played in the third game."
+       ],
+       "a": 1,
+       "e": "The final paragraph says the writer kept the score sheet but not why; the new sentence gives the reason and connects to the lesson of the third game. A — the advice is not quoted again. C — the feelings are about chess, the essay's subject. D is inaccurate: no moves are described.",
+       "s": "Add/delete — add: explains"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "First name the paragraph's focus; a sentence belongs only if it supports or explains that focus.",
+    "Decide Yes/No, then pick the reason that is accurate AND is the real reason.",
+    "Four patterns: supports and explains → keep; off-topic and repeats → delete.",
+    "\"Interesting\" is never a reason; contradiction must be real.",
+    "\"Here\" matters — check the sentences on both sides."
+   ]
+  }
+ ]
+}
