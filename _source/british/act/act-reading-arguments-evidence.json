@@ -1,0 +1,537 @@
+{
+ "slug": "act-reading-arguments-evidence",
+ "nav": "Arguments and Evidence",
+ "title": "Evaluating Arguments: Claims, Evidence and Reasoning",
+ "kicker": "American Diploma · ACT · Reading: Integration of Knowledge and Ideas",
+ "summary": "How to judge an argument on ACT Reading: separate claims from evidence, decide which detail supports or weakens a claim, describe how an author uses evidence, and tell fact from opinion.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Many ACT Reading passages, especially the informational ones (social science, humanities, natural science), do not only give information: they **argue**. These questions ask you to judge the argument. What is the author's **claim**? What **evidence** is offered for it? Which detail **supports** the claim, and which fact would **weaken** it? Is a statement a **fact** or an **opinion**? This skill belongs to the reporting category **Integration of Knowledge and Ideas**, which is **19–26% of the scored ACT Reading questions**, and it can appear with any passage, including paired passages and passages with charts."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Question kind",
+    "What it asks",
+    "Typical stems (in our own words)"
+   ],
+   "rows": [
+    [
+     "Find the claim",
+     "The main point the author wants you to accept",
+     "\"The author's main claim is that:\""
+    ],
+    [
+     "Match evidence to claim",
+     "Which detail supports a given claim",
+     "\"Which finding most directly supports the claim that …?\""
+    ],
+    [
+     "How evidence is used",
+     "Why the author includes a number, example or quotation",
+     "\"The author includes the figure for … mainly to:\""
+    ],
+    [
+     "Kind / strength of evidence",
+     "Is it a measurement, a story, an estimate, a quotation? How strong is it?",
+     "\"The statement in paragraph 4 is best described as:\""
+    ],
+    [
+     "Strengthen / weaken",
+     "A new fact that would help or hurt the argument",
+     "\"Which of the following, if true, would most directly weaken …?\""
+    ],
+    [
+     "Fact vs opinion",
+     "Which statement could be checked and which is a judgment",
+     "\"Which statement is an opinion rather than a fact?\""
+    ],
+    [
+     "Counterargument",
+     "How the author handles the other side",
+     "\"How does the author respond to critics who …?\""
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Step 1: Separate the claim from the evidence"
+  },
+  {
+   "type": "p",
+   "text": "The **claim** is what the author wants you to believe; it often contains *should*, *must*, *the best*, *more harm than good*, or *I believe*. The **evidence** is what is offered to make you believe it: numbers, results of a test, examples, quotations, personal experience. Most argument passages state the claim in the first or the last paragraph and spend the middle paragraphs on evidence."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "✓ Claim: \"Libraries should abolish overdue fines.\" Evidence: \"Without fines, on-time returns fell only from 91 to 89 percent.\"",
+    "✗ Calling \"91 to 89 percent\" the claim. — A number is evidence; it becomes a claim only when the author draws a conclusion from it.",
+    "✓ Claim: \"Our reading programme was the best decision we have made.\" Evidence: \"Library loans rose by 40 percent.\"",
+    "✗ \"The best decision we have made\" as evidence. — That is the opinion the evidence must support."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الرأي والدليل",
+   "text": "الـ claim هو الرأي اللي الكاتب عايز يقنعك بيه (غالبًا فيه should أو best أو I believe). الـ evidence هو اللي بيثبت بيه الرأي: أرقام، تجربة، مثال، كلام حد. أول حاجة في أي سؤال: حدد الرأي فين، والدليل فين، وبعدين اسأل: الدليل ده كفاية للرأي ده ولا الرأي أكبر من الدليل؟"
+  },
+  {
+   "type": "h2",
+   "text": "Step 2: Name the kind of evidence and its limit"
+  },
+  {
+   "type": "p",
+   "text": "The ACT often asks you to describe evidence (\"is best described as\") or to find its weakness. Learn the main kinds and the typical limit of each."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Kind of evidence",
+    "Signals in the text",
+    "Strength",
+    "Typical limit the ACT asks about"
+   ],
+   "rows": [
+    [
+     "Personal experience / one event",
+     "\"I saw,\" \"when I was,\" \"one evening\"",
+     "Vivid but limited",
+     "May not be typical"
+    ],
+    [
+     "Anecdote or quotation",
+     "\"one colleague told me,\" quotation marks",
+     "Shows an example or a feeling",
+     "Others may disagree; not representative"
+    ],
+    [
+     "Estimate or guess",
+     "\"I suspect,\" \"probably,\" \"close to\"",
+     "Weak",
+     "No precise figures are given"
+    ],
+    [
+     "Survey / measurement over time",
+     "percent, counted, recorded, for twelve months",
+     "Stronger",
+     "Depends on the sample, place and period"
+    ],
+    [
+     "Comparison or trial with a control group",
+     "\"while the other eight continued as before\"",
+     "Strongest for cause and effect",
+     "Another difference between the groups may explain the result"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Notice the last row. A **comparison group** makes evidence much stronger: if fine-free branches gained 14 percent more cardholders while the other branches gained only 2 percent, the rise is probably not just a general trend. When a question asks why an author includes a second set of numbers, the answer is often \"to compare.\""
+  },
+  {
+   "type": "h2",
+   "text": "Step 3: Supports, weakens, or irrelevant?"
+  },
+  {
+   "type": "p",
+   "text": "For every \"supports\" or \"weakens\" question, first write the exact claim in a few words. Then test each choice against THAT claim only. A fact about the same topic that does not touch the claim is **irrelevant**, not supporting."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "✓ Supports \"fines don't bring books back\": \"Without fines, on-time returns barely changed.\"",
+    "✗ Supports \"fines don't bring books back\": \"Cardholders rose by 14 percent.\" — True, but it supports a different claim (fines keep people away).",
+    "✓ Weakens \"removing fines brought borrowers back\": \"The fine-free branches also started opening on weekends that year.\" — Another possible cause.",
+    "✗ Weakens it: \"Other cities found the same result.\" — This strengthens the argument (reversed trap)."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "The most common ways to **weaken** an argument on the ACT:"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "**Another cause** — something else changed at the same time.",
+    "**Unrepresentative sample** — the people, places or days studied were not typical.",
+    "**Too small or too short** — one evening, one class, one season.",
+    "**Correlation, not cause** — two things happen together, but one did not necessarily cause the other.",
+    "**Claim goes further than the evidence** — the evidence is about one school; the claim is about \"every school in the country.\""
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Step 4: Fact vs opinion"
+  },
+  {
+   "type": "p",
+   "text": "A **fact** can be checked: counted, measured, found in a record. It can be true or false, but you could test it. An **opinion** is a judgment: it cannot be proved by any record, only argued for."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Usually a fact",
+    "Usually an opinion"
+   ],
+   "rows": [
+    [
+     "numbers, dates, percentages, places",
+     "should, ought to, must"
+    ],
+    [
+     "\"rose by 14 percent,\" \"three of eleven branches\"",
+     "best, worst, unfair, harmless, wonderful"
+    ],
+    [
+     "\"staff sent notices and handled payments\"",
+     "\"I believe,\" \"in my view,\" \"I am convinced\""
+    ],
+    [
+     "what someone said (\"one colleague described it as …\")",
+     "what the author concludes from it"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "✓ Fact: \"Fines brought in less than one percent of our budget.\" — Check the budget.",
+    "✗ Fact: \"A library should be the one place where no one is turned away.\" — \"Should\" = a value judgment.",
+    "Careful: \"One colleague described it as 'the opposite of everything I became a librarian to do'\" is a FACT about what the colleague said, even though the colleague's words express a feeling."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Step 5: How the author handles the other side"
+  },
+  {
+   "type": "p",
+   "text": "Strong argument passages mention an objection (\"Critics may say …,\" \"Some colleagues fear …\") and answer it. The ACT asks how. Most often the author **concedes and answers**: accepts that the worry is understandable, then shows why it is small or can be solved. Watch for the words *understandable*, *of course*, *it is true that … but*. A choice saying the author \"dismisses\" or \"ignores\" the objection is usually too extreme."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "Short excerpt (shorter than a real ACT passage): [1] Last spring, our school replaced fifteen minutes of morning assembly with fifteen minutes of silent reading in every classroom. [2] The change was, in my view, the best decision we have made in years. [3] By June, the school library had lent 40 percent more books than in the same months of the previous year. [4] One eighth-grade teacher told me that a boy who had never finished a book now asks her for recommendations every week. [5] Some parents worried that students would miss important announcements, but these are now sent by message to families each morning. [6] Every school in the country should follow our example."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — matching evidence to the claim**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which sentence provides the strongest measurable evidence for the author's view of the reading programme?"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) Sentence 2",
+    "B) Sentence 3",
+    "C) Sentence 4",
+    "D) Sentence 5"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B.** A 40 percent rise in library loans, compared with the same months a year earlier, is a measurement with a comparison built in."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**A is wrong** — Sentence 2 is the opinion itself, not evidence for it.",
+    "**C is wrong** — An anecdote about one boy: vivid, but not measurable and not representative.",
+    "**D is wrong** — This answers an objection; it is not evidence that the programme works."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — weakening a cause**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which of the following, if true, would most directly weaken the claim that the reading time caused the rise in library loans?"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) Teachers also read silently during the fifteen minutes.",
+    "B) Parents now receive announcements by message every morning.",
+    "C) That spring, the library also doubled its opening hours and bought a large set of new books.",
+    "D) The reading programme is popular with most students."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C.** C gives another possible cause for the rise in loans. If the library was open twice as long and had new books, the reading time may not explain the 40 percent."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**A is wrong** — Irrelevant: it describes the programme, not another cause.",
+    "**B is wrong** — Irrelevant: it is about announcements, not book loans.",
+    "**D is wrong** — If anything, it fits the author's view; it does not weaken it."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — fact vs opinion**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which sentence states an opinion rather than a fact that could be checked?"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) Sentence 1",
+    "B) Sentence 3",
+    "C) Sentence 5",
+    "D) Sentence 2"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer: D.** \"The best decision we have made in years\" (with \"in my view\") is a judgment; no record could prove it."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**A is wrong** — Checkable in the school timetable.",
+    "**B is wrong** — Checkable in the library's records.",
+    "**C is wrong** — Checkable: parents either receive the messages or they do not."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4 — a claim that goes beyond the evidence**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Sentence 6 is the weakest part of the argument mainly because it:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) draws a conclusion about every school from the results of one school in one term.",
+    "B) repeats the statistic given in sentence 3.",
+    "C) contradicts the teacher's report in sentence 4.",
+    "D) ignores the parents' worry about announcements."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer: A.** The evidence comes from one school over a few months; \"every school in the country\" goes much further than that."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**B is wrong** — Sentence 6 contains no statistic.",
+    "**C is wrong** — Reversed: the teacher's report agrees with the author's view.",
+    "**D is wrong** — Wrong: sentence 5 answers the parents' worry."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**Same topic, different claim.** A true detail that supports a DIFFERENT point from the one asked about.",
+    "**Reversed effect.** In a \"weaken\" question, a choice that actually strengthens the argument (more cities found the same result).",
+    "**Opinion taken as evidence.** \"The best decision\" is the claim, not the proof.",
+    "**Estimate taken as measurement.** \"I suspect\" and \"close to nothing\" are guesses, not calculations.",
+    "**Quotation taken as statistics.** One person's words show a feeling or an example, not a pattern.",
+    "**Too extreme about the author's tone.** Authors who concede (\"the fear is understandable\") do not \"dismiss\" or \"ignore\" the other side."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Find the thesis in the first or last paragraph and write it in five words.",
+    "For each paragraph, note: evidence type (number, trial, story, quote, guess).",
+    "Supports/weakens: write the exact claim first, then test every choice against it only.",
+    "Weaken = another cause, unusual sample, too small or short, correlation not cause, claim too big.",
+    "Fact vs opinion: can a record, count or measurement check it? Yes = fact. \"Should / best\" = opinion.",
+    "Keep to about 10 minutes for the passage and its 9 questions."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "إزاي تضعّف الحجة",
+   "text": "في سؤال «weaken» دور على حاجة من دول: سبب تاني ممكن يكون هو اللي عمل النتيجة، أو العينة مش طبيعية، أو المدة قصيرة أوي، أو الكاتب عمم على «كل المدارس» من مدرسة واحدة. وخلي بالك من الفخ: اختيار بيقوّي الحجة مش بيضعفها."
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "A social-science argument of about 700 words with 9 questions, as on the real test. It is untimed, but aim for about 10 minutes. As you read, mark the claim and label each paragraph's evidence."
+  },
+  {
+   "type": "test",
+   "title": "ACT Reading practice — Evaluating an argument",
+   "timed": false,
+   "intro": "One social-science passage, 9 questions, untimed. Separate the claim from the evidence and name each kind of evidence as you read.",
+   "sections": [
+    {
+     "name": "Passage 1",
+     "minutes": 10,
+     "questions": [
+      {
+       "p": "SOCIAL SCIENCE: This passage is adapted from an essay by a city librarian.\n\n[1] For more than a century, the overdue fine has been as much a part of the public library as the date stamp and the quiet reading room. Return a book late, and you pay a few coins for every day it was missing. Most people think of the fine as harmless, even fair: the library lends you something valuable for free, and the fine reminds you that others are waiting for it. I believed this myself for most of my career. I no longer do. I now think that overdue fines do more harm than good, and that libraries should abolish them.\n\n[2] The first problem is that fines do not fall on everyone equally. A fine of a few coins a day means nothing to a family with a comfortable income; it can mean a great deal to a family without one. In our own system, when we looked at the accounts that had been blocked because of unpaid fines, we found that more than half belonged to children and teenagers, most of them living in the three neighbourhoods with the lowest average incomes in the city. A child whose card is blocked cannot borrow a book until the debt is paid. In practice, many of those children simply stopped coming.\n\n[3] The second problem is that fines do not seem to do the job they were designed for. If the threat of paying were what brought books back, removing fines should cause a flood of late returns. Two years ago, our library tested this. For twelve months, three of our eleven branches stopped charging fines, while the other eight continued as before. In the branches without fines, the share of books returned on time fell only slightly, from 91 percent to 89 percent. Meanwhile, the number of active cardholders in those branches rose by 14 percent, and many of the returning borrowers were people whose cards had been blocked for years. In the eight branches that kept fines, active cardholders rose by 2 percent.\n\n[4] Some colleagues fear that without fines the library will lose money it needs. The fear is understandable, but the sums are small. Fines brought in less than one percent of our budget last year, and collecting them was not free: staff spent hours sending notices, answering complaints and handling small payments at the desk. I suspect that the true profit, once that time is counted, was close to nothing.\n\n[5] There is also a cost that never appears in any account. Many of our librarians tell me that the most unpleasant part of their job is the moment they must tell a nervous child, in front of a line of adults, that she cannot take home the book she has chosen. One colleague described it to me as \"the opposite of everything I became a librarian to do.\" A library should be the one public place where no one is turned away for lack of money.\n\n[6] None of this means that books should be allowed to disappear. A library without fines still needs a way to get its books back. Ours now sends friendly reminders by text message, and if a book is more than two months late, the borrower is asked to return it or pay for a replacement before borrowing again. These rules protect the collection without punishing a borrower for being a few days late.\n\n[7] Critics may say that a library without fines teaches young people that deadlines do not matter. I would answer that a library that turns children away teaches them something worse: that the library is not for them. Responsibility is learned by being trusted, not by being shut out. The evidence from our own branches suggests that most people return what they borrow whether or not a fine is waiting for them, and that the people who stay away because of fines are exactly the ones a library most needs to reach.",
+       "q": "The author's main claim in the passage is that:",
+       "c": [
+        "overdue fines are a fair reminder that other borrowers are waiting.",
+        "libraries should send text-message reminders instead of letters.",
+        "libraries should abolish overdue fines because they do more harm than good.",
+        "children should be taught to return library books on time."
+       ],
+       "a": 2,
+       "e": "Paragraph 1 ends with the thesis: fines \"do more harm than good,\" and libraries \"should abolish them\"; every later paragraph supports it. A is the view the author held in the past (reversed); B is a detail from paragraph 6; D is never the author's argument.",
+       "s": "Identifying the claim"
+      },
+      {
+       "p": "SOCIAL SCIENCE: This passage is adapted from an essay by a city librarian.\n\n[1] For more than a century, the overdue fine has been as much a part of the public library as the date stamp and the quiet reading room. Return a book late, and you pay a few coins for every day it was missing. Most people think of the fine as harmless, even fair: the library lends you something valuable for free, and the fine reminds you that others are waiting for it. I believed this myself for most of my career. I no longer do. I now think that overdue fines do more harm than good, and that libraries should abolish them.\n\n[2] The first problem is that fines do not fall on everyone equally. A fine of a few coins a day means nothing to a family with a comfortable income; it can mean a great deal to a family without one. In our own system, when we looked at the accounts that had been blocked because of unpaid fines, we found that more than half belonged to children and teenagers, most of them living in the three neighbourhoods with the lowest average incomes in the city. A child whose card is blocked cannot borrow a book until the debt is paid. In practice, many of those children simply stopped coming.\n\n[3] The second problem is that fines do not seem to do the job they were designed for. If the threat of paying were what brought books back, removing fines should cause a flood of late returns. Two years ago, our library tested this. For twelve months, three of our eleven branches stopped charging fines, while the other eight continued as before. In the branches without fines, the share of books returned on time fell only slightly, from 91 percent to 89 percent. Meanwhile, the number of active cardholders in those branches rose by 14 percent, and many of the returning borrowers were people whose cards had been blocked for years. In the eight branches that kept fines, active cardholders rose by 2 percent.\n\n[4] Some colleagues fear that without fines the library will lose money it needs. The fear is understandable, but the sums are small. Fines brought in less than one percent of our budget last year, and collecting them was not free: staff spent hours sending notices, answering complaints and handling small payments at the desk. I suspect that the true profit, once that time is counted, was close to nothing.\n\n[5] There is also a cost that never appears in any account. Many of our librarians tell me that the most unpleasant part of their job is the moment they must tell a nervous child, in front of a line of adults, that she cannot take home the book she has chosen. One colleague described it to me as \"the opposite of everything I became a librarian to do.\" A library should be the one public place where no one is turned away for lack of money.\n\n[6] None of this means that books should be allowed to disappear. A library without fines still needs a way to get its books back. Ours now sends friendly reminders by text message, and if a book is more than two months late, the borrower is asked to return it or pay for a replacement before borrowing again. These rules protect the collection without punishing a borrower for being a few days late.\n\n[7] Critics may say that a library without fines teaches young people that deadlines do not matter. I would answer that a library that turns children away teaches them something worse: that the library is not for them. Responsibility is learned by being trusted, not by being shut out. The evidence from our own branches suggests that most people return what they borrow whether or not a fine is waiting for them, and that the people who stay away because of fines are exactly the ones a library most needs to reach.",
+       "q": "Which finding from paragraph 3 most directly supports the claim that fines \"do not seem to do the job they were designed for\"?",
+       "c": [
+        "Without fines, the share of books returned on time fell only from 91 percent to 89 percent.",
+        "The trial took place in three of the library's eleven branches.",
+        "Active cardholders in the branches that kept fines rose by 2 percent.",
+        "Many returning borrowers had had their cards blocked for years."
+       ],
+       "a": 0,
+       "e": "Fines were \"designed\" to bring books back on time; if removing them barely changes on-time returns, they were not doing that job. B describes the design of the test, not a result. C and D support a different point (that fines keep people away), not the point about returns.",
+       "s": "Matching evidence to a claim"
+      },
+      {
+       "p": "SOCIAL SCIENCE: This passage is adapted from an essay by a city librarian.\n\n[1] For more than a century, the overdue fine has been as much a part of the public library as the date stamp and the quiet reading room. Return a book late, and you pay a few coins for every day it was missing. Most people think of the fine as harmless, even fair: the library lends you something valuable for free, and the fine reminds you that others are waiting for it. I believed this myself for most of my career. I no longer do. I now think that overdue fines do more harm than good, and that libraries should abolish them.\n\n[2] The first problem is that fines do not fall on everyone equally. A fine of a few coins a day means nothing to a family with a comfortable income; it can mean a great deal to a family without one. In our own system, when we looked at the accounts that had been blocked because of unpaid fines, we found that more than half belonged to children and teenagers, most of them living in the three neighbourhoods with the lowest average incomes in the city. A child whose card is blocked cannot borrow a book until the debt is paid. In practice, many of those children simply stopped coming.\n\n[3] The second problem is that fines do not seem to do the job they were designed for. If the threat of paying were what brought books back, removing fines should cause a flood of late returns. Two years ago, our library tested this. For twelve months, three of our eleven branches stopped charging fines, while the other eight continued as before. In the branches without fines, the share of books returned on time fell only slightly, from 91 percent to 89 percent. Meanwhile, the number of active cardholders in those branches rose by 14 percent, and many of the returning borrowers were people whose cards had been blocked for years. In the eight branches that kept fines, active cardholders rose by 2 percent.\n\n[4] Some colleagues fear that without fines the library will lose money it needs. The fear is understandable, but the sums are small. Fines brought in less than one percent of our budget last year, and collecting them was not free: staff spent hours sending notices, answering complaints and handling small payments at the desk. I suspect that the true profit, once that time is counted, was close to nothing.\n\n[5] There is also a cost that never appears in any account. Many of our librarians tell me that the most unpleasant part of their job is the moment they must tell a nervous child, in front of a line of adults, that she cannot take home the book she has chosen. One colleague described it to me as \"the opposite of everything I became a librarian to do.\" A library should be the one public place where no one is turned away for lack of money.\n\n[6] None of this means that books should be allowed to disappear. A library without fines still needs a way to get its books back. Ours now sends friendly reminders by text message, and if a book is more than two months late, the borrower is asked to return it or pay for a replacement before borrowing again. These rules protect the collection without punishing a borrower for being a few days late.\n\n[7] Critics may say that a library without fines teaches young people that deadlines do not matter. I would answer that a library that turns children away teaches them something worse: that the library is not for them. Responsibility is learned by being trusted, not by being shut out. The evidence from our own branches suggests that most people return what they borrow whether or not a fine is waiting for them, and that the people who stay away because of fines are exactly the ones a library most needs to reach.",
+       "q": "The author includes the figure for the eight branches that kept fines (paragraph 3) mainly to:",
+       "c": [
+        "show that the library as a whole was losing borrowers.",
+        "prove that fines had no effect at all on any borrower.",
+        "explain why the trial lasted twelve months.",
+        "show that the rise in cardholders in the fine-free branches was much larger than the change elsewhere."
+       ],
+       "a": 3,
+       "e": "The eight branches are a comparison group: 14 percent vs 2 percent suggests the rise came from removing fines, not from a general rise everywhere. A is contradicted (cardholders rose there too); B is too extreme (on-time returns did fall slightly); C is unrelated to the figure.",
+       "s": "How the author uses evidence"
+      },
+      {
+       "p": "SOCIAL SCIENCE: This passage is adapted from an essay by a city librarian.\n\n[1] For more than a century, the overdue fine has been as much a part of the public library as the date stamp and the quiet reading room. Return a book late, and you pay a few coins for every day it was missing. Most people think of the fine as harmless, even fair: the library lends you something valuable for free, and the fine reminds you that others are waiting for it. I believed this myself for most of my career. I no longer do. I now think that overdue fines do more harm than good, and that libraries should abolish them.\n\n[2] The first problem is that fines do not fall on everyone equally. A fine of a few coins a day means nothing to a family with a comfortable income; it can mean a great deal to a family without one. In our own system, when we looked at the accounts that had been blocked because of unpaid fines, we found that more than half belonged to children and teenagers, most of them living in the three neighbourhoods with the lowest average incomes in the city. A child whose card is blocked cannot borrow a book until the debt is paid. In practice, many of those children simply stopped coming.\n\n[3] The second problem is that fines do not seem to do the job they were designed for. If the threat of paying were what brought books back, removing fines should cause a flood of late returns. Two years ago, our library tested this. For twelve months, three of our eleven branches stopped charging fines, while the other eight continued as before. In the branches without fines, the share of books returned on time fell only slightly, from 91 percent to 89 percent. Meanwhile, the number of active cardholders in those branches rose by 14 percent, and many of the returning borrowers were people whose cards had been blocked for years. In the eight branches that kept fines, active cardholders rose by 2 percent.\n\n[4] Some colleagues fear that without fines the library will lose money it needs. The fear is understandable, but the sums are small. Fines brought in less than one percent of our budget last year, and collecting them was not free: staff spent hours sending notices, answering complaints and handling small payments at the desk. I suspect that the true profit, once that time is counted, was close to nothing.\n\n[5] There is also a cost that never appears in any account. Many of our librarians tell me that the most unpleasant part of their job is the moment they must tell a nervous child, in front of a line of adults, that she cannot take home the book she has chosen. One colleague described it to me as \"the opposite of everything I became a librarian to do.\" A library should be the one public place where no one is turned away for lack of money.\n\n[6] None of this means that books should be allowed to disappear. A library without fines still needs a way to get its books back. Ours now sends friendly reminders by text message, and if a book is more than two months late, the borrower is asked to return it or pay for a replacement before borrowing again. These rules protect the collection without punishing a borrower for being a few days late.\n\n[7] Critics may say that a library without fines teaches young people that deadlines do not matter. I would answer that a library that turns children away teaches them something worse: that the library is not for them. Responsibility is learned by being trusted, not by being shut out. The evidence from our own branches suggests that most people return what they borrow whether or not a fine is waiting for them, and that the people who stay away because of fines are exactly the ones a library most needs to reach.",
+       "q": "Which of the following statements from the passage is an opinion rather than a fact that could be checked?",
+       "c": [
+        "\"Fines brought in less than one percent of our budget last year.\"",
+        "\"A library should be the one public place where no one is turned away for lack of money.\"",
+        "\"Three of our eleven branches stopped charging fines.\"",
+        "\"More than half [of the blocked accounts] belonged to children and teenagers.\""
+       ],
+       "a": 1,
+       "e": "\"Should\" signals a value judgment: no record or measurement can prove what a library should be. A, C and D can all be checked in the library's budget, branch records and account data.",
+       "s": "Fact vs opinion"
+      },
+      {
+       "p": "SOCIAL SCIENCE: This passage is adapted from an essay by a city librarian.\n\n[1] For more than a century, the overdue fine has been as much a part of the public library as the date stamp and the quiet reading room. Return a book late, and you pay a few coins for every day it was missing. Most people think of the fine as harmless, even fair: the library lends you something valuable for free, and the fine reminds you that others are waiting for it. I believed this myself for most of my career. I no longer do. I now think that overdue fines do more harm than good, and that libraries should abolish them.\n\n[2] The first problem is that fines do not fall on everyone equally. A fine of a few coins a day means nothing to a family with a comfortable income; it can mean a great deal to a family without one. In our own system, when we looked at the accounts that had been blocked because of unpaid fines, we found that more than half belonged to children and teenagers, most of them living in the three neighbourhoods with the lowest average incomes in the city. A child whose card is blocked cannot borrow a book until the debt is paid. In practice, many of those children simply stopped coming.\n\n[3] The second problem is that fines do not seem to do the job they were designed for. If the threat of paying were what brought books back, removing fines should cause a flood of late returns. Two years ago, our library tested this. For twelve months, three of our eleven branches stopped charging fines, while the other eight continued as before. In the branches without fines, the share of books returned on time fell only slightly, from 91 percent to 89 percent. Meanwhile, the number of active cardholders in those branches rose by 14 percent, and many of the returning borrowers were people whose cards had been blocked for years. In the eight branches that kept fines, active cardholders rose by 2 percent.\n\n[4] Some colleagues fear that without fines the library will lose money it needs. The fear is understandable, but the sums are small. Fines brought in less than one percent of our budget last year, and collecting them was not free: staff spent hours sending notices, answering complaints and handling small payments at the desk. I suspect that the true profit, once that time is counted, was close to nothing.\n\n[5] There is also a cost that never appears in any account. Many of our librarians tell me that the most unpleasant part of their job is the moment they must tell a nervous child, in front of a line of adults, that she cannot take home the book she has chosen. One colleague described it to me as \"the opposite of everything I became a librarian to do.\" A library should be the one public place where no one is turned away for lack of money.\n\n[6] None of this means that books should be allowed to disappear. A library without fines still needs a way to get its books back. Ours now sends friendly reminders by text message, and if a book is more than two months late, the borrower is asked to return it or pay for a replacement before borrowing again. These rules protect the collection without punishing a borrower for being a few days late.\n\n[7] Critics may say that a library without fines teaches young people that deadlines do not matter. I would answer that a library that turns children away teaches them something worse: that the library is not for them. Responsibility is learned by being trusted, not by being shut out. The evidence from our own branches suggests that most people return what they borrow whether or not a fine is waiting for them, and that the people who stay away because of fines are exactly the ones a library most needs to reach.",
+       "q": "In paragraph 4, the author's statement that the \"true profit\" from fines \"was close to nothing\" is best described as:",
+       "c": [
+        "a conclusion based on an exact calculation of staff wages.",
+        "an estimate the author offers without giving precise figures.",
+        "a quotation from the library's official budget report.",
+        "a finding from the twelve-month trial in three branches."
+       ],
+       "a": 1,
+       "e": "\"I suspect\" shows the author is estimating: the author gives the income (less than one percent) but no figure for the cost of staff time. A and C invent data the passage never gives; D is wrong place: the trial measured returns and cardholders, not profit.",
+       "s": "Evaluating the strength of evidence"
+      },
+      {
+       "p": "SOCIAL SCIENCE: This passage is adapted from an essay by a city librarian.\n\n[1] For more than a century, the overdue fine has been as much a part of the public library as the date stamp and the quiet reading room. Return a book late, and you pay a few coins for every day it was missing. Most people think of the fine as harmless, even fair: the library lends you something valuable for free, and the fine reminds you that others are waiting for it. I believed this myself for most of my career. I no longer do. I now think that overdue fines do more harm than good, and that libraries should abolish them.\n\n[2] The first problem is that fines do not fall on everyone equally. A fine of a few coins a day means nothing to a family with a comfortable income; it can mean a great deal to a family without one. In our own system, when we looked at the accounts that had been blocked because of unpaid fines, we found that more than half belonged to children and teenagers, most of them living in the three neighbourhoods with the lowest average incomes in the city. A child whose card is blocked cannot borrow a book until the debt is paid. In practice, many of those children simply stopped coming.\n\n[3] The second problem is that fines do not seem to do the job they were designed for. If the threat of paying were what brought books back, removing fines should cause a flood of late returns. Two years ago, our library tested this. For twelve months, three of our eleven branches stopped charging fines, while the other eight continued as before. In the branches without fines, the share of books returned on time fell only slightly, from 91 percent to 89 percent. Meanwhile, the number of active cardholders in those branches rose by 14 percent, and many of the returning borrowers were people whose cards had been blocked for years. In the eight branches that kept fines, active cardholders rose by 2 percent.\n\n[4] Some colleagues fear that without fines the library will lose money it needs. The fear is understandable, but the sums are small. Fines brought in less than one percent of our budget last year, and collecting them was not free: staff spent hours sending notices, answering complaints and handling small payments at the desk. I suspect that the true profit, once that time is counted, was close to nothing.\n\n[5] There is also a cost that never appears in any account. Many of our librarians tell me that the most unpleasant part of their job is the moment they must tell a nervous child, in front of a line of adults, that she cannot take home the book she has chosen. One colleague described it to me as \"the opposite of everything I became a librarian to do.\" A library should be the one public place where no one is turned away for lack of money.\n\n[6] None of this means that books should be allowed to disappear. A library without fines still needs a way to get its books back. Ours now sends friendly reminders by text message, and if a book is more than two months late, the borrower is asked to return it or pay for a replacement before borrowing again. These rules protect the collection without punishing a borrower for being a few days late.\n\n[7] Critics may say that a library without fines teaches young people that deadlines do not matter. I would answer that a library that turns children away teaches them something worse: that the library is not for them. Responsibility is learned by being trusted, not by being shut out. The evidence from our own branches suggests that most people return what they borrow whether or not a fine is waiting for them, and that the people who stay away because of fines are exactly the ones a library most needs to reach.",
+       "q": "The colleague's words quoted in paragraph 5 mainly provide:",
+       "c": [
+        "statistical evidence that fines reduce library use.",
+        "an expert's proof that fines are illegal.",
+        "a reason why fines bring in so little money.",
+        "a personal reaction that illustrates a cost of fines that cannot be measured in money."
+       ],
+       "a": 3,
+       "e": "The paragraph is about \"a cost that never appears in any account\"; the quotation shows how the fine policy feels to the staff. A is wrong: a quotation is not statistics. B is invented. C belongs to paragraph 4.",
+       "s": "Kind of evidence"
+      },
+      {
+       "p": "SOCIAL SCIENCE: This passage is adapted from an essay by a city librarian.\n\n[1] For more than a century, the overdue fine has been as much a part of the public library as the date stamp and the quiet reading room. Return a book late, and you pay a few coins for every day it was missing. Most people think of the fine as harmless, even fair: the library lends you something valuable for free, and the fine reminds you that others are waiting for it. I believed this myself for most of my career. I no longer do. I now think that overdue fines do more harm than good, and that libraries should abolish them.\n\n[2] The first problem is that fines do not fall on everyone equally. A fine of a few coins a day means nothing to a family with a comfortable income; it can mean a great deal to a family without one. In our own system, when we looked at the accounts that had been blocked because of unpaid fines, we found that more than half belonged to children and teenagers, most of them living in the three neighbourhoods with the lowest average incomes in the city. A child whose card is blocked cannot borrow a book until the debt is paid. In practice, many of those children simply stopped coming.\n\n[3] The second problem is that fines do not seem to do the job they were designed for. If the threat of paying were what brought books back, removing fines should cause a flood of late returns. Two years ago, our library tested this. For twelve months, three of our eleven branches stopped charging fines, while the other eight continued as before. In the branches without fines, the share of books returned on time fell only slightly, from 91 percent to 89 percent. Meanwhile, the number of active cardholders in those branches rose by 14 percent, and many of the returning borrowers were people whose cards had been blocked for years. In the eight branches that kept fines, active cardholders rose by 2 percent.\n\n[4] Some colleagues fear that without fines the library will lose money it needs. The fear is understandable, but the sums are small. Fines brought in less than one percent of our budget last year, and collecting them was not free: staff spent hours sending notices, answering complaints and handling small payments at the desk. I suspect that the true profit, once that time is counted, was close to nothing.\n\n[5] There is also a cost that never appears in any account. Many of our librarians tell me that the most unpleasant part of their job is the moment they must tell a nervous child, in front of a line of adults, that she cannot take home the book she has chosen. One colleague described it to me as \"the opposite of everything I became a librarian to do.\" A library should be the one public place where no one is turned away for lack of money.\n\n[6] None of this means that books should be allowed to disappear. A library without fines still needs a way to get its books back. Ours now sends friendly reminders by text message, and if a book is more than two months late, the borrower is asked to return it or pay for a replacement before borrowing again. These rules protect the collection without punishing a borrower for being a few days late.\n\n[7] Critics may say that a library without fines teaches young people that deadlines do not matter. I would answer that a library that turns children away teaches them something worse: that the library is not for them. Responsibility is learned by being trusted, not by being shut out. The evidence from our own branches suggests that most people return what they borrow whether or not a fine is waiting for them, and that the people who stay away because of fines are exactly the ones a library most needs to reach.",
+       "q": "Which of the following, if true, would most directly WEAKEN the author's use of the trial in paragraph 3 to show that removing fines brings borrowers back?",
+       "c": [
+        "During the trial year, the three fine-free branches were also the only branches to open on evenings and weekends for the first time.",
+        "Libraries in other cities that removed fines reported a similar rise in cardholders.",
+        "Before the trial, all eleven branches charged the same fine per day.",
+        "Most borrowers in all eleven branches said they liked receiving text reminders."
+       ],
+       "a": 0,
+       "e": "A gives another possible cause for the 14 percent rise: longer opening hours, not the end of fines. B strengthens the argument; C makes the comparison fairer, so it does not weaken it; D is irrelevant to whether removing fines brought people back.",
+       "s": "Weakening an argument"
+      },
+      {
+       "p": "SOCIAL SCIENCE: This passage is adapted from an essay by a city librarian.\n\n[1] For more than a century, the overdue fine has been as much a part of the public library as the date stamp and the quiet reading room. Return a book late, and you pay a few coins for every day it was missing. Most people think of the fine as harmless, even fair: the library lends you something valuable for free, and the fine reminds you that others are waiting for it. I believed this myself for most of my career. I no longer do. I now think that overdue fines do more harm than good, and that libraries should abolish them.\n\n[2] The first problem is that fines do not fall on everyone equally. A fine of a few coins a day means nothing to a family with a comfortable income; it can mean a great deal to a family without one. In our own system, when we looked at the accounts that had been blocked because of unpaid fines, we found that more than half belonged to children and teenagers, most of them living in the three neighbourhoods with the lowest average incomes in the city. A child whose card is blocked cannot borrow a book until the debt is paid. In practice, many of those children simply stopped coming.\n\n[3] The second problem is that fines do not seem to do the job they were designed for. If the threat of paying were what brought books back, removing fines should cause a flood of late returns. Two years ago, our library tested this. For twelve months, three of our eleven branches stopped charging fines, while the other eight continued as before. In the branches without fines, the share of books returned on time fell only slightly, from 91 percent to 89 percent. Meanwhile, the number of active cardholders in those branches rose by 14 percent, and many of the returning borrowers were people whose cards had been blocked for years. In the eight branches that kept fines, active cardholders rose by 2 percent.\n\n[4] Some colleagues fear that without fines the library will lose money it needs. The fear is understandable, but the sums are small. Fines brought in less than one percent of our budget last year, and collecting them was not free: staff spent hours sending notices, answering complaints and handling small payments at the desk. I suspect that the true profit, once that time is counted, was close to nothing.\n\n[5] There is also a cost that never appears in any account. Many of our librarians tell me that the most unpleasant part of their job is the moment they must tell a nervous child, in front of a line of adults, that she cannot take home the book she has chosen. One colleague described it to me as \"the opposite of everything I became a librarian to do.\" A library should be the one public place where no one is turned away for lack of money.\n\n[6] None of this means that books should be allowed to disappear. A library without fines still needs a way to get its books back. Ours now sends friendly reminders by text message, and if a book is more than two months late, the borrower is asked to return it or pay for a replacement before borrowing again. These rules protect the collection without punishing a borrower for being a few days late.\n\n[7] Critics may say that a library without fines teaches young people that deadlines do not matter. I would answer that a library that turns children away teaches them something worse: that the library is not for them. Responsibility is learned by being trusted, not by being shut out. The evidence from our own branches suggests that most people return what they borrow whether or not a fine is waiting for them, and that the people who stay away because of fines are exactly the ones a library most needs to reach.",
+       "q": "How does the author respond to colleagues who fear that the library will lose money without fines (paragraph 4)?",
+       "c": [
+        "The author dismisses the fear as dishonest and refuses to discuss it.",
+        "The author agrees and proposes higher fines for books that are very late.",
+        "The author grants that the fear is reasonable but argues that the amount involved is small and costly to collect.",
+        "The author argues that the library's budget should be cut to match the lost income."
+       ],
+       "a": 2,
+       "e": "\"The fear is understandable, but the sums are small\": the author concedes, then answers with the one-percent figure and the staff time. A is reversed in tone; B and D are never proposed (paragraph 6 mentions replacement costs, not higher fines).",
+       "s": "Handling a counterargument"
+      },
+      {
+       "p": "SOCIAL SCIENCE: This passage is adapted from an essay by a city librarian.\n\n[1] For more than a century, the overdue fine has been as much a part of the public library as the date stamp and the quiet reading room. Return a book late, and you pay a few coins for every day it was missing. Most people think of the fine as harmless, even fair: the library lends you something valuable for free, and the fine reminds you that others are waiting for it. I believed this myself for most of my career. I no longer do. I now think that overdue fines do more harm than good, and that libraries should abolish them.\n\n[2] The first problem is that fines do not fall on everyone equally. A fine of a few coins a day means nothing to a family with a comfortable income; it can mean a great deal to a family without one. In our own system, when we looked at the accounts that had been blocked because of unpaid fines, we found that more than half belonged to children and teenagers, most of them living in the three neighbourhoods with the lowest average incomes in the city. A child whose card is blocked cannot borrow a book until the debt is paid. In practice, many of those children simply stopped coming.\n\n[3] The second problem is that fines do not seem to do the job they were designed for. If the threat of paying were what brought books back, removing fines should cause a flood of late returns. Two years ago, our library tested this. For twelve months, three of our eleven branches stopped charging fines, while the other eight continued as before. In the branches without fines, the share of books returned on time fell only slightly, from 91 percent to 89 percent. Meanwhile, the number of active cardholders in those branches rose by 14 percent, and many of the returning borrowers were people whose cards had been blocked for years. In the eight branches that kept fines, active cardholders rose by 2 percent.\n\n[4] Some colleagues fear that without fines the library will lose money it needs. The fear is understandable, but the sums are small. Fines brought in less than one percent of our budget last year, and collecting them was not free: staff spent hours sending notices, answering complaints and handling small payments at the desk. I suspect that the true profit, once that time is counted, was close to nothing.\n\n[5] There is also a cost that never appears in any account. Many of our librarians tell me that the most unpleasant part of their job is the moment they must tell a nervous child, in front of a line of adults, that she cannot take home the book she has chosen. One colleague described it to me as \"the opposite of everything I became a librarian to do.\" A library should be the one public place where no one is turned away for lack of money.\n\n[6] None of this means that books should be allowed to disappear. A library without fines still needs a way to get its books back. Ours now sends friendly reminders by text message, and if a book is more than two months late, the borrower is asked to return it or pay for a replacement before borrowing again. These rules protect the collection without punishing a borrower for being a few days late.\n\n[7] Critics may say that a library without fines teaches young people that deadlines do not matter. I would answer that a library that turns children away teaches them something worse: that the library is not for them. Responsibility is learned by being trusted, not by being shut out. The evidence from our own branches suggests that most people return what they borrow whether or not a fine is waiting for them, and that the people who stay away because of fines are exactly the ones a library most needs to reach.",
+       "q": "The author's claim in paragraph 7 that \"most people return what they borrow whether or not a fine is waiting for them\" is based mainly on:",
+       "c": [
+        "a national survey of library users.",
+        "the results of the library's own trial in three branches.",
+        "the colleague's description of turning a child away.",
+        "the author's memories of borrowing books as a child."
+       ],
+       "a": 1,
+       "e": "The author points to \"the evidence from our own branches\": the trial in which on-time returns stayed at 89 percent without fines. A and D are never mentioned; C is about a different cost, not about returns.",
+       "s": "Matching evidence to a claim"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Claim = what the author wants you to believe; evidence = what is offered to prove it.",
+    "Name the evidence type: experience, quotation, estimate, measurement, comparison/trial — and its limit.",
+    "\"Supports\" and \"weakens\" refer to ONE exact claim; a true detail about something else is irrelevant.",
+    "Weaken with another cause, an unusual or small sample, or a claim that goes further than the evidence.",
+    "Fact = can be checked; opinion = should, best, worst, I believe."
+   ]
+  }
+ ]
+}
