@@ -1,0 +1,489 @@
+{
+ "slug": "act-reading-inferences",
+ "nav": "Inferences",
+ "title": "Inference Questions: \"It Can Reasonably Be Inferred\"",
+ "kicker": "American Diploma · ACT · Reading: Key Ideas and Details",
+ "summary": "How to answer ACT Reading inference questions: take one small step from the text, prove every choice with evidence, and reject extreme or invented answers.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Inference questions ask what the passage **suggests** or **implies**: something that is not written word for word but that the text makes very clear. They belong to **Key Ideas and Details**, the largest reporting category on ACT Reading (**44–52% of the scored questions**). You will meet them with every passage type: in literary narratives they usually ask about a character's feelings or motives; in informational passages they ask what a finding, example or claim implies."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Stem (in our own words)",
+    "What it means"
+   ],
+   "rows": [
+    [
+     "\"It can reasonably be inferred that …\" / \"It can most reasonably be inferred from paragraph 3 that …\"",
+     "Which conclusion does the text strongly support?"
+    ],
+    [
+     "\"The passage most strongly suggests that …\" / \"…implies that …\"",
+     "Same idea: the text points to it without saying it directly"
+    ],
+    [
+     "\"The detail that X most strongly suggests that the character:\"",
+     "What does this action or description reveal?"
+    ],
+    [
+     "\"The narrator most likely …\" / \"…most likely in order to:\"",
+     "The most probable reading of a motive or situation, based on the text"
+    ],
+    [
+     "\"Which statement is best supported by the passage?\"",
+     "Pick the choice with the strongest textual evidence"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "The words *reasonably, most strongly, most likely* and *best supported* are important. The ACT is not asking what COULD be true. It is asking which choice the text supports **better than all the others**, and on the ACT that is usually a choice very close to the words of the passage."
+  },
+  {
+   "type": "h2",
+   "text": "One small step"
+  },
+  {
+   "type": "p",
+   "text": "An ACT inference is **one small step** beyond the text. You start from a sentence (or two) in the passage, and you move to a conclusion that almost anyone reading those sentences would agree with. If you need to imagine a second fact, a hidden reason or a future event, you have gone too far."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "The text says",
+    "✓ One step",
+    "✗ Too far"
+   ],
+   "rows": [
+    [
+     "\"He had told his mother it had gone fine. He had not told anyone about the half-page he had left empty.\"",
+     "✓ He is more worried than he has admitted.",
+     "✗ He will fail chemistry. / ✗ He often lies to his mother."
+    ],
+    [
+     "\"The newspaper lay open at the same page … for the past hour.\"",
+     "✓ He was not really reading.",
+     "✗ He cannot read. / ✗ He hates the newspaper."
+    ],
+    [
+     "\"The number of people using the study tables nearly doubled.\"",
+     "✓ Many visitors come to use the space.",
+     "✗ Visitors no longer read books at home."
+    ],
+    [
+     "\"Cities with more trees recorded lower summer temperatures.\"",
+     "✓ Trees and temperature appear to be linked.",
+     "✗ Planting trees will end summer heat."
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الـ Inference = خطوة واحدة صغيرة",
+   "text": "الاستنتاج في الـ ACT مش تخمين ولا تأليف. ابدأ من جملة في القطعة واسأل: إيه الحاجة اللي أي حد يقرا الجملة دي هيوافق عليها؟ دي الإجابة. لو لقيت نفسك بتقول «يمكن عشان…» وبتضيف حاجات مش مكتوبة، يبقى الاختيار ده غلط."
+  },
+  {
+   "type": "h2",
+   "text": "The method"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Find the evidence first.** Go to the paragraph, line or detail named in the stem. If none is named, find the part of the passage the question is about.",
+    "**Say literally what the text says.** \"He made tea nobody asked for, stood at the window, and never turned the page.\"",
+    "**Take one step.** \"He is restless and anxious.\" This is your prediction.",
+    "**Test every choice with the finger test:** can you put your finger on words in the passage that support this choice? If the support is \"maybe\" or \"in real life\", eliminate it.",
+    "**Prefer the cautious choice.** When two choices seem possible, the one with softer, more limited language (*may, some, partly, suggests*) is usually safer than the one with absolute language — unless the text itself is absolute.",
+    "**Check the whole passage.** A correct inference never contradicts anything elsewhere in the text, especially the ending."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "h2",
+   "text": "Extreme language: the inference killer"
+  },
+  {
+   "type": "p",
+   "text": "Wrong inference choices often take a reasonable idea and make it too strong. Learn to spot the words that do it."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Extreme (usually wrong)",
+    "Cautious (often right)"
+   ],
+   "rows": [
+    [
+     "always, never, all, none, every, only",
+     "often, rarely, many, some, a few, mainly"
+    ],
+    [
+     "proves, certain, must, completely, entirely",
+     "suggests, likely, may, partly, to some extent"
+    ],
+    [
+     "the best, the worst, the most important of all",
+     "valuable, useful, one of the …"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ \"He never shows any emotion to his family.\" (two absolutes: never + any)",
+    "✓ \"He prefers to show his feelings through actions rather than words.\"",
+    "✗ \"She was certain he would get top grades in every subject.\"",
+    "✓ \"He had prepared a gift before the results came out.\"",
+    "An extreme word is correct only if the passage is equally extreme. If the narrator says \"I lost every game for two weeks,\" then \"every\" is supported."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Inference in literary passages"
+  },
+  {
+   "type": "p",
+   "text": "Writers of fiction often **show** feelings instead of naming them. The questions ask you to name what is shown. Read actions, small details and dialogue as evidence:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Actions:** making tea nobody asked for, standing instead of sitting → restlessness, nerves.",
+    "**What a character does NOT say:** \"No reason.\" after an obviously meaningful story → he is hiding his purpose, not lacking one.",
+    "**Small physical details:** a crushed ribbon on a gift → it was carried for a long time.",
+    "**Excuses that do not match behaviour:** \"I came only because the light was bad\" + anxious behaviour → the excuse is cover.",
+    "**The ending:** the final lines often confirm (or reveal) what earlier details only hinted. Check your inference against the last paragraph."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "Read this short social science excerpt (shorter than a real ACT passage, so we can focus on the method)."
+  },
+  {
+   "type": "p",
+   "text": "When the city library extended its opening hours until ten at night, staff expected most of the evening visitors to be university students. Instead, the largest group turned out to be adults between thirty and fifty, many of them still dressed in their work clothes. The number of books borrowed in the evening rose only slightly, but the number of people using the study tables and the free internet terminals nearly doubled within six months. The library has since added more electrical sockets along the walls of the reading room."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — inference from data**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** It can most reasonably be inferred that many of the evening visitors come to the library mainly to:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) borrow more books than daytime visitors do.",
+    "B) escape from crowded and noisy homes.",
+    "C) use its space and equipment rather than to borrow books.",
+    "D) prepare for university entrance exams."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C.** Evidence: borrowing \"rose only slightly,\" while use of the study tables and internet terminals \"nearly doubled.\" One step: the space and equipment are the main attraction."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A is wrong** — Contradicted: borrowing rose only slightly, and no comparison with daytime visitors is given.",
+    "**B is wrong** — Two steps / outside the text: possible in real life, but nothing in the excerpt mentions homes.",
+    "**D is wrong** — Unsupported, and the visitors are mostly working adults, not the students staff expected."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — what a detail suggests**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** The detail about the electrical sockets most strongly suggests that:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) the library had serious electrical problems before.",
+    "B) many visitors bring devices that need power while they work.",
+    "C) evening visitors prefer laptops to books in every situation.",
+    "D) the library plans to remove its internet terminals."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B.** More sockets along the reading-room walls after evening use of the tables grew: one step is that visitors need to plug things in."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A is wrong** — Outside the text: no earlier problems are mentioned.",
+    "**C is wrong** — Too extreme: \"in every situation\" goes far beyond one detail.",
+    "**D is wrong** — Unsupported: nothing suggests removing the terminals; their use doubled."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "Now a short literary excerpt. Read the actions, not just the words."
+  },
+  {
+   "type": "p",
+   "text": "Karim's father read the school report standing in the doorway, his coat still on. He read it twice. Then he put it on the shelf beside the keys, hung up his coat and asked Karim to help him carry the shopping in from the car. Neither of them mentioned the report at dinner. Later that night, Karim noticed that the report had been moved from the shelf to the drawer where his father kept important papers: the papers for the flat, his own old certificates, the children's birth certificates."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — character's attitude**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** The father's moving the report to the drawer most strongly suggests that he:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) is angry about Karim's grades and wants to hide the report.",
+    "B) never discusses school with any of his children.",
+    "C) plans to show the report to Karim's teachers.",
+    "D) considers the report worth keeping with his most important papers."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: D.** The drawer holds certificates and family documents. One step: he values the report enough to keep it there."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A is wrong** — Two steps: nothing shows anger, and the drawer is for keeping valuable papers, not hiding bad ones.",
+    "**B is wrong** — Too extreme: one silent dinner does not mean \"never … any.\"",
+    "**C is wrong** — Invented: no plan is mentioned."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4 — best supported**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which statement is best supported by the excerpt?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) The father's actions reveal a reaction that his words do not.",
+    "B) The father was too tired to read the report carefully.",
+    "C) Karim was disappointed with his own report.",
+    "D) The father always puts important papers on the shelf by the keys."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: A.** He says nothing about the report, but he reads it twice and later files it with important papers. A is a cautious summary of that evidence."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**B is wrong** — Contradicted: he \"read it twice.\"",
+    "**C is wrong** — Unsupported: Karim's feelings about his grades are never described.",
+    "**D is wrong** — Reversed and extreme: the report was moved FROM the shelf TO the important-papers drawer."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**Two steps too far.** The choice could be true, but you need an extra, unstated fact to get there.",
+    "**Extreme language.** always, never, all, only, certain, proves, completely — unless the text is just as strong.",
+    "**Outside knowledge.** True in real life or common sense, but not in this passage.",
+    "**Taking an excuse literally.** In fiction, characters often say one thing and show another; the actions usually win.",
+    "**Contradicting the ending.** A choice that fits one paragraph but clashes with the final paragraph is wrong.",
+    "**Reversed attitude.** Using the passage's words to say the opposite of what the character feels or the author thinks."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Find the evidence lines first; never answer an inference question from general impression.",
+    "Say the evidence literally, then take one small step: that is your prediction.",
+    "Use the finger test on every choice.",
+    "Cross out choices with extreme words unless the text is equally extreme.",
+    "Between two good choices, pick the more cautious one that the text supports more directly."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Now try a full literary narrative (a short story of about 740 words) with 9 inference questions. It is **untimed**, but aim for about 10 minutes. Collect the small details as you read: the actions tell you more than the words."
+  },
+  {
+   "type": "test",
+   "title": "ACT Reading practice — Inferences (Literary Narrative)",
+   "timed": false,
+   "intro": "One passage, 9 questions, untimed. For each question, find the evidence, take one small step, and eliminate choices that are extreme, invented or two steps too far.",
+   "sections": [
+    {
+     "name": "Passage 1",
+     "minutes": 10,
+     "questions": [
+      {
+       "p": "LITERARY NARRATIVE: This passage is adapted from a short story. Omar, a secondary-school student, waits at home with his grandfather for his exam results.\n\n[1] The results were due at noon, and by ten o'clock Omar had refreshed the website so many times that his phone had grown warm in his hand. His mother had gone to work after reminding him three times to call her the moment he knew anything, and his father was somewhere over the Mediterranean on a flight he could not change. That left his grandfather, who had arrived at eight with a newspaper and a bag of oranges and announced that he had come only because the light in his own flat was bad for reading.\n\n[2] \"Exams,\" his grandfather said, turning a page. \"In my day we found out from a list pinned to the school gate. Half the town would be standing there. You learned your result and everyone else's at the same time.\" He folded the paper with care. \"It was a good system. Nobody could pretend.\"\n\n[3] Omar did not answer. He was thinking of the chemistry paper, of the question about reaction rates that he had answered in a hurry because he had spent too long on the one before it. He had told his friends it had gone fine. He had told his mother it had gone fine. He had not told anyone about the half-page he had left empty.\n\n[4] At eleven his grandfather stood, went into the kitchen and came back with two glasses of tea, though Omar had not asked for one. He set them on the table and then, instead of sitting down again, walked to the window and stood looking at the street, his hands clasped behind his back. Omar noticed that the newspaper lay open at the same page it had been open at for the past hour.\n\n[5] \"Your father was a terrible student,\" the old man said to the window. \"Did he ever tell you that? He failed mathematics in his second year. Had to take it again in the summer while his friends went to the beach.\" He paused. \"He passed it the second time. Better than passed.\"\n\n[6] Omar looked up. His father, who checked every bill twice and explained interest rates at dinner whether anyone wanted to hear about them or not, had never mentioned a summer of mathematics. \"Why are you telling me this now?\"\n\n[7] \"No reason.\" His grandfather took an orange from the bag, looked at it and put it back. \"It was a long time ago.\"\n\n[8] At eleven fifty-eight the website changed. Omar's hands, which had been steady all morning, would not obey him, and it took him three tries to type his number. Behind him he heard the chair creak as his grandfather sat down, very slowly, as though the floor might move.\n\n[9] The page loaded. Omar read it once, and then again, because the first time the numbers had not seemed to belong to him. Chemistry was the lowest of his grades, lower than he had hoped, but it was a pass, and the others were better than he had dared to expect. He turned the phone around without a word.\n\n[10] His grandfather took a long time to find his glasses. When he had read the screen, he handed the phone back, cleared his throat and said, \"Well. The light really is better here.\" Then he reached into the inside pocket of his jacket and took out a small box of the sugared almonds sold only at the old shop near the station, a forty-minute walk from his flat. The ribbon on the box was a little crushed, as though it had been in the pocket for some time.\n\n[11] \"Call your mother,\" he said. \"She'll be worse than I was.\"",
+       "q": "The grandfather's explanation in paragraph 1 for why he came to Omar's home most strongly suggests that he:",
+       "c": [
+        "needs better light because his eyesight is failing.",
+        "prefers not to admit that he came to keep Omar company on an important day.",
+        "is not interested in Omar's exam results.",
+        "does not like spending time in his own flat."
+       ],
+       "a": 1,
+       "e": "He arrives on results day and gives a small practical excuse; the ending (\"The light really is better here\", \"She'll be worse than I was\") shows the excuse was cover for his real concern. A takes the excuse literally and adds an invented health problem. C is reversed by everything he does later. D stretches one remark into a general dislike (two steps).",
+       "s": "Inference"
+      },
+      {
+       "p": "LITERARY NARRATIVE: This passage is adapted from a short story. Omar, a secondary-school student, waits at home with his grandfather for his exam results.\n\n[1] The results were due at noon, and by ten o'clock Omar had refreshed the website so many times that his phone had grown warm in his hand. His mother had gone to work after reminding him three times to call her the moment he knew anything, and his father was somewhere over the Mediterranean on a flight he could not change. That left his grandfather, who had arrived at eight with a newspaper and a bag of oranges and announced that he had come only because the light in his own flat was bad for reading.\n\n[2] \"Exams,\" his grandfather said, turning a page. \"In my day we found out from a list pinned to the school gate. Half the town would be standing there. You learned your result and everyone else's at the same time.\" He folded the paper with care. \"It was a good system. Nobody could pretend.\"\n\n[3] Omar did not answer. He was thinking of the chemistry paper, of the question about reaction rates that he had answered in a hurry because he had spent too long on the one before it. He had told his friends it had gone fine. He had told his mother it had gone fine. He had not told anyone about the half-page he had left empty.\n\n[4] At eleven his grandfather stood, went into the kitchen and came back with two glasses of tea, though Omar had not asked for one. He set them on the table and then, instead of sitting down again, walked to the window and stood looking at the street, his hands clasped behind his back. Omar noticed that the newspaper lay open at the same page it had been open at for the past hour.\n\n[5] \"Your father was a terrible student,\" the old man said to the window. \"Did he ever tell you that? He failed mathematics in his second year. Had to take it again in the summer while his friends went to the beach.\" He paused. \"He passed it the second time. Better than passed.\"\n\n[6] Omar looked up. His father, who checked every bill twice and explained interest rates at dinner whether anyone wanted to hear about them or not, had never mentioned a summer of mathematics. \"Why are you telling me this now?\"\n\n[7] \"No reason.\" His grandfather took an orange from the bag, looked at it and put it back. \"It was a long time ago.\"\n\n[8] At eleven fifty-eight the website changed. Omar's hands, which had been steady all morning, would not obey him, and it took him three tries to type his number. Behind him he heard the chair creak as his grandfather sat down, very slowly, as though the floor might move.\n\n[9] The page loaded. Omar read it once, and then again, because the first time the numbers had not seemed to belong to him. Chemistry was the lowest of his grades, lower than he had hoped, but it was a pass, and the others were better than he had dared to expect. He turned the phone around without a word.\n\n[10] His grandfather took a long time to find his glasses. When he had read the screen, he handed the phone back, cleared his throat and said, \"Well. The light really is better here.\" Then he reached into the inside pocket of his jacket and took out a small box of the sugared almonds sold only at the old shop near the station, a forty-minute walk from his flat. The ribbon on the box was a little crushed, as though it had been in the pocket for some time.\n\n[11] \"Call your mother,\" he said. \"She'll be worse than I was.\"",
+       "q": "Paragraph 3 suggests that Omar:",
+       "c": [
+        "has already learned that he failed chemistry.",
+        "believes his friends did worse in chemistry than he did.",
+        "is more worried about his chemistry paper than he has admitted to others.",
+        "regrets not studying chemistry at all during the year."
+       ],
+       "a": 2,
+       "e": "He told his friends and his mother it \"had gone fine\" but \"had not told anyone about the half-page he had left empty.\" One step: he is more worried than he has said. A is impossible (results are not out yet). B is invented. D is too extreme: the problem was time on one question, not a year without study.",
+       "s": "Inference"
+      },
+      {
+       "p": "LITERARY NARRATIVE: This passage is adapted from a short story. Omar, a secondary-school student, waits at home with his grandfather for his exam results.\n\n[1] The results were due at noon, and by ten o'clock Omar had refreshed the website so many times that his phone had grown warm in his hand. His mother had gone to work after reminding him three times to call her the moment he knew anything, and his father was somewhere over the Mediterranean on a flight he could not change. That left his grandfather, who had arrived at eight with a newspaper and a bag of oranges and announced that he had come only because the light in his own flat was bad for reading.\n\n[2] \"Exams,\" his grandfather said, turning a page. \"In my day we found out from a list pinned to the school gate. Half the town would be standing there. You learned your result and everyone else's at the same time.\" He folded the paper with care. \"It was a good system. Nobody could pretend.\"\n\n[3] Omar did not answer. He was thinking of the chemistry paper, of the question about reaction rates that he had answered in a hurry because he had spent too long on the one before it. He had told his friends it had gone fine. He had told his mother it had gone fine. He had not told anyone about the half-page he had left empty.\n\n[4] At eleven his grandfather stood, went into the kitchen and came back with two glasses of tea, though Omar had not asked for one. He set them on the table and then, instead of sitting down again, walked to the window and stood looking at the street, his hands clasped behind his back. Omar noticed that the newspaper lay open at the same page it had been open at for the past hour.\n\n[5] \"Your father was a terrible student,\" the old man said to the window. \"Did he ever tell you that? He failed mathematics in his second year. Had to take it again in the summer while his friends went to the beach.\" He paused. \"He passed it the second time. Better than passed.\"\n\n[6] Omar looked up. His father, who checked every bill twice and explained interest rates at dinner whether anyone wanted to hear about them or not, had never mentioned a summer of mathematics. \"Why are you telling me this now?\"\n\n[7] \"No reason.\" His grandfather took an orange from the bag, looked at it and put it back. \"It was a long time ago.\"\n\n[8] At eleven fifty-eight the website changed. Omar's hands, which had been steady all morning, would not obey him, and it took him three tries to type his number. Behind him he heard the chair creak as his grandfather sat down, very slowly, as though the floor might move.\n\n[9] The page loaded. Omar read it once, and then again, because the first time the numbers had not seemed to belong to him. Chemistry was the lowest of his grades, lower than he had hoped, but it was a pass, and the others were better than he had dared to expect. He turned the phone around without a word.\n\n[10] His grandfather took a long time to find his glasses. When he had read the screen, he handed the phone back, cleared his throat and said, \"Well. The light really is better here.\" Then he reached into the inside pocket of his jacket and took out a small box of the sugared almonds sold only at the old shop near the station, a forty-minute walk from his flat. The ribbon on the box was a little crushed, as though it had been in the pocket for some time.\n\n[11] \"Call your mother,\" he said. \"She'll be worse than I was.\"",
+       "q": "The detail that the newspaper \"lay open at the same page it had been open at for the past hour\" (paragraph 4) most strongly suggests that the grandfather:",
+       "c": [
+        "has been too anxious to concentrate on reading.",
+        "is reading one article very carefully.",
+        "has finished reading the newspaper.",
+        "cannot see the print because the light is bad."
+       ],
+       "a": 0,
+       "e": "An hour on one page, plus making tea nobody asked for and standing at the window: he is restless and not really reading. B takes the detail at face value and ignores his restless actions. C does not explain why the page never changed. D repeats his excuse, which the passage presents as cover.",
+       "s": "Inference"
+      },
+      {
+       "p": "LITERARY NARRATIVE: This passage is adapted from a short story. Omar, a secondary-school student, waits at home with his grandfather for his exam results.\n\n[1] The results were due at noon, and by ten o'clock Omar had refreshed the website so many times that his phone had grown warm in his hand. His mother had gone to work after reminding him three times to call her the moment he knew anything, and his father was somewhere over the Mediterranean on a flight he could not change. That left his grandfather, who had arrived at eight with a newspaper and a bag of oranges and announced that he had come only because the light in his own flat was bad for reading.\n\n[2] \"Exams,\" his grandfather said, turning a page. \"In my day we found out from a list pinned to the school gate. Half the town would be standing there. You learned your result and everyone else's at the same time.\" He folded the paper with care. \"It was a good system. Nobody could pretend.\"\n\n[3] Omar did not answer. He was thinking of the chemistry paper, of the question about reaction rates that he had answered in a hurry because he had spent too long on the one before it. He had told his friends it had gone fine. He had told his mother it had gone fine. He had not told anyone about the half-page he had left empty.\n\n[4] At eleven his grandfather stood, went into the kitchen and came back with two glasses of tea, though Omar had not asked for one. He set them on the table and then, instead of sitting down again, walked to the window and stood looking at the street, his hands clasped behind his back. Omar noticed that the newspaper lay open at the same page it had been open at for the past hour.\n\n[5] \"Your father was a terrible student,\" the old man said to the window. \"Did he ever tell you that? He failed mathematics in his second year. Had to take it again in the summer while his friends went to the beach.\" He paused. \"He passed it the second time. Better than passed.\"\n\n[6] Omar looked up. His father, who checked every bill twice and explained interest rates at dinner whether anyone wanted to hear about them or not, had never mentioned a summer of mathematics. \"Why are you telling me this now?\"\n\n[7] \"No reason.\" His grandfather took an orange from the bag, looked at it and put it back. \"It was a long time ago.\"\n\n[8] At eleven fifty-eight the website changed. Omar's hands, which had been steady all morning, would not obey him, and it took him three tries to type his number. Behind him he heard the chair creak as his grandfather sat down, very slowly, as though the floor might move.\n\n[9] The page loaded. Omar read it once, and then again, because the first time the numbers had not seemed to belong to him. Chemistry was the lowest of his grades, lower than he had hoped, but it was a pass, and the others were better than he had dared to expect. He turned the phone around without a word.\n\n[10] His grandfather took a long time to find his glasses. When he had read the screen, he handed the phone back, cleared his throat and said, \"Well. The light really is better here.\" Then he reached into the inside pocket of his jacket and took out a small box of the sugared almonds sold only at the old shop near the station, a forty-minute walk from his flat. The ribbon on the box was a little crushed, as though it had been in the pocket for some time.\n\n[11] \"Call your mother,\" he said. \"She'll be worse than I was.\"",
+       "q": "The grandfather most likely tells the story of Omar's father failing mathematics (paragraph 5) in order to:",
+       "c": [
+        "criticize Omar's father for being a poor student.",
+        "warn Omar that he will probably fail chemistry.",
+        "show that exams were harder in the past than they are today.",
+        "reassure Omar that failing a subject need not be the end of the story."
+       ],
+       "a": 3,
+       "e": "The story ends \"He passed it the second time. Better than passed,\" and it is told while Omar is worried about results. One step: it offers comfort. A ignores the hopeful ending. B is too far: the grandfather does not know the results and never predicts them. C is unsupported: he compares how results were announced, not how hard exams were.",
+       "s": "Inference"
+      },
+      {
+       "p": "LITERARY NARRATIVE: This passage is adapted from a short story. Omar, a secondary-school student, waits at home with his grandfather for his exam results.\n\n[1] The results were due at noon, and by ten o'clock Omar had refreshed the website so many times that his phone had grown warm in his hand. His mother had gone to work after reminding him three times to call her the moment he knew anything, and his father was somewhere over the Mediterranean on a flight he could not change. That left his grandfather, who had arrived at eight with a newspaper and a bag of oranges and announced that he had come only because the light in his own flat was bad for reading.\n\n[2] \"Exams,\" his grandfather said, turning a page. \"In my day we found out from a list pinned to the school gate. Half the town would be standing there. You learned your result and everyone else's at the same time.\" He folded the paper with care. \"It was a good system. Nobody could pretend.\"\n\n[3] Omar did not answer. He was thinking of the chemistry paper, of the question about reaction rates that he had answered in a hurry because he had spent too long on the one before it. He had told his friends it had gone fine. He had told his mother it had gone fine. He had not told anyone about the half-page he had left empty.\n\n[4] At eleven his grandfather stood, went into the kitchen and came back with two glasses of tea, though Omar had not asked for one. He set them on the table and then, instead of sitting down again, walked to the window and stood looking at the street, his hands clasped behind his back. Omar noticed that the newspaper lay open at the same page it had been open at for the past hour.\n\n[5] \"Your father was a terrible student,\" the old man said to the window. \"Did he ever tell you that? He failed mathematics in his second year. Had to take it again in the summer while his friends went to the beach.\" He paused. \"He passed it the second time. Better than passed.\"\n\n[6] Omar looked up. His father, who checked every bill twice and explained interest rates at dinner whether anyone wanted to hear about them or not, had never mentioned a summer of mathematics. \"Why are you telling me this now?\"\n\n[7] \"No reason.\" His grandfather took an orange from the bag, looked at it and put it back. \"It was a long time ago.\"\n\n[8] At eleven fifty-eight the website changed. Omar's hands, which had been steady all morning, would not obey him, and it took him three tries to type his number. Behind him he heard the chair creak as his grandfather sat down, very slowly, as though the floor might move.\n\n[9] The page loaded. Omar read it once, and then again, because the first time the numbers had not seemed to belong to him. Chemistry was the lowest of his grades, lower than he had hoped, but it was a pass, and the others were better than he had dared to expect. He turned the phone around without a word.\n\n[10] His grandfather took a long time to find his glasses. When he had read the screen, he handed the phone back, cleared his throat and said, \"Well. The light really is better here.\" Then he reached into the inside pocket of his jacket and took out a small box of the sugared almonds sold only at the old shop near the station, a forty-minute walk from his flat. The ribbon on the box was a little crushed, as though it had been in the pocket for some time.\n\n[11] \"Call your mother,\" he said. \"She'll be worse than I was.\"",
+       "q": "It can reasonably be inferred from paragraph 6 that Omar's father:",
+       "c": [
+        "has always found mathematics difficult.",
+        "dislikes talking about money at home.",
+        "has not shared his early difficulties in mathematics with Omar.",
+        "asked the grandfather to tell Omar about his failure."
+       ],
+       "a": 2,
+       "e": "Omar's father had \"never mentioned a summer of mathematics.\" One small step: he has kept that difficulty to himself. A is contradicted: today he checks bills and explains interest rates. B is reversed: he talks about interest at dinner. D is invented — the grandfather says \"No reason.\"",
+       "s": "Inference"
+      },
+      {
+       "p": "LITERARY NARRATIVE: This passage is adapted from a short story. Omar, a secondary-school student, waits at home with his grandfather for his exam results.\n\n[1] The results were due at noon, and by ten o'clock Omar had refreshed the website so many times that his phone had grown warm in his hand. His mother had gone to work after reminding him three times to call her the moment he knew anything, and his father was somewhere over the Mediterranean on a flight he could not change. That left his grandfather, who had arrived at eight with a newspaper and a bag of oranges and announced that he had come only because the light in his own flat was bad for reading.\n\n[2] \"Exams,\" his grandfather said, turning a page. \"In my day we found out from a list pinned to the school gate. Half the town would be standing there. You learned your result and everyone else's at the same time.\" He folded the paper with care. \"It was a good system. Nobody could pretend.\"\n\n[3] Omar did not answer. He was thinking of the chemistry paper, of the question about reaction rates that he had answered in a hurry because he had spent too long on the one before it. He had told his friends it had gone fine. He had told his mother it had gone fine. He had not told anyone about the half-page he had left empty.\n\n[4] At eleven his grandfather stood, went into the kitchen and came back with two glasses of tea, though Omar had not asked for one. He set them on the table and then, instead of sitting down again, walked to the window and stood looking at the street, his hands clasped behind his back. Omar noticed that the newspaper lay open at the same page it had been open at for the past hour.\n\n[5] \"Your father was a terrible student,\" the old man said to the window. \"Did he ever tell you that? He failed mathematics in his second year. Had to take it again in the summer while his friends went to the beach.\" He paused. \"He passed it the second time. Better than passed.\"\n\n[6] Omar looked up. His father, who checked every bill twice and explained interest rates at dinner whether anyone wanted to hear about them or not, had never mentioned a summer of mathematics. \"Why are you telling me this now?\"\n\n[7] \"No reason.\" His grandfather took an orange from the bag, looked at it and put it back. \"It was a long time ago.\"\n\n[8] At eleven fifty-eight the website changed. Omar's hands, which had been steady all morning, would not obey him, and it took him three tries to type his number. Behind him he heard the chair creak as his grandfather sat down, very slowly, as though the floor might move.\n\n[9] The page loaded. Omar read it once, and then again, because the first time the numbers had not seemed to belong to him. Chemistry was the lowest of his grades, lower than he had hoped, but it was a pass, and the others were better than he had dared to expect. He turned the phone around without a word.\n\n[10] His grandfather took a long time to find his glasses. When he had read the screen, he handed the phone back, cleared his throat and said, \"Well. The light really is better here.\" Then he reached into the inside pocket of his jacket and took out a small box of the sugared almonds sold only at the old shop near the station, a forty-minute walk from his flat. The ribbon on the box was a little crushed, as though it had been in the pocket for some time.\n\n[11] \"Call your mother,\" he said. \"She'll be worse than I was.\"",
+       "q": "Omar's reading the results page twice (paragraph 9) most strongly suggests that he:",
+       "c": [
+        "was surprised that his results were better than he had expected.",
+        "could not understand how the grades were written on the website.",
+        "was disappointed with every one of his grades.",
+        "wanted to delay showing the results to his grandfather."
+       ],
+       "a": 0,
+       "e": "He read it again \"because the first time the numbers had not seemed to belong to him,\" and most grades were \"better than he had dared to expect.\" A is the one-step reading. B takes \"not seemed to belong\" literally. C is too extreme and contradicted (\"better than he had dared to expect\"). D is invented: he turns the phone around at once.",
+       "s": "Inference"
+      },
+      {
+       "p": "LITERARY NARRATIVE: This passage is adapted from a short story. Omar, a secondary-school student, waits at home with his grandfather for his exam results.\n\n[1] The results were due at noon, and by ten o'clock Omar had refreshed the website so many times that his phone had grown warm in his hand. His mother had gone to work after reminding him three times to call her the moment he knew anything, and his father was somewhere over the Mediterranean on a flight he could not change. That left his grandfather, who had arrived at eight with a newspaper and a bag of oranges and announced that he had come only because the light in his own flat was bad for reading.\n\n[2] \"Exams,\" his grandfather said, turning a page. \"In my day we found out from a list pinned to the school gate. Half the town would be standing there. You learned your result and everyone else's at the same time.\" He folded the paper with care. \"It was a good system. Nobody could pretend.\"\n\n[3] Omar did not answer. He was thinking of the chemistry paper, of the question about reaction rates that he had answered in a hurry because he had spent too long on the one before it. He had told his friends it had gone fine. He had told his mother it had gone fine. He had not told anyone about the half-page he had left empty.\n\n[4] At eleven his grandfather stood, went into the kitchen and came back with two glasses of tea, though Omar had not asked for one. He set them on the table and then, instead of sitting down again, walked to the window and stood looking at the street, his hands clasped behind his back. Omar noticed that the newspaper lay open at the same page it had been open at for the past hour.\n\n[5] \"Your father was a terrible student,\" the old man said to the window. \"Did he ever tell you that? He failed mathematics in his second year. Had to take it again in the summer while his friends went to the beach.\" He paused. \"He passed it the second time. Better than passed.\"\n\n[6] Omar looked up. His father, who checked every bill twice and explained interest rates at dinner whether anyone wanted to hear about them or not, had never mentioned a summer of mathematics. \"Why are you telling me this now?\"\n\n[7] \"No reason.\" His grandfather took an orange from the bag, looked at it and put it back. \"It was a long time ago.\"\n\n[8] At eleven fifty-eight the website changed. Omar's hands, which had been steady all morning, would not obey him, and it took him three tries to type his number. Behind him he heard the chair creak as his grandfather sat down, very slowly, as though the floor might move.\n\n[9] The page loaded. Omar read it once, and then again, because the first time the numbers had not seemed to belong to him. Chemistry was the lowest of his grades, lower than he had hoped, but it was a pass, and the others were better than he had dared to expect. He turned the phone around without a word.\n\n[10] His grandfather took a long time to find his glasses. When he had read the screen, he handed the phone back, cleared his throat and said, \"Well. The light really is better here.\" Then he reached into the inside pocket of his jacket and took out a small box of the sugared almonds sold only at the old shop near the station, a forty-minute walk from his flat. The ribbon on the box was a little crushed, as though it had been in the pocket for some time.\n\n[11] \"Call your mother,\" he said. \"She'll be worse than I was.\"",
+       "q": "The description of the box of sugared almonds in paragraph 10 most strongly suggests that the grandfather:",
+       "c": [
+        "went out to buy them as soon as he saw Omar's results.",
+        "always carries sweets in his jacket for his grandchildren.",
+        "was certain that Omar would receive top grades in every subject.",
+        "had bought them for Omar before the results were announced."
+       ],
+       "a": 3,
+       "e": "The shop is a forty-minute walk away and the ribbon is crushed \"as though it had been in the pocket for some time\": he brought them with him, before knowing the results. A is impossible — he never left the flat. B is outside the text (\"always\"). C is too extreme: having a gift ready does not show certainty about top grades in every subject.",
+       "s": "Inference"
+      },
+      {
+       "p": "LITERARY NARRATIVE: This passage is adapted from a short story. Omar, a secondary-school student, waits at home with his grandfather for his exam results.\n\n[1] The results were due at noon, and by ten o'clock Omar had refreshed the website so many times that his phone had grown warm in his hand. His mother had gone to work after reminding him three times to call her the moment he knew anything, and his father was somewhere over the Mediterranean on a flight he could not change. That left his grandfather, who had arrived at eight with a newspaper and a bag of oranges and announced that he had come only because the light in his own flat was bad for reading.\n\n[2] \"Exams,\" his grandfather said, turning a page. \"In my day we found out from a list pinned to the school gate. Half the town would be standing there. You learned your result and everyone else's at the same time.\" He folded the paper with care. \"It was a good system. Nobody could pretend.\"\n\n[3] Omar did not answer. He was thinking of the chemistry paper, of the question about reaction rates that he had answered in a hurry because he had spent too long on the one before it. He had told his friends it had gone fine. He had told his mother it had gone fine. He had not told anyone about the half-page he had left empty.\n\n[4] At eleven his grandfather stood, went into the kitchen and came back with two glasses of tea, though Omar had not asked for one. He set them on the table and then, instead of sitting down again, walked to the window and stood looking at the street, his hands clasped behind his back. Omar noticed that the newspaper lay open at the same page it had been open at for the past hour.\n\n[5] \"Your father was a terrible student,\" the old man said to the window. \"Did he ever tell you that? He failed mathematics in his second year. Had to take it again in the summer while his friends went to the beach.\" He paused. \"He passed it the second time. Better than passed.\"\n\n[6] Omar looked up. His father, who checked every bill twice and explained interest rates at dinner whether anyone wanted to hear about them or not, had never mentioned a summer of mathematics. \"Why are you telling me this now?\"\n\n[7] \"No reason.\" His grandfather took an orange from the bag, looked at it and put it back. \"It was a long time ago.\"\n\n[8] At eleven fifty-eight the website changed. Omar's hands, which had been steady all morning, would not obey him, and it took him three tries to type his number. Behind him he heard the chair creak as his grandfather sat down, very slowly, as though the floor might move.\n\n[9] The page loaded. Omar read it once, and then again, because the first time the numbers had not seemed to belong to him. Chemistry was the lowest of his grades, lower than he had hoped, but it was a pass, and the others were better than he had dared to expect. He turned the phone around without a word.\n\n[10] His grandfather took a long time to find his glasses. When he had read the screen, he handed the phone back, cleared his throat and said, \"Well. The light really is better here.\" Then he reached into the inside pocket of his jacket and took out a small box of the sugared almonds sold only at the old shop near the station, a forty-minute walk from his flat. The ribbon on the box was a little crushed, as though it had been in the pocket for some time.\n\n[11] \"Call your mother,\" he said. \"She'll be worse than I was.\"",
+       "q": "The grandfather's last words, \"She'll be worse than I was\" (paragraph 11), suggest that he:",
+       "c": [
+        "thinks Omar's mother will be angry about the chemistry grade.",
+        "is admitting, indirectly, that he himself had been anxious.",
+        "believes Omar's mother cares more about the results than he does.",
+        "is joking that Omar's mother has a bad temper."
+       ],
+       "a": 1,
+       "e": "\"Worse than I was\" quietly admits that he too was nervous, which the whole morning has shown. A is unsupported: the results are mostly good and nothing suggests anger. C misreads \"worse\" as caring more, and the passage never compares how much they care. D is invented.",
+       "s": "Inference"
+      },
+      {
+       "p": "LITERARY NARRATIVE: This passage is adapted from a short story. Omar, a secondary-school student, waits at home with his grandfather for his exam results.\n\n[1] The results were due at noon, and by ten o'clock Omar had refreshed the website so many times that his phone had grown warm in his hand. His mother had gone to work after reminding him three times to call her the moment he knew anything, and his father was somewhere over the Mediterranean on a flight he could not change. That left his grandfather, who had arrived at eight with a newspaper and a bag of oranges and announced that he had come only because the light in his own flat was bad for reading.\n\n[2] \"Exams,\" his grandfather said, turning a page. \"In my day we found out from a list pinned to the school gate. Half the town would be standing there. You learned your result and everyone else's at the same time.\" He folded the paper with care. \"It was a good system. Nobody could pretend.\"\n\n[3] Omar did not answer. He was thinking of the chemistry paper, of the question about reaction rates that he had answered in a hurry because he had spent too long on the one before it. He had told his friends it had gone fine. He had told his mother it had gone fine. He had not told anyone about the half-page he had left empty.\n\n[4] At eleven his grandfather stood, went into the kitchen and came back with two glasses of tea, though Omar had not asked for one. He set them on the table and then, instead of sitting down again, walked to the window and stood looking at the street, his hands clasped behind his back. Omar noticed that the newspaper lay open at the same page it had been open at for the past hour.\n\n[5] \"Your father was a terrible student,\" the old man said to the window. \"Did he ever tell you that? He failed mathematics in his second year. Had to take it again in the summer while his friends went to the beach.\" He paused. \"He passed it the second time. Better than passed.\"\n\n[6] Omar looked up. His father, who checked every bill twice and explained interest rates at dinner whether anyone wanted to hear about them or not, had never mentioned a summer of mathematics. \"Why are you telling me this now?\"\n\n[7] \"No reason.\" His grandfather took an orange from the bag, looked at it and put it back. \"It was a long time ago.\"\n\n[8] At eleven fifty-eight the website changed. Omar's hands, which had been steady all morning, would not obey him, and it took him three tries to type his number. Behind him he heard the chair creak as his grandfather sat down, very slowly, as though the floor might move.\n\n[9] The page loaded. Omar read it once, and then again, because the first time the numbers had not seemed to belong to him. Chemistry was the lowest of his grades, lower than he had hoped, but it was a pass, and the others were better than he had dared to expect. He turned the phone around without a word.\n\n[10] His grandfather took a long time to find his glasses. When he had read the screen, he handed the phone back, cleared his throat and said, \"Well. The light really is better here.\" Then he reached into the inside pocket of his jacket and took out a small box of the sugared almonds sold only at the old shop near the station, a forty-minute walk from his flat. The ribbon on the box was a little crushed, as though it had been in the pocket for some time.\n\n[11] \"Call your mother,\" he said. \"She'll be worse than I was.\"",
+       "q": "Which statement about the grandfather is best supported by the passage as a whole?",
+       "c": [
+        "He never shows any emotion to his family.",
+        "He believes that modern exams are less fair than the exams of his day.",
+        "He disapproves of the way Omar's father raised Omar.",
+        "He cares deeply about Omar but prefers to show it through actions rather than words."
+       ],
+       "a": 3,
+       "e": "Tea, the reassuring story, the gift carried in his pocket, and his indirect admissions all show care expressed through actions and hints. A is too extreme (\"never … any\") and contradicted by his slow sitting and cleared throat. B overreads paragraph 2: he praises the old list but says nothing about fairness of exams. C is never suggested.",
+       "s": "Inference"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Inference questions are part of Key Ideas and Details, 44–52% of scored ACT Reading questions.",
+    "An inference is ONE small step from the text, never a guess.",
+    "Every correct choice passes the finger test: you can point to the supporting words.",
+    "Extreme words (always, never, all, only, proves) usually signal a wrong choice.",
+    "In fiction, read actions and details as evidence, and check your answer against the ending."
+   ]
+  }
+ ]
+}

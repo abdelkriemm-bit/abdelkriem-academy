@@ -1,0 +1,664 @@
+{
+ "slug": "act-verb-tense-forms",
+ "nav": "Verb Tense & Forms",
+ "title": "ACT Verb Tense and Verb Forms",
+ "kicker": "American Diploma · ACT · English: Conventions",
+ "summary": "Choosing the tense from time clues and the passage, present perfect vs past simple, the past perfect, irregular past participles, “would have” (not “would of”) and conditionals — with worked examples and an ACT-style quiz.",
+ "blocks": [
+  {
+   "type": "p",
+   "text": "Verb questions on ACT English test two things. **Tense:** does the verb show the right **time** — past, present, future — and the right relationship between two times (before, since, by then)? **Form:** is the verb built correctly — “had **swum**”, not “had swam”; “would **have**”, not “would of”? Native speakers make these mistakes in conversation every day, so the test uses them often. This lesson teaches you to read the time clues and to know the forms by heart."
+  },
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Verb tense and form belong to **Conventions of Standard English**, which is **38–43%** of the 40 scored English questions (together with punctuation, sentence structure and the other usage topics). A verb is underlined, and the choices show the same verb in different tenses (**opened / has opened / had opened / opens**) or different forms (**swam / swum / had swam / had swum**)."
+  },
+  {
+   "type": "p",
+   "text": "If the choices are all in the **same** tense but differ in singular/plural, it is an agreement question (see the subject–verb lesson). If they differ in **time**, use the method below."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Look for a time clue** in the sentence: a date, yesterday, since, for, by the time, before, now, every year.",
+    "**Look at the tense of the paragraph**, especially the verbs that are not underlined. Unless the time really changes, keep the same tense.",
+    "**Check the form:** after has/have/had you need the past participle; after will, would, can, could, should, might, must and to you need the base form."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "h2",
+   "text": "Rule 1: Let the time clues choose the tense"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Time clue",
+    "Tense",
+    "✓ Example"
+   ],
+   "rows": [
+    [
+     "every day, usually, always, often; general facts",
+     "present simple",
+     "The Nile **flows** north."
+    ],
+    [
+     "now, at the moment, currently",
+     "present continuous",
+     "The workers **are repairing** the road now."
+    ],
+    [
+     "yesterday, last week, in 1990, two years ago, when I was ten",
+     "past simple",
+     "The bridge **opened** in 1990."
+    ],
+    [
+     "while / when + an action in progress in the past",
+     "past continuous",
+     "I **was reading** when the lights went out."
+    ],
+    [
+     "since, for, so far, already, yet, recently, ever, never (up to now)",
+     "present perfect",
+     "She **has lived** in Giza since 2015."
+    ],
+    [
+     "by the time / before / after + a past event; already in a past story",
+     "past perfect",
+     "By the time we arrived, the film **had started**."
+    ],
+    [
+     "tomorrow, next year, soon",
+     "future",
+     "The museum **will reopen** next year."
+    ],
+    [
+     "by + a future time",
+     "future perfect",
+     "By June, they **will have finished** the tunnel."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Keep the passage’s tense.** A story about the past stays in the past unless something is still true now. ✗ Last summer we **visit** Siwa and swam in the salt lakes. ✓ Last summer we **visited** Siwa and swam in the salt lakes. A general fact, however, can stay in the present inside a past story: ✓ Our guide explained that the salt lakes **are** so salty that you cannot sink."
+  },
+  {
+   "type": "p",
+   "text": "**Writing about a book, a film or a painting** normally uses the present tense: ✓ In the novel, the hero **leaves** his village and **travels** to Cairo. If the passage does this, keep the present."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 2: Present perfect or past simple?"
+  },
+  {
+   "type": "p",
+   "text": "Both talk about the past, but they look at it differently."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Past simple (did)",
+    "Present perfect (has / have done)"
+   ],
+   "rows": [
+    [
+     "A **finished** time: yesterday, in 2010, last month, ago, when…",
+     "An **unfinished** time that reaches **now**: since, for (up to now), so far, this year, recently"
+    ],
+    [
+     "✓ He **won** the race **in 2019**.",
+     "✓ He **has won** three races **since 2019**."
+    ],
+    [
+     "✗ He **has won** the race **in 2019**.",
+     "✗ He **won** three races **since 2019**."
+    ],
+    [
+     "✓ I **lost** my keys yesterday.",
+     "✓ I **have lost** my keys. (They are still lost now.)"
+    ],
+    [
+     "✓ She **worked** in Luxor for ten years. (She does not work there now.)",
+     "✓ She **has worked** in Luxor for ten years. (She still works there.)"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Quick rule: **since** + a starting point almost always needs the present perfect (or the past perfect in a past story). A specific finished time (**in 2019**, **ago**, **last year**) never takes the present perfect."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 3: Past perfect for the earlier past"
+  },
+  {
+   "type": "p",
+   "text": "When a passage is already in the past and you need to go **further back**, use the past perfect: **had + past participle**. It marks the action that happened **first**."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ When the firefighters arrived, the fire **had** already **spread** to the roof. (The spreading came first.)",
+    "✓ By the time I reached the station, the train **had left**.",
+    "✓ She recognised the street because she **had lived** there as a child.",
+    "✗ When the firefighters arrived, the fire **has** already **spread**. (present perfect in a past story)",
+    "Use the past perfect only for the **earlier** action. ✗ By the time I reached the station, the train had left, so I **had missed** it. ✓ …the train had left, so I **missed** it. (The missing happened when you arrived, not before.)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "Do not use the past perfect when there is no earlier past action to compare with: ✗ Yesterday I **had visited** my aunt. ✓ Yesterday I **visited** my aunt."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الأزمنة من الكلمات اللي حوالين الفعل",
+   "text": "دوّر على كلمات الوقت: since و for معناها present perfect (has / have + التصريف التالت). yesterday و in 2019 و ago معناها ماضي بسيط. ولو القصة في الماضي وعايز ترجع لحاجة حصلت قبلها، استخدم had + التصريف التالت: By the time we arrived, the film **had started**."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 4: Irregular past participles"
+  },
+  {
+   "type": "p",
+   "text": "After **has, have, had** (and after **be** in the passive: is/was **written**), you need the **past participle** — the third form. With regular verbs the second and third forms are the same (walked, walked). With irregular verbs they are often different, and the ACT tests exactly these."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Base",
+    "Past simple",
+    "Past participle (has/have/had…)"
+   ],
+   "rows": [
+    [
+     "swim",
+     "swam",
+     "swum — ✓ had swum ✗ had swam"
+    ],
+    [
+     "go",
+     "went",
+     "gone — ✓ had gone ✗ had went"
+    ],
+    [
+     "choose",
+     "chose",
+     "chosen — ✓ had chosen ✗ had chose"
+    ],
+    [
+     "begin",
+     "began",
+     "begun — ✓ has begun ✗ has began"
+    ],
+    [
+     "drink · ring · sing · sink · shrink",
+     "drank · rang · sang · sank · shrank",
+     "drunk · rung · sung · sunk · shrunk"
+    ],
+    [
+     "write · ride · drive · rise",
+     "wrote · rode · drove · rose",
+     "written · ridden · driven · risen"
+    ],
+    [
+     "take · shake · break · speak · steal · freeze",
+     "took · shook · broke · spoke · stole · froze",
+     "taken · shaken · broken · spoken · stolen · frozen"
+    ],
+    [
+     "give · eat · fall · forget · hide · bite",
+     "gave · ate · fell · forgot · hid · bit",
+     "given · eaten · fallen · forgotten · hidden · bitten"
+    ],
+    [
+     "grow · know · throw · fly · draw",
+     "grew · knew · threw · flew · drew",
+     "grown · known · thrown · flown · drawn"
+    ],
+    [
+     "wear · tear · see · do",
+     "wore · tore · saw · did",
+     "worn · torn · seen · done"
+    ],
+    [
+     "come · become · run",
+     "came · became · ran",
+     "come · become · run — ✓ has come ✗ has came; ✓ had run ✗ had ran"
+    ],
+    [
+     "lie (rest) · lay (put) · lead",
+     "lay · laid · led",
+     "lain · laid · led"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "The error also works the other way: the past participle can **never** be the main verb on its own. ✗ She **swum** across the river. ✓ She **swam** across the river. ✗ I **seen** the film. ✓ I **saw** the film / I **have seen** the film. ✗ He **done** his homework. ✓ He **did** / **has done** his homework."
+  },
+  {
+   "type": "p",
+   "text": "After **will, would, can, could, should, may, might, must** and after **to**, use the **base form**: ✓ She can **swim**. ✓ They decided to **choose** a new name. ✗ They decided to **chose** a new name."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 5: would have, could have, should have — never “of”"
+  },
+  {
+   "type": "p",
+   "text": "In speech, “would’ve” sounds like “would of”, but **of** is a preposition and can never follow a modal verb. The correct form is **modal + have + past participle**."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "✗ Wrong",
+    "✓ Right"
+   ],
+   "rows": [
+    [
+     "We **should of** left earlier.",
+     "We **should have** left earlier."
+    ],
+    [
+     "She **could of** won the match.",
+     "She **could have** won the match."
+    ],
+    [
+     "They **must of** forgotten the time.",
+     "They **must have** forgotten the time."
+    ],
+    [
+     "I **would have went** with you.",
+     "I **would have gone** with you. (participle after have)"
+    ],
+    [
+     "He **might of took** the wrong bus.",
+     "He **might have taken** the wrong bus."
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Rule 6: Conditionals (if-sentences)"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Type",
+    "If-clause",
+    "Main clause",
+    "✓ Example"
+   ],
+   "rows": [
+    [
+     "Real / general",
+     "present",
+     "present or will",
+     "If it **rains**, the match **is** / **will be** cancelled."
+    ],
+    [
+     "Unreal now (imaginary)",
+     "past simple (were for all persons)",
+     "would + base form",
+     "If I **were** the principal, I **would change** the timetable."
+    ],
+    [
+     "Unreal past (it did not happen)",
+     "had + past participle",
+     "would / could / might have + past participle",
+     "If we **had left** earlier, we **would have caught** the train."
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Never put would in the if-clause.** ✗ If I **would have known**, I would have helped. ✓ If I **had known**, I would have helped. ✗ If she **would study**, she would pass. ✓ If she **studied**, she would pass.",
+    "**Match the two halves.** ✗ If the team **had trained** harder, they **would win** last year’s final. ✓ …they **would have won** last year’s final.",
+    "**“Were” for imaginary situations:** ✓ If he **were** taller, he would play basketball. ✓ I wish I **were** in Alexandria. (Many speakers say “was”, but the test prefers “were”.)",
+    "**Inverted form (formal):** ✓ **Had I known**, I would have helped. = If I had known…"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "would of غلط دايمًا",
+   "text": "بعد would و could و should و must و might بنكتب have مش of، وبعدها التصريف التالت: should **have gone**. وفي جمل if عن حاجة ماحصلتش في الماضي: If + had + التصريف التالت، والجزء التاني would have + التصريف التالت. وماينفعش would تيجي بعد if."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "Each example is part of an ACT-style essay. The underlined portion is shown in **bold**."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1.** “Since the new bridge opened in 2019, traffic in the town center **fell** by almost half.”"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) has fallen",
+    "C) has fell",
+    "D) falls"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**B is correct.** “Since the new bridge opened” describes a period that started in the past and continues now, so the present perfect is needed: has + past participle “fallen”.",
+    "**A** is the past simple, which needs a finished time, not “since”.",
+    "**C** uses the past simple “fell” after “has” — a wrong participle.",
+    "**D** is the present simple; it describes a habit, not a change up to now.",
+    "Note: “opened” is correctly past simple — “in 2019” is a finished time."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2.** “When the firefighters finally arrived at the warehouse, the fire **already spread** to the second floor.”"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) has already spread",
+    "C) had already spread",
+    "D) already spreading"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**C is correct.** The story is in the past (arrived), and the spreading happened **before** the arrival, so the past perfect “had already spread” is needed.",
+    "**A** is the past simple; with “already” and an earlier action, it does not show the correct order.",
+    "**B** is the present perfect, which does not fit a past story.",
+    "**D** has no helping verb, so the clause has no complete verb."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3.** “By noon, the three divers **had swam** farther along the reef than anyone in the club expected.”"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) swum",
+    "C) have swum",
+    "D) had swum"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: D.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**D is correct.** After “had” you need the past participle: swim – swam – **swum**. The past perfect fits “By noon”.",
+    "**A** uses the past simple “swam” after “had”.",
+    "**B** uses the participle alone, without a helping verb.",
+    "**C** is present perfect, which does not fit a past narrative (“expected”)."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4.** “If the hikers had checked the weather forecast, they **would of** postponed the trip to Saint Catherine.”"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) would have",
+    "C) would had",
+    "D) will have"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**B is correct.** This is an unreal past conditional: If + had checked → would have + past participle (postponed). “Would of” is never correct.",
+    "**A** writes “of”, which sounds like “’ve” but is a preposition.",
+    "**C** puts “had” after “would”; after a modal you need the base form “have”.",
+    "**D** uses the future “will”, which does not match the past condition."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**Simple past after had/has/have:** had swam, had went, has began, had chose, has came.",
+    "**Participle used alone as a past verb:** she swum, I seen, he done.",
+    "**would of / should of / could of** → would have / should have / could have.",
+    "**Present perfect with a finished time:** has won in 2019 → won in 2019. **Past simple with since:** won since 2019 → has won since 2019.",
+    "**would in the if-clause:** If I would have known → If I had known.",
+    "**Tense shift for no reason:** a past paragraph suddenly switching to the present (or the opposite)."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Circle the time clue: since/for → present perfect; ago/in 2010/yesterday → past simple; by the time/before + past → past perfect.",
+    "Read the verbs that are NOT underlined in the paragraph and match their tense.",
+    "After has/have/had → third form (swum, gone, chosen). After will/would/can/to → base form.",
+    "See “of” after would/could/should/must/might? Eliminate it.",
+    "if + had done → would have done; never would after if."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Two ACT-style essays with 5 questions each, all on verb tense and verb forms. The numbers in brackets match the question numbers."
+  },
+  {
+   "type": "test",
+   "title": "Verb Tense and Verb Forms quiz",
+   "timed": false,
+   "intro": "Two ACT-style essays with 5 questions each. For every underlined verb, find the time clue and the tense of the paragraph, then check the form.",
+   "sections": [
+    {
+     "name": "Passages I–II",
+     "minutes": 8,
+     "questions": [
+      {
+       "p": "The Long Swim\n\nMy uncle Tarek has always loved the water. As a boy in Aswan, he __swum__ [1] in the Nile every afternoon after school, racing his friends from one sandbank to the next.\n\nFive years ago, he __decides__ [2] to enter a long-distance swimming race in the Red Sea. He was already forty-two, and most of the other swimmers were half his age. He did not let that stop him, and he hired a coach who had once swum for the national team. By the time the race started, he __had trained__ [3] every morning for eight months, often before sunrise.\n\nThe race was harder than he expected. Strong currents pushed the swimmers away from the course, and Tarek lost almost twenty minutes in the second hour. He finished in fourth place, only a few meters behind the bronze medalist. If he __would have started__ [4] a little faster, he might have won a medal.\n\nWhen I asked him about the race last week, he only laughed. \"I __should of__ [5] trusted my arms more,\" he said. \"Next year, I will.",
+       "q": "[1] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "swam",
+        "had swam",
+        "swimmed"
+       ],
+       "a": 1,
+       "e": "The sentence describes a past habit (“As a boy… every afternoon”), so the past simple “swam” is needed. A uses the participle “swum” without a helping verb; C puts the past simple after “had”; D is not an English form.",
+       "s": "Verb forms (irregular verbs)"
+      },
+      {
+       "p": "The Long Swim\n\nMy uncle Tarek has always loved the water. As a boy in Aswan, he __swum__ [1] in the Nile every afternoon after school, racing his friends from one sandbank to the next.\n\nFive years ago, he __decides__ [2] to enter a long-distance swimming race in the Red Sea. He was already forty-two, and most of the other swimmers were half his age. He did not let that stop him, and he hired a coach who had once swum for the national team. By the time the race started, he __had trained__ [3] every morning for eight months, often before sunrise.\n\nThe race was harder than he expected. Strong currents pushed the swimmers away from the course, and Tarek lost almost twenty minutes in the second hour. He finished in fourth place, only a few meters behind the bronze medalist. If he __would have started__ [4] a little faster, he might have won a medal.\n\nWhen I asked him about the race last week, he only laughed. \"I __should of__ [5] trusted my arms more,\" he said. \"Next year, I will.",
+       "q": "[2] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "has decided",
+        "decided",
+        "had been deciding"
+       ],
+       "a": 2,
+       "e": "“Five years ago” is a finished time, so the past simple “decided” is correct, matching “was” and “were” in the paragraph. A is present; B (present perfect) cannot be used with “ago”; D suggests an earlier, ongoing action that makes no sense here.",
+       "s": "Verb tense (past simple)"
+      },
+      {
+       "p": "The Long Swim\n\nMy uncle Tarek has always loved the water. As a boy in Aswan, he __swum__ [1] in the Nile every afternoon after school, racing his friends from one sandbank to the next.\n\nFive years ago, he __decides__ [2] to enter a long-distance swimming race in the Red Sea. He was already forty-two, and most of the other swimmers were half his age. He did not let that stop him, and he hired a coach who had once swum for the national team. By the time the race started, he __had trained__ [3] every morning for eight months, often before sunrise.\n\nThe race was harder than he expected. Strong currents pushed the swimmers away from the course, and Tarek lost almost twenty minutes in the second hour. He finished in fourth place, only a few meters behind the bronze medalist. If he __would have started__ [4] a little faster, he might have won a medal.\n\nWhen I asked him about the race last week, he only laughed. \"I __should of__ [5] trusted my arms more,\" he said. \"Next year, I will.",
+       "q": "[3] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "has trained",
+        "trains",
+        "was training"
+       ],
+       "a": 0,
+       "e": "“By the time the race started” points to an action completed before another past event, so the past perfect “had trained” is correct. B is present perfect in a past story; C is present; D does not show that the training came before the start.",
+       "s": "Verb tense (past perfect)"
+      },
+      {
+       "p": "The Long Swim\n\nMy uncle Tarek has always loved the water. As a boy in Aswan, he __swum__ [1] in the Nile every afternoon after school, racing his friends from one sandbank to the next.\n\nFive years ago, he __decides__ [2] to enter a long-distance swimming race in the Red Sea. He was already forty-two, and most of the other swimmers were half his age. He did not let that stop him, and he hired a coach who had once swum for the national team. By the time the race started, he __had trained__ [3] every morning for eight months, often before sunrise.\n\nThe race was harder than he expected. Strong currents pushed the swimmers away from the course, and Tarek lost almost twenty minutes in the second hour. He finished in fourth place, only a few meters behind the bronze medalist. If he __would have started__ [4] a little faster, he might have won a medal.\n\nWhen I asked him about the race last week, he only laughed. \"I __should of__ [5] trusted my arms more,\" he said. \"Next year, I will.",
+       "q": "[4] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "would start",
+        "has started",
+        "had started"
+       ],
+       "a": 3,
+       "e": "This is an unreal past condition: if + had + past participle, followed by “might have won”. “Would” never goes in the if-clause, so A and B are wrong; C is present perfect and does not express an imaginary past.",
+       "s": "Verb tense (conditional)"
+      },
+      {
+       "p": "The Long Swim\n\nMy uncle Tarek has always loved the water. As a boy in Aswan, he __swum__ [1] in the Nile every afternoon after school, racing his friends from one sandbank to the next.\n\nFive years ago, he __decides__ [2] to enter a long-distance swimming race in the Red Sea. He was already forty-two, and most of the other swimmers were half his age. He did not let that stop him, and he hired a coach who had once swum for the national team. By the time the race started, he __had trained__ [3] every morning for eight months, often before sunrise.\n\nThe race was harder than he expected. Strong currents pushed the swimmers away from the course, and Tarek lost almost twenty minutes in the second hour. He finished in fourth place, only a few meters behind the bronze medalist. If he __would have started__ [4] a little faster, he might have won a medal.\n\nWhen I asked him about the race last week, he only laughed. \"I __should of__ [5] trusted my arms more,\" he said. \"Next year, I will.",
+       "q": "[5] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "should have",
+        "should had",
+        "should"
+       ],
+       "a": 1,
+       "e": "After a modal (should) the correct form is “have” + past participle: “should have trusted”. A uses “of”, which only sounds like “’ve”; C puts “had” after a modal; D leaves “should trusted”, which is not a correct verb form.",
+       "s": "Verb forms (should have)"
+      },
+      {
+       "p": "The Garden on the Roof\n\nMy family __lived__ [6] in the same apartment building in Shubra since 1985. For most of those years, the roof was an empty space covered with old satellite dishes, broken chairs and the dust of a busy city.\n\nLast year, my mother __has decided__ [7] to turn the roof into a garden. Before the first seeds arrived, she __had chose__ [8] every plant carefully, reading about which vegetables could survive the Cairo heat. My brother and I carried bags of soil up eight floors, and our neighbors donated wooden boxes and old buckets to use as pots.\n\nThe garden was not perfect. The summer was the hottest anyone could remember, and many of the tomato plants struggled. If the weather had been cooler, the tomatoes __would grow__ [9] much bigger. Still, we picked our first cucumbers in June, and they tasted better than anything from the market. My mother gave the first basket to the oldest neighbor in the building.\n\nNow the roof is the busiest place in the building. Every evening, the neighbors climb the stairs, sit among the plants and __talk__ [10] until it is dark.",
+       "q": "[6] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "is living",
+        "has lived",
+        "lives"
+       ],
+       "a": 2,
+       "e": "“Since 1985” describes a period from the past until now, so the present perfect “has lived” is needed. A (past simple) does not fit with “since”; B and D are present forms that cannot be used with “since”.",
+       "s": "Verb tense (present perfect with since)"
+      },
+      {
+       "p": "The Garden on the Roof\n\nMy family __lived__ [6] in the same apartment building in Shubra since 1985. For most of those years, the roof was an empty space covered with old satellite dishes, broken chairs and the dust of a busy city.\n\nLast year, my mother __has decided__ [7] to turn the roof into a garden. Before the first seeds arrived, she __had chose__ [8] every plant carefully, reading about which vegetables could survive the Cairo heat. My brother and I carried bags of soil up eight floors, and our neighbors donated wooden boxes and old buckets to use as pots.\n\nThe garden was not perfect. The summer was the hottest anyone could remember, and many of the tomato plants struggled. If the weather had been cooler, the tomatoes __would grow__ [9] much bigger. Still, we picked our first cucumbers in June, and they tasted better than anything from the market. My mother gave the first basket to the oldest neighbor in the building.\n\nNow the roof is the busiest place in the building. Every evening, the neighbors climb the stairs, sit among the plants and __talk__ [10] until it is dark.",
+       "q": "[7] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "decided",
+        "decides",
+        "had decided"
+       ],
+       "a": 1,
+       "e": "“Last year” is a finished time, so the past simple “decided” is correct. A (present perfect) cannot be used with a finished time; C is present; D would mean the decision came before another past event, which is not the case.",
+       "s": "Verb tense (past simple)"
+      },
+      {
+       "p": "The Garden on the Roof\n\nMy family __lived__ [6] in the same apartment building in Shubra since 1985. For most of those years, the roof was an empty space covered with old satellite dishes, broken chairs and the dust of a busy city.\n\nLast year, my mother __has decided__ [7] to turn the roof into a garden. Before the first seeds arrived, she __had chose__ [8] every plant carefully, reading about which vegetables could survive the Cairo heat. My brother and I carried bags of soil up eight floors, and our neighbors donated wooden boxes and old buckets to use as pots.\n\nThe garden was not perfect. The summer was the hottest anyone could remember, and many of the tomato plants struggled. If the weather had been cooler, the tomatoes __would grow__ [9] much bigger. Still, we picked our first cucumbers in June, and they tasted better than anything from the market. My mother gave the first basket to the oldest neighbor in the building.\n\nNow the roof is the busiest place in the building. Every evening, the neighbors climb the stairs, sit among the plants and __talk__ [10] until it is dark.",
+       "q": "[8] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "has chosen",
+        "chosen",
+        "had chosen"
+       ],
+       "a": 3,
+       "e": "The choosing happened before the seeds arrived, so the past perfect is right, and it needs the past participle: choose – chose – **chosen**. A uses the past simple “chose” after “had”; B is present perfect in a past story; C has no helping verb.",
+       "s": "Verb forms (past participle)"
+      },
+      {
+       "p": "The Garden on the Roof\n\nMy family __lived__ [6] in the same apartment building in Shubra since 1985. For most of those years, the roof was an empty space covered with old satellite dishes, broken chairs and the dust of a busy city.\n\nLast year, my mother __has decided__ [7] to turn the roof into a garden. Before the first seeds arrived, she __had chose__ [8] every plant carefully, reading about which vegetables could survive the Cairo heat. My brother and I carried bags of soil up eight floors, and our neighbors donated wooden boxes and old buckets to use as pots.\n\nThe garden was not perfect. The summer was the hottest anyone could remember, and many of the tomato plants struggled. If the weather had been cooler, the tomatoes __would grow__ [9] much bigger. Still, we picked our first cucumbers in June, and they tasted better than anything from the market. My mother gave the first basket to the oldest neighbor in the building.\n\nNow the roof is the busiest place in the building. Every evening, the neighbors climb the stairs, sit among the plants and __talk__ [10] until it is dark.",
+       "q": "[9] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "will grow",
+        "would have grown",
+        "would have grew"
+       ],
+       "a": 2,
+       "e": "The if-clause (“If the weather had been cooler”) is an unreal past condition, so the main clause needs “would have” + past participle: “would have grown”. A describes the present or future; B is a real future; D uses the past simple “grew” instead of the participle “grown”.",
+       "s": "Verb tense (conditional)"
+      },
+      {
+       "p": "The Garden on the Roof\n\nMy family __lived__ [6] in the same apartment building in Shubra since 1985. For most of those years, the roof was an empty space covered with old satellite dishes, broken chairs and the dust of a busy city.\n\nLast year, my mother __has decided__ [7] to turn the roof into a garden. Before the first seeds arrived, she __had chose__ [8] every plant carefully, reading about which vegetables could survive the Cairo heat. My brother and I carried bags of soil up eight floors, and our neighbors donated wooden boxes and old buckets to use as pots.\n\nThe garden was not perfect. The summer was the hottest anyone could remember, and many of the tomato plants struggled. If the weather had been cooler, the tomatoes __would grow__ [9] much bigger. Still, we picked our first cucumbers in June, and they tasted better than anything from the market. My mother gave the first basket to the oldest neighbor in the building.\n\nNow the roof is the busiest place in the building. Every evening, the neighbors climb the stairs, sit among the plants and __talk__ [10] until it is dark.",
+       "q": "[10] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "talked",
+        "talking",
+        "had talked"
+       ],
+       "a": 0,
+       "e": "The paragraph is in the present (“Now”, “is”, “climb”, “sit”), and “talk” is the third verb in that series, so the present “talk” is correct. B and D shift to the past; C is not a complete verb and breaks the series.",
+       "s": "Verb tense (consistency)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Let the time clues decide: since/for → present perfect; ago, in 2010, yesterday → past simple; by the time / before + past → past perfect.",
+    "Keep the paragraph’s tense unless the time really changes.",
+    "After has/have/had use the past participle: swum, gone, chosen, begun, written. A participle is never a main verb alone.",
+    "would have / could have / should have — never “of”.",
+    "if + had done → would have done; never “would” in the if-clause; “were” for imaginary situations."
+   ]
+  }
+ ]
+}
