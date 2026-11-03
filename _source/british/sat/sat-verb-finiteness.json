@@ -1,0 +1,593 @@
+{
+ "slug": "sat-verb-finiteness",
+ "nav": "Finite Verbs",
+ "title": "Verb Finiteness: Gerunds, Participles and Infinitives",
+ "kicker": "American Diploma · Digital SAT · Grammar: Form, Structure and Sense",
+ "summary": "Make sure every sentence has a finite main verb, spot the long-subject trap, and know when an -ing word, a to-verb or a participle is the right choice.",
+ "blocks": [
+  {
+   "type": "p",
+   "text": "A sentence can be long, full of facts and still be **broken**, because it has no real main verb. Finiteness questions test exactly this. The four choices are forms of one verb — *attracts, attracting, to attract, having attracted* — and you must decide whether the blank needs a **finite verb** (one that can be the main verb of a clause) or a **non-finite form** (an -ing word, a to-verb or a participle that only describes or adds information). Once you know the test, these questions become some of the fastest on the module."
+  },
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "These questions belong to **Standard English Conventions**, which is about **26%** of the scored Reading and Writing questions (about **11–15 questions** across the two modules). Inside that domain, the official skill group **Form, Structure, and Sense** covers **verb finiteness** — the official list names gerunds, participles and infinitives versus finite verbs — together with tense, agreement and the other verb skills. Convention questions **usually** come in the later part of each module, after Information and Ideas."
+  },
+  {
+   "type": "p",
+   "text": "The stem is: **\"Which choice completes the text so that it conforms to the conventions of Standard English?\"** You know it is a finiteness question when the choices mix finite and non-finite forms of the same verb:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "give / giving / to give / having given",
+    "was moved / moving / to be moved / having moved",
+    "it sent / sent / sending / sends"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Finite and non-finite: the difference"
+  },
+  {
+   "type": "p",
+   "text": "A **finite verb** shows tense (and agrees with a subject). It can be the main verb of a clause on its own: *walks, walked, is walking, has walked, will walk, can walk, was built*. A **non-finite form** has no tense of its own and **cannot** be the main verb alone:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Non-finite form",
+    "Looks like",
+    "Main verb alone?",
+    "✗ Fragment",
+    "✓ Fixed"
+   ],
+   "rows": [
+    [
+     "Infinitive",
+     "to + verb (to protect)",
+     "No",
+     "The new wall **to protect** the village.",
+     "The new wall **protects** the village."
+    ],
+    [
+     "-ing form (gerund / present participle)",
+     "protecting",
+     "No",
+     "The engineers **testing** the bridge for months.",
+     "The engineers **tested** the bridge for months."
+    ],
+    [
+     "Past participle",
+     "protected, written, built",
+     "No (without has / had / is / was)",
+     "The ancient city, **built** near the river.",
+     "The ancient city **was built** near the river."
+    ],
+    [
+     "Perfect participle",
+     "having + past participle",
+     "No",
+     "The team **having completed** the survey.",
+     "The team **had completed** the survey."
+    ],
+    [
+     "\"being\"",
+     "being + anything",
+     "No",
+     "The temple **being** the oldest in the region.",
+     "The temple **is** the oldest in the region."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Remember: a helping verb turns a non-finite form into part of a finite verb. *Testing* alone is non-finite; *were testing* is finite. *Built* alone is non-finite; *was built* and *has built* are finite."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "يعني إيه finite؟",
+   "text": "الفعل الـ **finite** هو الفعل اللي فيه **زمن** وينفع يبقى الفعل الأساسي للجملة: moves / moved / is moving / was built / can move. أما ‎**-ing** لوحدها، و **to + فعل**، والتصريف التالت من غير is/was/has، و **having**، و **being** — دول **مينفعوش** يبقوا فعل أساسي لوحدهم. كل جملة (وكل clause) لازم يكون فيها فاعل + فعل finite."
+  },
+  {
+   "type": "h2",
+   "text": "The finiteness test: subject → verb"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Find the subject** of the clause that contains the blank.",
+    "**Look for its finite verb.** Strip away everything between commas, *of*-phrases, and *who/which/that* clauses — their verbs belong to those small clauses, not to the main subject.",
+    "**No finite verb yet?** The blank must supply one: choose the finite choice (then check tense and agreement).",
+    "**Finite verb already there?** The blank must be **non-finite** (an -ing phrase, a to-verb, a participle) **or** a choice with a joining word. A second subject + verb after a comma, with no joining word, is a **comma splice**."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "h2",
+   "text": "The long-subject trap"
+  },
+  {
+   "type": "p",
+   "text": "The SAT often builds a very long subject full of participles and extra information, so that you forget the main verb is still missing. Strip the sentence down:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "\"The Great Library of Alexandria, **founded** in the third century BCE and **supported** by the Ptolemaic kings, ______ scholars from across the Mediterranean.\"",
+    "Cross out the extra information between the commas: \"The Great Library ______ scholars.\"",
+    "The subject *Library* has no verb yet → the blank needs a finite verb: **attracted**. *Founded* and *supported* are participles inside the modifier, not main verbs."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "The same trap works with **relative clauses**. In \"The volunteers **who cleaned** the beaches ______ two tonnes of plastic\", *cleaned* is the verb of the small clause *who cleaned the beaches*. The subject *volunteers* still needs its own verb: **collected**."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Bait verb (not the main verb)",
+    "Where it sits",
+    "Strip it to find the main subject"
+   ],
+   "rows": [
+    [
+     "founded, built, located, known, discovered",
+     "a participle phrase after the subject",
+     "The library, **founded** in …, ______ → The library ______"
+    ],
+    [
+     "who studied, which opened, that was found",
+     "a relative clause",
+     "The scientists **who studied** the reef ______ → The scientists ______"
+    ],
+    [
+     "including, such as, along with",
+     "a list or extra information",
+     "Several temples, **including** Philae, ______ → Several temples ______"
+    ],
+    [
+     "of + noun",
+     "a prepositional phrase",
+     "The population **of** ibex ______ → The population ______"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Every clause needs its own finite verb"
+  },
+  {
+   "type": "p",
+   "text": "A clause that starts with a subordinating word — *because, although, when, while, if, since, after, before, that* — must have its **own** subject and finite verb, and the sentence still needs a **main** clause."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ **Although** the tortoise **moving** slowly, it covers long distances. → ✓ Although the tortoise **moves** slowly, …",
+    "✗ **Because** the locust **changing** its color in crowds, scientists were confused. → ✓ Because the locust **changes** its color …",
+    "✗ **When** the rains **arriving** in summer. (no main clause either) → ✓ When the rains **arrive** in summer, the river **rises**.",
+    "Verbs joined by **and** must be parallel: ✓ \"Mangroves **filter** salt and **release** it\" · ✗ \"filter salt and releasing it\"."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "فخ الجملة الطويلة",
+   "text": "لما الفاعل يكون طويل ومعاه كلام كتير بين فاصلتين أو بعد who / which، شيل الكلام ده واسأل: الفاعل الأساسي **فعله فين**؟ لو مفيش فعل لسه، يبقى الفراغ محتاج **فعل كامل** (finite). لكن لو الجملة فيها فعلها خلاص، يبقى الفراغ غالبًا ‎-ing أو to + فعل، ولو حطيت فاعل + فعل بعد فاصلة هتعمل **comma splice**."
+  },
+  {
+   "type": "h2",
+   "text": "When a non-finite form IS correct"
+  },
+  {
+   "type": "p",
+   "text": "Non-finite forms are not mistakes — they are the right choice whenever the clause **already has** its main verb and the blank only adds information."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Situation",
+    "✓ Example",
+    "Why it works"
+   ],
+   "rows": [
+    [
+     "After the main clause, a comma + -ing phrase shows a result or the manner",
+     "The river flooded, **forcing** hundreds of families to leave.",
+     "\"flooded\" is the main verb; \"forcing\" describes the result."
+    ],
+    [
+     "An opening phrase describes the subject",
+     "**Working** through the night, the engineers finished the repair.",
+     "The main verb is \"finished\"."
+    ],
+    [
+     "Purpose (= in order to)",
+     "Farmers flood the fields **to stop** weeds.",
+     "\"flood\" is the main verb; \"to stop\" gives the reason."
+    ],
+    [
+     "After verbs and adjectives that take an infinitive or -ing",
+     "They decided **to build** … · She avoided **using** … · The pump is designed **to run** on solar power.",
+     "The finite verbs are decided, avoided, is designed."
+    ],
+    [
+     "A participle right after a noun (a shortened relative clause)",
+     "The tablets **found** at Amarna are letters. (= that were found)",
+     "\"are\" is the main verb."
+    ],
+    [
+     "A gerund (or infinitive) as the subject",
+     "**Restoring** a reef can take decades.",
+     "The gerund is the subject; \"can take\" is the main verb."
+    ],
+    [
+     "After a helping or modal verb",
+     "has **built**, was **building**, can **build**, will **have built**",
+     "The helping verb makes the form finite."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**-ing or -ed participle?** An *-ing* participle is active (the noun does the action): \"the volunteers **hoping** to help\". A past participle is passive (the noun receives the action): \"the papyri **found** in the cave\" — the papyri did not find anything, they were found."
+  },
+  {
+   "type": "h2",
+   "text": "The method for test day"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Read the choices.** Finite forms mixed with -ing / to / having / being? It is a finiteness question.",
+    "**Strip the sentence:** cross out comma extras, of-phrases and who/which/that clauses. Find the main subject.",
+    "**Ask: does this subject (or this although/because clause) already have a finite verb?**",
+    "**No →** choose the finite verb, then check tense and agreement. **Yes →** choose the non-finite form; reject any choice that adds a new subject + verb after a comma.",
+    "**Read the whole sentence once:** one complete sentence — no fragment, no comma splice, parallel verbs after *and*."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "h2",
+   "text": "Worked example 1: a long subject still needs its verb"
+  },
+  {
+   "type": "p",
+   "text": "**Passage:** \"The Great Library of Alexandria, founded in the third century BCE and supported by the Ptolemaic kings, ______ scholars from across the Mediterranean who came to study its enormous collection of scrolls.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice completes the text so that it conforms to the conventions of Standard English?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) attracting",
+    "B) to attract",
+    "C) attracted",
+    "D) having attracted"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C) attracted.** Cross out the modifier between the commas: \"The Great Library ______ scholars.\" The subject has no main verb yet, so the blank must be finite. Only \"attracted\" is finite, and the past tense fits the historical context."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A) attracting** — An -ing form cannot be the main verb alone; the sentence becomes a fragment.",
+    "**B) to attract** — An infinitive cannot be the main verb; still a fragment.",
+    "**D) having attracted** — \"Having attracted\" is a perfect participle; there is still no main verb."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Worked example 2: the main verb is already there"
+  },
+  {
+   "type": "p",
+   "text": "**Passage:** \"Last spring, volunteers planted thousands of mangrove seedlings along the Red Sea coast near Hurghada, ______ to protect the shoreline from erosion and to give young fish a safe place to grow.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice completes the text so that it conforms to the conventions of Standard English?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) they hoped",
+    "B) hoping",
+    "C) hopes",
+    "D) and hoping"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B) hoping.** The sentence already has its subject and finite verb: \"volunteers **planted**\". After the comma we need a phrase that describes the volunteers, not a second main verb. The participle \"hoping\" does this."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A) they hoped** — \"They hoped\" is a complete clause after a comma with no joining word: a comma splice.",
+    "**C) hopes** — \"Hopes\" is finite but has no subject of its own; it is also singular and present.",
+    "**D) and hoping** — \"And hoping\" is not parallel: \"planted … and hoping\" joins a finite verb with an -ing form."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Worked example 3: when the participle is correct"
+  },
+  {
+   "type": "p",
+   "text": "**Passage:** \"The clay tablets ______ at Amarna in 1887 are letters written in cuneiform script. Many of them were sent to the pharaoh by rulers of kingdoms in Western Asia.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice completes the text so that it conforms to the conventions of Standard English?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) were discovered",
+    "B) discovered",
+    "C) they discovered",
+    "D) discover"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B) discovered.** The main subject and verb are already there: \"The clay tablets … **are** letters.\" The blank only describes the tablets, so a non-finite participle is needed: \"the tablets discovered at Amarna\" (= that were discovered). The past participle is passive, which fits, because the tablets were found by someone."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A) were discovered** — \"Were discovered\" is finite; it creates two main verbs (\"were discovered … are\") with no joining word.",
+    "**C) they discovered** — \"They discovered\" adds a new subject and verb; the sentence would have two clauses and no connection.",
+    "**D) discover** — \"Discover\" is a finite present verb with no proper subject; it breaks the sentence and the time (1887)."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Worked example 4: a relative clause is not the main verb"
+  },
+  {
+   "type": "p",
+   "text": "**Passage:** \"The engineers who designed the new solar plant near Aswan ______ panels that turn slowly during the day to follow the sun across the sky, which increases the amount of electricity they produce.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice completes the text so that it conforms to the conventions of Standard English?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) choosing",
+    "B) chose",
+    "C) having chosen",
+    "D) to choose"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B) chose.** Strip the relative clause \"who designed the new solar plant near Aswan\": \"The engineers ______ panels.\" \"Designed\" belongs to the small clause, so the main subject \"engineers\" still needs a finite verb: \"chose\"."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A) choosing** — \"Choosing\" is non-finite: \"The engineers … choosing panels\" is a fragment.",
+    "**C) having chosen** — \"Having chosen\" is a participle; still no main verb.",
+    "**D) to choose** — \"To choose\" is an infinitive; the sentence would still have no main verb."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**The fragment trap:** a long subject with participles (founded, built, located, including) or a who/which clause, and no main verb. Choose the finite verb.",
+    "**The comma-splice trap:** the sentence already has its main verb, and a choice adds a new subject + verb after a comma (\", they hoped\", \", it sent\"). Choose the -ing or to-form.",
+    "**The double-verb trap:** a finite choice like \"were found\" where the sentence already has a main verb later (\"… are letters\").",
+    "**The being / having trap:** \"being\" and \"having + past participle\" are almost never the main verb the SAT wants.",
+    "**The parallel trap:** after *and*, match the other verb: \"filter … and release\", \"sending … and forcing\".",
+    "**The although/because trap:** a subordinate clause needs its own finite verb too."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "First ask: \"Does this clause already have its main verb?\" — it decides finite vs non-finite in five seconds.",
+    "Strip comma extras, of-phrases and who/which clauses before you look for the verb.",
+    "If two choices are both finite, the question becomes tense or agreement: use the passage's time clues and the subject.",
+    "Read the sentence once with your choice: one complete sentence, no fragment, no splice.",
+    "Target time: about 30–40 seconds."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Ten original questions in Digital SAT format. Strip each sentence, find the main subject, and decide whether its finite verb is already there."
+  },
+  {
+   "type": "test",
+   "title": "Finite verbs: practice quiz",
+   "timed": false,
+   "intro": "10 original questions in Digital SAT format, untimed. Find the main subject first, then ask whether its verb is already there.",
+   "sections": [
+    {
+     "name": "Quiz",
+     "minutes": 13,
+     "questions": [
+      {
+       "p": "The Bibliotheca Alexandrina, designed by a Norwegian architecture firm and opened in 2002 near the site of the ancient library, ______ space for millions of books as well as several museums and a planetarium.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "has",
+        "having",
+        "to have",
+        "being"
+       ],
+       "a": 0,
+       "e": "Strip the participle phrase: \"The Bibliotheca Alexandrina ______ space for millions of books.\" \"Designed\" and \"opened\" are participles, so the subject still needs a finite verb: \"has\". The other three choices are non-finite and leave a fragment.",
+       "s": "Verb finiteness"
+      },
+      {
+       "p": "Heavy rain fell across the mountains of South Sinai for two days, ______ dry valleys into fast-moving rivers and closing several roads to the monastery.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "it turned",
+        "turned",
+        "turning",
+        "turns"
+       ],
+       "a": 2,
+       "e": "The main clause is complete (\"Heavy rain fell\"). The phrase after the comma describes the results and must be parallel with \"closing\", so \"turning\" is correct. \"It turned\" creates a comma splice, and \"turned\" / \"turns\" are finite verbs with no subject and are not parallel with \"closing\".",
+       "s": "Verb finiteness"
+      },
+      {
+       "p": "Some farmers in the Nile Valley hang solar-powered lamps above their fields at night ______ insects away from the crops, a method that reduces the need for chemical sprays.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "draw",
+        "they draw",
+        "drew",
+        "to draw"
+       ],
+       "a": 3,
+       "e": "The sentence already has its main verb (\"farmers hang\"). The blank expresses purpose (in order to draw insects away), so the infinitive \"to draw\" is correct. \"Draw\", \"they draw\" and \"drew\" add a second finite verb with no joining word.",
+       "s": "Verb finiteness"
+      },
+      {
+       "p": "The volunteers who cleaned the beaches of Marsa Alam last summer ______ more than two tonnes of plastic, most of it bottles and old fishing nets.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "collecting",
+        "collected",
+        "having collected",
+        "to collect"
+       ],
+       "a": 1,
+       "e": "Strip the relative clause \"who cleaned the beaches of Marsa Alam last summer\": \"The volunteers ______ more than two tonnes of plastic.\" \"Cleaned\" belongs to the small clause, so the main subject needs a finite verb: \"collected\". The other choices are non-finite.",
+       "s": "Verb finiteness"
+      },
+      {
+       "p": "Because the desert locust ______ both its body color and its behavior when crowded together, scientists once believed that the quiet, solitary insects and the swarming ones were two separate species.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "changes",
+        "changing",
+        "to change",
+        "having changed"
+       ],
+       "a": 0,
+       "e": "A clause beginning with \"Because\" needs its own subject and finite verb: \"Because the desert locust changes …\". \"Changes\" is finite, singular and present (a general fact). The other three choices are non-finite and leave the clause incomplete.",
+       "s": "Verb finiteness"
+      },
+      {
+       "p": "The papyrus scrolls ______ in 2013 in a cave near the ancient Red Sea port of Wadi al-Jarf include the oldest known inscribed papyri, among them a logbook kept by an official named Merer.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "were found",
+        "they found",
+        "find",
+        "found"
+       ],
+       "a": 3,
+       "e": "The main verb is already in the sentence: \"The papyrus scrolls … include\". The blank only describes the scrolls, so the past participle \"found\" (= that were found) is correct. \"Were found\" creates two main verbs with no joining word, \"they found\" adds a new clause, and \"find\" is a finite verb with no subject.",
+       "s": "Verb finiteness"
+      },
+      {
+       "p": "______ a damaged coral reef can take decades, which is why marine scientists in the Red Sea are working to protect healthy reefs before they are harmed by pollution or careless diving.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "Restore",
+        "Restored",
+        "Restoring",
+        "Having restored"
+       ],
+       "a": 2,
+       "e": "The subject of \"can take\" must be a noun-like phrase, so the gerund \"Restoring\" (the act of restoring) is correct. \"Restore\" is a bare verb that cannot be a subject, \"Restored a damaged reef\" makes no sense as a subject, and \"Having restored\" is a participle that describes someone, not a subject.",
+       "s": "Verb finiteness"
+      },
+      {
+       "p": "Mangrove trees along Egypt's Red Sea coast can survive in salty water. They filter much of the salt from seawater through their roots and ______ the excess through special glands on their leaves.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "release",
+        "releasing",
+        "to release",
+        "released"
+       ],
+       "a": 0,
+       "e": "The two actions are joined by \"and\", so the verbs must be parallel finite verbs: \"They filter … and release\". \"Releasing\" and \"to release\" are non-finite, and \"released\" is past tense in a present-tense description.",
+       "s": "Verb finiteness"
+      },
+      {
+       "p": "The temple of Kalabsha ______ in the early 1960s to a new site near the Aswan High Dam, where visitors can still see it today, standing beside the waters of Lake Nasser.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "moving",
+        "having moved",
+        "to be moved",
+        "was moved"
+       ],
+       "a": 3,
+       "e": "The subject \"The temple of Kalabsha\" needs a finite main verb, and the temple received the action, so the passive \"was moved\" is correct. \"Moving\", \"having moved\" and \"to be moved\" are non-finite and leave a fragment.",
+       "s": "Verb finiteness"
+      },
+      {
+       "p": "The young falcon spread its wings for the first time on the cliff edge, ______ the warm air rising from the rocks below to lift it gently into the sky.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "it used",
+        "using",
+        "uses",
+        "it uses"
+       ],
+       "a": 1,
+       "e": "The main clause is already complete (\"The young falcon spread its wings\"). The phrase after the comma describes how it flew, so the participle \"using\" is correct. \"It used\" and \"it uses\" create comma splices, and \"uses\" is a finite verb with no subject.",
+       "s": "Verb finiteness"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Every clause needs a **finite** verb. -ing, to + verb, a past participle alone, having … and being cannot be the main verb.",
+    "Strip comma extras, of-phrases and who/which/that clauses to find the main subject — their verbs do not count.",
+    "If the clause already has its main verb, the blank is non-finite; a new subject + verb after a comma is a comma splice.",
+    "Non-finite is right for results (, forcing …), purpose (to stop …), descriptions (the tablets found …) and gerund subjects (Restoring a reef …).",
+    "Check finiteness first, then tense, then agreement."
+   ]
+  }
+ ]
+}

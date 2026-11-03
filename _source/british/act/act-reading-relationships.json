@@ -1,0 +1,505 @@
+{
+ "slug": "act-reading-relationships",
+ "nav": "Relationships",
+ "title": "Relationships: Sequence, Cause–Effect and Comparison",
+ "kicker": "American Diploma · ACT · Reading: Key Ideas and Details",
+ "summary": "How to answer ACT Reading questions about the order of events, causes and effects, and comparisons, including how to map a timeline when a passage jumps in time.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Relationship questions ask how pieces of information in the passage are **connected**: what happened before what (**sequence**), what made something happen (**cause–effect**), and how two people, ideas or things are alike or different (**comparison / contrast**). They belong to **Key Ideas and Details**, the largest reporting category on ACT Reading (**44–52% of the scored questions**). They appear in every passage type, but the literary narrative (fiction or memoir), which is always one of the three scored passages, is where timelines matter most."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Relationship",
+    "Typical stem (in our own words)",
+    "What you must check"
+   ],
+   "rows": [
+    [
+     "Sequence",
+     "\"Which of the following events happened first?\" / \"…happened immediately before…\" / \"At the time of X, the narrator had already:\"",
+     "Order in TIME, not order on the page"
+    ],
+    [
+     "Cause–effect",
+     "\"According to the passage, X happened because:\" / \"…was a result of:\" / \"One effect of X was:\"",
+     "Which event is the cause and which is the result"
+    ],
+    [
+     "Comparison / contrast",
+     "\"Compared with A, B is described as:\" / \"The narrator contrasts himself with Hany by showing that:\"",
+     "BOTH sides of the comparison, each matched to the right person or thing"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "The key fact about these questions: **most wrong choices contain true facts from the passage, connected the wrong way**. A wrong choice may list two real events in the wrong order, give a real event as the cause when it was actually the result, or give one person's quality to the other person. Knowing the facts is not enough; you must check the connection."
+  },
+  {
+   "type": "h2",
+   "text": "Sequence: map the timeline"
+  },
+  {
+   "type": "p",
+   "text": "Narratives, especially memoirs, rarely tell events in time order. A writer may start in the present (\"Last October…\"), jump back twenty years, move forward through childhood, and return to the present at the end. **Reading order is not time order.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Find the \"now\" of the passage.** Phrases such as *now, today, last October, these days*, and the present tense (\"I am a teacher\") mark the present.",
+    "**Collect the time signals:** ages (\"the winter I was nine\"), seasons, years, *before, after, then, the following spring, by March, years later, when he started university*.",
+    "**Watch the past perfect.** *Had + past participle* (\"he had bought it\", \"I had read every comic\") shows an event earlier than the main story at that point.",
+    "**Number the events on your scrap paper** in time order, with a short label each: 1 arm broken (9) → 2 first win (10) → 3 grandfather dies (11) → 4 Friday games → 5 club → 6 youth group → 7 gift (last Oct) → 8 airport.",
+    "**Answer from the map**, not from the page order. For \"immediately before\" questions, check that nothing happened in between."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "table",
+   "headers": [
+    "✓ / ✗",
+    "Statement about the chess memoir"
+   ],
+   "rows": [
+    [
+     "✗",
+     "\"The passage begins with the earliest event.\" (It begins with the most recent one.)"
+    ],
+    [
+     "✓",
+     "\"The narrator's first win came after the winter he broke his arm.\" (the following spring)"
+    ],
+    [
+     "✗",
+     "\"The grandfather died before teaching began.\" (He died two years later, when the narrator was eleven.)"
+    ],
+    [
+     "✓",
+     "\"The youth group existed before Hany left for Doha.\" (six years of work vs last October)"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "ترتيب الأحداث = ترتيب الزمن مش ترتيب القراءة",
+   "text": "في القصص والمذكرات الكاتب ممكن يبدأ من النهاية ويرجع بالذاكرة لورا (flashback). اعمل خط زمني صغير على الورقة: رقّم الأحداث 1، 2، 3 حسب الكلمات اللي بتدل على الوقت زي the winter I was nine, the following spring, years later. وخلي بالك من had + V3 لأنها معناها إن الحدث حصل قبل."
+  },
+  {
+   "type": "h2",
+   "text": "Cause–effect: which way does the arrow point?"
+  },
+  {
+   "type": "p",
+   "text": "A cause–effect question asks for the reason the passage gives, not a reason that seems sensible. Find the signal word, then draw the arrow: **cause → effect**."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Signal words",
+    "Pattern",
+    "Example"
+   ],
+   "rows": [
+    [
+     "because, since, as, due to, owing to",
+     "effect BECAUSE cause",
+     "\"Hany was a slow teacher because he was a slow player.\""
+    ],
+    [
+     "so, therefore, as a result, that is why, which led to",
+     "cause, SO effect",
+     "\"His weekends filled with projects, and the Friday games stopped.\""
+    ],
+    [
+     "when / after (sometimes)",
+     "cause WHEN effect",
+     "\"When he started university, … the games stopped.\""
+    ],
+    [
+     "to / in order to",
+     "action TO purpose",
+     "\"I joined the club partly to fill the empty afternoons.\""
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Reversal test.** Read the choice as \"A caused B.\" Then ask: does the passage say A caused B, or B caused A? ✗ \"He stopped playing with Hany because he preferred the club.\" ✓ \"He joined the club because the games with Hany had stopped.\"",
+    "**Next-door is not cause.** A fact that sits in the sentence just before an effect is not automatically its cause. \"I began to win about as often as he did\" comes right before the games stop, but the passage gives a different reason.",
+    "**Linked is not caused.** In social science and science passages, a study may find that two things occur together (\"cities with more trees had lower temperatures\"). Unless the passage says one causes the other, a choice that says \"caused\" goes too far.",
+    "**More than one cause.** If the passage gives two reasons, a choice that names only one may still be correct, but a choice that names a reason the passage does not give is always wrong."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Comparison and contrast: check both halves"
+  },
+  {
+   "type": "p",
+   "text": "Comparison choices have two halves, one for each side. Each half must be true, and each must belong to the right side."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Signal words",
+    "Use"
+   ],
+   "rows": [
+    [
+     "like, similarly, both, also, the same as, just as",
+     "Similarity"
+    ],
+    [
+     "unlike, whereas, while, but, by contrast, where (\"careful where I was quick\"), instead of, on the other hand",
+     "Difference"
+    ],
+    [
+     "more than, less than, -er than, not as … as",
+     "Degree"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ \"Hany thought before acting, while the narrator acted first.\" (both halves correct)",
+    "✗ \"The narrator was careful, while Hany was quick.\" (both halves true of SOMEONE, but swapped)",
+    "✗ \"Hany was careful, and the narrator was cleverer.\" (half-right: the second half is invented)",
+    "Make a two-column note when a passage compares two people or ideas: *Hany | narrator: careful | quick; instructions first | instructions after*."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "Read this short social science excerpt (shorter than a real ACT passage, so we can focus on the method). Notice that it does not tell events in time order."
+  },
+  {
+   "type": "p",
+   "text": "Today the Thursday market in the town square draws traders from six villages, but it almost disappeared. Thirty years ago, the town council moved the market to a field outside town to reduce traffic in the centre. Because the new site had no shade and no bus stop, many older customers stopped coming, and within three years half the stalls were empty. The decision was reversed only after the shopkeepers on the square, whose own sales had fallen when the market left, collected signatures and presented them to the council. Unlike the field, the square had shade from its old trees and stood close to the bus station. By the time the market returned, the council had also closed two nearby streets to cars on Thursdays, which solved the traffic problem that had started the whole story."
+  },
+  {
+   "type": "p",
+   "text": "**Timeline:** 1 market moved to field (to reduce traffic) → 2 older customers stop coming → 3 half the stalls empty → 4 shopkeepers' sales fall, petition → 5 two streets closed → 6 market returns → 7 today: six villages."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — sequence**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which of the following happened first?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) The shopkeepers collected signatures.",
+    "B) Traders from six villages came to the square.",
+    "C) The market was moved to a field outside town.",
+    "D) Two streets were closed to cars on Thursdays."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C.** Event 1 on the timeline: \"Thirty years ago, the town council moved the market.\" Everything else follows from it."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A is wrong** — Event 4: a response to the move.",
+    "**B is wrong** — Reading-order trap: it is the first sentence, but it describes TODAY, the last point on the timeline.",
+    "**D is wrong** — \"By the time the market returned, the council had also closed…\" — the past perfect places it after the move but before the return."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — cause–effect**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** According to the excerpt, many older customers stopped coming to the market because:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) half of the stalls were empty.",
+    "B) the field had no shade and no bus stop.",
+    "C) the shopkeepers' sales had fallen.",
+    "D) the town centre had too much traffic."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B.** \"Because the new site had no shade and no bus stop, many older customers stopped coming.\" The signal word *because* points straight to B."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A is wrong** — Reversed: the empty stalls were a RESULT of customers leaving (\"and within three years half the stalls were empty\").",
+    "**C is wrong** — Wrong relationship: falling sales were another effect of the move, and they caused the petition, not the customers' absence.",
+    "**D is wrong** — Wrong link: traffic was the council's reason for moving the market, not the customers' reason for leaving."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — comparison**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Compared with the field, the square is described as:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) having shade and being close to the bus station.",
+    "B) having shade but being farther from public transport.",
+    "C) being larger and closer to the six villages.",
+    "D) having less traffic and more parking."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: A.** \"Unlike the field, the square had shade from its old trees and stood close to the bus station.\" Both halves of A match."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**B is wrong** — Half-right: shade is correct, but the second half reverses the bus station detail.",
+    "**C is wrong** — Invented: size and distance to the villages are never compared.",
+    "**D is wrong** — Not stated, and the traffic was a problem IN the centre, not an advantage of it."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4 — cause–effect (solution)**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** According to the excerpt, the traffic problem was finally solved by:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) moving the market to a field outside town.",
+    "B) collecting signatures from the shopkeepers.",
+    "C) bringing the market back to the square.",
+    "D) closing two nearby streets to cars on Thursdays."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: D.** The last sentence: closing the streets \"solved the traffic problem.\" The relative clause *which solved* gives the effect."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A is wrong** — The first attempt to solve it, which created new problems; the passage does not say it solved anything.",
+    "**B is wrong** — The cause of the council's change of mind, not of the traffic solution.",
+    "**C is wrong** — Wrong cause: the streets had already been closed \"by the time the market returned,\" and the passage credits the closures, not the return."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**Reading order = time order.** The first event you read about is often the most recent. Build the timeline.",
+    "**Reversed cause and effect.** The result is offered as the cause (\"stalls were empty, so customers left\").",
+    "**Next-door cause.** A true fact placed just before the effect, but not the reason the passage gives.",
+    "**Swapped comparison.** Each quality is real, but given to the wrong person or thing.",
+    "**Half-right comparison.** One side is correct; the other side is invented or reversed.",
+    "**\"Linked\" read as \"caused\".** In science and social science passages, a connection is not automatically a cause."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Literary passages: as you read, jot a quick timeline with ages, seasons and time words.",
+    "Circle signal words in your mind: because, so, as a result, unlike, while, by the time, had + past participle.",
+    "For cause–effect choices, say \"A caused B\" and check the arrow against the text.",
+    "For comparisons, check each half separately and make sure it belongs to the right side.",
+    "Every relationship answer needs a proof sentence that states the connection, not just the facts."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "السبب والنتيجة",
+   "text": "الفخ المشهور إن الاختيار يقلب السهم: يقولك النتيجة على إنها السبب. قول لنفسك: A سبّب B؟ وارجع للجملة اللي فيها because أو so أو as a result. وفي المقارنة اتأكد من النصين: كل صفة لازم تكون للشخص الصح."
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Now try a full literary narrative (a memoir of about 730 words) with 9 questions on sequence, cause–effect and comparison. It is **untimed**, but aim for about 10 minutes. Build the timeline while you read: the memoir does not tell its events in order."
+  },
+  {
+   "type": "test",
+   "title": "ACT Reading practice — Relationships (Literary Narrative)",
+   "timed": false,
+   "intro": "One passage, 9 questions, untimed. Number the events in time order on your scrap paper, draw the cause → effect arrow for every \"because\" question, and check both halves of every comparison.",
+   "sections": [
+    {
+     "name": "Passage 1",
+     "minutes": 10,
+     "questions": [
+      {
+       "p": "LITERARY NARRATIVE: This passage is adapted from a memoir. The narrator describes his older brother and their grandfather's chess set.\n\n[1] Last October, on the night before my older brother, Hany, flew to Doha to start a new job, he knocked on the door of my flat with a wooden box under his arm. I knew what it was before he opened it: our grandfather's chess set, the one with the chipped white queen and the black knight whose ear had been glued back on twice. \"It's yours now,\" he said. \"I won't have time to play over there, and you never could leave it alone.\" Then he went home to finish packing, and I sat for a long time with the box on my knees.\n\n[2] Hany is four years older than I am, and when we were boys the difference between us felt larger than any number. He was careful where I was quick. He read the instructions before building a model; I read them afterward, if at all, to find out what I had done wrong. Our mother used to say that if the two of us were mixed together and divided in half, she would have two perfectly normal sons.\n\n[3] The chess set came into our lives the winter I was nine, when I fell from a neighbour's wall and broke my right arm. The doctor said I must stay at home for three weeks, and by the end of the first afternoon I had read every comic in the flat and was close to tears of boredom. Our grandfather, who lived on the floor above us, came down with the wooden box. He was too unwell by then to play himself, so he sat in the armchair and told Hany to teach me.\n\n[4] Hany was a slow teacher because he was a slow player. Before every move he folded his arms and stared at the board, and nothing I said could hurry him. I, on the other hand, moved the moment an idea appeared in my head, and most of my ideas were bad. I lost every game for two weeks. Then one evening my grandfather leaned forward and said something I have never forgotten: \"Before you touch a piece, ask what your brother wants.\" It was the first time I understood that the board belonged to two people.\n\n[5] I won my first game against Hany the following spring. I was so pleased that I ran upstairs to tell my grandfather, who laughed and asked how early I had taken Hany's queen. When I told him, he nodded and said that a player who loses his queen that early is either very tired or very kind. I did not understand what he meant until years later.\n\n[6] Our grandfather died the summer I turned eleven, and the set came down to our flat for good. Through our teenage years Hany and I played most Friday afternoons, and I began to win about as often as he did. When he started studying engineering at university, though, his weekends filled with projects, and the Friday games stopped. I joined the chess club at school partly, I think, to fill the empty afternoons. It was there that a teacher noticed I was better at explaining the game to younger boys than at winning tournaments myself.\n\n[7] That is how I came to the work I do now. For the past six years I have run a chess group for children at our local youth centre. My students are mostly like I was: quick, impatient, certain that the first idea is the best one. Every year I repeat my grandfather's question to them, and every year a few of them look at me as if I have told them something important.\n\n[8] The morning after Hany gave me the box, I drove him to the airport. At the gate he hugged me, then held me at arm's length and asked, in a voice that tried to sound casual, whether I still remembered the first game I had won, when I was nine. \"Ten,\" I said. \"I was ten. And you gave me your queen.\" He only smiled and walked toward the gate. That afternoon I took the chess set to the youth centre and set it up on the table nearest the door, where the newest children always sit.",
+       "q": "Which of the following events happened first?",
+       "c": [
+        "Hany gave the narrator the chess set.",
+        "The narrator's grandfather died.",
+        "The narrator broke his arm.",
+        "The narrator won his first game against Hany."
+       ],
+       "a": 2,
+       "e": "Time order: broken arm (winter, age nine, paragraph 3) → first win (the following spring) → grandfather's death (age eleven) → … → the gift (last October). A is the first event you READ about, but it is the most recent: paragraph 1 is a flashback starting point, not the beginning of the timeline.",
+       "s": "Sequence"
+      },
+      {
+       "p": "LITERARY NARRATIVE: This passage is adapted from a memoir. The narrator describes his older brother and their grandfather's chess set.\n\n[1] Last October, on the night before my older brother, Hany, flew to Doha to start a new job, he knocked on the door of my flat with a wooden box under his arm. I knew what it was before he opened it: our grandfather's chess set, the one with the chipped white queen and the black knight whose ear had been glued back on twice. \"It's yours now,\" he said. \"I won't have time to play over there, and you never could leave it alone.\" Then he went home to finish packing, and I sat for a long time with the box on my knees.\n\n[2] Hany is four years older than I am, and when we were boys the difference between us felt larger than any number. He was careful where I was quick. He read the instructions before building a model; I read them afterward, if at all, to find out what I had done wrong. Our mother used to say that if the two of us were mixed together and divided in half, she would have two perfectly normal sons.\n\n[3] The chess set came into our lives the winter I was nine, when I fell from a neighbour's wall and broke my right arm. The doctor said I must stay at home for three weeks, and by the end of the first afternoon I had read every comic in the flat and was close to tears of boredom. Our grandfather, who lived on the floor above us, came down with the wooden box. He was too unwell by then to play himself, so he sat in the armchair and told Hany to teach me.\n\n[4] Hany was a slow teacher because he was a slow player. Before every move he folded his arms and stared at the board, and nothing I said could hurry him. I, on the other hand, moved the moment an idea appeared in my head, and most of my ideas were bad. I lost every game for two weeks. Then one evening my grandfather leaned forward and said something I have never forgotten: \"Before you touch a piece, ask what your brother wants.\" It was the first time I understood that the board belonged to two people.\n\n[5] I won my first game against Hany the following spring. I was so pleased that I ran upstairs to tell my grandfather, who laughed and asked how early I had taken Hany's queen. When I told him, he nodded and said that a player who loses his queen that early is either very tired or very kind. I did not understand what he meant until years later.\n\n[6] Our grandfather died the summer I turned eleven, and the set came down to our flat for good. Through our teenage years Hany and I played most Friday afternoons, and I began to win about as often as he did. When he started studying engineering at university, though, his weekends filled with projects, and the Friday games stopped. I joined the chess club at school partly, I think, to fill the empty afternoons. It was there that a teacher noticed I was better at explaining the game to younger boys than at winning tournaments myself.\n\n[7] That is how I came to the work I do now. For the past six years I have run a chess group for children at our local youth centre. My students are mostly like I was: quick, impatient, certain that the first idea is the best one. Every year I repeat my grandfather's question to them, and every year a few of them look at me as if I have told them something important.\n\n[8] The morning after Hany gave me the box, I drove him to the airport. At the gate he hugged me, then held me at arm's length and asked, in a voice that tried to sound casual, whether I still remembered the first game I had won, when I was nine. \"Ten,\" I said. \"I was ten. And you gave me your queen.\" He only smiled and walked toward the gate. That afternoon I took the chess set to the youth centre and set it up on the table nearest the door, where the newest children always sit.",
+       "q": "According to the passage, the narrator joined the chess club at school:",
+       "c": [
+        "before his grandfather died.",
+        "after the Friday games with Hany had stopped.",
+        "while he was at home with a broken arm.",
+        "after Hany left to work in Doha."
+       ],
+       "a": 1,
+       "e": "Paragraph 6: Hany's university projects ended the Friday games, and the narrator joined the club \"to fill the empty afternoons.\" A is too early (the club follows the teenage Friday games, which began after the death). C is far too early. D is far too late: by then he had already run the youth group for six years.",
+       "s": "Sequence"
+      },
+      {
+       "p": "LITERARY NARRATIVE: This passage is adapted from a memoir. The narrator describes his older brother and their grandfather's chess set.\n\n[1] Last October, on the night before my older brother, Hany, flew to Doha to start a new job, he knocked on the door of my flat with a wooden box under his arm. I knew what it was before he opened it: our grandfather's chess set, the one with the chipped white queen and the black knight whose ear had been glued back on twice. \"It's yours now,\" he said. \"I won't have time to play over there, and you never could leave it alone.\" Then he went home to finish packing, and I sat for a long time with the box on my knees.\n\n[2] Hany is four years older than I am, and when we were boys the difference between us felt larger than any number. He was careful where I was quick. He read the instructions before building a model; I read them afterward, if at all, to find out what I had done wrong. Our mother used to say that if the two of us were mixed together and divided in half, she would have two perfectly normal sons.\n\n[3] The chess set came into our lives the winter I was nine, when I fell from a neighbour's wall and broke my right arm. The doctor said I must stay at home for three weeks, and by the end of the first afternoon I had read every comic in the flat and was close to tears of boredom. Our grandfather, who lived on the floor above us, came down with the wooden box. He was too unwell by then to play himself, so he sat in the armchair and told Hany to teach me.\n\n[4] Hany was a slow teacher because he was a slow player. Before every move he folded his arms and stared at the board, and nothing I said could hurry him. I, on the other hand, moved the moment an idea appeared in my head, and most of my ideas were bad. I lost every game for two weeks. Then one evening my grandfather leaned forward and said something I have never forgotten: \"Before you touch a piece, ask what your brother wants.\" It was the first time I understood that the board belonged to two people.\n\n[5] I won my first game against Hany the following spring. I was so pleased that I ran upstairs to tell my grandfather, who laughed and asked how early I had taken Hany's queen. When I told him, he nodded and said that a player who loses his queen that early is either very tired or very kind. I did not understand what he meant until years later.\n\n[6] Our grandfather died the summer I turned eleven, and the set came down to our flat for good. Through our teenage years Hany and I played most Friday afternoons, and I began to win about as often as he did. When he started studying engineering at university, though, his weekends filled with projects, and the Friday games stopped. I joined the chess club at school partly, I think, to fill the empty afternoons. It was there that a teacher noticed I was better at explaining the game to younger boys than at winning tournaments myself.\n\n[7] That is how I came to the work I do now. For the past six years I have run a chess group for children at our local youth centre. My students are mostly like I was: quick, impatient, certain that the first idea is the best one. Every year I repeat my grandfather's question to them, and every year a few of them look at me as if I have told them something important.\n\n[8] The morning after Hany gave me the box, I drove him to the airport. At the gate he hugged me, then held me at arm's length and asked, in a voice that tried to sound casual, whether I still remembered the first game I had won, when I was nine. \"Ten,\" I said. \"I was ten. And you gave me your queen.\" He only smiled and walked toward the gate. That afternoon I took the chess set to the youth centre and set it up on the table nearest the door, where the newest children always sit.",
+       "q": "According to paragraph 3, the grandfather brought the chess set down to the boys because:",
+       "c": [
+        "the narrator was bored at home after breaking his arm.",
+        "he wanted to play chess with the narrator himself.",
+        "Hany had asked him to teach both boys the game.",
+        "the doctor had recommended chess for the narrator's recovery."
+       ],
+       "a": 0,
+       "e": "The narrator had read every comic \"by the end of the first afternoon\" and was \"close to tears of boredom\"; then the grandfather came down. A gives that cause. B is reversed: he was \"too unwell by then to play himself.\" C reverses who asked whom: the grandfather told Hany to teach. D twists the doctor's role: the doctor only ordered three weeks at home.",
+       "s": "Cause–effect"
+      },
+      {
+       "p": "LITERARY NARRATIVE: This passage is adapted from a memoir. The narrator describes his older brother and their grandfather's chess set.\n\n[1] Last October, on the night before my older brother, Hany, flew to Doha to start a new job, he knocked on the door of my flat with a wooden box under his arm. I knew what it was before he opened it: our grandfather's chess set, the one with the chipped white queen and the black knight whose ear had been glued back on twice. \"It's yours now,\" he said. \"I won't have time to play over there, and you never could leave it alone.\" Then he went home to finish packing, and I sat for a long time with the box on my knees.\n\n[2] Hany is four years older than I am, and when we were boys the difference between us felt larger than any number. He was careful where I was quick. He read the instructions before building a model; I read them afterward, if at all, to find out what I had done wrong. Our mother used to say that if the two of us were mixed together and divided in half, she would have two perfectly normal sons.\n\n[3] The chess set came into our lives the winter I was nine, when I fell from a neighbour's wall and broke my right arm. The doctor said I must stay at home for three weeks, and by the end of the first afternoon I had read every comic in the flat and was close to tears of boredom. Our grandfather, who lived on the floor above us, came down with the wooden box. He was too unwell by then to play himself, so he sat in the armchair and told Hany to teach me.\n\n[4] Hany was a slow teacher because he was a slow player. Before every move he folded his arms and stared at the board, and nothing I said could hurry him. I, on the other hand, moved the moment an idea appeared in my head, and most of my ideas were bad. I lost every game for two weeks. Then one evening my grandfather leaned forward and said something I have never forgotten: \"Before you touch a piece, ask what your brother wants.\" It was the first time I understood that the board belonged to two people.\n\n[5] I won my first game against Hany the following spring. I was so pleased that I ran upstairs to tell my grandfather, who laughed and asked how early I had taken Hany's queen. When I told him, he nodded and said that a player who loses his queen that early is either very tired or very kind. I did not understand what he meant until years later.\n\n[6] Our grandfather died the summer I turned eleven, and the set came down to our flat for good. Through our teenage years Hany and I played most Friday afternoons, and I began to win about as often as he did. When he started studying engineering at university, though, his weekends filled with projects, and the Friday games stopped. I joined the chess club at school partly, I think, to fill the empty afternoons. It was there that a teacher noticed I was better at explaining the game to younger boys than at winning tournaments myself.\n\n[7] That is how I came to the work I do now. For the past six years I have run a chess group for children at our local youth centre. My students are mostly like I was: quick, impatient, certain that the first idea is the best one. Every year I repeat my grandfather's question to them, and every year a few of them look at me as if I have told them something important.\n\n[8] The morning after Hany gave me the box, I drove him to the airport. At the gate he hugged me, then held me at arm's length and asked, in a voice that tried to sound casual, whether I still remembered the first game I had won, when I was nine. \"Ten,\" I said. \"I was ten. And you gave me your queen.\" He only smiled and walked toward the gate. That afternoon I took the chess set to the youth centre and set it up on the table nearest the door, where the newest children always sit.",
+       "q": "In paragraph 2, the narrator contrasts himself with Hany mainly by showing that:",
+       "c": [
+        "the narrator was careful, while Hany was quick and careless.",
+        "both boys read the instructions only after making a mistake.",
+        "Hany was much more intelligent than the narrator.",
+        "Hany thought before acting, while the narrator acted first and checked later."
+       ],
+       "a": 3,
+       "e": "\"He was careful where I was quick. He read the instructions before building a model; I read them afterward.\" D states both sides correctly. A is reversed (the classic swapped comparison). B is half-right: only the narrator read them afterward. C is invented: the difference is in habits, not intelligence.",
+       "s": "Comparison"
+      },
+      {
+       "p": "LITERARY NARRATIVE: This passage is adapted from a memoir. The narrator describes his older brother and their grandfather's chess set.\n\n[1] Last October, on the night before my older brother, Hany, flew to Doha to start a new job, he knocked on the door of my flat with a wooden box under his arm. I knew what it was before he opened it: our grandfather's chess set, the one with the chipped white queen and the black knight whose ear had been glued back on twice. \"It's yours now,\" he said. \"I won't have time to play over there, and you never could leave it alone.\" Then he went home to finish packing, and I sat for a long time with the box on my knees.\n\n[2] Hany is four years older than I am, and when we were boys the difference between us felt larger than any number. He was careful where I was quick. He read the instructions before building a model; I read them afterward, if at all, to find out what I had done wrong. Our mother used to say that if the two of us were mixed together and divided in half, she would have two perfectly normal sons.\n\n[3] The chess set came into our lives the winter I was nine, when I fell from a neighbour's wall and broke my right arm. The doctor said I must stay at home for three weeks, and by the end of the first afternoon I had read every comic in the flat and was close to tears of boredom. Our grandfather, who lived on the floor above us, came down with the wooden box. He was too unwell by then to play himself, so he sat in the armchair and told Hany to teach me.\n\n[4] Hany was a slow teacher because he was a slow player. Before every move he folded his arms and stared at the board, and nothing I said could hurry him. I, on the other hand, moved the moment an idea appeared in my head, and most of my ideas were bad. I lost every game for two weeks. Then one evening my grandfather leaned forward and said something I have never forgotten: \"Before you touch a piece, ask what your brother wants.\" It was the first time I understood that the board belonged to two people.\n\n[5] I won my first game against Hany the following spring. I was so pleased that I ran upstairs to tell my grandfather, who laughed and asked how early I had taken Hany's queen. When I told him, he nodded and said that a player who loses his queen that early is either very tired or very kind. I did not understand what he meant until years later.\n\n[6] Our grandfather died the summer I turned eleven, and the set came down to our flat for good. Through our teenage years Hany and I played most Friday afternoons, and I began to win about as often as he did. When he started studying engineering at university, though, his weekends filled with projects, and the Friday games stopped. I joined the chess club at school partly, I think, to fill the empty afternoons. It was there that a teacher noticed I was better at explaining the game to younger boys than at winning tournaments myself.\n\n[7] That is how I came to the work I do now. For the past six years I have run a chess group for children at our local youth centre. My students are mostly like I was: quick, impatient, certain that the first idea is the best one. Every year I repeat my grandfather's question to them, and every year a few of them look at me as if I have told them something important.\n\n[8] The morning after Hany gave me the box, I drove him to the airport. At the gate he hugged me, then held me at arm's length and asked, in a voice that tried to sound casual, whether I still remembered the first game I had won, when I was nine. \"Ten,\" I said. \"I was ten. And you gave me your queen.\" He only smiled and walked toward the gate. That afternoon I took the chess set to the youth centre and set it up on the table nearest the door, where the newest children always sit.",
+       "q": "According to the narrator, Hany was a slow teacher because:",
+       "c": [
+        "the narrator refused to listen to his advice.",
+        "he thought for a long time before every move he made.",
+        "the grandfather told him not to hurry.",
+        "he did not want to teach his younger brother."
+       ],
+       "a": 1,
+       "e": "\"Hany was a slow teacher because he was a slow player. Before every move he folded his arms and stared at the board.\" B paraphrases the cause. A, C and D invent causes the passage never gives; D also ignores that Hany taught patiently for weeks.",
+       "s": "Cause–effect"
+      },
+      {
+       "p": "LITERARY NARRATIVE: This passage is adapted from a memoir. The narrator describes his older brother and their grandfather's chess set.\n\n[1] Last October, on the night before my older brother, Hany, flew to Doha to start a new job, he knocked on the door of my flat with a wooden box under his arm. I knew what it was before he opened it: our grandfather's chess set, the one with the chipped white queen and the black knight whose ear had been glued back on twice. \"It's yours now,\" he said. \"I won't have time to play over there, and you never could leave it alone.\" Then he went home to finish packing, and I sat for a long time with the box on my knees.\n\n[2] Hany is four years older than I am, and when we were boys the difference between us felt larger than any number. He was careful where I was quick. He read the instructions before building a model; I read them afterward, if at all, to find out what I had done wrong. Our mother used to say that if the two of us were mixed together and divided in half, she would have two perfectly normal sons.\n\n[3] The chess set came into our lives the winter I was nine, when I fell from a neighbour's wall and broke my right arm. The doctor said I must stay at home for three weeks, and by the end of the first afternoon I had read every comic in the flat and was close to tears of boredom. Our grandfather, who lived on the floor above us, came down with the wooden box. He was too unwell by then to play himself, so he sat in the armchair and told Hany to teach me.\n\n[4] Hany was a slow teacher because he was a slow player. Before every move he folded his arms and stared at the board, and nothing I said could hurry him. I, on the other hand, moved the moment an idea appeared in my head, and most of my ideas were bad. I lost every game for two weeks. Then one evening my grandfather leaned forward and said something I have never forgotten: \"Before you touch a piece, ask what your brother wants.\" It was the first time I understood that the board belonged to two people.\n\n[5] I won my first game against Hany the following spring. I was so pleased that I ran upstairs to tell my grandfather, who laughed and asked how early I had taken Hany's queen. When I told him, he nodded and said that a player who loses his queen that early is either very tired or very kind. I did not understand what he meant until years later.\n\n[6] Our grandfather died the summer I turned eleven, and the set came down to our flat for good. Through our teenage years Hany and I played most Friday afternoons, and I began to win about as often as he did. When he started studying engineering at university, though, his weekends filled with projects, and the Friday games stopped. I joined the chess club at school partly, I think, to fill the empty afternoons. It was there that a teacher noticed I was better at explaining the game to younger boys than at winning tournaments myself.\n\n[7] That is how I came to the work I do now. For the past six years I have run a chess group for children at our local youth centre. My students are mostly like I was: quick, impatient, certain that the first idea is the best one. Every year I repeat my grandfather's question to them, and every year a few of them look at me as if I have told them something important.\n\n[8] The morning after Hany gave me the box, I drove him to the airport. At the gate he hugged me, then held me at arm's length and asked, in a voice that tried to sound casual, whether I still remembered the first game I had won, when I was nine. \"Ten,\" I said. \"I was ten. And you gave me your queen.\" He only smiled and walked toward the gate. That afternoon I took the chess set to the youth centre and set it up on the table nearest the door, where the newest children always sit.",
+       "q": "The grandfather's comment in paragraph 5, together with the narrator's words in paragraph 8, most strongly suggests that the narrator's first win happened because:",
+       "c": [
+        "the narrator had finally learned to move more quickly than Hany.",
+        "the grandfather had secretly helped the narrator plan the game.",
+        "Hany was too tired that day to concentrate.",
+        "Hany had deliberately given up his queen early."
+       ],
+       "a": 3,
+       "e": "The grandfather says a player who loses his queen that early is \"either very tired or very kind,\" and years later the narrator says, \"you gave me your queen.\" Together these point to kindness: Hany gave the queen away on purpose. C is the other half of the grandfather's either/or, which paragraph 8 rules out. A reverses the lesson (the narrator learned to slow down). B is invented.",
+       "s": "Cause–effect"
+      },
+      {
+       "p": "LITERARY NARRATIVE: This passage is adapted from a memoir. The narrator describes his older brother and their grandfather's chess set.\n\n[1] Last October, on the night before my older brother, Hany, flew to Doha to start a new job, he knocked on the door of my flat with a wooden box under his arm. I knew what it was before he opened it: our grandfather's chess set, the one with the chipped white queen and the black knight whose ear had been glued back on twice. \"It's yours now,\" he said. \"I won't have time to play over there, and you never could leave it alone.\" Then he went home to finish packing, and I sat for a long time with the box on my knees.\n\n[2] Hany is four years older than I am, and when we were boys the difference between us felt larger than any number. He was careful where I was quick. He read the instructions before building a model; I read them afterward, if at all, to find out what I had done wrong. Our mother used to say that if the two of us were mixed together and divided in half, she would have two perfectly normal sons.\n\n[3] The chess set came into our lives the winter I was nine, when I fell from a neighbour's wall and broke my right arm. The doctor said I must stay at home for three weeks, and by the end of the first afternoon I had read every comic in the flat and was close to tears of boredom. Our grandfather, who lived on the floor above us, came down with the wooden box. He was too unwell by then to play himself, so he sat in the armchair and told Hany to teach me.\n\n[4] Hany was a slow teacher because he was a slow player. Before every move he folded his arms and stared at the board, and nothing I said could hurry him. I, on the other hand, moved the moment an idea appeared in my head, and most of my ideas were bad. I lost every game for two weeks. Then one evening my grandfather leaned forward and said something I have never forgotten: \"Before you touch a piece, ask what your brother wants.\" It was the first time I understood that the board belonged to two people.\n\n[5] I won my first game against Hany the following spring. I was so pleased that I ran upstairs to tell my grandfather, who laughed and asked how early I had taken Hany's queen. When I told him, he nodded and said that a player who loses his queen that early is either very tired or very kind. I did not understand what he meant until years later.\n\n[6] Our grandfather died the summer I turned eleven, and the set came down to our flat for good. Through our teenage years Hany and I played most Friday afternoons, and I began to win about as often as he did. When he started studying engineering at university, though, his weekends filled with projects, and the Friday games stopped. I joined the chess club at school partly, I think, to fill the empty afternoons. It was there that a teacher noticed I was better at explaining the game to younger boys than at winning tournaments myself.\n\n[7] That is how I came to the work I do now. For the past six years I have run a chess group for children at our local youth centre. My students are mostly like I was: quick, impatient, certain that the first idea is the best one. Every year I repeat my grandfather's question to them, and every year a few of them look at me as if I have told them something important.\n\n[8] The morning after Hany gave me the box, I drove him to the airport. At the gate he hugged me, then held me at arm's length and asked, in a voice that tried to sound casual, whether I still remembered the first game I had won, when I was nine. \"Ten,\" I said. \"I was ten. And you gave me your queen.\" He only smiled and walked toward the gate. That afternoon I took the chess set to the youth centre and set it up on the table nearest the door, where the newest children always sit.",
+       "q": "According to paragraph 6, the Friday games stopped because:",
+       "c": [
+        "the narrator began to win as often as Hany did.",
+        "the chess set was taken back upstairs.",
+        "Hany's weekends were filled with university projects.",
+        "the narrator preferred playing at the school club."
+       ],
+       "a": 2,
+       "e": "\"When he started studying engineering at university, though, his weekends filled with projects, and the Friday games stopped.\" A is a true detail placed just before, but it is not the cause. B is reversed: the set came DOWN for good. D reverses cause and effect: he joined the club BECAUSE the games stopped.",
+       "s": "Cause–effect"
+      },
+      {
+       "p": "LITERARY NARRATIVE: This passage is adapted from a memoir. The narrator describes his older brother and their grandfather's chess set.\n\n[1] Last October, on the night before my older brother, Hany, flew to Doha to start a new job, he knocked on the door of my flat with a wooden box under his arm. I knew what it was before he opened it: our grandfather's chess set, the one with the chipped white queen and the black knight whose ear had been glued back on twice. \"It's yours now,\" he said. \"I won't have time to play over there, and you never could leave it alone.\" Then he went home to finish packing, and I sat for a long time with the box on my knees.\n\n[2] Hany is four years older than I am, and when we were boys the difference between us felt larger than any number. He was careful where I was quick. He read the instructions before building a model; I read them afterward, if at all, to find out what I had done wrong. Our mother used to say that if the two of us were mixed together and divided in half, she would have two perfectly normal sons.\n\n[3] The chess set came into our lives the winter I was nine, when I fell from a neighbour's wall and broke my right arm. The doctor said I must stay at home for three weeks, and by the end of the first afternoon I had read every comic in the flat and was close to tears of boredom. Our grandfather, who lived on the floor above us, came down with the wooden box. He was too unwell by then to play himself, so he sat in the armchair and told Hany to teach me.\n\n[4] Hany was a slow teacher because he was a slow player. Before every move he folded his arms and stared at the board, and nothing I said could hurry him. I, on the other hand, moved the moment an idea appeared in my head, and most of my ideas were bad. I lost every game for two weeks. Then one evening my grandfather leaned forward and said something I have never forgotten: \"Before you touch a piece, ask what your brother wants.\" It was the first time I understood that the board belonged to two people.\n\n[5] I won my first game against Hany the following spring. I was so pleased that I ran upstairs to tell my grandfather, who laughed and asked how early I had taken Hany's queen. When I told him, he nodded and said that a player who loses his queen that early is either very tired or very kind. I did not understand what he meant until years later.\n\n[6] Our grandfather died the summer I turned eleven, and the set came down to our flat for good. Through our teenage years Hany and I played most Friday afternoons, and I began to win about as often as he did. When he started studying engineering at university, though, his weekends filled with projects, and the Friday games stopped. I joined the chess club at school partly, I think, to fill the empty afternoons. It was there that a teacher noticed I was better at explaining the game to younger boys than at winning tournaments myself.\n\n[7] That is how I came to the work I do now. For the past six years I have run a chess group for children at our local youth centre. My students are mostly like I was: quick, impatient, certain that the first idea is the best one. Every year I repeat my grandfather's question to them, and every year a few of them look at me as if I have told them something important.\n\n[8] The morning after Hany gave me the box, I drove him to the airport. At the gate he hugged me, then held me at arm's length and asked, in a voice that tried to sound casual, whether I still remembered the first game I had won, when I was nine. \"Ten,\" I said. \"I was ten. And you gave me your queen.\" He only smiled and walked toward the gate. That afternoon I took the chess set to the youth centre and set it up on the table nearest the door, where the newest children always sit.",
+       "q": "At the time Hany gave him the chess set, the narrator had already:",
+       "c": [
+        "been running a children's chess group for several years.",
+        "won several school chess tournaments.",
+        "moved to Doha for a new job.",
+        "stopped playing chess completely."
+       ],
+       "a": 0,
+       "e": "Paragraph 7 says \"for the past six years I have run a chess group,\" and paragraph 1 is set \"last October,\" so the group already existed. B is contradicted (he was better at explaining than at winning tournaments). C confuses the brothers: Hany went to Doha. D is contradicted by his job and by Hany's \"you never could leave it alone.\"",
+       "s": "Sequence"
+      },
+      {
+       "p": "LITERARY NARRATIVE: This passage is adapted from a memoir. The narrator describes his older brother and their grandfather's chess set.\n\n[1] Last October, on the night before my older brother, Hany, flew to Doha to start a new job, he knocked on the door of my flat with a wooden box under his arm. I knew what it was before he opened it: our grandfather's chess set, the one with the chipped white queen and the black knight whose ear had been glued back on twice. \"It's yours now,\" he said. \"I won't have time to play over there, and you never could leave it alone.\" Then he went home to finish packing, and I sat for a long time with the box on my knees.\n\n[2] Hany is four years older than I am, and when we were boys the difference between us felt larger than any number. He was careful where I was quick. He read the instructions before building a model; I read them afterward, if at all, to find out what I had done wrong. Our mother used to say that if the two of us were mixed together and divided in half, she would have two perfectly normal sons.\n\n[3] The chess set came into our lives the winter I was nine, when I fell from a neighbour's wall and broke my right arm. The doctor said I must stay at home for three weeks, and by the end of the first afternoon I had read every comic in the flat and was close to tears of boredom. Our grandfather, who lived on the floor above us, came down with the wooden box. He was too unwell by then to play himself, so he sat in the armchair and told Hany to teach me.\n\n[4] Hany was a slow teacher because he was a slow player. Before every move he folded his arms and stared at the board, and nothing I said could hurry him. I, on the other hand, moved the moment an idea appeared in my head, and most of my ideas were bad. I lost every game for two weeks. Then one evening my grandfather leaned forward and said something I have never forgotten: \"Before you touch a piece, ask what your brother wants.\" It was the first time I understood that the board belonged to two people.\n\n[5] I won my first game against Hany the following spring. I was so pleased that I ran upstairs to tell my grandfather, who laughed and asked how early I had taken Hany's queen. When I told him, he nodded and said that a player who loses his queen that early is either very tired or very kind. I did not understand what he meant until years later.\n\n[6] Our grandfather died the summer I turned eleven, and the set came down to our flat for good. Through our teenage years Hany and I played most Friday afternoons, and I began to win about as often as he did. When he started studying engineering at university, though, his weekends filled with projects, and the Friday games stopped. I joined the chess club at school partly, I think, to fill the empty afternoons. It was there that a teacher noticed I was better at explaining the game to younger boys than at winning tournaments myself.\n\n[7] That is how I came to the work I do now. For the past six years I have run a chess group for children at our local youth centre. My students are mostly like I was: quick, impatient, certain that the first idea is the best one. Every year I repeat my grandfather's question to them, and every year a few of them look at me as if I have told them something important.\n\n[8] The morning after Hany gave me the box, I drove him to the airport. At the gate he hugged me, then held me at arm's length and asked, in a voice that tried to sound casual, whether I still remembered the first game I had won, when I was nine. \"Ten,\" I said. \"I was ten. And you gave me your queen.\" He only smiled and walked toward the gate. That afternoon I took the chess set to the youth centre and set it up on the table nearest the door, where the newest children always sit.",
+       "q": "The narrator presents the children in his chess group as being:",
+       "c": [
+        "more patient than he was at their age.",
+        "similar to him as a boy, quick and impatient.",
+        "similar to Hany as a boy, careful and slow.",
+        "less interested in the game than he and Hany were."
+       ],
+       "a": 1,
+       "e": "Paragraph 7: \"My students are mostly like I was: quick, impatient, certain that the first idea is the best one.\" B states the comparison. A and C are reversed (they are like the narrator, not like Hany). D is unsupported: some of them respond to his advice as \"something important.\"",
+       "s": "Comparison"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Sequence, cause–effect and comparison questions are part of Key Ideas and Details (44–52% of scored ACT Reading questions).",
+    "Reading order is not time order: map the timeline with time words, ages and had + past participle.",
+    "Cause–effect: find the signal word and check which way the arrow points.",
+    "Comparison: check both halves, and check that each belongs to the right side.",
+    "Wrong choices usually contain true facts connected the wrong way."
+   ]
+  }
+ ]
+}
