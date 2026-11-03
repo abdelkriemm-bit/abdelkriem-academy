@@ -1,0 +1,527 @@
+{
+ "slug": "act-reading-main-idea",
+ "nav": "Main Idea",
+ "title": "Main Idea and Summary Questions",
+ "kicker": "American Diploma · ACT · Reading: Key Ideas and Details",
+ "summary": "How to find the main idea of a whole ACT Reading passage or a single paragraph: predict first, then beat the too-narrow, too-broad and half-right traps.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Main idea questions ask you to state **what a passage (or one paragraph) is mainly about and what it mainly says**. They belong to the **Key Ideas and Details** category, which is the largest reporting category on ACT Reading: **44–52% of the scored questions**. The scored part of the test has **3 passages with 9 questions each**, and almost every passage set includes at least one big-picture question about the whole passage and often one about a single paragraph."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Question form",
+    "Typical stem (in our own words)",
+    "What it really asks"
+   ],
+   "rows": [
+    [
+     "Whole passage — main idea",
+     "\"The main idea of the passage is that:\" / \"The passage mainly focuses on:\"",
+     "The one claim or story that the WHOLE text develops"
+    ],
+    [
+     "Whole passage — summary",
+     "\"Which of the following best summarizes the passage?\"",
+     "The main idea plus the route the text takes to reach it"
+    ],
+    [
+     "One paragraph",
+     "\"The main point of paragraph 4 is that:\" / \"Paragraph 2 mainly focuses on:\"",
+     "Only that paragraph, not the whole passage"
+    ],
+    [
+     "Group of paragraphs",
+     "\"Which of the following best summarizes paragraphs 2 and 3?\"",
+     "Both paragraphs, joined in the right relationship"
+    ],
+    [
+     "Literary passage",
+     "\"The passage is mainly about:\" / \"Which statement best describes what happens in the passage?\"",
+     "What happens AND what it comes to mean (usually shown at the end)"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Many ACT Reading stems end with a colon, so the correct choice completes the sentence. Read the stem and each choice together as one sentence."
+  },
+  {
+   "type": "h2",
+   "text": "Topic, detail or main idea?"
+  },
+  {
+   "type": "p",
+   "text": "The most useful thing you can learn for these questions is the difference between three levels. A **topic** is a subject (one or two words). A **detail** is one fact or example. A **main idea** is a full claim about the topic that the whole text supports."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Level",
+    "Example (passage about public drinking fountains)",
+    "Can it be the answer?"
+   ],
+   "rows": [
+    [
+     "Topic",
+     "✗ \"Public drinking fountains.\"",
+     "No: it names a subject but says nothing about it"
+    ],
+    [
+     "Detail",
+     "✗ \"Wealthy families paid for the fountains and decorated them.\"",
+     "No: true, but it is one sentence of support"
+    ],
+    [
+     "Too broad",
+     "✗ \"Cities should restore all of their historic buildings.\"",
+     "No: the passage never goes that far"
+    ],
+    [
+     "Main idea",
+     "✓ \"Fountains that seemed outdated are proving useful again.\"",
+     "Yes: every paragraph supports it"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "A quick test: **could each paragraph of the passage be a reason or example for this sentence?** If yes, it is the main idea. If it fits only one paragraph, it is too narrow. If you could write a different book about it, it is too broad."
+  },
+  {
+   "type": "h2",
+   "text": "The method: predict before you look"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Read the blurb.** The line in capitals above the passage tells you the passage type (humanities, social science, natural science, literary narrative) and often the topic.",
+    "**Label each paragraph in about three words** as you read: [1] signs vanishing = loss, [2] painters + conversation, [3] printing wins: time/price …",
+    "**Look hard at the first and last paragraphs.** In informational passages the author's claim is usually stated in paragraph 1 and returned to at the end. Watch for the sentence after \"however\", \"yet\", \"but\" or \"I want to suggest\": that is often where the author's own view begins.",
+    "**Write your own one-sentence main idea** before you read the choices: topic + what the author says about it. Example: \"Painted signs lost out for good reasons, but they carry something personal worth keeping.\"",
+    "**Match, then eliminate.** Choose the choice closest to your prediction, then check that every part of it is true and that it fits the beginning, middle and end.",
+    "**Answer the whole-passage question last.** You may answer the questions in a set in any order. After answering the detail questions you understand the passage better, so leave question 1 (often the big-picture one) until the end of the set."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "توقّع الإجابة قبل ما تقرا الاختيارات",
+   "text": "قبل ما تبص على A B C D، اكتب الفكرة الرئيسية بكلامك في جملة واحدة: الموضوع + الكاتب بيقول إيه عنه. بعد كده دوّر على الاختيار اللي بيقول نفس المعنى. الإجابة الصح لازم تنفع لأول القطعة وآخرها، مش لبراجراف واحد بس."
+  },
+  {
+   "type": "h2",
+   "text": "The four wrong-answer shapes"
+  },
+  {
+   "type": "p",
+   "text": "Wrong choices on main-idea questions are not random. Almost every one fits one of these shapes. Learn to name them and you will eliminate faster and with more confidence."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Trap",
+    "What it looks like",
+    "✗ Example (fountains passage)"
+   ],
+   "rows": [
+    [
+     "Too narrow",
+     "A true detail from one paragraph, offered as the main idea of the whole",
+     "✗ \"Some fountains were turned into kiosks or storerooms.\""
+    ],
+    [
+     "Too broad",
+     "A big general claim about the whole subject or the whole world",
+     "✗ \"Water has always shaped the history of cities.\""
+    ],
+    [
+     "Half-right",
+     "The first half matches the passage; the second half is invented or reversed",
+     "✗ \"Fountains fell silent when water reached homes and are now kept only as museums.\""
+    ],
+    [
+     "Reversed / off-topic",
+     "Uses the passage's words but says the opposite, or talks about something the passage barely mentions",
+     "✗ \"Planners believe fountains waste water.\""
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Half-right** choices are the most dangerous, because you agree with the first words and stop reading. Always read a choice to its final word. **Too broad** choices often contain words such as *all, always, history of, people in general, every*. **Too narrow** choices usually contain a specific name, number or example from the middle of the passage."
+  },
+  {
+   "type": "h2",
+   "text": "Paragraph main ideas"
+  },
+  {
+   "type": "p",
+   "text": "When the question names one paragraph, the main idea of the WHOLE passage is often a trap. Stay inside the paragraph."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Look first at the opening sentence**, then at any sentence that begins with a contrast word (however, but, yet, in fact). Paragraph 4 of the practice passage begins \"It would be wrong, however, to describe the old signs only with regret\" — that sentence is the paragraph's point.",
+    "**Ask what job the paragraph does in the passage**: background, a problem, a counter-argument, an example, the conclusion. Its main idea fits that job.",
+    "**Summaries of two paragraphs** must include both paragraphs AND the link between them (then, but, because, as a result).",
+    "✓ \"Paragraph 4: the move to printed signs had real benefits.\" ✗ \"Paragraph 4: painted signs are better than printed ones\" (that is the opposite of what this paragraph is doing)."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Main idea in a literary narrative"
+  },
+  {
+   "type": "p",
+   "text": "In fiction and memoir, the \"main idea\" is what happens **and what it comes to mean** for the narrator or character. Students often pick the most exciting moment, but an exciting moment is still a detail. The meaning is usually shown near the end: a change in feeling, a new understanding, a decision."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ \"The narrator's car breaks down on the desert road.\" (one event — too narrow)",
+    "✗ \"The narrator learns that all old things are valuable.\" (too broad — a moral the text never states)",
+    "✓ \"The narrator comes to see his father's old car differently after learning what it has meant to the family.\" (event + meaning + change)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "Read this short excerpt (shorter than a real ACT passage, so we can focus on the method). Predict the main idea yourself before reading the examples."
+  },
+  {
+   "type": "p",
+   "text": "[1] For centuries, public drinking fountains were among the most generous buildings a city could offer. Wealthy families paid for them, decorated them with carved stone and inscriptions, and placed them where travellers and workers passed. A cup of clean water was free to anyone who stopped.\n\n[2] As piped water reached private homes in the last century, many fountains fell silent. Their taps were removed, their basins filled with dust, and some were turned into kiosks or storerooms. City officials saw little reason to repair buildings that no longer seemed necessary.\n\n[3] Recently, however, several cities have begun restoring their fountains, not as museums but as working sources of water. Planners point to hotter summers, to the cost and waste of plastic bottles, and to the simple pleasure of a shaded place to stop. The old fountains, it turns out, were not outdated; they were waiting for a problem they could help to solve."
+  },
+  {
+   "type": "p",
+   "text": "**Prediction:** \"Fountains lost their use when homes got water, but they are becoming useful again.\" Notice that the last sentence states it almost directly."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — whole-passage main idea**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** The main idea of the excerpt is that public drinking fountains:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) were decorated with carved stone by wealthy families.",
+    "B) lost their purpose when water reached homes but are proving useful again today.",
+    "C) fell out of use when water reached homes and are now preserved as museums.",
+    "D) show that cities must restore every historic building they own."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B.** It covers all three paragraphs: generous past (1), decline (2), new usefulness (3). It matches our prediction."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A is wrong** — Too narrow: one detail from paragraph 1.",
+    "**C is wrong** — Half-right: the first half is true, but paragraph 3 says \"not as museums\" — the second half is reversed.",
+    "**D is wrong** — Too broad: the excerpt is about fountains, not every historic building, and \"must\" is far stronger than anything stated."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — paragraph main idea**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Paragraph 2 mainly focuses on:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) the reasons planners want to restore the fountains.",
+    "B) the ways some fountains were turned into kiosks.",
+    "C) the generosity of the families who built the fountains.",
+    "D) the decline of the fountains after piped water reached private homes."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: D.** Paragraph 2 opens with the cause (piped water) and then lists the results: silent taps, dust, new uses, no repairs. D is the paragraph's job: describing the decline."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A is wrong** — Wrong paragraph: the planners' reasons are in paragraph 3.",
+    "**B is wrong** — Too narrow: kiosks are one example inside the paragraph.",
+    "**C is wrong** — Wrong paragraph: the families appear in paragraph 1."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — summary**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which of the following best summarizes how the excerpt develops?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) It describes a problem, proposes three solutions, and chooses the best one.",
+    "B) It argues that piped water was a mistake and that homes should use public fountains instead.",
+    "C) It traces the fountains from a valued past, through neglect, to a practical return.",
+    "D) It compares fountains in several cities and ranks them by their decoration."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C.** A summary must follow the route of the text: past value → neglect → return. C does exactly that, in the right order."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A is wrong** — Wrong structure: there is no problem-then-solutions pattern; the reasons in paragraph 3 explain the restoration, they are not competing solutions.",
+    "**B is wrong** — Reversed and too extreme: the author never criticizes piped water.",
+    "**D is wrong** — Off-topic: no ranking or comparison of cities appears."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "Now a short literary excerpt. Remember: event + meaning."
+  },
+  {
+   "type": "p",
+   "text": "For years I was embarrassed by my father's car. It was older than I was, its blue paint faded to the colour of washed jeans, and it coughed each time he started it. I asked him to drop me at the corner, not at the school gate. One winter evening it broke down on the desert road, and we waited two hours for help. He did not complain once. Instead he told me how he had bought it with his first year's salary, and how he had driven my mother to the hospital in it the night I was born. The next morning, I asked him to drop me at the gate."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4 — literary main idea**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** The excerpt is mainly about the narrator:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) changing his feelings about his father's car after learning what it has meant to his family.",
+    "B) waiting two hours for help when the car broke down on the desert road.",
+    "C) learning that he should never judge anything by its appearance.",
+    "D) hiding his father's car from his school friends for many years and continuing to do so."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: A.** The excerpt moves from embarrassment (beginning) to a story about the car's history (middle) to a changed request (\"drop me at the gate\"). A includes the change and its cause."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**B is wrong** — Too narrow: the breakdown is the event that starts the change, not the whole story.",
+    "**C is wrong** — Too broad: a general moral (\"never … anything\") the text does not state.",
+    "**D is wrong** — Half-right: he did hide the car, but the last sentence shows he stopped. The end of the choice reverses the ending."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**The favourite detail.** A vivid fact or the most exciting event feels important, but it is still a detail. Ask: does every paragraph support it?",
+    "**The half-right ending.** The choice starts perfectly and changes one thing at the end (\"…and are now kept as museums\"). Read to the last word.",
+    "**The big moral.** Choices with *all, always, never, everyone, the history of* usually claim more than the passage does.",
+    "**The wrong level.** Answering a paragraph question with the passage's main idea, or a passage question with one paragraph's idea.",
+    "**Forgetting the turn.** Many passages present a common view and then disagree with it (\"It is easy to treat this as progress. I want to suggest…\"). The main idea is the author's view, not the view the author rejects.",
+    "**Missing the ending in fiction.** The meaning of a story is usually shown in the final paragraph; a choice that ignores the ending is too narrow."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Label each paragraph in about three words while you read; say the main idea in one sentence at the end.",
+    "Skip the whole-passage question, answer the detail questions, then come back to it.",
+    "Predict, then match: topic + what the author says about it.",
+    "Test each choice against the first AND the last paragraph.",
+    "Eliminate by naming the trap: too narrow, too broad, half-right, reversed."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "أشهر 3 فخاخ في الـ Main Idea",
+   "text": "Too narrow = تفصيلة واحدة من براجراف واحد. Too broad = كلام عام كبير عن الدنيا كلها مش عن القطعة. Half-right = أول الجملة صح وآخرها غلط، فاقرا الاختيار لحد آخر كلمة. الإجابة الصح هي اللي كل براجراف في القطعة يقدر يكون دليل عليها."
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Now try a full humanities passage (about 700 words) with 9 questions, most of them main-idea, paragraph-point and summary questions. It is **untimed**, but aim for about 10 minutes. Label each paragraph as you read and predict before you look at the choices."
+  },
+  {
+   "type": "test",
+   "title": "ACT Reading practice — Main idea and summary (Humanities)",
+   "timed": false,
+   "intro": "One passage, 9 questions, untimed. Label every paragraph in about three words, answer the paragraph questions first, and save the whole-passage question for last. Eliminate by naming the trap: too narrow, too broad, half-right or reversed.",
+   "sections": [
+    {
+     "name": "Passage 1",
+     "minutes": 10,
+     "questions": [
+      {
+       "p": "HUMANITIES: This passage is adapted from an essay about hand-painted shop signs.\n\n[1] Walk down almost any market street in an older city and look up. Above the doorways, between the satellite dishes and the air-conditioning units, you can still find a few signs that were painted by hand: the name of a pharmacy in tall blue letters, a tailor's scissors outlined in gold, a bakery's name curving around a painted loaf. Most passers-by never notice them. For decades these signs have been disappearing, replaced by printed plastic banners and glowing light boxes that are cheaper, faster to produce and almost identical from one shop to the next. It is easy to treat this change as a simple matter of progress. I want to suggest that something of value is being lost, and that a small number of painters are showing us what it is.\n\n[2] For most of the twentieth century, the sign painter was as ordinary a figure in the market street as the barber or the shoemaker. He worked from a narrow workshop or from the pavement itself, carrying brushes, a long stick to steady his hand and a few tins of paint. A shopkeeper did not order a sign from a catalogue; he described his business, and the painter proposed letters to suit it. A sweet shop might receive round, cheerful letters; a lawyer's office, tall and serious ones. The conversation between the two men was part of the product.\n\n[3] When the printing machines arrived, they did not compete on beauty. They competed on time and price. A banner that had once taken a painter three days could be printed in an hour, and the shopkeeper could choose it from a screen. Within one generation, most workshops had closed. Many painters found work painting walls or repairing cars; a few simply retired, and their skills went with them, unrecorded.\n\n[4] It would be wrong, however, to describe the old signs only with regret. Many were badly made, and some shopkeepers were glad to be rid of peeling paint that had to be redone every few years. The printed sign brought real advantages: it was bright, it lasted, and a small business with little money could afford one. Any honest account of the change has to admit that the shopkeepers themselves chose it, and often for good reasons.\n\n[5] What the printed sign could not reproduce was variety. Because most banners are made from the same handful of digital typefaces, a street of printed signs tends to look like every other street of printed signs. The hand-painted sign, by contrast, carried the habits of one painter's wrist: a slightly heavier stroke on the left side of each letter, a favourite curl at the end of a word. Historians of the city have begun to study these habits the way archaeologists study pottery, working out which painter worked in which neighbourhood, and when. Each surviving sign is a small record of who lived and traded there.\n\n[6] In the past ten years, a handful of young painters have begun to take commissions again. Some learned from the last of the older masters; others taught themselves from photographs of surviving signs. Their customers are not only cafés hoping to look old-fashioned. A pharmacist told one of these painters that he wanted a sign \"that looks like someone cared about it,\" and many of the new customers say much the same. The young painters charge more than the printers do, and they are slower, but they report more requests than they can accept.\n\n[7] None of this means that the printed banner will disappear, and it should not. The real question is not whether the street should return to the past but whether it should keep any trace of the hands that made it. A sign, after all, is the first sentence a shop speaks to the street. When that sentence is written by someone who has listened to the shopkeeper, it says something no machine has yet learned to say: that this place, and this business, are particular.",
+       "q": "The main idea of the passage is that hand-painted shop signs:",
+       "c": [
+        "are more beautiful than printed banners and should replace them on every street.",
+        "were replaced for understandable reasons, yet they carry an individual character and history that printed signs lack, which helps explain their small revival.",
+        "lost out to printing machines mainly because shopkeepers preferred the look of printed letters.",
+        "are now studied by historians who identify which painter worked in each neighbourhood."
+       ],
+       "a": 1,
+       "e": "B covers the whole essay: the decline (paragraphs 1–3), the fair admission that printed signs had real advantages (4), what was lost (5), the revival (6) and the conclusion (7). A is too extreme and reversed: paragraph 7 says the banner should not disappear. C is reversed: printers \"did not compete on beauty\" but on time and price. D is too narrow: it is one detail from paragraph 5.",
+       "s": "Main idea (whole passage)"
+      },
+      {
+       "p": "HUMANITIES: This passage is adapted from an essay about hand-painted shop signs.\n\n[1] Walk down almost any market street in an older city and look up. Above the doorways, between the satellite dishes and the air-conditioning units, you can still find a few signs that were painted by hand: the name of a pharmacy in tall blue letters, a tailor's scissors outlined in gold, a bakery's name curving around a painted loaf. Most passers-by never notice them. For decades these signs have been disappearing, replaced by printed plastic banners and glowing light boxes that are cheaper, faster to produce and almost identical from one shop to the next. It is easy to treat this change as a simple matter of progress. I want to suggest that something of value is being lost, and that a small number of painters are showing us what it is.\n\n[2] For most of the twentieth century, the sign painter was as ordinary a figure in the market street as the barber or the shoemaker. He worked from a narrow workshop or from the pavement itself, carrying brushes, a long stick to steady his hand and a few tins of paint. A shopkeeper did not order a sign from a catalogue; he described his business, and the painter proposed letters to suit it. A sweet shop might receive round, cheerful letters; a lawyer's office, tall and serious ones. The conversation between the two men was part of the product.\n\n[3] When the printing machines arrived, they did not compete on beauty. They competed on time and price. A banner that had once taken a painter three days could be printed in an hour, and the shopkeeper could choose it from a screen. Within one generation, most workshops had closed. Many painters found work painting walls or repairing cars; a few simply retired, and their skills went with them, unrecorded.\n\n[4] It would be wrong, however, to describe the old signs only with regret. Many were badly made, and some shopkeepers were glad to be rid of peeling paint that had to be redone every few years. The printed sign brought real advantages: it was bright, it lasted, and a small business with little money could afford one. Any honest account of the change has to admit that the shopkeepers themselves chose it, and often for good reasons.\n\n[5] What the printed sign could not reproduce was variety. Because most banners are made from the same handful of digital typefaces, a street of printed signs tends to look like every other street of printed signs. The hand-painted sign, by contrast, carried the habits of one painter's wrist: a slightly heavier stroke on the left side of each letter, a favourite curl at the end of a word. Historians of the city have begun to study these habits the way archaeologists study pottery, working out which painter worked in which neighbourhood, and when. Each surviving sign is a small record of who lived and traded there.\n\n[6] In the past ten years, a handful of young painters have begun to take commissions again. Some learned from the last of the older masters; others taught themselves from photographs of surviving signs. Their customers are not only cafés hoping to look old-fashioned. A pharmacist told one of these painters that he wanted a sign \"that looks like someone cared about it,\" and many of the new customers say much the same. The young painters charge more than the printers do, and they are slower, but they report more requests than they can accept.\n\n[7] None of this means that the printed banner will disappear, and it should not. The real question is not whether the street should return to the past but whether it should keep any trace of the hands that made it. A sign, after all, is the first sentence a shop speaks to the street. When that sentence is written by someone who has listened to the shopkeeper, it says something no machine has yet learned to say: that this place, and this business, are particular.",
+       "q": "The main point of paragraph 4 is that:",
+       "c": [
+        "most hand-painted signs were badly made and deserved to disappear.",
+        "the old sign painters retired because shopkeepers stopped paying them.",
+        "shopkeepers were persuaded by printing companies to buy signs they did not need.",
+        "the move to printed signs brought genuine benefits that shopkeepers valued."
+       ],
+       "a": 3,
+       "e": "Paragraph 4 balances the essay: printed signs were bright, lasting and affordable, and shopkeepers chose them \"often for good reasons.\" A is too extreme: \"many\" were badly made, not most, and the author never says they deserved to disappear. B is the wrong paragraph (painters' new jobs are in paragraph 3) and changes the cause. C is reversed: the shopkeepers \"themselves chose it.\"",
+       "s": "Main idea (paragraph)"
+      },
+      {
+       "p": "HUMANITIES: This passage is adapted from an essay about hand-painted shop signs.\n\n[1] Walk down almost any market street in an older city and look up. Above the doorways, between the satellite dishes and the air-conditioning units, you can still find a few signs that were painted by hand: the name of a pharmacy in tall blue letters, a tailor's scissors outlined in gold, a bakery's name curving around a painted loaf. Most passers-by never notice them. For decades these signs have been disappearing, replaced by printed plastic banners and glowing light boxes that are cheaper, faster to produce and almost identical from one shop to the next. It is easy to treat this change as a simple matter of progress. I want to suggest that something of value is being lost, and that a small number of painters are showing us what it is.\n\n[2] For most of the twentieth century, the sign painter was as ordinary a figure in the market street as the barber or the shoemaker. He worked from a narrow workshop or from the pavement itself, carrying brushes, a long stick to steady his hand and a few tins of paint. A shopkeeper did not order a sign from a catalogue; he described his business, and the painter proposed letters to suit it. A sweet shop might receive round, cheerful letters; a lawyer's office, tall and serious ones. The conversation between the two men was part of the product.\n\n[3] When the printing machines arrived, they did not compete on beauty. They competed on time and price. A banner that had once taken a painter three days could be printed in an hour, and the shopkeeper could choose it from a screen. Within one generation, most workshops had closed. Many painters found work painting walls or repairing cars; a few simply retired, and their skills went with them, unrecorded.\n\n[4] It would be wrong, however, to describe the old signs only with regret. Many were badly made, and some shopkeepers were glad to be rid of peeling paint that had to be redone every few years. The printed sign brought real advantages: it was bright, it lasted, and a small business with little money could afford one. Any honest account of the change has to admit that the shopkeepers themselves chose it, and often for good reasons.\n\n[5] What the printed sign could not reproduce was variety. Because most banners are made from the same handful of digital typefaces, a street of printed signs tends to look like every other street of printed signs. The hand-painted sign, by contrast, carried the habits of one painter's wrist: a slightly heavier stroke on the left side of each letter, a favourite curl at the end of a word. Historians of the city have begun to study these habits the way archaeologists study pottery, working out which painter worked in which neighbourhood, and when. Each surviving sign is a small record of who lived and traded there.\n\n[6] In the past ten years, a handful of young painters have begun to take commissions again. Some learned from the last of the older masters; others taught themselves from photographs of surviving signs. Their customers are not only cafés hoping to look old-fashioned. A pharmacist told one of these painters that he wanted a sign \"that looks like someone cared about it,\" and many of the new customers say much the same. The young painters charge more than the printers do, and they are slower, but they report more requests than they can accept.\n\n[7] None of this means that the printed banner will disappear, and it should not. The real question is not whether the street should return to the past but whether it should keep any trace of the hands that made it. A sign, after all, is the first sentence a shop speaks to the street. When that sentence is written by someone who has listened to the shopkeeper, it says something no machine has yet learned to say: that this place, and this business, are particular.",
+       "q": "Paragraph 5 mainly makes the point that hand-painted signs:",
+       "c": [
+        "show the personal style of the people who painted them, which also makes them useful historical records.",
+        "were usually painted in a small number of standard letter styles.",
+        "are being dug up and studied by archaeologists.",
+        "make every street in the city look exactly the same."
+       ],
+       "a": 0,
+       "e": "Paragraph 5 contrasts the sameness of printed typefaces with the \"habits of one painter's wrist,\" then says historians use those habits to date and place signs. A states both halves. B is reversed: it is printed banners that use \"the same handful\" of typefaces. C misreads the comparison: historians study signs the way archaeologists study pottery. D describes printed signs, not painted ones.",
+       "s": "Main idea (paragraph)"
+      },
+      {
+       "p": "HUMANITIES: This passage is adapted from an essay about hand-painted shop signs.\n\n[1] Walk down almost any market street in an older city and look up. Above the doorways, between the satellite dishes and the air-conditioning units, you can still find a few signs that were painted by hand: the name of a pharmacy in tall blue letters, a tailor's scissors outlined in gold, a bakery's name curving around a painted loaf. Most passers-by never notice them. For decades these signs have been disappearing, replaced by printed plastic banners and glowing light boxes that are cheaper, faster to produce and almost identical from one shop to the next. It is easy to treat this change as a simple matter of progress. I want to suggest that something of value is being lost, and that a small number of painters are showing us what it is.\n\n[2] For most of the twentieth century, the sign painter was as ordinary a figure in the market street as the barber or the shoemaker. He worked from a narrow workshop or from the pavement itself, carrying brushes, a long stick to steady his hand and a few tins of paint. A shopkeeper did not order a sign from a catalogue; he described his business, and the painter proposed letters to suit it. A sweet shop might receive round, cheerful letters; a lawyer's office, tall and serious ones. The conversation between the two men was part of the product.\n\n[3] When the printing machines arrived, they did not compete on beauty. They competed on time and price. A banner that had once taken a painter three days could be printed in an hour, and the shopkeeper could choose it from a screen. Within one generation, most workshops had closed. Many painters found work painting walls or repairing cars; a few simply retired, and their skills went with them, unrecorded.\n\n[4] It would be wrong, however, to describe the old signs only with regret. Many were badly made, and some shopkeepers were glad to be rid of peeling paint that had to be redone every few years. The printed sign brought real advantages: it was bright, it lasted, and a small business with little money could afford one. Any honest account of the change has to admit that the shopkeepers themselves chose it, and often for good reasons.\n\n[5] What the printed sign could not reproduce was variety. Because most banners are made from the same handful of digital typefaces, a street of printed signs tends to look like every other street of printed signs. The hand-painted sign, by contrast, carried the habits of one painter's wrist: a slightly heavier stroke on the left side of each letter, a favourite curl at the end of a word. Historians of the city have begun to study these habits the way archaeologists study pottery, working out which painter worked in which neighbourhood, and when. Each surviving sign is a small record of who lived and traded there.\n\n[6] In the past ten years, a handful of young painters have begun to take commissions again. Some learned from the last of the older masters; others taught themselves from photographs of surviving signs. Their customers are not only cafés hoping to look old-fashioned. A pharmacist told one of these painters that he wanted a sign \"that looks like someone cared about it,\" and many of the new customers say much the same. The young painters charge more than the printers do, and they are slower, but they report more requests than they can accept.\n\n[7] None of this means that the printed banner will disappear, and it should not. The real question is not whether the street should return to the past but whether it should keep any trace of the hands that made it. A sign, after all, is the first sentence a shop speaks to the street. When that sentence is written by someone who has listened to the shopkeeper, it says something no machine has yet learned to say: that this place, and this business, are particular.",
+       "q": "Which of the following best summarizes paragraphs 2 and 3?",
+       "c": [
+        "Sign painters were respected artists who refused to change when new machines arrived.",
+        "Shopkeepers stopped talking to sign painters because printed signs were more cheerful.",
+        "Sign painting was once an everyday trade built on conversation with the customer, but faster, cheaper printing replaced most of it within a generation.",
+        "Printed banners took three days to produce, so most shopkeepers kept their old painted signs."
+       ],
+       "a": 2,
+       "e": "Paragraph 2 = an ordinary trade where \"the conversation … was part of the product\"; paragraph 3 = printers won on time and price and most workshops closed \"within one generation.\" C joins both. A adds an invented refusal to change. B invents a reason (cheerful letters were a painted-sign feature). D reverses the numbers: the PAINTER needed three days; the banner took an hour.",
+       "s": "Summary"
+      },
+      {
+       "p": "HUMANITIES: This passage is adapted from an essay about hand-painted shop signs.\n\n[1] Walk down almost any market street in an older city and look up. Above the doorways, between the satellite dishes and the air-conditioning units, you can still find a few signs that were painted by hand: the name of a pharmacy in tall blue letters, a tailor's scissors outlined in gold, a bakery's name curving around a painted loaf. Most passers-by never notice them. For decades these signs have been disappearing, replaced by printed plastic banners and glowing light boxes that are cheaper, faster to produce and almost identical from one shop to the next. It is easy to treat this change as a simple matter of progress. I want to suggest that something of value is being lost, and that a small number of painters are showing us what it is.\n\n[2] For most of the twentieth century, the sign painter was as ordinary a figure in the market street as the barber or the shoemaker. He worked from a narrow workshop or from the pavement itself, carrying brushes, a long stick to steady his hand and a few tins of paint. A shopkeeper did not order a sign from a catalogue; he described his business, and the painter proposed letters to suit it. A sweet shop might receive round, cheerful letters; a lawyer's office, tall and serious ones. The conversation between the two men was part of the product.\n\n[3] When the printing machines arrived, they did not compete on beauty. They competed on time and price. A banner that had once taken a painter three days could be printed in an hour, and the shopkeeper could choose it from a screen. Within one generation, most workshops had closed. Many painters found work painting walls or repairing cars; a few simply retired, and their skills went with them, unrecorded.\n\n[4] It would be wrong, however, to describe the old signs only with regret. Many were badly made, and some shopkeepers were glad to be rid of peeling paint that had to be redone every few years. The printed sign brought real advantages: it was bright, it lasted, and a small business with little money could afford one. Any honest account of the change has to admit that the shopkeepers themselves chose it, and often for good reasons.\n\n[5] What the printed sign could not reproduce was variety. Because most banners are made from the same handful of digital typefaces, a street of printed signs tends to look like every other street of printed signs. The hand-painted sign, by contrast, carried the habits of one painter's wrist: a slightly heavier stroke on the left side of each letter, a favourite curl at the end of a word. Historians of the city have begun to study these habits the way archaeologists study pottery, working out which painter worked in which neighbourhood, and when. Each surviving sign is a small record of who lived and traded there.\n\n[6] In the past ten years, a handful of young painters have begun to take commissions again. Some learned from the last of the older masters; others taught themselves from photographs of surviving signs. Their customers are not only cafés hoping to look old-fashioned. A pharmacist told one of these painters that he wanted a sign \"that looks like someone cared about it,\" and many of the new customers say much the same. The young painters charge more than the printers do, and they are slower, but they report more requests than they can accept.\n\n[7] None of this means that the printed banner will disappear, and it should not. The real question is not whether the street should return to the past but whether it should keep any trace of the hands that made it. A sign, after all, is the first sentence a shop speaks to the street. When that sentence is written by someone who has listened to the shopkeeper, it says something no machine has yet learned to say: that this place, and this business, are particular.",
+       "q": "According to the passage, printing machines replaced most sign painters because the machines:",
+       "c": [
+        "produced signs much more quickly and cheaply.",
+        "produced signs with more varied and attractive letters.",
+        "allowed historians to keep better records of each shop.",
+        "were operated by the painters themselves."
+       ],
+       "a": 0,
+       "e": "Paragraph 3: \"They competed on time and price\" — an hour instead of three days. A paraphrases that. B is reversed (variety is what printed signs lack, paragraph 5). C and D are never stated.",
+       "s": "Detail"
+      },
+      {
+       "p": "HUMANITIES: This passage is adapted from an essay about hand-painted shop signs.\n\n[1] Walk down almost any market street in an older city and look up. Above the doorways, between the satellite dishes and the air-conditioning units, you can still find a few signs that were painted by hand: the name of a pharmacy in tall blue letters, a tailor's scissors outlined in gold, a bakery's name curving around a painted loaf. Most passers-by never notice them. For decades these signs have been disappearing, replaced by printed plastic banners and glowing light boxes that are cheaper, faster to produce and almost identical from one shop to the next. It is easy to treat this change as a simple matter of progress. I want to suggest that something of value is being lost, and that a small number of painters are showing us what it is.\n\n[2] For most of the twentieth century, the sign painter was as ordinary a figure in the market street as the barber or the shoemaker. He worked from a narrow workshop or from the pavement itself, carrying brushes, a long stick to steady his hand and a few tins of paint. A shopkeeper did not order a sign from a catalogue; he described his business, and the painter proposed letters to suit it. A sweet shop might receive round, cheerful letters; a lawyer's office, tall and serious ones. The conversation between the two men was part of the product.\n\n[3] When the printing machines arrived, they did not compete on beauty. They competed on time and price. A banner that had once taken a painter three days could be printed in an hour, and the shopkeeper could choose it from a screen. Within one generation, most workshops had closed. Many painters found work painting walls or repairing cars; a few simply retired, and their skills went with them, unrecorded.\n\n[4] It would be wrong, however, to describe the old signs only with regret. Many were badly made, and some shopkeepers were glad to be rid of peeling paint that had to be redone every few years. The printed sign brought real advantages: it was bright, it lasted, and a small business with little money could afford one. Any honest account of the change has to admit that the shopkeepers themselves chose it, and often for good reasons.\n\n[5] What the printed sign could not reproduce was variety. Because most banners are made from the same handful of digital typefaces, a street of printed signs tends to look like every other street of printed signs. The hand-painted sign, by contrast, carried the habits of one painter's wrist: a slightly heavier stroke on the left side of each letter, a favourite curl at the end of a word. Historians of the city have begun to study these habits the way archaeologists study pottery, working out which painter worked in which neighbourhood, and when. Each surviving sign is a small record of who lived and traded there.\n\n[6] In the past ten years, a handful of young painters have begun to take commissions again. Some learned from the last of the older masters; others taught themselves from photographs of surviving signs. Their customers are not only cafés hoping to look old-fashioned. A pharmacist told one of these painters that he wanted a sign \"that looks like someone cared about it,\" and many of the new customers say much the same. The young painters charge more than the printers do, and they are slower, but they report more requests than they can accept.\n\n[7] None of this means that the printed banner will disappear, and it should not. The real question is not whether the street should return to the past but whether it should keep any trace of the hands that made it. A sign, after all, is the first sentence a shop speaks to the street. When that sentence is written by someone who has listened to the shopkeeper, it says something no machine has yet learned to say: that this place, and this business, are particular.",
+       "q": "The main idea of paragraph 6 is that:",
+       "c": [
+        "young painters can only find work in cafés that want an old-fashioned look.",
+        "all of today's young sign painters were trained by older masters.",
+        "hand-painted signs now cost less than printed banners.",
+        "a few young painters are finding real demand for hand-painted signs, even though they cost more and take longer."
+       ],
+       "a": 3,
+       "e": "Paragraph 6: young painters take commissions, customers want signs that look cared for, and despite higher prices and slower work they have \"more requests than they can accept.\" A is reversed: customers are \"not only cafés.\" B is half-right at best: \"some\" learned from masters, others taught themselves. C is reversed: they \"charge more.\"",
+       "s": "Main idea (paragraph)"
+      },
+      {
+       "p": "HUMANITIES: This passage is adapted from an essay about hand-painted shop signs.\n\n[1] Walk down almost any market street in an older city and look up. Above the doorways, between the satellite dishes and the air-conditioning units, you can still find a few signs that were painted by hand: the name of a pharmacy in tall blue letters, a tailor's scissors outlined in gold, a bakery's name curving around a painted loaf. Most passers-by never notice them. For decades these signs have been disappearing, replaced by printed plastic banners and glowing light boxes that are cheaper, faster to produce and almost identical from one shop to the next. It is easy to treat this change as a simple matter of progress. I want to suggest that something of value is being lost, and that a small number of painters are showing us what it is.\n\n[2] For most of the twentieth century, the sign painter was as ordinary a figure in the market street as the barber or the shoemaker. He worked from a narrow workshop or from the pavement itself, carrying brushes, a long stick to steady his hand and a few tins of paint. A shopkeeper did not order a sign from a catalogue; he described his business, and the painter proposed letters to suit it. A sweet shop might receive round, cheerful letters; a lawyer's office, tall and serious ones. The conversation between the two men was part of the product.\n\n[3] When the printing machines arrived, they did not compete on beauty. They competed on time and price. A banner that had once taken a painter three days could be printed in an hour, and the shopkeeper could choose it from a screen. Within one generation, most workshops had closed. Many painters found work painting walls or repairing cars; a few simply retired, and their skills went with them, unrecorded.\n\n[4] It would be wrong, however, to describe the old signs only with regret. Many were badly made, and some shopkeepers were glad to be rid of peeling paint that had to be redone every few years. The printed sign brought real advantages: it was bright, it lasted, and a small business with little money could afford one. Any honest account of the change has to admit that the shopkeepers themselves chose it, and often for good reasons.\n\n[5] What the printed sign could not reproduce was variety. Because most banners are made from the same handful of digital typefaces, a street of printed signs tends to look like every other street of printed signs. The hand-painted sign, by contrast, carried the habits of one painter's wrist: a slightly heavier stroke on the left side of each letter, a favourite curl at the end of a word. Historians of the city have begun to study these habits the way archaeologists study pottery, working out which painter worked in which neighbourhood, and when. Each surviving sign is a small record of who lived and traded there.\n\n[6] In the past ten years, a handful of young painters have begun to take commissions again. Some learned from the last of the older masters; others taught themselves from photographs of surviving signs. Their customers are not only cafés hoping to look old-fashioned. A pharmacist told one of these painters that he wanted a sign \"that looks like someone cared about it,\" and many of the new customers say much the same. The young painters charge more than the printers do, and they are slower, but they report more requests than they can accept.\n\n[7] None of this means that the printed banner will disappear, and it should not. The real question is not whether the street should return to the past but whether it should keep any trace of the hands that made it. A sign, after all, is the first sentence a shop speaks to the street. When that sentence is written by someone who has listened to the shopkeeper, it says something no machine has yet learned to say: that this place, and this business, are particular.",
+       "q": "The pharmacist's comment in paragraph 6 most strongly suggests that he believes a hand-painted sign:",
+       "c": [
+        "will last longer than any printed banner.",
+        "will attract the same customers that cafés attract.",
+        "can tell people that the business behind it takes care in what it does.",
+        "is the only way to make a pharmacy look modern."
+       ],
+       "a": 2,
+       "e": "He wants a sign \"that looks like someone cared about it\": one small step is that the sign communicates care to the people who see it. A is reversed (paragraph 4 says printed signs last). B and D go beyond the text; D is also opposite in spirit (he wants care, not modernity).",
+       "s": "Inference"
+      },
+      {
+       "p": "HUMANITIES: This passage is adapted from an essay about hand-painted shop signs.\n\n[1] Walk down almost any market street in an older city and look up. Above the doorways, between the satellite dishes and the air-conditioning units, you can still find a few signs that were painted by hand: the name of a pharmacy in tall blue letters, a tailor's scissors outlined in gold, a bakery's name curving around a painted loaf. Most passers-by never notice them. For decades these signs have been disappearing, replaced by printed plastic banners and glowing light boxes that are cheaper, faster to produce and almost identical from one shop to the next. It is easy to treat this change as a simple matter of progress. I want to suggest that something of value is being lost, and that a small number of painters are showing us what it is.\n\n[2] For most of the twentieth century, the sign painter was as ordinary a figure in the market street as the barber or the shoemaker. He worked from a narrow workshop or from the pavement itself, carrying brushes, a long stick to steady his hand and a few tins of paint. A shopkeeper did not order a sign from a catalogue; he described his business, and the painter proposed letters to suit it. A sweet shop might receive round, cheerful letters; a lawyer's office, tall and serious ones. The conversation between the two men was part of the product.\n\n[3] When the printing machines arrived, they did not compete on beauty. They competed on time and price. A banner that had once taken a painter three days could be printed in an hour, and the shopkeeper could choose it from a screen. Within one generation, most workshops had closed. Many painters found work painting walls or repairing cars; a few simply retired, and their skills went with them, unrecorded.\n\n[4] It would be wrong, however, to describe the old signs only with regret. Many were badly made, and some shopkeepers were glad to be rid of peeling paint that had to be redone every few years. The printed sign brought real advantages: it was bright, it lasted, and a small business with little money could afford one. Any honest account of the change has to admit that the shopkeepers themselves chose it, and often for good reasons.\n\n[5] What the printed sign could not reproduce was variety. Because most banners are made from the same handful of digital typefaces, a street of printed signs tends to look like every other street of printed signs. The hand-painted sign, by contrast, carried the habits of one painter's wrist: a slightly heavier stroke on the left side of each letter, a favourite curl at the end of a word. Historians of the city have begun to study these habits the way archaeologists study pottery, working out which painter worked in which neighbourhood, and when. Each surviving sign is a small record of who lived and traded there.\n\n[6] In the past ten years, a handful of young painters have begun to take commissions again. Some learned from the last of the older masters; others taught themselves from photographs of surviving signs. Their customers are not only cafés hoping to look old-fashioned. A pharmacist told one of these painters that he wanted a sign \"that looks like someone cared about it,\" and many of the new customers say much the same. The young painters charge more than the printers do, and they are slower, but they report more requests than they can accept.\n\n[7] None of this means that the printed banner will disappear, and it should not. The real question is not whether the street should return to the past but whether it should keep any trace of the hands that made it. A sign, after all, is the first sentence a shop speaks to the street. When that sentence is written by someone who has listened to the shopkeeper, it says something no machine has yet learned to say: that this place, and this business, are particular.",
+       "q": "In the last paragraph, the author's main point is that:",
+       "c": [
+        "cities should remove printed banners and return to the signs of the past.",
+        "streets should keep some trace of individual, human-made signs alongside printed ones.",
+        "machines will soon learn to produce signs as personal as hand-painted ones.",
+        "shopkeepers should write their own signs instead of hiring painters."
+       ],
+       "a": 1,
+       "e": "The author says the printed banner \"should not\" disappear; the question is whether the street keeps \"any trace of the hands that made it.\" B states exactly that. A is reversed (\"not whether the street should return to the past\"). C is unsupported: \"no machine has YET learned\" does not predict that one soon will. D twists the \"first sentence\" metaphor.",
+       "s": "Main idea (paragraph)"
+      },
+      {
+       "p": "HUMANITIES: This passage is adapted from an essay about hand-painted shop signs.\n\n[1] Walk down almost any market street in an older city and look up. Above the doorways, between the satellite dishes and the air-conditioning units, you can still find a few signs that were painted by hand: the name of a pharmacy in tall blue letters, a tailor's scissors outlined in gold, a bakery's name curving around a painted loaf. Most passers-by never notice them. For decades these signs have been disappearing, replaced by printed plastic banners and glowing light boxes that are cheaper, faster to produce and almost identical from one shop to the next. It is easy to treat this change as a simple matter of progress. I want to suggest that something of value is being lost, and that a small number of painters are showing us what it is.\n\n[2] For most of the twentieth century, the sign painter was as ordinary a figure in the market street as the barber or the shoemaker. He worked from a narrow workshop or from the pavement itself, carrying brushes, a long stick to steady his hand and a few tins of paint. A shopkeeper did not order a sign from a catalogue; he described his business, and the painter proposed letters to suit it. A sweet shop might receive round, cheerful letters; a lawyer's office, tall and serious ones. The conversation between the two men was part of the product.\n\n[3] When the printing machines arrived, they did not compete on beauty. They competed on time and price. A banner that had once taken a painter three days could be printed in an hour, and the shopkeeper could choose it from a screen. Within one generation, most workshops had closed. Many painters found work painting walls or repairing cars; a few simply retired, and their skills went with them, unrecorded.\n\n[4] It would be wrong, however, to describe the old signs only with regret. Many were badly made, and some shopkeepers were glad to be rid of peeling paint that had to be redone every few years. The printed sign brought real advantages: it was bright, it lasted, and a small business with little money could afford one. Any honest account of the change has to admit that the shopkeepers themselves chose it, and often for good reasons.\n\n[5] What the printed sign could not reproduce was variety. Because most banners are made from the same handful of digital typefaces, a street of printed signs tends to look like every other street of printed signs. The hand-painted sign, by contrast, carried the habits of one painter's wrist: a slightly heavier stroke on the left side of each letter, a favourite curl at the end of a word. Historians of the city have begun to study these habits the way archaeologists study pottery, working out which painter worked in which neighbourhood, and when. Each surviving sign is a small record of who lived and traded there.\n\n[6] In the past ten years, a handful of young painters have begun to take commissions again. Some learned from the last of the older masters; others taught themselves from photographs of surviving signs. Their customers are not only cafés hoping to look old-fashioned. A pharmacist told one of these painters that he wanted a sign \"that looks like someone cared about it,\" and many of the new customers say much the same. The young painters charge more than the printers do, and they are slower, but they report more requests than they can accept.\n\n[7] None of this means that the printed banner will disappear, and it should not. The real question is not whether the street should return to the past but whether it should keep any trace of the hands that made it. A sign, after all, is the first sentence a shop speaks to the street. When that sentence is written by someone who has listened to the shopkeeper, it says something no machine has yet learned to say: that this place, and this business, are particular.",
+       "q": "In paragraph 1, the author's main point is that:",
+       "c": [
+        "the disappearance of hand-painted signs may look like simple progress, but it involves a real loss.",
+        "most people in older cities walk without looking at the buildings around them.",
+        "satellite dishes and air-conditioning units have damaged hand-painted signs.",
+        "printed plastic banners are more expensive than hand-painted signs."
+       ],
+       "a": 0,
+       "e": "The paragraph sets up the essay's claim: \"It is easy to treat this change as a simple matter of progress. I want to suggest that something of value is being lost.\" A states it. B and C are too narrow (scene-setting details), and C is not even stated. D is reversed: printed signs are \"cheaper.\"",
+       "s": "Main idea (paragraph)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Key Ideas and Details = 44–52% of scored ACT Reading questions; main-idea questions are part of it.",
+    "Main idea = topic + what the author says about it, supported by every paragraph.",
+    "Predict in one sentence before reading the choices, then match.",
+    "Eliminate too narrow, too broad, half-right and reversed choices; read every choice to the last word.",
+    "For a paragraph question stay inside that paragraph; in fiction include the ending and what it means."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,710 @@
+{
+ "slug": "act-comparatives-superlatives",
+ "nav": "Comparisons",
+ "title": "Comparatives and Superlatives",
+ "kicker": "American Diploma · ACT · English: Usage",
+ "summary": "Two things or three? Comparative vs superlative, no double forms, irregular words, fewer/less, between/among, as … as and logical comparisons — taught for the ACT with worked items and a 10-question quiz.",
+ "blocks": [
+  {
+   "type": "p",
+   "text": "Comparison errors are small — one word, sometimes one ending — but they appear in many ACT essays because writers compare things all the time: two products, three cities, last year and this year. This lesson covers every comparison rule the test uses: comparative vs superlative, double comparisons, irregular forms, fewer vs less, between vs among, *as … as*, and the subtle ones — comparing like with like and *than any other*."
+  },
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Comparison questions are usage questions in **Conventions of Standard English**, which is **38–43%** of the 40 scored ACT English questions (together with punctuation and sentence structure). The format is the usual one: an underlined portion, four choices, usually **NO CHANGE** first. A vertical scan of the choices tells you the type: larger / largest / more large / more larger, fewer / less, between / among, as / than."
+  },
+  {
+   "type": "p",
+   "text": "Your method: **count the things being compared** and **check what kind of noun follows**. Most comparison items are solved by those two checks."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 1: Two things → comparative; three or more → superlative"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Comparing…",
+    "Form",
+    "✓ Example"
+   ],
+   "rows": [
+    [
+     "two things",
+     "**-er** or **more** (comparative)",
+     "Of the two routes, the coastal road is **shorter**."
+    ],
+    [
+     "three or more",
+     "**-est** or **most** (superlative)",
+     "It is the **shortest** of the three routes."
+    ],
+    [
+     "two things, with *the*",
+     "**the + comparative**",
+     "Karim is **the taller** of the twins."
+    ],
+    [
+     "one thing vs all the rest",
+     "superlative",
+     "Aswan has the **hottest** summer of any city we visited."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Which ending?** One-syllable adjectives take -er/-est (tall, taller, tallest). Two-syllable adjectives ending in -y change y to i (busy, busier, busiest; easy, easier). Most other adjectives of two or more syllables use more/most (more careful, most expensive). Adverbs ending in -ly use more/most (more quickly, most carefully)."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "✗ Wrong",
+    "✓ Right",
+    "Why"
+   ],
+   "rows": [
+    [
+     "Of the two candidates, Mona is the most qualified.",
+     "…Mona is the **more** qualified.",
+     "only two candidates"
+    ],
+    [
+     "Of all the planets, Jupiter is the larger.",
+     "…Jupiter is the **largest**.",
+     "many planets"
+    ],
+    [
+     "Between tea and coffee, I like tea best.",
+     "…I like tea **better**.",
+     "only two drinks"
+    ],
+    [
+     "This exam was difficulter than the last one.",
+     "…**more difficult** than…",
+     "long adjective → more"
+    ],
+    [
+     "She finished quicklier than her brother.",
+     "…**more quickly** than…",
+     "-ly adverb → more"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Rule 2: Never double a comparison"
+  },
+  {
+   "type": "p",
+   "text": "Use **either** the ending **or** the word more/most — never both, and never more/most with an irregular form."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ more better → ✓ better",
+    "✗ most fastest → ✓ fastest",
+    "✗ more easier → ✓ easier",
+    "✗ more worse → ✓ worse",
+    "✗ the most best → ✓ the best",
+    "**Absolute adjectives** (unique, perfect, complete, equal) describe something that cannot have degrees in careful writing. ✗ The design is very unique / more unique. ✓ The design is **unique**. If a choice adds *more* or *very* to such a word and another choice is plain, the plain one is safer on the ACT."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Rule 3: Learn the irregular forms"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Base",
+    "Comparative (two)",
+    "Superlative (three+)",
+    "Notes"
+   ],
+   "rows": [
+    [
+     "good (adj.) / well (adv.)",
+     "better",
+     "best",
+     "✗ gooder, ✗ more good, ✗ more better"
+    ],
+    [
+     "bad (adj.) / badly (adv.)",
+     "worse",
+     "worst",
+     "✗ badder, ✗ worser, ✗ more worse"
+    ],
+    [
+     "many (countable) / much (uncountable)",
+     "more",
+     "most",
+     "many books · much water"
+    ],
+    [
+     "little (amount)",
+     "less",
+     "least",
+     "less time, the least effort"
+    ],
+    [
+     "far — physical distance",
+     "farther",
+     "farthest",
+     "We walked **farther** than planned."
+    ],
+    [
+     "far — degree, extra, figurative",
+     "further",
+     "furthest",
+     "**further** research, **further** questions"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**farther vs further — the memory trick:** far**ther** contains *far*, so use it for real **distance** you could measure. **Further** means *more / additional / to a greater degree*: \"After **further** discussion, the plan was approved.\" ✗ \"After farther discussion.\" When the sentence is about distance, the ACT treats *farther* as the safe answer."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "اتنين ولا أكتر؟",
+   "text": "عد الحاجات اللي بتتقارن. لو اتنين: er أو more (better, larger). لو تلاتة أو أكتر: est أو most (best, largest). وماتجمعش الاتنين أبدًا: more better غلط. وخلي بالك من الشاذ: good–better–best و bad–worse–worst."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 4: fewer vs less, many vs much, number vs amount"
+  },
+  {
+   "type": "p",
+   "text": "Ask: **can I count it?** If you can put a number in front of the noun (three cars, ten mistakes), it is countable. If not (water, traffic, time, information), it is uncountable."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Countable nouns (plural)",
+    "Uncountable nouns"
+   ],
+   "rows": [
+    [
+     "**fewer** cars, **fewer** mistakes",
+     "**less** traffic, **less** water"
+    ],
+    [
+     "**many** students",
+     "**much** homework"
+    ],
+    [
+     "a large **number** of visitors",
+     "a large **amount** of rain"
+    ],
+    [
+     "**fewer** than twenty people",
+     "**less** than twenty litres (one amount — see the note below)"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ The new road has less accidents. → ✓ The new road has **fewer** accidents.",
+    "✗ We had fewer rain this year. → ✓ We had **less** rain this year.",
+    "✗ a large amount of tourists → ✓ a large **number** of tourists",
+    "**Subtle case:** numbers that describe a single amount of time, money, distance or weight take *less*: ✓ The trip took **less than two hours**. ✓ It costs **less than fifty pounds**. You are thinking of one amount of time or money, not separate hours or pounds.",
+    "**Quick check:** if you could say *fewer* + a plural noun you can count one by one, do it: fewer items, fewer calories, fewer errors."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Rule 5: between vs among"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**between** = two people or things: ✓ The prize was shared **between** the two finalists. ✓ **between** you and me",
+    "**among** = three or more, as a group: ✓ The work was divided **among** the five volunteers. ✓ a favourite **among** students",
+    "✗ The tension between the members of the large committee grew. → ✓ **among** the members (a group of many)",
+    "✗ Choose between the four options. → ✓ Choose **among** the four options. (ACT rule: two → between, three or more → among.)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Rule 6: as … as, so … that, and the …, the …"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Structure",
+    "✓ Right",
+    "✗ Wrong"
+   ],
+   "rows": [
+    [
+     "as + adjective + **as** (equal)",
+     "The new phone is **as** light **as** the old one.",
+     "as light than the old one"
+    ],
+    [
+     "not as/so … as (not equal)",
+     "Cycling is **not as** fast **as** driving.",
+     "not as fast than driving"
+    ],
+    [
+     "comparative + **than**",
+     "faster **than** the bus",
+     "faster then the bus / faster as the bus"
+    ],
+    [
+     "**the** + comparative, **the** + comparative",
+     "**The more** you read, **the better** you write.",
+     "The more you read, better you write."
+    ],
+    [
+     "so + adjective + **that**",
+     "The road was **so** narrow **that** buses could not pass.",
+     "so narrow as buses could not pass"
+    ],
+    [
+     "**as many** (countable) / **as much** (uncountable)",
+     "as many tickets as · as much effort as",
+     "as much tickets as"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Do not mix the two shapes.** *as … as* is for equal things; *-er/more … than* is for unequal things. A choice like \"as large or larger than\" is incomplete; the full form is \"as large **as** or larger **than**\" — the ACT will usually offer a simpler correct choice instead."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 7: Compare like with like"
+  },
+  {
+   "type": "p",
+   "text": "A comparison must be **logical**: you can compare a population with a population, not a population with a city. This is the hardest comparison item on the ACT because the wrong version sounds perfectly natural."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "✗ Illogical",
+    "✓ Logical",
+    "What is compared"
+   ],
+   "rows": [
+    [
+     "Cairo's population is larger than Alexandria.",
+     "Cairo's population is larger than **Alexandria's** / than **that of** Alexandria.",
+     "population vs population"
+    ],
+    [
+     "The prices at the new shop are lower than the old shop.",
+     "…lower than **those at** the old shop.",
+     "prices vs prices (*those* = plural)"
+    ],
+    [
+     "Her essay was longer than her classmates.",
+     "Her essay was longer than **her classmates' essays** / **those of** her classmates.",
+     "essay vs essays"
+    ],
+    [
+     "Like other students, my grades improved.",
+     "Like other students, **I** improved my grades.",
+     "students vs a person"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Use *that of* for a singular noun and *those of* for a plural noun.** The climate of Aswan is drier than **that of** Cairo (that = the climate). The streets of Zamalek are quieter than **those of** downtown (those = the streets)."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 8: than any other"
+  },
+  {
+   "type": "p",
+   "text": "When you compare one member of a group with the rest of the group, add **other** or **else**, or the thing is compared with itself."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ The Nile is longer than any river in Africa. (The Nile is a river in Africa, so it would be longer than itself.) → ✓ longer than **any other** river in Africa.",
+    "✗ Ahmed scored higher than anyone in his class. → ✓ higher than **anyone else** in his class.",
+    "✓ The Nile is longer than **any** river in Europe. (No *other* needed: the Nile is not in Europe.)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "قارن حاجة بحاجة من نفس النوع",
+   "text": "ماينفعش تقارن population بمدينة. قول Cairo's population is larger than that of Alexandria. استخدم that of للمفرد و those of للجمع. ولو بتقارن حاجة بباقي مجموعتها قول any other. وكمان: fewer مع الحاجات اللي بتتعد (fewer cars) و less مع اللي مابتتعدش (less water)، و between لاتنين و among لتلاتة أو أكتر."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "Each example is a sentence from an ACT-style essay. The underlined portion is shown in **bold**."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — two vs three.** \"Our team tested three types of solar panel, and the thin black model produced the **more electricity**.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) most electricity",
+    "C) mostest electricity",
+    "D) more electricity than"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**B is correct.** Three panels are compared, so the superlative **most** is needed.",
+    "**A** is the comparative, used only for two. **Trap:** the comparative sounds acceptable because the sentence does not repeat the number three.",
+    "**C** is not an English word.",
+    "**D** begins a comparison (*than*) but never finishes it."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — fewer vs less.** \"Since the city added bus lanes, commuters have reported **less delays** on their way to work.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) fewer delays",
+    "C) lesser delays",
+    "D) a smaller amount of delays"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**B is correct.** *Delays* can be counted (one delay, two delays), so use **fewer**.",
+    "**A** uses *less*, which is for uncountable nouns (less traffic).",
+    "**C** *lesser* means *smaller in importance* (a lesser problem), not a smaller number.",
+    "**D** *amount* is also for uncountable nouns; it should be *number*, and the phrase is wordy anyway."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — illogical comparison.** \"Researchers found that the memory of older elephants is more reliable than **younger elephants**.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) younger elephants are",
+    "C) that of younger elephants",
+    "D) those of younger elephants"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**C is correct.** The sentence compares *the memory* of older elephants with *the memory* of younger ones. *That of* (singular, = the memory of) keeps the comparison logical.",
+    "**A** compares a memory with elephants. **Trap:** illogical comparison; it sounds natural.",
+    "**B** still compares a memory with elephants and adds a verb.",
+    "**D** uses the plural *those*, but *memory* is singular. **Trap:** right idea, wrong number."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4 — than any other.** \"In its first year, the town's new library attracted more visitors than **any project** the council had ever built.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) any other project",
+    "C) all projects",
+    "D) any projects"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**B is correct.** The library is itself one of the council's projects, so it must be compared with **any other** project.",
+    "**A** compares the library with itself. **Trap:** missing *other*.",
+    "**C** has the same logic problem (*all projects* includes the library).",
+    "**D** *any* + plural is awkward here and keeps the logic error."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 5 — as … as.** \"My grandmother insists that the new bakery's bread is not as soft **than** the bread she bought as a child.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) then",
+    "C) as",
+    "D) like"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**C is correct.** The structure is *not as* + adjective + **as**.",
+    "**A** mixes the *as … as* shape with the *-er than* shape.",
+    "**B** *then* is a time word, not a comparison word.",
+    "**D** *like* cannot complete the *as … as* structure."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**Superlative for two:** \"the best of the two\", \"the most qualified of the two\" → better, more qualified.",
+    "**Double comparison:** more better, most fastest, more worse.",
+    "**Countable/uncountable:** less mistakes, an amount of people → fewer mistakes, a number of people.",
+    "**between for a group:** between the five members → among.",
+    "**Mixed shapes:** as … than, so … as → as … as, so … that.",
+    "**Illogical comparison:** Cairo's population vs Alexandria → that of Alexandria / Alexandria's.",
+    "**Missing *other*:** taller than any student in the class → any other student.",
+    "**farther/further:** farther = measurable distance; further = more, additional."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Count the things compared: two → -er/more; three or more → -est/most.",
+    "Eliminate every double form (more + -er, most + -est) immediately.",
+    "fewer/less, many/much, number/amount? Ask: can I count the noun?",
+    "between/among? Two → between; three or more → among.",
+    "See *than* or *as*? Check the shape (as … as / -er … than) and then check that the two things compared are the same kind of thing.",
+    "Comparing one member with its own group? Look for *other* or *else*."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Two short ACT-style essays with 5 questions each. The numbers in brackets match the question numbers. Every question tests comparisons."
+  },
+  {
+   "type": "test",
+   "title": "Comparatives and Superlatives — ACT-style practice",
+   "timed": false,
+   "intro": "Two ACT-style essays, 10 questions. Choose the best version of each underlined portion; NO CHANGE keeps the original. Explanations appear after you answer.",
+   "sections": [
+    {
+     "name": "Passages I–II",
+     "minutes": 8,
+     "questions": [
+      {
+       "p": "Two Bicycles\n\nLast summer I finally saved enough money to buy my first bicycle. The shop near our building had only two models in my price range, so I rode each one around the car park twice. The red one was lighter, but the blue one had __more better__ [1] brakes.\n\nThe salesman, a retired cyclist named Fathy, told me that the blue bike was the __strongest__ [2] of the two. He also pointed out that it would need __less__ [3] repairs, since its chain was sealed against the dust of Cairo's streets.\n\nI chose the blue bike, and now I ride to school every morning, a trip of about four kilometres. On the first day I took a wrong turn and rode much __farther__ [4] than I needed to, but the next morning I found a shortcut along the canal. My cousin, who takes the bus, likes to tease me that a bicycle is not as fast __than__ [5] a bus. I don't mind. The ride is the best part of my day.",
+       "q": "[1] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "better",
+        "more good",
+        "best"
+       ],
+       "a": 1,
+       "e": "*Better* is already the comparative of *good*; adding *more* (A) is a double comparison. C is not standard; D is the superlative, but only two bikes are compared.",
+       "s": "Double comparison / irregular forms"
+      },
+      {
+       "p": "Two Bicycles\n\nLast summer I finally saved enough money to buy my first bicycle. The shop near our building had only two models in my price range, so I rode each one around the car park twice. The red one was lighter, but the blue one had __more better__ [1] brakes.\n\nThe salesman, a retired cyclist named Fathy, told me that the blue bike was the __strongest__ [2] of the two. He also pointed out that it would need __less__ [3] repairs, since its chain was sealed against the dust of Cairo's streets.\n\nI chose the blue bike, and now I ride to school every morning, a trip of about four kilometres. On the first day I took a wrong turn and rode much __farther__ [4] than I needed to, but the next morning I found a shortcut along the canal. My cousin, who takes the bus, likes to tease me that a bicycle is not as fast __than__ [5] a bus. I don't mind. The ride is the best part of my day.",
+       "q": "[2] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "most strong",
+        "strongest one",
+        "stronger"
+       ],
+       "a": 3,
+       "e": "\"Of the two\" means only two bikes are compared, so the comparative **stronger** is needed. A, B and C are all superlatives (for three or more), and B also uses *most* with a one-syllable adjective.",
+       "s": "Comparative vs superlative"
+      },
+      {
+       "p": "Two Bicycles\n\nLast summer I finally saved enough money to buy my first bicycle. The shop near our building had only two models in my price range, so I rode each one around the car park twice. The red one was lighter, but the blue one had __more better__ [1] brakes.\n\nThe salesman, a retired cyclist named Fathy, told me that the blue bike was the __strongest__ [2] of the two. He also pointed out that it would need __less__ [3] repairs, since its chain was sealed against the dust of Cairo's streets.\n\nI chose the blue bike, and now I ride to school every morning, a trip of about four kilometres. On the first day I took a wrong turn and rode much __farther__ [4] than I needed to, but the next morning I found a shortcut along the canal. My cousin, who takes the bus, likes to tease me that a bicycle is not as fast __than__ [5] a bus. I don't mind. The ride is the best part of my day.",
+       "q": "[3] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "lesser",
+        "fewer",
+        "a smaller amount of"
+       ],
+       "a": 2,
+       "e": "*Repairs* is a countable plural noun, so it takes **fewer**. *Less* (A) is for uncountable nouns; *lesser* (B) means less important; *amount* (D) is also for uncountable nouns.",
+       "s": "fewer vs less"
+      },
+      {
+       "p": "Two Bicycles\n\nLast summer I finally saved enough money to buy my first bicycle. The shop near our building had only two models in my price range, so I rode each one around the car park twice. The red one was lighter, but the blue one had __more better__ [1] brakes.\n\nThe salesman, a retired cyclist named Fathy, told me that the blue bike was the __strongest__ [2] of the two. He also pointed out that it would need __less__ [3] repairs, since its chain was sealed against the dust of Cairo's streets.\n\nI chose the blue bike, and now I ride to school every morning, a trip of about four kilometres. On the first day I took a wrong turn and rode much __farther__ [4] than I needed to, but the next morning I found a shortcut along the canal. My cousin, who takes the bus, likes to tease me that a bicycle is not as fast __than__ [5] a bus. I don't mind. The ride is the best part of my day.",
+       "q": "[4] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "more far",
+        "farthest",
+        "the farther"
+       ],
+       "a": 0,
+       "e": "The sentence is about real, measurable distance (kilometres), and *than* shows a comparison of two distances, so the comparative **farther** is correct. B is a non-standard form; C is a superlative used with *than*; D adds an article that does not fit before *than*.",
+       "s": "Irregular forms (farther)"
+      },
+      {
+       "p": "Two Bicycles\n\nLast summer I finally saved enough money to buy my first bicycle. The shop near our building had only two models in my price range, so I rode each one around the car park twice. The red one was lighter, but the blue one had __more better__ [1] brakes.\n\nThe salesman, a retired cyclist named Fathy, told me that the blue bike was the __strongest__ [2] of the two. He also pointed out that it would need __less__ [3] repairs, since its chain was sealed against the dust of Cairo's streets.\n\nI chose the blue bike, and now I ride to school every morning, a trip of about four kilometres. On the first day I took a wrong turn and rode much __farther__ [4] than I needed to, but the next morning I found a shortcut along the canal. My cousin, who takes the bus, likes to tease me that a bicycle is not as fast __than__ [5] a bus. I don't mind. The ride is the best part of my day.",
+       "q": "[5] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "as",
+        "then",
+        "like"
+       ],
+       "a": 1,
+       "e": "The structure is *not as* + adjective + **as**. A mixes *as … as* with *-er than*; C is a time word; D cannot complete the *as … as* structure.",
+       "s": "as … as"
+      },
+      {
+       "p": "Our Snack Survey\n\nFor a science project, our class asked 120 students in our school which of three snacks they liked best: dates, popcorn or fruit salad. We expected one snack to win easily, but the votes were divided __between__ [6] the three snacks more evenly than anyone had predicted.\n\nPopcorn received the __most__ [7] votes, with fruit salad close behind. Students who chose dates said that they ate them more often than __any snack__ [8], usually with breakfast. We also compared prices in the school shop and found that the price of fruit salad was higher than __popcorn__ [9].\n\nOur teacher told us that a survey becomes more useful as it grows. Indeed, the more students we interviewed, __more interesting__ [10] the results became. Next term we plan to repeat the survey with every class in the school.",
+       "q": "[6] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "in between",
+        "among",
+        "within between"
+       ],
+       "a": 2,
+       "e": "Three snacks are involved, so use **among** (three or more). *Between* (A, B) is for two; D is not standard English.",
+       "s": "between vs among"
+      },
+      {
+       "p": "Our Snack Survey\n\nFor a science project, our class asked 120 students in our school which of three snacks they liked best: dates, popcorn or fruit salad. We expected one snack to win easily, but the votes were divided __between__ [6] the three snacks more evenly than anyone had predicted.\n\nPopcorn received the __most__ [7] votes, with fruit salad close behind. Students who chose dates said that they ate them more often than __any snack__ [8], usually with breakfast. We also compared prices in the school shop and found that the price of fruit salad was higher than __popcorn__ [9].\n\nOur teacher told us that a survey becomes more useful as it grows. Indeed, the more students we interviewed, __more interesting__ [10] the results became. Next term we plan to repeat the survey with every class in the school.",
+       "q": "[7] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "more",
+        "mostest",
+        "more of the"
+       ],
+       "a": 0,
+       "e": "Three snacks are compared, so the superlative **most** is correct. B is the comparative for two; C is not a word; D is not standard and still comparative.",
+       "s": "Comparative vs superlative"
+      },
+      {
+       "p": "Our Snack Survey\n\nFor a science project, our class asked 120 students in our school which of three snacks they liked best: dates, popcorn or fruit salad. We expected one snack to win easily, but the votes were divided __between__ [6] the three snacks more evenly than anyone had predicted.\n\nPopcorn received the __most__ [7] votes, with fruit salad close behind. Students who chose dates said that they ate them more often than __any snack__ [8], usually with breakfast. We also compared prices in the school shop and found that the price of fruit salad was higher than __popcorn__ [9].\n\nOur teacher told us that a survey becomes more useful as it grows. Indeed, the more students we interviewed, __more interesting__ [10] the results became. Next term we plan to repeat the survey with every class in the school.",
+       "q": "[8] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "any other snack",
+        "any snacks",
+        "all snack"
+       ],
+       "a": 1,
+       "e": "Dates are one of the snacks, so they must be compared with **any other snack**; otherwise dates are compared with themselves. C and D keep the logic problem and are awkward.",
+       "s": "Logical comparison (any other)"
+      },
+      {
+       "p": "Our Snack Survey\n\nFor a science project, our class asked 120 students in our school which of three snacks they liked best: dates, popcorn or fruit salad. We expected one snack to win easily, but the votes were divided __between__ [6] the three snacks more evenly than anyone had predicted.\n\nPopcorn received the __most__ [7] votes, with fruit salad close behind. Students who chose dates said that they ate them more often than __any snack__ [8], usually with breakfast. We also compared prices in the school shop and found that the price of fruit salad was higher than __popcorn__ [9].\n\nOur teacher told us that a survey becomes more useful as it grows. Indeed, the more students we interviewed, __more interesting__ [10] the results became. Next term we plan to repeat the survey with every class in the school.",
+       "q": "[9] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "popcorn was",
+        "that of popcorn",
+        "the popcorn"
+       ],
+       "a": 2,
+       "e": "The sentence compares the *price* of fruit salad with the *price* of popcorn, so it needs **that of popcorn** (*that* = the price). A, B and D compare a price with a food.",
+       "s": "Logical comparison (that of)"
+      },
+      {
+       "p": "Our Snack Survey\n\nFor a science project, our class asked 120 students in our school which of three snacks they liked best: dates, popcorn or fruit salad. We expected one snack to win easily, but the votes were divided __between__ [6] the three snacks more evenly than anyone had predicted.\n\nPopcorn received the __most__ [7] votes, with fruit salad close behind. Students who chose dates said that they ate them more often than __any snack__ [8], usually with breakfast. We also compared prices in the school shop and found that the price of fruit salad was higher than __popcorn__ [9].\n\nOur teacher told us that a survey becomes more useful as it grows. Indeed, the more students we interviewed, __more interesting__ [10] the results became. Next term we plan to repeat the survey with every class in the school.",
+       "q": "[10] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "the most interesting",
+        "so more interesting",
+        "the more interesting"
+       ],
+       "a": 3,
+       "e": "The structure is *the* + comparative, *the* + comparative: the more students…, **the more interesting** the results. A drops the second *the*; B uses a superlative; C is not standard.",
+       "s": "the more …, the more …"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Two → -er/more; three or more → -est/most; never both (no *more better*).",
+    "Irregular: good/well–better–best, bad/badly–worse–worst, far–farther (distance)/further (more).",
+    "fewer + countable, less + uncountable; between two, among three or more.",
+    "as … as for equal; -er … than for unequal; the more …, the more ….",
+    "Compare like with like (that of / those of) and use *any other* inside the same group."
+   ]
+  }
+ ]
+}

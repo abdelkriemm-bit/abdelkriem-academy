@@ -1,0 +1,614 @@
+{
+ "slug": "sat-pronoun-agreement",
+ "nav": "Pronoun Agreement",
+ "title": "Pronoun–Antecedent Agreement, Clarity and Consistency",
+ "kicker": "American Diploma · Digital SAT · Grammar: Form, Structure and Sense",
+ "summary": "Match every pronoun to its antecedent in number (a company, a team and each of … are \"it\"), replace unclear pronouns with nouns, and keep one/you/we consistent.",
+ "blocks": [
+  {
+   "type": "p",
+   "text": "A pronoun (it, its, they, their, this, one …) stands in for a noun. The noun it replaces is called its **antecedent**. On the Digital SAT, this lesson's questions check three things: the pronoun must **match** its antecedent in number (singular or plural), the reader must be able to tell **which noun** it means, and the passage must **stay consistent** (no jumping between *one*, *you* and *we*). The rules are short and fixed, so these are points you can win every time."
+  },
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "These questions belong to **Standard English Conventions**, which is about **26%** of the scored Reading and Writing questions (about **11–15 questions** across the two modules). Inside that domain, the official skill group **Form, Structure, and Sense** covers **pronoun–antecedent agreement**, together with subject–verb agreement, verb forms and the sound-alike pairs. Convention questions **usually** come in the later part of each module, after Information and Ideas."
+  },
+  {
+   "type": "p",
+   "text": "The stem is always: **\"Which choice completes the text so that it conforms to the conventions of Standard English?\"** You know it is an agreement question when the four choices are pronouns that differ in **number** or when one choice replaces the pronoun with a **noun**, for example:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "its / their / it's / they're",
+    "it / they / this / the new lamps",
+    "one / you / they / we"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "In \"The **museum** reopened **its** doors\", the antecedent of *its* is *museum*. In \"The **turtles** returned to **their** beach\", the antecedent of *their* is *turtles*. Almost every question in this lesson is solved the same way: **find the antecedent first, then choose**."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "أول خطوة دايمًا",
+   "text": "قبل ما تختار الضمير، دوّر على **الاسم اللي الضمير راجع له** (الـ antecedent). لو الاسم مفرد (شركة، جامعة، فريق، متحف، نوع حيوان) يبقى **it / its**. لو جمع يبقى **they / their**. الشركة **مش** they حتى لو فيها آلاف الموظفين."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 1: Singular with singular, plural with plural"
+  },
+  {
+   "type": "p",
+   "text": "A singular antecedent takes a singular pronoun (it, its, he, she, his, her). A plural antecedent takes a plural pronoun (they, them, their). That sounds easy, so the test makes it hard in two ways: it uses nouns that **feel** plural but are grammatically singular, and it puts the antecedent **far away** from the pronoun."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Antecedent",
+    "Pronoun",
+    "✓ Correct",
+    "✗ Wrong"
+   ],
+   "rows": [
+    [
+     "One company, university, museum, government, city, country, organization",
+     "**it / its**",
+     "The **company** moved **its** factory to Sadat City.",
+     "The company moved their factory."
+    ],
+    [
+     "A species or one animal described in general (the fennec fox, the honeybee)",
+     "**it / its**",
+     "The **fennec fox** uses **its** large ears to lose heat.",
+     "The fennec fox uses their large ears."
+    ],
+    [
+     "Plural nouns (scientists, turtles, the pyramids, data from many sites)",
+     "**they / them / their**",
+     "The **turtles** return to **their** home beach.",
+     "The turtles return to its home beach."
+    ],
+    [
+     "A and B (joined by *and*)",
+     "**they / their**",
+     "**Cairo and Giza** share **their** water supply.",
+     "Cairo and Giza share its water supply."
+    ],
+    [
+     "A population, a collection, a series, a group (of + plural)",
+     "**it / its**",
+     "The **population** of ibex has doubled **its** range.",
+     "The population of ibex has doubled their range."
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Rule 2: Groups and organizations are \"it\""
+  },
+  {
+   "type": "p",
+   "text": "Collective nouns name one group made of many members: team, committee, band, class, jury, family, staff, crew, audience, council, company, government. In American Standard English, which the SAT follows, a collective noun used as one unit is **singular**: it takes **it/its** and a singular verb."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ The **committee** announced **its** decision on Monday.",
+    "✗ The committee announced their decision on Monday.",
+    "✓ The **band** released **its** first album in 2019.",
+    "✗ The band released their first album in 2019.",
+    "✓ The **Egyptian national team** has won **its** group. (one team = it)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "British school students: careful with groups",
+   "text": "British English often says \"The team **have** won **their** match.\" The SAT follows American Standard English: a team, company, university, government or band is **one** thing — \"The team **has** won **its** match.\" A useful check: look at the rest of the passage. If another sentence already says \"its\" or \"has\" about the same group, keep the singular."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 3: each, every, either, neither, one of …"
+  },
+  {
+   "type": "p",
+   "text": "These words point to **one item at a time**, so they are singular even when a plural noun follows them in an *of*-phrase. The noun in the *of*-phrase is bait: do not let it decide the pronoun."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Antecedent word",
+    "Number",
+    "✓ Example (things)"
+   ],
+   "rows": [
+    [
+     "each (of the …), every",
+     "singular",
+     "**Each** of the bridges has **its** own toll gate."
+    ],
+    [
+     "either / neither (of the …)",
+     "singular",
+     "**Neither** of the two satellites has lost **its** signal."
+    ],
+    [
+     "one of the …",
+     "singular",
+     "**One** of the statues still has **its** original paint."
+    ],
+    [
+     "both, several, few, many",
+     "plural",
+     "**Both** of the dams are close to **their** limits."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**A note on people.** With words like *everyone*, *each student* or *a visitor*, modern style accepts **they/their** as well as *he or she* (\"Each student brought **their** own laptop\"), so a question cannot fairly depend on that choice. The agreement questions you can be sure about are the ones where the antecedent is a **thing, an animal or an organization**: there, singular means **it/its**, always."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 4: Compound antecedents — and / or / nor"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A and B** → plural: \"The **museum and the library** have updated **their** opening hours.\"",
+    "**A or B, either A or B, neither A nor B** → the pronoun agrees with the **nearer** antecedent (the one after *or / nor*).",
+    "✓ \"Neither the lighthouse nor the two towers still use **their** original lamps.\" (nearer = towers, plural)",
+    "✓ \"Neither the two towers nor the lighthouse still uses **its** original lamp.\" (nearer = lighthouse, singular)",
+    "Tip: the verb follows the same nearer noun (*use* / *uses*), which gives you a second clue."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Rule 5: Find the real antecedent (the distance trap)"
+  },
+  {
+   "type": "p",
+   "text": "The test likes to put a **different-number noun** between the antecedent and the pronoun. Your ear hears the nearest noun and chooses the wrong pronoun. Go back and ask: *who or what actually does or owns this?*"
+  },
+  {
+   "type": "list",
+   "items": [
+    "\"The **collection** of ancient coins will move to **its** new gallery.\" — The *collection* moves; *coins* is only inside the *of*-phrase.",
+    "\"The **lamps** in the old library, which the city installed in 1950, still keep **their** original glass.\" — *library* and *city* are closer, but it is the *lamps* that keep the glass.",
+    "**Strip the sentence:** cross out *of*-phrases and the extra information between commas, then read subject + pronoun together: \"The collection … its\", \"The lamps … their\"."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Use the passage as a witness",
+   "text": "The passage often contains a second pronoun that refers to the same noun, outside the blank. If you see \"The university … **its** libraries\" in the next sentence, the blank about the university must also be singular. One pronoun in the passage tells you the number of all the others."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 6: Clear antecedents — no confusing pronouns"
+  },
+  {
+   "type": "p",
+   "text": "A pronoun is wrong if the reader cannot be sure which noun it means. This happens when **two or more nouns of the same number** come before the pronoun, or when *this / that / which / it* points to a whole idea instead of a noun. On the test, the correct choice is then often **a specific noun** instead of a pronoun."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "✗ Unclear",
+    "Why",
+    "✓ Clear"
+   ],
+   "rows": [
+    [
+     "When the scientist showed the robot to the engineer, **she** was impressed.",
+     "She = scientist or engineer?",
+     "… **the engineer** was impressed."
+    ],
+    [
+     "The new lamps replaced the old ones, and **they** use less electricity.",
+     "They = new lamps or old ones?",
+     "… and **the new lamps** use less electricity."
+    ],
+    [
+     "The report compared the two dams. **This** surprised the government.",
+     "This = the report? the comparison? one result?",
+     "**This comparison** surprised the government."
+    ],
+    [
+     "The council compared a one-panel pump with a two-panel pump, and **it** was chosen.",
+     "It = which pump? (or the council?)",
+     "… and **the two-panel pump** was chosen."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**How to decide:** list every noun before the pronoun that has the **same number** as the pronoun. Only one candidate? The pronoun is clear — keep it. Two or more? Choose the answer that **names the noun**. Do **not** pick the noun version when the pronoun is already clear: the SAT does not reward extra words for no reason, and a noun choice can also be the **wrong** noun."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 7: Stay consistent — one / you / we"
+  },
+  {
+   "type": "p",
+   "text": "When a passage talks about people in general, it can use **one**, **you** or **we**. Once it chooses, it must keep the same pronoun. The most tested switch is *one → you*."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ If **one** wants to see the sunrise, **one** should start early.",
+    "✗ If **one** wants to see the sunrise, **you** should start early.",
+    "✓ If **you** want to see the sunrise, **you** should start early.",
+    "✗ When **we** visit Siwa in summer, **you** quickly learn to rest in the afternoon.",
+    "✓ **Visitors** to Siwa soon learn that **they** should rest in the afternoon. (plural noun → they)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "وضوح وثبات",
+   "text": "لو قبل الضمير فيه **اسمين بنفس العدد** (مثلًا اتنين مفرد) والضمير ممكن يرجع لأي واحد فيهم، يبقى الإجابة الصح هي اللي **بتكتب الاسم نفسه** بدل الضمير. ولو الجملة بدأت بـ **one** كمّل بـ **one**، ولو بدأت بـ **you** كمّل بـ **you** — متغيّرش في نص الجملة."
+  },
+  {
+   "type": "h2",
+   "text": "The 5-step method for test day"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Read the choices.** Pronouns that differ in number, or a pronoun vs a noun? It is an agreement or clarity question.",
+    "**Find the antecedent.** Go back in the sentence (or the sentence before) and ask \"Who or what does this mean?\" Strip *of*-phrases and comma extras.",
+    "**Check number.** Singular (including company, team, species, each/neither/one of) → it/its. Plural (and A and B) → they/their. With or/nor → the nearer noun.",
+    "**Check clarity.** Two possible antecedents of the same number → choose the choice that names the noun.",
+    "**Check consistency.** Keep one/you/we the same, and match any other pronoun the passage already uses for that noun."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "h2",
+   "text": "Worked example 1: a company is \"it\""
+  },
+  {
+   "type": "p",
+   "text": "**Passage:** \"The textile company began as a small workshop in El-Mahalla El-Kubra in the 1950s. Today, ______ products are sold in more than thirty countries, although most of its cotton is still grown in the Nile Delta.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice completes the text so that it conforms to the conventions of Standard English?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) their",
+    "B) its",
+    "C) it's",
+    "D) they're"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B) its.** The antecedent is \"The textile company\" — one company, so it is singular. A possessive is needed (\"the company's products\"), so \"its\" is correct. The passage confirms it later with \"its cotton\": the same noun, the same pronoun."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A) their** — Plural. A company is one thing on the SAT, even though many people work for it. This is the most common agreement trap.",
+    "**C) it's** — \"It's\" means \"it is\": \"it is products are sold\" makes no sense.",
+    "**D) they're** — \"They're\" means \"they are\", and it is plural as well."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Worked example 2: each of … is singular"
+  },
+  {
+   "type": "p",
+   "text": "**Passage:** \"Five lighthouses once guided ships along the coast between Alexandria and Rashid. Each of the lighthouses had ______ own keeper, who lived in a small house at the base of the tower and lit the lamp every evening.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice completes the text so that it conforms to the conventions of Standard English?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) their",
+    "B) there",
+    "C) its",
+    "D) it's"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C) its.** The subject is \"Each\", not \"lighthouses\": each lighthouse, one at a time, had a keeper. \"Each\" is singular, so the possessive must be \"its\". The rest of the sentence agrees: \"the tower\", \"the lamp\"."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A) their** — Plural: the bait is \"lighthouses\" inside the of-phrase. \"Each\" decides the number.",
+    "**B) there** — \"There\" is a place word, not a possessive: \"had there own keeper\" is meaningless.",
+    "**D) it's** — \"It's\" means \"it is\" or \"it has\": \"had it is own keeper\" makes no sense."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Worked example 3: unclear pronoun → name the noun"
+  },
+  {
+   "type": "p",
+   "text": "**Passage:** \"In the 1820s, Jean-François Champollion compared the Greek text on the Rosetta Stone with the hieroglyphic text above it. Since scholars could already read the Greek, ______ helped him identify the hieroglyphic signs for royal names such as Ptolemy.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice completes the text so that it conforms to the conventions of Standard English?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) it",
+    "B) they",
+    "C) this",
+    "D) the Greek inscription"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: D) the Greek inscription.** Three singular nouns come before the blank: the Rosetta Stone, the hieroglyphic text and the Greek. A pronoun would not make clear which one helped. Only the noun \"the Greek inscription\" removes the doubt."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A) it** — Unclear: \"it\" could mean the stone, the Greek text or the hieroglyphic text.",
+    "**B) they** — Plural, and the only plural noun, \"scholars\", is not what helped him: the readable Greek text did.",
+    "**C) this** — Vague: \"this\" does not name what it refers to — the comparison? the stone? the reading?"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Worked example 4: keep \"one\" consistent"
+  },
+  {
+   "type": "p",
+   "text": "**Passage:** \"Travel writers often warn about the heat in Siwa Oasis. When one visits in July or August, ______ quickly learns why local families close their shops in the early afternoon and open them again after sunset.\""
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice completes the text so that it conforms to the conventions of Standard English?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) one",
+    "B) you",
+    "C) they",
+    "D) we"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: A) one.** The sentence has already chosen \"one\" for people in general (\"When one visits\"). It must continue with \"one\". The verb \"learns\" (singular, with -s) also fits \"one\" and confirms the answer."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**B) you** — Switches from \"one\" to \"you\" in the same sentence; \"you learns\" is also ungrammatical.",
+    "**C) they** — Plural, and the only plural noun it could point to, \"Travel writers\" or \"families\", is not the person who visits.",
+    "**D) we** — Switches to \"we\", and \"we learns\" does not agree."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**\"Their\" for a company or group:** company, university, museum, team, committee, government, band → **its**.",
+    "**The of-phrase bait:** \"each of the bridges\", \"the collection of coins\", \"the population of ibex\" — the first noun decides.",
+    "**The far antecedent:** a long sentence puts a closer noun with a different number next to the blank.",
+    "**Neither … nor:** the pronoun (and the verb) follows the nearer noun.",
+    "**Unclear it / they / this:** if two nouns of the same number could be meant, the choice that names the noun wins.",
+    "**Unnecessary noun:** if only one noun fits, the plain pronoun is better — don't choose a wordy noun choice just because it looks safe.",
+    "**Switching one ↔ you ↔ we:** keep the pronoun the passage started with."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Point to the antecedent before you read the choices, and say the pair aloud in your head: \"the company … its\", \"the turtles … their\".",
+    "Cross out of-phrases and comma extras to find the real antecedent.",
+    "Look for a witness: another pronoun or a verb (has/have) in the passage that shows the number of the same noun.",
+    "Choose a noun instead of a pronoun only when there really are two possible antecedents.",
+    "Target time: about 30–40 seconds per question."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Ten original questions in Digital SAT format. For each one, find the antecedent first, then check number, clarity and consistency. The explanation appears after you answer."
+  },
+  {
+   "type": "test",
+   "title": "Pronoun agreement: practice quiz",
+   "timed": false,
+   "intro": "10 original questions in Digital SAT format, untimed. Find the antecedent first in every question.",
+   "sections": [
+    {
+     "name": "Quiz",
+     "minutes": 13,
+     "questions": [
+      {
+       "p": "The Egyptian bus manufacturer began exporting vehicles to neighboring countries in the 1990s. Today, the company sells ______ buses in more than a dozen markets across Africa and the Middle East.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "their",
+        "its",
+        "it's",
+        "they're"
+       ],
+       "a": 1,
+       "e": "The antecedent is \"the company\", one organization, so the singular possessive \"its\" is correct. \"Their\" and \"they're\" are plural, and \"it's\" means \"it is\".",
+       "s": "Pronoun–antecedent agreement"
+      },
+      {
+       "p": "The ostrich eggs displayed in the museum's natural history hall, each weighing about as much as two dozen chicken eggs, are famous for ______ thick shells, which are strong enough to support the weight of an adult person.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "it's",
+        "its",
+        "there",
+        "their"
+       ],
+       "a": 3,
+       "e": "Strip the sentence: \"The ostrich eggs … are famous for ______ thick shells.\" The antecedent is the plural \"eggs\", so \"their\" is correct. \"Its\" is singular (bait: \"hall\"), \"it's\" means \"it is\", and \"there\" is a place word.",
+       "s": "Pronoun–antecedent agreement"
+      },
+      {
+       "p": "The three pyramids at Giza were built for different kings of the Fourth Dynasty. Each of the pyramids once had ______ own temple complex, connected to the Nile valley by a long stone causeway.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "its",
+        "their",
+        "it's",
+        "there"
+       ],
+       "a": 0,
+       "e": "\"Each\" is singular, so the possessive must be \"its\" (each pyramid had its own temple). \"Their\" agrees with the bait \"pyramids\" in the of-phrase; \"it's\" means \"it is\"; \"there\" is not a possessive.",
+       "s": "Pronoun–antecedent agreement"
+      },
+      {
+       "p": "Two researchers studied how desert locusts form swarms: one tracked the insects with radar, while the other counted them on the ground. When the researchers compared the two sets of numbers, ______ were nearly three times as high as the ground counts, because radar could also detect insects flying at night.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "they",
+        "it",
+        "the radar counts",
+        "this"
+       ],
+       "a": 2,
+       "e": "Several plural nouns come before the blank (researchers, insects, the two sets of numbers), so \"they\" is unclear: it could even mean both sets, which makes no sense next to \"the ground counts\". \"It\" and \"this\" are vague and do not agree with \"were\". Only \"the radar counts\" says which numbers were higher.",
+       "s": "Pronoun clarity"
+      },
+      {
+       "p": "Neither the old lighthouse nor the two smaller towers at the harbor entrance still use ______ original lamps; all of them were fitted with solar-powered lights in 2018.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "their",
+        "its",
+        "it's",
+        "they're"
+       ],
+       "a": 0,
+       "e": "With neither … nor, the pronoun agrees with the nearer noun, \"the two smaller towers\" (plural), so \"their\" is correct; the plural verb \"use\" confirms it. \"Its\" agrees with the farther noun, \"it's\" means \"it is\", and \"they're\" means \"they are\".",
+       "s": "Pronoun–antecedent agreement"
+      },
+      {
+       "p": "Desert guides give a simple rule for camping in the White Desert: if one plans to stay overnight among the chalk formations, ______ should bring warm clothing, because temperatures can drop sharply after sunset.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "you",
+        "they",
+        "we",
+        "one"
+       ],
+       "a": 3,
+       "e": "The sentence has already chosen \"one\" (\"if one plans\"), so it must continue with \"one\". \"You\" and \"we\" switch pronouns, and \"they\" would wrongly point to the guides.",
+       "s": "Pronoun consistency"
+      },
+      {
+       "p": "The research team at the marine station in Hurghada published ______ findings on coral bleaching last year. The study showed that reefs in the northern Red Sea recovered faster than those farther south.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "their",
+        "its",
+        "it's",
+        "there"
+       ],
+       "a": 1,
+       "e": "\"The research team\" is one group, and the SAT follows American Standard English, so the team takes the singular \"its\". \"Their\" treats the team as plural, \"it's\" means \"it is\", and \"there\" is a place word.",
+       "s": "Pronoun–antecedent agreement"
+      },
+      {
+       "p": "The museum's collection of Greek and Roman coins, which includes more than 5,000 pieces, will move to ______ new gallery on the second floor in March, where visitors will be able to see the coins under magnifying glass.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "their",
+        "they're",
+        "its",
+        "it's"
+       ],
+       "a": 2,
+       "e": "Strip the sentence: \"The collection … will move to ______ new gallery.\" The collection is singular, so \"its\" is correct (the singular verb \"includes\" is a witness). \"Their\" agrees with the bait \"coins\" or \"pieces\"; \"they're\" and \"it's\" are contractions.",
+       "s": "Pronoun–antecedent agreement"
+      },
+      {
+       "p": "The population of Nubian ibex in South Sinai has grown steadily since the area became a protected reserve. Rangers report that ______ now numbers several hundred animals, though exact counts are difficult on the steep cliffs.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "it",
+        "they",
+        "these",
+        "them"
+       ],
+       "a": 0,
+       "e": "The antecedent is \"the population\", a singular noun, and the singular verb \"numbers\" confirms it, so \"it\" is correct. \"They\" and \"these\" agree with the bait \"ibex\" or \"animals\", and \"them\" is an object form that cannot be a subject.",
+       "s": "Pronoun–antecedent agreement"
+      },
+      {
+       "p": "The village council compared a water pump powered by one solar panel with a pump powered by two panels. After several weeks of testing in cloudy weather, ______ was chosen for the new well because it produced more water.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "it",
+        "they",
+        "the two-panel pump",
+        "this"
+       ],
+       "a": 2,
+       "e": "Before the blank there are three singular nouns that \"it\" could mean (the council, the one-panel pump, the other pump), so only \"the two-panel pump\" is clear. \"They\" is plural, and \"this\" is vague.",
+       "s": "Pronoun clarity"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Find the **antecedent** first. Singular (company, university, team, species, population, each / neither / one of) → **it/its**; plural (and A and B) → **they/their**.",
+    "Cross out of-phrases and comma extras: the first noun, not the noun in the of-phrase, decides the number.",
+    "With **or / nor**, agree with the nearer noun.",
+    "If two nouns of the same number could be the antecedent, choose the answer that **names the noun**; otherwise keep the pronoun.",
+    "Keep the same pronoun for people in general: one … one, you … you."
+   ]
+  }
+ ]
+}

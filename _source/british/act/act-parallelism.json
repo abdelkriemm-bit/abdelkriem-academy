@@ -1,0 +1,585 @@
+{
+ "slug": "act-parallelism",
+ "nav": "Parallelism",
+ "title": "Parallel Structure",
+ "kicker": "American Diploma · ACT · English: Conventions of Standard English",
+ "summary": "Make lists, paired conjunctions and comparisons match in form — rules with ✓/✗ pairs, four worked items and two ACT-style practice essays.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Parallelism questions belong to the **Conventions of Standard English** reporting category of the ACT English test (38–43% of the English score, together with punctuation, usage and the other sentence-structure skills). The English test has **50 questions (40 scored) in 35 minutes**, spread over five essays: three of about 340 words with 10 questions each and two of about 185 words with 5 questions each."
+  },
+  {
+   "type": "p",
+   "text": "You will never see the word \"parallelism\" on the test. A part of a sentence is **underlined** and numbered, and the four choices — usually starting with **NO CHANGE** — offer that part in different grammatical forms: *to clean*, *cleaning*, *cleaned*, *they clean*, *the cleaning of*. When the choices differ only in **form** and the sentence contains a list, a pair (both … and, either … or, not only … but also) or a comparison (than, as … as), you are almost certainly looking at a parallelism question."
+  },
+  {
+   "type": "p",
+   "text": "The idea is simple: **things that do the same job in a sentence must have the same grammatical shape.** If the first item is a noun, the others are nouns. If the first is *to + verb*, the others are *to + verb*. If the first is a clause beginning with *that*, the others are *that*-clauses. Parallel sentences are easier to read, and the ACT always rewards the easiest correct version."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "القاعدة في سطر واحد",
+   "text": "الحاجات اللي بتعمل نفس الشغلانة في الجملة لازم يكون لها نفس الشكل. لو أول حاجة في القائمة اسم، الباقي أسماء. لو أول حاجة to + فعل، الباقي to + فعل. لو أول حاجة ing، الباقي ing. بص على أول عنصر وانسخ شكله في الباقي."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 1: Items in a series must match"
+  },
+  {
+   "type": "p",
+   "text": "A **series** is two or more items joined by *and*, *or* or *but*. Find the first item, name its form, and make every other item copy that form. The table shows the forms the ACT uses most often."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Form of the first item",
+    "✗ Not parallel",
+    "✓ Parallel"
+   ],
+   "rows": [
+    [
+     "Noun / noun phrase",
+     "The course covers grammar, vocabulary, and how to write essays.",
+     "The course covers grammar, vocabulary, and essay writing."
+    ],
+    [
+     "Adjective",
+     "The guide was friendly, patient, and knew a lot.",
+     "The guide was friendly, patient, and knowledgeable."
+    ],
+    [
+     "Main verb (same tense)",
+     "She repaired the radio, painted the door, and is fixing the gate.",
+     "She repaired the radio, painted the door, and fixed the gate."
+    ],
+    [
+     "to + verb",
+     "The goal is to reduce waste, to save money, and protecting the river.",
+     "The goal is to reduce waste, to save money, and to protect the river."
+    ],
+    [
+     "-ing word",
+     "He enjoys hiking, cycling, and to swim in the sea.",
+     "He enjoys hiking, cycling, and swimming in the sea."
+    ],
+    [
+     "Prepositional phrase",
+     "We searched under the bed, in the cupboard, and the garden.",
+     "We searched under the bed, in the cupboard, and in the garden."
+    ],
+    [
+     "Clause (that / who / because…)",
+     "She said that the bus was late and to wait outside.",
+     "She said that the bus was late and that we should wait outside."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Shared words.** A word that comes before the whole series — *to*, *the*, *in*, *that*, *would* — can be written once (it then belongs to every item) or repeated before every item. What you must **not** do is repeat it before some items and drop it before others."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ The children learned to read, write, and count. (*to* once, shared by all three)",
+    "✓ The children learned to read, to write, and to count. (*to* every time)",
+    "✗ The children learned to read, write, and to count. (*to* twice out of three — inconsistent)",
+    "✓ We visited the museum, the market, and the old fort. / ✗ We visited the museum, market, and the old fort."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Hidden series.** Not every series uses commas. Two verbs joined by *and* are a series too: ✗ \"The engineers *measured* the river and *are recording* its depth.\" → ✓ \"The engineers *measured* the river and *recorded* its depth.\" A long phrase between the two items is the ACT's favourite way to hide the first item, so look back to the start of the sentence."
+  },
+  {
+   "type": "p",
+   "text": "**What parallelism does NOT require.** The items do not need the same length or the same number of words. \"She bought bread, two kilos of tomatoes, and a small bag of dates\" is parallel: three noun phrases. Do not reject a correct NO CHANGE just because one item is longer."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 2: Paired conjunctions — both sides must match"
+  },
+  {
+   "type": "p",
+   "text": "Some conjunctions come in fixed pairs. Learn the exact partners — the ACT likes to break a pair by giving the wrong second word."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "First word",
+    "Correct partner",
+    "Broken pair (always wrong)"
+   ],
+   "rows": [
+    [
+     "both",
+     "and",
+     "both … as well as / both … or"
+    ],
+    [
+     "either",
+     "or",
+     "either … nor"
+    ],
+    [
+     "neither",
+     "nor",
+     "neither … or"
+    ],
+    [
+     "not only",
+     "but (also)",
+     "not only … and also"
+    ],
+    [
+     "whether",
+     "or",
+     "whether … and / whether … if"
+    ],
+    [
+     "between",
+     "and",
+     "between … or / between … to"
+    ],
+    [
+     "not",
+     "but",
+     "not … rather"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Matching rule:** whatever form follows the first word must also follow the second word. Put your finger on the first word of the pair and on the second word, and compare what comes right after each one."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ The project was **not only** expensive **but also** took a long time. (adjective / verb phrase)",
+    "✓ The project was **not only** expensive **but also** slow.",
+    "✓ The project **not only** cost a lot **but also** took a long time. (verb phrase / verb phrase)",
+    "✗ You can **either** pay by card **or** cash. (verb phrase / noun)",
+    "✓ You can pay **either** by card **or** in cash. (prepositional phrase / prepositional phrase)",
+    "✗ **Neither** the coach **or** the players expected the result.",
+    "✓ **Neither** the coach **nor** the players expected the result."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Placement trap.** Often the error is not the second word but the position of the first one. \"She **either** will study medicine **or** engineering\" puts a verb after *either* and a noun after *or*. Move the first word: \"She will study **either** medicine **or** engineering.\" When the choices move *either*, *both* or *not only* around, choose the version where the two halves start the same way."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 3: Comparisons with than and as … as"
+  },
+  {
+   "type": "p",
+   "text": "A comparison is a kind of pair, so the two things compared must have the same form. This is different from a faulty comparison (comparing a population with a city), which has its own lesson; here we only check the **grammatical form** on each side."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ Walking to school is healthier **than to take** the bus. → ✓ Walking to school is healthier **than taking** the bus.",
+    "✗ **To learn** a language as an adult is as rewarding **as learning** it as a child. → ✓ **Learning** a language as an adult is as rewarding **as learning** it as a child.",
+    "✗ Many students prefer studying at night **to study** in the morning. → ✓ Many students prefer studying at night **to studying** in the morning.",
+    "✓ He would rather **walk** than **wait** for the bus. (*would rather* takes two base verbs)",
+    "✗ She chose to cook dinner **rather than ordering** it. → ✓ She chose to cook dinner **rather than order** it."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "Also keep the idiom complete: **as … as** (never *as … than*), **more … than** (never *more … as*), **prefer X to Y**."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 4: Matching clauses and longer structures"
+  },
+  {
+   "type": "p",
+   "text": "When the items are whole clauses, the clauses must match too. If the first item starts with *that*, *who*, *because* or *when*, the second item needs the same introducing word (or the same structure with the word understood)."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ The report showed **that** the roads were unsafe and **the need for** more lights.",
+    "✓ The report showed **that** the roads were unsafe and **that** the town needed more lights.",
+    "✗ We need a captain **who** is calm and **having** good judgement.",
+    "✓ We need a captain **who** is calm and **who** has good judgement. / ✓ We need a calm captain with good judgement.",
+    "✗ The festival was cancelled **because of** the storm and **because** the stage was damaged.",
+    "✓ The festival was cancelled **because of** the storm and the damaged stage."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "Active and passive verbs should also match inside a series: ✗ \"The volunteers cleaned the beach, and the rubbish was collected by them\" → ✓ \"The volunteers cleaned the beach and collected the rubbish.\""
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الأزواج اللي لازم تحفظها",
+   "text": "both … and / either … or / neither … nor / not only … but also / whether … or / between … and. اللي بعد الكلمة الأولى لازم يكون شبه اللي بعد الكلمة التانية بالظبط. ولو الاختيارات بتحرّك كلمة either أو not only في الجملة، اختار المكان اللي يخلّي النصّين يبدأوا بنفس الشكل."
+  },
+  {
+   "type": "h2",
+   "text": "A 4-step method for parallelism items"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Spot the signal.** Look for *and / or / but* in a list, a pair word (both, either, neither, not only, whether, between), or a comparison word (than, as … as, rather than, prefer … to).",
+    "**Find the first item and name its form** — noun, adjective, to + verb, -ing, past-tense verb, prepositional phrase, that-clause. It is often far back in the sentence, before the underline.",
+    "**Make the underlined item copy that form.** Eliminate every choice in a different form, every choice that adds a new subject (\"and they also…\"), and every broken pair.",
+    "**Read the whole sentence with your choice.** If two choices are both parallel, pick the shorter, clearer one — but never the shorter one if it breaks the pattern."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — a series with to + verb**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: The new program trains young farmers to test their soil, to choose the right seeds, and __saving__ water during the dry months."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) to save",
+    "C) they save",
+    "D) for saving"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: The first two items are *to test* and *to choose*; *saving* switches to an -ing form.",
+    "B) ✓ Correct: *To save* copies the to + verb form of the first two items: to test, to choose, to save.",
+    "C) ✗ Wrong: Adds a new subject and verb — a clause cannot be the third item in a list of to + verb phrases.",
+    "D) ✗ Wrong: *For saving* is a prepositional phrase, a third different form."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — a paired conjunction in the wrong place**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: During the festival, visitors can __either buy tickets online or at the gate__ on the day of the concert."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) buy tickets either online or they can buy them at the gate",
+    "C) buy tickets either online or at the gate",
+    "D) either buy tickets online nor at the gate"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: *Either* is followed by a verb phrase (buy tickets online) but *or* by a prepositional phrase (at the gate) — the two halves do not match.",
+    "B) ✗ Wrong: The second half becomes a whole clause (they can buy them), so the halves still do not match, and the sentence is wordy.",
+    "C) ✓ Correct: Moving *either* puts two matching place expressions after the pair: *either online or at the gate*.",
+    "D) ✗ Wrong: Broken pair: *either* must go with *or*, never *nor* — and the placement problem is still there."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — a comparison with than**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: For many students, studying with a partner is more effective __than to study__ alone."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) then studying",
+    "C) than studying",
+    "D) than when you study"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: The sentence compares *studying with a partner* (an -ing subject) with *to study* — two different forms.",
+    "B) ✗ Wrong: Right form, but *then* is a time word; a comparison needs *than*.",
+    "C) ✓ Correct: *Studying … than studying* — both sides of the comparison are -ing forms.",
+    "D) ✗ Wrong: Changes the form to a clause and adds an unnecessary shift to *you*."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4 — matching clauses (NO CHANGE is correct)**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: The engineers' report found that the old pipes leak, __that the pumps are too weak__, and that the city needs a new water plan."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) the pumps being too weak",
+    "C) the pumps were too weak",
+    "D) and that the pumps are too weak"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: A**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✓ Correct: Three matching that-clauses in the present tense: that the pipes leak, that the pumps are too weak, that the city needs a new plan.",
+    "B) ✗ Wrong: An -ing phrase breaks the series of that-clauses.",
+    "C) ✗ Wrong: Drops *that* while the other two items keep it, and shifts to the past tense while the others are present.",
+    "D) ✗ Wrong: Puts *and* before the second item of a three-item list; *and* belongs only before the last item."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**The far-away first item:** the first part of the list is ten words before the underline. Always go back to the start of the sentence.",
+    "**The new subject:** \"…, and they also record…\" — adding a subject turns the last item into a clause that does not match.",
+    "**The half-shared *to* / *the* / *in*:** repeated before some items but not others.",
+    "**The broken pair:** either … nor, neither … or, not only … and also, both … as well as, between … or.",
+    "**The misplaced *either* / *not only*:** the pair words are correct, but they sit before different kinds of words.",
+    "**The comparison mix:** \"-ing … than to + verb\", \"prefer X to + verb\", \"rather than + -ing\" after a base verb.",
+    "**The long-item panic:** a correct item that is longer than the others. Length does not matter; form does."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "When the four choices are the same words in different forms (to save / saving / saved / they save), think \"parallelism\" and look for a list, a pair or *than/as*.",
+    "Underline the first item in your head and say its form out loud: \"to + verb\", \"-ing\", \"noun\".",
+    "Cross out any choice that starts with a new subject (they, it, he) inside a list.",
+    "For a pair, check the words right after each half: either ___ / or ___. Same form? Done.",
+    "If NO CHANGE already matches the pattern, choose it — do not change a correct sentence."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Two short ACT-style essays with five questions each. Every question refers to the numbered underlined portion. All ten items test parallel structure; a few wrong choices also contain errors from earlier lessons."
+  },
+  {
+   "type": "test",
+   "title": "Parallel Structure — ACT-style practice",
+   "timed": false,
+   "intro": "Two essays, 10 questions. Choose the best version of each underlined portion. NO CHANGE keeps the original. Explanations appear after you answer.",
+   "sections": [
+    {
+     "name": "Passages I–II",
+     "minutes": 8,
+     "questions": [
+      {
+       "p": "The Bicycle Library\n\nWhen Karim Saleh retired from his job as a mechanic, he did not want to spend his days sleeping late, [1] __to watch television__, and reading the newspaper. Instead, he collected old bicycles from his neighbours, repaired them in his small garage, and [2] __lent__ them to children in his village for free.\n\nThe system was simple. A child could borrow a bicycle for a week, ride it to school, and then [3] __returning__ it on Friday morning. Karim asked every rider to wear a helmet and [4] __that they bring the bicycle back__ clean. If a chain broke or a tyre went flat, the rider did not pay anything; Karim fixed the problem himself and sent the child home with a short lesson in repairs.\n\nWithin a year, the \"library\" had forty bicycles and a long waiting list. Teachers noticed that fewer students arrived late, and parents noticed that their children were spending more time outdoors.\n\nKarim says the project has given him more than a hobby. It has given him friends of every age, a reason to get up early, and [5] __he feels useful__. \"A bicycle,\" he likes to say, \"is a small machine that opens a very big door.\"",
+       "q": "Question 1: Choose the best version of underlined portion [1]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "watching television",
+        "he watched television",
+        "watch television"
+       ],
+       "a": 1,
+       "e": "The days are spent *sleeping, watching, reading* — three -ing forms. A breaks the series with to + verb; C adds a new clause; D is a base verb.",
+       "s": "Parallelism: series"
+      },
+      {
+       "p": "The Bicycle Library\n\nWhen Karim Saleh retired from his job as a mechanic, he did not want to spend his days sleeping late, [1] __to watch television__, and reading the newspaper. Instead, he collected old bicycles from his neighbours, repaired them in his small garage, and [2] __lent__ them to children in his village for free.\n\nThe system was simple. A child could borrow a bicycle for a week, ride it to school, and then [3] __returning__ it on Friday morning. Karim asked every rider to wear a helmet and [4] __that they bring the bicycle back__ clean. If a chain broke or a tyre went flat, the rider did not pay anything; Karim fixed the problem himself and sent the child home with a short lesson in repairs.\n\nWithin a year, the \"library\" had forty bicycles and a long waiting list. Teachers noticed that fewer students arrived late, and parents noticed that their children were spending more time outdoors.\n\nKarim says the project has given him more than a hobby. It has given him friends of every age, a reason to get up early, and [5] __he feels useful__. \"A bicycle,\" he likes to say, \"is a small machine that opens a very big door.\"",
+       "q": "Question 2: Choose the best version of underlined portion [2]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "lending",
+        "was lending",
+        "to lend"
+       ],
+       "a": 0,
+       "e": "*Collected, repaired, and lent* — three past-tense main verbs with the same subject. B and D change the form; C changes the tense and aspect.",
+       "s": "Parallelism: series"
+      },
+      {
+       "p": "The Bicycle Library\n\nWhen Karim Saleh retired from his job as a mechanic, he did not want to spend his days sleeping late, [1] __to watch television__, and reading the newspaper. Instead, he collected old bicycles from his neighbours, repaired them in his small garage, and [2] __lent__ them to children in his village for free.\n\nThe system was simple. A child could borrow a bicycle for a week, ride it to school, and then [3] __returning__ it on Friday morning. Karim asked every rider to wear a helmet and [4] __that they bring the bicycle back__ clean. If a chain broke or a tyre went flat, the rider did not pay anything; Karim fixed the problem himself and sent the child home with a short lesson in repairs.\n\nWithin a year, the \"library\" had forty bicycles and a long waiting list. Teachers noticed that fewer students arrived late, and parents noticed that their children were spending more time outdoors.\n\nKarim says the project has given him more than a hobby. It has given him friends of every age, a reason to get up early, and [5] __he feels useful__. \"A bicycle,\" he likes to say, \"is a small machine that opens a very big door.\"",
+       "q": "Question 3: Choose the best version of underlined portion [3]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "returns",
+        "return",
+        "to return"
+       ],
+       "a": 2,
+       "e": "After *could*, the series needs base verbs: borrow, ride, return. A uses -ing; B adds -s (which never follows *could*); D adds *to*.",
+       "s": "Parallelism: series"
+      },
+      {
+       "p": "The Bicycle Library\n\nWhen Karim Saleh retired from his job as a mechanic, he did not want to spend his days sleeping late, [1] __to watch television__, and reading the newspaper. Instead, he collected old bicycles from his neighbours, repaired them in his small garage, and [2] __lent__ them to children in his village for free.\n\nThe system was simple. A child could borrow a bicycle for a week, ride it to school, and then [3] __returning__ it on Friday morning. Karim asked every rider to wear a helmet and [4] __that they bring the bicycle back__ clean. If a chain broke or a tyre went flat, the rider did not pay anything; Karim fixed the problem himself and sent the child home with a short lesson in repairs.\n\nWithin a year, the \"library\" had forty bicycles and a long waiting list. Teachers noticed that fewer students arrived late, and parents noticed that their children were spending more time outdoors.\n\nKarim says the project has given him more than a hobby. It has given him friends of every age, a reason to get up early, and [5] __he feels useful__. \"A bicycle,\" he likes to say, \"is a small machine that opens a very big door.\"",
+       "q": "Question 4: Choose the best version of underlined portion [4]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "to bring the bicycle back",
+        "bringing the bicycle back",
+        "they should bring the bicycle back"
+       ],
+       "a": 1,
+       "e": "Karim asked every rider *to wear* a helmet and *to bring* the bicycle back — two to + verb phrases. A and D switch to a clause; C switches to -ing.",
+       "s": "Parallelism: series"
+      },
+      {
+       "p": "The Bicycle Library\n\nWhen Karim Saleh retired from his job as a mechanic, he did not want to spend his days sleeping late, [1] __to watch television__, and reading the newspaper. Instead, he collected old bicycles from his neighbours, repaired them in his small garage, and [2] __lent__ them to children in his village for free.\n\nThe system was simple. A child could borrow a bicycle for a week, ride it to school, and then [3] __returning__ it on Friday morning. Karim asked every rider to wear a helmet and [4] __that they bring the bicycle back__ clean. If a chain broke or a tyre went flat, the rider did not pay anything; Karim fixed the problem himself and sent the child home with a short lesson in repairs.\n\nWithin a year, the \"library\" had forty bicycles and a long waiting list. Teachers noticed that fewer students arrived late, and parents noticed that their children were spending more time outdoors.\n\nKarim says the project has given him more than a hobby. It has given him friends of every age, a reason to get up early, and [5] __he feels useful__. \"A bicycle,\" he likes to say, \"is a small machine that opens a very big door.\"",
+       "q": "Question 5: Choose the best version of underlined portion [5]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "feeling useful",
+        "a sense of purpose",
+        "he has felt useful"
+       ],
+       "a": 2,
+       "e": "The list *friends of every age, a reason to get up early, and ___* needs a third noun phrase: *a sense of purpose*. A and D are clauses; B is an -ing phrase that does not match the noun phrases.",
+       "s": "Parallelism: series"
+      },
+      {
+       "p": "How Honeybees Share Directions\n\nA honeybee that finds a good field of flowers faces a problem: it must tell the other bees in the hive where the food is, and it cannot draw a map. Its solution is [6] __both clever and also__ remarkably exact. The bee performs a \"waggle dance\" on the honeycomb, moving forward in a straight line while shaking its body and then [7] __circles__ back to start again. Other bees crowd around the dancer, following each movement with their antennae.\n\nThe dance carries two pieces of information. The angle of the straight run shows the direction of the flowers, and [8] __the length of the run shows__ their distance. A long run means that the food is far away; a short one means that it is close. For a scientist, watching bees decode these signals is [9] __as fascinating as to watch__ a team of sailors read a chart.\n\nResearchers have long debated whether bees mainly rely on the dance [10] __and on__ the smell of the flowers that the dancer carries. Most now believe that bees use both, combining the information in the dance with scent to find the field quickly.",
+       "q": "Question 6: Choose the best version of underlined portion [6]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "both clever or",
+        "both clever but also",
+        "both clever and"
+       ],
+       "a": 3,
+       "e": "The pair is *both … and*, with two matching adjectives: clever, exact. A adds an unnecessary *also*; B and C use the wrong partner for *both*.",
+       "s": "Parallelism: paired conjunctions"
+      },
+      {
+       "p": "How Honeybees Share Directions\n\nA honeybee that finds a good field of flowers faces a problem: it must tell the other bees in the hive where the food is, and it cannot draw a map. Its solution is [6] __both clever and also__ remarkably exact. The bee performs a \"waggle dance\" on the honeycomb, moving forward in a straight line while shaking its body and then [7] __circles__ back to start again. Other bees crowd around the dancer, following each movement with their antennae.\n\nThe dance carries two pieces of information. The angle of the straight run shows the direction of the flowers, and [8] __the length of the run shows__ their distance. A long run means that the food is far away; a short one means that it is close. For a scientist, watching bees decode these signals is [9] __as fascinating as to watch__ a team of sailors read a chart.\n\nResearchers have long debated whether bees mainly rely on the dance [10] __and on__ the smell of the flowers that the dancer carries. Most now believe that bees use both, combining the information in the dance with scent to find the field quickly.",
+       "q": "Question 7: Choose the best version of underlined portion [7]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "it circles",
+        "to circle",
+        "circling"
+       ],
+       "a": 3,
+       "e": "The two actions after the comma are *moving* forward … and then *circling* back — two -ing phrases describing the bee. A and B are main-verb forms; C is to + verb.",
+       "s": "Parallelism: series"
+      },
+      {
+       "p": "How Honeybees Share Directions\n\nA honeybee that finds a good field of flowers faces a problem: it must tell the other bees in the hive where the food is, and it cannot draw a map. Its solution is [6] __both clever and also__ remarkably exact. The bee performs a \"waggle dance\" on the honeycomb, moving forward in a straight line while shaking its body and then [7] __circles__ back to start again. Other bees crowd around the dancer, following each movement with their antennae.\n\nThe dance carries two pieces of information. The angle of the straight run shows the direction of the flowers, and [8] __the length of the run shows__ their distance. A long run means that the food is far away; a short one means that it is close. For a scientist, watching bees decode these signals is [9] __as fascinating as to watch__ a team of sailors read a chart.\n\nResearchers have long debated whether bees mainly rely on the dance [10] __and on__ the smell of the flowers that the dancer carries. Most now believe that bees use both, combining the information in the dance with scent to find the field quickly.",
+       "q": "Question 8: Choose the best version of underlined portion [8]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "how long it runs is showing",
+        "the run's lasting shows",
+        "for how long the run lasts, it shows"
+       ],
+       "a": 0,
+       "e": "The two clauses match: *the angle of the run shows direction* and *the length of the run shows distance* (noun phrase + shows). B, C and D change the structure and are awkward or ungrammatical.",
+       "s": "Parallelism: matching structures"
+      },
+      {
+       "p": "How Honeybees Share Directions\n\nA honeybee that finds a good field of flowers faces a problem: it must tell the other bees in the hive where the food is, and it cannot draw a map. Its solution is [6] __both clever and also__ remarkably exact. The bee performs a \"waggle dance\" on the honeycomb, moving forward in a straight line while shaking its body and then [7] __circles__ back to start again. Other bees crowd around the dancer, following each movement with their antennae.\n\nThe dance carries two pieces of information. The angle of the straight run shows the direction of the flowers, and [8] __the length of the run shows__ their distance. A long run means that the food is far away; a short one means that it is close. For a scientist, watching bees decode these signals is [9] __as fascinating as to watch__ a team of sailors read a chart.\n\nResearchers have long debated whether bees mainly rely on the dance [10] __and on__ the smell of the flowers that the dancer carries. Most now believe that bees use both, combining the information in the dance with scent to find the field quickly.",
+       "q": "Question 9: Choose the best version of underlined portion [9]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "as fascinating than watching",
+        "as fascinating as watching",
+        "as fascinating as when you watch"
+       ],
+       "a": 2,
+       "e": "*Watching bees … is as fascinating as watching sailors* — -ing compared with -ing, and the complete idiom *as … as*. A mixes -ing with to + verb; B uses *as … than*; D changes the form and shifts to *you*.",
+       "s": "Parallelism: comparisons"
+      },
+      {
+       "p": "How Honeybees Share Directions\n\nA honeybee that finds a good field of flowers faces a problem: it must tell the other bees in the hive where the food is, and it cannot draw a map. Its solution is [6] __both clever and also__ remarkably exact. The bee performs a \"waggle dance\" on the honeycomb, moving forward in a straight line while shaking its body and then [7] __circles__ back to start again. Other bees crowd around the dancer, following each movement with their antennae.\n\nThe dance carries two pieces of information. The angle of the straight run shows the direction of the flowers, and [8] __the length of the run shows__ their distance. A long run means that the food is far away; a short one means that it is close. For a scientist, watching bees decode these signals is [9] __as fascinating as to watch__ a team of sailors read a chart.\n\nResearchers have long debated whether bees mainly rely on the dance [10] __and on__ the smell of the flowers that the dancer carries. Most now believe that bees use both, combining the information in the dance with scent to find the field quickly.",
+       "q": "Question 10: Choose the best version of underlined portion [10]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "or on",
+        "nor on",
+        "but on"
+       ],
+       "a": 1,
+       "e": "*Whether* pairs with *or*: whether … on the dance or on the smell, two matching prepositional phrases. A, C and D give *whether* the wrong partner.",
+       "s": "Parallelism: paired conjunctions"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Items that do the same job must have the same form: noun with noun, -ing with -ing, to + verb with to + verb, that-clause with that-clause.",
+    "Find the FIRST item — often far before the underline — and copy its form.",
+    "Learn the pairs: both … and, either … or, neither … nor, not only … but also, whether … or, between … and.",
+    "Both sides of *than* and *as … as* must match; use *prefer X to Y* and *would rather X than Y* with matching forms.",
+    "A shared word (to, the, in, that) goes once before the whole list or before every item — never just some."
+   ]
+  }
+ ]
+}

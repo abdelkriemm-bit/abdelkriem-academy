@@ -1,0 +1,689 @@
+{
+ "slug": "act-subject-verb",
+ "nav": "Subject–Verb Agreement",
+ "title": "ACT Subject–Verb Agreement: Find the True Subject",
+ "kicker": "American Diploma · ACT · English: Conventions",
+ "summary": "How to find the true subject behind phrases, extra information and inverted word order — compound subjects, indefinite pronouns, collective nouns, “the number of”, who/which/that clauses — with worked examples and an ACT-style quiz.",
+ "blocks": [
+  {
+   "type": "p",
+   "text": "Subject–verb agreement is the most common grammar idea on ACT English. The rule itself is simple — a singular subject takes a singular verb, a plural subject takes a plural verb — but the test almost never puts the subject right next to its verb. It hides the subject behind a long phrase, flips the sentence round, or uses a word such as **each**, **neither** or **the number of** that looks plural but is not. This lesson teaches you to find the **true subject** every time."
+  },
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Agreement questions belong to **Conventions of Standard English**, which is **38–43%** of the 40 scored English questions (together with punctuation, sentence structure and the other usage topics). The question looks like every other ACT English question: a verb is underlined in the essay and the four choices, usually starting with **NO CHANGE**, give different forms of that verb."
+  },
+  {
+   "type": "p",
+   "text": "Do a quick **vertical scan** of the choices. If they switch between singular and plural forms (**is / are**, **was / were**, **has / have**, **makes / make**), it is an agreement question. Sometimes the choices also change tense (**is / was / has been**); then you must check both agreement **and** the tense of the paragraph — but agreement usually removes two choices at once."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "The -s confusion",
+   "text": "Nouns and verbs work in opposite ways. A noun with **-s** is usually plural (one lantern → two lantern**s**), but a present-tense verb with **-s** is **singular** (the lantern shine**s** → the lanterns shine). So: **The lantern shines. The lanterns shine.** Only one of the pair gets the -s."
+  },
+  {
+   "type": "h2",
+   "text": "The three-step method"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Find the verb.** It is usually the underlined word.",
+    "**Find its true subject.** Ask “Who or what ___?” (Who or what **attracts**?). Cross out prepositional phrases (of…, in…, with…, for…), extra information between commas or dashes, and who/which/that clauses that sit between the subject and the verb.",
+    "**Decide: singular or plural?** Then read the bare sentence — subject + verb — aloud in your head: “The **collection** … **attracts**.” Finally, check that the tense still matches the paragraph."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Singular subject",
+    "Plural subject"
+   ],
+   "rows": [
+    [
+     "he / she / it **is**, **was**, **has**, **does**, **goes**",
+     "they **are**, **were**, **have**, **do**, **go**"
+    ],
+    [
+     "The bridge **is** old.",
+     "The bridges **are** old."
+    ],
+    [
+     "The engine **has** stopped.",
+     "The engines **have** stopped."
+    ],
+    [
+     "The river **floods** every year.",
+     "The rivers **flood** every year."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Note that the simple past is the same for singular and plural (it **stopped** / they **stopped**), except for **was / were**. That is why agreement questions use the present tense, **was/were**, or **has/have** so often."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 1: Cross out prepositional phrases"
+  },
+  {
+   "type": "p",
+   "text": "The subject of a sentence is **never** inside a prepositional phrase. Phrases that begin with **of, in, on, at, with, for, from, between, among, near, behind, about** only describe the subject. The test puts a plural noun at the end of the phrase, right before the verb, so that the wrong verb “sounds” right. This is the **nearest-noun trap**."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "✗ Wrong",
+    "✓ Right",
+    "True subject"
+   ],
+   "rows": [
+    [
+     "The walls of the old fort **is** cracked.",
+     "The walls of the old fort **are** cracked.",
+     "walls (plural)"
+    ],
+    [
+     "The box of old letters **were** found in the attic.",
+     "The box of old letters **was** found in the attic.",
+     "box (singular)"
+    ],
+    [
+     "The quality of the photographs **have** improved.",
+     "The quality of the photographs **has** improved.",
+     "quality (singular)"
+    ],
+    [
+     "A list of the names of all the workers **are** on the wall.",
+     "A list of the names of all the workers **is** on the wall.",
+     "list (singular)"
+    ],
+    [
+     "The road between the two villages **flood** every winter.",
+     "The road between the two villages **floods** every winter.",
+     "road (singular)"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Long subjects can contain **two or three** phrases in a row (“A list **of the names of all the workers**”). Keep crossing out until you reach the first noun of the sentence that is not inside a phrase."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 2: Extra information does not change the subject"
+  },
+  {
+   "type": "p",
+   "text": "Words placed between commas, dashes or brackets are extra information. Phrases that begin with **along with, together with, as well as, in addition to, including, accompanied by** and **like** look as if they add a second person to the subject, but they do **not**. Only **and** joins two subjects."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "✗ Wrong",
+    "✓ Right"
+   ],
+   "rows": [
+    [
+     "The captain, along with his crew, **were** rescued.",
+     "The captain, along with his crew, **was** rescued."
+    ],
+    [
+     "My aunt, as well as her three sons, **live** in Tanta.",
+     "My aunt, as well as her three sons, **lives** in Tanta."
+    ],
+    [
+     "The new museum — with its glass halls and gardens — **attract** thousands.",
+     "The new museum — with its glass halls and gardens — **attracts** thousands."
+    ],
+    [
+     "The ancient city of Thebes, which included the temples of Karnak and Luxor, **were** the capital.",
+     "The ancient city of Thebes, which included the temples of Karnak and Luxor, **was** the capital."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Watch the second verb.** When one subject has two or three verbs, every verb must agree with it, even the one that is far away: ✓ “The museum, which was built in 1902, **opens** at nine and **closes** at five.” ✗ “…opens at nine and **close** at five.” The ACT likes to underline the **last** verb in the series, where you have forgotten the subject."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "امسح الكلام اللي في النص",
+   "text": "قبل ما تختار الفعل، امسح أي جملة جر (of / in / with) وأي معلومة زيادة بين فاصلتين أو شرطتين. وخد بالك: along with و as well as و together with مش زي and — مش بيخلّوا الفاعل جمع. The captain, along with his crew, **was** rescued."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 3: Compound subjects — and, or, either…or, neither…nor"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A and B → plural.** ✓ The bridge and the tunnel **were** closed. ✗ The bridge and the tunnel **was** closed.",
+    "**Exception — one idea or one person:** ✓ Rice and milk **is** a traditional dessert. (one dish) ✓ My teacher and friend, Mr. Samir, **has** retired. (one person with two roles)",
+    "**each / every + and → singular:** ✓ Every boy and girl **has** a seat. ✓ Each chair and table **was** cleaned.",
+    "**A or B / either A or B / neither A nor B / not only A but also B → the verb agrees with the nearer subject (B).** ✓ Neither the students nor the teacher **is** ready. ✓ Neither the teacher nor the students **are** ready. ✓ Either my brothers or my father **drives** us.",
+    "**either / neither alone (without or/nor) → singular:** ✓ Neither of the answers **is** correct. ✓ Either of the routes **works**."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "Tip: with **or / nor**, the sentence usually sounds better when the plural subject comes second (✓ Neither the teacher nor the students **are**…). The ACT may still give you the other order, so apply the nearer-subject rule mechanically."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 4: Indefinite pronouns"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Group",
+    "Words",
+    "✓ Example"
+   ],
+   "rows": [
+    [
+     "Always singular",
+     "each, every, either, neither, one, everyone, everybody, everything, someone, somebody, something, anyone, anybody, anything, no one, nobody, nothing, much",
+     "Each of the boxes **was** labelled. One of my cousins **plays** for Al Ahly juniors. Everybody in the two classes **has** a locker."
+    ],
+    [
+     "Always plural",
+     "both, few, many, several, others",
+     "Both of the bridges **were** repaired. Several of the tiles **are** cracked."
+    ],
+    [
+     "Depends on the noun after “of”",
+     "some, any, none, all, most, more, half, a lot, (and fractions and percentages: two-thirds of, 40 percent of)",
+     "**Some of the water is** dirty. **Some of the bottles are** dirty. **Half of the cake was** eaten. **Half of the cakes were** eaten."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**None:** with an uncountable noun, “none” is singular (✓ None of the money **was** found). With a plural noun, modern Standard English accepts both (None of the players **is / are** injured), so the ACT will not make that the only difference between choices. Expect the other rules to decide the question."
+  },
+  {
+   "type": "p",
+   "text": "**One of the + plural noun → singular verb**, because the subject is “one”: ✓ One of the reasons for the delays **is** the weather. ✗ One of the reasons for the delays **are** the weather."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 5: Collective nouns and nouns that look plural"
+  },
+  {
+   "type": "p",
+   "text": "A **collective noun** names a group: team, family, class, committee, jury, audience, crowd, staff, band, government, company, school, club. In American English — the English of the ACT — a collective noun acting as **one unit** takes a **singular** verb. This is important for students at British schools, because British English often says “the team are”."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "✗ Wrong on the ACT",
+    "✓ Right on the ACT"
+   ],
+   "rows": [
+    [
+     "The committee **have** chosen a winner.",
+     "The committee **has** chosen a winner."
+    ],
+    [
+     "Our team **are** training for the final.",
+     "Our team **is** training for the final."
+    ],
+    [
+     "The audience **were** silent.",
+     "The audience **was** silent."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Some nouns end in -s but are **singular**: **news**, **mathematics**, **physics**, **economics**, **politics** (as a subject of study), **the United States**, and **titles** of books or films. ✓ The news **was** good. ✓ *Great Expectations* **is** on our reading list. **Amounts** of money, time and distance seen as one total are also singular: ✓ Ten kilometres **is** a long way to walk. ✓ Three hours **was** not enough."
+  },
+  {
+   "type": "p",
+   "text": "A **gerund (-ing) or a whole clause** used as a subject is singular: ✓ Building the new roads **has** taken years. ✓ What the villagers need **is** clean water. ✗ Reading novels **improve** your vocabulary."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 6: Inverted sentences — the subject comes after the verb"
+  },
+  {
+   "type": "p",
+   "text": "Usually the subject comes first. In these patterns, the verb comes **first** and the subject follows it, so you must look **ahead** for the subject."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Pattern",
+    "✗ Wrong",
+    "✓ Right"
+   ],
+   "rows": [
+    [
+     "There is / There are",
+     "There **is** three reasons for the delay.",
+     "There **are** three reasons for the delay."
+    ],
+    [
+     "There was / There were",
+     "There **was** many people at the gate.",
+     "There **were** many people at the gate."
+    ],
+    [
+     "Here comes / Here come",
+     "Here **comes** the first runners.",
+     "Here **come** the first runners."
+    ],
+    [
+     "A place phrase first",
+     "On the hill **stands** two old windmills.",
+     "On the hill **stand** two old windmills."
+    ],
+    [
+     "Questions",
+     "Where **is** the keys to the lab?",
+     "Where **are** the keys to the lab?"
+    ],
+    [
+     "Among / Inside / Beyond…",
+     "Among the papers **was** two photographs.",
+     "Among the papers **were** two photographs."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Fix: turn the sentence round into normal order. “On the hill stand two old windmills” → “Two old windmills **stand** on the hill.” Now the agreement is obvious. Remember that **there** and **here** are never the subject."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 7: “The number of” and “a number of”"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**The number of + plural noun → singular verb.** “The number” is one figure. ✓ The number of visitors **has** doubled.",
+    "**A number of + plural noun → plural verb.** “A number of” means “several”. ✓ A number of visitors **have** complained.",
+    "The same pattern: **the variety / the majority / the total** (one thing) vs **a variety of / a majority of / a total of** + plural noun, which usually takes a plural verb. ✓ A variety of birds **nest** here. ✓ The variety of birds **is** amazing."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "Memory trick: **the** number = **the** single figure → singular. **A** number = **a**bout several → plural."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 8: Verbs in who / which / that clauses"
+  },
+  {
+   "type": "p",
+   "text": "A relative pronoun (**who, which, that**) has no number of its own. It copies the number of the noun it refers to (its **antecedent**), which is usually the noun just before it. So the verb **inside** the clause agrees with that noun."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "✗ Wrong",
+    "✓ Right",
+    "who/which/that = …"
+   ],
+   "rows": [
+    [
+     "Students who **arrives** late must sign in.",
+     "Students who **arrive** late must sign in.",
+     "students (plural)"
+    ],
+    [
+     "She owns a camera that **take** underwater photos.",
+     "She owns a camera that **takes** underwater photos.",
+     "camera (singular)"
+    ],
+    [
+     "The farms, which **lies** along the canal, grow cotton.",
+     "The farms, which **lie** along the canal, grow cotton.",
+     "farms (plural)"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Two subtle cases: **one of the + plural noun + who/that** → the clause refers to the plural noun: ✓ Karim is one of the students who **volunteer** every Friday (many students volunteer; Karim is one of them). But **the only one of the… who/that** → singular: ✓ Karim is the only one of the students who **volunteers**. And do not forget the **main** verb after the clause: ✓ The lantern **that hangs** in the windows of our street **was** made by my grandfather — “lantern … was”."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "Each example is part of an ACT-style essay. The underlined portion is shown in **bold**."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1.** “The results of the survey, which was carried out in three cities last spring, **shows** that most teenagers sleep less than eight hours.”"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) show",
+    "C) has shown",
+    "D) is showing"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**B is correct.** Cross out the extra information between the commas: “The results … **show**.” “Results” is plural.",
+    "**A** agrees with “survey”, which is inside the which-clause — the nearest-noun trap with an extra clause.",
+    "**C** and **D** are also singular (has, is), so they make the same agreement error; they also change the tense for no reason."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2.** “On the morning of the final, neither the coach nor the players **was** ready for the heavy rain.”"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) has been",
+    "C) were",
+    "D) is"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**C is correct.** With neither…nor, the verb agrees with the nearer subject, “the players” (plural) → “were”. The past tense matches “On the morning of the final”.",
+    "**A** and **B** are singular; they agree with “the coach”, the farther subject.",
+    "**D** is singular and also switches to the present tense in a past narrative."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3.** “At the bottom of the old well **lies** several clay jars that archaeologists believe are two thousand years old.”"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) lie",
+    "C) is lying",
+    "D) has lain"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**B is correct.** This is an inverted sentence. Put it in normal order: “Several clay jars **lie** at the bottom of the old well.” The subject “jars” is plural.",
+    "**A**, **C** and **D** are all singular; they seem to agree with “well”, which is inside the opening place phrase.",
+    "**Trap name:** inverted-sentence trap — the subject comes after the verb."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4.** “The number of students who take the bus to our school **have** risen every year since the new road opened.”"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) are rising",
+    "C) has risen",
+    "D) rise"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**C is correct.** The subject is “The number”, a single figure → singular “has risen”. The present perfect fits “every year since…”.",
+    "**A** and **D** agree with “students”, which is inside the phrase “of students who take the bus”. **B** is plural too, and the continuous form does not fit “since the new road opened”.",
+    "Notice that “take” inside the who-clause is correctly plural: “who” = students. Two verbs, two different subjects."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**Nearest-noun trap:** a plural noun at the end of a long phrase just before the verb (The box **of old letters** was…).",
+    "**Fake compound subject:** along with / as well as / together with / including do not make the subject plural.",
+    "**Inverted sentence:** there is/are, here comes/come, or a place phrase at the start — the subject is after the verb.",
+    "**Looks plural, is singular:** each, every, one of, everyone, the number of, news, mathematics, amounts of time and money.",
+    "**British habit:** “the team are” — on the ACT a collective noun acting as one group is singular.",
+    "**The far verb:** the second or third verb in a series, or the main verb after a long who/which clause."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Scan the choices: singular vs plural forms → agreement question.",
+    "Ask “Who or what ___?” to find the subject; cross out of-phrases, comma/dash extras and who/which clauses.",
+    "If the sentence starts with There, Here or a place phrase, look **after** the verb for the subject.",
+    "or / nor → nearer subject; and → plural; each / every / one → singular; the number → singular, a number → plural.",
+    "Read only “subject + verb” in your head. If two choices are both correct for agreement, choose the one whose tense matches the paragraph."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "اسأل مين اللي بيعمل الفعل؟",
+   "text": "اسأل نفسك: مين أو إيه اللي بيعمل الفعل؟ لو الجملة بادئة بـ There أو Here أو مكان (On the hill)، الفاعل بييجي بعد الفعل. و The number of = مفرد، لكن A number of = جمع. وكلمة Each و One of دايمًا مفرد."
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Two ACT-style essays with 5 questions each, all on subject–verb agreement. The numbers in brackets match the question numbers. For each underlined verb, find the true subject before you look at the choices."
+  },
+  {
+   "type": "test",
+   "title": "Subject–Verb Agreement quiz",
+   "timed": false,
+   "intro": "Two ACT-style essays with 5 questions each. For every underlined verb, ask “Who or what ___?” and cross out the words in the middle before you choose.",
+   "sections": [
+    {
+     "name": "Passages I–II",
+     "minutes": 8,
+     "questions": [
+      {
+       "p": "The Lantern Makers of Bab Zuweila\n\nIn a narrow lane near Bab Zuweila, one of the old gates of Cairo, the sound of small hammers __fill__ [1] the air from early morning. Here, a handful of family workshops still make the metal lanterns, called fawanees, that Egyptians hang in their windows during Ramadan. Most of these workshops have been run by the same families for three or four generations.\n\nEach lantern __begin__ [2] as a flat sheet of brass or tin. The craftsman, along with his two young apprentices, __shape__ [3] the metal into panels, punches tiny star patterns into them, and then solders the pieces together around panes of stained glass. The number of separate steps __is__ [4] surprising: a large lantern can take a full week to finish.\n\nToday, cheap plastic lanterns that light up and play songs __competes__ [5] with the handmade ones in every market. Yet many families still prefer metal, which lasts for generations and throws beautiful shadows across the walls. As one workshop owner explains, a plastic lantern is bought for a single Ramadan, but a brass lantern is passed down to your grandchildren.",
+       "q": "[1] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "fills",
+        "are filling",
+        "have filled"
+       ],
+       "a": 1,
+       "e": "The subject is “the sound”, not “hammers” (which is inside the phrase “of small hammers”). Singular subject → “fills”. A, C and D are plural and fall into the nearest-noun trap.",
+       "s": "Subject–verb agreement (prepositional phrase)"
+      },
+      {
+       "p": "The Lantern Makers of Bab Zuweila\n\nIn a narrow lane near Bab Zuweila, one of the old gates of Cairo, the sound of small hammers __fill__ [1] the air from early morning. Here, a handful of family workshops still make the metal lanterns, called fawanees, that Egyptians hang in their windows during Ramadan. Most of these workshops have been run by the same families for three or four generations.\n\nEach lantern __begin__ [2] as a flat sheet of brass or tin. The craftsman, along with his two young apprentices, __shape__ [3] the metal into panels, punches tiny star patterns into them, and then solders the pieces together around panes of stained glass. The number of separate steps __is__ [4] surprising: a large lantern can take a full week to finish.\n\nToday, cheap plastic lanterns that light up and play songs __competes__ [5] with the handmade ones in every market. Yet many families still prefer metal, which lasts for generations and throws beautiful shadows across the walls. As one workshop owner explains, a plastic lantern is bought for a single Ramadan, but a brass lantern is passed down to your grandchildren.",
+       "q": "[2] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "have begun",
+        "are beginning",
+        "begins"
+       ],
+       "a": 3,
+       "e": "“Each lantern” is singular, so the verb must be “begins”; the present tense matches the paragraph (punches, solders). A, B and C are plural forms.",
+       "s": "Subject–verb agreement (each)"
+      },
+      {
+       "p": "The Lantern Makers of Bab Zuweila\n\nIn a narrow lane near Bab Zuweila, one of the old gates of Cairo, the sound of small hammers __fill__ [1] the air from early morning. Here, a handful of family workshops still make the metal lanterns, called fawanees, that Egyptians hang in their windows during Ramadan. Most of these workshops have been run by the same families for three or four generations.\n\nEach lantern __begin__ [2] as a flat sheet of brass or tin. The craftsman, along with his two young apprentices, __shape__ [3] the metal into panels, punches tiny star patterns into them, and then solders the pieces together around panes of stained glass. The number of separate steps __is__ [4] surprising: a large lantern can take a full week to finish.\n\nToday, cheap plastic lanterns that light up and play songs __competes__ [5] with the handmade ones in every market. Yet many families still prefer metal, which lasts for generations and throws beautiful shadows across the walls. As one workshop owner explains, a plastic lantern is bought for a single Ramadan, but a brass lantern is passed down to your grandchildren.",
+       "q": "[3] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "are shaping",
+        "shapes",
+        "have shaped"
+       ],
+       "a": 2,
+       "e": "The subject is “The craftsman”; “along with his two young apprentices” is extra information and does not make the subject plural. Singular “shapes” also matches the other verbs in the series, “punches” and “solders”. A, B and D are plural.",
+       "s": "Subject–verb agreement (along with)"
+      },
+      {
+       "p": "The Lantern Makers of Bab Zuweila\n\nIn a narrow lane near Bab Zuweila, one of the old gates of Cairo, the sound of small hammers __fill__ [1] the air from early morning. Here, a handful of family workshops still make the metal lanterns, called fawanees, that Egyptians hang in their windows during Ramadan. Most of these workshops have been run by the same families for three or four generations.\n\nEach lantern __begin__ [2] as a flat sheet of brass or tin. The craftsman, along with his two young apprentices, __shape__ [3] the metal into panels, punches tiny star patterns into them, and then solders the pieces together around panes of stained glass. The number of separate steps __is__ [4] surprising: a large lantern can take a full week to finish.\n\nToday, cheap plastic lanterns that light up and play songs __competes__ [5] with the handmade ones in every market. Yet many families still prefer metal, which lasts for generations and throws beautiful shadows across the walls. As one workshop owner explains, a plastic lantern is bought for a single Ramadan, but a brass lantern is passed down to your grandchildren.",
+       "q": "[4] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "are",
+        "were",
+        "have been"
+       ],
+       "a": 0,
+       "e": "“The number of separate steps” is one figure, so it takes the singular “is”, and the present tense fits the paragraph. B, C and D are plural; they agree with “steps”, which is inside the of-phrase.",
+       "s": "Subject–verb agreement (the number of)"
+      },
+      {
+       "p": "The Lantern Makers of Bab Zuweila\n\nIn a narrow lane near Bab Zuweila, one of the old gates of Cairo, the sound of small hammers __fill__ [1] the air from early morning. Here, a handful of family workshops still make the metal lanterns, called fawanees, that Egyptians hang in their windows during Ramadan. Most of these workshops have been run by the same families for three or four generations.\n\nEach lantern __begin__ [2] as a flat sheet of brass or tin. The craftsman, along with his two young apprentices, __shape__ [3] the metal into panels, punches tiny star patterns into them, and then solders the pieces together around panes of stained glass. The number of separate steps __is__ [4] surprising: a large lantern can take a full week to finish.\n\nToday, cheap plastic lanterns that light up and play songs __competes__ [5] with the handmade ones in every market. Yet many families still prefer metal, which lasts for generations and throws beautiful shadows across the walls. As one workshop owner explains, a plastic lantern is bought for a single Ramadan, but a brass lantern is passed down to your grandchildren.",
+       "q": "[5] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "compete",
+        "competing",
+        "has competed"
+       ],
+       "a": 1,
+       "e": "The subject is “lanterns” (plural); “that light up and play songs” is a clause describing them. Plural subject → “compete”. A and D are singular; C is not a complete verb, so the sentence would have no main verb.",
+       "s": "Subject–verb agreement (that-clause)"
+      },
+      {
+       "p": "The Bus That Brought Books\n\nEvery Saturday, a blue bus painted with giant open books parks beside the mosque in my grandmother's village near Beni Suef. Inside __is__ [6] four tall shelves and two small reading tables. The bus belongs to a charity in Cairo, and the team that runs it __decide__ [7] each month which new titles to bring.\n\nNeither the driver nor the two volunteers who travel with him __is__ [8] paid very much, but they never seem to mind. Everyone who borrows a book __has__ [9] to return it the following Saturday, and almost nobody forgets. Missing the bus means missing a week of new stories, so on some mornings the line of waiting children stretches all the way to the bakery.\n\nMy favorite volunteer is Mr. Adel, a retired teacher. He reads aloud to the youngest children, who __sits__ [10] in a circle on a worn red carpet and shout out answers to his questions. Last summer I joined the volunteers as a helper, and for the first time I understood why my grandmother calls the bus \"the Saturday school.\"",
+       "q": "[6] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "has been",
+        "was",
+        "are"
+       ],
+       "a": 3,
+       "e": "This sentence is inverted: in normal order it is “Four tall shelves and two small reading tables are inside.” The subject is plural (and joins two items), so “are” is correct, in the present tense like the paragraph. A, B and C are singular.",
+       "s": "Subject–verb agreement (inverted sentence)"
+      },
+      {
+       "p": "The Bus That Brought Books\n\nEvery Saturday, a blue bus painted with giant open books parks beside the mosque in my grandmother's village near Beni Suef. Inside __is__ [6] four tall shelves and two small reading tables. The bus belongs to a charity in Cairo, and the team that runs it __decide__ [7] each month which new titles to bring.\n\nNeither the driver nor the two volunteers who travel with him __is__ [8] paid very much, but they never seem to mind. Everyone who borrows a book __has__ [9] to return it the following Saturday, and almost nobody forgets. Missing the bus means missing a week of new stories, so on some mornings the line of waiting children stretches all the way to the bakery.\n\nMy favorite volunteer is Mr. Adel, a retired teacher. He reads aloud to the youngest children, who __sits__ [10] in a circle on a worn red carpet and shout out answers to his questions. Last summer I joined the volunteers as a helper, and for the first time I understood why my grandmother calls the bus \"the Saturday school.\"",
+       "q": "[7] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "decides",
+        "have decided",
+        "are deciding"
+       ],
+       "a": 1,
+       "e": "The subject is “the team”, a collective noun acting as one unit, so on the ACT it takes a singular verb: “decides”. Notice “that runs it” is singular too. A, C and D are plural (the British-English habit “the team decide” is the trap).",
+       "s": "Subject–verb agreement (collective noun)"
+      },
+      {
+       "p": "The Bus That Brought Books\n\nEvery Saturday, a blue bus painted with giant open books parks beside the mosque in my grandmother's village near Beni Suef. Inside __is__ [6] four tall shelves and two small reading tables. The bus belongs to a charity in Cairo, and the team that runs it __decide__ [7] each month which new titles to bring.\n\nNeither the driver nor the two volunteers who travel with him __is__ [8] paid very much, but they never seem to mind. Everyone who borrows a book __has__ [9] to return it the following Saturday, and almost nobody forgets. Missing the bus means missing a week of new stories, so on some mornings the line of waiting children stretches all the way to the bakery.\n\nMy favorite volunteer is Mr. Adel, a retired teacher. He reads aloud to the youngest children, who __sits__ [10] in a circle on a worn red carpet and shout out answers to his questions. Last summer I joined the volunteers as a helper, and for the first time I understood why my grandmother calls the bus \"the Saturday school.\"",
+       "q": "[8] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "was",
+        "are",
+        "has been"
+       ],
+       "a": 2,
+       "e": "With neither…nor, the verb agrees with the nearer subject, “the two volunteers” (plural) → “are”. The present tense matches “they never seem to mind”. A, B and D are singular and agree with the farther subject, “the driver”.",
+       "s": "Subject–verb agreement (neither…nor)"
+      },
+      {
+       "p": "The Bus That Brought Books\n\nEvery Saturday, a blue bus painted with giant open books parks beside the mosque in my grandmother's village near Beni Suef. Inside __is__ [6] four tall shelves and two small reading tables. The bus belongs to a charity in Cairo, and the team that runs it __decide__ [7] each month which new titles to bring.\n\nNeither the driver nor the two volunteers who travel with him __is__ [8] paid very much, but they never seem to mind. Everyone who borrows a book __has__ [9] to return it the following Saturday, and almost nobody forgets. Missing the bus means missing a week of new stories, so on some mornings the line of waiting children stretches all the way to the bakery.\n\nMy favorite volunteer is Mr. Adel, a retired teacher. He reads aloud to the youngest children, who __sits__ [10] in a circle on a worn red carpet and shout out answers to his questions. Last summer I joined the volunteers as a helper, and for the first time I understood why my grandmother calls the bus \"the Saturday school.\"",
+       "q": "[9] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "have",
+        "are having",
+        "were"
+       ],
+       "a": 0,
+       "e": "“Everyone” is always singular, and “who borrows a book” is only a clause describing it. Singular “has” is correct. B and C are plural; D is plural and changes the meaning.",
+       "s": "Subject–verb agreement (indefinite pronoun)"
+      },
+      {
+       "p": "The Bus That Brought Books\n\nEvery Saturday, a blue bus painted with giant open books parks beside the mosque in my grandmother's village near Beni Suef. Inside __is__ [6] four tall shelves and two small reading tables. The bus belongs to a charity in Cairo, and the team that runs it __decide__ [7] each month which new titles to bring.\n\nNeither the driver nor the two volunteers who travel with him __is__ [8] paid very much, but they never seem to mind. Everyone who borrows a book __has__ [9] to return it the following Saturday, and almost nobody forgets. Missing the bus means missing a week of new stories, so on some mornings the line of waiting children stretches all the way to the bakery.\n\nMy favorite volunteer is Mr. Adel, a retired teacher. He reads aloud to the youngest children, who __sits__ [10] in a circle on a worn red carpet and shout out answers to his questions. Last summer I joined the volunteers as a helper, and for the first time I understood why my grandmother calls the bus \"the Saturday school.\"",
+       "q": "[10] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "is sitting",
+        "sitting",
+        "sit"
+       ],
+       "a": 3,
+       "e": "“Who” refers to “the youngest children” (plural), so the verb in the clause must be plural: “sit”. The second verb in the clause, “shout”, is plural too. A and B are singular; C is not a complete verb.",
+       "s": "Subject–verb agreement (who-clause)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Find the true subject: cross out of-phrases, extra information between commas or dashes, and who/which/that clauses.",
+    "and → plural; or / nor → agree with the nearer subject; along with / as well as do not count.",
+    "each, every, one of, everyone, the number of, collective nouns (team, committee) → singular; a number of, both, several → plural.",
+    "In there is/are, here comes/come and place-first sentences, the subject comes after the verb.",
+    "A verb in a who/which/that clause agrees with the noun the pronoun refers to."
+   ]
+  }
+ ]
+}

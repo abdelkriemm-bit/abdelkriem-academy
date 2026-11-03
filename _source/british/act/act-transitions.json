@@ -1,0 +1,626 @@
+{
+ "slug": "act-transitions",
+ "nav": "Transitions",
+ "title": "Transitions: Choosing the Right Linking Word",
+ "kicker": "American Diploma · ACT · English: Production of Writing",
+ "summary": "How to choose the transition word that shows the true relationship between two ideas — logic families, exact meanings, the same-meaning trick and when to delete the transition.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Transition questions belong to **Production of Writing**, the reporting category that is 38–43% of the ACT English score. They test **cohesion**: does the linking word tell the reader the true relationship between two ideas? A transition is a signpost. If the signpost says \"turn left\" (however) when the road goes straight on (in addition), the reader gets lost."
+  },
+  {
+   "type": "p",
+   "text": "On the test, a transition word or phrase is underlined and the choices are usually NO CHANGE plus three other transitions. Very often **all four choices are grammatically correct**. Only the logic decides. Sometimes one choice removes the transition completely."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Where the transition appears",
+    "What it looks like"
+   ],
+   "rows": [
+    [
+     "At the start of a sentence",
+     "\"__However,__ the plan failed.\""
+    ],
+    [
+     "After a semicolon (joining two independent clauses)",
+     "\"The road was closed; __as a result,__ we were late.\""
+    ],
+    [
+     "In the middle of a clause",
+     "\"The plan, __however,__ failed.\""
+    ],
+    [
+     "As a conjunction joining two clauses",
+     "\"She trained every day, __but__ she lost the race.\""
+    ],
+    [
+     "Combined with the first words of the sentence",
+     "\"__For example, the__ oven has cracked\" — so that one choice can drop the transition and keep \"The\""
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Some transition questions ask you only to read the sentence before. Others need the whole paragraph, because the relationship is with an idea two sentences back. Never judge a transition from its own sentence alone."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "قبل ما تبص على الاختيارات",
+   "text": "غطّي الاختيارات بإيدك. اقرا الجملة اللي قبل والجملة اللي فيها الكلمة، وقول العلاقة بينهم بكلامك: عكس؟ نتيجة؟ مثال؟ إضافة؟ خطوة بعدها؟ حاجة حصلت رغم اللي قبلها؟ بعد كده بس دوّر على الكلمة اللي من نفس العيلة."
+  },
+  {
+   "type": "h2",
+   "text": "The method: name the relationship before you look"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Cover the transition and the choices.** If you read \"However\" first, your brain will try to make a contrast fit.",
+    "**Read the sentence before and the sentence with the transition.** If the link is unclear, read the whole paragraph.",
+    "**Fill in this frame:** \"The second idea is ______ the first.\" (the opposite of / the result of / an example of / another point like / the next step after / surprising after / a stronger version of)",
+    "**Choose the family** from the table below.",
+    "**Check the exact meaning** of the word in that family — \"instead,\" \"otherwise\" and \"meanwhile\" have very narrow meanings.",
+    "**Use the same-meaning trick** to cross out twins (see below).",
+    "**Consider no transition at all.** If every word forces a false link, the choice that deletes it is right."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "h2",
+   "text": "The logic families"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Family",
+    "The second idea …",
+    "Common words",
+    "Mini example"
+   ],
+   "rows": [
+    [
+     "Addition",
+     "adds another point of the same kind, in the same direction",
+     "also, in addition, moreover, furthermore, besides, additionally",
+     "The flat is close to the metro; **moreover**, the rent is low."
+    ],
+    [
+     "Contrast",
+     "goes against or differs from the first idea",
+     "however, but, yet, in contrast, on the other hand, whereas, by comparison",
+     "Cairo is crowded; **in contrast**, Siwa is quiet."
+    ],
+    [
+     "Cause → effect",
+     "is the result of the first idea",
+     "therefore, as a result, consequently, thus, so, for this reason, accordingly, in this way",
+     "The bridge was closed; **therefore**, we took the ferry."
+    ],
+    [
+     "Example",
+     "is one case of the general idea before it",
+     "for example, for instance, to illustrate, specifically",
+     "Many birds migrate; **for example**, storks fly over Sinai each autumn."
+    ],
+    [
+     "Sequence / time",
+     "is the next step or a later moment",
+     "first, then, next, later, afterwards, eventually, finally, meanwhile, subsequently",
+     "Mix the flour and water. **Then** knead the dough."
+    ],
+    [
+     "Concession",
+     "happens even though the first idea suggests the opposite",
+     "nevertheless, nonetheless, even so, still, despite this, regardless",
+     "The exam was hard; **nevertheless**, she scored full marks."
+    ],
+    [
+     "Emphasis",
+     "makes the first idea stronger, or goes even further",
+     "in fact, indeed, above all, especially, in particular",
+     "The old bridge was narrow; **in fact**, two cars could not pass."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Three smaller families also appear: **restatement** (in other words, that is, in short) says the same idea again more simply; **similarity** (similarly, likewise, in the same way) shows two things work alike; **conclusion** (ultimately, in the end, overall) sums up."
+  },
+  {
+   "type": "h2",
+   "text": "Exact meanings: the words students confuse"
+  },
+  {
+   "type": "p",
+   "text": "Knowing the family is not always enough. Some transitions have a narrow meaning, and the ACT likes to test it."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Word",
+    "Exact meaning",
+    "✓ / ✗"
+   ],
+   "rows": [
+    [
+     "instead",
+     "in place of the thing just said not to happen (it needs a negative or a rejected option before it)",
+     "✓ He did not take the bus; **instead**, he walked. ✗ He took the bus; **instead**, he arrived early."
+    ],
+    [
+     "otherwise",
+     "if not / if that does not happen",
+     "✓ Book early; **otherwise**, the seats will be gone. ✗ The seats were cheap; **otherwise**, we bought four."
+    ],
+    [
+     "meanwhile",
+     "at the same time (often in another place)",
+     "✓ Ali cooked the rice; **meanwhile**, Omar set the table. ✗ The film ended; **meanwhile**, we went home."
+    ],
+    [
+     "eventually / finally",
+     "after a long time or a long process / last in a series",
+     "✓ The engine failed twice but **eventually** started. ✗ **Eventually**, the first step is to read the question."
+    ],
+    [
+     "similarly / likewise",
+     "the second thing works in the same way as the first",
+     "✓ Camels store fat for the desert; **similarly**, some cacti store water. ✗ Camels store fat; **similarly**, horses cannot."
+    ],
+    [
+     "in fact / indeed",
+     "goes further than the first idea in the same direction",
+     "✓ The test was long; **in fact**, it took four hours. ✗ The test was long; **in fact**, it was short."
+    ],
+    [
+     "in other words",
+     "says the same idea again in simpler words — no new information",
+     "✓ The drug is lethal; **in other words**, it can kill. ✗ The drug is lethal; **in other words**, it is expensive."
+    ],
+    [
+     "for example",
+     "the second idea is one case of the general claim",
+     "✓ Some metals are soft; **for example**, gold bends easily. ✗ Gold bends easily; **for example**, some metals are soft. (reversed — the general claim must come first)"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Contrast or concession? The subtle difference"
+  },
+  {
+   "type": "p",
+   "text": "Both families \"go against\" something, so students mix them up. **Contrast** puts two different things side by side (Cairo is hot; Alexandria is cooler). **Concession** says a result happened even though the first idea made us expect the opposite."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ The team lost every match; **nevertheless**, the fans kept coming. (we expect fans to stop — they did not: concession)",
+    "✓ My brother loves football; **in contrast**, I prefer chess. (two different people compared: contrast)",
+    "✗ My brother loves football; **nevertheless**, I prefer chess. (my preference is not surprising because of his — no expectation is broken)",
+    "✓ The tray was heavy; **even so**, the boy did not drop it. (concession)",
+    "✗ The tray was heavy; **therefore**, the boy did not drop it. (heaviness does not cause safe carrying — reversed logic)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "\"However\" can do both jobs, which is why it is so often correct — and so often a trap. Never choose \"However\" just because it sounds academic; first prove there is a real contrast or a broken expectation."
+  },
+  {
+   "type": "h2",
+   "text": "The \"two choices mean the same\" trick"
+  },
+  {
+   "type": "p",
+   "text": "A transition question has exactly one right answer. So if two choices mean the same thing in that sentence, they must be equally right or equally wrong — and since they cannot both be right, **both are wrong.** Cross them out."
+  },
+  {
+   "type": "list",
+   "items": [
+    "Choices: therefore / thus / however / in fact → \"therefore\" and \"thus\" are twins; the answer is \"however\" or \"in fact.\"",
+    "Choices: NO CHANGE (Nevertheless) / Even so / In this way / On the other hand → \"Nevertheless\" and \"Even so\" are twins; both go.",
+    "Choices: as a result / consequently / for this reason / similarly → three cause words are triplets; only \"similarly\" is left, so check it carefully."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "Be careful: this trick works only when the words truly mean the same **in this sentence.** \"However\" and \"nevertheless\" are close but not always identical (however can show simple contrast; nevertheless always shows concession). Use the trick to narrow the choices, then confirm with the logic."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "خدعة الكلمتين اللي بنفس المعنى",
+   "text": "لو لقيت اختيارين معناهم واحد زي therefore و thus، أو nevertheless و even so، شيلهم الاتنين. السؤال ليه إجابة واحدة بس، فمستحيل الاتنين يكونوا صح."
+  },
+  {
+   "type": "h2",
+   "text": "When the best transition is no transition"
+  },
+  {
+   "type": "p",
+   "text": "Some choices drop the transition completely, for example \"The\" instead of \"For example, the,\" or the instruction \"DELETE the underlined portion.\" Choose it when:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Every transition word forces a false relationship.** If the sentence is not a contrast, not a result, not an example, the plain sentence is better than a wrong signpost.",
+    "**The logic is already shown by another word.** \"Because the road was closed, **therefore** we were late\" doubles the cause; drop \"therefore.\"",
+    "**The sentence simply continues a description or story** and the reader needs no signpost."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ We reached the village at noon. **For example,** the streets were empty.",
+    "✓ We reached the village at noon. The streets were empty.",
+    "✗ Although it rained, **however,** the match continued. (although already shows concession)",
+    "✓ Although it rained, the match continued."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "The ACT does not prefer the short answer automatically. A deleted transition is right only when the logic is clear without it. If the reader really needs to know \"this is a result,\" keep a result word."
+  },
+  {
+   "type": "p",
+   "text": "**A note on punctuation.** Words like however, therefore and nevertheless are not conjunctions, so they cannot join two complete sentences with only a comma. Use a full stop or a semicolon (which joins two independent clauses): \"The bridge was closed; **therefore**, we took the ferry.\" If the four choices differ only in punctuation, it is a punctuation question, not a transition question."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — cause and effect**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: The new metro line cut the journey from Heliopolis to downtown from an hour to twenty minutes. __However,__ many families who used to drive to work started taking the train."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) As a result,",
+    "C) For example,",
+    "D) In other words,"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: The automatic \"However\" trap: faster trips and more passengers go together; there is no contrast.",
+    "B) ✓ Correct: A faster journey caused families to switch — cause → effect.",
+    "C) ✗ Wrong: Families switching is not one case of a shorter journey.",
+    "D) ✗ Wrong: The second sentence adds new information; it does not restate the first."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — concession and the same-meaning trick**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: The village well was more than two kilometres from my aunt's house, and the path was steep and stony. __Consequently,__ she walked there twice a day for years and never once complained."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) Thus,",
+    "C) Even so,",
+    "D) For instance,"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: \"Consequently\" says the long, steep path caused her not to complain — reversed logic. A hard path makes us expect complaints. Also, A and B are twins.",
+    "B) ✗ Wrong: Twin of A (cause → effect) — both must be wrong.",
+    "C) ✓ Correct: She never complained despite the hard path — a result that breaks the expectation: concession.",
+    "D) ✗ Wrong: Not complaining is not an example of the path being steep."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — delete the transition**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: Our class visited the Egyptian Museum on Thursday. __Therefore, the__ guide began with the statue of King Khafre and then led us upstairs."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) In contrast, the",
+    "C) The",
+    "D) Similarly, the"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: The visit did not cause the guide's choice of where to begin — a false cause.",
+    "B) ✗ Wrong: Nothing contrasts with the visit.",
+    "C) ✓ Correct: The second sentence simply continues the story; no signpost is needed.",
+    "D) ✗ Wrong: The guide's route is not similar to the visit."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4 — exact meaning: instead vs in fact**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: The engineers did not repair the old wooden bridge. __In fact,__ they built a new steel one a few metres downstream."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) Instead,",
+    "C) Similarly,",
+    "D) For example,"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) ✗ Wrong: \"In fact\" would mean the second idea goes further in the same direction, but building a new bridge is not a stronger form of \"not repairing\"; it is what they did in its place.",
+    "B) ✓ Correct: After a negative (did not repair), \"instead\" introduces what was done in place of it — exact meaning.",
+    "C) ✗ Wrong: Building a new bridge is not like not repairing the old one.",
+    "D) ✗ Wrong: A new bridge is not an example of not repairing."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**The automatic \"However\":** choosing contrast because it sounds formal, without checking for a real contrast.",
+    "**Reversed cause:** \"therefore\" placed before the cause instead of the effect (the oven cracked → she buys bread, not the other way round).",
+    "**Contrast vs concession:** \"in contrast\" compares two things; \"nevertheless\" means a result happened despite an expectation.",
+    "**Twins:** two choices that mean the same are both wrong.",
+    "**Wrong direction of example:** \"for example\" must come after the general claim, not before it.",
+    "**Narrow words:** \"instead\" needs something rejected before it; \"meanwhile\" means at the same time; \"in other words\" adds nothing new.",
+    "**Double signpost:** although … however, because … therefore — one is enough.",
+    "**Ignoring the deletion choice:** if every word gives a false link, no transition is best."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Cover the choices and say the relationship in a few words: opposite, result, example, more, next, surprising, stronger.",
+    "Cross out twins first — it often leaves only two choices.",
+    "Test the last two in the frame \"The second idea is ___ the first.\"",
+    "Read one sentence further if the link is still unclear; the relationship may be with the whole paragraph.",
+    "If nothing fits, choose the choice with no transition."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "أشهر غلطة",
+   "text": "ما تختارش However علشان شكلها حلوة. لازم يكون فيه عكس حقيقي. ولو الجملة التانية نتيجة للأولى استخدم therefore أو as a result، ولو حصلت رغم الأولى استخدم nevertheless أو even so."
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Read the two essays and answer the 10 questions. Each underlined portion is numbered. Every question tests the logic of a transition."
+  },
+  {
+   "type": "test",
+   "title": "Transitions — ACT-style practice",
+   "timed": false,
+   "intro": "Two short essays, 10 questions on transition words and phrases. Explanations appear after you answer.",
+   "sections": [
+    {
+     "name": "Passages I–II",
+     "minutes": 8,
+     "questions": [
+      {
+       "p": "The Clay Oven\n\nEvery Friday morning, my grandmother lit the clay oven in the yard behind her house in a village near Tanta. The oven was older than my father; [1] __in fact,__ her own mother had built it from river mud and straw.\n\nLighting it took patience. First, she burned dry corn stalks inside it for nearly an hour. [2] __In contrast,__ she swept the ashes aside and slid the flat loaves onto the hot floor with a long wooden paddle.\n\nI always wanted to help with the baking. [3] __Therefore,__ she trusted me with only one job: carrying the dough from the kitchen on a wide tray. The tray was heavy, and I was only seven. [4] __As a result,__ I never dropped a single loaf, because I knew how many hours she had spent shaping them. Each time I set the tray down safely, she nodded at me without a word, and that nod was my reward.\n\nToday my grandmother buys her bread from a bakery in town. [5] __For example, the__ old oven has cracked, and nobody has repaired it. Still, whenever I smell bread baking, I am back in that yard, holding the tray with both hands.",
+       "q": "Question 1: Choose the best version of underlined portion [1]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "however,",
+        "for example,",
+        "as a result,"
+       ],
+       "a": 0,
+       "e": "The second clause makes the first stronger: the oven is not just older than her father — her great-grandmother built it. That is emphasis, so \"in fact\" fits. B signals a contrast that is not there; C — being built by her mother is not an example of being old; D — the building of the oven is not a result of its age (it is the cause).",
+       "s": "Transitions — emphasis"
+      },
+      {
+       "p": "The Clay Oven\n\nEvery Friday morning, my grandmother lit the clay oven in the yard behind her house in a village near Tanta. The oven was older than my father; [1] __in fact,__ her own mother had built it from river mud and straw.\n\nLighting it took patience. First, she burned dry corn stalks inside it for nearly an hour. [2] __In contrast,__ she swept the ashes aside and slid the flat loaves onto the hot floor with a long wooden paddle.\n\nI always wanted to help with the baking. [3] __Therefore,__ she trusted me with only one job: carrying the dough from the kitchen on a wide tray. The tray was heavy, and I was only seven. [4] __As a result,__ I never dropped a single loaf, because I knew how many hours she had spent shaping them. Each time I set the tray down safely, she nodded at me without a word, and that nod was my reward.\n\nToday my grandmother buys her bread from a bakery in town. [5] __For example, the__ old oven has cracked, and nobody has repaired it. Still, whenever I smell bread baking, I am back in that yard, holding the tray with both hands.",
+       "q": "Question 2: Choose the best version of underlined portion [2]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "Similarly,",
+        "Next,",
+        "For instance,"
+       ],
+       "a": 2,
+       "e": "\"First … for nearly an hour\" starts a series of steps; sweeping the ashes is the next step, so a sequence word is needed. A — the two steps do not contrast; B — sweeping is not similar to burning stalks; D — it is not an example of the first step.",
+       "s": "Transitions — sequence"
+      },
+      {
+       "p": "The Clay Oven\n\nEvery Friday morning, my grandmother lit the clay oven in the yard behind her house in a village near Tanta. The oven was older than my father; [1] __in fact,__ her own mother had built it from river mud and straw.\n\nLighting it took patience. First, she burned dry corn stalks inside it for nearly an hour. [2] __In contrast,__ she swept the ashes aside and slid the flat loaves onto the hot floor with a long wooden paddle.\n\nI always wanted to help with the baking. [3] __Therefore,__ she trusted me with only one job: carrying the dough from the kitchen on a wide tray. The tray was heavy, and I was only seven. [4] __As a result,__ I never dropped a single loaf, because I knew how many hours she had spent shaping them. Each time I set the tray down safely, she nodded at me without a word, and that nod was my reward.\n\nToday my grandmother buys her bread from a bakery in town. [5] __For example, the__ old oven has cracked, and nobody has repaired it. Still, whenever I smell bread baking, I am back in that yard, holding the tray with both hands.",
+       "q": "Question 3: Choose the best version of underlined portion [3]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "However,",
+        "In addition,",
+        "For example,"
+       ],
+       "a": 1,
+       "e": "The child wanted to help with the baking, but the grandmother allowed only one small job — a contrast between the wish and what happened. A says the wish caused the limit (it did not); C adds a point of the same kind; D — one job is not an example of wanting to help.",
+       "s": "Transitions — contrast"
+      },
+      {
+       "p": "The Clay Oven\n\nEvery Friday morning, my grandmother lit the clay oven in the yard behind her house in a village near Tanta. The oven was older than my father; [1] __in fact,__ her own mother had built it from river mud and straw.\n\nLighting it took patience. First, she burned dry corn stalks inside it for nearly an hour. [2] __In contrast,__ she swept the ashes aside and slid the flat loaves onto the hot floor with a long wooden paddle.\n\nI always wanted to help with the baking. [3] __Therefore,__ she trusted me with only one job: carrying the dough from the kitchen on a wide tray. The tray was heavy, and I was only seven. [4] __As a result,__ I never dropped a single loaf, because I knew how many hours she had spent shaping them. Each time I set the tray down safely, she nodded at me without a word, and that nod was my reward.\n\nToday my grandmother buys her bread from a bakery in town. [5] __For example, the__ old oven has cracked, and nobody has repaired it. Still, whenever I smell bread baking, I am back in that yard, holding the tray with both hands.",
+       "q": "Question 4: Choose the best version of underlined portion [4]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "Consequently,",
+        "Similarly,",
+        "Even so,"
+       ],
+       "a": 3,
+       "e": "A heavy tray and a seven-year-old would lead us to expect dropped loaves; the child never dropped one. A result that happens despite the first idea = concession, so \"Even so.\" A and B mean the same thing (cause → effect), so neither can be the one right answer — and being small does not cause perfect carrying. C shows similarity, which makes no sense here.",
+       "s": "Transitions — concession"
+      },
+      {
+       "p": "The Clay Oven\n\nEvery Friday morning, my grandmother lit the clay oven in the yard behind her house in a village near Tanta. The oven was older than my father; [1] __in fact,__ her own mother had built it from river mud and straw.\n\nLighting it took patience. First, she burned dry corn stalks inside it for nearly an hour. [2] __In contrast,__ she swept the ashes aside and slid the flat loaves onto the hot floor with a long wooden paddle.\n\nI always wanted to help with the baking. [3] __Therefore,__ she trusted me with only one job: carrying the dough from the kitchen on a wide tray. The tray was heavy, and I was only seven. [4] __As a result,__ I never dropped a single loaf, because I knew how many hours she had spent shaping them. Each time I set the tray down safely, she nodded at me without a word, and that nod was my reward.\n\nToday my grandmother buys her bread from a bakery in town. [5] __For example, the__ old oven has cracked, and nobody has repaired it. Still, whenever I smell bread baking, I am back in that yard, holding the tray with both hands.",
+       "q": "Question 5: Choose the best version of underlined portion [5]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "In contrast, the",
+        "Therefore, the",
+        "The"
+       ],
+       "a": 3,
+       "e": "No transition word fits: the cracked oven is not an example (A), it does not contrast with buying bread (B), and it is the CAUSE of buying bread, not the result, so \"Therefore\" (C) reverses the logic. Deleting the transition leaves a clear, correct sentence.",
+       "s": "Transitions — delete the transition"
+      },
+      {
+       "p": "How Bees Give Directions\n\nA honeybee that discovers a field of flowers has a problem: it cannot simply tell the other bees where the food is. [6] __Instead,__ it dances. Back inside the hive, the bee runs in a short straight line while shaking its body from side to side, then circles back and repeats the movement. Scientists call this performance the waggle dance.\n\nThe dance carries surprisingly exact information. The angle of the straight run shows the direction of the flowers compared with the position of the sun. [7] __However,__ the length of the run shows the distance: the longer the waggle, the farther away the food.\n\nOther bees crowd around the dancer, touching it with their antennae. [8] __Nevertheless,__ they learn the route before they ever leave the hive.\n\nAt first, many scientists doubted that insects could share anything so complex. [9] __For example,__ careful experiments in the twentieth century convinced most of them. Researchers moved dishes of sugar water to new places and watched newly arrived bees fly straight to the right spot. [10] __In other words, the__ next time you see a bee on a flower, remember that it may have been sent there by a dance.",
+       "q": "Question 6: Choose the best version of underlined portion [6]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "Similarly,",
+        "Meanwhile,",
+        "For instance,"
+       ],
+       "a": 0,
+       "e": "The bee cannot tell the others where the food is, so it does something else in place of telling: it dances. \"Instead\" = in place of the thing just ruled out. B — dancing is not similar to the problem; C means \"at the same time\"; D — dancing is not an example of the problem.",
+       "s": "Transitions — exact meaning (instead)"
+      },
+      {
+       "p": "How Bees Give Directions\n\nA honeybee that discovers a field of flowers has a problem: it cannot simply tell the other bees where the food is. [6] __Instead,__ it dances. Back inside the hive, the bee runs in a short straight line while shaking its body from side to side, then circles back and repeats the movement. Scientists call this performance the waggle dance.\n\nThe dance carries surprisingly exact information. The angle of the straight run shows the direction of the flowers compared with the position of the sun. [7] __However,__ the length of the run shows the distance: the longer the waggle, the farther away the food.\n\nOther bees crowd around the dancer, touching it with their antennae. [8] __Nevertheless,__ they learn the route before they ever leave the hive.\n\nAt first, many scientists doubted that insects could share anything so complex. [9] __For example,__ careful experiments in the twentieth century convinced most of them. Researchers moved dishes of sugar water to new places and watched newly arrived bees fly straight to the right spot. [10] __In other words, the__ next time you see a bee on a flower, remember that it may have been sent there by a dance.",
+       "q": "Question 7: Choose the best version of underlined portion [7]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "For example,",
+        "Therefore,",
+        "In addition,"
+       ],
+       "a": 3,
+       "e": "The paragraph lists two pieces of information the dance carries: direction, then distance. The second is another point of the same kind — addition. A — distance does not contrast with direction; B — distance is not an example of direction; C — the angle does not cause the length.",
+       "s": "Transitions — addition"
+      },
+      {
+       "p": "How Bees Give Directions\n\nA honeybee that discovers a field of flowers has a problem: it cannot simply tell the other bees where the food is. [6] __Instead,__ it dances. Back inside the hive, the bee runs in a short straight line while shaking its body from side to side, then circles back and repeats the movement. Scientists call this performance the waggle dance.\n\nThe dance carries surprisingly exact information. The angle of the straight run shows the direction of the flowers compared with the position of the sun. [7] __However,__ the length of the run shows the distance: the longer the waggle, the farther away the food.\n\nOther bees crowd around the dancer, touching it with their antennae. [8] __Nevertheless,__ they learn the route before they ever leave the hive.\n\nAt first, many scientists doubted that insects could share anything so complex. [9] __For example,__ careful experiments in the twentieth century convinced most of them. Researchers moved dishes of sugar water to new places and watched newly arrived bees fly straight to the right spot. [10] __In other words, the__ next time you see a bee on a flower, remember that it may have been sent there by a dance.",
+       "q": "Question 8: Choose the best version of underlined portion [8]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "On the other hand,",
+        "In this way,",
+        "Even so,"
+       ],
+       "a": 2,
+       "e": "By crowding around and touching the dancer, the bees learn the route — the first sentence describes the method, the second its result. \"In this way\" = by this method. A and D mean the same thing (a result despite something), so both are wrong; there is nothing surprising here. B signals a contrast that does not exist.",
+       "s": "Transitions — cause–effect / same-meaning trick"
+      },
+      {
+       "p": "How Bees Give Directions\n\nA honeybee that discovers a field of flowers has a problem: it cannot simply tell the other bees where the food is. [6] __Instead,__ it dances. Back inside the hive, the bee runs in a short straight line while shaking its body from side to side, then circles back and repeats the movement. Scientists call this performance the waggle dance.\n\nThe dance carries surprisingly exact information. The angle of the straight run shows the direction of the flowers compared with the position of the sun. [7] __However,__ the length of the run shows the distance: the longer the waggle, the farther away the food.\n\nOther bees crowd around the dancer, touching it with their antennae. [8] __Nevertheless,__ they learn the route before they ever leave the hive.\n\nAt first, many scientists doubted that insects could share anything so complex. [9] __For example,__ careful experiments in the twentieth century convinced most of them. Researchers moved dishes of sugar water to new places and watched newly arrived bees fly straight to the right spot. [10] __In other words, the__ next time you see a bee on a flower, remember that it may have been sent there by a dance.",
+       "q": "Question 9: Choose the best version of underlined portion [9]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "However,",
+        "Moreover,",
+        "Therefore,"
+       ],
+       "a": 1,
+       "e": "Scientists doubted; experiments changed their minds — a clear contrast. A — the experiments are not an example of doubt; C adds a point of the same kind; D says the doubt caused the experiments to convince them, which is illogical.",
+       "s": "Transitions — contrast"
+      },
+      {
+       "p": "How Bees Give Directions\n\nA honeybee that discovers a field of flowers has a problem: it cannot simply tell the other bees where the food is. [6] __Instead,__ it dances. Back inside the hive, the bee runs in a short straight line while shaking its body from side to side, then circles back and repeats the movement. Scientists call this performance the waggle dance.\n\nThe dance carries surprisingly exact information. The angle of the straight run shows the direction of the flowers compared with the position of the sun. [7] __However,__ the length of the run shows the distance: the longer the waggle, the farther away the food.\n\nOther bees crowd around the dancer, touching it with their antennae. [8] __Nevertheless,__ they learn the route before they ever leave the hive.\n\nAt first, many scientists doubted that insects could share anything so complex. [9] __For example,__ careful experiments in the twentieth century convinced most of them. Researchers moved dishes of sugar water to new places and watched newly arrived bees fly straight to the right spot. [10] __In other words, the__ next time you see a bee on a flower, remember that it may have been sent there by a dance.",
+       "q": "Question 10: Choose the best version of underlined portion [10]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "The",
+        "For instance, the",
+        "Similarly, the"
+       ],
+       "a": 1,
+       "e": "This closing sentence does not restate the experiments (A), give an example of them (C) or describe a similar idea (D). It is a final thought for the reader, and it reads clearly with no transition, so deleting the transition is best.",
+       "s": "Transitions — delete the transition"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Name the relationship BEFORE you look at the choices.",
+    "Learn the families: addition, contrast, cause–effect, example, sequence, concession, emphasis.",
+    "Check exact meanings: instead, otherwise, meanwhile, in other words, for example.",
+    "Two choices that mean the same are both wrong.",
+    "If every transition gives a false link, delete it."
+   ]
+  }
+ ]
+}

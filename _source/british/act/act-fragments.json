@@ -1,0 +1,576 @@
+{
+ "slug": "act-fragments",
+ "nav": "Fragments",
+ "title": "Sentence Fragments",
+ "kicker": "American Diploma · ACT · English: Conventions of Standard English",
+ "summary": "Every sentence needs a subject and a finite main verb — the five ways the ACT builds a fragment, the strip test, how to fix them, and a 10-question ACT-style practice.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Fragment questions belong to the **Conventions of Standard English** reporting category of the ACT English test, which is 38–43% of the English score together with punctuation and usage. The English test has **50 questions (40 scored) in 35 minutes**, spread over five essays: three of about 340 words with 10 questions each and two of about 185 words with 5 questions each."
+  },
+  {
+   "type": "p",
+   "text": "The ACT never asks \"Is this a fragment?\" Instead, part of the essay is **underlined** and numbered, and you choose the best of four versions — the first is usually **NO CHANGE**. A fragment item is easy to recognise once you know the signs: the choices change a **verb form** (grows / growing / to grow / which grows), add or remove a word such as **which, who, because, although**, or move a **period** to a new place. When you see these differences, ask one question: **does every sentence still have a subject and a main verb?**"
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الفكرة في سطر واحد",
+   "text": "كل جملة لازم يكون فيها فاعل (subject) + فعل أساسي حقيقي (main verb) + معنى كامل. لو الكلام بيبدأ بحرف كبير وبينتهي بنقطة ومفيهوش فعل أساسي، يبقى fragment = غلط. الفعل اللي فيه ing لوحده أو to + فعل مش فعل أساسي."
+  },
+  {
+   "type": "h2",
+   "text": "The rule: subject + finite main verb + complete thought"
+  },
+  {
+   "type": "p",
+   "text": "A complete sentence (an **independent clause**) needs three things: a **subject** (who or what the sentence is about), a **finite main verb** (a verb that shows tense and can work alone with its subject), and a **complete thought** (it is not introduced by a word that makes it depend on another clause)."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Finite verbs ✓ (can be the main verb)",
+    "Non-finite forms ✗ (cannot be the main verb alone)"
+   ],
+   "rows": [
+    [
+     "grows, grew, is growing, has grown, will grow, can grow",
+     "growing (no helping verb)"
+    ],
+    [
+     "was built, has been built, is built",
+     "built (as a description: \"built in 1920\")"
+    ],
+    [
+     "decided, decides, had decided",
+     "to decide"
+    ],
+    [
+     "is, was, are, were",
+     "being, having been"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ The festival being the biggest event of the year.",
+    "✓ The festival is the biggest event of the year.",
+    "✗ The bridge built by Italian engineers in 1902.",
+    "✓ The bridge was built by Italian engineers in 1902.",
+    "✓ The bridge, built by Italian engineers in 1902, still carries traffic. (\"built\" is a description inside commas; the main verb is \"carries\")"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "Notice the last pair: an -ing or -ed word is not wrong in itself. It is only wrong when it is the **only** verb the subject has."
+  },
+  {
+   "type": "h2",
+   "text": "The five ways the ACT builds a fragment"
+  },
+  {
+   "type": "p",
+   "text": "**1. A dependent clause standing alone.** Words like **because, although, though, while, when, whenever, since, if, unless, until, after, before, as, whereas, even though, so that** turn a full sentence into a dependent clause. It now needs an independent clause next to it."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ The village school closed for two weeks. Because the roof leaked after a storm.",
+    "✓ The village school closed for two weeks because the roof leaked after a storm.",
+    "✗ Although the tickets were expensive. The concert sold out in an hour.",
+    "✓ Although the tickets were expensive, the concert sold out in an hour."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**2. An -ing, -ed or to-verb phrase used instead of a main verb.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ The new solar plant near Aswan producing enough electricity for thousands of homes.",
+    "✓ The new solar plant near Aswan produces enough electricity for thousands of homes.",
+    "✗ The team worked through the night. Hoping to finish the model before the competition.",
+    "✓ The team worked through the night, hoping to finish the model before the competition.",
+    "✗ The aim of the campaign to plant a tree for every student.",
+    "✓ The aim of the campaign was to plant a tree for every student."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**3. A noun + who/which/that clause, but no main verb.** The verb is \"trapped\" inside the relative clause, so the main subject never gets its own verb. This is the ACT's favourite fragment."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ The scientist who discovered the tomb in 1922.",
+    "✓ The scientist discovered the tomb in 1922.",
+    "✓ The scientist who discovered the tomb in 1922 became famous overnight.",
+    "✗ A small museum in Rosetta, which displays maps of the old city.",
+    "✓ A small museum in Rosetta displays maps of the old city."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**4. A long subject that never gets its verb.** The ACT adds so many describing words (prepositional phrases, appositives, lists) that you forget the verb is missing."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ The old railway station on Ramses Street, with its tall clock tower and its windows painted by Italian craftsmen more than a century ago.",
+    "✓ The old railway station on Ramses Street, with its tall clock tower and its windows painted by Italian craftsmen more than a century ago, is now a museum."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**5. A period in the wrong place.** A complete sentence is cut in two, and the second half (a phrase or a dependent clause) is left alone. The fix is to remove the period and join the piece to the sentence it belongs to."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ Neighbours meet on the roof every evening. Making it a place of friendship.",
+    "✓ Neighbours meet on the roof every evening, making it a place of friendship.",
+    "✗ She studied medicine in Alexandria. Where her grandfather had once taught.",
+    "✓ She studied medicine in Alexandria, where her grandfather had once taught."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "خلي بالك من who / which",
+   "text": "لو الجملة بتبدأ باسم وبعده who أو which أو that، الفعل اللي بعدهم بيبقى بتاع الجملة الصغيرة. لازم تدوّر على فعل تاني للاسم الأساسي. مثال: The man who lives next door. ← ناقصة. The man who lives next door is a doctor. ← كاملة."
+  },
+  {
+   "type": "h2",
+   "text": "Subtle cases the ACT likes"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Adding \"which\" or \"who\" can destroy a good sentence.** ✓ Hoda trains every morning. ✗ Hoda, who trains every morning. One small word removed the main verb.",
+    "**\"Being\" is almost never the answer.** ✗ The result being a delay of three weeks. ✓ The result was a delay of three weeks.",
+    "**Two dependent clauses do not make a sentence.** ✗ Although the road was closed because the bridge was weak. Both clauses depend on something that is not there.",
+    "**A short sentence can be complete.** ✓ It rained. ✓ Nobody came. Length does not decide; subject + finite verb does.",
+    "**Commands are complete.** ✓ Return the books by Thursday. The subject \"you\" is understood.",
+    "**Starting with And or But does not make a fragment.** ✓ But the plan failed. It still has a subject and a main verb. Do not choose an answer just to remove \"But\".",
+    "**\"That\" after the subject can create a fragment.** ✓ The report shows a rise in prices. ✗ The report that shows a rise in prices."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "A 3-step method: the strip test"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Strip** the sentence: cross out any dependent clause (because…, although…, who…, which…, that…), anything between a pair of commas or dashes, and prepositional phrases (in…, of…, with…).",
+    "**Look at what is left.** Is there a subject and a finite verb that could stand alone? Example: \"The old railway station ~~on Ramses Street, with its tall clock tower…~~\" → only \"The old railway station\" is left: no verb, so it is a fragment.",
+    "**Fix it** with the smallest change the choices offer (see the table below), then read the whole sentence again with the sentence before and after."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "A useful check: put **\"I know that…\"** in front of the words. \"I know that the bridge was built in 1902\" makes sense, so it is a complete clause. \"I know that the bridge built in 1902\" does not, so it is a fragment. (Dependent clauses fail this test too: \"I know that because the roof leaked\" — no.)"
+  },
+  {
+   "type": "h2",
+   "text": "How to fix a fragment"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Problem",
+    "Fix",
+    "Example ✓"
+   ],
+   "rows": [
+    [
+     "-ing / -ed / to-verb instead of a verb",
+     "Change it to a finite verb",
+     "The plant **produces** enough electricity…"
+    ],
+    [
+     "Noun + who/which/that, no main verb",
+     "Remove who/which/that (or add a main verb later)",
+     "A small museum in Rosetta **displays** maps…"
+    ],
+    [
+     "Dependent clause alone",
+     "Join it to the neighbouring sentence (comma or no comma), or remove the subordinating word",
+     "…closed for two weeks **because** the roof leaked."
+    ],
+    [
+     "Phrase cut off by a period",
+     "Replace the period with a comma and attach it",
+     "…every evening**, making** it a place of friendship."
+    ],
+    [
+     "Long subject, no verb",
+     "Add the missing verb",
+     "…painted by Italian craftsmen, **is** now a museum."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Careful: when you attach a dependent clause, do **not** use a semicolon. A semicolon joins two complete sentences only (the teacher's rule), so \"…two weeks; because the roof leaked\" is still wrong."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — dependent clause cut off by a period**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: The village school closed for two weeks in __March. Because__ the roof leaked after a heavy storm."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) NO CHANGE",
+    "B) March because",
+    "C) March; because",
+    "D) March, it was because"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) ✗ Wrong: \"Because the roof leaked after a heavy storm.\" is a dependent clause standing alone — a fragment.",
+    "B) ✓ Correct: The because-clause is attached to the main clause. No comma is needed when because comes after the main clause.",
+    "C) ✗ Wrong: A semicolon must have a complete sentence on both sides; \"because the roof leaked…\" is not one.",
+    "D) ✗ Wrong: Comma splice — \"The village school closed…\" and \"it was because…\" are two independent clauses joined only by a comma."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — -ing word instead of a main verb**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: The new solar plant near Aswan __producing__ enough electricity for thousands of homes."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) NO CHANGE",
+    "B) producing, as a result,",
+    "C) produces",
+    "D) which produces"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) ✗ Wrong: \"producing\" cannot be a main verb alone, so the subject \"plant\" has no verb.",
+    "B) ✗ Wrong: Adding words does not add a verb — still a fragment.",
+    "C) ✓ Correct: \"produces\" is a finite present-tense verb: subject \"plant\" + verb \"produces\".",
+    "D) ✗ Wrong: \"which produces\" puts the verb inside a relative clause. \"The new solar plant which produces…\" has no main verb — the trapped-verb fragment."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — long subject with a relative clause**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: A small museum in Rosetta, which displays copies of ancient stones and maps of the old city, __attracting__ thousands of students each year."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) NO CHANGE",
+    "B) attracts",
+    "C) that attracts",
+    "D) and it attracts"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) ✗ Wrong: \"displays\" belongs to the which-clause, and \"attracting\" is not finite, so \"museum\" has no main verb.",
+    "B) ✓ Correct: Strip the which-clause between the commas: \"A small museum in Rosetta attracts thousands of students\" — complete.",
+    "C) ✗ Wrong: Another relative clause; the museum still has no main verb.",
+    "D) ✗ Wrong: \"A small museum…, and it attracts\" — the first part still has no verb, and \"it\" repeats the subject."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4 — a NOT question**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: Many desert plants store water in their thick __leaves. This allows__ them to survive for months without rain."
+  },
+  {
+   "type": "p",
+   "text": "**Which of the following alternatives to the underlined portion would NOT be acceptable?**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) leaves; this allows",
+    "B) leaves, which allow",
+    "C) leaves, allowing",
+    "D) leaves. Allowing"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer: D**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) ✓ Acceptable: A semicolon joins two complete, closely related sentences.",
+    "B) ✓ Acceptable: \"which allow them…\" is a dependent clause correctly attached to the main sentence with a comma.",
+    "C) ✓ Acceptable: The -ing phrase is attached to a complete sentence, so it simply adds information.",
+    "D) ✗ The answer: NOT acceptable. \"Allowing them to survive for months without rain.\" has no subject and no finite verb — a fragment. On a NOT question, the error IS the answer."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**The trapped verb:** \"The engineer who designed the bridge.\" There is a verb (designed), but it belongs to the who-clause.",
+    "**The -ing disguise:** \"The museum, holding over 5,000 coins.\" Looks long and serious, but has no main verb.",
+    "**The \"being\" choice:** any choice with \"being\" as the only verb is almost always wrong.",
+    "**The semicolon fix that fails:** \"; because…\", \"; which…\", \"; making…\" — the right side of a semicolon must be a complete sentence.",
+    "**The over-fix:** the original was already complete, but a choice adds which/who/that and breaks it. NO CHANGE is right more often than students think.",
+    "**The lonely period:** a period before a phrase that clearly belongs to the previous sentence (\"…every evening. Making it…\")."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Look at the four choices first: if they differ in verb form (-ing / -s / -ed / to) or in which/who/because, think \"fragment\".",
+    "Strip the sentence: remove dependent clauses and anything between commas. Is a subject + finite verb left?",
+    "If the underline contains a period, read both sides: each must be a complete sentence.",
+    "Prefer the choice that gives the main subject a finite verb with the fewest extra words.",
+    "Always read the sentence before and after — a fragment often belongs to its neighbour."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "طريقة الحل السريعة",
+   "text": "اشطب أي جملة بتبدأ بـ because / although / which / who، واشطب أي كلام بين فاصلتين. لو اللي فاضل فيه فاعل وفعل حقيقي (مش ing ومش to) يبقى الجملة سليمة. لو مفيش فعل، اختار الاختيار اللي بيحط فعل حقيقي، أو اللي بيشيل النقطة ويلزّق الكلام بالجملة اللي قبله."
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Two short ACT-style essays, 5 questions each. Every item tests fragments — sometimes the correct answer is NO CHANGE. Explanations appear after you answer."
+  },
+  {
+   "type": "test",
+   "title": "Sentence Fragments — ACT-style practice",
+   "timed": false,
+   "intro": "Two short essays, 10 questions. Choose the best version of each underlined portion. NO CHANGE keeps the original.",
+   "sections": [
+    {
+     "name": "Passages I–II",
+     "minutes": 8,
+     "questions": [
+      {
+       "p": "Gardens on the Rooftops\n\nIn many crowded neighbourhoods of Cairo, families have started growing vegetables on the flat roofs of their buildings. [1] __The idea, which began with a few volunteers in the 1990s.__ Today, hundreds of rooftops in the city are green, and the number grows every year.\n\nThe gardens do not use soil. [2] __Instead, the plants growing__ in shallow plastic trays filled with water and nutrients, so the roofs never have to carry heavy loads of earth. A family can harvest tomatoes, lettuce, and mint every few weeks without leaving home. [3] __Because the trays are light and cheap, almost__ any building can support a small garden.\n\nThe benefits go beyond fresh food. Engineers who measured temperatures in one district last summer [4] __finding that__ the green roofs kept the top-floor flats several degrees cooler than bare concrete roofs. That difference matters in a city where summer afternoons are long and hot.\n\nRooftop gardens have changed social life, too. Neighbours trade their extra vegetables and meet among the plants in the cool [5] __evenings. Making__ the roofs places of friendship as well as food.",
+       "q": "Question 1: Choose the best version of underlined portion [1]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "The idea began with a few volunteers in the 1990s.",
+        "The idea, beginning with a few volunteers in the 1990s.",
+        "The idea that began with a few volunteers in the 1990s."
+       ],
+       "a": 1,
+       "e": "B gives \"The idea\" a finite main verb (\"began\"). A and D trap the verb inside a which/that clause, so \"idea\" has no main verb; C uses the non-finite \"beginning\". All three are fragments.",
+       "s": "Fragments: relative clause"
+      },
+      {
+       "p": "Gardens on the Rooftops\n\nIn many crowded neighbourhoods of Cairo, families have started growing vegetables on the flat roofs of their buildings. [1] __The idea, which began with a few volunteers in the 1990s.__ Today, hundreds of rooftops in the city are green, and the number grows every year.\n\nThe gardens do not use soil. [2] __Instead, the plants growing__ in shallow plastic trays filled with water and nutrients, so the roofs never have to carry heavy loads of earth. A family can harvest tomatoes, lettuce, and mint every few weeks without leaving home. [3] __Because the trays are light and cheap, almost__ any building can support a small garden.\n\nThe benefits go beyond fresh food. Engineers who measured temperatures in one district last summer [4] __finding that__ the green roofs kept the top-floor flats several degrees cooler than bare concrete roofs. That difference matters in a city where summer afternoons are long and hot.\n\nRooftop gardens have changed social life, too. Neighbours trade their extra vegetables and meet among the plants in the cool [5] __evenings. Making__ the roofs places of friendship as well as food.",
+       "q": "Question 2: Choose the best version of underlined portion [2]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "Instead, the plants that grow",
+        "Instead, the plants having grown",
+        "Instead, the plants grow"
+       ],
+       "a": 3,
+       "e": "D gives \"plants\" the finite verb \"grow\". A (\"growing\") and C (\"having grown\") are non-finite; B traps the verb inside a that-clause. Without D, the sentence before \"so\" has no main verb.",
+       "s": "Fragments: -ing instead of verb"
+      },
+      {
+       "p": "Gardens on the Rooftops\n\nIn many crowded neighbourhoods of Cairo, families have started growing vegetables on the flat roofs of their buildings. [1] __The idea, which began with a few volunteers in the 1990s.__ Today, hundreds of rooftops in the city are green, and the number grows every year.\n\nThe gardens do not use soil. [2] __Instead, the plants growing__ in shallow plastic trays filled with water and nutrients, so the roofs never have to carry heavy loads of earth. A family can harvest tomatoes, lettuce, and mint every few weeks without leaving home. [3] __Because the trays are light and cheap, almost__ any building can support a small garden.\n\nThe benefits go beyond fresh food. Engineers who measured temperatures in one district last summer [4] __finding that__ the green roofs kept the top-floor flats several degrees cooler than bare concrete roofs. That difference matters in a city where summer afternoons are long and hot.\n\nRooftop gardens have changed social life, too. Neighbours trade their extra vegetables and meet among the plants in the cool [5] __evenings. Making__ the roofs places of friendship as well as food.",
+       "q": "Question 3: Choose the best version of underlined portion [3]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "Because the trays are light and cheap. Almost",
+        "Because the trays are light and cheap; almost",
+        "The trays are light and cheap, almost"
+       ],
+       "a": 0,
+       "e": "The sentence is correct: a because-clause, a comma, then the main clause \"almost any building can support a small garden.\" B leaves the because-clause alone (fragment); C puts a dependent clause before a semicolon; D is a comma splice.",
+       "s": "Fragments: dependent clause"
+      },
+      {
+       "p": "Gardens on the Rooftops\n\nIn many crowded neighbourhoods of Cairo, families have started growing vegetables on the flat roofs of their buildings. [1] __The idea, which began with a few volunteers in the 1990s.__ Today, hundreds of rooftops in the city are green, and the number grows every year.\n\nThe gardens do not use soil. [2] __Instead, the plants growing__ in shallow plastic trays filled with water and nutrients, so the roofs never have to carry heavy loads of earth. A family can harvest tomatoes, lettuce, and mint every few weeks without leaving home. [3] __Because the trays are light and cheap, almost__ any building can support a small garden.\n\nThe benefits go beyond fresh food. Engineers who measured temperatures in one district last summer [4] __finding that__ the green roofs kept the top-floor flats several degrees cooler than bare concrete roofs. That difference matters in a city where summer afternoons are long and hot.\n\nRooftop gardens have changed social life, too. Neighbours trade their extra vegetables and meet among the plants in the cool [5] __evenings. Making__ the roofs places of friendship as well as food.",
+       "q": "Question 4: Choose the best version of underlined portion [4]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "who found that",
+        "found that",
+        "to find that"
+       ],
+       "a": 2,
+       "e": "Strip the who-clause: \"Engineers … found that the green roofs kept…\" — subject + finite verb. A (\"finding\") and D (\"to find\") are not finite; B adds a second who-clause, so \"Engineers\" still has no main verb.",
+       "s": "Fragments: long subject"
+      },
+      {
+       "p": "Gardens on the Rooftops\n\nIn many crowded neighbourhoods of Cairo, families have started growing vegetables on the flat roofs of their buildings. [1] __The idea, which began with a few volunteers in the 1990s.__ Today, hundreds of rooftops in the city are green, and the number grows every year.\n\nThe gardens do not use soil. [2] __Instead, the plants growing__ in shallow plastic trays filled with water and nutrients, so the roofs never have to carry heavy loads of earth. A family can harvest tomatoes, lettuce, and mint every few weeks without leaving home. [3] __Because the trays are light and cheap, almost__ any building can support a small garden.\n\nThe benefits go beyond fresh food. Engineers who measured temperatures in one district last summer [4] __finding that__ the green roofs kept the top-floor flats several degrees cooler than bare concrete roofs. That difference matters in a city where summer afternoons are long and hot.\n\nRooftop gardens have changed social life, too. Neighbours trade their extra vegetables and meet among the plants in the cool [5] __evenings. Making__ the roofs places of friendship as well as food.",
+       "q": "Question 5: Choose the best version of underlined portion [5]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "evenings, making",
+        "evenings; making",
+        "evenings. Which makes"
+       ],
+       "a": 1,
+       "e": "B attaches the -ing phrase to the complete sentence before it. A and D leave \"Making…\" / \"Which makes…\" as fragments after a period; C puts a phrase, not a complete sentence, after a semicolon.",
+       "s": "Fragments: phrase cut off by a period"
+      },
+      {
+       "p": "The Library on Wheels\n\nEvery Thursday morning, an old yellow bus stops in the main square of a village near Minya. [6] __Its seats removed and replaced__ with wooden shelves that hold more than two thousand books. By the time the driver opens the door, a line of children is usually waiting outside.\n\nThe bus belongs to a small charity. [7] __Its founder, a retired teacher named Samia Fawzy, who grew up__ in the village and still remembers having almost no books at home. In 2015, she bought the bus with her own savings and asked local carpenters to build the shelves. [8] __Although the engine is old and breaks down often, the__ bus has missed only a handful of visits since then.\n\nInside, the system is simple. Each child may borrow two books at a time. [9] __The only rule being that__ the books must come back the following Thursday. Older students help the younger ones choose, and volunteers read stories aloud to children who cannot read yet.\n\n[10] __The most popular shelf, the one near the driver's seat with comic books and adventure stories.__ By the end of each visit, it is almost always empty.",
+       "q": "Question 6: Choose the best version of underlined portion [6]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "Its seats, which were removed and replaced",
+        "Its seats have been removed and replaced",
+        "Its seats having been removed and replaced"
+       ],
+       "a": 2,
+       "e": "C gives \"seats\" the finite verb \"have been removed and replaced\". A uses bare past participles (descriptions, not verbs); B traps the verb in a which-clause; D uses the non-finite \"having been\". A, B and D are fragments.",
+       "s": "Fragments: -ed instead of verb"
+      },
+      {
+       "p": "The Library on Wheels\n\nEvery Thursday morning, an old yellow bus stops in the main square of a village near Minya. [6] __Its seats removed and replaced__ with wooden shelves that hold more than two thousand books. By the time the driver opens the door, a line of children is usually waiting outside.\n\nThe bus belongs to a small charity. [7] __Its founder, a retired teacher named Samia Fawzy, who grew up__ in the village and still remembers having almost no books at home. In 2015, she bought the bus with her own savings and asked local carpenters to build the shelves. [8] __Although the engine is old and breaks down often, the__ bus has missed only a handful of visits since then.\n\nInside, the system is simple. Each child may borrow two books at a time. [9] __The only rule being that__ the books must come back the following Thursday. Older students help the younger ones choose, and volunteers read stories aloud to children who cannot read yet.\n\n[10] __The most popular shelf, the one near the driver's seat with comic books and adventure stories.__ By the end of each visit, it is almost always empty.",
+       "q": "Question 7: Choose the best version of underlined portion [7]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "Its founder, a retired teacher named Samia Fawzy, grew up",
+        "Its founder being a retired teacher named Samia Fawzy, who grew up",
+        "Its founder, who was a retired teacher named Samia Fawzy and who grew up"
+       ],
+       "a": 1,
+       "e": "Strip the extra information between the commas: \"Its founder grew up in the village and still remembers…\" — complete. In A and D both verbs sit inside who-clauses; C uses \"being\". All leave \"founder\" without a main verb.",
+       "s": "Fragments: relative clause"
+      },
+      {
+       "p": "The Library on Wheels\n\nEvery Thursday morning, an old yellow bus stops in the main square of a village near Minya. [6] __Its seats removed and replaced__ with wooden shelves that hold more than two thousand books. By the time the driver opens the door, a line of children is usually waiting outside.\n\nThe bus belongs to a small charity. [7] __Its founder, a retired teacher named Samia Fawzy, who grew up__ in the village and still remembers having almost no books at home. In 2015, she bought the bus with her own savings and asked local carpenters to build the shelves. [8] __Although the engine is old and breaks down often, the__ bus has missed only a handful of visits since then.\n\nInside, the system is simple. Each child may borrow two books at a time. [9] __The only rule being that__ the books must come back the following Thursday. Older students help the younger ones choose, and volunteers read stories aloud to children who cannot read yet.\n\n[10] __The most popular shelf, the one near the driver's seat with comic books and adventure stories.__ By the end of each visit, it is almost always empty.",
+       "q": "Question 8: Choose the best version of underlined portion [8]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "Although the engine is old and breaks down often. The",
+        "The engine is old and breaks down often, the",
+        "Although the engine is old and breaks down often; the"
+       ],
+       "a": 0,
+       "e": "Correct as written: dependent although-clause + comma + main clause \"the bus has missed…\". B leaves the although-clause alone as a fragment; D puts a dependent clause before a semicolon; C is a comma splice.",
+       "s": "Fragments: dependent clause"
+      },
+      {
+       "p": "The Library on Wheels\n\nEvery Thursday morning, an old yellow bus stops in the main square of a village near Minya. [6] __Its seats removed and replaced__ with wooden shelves that hold more than two thousand books. By the time the driver opens the door, a line of children is usually waiting outside.\n\nThe bus belongs to a small charity. [7] __Its founder, a retired teacher named Samia Fawzy, who grew up__ in the village and still remembers having almost no books at home. In 2015, she bought the bus with her own savings and asked local carpenters to build the shelves. [8] __Although the engine is old and breaks down often, the__ bus has missed only a handful of visits since then.\n\nInside, the system is simple. Each child may borrow two books at a time. [9] __The only rule being that__ the books must come back the following Thursday. Older students help the younger ones choose, and volunteers read stories aloud to children who cannot read yet.\n\n[10] __The most popular shelf, the one near the driver's seat with comic books and adventure stories.__ By the end of each visit, it is almost always empty.",
+       "q": "Question 9: Choose the best version of underlined portion [9]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "The only rule, which is that",
+        "The only rule is that",
+        "The only rule that"
+       ],
+       "a": 2,
+       "e": "C gives \"rule\" the finite verb \"is\". A uses \"being\" (non-finite); B and D trap the verb inside a which/that clause, so \"The only rule\" has no main verb.",
+       "s": "Fragments: being"
+      },
+      {
+       "p": "The Library on Wheels\n\nEvery Thursday morning, an old yellow bus stops in the main square of a village near Minya. [6] __Its seats removed and replaced__ with wooden shelves that hold more than two thousand books. By the time the driver opens the door, a line of children is usually waiting outside.\n\nThe bus belongs to a small charity. [7] __Its founder, a retired teacher named Samia Fawzy, who grew up__ in the village and still remembers having almost no books at home. In 2015, she bought the bus with her own savings and asked local carpenters to build the shelves. [8] __Although the engine is old and breaks down often, the__ bus has missed only a handful of visits since then.\n\nInside, the system is simple. Each child may borrow two books at a time. [9] __The only rule being that__ the books must come back the following Thursday. Older students help the younger ones choose, and volunteers read stories aloud to children who cannot read yet.\n\n[10] __The most popular shelf, the one near the driver's seat with comic books and adventure stories.__ By the end of each visit, it is almost always empty.",
+       "q": "Question 10: Choose the best version of underlined portion [10]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "The most popular shelf, which is the one near the driver's seat with comic books and adventure stories.",
+        "The most popular shelf being the one near the driver's seat with comic books and adventure stories.",
+        "The most popular shelf is the one near the driver's seat with comic books and adventure stories."
+       ],
+       "a": 3,
+       "e": "D adds the missing main verb \"is\". A is a long subject with no verb; B hides \"is\" inside a which-clause; C uses \"being\". Only D is a complete sentence.",
+       "s": "Fragments: long subject"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Complete sentence = subject + finite main verb + complete thought.",
+    "-ing, -ed (as a description), to + verb and \"being\" cannot be the main verb alone.",
+    "A verb inside a who/which/that clause does not count as the main verb.",
+    "because / although / when … + clause = dependent: attach it to a main clause, never after a semicolon.",
+    "Strip the sentence, find the subject and its verb, and fix with the smallest change."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,623 @@
+{
+ "slug": "act-dashes",
+ "nav": "Dashes",
+ "title": "ACT Dashes: Pairs, Single Dashes and Choosing the Right Mark",
+ "kicker": "American Diploma · ACT · English: Punctuation",
+ "summary": "The two jobs of the dash — a matching pair for extra information and a single dash for emphasis or a sudden break — plus how to choose between a dash, colon, comma and semicolon, with a 10-question ACT-style practice.",
+ "blocks": [
+  {
+   "type": "p",
+   "text": "The dash (—) is the most flexible punctuation mark on ACT English, and that is exactly why the test likes it: students know it can do \"many things\", so they choose it too often. In fact the dash has only **two jobs**, and each job has strict conditions. This lesson teaches both jobs, the matching rule for pairs, and how to choose between a dash, a colon, a comma and a semicolon when the answer choices offer all four."
+  },
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Dash questions belong to the **Conventions of Standard English** reporting category, which is **38–43%** of the 40 scored English questions. Like every ACT English item, a portion of the essay is underlined and numbered, and the four choices usually begin with **NO CHANGE**. In a dash item the words stay the same and only the punctuation moves: a dash in one choice, a comma or colon in another, a semicolon or no mark in a third."
+  },
+  {
+   "type": "p",
+   "text": "The test checks three things:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Pairs:** extra information placed between two dashes must open and close with dashes — never a dash at one end and a comma at the other.",
+    "**Single dashes:** one dash is used for emphasis or for a sudden break, and it must not cut the sentence in an illegal place (for example between a verb and its object).",
+    "**Choosing the mark:** whether a dash, a colon, a comma or a semicolon fits the structure on each side."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Look outside the underline",
+   "text": "The ACT often underlines only half of a pair. The opening mark sits in the normal text before the underline, and you must close it inside the underline. Before you answer, read the whole sentence and find what opened the extra information: a comma, a dash or a bracket. The closing mark must be the same."
+  },
+  {
+   "type": "h2",
+   "text": "1. The two jobs of a dash"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Form",
+    "Job",
+    "✓ Example"
+   ],
+   "rows": [
+    [
+     "A pair of dashes (— … —)",
+     "Extra (non-essential) information in the middle of a sentence",
+     "The old ferry — **painted bright yellow last summer** — still crosses the Nile every hour."
+    ],
+    [
+     "A single dash (—)",
+     "Emphasis: it points strongly to what comes next, usually at the end of the sentence",
+     "After three hours of searching, we found the key in the last place we looked — **my own pocket**."
+    ],
+    [
+     "A single dash (—)",
+     "A sudden break or interruption, for example when speech is cut off",
+     "\"Wait, I think the train is —\" Malak began, but the doors had already closed."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Notice what is **not** on the list: a dash does not introduce a list after an incomplete start, it does not separate a subject from its verb, and it does not replace a comma in an ordinary list. If a dash is doing any job other than these two, it is wrong."
+  },
+  {
+   "type": "h2",
+   "text": "2. A pair of dashes = extra information"
+  },
+  {
+   "type": "p",
+   "text": "A pair of dashes works exactly like a pair of commas or a pair of brackets: it holds information that the sentence can live without. Use these four rules."
+  },
+  {
+   "type": "p",
+   "text": "**Rule 1 — The removal test.** Cover everything between the dashes. What is left must be a complete, correct sentence with the same basic meaning."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ The museum's director — **a former engineer** — designed the new lighting herself. → *The museum's director designed the new lighting herself.* (complete)",
+    "✗ The museum's — **newly appointed** director designed the lighting. → The dash opens in the middle of \"the museum's director\", and removing the words breaks the noun phrase."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Rule 2 — The matching rule.** What opens with a dash must close with a dash. Mixing marks is always wrong."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ Our coach — **who played for the national team in 1998** — runs every practice himself.",
+    "✗ Our coach — who played for the national team in 1998, runs every practice himself. (dash … comma)",
+    "✗ Our coach, who played for the national team in 1998 — runs every practice himself. (comma … dash)",
+    "✗ Our coach — who played for the national team in 1998; runs every practice himself. (dash … semicolon)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Rule 3 — Only extra information goes inside.** If the words tell us **which** person or thing we mean, they are essential, and no dashes (or commas) may surround them."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ Students **who forget their ID cards** must sign in at the gate. (Which students? Those who forget. Essential → no marks.)",
+    "✗ Students — who forget their ID cards — must sign in at the gate. (Now it says all students forget their cards.)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Rule 4 — No extra marks next to a dash.** A dash replaces a comma; it is never used together with one. Also, when the extra information reaches the end of the sentence, the period closes it — you do not need a second dash."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ The bridge, — built in 1902 — is still in use.  ✓ The bridge — built in 1902 — is still in use.",
+    "✗ The bridge — built in 1902 —, is still in use.",
+    "✓ We finally reached Siwa — **an oasis surrounded by desert**. (One dash, then the period ends the sentence.)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Why would a writer choose dashes instead of commas?",
+   "items": [
+    "Both are correct for extra information, but dashes are **clearer when the extra information already contains commas**.",
+    "✓ The three winners — Salma, Karim, and Youssef — received medals. (With commas only, the reader cannot tell where the names start and stop.)",
+    "✗ The three winners, Salma, Karim, and Youssef, received medals. (Confusing: it looks like a list of four or five things.)",
+    "Dashes also give the extra information **more emphasis** than commas or brackets do."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الشرطتين زي القوسين",
+   "text": "أي معلومة زيادة في نص الجملة لازم تتقفل بنفس العلامة اللي اتفتحت بيها: شرطة … شرطة، أو فاصلة … فاصلة، أو قوس … قوس. ممنوع تفتح بشرطة وتقفل بفاصلة. ولو شيلت الكلام اللي بين الشرطتين، لازم الجملة اللي فاضلة تبقى جملة كاملة وصحيحة."
+  },
+  {
+   "type": "h2",
+   "text": "3. A single dash = emphasis or a sudden break"
+  },
+  {
+   "type": "p",
+   "text": "**Emphasis.** A single dash usually comes **after a complete sentence** and points to a word, phrase or idea at the end that the writer wants to stress. Think of it as a dramatic pause."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ There was only one problem with the plan — **the money**.",
+    "✓ She had practised for a single moment — **the final penalty**.",
+    "✓ The village had everything a child could want — fields, a river, and a hundred cousins. (Here the emphasised part is a list.)",
+    "✗ The village had — fields, a river, and a hundred cousins. (\"The village had\" is not complete; the dash cuts the verb from its object.)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**A sudden break or interruption.** A single dash can show that a speaker is cut off, or that the sentence suddenly changes direction."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ \"If you open that box, you'll —\" But it was too late.",
+    "✓ I was sure the answer was in the second chapter — or was it the third?",
+    "✗ I was sure the answer was in the second — chapter, or was it the third? (The dash cuts \"the second chapter\" in half.)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**The condition you must check.** On ACT English, treat the part before a single emphasis dash the same way you treat the part before a colon: it should be a **complete sentence**. The dash must never land between a subject and its verb, between a verb and its object, or straight after words such as **are, include, such as** or **like**."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ The two biggest risks — are heat and thirst.  ✓ The two biggest risks are heat and thirst.",
+    "✗ The kit includes — a torch, a map, and water.  ✓ The kit includes a torch, a map, and water.",
+    "✗ Bring things such as — a hat and sunscreen.  ✓ Bring things such as a hat and sunscreen."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "4. Dash, colon, comma or semicolon?"
+  },
+  {
+   "type": "p",
+   "text": "Many dash questions are really \"which mark?\" questions. Decide what sits on each side of the mark, then use this table."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "What you need to do",
+    "Comma",
+    "Dash",
+    "Colon",
+    "Semicolon"
+   ],
+   "rows": [
+    [
+     "Set off extra information in the **middle** of a sentence",
+     "✓ as a pair",
+     "✓ as a pair",
+     "✗",
+     "✗"
+    ],
+    [
+     "Set off extra information that **contains commas**",
+     "✗ (confusing)",
+     "✓ as a pair (best)",
+     "✗",
+     "✗"
+    ],
+    [
+     "After a complete sentence, introduce a **list, explanation or emphasis**",
+     "✗ for a list (confusing)",
+     "✓ single dash",
+     "✓",
+     "✗"
+    ],
+    [
+     "Join two complete sentences when the second **explains or stresses** the first",
+     "✗ alone (comma splice)",
+     "✓",
+     "✓",
+     "✓"
+    ],
+    [
+     "Join two complete sentences with **for, and, nor, but, or, yet, so**",
+     "✓ (comma before the word)",
+     "✗",
+     "✗",
+     "✗"
+    ],
+    [
+     "Mark a sudden break or interrupted speech",
+     "✗",
+     "✓",
+     "✗",
+     "✗"
+    ],
+    [
+     "After an **incomplete** start (are, include, such as, between a verb and its object)",
+     "✗",
+     "✗",
+     "✗",
+     "✗ — use no punctuation"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Three practical points follow from the table:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Colon and single dash often do the same job.** After a complete sentence, \"The answer was clear: we had to leave\" and \"The answer was clear — we had to leave\" are both correct. Because the ACT keys only one answer, it will not give you both as separate choices unless one of them breaks a rule somewhere else in the underlined portion. Look for that other error.",
+    "**A comma cannot do a dash's job between two complete sentences.** \"The answer was clear, we had to leave\" is a comma splice.",
+    "**A semicolon cannot close a pair and cannot introduce a fragment.** \"There was one problem; the money\" is wrong because \"the money\" is not a complete sentence. The dash or colon is right."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "إمتى أستخدم الشرطة الواحدة؟",
+   "text": "الشرطة الواحدة يا إما للتأكيد في آخر الجملة (زي: كان فيه مشكلة واحدة — الفلوس)، يا إما لقطع مفاجئ في الكلام. وقبلها لازم يكون فيه جملة كاملة، زي الكولون بالظبط. ممنوع تحطها بين الفاعل والفعل، أو بين الفعل والمفعول، أو بعد such as أو include أو are."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "Each example is part of an ACT-style essay. The underlined portion is shown between double underscores, as on the quiz."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — closing a pair**"
+  },
+  {
+   "type": "p",
+   "text": "Abu Simbel's two temples — carved into a sandstone cliff more than three thousand years __ago, were__ moved to higher ground in the 1960s."
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) ago — were",
+    "C) ago were",
+    "D) ago; were"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**B is correct.** The extra information opens with a dash after \"temples\" (outside the underline), so it must close with a dash. Remove it and the core sentence is complete: *Abu Simbel's two temples were moved to higher ground in the 1960s.*",
+    "**A** is the **mixed pair** trap: dash … comma.",
+    "**C** is the **half pair** trap: the dash opens the extra information and nothing closes it, so \"ago were moved\" runs into the main sentence.",
+    "**D** uses a semicolon, which needs a complete sentence on both sides; \"Abu Simbel's two temples — carved … ago\" has no verb."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — single dash for emphasis**"
+  },
+  {
+   "type": "p",
+   "text": "After months of training, Karim finally had what he had been waiting __for; a__ place on the national team."
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) for a",
+    "C) for — a",
+    "D) for, — a"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**C is correct.** \"Karim finally had what he had been waiting for\" is a complete sentence, and the single dash points with emphasis to the thing he had been waiting for.",
+    "**A** is the **semicolon + fragment** trap: \"a place on the national team\" is not a complete sentence.",
+    "**B** runs the two parts together: \"waiting for a place\" changes the meaning and leaves the sentence without its object (\"had what he had been waiting for a place\" makes no sense).",
+    "**D** puts a comma next to a dash. A dash replaces a comma; the two are never used together."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — matching the mark outside the underline**"
+  },
+  {
+   "type": "p",
+   "text": "The old lighthouse at the end of the harbour, which guided fishing boats home for more than a __century — now__ houses a small museum."
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) century, now",
+    "C) century now",
+    "D) century; now"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**B is correct.** The extra information \"which guided fishing boats home for more than a century\" opens with a **comma** after \"harbour\" (outside the underline), so it must close with a comma.",
+    "**A** is the **mixed pair** trap in reverse: comma … dash. A dash is fine for extra information only when the opening mark is also a dash.",
+    "**C** leaves the pair open, so the comma after \"harbour\" now separates the subject \"lighthouse\" from its verb \"houses\".",
+    "**D** puts a semicolon where the pair should close; neither side is a complete sentence."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4 — dash, colon or nothing?**"
+  },
+  {
+   "type": "p",
+   "text": "Sarah's notes listed the three things every hiker in the Sinai needs. The three essentials __were — water,__ a hat, and a charged phone."
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) were: water,",
+    "C) were water,",
+    "D) were, water,"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**C is correct.** \"The three essentials were water, a hat, and a charged phone\" is one sentence: \"were\" is the verb and the list is its complement. Nothing may separate them.",
+    "**A** puts a dash after \"were\". \"The three essentials were\" is not a complete sentence, so a single dash cannot follow it.",
+    "**B** is the **colon after an incomplete start** trap: a colon also needs a complete sentence before it.",
+    "**D** puts a comma between the verb and its complement."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**Mixed pair:** dash … comma, or comma … dash. Always check the mark that opened the extra information, even if it is outside the underline.",
+    "**Half pair:** the extra information opens with a dash and is never closed.",
+    "**Comma + dash together:** \", —\" or \"— ,\". A dash replaces a comma.",
+    "**Dash after an incomplete start:** after \"are\", \"was\", \"include\", \"such as\", or between a verb and its object.",
+    "**Dashes around essential information:** \"Students — who forget their cards — must sign in\" changes the meaning.",
+    "**Semicolon instead of a dash:** before a word or phrase that is not a complete sentence (\"one problem; the money\").",
+    "**The 'dash looks stylish' trap:** a dash in a place where the sentence needs no punctuation at all."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "See a dash in the choices? Ask first: is this a **pair** or a **single** dash?",
+    "Pair: find the opening mark (often outside the underline) and close with the same mark. Then do the removal test.",
+    "Single dash: cover everything after it. Is the part before it a complete sentence? If not, the dash is wrong.",
+    "If a colon and a dash both seem right, look for another error elsewhere in one of those choices — the ACT keys only one answer.",
+    "When the choices offer a dash, a colon, a comma and NO punctuation, test \"no punctuation\" first: subject–verb and verb–object need nothing."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Two short ACT-style essays with 5 questions each. Every question tests dashes or the choice between a dash and another mark. Read the whole sentence, including the words outside the underline, before you choose."
+  },
+  {
+   "type": "test",
+   "title": "Dashes — ACT-style practice",
+   "timed": false,
+   "intro": "Two ACT-style essays with 5 questions each. Read the whole sentence around each underlined portion — the mark that opens a pair is often outside the underline.",
+   "sections": [
+    {
+     "name": "Passages I–II",
+     "minutes": 8,
+     "questions": [
+      {
+       "p": "The Clockmaker of Khan el-Khalili\n\nIn a narrow lane of Khan el-Khalili, Cairo's famous old market, a small shop has repaired clocks for almost ninety years. Its owner, Sayed __Ramzy — the third clockmaker in his family, learned__ [1] the trade from his grandfather when he was only twelve.\n\nThe shop is crowded with clocks of every size. Brass desk clocks, carved wooden wall clocks, and a tall clock from a ship's cabin all tick __together; a__ [2] sound that customers say they can hear from the end of the lane. Ramzy will fix almost anything, but there is one rule he never breaks. He refuses to __use — new__ [3] parts in an old clock. \"If a part is missing,\" he explains, \"I make it by hand.\"\n\nThat patience has made him well known. __Collectors — some from as far away as Paris — send__ [4] him clocks that other repairers have given up on. Last year a museum asked him to restore a clock that had been silent for decades. He worked on it for six months.\n\nWhen the clock finally struck the hour again, Ramzy did something he rarely __does, he smiled.__ [5]",
+       "q": "[1] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "Ramzy, the third clockmaker in his family — learned",
+        "Ramzy — the third clockmaker in his family — learned",
+        "Ramzy — the third clockmaker in his family; learned"
+       ],
+       "a": 2,
+       "e": "\"the third clockmaker in his family\" is extra information about Ramzy. It opens with a dash, so it must close with a dash (C). A is dash … comma and B is comma … dash (mixed pairs); D closes the pair with a semicolon, which cannot sit between a subject and its verb.",
+       "s": "Dashes: matching pair"
+      },
+      {
+       "p": "The Clockmaker of Khan el-Khalili\n\nIn a narrow lane of Khan el-Khalili, Cairo's famous old market, a small shop has repaired clocks for almost ninety years. Its owner, Sayed __Ramzy — the third clockmaker in his family, learned__ [1] the trade from his grandfather when he was only twelve.\n\nThe shop is crowded with clocks of every size. Brass desk clocks, carved wooden wall clocks, and a tall clock from a ship's cabin all tick __together; a__ [2] sound that customers say they can hear from the end of the lane. Ramzy will fix almost anything, but there is one rule he never breaks. He refuses to __use — new__ [3] parts in an old clock. \"If a part is missing,\" he explains, \"I make it by hand.\"\n\nThat patience has made him well known. __Collectors — some from as far away as Paris — send__ [4] him clocks that other repairers have given up on. Last year a museum asked him to restore a clock that had been silent for decades. He worked on it for six months.\n\nWhen the clock finally struck the hour again, Ramzy did something he rarely __does, he smiled.__ [5]",
+       "q": "[2] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "together. A",
+        "together — a",
+        "together a"
+       ],
+       "a": 2,
+       "e": "\"Brass desk clocks … all tick together\" is a complete sentence, and the single dash adds emphasis to the description that follows. A and B leave \"a sound that customers say they can hear\" as a fragment (after a semicolon or as its own sentence); D runs the phrase into the verb with no break.",
+       "s": "Dashes: single dash for emphasis"
+      },
+      {
+       "p": "The Clockmaker of Khan el-Khalili\n\nIn a narrow lane of Khan el-Khalili, Cairo's famous old market, a small shop has repaired clocks for almost ninety years. Its owner, Sayed __Ramzy — the third clockmaker in his family, learned__ [1] the trade from his grandfather when he was only twelve.\n\nThe shop is crowded with clocks of every size. Brass desk clocks, carved wooden wall clocks, and a tall clock from a ship's cabin all tick __together; a__ [2] sound that customers say they can hear from the end of the lane. Ramzy will fix almost anything, but there is one rule he never breaks. He refuses to __use — new__ [3] parts in an old clock. \"If a part is missing,\" he explains, \"I make it by hand.\"\n\nThat patience has made him well known. __Collectors — some from as far away as Paris — send__ [4] him clocks that other repairers have given up on. Last year a museum asked him to restore a clock that had been silent for decades. He worked on it for six months.\n\nWhen the clock finally struck the hour again, Ramzy did something he rarely __does, he smiled.__ [5]",
+       "q": "[3] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "use new",
+        "use: new",
+        "use, new"
+       ],
+       "a": 1,
+       "e": "\"new parts\" is the object of the verb \"use\". Nothing may separate a verb from its object, so B is correct. A dash (A), a colon (C) or a comma (D) after \"use\" cuts the verb from its object — \"He refuses to use\" is not a complete sentence.",
+       "s": "Dashes: no dash between verb and object"
+      },
+      {
+       "p": "The Clockmaker of Khan el-Khalili\n\nIn a narrow lane of Khan el-Khalili, Cairo's famous old market, a small shop has repaired clocks for almost ninety years. Its owner, Sayed __Ramzy — the third clockmaker in his family, learned__ [1] the trade from his grandfather when he was only twelve.\n\nThe shop is crowded with clocks of every size. Brass desk clocks, carved wooden wall clocks, and a tall clock from a ship's cabin all tick __together; a__ [2] sound that customers say they can hear from the end of the lane. Ramzy will fix almost anything, but there is one rule he never breaks. He refuses to __use — new__ [3] parts in an old clock. \"If a part is missing,\" he explains, \"I make it by hand.\"\n\nThat patience has made him well known. __Collectors — some from as far away as Paris — send__ [4] him clocks that other repairers have given up on. Last year a museum asked him to restore a clock that had been silent for decades. He worked on it for six months.\n\nWhen the clock finally struck the hour again, Ramzy did something he rarely __does, he smiled.__ [5]",
+       "q": "[4] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "Collectors — some from as far away as Paris, send",
+        "Collectors, some from as far away as Paris — send",
+        "Collectors — some from as far away as Paris —, send"
+       ],
+       "a": 0,
+       "e": "The extra information \"some from as far away as Paris\" is correctly placed between two dashes; remove it and \"Collectors send him clocks\" is complete. B and C mix a dash and a comma; D adds a comma after the closing dash, but a dash replaces a comma and is never used with one.",
+       "s": "Dashes: matching pair"
+      },
+      {
+       "p": "The Clockmaker of Khan el-Khalili\n\nIn a narrow lane of Khan el-Khalili, Cairo's famous old market, a small shop has repaired clocks for almost ninety years. Its owner, Sayed __Ramzy — the third clockmaker in his family, learned__ [1] the trade from his grandfather when he was only twelve.\n\nThe shop is crowded with clocks of every size. Brass desk clocks, carved wooden wall clocks, and a tall clock from a ship's cabin all tick __together; a__ [2] sound that customers say they can hear from the end of the lane. Ramzy will fix almost anything, but there is one rule he never breaks. He refuses to __use — new__ [3] parts in an old clock. \"If a part is missing,\" he explains, \"I make it by hand.\"\n\nThat patience has made him well known. __Collectors — some from as far away as Paris — send__ [4] him clocks that other repairers have given up on. Last year a museum asked him to restore a clock that had been silent for decades. He worked on it for six months.\n\nWhen the clock finally struck the hour again, Ramzy did something he rarely __does, he smiled.__ [5]",
+       "q": "[5] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "does he smiled.",
+        "does, and, he smiled.",
+        "does — he smiled."
+       ],
+       "a": 3,
+       "e": "\"Ramzy did something he rarely does\" is complete, and \"he smiled\" stresses what that rare thing was. A single dash for emphasis joins them correctly (D). A is a comma splice; B is a run-on; C puts a comma after \"and\", which is never correct.",
+       "s": "Dashes: single dash vs comma splice"
+      },
+      {
+       "p": "Why Every School Needs a Quiet Room\n\nMost schools have a gym, a library, and a science lab, but very few have a room set aside for silence. That is a mistake. Students today move from lesson to __lesson — from maths to history, from history to science, with__ [6] almost no time to think. A quiet room gives them what a busy school day rarely __offers: ten__ [7] minutes of real calm.\n\nA good quiet room does not need to be expensive. It needs only a few simple __things — soft light, some cushions, and a clock, and__ [8] one rule: nobody speaks. Some schools in Cairo have already tried the idea. At one of them, the head __teacher — Hala Nasser reports__ [9] that students return to class more focused than before.\n\nCritics argue that the space should be used for another classroom. However, a classroom is useful only if the students inside it are ready to learn, and a quiet room helps them get ready. In a noisy world, ten silent minutes can be worth more than an extra lesson. If schools want better results, the answer may be surprisingly __simple; a__ [10] place where students can be still.",
+       "q": "[6] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "lesson — from maths to history, from history to science — with",
+        "lesson, from maths to history, from history to science — with",
+        "lesson; from maths to history, from history to science; with"
+       ],
+       "a": 1,
+       "e": "The extra information already contains a comma, so dashes are the clearest way to set it off — and the pair must match (B). A opens with a dash and closes with a comma; C does the reverse; D uses semicolons, which need complete sentences on both sides.",
+       "s": "Dashes: pair around information with commas"
+      },
+      {
+       "p": "Why Every School Needs a Quiet Room\n\nMost schools have a gym, a library, and a science lab, but very few have a room set aside for silence. That is a mistake. Students today move from lesson to __lesson — from maths to history, from history to science, with__ [6] almost no time to think. A quiet room gives them what a busy school day rarely __offers: ten__ [7] minutes of real calm.\n\nA good quiet room does not need to be expensive. It needs only a few simple __things — soft light, some cushions, and a clock, and__ [8] one rule: nobody speaks. Some schools in Cairo have already tried the idea. At one of them, the head __teacher — Hala Nasser reports__ [9] that students return to class more focused than before.\n\nCritics argue that the space should be used for another classroom. However, a classroom is useful only if the students inside it are ready to learn, and a quiet room helps them get ready. In a noisy world, ten silent minutes can be worth more than an extra lesson. If schools want better results, the answer may be surprisingly __simple; a__ [10] place where students can be still.",
+       "q": "[7] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "offers; ten",
+        "offers ten",
+        "offers, such as: ten"
+       ],
+       "a": 0,
+       "e": "\"A quiet room gives them what a busy school day rarely offers\" is a complete sentence, and a colon after a complete sentence correctly introduces the explanation \"ten minutes of real calm\". B puts a semicolon before a fragment; C runs the explanation into \"offers\" and breaks the sentence; D puts a colon straight after \"such as\".",
+       "s": "Dash vs colon vs semicolon"
+      },
+      {
+       "p": "Why Every School Needs a Quiet Room\n\nMost schools have a gym, a library, and a science lab, but very few have a room set aside for silence. That is a mistake. Students today move from lesson to __lesson — from maths to history, from history to science, with__ [6] almost no time to think. A quiet room gives them what a busy school day rarely __offers: ten__ [7] minutes of real calm.\n\nA good quiet room does not need to be expensive. It needs only a few simple __things — soft light, some cushions, and a clock, and__ [8] one rule: nobody speaks. Some schools in Cairo have already tried the idea. At one of them, the head __teacher — Hala Nasser reports__ [9] that students return to class more focused than before.\n\nCritics argue that the space should be used for another classroom. However, a classroom is useful only if the students inside it are ready to learn, and a quiet room helps them get ready. In a noisy world, ten silent minutes can be worth more than an extra lesson. If schools want better results, the answer may be surprisingly __simple; a__ [10] place where students can be still.",
+       "q": "[8] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "things: soft light, some cushions, and a clock: and",
+        "things; soft light, some cushions, and a clock; and",
+        "things — soft light, some cushions, and a clock — and"
+       ],
+       "a": 3,
+       "e": "The list \"soft light, some cushions, and a clock\" is extra information inside the sentence \"It needs only a few simple things and one rule.\" It opens with a dash, so it must close with a dash (D). A closes with a comma (mixed pair); B uses two colons in one sentence, and the second is not after a complete sentence; C uses semicolons, which cannot set off extra information.",
+       "s": "Dashes: matching pair"
+      },
+      {
+       "p": "Why Every School Needs a Quiet Room\n\nMost schools have a gym, a library, and a science lab, but very few have a room set aside for silence. That is a mistake. Students today move from lesson to __lesson — from maths to history, from history to science, with__ [6] almost no time to think. A quiet room gives them what a busy school day rarely __offers: ten__ [7] minutes of real calm.\n\nA good quiet room does not need to be expensive. It needs only a few simple __things — soft light, some cushions, and a clock, and__ [8] one rule: nobody speaks. Some schools in Cairo have already tried the idea. At one of them, the head __teacher — Hala Nasser reports__ [9] that students return to class more focused than before.\n\nCritics argue that the space should be used for another classroom. However, a classroom is useful only if the students inside it are ready to learn, and a quiet room helps them get ready. In a noisy world, ten silent minutes can be worth more than an extra lesson. If schools want better results, the answer may be surprisingly __simple; a__ [10] place where students can be still.",
+       "q": "[9] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "teacher, — Hala Nasser — reports",
+        "teacher — Hala Nasser — reports",
+        "teacher — Hala Nasser; reports"
+       ],
+       "a": 2,
+       "e": "The school has one head teacher, so her name is extra information and needs a matching pair (C). A opens with a dash and never closes it (half pair); B puts a comma next to a dash; D closes with a semicolon, which would separate the subject \"head teacher\" from its verb \"reports\".",
+       "s": "Dashes: half pair"
+      },
+      {
+       "p": "Why Every School Needs a Quiet Room\n\nMost schools have a gym, a library, and a science lab, but very few have a room set aside for silence. That is a mistake. Students today move from lesson to __lesson — from maths to history, from history to science, with__ [6] almost no time to think. A quiet room gives them what a busy school day rarely __offers: ten__ [7] minutes of real calm.\n\nA good quiet room does not need to be expensive. It needs only a few simple __things — soft light, some cushions, and a clock, and__ [8] one rule: nobody speaks. Some schools in Cairo have already tried the idea. At one of them, the head __teacher — Hala Nasser reports__ [9] that students return to class more focused than before.\n\nCritics argue that the space should be used for another classroom. However, a classroom is useful only if the students inside it are ready to learn, and a quiet room helps them get ready. In a noisy world, ten silent minutes can be worth more than an extra lesson. If schools want better results, the answer may be surprisingly __simple; a__ [10] place where students can be still.",
+       "q": "[10] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "simple — a",
+        "simple a",
+        "simple, and a"
+       ],
+       "a": 1,
+       "e": "\"The answer may be surprisingly simple\" is complete, and the single dash points with emphasis to what the answer is (B). A puts a semicolon before a fragment; C runs \"simple a place\" together; D joins a fragment with \"and\" as if it were a second sentence or list item.",
+       "s": "Dashes: single dash for emphasis"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "A dash has two jobs only: a **pair** for extra information, a **single** dash for emphasis or a sudden break.",
+    "Pairs must match: dash … dash (or comma … comma, bracket … bracket). Check the opening mark even when it is outside the underline.",
+    "Remove what is between the dashes: the rest must be a complete sentence. Essential information never goes between dashes.",
+    "Before a single dash you need a complete sentence — never a dash after \"are\", \"include\", \"such as\" or between a verb and its object.",
+    "A dash never stands next to a comma, and a semicolon can never do a dash's job before a fragment."
+   ]
+  }
+ ]
+}

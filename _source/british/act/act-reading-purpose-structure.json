@@ -1,0 +1,591 @@
+{
+ "slug": "act-reading-purpose-structure",
+ "nav": "Purpose and Structure",
+ "title": "Purpose, Function and Text Structure",
+ "kicker": "American Diploma · ACT · Reading: Craft and Structure",
+ "summary": "How to explain why an author included a word, sentence or paragraph and how a whole ACT Reading passage is built, with the text-structure vocabulary the answer choices use, worked examples and a full practice passage.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Purpose and structure questions belong to the **Craft and Structure** category (**26–33% of the scored ACT Reading questions**, about 7 to 9 of the 27 scored questions). They do not ask **what** the passage says. They ask **why** the author put something there and **how** the parts fit together. Think of the author as a builder: every word, sentence and paragraph was placed to do a job."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Level",
+    "Typical stem (in our own words)",
+    "What you must decide"
+   ],
+   "rows": [
+    [
+     "Whole passage",
+     "\"The main purpose of the passage is to:\"",
+     "Why the author wrote the text: explain, argue, describe, reflect, compare"
+    ],
+    [
+     "Paragraph",
+     "\"The third paragraph mainly functions to:\"",
+     "The job of the paragraph in the whole: example, objection, concession, extension, conclusion"
+    ],
+    [
+     "Sentence or phrase",
+     "\"The last sentence of paragraph 2 mainly serves to:\" / \"The author mentions X in order to:\"",
+     "The job of that sentence where it sits: qualify, illustrate, emphasize, link"
+    ],
+    [
+     "Organization",
+     "\"Which choice best describes how the passage is organized?\"",
+     "The order of the moves the author makes"
+    ],
+    [
+     "Relationship",
+     "\"How does paragraph 5 relate to paragraph 4?\"",
+     "How one part responds to another: answers, extends, contradicts, gives an example of"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "The key idea: **name the job, not the topic.** \"Paragraph 4 is about roots and water\" is a topic. \"Paragraph 4 admits the practical problems with trees\" is a job. ACT answers almost always describe jobs."
+  },
+  {
+   "type": "h2",
+   "text": "Text-structure vocabulary"
+  },
+  {
+   "type": "p",
+   "text": "The answer choices are written with a small set of verbs. If you know exactly what each one means, half the question is done."
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "introduces",
+     "starts a topic or an idea that the rest develops"
+    ],
+    [
+     "illustrates / exemplifies",
+     "gives an example of an idea already stated"
+    ],
+    [
+     "elaborates on / develops",
+     "adds more detail to the same idea"
+    ],
+    [
+     "supports",
+     "gives evidence for a claim"
+    ],
+    [
+     "qualifies",
+     "limits a claim so it is less absolute (although, in some cases, depends on)"
+    ],
+    [
+     "concedes / acknowledges",
+     "admits a point against the author's own view"
+    ],
+    [
+     "refutes / rebuts",
+     "shows that an objection is wrong"
+    ],
+    [
+     "contrasts",
+     "shows how two things differ"
+    ],
+    [
+     "compares / draws an analogy",
+     "shows what two things have in common, often a familiar thing and an unfamiliar one"
+    ],
+    [
+     "anticipates an objection",
+     "states a criticism before the reader thinks of it, usually to answer it"
+    ],
+    [
+     "shifts the focus",
+     "moves the discussion to a new aspect of the topic"
+    ],
+    [
+     "emphasizes / underscores",
+     "makes a point stronger or more noticeable"
+    ],
+    [
+     "summarizes",
+     "restates the main points briefly"
+    ],
+    [
+     "transitions",
+     "links the previous part to the next one"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "وظيفة مش موضوع",
+   "text": "متقولش الباراجراف ده بيتكلم عن إيه. قول بيعمل إيه بفعل: بيدي مثال (illustrates)، بيعترف بعيب (concedes)، بيقلل من قوة الكلام (qualifies)، بيرد على اعتراض (refutes). الإجابة الصح دايمًا بتوصف الوظيفة."
+  },
+  {
+   "type": "h2",
+   "text": "The method, step by step"
+  },
+  {
+   "type": "p",
+   "text": "**A. For a part (a word, phrase, sentence or paragraph)**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Find the part and read its neighbours.** Read the sentence before and the sentence after; for a paragraph, read the last line of the paragraph before and the first line of the paragraph after.",
+    "**Look for signal words.** They tell you the job directly (see the table below).",
+    "**Ask: what would be missing if this part were deleted?** If the reader would lose an example, the job is to illustrate. If the claim would become too strong, the job is to qualify.",
+    "**Say the job with a verb** from the vocabulary list before you look at the choices.",
+    "**Check the WHOLE choice.** Many wrong choices name a correct job for the wrong part, or add a wrong second half."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Signal",
+    "Usual job"
+   ],
+   "rows": [
+    [
+     "for example, for instance, consider, a story, one case",
+     "illustrates"
+    ],
+    [
+     "although, while, in some cases, depends on, perhaps",
+     "qualifies"
+    ],
+    [
+     "of course, admittedly, none of this means, it is true that",
+     "concedes"
+    ],
+    [
+     "but, yet, however, still, these objections do not",
+     "turns back to the author's view (rebuttal)"
+    ],
+    [
+     "also, in addition, there is also, moreover",
+     "adds or extends"
+    ],
+    [
+     "like, in the same way, as … as, resembles",
+     "compares (analogy)"
+    ],
+    [
+     "so, therefore, this is why, in this respect",
+     "draws a conclusion"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**B. For the whole passage (purpose and organization)**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Make a 3-word map** as you read: one short label per paragraph (\"story: trees cut\", \"claim: infrastructure\", \"objections\").",
+    "**Purpose:** the right answer must fit the first AND the last paragraph and the author's attitude. Choose the verb carefully: \"argue\" needs a position; \"describe\" and \"explain\" are neutral; \"reflect on\" is personal.",
+    "**Organization:** read your map from top to bottom, then test each choice step by step. One wrong step anywhere = wrong choice."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "h2",
+   "text": "Right reasoning vs wrong reasoning"
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ \"The story of the cut trees introduces the topic with a concrete example.\" ✗ \"The story of the cut trees is about road widening.\" (topic, not job)",
+    "✓ \"The sentence qualifies the claim.\" (\"although the difference depends on…\") ✗ \"The sentence rejects the claim.\" (too strong: a qualification limits, it does not reject)",
+    "✓ \"The paragraph concedes that planting is costly.\" ✗ \"The paragraph proves that planting programmes fail.\" (extreme, and conceding is not proving)",
+    "✓ \"The purpose is to argue that trees are infrastructure.\" ✗ \"The purpose is to describe trees.\" (the author takes a position, so \"describe\" is too weak)",
+    "✓ \"The analogy to sweat clarifies a process.\" ✗ \"The analogy to sweat shows that trees are alive like humans.\" (reads the comparison too literally)",
+    "✓ \"The final paragraph returns to the opening example.\" ✗ \"The final paragraph introduces a new example.\" (it is the same street)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Common passage structures"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Structure",
+    "How it moves",
+    "Typical in"
+   ],
+   "rows": [
+    [
+     "Anecdote → argument",
+     "A short story opens, then the general claim",
+     "Social science, humanities essays"
+    ],
+    [
+     "Claim → evidence → objection → reply",
+     "States a view, supports it, admits a problem, answers it",
+     "Argumentative essays"
+    ],
+    [
+     "Old view → new view",
+     "\"For years scientists believed… Recent studies suggest…\"",
+     "Natural science"
+    ],
+    [
+     "Problem → solution(s)",
+     "Describes a problem, then one or more answers",
+     "Social science"
+    ],
+    [
+     "Chronological",
+     "Events in time order",
+     "Literary narrative, history"
+    ],
+    [
+     "General → specific",
+     "Big idea, then examples",
+     "Informational passages"
+    ],
+    [
+     "Compare / contrast",
+     "Two things side by side",
+     "Humanities, paired passages"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "Excerpt 1 (natural science):\n\n[1] For most of the twentieth century, biologists believed that octopuses, being solitary hunters, had little reason to develop complex intelligence. [2] Studies over the past few decades have challenged this view. [3] Octopuses have been observed opening jars, escaping from tanks and recognizing individual human keepers. [4] Not every researcher agrees on what these behaviours mean, however, and some warn against reading human motives into an animal so different from us."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — function of a sentence**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Sentence 3 mainly serves to:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) provide examples that support the challenge described in sentence 2.",
+    "B) state the traditional view of octopus intelligence.",
+    "C) qualify the claim made in sentence 2.",
+    "D) introduce the disagreement among researchers."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: A.** Sentence 2 says studies have \"challenged\" the old view; sentence 3 lists the behaviours that make up that challenge. Job: illustrate / support."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**B is wrong** — Wrong place: that is sentence 1.",
+    "**C is wrong** — Sentence 4 qualifies (\"Not every researcher agrees… however\"), not sentence 3.",
+    "**D is wrong** — The disagreement starts in sentence 4, after the examples."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "Excerpt 2 (social science, middle of an essay that argues for four-day school weeks):\n\n[3] It is true that a longer school day can tire younger children, and some parents will struggle to arrange care for the free day. These are real costs, and supporters of the plan should not pretend otherwise.\n\n[4] Still, the schools that have tried the system report higher attendance and…"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — function of a paragraph**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Paragraph 3 mainly functions to:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) prove that the four-day week harms children.",
+    "B) describe the results of schools that tried the plan.",
+    "C) concede some disadvantages of the plan before the author returns to its benefits.",
+    "D) summarize the whole argument of the essay."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C.** \"It is true that…\" and \"real costs\" are concession signals, and paragraph 4 begins with \"Still\", the turn back. Job: concession."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A is wrong** — Too extreme and reversed: the author supports the plan; admitting costs is not proving harm.",
+    "**B is wrong** — Wrong place: results come in paragraph 4.",
+    "**D is wrong** — It covers only the costs, not the whole argument (too narrow)."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "Excerpt 3 (humanities):\n\nA translator of poetry faces a choice that a translator of instructions never does. A washing-machine manual must be clear; nobody cares whether it sounds beautiful. A poem, however, is like a piece of music played on a different instrument: the notes can stay the same, but the sound inevitably changes."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — purpose of a detail (analogy)**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** The author mentions a washing-machine manual mainly to:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) criticize manuals for being badly translated.",
+    "B) show that poetry is harder to understand than technical writing.",
+    "C) argue that all translation is impossible.",
+    "D) contrast a kind of writing where only meaning matters with poetry, where sound matters too."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: D.** The manual is set against the poem (\"however\"): in a manual only clarity counts; in a poem sound counts too. Job: contrast."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A is wrong** — Off-topic: the author never says manuals are badly translated.",
+    "**B is wrong** — Wrong idea: the contrast is about translating, not about understanding.",
+    "**C is wrong** — Too extreme: the author says the sound \"changes\", not that translation is impossible."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "Use Excerpt 1 (octopuses) above."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4 — organization**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice best describes the way Excerpt 1 is organized?"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) A problem is presented and a solution is proposed.",
+    "B) Events are narrated in the order in which they happened to one scientist.",
+    "C) An older view is described, challenged with evidence, and then a note of caution is added.",
+    "D) Two competing theories are compared and one is proved correct."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C.** Map: [1] old view, [2] challenge, [3] evidence, [4] caution. C follows every step."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A is wrong** — There is no problem or solution in the excerpt.",
+    "**B is wrong** — No single scientist and no story in time order.",
+    "**D is wrong** — Too extreme: nothing is \"proved\", and sentence 4 shows the question is still open."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**Topic instead of job.** \"It describes roots\" names a topic; the answer you want says what the description DOES (concedes a problem).",
+    "**Right job, wrong part.** The choice correctly describes another sentence or paragraph (wrong place).",
+    "**Qualify ≠ reject, concede ≠ agree completely.** Watch the strength of the verb.",
+    "**Too extreme.** proves, always, all, impossible, completely: ACT authors rarely go that far.",
+    "**Half-right structure.** The first three steps of the organization choice fit, but the last step does not. Test every step.",
+    "**Wrong purpose verb.** \"Describe\" for an author who clearly argues, or \"argue\" for a neutral explanation."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Label each paragraph with 3 words while you read; you will need the map for structure questions.",
+    "Circle signal words in your mind: for example, although, it is true, still, also, like.",
+    "Ask: what would be lost if this part were deleted? Then say the job with a verb.",
+    "For organization questions, check the choice step by step against your map.",
+    "Answer purpose and organization questions last in the set: by then you know the passage well."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "أسئلة الـ structure",
+   "text": "وإنت بتقرا اكتب لكل باراجراف ٣ كلمات بس. في سؤال «ترتيب القطعة» قارن الاختيار بخريطتك خطوة خطوة: لو خطوة واحدة غلط، الاختيار كله غلط. وخلي بالك: qualifies يعني بيقلل من قوة الفكرة، مش بيرفضها."
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Now try a full social science passage (about 700 words) with 9 questions on purpose, function and structure. It is **untimed**, but aim for about 10 minutes. Make a 3-word map as you read, and for every question name the job with a verb before you look at the choices."
+  },
+  {
+   "type": "test",
+   "title": "ACT Reading practice — Purpose and structure",
+   "timed": false,
+   "intro": "One social science passage, 9 questions, untimed. Name the job, not the topic, and test organization choices step by step against your map.",
+   "sections": [
+    {
+     "name": "Passage 1",
+     "minutes": 10,
+     "questions": [
+      {
+       "p": "SOCIAL SCIENCE: This passage is adapted from an essay about trees in modern cities.\n\n[1] A few summers ago, the residents of one busy street in a large Middle Eastern city woke up to find that the row of old ficus trees outside their buildings had been cut down overnight. The road was to be widened, and the trees were in the way. Within weeks, shopkeepers were complaining that their customers had disappeared during the hottest hours of the afternoon, and older residents who had once sat outside in the evenings stayed indoors. Nobody had measured what the trees were doing for the street. People discovered their value only once they were gone.\n\n[2] Stories like this one have pushed a growing number of urban planners toward an idea that would have sounded strange a generation ago: that a street tree is not decoration but infrastructure, as much a part of a city's working equipment as its pipes and power lines. On this view, the question to ask about a tree is not whether it looks pleasant but what services it provides and what it would cost to replace them.\n\n[3] The most obvious service is shade. A pavement in full summer sun can become far hotter than the air above it, and it continues to release that stored heat long after sunset. A tree interrupts this process in two ways. Its leaves block sunlight before it reaches the ground, and it releases water vapour through those leaves, a process that cools the surrounding air in much the same way that sweat cools skin. Measurements in several cities have found shaded streets to be noticeably cooler than unshaded ones nearby, although the size of the difference depends heavily on the type of tree, the width of the street and the local climate.\n\n[4] None of this means that planting trees is simple or free. Trees need water, and in a dry city that water must often be carried by truck or piped at public expense. Roots can lift paving stones and crack pipes. Branches fall in storms. A badly chosen tree, one that drinks too much or grows too large for its spot, can create more problems than it solves. Critics of large planting programmes point out, fairly, that cities have sometimes announced the planting of a million trees and then quietly allowed many of them to die within a few years.\n\n[5] These objections do not defeat the case for trees, but they do change it. The lesson of failed programmes is not that trees are useless but that a tree is a long-term commitment rather than a one-day event. Cities that have done well tend to plant fewer trees and care for them longer, choosing local species that suit the climate and building the cost of watering and pruning into their budgets from the start. In this respect, a tree resembles a school or a bridge: the ribbon-cutting ceremony is the cheapest part.\n\n[6] There is also the question of who gets the shade. In many cities, older and wealthier neighbourhoods have the most mature trees, while newer and poorer districts, where residents are less likely to own air conditioners, have the fewest. The result is that the people who most need cooling often have the least of it. For this reason, some planners now argue that tree cover should be mapped and shared out as deliberately as bus routes or water supply, rather than left to history and chance.\n\n[7] The residents of that widened street eventually got some of their trees back. The city planted young trees along the new pavement, thin saplings that will take fifteen years to offer the shade that was removed in a single night. Their slow growth is perhaps the clearest argument of all. A tree cannot be built in a hurry, which is exactly why a city should think carefully before it takes one away.",
+       "q": "The main purpose of the passage is to:",
+       "c": [
+        "describe the history of tree planting in Middle Eastern cities.",
+        "argue that street trees should be treated as essential city infrastructure that requires long-term planning.",
+        "explain the scientific process by which leaves release water vapour.",
+        "criticize city governments for widening roads."
+       ],
+       "a": 1,
+       "e": "Paragraph 2 states the central idea (trees are \"not decoration but infrastructure\"); paragraphs 3–6 support, refine and extend it; paragraph 7 ends with advice to \"think carefully\". A is too broad and not historical; C is one detail of paragraph 3 (too narrow); D turns the opening example into the purpose.",
+       "s": "Purpose of the passage"
+      },
+      {
+       "p": "SOCIAL SCIENCE: This passage is adapted from an essay about trees in modern cities.\n\n[1] A few summers ago, the residents of one busy street in a large Middle Eastern city woke up to find that the row of old ficus trees outside their buildings had been cut down overnight. The road was to be widened, and the trees were in the way. Within weeks, shopkeepers were complaining that their customers had disappeared during the hottest hours of the afternoon, and older residents who had once sat outside in the evenings stayed indoors. Nobody had measured what the trees were doing for the street. People discovered their value only once they were gone.\n\n[2] Stories like this one have pushed a growing number of urban planners toward an idea that would have sounded strange a generation ago: that a street tree is not decoration but infrastructure, as much a part of a city's working equipment as its pipes and power lines. On this view, the question to ask about a tree is not whether it looks pleasant but what services it provides and what it would cost to replace them.\n\n[3] The most obvious service is shade. A pavement in full summer sun can become far hotter than the air above it, and it continues to release that stored heat long after sunset. A tree interrupts this process in two ways. Its leaves block sunlight before it reaches the ground, and it releases water vapour through those leaves, a process that cools the surrounding air in much the same way that sweat cools skin. Measurements in several cities have found shaded streets to be noticeably cooler than unshaded ones nearby, although the size of the difference depends heavily on the type of tree, the width of the street and the local climate.\n\n[4] None of this means that planting trees is simple or free. Trees need water, and in a dry city that water must often be carried by truck or piped at public expense. Roots can lift paving stones and crack pipes. Branches fall in storms. A badly chosen tree, one that drinks too much or grows too large for its spot, can create more problems than it solves. Critics of large planting programmes point out, fairly, that cities have sometimes announced the planting of a million trees and then quietly allowed many of them to die within a few years.\n\n[5] These objections do not defeat the case for trees, but they do change it. The lesson of failed programmes is not that trees are useless but that a tree is a long-term commitment rather than a one-day event. Cities that have done well tend to plant fewer trees and care for them longer, choosing local species that suit the climate and building the cost of watering and pruning into their budgets from the start. In this respect, a tree resembles a school or a bridge: the ribbon-cutting ceremony is the cheapest part.\n\n[6] There is also the question of who gets the shade. In many cities, older and wealthier neighbourhoods have the most mature trees, while newer and poorer districts, where residents are less likely to own air conditioners, have the fewest. The result is that the people who most need cooling often have the least of it. For this reason, some planners now argue that tree cover should be mapped and shared out as deliberately as bus routes or water supply, rather than left to history and chance.\n\n[7] The residents of that widened street eventually got some of their trees back. The city planted young trees along the new pavement, thin saplings that will take fifteen years to offer the shade that was removed in a single night. Their slow growth is perhaps the clearest argument of all. A tree cannot be built in a hurry, which is exactly why a city should think carefully before it takes one away.",
+       "q": "Paragraph 1 mainly functions to:",
+       "c": [
+        "introduce the topic with a specific example in which the value of trees became clear only after they were removed.",
+        "present the scientific evidence that shaded streets are cooler.",
+        "describe an objection that the author later rejects.",
+        "explain why the road in the example needed to be widened."
+       ],
+       "a": 0,
+       "e": "The paragraph tells one story (trees cut down, customers and residents disappear) and ends with its point: \"People discovered their value only once they were gone.\" This anecdote leads into the general idea in paragraph 2. B belongs to paragraph 3 (wrong place); C confuses the opening with paragraph 4; D is a minor detail, not the job.",
+       "s": "Function of a paragraph"
+      },
+      {
+       "p": "SOCIAL SCIENCE: This passage is adapted from an essay about trees in modern cities.\n\n[1] A few summers ago, the residents of one busy street in a large Middle Eastern city woke up to find that the row of old ficus trees outside their buildings had been cut down overnight. The road was to be widened, and the trees were in the way. Within weeks, shopkeepers were complaining that their customers had disappeared during the hottest hours of the afternoon, and older residents who had once sat outside in the evenings stayed indoors. Nobody had measured what the trees were doing for the street. People discovered their value only once they were gone.\n\n[2] Stories like this one have pushed a growing number of urban planners toward an idea that would have sounded strange a generation ago: that a street tree is not decoration but infrastructure, as much a part of a city's working equipment as its pipes and power lines. On this view, the question to ask about a tree is not whether it looks pleasant but what services it provides and what it would cost to replace them.\n\n[3] The most obvious service is shade. A pavement in full summer sun can become far hotter than the air above it, and it continues to release that stored heat long after sunset. A tree interrupts this process in two ways. Its leaves block sunlight before it reaches the ground, and it releases water vapour through those leaves, a process that cools the surrounding air in much the same way that sweat cools skin. Measurements in several cities have found shaded streets to be noticeably cooler than unshaded ones nearby, although the size of the difference depends heavily on the type of tree, the width of the street and the local climate.\n\n[4] None of this means that planting trees is simple or free. Trees need water, and in a dry city that water must often be carried by truck or piped at public expense. Roots can lift paving stones and crack pipes. Branches fall in storms. A badly chosen tree, one that drinks too much or grows too large for its spot, can create more problems than it solves. Critics of large planting programmes point out, fairly, that cities have sometimes announced the planting of a million trees and then quietly allowed many of them to die within a few years.\n\n[5] These objections do not defeat the case for trees, but they do change it. The lesson of failed programmes is not that trees are useless but that a tree is a long-term commitment rather than a one-day event. Cities that have done well tend to plant fewer trees and care for them longer, choosing local species that suit the climate and building the cost of watering and pruning into their budgets from the start. In this respect, a tree resembles a school or a bridge: the ribbon-cutting ceremony is the cheapest part.\n\n[6] There is also the question of who gets the shade. In many cities, older and wealthier neighbourhoods have the most mature trees, while newer and poorer districts, where residents are less likely to own air conditioners, have the fewest. The result is that the people who most need cooling often have the least of it. For this reason, some planners now argue that tree cover should be mapped and shared out as deliberately as bus routes or water supply, rather than left to history and chance.\n\n[7] The residents of that widened street eventually got some of their trees back. The city planted young trees along the new pavement, thin saplings that will take fifteen years to offer the shade that was removed in a single night. Their slow growth is perhaps the clearest argument of all. A tree cannot be built in a hurry, which is exactly why a city should think carefully before it takes one away.",
+       "q": "The comparison of street trees to \"pipes and power lines\" (paragraph 2) mainly serves to emphasize that trees:",
+       "c": [
+        "are expensive to install.",
+        "must be hidden underground.",
+        "are often damaged by construction.",
+        "perform practical services that a city needs."
+       ],
+       "a": 3,
+       "e": "Pipes and power lines are working equipment, not decoration. The comparison makes the author's claim concrete: trees do jobs. The next sentence confirms it (\"what services it provides\"). A and C bring in ideas from paragraph 4 and paragraph 1; B reads the comparison too literally.",
+       "s": "Function of a phrase"
+      },
+      {
+       "p": "SOCIAL SCIENCE: This passage is adapted from an essay about trees in modern cities.\n\n[1] A few summers ago, the residents of one busy street in a large Middle Eastern city woke up to find that the row of old ficus trees outside their buildings had been cut down overnight. The road was to be widened, and the trees were in the way. Within weeks, shopkeepers were complaining that their customers had disappeared during the hottest hours of the afternoon, and older residents who had once sat outside in the evenings stayed indoors. Nobody had measured what the trees were doing for the street. People discovered their value only once they were gone.\n\n[2] Stories like this one have pushed a growing number of urban planners toward an idea that would have sounded strange a generation ago: that a street tree is not decoration but infrastructure, as much a part of a city's working equipment as its pipes and power lines. On this view, the question to ask about a tree is not whether it looks pleasant but what services it provides and what it would cost to replace them.\n\n[3] The most obvious service is shade. A pavement in full summer sun can become far hotter than the air above it, and it continues to release that stored heat long after sunset. A tree interrupts this process in two ways. Its leaves block sunlight before it reaches the ground, and it releases water vapour through those leaves, a process that cools the surrounding air in much the same way that sweat cools skin. Measurements in several cities have found shaded streets to be noticeably cooler than unshaded ones nearby, although the size of the difference depends heavily on the type of tree, the width of the street and the local climate.\n\n[4] None of this means that planting trees is simple or free. Trees need water, and in a dry city that water must often be carried by truck or piped at public expense. Roots can lift paving stones and crack pipes. Branches fall in storms. A badly chosen tree, one that drinks too much or grows too large for its spot, can create more problems than it solves. Critics of large planting programmes point out, fairly, that cities have sometimes announced the planting of a million trees and then quietly allowed many of them to die within a few years.\n\n[5] These objections do not defeat the case for trees, but they do change it. The lesson of failed programmes is not that trees are useless but that a tree is a long-term commitment rather than a one-day event. Cities that have done well tend to plant fewer trees and care for them longer, choosing local species that suit the climate and building the cost of watering and pruning into their budgets from the start. In this respect, a tree resembles a school or a bridge: the ribbon-cutting ceremony is the cheapest part.\n\n[6] There is also the question of who gets the shade. In many cities, older and wealthier neighbourhoods have the most mature trees, while newer and poorer districts, where residents are less likely to own air conditioners, have the fewest. The result is that the people who most need cooling often have the least of it. For this reason, some planners now argue that tree cover should be mapped and shared out as deliberately as bus routes or water supply, rather than left to history and chance.\n\n[7] The residents of that widened street eventually got some of their trees back. The city planted young trees along the new pavement, thin saplings that will take fifteen years to offer the shade that was removed in a single night. Their slow growth is perhaps the clearest argument of all. A tree cannot be built in a hurry, which is exactly why a city should think carefully before it takes one away.",
+       "q": "In paragraph 3, the phrase \"in much the same way that sweat cools skin\" mainly serves to:",
+       "c": [
+        "prove that trees and humans have the same biology.",
+        "introduce a new topic that the rest of the paragraph develops.",
+        "make an unfamiliar process easier to understand by comparing it to a familiar one.",
+        "suggest that trees in hot cities suffer from the heat."
+       ],
+       "a": 2,
+       "e": "Most readers do not know how water vapour from leaves cools air, but everyone knows sweat. The comparison clarifies. A is too extreme (\"prove\", \"same biology\"); B is wrong because the paragraph goes on to measurements, not sweat; D adds an idea the passage never states.",
+       "s": "Function of a phrase"
+      },
+      {
+       "p": "SOCIAL SCIENCE: This passage is adapted from an essay about trees in modern cities.\n\n[1] A few summers ago, the residents of one busy street in a large Middle Eastern city woke up to find that the row of old ficus trees outside their buildings had been cut down overnight. The road was to be widened, and the trees were in the way. Within weeks, shopkeepers were complaining that their customers had disappeared during the hottest hours of the afternoon, and older residents who had once sat outside in the evenings stayed indoors. Nobody had measured what the trees were doing for the street. People discovered their value only once they were gone.\n\n[2] Stories like this one have pushed a growing number of urban planners toward an idea that would have sounded strange a generation ago: that a street tree is not decoration but infrastructure, as much a part of a city's working equipment as its pipes and power lines. On this view, the question to ask about a tree is not whether it looks pleasant but what services it provides and what it would cost to replace them.\n\n[3] The most obvious service is shade. A pavement in full summer sun can become far hotter than the air above it, and it continues to release that stored heat long after sunset. A tree interrupts this process in two ways. Its leaves block sunlight before it reaches the ground, and it releases water vapour through those leaves, a process that cools the surrounding air in much the same way that sweat cools skin. Measurements in several cities have found shaded streets to be noticeably cooler than unshaded ones nearby, although the size of the difference depends heavily on the type of tree, the width of the street and the local climate.\n\n[4] None of this means that planting trees is simple or free. Trees need water, and in a dry city that water must often be carried by truck or piped at public expense. Roots can lift paving stones and crack pipes. Branches fall in storms. A badly chosen tree, one that drinks too much or grows too large for its spot, can create more problems than it solves. Critics of large planting programmes point out, fairly, that cities have sometimes announced the planting of a million trees and then quietly allowed many of them to die within a few years.\n\n[5] These objections do not defeat the case for trees, but they do change it. The lesson of failed programmes is not that trees are useless but that a tree is a long-term commitment rather than a one-day event. Cities that have done well tend to plant fewer trees and care for them longer, choosing local species that suit the climate and building the cost of watering and pruning into their budgets from the start. In this respect, a tree resembles a school or a bridge: the ribbon-cutting ceremony is the cheapest part.\n\n[6] There is also the question of who gets the shade. In many cities, older and wealthier neighbourhoods have the most mature trees, while newer and poorer districts, where residents are less likely to own air conditioners, have the fewest. The result is that the people who most need cooling often have the least of it. For this reason, some planners now argue that tree cover should be mapped and shared out as deliberately as bus routes or water supply, rather than left to history and chance.\n\n[7] The residents of that widened street eventually got some of their trees back. The city planted young trees along the new pavement, thin saplings that will take fifteen years to offer the shade that was removed in a single night. Their slow growth is perhaps the clearest argument of all. A tree cannot be built in a hurry, which is exactly why a city should think carefully before it takes one away.",
+       "q": "The final clause of paragraph 3 (\"although the size of the difference depends heavily on the type of tree, the width of the street and the local climate\") mainly serves to:",
+       "c": [
+        "qualify the claim about cooling by noting that the results vary.",
+        "reject the measurements described earlier in the sentence.",
+        "list the trees that cool streets most effectively.",
+        "shift the discussion to the costs of planting trees."
+       ],
+       "a": 0,
+       "e": "\"Although\" limits the claim: shaded streets are cooler, but by how much depends on conditions. That is a qualification. B is too extreme (the author accepts the measurements); C is not a list of trees; D happens in paragraph 4, not here.",
+       "s": "Function of a sentence"
+      },
+      {
+       "p": "SOCIAL SCIENCE: This passage is adapted from an essay about trees in modern cities.\n\n[1] A few summers ago, the residents of one busy street in a large Middle Eastern city woke up to find that the row of old ficus trees outside their buildings had been cut down overnight. The road was to be widened, and the trees were in the way. Within weeks, shopkeepers were complaining that their customers had disappeared during the hottest hours of the afternoon, and older residents who had once sat outside in the evenings stayed indoors. Nobody had measured what the trees were doing for the street. People discovered their value only once they were gone.\n\n[2] Stories like this one have pushed a growing number of urban planners toward an idea that would have sounded strange a generation ago: that a street tree is not decoration but infrastructure, as much a part of a city's working equipment as its pipes and power lines. On this view, the question to ask about a tree is not whether it looks pleasant but what services it provides and what it would cost to replace them.\n\n[3] The most obvious service is shade. A pavement in full summer sun can become far hotter than the air above it, and it continues to release that stored heat long after sunset. A tree interrupts this process in two ways. Its leaves block sunlight before it reaches the ground, and it releases water vapour through those leaves, a process that cools the surrounding air in much the same way that sweat cools skin. Measurements in several cities have found shaded streets to be noticeably cooler than unshaded ones nearby, although the size of the difference depends heavily on the type of tree, the width of the street and the local climate.\n\n[4] None of this means that planting trees is simple or free. Trees need water, and in a dry city that water must often be carried by truck or piped at public expense. Roots can lift paving stones and crack pipes. Branches fall in storms. A badly chosen tree, one that drinks too much or grows too large for its spot, can create more problems than it solves. Critics of large planting programmes point out, fairly, that cities have sometimes announced the planting of a million trees and then quietly allowed many of them to die within a few years.\n\n[5] These objections do not defeat the case for trees, but they do change it. The lesson of failed programmes is not that trees are useless but that a tree is a long-term commitment rather than a one-day event. Cities that have done well tend to plant fewer trees and care for them longer, choosing local species that suit the climate and building the cost of watering and pruning into their budgets from the start. In this respect, a tree resembles a school or a bridge: the ribbon-cutting ceremony is the cheapest part.\n\n[6] There is also the question of who gets the shade. In many cities, older and wealthier neighbourhoods have the most mature trees, while newer and poorer districts, where residents are less likely to own air conditioners, have the fewest. The result is that the people who most need cooling often have the least of it. For this reason, some planners now argue that tree cover should be mapped and shared out as deliberately as bus routes or water supply, rather than left to history and chance.\n\n[7] The residents of that widened street eventually got some of their trees back. The city planted young trees along the new pavement, thin saplings that will take fifteen years to offer the shade that was removed in a single night. Their slow growth is perhaps the clearest argument of all. A tree cannot be built in a hurry, which is exactly why a city should think carefully before it takes one away.",
+       "q": "Paragraph 4 mainly functions to:",
+       "c": [
+        "provide further evidence of the cooling effect of trees.",
+        "explain how tree roots grow.",
+        "prove that large planting programmes always fail.",
+        "acknowledge practical difficulties and objections to planting trees."
+       ],
+       "a": 3,
+       "e": "\"None of this means that planting trees is simple or free\" signals a concession, and the paragraph lists problems: water, roots, storms, failed programmes. The author even calls the critics fair. A is reversed in direction; B is one detail (too narrow); C is too extreme (\"always\"), and the passage says only \"sometimes\" and \"many\".",
+       "s": "Function of a paragraph"
+      },
+      {
+       "p": "SOCIAL SCIENCE: This passage is adapted from an essay about trees in modern cities.\n\n[1] A few summers ago, the residents of one busy street in a large Middle Eastern city woke up to find that the row of old ficus trees outside their buildings had been cut down overnight. The road was to be widened, and the trees were in the way. Within weeks, shopkeepers were complaining that their customers had disappeared during the hottest hours of the afternoon, and older residents who had once sat outside in the evenings stayed indoors. Nobody had measured what the trees were doing for the street. People discovered their value only once they were gone.\n\n[2] Stories like this one have pushed a growing number of urban planners toward an idea that would have sounded strange a generation ago: that a street tree is not decoration but infrastructure, as much a part of a city's working equipment as its pipes and power lines. On this view, the question to ask about a tree is not whether it looks pleasant but what services it provides and what it would cost to replace them.\n\n[3] The most obvious service is shade. A pavement in full summer sun can become far hotter than the air above it, and it continues to release that stored heat long after sunset. A tree interrupts this process in two ways. Its leaves block sunlight before it reaches the ground, and it releases water vapour through those leaves, a process that cools the surrounding air in much the same way that sweat cools skin. Measurements in several cities have found shaded streets to be noticeably cooler than unshaded ones nearby, although the size of the difference depends heavily on the type of tree, the width of the street and the local climate.\n\n[4] None of this means that planting trees is simple or free. Trees need water, and in a dry city that water must often be carried by truck or piped at public expense. Roots can lift paving stones and crack pipes. Branches fall in storms. A badly chosen tree, one that drinks too much or grows too large for its spot, can create more problems than it solves. Critics of large planting programmes point out, fairly, that cities have sometimes announced the planting of a million trees and then quietly allowed many of them to die within a few years.\n\n[5] These objections do not defeat the case for trees, but they do change it. The lesson of failed programmes is not that trees are useless but that a tree is a long-term commitment rather than a one-day event. Cities that have done well tend to plant fewer trees and care for them longer, choosing local species that suit the climate and building the cost of watering and pruning into their budgets from the start. In this respect, a tree resembles a school or a bridge: the ribbon-cutting ceremony is the cheapest part.\n\n[6] There is also the question of who gets the shade. In many cities, older and wealthier neighbourhoods have the most mature trees, while newer and poorer districts, where residents are less likely to own air conditioners, have the fewest. The result is that the people who most need cooling often have the least of it. For this reason, some planners now argue that tree cover should be mapped and shared out as deliberately as bus routes or water supply, rather than left to history and chance.\n\n[7] The residents of that widened street eventually got some of their trees back. The city planted young trees along the new pavement, thin saplings that will take fifteen years to offer the shade that was removed in a single night. Their slow growth is perhaps the clearest argument of all. A tree cannot be built in a hurry, which is exactly why a city should think carefully before it takes one away.",
+       "q": "The first sentence of paragraph 5 (\"These objections do not defeat the case for trees, but they do change it\") mainly serves as a:",
+       "c": [
+        "summary of the passage's final conclusion.",
+        "transition that accepts the force of the objections while revising the argument.",
+        "rejection of everything the critics said in paragraph 4.",
+        "new claim that has no connection to the previous paragraph."
+       ],
+       "a": 1,
+       "e": "\"These objections\" points back to paragraph 4; \"do not defeat … but do change\" admits they matter and leads into the revised case (trees as a long-term commitment). C is too extreme: the author does not reject the objections; D is reversed: the sentence is the link between paragraphs. A is wrong place: the conclusion comes in paragraph 7.",
+       "s": "Function of a sentence"
+      },
+      {
+       "p": "SOCIAL SCIENCE: This passage is adapted from an essay about trees in modern cities.\n\n[1] A few summers ago, the residents of one busy street in a large Middle Eastern city woke up to find that the row of old ficus trees outside their buildings had been cut down overnight. The road was to be widened, and the trees were in the way. Within weeks, shopkeepers were complaining that their customers had disappeared during the hottest hours of the afternoon, and older residents who had once sat outside in the evenings stayed indoors. Nobody had measured what the trees were doing for the street. People discovered their value only once they were gone.\n\n[2] Stories like this one have pushed a growing number of urban planners toward an idea that would have sounded strange a generation ago: that a street tree is not decoration but infrastructure, as much a part of a city's working equipment as its pipes and power lines. On this view, the question to ask about a tree is not whether it looks pleasant but what services it provides and what it would cost to replace them.\n\n[3] The most obvious service is shade. A pavement in full summer sun can become far hotter than the air above it, and it continues to release that stored heat long after sunset. A tree interrupts this process in two ways. Its leaves block sunlight before it reaches the ground, and it releases water vapour through those leaves, a process that cools the surrounding air in much the same way that sweat cools skin. Measurements in several cities have found shaded streets to be noticeably cooler than unshaded ones nearby, although the size of the difference depends heavily on the type of tree, the width of the street and the local climate.\n\n[4] None of this means that planting trees is simple or free. Trees need water, and in a dry city that water must often be carried by truck or piped at public expense. Roots can lift paving stones and crack pipes. Branches fall in storms. A badly chosen tree, one that drinks too much or grows too large for its spot, can create more problems than it solves. Critics of large planting programmes point out, fairly, that cities have sometimes announced the planting of a million trees and then quietly allowed many of them to die within a few years.\n\n[5] These objections do not defeat the case for trees, but they do change it. The lesson of failed programmes is not that trees are useless but that a tree is a long-term commitment rather than a one-day event. Cities that have done well tend to plant fewer trees and care for them longer, choosing local species that suit the climate and building the cost of watering and pruning into their budgets from the start. In this respect, a tree resembles a school or a bridge: the ribbon-cutting ceremony is the cheapest part.\n\n[6] There is also the question of who gets the shade. In many cities, older and wealthier neighbourhoods have the most mature trees, while newer and poorer districts, where residents are less likely to own air conditioners, have the fewest. The result is that the people who most need cooling often have the least of it. For this reason, some planners now argue that tree cover should be mapped and shared out as deliberately as bus routes or water supply, rather than left to history and chance.\n\n[7] The residents of that widened street eventually got some of their trees back. The city planted young trees along the new pavement, thin saplings that will take fifteen years to offer the shade that was removed in a single night. Their slow growth is perhaps the clearest argument of all. A tree cannot be built in a hurry, which is exactly why a city should think carefully before it takes one away.",
+       "q": "Paragraph 6 contributes to the argument mainly by:",
+       "c": [
+        "repeating the main claim of paragraph 2 in different words.",
+        "giving a second personal story about a widened road.",
+        "raising an additional issue, the unequal sharing of shade, that supports planning tree cover deliberately.",
+        "explaining why air conditioners are better than trees."
+       ],
+       "a": 2,
+       "e": "\"There is also\" adds a new point: poorer districts have the fewest trees, so tree cover should be planned \"as deliberately as bus routes\". It extends the argument. A is wrong because it is a new issue, not a repetition; B confuses it with paragraph 1; D is never suggested.",
+       "s": "Function of a paragraph"
+      },
+      {
+       "p": "SOCIAL SCIENCE: This passage is adapted from an essay about trees in modern cities.\n\n[1] A few summers ago, the residents of one busy street in a large Middle Eastern city woke up to find that the row of old ficus trees outside their buildings had been cut down overnight. The road was to be widened, and the trees were in the way. Within weeks, shopkeepers were complaining that their customers had disappeared during the hottest hours of the afternoon, and older residents who had once sat outside in the evenings stayed indoors. Nobody had measured what the trees were doing for the street. People discovered their value only once they were gone.\n\n[2] Stories like this one have pushed a growing number of urban planners toward an idea that would have sounded strange a generation ago: that a street tree is not decoration but infrastructure, as much a part of a city's working equipment as its pipes and power lines. On this view, the question to ask about a tree is not whether it looks pleasant but what services it provides and what it would cost to replace them.\n\n[3] The most obvious service is shade. A pavement in full summer sun can become far hotter than the air above it, and it continues to release that stored heat long after sunset. A tree interrupts this process in two ways. Its leaves block sunlight before it reaches the ground, and it releases water vapour through those leaves, a process that cools the surrounding air in much the same way that sweat cools skin. Measurements in several cities have found shaded streets to be noticeably cooler than unshaded ones nearby, although the size of the difference depends heavily on the type of tree, the width of the street and the local climate.\n\n[4] None of this means that planting trees is simple or free. Trees need water, and in a dry city that water must often be carried by truck or piped at public expense. Roots can lift paving stones and crack pipes. Branches fall in storms. A badly chosen tree, one that drinks too much or grows too large for its spot, can create more problems than it solves. Critics of large planting programmes point out, fairly, that cities have sometimes announced the planting of a million trees and then quietly allowed many of them to die within a few years.\n\n[5] These objections do not defeat the case for trees, but they do change it. The lesson of failed programmes is not that trees are useless but that a tree is a long-term commitment rather than a one-day event. Cities that have done well tend to plant fewer trees and care for them longer, choosing local species that suit the climate and building the cost of watering and pruning into their budgets from the start. In this respect, a tree resembles a school or a bridge: the ribbon-cutting ceremony is the cheapest part.\n\n[6] There is also the question of who gets the shade. In many cities, older and wealthier neighbourhoods have the most mature trees, while newer and poorer districts, where residents are less likely to own air conditioners, have the fewest. The result is that the people who most need cooling often have the least of it. For this reason, some planners now argue that tree cover should be mapped and shared out as deliberately as bus routes or water supply, rather than left to history and chance.\n\n[7] The residents of that widened street eventually got some of their trees back. The city planted young trees along the new pavement, thin saplings that will take fifteen years to offer the shade that was removed in a single night. Their slow growth is perhaps the clearest argument of all. A tree cannot be built in a hurry, which is exactly why a city should think carefully before it takes one away.",
+       "q": "Which of the following best describes the way the passage is organized?",
+       "c": [
+        "An opening story leads to a general claim, which is explained, challenged, refined and extended before the passage returns to the opening story.",
+        "A problem is described, several possible solutions are compared, and the cheapest one is recommended.",
+        "A scientific theory is stated and then proved through a series of experiments.",
+        "Events in one street are described in the order in which they happened, with no general claim."
+       ],
+       "a": 0,
+       "e": "Paragraph 1 story → 2 general claim → 3 explanation (shade) → 4 objections → 5 refined claim → 6 extension (who gets shade) → 7 back to the same street. Only A follows the order of all seven paragraphs. B and C name patterns the passage does not use; D ignores the general argument.",
+       "s": "Text structure"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Purpose and structure questions ask WHY a part is there and HOW the parts fit together, not what they say.",
+    "Name the job with a verb: introduces, illustrates, qualifies, concedes, refutes, contrasts, extends, concludes.",
+    "Signal words reveal the job: for example → illustrates; although → qualifies; it is true → concedes; still/yet → rebuttal.",
+    "Main purpose must fit the first and last paragraphs and the author's attitude.",
+    "Organization choices must match every step of your 3-word map."
+   ]
+  }
+ ]
+}

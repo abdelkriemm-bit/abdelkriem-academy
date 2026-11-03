@@ -1,0 +1,606 @@
+{
+ "slug": "act-run-ons",
+ "nav": "Run-ons & Splices",
+ "title": "Run-ons and Comma Splices",
+ "kicker": "American Diploma · ACT · English: Conventions of Standard English",
+ "summary": "How to spot run-ons and comma splices and the five correct ways to join two independent clauses — including however and therefore — with worked examples and a 10-question ACT-style practice.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Joining clauses is one of the most frequent skills in the **Conventions of Standard English** reporting category of the ACT English test (38–43% of the English score, together with punctuation and usage). The English test has **50 questions (40 scored) in 35 minutes** over five essays: three of about 340 words with 10 questions each and two of about 185 words with 5 questions each."
+  },
+  {
+   "type": "p",
+   "text": "These items look like punctuation questions: the underlined portion sits where two ideas meet, and the four choices (the first usually **NO CHANGE**) swap a comma, a period, a semicolon, a colon, a FANBOYS word, or a word such as **however, because, which**. Sometimes the stem asks which choice is **NOT acceptable** — then three choices join the clauses correctly in different ways, and you must find the one broken version. Either way, the question is the same: **how many complete sentences are there, and are they joined legally?**"
+  },
+  {
+   "type": "h2",
+   "text": "Two kinds of clause"
+  },
+  {
+   "type": "p",
+   "text": "A **clause** is a group of words with a subject and a finite verb."
+  },
+  {
+   "type": "list",
+   "items": [
+    "An **independent clause** can stand alone as a sentence: ✓ *the ferry left the harbour*.",
+    "A **dependent clause** starts with a word such as because, although, when, while, if, since, which, who, that — it cannot stand alone: *because the storm passed*, *which carries 300 passengers*."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "Every rule on this page is about one situation: **two independent clauses side by side.**"
+  },
+  {
+   "type": "h2",
+   "text": "The two errors: run-ons and comma splices"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Error",
+    "What it looks like",
+    "✗ Example"
+   ],
+   "rows": [
+    [
+     "Run-on (fused sentence)",
+     "Two independent clauses with no punctuation at all",
+     "The museum opened in 2004 it now holds two million objects."
+    ],
+    [
+     "Comma splice",
+     "Two independent clauses joined by a comma alone",
+     "The museum opened in 2004, it now holds two million objects."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "The ACT tests the comma splice far more often than the fused sentence, because a comma \"looks\" right. Train your eye: when a comma is followed by a new subject and verb, stop and check."
+  },
+  {
+   "type": "p",
+   "text": "**Splice warning words.** A second clause that begins with **it, this, that, they, he, she, we, there, these, those** or a name is almost always a new independent clause. A comma alone is never enough before it."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ The bridge was closed for repairs, this caused long delays.",
+    "✓ The bridge was closed for repairs, which caused long delays. (which = dependent clause)",
+    "✗ Nadia loves chemistry, she spends every weekend in the lab.",
+    "✓ Nadia loves chemistry, so she spends every weekend in the lab."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الغلطة الأشهر",
+   "text": "فاصلة لوحدها بين جملتين كاملتين = comma splice = غلط. لو بعد الفاصلة لقيت it أو this أو they أو he أو she وبعدها فعل، اعرف إن دي جملة جديدة ومحتاجة نقطة أو ; أو فاصلة + and/but/so."
+  },
+  {
+   "type": "h2",
+   "text": "The five correct ways to join two independent clauses"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Way",
+    "Pattern",
+    "✓ Example"
+   ],
+   "rows": [
+    [
+     "1. Period",
+     "Clause. Clause.",
+     "The storm passed. The ferry left the harbour."
+    ],
+    [
+     "2. Semicolon",
+     "Clause; clause.",
+     "The storm passed; the ferry left the harbour."
+    ],
+    [
+     "3. Comma + FANBOYS",
+     "Clause, and/but/so… clause.",
+     "The storm passed, so the ferry left the harbour."
+    ],
+    [
+     "4. Colon (2nd explains the 1st)",
+     "Clause: clause.",
+     "The captain had one rule: no ferry left during a storm."
+    ],
+    [
+     "5. Make one clause dependent",
+     "Because/When/Although… clause, clause. — or — Clause because… clause.",
+     "When the storm passed, the ferry left the harbour. / The ferry left because the storm passed."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**1. Period.** Always correct grammatically. On the ACT, a period and a semicolon are interchangeable — if one is right, the other is usually right too, so neither can be the single answer when both appear."
+  },
+  {
+   "type": "p",
+   "text": "**2. Semicolon.** The teacher's rule: a semicolon joins two independent clauses that are closely related. Both sides must be complete sentences — if you could not put a period there, you cannot put a semicolon there."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ The road was flooded; the buses took a longer route.",
+    "✗ The road was flooded; because it rained all night. (right side is dependent)",
+    "✗ Because it rained all night; the road was flooded. (left side is dependent)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "(SAT/ACT extra rule: a semicolon may also separate list items that already contain commas — \"Cairo, Egypt; Rabat, Morocco; and Tunis, Tunisia.\" That is its only other use, and it has nothing to do with joining clauses.)"
+  },
+  {
+   "type": "p",
+   "text": "**3. Comma + FANBOYS.** The seven coordinating conjunctions are **F**or, **A**nd, **N**or, **B**ut, **O**r, **Y**et, **S**o. Put the comma **before** the FANBOYS word."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ The tickets were cheap, yet few people came.",
+    "✗ The tickets were cheap yet, few people came. (comma in the wrong place)",
+    "✓ She finished the essay and sent it to her teacher. (one subject, two verbs — NO comma, because \"sent it\" is not a clause)",
+    "✗ She finished the essay, and sent it to her teacher."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "That last pair is a favourite ACT trick: a comma + FANBOYS is only for two **complete** clauses. If the second part has no subject of its own, do not add a comma."
+  },
+  {
+   "type": "p",
+   "text": "**4. Colon.** Use a colon after a complete sentence when what follows explains it, gives emphasis or adds information. The left side must be complete."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ The answer was obvious: the pump had never been switched on.",
+    "✗ The reason was: the pump had never been switched on. (\"The reason was\" is not complete)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**5. Make one clause dependent.** Add a subordinating word (because, although, when, while, since, if, unless, after, before) or turn the second clause into a which/who clause. If the dependent clause comes first, put a comma after it; if it comes second, usually no comma (though a comma before *which* or *although* is normal)."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ Although the tickets were cheap, few people came.",
+    "✓ The museum opened in 2004, which makes it one of the newest in the city.",
+    "✗ The museum opened in 2004, it makes it one of the newest in the city."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Conjunctive adverbs: however, therefore and friends"
+  },
+  {
+   "type": "p",
+   "text": "Words such as **however, therefore, moreover, consequently, nevertheless, thus, instead, still, otherwise, meanwhile, as a result, in addition, for example, in fact** connect ideas, but they are **not FANBOYS**. They cannot join two clauses with only a comma."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ The road was closed, therefore, we walked. (comma splice)",
+    "✓ The road was closed; therefore, we walked.",
+    "✓ The road was closed. Therefore, we walked.",
+    "✓ The road was closed, so we walked. (FANBOYS instead)",
+    "✓ We, therefore, walked home. (only one clause — the adverb is extra information inside a pair of commas)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**How to decide:** look at what is on each side of the adverb. If there is a complete clause on both sides, you need a semicolon or period **before** it and a comma after it. If the adverb sits inside one clause, a pair of commas is fine."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ The plan, however, failed. (one clause)",
+    "✗ The plan was good, however, it failed. (two clauses)",
+    "✓ The plan was good; however, it failed."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**\"Then\" is a trap too.** It is not a FANBOYS word. ✗ We packed the car, then we drove to Alexandria. ✓ We packed the car, and then we drove to Alexandria. ✓ We packed the car; then we drove to Alexandria."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "however و therefore",
+   "text": "كلمات زي however و therefore و moreover مش زي and و but. لو قبلها جملة كاملة وبعدها جملة كاملة: حط قبلها ; أو نقطة، وبعدها فاصلة. لو هي جوه جملة واحدة: حطها بين فاصلتين عادي."
+  },
+  {
+   "type": "h2",
+   "text": "Subtle cases the ACT likes"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Double joiners.** One joiner is enough. ✗ Although the road was closed, but we walked. ✓ Although the road was closed, we walked. ✓ The road was closed, but we walked.",
+    "**Semicolon + FANBOYS.** ✗ The road was closed; and we walked. Choose either the semicolon or the comma + and, not both.",
+    "**Which vs it.** ✓ …, which surprised everyone. ✗ …, it surprised everyone. Changing one word can turn a correct sentence into a splice.",
+    "**Long clauses hide splices.** In a 30-word sentence, look for a second subject-and-verb after a comma — that is where the splice hides.",
+    "**Colon vs semicolon.** If the second clause explains or proves the first, both are usually fine; if it is just the next event, use a semicolon or period, not a colon.",
+    "**Three correct, one wrong.** In NOT questions, the period, semicolon and comma + FANBOYS versions are all acceptable; the lonely comma (or the missing punctuation) is the answer."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "A 3-step method"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Find the verbs** in the sentence and their subjects. Each subject + finite verb is a clause.",
+    "**Label each clause**: independent (can stand alone) or dependent (starts with because, which, although…).",
+    "**Check the joint.** Two independent clauses → period, semicolon, comma + FANBOYS, or colon if the second explains the first. Independent + dependent → comma or no comma, never a semicolon. Then read the sentence again with your answer in place."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — the pronoun splice**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: The Nile Valley is very narrow in some __places, this is__ why many villages were built right beside the river."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) NO CHANGE",
+    "B) places this is",
+    "C) places; this is",
+    "D) places, it is"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) ✗ Wrong: Comma splice — \"this is why…\" is a full independent clause.",
+    "B) ✗ Wrong: Run-on — two clauses with no punctuation.",
+    "C) ✓ Correct: The semicolon joins two complete, closely related clauses.",
+    "D) ✗ Wrong: Still a comma splice, and \"it\" is less clear than \"this\"."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — however after a comma**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: The museum planned to reopen in __June, however, the__ new roof was not finished until September."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) NO CHANGE",
+    "B) June; however, the",
+    "C) June however the",
+    "D) June, however the"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) ✗ Wrong: \"however\" is not a FANBOYS word; two clauses with only commas = comma splice.",
+    "B) ✓ Correct: Semicolon before however (two complete clauses), comma after it.",
+    "C) ✗ Wrong: Run-on — no punctuation at all.",
+    "D) ✗ Wrong: Still a comma splice, and the comma after however is missing."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — when the second clause explains**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: The ferry captain followed one simple __rule, no__ boat left the harbour during a storm."
+  },
+  {
+   "type": "p",
+   "text": "**Choose the best version of the underlined portion.**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) NO CHANGE",
+    "B) rule no",
+    "C) rule; that no",
+    "D) rule: no"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer: D**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) ✗ Wrong: Comma splice — \"no boat left the harbour\" is a complete clause.",
+    "B) ✗ Wrong: Run-on.",
+    "C) ✗ Wrong: \"that no boat left…\" is a dependent clause, so it cannot follow a semicolon.",
+    "D) ✓ Correct: The first clause is complete, and the second explains what the rule was — a colon is perfect."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4 — a NOT question**"
+  },
+  {
+   "type": "p",
+   "text": "Passage: Laila trained for the marathon for six __months. She finished__ the race in under four hours."
+  },
+  {
+   "type": "p",
+   "text": "**Which of the following alternatives to the underlined portion would NOT be acceptable?**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) months, and she finished",
+    "B) months; she finished",
+    "C) months, she finished",
+    "D) months; as a result, she finished"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) ✓ Acceptable: comma + FANBOYS joins two independent clauses.",
+    "B) ✓ Acceptable: a semicolon joins two closely related independent clauses.",
+    "C) ✗ The answer: NOT acceptable — a comma alone between two independent clauses is a comma splice.",
+    "D) ✓ Acceptable: semicolon before the transition, comma after it; \"as a result\" is logical."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**The pronoun splice:** a comma before it / this / they / there that starts a new clause.",
+    "**The fake joiner:** however, therefore, moreover, then after a comma cannot join two clauses.",
+    "**The semicolon + dependent clause:** \"; because…\", \"; which…\", \"; although…\" are always wrong.",
+    "**The double joiner:** although … but, because … so, ; and — one joiner only.",
+    "**The extra comma before FANBOYS:** \"She finished the essay, and sent it\" — no second subject, no comma.",
+    "**The period/semicolon twins:** if two choices differ only by period vs semicolon, both are equally right or equally wrong — look elsewhere."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "When the choices swap commas, periods and semicolons, cover the joint and ask: \"Is the left side a complete sentence? Is the right side?\"",
+    "Both complete → period, semicolon, comma + FANBOYS, or colon (if it explains). One side dependent → comma or nothing.",
+    "Spot however/therefore → check for a semicolon or period before it.",
+    "In NOT questions, find the comma splice or the fused sentence — that is your answer.",
+    "Read the full sentence before choosing; the second subject may be far from the comma."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "السؤال اللي تسأله لنفسك",
+   "text": "غطّي علامة الترقيم واسأل: الجزء اللي قبلها جملة كاملة؟ واللي بعدها جملة كاملة؟ لو الاتنين كاملين: نقطة أو ; أو فاصلة + and/but/so أو : لو التانية بتشرح الأولى. لو واحد منهم ناقص (بيبدأ بـ because أو which): فاصلة أو مفيش حاجة، وممنوع ;."
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Two short ACT-style essays, 5 questions each. Every item tests how clauses are joined — sometimes NO CHANGE is correct. Explanations appear after you answer."
+  },
+  {
+   "type": "test",
+   "title": "Run-ons and Comma Splices — ACT-style practice",
+   "timed": false,
+   "intro": "Two short essays, 10 questions. Choose the best version of each underlined portion. NO CHANGE keeps the original.",
+   "sections": [
+    {
+     "name": "Passages I–II",
+     "minutes": 8,
+     "questions": [
+      {
+       "p": "The Clockmaker's Shop\n\nMy great-uncle Fathy repaired clocks in a tiny shop near Khan el-Khalili for more than fifty years. The shop was barely wider than a [1] __doorway, it held__ hundreds of clocks on its walls, and every one of them ticked at a slightly different speed. When I was ten, my parents sent me to spend the summer with him.\n\nOn my first morning, he gave me a broken alarm clock and a set of tiny screwdrivers. I expected him to show me what to [2] __do; instead, he__ went back to his own work and left me alone with the clock. For two days I took it apart and put it back together, but it never ticked.\n\nOn the third day, he finally looked over my shoulder. He pointed to one small brass [3] __gear it was__ upside down. I turned it over, closed the case, and heard the first tick.\n\nThat summer I learned something more important than [4] __repair: patience__ matters more than speed. Fathy never rushed a job, and his customers never complained about waiting.\n\n[5] __Although his shop closed years ago, but I__ still keep that alarm clock on my desk. It has not stopped once.",
+       "q": "Question 1: Choose the best version of underlined portion [1]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "doorway it held",
+        "doorway, but it held",
+        "doorway, however, it held"
+       ],
+       "a": 2,
+       "e": "C joins the two independent clauses with a comma + FANBOYS (but), which also shows the contrast between a tiny shop and hundreds of clocks. A is a comma splice; B is a run-on; D uses however after a comma — still a splice.",
+       "s": "Comma splices / joining clauses"
+      },
+      {
+       "p": "The Clockmaker's Shop\n\nMy great-uncle Fathy repaired clocks in a tiny shop near Khan el-Khalili for more than fifty years. The shop was barely wider than a [1] __doorway, it held__ hundreds of clocks on its walls, and every one of them ticked at a slightly different speed. When I was ten, my parents sent me to spend the summer with him.\n\nOn my first morning, he gave me a broken alarm clock and a set of tiny screwdrivers. I expected him to show me what to [2] __do; instead, he__ went back to his own work and left me alone with the clock. For two days I took it apart and put it back together, but it never ticked.\n\nOn the third day, he finally looked over my shoulder. He pointed to one small brass [3] __gear it was__ upside down. I turned it over, closed the case, and heard the first tick.\n\nThat summer I learned something more important than [4] __repair: patience__ matters more than speed. Fathy never rushed a job, and his customers never complained about waiting.\n\n[5] __Although his shop closed years ago, but I__ still keep that alarm clock on my desk. It has not stopped once.",
+       "q": "Question 2: Choose the best version of underlined portion [2]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "do, instead, he",
+        "do instead he",
+        "do, instead he"
+       ],
+       "a": 0,
+       "e": "Correct as written: semicolon before the conjunctive adverb \"instead\" (two complete clauses), comma after it. B and D are comma splices; C is a run-on.",
+       "s": "Conjunctive adverbs"
+      },
+      {
+       "p": "The Clockmaker's Shop\n\nMy great-uncle Fathy repaired clocks in a tiny shop near Khan el-Khalili for more than fifty years. The shop was barely wider than a [1] __doorway, it held__ hundreds of clocks on its walls, and every one of them ticked at a slightly different speed. When I was ten, my parents sent me to spend the summer with him.\n\nOn my first morning, he gave me a broken alarm clock and a set of tiny screwdrivers. I expected him to show me what to [2] __do; instead, he__ went back to his own work and left me alone with the clock. For two days I took it apart and put it back together, but it never ticked.\n\nOn the third day, he finally looked over my shoulder. He pointed to one small brass [3] __gear it was__ upside down. I turned it over, closed the case, and heard the first tick.\n\nThat summer I learned something more important than [4] __repair: patience__ matters more than speed. Fathy never rushed a job, and his customers never complained about waiting.\n\n[5] __Although his shop closed years ago, but I__ still keep that alarm clock on my desk. It has not stopped once.",
+       "q": "Question 3: Choose the best version of underlined portion [3]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "gear, it was",
+        "gear, which it was",
+        "gear that was"
+       ],
+       "a": 3,
+       "e": "D turns the second clause into a dependent that-clause describing the gear. A is a run-on; B is a comma splice; C (\"which it was\") repeats the subject and makes no sense.",
+       "s": "Run-ons / subordinating"
+      },
+      {
+       "p": "The Clockmaker's Shop\n\nMy great-uncle Fathy repaired clocks in a tiny shop near Khan el-Khalili for more than fifty years. The shop was barely wider than a [1] __doorway, it held__ hundreds of clocks on its walls, and every one of them ticked at a slightly different speed. When I was ten, my parents sent me to spend the summer with him.\n\nOn my first morning, he gave me a broken alarm clock and a set of tiny screwdrivers. I expected him to show me what to [2] __do; instead, he__ went back to his own work and left me alone with the clock. For two days I took it apart and put it back together, but it never ticked.\n\nOn the third day, he finally looked over my shoulder. He pointed to one small brass [3] __gear it was__ upside down. I turned it over, closed the case, and heard the first tick.\n\nThat summer I learned something more important than [4] __repair: patience__ matters more than speed. Fathy never rushed a job, and his customers never complained about waiting.\n\n[5] __Although his shop closed years ago, but I__ still keep that alarm clock on my desk. It has not stopped once.",
+       "q": "Question 4: Choose the best version of underlined portion [4]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "repair, patience",
+        "repair patience",
+        "repair; that patience"
+       ],
+       "a": 0,
+       "e": "Correct as written: the first clause is complete, and the second explains what he learned, so a colon fits. B is a comma splice; C is a run-on; D puts a dependent that-clause after a semicolon.",
+       "s": "Colon between clauses"
+      },
+      {
+       "p": "The Clockmaker's Shop\n\nMy great-uncle Fathy repaired clocks in a tiny shop near Khan el-Khalili for more than fifty years. The shop was barely wider than a [1] __doorway, it held__ hundreds of clocks on its walls, and every one of them ticked at a slightly different speed. When I was ten, my parents sent me to spend the summer with him.\n\nOn my first morning, he gave me a broken alarm clock and a set of tiny screwdrivers. I expected him to show me what to [2] __do; instead, he__ went back to his own work and left me alone with the clock. For two days I took it apart and put it back together, but it never ticked.\n\nOn the third day, he finally looked over my shoulder. He pointed to one small brass [3] __gear it was__ upside down. I turned it over, closed the case, and heard the first tick.\n\nThat summer I learned something more important than [4] __repair: patience__ matters more than speed. Fathy never rushed a job, and his customers never complained about waiting.\n\n[5] __Although his shop closed years ago, but I__ still keep that alarm clock on my desk. It has not stopped once.",
+       "q": "Question 5: Choose the best version of underlined portion [5]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "Although his shop closed years ago, I",
+        "His shop closed years ago, I",
+        "Although his shop closed years ago; I"
+       ],
+       "a": 1,
+       "e": "B uses one joiner only: dependent although-clause + comma + main clause. A uses two joiners (although … but); C is a comma splice; D puts a semicolon after a dependent clause.",
+       "s": "Double joiners"
+      },
+      {
+       "p": "Sand Dams\n\nIn dry regions of East Africa, many villages depend on rivers that flow for only a few weeks each year. For the rest of the year, the riverbeds are nothing but sand. Communities have found a clever way to store that short flood of [6] __water, they build__ low concrete walls called sand dams across the riverbeds.\n\nWhen the rains come, the water carries sand downstream, and the sand piles up behind the wall. The water soaks into the sand and stays there. [7] __Therefore, it__ is protected from the sun, very little of it evaporates.\n\nA single dam can hold millions of litres of water. Villagers dig shallow wells beside the [8] __dam; and they pump__ clean water from them for months after the river has dried up.\n\nSand dams are cheap to [9] __build, they__ last for decades with little repair. They also raise the water level in the surrounding land, so trees and crops grow along the banks. [10] __However, the dams__ are not a solution everywhere. They work only where the riverbed has the right kind of sand and solid rock beneath it.",
+       "q": "Question 6: Choose the best version of underlined portion [6]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "water: they build",
+        "water they build",
+        "water, they are building"
+       ],
+       "a": 1,
+       "e": "Both sides are complete, and the second clause explains the clever way, so a colon is correct. A and D are comma splices; C is a run-on.",
+       "s": "Colon between clauses"
+      },
+      {
+       "p": "Sand Dams\n\nIn dry regions of East Africa, many villages depend on rivers that flow for only a few weeks each year. For the rest of the year, the riverbeds are nothing but sand. Communities have found a clever way to store that short flood of [6] __water, they build__ low concrete walls called sand dams across the riverbeds.\n\nWhen the rains come, the water carries sand downstream, and the sand piles up behind the wall. The water soaks into the sand and stays there. [7] __Therefore, it__ is protected from the sun, very little of it evaporates.\n\nA single dam can hold millions of litres of water. Villagers dig shallow wells beside the [8] __dam; and they pump__ clean water from them for months after the river has dried up.\n\nSand dams are cheap to [9] __build, they__ last for decades with little repair. They also raise the water level in the surrounding land, so trees and crops grow along the banks. [10] __However, the dams__ are not a solution everywhere. They work only where the riverbed has the right kind of sand and solid rock beneath it.",
+       "q": "Question 7: Choose the best version of underlined portion [7]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "It",
+        "Because it",
+        "However, it"
+       ],
+       "a": 2,
+       "e": "C makes the first clause dependent (\"Because it is protected from the sun\"), so the comma before \"very little\" is correct and the cause-effect logic is clear. A and D leave two independent clauses joined by a comma (splice), and B is also a splice.",
+       "s": "Subordinating to fix a splice"
+      },
+      {
+       "p": "Sand Dams\n\nIn dry regions of East Africa, many villages depend on rivers that flow for only a few weeks each year. For the rest of the year, the riverbeds are nothing but sand. Communities have found a clever way to store that short flood of [6] __water, they build__ low concrete walls called sand dams across the riverbeds.\n\nWhen the rains come, the water carries sand downstream, and the sand piles up behind the wall. The water soaks into the sand and stays there. [7] __Therefore, it__ is protected from the sun, very little of it evaporates.\n\nA single dam can hold millions of litres of water. Villagers dig shallow wells beside the [8] __dam; and they pump__ clean water from them for months after the river has dried up.\n\nSand dams are cheap to [9] __build, they__ last for decades with little repair. They also raise the water level in the surrounding land, so trees and crops grow along the banks. [10] __However, the dams__ are not a solution everywhere. They work only where the riverbed has the right kind of sand and solid rock beneath it.",
+       "q": "Question 8: Choose the best version of underlined portion [8]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "dam, and they pump",
+        "dam, they pump",
+        "dam they pump"
+       ],
+       "a": 1,
+       "e": "B joins two independent clauses with comma + and. A uses a semicolon and a FANBOYS together (double joiner); C is a comma splice; D is a run-on.",
+       "s": "Comma + FANBOYS"
+      },
+      {
+       "p": "Sand Dams\n\nIn dry regions of East Africa, many villages depend on rivers that flow for only a few weeks each year. For the rest of the year, the riverbeds are nothing but sand. Communities have found a clever way to store that short flood of [6] __water, they build__ low concrete walls called sand dams across the riverbeds.\n\nWhen the rains come, the water carries sand downstream, and the sand piles up behind the wall. The water soaks into the sand and stays there. [7] __Therefore, it__ is protected from the sun, very little of it evaporates.\n\nA single dam can hold millions of litres of water. Villagers dig shallow wells beside the [8] __dam; and they pump__ clean water from them for months after the river has dried up.\n\nSand dams are cheap to [9] __build, they__ last for decades with little repair. They also raise the water level in the surrounding land, so trees and crops grow along the banks. [10] __However, the dams__ are not a solution everywhere. They work only where the riverbed has the right kind of sand and solid rock beneath it.",
+       "q": "Question 9: Choose the best version of underlined portion [9]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "build they",
+        "build; and they",
+        "build, and they"
+       ],
+       "a": 3,
+       "e": "D joins the two independent clauses with comma + and. A is a comma splice; B is a run-on; C uses a semicolon plus and — one joiner too many.",
+       "s": "Comma splices / joining clauses"
+      },
+      {
+       "p": "Sand Dams\n\nIn dry regions of East Africa, many villages depend on rivers that flow for only a few weeks each year. For the rest of the year, the riverbeds are nothing but sand. Communities have found a clever way to store that short flood of [6] __water, they build__ low concrete walls called sand dams across the riverbeds.\n\nWhen the rains come, the water carries sand downstream, and the sand piles up behind the wall. The water soaks into the sand and stays there. [7] __Therefore, it__ is protected from the sun, very little of it evaporates.\n\nA single dam can hold millions of litres of water. Villagers dig shallow wells beside the [8] __dam; and they pump__ clean water from them for months after the river has dried up.\n\nSand dams are cheap to [9] __build, they__ last for decades with little repair. They also raise the water level in the surrounding land, so trees and crops grow along the banks. [10] __However, the dams__ are not a solution everywhere. They work only where the riverbed has the right kind of sand and solid rock beneath it.",
+       "q": "Question 10: Choose the best version of underlined portion [10]. (NO CHANGE keeps it as it is.)",
+       "c": [
+        "NO CHANGE",
+        "However; the dams",
+        "However the dams, which",
+        "However, although the dams"
+       ],
+       "a": 0,
+       "e": "Correct as written: a new sentence may begin with However followed by a comma. B misuses a semicolon (\"However\" is not a clause); C and D leave the sentence with no main clause (fragments).",
+       "s": "Conjunctive adverbs"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Two independent clauses: period, semicolon, comma + FANBOYS, or colon when the second explains the first.",
+    "A comma alone = comma splice; nothing at all = run-on.",
+    "however / therefore / then are not FANBOYS: semicolon or period before them when they join two clauses.",
+    "A semicolon needs a complete sentence on BOTH sides — never before because, which, although.",
+    "One joiner only: no although … but, no ; and."
+   ]
+  }
+ ]
+}

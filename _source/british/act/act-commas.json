@@ -1,0 +1,595 @@
+{
+ "slug": "act-commas",
+ "nav": "Commas",
+ "title": "ACT Commas: Every Correct Use and Every Trap",
+ "kicker": "American Diploma · ACT · English: Punctuation",
+ "summary": "The seven correct uses of the comma and the misuses ACT English tests most — subject–verb commas, commas before “that”, essential information, compound subjects and verbs, and comma splices — with worked examples and an ACT-style quiz.",
+ "blocks": [
+  {
+   "type": "p",
+   "text": "The comma is the mark ACT English tests most often, and it is also the mark students misuse most. The good news: there are only a few correct reasons to use a comma, and the test returns to the same handful of wrong ones again and again. Learn both lists on this page and comma questions become some of the fastest points on the test."
+  },
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Comma questions belong to the **Conventions of Standard English** category, which is **38–43%** of the 40 scored English questions. A portion of the essay is underlined, and the four choices differ only in where the commas go (sometimes a semicolon, colon or dash is mixed in). There is usually no written question — only the choices, with **NO CHANGE** first."
+  },
+  {
+   "type": "p",
+   "text": "A comma question is really asking one thing: **does this sentence have a reason for a comma here?** If you cannot name the reason from the list below, the comma is probably wrong. Many correct answers on the ACT have **fewer** commas than the wrong ones."
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Know your building blocks",
+   "text": "A **complete sentence (independent clause)** has a subject and a verb and can stand alone: “The wheel turned.” A **dependent clause** has a subject and a verb but cannot stand alone because it starts with a word like because, when, although, if, since, which, who: “because the wheel turned”. A **phrase** has no subject–verb pair: “in the summer heat”, “a carpenter from Fayoum”."
+  },
+  {
+   "type": "h2",
+   "text": "The correct uses of the comma"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Use",
+    "The rule",
+    "✓ Correct"
+   ],
+   "rows": [
+    [
+     "1. Lists of three or more",
+     "Commas between the items. The comma before the final “and/or” (the serial comma) is acceptable; the ACT will not make you choose between with and without it.",
+     "She bought bread, cheese, and olives."
+    ],
+    [
+     "2. FANBOYS joining two sentences",
+     "Comma **before** for, and, nor, but, or, yet, so when it joins two complete sentences.",
+     "The bus was late, **so** we walked."
+    ],
+    [
+     "3. After an introductory element",
+     "Comma after an opening word, phrase or dependent clause that comes before the main sentence.",
+     "However, the plan failed. / In the morning, we left. / When the rain stopped, we left."
+    ],
+    [
+     "4. A pair around extra information",
+     "Non-essential words in the middle of a sentence go between **two** commas.",
+     "My uncle, **a carpenter,** fixed the door."
+    ],
+    [
+     "5. Extra information at the end",
+     "One comma before non-essential words at the end.",
+     "We visited Luxor, **a city full of temples**."
+    ],
+    [
+     "6. Coordinate adjectives",
+     "Comma between two adjectives that each describe the noun equally.",
+     "a long, tiring journey"
+    ],
+    [
+     "7. Dates and addresses",
+     "Comma between day and year, and between city and country/state — and another comma **after** the year or country if the sentence continues.",
+     "On June 5, 1971, the shop opened. / He moved to Aswan, Egypt, in 1980."
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Rule by rule: the details the test likes"
+  },
+  {
+   "type": "p",
+   "text": "**1. Lists.** The commas go **between** the items, never after the last one and never after “and”."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ The team studied maps, diaries, and photographs.",
+    "✓ The team studied maps, diaries and photographs. (Also correct: the serial comma is optional.)",
+    "✗ The team studied maps, diaries, and, photographs. (comma after “and”)",
+    "✗ The team studied, maps, diaries, and photographs. (comma between the verb and its list)",
+    "✗ The team studied maps, diaries, and photographs, in the archive. (comma after the last item)",
+    "Only **two** items? No comma at all: ✓ maps and diaries; ✗ maps, and diaries."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**2. Comma + FANBOYS.** The comma goes **before** the conjunction, and only when there is a complete sentence on **both** sides. If the second part has no subject of its own, it is not a sentence — it is just a second verb sharing the first subject, so no comma."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ The river flooded, **and** the farmers lost their crops. (two subjects, two verbs)",
+    "✓ The river flooded **and** destroyed the crops. (one subject, two verbs → no comma)",
+    "✗ The river flooded, and destroyed the crops.",
+    "✗ The river flooded and, the farmers lost their crops. (comma after the conjunction)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**3. Introductory elements.** A transition word (However, Still, Therefore), an opening phrase (After the storm, In 1971) or an opening dependent clause (When the bell rang, Because it was late) is followed by a comma. Short opening phrases of two or three words may skip it, but the ACT almost never makes that the issue. What the ACT **does** test is a comma placed in the wrong spot inside the opener, or a missing comma after a long opening clause."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ Because the parts dry out in the heat, the carpenters soak them.",
+    "✗ Because, the parts dry out in the heat the carpenters soak them.",
+    "✗ Because the parts dry out, in the heat the carpenters soak them. (the comma is in the wrong place)",
+    "Careful: a dependent clause at the **end** of a sentence usually takes **no** comma: ✓ The carpenters soak the parts because they dry out in the heat."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**4 and 5. Extra (non-essential) information.** This is the most tested comma idea. Remove the words: if the sentence still points to the same person or thing and keeps its main meaning, the words are **extra** → commas. If removing them changes **which** person or thing you mean, they are **essential** → no commas."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ Students **who finish early** may leave. (Essential: only those students may leave.)",
+    "✗ Students, who finish early, may leave. (Now it says all students finish early.)",
+    "✓ My only brother, **Fathi,** works in Tanta. (I have one brother, so his name is extra.)",
+    "✓ The novelist **Naguib Mahfouz** won the Nobel Prize. (The name tells us which novelist → essential.)",
+    "✓ The car **that** I bought is blue. / My car, **which** is blue, is old. (“that” = essential, no commas; “which” = extra, with commas.)",
+    "✗ My uncle, who lives in Tanta grows mangoes. (Half a pair: the second comma is missing.)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "The matching-pair rule",
+   "text": "Extra information in the middle of a sentence may sit between two commas (, … ,), two dashes (— … —) or brackets ( ( … ) ). All three are correct; mixing them is never correct (, … —). When you see the opening comma, look for the closing one."
+  },
+  {
+   "type": "p",
+   "text": "**6. Coordinate adjectives.** Use a comma between two adjectives only if they each describe the noun equally. Two quick tests: can you put “and” between them? Can you swap their order? If yes to both, use a comma."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ a small, quiet man (small and quiet man ✓; quiet, small man ✓)",
+    "✓ three old stone houses (✗ three and old and stone houses → no commas)",
+    "✓ a bright red scarf (“bright” describes “red”, not the scarf → no comma)",
+    "✗ a small, quiet, man (never a comma between the last adjective and the noun)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**7. Dates and addresses.** In month–day–year dates, put a comma after the day and **another after the year** if the sentence continues. In places, put a comma between the city and the country, and **another after the country**. Month + year alone needs no comma."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ On March 3, 2019, the festival began.",
+    "✗ On March 3, 2019 the festival began. (closing comma missing)",
+    "✓ She was born in Mansoura, Egypt, in 2008.",
+    "✓ In June 2019 the festival began. (month + year: no comma needed)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "The comma misuses the ACT loves"
+  },
+  {
+   "type": "p",
+   "text": "Most wrong answers in comma questions contain an **extra** comma. Learn these places where a comma is never allowed."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Never put a comma…",
+    "✗ Wrong",
+    "✓ Right"
+   ],
+   "rows": [
+    [
+     "between a subject and its verb (even a very long subject)",
+     "The oldest wheels in the province, still carry water.",
+     "The oldest wheels in the province still carry water."
+    ],
+    [
+     "between a verb and its object or complement",
+     "The flood covered, many villages.",
+     "The flood covered many villages."
+    ],
+    [
+     "before “that” (that-clause or essential clause)",
+     "He said, that the wheel was old. / The wheel, that he built is old.",
+     "He said that the wheel was old. / The wheel that he built is old."
+    ],
+    [
+     "around essential information",
+     "Scientists, who study deserts, found the seeds.",
+     "Scientists who study deserts found the seeds."
+    ],
+    [
+     "between two subjects that share a verb (compound subject)",
+     "My sister, and her friend visited Siwa.",
+     "My sister and her friend visited Siwa."
+    ],
+    [
+     "between two verbs that share a subject (compound verb)",
+     "She opened the door, and walked in.",
+     "She opened the door and walked in."
+    ],
+    [
+     "alone, between two complete sentences (comma splice)",
+     "The road was closed, we walked.",
+     "The road was closed, so we walked. / The road was closed; we walked."
+    ],
+    [
+     "after a FANBOYS word or after such as / including",
+     "bread, and, olives / such as, maps",
+     "bread and olives / such as maps"
+    ],
+    [
+     "between a preposition and its object",
+     "in, the garden / with, great care",
+     "in the garden / with great care"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**The comma splice deserves special attention.** A comma alone can never join two complete sentences, and a transition word such as however, therefore, moreover or for example does not fix it, because these words are not FANBOYS conjunctions."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ The wheels are turned by the current, they need no fuel.",
+    "✗ The wheels are turned by the current, therefore, they need no fuel.",
+    "✓ The wheels are turned by the current, so they need no fuel.",
+    "✓ The wheels are turned by the current; they need no fuel.",
+    "✓ The wheels are turned by the current. They need no fuel."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "القاعدة الذهبية للفاصلة",
+   "text": "ممنوع فاصلة بين الفاعل والفعل حتى لو الفاعل طويل، وممنوع فاصلة بين الفعل والمفعول، وممنوع قبل that. ولو المعلومة أساسية وبتحدد مين بالظبط (زي: الطلاب اللي خلصوا بدري) يبقى من غير فواصل. لو المعلومة زيادة ونقدر نشيلها، يبقى بين فاصلتين، ولازم الاتنين."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الجملتين الكاملتين",
+   "text": "فاصلة لوحدها بين جملتين كاملتين غلط. لازم فاصلة ومعاها كلمة من الـ FANBOYS، أو سيميكولون، أو نقطة. وكلمة however مش بتصلّح الغلطة دي."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "Each example is part of an ACT-style essay. The underlined portion is shown in **bold**."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1.** “The students in the third row**, who had arrived late** missed the first instructions.”"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) , who had arrived late,",
+    "C)  who had arrived late,",
+    "D)  — who had arrived late,"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**B is correct.** The sentence already names the students (those in the third row), so “who had arrived late” is extra information. It needs a comma on both sides: one to open it and one to close it before the verb “missed”.",
+    "**A** is half a pair: the phrase is opened but never closed.",
+    "**C** removes the first comma but keeps the second, which now sits alone between the subject (“The students… late”) and its verb “missed”.",
+    "**D** mixes a dash with a comma (no match)."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2.** “The museum guide **explained, that** the statue had been moved twice.”"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) explained that",
+    "C) explained; that",
+    "D) explained, that,"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**B is correct.** “that the statue had been moved twice” is the object of the verb “explained”. No punctuation goes between a verb and its object, and no comma goes before “that”.",
+    "**A** separates the verb from its object.",
+    "**C** uses a semicolon, which needs a complete sentence on both sides; “that the statue had been moved twice” is not one.",
+    "**D** adds even more wrong commas."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3.** “Hoda practised the piano every **evening, her** neighbours never complained.”"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) evening her",
+    "C) evening, and her",
+    "D) evening, and, her"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**C is correct.** “Hoda practised the piano every evening” and “her neighbours never complained” are both complete sentences. A comma plus the FANBOYS word “and” joins them correctly.",
+    "**A** is a comma splice.",
+    "**B** is a run-on (two sentences with no punctuation).",
+    "**D** puts a comma after “and”, which is never correct."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4.** “My cousin moved to **Aswan, Egypt in** 2015 to study medicine.”"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) Aswan Egypt, in",
+    "C) Aswan, Egypt, in",
+    "D) Aswan; Egypt in"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**C is correct.** In a place name the country is set off by commas on both sides when the sentence continues: Aswan, Egypt, in 2015.",
+    "**A** leaves out the closing comma after “Egypt”.",
+    "**B** removes the comma between the city and the country.",
+    "**D** uses a semicolon, which never separates parts of an address."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**Long-subject comma:** a comma before the verb just because the subject is long (“The oldest wheels in the province, still carry…”).",
+    "**Verb–object comma:** a comma after verbs like said, explained, showed, covered.",
+    "**Comma before that:** “He said, that…” or “the book, that I read”.",
+    "**Half a pair:** extra information opened with a comma but not closed, or closed with a dash.",
+    "**Commas around essential information:** “Students, who finish early, may leave.”",
+    "**Compound subject or verb split by a comma:** “She opened the door, and walked in.”",
+    "**Comma splice:** two complete sentences joined by a comma alone, or by a comma + however/therefore.",
+    "**Comma after and / such as / including** and a comma after the last adjective before the noun."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "If only commas move in the choices, ask: what is on each side of each comma?",
+    "Name the reason for every comma (list, FANBOYS + two sentences, opener, extra-info pair, equal adjectives, date/address). No reason → no comma.",
+    "Find the subject and the verb of the sentence first; any choice with a single comma between them is out.",
+    "For extra information, remove the words: same meaning → commas; meaning changes → no commas.",
+    "When two choices look equally good, pick the one with fewer commas — but only after checking that every needed comma is there."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Two short ACT-style essays, one informational and one narrative, with 5 questions each. The numbers in brackets match the question numbers. Every question tests a comma rule from this page."
+  },
+  {
+   "type": "test",
+   "title": "ACT Commas quiz",
+   "timed": false,
+   "intro": "Two ACT-style essays with 5 questions each. Read the whole sentence around each underlined portion before you choose.",
+   "sections": [
+    {
+     "name": "Passages I–II",
+     "minutes": 8,
+     "questions": [
+      {
+       "p": "The Singing Wheels of Fayoum\n\nFor centuries, the wooden water wheels of Fayoum have lifted water from the canals into the fields. They stand in the oasis south-west of Cairo, where the land slopes gently towards a large lake. The wheels are turned by the __current, they__ [1] need no fuel at all. Each wheel groans as it turns, and visitors often say that the sound is like a low, sad song. Travellers often stop beside the canals just to listen.\n\nThe oldest __wheels in the province, still__ [2] carry water to orchards of olives, grapes, and pomegranates. Local carpenters repair them with wood from __acacia, tamarisk, and__ [3] palm trees. One carpenter has __said, that__ [4] a single wheel can take a month to rebuild. The work is done entirely by hand, and the skills pass from fathers to sons.\n\n__Because the wooden parts dry out quickly in the summer heat the__ [5] carpenters keep them wet with canal water. Without this care, the wheels would crack and fall silent, and an old sound of the Egyptian countryside would be lost. Many villagers hope that the wheels will keep turning for another two thousand years.",
+       "q": "[1] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "current they",
+        "current, and, they",
+        "current, so they"
+       ],
+       "a": 3,
+       "e": "“The wheels are turned by the current” and “they need no fuel at all” are both complete sentences. D joins them with a comma + the FANBOYS word “so”. A is a comma splice, B is a run-on, and C adds a wrong comma after “and”.",
+       "s": "Commas: comma splice / FANBOYS"
+      },
+      {
+       "p": "The Singing Wheels of Fayoum\n\nFor centuries, the wooden water wheels of Fayoum have lifted water from the canals into the fields. They stand in the oasis south-west of Cairo, where the land slopes gently towards a large lake. The wheels are turned by the __current, they__ [1] need no fuel at all. Each wheel groans as it turns, and visitors often say that the sound is like a low, sad song. Travellers often stop beside the canals just to listen.\n\nThe oldest __wheels in the province, still__ [2] carry water to orchards of olives, grapes, and pomegranates. Local carpenters repair them with wood from __acacia, tamarisk, and__ [3] palm trees. One carpenter has __said, that__ [4] a single wheel can take a month to rebuild. The work is done entirely by hand, and the skills pass from fathers to sons.\n\n__Because the wooden parts dry out quickly in the summer heat the__ [5] carpenters keep them wet with canal water. Without this care, the wheels would crack and fall silent, and an old sound of the Egyptian countryside would be lost. Many villagers hope that the wheels will keep turning for another two thousand years.",
+       "q": "[2] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "wheels, in the province still",
+        "wheels in the province still",
+        "wheels in the province; still"
+       ],
+       "a": 2,
+       "e": "The subject is “The oldest wheels in the province” and the verb is “carry” (“still” belongs with the verb). Nothing may separate them, however long the subject is. A and B put a comma inside the subject–verb link; D uses a semicolon, but the first part is not a complete sentence.",
+       "s": "Commas: subject–verb"
+      },
+      {
+       "p": "The Singing Wheels of Fayoum\n\nFor centuries, the wooden water wheels of Fayoum have lifted water from the canals into the fields. They stand in the oasis south-west of Cairo, where the land slopes gently towards a large lake. The wheels are turned by the __current, they__ [1] need no fuel at all. Each wheel groans as it turns, and visitors often say that the sound is like a low, sad song. Travellers often stop beside the canals just to listen.\n\nThe oldest __wheels in the province, still__ [2] carry water to orchards of olives, grapes, and pomegranates. Local carpenters repair them with wood from __acacia, tamarisk, and__ [3] palm trees. One carpenter has __said, that__ [4] a single wheel can take a month to rebuild. The work is done entirely by hand, and the skills pass from fathers to sons.\n\n__Because the wooden parts dry out quickly in the summer heat the__ [5] carpenters keep them wet with canal water. Without this care, the wheels would crack and fall silent, and an old sound of the Egyptian countryside would be lost. Many villagers hope that the wheels will keep turning for another two thousand years.",
+       "q": "[3] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "acacia tamarisk and",
+        "acacia, tamarisk, and,",
+        "acacia, tamarisk and,"
+       ],
+       "a": 0,
+       "e": "In a list of three items, commas go between the items, and a comma before “and” is acceptable. The original is correct. B has no commas at all; C and D put a comma after “and”, which separates “palm” from “trees” and is never correct.",
+       "s": "Commas: lists"
+      },
+      {
+       "p": "The Singing Wheels of Fayoum\n\nFor centuries, the wooden water wheels of Fayoum have lifted water from the canals into the fields. They stand in the oasis south-west of Cairo, where the land slopes gently towards a large lake. The wheels are turned by the __current, they__ [1] need no fuel at all. Each wheel groans as it turns, and visitors often say that the sound is like a low, sad song. Travellers often stop beside the canals just to listen.\n\nThe oldest __wheels in the province, still__ [2] carry water to orchards of olives, grapes, and pomegranates. Local carpenters repair them with wood from __acacia, tamarisk, and__ [3] palm trees. One carpenter has __said, that__ [4] a single wheel can take a month to rebuild. The work is done entirely by hand, and the skills pass from fathers to sons.\n\n__Because the wooden parts dry out quickly in the summer heat the__ [5] carpenters keep them wet with canal water. Without this care, the wheels would crack and fall silent, and an old sound of the Egyptian countryside would be lost. Many villagers hope that the wheels will keep turning for another two thousand years.",
+       "q": "[4] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "said that",
+        "said: that",
+        "said; that"
+       ],
+       "a": 1,
+       "e": "“that a single wheel can take a month to rebuild” is the object of the verb “said”. Never put punctuation between a verb and its object, and never put a comma before “that” here. A, C and D all break the verb from its object.",
+       "s": "Commas: no comma before that"
+      },
+      {
+       "p": "The Singing Wheels of Fayoum\n\nFor centuries, the wooden water wheels of Fayoum have lifted water from the canals into the fields. They stand in the oasis south-west of Cairo, where the land slopes gently towards a large lake. The wheels are turned by the __current, they__ [1] need no fuel at all. Each wheel groans as it turns, and visitors often say that the sound is like a low, sad song. Travellers often stop beside the canals just to listen.\n\nThe oldest __wheels in the province, still__ [2] carry water to orchards of olives, grapes, and pomegranates. Local carpenters repair them with wood from __acacia, tamarisk, and__ [3] palm trees. One carpenter has __said, that__ [4] a single wheel can take a month to rebuild. The work is done entirely by hand, and the skills pass from fathers to sons.\n\n__Because the wooden parts dry out quickly in the summer heat the__ [5] carpenters keep them wet with canal water. Without this care, the wheels would crack and fall silent, and an old sound of the Egyptian countryside would be lost. Many villagers hope that the wheels will keep turning for another two thousand years.",
+       "q": "[5] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "Because, the wooden parts dry out quickly in the summer heat the",
+        "Because the wooden parts dry out quickly in the summer heat, the",
+        "Because the wooden parts dry out quickly, in the summer heat the"
+       ],
+       "a": 2,
+       "e": "An introductory dependent clause (“Because … summer heat”) is followed by a comma before the main sentence begins. C puts the comma exactly at that boundary. A has no comma; B puts it after “Because”; D puts it in the middle of the opening clause.",
+       "s": "Commas: introductory element"
+      },
+      {
+       "p": "The Watchmaker of Talaat Harb Street\n\nMy grandfather opened his watch-repair shop on __June 5, 1971, in__ [6] a narrow building in downtown Cairo. His only __brother Fathi, worked__ [7] beside him for thirty years, and together they fixed watches for students, judges, and bus drivers. Sometimes he worked on a single watch for a whole week, and he never charged extra for the time.\n\nGrandfather was a __small quiet,__ [8] man who rarely spoke while he worked. The __customers who trusted him most__ [9] brought him their oldest and most precious watches, some of which had belonged to their own grandparents. He would open the back of a __watch, and study__ [10] its tiny gears for a long time before he touched anything.\n\nWhen I was ten, he let me sit beside him on Saturday mornings. He gave me a small brush and asked me to clean the empty cases while he worked. I did not understand the gears, but I loved the ticking of a hundred clocks around us. Every hour, the shop filled with bells, chimes, and soft electronic beeps. Today the shop belongs to my cousin, and the ticking has never stopped.",
+       "q": "[6] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "June 5 1971 in",
+        "June, 5, 1971 in",
+        "June 5, 1971 in"
+       ],
+       "a": 0,
+       "e": "In a month–day–year date, a comma follows the day and another follows the year when the sentence continues. The original does this. B has no commas; C puts a comma between the month and the day and drops the closing one; D drops the comma after the year.",
+       "s": "Commas: dates"
+      },
+      {
+       "p": "The Watchmaker of Talaat Harb Street\n\nMy grandfather opened his watch-repair shop on __June 5, 1971, in__ [6] a narrow building in downtown Cairo. His only __brother Fathi, worked__ [7] beside him for thirty years, and together they fixed watches for students, judges, and bus drivers. Sometimes he worked on a single watch for a whole week, and he never charged extra for the time.\n\nGrandfather was a __small quiet,__ [8] man who rarely spoke while he worked. The __customers who trusted him most__ [9] brought him their oldest and most precious watches, some of which had belonged to their own grandparents. He would open the back of a __watch, and study__ [10] its tiny gears for a long time before he touched anything.\n\nWhen I was ten, he let me sit beside him on Saturday mornings. He gave me a small brush and asked me to clean the empty cases while he worked. I did not understand the gears, but I loved the ticking of a hundred clocks around us. Every hour, the shop filled with bells, chimes, and soft electronic beeps. Today the shop belongs to my cousin, and the ticking has never stopped.",
+       "q": "[7] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "brother, Fathi worked",
+        "brother, Fathi, worked",
+        "brother: Fathi worked"
+       ],
+       "a": 2,
+       "e": "“His only brother” already identifies one person, so the name “Fathi” is extra information and needs a pair of commas. A leaves a single comma between the subject and the verb “worked”; B opens the pair but does not close it; D uses a colon after an incomplete start.",
+       "s": "Commas: pair around extra information"
+      },
+      {
+       "p": "The Watchmaker of Talaat Harb Street\n\nMy grandfather opened his watch-repair shop on __June 5, 1971, in__ [6] a narrow building in downtown Cairo. His only __brother Fathi, worked__ [7] beside him for thirty years, and together they fixed watches for students, judges, and bus drivers. Sometimes he worked on a single watch for a whole week, and he never charged extra for the time.\n\nGrandfather was a __small quiet,__ [8] man who rarely spoke while he worked. The __customers who trusted him most__ [9] brought him their oldest and most precious watches, some of which had belonged to their own grandparents. He would open the back of a __watch, and study__ [10] its tiny gears for a long time before he touched anything.\n\nWhen I was ten, he let me sit beside him on Saturday mornings. He gave me a small brush and asked me to clean the empty cases while he worked. I did not understand the gears, but I loved the ticking of a hundred clocks around us. Every hour, the shop filled with bells, chimes, and soft electronic beeps. Today the shop belongs to my cousin, and the ticking has never stopped.",
+       "q": "[8] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "small; quiet",
+        "small, quiet,",
+        "small, quiet"
+       ],
+       "a": 3,
+       "e": "“Small” and “quiet” each describe the man equally (small and quiet; quiet, small), so they are coordinate adjectives with a comma between them — and no comma before the noun. A and C put a comma between “quiet” and “man”; B uses a semicolon, which never separates adjectives.",
+       "s": "Commas: coordinate adjectives"
+      },
+      {
+       "p": "The Watchmaker of Talaat Harb Street\n\nMy grandfather opened his watch-repair shop on __June 5, 1971, in__ [6] a narrow building in downtown Cairo. His only __brother Fathi, worked__ [7] beside him for thirty years, and together they fixed watches for students, judges, and bus drivers. Sometimes he worked on a single watch for a whole week, and he never charged extra for the time.\n\nGrandfather was a __small quiet,__ [8] man who rarely spoke while he worked. The __customers who trusted him most__ [9] brought him their oldest and most precious watches, some of which had belonged to their own grandparents. He would open the back of a __watch, and study__ [10] its tiny gears for a long time before he touched anything.\n\nWhen I was ten, he let me sit beside him on Saturday mornings. He gave me a small brush and asked me to clean the empty cases while he worked. I did not understand the gears, but I loved the ticking of a hundred clocks around us. Every hour, the shop filled with bells, chimes, and soft electronic beeps. Today the shop belongs to my cousin, and the ticking has never stopped.",
+       "q": "[9] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "customers, who trusted him most,",
+        "customers, who trusted him most",
+        "customers who trusted him most,"
+       ],
+       "a": 0,
+       "e": "The clause tells us which customers brought the oldest watches: only those who trusted him most. It is essential, so it takes no commas. B would mean that all customers trusted him most; C and D leave a single comma that separates parts of the sentence for no reason (D puts it between the subject and its verb “brought”).",
+       "s": "Commas: essential information"
+      },
+      {
+       "p": "The Watchmaker of Talaat Harb Street\n\nMy grandfather opened his watch-repair shop on __June 5, 1971, in__ [6] a narrow building in downtown Cairo. His only __brother Fathi, worked__ [7] beside him for thirty years, and together they fixed watches for students, judges, and bus drivers. Sometimes he worked on a single watch for a whole week, and he never charged extra for the time.\n\nGrandfather was a __small quiet,__ [8] man who rarely spoke while he worked. The __customers who trusted him most__ [9] brought him their oldest and most precious watches, some of which had belonged to their own grandparents. He would open the back of a __watch, and study__ [10] its tiny gears for a long time before he touched anything.\n\nWhen I was ten, he let me sit beside him on Saturday mornings. He gave me a small brush and asked me to clean the empty cases while he worked. I did not understand the gears, but I loved the ticking of a hundred clocks around us. Every hour, the shop filled with bells, chimes, and soft electronic beeps. Today the shop belongs to my cousin, and the ticking has never stopped.",
+       "q": "[10] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "watch and study",
+        "watch, and, study",
+        "watch; and study"
+       ],
+       "a": 1,
+       "e": "“He would open … and study …” is one subject with two verbs (a compound verb). The second part has no subject of its own, so no comma goes before “and”. A and C put commas around “and”; D uses a semicolon, but “and study its tiny gears” is not a complete sentence.",
+       "s": "Commas: compound verb"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Every comma needs a reason: list, FANBOYS between two complete sentences, after an opener, a pair around extra information, equal adjectives, dates and addresses.",
+    "Never a single comma between subject and verb, between verb and object, or before “that”.",
+    "Essential information (which one?) → no commas; extra information → a matching pair.",
+    "One subject + two verbs → no comma before “and”; two complete sentences → comma + FANBOYS.",
+    "A comma alone (or comma + however) between two complete sentences is a comma splice."
+   ]
+  }
+ ]
+}

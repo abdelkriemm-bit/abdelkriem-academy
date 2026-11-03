@@ -1,0 +1,700 @@
+{
+ "slug": "act-apostrophes",
+ "nav": "Apostrophes",
+ "title": "ACT Apostrophes: Possession, Contractions and Plurals",
+ "kicker": "American Diploma · ACT · English: Punctuation",
+ "summary": "A four-step method for every apostrophe question — singular and plural owners, irregular plurals, joint and separate possession, contractions, its/it's, whose/who's, their/they're and plurals that need no apostrophe — with a 10-question ACT-style practice.",
+ "blocks": [
+  {
+   "type": "p",
+   "text": "An apostrophe (') has only two jobs: it shows **possession** (the student's book) and it marks **missing letters** in a contraction (it's = it is). That sounds simple, yet apostrophe questions catch many strong students, because the test mixes the two jobs together and adds words that look as if they need an apostrophe but do not. This lesson gives you a short method that solves every apostrophe item."
+  },
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Apostrophe questions belong to the **Conventions of Standard English** reporting category (**38–43%** of the 40 scored English questions). A word in the essay is underlined, and the four choices show the same word with the apostrophe in different places — or with no apostrophe at all — usually with **NO CHANGE** first. Sometimes two words change together, for example \"the citys' plan\" vs \"the city's plans\"."
+  },
+  {
+   "type": "p",
+   "text": "To answer, you must decide three things about the underlined word:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Is it **plural** (more than one) or **singular** (one)?",
+    "Does it **own** something — is the next noun \"belonging to\" it?",
+    "Is it a **contraction** (two words squeezed into one) or a **possessive pronoun** (its, whose, their, your)?"
+   ],
+   "ordered": true
+  },
+  {
+   "type": "h2",
+   "text": "1. Possession: the four-step method"
+  },
+  {
+   "type": "p",
+   "text": "Never decide where the apostrophe goes by looking at the word. Use these steps in order."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Find the owner.** Turn the phrase round with \"of\": *the voices of the singers*, *the bag of the child*.",
+    "**Decide: one owner or more than one?** Read the rest of the sentence for clues (many, several, both, all, a, each, one).",
+    "**Write the owner word correctly first** — singular (singer) or plural (singers, children).",
+    "**Add the apostrophe:** if the owner word ends in -s, add only **'**; if it does not end in -s, add **'s**."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Owner",
+    "Step 3: write the owner",
+    "Step 4: add",
+    "✓ Result"
+   ],
+   "rows": [
+    [
+     "one student",
+     "student",
+     "+ 's",
+     "the student's answer"
+    ],
+    [
+     "many students",
+     "students",
+     "+ '",
+     "the students' answers"
+    ],
+    [
+     "one child",
+     "child",
+     "+ 's",
+     "the child's toy"
+    ],
+    [
+     "many children",
+     "children",
+     "+ 's (no -s at the end)",
+     "the children's toys"
+    ],
+    [
+     "one country",
+     "country",
+     "+ 's",
+     "the country's capital"
+    ],
+    [
+     "many countries",
+     "countries",
+     "+ '",
+     "the countries' flags"
+    ],
+    [
+     "one boss",
+     "boss",
+     "+ 's",
+     "the boss's office"
+    ],
+    [
+     "many bosses",
+     "bosses",
+     "+ '",
+     "the bosses' meeting"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Singular possession: noun + 's.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ The **station's** clock is broken. (one station)",
+    "✗ The **stations'** clock is broken. (This means several stations share one clock.)",
+    "✓ The **bus's** engine stopped. ✓ **James's** notebook. (A singular word that already ends in -s still takes 's. You may also see just an apostrophe after names such as Charles' — a well-written question will not make you choose between these two forms.)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Plural possession (plural ends in -s): noun + ' only.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ All the **players'** shirts were washed. (many players)",
+    "✗ All the **player's** shirts were washed. (one player — but \"all the\" tells you there are many)",
+    "✗ All the **players's** shirts were washed. (never add 's to a plural that already ends in -s)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Plurals that do not end in -s: noun + 's.** The test loves these because students apply \"plural = s'\" without thinking."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ the **children's** library ✗ the childrens' library ✗ the childrens library",
+    "✓ the **women's** team ✗ the womens' team",
+    "✓ **people's** opinions ✗ peoples' opinions (unless you mean several different peoples or nations)",
+    "Also: men's, mice's."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "مكان الأبوستروف",
+   "text": "ما تبصّش على شكل الكلمة. اسأل نفسك: الحاجة دي بتاعة واحد ولا أكتر من واحد؟ اكتب الكلمة صح الأول (student أو students أو children)، وبعدين: لو الكلمة خلصانة بحرف s حط ' بس (students')، ولو مش خلصانة بـ s حط 's (student's / children's)."
+  },
+  {
+   "type": "h2",
+   "text": "2. Joint and separate possession"
+  },
+  {
+   "type": "p",
+   "text": "When two owners are named together, ask: do they own **one thing together**, or does each own **his or her own** thing?"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Meaning",
+    "Rule",
+    "✓ Example"
+   ],
+   "rows": [
+    [
+     "Joint: one thing, shared",
+     "Apostrophe on the **last** owner only",
+     "**Omar and Laila's** flat is near the sea. (one flat, shared)"
+    ],
+    [
+     "Separate: each owns their own",
+     "Apostrophe on **every** owner",
+     "**Omar's and Laila's** phones were stolen. (two different phones)"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "✗ Omar's and Laila's flat is near the sea. (A singular \"flat\" after separate possession is confusing: did they each own the same flat?)",
+    "✗ Omar and Laila's phones were stolen. (This says they share phones — possible, but if each had a phone, use separate possession.)",
+    "Clues for joint possession: shared, together, joint, one. Clues for separate possession: both, each, their own, a plural noun after the owners."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Compound nouns** take the apostrophe on the **last word**: my **sister-in-law's** car, the **editor-in-chief's** decision, **someone else's** coat."
+  },
+  {
+   "type": "h2",
+   "text": "3. Contractions: the apostrophe marks missing letters"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Contraction",
+    "Full form",
+    "✓ Example"
+   ],
+   "rows": [
+    [
+     "it's",
+     "it is / it has",
+     "It's late. It's been a long day."
+    ],
+    [
+     "they're",
+     "they are",
+     "They're waiting outside."
+    ],
+    [
+     "who's",
+     "who is / who has",
+     "Who's coming? Who's seen my keys?"
+    ],
+    [
+     "you're",
+     "you are",
+     "You're right."
+    ],
+    [
+     "there's",
+     "there is / there has",
+     "There's a problem."
+    ],
+    [
+     "don't, can't, won't, isn't, didn't",
+     "do not, cannot, will not, is not, did not",
+     "We didn't know."
+    ],
+    [
+     "let's",
+     "let us",
+     "Let's start."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "The apostrophe goes **where the letters are missing**, not between the two words: ✓ does**n't** (does not) ✗ does'nt."
+  },
+  {
+   "type": "h2",
+   "text": "4. Possessive pronouns never take an apostrophe"
+  },
+  {
+   "type": "p",
+   "text": "This is the most tested apostrophe rule. Personal pronouns already show possession, so they never need an apostrophe: **its, whose, their, theirs, your, yours, his, hers, ours.**"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Possessive (belongs to)",
+    "Contraction (missing letters)",
+    "Other form"
+   ],
+   "rows": [
+    [
+     "**its** — The cat licked its paw.",
+     "**it's** = it is / it has",
+     "✗ its' (does not exist)"
+    ],
+    [
+     "**whose** — The girl whose bike was stolen…",
+     "**who's** = who is / who has",
+     "✗ whos"
+    ],
+    [
+     "**their** — They lost their tickets.",
+     "**they're** = they are",
+     "**there** = a place / \"there is\""
+    ],
+    [
+     "**your** — Is this your bag?",
+     "**you're** = you are",
+     "✗ your's"
+    ],
+    [
+     "**hers, ours, theirs, yours**",
+     "—",
+     "✗ her's, our's, their's, your's"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**The expansion test.** Replace the word with its full form: \"it is\", \"it has\", \"who is\", \"they are\", \"you are\". If the sentence still makes sense, use the apostrophe form. If it sounds wrong, use the possessive."
+  },
+  {
+   "type": "list",
+   "items": [
+    "The company changed **its** logo. → \"changed it is logo\" ✗ → so **its** ✓",
+    "**It's** been raining all week. → \"It has been raining\" ✓ → so **it's** ✓",
+    "The writer **whose** book won the prize… → \"who is book\" ✗ → so **whose** ✓",
+    "The volunteers say **they're** tired. → \"they are tired\" ✓ → so **they're** ✓",
+    "**There** are three reasons. (Not possession, not \"they are\" → **there**.)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "its ولا it's؟",
+   "text": "افتح الكلمة: لو ينفع تقول it is أو it has يبقى it's بأبوستروف. لو لأ، يبقى its من غير أبوستروف (يعني \"بتاعه\"). ونفس الكلام مع who's / whose و they're / their و you're / your. الضماير (its, whose, their, your, hers, ours) عمرها ما بتاخد أبوستروف."
+  },
+  {
+   "type": "h2",
+   "text": "5. Plurals that need no apostrophe"
+  },
+  {
+   "type": "p",
+   "text": "An apostrophe never makes a word plural. If nothing is owned, there is no apostrophe."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ Three new **stations** opened. ✗ Three new station's opened.",
+    "✓ The **Hassans** live next door. (the family) ✓ The **Hassans'** garden is full of roses. (the family's garden)",
+    "✓ in the **1990s** ✓ two **DVDs** ✓ several **NGOs** (decades and abbreviations: plural with -s only)",
+    "✓ Prices rose for two **years**. ✗ for two year's",
+    "✓ The **students** worked hard. (The students do something; they do not own anything.)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Owner or just plural?** Look at the word right after the underlined noun. If it is a noun that belongs to the first word, you need possession. If it is a verb, a preposition or the end of the phrase, you do not."
+  },
+  {
+   "type": "list",
+   "items": [
+    "the **teachers'** room (room = noun belonging to the teachers → possessive)",
+    "the **teachers** arrived (arrived = verb → plain plural)",
+    "the **teachers** in the hall (in = preposition → plain plural)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Subtle cases the ACT likes",
+   "items": [
+    "**Two changes at once:** \"the citys' plans\" — fix the owner (city's) and check the noun after it (plans, not plan's).",
+    "**Singular clue far away:** \"One of the museum's rooms\" — \"one of\" refers to the rooms; the owner is still one museum.",
+    "**Time expressions:** \"a week's holiday\", \"two weeks' notice\" — the same singular/plural rule applies.",
+    "**it's / its at the start of a sentence:** \"Its\" can start a sentence too: *Its roof leaks.*",
+    "**who's / whose in questions:** *Whose idea was this?* (belonging to whom) vs *Who's ready?* (who is)."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "Each example is part of an ACT-style essay. The underlined portion is shown between double underscores, as on the quiz."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — plural owner**"
+  },
+  {
+   "type": "p",
+   "text": "Every spring, our village celebrates the hard work of its many farmers. At the festival, the __farmer's harvests__ fill long tables with dates, oranges, and figs."
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) farmers harvests",
+    "C) farmers' harvests",
+    "D) farmers' harvest's"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**C is correct.** The previous sentence tells us the village has many farmers, and \"harvests\" is plural, so the owner is plural and ends in -s: farmers + '.",
+    "**A** is singular: it means the harvests of one farmer, but the essay is about \"its many farmers\".",
+    "**B** has no apostrophe, so nothing shows that the harvests belong to the farmers.",
+    "**D** gets the owner right but adds an apostrophe to \"harvests\", which owns nothing — it is a simple plural."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — irregular plural**"
+  },
+  {
+   "type": "p",
+   "text": "The new park includes a running track, a playground, and a __childrens'__ reading corner shaded by palm trees."
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) children's",
+    "C) childrens",
+    "D) childrens's"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**B is correct.** \"Children\" is already plural and does not end in -s, so the possessive is children + 's.",
+    "**A** is the **irregular plural** trap: \"childrens\" is not a word, so neither is \"childrens'\".",
+    "**C** has no apostrophe and uses the non-word \"childrens\".",
+    "**D** stacks endings on a non-word."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — its / it's**"
+  },
+  {
+   "type": "p",
+   "text": "The robotics club won the regional final. __It's__ members built a robot that could sort recycling by colour."
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) Its'",
+    "C) It is",
+    "D) Its"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: D.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**D is correct.** The members belong to the club, so we need the possessive pronoun \"its\", with no apostrophe. Expansion test: \"It is members built…\" makes no sense.",
+    "**A** is the contraction \"it is\".",
+    "**B** \"its'\" does not exist in English.",
+    "**C** is the full form of A, and \"It is members built…\" makes no sense."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4 — joint vs separate possession**"
+  },
+  {
+   "type": "p",
+   "text": "The documentary was __Tarek's and Amira's__ first project together; they wrote, filmed, and edited it in one summer."
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) Tarek and Amira's",
+    "C) Tarek and Amiras'",
+    "D) Tareks' and Amiras'"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**B is correct.** They made **one** project together (\"first project together\"), so this is joint possession: the apostrophe goes on the last name only.",
+    "**A** is separate possession, which suggests each had his or her own first project — but the sentence describes one shared film.",
+    "**C** puts the apostrophe after an -s that the name does not have.",
+    "**D** makes both names plural, as if there were several Tareks and several Amiras."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**The plural-with-apostrophe trap:** \"three station's\", \"two year's\" — no owner, no apostrophe.",
+    "**The it's/its swap:** \"The city changed it's name\" — possessive pronouns never take an apostrophe.",
+    "**The irregular plural trap:** childrens', womens', peoples' — these words do not end in -s, so add 's.",
+    "**The wrong number:** \"the player's shirts\" when the sentence says \"all the players\".",
+    "**The double apostrophe:** two apostrophes where only the owner needs one (farmers' harvest's).",
+    "**Who's / whose and they're / their:** always do the expansion test."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Look at the word **after** the underlined noun: a noun that belongs to it → possessive; a verb or a preposition → plain plural.",
+    "Find the clue words for number: a, one, each (singular) vs many, several, all, both, the two (plural).",
+    "Write the owner first (child/children, city/cities), then add ' or 's.",
+    "For its, whose, their, your: expand to \"it is / who is / they are / you are\". If it fails, no apostrophe.",
+    "Check every word in the choice: some choices fix one apostrophe and add a wrong one somewhere else."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Two short ACT-style essays with 5 questions each. Every question tests apostrophes: possession, contractions, or plurals that need no apostrophe."
+  },
+  {
+   "type": "test",
+   "title": "Apostrophes — ACT-style practice",
+   "timed": false,
+   "intro": "Two ACT-style essays with 5 questions each. For every underlined word ask: one or more than one? Does it own the next word? Is it a contraction?",
+   "sections": [
+    {
+     "name": "Passages I–II",
+     "minutes": 8,
+     "questions": [
+      {
+       "p": "A Library on Wheels\n\nEvery Saturday morning, an old blue bus parks beside the primary school in our village. __It's seats__ [1] were taken out years ago, and its walls are now lined with shelves of books. The bus belongs to Nadia and Hesham Aziz, a retired couple who turned their savings into a travelling library.\n\nThe library was __Nadia and Hesham's__ [2] shared dream. Nadia worked as a school librarian for thirty years, and Hesham drove delivery trucks across the Delta. Together they bought the bus, painted it, and filled it with books donated by friends and neighbours. On the first Saturday, only six readers came. By the end of the year, more than a hundred had borrowed at least one book, and the local teachers had started bringing whole classes to visit.\n\nThe __childrens'__ [3] favourite shelf is at the back, where the picture books and adventure stories are kept. Some __family's__ [4] walk for more than an hour to reach the bus, and nobody leaves without a book. Now the couple's grandchildren help on Saturdays, and __there__ [5] already planning a second bus for the villages farther south.",
+       "q": "[1] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "Its seats",
+        "Its' seats",
+        "It is seats"
+       ],
+       "a": 1,
+       "e": "The seats belong to the bus, so we need the possessive pronoun \"its\" with no apostrophe (B). A and D mean \"it is seats\", which makes no sense; C \"its'\" does not exist.",
+       "s": "Apostrophes: its / it's"
+      },
+      {
+       "p": "A Library on Wheels\n\nEvery Saturday morning, an old blue bus parks beside the primary school in our village. __It's seats__ [1] were taken out years ago, and its walls are now lined with shelves of books. The bus belongs to Nadia and Hesham Aziz, a retired couple who turned their savings into a travelling library.\n\nThe library was __Nadia and Hesham's__ [2] shared dream. Nadia worked as a school librarian for thirty years, and Hesham drove delivery trucks across the Delta. Together they bought the bus, painted it, and filled it with books donated by friends and neighbours. On the first Saturday, only six readers came. By the end of the year, more than a hundred had borrowed at least one book, and the local teachers had started bringing whole classes to visit.\n\nThe __childrens'__ [3] favourite shelf is at the back, where the picture books and adventure stories are kept. Some __family's__ [4] walk for more than an hour to reach the bus, and nobody leaves without a book. Now the couple's grandchildren help on Saturdays, and __there__ [5] already planning a second bus for the villages farther south.",
+       "q": "[2] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "Nadia's and Hesham's",
+        "Nadia and Heshams'",
+        "Nadias and Hesham's"
+       ],
+       "a": 0,
+       "e": "They share one dream (\"shared dream\"), so this is joint possession: the apostrophe goes on the last name only, as in the original. B is separate possession, which suggests two different dreams; C adds an -s that the name does not have; D makes \"Nadia\" a plural.",
+       "s": "Apostrophes: joint possession"
+      },
+      {
+       "p": "A Library on Wheels\n\nEvery Saturday morning, an old blue bus parks beside the primary school in our village. __It's seats__ [1] were taken out years ago, and its walls are now lined with shelves of books. The bus belongs to Nadia and Hesham Aziz, a retired couple who turned their savings into a travelling library.\n\nThe library was __Nadia and Hesham's__ [2] shared dream. Nadia worked as a school librarian for thirty years, and Hesham drove delivery trucks across the Delta. Together they bought the bus, painted it, and filled it with books donated by friends and neighbours. On the first Saturday, only six readers came. By the end of the year, more than a hundred had borrowed at least one book, and the local teachers had started bringing whole classes to visit.\n\nThe __childrens'__ [3] favourite shelf is at the back, where the picture books and adventure stories are kept. Some __family's__ [4] walk for more than an hour to reach the bus, and nobody leaves without a book. Now the couple's grandchildren help on Saturdays, and __there__ [5] already planning a second bus for the villages farther south.",
+       "q": "[3] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "childrens",
+        "children's",
+        "childrens's"
+       ],
+       "a": 2,
+       "e": "\"Children\" is already plural and does not end in -s, so the possessive is \"children's\" (C). A, B and D are all built on \"childrens\", which is not a word.",
+       "s": "Apostrophes: irregular plural possessive"
+      },
+      {
+       "p": "A Library on Wheels\n\nEvery Saturday morning, an old blue bus parks beside the primary school in our village. __It's seats__ [1] were taken out years ago, and its walls are now lined with shelves of books. The bus belongs to Nadia and Hesham Aziz, a retired couple who turned their savings into a travelling library.\n\nThe library was __Nadia and Hesham's__ [2] shared dream. Nadia worked as a school librarian for thirty years, and Hesham drove delivery trucks across the Delta. Together they bought the bus, painted it, and filled it with books donated by friends and neighbours. On the first Saturday, only six readers came. By the end of the year, more than a hundred had borrowed at least one book, and the local teachers had started bringing whole classes to visit.\n\nThe __childrens'__ [3] favourite shelf is at the back, where the picture books and adventure stories are kept. Some __family's__ [4] walk for more than an hour to reach the bus, and nobody leaves without a book. Now the couple's grandchildren help on Saturdays, and __there__ [5] already planning a second bus for the villages farther south.",
+       "q": "[4] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "families",
+        "families'",
+        "familys'"
+       ],
+       "a": 1,
+       "e": "The families do not own anything here — the next word is the verb \"walk\" — so we need the simple plural \"families\" with no apostrophe (B). A and C add an apostrophe of possession; D misspells the plural.",
+       "s": "Apostrophes: plural, no possession"
+      },
+      {
+       "p": "A Library on Wheels\n\nEvery Saturday morning, an old blue bus parks beside the primary school in our village. __It's seats__ [1] were taken out years ago, and its walls are now lined with shelves of books. The bus belongs to Nadia and Hesham Aziz, a retired couple who turned their savings into a travelling library.\n\nThe library was __Nadia and Hesham's__ [2] shared dream. Nadia worked as a school librarian for thirty years, and Hesham drove delivery trucks across the Delta. Together they bought the bus, painted it, and filled it with books donated by friends and neighbours. On the first Saturday, only six readers came. By the end of the year, more than a hundred had borrowed at least one book, and the local teachers had started bringing whole classes to visit.\n\nThe __childrens'__ [3] favourite shelf is at the back, where the picture books and adventure stories are kept. Some __family's__ [4] walk for more than an hour to reach the bus, and nobody leaves without a book. Now the couple's grandchildren help on Saturdays, and __there__ [5] already planning a second bus for the villages farther south.",
+       "q": "[5] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "their",
+        "theyre",
+        "they're"
+       ],
+       "a": 3,
+       "e": "The meaning is \"they are already planning\", so the contraction \"they're\" is correct (D). A \"there\" is a place word; B \"their\" means \"belonging to them\"; C leaves out the apostrophe that marks the missing letter.",
+       "s": "Apostrophes: they're / their / there"
+      },
+      {
+       "p": "Keep the Old Market Open\n\nFor more than seventy years, the covered market on Port Said Street has been the heart of our neighbourhood. Every morning, __the market's__ [6] stalls fill with fresh bread, spices, fish, and fruit. Now the city council, __who's__ [7] members will vote next month, is considering a plan to knock the building down and replace it with a car park. That plan should be rejected.\n\nThe market is more than a place to shop. Both __the baker's and the butcher's__ [8] shops have been run by the same families since the market opened, and many customers have known the sellers since childhood. Plans like this one have appeared twice in the last ten __year's__ [9], and both times residents fought them and won. Each time, shoppers signed petitions, wrote to newspapers, and filled the hall where the council met.\n\nA car park would bring more traffic but not more life. A modern city needs space for cars, of course. It also needs places where people meet, talk, and remember who they are. But a city that forgets __it's__ [10] past loses something it can never buy back.",
+       "q": "[6] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "the markets",
+        "the markets'",
+        "the markets's"
+       ],
+       "a": 0,
+       "e": "There is one market, and the stalls belong to it, so the singular possessive \"market's\" is correct. B has no apostrophe; C means several markets; D adds 's to a word that already ends in -s.",
+       "s": "Apostrophes: singular possession"
+      },
+      {
+       "p": "Keep the Old Market Open\n\nFor more than seventy years, the covered market on Port Said Street has been the heart of our neighbourhood. Every morning, __the market's__ [6] stalls fill with fresh bread, spices, fish, and fruit. Now the city council, __who's__ [7] members will vote next month, is considering a plan to knock the building down and replace it with a car park. That plan should be rejected.\n\nThe market is more than a place to shop. Both __the baker's and the butcher's__ [8] shops have been run by the same families since the market opened, and many customers have known the sellers since childhood. Plans like this one have appeared twice in the last ten __year's__ [9], and both times residents fought them and won. Each time, shoppers signed petitions, wrote to newspapers, and filled the hall where the council met.\n\nA car park would bring more traffic but not more life. A modern city needs space for cars, of course. It also needs places where people meet, talk, and remember who they are. But a city that forgets __it's__ [10] past loses something it can never buy back.",
+       "q": "[7] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "whos",
+        "whose",
+        "who'se"
+       ],
+       "a": 2,
+       "e": "The members belong to the council, so we need the possessive \"whose\" (C). Expansion test: \"the city council, who is members will vote\" makes no sense, so A is wrong; B and D are not words.",
+       "s": "Apostrophes: whose / who's"
+      },
+      {
+       "p": "Keep the Old Market Open\n\nFor more than seventy years, the covered market on Port Said Street has been the heart of our neighbourhood. Every morning, __the market's__ [6] stalls fill with fresh bread, spices, fish, and fruit. Now the city council, __who's__ [7] members will vote next month, is considering a plan to knock the building down and replace it with a car park. That plan should be rejected.\n\nThe market is more than a place to shop. Both __the baker's and the butcher's__ [8] shops have been run by the same families since the market opened, and many customers have known the sellers since childhood. Plans like this one have appeared twice in the last ten __year's__ [9], and both times residents fought them and won. Each time, shoppers signed petitions, wrote to newspapers, and filled the hall where the council met.\n\nA car park would bring more traffic but not more life. A modern city needs space for cars, of course. It also needs places where people meet, talk, and remember who they are. But a city that forgets __it's__ [10] past loses something it can never buy back.",
+       "q": "[8] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "the baker and the butcher's",
+        "the bakers and the butchers",
+        "the bakers' and the butchers'"
+       ],
+       "a": 0,
+       "e": "\"Both … shops\" tells us each person owns a separate shop, so each owner takes an apostrophe, and each owner is one person: \"the baker's and the butcher's shops\". B is joint possession (one owner pair); C shows no possession; D means many bakers and many butchers.",
+       "s": "Apostrophes: separate possession"
+      },
+      {
+       "p": "Keep the Old Market Open\n\nFor more than seventy years, the covered market on Port Said Street has been the heart of our neighbourhood. Every morning, __the market's__ [6] stalls fill with fresh bread, spices, fish, and fruit. Now the city council, __who's__ [7] members will vote next month, is considering a plan to knock the building down and replace it with a car park. That plan should be rejected.\n\nThe market is more than a place to shop. Both __the baker's and the butcher's__ [8] shops have been run by the same families since the market opened, and many customers have known the sellers since childhood. Plans like this one have appeared twice in the last ten __year's__ [9], and both times residents fought them and won. Each time, shoppers signed petitions, wrote to newspapers, and filled the hall where the council met.\n\nA car park would bring more traffic but not more life. A modern city needs space for cars, of course. It also needs places where people meet, talk, and remember who they are. But a city that forgets __it's__ [10] past loses something it can never buy back.",
+       "q": "[9] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "years",
+        "years'",
+        "year"
+       ],
+       "a": 1,
+       "e": "\"Ten years\" is a simple plural; nothing belongs to the years, and the phrase ends the clause. So no apostrophe: \"years\" (B). A and C add an apostrophe of possession; D is singular after \"ten\".",
+       "s": "Apostrophes: plural, no possession"
+      },
+      {
+       "p": "Keep the Old Market Open\n\nFor more than seventy years, the covered market on Port Said Street has been the heart of our neighbourhood. Every morning, __the market's__ [6] stalls fill with fresh bread, spices, fish, and fruit. Now the city council, __who's__ [7] members will vote next month, is considering a plan to knock the building down and replace it with a car park. That plan should be rejected.\n\nThe market is more than a place to shop. Both __the baker's and the butcher's__ [8] shops have been run by the same families since the market opened, and many customers have known the sellers since childhood. Plans like this one have appeared twice in the last ten __year's__ [9], and both times residents fought them and won. Each time, shoppers signed petitions, wrote to newspapers, and filled the hall where the council met.\n\nA car park would bring more traffic but not more life. A modern city needs space for cars, of course. It also needs places where people meet, talk, and remember who they are. But a city that forgets __it's__ [10] past loses something it can never buy back.",
+       "q": "[10] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "its'",
+        "it is",
+        "its"
+       ],
+       "a": 3,
+       "e": "The past belongs to the city, so the possessive pronoun \"its\" is correct (D). Expansion test: \"a city that forgets it is past\" makes no sense, so A and C are wrong; B \"its'\" does not exist.",
+       "s": "Apostrophes: its / it's"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Write the owner first, then add the apostrophe: ends in -s → ' (students'); does not end in -s → 's (student's, children's).",
+    "Joint possession: apostrophe on the last owner only. Separate possession: apostrophe on every owner.",
+    "Possessive pronouns never take an apostrophe: its, whose, their, your, hers, ours, theirs.",
+    "Contractions: it's = it is / it has; who's = who is / who has; they're = they are; you're = you are — use the expansion test.",
+    "No owner, no apostrophe: plurals, decades (1990s) and abbreviations (DVDs) take -s only."
+   ]
+  }
+ ]
+}

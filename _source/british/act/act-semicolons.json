@@ -1,0 +1,547 @@
+{
+ "slug": "act-semicolons",
+ "nav": "Semicolons",
+ "title": "ACT Semicolons: Joining Sentences and the List Rule",
+ "kicker": "American Diploma · ACT · English: Punctuation",
+ "summary": "How ACT English tests the semicolon — joining two complete, related sentences (with or without however/therefore), the SAT/ACT extra rule for lists whose items contain commas, and every wrong use — with worked examples and an ACT-style quiz.",
+ "blocks": [
+  {
+   "type": "p",
+   "text": "The semicolon (;) looks difficult, but on the ACT it follows one simple main rule and one extra rule. If you can recognise a complete sentence, you can answer every semicolon question correctly. This lesson teaches both rules, every wrong use the test sets as a trap, and how to choose between a semicolon, a comma and a period."
+  },
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Semicolon questions belong to the **Conventions of Standard English** category, which is **38–43%** of the 40 scored English questions. As with other punctuation questions, a portion of the essay is underlined and the four choices differ in their punctuation, usually with **NO CHANGE** first. Very often a semicolon appears in a wrong choice, so knowing when it is **not** allowed is just as important as knowing when it is."
+  },
+  {
+   "type": "h2",
+   "text": "The main rule: a semicolon joins two complete, closely related sentences"
+  },
+  {
+   "type": "p",
+   "text": "A semicolon works like a soft period. It sits between **two independent clauses** (two complete sentences) whose ideas are closely related. The quick test: **if you could put a period in that spot, you can put a semicolon there.** If a period would leave a fragment on either side, a semicolon is wrong."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ The library closes at six; the reading room closes at five.",
+    "✓ The tower did not fall in a single day; a series of earthquakes damaged it over centuries.",
+    "✓ Our school is full of energy; the corridors are loud from the first bell to the last.",
+    "✗ Because the road was flooded; the buses stopped. (“Because the road was flooded” cannot stand alone.)",
+    "✗ The divers found many objects; such as statues and columns. (“such as statues and columns” is not a sentence.)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "The period test",
+   "text": "Cover the semicolon and put a period in its place. Read the part before it: is it a full sentence? Read the part after it: is it a full sentence? Two yeses → the semicolon is correct. One no → it is wrong."
+  },
+  {
+   "type": "p",
+   "text": "Remember the toolkit. Two complete sentences can be joined in exactly these ways on the ACT:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Correct ways to join Sentence 1 + Sentence 2",
+    "Example"
+   ],
+   "rows": [
+    [
+     "Period",
+     "The road was closed. We walked."
+    ],
+    [
+     "Semicolon",
+     "The road was closed; we walked."
+    ],
+    [
+     "Comma + FANBOYS (for, and, nor, but, or, yet, so)",
+     "The road was closed, so we walked."
+    ],
+    [
+     "Semicolon + conjunctive adverb + comma",
+     "The road was closed; therefore, we walked."
+    ],
+    [
+     "✗ Comma alone (comma splice)",
+     "The road was closed, we walked."
+    ],
+    [
+     "✗ Nothing (run-on)",
+     "The road was closed we walked."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "Because a period and a semicolon do the same job here, the ACT never asks you to choose between them: if both appear in the choices and both are correct, look again — one of the other parts of those choices will be wrong."
+  },
+  {
+   "type": "h2",
+   "text": "Semicolons with conjunctive adverbs (however, therefore…)"
+  },
+  {
+   "type": "p",
+   "text": "Words such as **however, therefore, moreover, consequently, nevertheless, instead, otherwise, in addition, as a result, for example** are **conjunctive adverbs** (transition words). They connect ideas, but they are **not** FANBOYS conjunctions, so they **cannot** join two sentences with only a comma. When one of them begins the second sentence, use a semicolon **before** it and a comma **after** it."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ The water was cloudy; however, the divers mapped the site.",
+    "✓ The water was cloudy; as a result, the work took years.",
+    "✗ The water was cloudy, however, the divers mapped the site. (comma splice)",
+    "✗ The water was cloudy, however the divers mapped the site. (comma splice)",
+    "✗ The water was cloudy however; the divers mapped the site. (the semicolon is on the wrong side of “however”)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Where is the boundary?** The semicolon goes at the point where the first sentence ends. If “however” begins the second sentence, the semicolon comes before it. If “however” is only an interruption in the middle of one sentence, it takes a pair of commas and no semicolon at all."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ The school, however, already has an empty room. (one sentence: “however” is an interruption → commas)",
+    "✗ The school; however, already has an empty room. (“The school” is not a sentence)",
+    "✓ The plan is cheap; the school, however, must still approve it. (two sentences; “however” interrupts the second one)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "SAT/ACT extra rule: semicolons in a list whose items contain commas",
+   "items": [
+    "This use belongs to the SAT and the ACT. When the **items in a list already contain commas**, separate the items with **semicolons** so the reader can see where each item ends.",
+    "✓ The team visited Kom Ombo, where many families had resettled; Aswan, the city closest to the old villages; and Cairo, the capital.",
+    "✗ The team visited Kom Ombo, where many families had resettled, Aswan, the city closest to the old villages, and Cairo, the capital. (impossible to see the three items)",
+    "Keep the semicolon before the final “and”. Inside each item, the commas stay as commas.",
+    "Use this rule **only** when the items contain commas. In a simple list (bread, cheese, and olives) semicolons are wrong.",
+    "The words before the list still follow the normal rules: if a complete sentence introduces the list, a colon may come before it; otherwise, nothing."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Every wrong use of the semicolon"
+  },
+  {
+   "type": "p",
+   "text": "The ACT tests semicolons mostly through wrong choices. Each of these is always wrong:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Wrong use",
+    "✗ Wrong",
+    "✓ Right"
+   ],
+   "rows": [
+    [
+     "After a dependent clause (because, when, although, if, since…)",
+     "Although it was late; we kept working.",
+     "Although it was late, we kept working."
+    ],
+    [
+     "Before a dependent clause",
+     "We kept working; because the deadline was near.",
+     "We kept working because the deadline was near."
+    ],
+    [
+     "Before a list (introduced by a complete sentence)",
+     "She packed three things; bread, cheese, and olives.",
+     "She packed three things: bread, cheese, and olives."
+    ],
+    [
+     "Between items of a simple list",
+     "bread; cheese; and olives",
+     "bread, cheese, and olives"
+    ],
+    [
+     "Between a subject and its verb",
+     "The oldest coins in the museum; are Roman.",
+     "The oldest coins in the museum are Roman."
+    ],
+    [
+     "Between a verb and its object",
+     "The divers found; huge stone blocks.",
+     "The divers found huge stone blocks."
+    ],
+    [
+     "Before a phrase or extra information",
+     "He met Hamdi; a sound engineer.",
+     "He met Hamdi, a sound engineer."
+    ],
+    [
+     "Together with a FANBOYS word between two sentences",
+     "The road was closed; so we walked.",
+     "The road was closed, so we walked. / The road was closed; we walked."
+    ],
+    [
+     "Before a word like such as / including",
+     "many tools; such as hammers",
+     "many tools, such as hammers"
+    ],
+    [
+     "Around a word that only interrupts one sentence",
+     "The school; however, has a room.",
+     "The school, however, has a room."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Semicolon + FANBOYS.** Between two complete sentences, choose **one** joining tool: a comma + FANBOYS **or** a semicolon alone. On the ACT, a choice with “; and”, “; but” or “; so” between two sentences is treated as wrong. The only place you will see “; and” in a correct answer is the SAT/ACT extra rule, before the last item of a list whose items contain commas."
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "What a semicolon does NOT do",
+   "text": "A semicolon is not a choice about meaning. It does not “show contrast”, “show a result” or “add emphasis”. It only shows a boundary between two complete sentences (plus the SAT/ACT list rule). If you need contrast, the words do that job (but, however, yet), not the semicolon."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "السيميكولون في جملة واحدة",
+   "text": "السيميكولون (;) زي النقطة بالظبط: قبله جملة كاملة وبعده جملة كاملة، والجملتين مرتبطين ببعض. لو ينفع تحط نقطة، يبقى ينفع سيميكولون. ولو قبله أو بعده جزء ناقص (زي because أو such as أو قائمة) يبقى غلط."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "however والقائمة",
+   "text": "لو however في أول الجملة التانية: سيميكولون قبلها وفاصلة بعدها. ولو جوه جملة واحدة: فاصلة قبلها وفاصلة بعدها. وفي SAT/ACT بس: لو كل عنصر في القائمة فيه فاصلة، نفصل بين العناصر بسيميكولون، حتى قبل and الأخيرة."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "Each example is part of an ACT-style essay. The underlined portion is shown in **bold**."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1.** “The museum stayed open until **midnight, this** allowed families to visit after work.”"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) midnight this",
+    "C) midnight; this",
+    "D) midnight; and this"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**C is correct.** “The museum stayed open until midnight” and “this allowed families to visit after work” are both complete sentences. A semicolon joins them.",
+    "**A** is a comma splice.",
+    "**B** is a run-on.",
+    "**D** uses a semicolon and “and” together; choose one joining tool, not both."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2.** “The first test of the new pump **failed, consequently, the** engineers redesigned the valve.”"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) failed; consequently, the",
+    "C) failed, consequently the",
+    "D) failed consequently; the"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**B is correct.** “consequently” begins the second complete sentence, so a semicolon goes before it and a comma after it.",
+    "**A** and **C** are comma splices: “consequently” is not a FANBOYS word, so a comma cannot join the two sentences.",
+    "**D** puts the semicolon after “consequently”, which leaves “The first test of the new pump failed consequently” and changes the meaning; the transition belongs to the second sentence."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3.** “Although the hall was **small; the** concert attracted more than two hundred people.”"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) small, the",
+    "C) small. The",
+    "D) small the"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**B is correct.** “Although the hall was small” is an introductory dependent clause, so it is followed by a comma.",
+    "**A** uses a semicolon after a dependent clause: the part before it is not a sentence.",
+    "**C** turns “Although the hall was small” into a fragment.",
+    "**D** leaves out the comma after the long introductory clause."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4.** “The summer programme will run in three cities: **Alexandria, on the coast, Minya, in Upper Egypt, and** Ismailia, beside the canal.”"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) Alexandria; on the coast; Minya; in Upper Egypt; and",
+    "C) Alexandria, on the coast; Minya, in Upper Egypt; and",
+    "D) Alexandria, on the coast; Minya, in Upper Egypt and"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**C is correct** (SAT/ACT extra rule). Each item is a city + a describing phrase separated by a comma, so semicolons must separate the items, including before “and”.",
+    "**A** uses only commas, so the reader cannot tell whether there are three items or six.",
+    "**B** puts semicolons inside the items too, cutting each city off from its description.",
+    "**D** drops the semicolon before “and”, so the last two items run together."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**Semicolon + fragment:** a dependent clause, a phrase or a list on one side of the semicolon.",
+    "**Semicolon before a list:** “three things; bread…” — after a complete sentence, a list needs a colon.",
+    "**Comma + however:** “…cloudy, however, the divers…” is still a comma splice.",
+    "**Semicolon on the wrong side of the transition:** “cloudy however; the divers…”.",
+    "**Semicolon + FANBOYS between two sentences:** “; and”, “; but”, “; so”.",
+    "**Semicolons in a simple list** whose items contain no commas.",
+    "**Missing semicolon before the final “and”** in a list whose items contain commas."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "See a semicolon in a choice? Do the period test on both sides.",
+    "Two complete sentences and no FANBOYS word? Semicolon (or period). Never a comma alone.",
+    "A transition word (however, therefore…) at the boundary? Semicolon before it, comma after it.",
+    "A list? Simple items → commas. Items that contain commas → semicolons (SAT/ACT extra rule), including before “and”.",
+    "Eliminate any choice that combines a semicolon with and/but/so between two sentences."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Two short ACT-style essays, one informational and one argumentative, with 5 questions each. The numbers in brackets match the question numbers. Every question tests a semicolon decision from this page."
+  },
+  {
+   "type": "test",
+   "title": "ACT Semicolons quiz",
+   "timed": false,
+   "intro": "Two ACT-style essays with 5 questions each. Do the period test on both sides of every semicolon you see in the choices.",
+   "sections": [
+    {
+     "name": "Passages I–II",
+     "minutes": 8,
+     "questions": [
+      {
+       "p": "The Lost Lighthouse\n\nThe ancient lighthouse of Alexandria stood on the island of Pharos for more than a thousand __years, it__ [1] guided ships safely into one of the busiest harbours of the ancient world. Writers of the time counted it among the Seven Wonders of the World, and its light could be seen from far out at sea.\n\nThe tower did not fall in a single __day; a__ [2] series of strong earthquakes damaged it over several centuries. For a long time, people knew it only from old coins, travellers' descriptions, and drawings.\n\nIn the twentieth century, divers began to explore the seabed near the old island. They found huge stone __blocks; statues; and__ [3] broken columns lying under the water. The water near the harbour is often __cloudy, however, the__ [4] divers patiently mapped thousands of pieces. Among the finds were a giant statue of a __king, possibly one of the Ptolemies, a statue of a queen, dressed as the goddess Isis, and__ [5] dozens of small sphinxes. Some of these objects now stand in museums, where visitors can imagine the tower that once lit the harbour.",
+       "q": "[1] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "years it",
+        "years; it",
+        "years, and, it"
+       ],
+       "a": 2,
+       "e": "“The ancient lighthouse … stood … for more than a thousand years” and “it guided ships safely…” are two complete, closely related sentences. A semicolon joins them. A is a comma splice, B is a run-on, and D adds a comma after “and”.",
+       "s": "Semicolons: joining two sentences"
+      },
+      {
+       "p": "The Lost Lighthouse\n\nThe ancient lighthouse of Alexandria stood on the island of Pharos for more than a thousand __years, it__ [1] guided ships safely into one of the busiest harbours of the ancient world. Writers of the time counted it among the Seven Wonders of the World, and its light could be seen from far out at sea.\n\nThe tower did not fall in a single __day; a__ [2] series of strong earthquakes damaged it over several centuries. For a long time, people knew it only from old coins, travellers' descriptions, and drawings.\n\nIn the twentieth century, divers began to explore the seabed near the old island. They found huge stone __blocks; statues; and__ [3] broken columns lying under the water. The water near the harbour is often __cloudy, however, the__ [4] divers patiently mapped thousands of pieces. Among the finds were a giant statue of a __king, possibly one of the Ptolemies, a statue of a queen, dressed as the goddess Isis, and__ [5] dozens of small sphinxes. Some of these objects now stand in museums, where visitors can imagine the tower that once lit the harbour.",
+       "q": "[2] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "day, a",
+        "day a",
+        "day; because a"
+       ],
+       "a": 0,
+       "e": "Both sides are complete sentences (“The tower did not fall in a single day” / “a series of strong earthquakes damaged it…”), so the semicolon is correct. B is a comma splice; C is a run-on; D puts “because” after the semicolon, which turns the second part into a dependent clause, so it is no longer a complete sentence.",
+       "s": "Semicolons: joining two sentences"
+      },
+      {
+       "p": "The Lost Lighthouse\n\nThe ancient lighthouse of Alexandria stood on the island of Pharos for more than a thousand __years, it__ [1] guided ships safely into one of the busiest harbours of the ancient world. Writers of the time counted it among the Seven Wonders of the World, and its light could be seen from far out at sea.\n\nThe tower did not fall in a single __day; a__ [2] series of strong earthquakes damaged it over several centuries. For a long time, people knew it only from old coins, travellers' descriptions, and drawings.\n\nIn the twentieth century, divers began to explore the seabed near the old island. They found huge stone __blocks; statues; and__ [3] broken columns lying under the water. The water near the harbour is often __cloudy, however, the__ [4] divers patiently mapped thousands of pieces. Among the finds were a giant statue of a __king, possibly one of the Ptolemies, a statue of a queen, dressed as the goddess Isis, and__ [5] dozens of small sphinxes. Some of these objects now stand in museums, where visitors can imagine the tower that once lit the harbour.",
+       "q": "[3] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "blocks, statues, and",
+        "blocks: statues, and",
+        "blocks; statues, and"
+       ],
+       "a": 1,
+       "e": "This is a simple list of three items with no commas inside them, so the items are separated by commas. Semicolons belong in a list only when the items already contain commas. A and D use semicolons in a simple list; C puts a colon in the middle of the list.",
+       "s": "Semicolons: not in a simple list"
+      },
+      {
+       "p": "The Lost Lighthouse\n\nThe ancient lighthouse of Alexandria stood on the island of Pharos for more than a thousand __years, it__ [1] guided ships safely into one of the busiest harbours of the ancient world. Writers of the time counted it among the Seven Wonders of the World, and its light could be seen from far out at sea.\n\nThe tower did not fall in a single __day; a__ [2] series of strong earthquakes damaged it over several centuries. For a long time, people knew it only from old coins, travellers' descriptions, and drawings.\n\nIn the twentieth century, divers began to explore the seabed near the old island. They found huge stone __blocks; statues; and__ [3] broken columns lying under the water. The water near the harbour is often __cloudy, however, the__ [4] divers patiently mapped thousands of pieces. Among the finds were a giant statue of a __king, possibly one of the Ptolemies, a statue of a queen, dressed as the goddess Isis, and__ [5] dozens of small sphinxes. Some of these objects now stand in museums, where visitors can imagine the tower that once lit the harbour.",
+       "q": "[4] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "cloudy, however the",
+        "cloudy however; the",
+        "cloudy; however, the"
+       ],
+       "a": 3,
+       "e": "“The water near the harbour is often cloudy” and “the divers patiently mapped thousands of pieces” are two complete sentences, and “however” begins the second one. A conjunctive adverb needs a semicolon before it and a comma after it. A and B are comma splices; C puts the semicolon after “however”, on the wrong side of the boundary.",
+       "s": "Semicolons: with however"
+      },
+      {
+       "p": "The Lost Lighthouse\n\nThe ancient lighthouse of Alexandria stood on the island of Pharos for more than a thousand __years, it__ [1] guided ships safely into one of the busiest harbours of the ancient world. Writers of the time counted it among the Seven Wonders of the World, and its light could be seen from far out at sea.\n\nThe tower did not fall in a single __day; a__ [2] series of strong earthquakes damaged it over several centuries. For a long time, people knew it only from old coins, travellers' descriptions, and drawings.\n\nIn the twentieth century, divers began to explore the seabed near the old island. They found huge stone __blocks; statues; and__ [3] broken columns lying under the water. The water near the harbour is often __cloudy, however, the__ [4] divers patiently mapped thousands of pieces. Among the finds were a giant statue of a __king, possibly one of the Ptolemies, a statue of a queen, dressed as the goddess Isis, and__ [5] dozens of small sphinxes. Some of these objects now stand in museums, where visitors can imagine the tower that once lit the harbour.",
+       "q": "[5] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "king, possibly one of the Ptolemies; a statue of a queen, dressed as the goddess Isis; and",
+        "king; possibly one of the Ptolemies; a statue of a queen; dressed as the goddess Isis; and",
+        "king, possibly one of the Ptolemies: a statue of a queen, dressed as the goddess Isis: and"
+       ],
+       "a": 1,
+       "e": "SAT/ACT extra rule: the items already contain commas (“a king, possibly…”, “a queen, dressed…”), so semicolons separate the items, including before “and”. A uses only commas, so the items blur together; C also puts semicolons inside the items; D uses colons between list items, which is never correct.",
+       "s": "Semicolons: SAT/ACT list rule"
+      },
+      {
+       "p": "Why Our School Needs a Quiet Room\n\nOur school is full of __energy; the__ [6] corridors are loud from the first bell to the last. This noise is part of school life, but some students need a place to think. Libraries are not always quiet enough, and classrooms are full of activity even during breaks. I believe that every school should have a quiet room.\n\nA quiet room would help students who feel stressed before exams. Such students cannot easily calm down in a busy __canteen; or a__ [7] crowded playground. In a quiet room, they could read, breathe slowly, and prepare their minds. Even ten minutes of silence can help a nervous student remember what he has studied.\n\nSome people argue that a quiet room would cost too __much. The school; however, already__ [8] has an empty storeroom next to the library. The room would need only a few __things; soft__ [9] chairs, a bookshelf, and a sign asking for silence. A quiet room is a small __investment, it would__ [10] make a big difference to many students. Our school should open one before the next exam season begins.",
+       "q": "[6] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "energy, the",
+        "energy the",
+        "energy: and the"
+       ],
+       "a": 0,
+       "e": "“Our school is full of energy” and “the corridors are loud from the first bell to the last” are complete, closely related sentences, so the semicolon is correct. B is a comma splice; C is a run-on; D puts “and” after a colon, which is never correct.",
+       "s": "Semicolons: joining two sentences"
+      },
+      {
+       "p": "Why Our School Needs a Quiet Room\n\nOur school is full of __energy; the__ [6] corridors are loud from the first bell to the last. This noise is part of school life, but some students need a place to think. Libraries are not always quiet enough, and classrooms are full of activity even during breaks. I believe that every school should have a quiet room.\n\nA quiet room would help students who feel stressed before exams. Such students cannot easily calm down in a busy __canteen; or a__ [7] crowded playground. In a quiet room, they could read, breathe slowly, and prepare their minds. Even ten minutes of silence can help a nervous student remember what he has studied.\n\nSome people argue that a quiet room would cost too __much. The school; however, already__ [8] has an empty storeroom next to the library. The room would need only a few __things; soft__ [9] chairs, a bookshelf, and a sign asking for silence. A quiet room is a small __investment, it would__ [10] make a big difference to many students. Our school should open one before the next exam season begins.",
+       "q": "[7] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "canteen, or, a",
+        "canteen or a",
+        "canteen: or a"
+       ],
+       "a": 2,
+       "e": "“a busy canteen or a crowded playground” is just two nouns joined by “or”; there is no second sentence, so no punctuation is needed. A uses a semicolon, but “or a crowded playground” is not a complete sentence; B adds commas around “or”; D uses a colon in the middle of a phrase.",
+       "s": "Semicolons: not before a phrase"
+      },
+      {
+       "p": "Why Our School Needs a Quiet Room\n\nOur school is full of __energy; the__ [6] corridors are loud from the first bell to the last. This noise is part of school life, but some students need a place to think. Libraries are not always quiet enough, and classrooms are full of activity even during breaks. I believe that every school should have a quiet room.\n\nA quiet room would help students who feel stressed before exams. Such students cannot easily calm down in a busy __canteen; or a__ [7] crowded playground. In a quiet room, they could read, breathe slowly, and prepare their minds. Even ten minutes of silence can help a nervous student remember what he has studied.\n\nSome people argue that a quiet room would cost too __much. The school; however, already__ [8] has an empty storeroom next to the library. The room would need only a few __things; soft__ [9] chairs, a bookshelf, and a sign asking for silence. A quiet room is a small __investment, it would__ [10] make a big difference to many students. Our school should open one before the next exam season begins.",
+       "q": "[8] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "much. The school however; already",
+        "much; the school however already",
+        "much. The school, however, already"
+       ],
+       "a": 3,
+       "e": "“The school, however, already has an empty storeroom…” is one sentence, and “however” only interrupts it, so it takes a pair of commas. A and B put a semicolon after “The school” or “however”, where the part before it is not a complete sentence; C leaves “however” without the commas that set it off.",
+       "s": "Semicolons: however inside one sentence"
+      },
+      {
+       "p": "Why Our School Needs a Quiet Room\n\nOur school is full of __energy; the__ [6] corridors are loud from the first bell to the last. This noise is part of school life, but some students need a place to think. Libraries are not always quiet enough, and classrooms are full of activity even during breaks. I believe that every school should have a quiet room.\n\nA quiet room would help students who feel stressed before exams. Such students cannot easily calm down in a busy __canteen; or a__ [7] crowded playground. In a quiet room, they could read, breathe slowly, and prepare their minds. Even ten minutes of silence can help a nervous student remember what he has studied.\n\nSome people argue that a quiet room would cost too __much. The school; however, already__ [8] has an empty storeroom next to the library. The room would need only a few __things; soft__ [9] chairs, a bookshelf, and a sign asking for silence. A quiet room is a small __investment, it would__ [10] make a big difference to many students. Our school should open one before the next exam season begins.",
+       "q": "[9] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "things, such as: soft",
+        "things; such as soft",
+        "things: soft"
+       ],
+       "a": 3,
+       "e": "“The room would need only a few things” is a complete sentence that introduces a list, so a colon is needed. A and C use a semicolon, but the list after it is not a complete sentence; B puts a colon straight after “such as”.",
+       "s": "Semicolons: not before a list"
+      },
+      {
+       "p": "Why Our School Needs a Quiet Room\n\nOur school is full of __energy; the__ [6] corridors are loud from the first bell to the last. This noise is part of school life, but some students need a place to think. Libraries are not always quiet enough, and classrooms are full of activity even during breaks. I believe that every school should have a quiet room.\n\nA quiet room would help students who feel stressed before exams. Such students cannot easily calm down in a busy __canteen; or a__ [7] crowded playground. In a quiet room, they could read, breathe slowly, and prepare their minds. Even ten minutes of silence can help a nervous student remember what he has studied.\n\nSome people argue that a quiet room would cost too __much. The school; however, already__ [8] has an empty storeroom next to the library. The room would need only a few __things; soft__ [9] chairs, a bookshelf, and a sign asking for silence. A quiet room is a small __investment, it would__ [10] make a big difference to many students. Our school should open one before the next exam season begins.",
+       "q": "[10] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "investment; it would",
+        "investment it would",
+        "investment, and, it would"
+       ],
+       "a": 1,
+       "e": "“A quiet room is a small investment” and “it would make a big difference to many students” are both complete sentences, so a semicolon joins them. A is a comma splice; C is a run-on; D puts a comma after “and”.",
+       "s": "Semicolons: joining two sentences"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "A semicolon joins two complete, closely related sentences: if a period works, a semicolon works.",
+    "With a conjunctive adverb: sentence; however, sentence. A comma alone before however is a comma splice.",
+    "SAT/ACT extra rule: semicolons separate list items that already contain commas, including before the final “and”.",
+    "Never a semicolon next to a fragment: not after because/although clauses, not before a list, a phrase or such as.",
+    "Never a semicolon + and/but/so between two sentences — choose one joining tool."
+   ]
+  }
+ ]
+}

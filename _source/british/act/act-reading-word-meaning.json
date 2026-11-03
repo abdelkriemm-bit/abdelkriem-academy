@@ -1,0 +1,550 @@
+{
+ "slug": "act-reading-word-meaning",
+ "nav": "Words in Context",
+ "title": "Words and Phrases in Context",
+ "kicker": "American Diploma · ACT · Reading: Craft and Structure",
+ "summary": "How to find the meaning of a word or phrase as it is used in an ACT Reading passage, including less common meanings, figurative language and connotation, with worked examples and a full practice passage.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Words-in-context questions belong to the **Craft and Structure** category, which makes up **26–33% of the scored ACT Reading questions** (about 7 to 9 of the 27 scored questions). They ask what a word or a phrase means **as it is used in one particular sentence**. You do not need a big dictionary in your head: the passage always gives you the clues. What the ACT tests is whether you can read the sentence carefully enough to ignore the meaning you already know when the passage uses a different one."
+  },
+  {
+   "type": "p",
+   "text": "These questions come in three forms. All three appear in literary narratives and in informational passages (humanities, social science, natural science)."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Form",
+    "Typical stem (in our own words)",
+    "What you must decide"
+   ],
+   "rows": [
+    [
+     "Word meaning",
+     "\"As it is used in paragraph 3, the word x most nearly means:\"",
+     "The meaning in THIS sentence, often a less common meaning"
+    ],
+    [
+     "Figurative phrase",
+     "\"The phrase x (paragraph 2) most nearly means that…\" / \"…suggests that…\"",
+     "What an image or comparison really says in plain words"
+    ],
+    [
+     "Connotation / word choice",
+     "\"The author's use of the word x suggests that…\" / \"The phrase x indicates that the critics believe…\"",
+     "The feeling or judgment the word carries: positive, negative, neutral"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الفكرة في سطر",
+   "text": "السؤال مش بيسألك الكلمة معناها إيه في القاموس. بيسألك معناها إيه في الجملة دي بالذات. وغالبًا المعنى المشهور اللي إنت عارفه هو الفخ."
+  },
+  {
+   "type": "h2",
+   "text": "The method, step by step"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Go back to the passage.** Read the whole sentence that contains the word, plus the sentence before and the sentence after. Never answer from the word alone.",
+    "**Cover the choices and blank out the word.** Read the sentence with a blank in its place: \"He could ______ through ten years of a hero's life in one sentence.\"",
+    "**Predict your own simple word** from the clues. It does not need to be elegant: \"go fast\" is a perfect prediction.",
+    "**Plug each choice into the blank.** The right answer keeps the exact meaning of the sentence and fits the grammar. Read the full sentence each time.",
+    "**Be suspicious of the most familiar meaning.** If a choice gives the first meaning you learned for the word, check it twice. The ACT likes to test a second or third meaning.",
+    "**For phrases, translate the picture into plain English.** Ask: what is being compared to what, and what do they have in common?",
+    "**For connotation, ask: positive, negative or neutral?** Then ask how strong. \"Dismiss\" is negative and firm; \"question\" is negative but gentle."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "p",
+   "text": "**Where are the clues?** Context clues come in a few regular shapes. Learn to spot them and you will rarely need to guess."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Clue type",
+    "Signal",
+    "Example"
+   ],
+   "rows": [
+    [
+     "Definition / restatement",
+     "a colon, a pair of commas or dashes, \"in other words\", \"that is\"",
+     "\"The story did not belong to him alone. It was shared property.\" (the second sentence explains the first)"
+    ],
+    [
+     "Contrast",
+     "but, yet, rather than, not … but, unlike",
+     "\"A recording is fixed; a told story stays alive.\" → fixed = unchanging"
+    ],
+    [
+     "Example",
+     "such as, for example, like, a list",
+     "\"trapped in a well, surrounded by enemies\" → \"the worst possible moment\" = great danger"
+    ],
+    [
+     "Cause and effect",
+     "so, because, so … that",
+     "\"so attached to a hero that they refused to let him suffer\" → attached = devoted"
+    ],
+    [
+     "Tone of the paragraph",
+     "positive or negative words nearby",
+     "\"Critics dismiss…\" → the next phrase will be negative"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Right reasoning vs wrong reasoning"
+  },
+  {
+   "type": "p",
+   "text": "Here are ✓/✗ pairs that show the difference between a student who reads the sentence and a student who reads only the word."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ \"The bridge **carried** the weight of a thousand cars.\" → carried = supported. ✗ carried = took from one place to another (the bridge does not move).",
+    "✓ \"Her argument does not **hold** water.\" → it is weak, it cannot be defended. ✗ it is about water or containers (the phrase is figurative).",
+    "✓ \"The scientist **entertained** the idea for a week before rejecting it.\" → considered. ✗ amused (nobody was laughing).",
+    "✓ \"The new rules were **sound**.\" → sensible, well-reasoned. ✗ noise (a noun meaning in an adjective position).",
+    "✓ \"He **weathered** the crisis.\" → survived, came through. ✗ was damaged by rain and sun (that meaning fits old wood, not a person in a crisis).",
+    "✓ \"The museum was **thin** on modern work.\" → had little of. ✗ narrow or slim in shape.",
+    "✓ \"The villagers were **frugal**\" (said with praise) → careful with money. ✗ \"stingy\" (same idea, but a negative connotation the author did not intend)."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Figurative language: say it in plain words"
+  },
+  {
+   "type": "p",
+   "text": "ACT passages, especially literary narratives and humanities essays, are full of images. A figurative-language question asks you to translate the image into a plain statement. The right answer is never the literal picture."
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "metaphor",
+     "describes one thing as if it were another: \"The classroom was a beehive.\" → busy and noisy"
+    ],
+    [
+     "simile",
+     "a comparison with like or as: \"He waited like a cat at a door.\" → patiently, ready to move"
+    ],
+    [
+     "personification",
+     "gives human actions to a thing: \"The room leaned toward him.\" → the people listened closely"
+    ],
+    [
+     "hyperbole",
+     "deliberate exaggeration: \"I have told you a million times.\" → many times, with frustration"
+    ],
+    [
+     "idiom",
+     "a fixed phrase whose meaning is not the sum of its words: \"to break the ice\" → to end an awkward silence"
+    ],
+    [
+     "understatement",
+     "saying less than is meant: \"The storm was a bit inconvenient\" (it destroyed the roof) → often ironic or dry"
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Three questions turn any image into an answer:** (1) What is the literal picture? (2) What is it really about in this passage? (3) What do the two share? \"The radio slowly drained the rooms\" → picture: liquid running out; really about: coffeehouses; shared idea: the people (audiences) left little by little."
+  },
+  {
+   "type": "h2",
+   "text": "Connotation: the feeling inside the word"
+  },
+  {
+   "type": "p",
+   "text": "Two words can share a dictionary meaning but carry different feelings. Authors choose words for their connotation, and the ACT asks what that choice suggests about the author's or a character's view."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Positive",
+    "Neutral",
+    "Negative"
+   ],
+   "rows": [
+    [
+     "determined",
+     "persistent",
+     "stubborn"
+    ],
+    [
+     "confident",
+     "self-assured",
+     "arrogant"
+    ],
+    [
+     "thrifty",
+     "economical",
+     "stingy"
+    ],
+    [
+     "curious",
+     "interested",
+     "nosy"
+    ],
+    [
+     "traditional",
+     "old",
+     "outdated"
+    ],
+    [
+     "revival",
+     "return",
+     "nostalgia (when critics use it)"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "المعنى الإيجابي والسلبي",
+   "text": "في أسئلة الـ connotation اسأل نفسك: الكلمة دي إيجابية ولا سلبية ولا محايدة؟ وبعدين: قوية ولا خفيفة؟ مثلًا stubborn سلبية، و determined إيجابية، مع إن المعنى قريب. الاختيار الصح لازم يطابق الإحساس اللي في الكلمة مش بس معناها."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "Excerpt 1 (natural science):\n\nFor years, researchers assumed that the lake's fish population would recover on its own once the factory upstream closed. The numbers told a different story. Even a decade later, the population remained a fraction of its former size, and the scientists began to suspect that the problem lay not in the water but in the mud beneath it, where years of waste had **settled**."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — word meaning (the common-meaning trap)**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** As it is used in the excerpt, the word settled most nearly means:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) sunk and collected.",
+    "B) agreed on.",
+    "C) paid.",
+    "D) become calm."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: A.** Put a blank in its place: years of waste had ______ in the mud beneath the water. Your prediction: \"sunk down and stayed\". A matches."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**B is wrong** — A real meaning (\"the dispute was settled\"), but waste cannot agree on anything.",
+    "**C is wrong** — \"Settle a bill\" means pay it: a money meaning with no place in this sentence.",
+    "**D is wrong** — \"The baby settled\" means became calm. It describes behaviour, not where waste goes."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "Excerpt 2 (literary narrative):\n\nMy grandfather never told us that the business was in trouble. He simply stopped buying new stock, and the shelves of the shop grew thinner every month, like a tree in autumn. We children noticed the empty spaces long before we understood them."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — figurative phrase**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** The comparison \"like a tree in autumn\" mainly suggests that the shop:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) was decorated with leaves and branches.",
+    "B) was slowly losing its goods.",
+    "C) was busiest at the end of the year.",
+    "D) would soon be full again in spring."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B.** Picture: a tree losing its leaves one by one. Really about: shelves. Shared idea: gradual emptying. B says it in plain words."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A is wrong** — Too literal: there are no real leaves in the shop.",
+    "**C is wrong** — Off-topic: autumn is used for the image of falling leaves, not for the date or for business.",
+    "**D is wrong** — Goes beyond the text: the image is only about losing goods; nothing suggests the shop will recover."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "Excerpt 3 (social science):\n\nSupporters of the new traffic plan call it bold. Its critics prefer the word reckless. Both groups agree on the facts: the plan closes three main roads to cars in a single month, without the slow trial period that most cities use."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — connotation**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** The critics' choice of the word reckless suggests that they believe the plan is:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) admirably courageous.",
+    "B) too expensive for the city.",
+    "C) dangerously careless.",
+    "D) carefully tested."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C.** \"Bold\" and \"reckless\" describe the same fast decision, but \"reckless\" carries a negative feeling: taking risks without thinking. C keeps both the meaning (risky) and the feeling (negative)."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**A is wrong** — That is the connotation of \"bold\", the supporters' word: the opposite feeling.",
+    "**B is wrong** — Off-topic: money is never mentioned, and \"reckless\" is about risk, not cost.",
+    "**D is wrong** — Reversed: the plan skips the \"slow trial period\"."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "Excerpt 4 (literary narrative):\n\nThe new teacher's handwriting was plain: no curls, no flourishes, every letter standing straight like a soldier. After two years of decorated worksheets that none of us could read, we found it a relief."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4 — a word whose meaning depends on the narrator**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** As it is used in the excerpt, the word plain most nearly means:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) simple and undecorated.",
+    "B) unattractive.",
+    "C) flat and open, like land.",
+    "D) obvious to everyone."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: A.** The colon explains the word: \"no curls, no flourishes\". Plain here = simple. The students found it \"a relief\", so the word is not negative."
+  },
+  {
+   "type": "list",
+   "items": [
+    "**B is wrong** — Wrong connotation: \"a plain face\" can mean unattractive, but the students like the handwriting.",
+    "**C is wrong** — A geography meaning (a plain = flat land), used as a noun, not for handwriting.",
+    "**D is wrong** — \"It was plain that he was angry\" = obvious. A real meaning, but the colon defines it as \"no curls\"."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**The common-meaning trap.** The first meaning you learned (race = a competition, attached = fastened) is offered as a choice and is usually wrong.",
+    "**The literal-picture trap.** For figurative phrases, a choice that describes the image literally (moving seats, real leaves) is wrong.",
+    "**The wrong-feeling trap.** The meaning is close but the connotation is reversed: \"courageous\" for \"reckless\", \"stingy\" for \"thrifty\".",
+    "**The nearby-word trap.** A choice uses a word from the same paragraph so it looks familiar, but it does not fit the blank.",
+    "**The \"sounds smart\" trap.** A difficult choice is not more likely to be right. A plain choice that fits the sentence wins."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Words-in-context questions are quick points: answer them first in each passage set.",
+    "Read the full sentence plus one sentence on each side.",
+    "Blank out the word and predict a simple replacement BEFORE you look at the choices.",
+    "Plug in every choice and read the whole sentence aloud in your head.",
+    "For an image, name the literal picture, the real topic and what they share.",
+    "For connotation, label it positive, negative or neutral, then strong or mild."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "خطوات الحل بسرعة",
+   "text": "١) ارجع للجملة واقرا اللي قبلها واللي بعدها. ٢) شيل الكلمة وحط مكانها كلمة بسيطة من عندك. ٣) جرب كل اختيار في الجملة. ٤) لو الاختيار هو المعنى المشهور للكلمة، راجعه مرتين. ٥) في التشبيهات: الإجابة الصح عمرها ما بتكون الصورة الحرفية."
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Now try a full humanities passage (about 700 words) with 9 questions, as on the real test. Most of the questions test words and phrases in context. It is **untimed**, but aim for about 10 minutes. For every question, predict your own word or plain-English meaning before you look at the choices."
+  },
+  {
+   "type": "test",
+   "title": "ACT Reading practice — Words and phrases in context",
+   "timed": false,
+   "intro": "One humanities passage, 9 questions, untimed. Blank out the word, predict your own replacement, then plug in each choice.",
+   "sections": [
+    {
+     "name": "Passage 1",
+     "minutes": 10,
+     "questions": [
+      {
+       "p": "HUMANITIES: This passage is adapted from an essay about the storytellers of the old coffeehouses of Cairo.\n\n[1] Long before radio reached the coffeehouses of old Cairo, the evening's entertainment arrived on foot. He was the hakawati, the professional storyteller, and he carried his whole stock of goods in his head: long adventure tales of heroes and kings that could take months to finish when they were told one episode a night. He would take his seat on a raised bench near the wall, open a worn book that he rarely looked at, and wait for the room to settle. A good hakawati did not raise his voice to get attention. He lowered it, and the room leaned toward him.\n\n[2] The storyteller's real skill was not memory, although his memory was remarkable. It was timing. He knew exactly when to slow a battle scene to the pace of a single sword stroke and when to race through ten years of a hero's life in one sentence. Above all, he knew where to stop. A night's episode almost always ended at the worst possible moment for the hero—trapped in a well, surrounded by enemies, about to be betrayed by a friend—so that the audience would return the next evening, and buy another cup of coffee, to learn what happened. The coffeehouse owners understood this arrangement perfectly, and many of them paid the storyteller for exactly that reason.\n\n[3] Listeners were not silent. They argued about the characters, took sides, and sometimes became so attached to a hero that they refused to let him suffer. Travellers' accounts describe audiences who shouted at the storyteller when a favourite character was captured, and a well-known anecdote tells of a listener who followed a hakawati home and would not leave until he heard that the hero had escaped. The story, in other words, did not belong to the storyteller alone. It was shared property, held in common by everyone who returned night after night to the same bench and the same voice.\n\n[4] The arrival of radio, and later of television, did not destroy this tradition at once, but it slowly drained the rooms in which it lived. A machine could not be shouted at, and it did not wait for the audience to settle, but it was never tired, never late and never ill. By the second half of the twentieth century, only a handful of storytellers were still working, and most of them performed for tourists rather than for neighbours. The tales had not changed; the listeners had.\n\n[5] It would be easy to tell this as a simple story of loss, and many writers have. Yet the picture is more complicated. In recent years, a number of young performers in cities across the Arab world have returned to the old tales, sometimes reading from the same worn texts, sometimes writing new episodes about modern city life. Their audiences are smaller, and their stages are cultural centres rather than coffeehouses. Some critics dismiss these revivals as nostalgia dressed up as art. The performers themselves describe their work differently: not as a museum display but as a conversation that was interrupted and is now being picked up again.\n\n[6] Whether the revival will last is impossible to say. What is clear is that the hakawati offered something a screen cannot easily copy. He was present in the room. He could see who had fallen asleep and who was leaning forward, and he could stretch or shorten the story to suit them. His tale was never quite the same twice. A recording is fixed the moment it is made; a told story stays alive only as long as someone is willing to tell it and someone else is willing to listen.\n\n[7] Perhaps that is why the old storytellers still command such affection, even among people who never heard one. We remember them not because their tales were better than ours, but because, for a few hours every night, a room full of strangers agreed to care about the same hero at the same time.",
+       "q": "As it is used in paragraph 1, the phrase stock of goods most nearly refers to the storyteller's:",
+       "c": [
+        "supply of coffee and food for sale.",
+        "collection of printed books.",
+        "memorized collection of tales.",
+        "savings from many years of work."
+       ],
+       "a": 2,
+       "e": "The sentence says he carried his stock of goods \"in his head\" and then explains it with the colon: \"long adventure tales of heroes and kings.\" The phrase is figurative: the tales are what he \"sells\". A and D take the business meaning literally; B is contradicted because he \"rarely looked at\" the book.",
+       "s": "Figurative phrase"
+      },
+      {
+       "p": "HUMANITIES: This passage is adapted from an essay about the storytellers of the old coffeehouses of Cairo.\n\n[1] Long before radio reached the coffeehouses of old Cairo, the evening's entertainment arrived on foot. He was the hakawati, the professional storyteller, and he carried his whole stock of goods in his head: long adventure tales of heroes and kings that could take months to finish when they were told one episode a night. He would take his seat on a raised bench near the wall, open a worn book that he rarely looked at, and wait for the room to settle. A good hakawati did not raise his voice to get attention. He lowered it, and the room leaned toward him.\n\n[2] The storyteller's real skill was not memory, although his memory was remarkable. It was timing. He knew exactly when to slow a battle scene to the pace of a single sword stroke and when to race through ten years of a hero's life in one sentence. Above all, he knew where to stop. A night's episode almost always ended at the worst possible moment for the hero—trapped in a well, surrounded by enemies, about to be betrayed by a friend—so that the audience would return the next evening, and buy another cup of coffee, to learn what happened. The coffeehouse owners understood this arrangement perfectly, and many of them paid the storyteller for exactly that reason.\n\n[3] Listeners were not silent. They argued about the characters, took sides, and sometimes became so attached to a hero that they refused to let him suffer. Travellers' accounts describe audiences who shouted at the storyteller when a favourite character was captured, and a well-known anecdote tells of a listener who followed a hakawati home and would not leave until he heard that the hero had escaped. The story, in other words, did not belong to the storyteller alone. It was shared property, held in common by everyone who returned night after night to the same bench and the same voice.\n\n[4] The arrival of radio, and later of television, did not destroy this tradition at once, but it slowly drained the rooms in which it lived. A machine could not be shouted at, and it did not wait for the audience to settle, but it was never tired, never late and never ill. By the second half of the twentieth century, only a handful of storytellers were still working, and most of them performed for tourists rather than for neighbours. The tales had not changed; the listeners had.\n\n[5] It would be easy to tell this as a simple story of loss, and many writers have. Yet the picture is more complicated. In recent years, a number of young performers in cities across the Arab world have returned to the old tales, sometimes reading from the same worn texts, sometimes writing new episodes about modern city life. Their audiences are smaller, and their stages are cultural centres rather than coffeehouses. Some critics dismiss these revivals as nostalgia dressed up as art. The performers themselves describe their work differently: not as a museum display but as a conversation that was interrupted and is now being picked up again.\n\n[6] Whether the revival will last is impossible to say. What is clear is that the hakawati offered something a screen cannot easily copy. He was present in the room. He could see who had fallen asleep and who was leaning forward, and he could stretch or shorten the story to suit them. His tale was never quite the same twice. A recording is fixed the moment it is made; a told story stays alive only as long as someone is willing to tell it and someone else is willing to listen.\n\n[7] Perhaps that is why the old storytellers still command such affection, even among people who never heard one. We remember them not because their tales were better than ours, but because, for a few hours every night, a room full of strangers agreed to care about the same hero at the same time.",
+       "q": "The statement \"the room leaned toward him\" (paragraph 1) most nearly means that the audience:",
+       "c": [
+        "became quiet and listened closely.",
+        "moved their seats nearer to the wall.",
+        "grew tired and began to fall asleep.",
+        "disagreed with what the storyteller said."
+       ],
+       "a": 0,
+       "e": "When he lowered his voice, people had to pay closer attention to hear him: the \"room\" (the people in it) leaned in with interest. B reads the image too literally; C and D give the opposite of attention.",
+       "s": "Figurative phrase"
+      },
+      {
+       "p": "HUMANITIES: This passage is adapted from an essay about the storytellers of the old coffeehouses of Cairo.\n\n[1] Long before radio reached the coffeehouses of old Cairo, the evening's entertainment arrived on foot. He was the hakawati, the professional storyteller, and he carried his whole stock of goods in his head: long adventure tales of heroes and kings that could take months to finish when they were told one episode a night. He would take his seat on a raised bench near the wall, open a worn book that he rarely looked at, and wait for the room to settle. A good hakawati did not raise his voice to get attention. He lowered it, and the room leaned toward him.\n\n[2] The storyteller's real skill was not memory, although his memory was remarkable. It was timing. He knew exactly when to slow a battle scene to the pace of a single sword stroke and when to race through ten years of a hero's life in one sentence. Above all, he knew where to stop. A night's episode almost always ended at the worst possible moment for the hero—trapped in a well, surrounded by enemies, about to be betrayed by a friend—so that the audience would return the next evening, and buy another cup of coffee, to learn what happened. The coffeehouse owners understood this arrangement perfectly, and many of them paid the storyteller for exactly that reason.\n\n[3] Listeners were not silent. They argued about the characters, took sides, and sometimes became so attached to a hero that they refused to let him suffer. Travellers' accounts describe audiences who shouted at the storyteller when a favourite character was captured, and a well-known anecdote tells of a listener who followed a hakawati home and would not leave until he heard that the hero had escaped. The story, in other words, did not belong to the storyteller alone. It was shared property, held in common by everyone who returned night after night to the same bench and the same voice.\n\n[4] The arrival of radio, and later of television, did not destroy this tradition at once, but it slowly drained the rooms in which it lived. A machine could not be shouted at, and it did not wait for the audience to settle, but it was never tired, never late and never ill. By the second half of the twentieth century, only a handful of storytellers were still working, and most of them performed for tourists rather than for neighbours. The tales had not changed; the listeners had.\n\n[5] It would be easy to tell this as a simple story of loss, and many writers have. Yet the picture is more complicated. In recent years, a number of young performers in cities across the Arab world have returned to the old tales, sometimes reading from the same worn texts, sometimes writing new episodes about modern city life. Their audiences are smaller, and their stages are cultural centres rather than coffeehouses. Some critics dismiss these revivals as nostalgia dressed up as art. The performers themselves describe their work differently: not as a museum display but as a conversation that was interrupted and is now being picked up again.\n\n[6] Whether the revival will last is impossible to say. What is clear is that the hakawati offered something a screen cannot easily copy. He was present in the room. He could see who had fallen asleep and who was leaning forward, and he could stretch or shorten the story to suit them. His tale was never quite the same twice. A recording is fixed the moment it is made; a told story stays alive only as long as someone is willing to tell it and someone else is willing to listen.\n\n[7] Perhaps that is why the old storytellers still command such affection, even among people who never heard one. We remember them not because their tales were better than ours, but because, for a few hours every night, a room full of strangers agreed to care about the same hero at the same time.",
+       "q": "As it is used in paragraph 2, the word race most nearly means:",
+       "c": [
+        "compete against.",
+        "move very quickly.",
+        "escape from.",
+        "measure carefully."
+       ],
+       "a": 1,
+       "e": "The storyteller could slow one scene down or \"race through ten years of a hero's life in one sentence\": he moves through the events very fast. A is the common sports meaning, but nobody is competing; C and D do not fit \"through ten years\".",
+       "s": "Words in context"
+      },
+      {
+       "p": "HUMANITIES: This passage is adapted from an essay about the storytellers of the old coffeehouses of Cairo.\n\n[1] Long before radio reached the coffeehouses of old Cairo, the evening's entertainment arrived on foot. He was the hakawati, the professional storyteller, and he carried his whole stock of goods in his head: long adventure tales of heroes and kings that could take months to finish when they were told one episode a night. He would take his seat on a raised bench near the wall, open a worn book that he rarely looked at, and wait for the room to settle. A good hakawati did not raise his voice to get attention. He lowered it, and the room leaned toward him.\n\n[2] The storyteller's real skill was not memory, although his memory was remarkable. It was timing. He knew exactly when to slow a battle scene to the pace of a single sword stroke and when to race through ten years of a hero's life in one sentence. Above all, he knew where to stop. A night's episode almost always ended at the worst possible moment for the hero—trapped in a well, surrounded by enemies, about to be betrayed by a friend—so that the audience would return the next evening, and buy another cup of coffee, to learn what happened. The coffeehouse owners understood this arrangement perfectly, and many of them paid the storyteller for exactly that reason.\n\n[3] Listeners were not silent. They argued about the characters, took sides, and sometimes became so attached to a hero that they refused to let him suffer. Travellers' accounts describe audiences who shouted at the storyteller when a favourite character was captured, and a well-known anecdote tells of a listener who followed a hakawati home and would not leave until he heard that the hero had escaped. The story, in other words, did not belong to the storyteller alone. It was shared property, held in common by everyone who returned night after night to the same bench and the same voice.\n\n[4] The arrival of radio, and later of television, did not destroy this tradition at once, but it slowly drained the rooms in which it lived. A machine could not be shouted at, and it did not wait for the audience to settle, but it was never tired, never late and never ill. By the second half of the twentieth century, only a handful of storytellers were still working, and most of them performed for tourists rather than for neighbours. The tales had not changed; the listeners had.\n\n[5] It would be easy to tell this as a simple story of loss, and many writers have. Yet the picture is more complicated. In recent years, a number of young performers in cities across the Arab world have returned to the old tales, sometimes reading from the same worn texts, sometimes writing new episodes about modern city life. Their audiences are smaller, and their stages are cultural centres rather than coffeehouses. Some critics dismiss these revivals as nostalgia dressed up as art. The performers themselves describe their work differently: not as a museum display but as a conversation that was interrupted and is now being picked up again.\n\n[6] Whether the revival will last is impossible to say. What is clear is that the hakawati offered something a screen cannot easily copy. He was present in the room. He could see who had fallen asleep and who was leaning forward, and he could stretch or shorten the story to suit them. His tale was never quite the same twice. A recording is fixed the moment it is made; a told story stays alive only as long as someone is willing to tell it and someone else is willing to listen.\n\n[7] Perhaps that is why the old storytellers still command such affection, even among people who never heard one. We remember them not because their tales were better than ours, but because, for a few hours every night, a room full of strangers agreed to care about the same hero at the same time.",
+       "q": "As it is used in paragraph 3, the word attached most nearly means:",
+       "c": [
+        "fastened.",
+        "assigned.",
+        "added.",
+        "devoted."
+       ],
+       "a": 3,
+       "e": "Listeners were so attached to a hero \"that they refused to let him suffer\": they loved him and cared about him. A (fastened, as with glue) is the most common physical meaning and the classic trap; B and C (attached to a job, attached to an email) do not describe feelings.",
+       "s": "Words in context"
+      },
+      {
+       "p": "HUMANITIES: This passage is adapted from an essay about the storytellers of the old coffeehouses of Cairo.\n\n[1] Long before radio reached the coffeehouses of old Cairo, the evening's entertainment arrived on foot. He was the hakawati, the professional storyteller, and he carried his whole stock of goods in his head: long adventure tales of heroes and kings that could take months to finish when they were told one episode a night. He would take his seat on a raised bench near the wall, open a worn book that he rarely looked at, and wait for the room to settle. A good hakawati did not raise his voice to get attention. He lowered it, and the room leaned toward him.\n\n[2] The storyteller's real skill was not memory, although his memory was remarkable. It was timing. He knew exactly when to slow a battle scene to the pace of a single sword stroke and when to race through ten years of a hero's life in one sentence. Above all, he knew where to stop. A night's episode almost always ended at the worst possible moment for the hero—trapped in a well, surrounded by enemies, about to be betrayed by a friend—so that the audience would return the next evening, and buy another cup of coffee, to learn what happened. The coffeehouse owners understood this arrangement perfectly, and many of them paid the storyteller for exactly that reason.\n\n[3] Listeners were not silent. They argued about the characters, took sides, and sometimes became so attached to a hero that they refused to let him suffer. Travellers' accounts describe audiences who shouted at the storyteller when a favourite character was captured, and a well-known anecdote tells of a listener who followed a hakawati home and would not leave until he heard that the hero had escaped. The story, in other words, did not belong to the storyteller alone. It was shared property, held in common by everyone who returned night after night to the same bench and the same voice.\n\n[4] The arrival of radio, and later of television, did not destroy this tradition at once, but it slowly drained the rooms in which it lived. A machine could not be shouted at, and it did not wait for the audience to settle, but it was never tired, never late and never ill. By the second half of the twentieth century, only a handful of storytellers were still working, and most of them performed for tourists rather than for neighbours. The tales had not changed; the listeners had.\n\n[5] It would be easy to tell this as a simple story of loss, and many writers have. Yet the picture is more complicated. In recent years, a number of young performers in cities across the Arab world have returned to the old tales, sometimes reading from the same worn texts, sometimes writing new episodes about modern city life. Their audiences are smaller, and their stages are cultural centres rather than coffeehouses. Some critics dismiss these revivals as nostalgia dressed up as art. The performers themselves describe their work differently: not as a museum display but as a conversation that was interrupted and is now being picked up again.\n\n[6] Whether the revival will last is impossible to say. What is clear is that the hakawati offered something a screen cannot easily copy. He was present in the room. He could see who had fallen asleep and who was leaning forward, and he could stretch or shorten the story to suit them. His tale was never quite the same twice. A recording is fixed the moment it is made; a told story stays alive only as long as someone is willing to tell it and someone else is willing to listen.\n\n[7] Perhaps that is why the old storytellers still command such affection, even among people who never heard one. We remember them not because their tales were better than ours, but because, for a few hours every night, a room full of strangers agreed to care about the same hero at the same time.",
+       "q": "In paragraph 4, the phrase slowly drained the rooms in which it lived suggests that radio and television:",
+       "c": [
+        "gradually took away the audiences the storytellers depended on.",
+        "physically damaged the coffeehouses where stories were told.",
+        "forced storytellers to move their performances outdoors.",
+        "made the old tales shorter and less exciting."
+       ],
+       "a": 0,
+       "e": "\"Drained\" pictures liquid running out little by little; what ran out of the rooms was the listeners. The next sentences confirm this: only a handful of storytellers were left, performing for tourists, and \"the listeners had\" changed. B is too literal; C is never stated; D is contradicted by \"The tales had not changed.\"",
+       "s": "Figurative phrase"
+      },
+      {
+       "p": "HUMANITIES: This passage is adapted from an essay about the storytellers of the old coffeehouses of Cairo.\n\n[1] Long before radio reached the coffeehouses of old Cairo, the evening's entertainment arrived on foot. He was the hakawati, the professional storyteller, and he carried his whole stock of goods in his head: long adventure tales of heroes and kings that could take months to finish when they were told one episode a night. He would take his seat on a raised bench near the wall, open a worn book that he rarely looked at, and wait for the room to settle. A good hakawati did not raise his voice to get attention. He lowered it, and the room leaned toward him.\n\n[2] The storyteller's real skill was not memory, although his memory was remarkable. It was timing. He knew exactly when to slow a battle scene to the pace of a single sword stroke and when to race through ten years of a hero's life in one sentence. Above all, he knew where to stop. A night's episode almost always ended at the worst possible moment for the hero—trapped in a well, surrounded by enemies, about to be betrayed by a friend—so that the audience would return the next evening, and buy another cup of coffee, to learn what happened. The coffeehouse owners understood this arrangement perfectly, and many of them paid the storyteller for exactly that reason.\n\n[3] Listeners were not silent. They argued about the characters, took sides, and sometimes became so attached to a hero that they refused to let him suffer. Travellers' accounts describe audiences who shouted at the storyteller when a favourite character was captured, and a well-known anecdote tells of a listener who followed a hakawati home and would not leave until he heard that the hero had escaped. The story, in other words, did not belong to the storyteller alone. It was shared property, held in common by everyone who returned night after night to the same bench and the same voice.\n\n[4] The arrival of radio, and later of television, did not destroy this tradition at once, but it slowly drained the rooms in which it lived. A machine could not be shouted at, and it did not wait for the audience to settle, but it was never tired, never late and never ill. By the second half of the twentieth century, only a handful of storytellers were still working, and most of them performed for tourists rather than for neighbours. The tales had not changed; the listeners had.\n\n[5] It would be easy to tell this as a simple story of loss, and many writers have. Yet the picture is more complicated. In recent years, a number of young performers in cities across the Arab world have returned to the old tales, sometimes reading from the same worn texts, sometimes writing new episodes about modern city life. Their audiences are smaller, and their stages are cultural centres rather than coffeehouses. Some critics dismiss these revivals as nostalgia dressed up as art. The performers themselves describe their work differently: not as a museum display but as a conversation that was interrupted and is now being picked up again.\n\n[6] Whether the revival will last is impossible to say. What is clear is that the hakawati offered something a screen cannot easily copy. He was present in the room. He could see who had fallen asleep and who was leaning forward, and he could stretch or shorten the story to suit them. His tale was never quite the same twice. A recording is fixed the moment it is made; a told story stays alive only as long as someone is willing to tell it and someone else is willing to listen.\n\n[7] Perhaps that is why the old storytellers still command such affection, even among people who never heard one. We remember them not because their tales were better than ours, but because, for a few hours every night, a room full of strangers agreed to care about the same hero at the same time.",
+       "q": "The phrase nostalgia dressed up as art (paragraph 5) indicates that the critics believe the revivals are:",
+       "c": [
+        "too modern to be connected to the old tradition.",
+        "more popular than the original performances.",
+        "a sentimental longing for the past pretending to be serious art.",
+        "an accurate copy of the original coffeehouse performances."
+       ],
+       "a": 2,
+       "e": "\"Dressed up as\" means disguised as, and the critics \"dismiss\" the revivals, a negative word. So they think the revivals are only a longing for the past that looks like art. A reverses the critics' complaint; B contradicts \"Their audiences are smaller\"; D is a compliment, not a dismissal.",
+       "s": "Connotation"
+      },
+      {
+       "p": "HUMANITIES: This passage is adapted from an essay about the storytellers of the old coffeehouses of Cairo.\n\n[1] Long before radio reached the coffeehouses of old Cairo, the evening's entertainment arrived on foot. He was the hakawati, the professional storyteller, and he carried his whole stock of goods in his head: long adventure tales of heroes and kings that could take months to finish when they were told one episode a night. He would take his seat on a raised bench near the wall, open a worn book that he rarely looked at, and wait for the room to settle. A good hakawati did not raise his voice to get attention. He lowered it, and the room leaned toward him.\n\n[2] The storyteller's real skill was not memory, although his memory was remarkable. It was timing. He knew exactly when to slow a battle scene to the pace of a single sword stroke and when to race through ten years of a hero's life in one sentence. Above all, he knew where to stop. A night's episode almost always ended at the worst possible moment for the hero—trapped in a well, surrounded by enemies, about to be betrayed by a friend—so that the audience would return the next evening, and buy another cup of coffee, to learn what happened. The coffeehouse owners understood this arrangement perfectly, and many of them paid the storyteller for exactly that reason.\n\n[3] Listeners were not silent. They argued about the characters, took sides, and sometimes became so attached to a hero that they refused to let him suffer. Travellers' accounts describe audiences who shouted at the storyteller when a favourite character was captured, and a well-known anecdote tells of a listener who followed a hakawati home and would not leave until he heard that the hero had escaped. The story, in other words, did not belong to the storyteller alone. It was shared property, held in common by everyone who returned night after night to the same bench and the same voice.\n\n[4] The arrival of radio, and later of television, did not destroy this tradition at once, but it slowly drained the rooms in which it lived. A machine could not be shouted at, and it did not wait for the audience to settle, but it was never tired, never late and never ill. By the second half of the twentieth century, only a handful of storytellers were still working, and most of them performed for tourists rather than for neighbours. The tales had not changed; the listeners had.\n\n[5] It would be easy to tell this as a simple story of loss, and many writers have. Yet the picture is more complicated. In recent years, a number of young performers in cities across the Arab world have returned to the old tales, sometimes reading from the same worn texts, sometimes writing new episodes about modern city life. Their audiences are smaller, and their stages are cultural centres rather than coffeehouses. Some critics dismiss these revivals as nostalgia dressed up as art. The performers themselves describe their work differently: not as a museum display but as a conversation that was interrupted and is now being picked up again.\n\n[6] Whether the revival will last is impossible to say. What is clear is that the hakawati offered something a screen cannot easily copy. He was present in the room. He could see who had fallen asleep and who was leaning forward, and he could stretch or shorten the story to suit them. His tale was never quite the same twice. A recording is fixed the moment it is made; a told story stays alive only as long as someone is willing to tell it and someone else is willing to listen.\n\n[7] Perhaps that is why the old storytellers still command such affection, even among people who never heard one. We remember them not because their tales were better than ours, but because, for a few hours every night, a room full of strangers agreed to care about the same hero at the same time.",
+       "q": "As it is used in paragraph 6, the word fixed most nearly means:",
+       "c": [
+        "repaired.",
+        "unchanging.",
+        "firmly attached.",
+        "decided dishonestly."
+       ],
+       "a": 1,
+       "e": "The sentence contrasts a recording with a told story that \"stays alive\" and is \"never quite the same twice\". A recording is fixed: it can never change. A, C and D are real meanings of \"fixed\" (a fixed car, a fixed shelf, a fixed match), but none of them makes the contrast work.",
+       "s": "Words in context"
+      },
+      {
+       "p": "HUMANITIES: This passage is adapted from an essay about the storytellers of the old coffeehouses of Cairo.\n\n[1] Long before radio reached the coffeehouses of old Cairo, the evening's entertainment arrived on foot. He was the hakawati, the professional storyteller, and he carried his whole stock of goods in his head: long adventure tales of heroes and kings that could take months to finish when they were told one episode a night. He would take his seat on a raised bench near the wall, open a worn book that he rarely looked at, and wait for the room to settle. A good hakawati did not raise his voice to get attention. He lowered it, and the room leaned toward him.\n\n[2] The storyteller's real skill was not memory, although his memory was remarkable. It was timing. He knew exactly when to slow a battle scene to the pace of a single sword stroke and when to race through ten years of a hero's life in one sentence. Above all, he knew where to stop. A night's episode almost always ended at the worst possible moment for the hero—trapped in a well, surrounded by enemies, about to be betrayed by a friend—so that the audience would return the next evening, and buy another cup of coffee, to learn what happened. The coffeehouse owners understood this arrangement perfectly, and many of them paid the storyteller for exactly that reason.\n\n[3] Listeners were not silent. They argued about the characters, took sides, and sometimes became so attached to a hero that they refused to let him suffer. Travellers' accounts describe audiences who shouted at the storyteller when a favourite character was captured, and a well-known anecdote tells of a listener who followed a hakawati home and would not leave until he heard that the hero had escaped. The story, in other words, did not belong to the storyteller alone. It was shared property, held in common by everyone who returned night after night to the same bench and the same voice.\n\n[4] The arrival of radio, and later of television, did not destroy this tradition at once, but it slowly drained the rooms in which it lived. A machine could not be shouted at, and it did not wait for the audience to settle, but it was never tired, never late and never ill. By the second half of the twentieth century, only a handful of storytellers were still working, and most of them performed for tourists rather than for neighbours. The tales had not changed; the listeners had.\n\n[5] It would be easy to tell this as a simple story of loss, and many writers have. Yet the picture is more complicated. In recent years, a number of young performers in cities across the Arab world have returned to the old tales, sometimes reading from the same worn texts, sometimes writing new episodes about modern city life. Their audiences are smaller, and their stages are cultural centres rather than coffeehouses. Some critics dismiss these revivals as nostalgia dressed up as art. The performers themselves describe their work differently: not as a museum display but as a conversation that was interrupted and is now being picked up again.\n\n[6] Whether the revival will last is impossible to say. What is clear is that the hakawati offered something a screen cannot easily copy. He was present in the room. He could see who had fallen asleep and who was leaning forward, and he could stretch or shorten the story to suit them. His tale was never quite the same twice. A recording is fixed the moment it is made; a told story stays alive only as long as someone is willing to tell it and someone else is willing to listen.\n\n[7] Perhaps that is why the old storytellers still command such affection, even among people who never heard one. We remember them not because their tales were better than ours, but because, for a few hours every night, a room full of strangers agreed to care about the same hero at the same time.",
+       "q": "As it is used in paragraph 7, the word command most nearly means:",
+       "c": [
+        "order.",
+        "control.",
+        "lead.",
+        "inspire."
+       ],
+       "a": 3,
+       "e": "The storytellers \"still command such affection\": people still feel affection for them. To command affection = to inspire or earn it. A, B and C are the military and power meanings of \"command\", and you cannot order or control people's feelings.",
+       "s": "Words in context"
+      },
+      {
+       "p": "HUMANITIES: This passage is adapted from an essay about the storytellers of the old coffeehouses of Cairo.\n\n[1] Long before radio reached the coffeehouses of old Cairo, the evening's entertainment arrived on foot. He was the hakawati, the professional storyteller, and he carried his whole stock of goods in his head: long adventure tales of heroes and kings that could take months to finish when they were told one episode a night. He would take his seat on a raised bench near the wall, open a worn book that he rarely looked at, and wait for the room to settle. A good hakawati did not raise his voice to get attention. He lowered it, and the room leaned toward him.\n\n[2] The storyteller's real skill was not memory, although his memory was remarkable. It was timing. He knew exactly when to slow a battle scene to the pace of a single sword stroke and when to race through ten years of a hero's life in one sentence. Above all, he knew where to stop. A night's episode almost always ended at the worst possible moment for the hero—trapped in a well, surrounded by enemies, about to be betrayed by a friend—so that the audience would return the next evening, and buy another cup of coffee, to learn what happened. The coffeehouse owners understood this arrangement perfectly, and many of them paid the storyteller for exactly that reason.\n\n[3] Listeners were not silent. They argued about the characters, took sides, and sometimes became so attached to a hero that they refused to let him suffer. Travellers' accounts describe audiences who shouted at the storyteller when a favourite character was captured, and a well-known anecdote tells of a listener who followed a hakawati home and would not leave until he heard that the hero had escaped. The story, in other words, did not belong to the storyteller alone. It was shared property, held in common by everyone who returned night after night to the same bench and the same voice.\n\n[4] The arrival of radio, and later of television, did not destroy this tradition at once, but it slowly drained the rooms in which it lived. A machine could not be shouted at, and it did not wait for the audience to settle, but it was never tired, never late and never ill. By the second half of the twentieth century, only a handful of storytellers were still working, and most of them performed for tourists rather than for neighbours. The tales had not changed; the listeners had.\n\n[5] It would be easy to tell this as a simple story of loss, and many writers have. Yet the picture is more complicated. In recent years, a number of young performers in cities across the Arab world have returned to the old tales, sometimes reading from the same worn texts, sometimes writing new episodes about modern city life. Their audiences are smaller, and their stages are cultural centres rather than coffeehouses. Some critics dismiss these revivals as nostalgia dressed up as art. The performers themselves describe their work differently: not as a museum display but as a conversation that was interrupted and is now being picked up again.\n\n[6] Whether the revival will last is impossible to say. What is clear is that the hakawati offered something a screen cannot easily copy. He was present in the room. He could see who had fallen asleep and who was leaning forward, and he could stretch or shorten the story to suit them. His tale was never quite the same twice. A recording is fixed the moment it is made; a told story stays alive only as long as someone is willing to tell it and someone else is willing to listen.\n\n[7] Perhaps that is why the old storytellers still command such affection, even among people who never heard one. We remember them not because their tales were better than ours, but because, for a few hours every night, a room full of strangers agreed to care about the same hero at the same time.",
+       "q": "By describing their work as \"a conversation that was interrupted\" rather than \"a museum display\" (paragraph 5), the young performers mainly suggest that they see the tradition as:",
+       "c": [
+        "an old art that should be protected behind glass.",
+        "a finished chapter of history that cannot return.",
+        "a living practice that is being continued.",
+        "a form of entertainment meant mainly for tourists."
+       ],
+       "a": 2,
+       "e": "A museum display is preserved and still; a conversation is alive and can be \"picked up again\". The performers choose words with a living, active connotation. A and B describe the museum view they reject; D mixes in the tourists from paragraph 4 (wrong place).",
+       "s": "Connotation"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Craft and Structure questions = 26–33% of the scored ACT Reading questions; words in context are among the fastest of them.",
+    "The answer is the meaning in THIS sentence, and it is often not the most common meaning.",
+    "Blank out the word, predict a simple replacement, then plug in every choice.",
+    "Figurative phrases: translate the picture into plain words; the literal picture is a trap.",
+    "Connotation: match the feeling (positive, negative, neutral) as well as the meaning."
+   ]
+  }
+ ]
+}

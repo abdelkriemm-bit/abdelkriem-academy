@@ -1,0 +1,514 @@
+{
+ "slug": "act-reading-paired-passages",
+ "nav": "Paired Passages",
+ "title": "Paired Passages: Comparing Two Authors",
+ "kicker": "American Diploma · ACT · Reading: Integration of Knowledge and Ideas",
+ "summary": "How to handle an ACT Reading paired-passage set: answer the Passage A questions, then the Passage B questions, then the comparison questions on agreement, disagreement and how one author would respond to the other.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "In a **paired-passage set**, the ACT gives you two shorter passages on the same topic, labelled **Passage A** and **Passage B**, and one set of **9 questions** about them. Some questions ask only about Passage A, some only about Passage B, and the rest ask you to **compare the two**: where the authors agree, where they disagree, and how one author would answer the other. These comparison questions belong to the reporting category **Integration of Knowledge and Ideas**, which is **19–26% of the scored ACT Reading questions**. Every ACT form has **either a paired-passage set or a passage with charts or graphs**, so there is a real chance you will meet a pair on test day."
+  },
+  {
+   "type": "p",
+   "text": "The questions are usually arranged in a helpful order: questions on Passage A first, then questions on Passage B, then questions on both passages. Use that order. It lets you treat the set as two short passages plus a few comparison questions, instead of one confusing double passage."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Question group",
+    "What it asks",
+    "Typical stems (in our own words)"
+   ],
+   "rows": [
+    [
+     "Passage A only",
+     "Detail, purpose, word meaning, inference — in Passage A",
+     "\"In Passage A, the author mentions … mainly to:\" / \"According to Passage A, …\""
+    ],
+    [
+     "Passage B only",
+     "The same skills — in Passage B",
+     "\"The author of Passage B objects to … because:\""
+    ],
+    [
+     "Agreement",
+     "An idea both authors support",
+     "\"Both authors would most likely agree that:\""
+    ],
+    [
+     "Disagreement",
+     "The exact point where they differ",
+     "\"The main disagreement between the authors concerns:\" / \"Unlike the author of Passage A, the author of Passage B …\""
+    ],
+    [
+     "Response",
+     "How one author would react to a specific line in the other passage",
+     "\"How would the author of Passage B most likely respond to the claim in Passage A, paragraph 2, that …?\""
+    ],
+    [
+     "Relationship / difference",
+     "How B relates to A as a whole; differences in evidence, tone or purpose",
+     "\"Which choice best describes how Passage B relates to Passage A?\" / \"A difference between the passages is that:\""
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "The method: A, then B, then both"
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "**Read the blurb.** It tells you who wrote each passage: a planner and a shopkeeper, a scientist and a farmer, a teacher and a musician. An author's job often explains his or her point of view.",
+    "**Read Passage A only.** Make a quick 3-word map of its paragraphs and say its main claim in one sentence: \"A: start with reading.\"",
+    "**Answer the Passage A questions now,** while Passage A is fresh. Do not look at Passage B yet; it can only confuse you.",
+    "**Read Passage B.** As you read, ask one question all the time: \"Is B agreeing with A, disagreeing, or agreeing in part?\" Say B's claim in one sentence.",
+    "**Answer the Passage B questions.**",
+    "**Before the comparison questions, write a three-line summary:** A thinks … / B thinks … / Both accept … This takes 20 seconds and saves minutes.",
+    "**Answer the comparison questions.** For each choice, find the proof in A AND the proof in B. If you can find only one, the choice is wrong."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "ترتيب الحل",
+   "text": "متقراش القطعتين ورا بعض وبعدين تحل. اقرا A وحل أسئلة A بس، بعدين اقرا B وحل أسئلة B، وفي الآخر حل الأسئلة اللي عن الاتنين. وقبل أسئلة الاتنين اكتب سطر صغير: A رأيه كذا / B رأيه كذا / متفقين على كذا."
+  },
+  {
+   "type": "h2",
+   "text": "Classifying the relationship between the passages"
+  },
+  {
+   "type": "p",
+   "text": "Most comparison questions become easy once you have named the relationship. On the ACT, two authors rarely disagree about everything. Much more often the second author **qualifies** the first: accepts part of the view and adds a limit, a condition or a different order."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Relationship",
+    "What it means",
+    "Signal words in Passage B"
+   ],
+   "rows": [
+    [
+     "Agrees / extends",
+     "Same position, with new support or a new example",
+     "similarly, I share, indeed, what is more"
+    ],
+    [
+     "Disagrees",
+     "Opposite position on the same question",
+     "but, however, the opposite is true, mistaken, I reject"
+    ],
+    [
+     "Qualifies",
+     "Accepts part of A's view, adds conditions or limits",
+     "this does not mean …, some … others, it depends on, only when"
+    ],
+    [
+     "Questions the evidence",
+     "Doubts HOW A supports the claim, not necessarily the claim itself",
+     "a single case, not typical, before you decide, measure"
+    ],
+    [
+     "Different focus",
+     "Same topic, but B discusses another side of it (causes vs. solutions, past vs. present)",
+     "a different question, another reason, what is often forgotten"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Five rules for the comparison questions"
+  },
+  {
+   "type": "p",
+   "text": "**Rule 1 — \"Both agree\" needs proof in both passages.** A choice that is true for one author only is the most common trap in the whole set."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "✓ \"Both authors think reading music is useful.\" — A builds her method on reading; B calls it \"a valuable tool.\"",
+    "✗ \"Both authors think children should start with notation.\" — Only A says this. B says the opposite."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Rule 2 — A response question is answered from the responding author's words.** If the stem asks how author B would respond, look for the place in B that discusses the same idea, then choose the answer that B's words support. Do not use your own opinion and do not use A's words."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "✓ B would answer A's \"students reach a wall\" with his own story: he learned to read later, in a few months.",
+    "✗ B would agree that students reach a wall. — This takes A's words as if B had said them."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Rule 3 — Find the exact point of disagreement.** Authors who disagree usually still agree on several things. The right answer names the narrow point they fight about, not the whole topic."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "✓ \"They disagree about the ORDER in which reading and playing by ear should be learned.\"",
+    "✗ \"They disagree about whether music lessons are important.\" — Too broad: both clearly think lessons matter."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Rule 4 — Keep each author's strength of language.** If B says \"some streets may lose trade,\" B does not say \"all car-free streets fail.\" A choice that makes an author more extreme than the text is wrong."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "✓ \"B would accept closing some streets under certain conditions.\"",
+    "✗ \"B believes that closing streets always harms shops.\" — Too extreme: B qualifies; he does not reject."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Rule 5 — \"Difference\" questions can be about HOW, not only WHAT.** The passages may differ in the kind of evidence (personal story vs. measurement), in tone (enthusiastic vs. cautious) or in purpose (proposing a plan vs. warning about one). Check both halves of every \"A does X, while B does Y\" choice: one true half is not enough."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "✓ \"A relies on a teacher's observation of her students, while B relies on his own experience as a learner.\"",
+    "✗ \"A relies on a survey of parents, while B relies on his own experience.\" — Half-right: the second half is true, the first is invented."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "Two short texts (shorter than real ACT passages, so we can focus on the method). Read them, then study each question and why every wrong choice fails."
+  },
+  {
+   "type": "p",
+   "text": "**Text 1** (a museum director): When our museum began opening its doors free of charge on the first Friday of every month, attendance on those evenings tripled. Families pushed prams through galleries that had been almost empty on ordinary weekday evenings. Free entry, I am convinced, is the surest way to bring a museum to people who have never visited one."
+  },
+  {
+   "type": "p",
+   "text": "**Text 2** (a researcher who studies museum visitors): Free-entry days are popular, but popularity is not the same as reaching new audiences. When visitors on free days are asked about their habits, many turn out to be regular museum-goers who have simply chosen the cheapest evening. A museum that wants people who have never visited may need to go further, for example by running events in neighbourhoods far from the city centre."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — how would author 2 respond?**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** The researcher in Text 2 would most likely respond to the director's final claim in Text 1 by:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) agreeing that free entry is the surest way to attract new visitors.",
+    "B) denying that attendance rose on free-entry evenings.",
+    "C) arguing that museums should charge more on ordinary evenings.",
+    "D) questioning whether the extra visitors were mainly people who had never visited before."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer: D.** Text 2 grants that free days are \"popular\" but says \"popularity is not the same as reaching new audiences,\" because many free-day visitors are regulars. The researcher challenges the director's conclusion, not his attendance figures."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**A is wrong** — Reversed: the researcher says a museum \"may need to go further.\"",
+    "**B is wrong** — Too extreme: Text 2 accepts that free days are popular; it questions WHO came, not how many.",
+    "**C is wrong** — Outside both texts: prices on ordinary evenings are never discussed."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — what both authors agree on**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Both authors would most likely agree that free-entry days:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) attract large numbers of visitors.",
+    "B) are the best way to reach new audiences.",
+    "C) should be replaced by events in distant neighbourhoods.",
+    "D) are attended mostly by regular museum-goers."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer: A.** Text 1: attendance \"tripled.\" Text 2: \"Free-entry days are popular.\" Popularity is the shared ground — proof in both texts."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**B is wrong** — Only the director believes this (true for one author only).",
+    "**C is wrong** — Too extreme even for the researcher, who says museums should go \"further,\" not that free days should end.",
+    "**D is wrong** — Only the researcher says this, and she says \"many,\" not \"mostly.\""
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — the relationship between the texts**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Which choice best describes how Text 2 relates to Text 1?"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) It offers further evidence for the conclusion reached in Text 1.",
+    "B) It accepts a fact reported in Text 1 but challenges the conclusion drawn from it.",
+    "C) It rejects every claim made in Text 1.",
+    "D) It discusses a problem that has no connection to Text 1."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B.** The fact (free days are busy) is accepted; the conclusion (free entry is the surest way to reach new people) is challenged. This is the classic \"qualify / question the evidence\" relationship."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**A is wrong** — Reversed: Text 2 weakens Text 1's conclusion; it does not support it.",
+    "**C is wrong** — Too extreme: the researcher agrees that free days are popular.",
+    "**D is wrong** — Off-topic: both texts discuss exactly the same free-entry days."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4 — a difference in evidence**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** A difference between the two texts is that Text 1 relies mainly on:"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) a survey of visitors, while Text 2 relies on attendance figures.",
+    "B) a long-term study of several museums, while Text 2 relies on one evening.",
+    "C) what the director observed at his own museum, while Text 2 relies on what visitors report about their habits.",
+    "D) expert opinion, while Text 2 relies on the history of museums."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C.** The director reports attendance (\"tripled\") and what he saw (families with prams). The researcher uses visitors' answers when \"asked about their habits.\" Both halves of C are true."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**A is wrong** — Reversed: the survey belongs to Text 2, the attendance figures to Text 1.",
+    "**B is wrong** — Invented: neither text describes a long-term study, and Text 2 is not about one evening.",
+    "**D is wrong** — Neither half fits: no expert is quoted in Text 1, and Text 2 says nothing about history."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**Right idea, wrong author.** A choice that is true for Passage A is offered in a Passage B question (or in a \"both\" question). Label every idea in your notes A or B.",
+    "**Assuming total disagreement.** Paired authors usually share some ground. If a choice says B \"rejects everything\" A says, check again.",
+    "**Making an author more extreme.** \"May,\" \"some\" and \"often\" in the passage cannot become \"always,\" \"all\" and \"never\" in the answer.",
+    "**Answering a response question from your own opinion.** The answer comes from the responding author's own words.",
+    "**Half-right comparisons.** In \"A does X, while B does Y\" choices, one false half makes the whole choice wrong.",
+    "**Too-broad disagreements.** The correct answer names the narrow point of conflict (order, method, evidence), not the whole topic."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Blurb first: who wrote each passage?",
+    "Read A → answer A questions → read B → answer B questions → answer \"both\" questions.",
+    "Before the \"both\" questions, write: A thinks … / B thinks … / Both accept …",
+    "Name the relationship: agrees, disagrees, qualifies, questions the evidence, different focus.",
+    "For every comparison choice, put one finger on the proof in A and one on the proof in B.",
+    "Aim for about 10 minutes for the whole set of 9 questions."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "أهم فخ في القطع المزدوجة",
+   "text": "أشهر فخ: اختيار صحيح بس لكاتب واحد بيتحط في سؤال «الاتنين متفقين على». لازم تلاقي الدليل في القطعة A وفي القطعة B. وكمان الكاتب التاني نادرًا ما بيرفض كل كلام الأول، غالبًا بيوافق على جزء ويحط شرط أو ترتيب مختلف. ولو السؤال «الكاتب B هيرد إزاي؟» جاوب من كلام B نفسه مش من رأيك."
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "A full paired-passage set: two passages of about 350 words each and 9 questions, as on the real test. It is untimed, but aim for about 10 minutes. Follow the method: Passage A questions (1–3), Passage B questions (4–5), then the comparison questions (6–9)."
+  },
+  {
+   "type": "test",
+   "title": "ACT Reading practice — Paired passages",
+   "timed": false,
+   "intro": "Passage A and Passage B, 9 questions, untimed. Read A and answer 1–3, read B and answer 4–5, then answer the questions about both passages (6–9).",
+   "sections": [
+    {
+     "name": "Passage 1",
+     "minutes": 10,
+     "questions": [
+      {
+       "p": "These passages discuss how children should begin learning a musical instrument. Passage A is adapted from an essay by a piano teacher. Passage B is adapted from an essay by a guitarist who teaches young musicians.\n\n**PASSAGE A**\n\n[1] When parents ask me how their child should begin learning the piano, I give an answer that sometimes disappoints them: begin with reading. Before a child plays a single complete song, I want her to know where middle C sits on the staff, how long a half note lasts, and what the two numbers at the start of a piece are telling her. Parents who imagine their child playing a familiar tune by the second week are often impatient with this.\n\n[2] I understand the impatience, but I have watched what happens to students who skip this stage. They learn a few pieces by copying a teacher's hands or a video, and for a year or two they seem to progress faster than my readers. Then they reach a wall. Every new piece must be shown to them note by note, because they cannot open a book and find out for themselves what the composer wrote. Many of them quit at exactly this point, not because they have lost interest in music but because learning has become slow and dependent.\n\n[3] Notation is, in this sense, a kind of independence. A student who reads can learn from any page of music written in the last three hundred years without waiting for someone to demonstrate it. She can play with an orchestra, accompany a choir, or try a piece that no one in her town has ever performed. Reading also makes practice more honest. A student working from the page can check whether a rhythm is correct instead of relying on a memory of how it sounded.\n\n[4] None of this means that listening is unimportant. My students sing, clap rhythms and listen to recordings in every lesson. But the ear, in my experience, develops naturally alongside reading, while reading rarely develops on its own once a student has become used to learning without it. If a skill is going to be built at all, it is easiest to build at the beginning.\n\n**PASSAGE B**\n\n[1] I did not see a page of written music until I was nineteen. By then I had been playing guitar in my uncle's wedding band for six years, learning every song by listening to it again and again until my fingers could find what my ears had heard. When I finally took a course in notation, I learned to read in a few months. It was useful, and I am glad I did it. But I am also certain that if I had started with it, I would have stopped playing long before I got anywhere.\n\n[2] Children come to music because they love the sound of it. A method that keeps them away from real songs for months, practising the names of lines and spaces, asks them to postpone that love for a reward they cannot yet imagine. Some children are patient enough to wait. Many are not, and they quietly leave before the reward arrives.\n\n[3] Learning by ear also trains something that reading cannot easily give: the ability to hear what is happening in music as it happens. A musician who learned by ear can join a group of strangers, listen for a few bars, and play along. She can notice when a singer has moved into a different key and follow. Many excellent readers, by contrast, are lost the moment the page is taken away from them.\n\n[4] I do not tell my students to avoid notation forever. Reading is a valuable tool, especially for anyone who wants to play in an orchestra or study classical music seriously. My argument is about order. Let a child first discover that she can make the music she loves; then give her the written page as a way to go further. The page is a better second step than a first one.",
+       "q": "In Passage A, the author mentions parents who \"imagine their child playing a familiar tune by the second week\" (paragraph 1) mainly to:",
+       "c": [
+        "acknowledge an expectation that her own approach does not meet.",
+        "argue that most children learn faster than their parents expect.",
+        "criticize parents for choosing the wrong kind of teacher.",
+        "show that children are more interested in songs than in lessons."
+       ],
+       "a": 0,
+       "e": "She admits her answer \"sometimes disappoints\" parents who want a tune quickly, because she starts with reading. B is reversed (her method is slower at first); C and D are claims she never makes.",
+       "s": "Passage A — function"
+      },
+      {
+       "p": "These passages discuss how children should begin learning a musical instrument. Passage A is adapted from an essay by a piano teacher. Passage B is adapted from an essay by a guitarist who teaches young musicians.\n\n**PASSAGE A**\n\n[1] When parents ask me how their child should begin learning the piano, I give an answer that sometimes disappoints them: begin with reading. Before a child plays a single complete song, I want her to know where middle C sits on the staff, how long a half note lasts, and what the two numbers at the start of a piece are telling her. Parents who imagine their child playing a familiar tune by the second week are often impatient with this.\n\n[2] I understand the impatience, but I have watched what happens to students who skip this stage. They learn a few pieces by copying a teacher's hands or a video, and for a year or two they seem to progress faster than my readers. Then they reach a wall. Every new piece must be shown to them note by note, because they cannot open a book and find out for themselves what the composer wrote. Many of them quit at exactly this point, not because they have lost interest in music but because learning has become slow and dependent.\n\n[3] Notation is, in this sense, a kind of independence. A student who reads can learn from any page of music written in the last three hundred years without waiting for someone to demonstrate it. She can play with an orchestra, accompany a choir, or try a piece that no one in her town has ever performed. Reading also makes practice more honest. A student working from the page can check whether a rhythm is correct instead of relying on a memory of how it sounded.\n\n[4] None of this means that listening is unimportant. My students sing, clap rhythms and listen to recordings in every lesson. But the ear, in my experience, develops naturally alongside reading, while reading rarely develops on its own once a student has become used to learning without it. If a skill is going to be built at all, it is easiest to build at the beginning.\n\n**PASSAGE B**\n\n[1] I did not see a page of written music until I was nineteen. By then I had been playing guitar in my uncle's wedding band for six years, learning every song by listening to it again and again until my fingers could find what my ears had heard. When I finally took a course in notation, I learned to read in a few months. It was useful, and I am glad I did it. But I am also certain that if I had started with it, I would have stopped playing long before I got anywhere.\n\n[2] Children come to music because they love the sound of it. A method that keeps them away from real songs for months, practising the names of lines and spaces, asks them to postpone that love for a reward they cannot yet imagine. Some children are patient enough to wait. Many are not, and they quietly leave before the reward arrives.\n\n[3] Learning by ear also trains something that reading cannot easily give: the ability to hear what is happening in music as it happens. A musician who learned by ear can join a group of strangers, listen for a few bars, and play along. She can notice when a singer has moved into a different key and follow. Many excellent readers, by contrast, are lost the moment the page is taken away from them.\n\n[4] I do not tell my students to avoid notation forever. Reading is a valuable tool, especially for anyone who wants to play in an orchestra or study classical music seriously. My argument is about order. Let a child first discover that she can make the music she loves; then give her the written page as a way to go further. The page is a better second step than a first one.",
+       "q": "According to Passage A, students who learn their first pieces by copying eventually struggle mainly because they:",
+       "c": [
+        "lose interest in music after a year or two.",
+        "cannot learn new pieces unless someone shows them each note.",
+        "spend less time practising than students who read.",
+        "are taught only modern music rather than older pieces."
+       ],
+       "a": 1,
+       "e": "Paragraph 2: \"Every new piece must be shown to them note by note.\" A is the reversed trap: they quit \"not because they have lost interest in music.\" C and D are never stated.",
+       "s": "Passage A — detail"
+      },
+      {
+       "p": "These passages discuss how children should begin learning a musical instrument. Passage A is adapted from an essay by a piano teacher. Passage B is adapted from an essay by a guitarist who teaches young musicians.\n\n**PASSAGE A**\n\n[1] When parents ask me how their child should begin learning the piano, I give an answer that sometimes disappoints them: begin with reading. Before a child plays a single complete song, I want her to know where middle C sits on the staff, how long a half note lasts, and what the two numbers at the start of a piece are telling her. Parents who imagine their child playing a familiar tune by the second week are often impatient with this.\n\n[2] I understand the impatience, but I have watched what happens to students who skip this stage. They learn a few pieces by copying a teacher's hands or a video, and for a year or two they seem to progress faster than my readers. Then they reach a wall. Every new piece must be shown to them note by note, because they cannot open a book and find out for themselves what the composer wrote. Many of them quit at exactly this point, not because they have lost interest in music but because learning has become slow and dependent.\n\n[3] Notation is, in this sense, a kind of independence. A student who reads can learn from any page of music written in the last three hundred years without waiting for someone to demonstrate it. She can play with an orchestra, accompany a choir, or try a piece that no one in her town has ever performed. Reading also makes practice more honest. A student working from the page can check whether a rhythm is correct instead of relying on a memory of how it sounded.\n\n[4] None of this means that listening is unimportant. My students sing, clap rhythms and listen to recordings in every lesson. But the ear, in my experience, develops naturally alongside reading, while reading rarely develops on its own once a student has become used to learning without it. If a skill is going to be built at all, it is easiest to build at the beginning.\n\n**PASSAGE B**\n\n[1] I did not see a page of written music until I was nineteen. By then I had been playing guitar in my uncle's wedding band for six years, learning every song by listening to it again and again until my fingers could find what my ears had heard. When I finally took a course in notation, I learned to read in a few months. It was useful, and I am glad I did it. But I am also certain that if I had started with it, I would have stopped playing long before I got anywhere.\n\n[2] Children come to music because they love the sound of it. A method that keeps them away from real songs for months, practising the names of lines and spaces, asks them to postpone that love for a reward they cannot yet imagine. Some children are patient enough to wait. Many are not, and they quietly leave before the reward arrives.\n\n[3] Learning by ear also trains something that reading cannot easily give: the ability to hear what is happening in music as it happens. A musician who learned by ear can join a group of strangers, listen for a few bars, and play along. She can notice when a singer has moved into a different key and follow. Many excellent readers, by contrast, are lost the moment the page is taken away from them.\n\n[4] I do not tell my students to avoid notation forever. Reading is a valuable tool, especially for anyone who wants to play in an orchestra or study classical music seriously. My argument is about order. Let a child first discover that she can make the music she loves; then give her the written page as a way to go further. The page is a better second step than a first one.",
+       "q": "The author of Passage A calls notation \"a kind of independence\" (paragraph 3) because reading allows a student to:",
+       "c": [
+        "perform in public without needing to practise.",
+        "choose her own teacher instead of following her parents' choice.",
+        "learn and check music herself instead of depending on someone to demonstrate it.",
+        "write her own music instead of playing other people's pieces."
+       ],
+       "a": 2,
+       "e": "A reader can learn \"without waiting for someone to demonstrate it\" and can \"check whether a rhythm is correct.\" A, B and D take the word \"independence\" in directions the passage never goes.",
+       "s": "Passage A — inference"
+      },
+      {
+       "p": "These passages discuss how children should begin learning a musical instrument. Passage A is adapted from an essay by a piano teacher. Passage B is adapted from an essay by a guitarist who teaches young musicians.\n\n**PASSAGE A**\n\n[1] When parents ask me how their child should begin learning the piano, I give an answer that sometimes disappoints them: begin with reading. Before a child plays a single complete song, I want her to know where middle C sits on the staff, how long a half note lasts, and what the two numbers at the start of a piece are telling her. Parents who imagine their child playing a familiar tune by the second week are often impatient with this.\n\n[2] I understand the impatience, but I have watched what happens to students who skip this stage. They learn a few pieces by copying a teacher's hands or a video, and for a year or two they seem to progress faster than my readers. Then they reach a wall. Every new piece must be shown to them note by note, because they cannot open a book and find out for themselves what the composer wrote. Many of them quit at exactly this point, not because they have lost interest in music but because learning has become slow and dependent.\n\n[3] Notation is, in this sense, a kind of independence. A student who reads can learn from any page of music written in the last three hundred years without waiting for someone to demonstrate it. She can play with an orchestra, accompany a choir, or try a piece that no one in her town has ever performed. Reading also makes practice more honest. A student working from the page can check whether a rhythm is correct instead of relying on a memory of how it sounded.\n\n[4] None of this means that listening is unimportant. My students sing, clap rhythms and listen to recordings in every lesson. But the ear, in my experience, develops naturally alongside reading, while reading rarely develops on its own once a student has become used to learning without it. If a skill is going to be built at all, it is easiest to build at the beginning.\n\n**PASSAGE B**\n\n[1] I did not see a page of written music until I was nineteen. By then I had been playing guitar in my uncle's wedding band for six years, learning every song by listening to it again and again until my fingers could find what my ears had heard. When I finally took a course in notation, I learned to read in a few months. It was useful, and I am glad I did it. But I am also certain that if I had started with it, I would have stopped playing long before I got anywhere.\n\n[2] Children come to music because they love the sound of it. A method that keeps them away from real songs for months, practising the names of lines and spaces, asks them to postpone that love for a reward they cannot yet imagine. Some children are patient enough to wait. Many are not, and they quietly leave before the reward arrives.\n\n[3] Learning by ear also trains something that reading cannot easily give: the ability to hear what is happening in music as it happens. A musician who learned by ear can join a group of strangers, listen for a few bars, and play along. She can notice when a singer has moved into a different key and follow. Many excellent readers, by contrast, are lost the moment the page is taken away from them.\n\n[4] I do not tell my students to avoid notation forever. Reading is a valuable tool, especially for anyone who wants to play in an orchestra or study classical music seriously. My argument is about order. Let a child first discover that she can make the music she loves; then give her the written page as a way to go further. The page is a better second step than a first one.",
+       "q": "In Passage B, the author's account of his own musical training (paragraph 1) mainly serves as evidence that:",
+       "c": [
+        "a musician who starts by ear can still learn to read music later.",
+        "wedding bands are the best place for young musicians to train.",
+        "reading music is too difficult for most adults to learn.",
+        "guitarists, unlike pianists, have no need to read music."
+       ],
+       "a": 0,
+       "e": "He played by ear for six years and then \"learned to read in a few months.\" B is too extreme (one example, not \"the best place\"); C is reversed (he learned quickly); D contradicts his statement that reading was \"useful.\"",
+       "s": "Passage B — evaluating evidence"
+      },
+      {
+       "p": "These passages discuss how children should begin learning a musical instrument. Passage A is adapted from an essay by a piano teacher. Passage B is adapted from an essay by a guitarist who teaches young musicians.\n\n**PASSAGE A**\n\n[1] When parents ask me how their child should begin learning the piano, I give an answer that sometimes disappoints them: begin with reading. Before a child plays a single complete song, I want her to know where middle C sits on the staff, how long a half note lasts, and what the two numbers at the start of a piece are telling her. Parents who imagine their child playing a familiar tune by the second week are often impatient with this.\n\n[2] I understand the impatience, but I have watched what happens to students who skip this stage. They learn a few pieces by copying a teacher's hands or a video, and for a year or two they seem to progress faster than my readers. Then they reach a wall. Every new piece must be shown to them note by note, because they cannot open a book and find out for themselves what the composer wrote. Many of them quit at exactly this point, not because they have lost interest in music but because learning has become slow and dependent.\n\n[3] Notation is, in this sense, a kind of independence. A student who reads can learn from any page of music written in the last three hundred years without waiting for someone to demonstrate it. She can play with an orchestra, accompany a choir, or try a piece that no one in her town has ever performed. Reading also makes practice more honest. A student working from the page can check whether a rhythm is correct instead of relying on a memory of how it sounded.\n\n[4] None of this means that listening is unimportant. My students sing, clap rhythms and listen to recordings in every lesson. But the ear, in my experience, develops naturally alongside reading, while reading rarely develops on its own once a student has become used to learning without it. If a skill is going to be built at all, it is easiest to build at the beginning.\n\n**PASSAGE B**\n\n[1] I did not see a page of written music until I was nineteen. By then I had been playing guitar in my uncle's wedding band for six years, learning every song by listening to it again and again until my fingers could find what my ears had heard. When I finally took a course in notation, I learned to read in a few months. It was useful, and I am glad I did it. But I am also certain that if I had started with it, I would have stopped playing long before I got anywhere.\n\n[2] Children come to music because they love the sound of it. A method that keeps them away from real songs for months, practising the names of lines and spaces, asks them to postpone that love for a reward they cannot yet imagine. Some children are patient enough to wait. Many are not, and they quietly leave before the reward arrives.\n\n[3] Learning by ear also trains something that reading cannot easily give: the ability to hear what is happening in music as it happens. A musician who learned by ear can join a group of strangers, listen for a few bars, and play along. She can notice when a singer has moved into a different key and follow. Many excellent readers, by contrast, are lost the moment the page is taken away from them.\n\n[4] I do not tell my students to avoid notation forever. Reading is a valuable tool, especially for anyone who wants to play in an orchestra or study classical music seriously. My argument is about order. Let a child first discover that she can make the music she loves; then give her the written page as a way to go further. The page is a better second step than a first one.",
+       "q": "According to Passage B, many children who begin with notation stop playing because:",
+       "c": [
+        "they find the guitar harder than the piano.",
+        "their teachers do not let them sing or listen to recordings.",
+        "they are embarrassed to play in front of strangers.",
+        "the method makes them wait too long before playing the music they love."
+       ],
+       "a": 3,
+       "e": "Paragraph 2: the method \"keeps them away from real songs for months\" and asks them \"to postpone that love\"; many \"leave before the reward arrives.\" A and C are invented; B describes nothing in Passage B (and Passage A's students do sing and listen).",
+       "s": "Passage B — detail"
+      },
+      {
+       "p": "These passages discuss how children should begin learning a musical instrument. Passage A is adapted from an essay by a piano teacher. Passage B is adapted from an essay by a guitarist who teaches young musicians.\n\n**PASSAGE A**\n\n[1] When parents ask me how their child should begin learning the piano, I give an answer that sometimes disappoints them: begin with reading. Before a child plays a single complete song, I want her to know where middle C sits on the staff, how long a half note lasts, and what the two numbers at the start of a piece are telling her. Parents who imagine their child playing a familiar tune by the second week are often impatient with this.\n\n[2] I understand the impatience, but I have watched what happens to students who skip this stage. They learn a few pieces by copying a teacher's hands or a video, and for a year or two they seem to progress faster than my readers. Then they reach a wall. Every new piece must be shown to them note by note, because they cannot open a book and find out for themselves what the composer wrote. Many of them quit at exactly this point, not because they have lost interest in music but because learning has become slow and dependent.\n\n[3] Notation is, in this sense, a kind of independence. A student who reads can learn from any page of music written in the last three hundred years without waiting for someone to demonstrate it. She can play with an orchestra, accompany a choir, or try a piece that no one in her town has ever performed. Reading also makes practice more honest. A student working from the page can check whether a rhythm is correct instead of relying on a memory of how it sounded.\n\n[4] None of this means that listening is unimportant. My students sing, clap rhythms and listen to recordings in every lesson. But the ear, in my experience, develops naturally alongside reading, while reading rarely develops on its own once a student has become used to learning without it. If a skill is going to be built at all, it is easiest to build at the beginning.\n\n**PASSAGE B**\n\n[1] I did not see a page of written music until I was nineteen. By then I had been playing guitar in my uncle's wedding band for six years, learning every song by listening to it again and again until my fingers could find what my ears had heard. When I finally took a course in notation, I learned to read in a few months. It was useful, and I am glad I did it. But I am also certain that if I had started with it, I would have stopped playing long before I got anywhere.\n\n[2] Children come to music because they love the sound of it. A method that keeps them away from real songs for months, practising the names of lines and spaces, asks them to postpone that love for a reward they cannot yet imagine. Some children are patient enough to wait. Many are not, and they quietly leave before the reward arrives.\n\n[3] Learning by ear also trains something that reading cannot easily give: the ability to hear what is happening in music as it happens. A musician who learned by ear can join a group of strangers, listen for a few bars, and play along. She can notice when a singer has moved into a different key and follow. Many excellent readers, by contrast, are lost the moment the page is taken away from them.\n\n[4] I do not tell my students to avoid notation forever. Reading is a valuable tool, especially for anyone who wants to play in an orchestra or study classical music seriously. My argument is about order. Let a child first discover that she can make the music she loves; then give her the written page as a way to go further. The page is a better second step than a first one.",
+       "q": "How would the author of Passage A most likely respond to the claim in Passage B that \"many excellent readers … are lost the moment the page is taken away from them\" (paragraph 3)?",
+       "c": [
+        "She would agree that reading weakens the ear and stop teaching notation first.",
+        "She would argue that this is why students should learn only by ear.",
+        "She would reply that her students train their ears alongside reading in every lesson.",
+        "She would reply that musicians never need to play without written music."
+       ],
+       "a": 2,
+       "e": "Passage A, paragraph 4: her students \"sing, clap rhythms and listen to recordings in every lesson,\" and \"the ear … develops naturally alongside reading.\" A and B reverse her position; D is too extreme and never stated.",
+       "s": "Comparing passages — response"
+      },
+      {
+       "p": "These passages discuss how children should begin learning a musical instrument. Passage A is adapted from an essay by a piano teacher. Passage B is adapted from an essay by a guitarist who teaches young musicians.\n\n**PASSAGE A**\n\n[1] When parents ask me how their child should begin learning the piano, I give an answer that sometimes disappoints them: begin with reading. Before a child plays a single complete song, I want her to know where middle C sits on the staff, how long a half note lasts, and what the two numbers at the start of a piece are telling her. Parents who imagine their child playing a familiar tune by the second week are often impatient with this.\n\n[2] I understand the impatience, but I have watched what happens to students who skip this stage. They learn a few pieces by copying a teacher's hands or a video, and for a year or two they seem to progress faster than my readers. Then they reach a wall. Every new piece must be shown to them note by note, because they cannot open a book and find out for themselves what the composer wrote. Many of them quit at exactly this point, not because they have lost interest in music but because learning has become slow and dependent.\n\n[3] Notation is, in this sense, a kind of independence. A student who reads can learn from any page of music written in the last three hundred years without waiting for someone to demonstrate it. She can play with an orchestra, accompany a choir, or try a piece that no one in her town has ever performed. Reading also makes practice more honest. A student working from the page can check whether a rhythm is correct instead of relying on a memory of how it sounded.\n\n[4] None of this means that listening is unimportant. My students sing, clap rhythms and listen to recordings in every lesson. But the ear, in my experience, develops naturally alongside reading, while reading rarely develops on its own once a student has become used to learning without it. If a skill is going to be built at all, it is easiest to build at the beginning.\n\n**PASSAGE B**\n\n[1] I did not see a page of written music until I was nineteen. By then I had been playing guitar in my uncle's wedding band for six years, learning every song by listening to it again and again until my fingers could find what my ears had heard. When I finally took a course in notation, I learned to read in a few months. It was useful, and I am glad I did it. But I am also certain that if I had started with it, I would have stopped playing long before I got anywhere.\n\n[2] Children come to music because they love the sound of it. A method that keeps them away from real songs for months, practising the names of lines and spaces, asks them to postpone that love for a reward they cannot yet imagine. Some children are patient enough to wait. Many are not, and they quietly leave before the reward arrives.\n\n[3] Learning by ear also trains something that reading cannot easily give: the ability to hear what is happening in music as it happens. A musician who learned by ear can join a group of strangers, listen for a few bars, and play along. She can notice when a singer has moved into a different key and follow. Many excellent readers, by contrast, are lost the moment the page is taken away from them.\n\n[4] I do not tell my students to avoid notation forever. Reading is a valuable tool, especially for anyone who wants to play in an orchestra or study classical music seriously. My argument is about order. Let a child first discover that she can make the music she loves; then give her the written page as a way to go further. The page is a better second step than a first one.",
+       "q": "Both authors would most likely agree that:",
+       "c": [
+        "children should never be taught to read music.",
+        "listening has no place in a beginner's first lessons.",
+        "learning by ear is the main reason students give up music.",
+        "reading music is a valuable skill for a musician to have."
+       ],
+       "a": 3,
+       "e": "Passage A builds her whole method on reading; Passage B calls reading \"a valuable tool\" and was \"glad\" he learned it. A contradicts both; B contradicts both (A's students sing and listen); C is only Passage A's view, and only partly.",
+       "s": "Comparing passages — agreement"
+      },
+      {
+       "p": "These passages discuss how children should begin learning a musical instrument. Passage A is adapted from an essay by a piano teacher. Passage B is adapted from an essay by a guitarist who teaches young musicians.\n\n**PASSAGE A**\n\n[1] When parents ask me how their child should begin learning the piano, I give an answer that sometimes disappoints them: begin with reading. Before a child plays a single complete song, I want her to know where middle C sits on the staff, how long a half note lasts, and what the two numbers at the start of a piece are telling her. Parents who imagine their child playing a familiar tune by the second week are often impatient with this.\n\n[2] I understand the impatience, but I have watched what happens to students who skip this stage. They learn a few pieces by copying a teacher's hands or a video, and for a year or two they seem to progress faster than my readers. Then they reach a wall. Every new piece must be shown to them note by note, because they cannot open a book and find out for themselves what the composer wrote. Many of them quit at exactly this point, not because they have lost interest in music but because learning has become slow and dependent.\n\n[3] Notation is, in this sense, a kind of independence. A student who reads can learn from any page of music written in the last three hundred years without waiting for someone to demonstrate it. She can play with an orchestra, accompany a choir, or try a piece that no one in her town has ever performed. Reading also makes practice more honest. A student working from the page can check whether a rhythm is correct instead of relying on a memory of how it sounded.\n\n[4] None of this means that listening is unimportant. My students sing, clap rhythms and listen to recordings in every lesson. But the ear, in my experience, develops naturally alongside reading, while reading rarely develops on its own once a student has become used to learning without it. If a skill is going to be built at all, it is easiest to build at the beginning.\n\n**PASSAGE B**\n\n[1] I did not see a page of written music until I was nineteen. By then I had been playing guitar in my uncle's wedding band for six years, learning every song by listening to it again and again until my fingers could find what my ears had heard. When I finally took a course in notation, I learned to read in a few months. It was useful, and I am glad I did it. But I am also certain that if I had started with it, I would have stopped playing long before I got anywhere.\n\n[2] Children come to music because they love the sound of it. A method that keeps them away from real songs for months, practising the names of lines and spaces, asks them to postpone that love for a reward they cannot yet imagine. Some children are patient enough to wait. Many are not, and they quietly leave before the reward arrives.\n\n[3] Learning by ear also trains something that reading cannot easily give: the ability to hear what is happening in music as it happens. A musician who learned by ear can join a group of strangers, listen for a few bars, and play along. She can notice when a singer has moved into a different key and follow. Many excellent readers, by contrast, are lost the moment the page is taken away from them.\n\n[4] I do not tell my students to avoid notation forever. Reading is a valuable tool, especially for anyone who wants to play in an orchestra or study classical music seriously. My argument is about order. Let a child first discover that she can make the music she loves; then give her the written page as a way to go further. The page is a better second step than a first one.",
+       "q": "How would the author of Passage B most likely respond to the claim in Passage A that students who learn by copying \"reach a wall\" (paragraph 2)?",
+       "c": [
+        "He would agree and say ear-trained students should switch to reading within their first month.",
+        "He would point out that a student who starts by ear can still learn notation later, as he did.",
+        "He would deny that any musician who learns by ear ever learns to read music.",
+        "He would say that only pianists, and never guitarists, reach such a wall."
+       ],
+       "a": 1,
+       "e": "His own story is the answer to the \"wall\": he read by ear for six years, then \"learned to read in a few months.\" A contradicts his idea that reading is the \"second step\" after a child discovers the music she loves; C contradicts his own experience; D is never discussed.",
+       "s": "Comparing passages — response"
+      },
+      {
+       "p": "These passages discuss how children should begin learning a musical instrument. Passage A is adapted from an essay by a piano teacher. Passage B is adapted from an essay by a guitarist who teaches young musicians.\n\n**PASSAGE A**\n\n[1] When parents ask me how their child should begin learning the piano, I give an answer that sometimes disappoints them: begin with reading. Before a child plays a single complete song, I want her to know where middle C sits on the staff, how long a half note lasts, and what the two numbers at the start of a piece are telling her. Parents who imagine their child playing a familiar tune by the second week are often impatient with this.\n\n[2] I understand the impatience, but I have watched what happens to students who skip this stage. They learn a few pieces by copying a teacher's hands or a video, and for a year or two they seem to progress faster than my readers. Then they reach a wall. Every new piece must be shown to them note by note, because they cannot open a book and find out for themselves what the composer wrote. Many of them quit at exactly this point, not because they have lost interest in music but because learning has become slow and dependent.\n\n[3] Notation is, in this sense, a kind of independence. A student who reads can learn from any page of music written in the last three hundred years without waiting for someone to demonstrate it. She can play with an orchestra, accompany a choir, or try a piece that no one in her town has ever performed. Reading also makes practice more honest. A student working from the page can check whether a rhythm is correct instead of relying on a memory of how it sounded.\n\n[4] None of this means that listening is unimportant. My students sing, clap rhythms and listen to recordings in every lesson. But the ear, in my experience, develops naturally alongside reading, while reading rarely develops on its own once a student has become used to learning without it. If a skill is going to be built at all, it is easiest to build at the beginning.\n\n**PASSAGE B**\n\n[1] I did not see a page of written music until I was nineteen. By then I had been playing guitar in my uncle's wedding band for six years, learning every song by listening to it again and again until my fingers could find what my ears had heard. When I finally took a course in notation, I learned to read in a few months. It was useful, and I am glad I did it. But I am also certain that if I had started with it, I would have stopped playing long before I got anywhere.\n\n[2] Children come to music because they love the sound of it. A method that keeps them away from real songs for months, practising the names of lines and spaces, asks them to postpone that love for a reward they cannot yet imagine. Some children are patient enough to wait. Many are not, and they quietly leave before the reward arrives.\n\n[3] Learning by ear also trains something that reading cannot easily give: the ability to hear what is happening in music as it happens. A musician who learned by ear can join a group of strangers, listen for a few bars, and play along. She can notice when a singer has moved into a different key and follow. Many excellent readers, by contrast, are lost the moment the page is taken away from them.\n\n[4] I do not tell my students to avoid notation forever. Reading is a valuable tool, especially for anyone who wants to play in an orchestra or study classical music seriously. My argument is about order. Let a child first discover that she can make the music she loves; then give her the written page as a way to go further. The page is a better second step than a first one.",
+       "q": "The main disagreement between the two authors concerns:",
+       "c": [
+        "whether listening is important for young musicians.",
+        "whether musicians should ever learn to read music.",
+        "whether children enjoy learning an instrument.",
+        "the order in which children should learn reading and playing by ear."
+       ],
+       "a": 3,
+       "e": "Passage A: \"begin with reading.\" Passage B: \"My argument is about order … The page is a better second step than a first one.\" A and B are points both authors accept (both value listening and reading); C is not debated.",
+       "s": "Comparing passages — disagreement"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Every ACT form has either a paired-passage set or a passage with charts or graphs; the set has 9 questions.",
+    "Order: Passage A questions → Passage B questions → questions on both.",
+    "Name the relationship before you answer: agrees, disagrees, qualifies, questions the evidence, different focus.",
+    "\"Both agree\" = proof in both passages; \"B would respond\" = proof in B's own words.",
+    "Keep each author's exact strength of language: \"some\" never becomes \"all.\""
+   ]
+  }
+ ]
+}

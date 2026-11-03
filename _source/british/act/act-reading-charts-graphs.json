@@ -1,0 +1,536 @@
+{
+ "slug": "act-reading-charts-graphs",
+ "nav": "Charts and Graphs",
+ "title": "Passages with Charts, Tables and Graphs",
+ "kicker": "American Diploma · ACT · Reading: Integration of Knowledge and Ideas",
+ "summary": "How to read a table, chart or graph fast on ACT Reading, match the passage's claims to the data, and answer questions that combine the text with the visual without over-reading the numbers.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Some ACT Reading passages come with a **table, chart or graph**. Every ACT form has **either a passage with charts or graphs or a paired-passage set**, so you must be ready for both. The questions about the visual belong to **Integration of Knowledge and Ideas**, which is **19–26% of the scored ACT Reading questions**. The passage still has 9 questions: several ask about the text alone, and the rest ask you to read the visual or to **combine the visual with the text**."
+  },
+  {
+   "type": "p",
+   "text": "This is not a maths test. The arithmetic is simple (a difference, a comparison, sometimes a percentage). What the questions really test is **careful reading**: the right row, the right column, the right unit, and a conclusion that does not go further than the data."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Question kind",
+    "What it asks",
+    "Typical stems (in our own words)"
+   ],
+   "rows": [
+    [
+     "Read the visual",
+     "Find or compare values",
+     "\"According to the table, which … had the highest …?\" / \"By how many … did X exceed Y?\""
+    ],
+    [
+     "Visual → text",
+     "Which statement in the passage the data support",
+     "\"The data in the table most directly support which statement from the passage?\""
+    ],
+    [
+     "Text → visual",
+     "Which part of the data matches something the passage describes",
+     "\"Which pattern in the graph is most consistent with the author's claim in paragraph 3?\""
+    ],
+    [
+     "Apply / predict",
+     "Use the passage's rule and the data on a new case",
+     "\"Suppose that … Based on the passage, the value would most likely be:\""
+    ],
+    [
+     "Limits of data",
+     "What the data cannot show",
+     "\"The fact that the data come from one season most directly suggests that:\""
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Step 1: Read the visual fast (20 seconds)"
+  },
+  {
+   "type": "p",
+   "text": "Do not study every number before the questions. Read the **frame** of the visual, so that you know where things are. The questions will tell you which numbers you need."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "**Title:** what is measured, where and when (\"one week in June,\" \"one nesting season\"). The time and place limit every conclusion.",
+    "**Column headings (table) or axis labels (graph):** what each number means.",
+    "**Units:** °C, %, millions, per hour, per 1,000 people. Most data mistakes are unit mistakes.",
+    "**One quick pattern:** as one column goes up, what does another do? Which row is the highest or lowest? Say it in five words: \"hotter → more females, fewer hatch.\"",
+    "**Link to the text:** which paragraph explains the visual? Usually the paragraph that describes the method or says \"the table shows.\""
+   ]
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Visual",
+    "Read first",
+    "Watch out for"
+   ],
+   "rows": [
+    [
+     "Table",
+     "Title, column headings, units in brackets",
+     "Reading across the wrong row; using the wrong column"
+    ],
+    [
+     "Bar chart",
+     "Axis label and scale; the legend if there are two colours",
+     "Bars that start above zero look more different than they are"
+    ],
+    [
+     "Line graph",
+     "What is on the horizontal axis (usually time) and the vertical axis",
+     "A rise followed by a fall is not a \"steady increase\""
+    ],
+    [
+     "Scatter plot",
+     "Both axes; the general direction of the dots",
+     "A trend (correlation) is not proof that one thing causes the other"
+    ]
+   ]
+  },
+  {
+   "type": "vocab",
+   "items": [
+    [
+     "increase / rise / grow",
+     "the value goes up"
+    ],
+    [
+     "decrease / fall / decline / drop",
+     "the value goes down"
+    ],
+    [
+     "peak",
+     "the highest point before a fall"
+    ],
+    [
+     "remain stable / level off",
+     "the value stays about the same"
+    ],
+    [
+     "trend",
+     "the general direction of the data over time or across rows"
+    ],
+    [
+     "exceed",
+     "be greater than (\"52 exceeds 27 by 25\")"
+    ],
+    [
+     "percentage points",
+     "the simple difference between two percentages (96% − 57% = 39 percentage points)"
+    ],
+    [
+     "correlation",
+     "two things change together; it does NOT prove that one causes the other"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "اقرا الجدول صح",
+   "text": "قبل ما تبص على الأرقام اقرا العنوان، وعناوين الأعمدة، والوحدة (درجة مئوية؟ نسبة مئوية؟ مليون؟). أغلب الغلط في أسئلة الجداول بيكون عمود غلط أو صف غلط أو وحدة غلط. حط صباعك على الخانة بالظبط قبل ما تحسب."
+  },
+  {
+   "type": "h2",
+   "text": "Step 2: Match claims to data"
+  },
+  {
+   "type": "p",
+   "text": "The most important question type here asks which statement the data **support**. A statement is supported only if the visual actually contains numbers that show it. Use these rules."
+  },
+  {
+   "type": "p",
+   "text": "**Rule 1 — The data must show the claim, not just be about the same topic.**"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "✓ Table: surface temperatures from 27 to 52 °C, air temperatures from 31 to 37 °C. Claim: \"The surfaces differed far more than the air above them.\" — The numbers show it.",
+    "✗ Claim: \"Dark surfaces release stored heat slowly.\" — Same topic, but one 2 p.m. reading cannot show how fast heat is released."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Rule 2 — Data show WHAT happened, not WHY.** An explanation (a cause, a mechanism) or a recommendation (\"the school should plant trees\") is never shown by numbers alone."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "✓ \"The shaded lawn was the coolest surface measured.\"",
+    "✗ \"Trees cool the ground by evaporating water.\" — A mechanism the table does not measure."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Rule 3 — Check both halves.** When a choice combines the text and the data, the statement must be in the passage AND the numbers must agree with it."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "✓ \"As the passage says, warmer nests produced more females: 96% at 31.6 °C vs 57% at 29.3 °C.\"",
+    "✗ \"As the passage says, warmer nests produced more males.\" — The numbers are real, but the claim is reversed."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Rule 4 — Do not go beyond the data.** One week, one place, one group or one season cannot prove \"always,\" \"everywhere\" or \"in every season.\""
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "✓ \"In that week in June, the asphalt was the hottest surface measured.\"",
+    "✗ \"Asphalt is the hottest surface in every season and at every hour.\" — Too extreme for one week at 2 p.m."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Rule 5 — Numbers and percentages are different.** A bigger number can be a smaller share, and a \"percentage-point\" difference is a simple subtraction of two percentages. Calculate on paper; do not guess."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "✓ 270 of 1,800 visitors = 15%; 120 of 600 visitors = 20%. The first group is larger, but its share is smaller.",
+    "✗ \"Because 270 is more than 120, first-time visitors made up a larger share on the free day.\""
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "Short excerpt (shorter than a real ACT passage): A school science club measured four surfaces in its schoolyard at 2 p.m. every day for one week in June, using an infrared thermometer for the surface and an ordinary thermometer held 1.5 metres above the ground for the air. The club noted that the surfaces differed enormously but the air above them differed much less, because moving air mixes heat from many places. The shaded lawn was the coolest place both at ground level and at head height, and the club now argues that the school should plant more trees near the car park."
+  },
+  {
+   "type": "p",
+   "text": "Average temperatures at 2 p.m. (one week in June)\nSurface | Surface temperature (°C) | Air temperature at 1.5 m (°C)\nBlack asphalt, full sun | 52 | 37\nLight concrete, full sun | 41 | 36\nLawn, full sun | 33 | 34\nLawn, shaded by trees | 27 | 31"
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1 — reading the right column**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** According to the table, by how many degrees did the average surface temperature of the black asphalt exceed that of the shaded lawn?"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) 6 °C",
+    "B) 11 °C",
+    "C) 19 °C",
+    "D) 25 °C"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer: D.** Surface column: 52 − 27 = 25."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**A is wrong** — Wrong column: 37 − 31 = 6 is the difference in AIR temperature.",
+    "**B is wrong** — Wrong row: 52 − 41 = 11 compares asphalt with concrete.",
+    "**C is wrong** — Wrong row: 52 − 33 = 19 compares asphalt with the sunny lawn."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2 — which statement do the data support?**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** The data in the table most directly support which statement from the excerpt?"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) The surfaces differed enormously, but the air above them differed much less.",
+    "B) Moving air mixes heat from many places.",
+    "C) The school should plant more trees near the car park.",
+    "D) The club used an infrared thermometer to measure the surfaces."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer: A.** Surface temperatures range over 25 degrees (27–52); air temperatures range over only 6 (31–37). The numbers show exactly this claim."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**B is wrong** — An explanation (WHY the air differs less). The table shows the difference, not its cause — Rule 2.",
+    "**C is wrong** — A recommendation. Data cannot by themselves show what anyone should do.",
+    "**D is wrong** — True, but it is about the method; the numbers in the table do not show which instrument was used."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3 — a fact from the visual**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Based on the table, which surfaces had a surface temperature LOWER than the air temperature 1.5 metres above them?"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) Black asphalt only",
+    "B) Light concrete only",
+    "C) Both lawns",
+    "D) None of the four surfaces"
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer: C.** Sunny lawn: 33 < 34. Shaded lawn: 27 < 31. Both lawns were cooler than the air above them."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**A is wrong** — Reversed: asphalt was much hotter than the air (52 > 37).",
+    "**B is wrong** — Reversed: concrete was hotter than the air (41 > 36).",
+    "**D is wrong** — Contradicted by the two lawn rows."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4 — the limits of the data**"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** The club's teacher points out that all the measurements were taken in one schoolyard, at one time of day, during a single week in June. This limitation most directly weakens which claim?"
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "A) At 2 p.m. in that week, the shaded lawn was cooler than the asphalt.",
+    "B) The black asphalt was the hottest surface the club measured.",
+    "C) The club measured the air 1.5 metres above the ground.",
+    "D) The same pattern of differences would be found in every season and at every hour."
+   ]
+  },
+  {
+   "type": "p",
+   "text": "**Answer: D.** One week, one place and one hour cannot show what happens in winter or at night. Only D goes beyond what was measured (Rule 4)."
+  },
+  {
+   "type": "list",
+   "ordered": false,
+   "items": [
+    "**A is wrong** — This is exactly what was measured, so the limitation does not weaken it.",
+    "**B is wrong** — Also exactly what was measured.",
+    "**C is wrong** — A description of the method, not a conclusion."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**Wrong column.** The choice uses a real number from the table, but from the column next to the one asked about.",
+    "**Wrong row.** The right column, but a neighbouring row. Put a finger on the row name every time.",
+    "**Units.** Degrees vs percentages, thousands vs millions, per day vs per week.",
+    "**Numbers vs shares.** A larger number can be a smaller percentage of the total.",
+    "**Explanation or recommendation dressed as data.** \"Because …\" and \"should …\" are never shown by numbers alone.",
+    "**Over-reaching.** One season, one place or one group cannot prove \"always\" or \"everywhere.\"",
+    "**Reversed trend.** Read the direction carefully: as X rises, does Y rise or fall?"
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Before the questions: title → headings → units → one-sentence pattern (20 seconds).",
+    "Pure table questions are fast points: do them early.",
+    "For each number question, write the subtraction or division on paper.",
+    "For \"support\" questions, ask: do the numbers SHOW this, or is it only on the same topic?",
+    "For \"limit\" questions, look for the choice that goes beyond the time, place or group measured.",
+    "Keep to about 10 minutes for the passage and its 9 questions."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "الأرقام بتقول «إيه» مش «ليه»",
+   "text": "الجدول بيوريك اللي حصل بس، مش سبب اللي حصل، ومش لازم نعمل إيه. فلو الاختيار فيه «because» أو «should» غالبًا الجدول لوحده مش بيثبته. وكمان خلي بالك: بيانات أسبوع واحد أو مكان واحد متثبتش «دايمًا» أو «في كل مكان»."
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "A natural-science passage of about 650 words with a data table and 9 questions, as on the real test. It is untimed, but aim for about 10 minutes. Read the table's title, headings and units before you answer."
+  },
+  {
+   "type": "test",
+   "title": "ACT Reading practice — Passage with a table",
+   "timed": false,
+   "intro": "One natural-science passage with a table, 9 questions, untimed. Read the frame of the table first: title, headings, units.",
+   "sections": [
+    {
+     "name": "Passage 1",
+     "minutes": 10,
+     "questions": [
+      {
+       "p": "NATURAL SCIENCE: This passage is adapted from an article about a sea-turtle conservation project.\n\n[1] On a warm night in late summer, a small crowd of volunteers kneels on the sand behind a rope, watching a shallow hollow in the beach begin to move. Within minutes, dozens of hatchlings no longer than a thumb have pushed their way out and are scrambling toward the line of white foam. For the volunteers, who have guarded this nest for almost two months, it is the moment all the work was for. For the scientists who lead the project, it is also a moment to collect data, because what happened inside that nest—and especially how warm it was—decided not only how many turtles hatched but also whether they are male or female.\n\n[2] In many reptiles, including all species of sea turtle, the sex of an embryo is not fixed by its genes at the moment the egg is laid. Instead, it is set by the temperature of the sand during the middle part of incubation. Warmer nests produce mostly females; cooler nests produce mostly males. Between the two lies a narrow range in which both sexes hatch in similar numbers. For the population on this beach, the scientists estimate that range to be close to 29°C.\n\n[3] This system served sea turtles well for millions of years, but it leaves them unusually sensitive to rising temperatures. A rise of only one or two degrees can shift a beach from producing a mix of males and females to producing almost nothing but females. Nests that grow hotter still face a second danger: above a certain point, many embryos fail to develop at all. A population can survive for some time with more females than males, because one male may father the young of several females. But if almost no males hatch for many years in a row, the number of breeding adults will eventually fall. For this reason, researchers have begun to ask a practical question: can people protect the balance on a nesting beach by changing how warm the nests become?\n\n[4] To find out how much shade could help, the project's scientists compared four kinds of nest during one nesting season. Some eggs were left where the mother turtle had laid them, either on open sand in full sun or under the scattered shade of palm trees at the top of the beach. Others were moved soon after laying to a fenced hatchery, where some nests were left uncovered and others were placed beneath a cloth that blocks about half of the sunlight. A small electronic logger buried among the eggs recorded the temperature in every nest every hour. After hatching, the team counted the empty shells to calculate hatching success and examined a sample of hatchlings from each nest type to estimate the share that were female.\n\n[5] The results are summarized in the table. They confirm the basic pattern, but the scientists point out that they also raise practical questions. Moving eggs carries its own risks, and a hatchery needs daily work by trained volunteers. Shading every nest heavily could also go too far: if the beach began to produce mainly males, the population would face the opposite problem. The goal, as the project's director puts it, is \"not to cool the beach, but to keep it in balance.\"\n\n[6] The director is careful, too, about what a single season can show. Sand temperatures change from year to year with the weather, and the team has only one year of hatchery data so far. The scientists plan to repeat the comparison for at least three more seasons before recommending any change to the way the beach is managed.\n\nResults for one nesting season\nNest type | Average nest temperature (°C) | Hatching success (%) | Female hatchlings (%)\nOpen sand, full sun | 31.6 | 68 | 96\nUnder palm trees | 30.1 | 79 | 74\nHatchery, no cover | 31.2 | 71 | 93\nHatchery, shade cloth | 29.3 | 83 | 57",
+       "q": "According to the table, which nest type had the highest hatching success?",
+       "c": [
+        "Open sand, full sun",
+        "Under palm trees",
+        "Hatchery, no cover",
+        "Hatchery, shade cloth"
+       ],
+       "a": 3,
+       "e": "Hatching success column: 68, 79, 71, 83. The shade-cloth nests (83%) are highest. Open sand has the highest FEMALE share and the highest temperature — the wrong-column trap.",
+       "s": "Reading a table"
+      },
+      {
+       "p": "NATURAL SCIENCE: This passage is adapted from an article about a sea-turtle conservation project.\n\n[1] On a warm night in late summer, a small crowd of volunteers kneels on the sand behind a rope, watching a shallow hollow in the beach begin to move. Within minutes, dozens of hatchlings no longer than a thumb have pushed their way out and are scrambling toward the line of white foam. For the volunteers, who have guarded this nest for almost two months, it is the moment all the work was for. For the scientists who lead the project, it is also a moment to collect data, because what happened inside that nest—and especially how warm it was—decided not only how many turtles hatched but also whether they are male or female.\n\n[2] In many reptiles, including all species of sea turtle, the sex of an embryo is not fixed by its genes at the moment the egg is laid. Instead, it is set by the temperature of the sand during the middle part of incubation. Warmer nests produce mostly females; cooler nests produce mostly males. Between the two lies a narrow range in which both sexes hatch in similar numbers. For the population on this beach, the scientists estimate that range to be close to 29°C.\n\n[3] This system served sea turtles well for millions of years, but it leaves them unusually sensitive to rising temperatures. A rise of only one or two degrees can shift a beach from producing a mix of males and females to producing almost nothing but females. Nests that grow hotter still face a second danger: above a certain point, many embryos fail to develop at all. A population can survive for some time with more females than males, because one male may father the young of several females. But if almost no males hatch for many years in a row, the number of breeding adults will eventually fall. For this reason, researchers have begun to ask a practical question: can people protect the balance on a nesting beach by changing how warm the nests become?\n\n[4] To find out how much shade could help, the project's scientists compared four kinds of nest during one nesting season. Some eggs were left where the mother turtle had laid them, either on open sand in full sun or under the scattered shade of palm trees at the top of the beach. Others were moved soon after laying to a fenced hatchery, where some nests were left uncovered and others were placed beneath a cloth that blocks about half of the sunlight. A small electronic logger buried among the eggs recorded the temperature in every nest every hour. After hatching, the team counted the empty shells to calculate hatching success and examined a sample of hatchlings from each nest type to estimate the share that were female.\n\n[5] The results are summarized in the table. They confirm the basic pattern, but the scientists point out that they also raise practical questions. Moving eggs carries its own risks, and a hatchery needs daily work by trained volunteers. Shading every nest heavily could also go too far: if the beach began to produce mainly males, the population would face the opposite problem. The goal, as the project's director puts it, is \"not to cool the beach, but to keep it in balance.\"\n\n[6] The director is careful, too, about what a single season can show. Sand temperatures change from year to year with the weather, and the team has only one year of hatchery data so far. The scientists plan to repeat the comparison for at least three more seasons before recommending any change to the way the beach is managed.\n\nResults for one nesting season\nNest type | Average nest temperature (°C) | Hatching success (%) | Female hatchlings (%)\nOpen sand, full sun | 31.6 | 68 | 96\nUnder palm trees | 30.1 | 79 | 74\nHatchery, no cover | 31.2 | 71 | 93\nHatchery, shade cloth | 29.3 | 83 | 57",
+       "q": "According to the table, by how many percentage points did the share of female hatchlings in open-sand nests exceed the share in shade-cloth nests?",
+       "c": [
+        "2.3",
+        "15",
+        "39",
+        "22"
+       ],
+       "a": 2,
+       "e": "Female hatchlings: 96 − 57 = 39. 2.3 is the temperature difference (31.6 − 29.3), the wrong-column trap; 15 is the difference in hatching success (83 − 68); 22 compares open sand with the palm-tree nests (96 − 74), the wrong-row trap.",
+       "s": "Reading a table"
+      },
+      {
+       "p": "NATURAL SCIENCE: This passage is adapted from an article about a sea-turtle conservation project.\n\n[1] On a warm night in late summer, a small crowd of volunteers kneels on the sand behind a rope, watching a shallow hollow in the beach begin to move. Within minutes, dozens of hatchlings no longer than a thumb have pushed their way out and are scrambling toward the line of white foam. For the volunteers, who have guarded this nest for almost two months, it is the moment all the work was for. For the scientists who lead the project, it is also a moment to collect data, because what happened inside that nest—and especially how warm it was—decided not only how many turtles hatched but also whether they are male or female.\n\n[2] In many reptiles, including all species of sea turtle, the sex of an embryo is not fixed by its genes at the moment the egg is laid. Instead, it is set by the temperature of the sand during the middle part of incubation. Warmer nests produce mostly females; cooler nests produce mostly males. Between the two lies a narrow range in which both sexes hatch in similar numbers. For the population on this beach, the scientists estimate that range to be close to 29°C.\n\n[3] This system served sea turtles well for millions of years, but it leaves them unusually sensitive to rising temperatures. A rise of only one or two degrees can shift a beach from producing a mix of males and females to producing almost nothing but females. Nests that grow hotter still face a second danger: above a certain point, many embryos fail to develop at all. A population can survive for some time with more females than males, because one male may father the young of several females. But if almost no males hatch for many years in a row, the number of breeding adults will eventually fall. For this reason, researchers have begun to ask a practical question: can people protect the balance on a nesting beach by changing how warm the nests become?\n\n[4] To find out how much shade could help, the project's scientists compared four kinds of nest during one nesting season. Some eggs were left where the mother turtle had laid them, either on open sand in full sun or under the scattered shade of palm trees at the top of the beach. Others were moved soon after laying to a fenced hatchery, where some nests were left uncovered and others were placed beneath a cloth that blocks about half of the sunlight. A small electronic logger buried among the eggs recorded the temperature in every nest every hour. After hatching, the team counted the empty shells to calculate hatching success and examined a sample of hatchlings from each nest type to estimate the share that were female.\n\n[5] The results are summarized in the table. They confirm the basic pattern, but the scientists point out that they also raise practical questions. Moving eggs carries its own risks, and a hatchery needs daily work by trained volunteers. Shading every nest heavily could also go too far: if the beach began to produce mainly males, the population would face the opposite problem. The goal, as the project's director puts it, is \"not to cool the beach, but to keep it in balance.\"\n\n[6] The director is careful, too, about what a single season can show. Sand temperatures change from year to year with the weather, and the team has only one year of hatchery data so far. The scientists plan to repeat the comparison for at least three more seasons before recommending any change to the way the beach is managed.\n\nResults for one nesting season\nNest type | Average nest temperature (°C) | Hatching success (%) | Female hatchlings (%)\nOpen sand, full sun | 31.6 | 68 | 96\nUnder palm trees | 30.1 | 79 | 74\nHatchery, no cover | 31.2 | 71 | 93\nHatchery, shade cloth | 29.3 | 83 | 57",
+       "q": "The data in the table most directly support which statement from the passage?",
+       "c": [
+        "\"Warmer nests produce mostly females; cooler nests produce mostly males.\"",
+        "\"Moving eggs carries its own risks.\"",
+        "\"The sex of an embryo is not fixed by its genes at the moment the egg is laid.\"",
+        "\"A hatchery needs daily work by trained volunteers.\""
+       ],
+       "a": 0,
+       "e": "The warmest nests (31.6°C, 31.2°C) have 96% and 93% females; the coolest (29.3°C) has 57%. The table shows the temperature–sex pattern. B and D are practical points with no numbers in the table; C is about the mechanism (genes), which temperature and percentage data cannot show.",
+       "s": "Integrating text and data"
+      },
+      {
+       "p": "NATURAL SCIENCE: This passage is adapted from an article about a sea-turtle conservation project.\n\n[1] On a warm night in late summer, a small crowd of volunteers kneels on the sand behind a rope, watching a shallow hollow in the beach begin to move. Within minutes, dozens of hatchlings no longer than a thumb have pushed their way out and are scrambling toward the line of white foam. For the volunteers, who have guarded this nest for almost two months, it is the moment all the work was for. For the scientists who lead the project, it is also a moment to collect data, because what happened inside that nest—and especially how warm it was—decided not only how many turtles hatched but also whether they are male or female.\n\n[2] In many reptiles, including all species of sea turtle, the sex of an embryo is not fixed by its genes at the moment the egg is laid. Instead, it is set by the temperature of the sand during the middle part of incubation. Warmer nests produce mostly females; cooler nests produce mostly males. Between the two lies a narrow range in which both sexes hatch in similar numbers. For the population on this beach, the scientists estimate that range to be close to 29°C.\n\n[3] This system served sea turtles well for millions of years, but it leaves them unusually sensitive to rising temperatures. A rise of only one or two degrees can shift a beach from producing a mix of males and females to producing almost nothing but females. Nests that grow hotter still face a second danger: above a certain point, many embryos fail to develop at all. A population can survive for some time with more females than males, because one male may father the young of several females. But if almost no males hatch for many years in a row, the number of breeding adults will eventually fall. For this reason, researchers have begun to ask a practical question: can people protect the balance on a nesting beach by changing how warm the nests become?\n\n[4] To find out how much shade could help, the project's scientists compared four kinds of nest during one nesting season. Some eggs were left where the mother turtle had laid them, either on open sand in full sun or under the scattered shade of palm trees at the top of the beach. Others were moved soon after laying to a fenced hatchery, where some nests were left uncovered and others were placed beneath a cloth that blocks about half of the sunlight. A small electronic logger buried among the eggs recorded the temperature in every nest every hour. After hatching, the team counted the empty shells to calculate hatching success and examined a sample of hatchlings from each nest type to estimate the share that were female.\n\n[5] The results are summarized in the table. They confirm the basic pattern, but the scientists point out that they also raise practical questions. Moving eggs carries its own risks, and a hatchery needs daily work by trained volunteers. Shading every nest heavily could also go too far: if the beach began to produce mainly males, the population would face the opposite problem. The goal, as the project's director puts it, is \"not to cool the beach, but to keep it in balance.\"\n\n[6] The director is careful, too, about what a single season can show. Sand temperatures change from year to year with the weather, and the team has only one year of hatchery data so far. The scientists plan to repeat the comparison for at least three more seasons before recommending any change to the way the beach is managed.\n\nResults for one nesting season\nNest type | Average nest temperature (°C) | Hatching success (%) | Female hatchlings (%)\nOpen sand, full sun | 31.6 | 68 | 96\nUnder palm trees | 30.1 | 79 | 74\nHatchery, no cover | 31.2 | 71 | 93\nHatchery, shade cloth | 29.3 | 83 | 57",
+       "q": "Paragraph 2 says that both sexes hatch in similar numbers when nests are close to 29°C. In the table, the nest type with the average temperature closest to 29°C also had:",
+       "c": [
+        "the lowest hatching success of the four nest types.",
+        "the most even balance of female and male hatchlings.",
+        "the highest share of female hatchlings.",
+        "the highest average nest temperature."
+       ],
+       "a": 1,
+       "e": "Shade-cloth nests averaged 29.3°C and produced 57% females (so about 43% males), the closest to half and half. A, C and D are reversed: these nests had the HIGHEST hatching success, the LOWEST female share and the LOWEST temperature.",
+       "s": "Integrating text and data"
+      },
+      {
+       "p": "NATURAL SCIENCE: This passage is adapted from an article about a sea-turtle conservation project.\n\n[1] On a warm night in late summer, a small crowd of volunteers kneels on the sand behind a rope, watching a shallow hollow in the beach begin to move. Within minutes, dozens of hatchlings no longer than a thumb have pushed their way out and are scrambling toward the line of white foam. For the volunteers, who have guarded this nest for almost two months, it is the moment all the work was for. For the scientists who lead the project, it is also a moment to collect data, because what happened inside that nest—and especially how warm it was—decided not only how many turtles hatched but also whether they are male or female.\n\n[2] In many reptiles, including all species of sea turtle, the sex of an embryo is not fixed by its genes at the moment the egg is laid. Instead, it is set by the temperature of the sand during the middle part of incubation. Warmer nests produce mostly females; cooler nests produce mostly males. Between the two lies a narrow range in which both sexes hatch in similar numbers. For the population on this beach, the scientists estimate that range to be close to 29°C.\n\n[3] This system served sea turtles well for millions of years, but it leaves them unusually sensitive to rising temperatures. A rise of only one or two degrees can shift a beach from producing a mix of males and females to producing almost nothing but females. Nests that grow hotter still face a second danger: above a certain point, many embryos fail to develop at all. A population can survive for some time with more females than males, because one male may father the young of several females. But if almost no males hatch for many years in a row, the number of breeding adults will eventually fall. For this reason, researchers have begun to ask a practical question: can people protect the balance on a nesting beach by changing how warm the nests become?\n\n[4] To find out how much shade could help, the project's scientists compared four kinds of nest during one nesting season. Some eggs were left where the mother turtle had laid them, either on open sand in full sun or under the scattered shade of palm trees at the top of the beach. Others were moved soon after laying to a fenced hatchery, where some nests were left uncovered and others were placed beneath a cloth that blocks about half of the sunlight. A small electronic logger buried among the eggs recorded the temperature in every nest every hour. After hatching, the team counted the empty shells to calculate hatching success and examined a sample of hatchlings from each nest type to estimate the share that were female.\n\n[5] The results are summarized in the table. They confirm the basic pattern, but the scientists point out that they also raise practical questions. Moving eggs carries its own risks, and a hatchery needs daily work by trained volunteers. Shading every nest heavily could also go too far: if the beach began to produce mainly males, the population would face the opposite problem. The goal, as the project's director puts it, is \"not to cool the beach, but to keep it in balance.\"\n\n[6] The director is careful, too, about what a single season can show. Sand temperatures change from year to year with the weather, and the team has only one year of hatchery data so far. The scientists plan to repeat the comparison for at least three more seasons before recommending any change to the way the beach is managed.\n\nResults for one nesting season\nNest type | Average nest temperature (°C) | Hatching success (%) | Female hatchlings (%)\nOpen sand, full sun | 31.6 | 68 | 96\nUnder palm trees | 30.1 | 79 | 74\nHatchery, no cover | 31.2 | 71 | 93\nHatchery, shade cloth | 29.3 | 83 | 57",
+       "q": "Which conclusion is best supported by a comparison of the open-sand nests with the uncovered hatchery nests?",
+       "c": [
+        "Every nest in the hatchery was cooler than every nest on the beach.",
+        "Moving eggs to the hatchery, by itself, greatly lowered the share of female hatchlings.",
+        "Nests at similar temperatures produced similar shares of females, whether they were on the beach or in the hatchery.",
+        "Nests on the beach always had lower hatching success than nests in the hatchery."
+       ],
+       "a": 2,
+       "e": "Open sand 31.6°C → 96% female; uncovered hatchery 31.2°C → 93% female: similar temperatures, similar results, so temperature, not location, matters. A is false (uncovered hatchery 31.2 > palm trees 30.1); B is contradicted (93% is almost the same as 96%); D is too extreme and false (palm trees 79% > uncovered hatchery 71%).",
+       "s": "Integrating text and data"
+      },
+      {
+       "p": "NATURAL SCIENCE: This passage is adapted from an article about a sea-turtle conservation project.\n\n[1] On a warm night in late summer, a small crowd of volunteers kneels on the sand behind a rope, watching a shallow hollow in the beach begin to move. Within minutes, dozens of hatchlings no longer than a thumb have pushed their way out and are scrambling toward the line of white foam. For the volunteers, who have guarded this nest for almost two months, it is the moment all the work was for. For the scientists who lead the project, it is also a moment to collect data, because what happened inside that nest—and especially how warm it was—decided not only how many turtles hatched but also whether they are male or female.\n\n[2] In many reptiles, including all species of sea turtle, the sex of an embryo is not fixed by its genes at the moment the egg is laid. Instead, it is set by the temperature of the sand during the middle part of incubation. Warmer nests produce mostly females; cooler nests produce mostly males. Between the two lies a narrow range in which both sexes hatch in similar numbers. For the population on this beach, the scientists estimate that range to be close to 29°C.\n\n[3] This system served sea turtles well for millions of years, but it leaves them unusually sensitive to rising temperatures. A rise of only one or two degrees can shift a beach from producing a mix of males and females to producing almost nothing but females. Nests that grow hotter still face a second danger: above a certain point, many embryos fail to develop at all. A population can survive for some time with more females than males, because one male may father the young of several females. But if almost no males hatch for many years in a row, the number of breeding adults will eventually fall. For this reason, researchers have begun to ask a practical question: can people protect the balance on a nesting beach by changing how warm the nests become?\n\n[4] To find out how much shade could help, the project's scientists compared four kinds of nest during one nesting season. Some eggs were left where the mother turtle had laid them, either on open sand in full sun or under the scattered shade of palm trees at the top of the beach. Others were moved soon after laying to a fenced hatchery, where some nests were left uncovered and others were placed beneath a cloth that blocks about half of the sunlight. A small electronic logger buried among the eggs recorded the temperature in every nest every hour. After hatching, the team counted the empty shells to calculate hatching success and examined a sample of hatchlings from each nest type to estimate the share that were female.\n\n[5] The results are summarized in the table. They confirm the basic pattern, but the scientists point out that they also raise practical questions. Moving eggs carries its own risks, and a hatchery needs daily work by trained volunteers. Shading every nest heavily could also go too far: if the beach began to produce mainly males, the population would face the opposite problem. The goal, as the project's director puts it, is \"not to cool the beach, but to keep it in balance.\"\n\n[6] The director is careful, too, about what a single season can show. Sand temperatures change from year to year with the weather, and the team has only one year of hatchery data so far. The scientists plan to repeat the comparison for at least three more seasons before recommending any change to the way the beach is managed.\n\nResults for one nesting season\nNest type | Average nest temperature (°C) | Hatching success (%) | Female hatchlings (%)\nOpen sand, full sun | 31.6 | 68 | 96\nUnder palm trees | 30.1 | 79 | 74\nHatchery, no cover | 31.2 | 71 | 93\nHatchery, shade cloth | 29.3 | 83 | 57",
+       "q": "Which pattern in the table is most consistent with the \"second danger\" described in paragraph 3?",
+       "c": [
+        "As average nest temperature rose, hatching success fell.",
+        "As average nest temperature rose, the share of female hatchlings fell.",
+        "Hatchery nests had a lower share of females than beach nests.",
+        "Hatching success was the same in all four nest types."
+       ],
+       "a": 0,
+       "e": "The second danger is that in hotter nests \"many embryos fail to develop.\" In order of temperature (29.3, 30.1, 31.2, 31.6), hatching success falls: 83, 79, 71, 68. B is reversed (the female share rises with temperature); C ignores the uncovered hatchery (93%); D is contradicted by the numbers.",
+       "s": "Integrating text and data"
+      },
+      {
+       "p": "NATURAL SCIENCE: This passage is adapted from an article about a sea-turtle conservation project.\n\n[1] On a warm night in late summer, a small crowd of volunteers kneels on the sand behind a rope, watching a shallow hollow in the beach begin to move. Within minutes, dozens of hatchlings no longer than a thumb have pushed their way out and are scrambling toward the line of white foam. For the volunteers, who have guarded this nest for almost two months, it is the moment all the work was for. For the scientists who lead the project, it is also a moment to collect data, because what happened inside that nest—and especially how warm it was—decided not only how many turtles hatched but also whether they are male or female.\n\n[2] In many reptiles, including all species of sea turtle, the sex of an embryo is not fixed by its genes at the moment the egg is laid. Instead, it is set by the temperature of the sand during the middle part of incubation. Warmer nests produce mostly females; cooler nests produce mostly males. Between the two lies a narrow range in which both sexes hatch in similar numbers. For the population on this beach, the scientists estimate that range to be close to 29°C.\n\n[3] This system served sea turtles well for millions of years, but it leaves them unusually sensitive to rising temperatures. A rise of only one or two degrees can shift a beach from producing a mix of males and females to producing almost nothing but females. Nests that grow hotter still face a second danger: above a certain point, many embryos fail to develop at all. A population can survive for some time with more females than males, because one male may father the young of several females. But if almost no males hatch for many years in a row, the number of breeding adults will eventually fall. For this reason, researchers have begun to ask a practical question: can people protect the balance on a nesting beach by changing how warm the nests become?\n\n[4] To find out how much shade could help, the project's scientists compared four kinds of nest during one nesting season. Some eggs were left where the mother turtle had laid them, either on open sand in full sun or under the scattered shade of palm trees at the top of the beach. Others were moved soon after laying to a fenced hatchery, where some nests were left uncovered and others were placed beneath a cloth that blocks about half of the sunlight. A small electronic logger buried among the eggs recorded the temperature in every nest every hour. After hatching, the team counted the empty shells to calculate hatching success and examined a sample of hatchlings from each nest type to estimate the share that were female.\n\n[5] The results are summarized in the table. They confirm the basic pattern, but the scientists point out that they also raise practical questions. Moving eggs carries its own risks, and a hatchery needs daily work by trained volunteers. Shading every nest heavily could also go too far: if the beach began to produce mainly males, the population would face the opposite problem. The goal, as the project's director puts it, is \"not to cool the beach, but to keep it in balance.\"\n\n[6] The director is careful, too, about what a single season can show. Sand temperatures change from year to year with the weather, and the team has only one year of hatchery data so far. The scientists plan to repeat the comparison for at least three more seasons before recommending any change to the way the beach is managed.\n\nResults for one nesting season\nNest type | Average nest temperature (°C) | Hatching success (%) | Female hatchlings (%)\nOpen sand, full sun | 31.6 | 68 | 96\nUnder palm trees | 30.1 | 79 | 74\nHatchery, no cover | 31.2 | 71 | 93\nHatchery, shade cloth | 29.3 | 83 | 57",
+       "q": "The information in paragraph 6 most directly suggests that the results in the table:",
+       "c": [
+        "prove that shade cloth should be used on every nest on the beach.",
+        "were recorded by the volunteers rather than by electronic loggers.",
+        "show that sand temperatures never change from one year to the next.",
+        "may not hold in every season, because they come from a single year."
+       ],
+       "a": 3,
+       "e": "The director warns that \"sand temperatures change from year to year\" and the team has \"only one year of hatchery data,\" so the pattern must be checked over more seasons. A is too extreme (and paragraph 5 warns against shading too much); B contradicts paragraph 4 (loggers recorded temperatures); C is reversed.",
+       "s": "Limits of data"
+      },
+      {
+       "p": "NATURAL SCIENCE: This passage is adapted from an article about a sea-turtle conservation project.\n\n[1] On a warm night in late summer, a small crowd of volunteers kneels on the sand behind a rope, watching a shallow hollow in the beach begin to move. Within minutes, dozens of hatchlings no longer than a thumb have pushed their way out and are scrambling toward the line of white foam. For the volunteers, who have guarded this nest for almost two months, it is the moment all the work was for. For the scientists who lead the project, it is also a moment to collect data, because what happened inside that nest—and especially how warm it was—decided not only how many turtles hatched but also whether they are male or female.\n\n[2] In many reptiles, including all species of sea turtle, the sex of an embryo is not fixed by its genes at the moment the egg is laid. Instead, it is set by the temperature of the sand during the middle part of incubation. Warmer nests produce mostly females; cooler nests produce mostly males. Between the two lies a narrow range in which both sexes hatch in similar numbers. For the population on this beach, the scientists estimate that range to be close to 29°C.\n\n[3] This system served sea turtles well for millions of years, but it leaves them unusually sensitive to rising temperatures. A rise of only one or two degrees can shift a beach from producing a mix of males and females to producing almost nothing but females. Nests that grow hotter still face a second danger: above a certain point, many embryos fail to develop at all. A population can survive for some time with more females than males, because one male may father the young of several females. But if almost no males hatch for many years in a row, the number of breeding adults will eventually fall. For this reason, researchers have begun to ask a practical question: can people protect the balance on a nesting beach by changing how warm the nests become?\n\n[4] To find out how much shade could help, the project's scientists compared four kinds of nest during one nesting season. Some eggs were left where the mother turtle had laid them, either on open sand in full sun or under the scattered shade of palm trees at the top of the beach. Others were moved soon after laying to a fenced hatchery, where some nests were left uncovered and others were placed beneath a cloth that blocks about half of the sunlight. A small electronic logger buried among the eggs recorded the temperature in every nest every hour. After hatching, the team counted the empty shells to calculate hatching success and examined a sample of hatchlings from each nest type to estimate the share that were female.\n\n[5] The results are summarized in the table. They confirm the basic pattern, but the scientists point out that they also raise practical questions. Moving eggs carries its own risks, and a hatchery needs daily work by trained volunteers. Shading every nest heavily could also go too far: if the beach began to produce mainly males, the population would face the opposite problem. The goal, as the project's director puts it, is \"not to cool the beach, but to keep it in balance.\"\n\n[6] The director is careful, too, about what a single season can show. Sand temperatures change from year to year with the weather, and the team has only one year of hatchery data so far. The scientists plan to repeat the comparison for at least three more seasons before recommending any change to the way the beach is managed.\n\nResults for one nesting season\nNest type | Average nest temperature (°C) | Hatching success (%) | Female hatchlings (%)\nOpen sand, full sun | 31.6 | 68 | 96\nUnder palm trees | 30.1 | 79 | 74\nHatchery, no cover | 31.2 | 71 | 93\nHatchery, shade cloth | 29.3 | 83 | 57",
+       "q": "Suppose that in the next season the shade-cloth nests averaged 28.0°C. Based on paragraph 2, the share of female hatchlings in those nests would most likely be:",
+       "c": [
+        "higher than in the open-sand nests this season.",
+        "lower than 57%, with males possibly outnumbering females.",
+        "about the same as in the palm-tree nests this season.",
+        "exactly 50%, because both sexes always hatch equally below 29°C."
+       ],
+       "a": 1,
+       "e": "Paragraph 2: \"cooler nests produce mostly males,\" and 28.0°C is cooler than both 29.3°C (57% female) and the balanced range near 29°C. A and C would need a WARMER nest (31.6°C, 30.1°C); D is too extreme and misreads the passage (equal numbers happen close to 29°C, not \"always\" below it).",
+       "s": "Applying data to a new case"
+      },
+      {
+       "p": "NATURAL SCIENCE: This passage is adapted from an article about a sea-turtle conservation project.\n\n[1] On a warm night in late summer, a small crowd of volunteers kneels on the sand behind a rope, watching a shallow hollow in the beach begin to move. Within minutes, dozens of hatchlings no longer than a thumb have pushed their way out and are scrambling toward the line of white foam. For the volunteers, who have guarded this nest for almost two months, it is the moment all the work was for. For the scientists who lead the project, it is also a moment to collect data, because what happened inside that nest—and especially how warm it was—decided not only how many turtles hatched but also whether they are male or female.\n\n[2] In many reptiles, including all species of sea turtle, the sex of an embryo is not fixed by its genes at the moment the egg is laid. Instead, it is set by the temperature of the sand during the middle part of incubation. Warmer nests produce mostly females; cooler nests produce mostly males. Between the two lies a narrow range in which both sexes hatch in similar numbers. For the population on this beach, the scientists estimate that range to be close to 29°C.\n\n[3] This system served sea turtles well for millions of years, but it leaves them unusually sensitive to rising temperatures. A rise of only one or two degrees can shift a beach from producing a mix of males and females to producing almost nothing but females. Nests that grow hotter still face a second danger: above a certain point, many embryos fail to develop at all. A population can survive for some time with more females than males, because one male may father the young of several females. But if almost no males hatch for many years in a row, the number of breeding adults will eventually fall. For this reason, researchers have begun to ask a practical question: can people protect the balance on a nesting beach by changing how warm the nests become?\n\n[4] To find out how much shade could help, the project's scientists compared four kinds of nest during one nesting season. Some eggs were left where the mother turtle had laid them, either on open sand in full sun or under the scattered shade of palm trees at the top of the beach. Others were moved soon after laying to a fenced hatchery, where some nests were left uncovered and others were placed beneath a cloth that blocks about half of the sunlight. A small electronic logger buried among the eggs recorded the temperature in every nest every hour. After hatching, the team counted the empty shells to calculate hatching success and examined a sample of hatchlings from each nest type to estimate the share that were female.\n\n[5] The results are summarized in the table. They confirm the basic pattern, but the scientists point out that they also raise practical questions. Moving eggs carries its own risks, and a hatchery needs daily work by trained volunteers. Shading every nest heavily could also go too far: if the beach began to produce mainly males, the population would face the opposite problem. The goal, as the project's director puts it, is \"not to cool the beach, but to keep it in balance.\"\n\n[6] The director is careful, too, about what a single season can show. Sand temperatures change from year to year with the weather, and the team has only one year of hatchery data so far. The scientists plan to repeat the comparison for at least three more seasons before recommending any change to the way the beach is managed.\n\nResults for one nesting season\nNest type | Average nest temperature (°C) | Hatching success (%) | Female hatchlings (%)\nOpen sand, full sun | 31.6 | 68 | 96\nUnder palm trees | 30.1 | 79 | 74\nHatchery, no cover | 31.2 | 71 | 93\nHatchery, shade cloth | 29.3 | 83 | 57",
+       "q": "Paragraph 4 mainly serves to:",
+       "c": [
+        "explain how the data shown in the table were collected.",
+        "argue that eggs should never be moved to a hatchery.",
+        "describe the scene on the beach when turtles hatch.",
+        "present the scientists' final recommendation for the beach."
+       ],
+       "a": 0,
+       "e": "It describes the four nest types, the temperature loggers and how hatching success and the female share were measured: the method behind the table. B is too extreme (risks are only mentioned in paragraph 5); C belongs to paragraph 1; D is contradicted by paragraph 6 (no recommendation yet).",
+       "s": "Function of a paragraph"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Every ACT form has either a passage with charts or graphs or a paired-passage set.",
+    "Read the frame first: title, headings or axis labels, units, one pattern.",
+    "A supported statement is one the numbers actually SHOW — not a cause, not a recommendation.",
+    "Check the column, the row and the unit before every calculation; numbers and percentages are different.",
+    "Data from one time, place or group cannot prove \"always\" or \"everywhere.\""
+   ]
+  }
+ ]
+}

@@ -1,0 +1,672 @@
+{
+ "slug": "act-pronoun-case",
+ "nav": "Pronoun Case",
+ "title": "ACT Pronoun Case: I or Me, Who or Whom",
+ "kicker": "American Diploma · ACT · English: Conventions",
+ "summary": "Subject, object and possessive pronouns — pairs like “my sister and I”, “between you and me”, pronouns after than/as, who vs whom and whoever vs whomever — with worked examples and an ACT-style quiz.",
+ "blocks": [
+  {
+   "type": "p",
+   "text": "“My friend and me went…”, “between you and I…”, “the man who I met…” — all three sound normal in everyday speech, and all three are wrong in Standard English. Pronoun case questions test whether you choose the **subject form**, the **object form** or the **possessive form** of a pronoun. The ACT likes them because your ear cannot be trusted. This lesson gives you a quick test for every case the exam uses."
+  },
+  {
+   "type": "h2",
+   "text": "What this question type tests"
+  },
+  {
+   "type": "p",
+   "text": "Pronoun case is part of **Conventions of Standard English**, which is **38–43%** of the 40 scored English questions (shared with punctuation, sentence structure and the other usage topics). A pronoun — often with another noun, such as “my sister and **I**” — is underlined, and the choices offer different forms: **I / me / myself / mine**, **he / him / his**, **who / whom / whose**, **whoever / whomever**."
+  },
+  {
+   "type": "p",
+   "text": "When the vertical scan shows the choices changing only the pronoun’s form, ask one question: **what job does the pronoun do in its own clause?** Does it do the action (subject), receive the action or follow a preposition (object), or own something (possessive)?"
+  },
+  {
+   "type": "h2",
+   "text": "The three cases"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Subject form (does the action)",
+    "Object form (receives the action / after a preposition)",
+    "Possessive before a noun",
+    "Possessive standing alone",
+    "Reflexive"
+   ],
+   "rows": [
+    [
+     "I",
+     "me",
+     "my",
+     "mine",
+     "myself"
+    ],
+    [
+     "you",
+     "you",
+     "your",
+     "yours",
+     "yourself / yourselves"
+    ],
+    [
+     "he",
+     "him",
+     "his",
+     "his",
+     "himself"
+    ],
+    [
+     "she",
+     "her",
+     "her",
+     "hers",
+     "herself"
+    ],
+    [
+     "it",
+     "it",
+     "its",
+     "its",
+     "itself"
+    ],
+    [
+     "we",
+     "us",
+     "our",
+     "ours",
+     "ourselves"
+    ],
+    [
+     "they",
+     "them",
+     "their",
+     "theirs",
+     "themselves"
+    ],
+    [
+     "who / whoever",
+     "whom / whomever",
+     "whose",
+     "whose",
+     "—"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Subject form** before a verb: ✓ **She** won. ✓ **They** were late.",
+    "**Object form** after a verb: ✓ The coach chose **him**. After a preposition (to, for, with, between, among, about, except, like, from, behind): ✓ for **her**, with **them**, between **us**.",
+    "**Possessive** forms never take an apostrophe: ✓ **its** roof, **theirs**, **yours**, **whose** idea. ✗ it’s roof, their’s, your’s, who’s idea. (it’s = it is / it has; who’s = who is / who has; they’re = they are.)"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Rule 1: Compound pronouns — cover the other person"
+  },
+  {
+   "type": "p",
+   "text": "Most case errors happen when a pronoun is joined to a noun with **and** or **or**. Cover the noun and the “and”, then read the pronoun alone. The form that works alone is the form that works in the pair."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "✗ Wrong",
+    "Test (cover the other person)",
+    "✓ Right"
+   ],
+   "rows": [
+    [
+     "My sister and **me** cooked dinner.",
+     "**Me** cooked dinner? ✗",
+     "My sister and **I** cooked dinner."
+    ],
+    [
+     "The teacher thanked Hana and **I**.",
+     "The teacher thanked **I**? ✗",
+     "The teacher thanked Hana and **me**."
+    ],
+    [
+     "The letter was for my parents and **we**.",
+     "for **we**? ✗",
+     "The letter was for my parents and **us**."
+    ],
+    [
+     "**Him** and his cousin opened a shop.",
+     "**Him** opened a shop? ✗",
+     "**He** and his cousin opened a shop."
+    ],
+    [
+     "Between you and **I**, the plan won’t work.",
+     "between … **I**? (preposition → object)",
+     "Between you and **me**, the plan won’t work."
+    ]
+   ]
+  },
+  {
+   "type": "p",
+   "text": "“Between you and I” sounds polite and formal, which is exactly why it is a trap. **Between** is a preposition, so **both** pronouns after it must be object forms: between you and **me**, between **him** and **her**, between **us** and **them**."
+  },
+  {
+   "type": "p",
+   "text": "**Pronoun + noun (we students / us students):** drop the noun and test. ✓ **We** students organised the fair (We organised…). ✓ The principal praised **us** students (praised us). ✗ **Us** students organised the fair."
+  },
+  {
+   "type": "p",
+   "text": "**Appositives:** when a pronoun renames a noun, it takes the case of that noun. ✓ Two members, Laila and **I**, gave the speech (subject). ✓ The judges chose two members, Laila and **me** (object of “chose”)."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "غطّي الاسم التاني",
+   "text": "لو قدامك my sister and I/me، غطّي my sister and واقرأ الضمير لوحده. لو الجملة بقت \"Me cooked dinner\" يبقى غلط، والصح I. وبعد حروف الجر زي between و for و with دايمًا me / him / her / us / them. يعني between you and **me** مش between you and I."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 2: Reflexive pronouns (myself, himself…)"
+  },
+  {
+   "type": "p",
+   "text": "A reflexive pronoun is correct only in two situations: (1) the subject does the action **to or for itself**, (2) for **emphasis** right after the noun. It can never replace I or me just because it sounds more polite."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "✗ Wrong",
+    "✓ Right",
+    "Why"
+   ],
+   "rows": [
+    [
+     "Karim and **myself** fixed the printer.",
+     "Karim and **I** fixed the printer.",
+     "subject needed"
+    ],
+    [
+     "Please send the forms to Mona or **myself**.",
+     "Please send the forms to Mona or **me**.",
+     "object after “to”"
+    ],
+    [
+     "—",
+     "I taught **myself** to swim.",
+     "subject = object (I … myself)"
+    ],
+    [
+     "—",
+     "The minister **herself** opened the bridge.",
+     "emphasis"
+    ],
+    [
+     "They built the cabin **theirselves**.",
+     "They built the cabin **themselves**.",
+     "“theirselves” and “hisself” are not Standard English"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Rule 3: After than and as — finish the sentence"
+  },
+  {
+   "type": "p",
+   "text": "After **than** or **as** in a comparison, a verb is usually missing. Add it back, and the correct pronoun becomes clear."
+  },
+  {
+   "type": "list",
+   "items": [
+    "✓ My brother is taller than **I** (am). ✗ My brother is taller than **me** am.",
+    "✓ Nobody in the class worked as hard as **she** (did).",
+    "✓ The news surprised my father more than (it surprised) **me**.",
+    "The meaning can change: “Ahmed likes Omar more than **I**” = more than I like Omar. “Ahmed likes Omar more than **me**” = more than he likes me."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "On the ACT the safest answer is often the version that **writes the verb in**: “than **I am**”, “as **she did**”. If a choice gives “than me did” or “than myself”, it is wrong."
+  },
+  {
+   "type": "h2",
+   "text": "Rule 4: Possessive before an -ing word"
+  },
+  {
+   "type": "p",
+   "text": "When a pronoun comes right before a gerund (an -ing word used as a noun), Standard English prefers the **possessive** form, because the gerund is a thing. ✓ We were surprised by **his** winning the race. ✓ The coach did not like **our** arriving late. ✗ The coach did not like **us** arriving late. (The coach does not dislike *us*; he dislikes the arriving late.)"
+  },
+  {
+   "type": "h2",
+   "text": "Rule 5: Who or whom? The he/him test"
+  },
+  {
+   "type": "p",
+   "text": "**Who** is a subject form (like **he**); **whom** is an object form (like **him**). Both end in -m: **whom = him**. To decide:"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Take the clause that starts with who/whom and stop at its end.",
+    "Rearrange it into a short sentence and put **he** or **him** in place of who/whom.",
+    "If **he** fits → **who**. If **him** fits → **whom**."
+   ],
+   "ordered": true
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Sentence",
+    "Test",
+    "✓ Answer"
+   ],
+   "rows": [
+    [
+     "The engineer ___ designed the bridge retired.",
+     "**he** designed the bridge",
+     "who"
+    ],
+    [
+     "The engineer ___ the city hired retired.",
+     "the city hired **him**",
+     "whom"
+    ],
+    [
+     "To ___ did you give the key?",
+     "you gave the key to **him**",
+     "whom"
+    ],
+    [
+     "She is the author ___ I wrote to.",
+     "I wrote to **him**",
+     "whom (or: to whom I wrote)"
+    ],
+    [
+     "___ is calling?",
+     "**he** is calling",
+     "who"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "items": [
+    "**Right after a preposition, always whom:** ✓ the friend **with whom** I travelled; ✓ the people **for whom** the hospital was built; ✗ to who, for who, with who.",
+    "**Ignore “I think / she believes / they say” inside the clause:** “The girl ___ I think won the prize” → cross out “I think” → **she** won the prize → **who**. This is the most common who/whom trap.",
+    "**Whose** shows possession and is followed by a noun: the farmer **whose** land flooded. **Who’s** = who is / who has.",
+    "**Which** is for things and animals, never for people: ✗ the doctor **which** helped us ✓ the doctor **who** helped us."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "h2",
+   "text": "Rule 6: Whoever or whomever?"
+  },
+  {
+   "type": "p",
+   "text": "Whoever/whomever begins a clause, and its case depends **only on its job inside that clause** — not on the word before it. A preposition in front of the clause does **not** make it “whomever” automatically."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Sentence",
+    "Test inside the clause",
+    "✓ Answer"
+   ],
+   "rows": [
+    [
+     "Give the prize to ___ finishes first.",
+     "**he** finishes first (the whole clause is the object of “to”)",
+     "whoever"
+    ],
+    [
+     "Invite ___ you like.",
+     "you like **him**",
+     "whomever"
+    ],
+    [
+     "___ wins the vote will lead the club.",
+     "**he** wins the vote",
+     "whoever"
+    ],
+    [
+     "The coach will pick ___ she trusts most.",
+     "she trusts **him** most",
+     "whomever"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "Who ولا Whom؟",
+   "text": "حوّل الجملة الصغيرة لجملة عادية وجرّب he و him. لو he مناسبة استخدم who، ولو him مناسبة استخدم whom (الاتنين آخرهم m). وبعد حرف جر على طول (to / with / for) دايمًا whom. لكن whoever و whomever بتتحدد من جملتها هي بس: to whoever finishes first لأن he finishes."
+  },
+  {
+   "type": "h2",
+   "text": "Worked examples"
+  },
+  {
+   "type": "p",
+   "text": "Each example is part of an ACT-style essay. The underlined portion is shown in **bold**."
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 1.** “When the concert was cancelled, the manager gave the last two refund vouchers to my cousin and **I**.”"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) me",
+    "C) myself",
+    "D) mine"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**B is correct.** Cover “my cousin and”: the manager gave the vouchers “to **me**”. After the preposition “to”, the object form is needed.",
+    "**A** is the subject form — the “sounds polite” trap.",
+    "**C** is reflexive, but the subject (the manager) is not the person receiving the vouchers.",
+    "**D** is a possessive (“mine” = my thing), which makes no sense here."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 2.** “The scientist **who** the committee selected for the award had studied coral reefs in the Red Sea for twenty years.”"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) whom",
+    "C) whose",
+    "D) which"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**B is correct.** Make the clause a sentence: “the committee selected **him**” → him = whom. The scientist is the object of “selected”.",
+    "**A** is the subject form; it would only fit if the scientist did the selecting.",
+    "**C** shows possession and needs a noun after it (whose research…).",
+    "**D** is used for things, not people."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 3.** “My grandmother is seventy-four, but on our morning walks along the Corniche she still moves faster **than me**.”"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) than I do",
+    "C) then I do",
+    "D) than myself"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**B is correct.** Finish the comparison: she moves faster than **I** (move). Writing the verb in — “than I do” — makes the subject form necessary and clear.",
+    "**A** uses the object form where the sentence needs a subject for the missing verb.",
+    "**C** uses “then”, a time word, instead of “than”, the comparison word.",
+    "**D** uses a reflexive pronoun without a matching subject."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Worked example 4.** “The school will publish the winning story in its magazine, and the prize will go to **whomever** writes the most original ending.”"
+  },
+  {
+   "type": "p",
+   "text": "**Question:** Choose the best version of the underlined portion. If the original is best, choose NO CHANGE."
+  },
+  {
+   "type": "list",
+   "items": [
+    "A) NO CHANGE",
+    "B) whoever",
+    "C) whom",
+    "D) themselves"
+   ],
+   "ordered": false
+  },
+  {
+   "type": "p",
+   "text": "**Answer: B.**"
+  },
+  {
+   "type": "list",
+   "items": [
+    "**B is correct.** Look only inside the clause: “___ writes the most original ending” → **he** writes → whoever. The whole clause is the object of “to”, but whoever is the subject of “writes”.",
+    "**A** is the classic trap: students see the preposition “to” and choose the object form.",
+    "**C** is also an object form, and “to whom writes” is not a sentence.",
+    "**D** is a reflexive pronoun with nothing to refer back to."
+   ],
+   "ordered": false
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Classic traps",
+   "items": [
+    "**Sounds-polite trap:** “between you and I”, “for Mona and I”, “Karim and myself” — all wrong.",
+    "**Pronoun at the start of a pair:** “Him and his brother went…” → He and his brother went…",
+    "**Than me / as him** where a verb is understood: write the verb in and the subject form appears (than I am).",
+    "**Who after a preposition:** to who, with who → to whom, with whom.",
+    "**I think / she said inside the clause:** cross it out before the he/him test (the girl who I think won…).",
+    "**Whomever after a preposition:** the case comes from the clause (to whoever finishes), not from “to”.",
+    "**Apostrophe possessives:** it’s, their’s, who’s, your’s are never possessive forms."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Fast strategy for test day",
+   "items": [
+    "Pair of pronouns or names? Cover the other person and read the pronoun alone.",
+    "After a preposition (between, for, to, with, among, except)? Object form: me, him, her, us, them, whom.",
+    "who/whom/whoever/whomever? Rewrite the clause with he/him. he → who; him → whom.",
+    "than / as? Add the missing verb in your head.",
+    "Reflexive (myself) only if the same person is already the subject, or for emphasis."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice"
+  },
+  {
+   "type": "p",
+   "text": "Two ACT-style essays with 5 questions each, all on pronoun case. The numbers in brackets match the question numbers."
+  },
+  {
+   "type": "test",
+   "title": "Pronoun Case quiz",
+   "timed": false,
+   "intro": "Two ACT-style essays with 5 questions each. For every underlined pronoun, decide its job in its own clause: subject, object or possessive.",
+   "sections": [
+    {
+     "name": "Passages I–II",
+     "minutes": 8,
+     "questions": [
+      {
+       "p": "The Robot in the Kitchen\n\nLast spring, my older brother Omar decided to build a robot for the regional science fair. Our father is an engineer, and he offered to help, but Omar wanted the project to belong only to __him and I__ [1]. I was his one and only assistant, and I took the job very seriously.\n\nFor three weeks the kitchen table disappeared under wires, batteries and tiny motors. Omar was far more patient __than me__ [2]. When a motor burned out, he simply started again, while I wanted to give up. Our neighbor, __who__ [3] had once worked in a car factory, lent us a small gearbox and showed us how to fit it inside the robot's body.\n\nOn the day of the fair, the judges asked to speak with the two builders, Omar and __I__ [4]. Between you and __me__ [5], I was terrified, but Omar did most of the talking. We did not win first prize. We came home with a certificate, a lot of advice and a robot that can still carry a cup of tea across the kitchen without spilling a drop.",
+       "q": "[1] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "he and I",
+        "him and me",
+        "himself and me"
+       ],
+       "a": 2,
+       "e": "Both pronouns follow the preposition “to”, so both must be object forms: “to him and me”. Test by covering: “belong to I” is wrong. A and B use the subject form “I” (B also uses “he”); D uses a reflexive pronoun with no matching subject.",
+       "s": "Pronoun case (compound pronoun)"
+      },
+      {
+       "p": "The Robot in the Kitchen\n\nLast spring, my older brother Omar decided to build a robot for the regional science fair. Our father is an engineer, and he offered to help, but Omar wanted the project to belong only to __him and I__ [1]. I was his one and only assistant, and I took the job very seriously.\n\nFor three weeks the kitchen table disappeared under wires, batteries and tiny motors. Omar was far more patient __than me__ [2]. When a motor burned out, he simply started again, while I wanted to give up. Our neighbor, __who__ [3] had once worked in a car factory, lent us a small gearbox and showed us how to fit it inside the robot's body.\n\nOn the day of the fair, the judges asked to speak with the two builders, Omar and __I__ [4]. Between you and __me__ [5], I was terrified, but Omar did most of the talking. We did not win first prize. We came home with a certificate, a lot of advice and a robot that can still carry a cup of tea across the kitchen without spilling a drop.",
+       "q": "[2] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "than I was",
+        "then I was",
+        "than myself"
+       ],
+       "a": 1,
+       "e": "Finish the comparison: Omar was more patient than I (was). “Than I was” writes the verb in, so the subject form is clearly needed. A uses the object form; C uses the time word “then”; D uses a reflexive pronoun incorrectly.",
+       "s": "Pronoun case (than)"
+      },
+      {
+       "p": "The Robot in the Kitchen\n\nLast spring, my older brother Omar decided to build a robot for the regional science fair. Our father is an engineer, and he offered to help, but Omar wanted the project to belong only to __him and I__ [1]. I was his one and only assistant, and I took the job very seriously.\n\nFor three weeks the kitchen table disappeared under wires, batteries and tiny motors. Omar was far more patient __than me__ [2]. When a motor burned out, he simply started again, while I wanted to give up. Our neighbor, __who__ [3] had once worked in a car factory, lent us a small gearbox and showed us how to fit it inside the robot's body.\n\nOn the day of the fair, the judges asked to speak with the two builders, Omar and __I__ [4]. Between you and __me__ [5], I was terrified, but Omar did most of the talking. We did not win first prize. We came home with a certificate, a lot of advice and a robot that can still carry a cup of tea across the kitchen without spilling a drop.",
+       "q": "[3] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "whom",
+        "whose",
+        "which"
+       ],
+       "a": 0,
+       "e": "The pronoun is the subject of “had once worked” (he had once worked), so “who” is correct. B is an object form; C shows possession and needs a noun; D is for things, not people.",
+       "s": "Pronoun case (who/whom)"
+      },
+      {
+       "p": "The Robot in the Kitchen\n\nLast spring, my older brother Omar decided to build a robot for the regional science fair. Our father is an engineer, and he offered to help, but Omar wanted the project to belong only to __him and I__ [1]. I was his one and only assistant, and I took the job very seriously.\n\nFor three weeks the kitchen table disappeared under wires, batteries and tiny motors. Omar was far more patient __than me__ [2]. When a motor burned out, he simply started again, while I wanted to give up. Our neighbor, __who__ [3] had once worked in a car factory, lent us a small gearbox and showed us how to fit it inside the robot's body.\n\nOn the day of the fair, the judges asked to speak with the two builders, Omar and __I__ [4]. Between you and __me__ [5], I was terrified, but Omar did most of the talking. We did not win first prize. We came home with a certificate, a lot of advice and a robot that can still carry a cup of tea across the kitchen without spilling a drop.",
+       "q": "[4] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "myself",
+        "mine",
+        "me"
+       ],
+       "a": 3,
+       "e": "“Omar and ___” renames “the two builders”, the object of the preposition “with”. Cover “Omar and”: speak with **me** → object form. A is the subject form; B is reflexive without a matching subject; C is possessive.",
+       "s": "Pronoun case (appositive)"
+      },
+      {
+       "p": "The Robot in the Kitchen\n\nLast spring, my older brother Omar decided to build a robot for the regional science fair. Our father is an engineer, and he offered to help, but Omar wanted the project to belong only to __him and I__ [1]. I was his one and only assistant, and I took the job very seriously.\n\nFor three weeks the kitchen table disappeared under wires, batteries and tiny motors. Omar was far more patient __than me__ [2]. When a motor burned out, he simply started again, while I wanted to give up. Our neighbor, __who__ [3] had once worked in a car factory, lent us a small gearbox and showed us how to fit it inside the robot's body.\n\nOn the day of the fair, the judges asked to speak with the two builders, Omar and __I__ [4]. Between you and __me__ [5], I was terrified, but Omar did most of the talking. We did not win first prize. We came home with a certificate, a lot of advice and a robot that can still carry a cup of tea across the kitchen without spilling a drop.",
+       "q": "[5] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "I",
+        "myself",
+        "I myself"
+       ],
+       "a": 0,
+       "e": "“Between” is a preposition, so both pronouns after it take the object form: “between you and me”. B and D are subject forms (the sounds-polite trap); C is a reflexive pronoun with no matching subject.",
+       "s": "Pronoun case (between you and me)"
+      },
+      {
+       "p": "The Teacher Who Answered Every Letter\n\nIn 1998, a schoolteacher in Aswan named Hoda Mansour began writing letters to classes in other countries. The pupils to __who__ [6] she wrote were children of her own students' age in Canada, Japan and Brazil. She answered every letter she received by hand.\n\nOver the years, her classes joined in. Each autumn, she told her pupils that they could write to __whoever__ [7] they wanted, as long as the letters were polite and true. Some chose astronauts and footballers. Others chose authors __who's__ [8] books they had read in class.\n\nHundreds of the replies are still kept in a cardboard box in the school library. For __us__ [9] students who read them today, the box is a kind of time machine. The pupil __whom__ [10] the librarian believes received the most replies was a shy boy named Karim. He wrote to twelve scientists, and every one of them wrote back.",
+       "q": "[6] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "whom",
+        "whose",
+        "which"
+       ],
+       "a": 1,
+       "e": "Right after a preposition (“to”) the object form is needed: “to whom”. Test: she wrote to **him**. A is the subject form; C shows possession and needs a noun; D is not used for people.",
+       "s": "Pronoun case (whom after a preposition)"
+      },
+      {
+       "p": "The Teacher Who Answered Every Letter\n\nIn 1998, a schoolteacher in Aswan named Hoda Mansour began writing letters to classes in other countries. The pupils to __who__ [6] she wrote were children of her own students' age in Canada, Japan and Brazil. She answered every letter she received by hand.\n\nOver the years, her classes joined in. Each autumn, she told her pupils that they could write to __whoever__ [7] they wanted, as long as the letters were polite and true. Some chose astronauts and footballers. Others chose authors __who's__ [8] books they had read in class.\n\nHundreds of the replies are still kept in a cardboard box in the school library. For __us__ [9] students who read them today, the box is a kind of time machine. The pupil __whom__ [10] the librarian believes received the most replies was a shy boy named Karim. He wrote to twelve scientists, and every one of them wrote back.",
+       "q": "[7] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "who",
+        "whoever's",
+        "whomever"
+       ],
+       "a": 3,
+       "e": "Look inside the clause: “they wanted ___” → they wanted **him** → object form “whomever”. A and B are subject forms; C is a possessive form that makes no sense here.",
+       "s": "Pronoun case (whoever/whomever)"
+      },
+      {
+       "p": "The Teacher Who Answered Every Letter\n\nIn 1998, a schoolteacher in Aswan named Hoda Mansour began writing letters to classes in other countries. The pupils to __who__ [6] she wrote were children of her own students' age in Canada, Japan and Brazil. She answered every letter she received by hand.\n\nOver the years, her classes joined in. Each autumn, she told her pupils that they could write to __whoever__ [7] they wanted, as long as the letters were polite and true. Some chose astronauts and footballers. Others chose authors __who's__ [8] books they had read in class.\n\nHundreds of the replies are still kept in a cardboard box in the school library. For __us__ [9] students who read them today, the box is a kind of time machine. The pupil __whom__ [10] the librarian believes received the most replies was a shy boy named Karim. He wrote to twelve scientists, and every one of them wrote back.",
+       "q": "[8] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "who are",
+        "whose",
+        "whom"
+       ],
+       "a": 2,
+       "e": "The authors own the books, so the possessive “whose” is needed. A is the contraction of “who is”; B creates “who are books”, which makes no sense; D is an object form, not a possessive.",
+       "s": "Pronoun case (possessive)"
+      },
+      {
+       "p": "The Teacher Who Answered Every Letter\n\nIn 1998, a schoolteacher in Aswan named Hoda Mansour began writing letters to classes in other countries. The pupils to __who__ [6] she wrote were children of her own students' age in Canada, Japan and Brazil. She answered every letter she received by hand.\n\nOver the years, her classes joined in. Each autumn, she told her pupils that they could write to __whoever__ [7] they wanted, as long as the letters were polite and true. Some chose astronauts and footballers. Others chose authors __who's__ [8] books they had read in class.\n\nHundreds of the replies are still kept in a cardboard box in the school library. For __us__ [9] students who read them today, the box is a kind of time machine. The pupil __whom__ [10] the librarian believes received the most replies was a shy boy named Karim. He wrote to twelve scientists, and every one of them wrote back.",
+       "q": "[9] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "we",
+        "ourselves",
+        "our"
+       ],
+       "a": 0,
+       "e": "Drop the noun “students”: “For **us** who read them…”. After the preposition “for”, the object form “us” is correct. B is the subject form; C is reflexive with no matching subject; D is a possessive.",
+       "s": "Pronoun case (we/us + noun)"
+      },
+      {
+       "p": "The Teacher Who Answered Every Letter\n\nIn 1998, a schoolteacher in Aswan named Hoda Mansour began writing letters to classes in other countries. The pupils to __who__ [6] she wrote were children of her own students' age in Canada, Japan and Brazil. She answered every letter she received by hand.\n\nOver the years, her classes joined in. Each autumn, she told her pupils that they could write to __whoever__ [7] they wanted, as long as the letters were polite and true. Some chose astronauts and footballers. Others chose authors __who's__ [8] books they had read in class.\n\nHundreds of the replies are still kept in a cardboard box in the school library. For __us__ [9] students who read them today, the box is a kind of time machine. The pupil __whom__ [10] the librarian believes received the most replies was a shy boy named Karim. He wrote to twelve scientists, and every one of them wrote back.",
+       "q": "[10] Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "whose",
+        "who",
+        "which"
+       ],
+       "a": 2,
+       "e": "Cross out “the librarian believes”: ___ received the most replies → **he** received → subject form “who”. A is the object form (the “I think” trap); B shows possession; D is not used for people.",
+       "s": "Pronoun case (who with an inserted clause)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Remember",
+   "items": [
+    "Subject forms (I, he, she, we, they, who, whoever) do the action; object forms (me, him, her, us, them, whom, whomever) receive it or follow a preposition.",
+    "In a pair, cover the other person: “Karim and I went”, “for Karim and me”, “between you and me”.",
+    "After than/as, add the missing verb: taller than I (am).",
+    "who/whom: he → who, him → whom; ignore “I think” inside the clause. whoever/whomever: test inside its own clause only.",
+    "Possessives have no apostrophe (its, whose, theirs); reflexives (myself) only when the subject acts on itself or for emphasis."
+   ]
+  }
+ ]
+}
