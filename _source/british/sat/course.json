@@ -18,68 +18,75 @@
  "sections": [
   {
    "title": "Start here",
+   "tag": "Modules 1 and 2",
    "pages": [
     "sat-overview",
     "sat-strategy-time"
    ]
   },
   {
-   "title": "Reading: Craft and Structure",
+   "title": "Craft and Structure",
+   "tag": "Reading · in every module",
    "pages": [
     "sat-words-in-context",
     "sat-vocab-toolkit",
     "sat-text-structure-purpose",
     "sat-cross-text"
-   ],
-   "tag": "Reading"
+   ]
   },
   {
-   "title": "Reading: Information and Ideas",
+   "title": "Information and Ideas",
+   "tag": "Reading · in every module",
    "pages": [
     "sat-central-ideas",
     "sat-evidence-textual",
     "sat-evidence-quantitative",
     "sat-inferences"
-   ],
-   "tag": "Reading"
+   ]
   },
   {
-   "title": "Writing: Expression of Ideas",
+   "title": "Standard English Conventions",
+   "tag": "Grammar · in every module",
+   "groups": [
+    {
+     "title": "Boundaries (punctuation)",
+     "pages": [
+      "sat-sentence-boundaries",
+      "sat-commas-extra-info",
+      "sat-commas-intro-lists",
+      "sat-semicolons",
+      "sat-colons",
+      "sat-dashes"
+     ]
+    },
+    {
+     "title": "Form, Structure and Sense",
+     "pages": [
+      "sat-subject-verb",
+      "sat-pronoun-agreement",
+      "sat-pronoun-case",
+      "sat-verb-tense",
+      "sat-verb-finiteness",
+      "sat-modifiers",
+      "sat-parallel-structure",
+      "sat-comparisons",
+      "sat-possessives-plurals"
+     ]
+    }
+   ],
+   "pages": []
+  },
+  {
+   "title": "Expression of Ideas",
+   "tag": "Writing · in every module",
    "pages": [
     "sat-transitions",
     "sat-rhetorical-synthesis"
-   ],
-   "tag": "Writing"
+   ]
   },
   {
-   "title": "Grammar: Punctuation (Boundaries)",
-   "pages": [
-    "sat-sentence-boundaries",
-    "sat-commas-extra-info",
-    "sat-commas-intro-lists",
-    "sat-semicolons",
-    "sat-colons",
-    "sat-dashes"
-   ],
-   "tag": "Grammar"
-  },
-  {
-   "title": "Grammar: Form, Structure and Sense",
-   "pages": [
-    "sat-subject-verb",
-    "sat-pronoun-agreement",
-    "sat-pronoun-case",
-    "sat-verb-tense",
-    "sat-verb-finiteness",
-    "sat-modifiers",
-    "sat-parallel-structure",
-    "sat-comparisons",
-    "sat-possessives-plurals"
-   ],
-   "tag": "Grammar"
-  },
-  {
-   "title": "Practice tests",
+   "title": "Full practice tests",
+   "tag": "Module 1 + Module 2",
    "pages": [
     "sat-practice-test-1",
     "sat-practice-test-2",

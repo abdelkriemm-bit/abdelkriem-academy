@@ -17,99 +17,117 @@
  "meta_desc": "Free complete ACT English and Reading course for the enhanced ACT: punctuation, grammar, sentence structure, concision, relevance, organisation, reading strategies and timed practice tests.",
  "sections": [
   {
-   "title": "Start here",
-   "pages": [
-    "act-overview",
-    "act-english-strategy",
-    "act-reading-strategy"
-   ]
-  },
-  {
-   "title": "Grammar: Punctuation",
-   "pages": [
-    "act-commas",
-    "act-semicolons",
-    "act-colons",
-    "act-dashes",
-    "act-apostrophes",
-    "act-unnecessary-punctuation"
+   "title": "ACT English",
+   "tag": "Paper 1 · 50 questions · 35 min",
+   "groups": [
+    {
+     "title": "Start here",
+     "pages": [
+      "act-overview",
+      "act-english-strategy"
+     ]
+    },
+    {
+     "title": "Punctuation",
+     "pages": [
+      "act-commas",
+      "act-semicolons",
+      "act-colons",
+      "act-dashes",
+      "act-apostrophes",
+      "act-unnecessary-punctuation"
+     ]
+    },
+    {
+     "title": "Sentence Structure",
+     "pages": [
+      "act-fragments",
+      "act-run-ons",
+      "act-modifiers",
+      "act-parallelism",
+      "act-faulty-comparisons",
+      "act-shifts"
+     ]
+    },
+    {
+     "title": "Usage",
+     "pages": [
+      "act-subject-verb",
+      "act-pronoun-case",
+      "act-pronoun-agreement",
+      "act-verb-tense-forms",
+      "act-adjectives-adverbs",
+      "act-comparatives-superlatives",
+      "act-idioms-prepositions",
+      "act-confused-words"
+     ]
+    },
+    {
+     "title": "Organisation, Relevance and Style",
+     "pages": [
+      "act-transitions",
+      "act-sentence-placement",
+      "act-add-delete",
+      "act-writers-goal",
+      "act-concision-redundancy",
+      "act-word-choice-tone"
+     ]
+    },
+    {
+     "title": "Practice tests",
+     "pages": [
+      "act-english-test-1",
+      "act-english-test-2"
+     ]
+    }
    ],
-   "tag": "English"
+   "pages": []
   },
   {
-   "title": "Grammar: Sentence Structure",
-   "pages": [
-    "act-fragments",
-    "act-run-ons",
-    "act-modifiers",
-    "act-parallelism",
-    "act-faulty-comparisons",
-    "act-shifts"
+   "title": "ACT Reading",
+   "tag": "Paper 2 · 36 questions · 40 min",
+   "groups": [
+    {
+     "title": "Start here",
+     "pages": [
+      "act-overview",
+      "act-reading-strategy"
+     ]
+    },
+    {
+     "title": "Key Ideas and Details",
+     "pages": [
+      "act-reading-main-idea",
+      "act-reading-details",
+      "act-reading-relationships",
+      "act-reading-inferences"
+     ]
+    },
+    {
+     "title": "Craft and Structure",
+     "pages": [
+      "act-reading-word-meaning",
+      "act-reading-purpose-structure",
+      "act-reading-point-of-view"
+     ]
+    },
+    {
+     "title": "Integration of Knowledge and Ideas",
+     "pages": [
+      "act-reading-paired-passages",
+      "act-reading-charts-graphs",
+      "act-reading-arguments-evidence"
+     ]
+    },
+    {
+     "title": "Practice tests",
+     "pages": [
+      "act-reading-test-1",
+      "act-reading-test-2"
+     ]
+    }
    ],
-   "tag": "English"
-  },
-  {
-   "title": "Grammar: Usage",
-   "pages": [
-    "act-subject-verb",
-    "act-pronoun-case",
-    "act-pronoun-agreement",
-    "act-verb-tense-forms",
-    "act-adjectives-adverbs",
-    "act-comparatives-superlatives",
-    "act-idioms-prepositions",
-    "act-confused-words"
-   ],
-   "tag": "English"
-  },
-  {
-   "title": "Writing: Organisation, Relevance and Style",
-   "pages": [
-    "act-transitions",
-    "act-sentence-placement",
-    "act-add-delete",
-    "act-writers-goal",
-    "act-concision-redundancy",
-    "act-word-choice-tone"
-   ],
-   "tag": "English"
-  },
-  {
-   "title": "Reading: Key Ideas and Details",
-   "pages": [
-    "act-reading-main-idea",
-    "act-reading-details",
-    "act-reading-relationships",
-    "act-reading-inferences"
-   ],
-   "tag": "Reading"
-  },
-  {
-   "title": "Reading: Craft and Structure",
-   "pages": [
-    "act-reading-word-meaning",
-    "act-reading-purpose-structure",
-    "act-reading-point-of-view"
-   ],
-   "tag": "Reading"
-  },
-  {
-   "title": "Reading: Integration of Knowledge and Ideas",
-   "pages": [
-    "act-reading-paired-passages",
-    "act-reading-charts-graphs",
-    "act-reading-arguments-evidence"
-   ],
-   "tag": "Reading"
-  },
-  {
-   "title": "Practice tests",
-   "pages": [
-    "act-english-test-1",
-    "act-english-test-2",
-    "act-reading-test-1",
-    "act-reading-test-2"
-   ]
+   "pages": []
   }
  ],
  "compact": true
