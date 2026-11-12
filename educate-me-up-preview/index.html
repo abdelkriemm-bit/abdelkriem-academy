@@ -124,6 +124,46 @@ td{padding:9px 8px;border-bottom:1px solid var(--line);vertical-align:top}
 .bolt{display:inline-block;background:var(--navy);color:var(--gold);border-radius:12px;padding:4px 10px;font-weight:800;font-size:12px;letter-spacing:.5px}
 .flytag{display:inline-block;background:#fff4d6;color:#9a6a00;border:1px solid var(--gold);border-radius:20px;padding:2px 8px;font-size:11px;font-weight:700;margin-left:6px}
 .footer{text-align:center;color:var(--mut);font-size:12px;padding:30px}
+
+/* ---- mobile ---- */
+img,input,select,textarea{max-width:100%}
+input[type=file]{width:100%;font-size:12px}
+.mat{overflow-wrap:anywhere;word-break:break-word}
+.card,.sess,.wk,.prog,.meme{min-width:0}
+.grid>*{min-width:0}
+@media(max-width:700px){
+  .wrap{padding:14px}
+  .demo{padding:6px 10px;gap:4px}.demo b{display:none}.demo button{padding:4px 9px;font-size:11px}.demo .reset{margin-left:0}
+  .top{padding:10px 14px;gap:4px}.logo{font-size:20px}.top .small{display:none}.top .who{font-size:12px}
+  .hero{padding:20px;border-radius:14px}.hero h1{font-size:26px}
+  .hero .wa,.hero .btn{display:flex;justify-content:center;margin:8px 0 0!important;width:100%}
+  .price .row{flex-direction:row;gap:10px}
+  .tabs{flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch;padding-bottom:6px;margin-left:-14px;margin-right:-14px;padding-left:14px;padding-right:14px}
+  .tabs button{white-space:nowrap;flex:none;padding:7px 12px;font-size:13px}
+  table,tbody,tr,td{display:block;width:100%}
+  tr:has(th){display:none}
+  tr{border:1px solid var(--line);border-radius:12px;padding:8px 6px;margin-bottom:10px;background:#fff}
+  tr:nth-child(even) td{background:transparent}
+  td{border:0;padding:3px 8px}
+  td.right{text-align:left;padding-top:8px}
+  td .btn{width:100%}
+  td[data-label]:not([data-label=''])::before{content:attr(data-label);display:block;font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.4px;color:var(--mut)}
+  .card>table{margin:0}
+  .sess{flex-wrap:wrap;padding:12px}
+  .sess .when{min-width:72px}
+  .sess .row{width:100%}.sess .row .btn{flex:1;text-align:center}
+  .chat{grid-template-columns:1fr;min-height:0}
+  .threads{display:flex;overflow-x:auto;border-right:0;border-bottom:1px solid var(--line)}
+  .threads div{white-space:nowrap;border-bottom:0;border-right:1px solid var(--line)}
+  .threads div.on{border-left:0;border-bottom:3px solid var(--gold)}
+  .m{max-width:88%}
+  .modal{padding:8px;align-items:flex-end}
+  .modal .card{max-height:92vh;border-radius:16px 16px 0 0}
+  .memes{grid-template-columns:1fr}
+  .fly{padding:16px}
+  h2{font-size:18px}
+  .row>.btn{flex:1}
+}
 </style>
 </head>
 <body>
@@ -485,6 +525,7 @@ function bind(){
   document.querySelectorAll('[data-rate]').forEach(sel=>sel.onchange=()=>{tch(sel.dataset.rate).rate=+sel.value;save();render()});
   const c=document.getElementById('compose');if(c)c.onsubmit=e=>{e.preventDefault();const t=c.t.value.trim();if(!t||!thread)return;const from={parent:'parent',teacher:'teacher',admin:'admin'}[role];const bl=role!=='admin'&&contactLeak(t);
     S.messages.push({id:'m'+Date.now(),thread,from,text:t,at:new Date().toISOString(),blocked:bl});save();render();if(bl)toast('Blocked: phone numbers, emails, links and social apps can’t be shared')};
+  document.querySelectorAll('table').forEach(tb=>{const hs=[...tb.querySelectorAll('th')].map(h=>h.textContent.trim());tb.querySelectorAll('tr').forEach(r=>[...r.children].forEach((c,i)=>{if(c.tagName==='TD'&&hs[i])c.dataset.label=hs[i]}))});
   const ml=document.querySelector('.msglist');if(ml)ml.scrollTop=ml.scrollHeight;
 }
 render();
