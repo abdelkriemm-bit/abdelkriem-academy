@@ -1,0 +1,59 @@
+{
+ "hub": "academic-writing-sentence-structure.html",
+ "active": "british.html",
+ "short": "Sentence Structure",
+ "labels": {
+  "prev": "← Previous",
+  "next": "Next →",
+  "back": "← Back to",
+  "done": "Finished! Back to",
+  "toc": "All pages in this course",
+  "start": "Start Session 1 →",
+  "crumb": "<a href=\"british.html\">British &amp; IGCSE</a> › "
+ },
+ "kicker": "Academic Writing · 8 sessions · 4 weeks",
+ "title": "Academic Writing: Sentence Structure",
+ "summary": "Master every type of conjunction, clauses and the four sentence structures, then use them to write accurate, varied academic paragraphs. 8 sessions with notes, practice and a quiz on every page, plus weekly quizzes and a final test.",
+ "sections": [
+  {
+   "title": "Week 1",
+   "tag": "Conjunctions 1",
+   "desc": "FANBOYS and subordinating conjunctions.",
+   "pages": [
+    "aws-s1-fanboys",
+    "aws-s2-subordinating",
+    "aws-quiz-week-1"
+   ]
+  },
+  {
+   "title": "Week 2",
+   "tag": "Conjunctions 2",
+   "desc": "Correlative conjunctions and conjunctive adverbs.",
+   "pages": [
+    "aws-s3-correlative",
+    "aws-s4-conjunctive-adverbs",
+    "aws-quiz-week-2"
+   ]
+  },
+  {
+   "title": "Week 3",
+   "tag": "Clauses and sentences",
+   "desc": "Phrases and clauses; the four sentence structures.",
+   "pages": [
+    "aws-s5-clauses-phrases",
+    "aws-s6-sentence-types",
+    "aws-quiz-week-3"
+   ]
+  },
+  {
+   "title": "Week 4",
+   "tag": "Writing",
+   "desc": "Sentence errors, effective sentences and the writing workshop.",
+   "pages": [
+    "aws-s7-errors-effective-sentences",
+    "aws-s8-writing-workshop",
+    "aws-final-test"
+   ]
+  }
+ ]
+}

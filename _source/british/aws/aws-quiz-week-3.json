@@ -1,0 +1,252 @@
+{
+ "slug": "aws-quiz-week-3",
+ "title": "Week 3 Quiz: Clauses and Sentence Structure",
+ "kicker": "Academic Writing · Sentence Structure · Week 3",
+ "summary": "20 questions · 20 minutes. Do it alone, without notes, then upload a screenshot of your score to Google Classroom.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Before you start",
+   "items": [
+    "Do the quiz alone, without your notes.",
+    "You have 20 minutes. The timer starts when you press Start.",
+    "At the end, take a screenshot of your score and upload it to the quiz assignment on Google Classroom."
+   ]
+  },
+  {
+   "type": "test",
+   "title": "Week 3 Quiz: Clauses and Sentence Structure",
+   "timed": true,
+   "intro": "20 multiple-choice questions · 20 minutes.",
+   "sections": [
+    {
+     "name": "Quiz",
+     "minutes": 20,
+     "questions": [
+      {
+       "t": "mcq",
+       "q": "Which is a clause?",
+       "c": [
+        "after the rain stopped",
+        "in the garden",
+        "to win the cup",
+        "a very old house"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "q": "Which is a phrase?",
+       "c": [
+        "under the old table",
+        "because it was late",
+        "when he arrived",
+        "she laughed"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "q": "Which is an independent clause?",
+       "c": [
+        "the train arrived",
+        "who lives here",
+        "if you hurry",
+        "although it rained"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "q": "The girl **who sits next to me** is from Aswan. The bold part is …",
+       "c": [
+        "an IC",
+        "an adverb clause",
+        "a noun clause",
+        "a relative clause"
+       ],
+       "a": 3
+      },
+      {
+       "t": "mcq",
+       "q": "I don't know **why he left**. The bold part is …",
+       "c": [
+        "a relative clause",
+        "an adverb clause",
+        "a phrase",
+        "a noun clause"
+       ],
+       "a": 3
+      },
+      {
+       "t": "mcq",
+       "q": "We'll start **when everyone arrives**. The bold part is …",
+       "c": [
+        "a noun clause",
+        "an IC",
+        "an adverb clause",
+        "a relative clause"
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "q": "How many clauses? When the rain stopped, we went out, and the children played.",
+       "c": [
+        "1",
+        "2",
+        "3",
+        "4"
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "q": "The cat jumped onto the wall and ran away.",
+       "c": [
+        "simple",
+        "compound",
+        "complex",
+        "compound-complex"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "q": "The cat jumped onto the wall, and the dog barked.",
+       "c": [
+        "simple",
+        "compound",
+        "complex",
+        "compound-complex"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "q": "When the dog barked, the cat ran away.",
+       "c": [
+        "simple",
+        "compound",
+        "complex",
+        "compound-complex"
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "q": "When the dog barked, the cat ran away, but the bird stayed.",
+       "c": [
+        "simple",
+        "compound",
+        "complex",
+        "compound-complex"
+       ],
+       "a": 3
+      },
+      {
+       "t": "mcq",
+       "q": "I think that you are right.",
+       "c": [
+        "simple",
+        "compound",
+        "complex",
+        "compound-complex"
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "q": "It was raining; we stayed inside.",
+       "c": [
+        "simple",
+        "compound",
+        "complex",
+        "compound-complex"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "q": "Which is a correct compound sentence?",
+       "c": [
+        "She studied hard, she passed.",
+        "She studied hard; she passed.",
+        "She studied hard she passed.",
+        "She studied hard, therefore she passed."
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "q": "Which is a correct complex sentence?",
+       "c": [
+        "She passed, because, she studied hard.",
+        "Because she studied hard. She passed.",
+        "Because she studied hard she passed.",
+        "Because she studied hard, she passed."
+       ],
+       "a": 3
+      },
+      {
+       "t": "mcq",
+       "q": "Which formula is compound-complex?",
+       "c": [
+        "DC, IC, but IC",
+        "DC, IC",
+        "IC DC",
+        "IC, and IC"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "q": "Which is correct?",
+       "c": [
+        "My uncle who is a pilot, travels a lot.",
+        "My uncle, who is a pilot travels a lot.",
+        "My uncle, who is a pilot, travels a lot.",
+        "My uncle who, is a pilot, travels a lot."
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "q": "Which word starts a relative clause about a **thing**?",
+       "c": [
+        "who",
+        "although",
+        "because",
+        "which"
+       ],
+       "a": 3
+      },
+      {
+       "t": "mcq",
+       "q": "Simple sentence = …",
+       "c": [
+        "1 IC",
+        "2 ICs",
+        "IC + DC",
+        "1 DC"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "q": "Which is NOT a correct way to join two ICs?",
+       "c": [
+        "IC; however, IC",
+        "IC, IC",
+        "IC, so IC",
+        "IC; IC"
+       ],
+       "a": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

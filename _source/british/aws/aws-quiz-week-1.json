@@ -1,0 +1,252 @@
+{
+ "slug": "aws-quiz-week-1",
+ "title": "Week 1 Quiz: FANBOYS and Subordinating Conjunctions",
+ "kicker": "Academic Writing · Sentence Structure · Week 1",
+ "summary": "20 questions · 20 minutes. Do it alone, without notes, then upload a screenshot of your score to Google Classroom.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Before you start",
+   "items": [
+    "Do the quiz alone, without your notes.",
+    "You have 20 minutes. The timer starts when you press Start.",
+    "At the end, take a screenshot of your score and upload it to the quiz assignment on Google Classroom."
+   ]
+  },
+  {
+   "type": "test",
+   "title": "Week 1 Quiz: FANBOYS and Subordinating Conjunctions",
+   "timed": true,
+   "intro": "20 multiple-choice questions · 20 minutes.",
+   "sections": [
+    {
+     "name": "Quiz",
+     "minutes": 20,
+     "questions": [
+      {
+       "t": "mcq",
+       "q": "The sky was dark, ___ we took our umbrellas.",
+       "c": [
+        "for",
+        "nor",
+        "yet",
+        "so"
+       ],
+       "a": 3
+      },
+      {
+       "t": "mcq",
+       "q": "We took our umbrellas, ___ the sky was dark.",
+       "c": [
+        "so",
+        "or",
+        "for",
+        "nor"
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "q": "He is very rich, ___ he is never happy.",
+       "c": [
+        "so",
+        "yet",
+        "or",
+        "for"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "q": "She can't sing, ___ can she dance.",
+       "c": [
+        "or",
+        "but",
+        "so",
+        "nor"
+       ],
+       "a": 3
+      },
+      {
+       "t": "mcq",
+       "q": "Finish your dinner, ___ you won't get dessert.",
+       "c": [
+        "yet",
+        "and",
+        "for",
+        "or"
+       ],
+       "a": 3
+      },
+      {
+       "t": "mcq",
+       "q": "Which sentence is correct?",
+       "c": [
+        "The teacher smiled and, said hello.",
+        "The teacher, smiled and said hello.",
+        "The teacher smiled, and said hello.",
+        "The teacher smiled and said hello."
+       ],
+       "a": 3
+      },
+      {
+       "t": "mcq",
+       "q": "Which sentence is correct?",
+       "c": [
+        "The teacher smiled and, the students relaxed.",
+        "The teacher smiled, and, the students relaxed.",
+        "The teacher smiled and the students relaxed.",
+        "The teacher smiled, and the students relaxed."
+       ],
+       "a": 3
+      },
+      {
+       "t": "mcq",
+       "q": "Which is a comma splice?",
+       "c": [
+        "I was late, I ran.",
+        "I was late and ran.",
+        "I was late, so I ran.",
+        "Because I was late, I ran."
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "q": "He didn't call, nor ___.",
+       "c": [
+        "he wrote",
+        "he did write",
+        "did he write",
+        "wrote he"
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "q": "___ the film was long, nobody left the cinema.",
+       "c": [
+        "Unless",
+        "Until",
+        "Because",
+        "Although"
+       ],
+       "a": 3
+      },
+      {
+       "t": "mcq",
+       "q": "I won't go out ___ I finish my homework.",
+       "c": [
+        "until",
+        "so that",
+        "although",
+        "whereas"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "q": "___ you water the plants, they will die.",
+       "c": [
+        "Once",
+        "Since",
+        "Unless",
+        "If"
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "q": "We have lived in Maadi ___ 2019.",
+       "c": [
+        "while",
+        "until",
+        "since",
+        "for"
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "q": "He trained every day ___ he could join the team.",
+       "c": [
+        "unless",
+        "whereas",
+        "although",
+        "so that"
+       ],
+       "a": 3
+      },
+      {
+       "t": "mcq",
+       "q": "Which is correct?",
+       "c": [
+        "If it rains we will stay home.",
+        "If it rains, we will stay home.",
+        "If, it rains we will stay home.",
+        "We will stay home, if it rains."
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "q": "Which is correct?",
+       "c": [
+        "Although she was tired she worked, but.",
+        "She was tired, although but she worked.",
+        "Although she was tired, but she worked.",
+        "Although she was tired, she worked."
+       ],
+       "a": 3
+      },
+      {
+       "t": "mcq",
+       "q": "Which is a fragment?",
+       "c": [
+        "The lesson started at nine.",
+        "When the lesson started.",
+        "When the lesson started, we sat down.",
+        "The lesson started."
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "q": "I'll call you when I ___ home.",
+       "c": [
+        "will get",
+        "got",
+        "getting",
+        "get"
+       ],
+       "a": 3
+      },
+      {
+       "t": "mcq",
+       "q": "Egypt is hot in summer, ___ the UK is usually cool. (comparing two facts)",
+       "c": [
+        "unless",
+        "because",
+        "whereas",
+        "until"
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "q": "Studies show ___ exercise improves memory.",
+       "c": [
+        "if",
+        "while",
+        "that",
+        "unless"
+       ],
+       "a": 2
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

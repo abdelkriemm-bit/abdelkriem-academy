@@ -1,0 +1,362 @@
+{
+ "slug": "aws-final-test",
+ "title": "Final Test: Academic Writing Sentence Structure",
+ "kicker": "Academic Writing · Sentence Structure · Week 4",
+ "summary": "30 questions · 30 minutes. Do it alone, without notes, then upload a screenshot of your score to Google Classroom.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "Before you start",
+   "items": [
+    "Do the quiz alone, without your notes.",
+    "You have 30 minutes. The timer starts when you press Start.",
+    "At the end, take a screenshot of your score and upload it to the quiz assignment on Google Classroom."
+   ]
+  },
+  {
+   "type": "test",
+   "title": "Final Test: Academic Writing Sentence Structure",
+   "timed": true,
+   "intro": "30 multiple-choice questions · 30 minutes.",
+   "sections": [
+    {
+     "name": "Quiz",
+     "minutes": 30,
+     "questions": [
+      {
+       "t": "mcq",
+       "q": "Which list contains only FANBOYS?",
+       "c": [
+        "although, but, so",
+        "however, and, or",
+        "because, yet, nor",
+        "for, and, but, so"
+       ],
+       "a": 3
+      },
+      {
+       "t": "mcq",
+       "q": "It was very cold, ___ we lit a fire.",
+       "c": [
+        "nor",
+        "so",
+        "for",
+        "or"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "q": "The plan sounded perfect, ___ it failed.",
+       "c": [
+        "or",
+        "yet",
+        "so",
+        "for"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "q": "He didn't apologise, nor ___ help.",
+       "c": [
+        "did he offer to",
+        "offered he to",
+        "he did offer to",
+        "he offered to"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "q": "Which sentence is correct?",
+       "c": [
+        "Nada finished early and went home.",
+        "Nada finished early and, went home.",
+        "Nada, finished early and went home.",
+        "Nada finished early, and went home."
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "q": "___ she was nervous, she answered every question.",
+       "c": [
+        "So that",
+        "Because",
+        "Although",
+        "Unless"
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "q": "You won't improve ___ you practise.",
+       "c": [
+        "since",
+        "if",
+        "unless",
+        "when"
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "q": "Which is correct?",
+       "c": [
+        "While I was reading, the lights went out.",
+        "While, I was reading the lights went out.",
+        "While I was reading the lights went out.",
+        "The lights went out, while, I was reading."
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "q": "Which is correct?",
+       "c": [
+        "Because he was hungry, he ate.",
+        "Because he was hungry. He ate.",
+        "He was hungry, because so he ate.",
+        "Because he was hungry, so he ate."
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "q": "Neither the players nor the coach ___ satisfied.",
+       "c": [
+        "were",
+        "are",
+        "have been",
+        "was"
+       ],
+       "a": 3
+      },
+      {
+       "t": "mcq",
+       "q": "Both the museum and the library ___ closed on Fridays.",
+       "c": [
+        "was",
+        "is",
+        "has been",
+        "are"
+       ],
+       "a": 3
+      },
+      {
+       "t": "mcq",
+       "q": "Which is correct?",
+       "c": [
+        "Not only she sings but also dances.",
+        "She sings not only but also dances.",
+        "She not only sings but also dances.",
+        "She not only sings but also a dancer."
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "q": "Prices went up; ___, fewer people bought cars.",
+       "c": [
+        "for example",
+        "instead",
+        "however",
+        "as a result"
+       ],
+       "a": 3
+      },
+      {
+       "t": "mcq",
+       "q": "The hotel was cheap; ___, it was very clean.",
+       "c": [
+        "otherwise",
+        "therefore",
+        "instead",
+        "moreover"
+       ],
+       "a": 3
+      },
+      {
+       "t": "mcq",
+       "q": "Which is punctuated correctly?",
+       "c": [
+        "The results; however, were surprising.",
+        "The results however, were surprising.",
+        "The results, however, were surprising.",
+        "The results however were, surprising."
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "q": "Which is a comma splice?",
+       "c": [
+        "We were tired, so we slept.",
+        "We were tired, we slept.",
+        "Because we were tired, we slept.",
+        "We were tired; we slept."
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "q": "Which is a run-on?",
+       "c": [
+        "The bell rang. We left.",
+        "The bell rang, and we left.",
+        "When the bell rang, we left.",
+        "The bell rang we left."
+       ],
+       "a": 3
+      },
+      {
+       "t": "mcq",
+       "q": "Which is a fragment?",
+       "c": [
+        "We drove slowly because the road was icy.",
+        "The road was icy, so we drove slowly.",
+        "Although the road was icy.",
+        "The road was icy."
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "q": "Which is a phrase?",
+       "c": [
+        "after the storm ended",
+        "after the storm",
+        "the storm ended",
+        "because the storm ended"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "q": "The book **that I am reading** is exciting. The bold part is …",
+       "c": [
+        "a noun clause",
+        "an adverb clause",
+        "a relative clause",
+        "an IC"
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "q": "She said **that the test was easy**. The bold part is …",
+       "c": [
+        "a phrase",
+        "a relative clause",
+        "an adverb clause",
+        "a noun clause"
+       ],
+       "a": 3
+      },
+      {
+       "t": "mcq",
+       "q": "Ahmed and Ali ran to the shop and bought bread.",
+       "c": [
+        "simple",
+        "compound",
+        "complex",
+        "compound-complex"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "q": "The shop was closed, so we went home.",
+       "c": [
+        "simple",
+        "compound",
+        "complex",
+        "compound-complex"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "q": "We went home because the shop was closed.",
+       "c": [
+        "simple",
+        "compound",
+        "complex",
+        "compound-complex"
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "q": "Because the shop was closed, we went home, and we cooked dinner.",
+       "c": [
+        "simple",
+        "compound",
+        "complex",
+        "compound-complex"
+       ],
+       "a": 3
+      },
+      {
+       "t": "mcq",
+       "q": "Which structure is best for a short, powerful topic sentence?",
+       "c": [
+        "compound-complex",
+        "a run-on",
+        "a fragment",
+        "simple"
+       ],
+       "a": 3
+      },
+      {
+       "t": "mcq",
+       "q": "Which best fixes Exams are stressful, however they are necessary?",
+       "c": [
+        "Exams are stressful; however, they are necessary.",
+        "Exams are stressful however they are necessary.",
+        "Exams are stressful however, they are necessary.",
+        "Exams are stressful, however, they are necessary."
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "q": "Which opening makes a counter-point?",
+       "c": [
+        "Therefore,",
+        "For example,",
+        "On the other hand,",
+        "Furthermore,"
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "q": "Which is a correct compound-complex sentence?",
+       "c": [
+        "Although it was late the café was open and we ordered tea.",
+        "Although it was late, the café was open, we ordered tea.",
+        "It was late, the café was open, and we ordered tea.",
+        "Although it was late, the café was open, and we ordered tea."
+       ],
+       "a": 3
+      },
+      {
+       "t": "mcq",
+       "q": "Which pair must never be used for the same link?",
+       "c": [
+        "not only … but also",
+        "either … or",
+        "both … and",
+        "because … so"
+       ],
+       "a": 3
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

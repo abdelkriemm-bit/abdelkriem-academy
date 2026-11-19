@@ -1,0 +1,484 @@
+{
+ "slug": "aws-s6-sentence-types",
+ "title": "Session 6: Sentence Structure: Simple, Compound, Complex and Compound-Complex",
+ "nav": "Session 6",
+ "kicker": "Academic Writing · Sentence Structure · Session 6",
+ "summary": "The four sentence structures as formulas built from IC and DC — simple, compound (three ways to join), complex (DC, IC and IC DC) and compound-complex — with the conjunctions and punctuation for each, and a lot of practice.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "By the end of this session you can …",
+   "items": [
+    "Write the formula for each of the four sentence structures",
+    "Join two ICs in the three correct ways",
+    "Build complex sentences in both orders with the right comma",
+    "Build and identify compound-complex sentences"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. The four structures as formulas"
+  },
+  {
+   "type": "p",
+   "text": "You now know what an **IC** (independent clause) and a **DC** (dependent clause) are. Every sentence structure is simply a mix of them:"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Structure",
+    "Formula",
+    "Example"
+   ],
+   "rows": [
+    [
+     "**Simple**",
+     "**1 IC**",
+     "The students finished the test."
+    ],
+    [
+     "**Compound**",
+     "**IC + IC**",
+     "The students finished the test, **and** the teacher collected the papers."
+    ],
+    [
+     "**Complex**",
+     "**IC + DC**",
+     "**When** the students finished the test, the teacher collected the papers."
+    ],
+    [
+     "**Compound-complex**",
+     "**2 or more ICs + at least 1 DC**",
+     "**When** the bell rang, the students finished the test, **and** the teacher collected the papers."
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "2. Simple sentence = 1 IC"
+  },
+  {
+   "type": "list",
+   "items": [
+    "One subject + verb pair (one clause).",
+    "It can still be long: it may have **two subjects** or **two verbs** joined by and/or/but and many phrases.",
+    "Ali and his brother **played** football in the park after school. → still simple (one clause, compound subject).",
+    "She **opened** the door and **walked** in. → still simple (one subject, two verbs, no comma)."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "3. Compound sentence = IC + IC (three ways to join)"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Way",
+    "Pattern",
+    "Example"
+   ],
+   "rows": [
+    [
+     "1. comma + FANBOYS",
+     "**IC, FANBOYS IC**",
+     "The rain stopped, **so** we went outside."
+    ],
+    [
+     "2. semicolon",
+     "**IC; IC**",
+     "The rain stopped**;** the sun came out."
+    ],
+    [
+     "3. semicolon + conjunctive adverb + comma",
+     "**IC; however, IC**",
+     "The rain stopped**; however,** the ground was still wet."
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "Never join two ICs with …",
+   "items": [
+    "**a comma only** → comma splice ✗ The rain stopped, we went outside.",
+    "**nothing at all** → run-on (fused sentence) ✗ The rain stopped we went outside.",
+    "**comma + however** → comma splice ✗ The rain stopped, however the ground was wet."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Use a semicolon alone only when the two ideas are closely related",
+   "items": [
+    "✓ The library was silent; everyone was studying.",
+    "✗ The library was silent; my favourite food is pizza. (no link between the ideas)"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "4. Complex sentence = IC + DC"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Order",
+    "Pattern",
+    "Comma?",
+    "Example"
+   ],
+   "rows": [
+    [
+     "DC first",
+     "**DC, IC**",
+     "✓ comma",
+     "**Although it was late,** we kept working."
+    ],
+    [
+     "IC first",
+     "**IC DC**",
+     "✗ no comma",
+     "We kept working **although it was late.**"
+    ],
+    [
+     "relative clause inside the IC",
+     "**IC (DC) IC**",
+     "commas only for extra information",
+     "The boy **who won the prize** is my cousin."
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "The DC can be any of the three types",
+   "items": [
+    "adverb clause (because, although, when, if …) · relative clause (who, which, that …) · noun clause (that, what, why …).",
+    "I think **that** the answer is wrong. → complex (IC + noun clause)."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "5. Compound-complex = 2+ ICs + 1+ DC"
+  },
+  {
+   "type": "p",
+   "text": "Build it in steps: make a compound sentence (IC + IC), then add a DC to one of the ICs."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Formula",
+    "Example"
+   ],
+   "rows": [
+    [
+     "**DC, IC, FANBOYS IC**",
+     "**When the alarm rang,** I got up, **but** my brother stayed in bed."
+    ],
+    [
+     "**IC, FANBOYS IC DC**",
+     "I got up, **but** my brother stayed in bed **because he was tired.**"
+    ],
+    [
+     "**IC DC; however, IC**",
+     "I got up **when the alarm rang;** **however,** my brother stayed in bed."
+    ],
+    [
+     "**DC, IC; IC**",
+     "**Although the test was hard,** Mona finished early**;** she had revised every day."
+    ],
+    [
+     "**IC (relative clause) IC, FANBOYS IC**",
+     "The teacher **who marked our tests** was strict, **yet** everyone passed."
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "How to identify any sentence in 3 steps",
+   "items": [
+    "1. Find every **subject + verb** pair and count the clauses.",
+    "2. Mark each clause **IC** or **DC** (does it start with a subordinating conjunction or relative word?).",
+    "3. Use the formula: 1 IC = simple · 2+ IC = compound · IC + DC = complex · 2+ IC + DC = compound-complex."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "6. Review: which joining word for which structure?"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Structure",
+    "Joining words you can use"
+   ],
+   "rows": [
+    [
+     "Compound",
+     "FANBOYS (with a comma) · semicolon · conjunctive adverbs (; however,) · correlative pairs joining two clauses (Either you … , or …)"
+    ],
+    [
+     "Complex",
+     "subordinating conjunctions (although, because, when, if, until …) · relative words (who, which, that …) · that / what / why (noun clauses)"
+    ],
+    [
+     "Compound-complex",
+     "a mix of both lists"
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "7. Practice in the session"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "Identify: My cousin and I watched the match on TV.",
+     "a": "**simple** (1 IC with a compound subject)"
+    },
+    {
+     "q": "Identify: My cousin watched the match, but I went to bed.",
+     "a": "**compound** (IC, but IC)"
+    },
+    {
+     "q": "Identify: I went to bed before the match ended.",
+     "a": "**complex** (IC DC)"
+    },
+    {
+     "q": "Identify: Before the match ended, I went to bed, but my cousin stayed up.",
+     "a": "**compound-complex** (DC, IC, but IC)"
+    },
+    {
+     "q": "Identify: The match that we watched was exciting.",
+     "a": "**complex** (relative clause inside the IC)"
+    },
+    {
+     "q": "Join in three compound ways: The museum was closed. We visited the park.",
+     "a": "…closed, so we visited the park. · …closed; we visited the park. · …closed; therefore, we visited the park."
+    },
+    {
+     "q": "Make it complex (DC, IC): The museum was closed. We visited the park.",
+     "a": "Because the museum was closed, we visited the park."
+    },
+    {
+     "q": "Make it complex (IC DC): same sentences",
+     "a": "We visited the park because the museum was closed."
+    },
+    {
+     "q": "Make it compound-complex: add a DC to The museum was closed, so we visited the park.",
+     "a": "e.g. Because it was Friday, the museum was closed, so we visited the park."
+    },
+    {
+     "q": "Fix: The bus was late, we walked to school.",
+     "a": "comma splice → The bus was late, so we walked to school. / …late; we walked…"
+    },
+    {
+     "q": "Fix: Because the bus was late, so we walked.",
+     "a": "Because the bus was late, we walked. (complex) / The bus was late, so we walked. (compound)"
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Extra practice"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Checkpoint 8: Sentence types (with quiz): https://abdelkriemacademy.com/checkpoint-8-sentence-types.html",
+    "Sentence structure practice (with quiz): https://abdelkriemacademy.com/act-sentence-structure.html"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice quiz"
+  },
+  {
+   "type": "p",
+   "text": "Answer all 15 questions, then check your score and read the explanations. Take a screenshot of your final score and upload it to the Practice Quiz assignment on Google Classroom."
+  },
+  {
+   "type": "test",
+   "title": "Session 6 Practice Quiz",
+   "timed": false,
+   "intro": "15 questions. Choose the best answer. You see your score and the explanations at the end.",
+   "sections": [
+    {
+     "name": "Practice quiz",
+     "questions": [
+      {
+       "t": "mcq",
+       "q": "Simple sentence = …",
+       "c": [
+        "2 ICs + 1 DC",
+        "IC + DC",
+        "IC + IC",
+        "1 IC"
+       ],
+       "a": 3
+      },
+      {
+       "t": "mcq",
+       "q": "Compound sentence = …",
+       "c": [
+        "IC + IC",
+        "IC + DC",
+        "DC + DC",
+        "1 IC"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "q": "Complex sentence = …",
+       "c": [
+        "1 IC",
+        "only DCs",
+        "IC + DC",
+        "IC + IC"
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "q": "Compound-complex sentence = …",
+       "c": [
+        "2 or more ICs + at least 1 DC",
+        "1 IC + 2 DCs",
+        "IC + IC",
+        "IC + DC"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "q": "Sara and her sister cooked and served dinner.",
+       "c": [
+        "simple",
+        "compound",
+        "complex",
+        "compound-complex"
+       ],
+       "a": 0,
+       "e": "one clause: compound subject + compound verb"
+      },
+      {
+       "t": "mcq",
+       "q": "The phone rang, so I answered it.",
+       "c": [
+        "simple",
+        "compound",
+        "complex",
+        "compound-complex"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "q": "Because the phone rang, I woke up.",
+       "c": [
+        "simple",
+        "compound",
+        "complex",
+        "compound-complex"
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "q": "Because the phone rang, I woke up, and I answered it.",
+       "c": [
+        "simple",
+        "compound",
+        "complex",
+        "compound-complex"
+       ],
+       "a": 3
+      },
+      {
+       "t": "mcq",
+       "q": "The book that you lent me is fantastic.",
+       "c": [
+        "simple",
+        "compound",
+        "complex",
+        "compound-complex"
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "q": "Which is a correct compound sentence?",
+       "c": [
+        "It was cold, however we stayed in.",
+        "It was cold we stayed in.",
+        "It was cold; we stayed in.",
+        "It was cold, we stayed in."
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "q": "Which is a correct complex sentence?",
+       "c": [
+        "Although it was cold. We went out.",
+        "We went out, although, it was cold.",
+        "Although it was cold, we went out.",
+        "Although it was cold we went out."
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "q": "Which is correct?",
+       "c": [
+        "She left early; because she was ill.",
+        "She left early because she was ill.",
+        "She left early, because, she was ill.",
+        "Because she was ill. She left early."
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "q": "Which pattern is **compound-complex**?",
+       "c": [
+        "IC, and IC",
+        "IC DC",
+        "DC, IC; however, IC",
+        "DC, IC"
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "q": "I think that you are right. This is …",
+       "c": [
+        "simple",
+        "compound",
+        "compound-complex",
+        "complex (noun clause)"
+       ],
+       "a": 3
+      },
+      {
+       "t": "mcq",
+       "q": "Which way does NOT correctly join two ICs?",
+       "c": [
+        "IC, therefore IC",
+        "IC; IC",
+        "IC; therefore, IC",
+        "IC, but IC"
+       ],
+       "a": 0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

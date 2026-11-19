@@ -1,0 +1,500 @@
+{
+ "slug": "aws-s2-subordinating",
+ "title": "Session 2: Subordinating Conjunctions",
+ "nav": "Session 2",
+ "kicker": "Academic Writing · Sentence Structure · Session 2",
+ "summary": "The most common subordinating conjunctions — although, though, even though, when, while, if, unless, since, once, until, because, so that and that — what each one means, and the comma rule for DC, IC and IC DC. Plus a FANBOYS review.",
+ "blocks": [
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "By the end of this session you can …",
+   "items": [
+    "Explain what a subordinating conjunction does to a clause",
+    "Use the most common subordinating conjunctions with the right meaning",
+    "Use a comma after a dependent clause at the start (DC, IC) and no comma in IC DC",
+    "Never use although + but, or because + so, in the same sentence"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "1. Quick review: FANBOYS"
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Remember from Session 1",
+   "items": [
+    "FANBOYS = for, and, nor, but, or, yet, so.",
+    "**IC, FANBOYS IC** → comma before the conjunction: It was late, so we took a taxi.",
+    "Two verbs, one subject → no comma: She ate quickly and left."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "2. What does a subordinating conjunction do?"
+  },
+  {
+   "type": "p",
+   "text": "A subordinating conjunction goes at the start of a clause and makes it **dependent**. A **dependent clause (DC)** has a subject and a verb, but it **cannot stand alone** — it needs an independent clause (IC) to complete the meaning."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Independent clause (IC)",
+    "Add a subordinating conjunction",
+    "Dependent clause (DC) — not a sentence on its own"
+   ],
+   "rows": [
+    [
+     "It was raining.",
+     "because",
+     "because it was raining …"
+    ],
+    [
+     "She finished her homework.",
+     "after",
+     "after she finished her homework …"
+    ],
+    [
+     "You study.",
+     "if",
+     "if you study …"
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "A DC alone is a fragment",
+   "items": [
+    "✗ Because it was raining. (What happened? The idea is not complete.)",
+    "✓ We stayed inside because it was raining. ✓ Because it was raining, we stayed inside."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "3. The most common subordinating conjunctions"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Meaning",
+    "Conjunctions",
+    "Example"
+   ],
+   "rows": [
+    [
+     "**contrast / concession**",
+     "although, though, even though, while, whereas",
+     "**Although** the test was hard, she finished it."
+    ],
+    [
+     "**time**",
+     "when, while, before, after, until, since, once, as soon as",
+     "**When** the bell rang, the students left."
+    ],
+    [
+     "**reason**",
+     "because, since, as",
+     "We stayed home **because** it was snowing."
+    ],
+    [
+     "**condition**",
+     "if, unless, once",
+     "**If** you practise every day, you will improve."
+    ],
+    [
+     "**purpose**",
+     "so that",
+     "She saved money **so that** she could buy a laptop."
+    ],
+    [
+     "**reporting / giving facts**",
+     "that",
+     "Scientists believe **that** the climate is changing."
+    ]
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "4. Mastering each one"
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "ALTHOUGH · THOUGH · EVEN THOUGH = contrast",
+   "items": [
+    "The two ideas are opposite: Although he was ill, he went to school.",
+    "Though means the same and is slightly less formal. Even though is stronger (more surprising).",
+    "✗ Although it was cold, but we went swimming. — never use **although + but** together. Choose one: Although it was cold, we went swimming. / It was cold, but we went swimming."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "WHEN vs WHILE (time)",
+   "items": [
+    "When = at that moment (often a short action): When the phone rang, I answered it.",
+    "While = during a longer action (often with the past continuous): While I was cooking, the phone rang."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "WHILE · WHEREAS = contrast between two facts",
+   "items": [
+    "While can also compare two different things: My brother loves football, **while** I prefer tennis.",
+    "Whereas is used only for this comparison: Cairo is hot and dry, **whereas** London is cool and wet.",
+    "These two are the one place where we often put a comma in IC DC, because the two facts are being compared."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "SINCE: two meanings",
+   "items": [
+    "**Time** (from a point in the past until now) → use the present perfect: I have lived here **since** I was five.",
+    "**Reason** (= because): **Since** the shop was closed, we went home."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "ONCE · UNTIL · AS SOON AS",
+   "items": [
+    "Once = after / as soon as: **Once** you finish the test, hand in your paper.",
+    "Until = up to that time: Wait here **until** I come back.",
+    "With until, once, when, as soon as, before, after, if, use the **present** tense for the future: ✗ until I will come back ✓ until I come back."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "IF · UNLESS = condition",
+   "items": [
+    "If you leave now, you will catch the bus.",
+    "Unless = if … not: **Unless** you leave now, you will miss the bus. (= If you don't leave now …)",
+    "✗ Unless you don't leave now — unless is already negative."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "BECAUSE · SO THAT",
+   "items": [
+    "Because gives the reason: She was late **because** her car broke down.",
+    "So that gives the purpose (the aim): She left early **so that** she would not be late.",
+    "✗ Because she was tired, so she slept. — never **because + so** in one sentence."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "THAT",
+   "items": [
+    "That starts a clause that acts like a noun, often after verbs such as think, believe, know, say, show, suggest: The results show **that** the plan worked.",
+    "In academic writing, keep that after show, suggest, argue, believe: Research suggests **that** sleep improves memory."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "5. The comma rule"
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Order",
+    "Comma?",
+    "Example"
+   ],
+   "rows": [
+    [
+     "**DC, IC** (dependent clause first)",
+     "✓ comma after the DC",
+     "**Although it was late**, we kept working."
+    ],
+    [
+     "**IC DC** (independent clause first)",
+     "✗ no comma",
+     "We kept working **although it was late**."
+    ]
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Easy way to remember",
+   "items": [
+    "If the sentence **starts** with the subordinating conjunction, put a comma where the dependent clause ends.",
+    "If the conjunction is in the **middle**, you usually need no comma (except whereas / while when you compare two facts)."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "warning",
+   "title": "FANBOYS or subordinating conjunction?",
+   "items": [
+    "It was cold, **but** we went out. = **Although** it was cold, we went out. Same meaning, different structure.",
+    "It was late, **so** we took a taxi. = **Because** it was late, we took a taxi.",
+    "Use one joining word for one link — not two."
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "6. Practice in the session"
+  },
+  {
+   "type": "qa",
+   "items": [
+    {
+     "q": "Choose: ___ she was very tired, she finished the essay. (Although / Because)",
+     "a": "**Although** (contrast)"
+    },
+    {
+     "q": "Choose: Stay inside ___ the rain stops. (until / since)",
+     "a": "**until**"
+    },
+    {
+     "q": "Choose: I have known Omar ___ we were six. (since / while)",
+     "a": "**since** (time, present perfect)"
+    },
+    {
+     "q": "Choose: ___ you hurry, you will be late. (If / Unless)",
+     "a": "**Unless** (= if you don't hurry)"
+    },
+    {
+     "q": "Choose: She studied hard ___ she could get a scholarship. (so that / because)",
+     "a": "**so that** (purpose)"
+    },
+    {
+     "q": "Choose: ___ I was walking home, I saw an accident. (While / Once)",
+     "a": "**While** (during a longer action)"
+    },
+    {
+     "q": "Add the comma if needed: When the film ended we went home.",
+     "a": "When the film ended, we went home. (DC, IC)"
+    },
+    {
+     "q": "Add the comma if needed: We went home when the film ended.",
+     "a": "No comma (IC DC)."
+    },
+    {
+     "q": "Correct: Although the hotel was expensive, but the rooms were small.",
+     "a": "Although the hotel was expensive, the rooms were small. (or: The hotel was expensive, but the rooms were small.)"
+    },
+    {
+     "q": "Correct: Because it was raining. We stayed at home.",
+     "a": "Fragment. ✓ Because it was raining, we stayed at home."
+    },
+    {
+     "q": "Correct: I will call you when I will arrive.",
+     "a": "I will call you when I arrive."
+    },
+    {
+     "q": "Rewrite with **although**: The task was difficult, but we finished it.",
+     "a": "Although the task was difficult, we finished it."
+    }
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Extra practice"
+  },
+  {
+   "type": "list",
+   "items": [
+    "Concession clauses: although, though, even though (with quiz): https://abdelkriemacademy.com/bac-gram-concession-clauses.html"
+   ]
+  },
+  {
+   "type": "h2",
+   "text": "Practice quiz"
+  },
+  {
+   "type": "p",
+   "text": "Answer all 15 questions, then check your score and read the explanations. Take a screenshot of your final score and upload it to the Practice Quiz assignment on Google Classroom."
+  },
+  {
+   "type": "test",
+   "title": "Session 2 Practice Quiz",
+   "timed": false,
+   "intro": "15 questions. Choose the best answer. You see your score and the explanations at the end.",
+   "sections": [
+    {
+     "name": "Practice quiz",
+     "questions": [
+      {
+       "t": "mcq",
+       "q": "What does a subordinating conjunction do to a clause?",
+       "c": [
+        "makes it dependent",
+        "turns it into a phrase",
+        "makes it a question",
+        "makes it independent"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "q": "Which is a **fragment**?",
+       "c": [
+        "Because the road was closed, we turned back.",
+        "The road was closed.",
+        "Because the road was closed.",
+        "We turned back because the road was closed."
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "q": "___ he trained hard, he lost the race.",
+       "c": [
+        "Although",
+        "Because",
+        "So that",
+        "Unless"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "q": "I have worked here ___ 2020.",
+       "c": [
+        "until",
+        "once",
+        "while",
+        "since"
+       ],
+       "a": 3
+      },
+      {
+       "t": "mcq",
+       "q": "You will fail ___ you study. (= if you do not study)",
+       "c": [
+        "although",
+        "if",
+        "unless",
+        "when"
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "q": "She whispered ___ the baby would not wake up.",
+       "c": [
+        "unless",
+        "because",
+        "although",
+        "so that"
+       ],
+       "a": 3,
+       "e": "purpose"
+      },
+      {
+       "t": "mcq",
+       "q": "Which sentence is punctuated correctly?",
+       "c": [
+        "The students left, when the bell rang.",
+        "When, the bell rang the students left.",
+        "When the bell rang the students left.",
+        "When the bell rang, the students left."
+       ],
+       "a": 3,
+       "e": "DC, IC"
+      },
+      {
+       "t": "mcq",
+       "q": "Which sentence is punctuated correctly?",
+       "c": [
+        "We waited until the rain stopped.",
+        "We waited, until the rain stopped.",
+        "Until the rain stopped we waited.",
+        "We waited until, the rain stopped."
+       ],
+       "a": 0,
+       "e": "IC DC: no comma"
+      },
+      {
+       "t": "mcq",
+       "q": "Which sentence is correct?",
+       "c": [
+        "Although it was late, but we kept working.",
+        "It was late, although but we kept working.",
+        "Although it was late but we kept working.",
+        "Although it was late, we kept working."
+       ],
+       "a": 3
+      },
+      {
+       "t": "mcq",
+       "q": "Which sentence is correct?",
+       "c": [
+        "Because he was ill, so he stayed at home.",
+        "Because he was ill, he stayed at home.",
+        "Because he was ill. He stayed at home.",
+        "He was ill, because so he stayed at home."
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "q": "___ I was reading, the lights went out. (a longer action)",
+       "c": [
+        "So that",
+        "Since",
+        "While",
+        "Unless"
+       ],
+       "a": 2
+      },
+      {
+       "t": "mcq",
+       "q": "Choose the correct verb: Wait here until the teacher ___.",
+       "c": [
+        "comes",
+        "will come",
+        "came",
+        "coming"
+       ],
+       "a": 0
+      },
+      {
+       "t": "mcq",
+       "q": "My sister is quiet, ___ my brother is very loud. (comparing two facts)",
+       "c": [
+        "until",
+        "whereas",
+        "because",
+        "unless"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "q": "The report shows ___ sales increased last year.",
+       "c": [
+        "if",
+        "that",
+        "until",
+        "once"
+       ],
+       "a": 1
+      },
+      {
+       "t": "mcq",
+       "q": "___ you finish the first draft, check every comma. (= as soon as)",
+       "c": [
+        "Although",
+        "Whereas",
+        "Once",
+        "Unless"
+       ],
+       "a": 2
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
