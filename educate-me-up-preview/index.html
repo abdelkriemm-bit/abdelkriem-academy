@@ -296,7 +296,7 @@ document.querySelectorAll('.demo button[data-role]').forEach(b=>b.onclick=()=>{r
 document.getElementById('resetDemo').onclick=()=>{S=seed();save();render();toast('Demo data reset')};
 
 /* ---------- WEBSITE ---------- */
-const WA_NUMBER='+20 1X XXXX XXXX'; /* academy WhatsApp – to be replaced */
+const WA_NUMBER='+20 10 3914 1480';
 function flyForm(pre){pre=pre||{};return `<form id="flyForm">
   <div class="grid g2"><div><label>Parent / student name · الاسم</label><input name="parent" required value="${esc(pre.parent||'')}"></div><div><label>WhatsApp · واتساب</label><input name="phone" required placeholder="+20 1xxxxxxxxx" value="${esc(pre.phone||'')}"></div></div>
   <div class="grid g2"><div><label>Student · الطالب</label><input name="student" required value="${esc(pre.student||'')}"></div><div><label>Level · المستوى</label><select name="level">${PROGS.map(p=>`<option value="${p}" ${p===pre.level?'selected':''}>${CUR[p].name}</option>`).join('')}<option value="other">Other · غير كده</option></select></div></div>
@@ -311,7 +311,7 @@ function viewSite(){
     <p class="ar" style="text-align:right;font-size:20px;font-weight:700;margin:-4px 0 8px">إنجليزي ابنك… بخطة ومتابعة كل أسبوع.</p>
     <p>Private and small-group English sessions on Google Meet with a ready plan every week, homework, and a weekly report for parents.</p>
     <p class="ar" style="text-align:right;opacity:.95">حصص إنجليزي أونلاين فردي أو مجموعات، بخطة جاهزة كل أسبوع، وواجب بيتصحح، وتقرير أسبوعي لولي الأمر عن مستوى ابنه.</p>
-    <a class="wa" href="https://wa.me/" target="_blank" rel="noopener">💬 WhatsApp us · كلّمنا واتساب</a> <a class="btn gold" href="#flySec" style="text-decoration:none;padding:12px 16px;border-radius:14px;margin-left:6px" data-goto="flySec">⚡ Exam tomorrow? · امتحان بكرة؟</a>
+    <a class="wa" href="https://wa.me/201039141480" target="_blank" rel="noopener">💬 WhatsApp us · كلّمنا واتساب</a> <a class="btn gold" href="#flySec" style="text-decoration:none;padding:12px 16px;border-radius:14px;margin-left:6px" data-goto="flySec">⚡ Exam tomorrow? · امتحان بكرة؟</a>
     <div class="small" style="margin-top:8px;opacity:.85">${WA_NUMBER}</div></div>
     <div class="price"><div style="font-weight:700;margin-bottom:6px">What every student gets · كل طالب بياخد</div>
       <div class="row"><span>${bi('Ready weekly plan & materials','خطة أسبوعية وماتيريال جاهزة')}</span><b>✓</b></div>
@@ -350,7 +350,7 @@ function viewSite(){
      <div>${bi('<b>We book your session</b> – we agree the time and price and create your account.','بنحجزلك الحصة ونتفق على الميعاد والسعر ونعملك حساب.')}</div>
      <div>${bi('<b>Pay by InstaPay</b> – log in with the link we send and upload the receipt.','ادفع InstaPay وارفع صورة التحويل من حسابك.')}</div>
      <div>${bi('<b>Learn & follow up</b> – join sessions, submit homework and get a weekly report.','ادخل الحصص، وسلّم الواجب، واستلم تقرير كل أسبوع.')}</div></div></div>
-   <div class="card" style="background:linear-gradient(135deg,#fff8e1,#e8f6f5)"><h2>${bi('Ready to start? 🚀','جاهز تبدأ؟ 🚀')}</h2><p>${bi('Send us a message and our team will set everything up for you.','ابعتلنا رسالة، وفريقنا هيرتب لك كل حاجة.')}</p><a class="wa" href="https://wa.me/" target="_blank" rel="noopener">💬 WhatsApp us · كلّمنا واتساب</a><p class="small mut" style="margin-top:10px">${WA_NUMBER}</p></div></div>`}
+   <div class="card" style="background:linear-gradient(135deg,#fff8e1,#e8f6f5)"><h2>${bi('Ready to start? 🚀','جاهز تبدأ؟ 🚀')}</h2><p>${bi('Send us a message and our team will set everything up for you.','ابعتلنا رسالة، وفريقنا هيرتب لك كل حاجة.')}</p><a class="wa" href="https://wa.me/201039141480" target="_blank" rel="noopener">💬 WhatsApp us · كلّمنا واتساب</a><p class="small mut" style="margin-top:10px">${WA_NUMBER}</p></div></div>`}
 
 /* ---------- PARENT ---------- */
 function viewParent(){
@@ -363,7 +363,7 @@ function viewParent(){
     const pend=my.filter(s=>s.status==='pending'||s.status==='paid');
     body=`<div class="grid g2"><div><h2>Upcoming sessions</h2>${up.length?up.map(s=>sessCard(s,'parent')).join(''):'<div class="card mut">No upcoming sessions.</div>'}
       ${pend.map(s=>`<div class="card" style="margin-top:10px"><h3>Booking for ${esc(f.student)}</h3>${pill(s.status)}<p class="mut small">${s.status==='pending'?(s.when?'Booked for '+fmt(s.when)+'. ':'')+'Please pay '+money(s.price,s.cur)+' by InstaPay and upload the receipt. Your session is confirmed once the team checks it.':'Payment received – our team will confirm the time shortly.'}</p>${s.status==='pending'?`<button class="btn gold" data-pay="${s.id}">Upload InstaPay receipt</button>`:''}</div>`).join('')}
-      <div class="card" style="margin-top:12px;border:2px solid var(--gold)"><b>⚡ Exam tomorrow? · امتحان بكرة؟</b><p class="mut small">Request a Flying Session and we’ll find a teacher today. · احجز حصة مستعجلة وهنجيبلك مدرس النهارده.</p><button class="btn gold" data-flyp>Request a Flying Session</button></div><div class="card" style="margin-top:12px"><b>Want another session?</b><p class="mut small">Message the academy on WhatsApp and we’ll book it for you – it will appear here.</p><a class="wa" href="https://wa.me/" target="_blank" rel="noopener">💬 WhatsApp the academy</a></div></div>
+      <div class="card" style="margin-top:12px;border:2px solid var(--gold)"><b>⚡ Exam tomorrow? · امتحان بكرة؟</b><p class="mut small">Request a Flying Session and we’ll find a teacher today. · احجز حصة مستعجلة وهنجيبلك مدرس النهارده.</p><button class="btn gold" data-flyp>Request a Flying Session</button></div><div class="card" style="margin-top:12px"><b>Want another session?</b><p class="mut small">Message the academy on WhatsApp and we’ll book it for you – it will appear here.</p><a class="wa" href="https://wa.me/201039141480" target="_blank" rel="noopener">💬 WhatsApp the academy</a></div></div>
       <div><h2>Past sessions</h2><div class="card">${my.filter(s=>s.status==='done').map(s=>`<div style="padding:8px 0;border-bottom:1px solid var(--line)"><b>${fmt(s.when)}</b> · ${weekLabel(CUR[f.year].weeks[s.week])}<div class="mut small">Teacher: ${esc(short(tch(s.teacher).name))}</div>${s.report?`<div class="small" style="margin-top:4px">“${esc(s.report)}”</div>`:''}</div>`).join('')||'<span class="mut">None yet.</span>'}</div>
       <div class="notice" style="margin-top:12px">Homework is submitted here on the platform – open the <b>Homework · الواجب</b> tab.<div class="ar" style="text-align:right">الواجب بيتسلم هنا على المنصة من تبويب «الواجب».</div></div></div></div>`}
   if(tab==='hw'){body=`<h2>${bi('Homework','الواجب')}</h2><p class="mut small">Download the task, solve it, then upload photos or PDF of the answers. · نزّل الواجب، حلّه، وارفع صور أو PDF للإجابات.</p>`+
