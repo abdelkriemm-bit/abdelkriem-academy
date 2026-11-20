@@ -5,6 +5,7 @@ _am = TILE_CSS + pagehead("Section 2", "American Diploma English: SAT · ACT · 
 {tile("SAT","digital-sat.html","Digital SAT","Reading and Writing")}
 {tile("ACT","act-english.html","Enhanced ACT","English and Reading")}
 {tile("EST","est-exam.html","Egyptian Scholastic Test","Literacy 1 and 2")}
+{tile("Arabic &amp; History<span class='tar' style='display:block;font-size:1.3rem;color:var(--navy);font-weight:800;margin-top:6px;text-align:left' dir='rtl'>العربي والتاريخ</span>","identity-subjects.html","American Diploma students in Egypt","مواد الهوية · 20% من المجموع")}
 </div></div></section>
 <section class="block alt"><div class="wrap prose">
 <details><summary style="cursor:pointer;font-weight:800;font-size:1.3rem;color:var(--navy)">Which test should I take?</summary>

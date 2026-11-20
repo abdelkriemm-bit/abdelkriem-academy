@@ -5,7 +5,17 @@
 import json as _bj, os as _bo, re as _bre, html as _bh
 
 _BR_ROOT = _bo.path.join(_bo.path.dirname(PAGES_DIR), "british")
-_BR_COURSES = [c for c in _bo.environ.get("BRITISH_COURSES", "oxford,0510,cp8,cp6,bac,parents,sat,act,est,cp6m,cp6s,cp8m,cp8s").split(",") if c]
+def _beng(rtl=False):
+    # inline engine assets; Arabic labels + RTL layout for rtl courses (see british/_engine/ar_engine.py)
+    _e = _bo.path.join(_BR_ROOT, "_engine")
+    css = open(_bo.path.join(_e, "test.css"), encoding="utf-8").read()
+    js = open(_bo.path.join(_e, "test.js"), encoding="utf-8").read()
+    if rtl:
+        import importlib.util as _u
+        _sp = _u.spec_from_file_location("ar_engine", _bo.path.join(_e, "ar_engine.py")); _m = _u.module_from_spec(_sp); _sp.loader.exec_module(_m)
+        css, js = _m.arabic_css(css), _m.arabic(js)
+    return "<style>" + css + "</style><script>" + js + "</script>"
+_BR_COURSES = [c for c in _bo.environ.get("BRITISH_COURSES", "oxford,0510,cp8,cp6,bac,parents,sat,act,est,cp6m,cp6s,cp8m,cp8s,ebhist,ebar").split(",") if c]
 
 _BR_CSS = """<style>
 .bc{max-width:860px;margin:0 auto;overflow-wrap:break-word}
@@ -218,6 +228,10 @@ var m=document.querySelector('.pmast');if(m){m.querySelector('span').textContent
 function show(i){tabs.forEach(function(t,j){t.classList.toggle('on',i===j)});pan.forEach(function(x,j){x.hidden=i!==j});try{history.replaceState(null,'','#practice-'+(i+1))}catch(e){}}
 tabs.forEach(function(t,i){t.onclick=function(){show(i);pan[i].scrollIntoView({behavior:'smooth',block:'start'})}});
 var h=+(location.hash.match(/practice-(\\d+)/)||[])[1];show(h&&h<=tabs.length?h-1:0);upd();document.addEventListener('pt-done',upd)})();</script>"""
+_BR_PJS_AR = (_BR_PJS.replace("'✓ Topic mastered':'Practice: '+p+' / '+n+' sets passed'", "'✓ اتقنت الدرس':'التدريبات: عدّيت '+p+' من '+n")
+    .replace("'Best: '+o.best+'%'", "'أحسن نتيجة: '+o.best+'%'")
+    .replace("'✓ You have mastered this topic!':p+' of '+tabs.length+' practice sets passed (80% or more)'", "'✓ اتقنت الدرس ده!':'عدّيت '+p+' من '+tabs.length+' تدريبات (80% أو أكتر)'"))
+assert _BR_PJS_AR.count("عدّيت") == 2 and "أحسن نتيجة" in _BR_PJS_AR
 for _bc in _BR_COURSES:
     _cfp = _bo.path.join(_BR_ROOT, _bc, "course.json")
     if not _bo.path.exists(_cfp):
@@ -291,7 +305,7 @@ if(ok){var e=document.getElementById(h);if(e)e.scrollIntoView({behavior:'smooth'
 if(b.length){b.forEach(function(x){x.hidden=true});document.querySelector('.bsecs').classList.add('js');}
 window.addEventListener('hashchange',show);show();})();</script>"""
         _body = _BR_CSS + pagehead(_cfg["kicker"], _cfg["title"], _bE(_cfg["summary"])) + f'''
-<section class="block"><div class="wrap"><div class="bc">{_intro}
+<section class="block"><div class="wrap"><div class="bc"{' dir="rtl" lang="ar"' if _rtl else ''}>{_intro}
 <p><a class="btn" href="{_first}.html">{_L["start"]}</a></p>
 <h2 class="pickh">{_pick}</h2><div class="stiles">{_stiles}</div>
 <p id="sall" hidden><a href="#">{_all}</a></p>
@@ -323,13 +337,12 @@ window.addEventListener('hashchange',show);show();})();</script>"""
             _ix = next((k for k in range(len(_bl) - 1, -1, -1) if _bl[k]["type"] == "test"), None)
             _bl.insert(_ix + 1 if _ix is not None else len(_bl), _cta)
         blocks = "".join(_bblock(b) if b["type"] != "_cta" else
-                         f'<div class="pcta"><div><b>Master this topic: {len(_pr["sets"])} more practice sets</b><p>{sum(len(x["questions"]) for x in _pr["sets"])} new questions, from Foundation to Challenge level, with an explanation for every choice.</p><small class="pp" data-pk="{s}" data-n="{len(_pr["sets"])}"></small></div><a class="btn" href="{s}-practice.html">Start Practice 1 →</a></div>'
+                         (f'<div class="pcta"><div><b>اتقن الدرس: {len(_pr["sets"])} تدريبات تفاعلية</b><p>{sum(len(x["questions"]) for x in _pr["sets"])} سؤال من السهل للصعب، بتتصحح أونلاين، ومع كل اختيار شرح ليه صح أو غلط.</p><small class="pp" data-pk="{s}" data-n="{len(_pr["sets"])}"></small></div><a class="btn" href="{s}-practice.html">ابدأ التدريب الأول ←</a></div>' if _rtl else f'<div class="pcta"><div><b>Master this topic: {len(_pr["sets"])} more practice sets</b><p>{sum(len(x["questions"]) for x in _pr["sets"])} new questions, from Foundation to Challenge level, with an explanation for every choice.</p><small class="pp" data-pk="{s}" data-n="{len(_pr["sets"])}"></small></div><a class="btn" href="{s}-practice.html">Start Practice 1 →</a></div>')
                          for b in _bl)
         if _pr:
             blocks = _BR_PCSS + blocks + _BR_PJS
         if _BR_STATE.get("has_test"):
-            _eng = _bo.path.join(_BR_ROOT, "_engine")
-            blocks += "<style>" + open(_bo.path.join(_eng, "test.css"), encoding="utf-8").read() + "</style><script>" + open(_bo.path.join(_eng, "test.js"), encoding="utf-8").read() + "</script>"
+            blocks += _beng(_rtl)
         body = _BR_CSS + pagehead(_bE(d["kicker"]), _bE(d["title"]), _bE(d.get("summary", ""))) + f'''
 <section class="block"><div class="wrap"><div class="bc"{_dir}>
 <p class="crumb">{_L["crumb"]}<a href="{_hub}">{_bE(_cfg["title"])}</a></p>
@@ -338,23 +351,33 @@ window.addEventListener('hashchange',show);show();})();</script>"""
         EXTRA_PAGES.append(s + ".html")
         if _pr:
             _nm = d.get("nav") or d["title"]
-            _tabs = "".join(f'<button type="button" class="ptab" data-k="{s}-p{n}"><b>{_bE(st["title"])}</b><small>{_bE(st["level"])}</small><em>{len(st["questions"])} questions · not tried yet</em></button>' for n, st in enumerate(_pr["sets"], 1))
+            _tabs = "".join(f'<button type="button" class="ptab" data-k="{s}-p{n}"><b>{_bE(st["title"])}</b><small>{_bE(st["level"])}</small><em>{len(st["questions"])} {"سؤال · لسه متحلّش" if _rtl else "questions · not tried yet"}</em></button>' for n, st in enumerate(_pr["sets"], 1))
             _pans = ""
             for n, st in enumerate(_pr["sets"], 1):
                 tb = {"type": "test", "mode": "practice", "timed": False, "id": f"{s}-p{n}",
                       "title": f'{_nm} — {st["title"]} ({st["level"]})',
-                      "intro": "Untimed. You get feedback after every question. Score 80% or more to pass this set.",
+                      "intro": "من غير وقت. بعد كل سؤال هتعرف الصح وليه. لازم تجيب 80% أو أكتر علشان تعدّي التدريب ده." if _rtl else "Untimed. You get feedback after every question. Score 80% or more to pass this set.",
                       "sections": [{"name": st["title"], "minutes": 0, "questions": st["questions"]}]}
                 _pans += f'<div class="ppanel" id="practice-{n}">' + _bblock(tb) + "</div>"
             _eng = _bo.path.join(_BR_ROOT, "_engine")
-            _pbody = _BR_CSS + _BR_PCSS + pagehead(_bE(d["kicker"]) + " · Practice", f'{_bE(_nm)} — Practice Sets', f'{len(_pr["sets"])} practice sets on this topic only, from Foundation to Challenge. Every answer is explained.') + f'''
-<section class="block"><div class="wrap"><div class="bc">
+            if _rtl:
+                _pbody = _BR_CSS + _BR_PCSS + pagehead(_bE(d["kicker"]) + " · تدريبات", f'{_bE(_nm)} — التدريبات', f'{len(_pr["sets"])} تدريبات على الدرس ده بس، من السهل للصعب، وكل إجابة متشرحة.') + f'''
+<section class="block"><div class="wrap"><div class="bc" dir="rtl" lang="ar">
 <p class="crumb">{_L["crumb"]}<a href="{_hub}">{_bE(_cfg["title"])}</a> › <a href="{s}.html">{_bE(_nm)}</a></p>
-<div class="studyflow"><div><b>1 · Foundation</b>Check you know the rule.</div><div><b>2 · Exam level</b>Real test difficulty and traps.</div><div><b>3 · Challenge</b>The hardest versions the test uses.</div></div>
-<div class="bx ar notranslate" dir="rtl" lang="ar" translate="no"><b class="t">إزاي تستخدم التدريبات دي؟</b><ul><li>ذاكر الدرس الأول، وبعدين حل التدريبات بالترتيب من 1 لحد الآخر.</li><li>بعد كل سؤال هتعرف فورًا إجابتك صح ولا غلط، وليه كل اختيار صح أو غلط — اقرا الشرح كله حتى لو جاوبت صح.</li><li>لو جبت أقل من 80% في أي تدريب، دوس "Retry the ones I got wrong" وبعدين ارجع للدرس.</li></ul></div>
-<div class="pmast"><span>0 of {len(_pr["sets"])} practice sets passed (80% or more)</span><div class="bar"><i></i></div></div>
+<div class="studyflow"><div><b>1 · أساسي</b>اتأكد إنك فاهم الدرس.</div><div><b>2 · مستوى الامتحان</b>أسئلة بنفس صعوبة الامتحان.</div><div><b>3 · تحدي</b>أصعب أشكال الأسئلة.</div></div>
+<div class="bx ar notranslate" dir="rtl" lang="ar" translate="no"><b class="t">إزاي تستخدم التدريبات دي؟</b><ul><li>ذاكر الدرس الأول، وبعدين حل التدريبات بالترتيب من 1 لحد الآخر.</li><li>بعد كل سؤال هتعرف فورًا إجابتك صح ولا غلط، وليه كل اختيار صح أو غلط. اقرا الشرح كله حتى لو جاوبت صح.</li><li>لو جبت أقل من 80% في أي تدريب، دوس «أعد حل اللي غلطت فيهم» وبعدين ارجع للدرس.</li></ul></div>
+<div class="pmast"><span>عدّيت 0 من {len(_pr["sets"])} تدريبات (80% أو أكتر)</span><div class="bar"><i></i></div></div>
 <div class="ptabs">{_tabs}</div>{_pans}
-<p><a class="btn" href="{s}.html">← Back to the lesson</a></p></div></div></section>''' + "<style>" + open(_bo.path.join(_eng, "test.css"), encoding="utf-8").read() + "</style><script>" + open(_bo.path.join(_eng, "test.js"), encoding="utf-8").read() + "</script>" + _BR_PJS
-            page(s + "-practice.html", f'{_nm} Practice — {_cfg["short"]} — Abdelkriem Academy', f'{len(_pr["sets"])} practice sets on {_nm} with instant feedback and an explanation for every answer choice.', _pbody, _active, rtl=_rtl)
+<p><a class="btn" href="{s}.html">→ ارجع للدرس</a></p></div></div></section>''' + _beng(_rtl) + _BR_PJS_AR
+            else:
+                _pbody = _BR_CSS + _BR_PCSS + pagehead(_bE(d["kicker"]) + " · Practice", f'{_bE(_nm)} — Practice Sets', f'{len(_pr["sets"])} practice sets on this topic only, from Foundation to Challenge. Every answer is explained.') + f'''
+    <section class="block"><div class="wrap"><div class="bc">
+    <p class="crumb">{_L["crumb"]}<a href="{_hub}">{_bE(_cfg["title"])}</a> › <a href="{s}.html">{_bE(_nm)}</a></p>
+    <div class="studyflow"><div><b>1 · Foundation</b>Check you know the rule.</div><div><b>2 · Exam level</b>Real test difficulty and traps.</div><div><b>3 · Challenge</b>The hardest versions the test uses.</div></div>
+    <div class="bx ar notranslate" dir="rtl" lang="ar" translate="no"><b class="t">إزاي تستخدم التدريبات دي؟</b><ul><li>ذاكر الدرس الأول، وبعدين حل التدريبات بالترتيب من 1 لحد الآخر.</li><li>بعد كل سؤال هتعرف فورًا إجابتك صح ولا غلط، وليه كل اختيار صح أو غلط — اقرا الشرح كله حتى لو جاوبت صح.</li><li>لو جبت أقل من 80% في أي تدريب، دوس "Retry the ones I got wrong" وبعدين ارجع للدرس.</li></ul></div>
+    <div class="pmast"><span>0 of {len(_pr["sets"])} practice sets passed (80% or more)</span><div class="bar"><i></i></div></div>
+    <div class="ptabs">{_tabs}</div>{_pans}
+    <p><a class="btn" href="{s}.html">← Back to the lesson</a></p></div></div></section>''' + _beng(_rtl) + _BR_PJS
+            page(s + "-practice.html", (f'تدريبات {_nm} — {_cfg["short"]} — Abdelkriem Academy' if _rtl else f'{_nm} Practice — {_cfg["short"]} — Abdelkriem Academy'), (f'{len(_pr["sets"])} تدريبات تفاعلية على {_nm} بتتصحح فورًا مع شرح كل اختيار.' if _rtl else f'{len(_pr["sets"])} practice sets on {_nm} with instant feedback and an explanation for every answer choice.'), _pbody, _active, rtl=_rtl)
             EXTRA_PAGES.append(s + "-practice.html")
     _BR_BUILT[_bc] = len(_order)

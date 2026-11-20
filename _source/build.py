@@ -143,6 +143,7 @@ brit = TILE_CSS + pagehead("Section 1","British &amp; IGCSE","Choose your year."
 {tile("Checkpoint 8","british-checkpoint-8.html","Year 8","English · Maths · Science")}
 {tile("IGCSE Core Subjects","british-year-9.html","Year 9","English · more subjects soon")}
 {tile("IGCSE","british-igcse.html","Year 10 · 11 · 12","Oxford English · more subjects soon")}
+{tile("Arabic &amp; History<span class='tar' style='display:block;font-size:1.3rem;color:var(--navy);font-weight:800;margin-top:6px;text-align:left' dir='rtl'>العربي والتاريخ</span>","identity-subjects.html","IG students in Egypt · Year 10–12","مواد الهوية · 20% من المجموع")}
 </div></div></section>
 <section class="block alt"><div class="wrap split"><div><h2>Writing skills</h2><p>Step-by-step lessons for every text type: persuasive writing, articles, reports, biographies and more.</p></div>{yt(PL["writing"],"Writing skills playlist")}</div></section>'''
 for _n, _y, _st, _codes in ((6, "Year 6", "Cambridge Primary Checkpoint", ("0058", "0096", "0097")), (8, "Year 8", "Cambridge Lower Secondary Checkpoint", ("0861", "0862", "0893"))):
