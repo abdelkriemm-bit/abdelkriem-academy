@@ -39,7 +39,10 @@ def parse(text, slug=""):
             w = re.sub(r"[^\w'-]+$", "", m.group(1))
             if w and all(re.match(re.escape(w) + r"(?![\w'-])", c) for c in q["c"]):
                 p = p[:m.start(1)] + p[m.start(1) + len(w):].lstrip(" ") if m.group(1) == w else p
-        item = {"q": q["q"] or stem, "c": q["c"], "a": keys[0], "ce": q["ce"],
+        qq = q["q"] or stem
+        if re.fullmatch(r"\[\d+\]", qq.strip()):
+            qq = qq.strip() + " " + stem
+        item = {"q": qq, "c": q["c"], "a": keys[0], "ce": q["ce"],
                 "e": q["ce"][keys[0]], "s": q["s"] or skill or "Practice"}
         if p:
             item["p"] = p

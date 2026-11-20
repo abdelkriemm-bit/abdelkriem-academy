@@ -267,7 +267,8 @@ for _bc in _BR_COURSES:
                 if _compact:
                     _pp = _bpractice(_bc, s)
                     _ps = f'<small class="pp" data-pk="{s.split("/")[-1]}" data-n="{len(_pp["sets"])}">{len(_pp["sets"])} practice sets</small>' if _pp else ""
-                    return f'<li><a href="{_bhref(s)}"><small class="ln">{_lw} {_num}</small><b>{_bE(_pages[s].get("nav") or _pages[s]["title"])}</b>{_ps}</a></li>'
+                    _lab = "Full test" if (not _rtl and _bre.search(r"-test-\d+$", s)) else f"{_lw} {_num}"
+                    return f'<li><a href="{_bhref(s)}"><small class="ln">{_lab}</small><b>{_bE(_pages[s].get("nav") or _pages[s]["title"])}</b>{_ps}</a></li>'
                 return f'<li><a href="{s}.html"><small class="ln">{_lw} {_num}</small><b>{_bE(_pages[s]["title"])}</b><span>{_bE(_pages[s].get("summary",""))}</span></a></li>'
             if sec.get("groups"):
                 items = "".join(f'<li class="bgrp"><h3>{_bE(g["title"])}</h3></li>' + "".join(_li(s) for s in g["pages"]) for g in sec["groups"] if g["pages"])
