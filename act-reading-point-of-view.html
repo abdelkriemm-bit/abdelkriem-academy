@@ -144,6 +144,18 @@ I promised my mother I would write every week from university. I wrote twice in 
 .pt-warn2{background:#fff4d6;border-radius:8px;padding:.6rem;font-weight:600}
 
 .pt-tbl{border-collapse:collapse;margin:.5rem 0;background:#fff;font-size:.95em}.pt-tbl th,.pt-tbl td{border:1px solid #cfc8b6;padding:.3rem .6rem;text-align:left}.pt-tbl th{background:#eef2fa}
+
+.pt-c.ok{border-color:#2e7d32;background:#e8f5e9}.pt-c.ok span{background:#2e7d32;color:#fff;border-color:#2e7d32}
+.pt-c.bad{border-color:#b3261e;background:#fdecea}.pt-c.bad span{background:#b3261e;color:#fff;border-color:#b3261e}
+.pt-c:disabled{cursor:default;opacity:1;color:inherit}
+.pt-fb{border-radius:10px;padding:.7rem .9rem;margin-top:.8rem}.pt-fb.ok{background:#e8f5e9}.pt-fb.no{background:#fdecea}
+.pt-ce{list-style:none;padding:0;margin:.5rem 0 0}.pt-ce li{padding:.3rem 0;border-top:1px solid rgba(0,0,0,.06);line-height:1.55}
+.pt-ce li.right{color:#1b5e20}.pt-ce li.wrong{color:#b3261e}
+.pt-why{display:block;opacity:.85;font-weight:400;color:#333;margin:.1rem 0 .3rem 1.4rem}
+.pt-g.gok{background:#c8e6c9}.pt-g.gno{background:#f8c9c4}
+.pt-prev{background:#f3f6fb;border-radius:8px;padding:.4rem .7rem;display:inline-block}.pt-mast{color:#1b5e20;font-weight:700}
+.pt-how{opacity:.8}.pt-retry{margin-right:.6rem}
+.pt-study{background:#fff4d6;border-radius:10px;padding:.7rem 1rem;margin:1rem 0}.pt-study ul{margin:.3rem 0 0}
 </style><script>(function(){
 /* Practice-test engine. Question types (field "t"):
    mcq (default): c[] choices, a = index of key
@@ -173,7 +185,10 @@ function auto(Q,a){var t=ty(Q);if(blank(Q,a))return false;
  return false}
 document.querySelectorAll('.ptest').forEach(function(box){
  var T=JSON.parse(box.querySelector('script[type="application/json"]').textContent);
- var timed=T.timed!==false, si=0, qi=0, ans=[], left=0, tick=null, flags=[], self=[];
+ var timed=T.timed!==false&&T.mode!=='practice', prac=T.mode==='practice', si=0, qi=0, ans=[], left=0, tick=null, flags=[], self=[], only=null;
+ var KEY='aa-score:'+(T.id||location.pathname.replace(/^.*\//,'')+'#'+T.title);
+ function load(){try{return JSON.parse(localStorage.getItem(KEY)||'null')}catch(e){return null}}
+ function save(c,m){try{var o=load()||{best:0,tries:0};o.tries++;o.last=Math.round(c*100/m);o.best=Math.max(o.best||0,o.last);o.when=Date.now();localStorage.setItem(KEY,JSON.stringify(o))}catch(e){}try{box.dispatchEvent(new CustomEvent('pt-done',{bubbles:true}))}catch(e){}}
  var hasMarks=T.sections.some(function(s){return s.questions.some(function(Q){return Q.m||Q.t})});
  function reset(){ans=T.sections.map(function(s){return s.questions.map(function(Q){return ty(Q)==='mcq'?-1:''})});flags=T.sections.map(function(s){return s.questions.map(function(){return false})});self=T.sections.map(function(s){return s.questions.map(function(){return 0})})}
  reset();
@@ -185,8 +200,10 @@ document.querySelectorAll('.ptest').forEach(function(box){
   var h='<div class="pt-intro"><b>'+esc(T.title)+'</b><p>'+n+' questions'+(hasMarks?' · '+mt+' marks':'')+(timed?' · '+T.sections.map(function(s){return esc(s.name)+': '+s.minutes+' min'+(s.calc===false?' (no calculator)':s.calc===true?' (calculator allowed)':'')}).join(' · '):'')+'</p>';
   if(T.intro)h+='<p>'+esc(T.intro)+'</p>';
   if(T.pdf)h+='<p class="pt-pdf">'+T.pdf.map(function(x){return '<a href="'+esc(x.href)+'" target="_blank" rel="noopener">'+esc(x.label)+'</a>'}).join(' · ')+'</p>';
+  var pv=load();if(pv&&pv.tries)h+='<p class="pt-prev">Your best so far: <b>'+pv.best+'%</b> · last try '+pv.last+'%'+(pv.best>=80?' · <span class="pt-mast">✓ Passed</span>':'')+'</p>';
+  if(prac)h+='<p class="pt-how">Choose an answer to see straight away whether it is right — and why every choice is right or wrong.</p>';
   h+='</div>';stage.innerHTML=h;
-  var b=el('button','btn pt-go','Start');b.type='button';b.onclick=function(){si=0;qi=0;startSection()};stage.appendChild(b);
+  var b=el('button','btn pt-go','Start');b.type='button';b.onclick=function(){only=null;si=0;qi=0;startSection()};stage.appendChild(b);
  }
  function startSection(){
   left=T.sections[si].minutes*60; render();
@@ -201,8 +218,12 @@ document.querySelectorAll('.ptest').forEach(function(box){
   var right=el('div','pt-q');if(Q.img)right.appendChild(el('div','',svg(Q.img)));right.appendChild(el('p','pt-qt',esc(Q.q)));
   var t=ty(Q);
   if(t==='mcq'){var ul=el('div','pt-ch');
-   Q.c.forEach(function(c,i){var b=el('button','pt-c'+(ans[si][qi]===i?' on':''),'<span>'+'ABCD'[i]+'</span><div>'+esc(c)+'</div>');b.type='button';b.onclick=function(){ans[si][qi]=i;render()};ul.appendChild(b)});
-   right.appendChild(ul)}
+   Q.c.forEach(function(c,i){var b=el('button','pt-c'+(ans[si][qi]===i?' on':''),'<span>'+'ABCD'[i]+'</span><div>'+esc(c)+'</div>');b.type='button';if(prac&&ans[si][qi]>=0){b.disabled=true;b.className+=(i===Q.a?' ok':'')+(ans[si][qi]===i&&i!==Q.a?' bad':'')}
+   else b.onclick=function(){ans[si][qi]=i;render()};ul.appendChild(b)});
+   right.appendChild(ul);
+   if(prac&&ans[si][qi]>=0){var good=ans[si][qi]===Q.a;var fb='<div class="pt-fb '+(good?'ok':'no')+'"><b>'+(good?'✓ Correct!':'✗ Not quite. The answer is '+'ABCD'[Q.a]+'.')+'</b>';
+    if(Q.ce){fb+='<ul class="pt-ce">';Q.c.forEach(function(c,j){fb+='<li class="'+(j===Q.a?'right':'')+(j===ans[si][qi]&&!good?' wrong':'')+'"><b>'+'ABCD'[j]+'</b> '+(j===Q.a?'✓ ':'✗ ')+esc(Q.ce[j])+'</li>'});fb+='</ul>'}else if(Q.e)fb+='<p>'+esc(Q.e)+'</p>';
+    right.appendChild(el('div','',fb+'</div>'))}}
   else{var w=el('div','pt-in');var inp;
    if(t==='open'){inp=el('textarea','pt-ta');inp.rows=4;inp.placeholder='Write your answer here'}
    else{inp=el('input','pt-tx');inp.type='text';inp.autocomplete='off';inp.placeholder=t==='num'?'Type a number':'Type your answer';if(t==='num')inp.inputMode='decimal'}
@@ -215,9 +236,10 @@ document.querySelectorAll('.ptest').forEach(function(box){
   var pr=el('button','pt-b','← Back');pr.type='button';pr.disabled=qi===0;pr.onclick=function(){qi--;render()};
   var fl=el('button','pt-b'+(flags[si][qi]?' fl':''),flags[si][qi]?'Marked for review':'Mark for review');fl.type='button';fl.onclick=function(){flags[si][qi]=!flags[si][qi];render()};
   var nx=el('button','pt-b pt-p',qi<S.questions.length-1?'Next →':(si<T.sections.length-1?'Finish this section':'Finish test'));nx.type='button';
-  nx.onclick=function(){if(qi<S.questions.length-1){qi++;render()}else endSection(false)};
+  if(only){var pos=only.indexOf(qi);nx.textContent=pos<only.length-1?'Next →':'Finish';nx.onclick=function(){if(pos<only.length-1){qi=only[pos+1];render()}else{only=null;clearInterval(tick);results()}};pr.disabled=pos<=0;pr.onclick=function(){qi=only[pos-1];render()}}
+  else nx.onclick=function(){if(qi<S.questions.length-1){qi++;render()}else endSection(false)};
   nav.appendChild(pr);nav.appendChild(fl);nav.appendChild(nx);stage.appendChild(nav);
-  var grid=el('div','pt-grid');S.questions.forEach(function(G,i){var g=el('button','pt-g'+(i===qi?' cur':'')+(!blank(G,ans[si][i])?' ans':'')+(flags[si][i]?' fl':''),String(i+1));g.type='button';g.onclick=function(){qi=i;render()};grid.appendChild(g)});stage.appendChild(grid);stage.style.minHeight='';
+  var grid=el('div','pt-grid');S.questions.forEach(function(G,i){if(only&&only.indexOf(i)<0)return;var g=el('button','pt-g'+(i===qi?' cur':'')+(!blank(G,ans[si][i])?' ans':'')+(flags[si][i]?' fl':''),String(i+1));g.type='button';if(prac&&ans[si][i]>=0)g.className+=(ans[si][i]===G.a?' gok':' gno');g.onclick=function(){qi=i;render()};grid.appendChild(g)});stage.appendChild(grid);stage.style.minHeight='';
   var np=stage.querySelector('.pt-pass');if(np){if(ok===nk)np.scrollTop=ost;else{var u=np.querySelector('u');np.scrollTop=u?Math.max(0,u.offsetTop-np.offsetTop-60):0}}if(ok===nk)window.scrollTo(0,wy);
  }
  function endSection(auto_){
@@ -240,14 +262,18 @@ document.querySelectorAll('.ptest').forEach(function(box){
   h+='<div id="pt-open-note"></div><h4>By skill</h4><div class="tw"><table><thead><tr><th>Skill</th><th>'+(hasMarks?'Marks':'Correct')+'</th></tr></thead><tbody class="pt-sktab">'+r[1]+'</tbody></table></div><h4>Review every question</h4>';
   T.sections.forEach(function(S,k){h+='<h5>'+esc(S.name)+'</h5><ol class="pt-rev">';S.questions.forEach(function(Q,i){var a=ans[k][i],t=ty(Q),okk=auto(Q,a);
    h+='<li class="'+(t==='open'?'op':okk?'ok':'no')+'">'+(Q.p?'<div class="pt-pass sm">'+esc(Q.p)+'</div>':'')+svg(Q.img)+'<p><b>'+esc(Q.q)+'</b>'+(hasMarks?' <small>['+mk(Q)+']</small>':'')+'</p>';
-   if(t==='mcq'){h+='<ul>';Q.c.forEach(function(c,j){h+='<li class="'+(j===Q.a?'right':'')+(j===a&&!okk?' wrong':'')+'">'+'ABCD'[j]+') '+esc(c)+(j===Q.a?' ✓':'')+(j===a&&!okk?' ✗ your answer':'')+'</li>'});h+='</ul>'}
+   if(t==='mcq'){h+='<ul>';Q.c.forEach(function(c,j){h+='<li class="'+(j===Q.a?'right':'')+(j===a&&!okk?' wrong':'')+'">'+'ABCD'[j]+') '+esc(c)+(j===Q.a?' ✓':'')+(j===a&&!okk?' ✗ your answer':'')+(Q.ce?'<small class="pt-why">'+esc(Q.ce[j])+'</small>':'')+'</li>'});h+='</ul>'}
    else{h+='<p class="pt-yours">Your answer: '+(blank(Q,a)?'<i>none</i>':esc(a)+(Q.unit?' '+esc(Q.unit):''))+(t!=='open'?(okk?' ✓':' ✗'):'')+'</p>';
     if(t!=='open')h+='<p class="pt-right">Correct answer: <b>'+esc((Q.ans||[]).slice(0,1).join(''))+(Q.unit?' '+esc(Q.unit):'')+'</b></p>';
     else{anyOpen=true;h+='<div class="pt-ms"><b>Mark scheme:</b> '+esc(Q.ms||'')+'</div><p class="pt-self">Your mark: '+(function(){var s='';for(var x=0;x<=mk(Q);x++)s+='<button type="button" class="pt-sm'+(self[k][i]===x?' on':'')+'" data-k="'+k+'" data-i="'+i+'" data-v="'+x+'">'+x+'</button>';return s})()+' / '+mk(Q)+'</p>'}}
-   h+=(blank(Q,a)?'<p class="pt-nb">Not answered.</p>':'')+(Q.e?'<div class="pt-ex"><b>'+(t==='mcq'?'Why':'Solution')+':</b> '+esc(Q.e)+'</div>':'')+(Q.s?'<small class="pt-sk">'+esc(Q.s)+'</small>':'')+'</li>'});h+='</ol>'});
+   h+=(blank(Q,a)?'<p class="pt-nb">Not answered.</p>':'')+(Q.e&&!(t==='mcq'&&Q.ce)?'<div class="pt-ex"><b>'+(t==='mcq'?'Why':'Solution')+':</b> '+esc(Q.e)+'</div>':'')+(Q.s?'<small class="pt-sk">'+esc(Q.s)+'</small>':'')+'</li>'});h+='</ol>'});
   h+='</div>';stage.innerHTML=h;
   if(anyOpen)stage.querySelector('#pt-open-note').innerHTML='<p class="pt-warn2">Some answers are written answers. Scroll down, compare each with the mark scheme and tap the mark you earned — your total updates automatically.</p>';
   stage.querySelectorAll('.pt-sm').forEach(function(b){b.onclick=function(){var k=+b.dataset.k,i=+b.dataset.i;self[k][i]=+b.dataset.v;b.parentNode.querySelectorAll('.pt-sm').forEach(function(x){x.classList.toggle('on',x===b)});refresh()}});
+  var o=totals();save(o.tot,o.max);
+  if(T.links){var weak=Object.keys(o.sk).filter(function(s){return o.sk[s][0]<o.sk[s][1]*0.8&&T.links[s]});if(weak.length){var w='<div class="pt-study"><b>Study these again:</b><ul>'+weak.map(function(s){return '<li><a href="'+esc(T.links[s])+'">'+esc(s)+'</a> — '+o.sk[s][0]+' / '+o.sk[s][1]+'</li>'}).join('')+'</ul></div>';stage.querySelector('.pt-res h4').insertAdjacentHTML('beforebegin',w)}}
+  var wrong=[];if(T.sections.length===1)T.sections[0].questions.forEach(function(Q,i){if(ty(Q)==='mcq'&&!auto(Q,ans[0][i]))wrong.push(i)});
+  if(wrong.length){var rw=el('button','btn pt-go pt-retry','Retry the '+wrong.length+' I got wrong');rw.type='button';rw.onclick=function(){wrong.forEach(function(i){ans[0][i]=-1});only=wrong;si=0;qi=wrong[0];startSection();box.scrollIntoView()};stage.appendChild(rw)}
   var again=el('button','btn pt-go','Try again');again.type='button';again.onclick=function(){reset();intro();box.scrollIntoView()};stage.appendChild(again);
   box.scrollIntoView();
  }

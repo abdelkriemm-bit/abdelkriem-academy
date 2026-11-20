@@ -188,6 +188,36 @@ def _bload(course, name):
 
 _BR_BUILT = {}
 _BR_STATE = {}
+import importlib.util as _bil
+_bspec = _bil.spec_from_file_location("practice_dsl", _bo.path.join(_BR_ROOT, "_engine", "practice_dsl.py"))
+_BDSL = _bil.module_from_spec(_bspec); _bspec.loader.exec_module(_BDSL)
+def _bpractice(course, slug):
+    # topic practice sets: british/<course>/practice/<slug>.txt (shared lessons "@act/x" read from their own course)
+    if slug.startswith("@"):
+        course, slug = slug[1:].split("/", 1)
+    fp = _bo.path.join(_BR_ROOT, course, "practice", slug + ".txt")
+    if not _bo.path.exists(fp):
+        return None
+    return _BDSL.parse(open(fp, encoding="utf-8").read(), slug)
+_BR_PCSS = """<style>
+.ptabs{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:1rem 0}
+.ptab{font:inherit;text-align:left;border:2px solid #e6e0d4;border-radius:14px;padding:.7rem .9rem;background:#fff;cursor:pointer;display:flex;flex-direction:column;gap:.15rem;color:#0f1b33}
+.ptab b{font-size:1.05rem}.ptab small{color:#7f5c1c;font-weight:700}.ptab em{font-style:normal;font-size:.85rem;opacity:.8}
+.ptab.on{border-color:#d4a24c;background:#fbf1dc}.ptab.pass{border-color:#2e7d32}.ptab.pass em{color:#1b5e20;font-weight:700;opacity:1}
+.pmast{border-radius:12px;padding:.8rem 1rem;background:#eef2fb;margin:1rem 0;font-weight:600}.pmast .bar{height:10px;border-radius:6px;background:#dbe3f3;margin-top:.5rem;overflow:hidden}.pmast .bar i{display:block;height:100%;background:#2e7d32;width:0}
+.pcta{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:.8rem;border:2px solid #d4a24c;background:#fbf1dc;border-radius:14px;padding:1rem 1.2rem;margin:1.6rem 0}
+.pcta b{font-size:1.1rem}.pcta p{margin:.2rem 0 0}.pp{display:block;font-size:.8rem;font-weight:700;color:#1b5e20;margin-top:.3rem}
+.studyflow{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:10px;margin:1rem 0}.studyflow div{border:1px solid #e3ddcd;border-radius:12px;padding:.7rem .9rem;background:#fff}.studyflow b{display:block;color:#7f5c1c}
+</style>"""
+_BR_PJS = """<script>(function(){function sc(k){try{return JSON.parse(localStorage.getItem('aa-score:'+k)||'null')}catch(e){return null}}
+document.querySelectorAll('[data-pk]').forEach(function(x){var k=x.dataset.pk,n=+x.dataset.n,p=0,t=0;for(var i=1;i<=n;i++){var o=sc(k+'-p'+i);if(o){t++;if(o.best>=80)p++}}
+if(t)x.textContent=p===n?'✓ Topic mastered':'Practice: '+p+' / '+n+' sets passed'});
+var tabs=document.querySelectorAll('.ptab'),pan=document.querySelectorAll('.ppanel');if(!tabs.length)return;
+function upd(){var p=0;tabs.forEach(function(t){var o=sc(t.dataset.k),e=t.querySelector('em');if(o){e.textContent='Best: '+o.best+'%'+(o.best>=80?' ✓':'');t.classList.toggle('pass',o.best>=80);if(o.best>=80)p++}});
+var m=document.querySelector('.pmast');if(m){m.querySelector('span').textContent=p===tabs.length?'✓ You have mastered this topic!':p+' of '+tabs.length+' practice sets passed (80% or more)';m.querySelector('i').style.width=(p*100/tabs.length)+'%'}}
+function show(i){tabs.forEach(function(t,j){t.classList.toggle('on',i===j)});pan.forEach(function(x,j){x.hidden=i!==j});try{history.replaceState(null,'','#practice-'+(i+1))}catch(e){}}
+tabs.forEach(function(t,i){t.onclick=function(){show(i);pan[i].scrollIntoView({behavior:'smooth',block:'start'})}});
+var h=+(location.hash.match(/practice-(\\d+)/)||[])[1];show(h&&h<=tabs.length?h-1:0);upd();document.addEventListener('pt-done',upd)})();</script>"""
 for _bc in _BR_COURSES:
     _cfp = _bo.path.join(_BR_ROOT, _bc, "course.json")
     if not _bo.path.exists(_cfp):
@@ -235,7 +265,9 @@ for _bc in _BR_COURSES:
                 global _num
                 _num += 1
                 if _compact:
-                    return f'<li><a href="{_bhref(s)}"><small class="ln">{_lw} {_num}</small><b>{_bE(_pages[s].get("nav") or _pages[s]["title"])}</b></a></li>'
+                    _pp = _bpractice(_bc, s)
+                    _ps = f'<small class="pp" data-pk="{s.split("/")[-1]}" data-n="{len(_pp["sets"])}">{len(_pp["sets"])} practice sets</small>' if _pp else ""
+                    return f'<li><a href="{_bhref(s)}"><small class="ln">{_lw} {_num}</small><b>{_bE(_pages[s].get("nav") or _pages[s]["title"])}</b>{_ps}</a></li>'
                 return f'<li><a href="{s}.html"><small class="ln">{_lw} {_num}</small><b>{_bE(_pages[s]["title"])}</b><span>{_bE(_pages[s].get("summary",""))}</span></a></li>'
             if sec.get("groups"):
                 items = "".join(f'<li class="bgrp"><h3>{_bE(g["title"])}</h3></li>' + "".join(_li(s) for s in g["pages"]) for g in sec["groups"] if g["pages"])
@@ -260,7 +292,7 @@ window.addEventListener('hashchange',show);show();})();</script>"""
 <p><a class="btn" href="{_first}.html">{_L["start"]}</a></p>
 <h2 class="pickh">{_pick}</h2><div class="stiles">{_stiles}</div>
 <p id="sall" hidden><a href="#">{_all}</a></p>
-<div class="bsecs">{_secs}</div></div></div></section>{_secjs}'''
+<div class="bsecs">{_secs}</div></div></div></section>{_secjs}''' + _BR_PCSS + _BR_PJS
         page(_hub, f'{_cfg["title"]} — Abdelkriem Academy', _cfg.get("meta_desc", _cfg["summary"]), _body, _active)
     _dir = ' dir="rtl" lang="ar"' if _rtl else ""
     _BR_STATE.clear()
@@ -281,7 +313,17 @@ window.addEventListener('hashchange',show);show();})();</script>"""
                 f'<li{" class=on" if x == s else ""}><a href="{_bhref(x)}" dir="auto">{_bE(_pages[x]["title"])}</a></li>' for x in sec["pages"]) + "</ul>"
         toc += "</details>"
         _BR_STATE.pop("has_test", None)
-        blocks = "".join(_bblock(b) for b in d["blocks"])
+        _pr = _bpractice(_bc, s)
+        _bl = list(d["blocks"])
+        if _pr:
+            _cta = {"type": "_cta"}
+            _ix = next((k for k in range(len(_bl) - 1, -1, -1) if _bl[k]["type"] == "test"), None)
+            _bl.insert(_ix + 1 if _ix is not None else len(_bl), _cta)
+        blocks = "".join(_bblock(b) if b["type"] != "_cta" else
+                         f'<div class="pcta"><div><b>Master this topic: {len(_pr["sets"])} more practice sets</b><p>{sum(len(x["questions"]) for x in _pr["sets"])} new questions, from Foundation to Challenge level, with an explanation for every choice.</p><small class="pp" data-pk="{s}" data-n="{len(_pr["sets"])}"></small></div><a class="btn" href="{s}-practice.html">Start Practice 1 →</a></div>'
+                         for b in _bl)
+        if _pr:
+            blocks = _BR_PCSS + blocks + _BR_PJS
         if _BR_STATE.get("has_test"):
             _eng = _bo.path.join(_BR_ROOT, "_engine")
             blocks += "<style>" + open(_bo.path.join(_eng, "test.css"), encoding="utf-8").read() + "</style><script>" + open(_bo.path.join(_eng, "test.js"), encoding="utf-8").read() + "</script>"
@@ -291,4 +333,25 @@ window.addEventListener('hashchange',show);show();})();</script>"""
 {blocks}{pn}{toc}</div></div></section>'''
         page(s + ".html", f'{d["title"]} — {_cfg["short"]} — Abdelkriem Academy', d.get("summary", _cfg["summary"]), body, _active, rtl=_rtl)
         EXTRA_PAGES.append(s + ".html")
+        if _pr:
+            _nm = d.get("nav") or d["title"]
+            _tabs = "".join(f'<button type="button" class="ptab" data-k="{s}-p{n}"><b>{_bE(st["title"])}</b><small>{_bE(st["level"])}</small><em>{len(st["questions"])} questions · not tried yet</em></button>' for n, st in enumerate(_pr["sets"], 1))
+            _pans = ""
+            for n, st in enumerate(_pr["sets"], 1):
+                tb = {"type": "test", "mode": "practice", "timed": False, "id": f"{s}-p{n}",
+                      "title": f'{_nm} — {st["title"]} ({st["level"]})',
+                      "intro": "Untimed. You get feedback after every question. Score 80% or more to pass this set.",
+                      "sections": [{"name": st["title"], "minutes": 0, "questions": st["questions"]}]}
+                _pans += f'<div class="ppanel" id="practice-{n}">' + _bblock(tb) + "</div>"
+            _eng = _bo.path.join(_BR_ROOT, "_engine")
+            _pbody = _BR_CSS + _BR_PCSS + pagehead(_bE(d["kicker"]) + " · Practice", f'{_bE(_nm)} — Practice Sets', f'{len(_pr["sets"])} practice sets on this topic only, from Foundation to Challenge. Every answer is explained.') + f'''
+<section class="block"><div class="wrap"><div class="bc">
+<p class="crumb">{_L["crumb"]}<a href="{_hub}">{_bE(_cfg["title"])}</a> › <a href="{s}.html">{_bE(_nm)}</a></p>
+<div class="studyflow"><div><b>1 · Foundation</b>Check you know the rule.</div><div><b>2 · Exam level</b>Real test difficulty and traps.</div><div><b>3 · Challenge</b>The hardest versions the test uses.</div></div>
+<div class="bx ar notranslate" dir="rtl" lang="ar" translate="no"><b class="t">إزاي تستخدم التدريبات دي؟</b><ul><li>ذاكر الدرس الأول، وبعدين حل التدريبات بالترتيب من 1 لحد الآخر.</li><li>بعد كل سؤال هتعرف فورًا إجابتك صح ولا غلط، وليه كل اختيار صح أو غلط — اقرا الشرح كله حتى لو جاوبت صح.</li><li>لو جبت أقل من 80% في أي تدريب، دوس "Retry the ones I got wrong" وبعدين ارجع للدرس.</li></ul></div>
+<div class="pmast"><span>0 of {len(_pr["sets"])} practice sets passed (80% or more)</span><div class="bar"><i></i></div></div>
+<div class="ptabs">{_tabs}</div>{_pans}
+<p><a class="btn" href="{s}.html">← Back to the lesson</a></p></div></div></section>''' + "<style>" + open(_bo.path.join(_eng, "test.css"), encoding="utf-8").read() + "</style><script>" + open(_bo.path.join(_eng, "test.js"), encoding="utf-8").read() + "</script>" + _BR_PJS
+            page(s + "-practice.html", f'{_nm} Practice — {_cfg["short"]} — Abdelkriem Academy', f'{len(_pr["sets"])} practice sets on {_nm} with instant feedback and an explanation for every answer choice.', _pbody, _active, rtl=_rtl)
+            EXTRA_PAGES.append(s + "-practice.html")
     _BR_BUILT[_bc] = len(_order)
