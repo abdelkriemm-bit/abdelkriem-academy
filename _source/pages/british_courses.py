@@ -275,6 +275,8 @@ for _bc in _BR_COURSES:
                 items = "".join(_li(s) for s in sec["pages"])
             _n = len(sec["pages"])
             _cnt = (f"{_n} دروس" if 3 <= _n <= 10 else f"{_n} درس") if _rtl else (f"{_n} lesson" + ("s" if _n != 1 else ""))
+            if not _rtl and _bre.search(r"test|exam", sec["title"], _bre.I):
+                _cnt = f"{_n} test" + ("s" if _n != 1 else "")
             _stiles += f'<a class="stile" href="#s{_si}" data-s="s{_si}"><b>{_bE(sec["title"])}</b><span>{_bE(sec["tag"]) + " · " if sec.get("tag") else ""}{_cnt}</span></a>'
             _secs += f'<div class="bsec" id="s{_si}"><h2>{_bE(sec["title"])}</h2>' + (f'<p>{_bE(sec["desc"])}</p>' if sec.get("desc") and not _compact else "") + f'<ul class="blist{" compact" if _compact else ""}">{items}</ul></div>'
         _intro = "".join(_bblock(b) for b in _cfg.get("intro_blocks", []))

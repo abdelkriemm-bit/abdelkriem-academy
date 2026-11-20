@@ -94,5 +94,29 @@
    ]
   }
  ],
- "compact": true
+ "compact": true,
+ "intro_blocks": [
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "How to study for the Digital SAT here",
+   "items": [
+    "1 · Open a lesson tile and study the rules and worked examples.",
+    "2 · Do the short quiz at the end of the lesson, then open its practice page: Practice 1 and 2 (Foundation), 3 and 4 (Exam level), 5 (Challenge). Every answer choice is explained.",
+    "3 · Aim for 80% or more in every set. Your best score is saved on this device, and the lesson tile shows your progress.",
+    "4 · When most topics are done, take a full practice test with the timer on, then review every explanation and go back to your weakest topics."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "خطة المذاكرة باختصار",
+   "items": [
+    "ادخل على الدرس وذاكر القاعدة والأمثلة.",
+    "حل الكويز اللي في آخر الدرس، وبعدين صفحة التدريبات: من Practice 1 لحد Practice 5 — كل اختيار مشروح ليه صح وليه غلط.",
+    "هدفك 80% أو أكتر في كل تدريب. أحسن نتيجة بتتحفظ على جهازك، ومربع الدرس بيوريك وصلت لفين.",
+    "لما تخلص أغلب الدروس، حل امتحان كامل بالوقت، وراجع الشرح كله وارجع لأضعف الدروس."
+   ]
+  }
+ ]
 }

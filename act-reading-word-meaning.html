@@ -238,7 +238,7 @@ document.querySelectorAll('.ptest').forEach(function(box){
   var nx=el('button','pt-b pt-p',qi<S.questions.length-1?'Next →':(si<T.sections.length-1?'Finish this section':'Finish test'));nx.type='button';
   if(only){var pos=only.indexOf(qi);nx.textContent=pos<only.length-1?'Next →':'Finish';nx.onclick=function(){if(pos<only.length-1){qi=only[pos+1];render()}else{only=null;clearInterval(tick);results()}};pr.disabled=pos<=0;pr.onclick=function(){qi=only[pos-1];render()}}
   else nx.onclick=function(){if(qi<S.questions.length-1){qi++;render()}else endSection(false)};
-  nav.appendChild(pr);nav.appendChild(fl);nav.appendChild(nx);stage.appendChild(nav);
+  nav.appendChild(pr);if(!prac)nav.appendChild(fl);nav.appendChild(nx);stage.appendChild(nav);
   var grid=el('div','pt-grid');S.questions.forEach(function(G,i){if(only&&only.indexOf(i)<0)return;var g=el('button','pt-g'+(i===qi?' cur':'')+(!blank(G,ans[si][i])?' ans':'')+(flags[si][i]?' fl':''),String(i+1));g.type='button';if(prac&&ans[si][i]>=0)g.className+=(ans[si][i]===G.a?' gok':' gno');g.onclick=function(){qi=i;render()};grid.appendChild(g)});stage.appendChild(grid);stage.style.minHeight='';
   var np=stage.querySelector('.pt-pass');if(np){if(ok===nk)np.scrollTop=ost;else{var u=np.querySelector('u');np.scrollTop=u?Math.max(0,u.offsetTop-np.offsetTop-60):0}}if(ok===nk)window.scrollTo(0,wy);
  }
