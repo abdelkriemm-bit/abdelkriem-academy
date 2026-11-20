@@ -40,3 +40,16 @@ D) ...
 - ACT English topics: (none yet)
 - ACT Reading topics: (none yet)
 - Full exams: SAT 1–3 ✓; ACT Eng 1–2 ✓; ACT Read 1–2 ✓; EST 1 ✓
+
+## Next steps (in this order)
+1. ACT English topics (26 lessons in act/course.json "ACT English" groups, skip act-overview/act-english-strategy):
+   per set 2 short ACT essays (~180–220 words) × 5 questions, underlined __portion__ [n], "NO CHANGE" as first choice
+   (STEM: "Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.");
+   whole essay repeated via `P: @` for its 2nd–5th questions. Rhetorical questions (add/delete, placement, writer's goal)
+   get their own Q: line and no NO CHANGE.
+2. ACT Reading topics (10 lessons): per set ONE passage (~400–450 words) × 6–8 questions on that skill.
+3. Full exams: SAT 4–10, ACT English 3–10, ACT Reading 3–10, EST 2–10 (see top of this file for formats);
+   add each to course.json "Full practice tests"/"Practice tests" groups; give test blocks "links" (skill → lesson) so
+   results show "Study these again".
+Publishing: build with the tolerant build (skips missing course/eng_exam.css and quran/tj_quiz.js), copy only
+sat-/act-/est-/digital-sat/american pages to the repo root, push via GitHub API (Drive tgz → Composio workbench).
