@@ -34,8 +34,12 @@ D) ...
 "NO CHANGE" (stays A) or the question line has `[fixed]`.
 
 ## Progress (update after every batch)
-- [ ] engine + generator + hubs
-- SAT topics: (none yet)
+- [x] engine + generator (practice pages, lesson buttons, hub badges) — published 20 Nov
+- SAT topics done: semicolons, sentence-boundaries, commas-extra-info, commas-intro-lists, colons, dashes,
+  subject-verb, pronoun-agreement, pronoun-case, verb-tense, verb-finiteness, modifiers, parallel-structure,
+  comparisons, possessives-plurals
+- SAT topics to do: transitions, rhetorical-synthesis, words-in-context, vocab-toolkit, text-structure-purpose,
+  cross-text, central-ideas, evidence-textual, evidence-quantitative, inferences
 - ACT English topics: (none yet)
 - ACT Reading topics: (none yet)
 - Full exams: SAT 1–3 ✓; ACT Eng 1–2 ✓; ACT Read 1–2 ✓; EST 1 ✓
