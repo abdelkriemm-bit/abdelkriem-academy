@@ -1,0 +1,1089 @@
+{
+ "slug": "act-english-test-3",
+ "nav": "English Test 3",
+ "title": "ACT English — Practice Test 3",
+ "kicker": "American Diploma · ACT · Practice tests",
+ "summary": "A full, timed enhanced-ACT English practice test: six original essays, 50 questions in 35 minutes, with a reason for every answer choice and links back to the lessons.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "Before you start"
+  },
+  {
+   "type": "p",
+   "text": "This is a complete practice version of the **ACT English** section, with the same length and timing as the real enhanced ACT English test: **50 questions in 35 minutes**. You will read six original essays: four of about 340 words with 10 questions each and two of about 185 words with 5 questions each. Five essays follow the design of the scored part of the real test (three long and two short), and a fourth long essay brings the total to 50 questions, just as on test day. The essays are informational, argumentative and narrative."
+  },
+  {
+   "type": "table",
+   "headers": [
+    "Passage",
+    "Type",
+    "Questions"
+   ],
+   "rows": [
+    [
+     "I. My Father's Kunafa",
+     "Narrative",
+     "1–10"
+    ],
+    [
+     "II. The Doctor Who Listened Through Paper",
+     "Informational",
+     "11–20"
+    ],
+    [
+     "III. Big Ears in the Desert",
+     "Informational",
+     "21–25"
+    ],
+    [
+     "IV. Every Child Should Learn to Swim",
+     "Argumentative",
+     "26–35"
+    ],
+    [
+     "V. The Street of the Tentmakers",
+     "Informational",
+     "36–40"
+    ],
+    [
+     "VI. The Bridge That Held",
+     "Narrative",
+     "41–50"
+    ]
+   ]
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Sit somewhere quiet with nothing else open, and put your phone away.",
+    "Press Start: the timer runs for 35 minutes and the test ends automatically when time is up. On the real test you cannot go back to English once its time is over.",
+    "Each question shows the essay with **only that question's part** underlined and numbered, for example [7]. Questions about a point in the essay show the number at that point; for placement questions, the sentences of the paragraph are numbered in bold.",
+    "Choice A is often NO CHANGE. It is a real option: choose it only when the original is already the best version.",
+    "In the real test, 40 of the 50 questions are scored and the others are unscored field-test questions that you cannot recognise, so treat every question as if it counts. Here all 50 count.",
+    "There is no penalty for wrong answers, so answer every question. Use Mark for review and come back if you have time.",
+    "Your result is a practice score (number correct and a percentage), **not** an official ACT score on the 1–36 scale."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "Timing guide",
+   "items": [
+    "About 40 seconds per question: roughly 7 minutes for each long essay and 3–4 minutes for each short one.",
+    "Check the clock after question 25: you should have about 17 minutes left.",
+    "Answer as you read, and always read to the end of the sentence that contains the underline before you choose."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "قبل ما تبدأ",
+   "text": "اقعد في مكان هادي وابعد الموبايل، وشغّل الوقت 35 دقيقة ومتوقفوش. الامتحان 6 مقالات و50 سؤال، يعني حوالي 40 ثانية لكل سؤال. في كل سؤال هتلاقي الجزء اللي عليه السؤال بس تحته خط ورقمه جنبه. اختيار A غالبًا NO CHANGE يعني \"سيبها زي ما هي\"، وساعات بيكون هو الصح فعلًا. جاوب على كل الأسئلة لأن مفيش خصم على الغلط. في الآخر هتلاقي جدول بالمهارات، ولو مهارة درجتك فيها أقل من 80% هيظهرلك لينك الدرس بتاعها علشان ترجع تذاكره. الدرجة اللي هتطلعلك نسبة تدريب، مش درجة ACT الرسمية من 36."
+  },
+  {
+   "type": "h2",
+   "text": "The test"
+  },
+  {
+   "type": "test",
+   "title": "ACT English — Practice Test 3",
+   "timed": true,
+   "intro": "Six essays (Passages I–VI), 50 questions, 35 minutes. For underlined portions, choose the version that is correct, clear and fits the essay best; choose NO CHANGE if the original is best. In the real test 40 of the 50 questions are scored; here all 50 count. Answer every question: there is no penalty for wrong answers. After the test, every choice is explained, and any skill below 80% links straight to its lesson.",
+   "links": {
+    "Add or Delete": "act-add-delete.html",
+    "Apostrophes": "act-apostrophes.html",
+    "Commas": "act-commas.html",
+    "Comparatives and Superlatives": "act-comparatives-superlatives.html",
+    "Concision": "act-concision-redundancy.html",
+    "Dashes": "act-dashes.html",
+    "Idioms & Prepositions": "act-idioms-prepositions.html",
+    "Modifiers": "act-modifiers.html",
+    "Organisation & Order": "act-sentence-placement.html",
+    "Parallelism": "act-parallelism.html",
+    "Pronoun Agreement": "act-pronoun-agreement.html",
+    "Pronoun Case": "act-pronoun-case.html",
+    "Run-ons & Splices": "act-run-ons.html",
+    "Subject–Verb Agreement": "act-subject-verb.html",
+    "Transitions": "act-transitions.html",
+    "Unnecessary Punctuation": "act-unnecessary-punctuation.html",
+    "Verb Tense & Forms": "act-verb-tense-forms.html",
+    "Word Choice and Tone": "act-word-choice-tone.html",
+    "Writer's Goal": "act-writers-goal.html"
+   },
+   "sections": [
+    {
+     "name": "English",
+     "minutes": 35,
+     "questions": [
+      {
+       "p": "**Passage I: My Father's Kunafa**\n\nEvery Ramadan, my father turns our small kitchen in Mansoura into a kunafa workshop. He is an accountant who spends most of the year __[1] surrounded by numbers, but__ for one month he is happiest with his sleeves rolled up and a copper tray in front of him. When I turned thirteen, he finally decided that I was old enough to help.\n\nOur first job was the dough. My father buys it fresh from a bakery near our building, and the long, thin threads looks like pale, uncooked noodles. He showed me how to pull the threads apart with my fingers and mixing them with melted butter until every strand shone. \"Don't hurry this part,\" he warned. \"Dry threads burn. Buttered threads turn golden.\"\n\nFor example, I hurried. After two minutes, I declared the dough ready and reached for the tray. My father lifted a handful of threads and handed them back without a word. I mixed for another ten minutes.\n\nNext came the filling. Some families use cream, but my father insists on a soft white cheese that stretches into long strings when it melts. He pressed half of the dough into the tray, spread the cheese over it, and covered it with the rest. Then he slid the tray into the oven, and we waited.\n\nWaiting was the hardest part. My little brother kept opening the kitchen door to ask whether it was ready. My father, normally a patient man, was totally freaking out and checked the oven every five minutes. At last he took out the tray and poured cold syrup over the hot kunafa, which hissed as the syrup soaked in. My brother and I each grabbed a corner piece, and we burned their tongues because we could not wait.\n\nThis year, my father let me make the whole tray on my own. He pretended to read the newspaper, but he looked up every time I opened the oven. I buttered every thread patiently, slowly, and without rushing, and when the syrup hissed over the golden top, he put down his paper and smiled. \"Now,\" he said, \"you are ready to teach your brother.\"",
+       "q": "Question 1 (underlined portion [1]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "surrounded by numbers; but,",
+        "surrounded by numbers but,",
+        "surrounded, by numbers but"
+       ],
+       "a": 0,
+       "e": "Two complete sentences (\"He is an accountant…\" and \"for one month he is happiest…\") are joined by \"but\", so a comma goes before \"but\" and nowhere else. The strongest wrong choice moves the comma after \"but\", which leaves the joining word without its comma and puts a comma where no pause belongs.",
+       "ce": [
+        "Correct: a comma before \"but\" joins two complete sentences.",
+        "A semicolon plus \"but,\" is the wrong punctuation: use a comma before \"but\" only.",
+        "The comma belongs before \"but\", not after it.",
+        "A comma cannot split \"surrounded by numbers\", and the comma before \"but\" is missing."
+       ],
+       "s": "Commas"
+      },
+      {
+       "p": "**Passage I: My Father's Kunafa**\n\nEvery Ramadan, my father turns our small kitchen in Mansoura into a kunafa workshop. He is an accountant who spends most of the year surrounded by numbers, but for one month he is happiest with his sleeves rolled up and a copper tray in front of him. When I turned thirteen, he finally decided that I was old enough to help.\n\nOur first job was the dough. My father buys it fresh from a bakery near our building, and the long, thin threads __[2] looks__ like pale, uncooked noodles. He showed me how to pull the threads apart with my fingers and mixing them with melted butter until every strand shone. \"Don't hurry this part,\" he warned. \"Dry threads burn. Buttered threads turn golden.\"\n\nFor example, I hurried. After two minutes, I declared the dough ready and reached for the tray. My father lifted a handful of threads and handed them back without a word. I mixed for another ten minutes.\n\nNext came the filling. Some families use cream, but my father insists on a soft white cheese that stretches into long strings when it melts. He pressed half of the dough into the tray, spread the cheese over it, and covered it with the rest. Then he slid the tray into the oven, and we waited.\n\nWaiting was the hardest part. My little brother kept opening the kitchen door to ask whether it was ready. My father, normally a patient man, was totally freaking out and checked the oven every five minutes. At last he took out the tray and poured cold syrup over the hot kunafa, which hissed as the syrup soaked in. My brother and I each grabbed a corner piece, and we burned their tongues because we could not wait.\n\nThis year, my father let me make the whole tray on my own. He pretended to read the newspaper, but he looked up every time I opened the oven. I buttered every thread patiently, slowly, and without rushing, and when the syrup hissed over the golden top, he put down his paper and smiled. \"Now,\" he said, \"you are ready to teach your brother.\"",
+       "q": "Question 2 (underlined portion [2]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "look",
+        "has looked",
+        "is looking"
+       ],
+       "a": 1,
+       "e": "The subject is \"threads\" (plural), so the verb must be the plural \"look\", in the present tense like \"buys\". \"Looks\", \"has looked\" and \"is looking\" are all singular forms.",
+       "ce": [
+        "\"Looks\" is singular, but the subject \"threads\" is plural.",
+        "Correct: plural verb for the plural subject \"threads\", in the present tense like \"buys\".",
+        "\"Has looked\" is singular and changes the tense.",
+        "\"Is looking\" is singular and sounds as if the threads are actively looking at something."
+       ],
+       "s": "Subject–Verb Agreement"
+      },
+      {
+       "p": "**Passage I: My Father's Kunafa**\n\nEvery Ramadan, my father turns our small kitchen in Mansoura into a kunafa workshop. He is an accountant who spends most of the year surrounded by numbers, but for one month he is happiest with his sleeves rolled up and a copper tray in front of him. When I turned thirteen, he finally decided that I was old enough to help.\n\nOur first job was the dough. My father buys it fresh from a bakery near our building, and the long, thin threads looks like pale, uncooked noodles. He showed me how to pull the threads apart with my fingers and __[3] mixing them__ with melted butter until every strand shone. \"Don't hurry this part,\" he warned. \"Dry threads burn. Buttered threads turn golden.\"\n\nFor example, I hurried. After two minutes, I declared the dough ready and reached for the tray. My father lifted a handful of threads and handed them back without a word. I mixed for another ten minutes.\n\nNext came the filling. Some families use cream, but my father insists on a soft white cheese that stretches into long strings when it melts. He pressed half of the dough into the tray, spread the cheese over it, and covered it with the rest. Then he slid the tray into the oven, and we waited.\n\nWaiting was the hardest part. My little brother kept opening the kitchen door to ask whether it was ready. My father, normally a patient man, was totally freaking out and checked the oven every five minutes. At last he took out the tray and poured cold syrup over the hot kunafa, which hissed as the syrup soaked in. My brother and I each grabbed a corner piece, and we burned their tongues because we could not wait.\n\nThis year, my father let me make the whole tray on my own. He pretended to read the newspaper, but he looked up every time I opened the oven. I buttered every thread patiently, slowly, and without rushing, and when the syrup hissed over the golden top, he put down his paper and smiled. \"Now,\" he said, \"you are ready to teach your brother.\"",
+       "q": "Question 3 (underlined portion [3]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "mix them",
+        "to be mixing them",
+        "having mixed them"
+       ],
+       "a": 1,
+       "e": "After \"how to\", the two actions must match: how to pull the threads apart and mix them. \"Mixing\", \"having mixed\" and \"to be mixing\" break the parallel pattern of base verbs.",
+       "ce": [
+        "\"Mixing\" does not match \"pull\": the two actions after \"how to\" must be parallel.",
+        "Correct: \"how to pull … and mix\" keeps both verbs in the same form.",
+        "\"To be mixing\" is wordy and does not match \"pull\".",
+        "\"Having mixed\" does not match \"pull\" and wrongly suggests the mixing was already finished."
+       ],
+       "s": "Parallelism"
+      },
+      {
+       "p": "**Passage I: My Father's Kunafa**\n\nEvery Ramadan, my father turns our small kitchen in Mansoura into a kunafa workshop. He is an accountant who spends most of the year surrounded by numbers, but for one month he is happiest with his sleeves rolled up and a copper tray in front of him. When I turned thirteen, he finally decided that I was old enough to help.\n\nOur first job was the dough. My father buys it fresh from a bakery near our building, and the long, thin threads looks like pale, uncooked noodles. He showed me how to pull the threads apart with my fingers and mixing them with melted butter until every strand shone. \"Don't hurry this part,\" he warned. \"Dry threads burn. Buttered threads turn golden.\"\n\n__[4] For example,__ I hurried. After two minutes, I declared the dough ready and reached for the tray. My father lifted a handful of threads and handed them back without a word. I mixed for another ten minutes.\n\nNext came the filling. Some families use cream, but my father insists on a soft white cheese that stretches into long strings when it melts. He pressed half of the dough into the tray, spread the cheese over it, and covered it with the rest. Then he slid the tray into the oven, and we waited.\n\nWaiting was the hardest part. My little brother kept opening the kitchen door to ask whether it was ready. My father, normally a patient man, was totally freaking out and checked the oven every five minutes. At last he took out the tray and poured cold syrup over the hot kunafa, which hissed as the syrup soaked in. My brother and I each grabbed a corner piece, and we burned their tongues because we could not wait.\n\nThis year, my father let me make the whole tray on my own. He pretended to read the newspaper, but he looked up every time I opened the oven. I buttered every thread patiently, slowly, and without rushing, and when the syrup hissed over the golden top, he put down his paper and smiled. \"Now,\" he said, \"you are ready to teach your brother.\"",
+       "q": "Question 4 (underlined portion [4]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "Similarly,",
+        "As a result,",
+        "Of course,"
+       ],
+       "a": 3,
+       "e": "The father has just warned \"Don't hurry\", and the narrator hurries anyway, which is exactly what the reader expects a thirteen-year-old to do. \"Of course\" signals that predictable twist. \"As a result\" fails because the warning did not cause the hurrying.",
+       "ce": [
+        "Hurrying is not an example of the father's warning.",
+        "Hurrying is not similar to being told not to hurry; it is the opposite.",
+        "The warning did not cause the narrator to hurry, so a cause-and-effect word is illogical.",
+        "Correct: \"Of course\" shows that the narrator, predictably, did the opposite of the advice."
+       ],
+       "s": "Transitions"
+      },
+      {
+       "p": "**Passage I: My Father's Kunafa**\n\nEvery Ramadan, my father turns our small kitchen in Mansoura into a kunafa workshop. He is an accountant who spends most of the year surrounded by numbers, but for one month he is happiest with his sleeves rolled up and a copper tray in front of him. When I turned thirteen, he finally decided that I was old enough to help.\n\nOur first job was the dough. My father buys it fresh from a bakery near our building, and the long, thin threads looks like pale, uncooked noodles. He showed me how to pull the threads apart with my fingers and mixing them with melted butter until every strand shone. \"Don't hurry this part,\" he warned. \"Dry threads burn. Buttered threads turn golden.\"\n\nFor example, I hurried. After two minutes, I declared the dough ready and reached for the tray. My father lifted a handful of threads and handed them back without a word. I mixed for another ten minutes.\n\nNext came the filling. Some families use cream, but my father insists on a soft white cheese that stretches into long strings when it melts. He pressed half of the dough into the tray, spread the cheese over it, and covered it with the rest. [5] Then he slid the tray into the oven, and we waited.\n\nWaiting was the hardest part. My little brother kept opening the kitchen door to ask whether it was ready. My father, normally a patient man, was totally freaking out and checked the oven every five minutes. At last he took out the tray and poured cold syrup over the hot kunafa, which hissed as the syrup soaked in. My brother and I each grabbed a corner piece, and we burned their tongues because we could not wait.\n\nThis year, my father let me make the whole tray on my own. He pretended to read the newspaper, but he looked up every time I opened the oven. I buttered every thread patiently, slowly, and without rushing, and when the syrup hissed over the golden top, he put down his paper and smiled. \"Now,\" he said, \"you are ready to teach your brother.\"",
+       "q": "Question 5 (point [5] in the passage): At this point, the writer is considering adding the following sentence:\n\"Kunafa is sold in sweet shops all over the Arab world.\"\nShould the writer make this addition here?",
+       "c": [
+        "Yes, because it shows that the father's recipe is the most popular one.",
+        "Yes, because it explains why the father chose cheese instead of cream.",
+        "No, because it interrupts the step-by-step account of how the father put the kunafa together.",
+        "No, because it contradicts the claim that the father buys the dough from a bakery."
+       ],
+       "a": 2,
+       "e": "The paragraph follows the father's steps: dough, cheese, more dough, then the oven. A general fact about sweet shops breaks that sequence and moves away from the family kitchen. The second \"No\" reason fails because the sentence does not contradict anything; it is simply off-topic.",
+       "ce": [
+        "The sentence says nothing about the father's recipe or its popularity.",
+        "The sentence does not mention cheese, cream, or the father's choice.",
+        "Correct: a general fact about shops breaks the sequence of steps in the family kitchen.",
+        "Selling kunafa in shops does not contradict buying dough from a bakery."
+       ],
+       "s": "Add or Delete"
+      },
+      {
+       "p": "**Passage I: My Father's Kunafa**\n\nEvery Ramadan, my father turns our small kitchen in Mansoura into a kunafa workshop. He is an accountant who spends most of the year surrounded by numbers, but for one month he is happiest with his sleeves rolled up and a copper tray in front of him. When I turned thirteen, he finally decided that I was old enough to help.\n\nOur first job was the dough. My father buys it fresh from a bakery near our building, and the long, thin threads looks like pale, uncooked noodles. He showed me how to pull the threads apart with my fingers and mixing them with melted butter until every strand shone. \"Don't hurry this part,\" he warned. \"Dry threads burn. Buttered threads turn golden.\"\n\nFor example, I hurried. After two minutes, I declared the dough ready and reached for the tray. My father lifted a handful of threads and handed them back without a word. I mixed for another ten minutes.\n\nNext came the filling. Some families use cream, but my father insists on a soft white cheese that stretches into long strings when it melts. He pressed half of the dough into the tray, spread the cheese over it, and covered it with the rest. Then he slid the tray into the oven, and we waited.\n\nWaiting was the hardest part. My little brother kept opening the kitchen door to ask whether it was ready. My father, normally a patient man, __[6] was totally freaking out and__ checked the oven every five minutes. At last he took out the tray and poured cold syrup over the hot kunafa, which hissed as the syrup soaked in. My brother and I each grabbed a corner piece, and we burned their tongues because we could not wait.\n\nThis year, my father let me make the whole tray on my own. He pretended to read the newspaper, but he looked up every time I opened the oven. I buttered every thread patiently, slowly, and without rushing, and when the syrup hissed over the golden top, he put down his paper and smiled. \"Now,\" he said, \"you are ready to teach your brother.\"",
+       "q": "Question 6 (underlined portion [6]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "went bananas and",
+        "grew restless and",
+        "was, like, losing it and"
+       ],
+       "a": 2,
+       "e": "The essay is written in clear, standard English, so the slang \"totally freaking out\" does not fit. \"Grew restless\" keeps the same meaning (the patient man could not wait) in a fitting tone. \"Went bananas\" and \"was, like, losing it\" are also slang.",
+       "ce": [
+        "\"Totally freaking out\" is slang that does not match the essay's standard style.",
+        "\"Went bananas\" is slang and exaggerates far beyond checking an oven.",
+        "Correct: \"grew restless\" shows his impatience in a tone that fits the essay.",
+        "\"Was, like, losing it\" is casual spoken slang that does not fit the essay."
+       ],
+       "s": "Word Choice and Tone"
+      },
+      {
+       "p": "**Passage I: My Father's Kunafa**\n\nEvery Ramadan, my father turns our small kitchen in Mansoura into a kunafa workshop. He is an accountant who spends most of the year surrounded by numbers, but for one month he is happiest with his sleeves rolled up and a copper tray in front of him. When I turned thirteen, he finally decided that I was old enough to help.\n\nOur first job was the dough. My father buys it fresh from a bakery near our building, and the long, thin threads looks like pale, uncooked noodles. He showed me how to pull the threads apart with my fingers and mixing them with melted butter until every strand shone. \"Don't hurry this part,\" he warned. \"Dry threads burn. Buttered threads turn golden.\"\n\nFor example, I hurried. After two minutes, I declared the dough ready and reached for the tray. My father lifted a handful of threads and handed them back without a word. I mixed for another ten minutes.\n\nNext came the filling. Some families use cream, but my father insists on a soft white cheese that stretches into long strings when it melts. He pressed half of the dough into the tray, spread the cheese over it, and covered it with the rest. Then he slid the tray into the oven, and we waited.\n\nWaiting was the hardest part. My little brother kept opening the kitchen door to ask whether it was ready. My father, normally a patient man, was totally freaking out and checked the oven every five minutes. At last he took out the tray and poured cold syrup over the hot kunafa, which hissed as the syrup soaked in. My brother and I each grabbed a corner piece, and we burned __[7] their__ tongues because we could not wait.\n\nThis year, my father let me make the whole tray on my own. He pretended to read the newspaper, but he looked up every time I opened the oven. I buttered every thread patiently, slowly, and without rushing, and when the syrup hissed over the golden top, he put down his paper and smiled. \"Now,\" he said, \"you are ready to teach your brother.\"",
+       "q": "Question 7 (underlined portion [7]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "our",
+        "its",
+        "his"
+       ],
+       "a": 1,
+       "e": "The tongues belong to \"my brother and I\", which the sentence then calls \"we\", so the pronoun must be \"our\". \"Their\" points to some other people; \"his\" leaves out the narrator; \"its\" is for a thing.",
+       "ce": [
+        "\"Their\" does not match \"we\": the tongues belong to the narrator and the brother.",
+        "Correct: \"we burned our tongues\" matches the subject \"we\".",
+        "\"Its\" is used for a thing or an animal, not for \"we\".",
+        "\"His\" refers to one male person, but both children burned their tongues."
+       ],
+       "s": "Pronoun Agreement"
+      },
+      {
+       "p": "**Passage I: My Father's Kunafa**\n\nEvery Ramadan, my father turns our small kitchen in Mansoura into a kunafa workshop. He is an accountant who spends most of the year surrounded by numbers, but for one month he is happiest with his sleeves rolled up and a copper tray in front of him. When I turned thirteen, he finally decided that I was old enough to help.\n\nOur first job was the dough. My father buys it fresh from a bakery near our building, and the long, thin threads looks like pale, uncooked noodles. He showed me how to pull the threads apart with my fingers and mixing them with melted butter until every strand shone. \"Don't hurry this part,\" he warned. \"Dry threads burn. Buttered threads turn golden.\"\n\nFor example, I hurried. After two minutes, I declared the dough ready and reached for the tray. My father lifted a handful of threads and handed them back without a word. I mixed for another ten minutes.\n\nNext came the filling. Some families use cream, but my father insists on a soft white cheese that stretches into long strings when it melts. He pressed half of the dough into the tray, spread the cheese over it, and covered it with the rest. Then he slid the tray into the oven, and we waited.\n\nWaiting was the hardest part. My little brother kept opening the kitchen door to ask whether it was ready. My father, normally a patient man, was totally freaking out and checked the oven every five minutes. At last he took out the tray and poured cold syrup over the hot kunafa, which hissed as the syrup soaked in. My brother and I each grabbed a corner piece, and we burned their tongues because we could not wait.\n\n__[8] This year, my father let me make the whole tray on my own.__ He pretended to read the newspaper, but he looked up every time I opened the oven. I buttered every thread patiently, slowly, and without rushing, and when the syrup hissed over the golden top, he put down his paper and smiled. \"Now,\" he said, \"you are ready to teach your brother.\"",
+       "q": "Question 8 (underlined portion [8]): Which choice most effectively introduces the main focus of the final paragraph?",
+       "c": [
+        "NO CHANGE",
+        "My little brother still prefers basbousa to kunafa.",
+        "My father has worked as an accountant for more than twenty years.",
+        "Kunafa can also be filled with nuts or cream instead of cheese."
+       ],
+       "a": 0,
+       "e": "The final paragraph shows the narrator making the kunafa alone while the father watches and finally approves, so a sentence saying the father let the narrator make the whole tray introduces it best. The fact about the father's job is true to the essay but has nothing to do with this paragraph.",
+       "ce": [
+        "Correct: it introduces the narrator cooking alone, which the rest of the paragraph describes.",
+        "The brother's favourite sweet does not lead into the paragraph's focus.",
+        "The father's job is not the focus of the final paragraph.",
+        "Other fillings have nothing to do with the narrator's first tray made alone."
+       ],
+       "s": "Organisation & Order"
+      },
+      {
+       "p": "**Passage I: My Father's Kunafa**\n\nEvery Ramadan, my father turns our small kitchen in Mansoura into a kunafa workshop. He is an accountant who spends most of the year surrounded by numbers, but for one month he is happiest with his sleeves rolled up and a copper tray in front of him. When I turned thirteen, he finally decided that I was old enough to help.\n\nOur first job was the dough. My father buys it fresh from a bakery near our building, and the long, thin threads looks like pale, uncooked noodles. He showed me how to pull the threads apart with my fingers and mixing them with melted butter until every strand shone. \"Don't hurry this part,\" he warned. \"Dry threads burn. Buttered threads turn golden.\"\n\nFor example, I hurried. After two minutes, I declared the dough ready and reached for the tray. My father lifted a handful of threads and handed them back without a word. I mixed for another ten minutes.\n\nNext came the filling. Some families use cream, but my father insists on a soft white cheese that stretches into long strings when it melts. He pressed half of the dough into the tray, spread the cheese over it, and covered it with the rest. Then he slid the tray into the oven, and we waited.\n\nWaiting was the hardest part. My little brother kept opening the kitchen door to ask whether it was ready. My father, normally a patient man, was totally freaking out and checked the oven every five minutes. At last he took out the tray and poured cold syrup over the hot kunafa, which hissed as the syrup soaked in. My brother and I each grabbed a corner piece, and we burned their tongues because we could not wait.\n\nThis year, my father let me make the whole tray on my own. He pretended to read the newspaper, but he looked up every time I opened the oven. I buttered every thread __[9] patiently, slowly, and without rushing__, and when the syrup hissed over the golden top, he put down his paper and smiled. \"Now,\" he said, \"you are ready to teach your brother.\"",
+       "q": "Question 9 (underlined portion [9]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "patiently and slowly, not rushing",
+        "with patience, slowly, not in a rush",
+        "patiently"
+       ],
+       "a": 3,
+       "e": "\"Patiently\", \"slowly\" and \"without rushing\" all express the same idea here, so the original says it three times. \"Patiently\" alone is clear and also shows the change from the narrator's earlier hurrying.",
+       "ce": [
+        "\"Slowly\" and \"without rushing\" repeat the idea of \"patiently\".",
+        "\"Slowly\" and \"not rushing\" say the same thing twice.",
+        "Wordy and repetitive: three phrases for one idea.",
+        "Correct: one word says it clearly with no repetition."
+       ],
+       "s": "Concision"
+      },
+      {
+       "p": "**Passage I: My Father's Kunafa**\n\nEvery Ramadan, my father turns our small kitchen in Mansoura into a kunafa workshop. He is an accountant who spends most of the year surrounded by numbers, but for one month he is happiest with his sleeves rolled up and a copper tray in front of him. When I turned thirteen, he finally decided that I was old enough to help.\n\nOur first job was the dough. My father buys it fresh from a bakery near our building, and the long, thin threads looks like pale, uncooked noodles. He showed me how to pull the threads apart with my fingers and mixing them with melted butter until every strand shone. \"Don't hurry this part,\" he warned. \"Dry threads burn. Buttered threads turn golden.\"\n\nFor example, I hurried. After two minutes, I declared the dough ready and reached for the tray. My father lifted a handful of threads and handed them back without a word. I mixed for another ten minutes.\n\nNext came the filling. Some families use cream, but my father insists on a soft white cheese that stretches into long strings when it melts. He pressed half of the dough into the tray, spread the cheese over it, and covered it with the rest. Then he slid the tray into the oven, and we waited.\n\nWaiting was the hardest part. My little brother kept opening the kitchen door to ask whether it was ready. My father, normally a patient man, was totally freaking out and checked the oven every five minutes. At last he took out the tray and poured cold syrup over the hot kunafa, which hissed as the syrup soaked in. My brother and I each grabbed a corner piece, and we burned their tongues because we could not wait.\n\nThis year, my father let me make the whole tray on my own. He pretended to read the newspaper, but he looked up every time I opened the oven. I buttered every thread patiently, slowly, and without rushing, and when the syrup hissed over the golden top, he put down his paper and smiled. \"Now,\" he said, \"you are ready to teach your brother.\"",
+       "q": "Question 10: Suppose the writer's goal had been to describe how a family tradition is passed from one generation to the next. Would this essay accomplish that goal?",
+       "c": [
+        "Yes, because it shows the father teaching the narrator to make kunafa and then saying the narrator is ready to teach the younger brother.",
+        "Yes, because it gives a detailed history of how kunafa came to Egypt.",
+        "No, because it focuses on the ingredients of kunafa rather than on the family.",
+        "No, because the father never lets the narrator make kunafa alone."
+       ],
+       "a": 0,
+       "e": "The essay moves from the father as the expert, to the narrator as a learner, to the narrator ready to teach the next child: a tradition passing down. It gives no history of kunafa, its ingredients are part of the family story rather than its focus, and the narrator does make a whole tray alone.",
+       "ce": [
+        "Correct: the tradition moves from father to narrator and is about to pass to the brother.",
+        "The essay gives no history of kunafa at all.",
+        "The ingredients are part of the story of the family, which stays the focus.",
+        "In the final paragraph the narrator makes the whole tray alone."
+       ],
+       "s": "Writer's Goal"
+      },
+      {
+       "p": "**Passage II: The Doctor Who Listened Through Paper**\n\nFor centuries, doctors who wanted to hear a patient's heart had only one method: they pressed an ear directly against the patient's chest. This was uncomfortable for doctor and patient alike, and it did not always work. Layers of __[11] clothing, muffled__ the sounds, and in some patients the heartbeat was too faint to hear at all.\n\nIn 1816, a young French doctor named René Laennec faced this problem at a hospital in Paris. His patient was a young woman with signs of heart disease, and Laennec felt that pressing his ear to her chest would be improper. In other words, he remembered a game he had seen children play: one child scratched the end of a long wooden beam with a pin, while another child, with an ear pressed to the far end, heard the scratching clearly. Laennec rolled several sheets of paper into a tight tube, placed one end on the woman's chest, and putting his ear to the other. Paris was, at that time, one of the largest cities in Europe. To his delight, the heartbeat sounded louder and clearer than it ever had through his bare ear.\n\nOver the next three years, Laennec tested tubes of different materials and sizes. He finally chose a hollow wooden cylinder that came apart into two pieces. Using it, he listened to the chests of hundreds of patients and recorded the sounds he heard. When patients died, he compared his notes with the findings of post-mortem examinations, matching each sound to a disease. In 1819, he published a book about his method, and doctors found his results pretty awesome.\n\nThe instruments name comes from two Greek words: stethos, meaning \"chest,\" and skopein, meaning \"to look at\" or \"to examine.\" Within a few decades, doctors in many countries had adopted and begun to use the new tool for themselves. In the 1850s, designers added flexible tubes and two earpieces, and the stethoscope takes the shape that most doctors still use today. Laennec also wrote about other diseases of the lungs.",
+       "q": "Question 11 (underlined portion [11]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "clothing muffled",
+        "clothing: muffled",
+        "clothing; muffled"
+       ],
+       "a": 1,
+       "e": "\"Layers of clothing\" is the subject and \"muffled\" is its verb, and no punctuation may come between a subject and its verb. The comma, semicolon and colon all split them.",
+       "ce": [
+        "A single comma cannot separate the subject from its verb \"muffled\".",
+        "Correct: no punctuation between the subject \"Layers of clothing\" and the verb \"muffled\".",
+        "A colon must follow a complete sentence; \"Layers of clothing\" is not one.",
+        "A semicolon must join two complete sentences; \"Layers of clothing\" is not one."
+       ],
+       "s": "Unnecessary Punctuation"
+      },
+      {
+       "p": "**Passage II: The Doctor Who Listened Through Paper**\n\nFor centuries, doctors who wanted to hear a patient's heart had only one method: they pressed an ear directly against the patient's chest. This was uncomfortable for doctor and patient alike, and it did not always work. Layers of clothing, muffled the sounds, and in some patients the heartbeat was too faint to hear at all.\n\nIn 1816, a young French doctor named René Laennec faced this problem at a hospital in Paris. His patient was a young woman with signs of heart disease, and Laennec felt that pressing his ear to her chest would be improper. __[12] In other words,__ he remembered a game he had seen children play: one child scratched the end of a long wooden beam with a pin, while another child, with an ear pressed to the far end, heard the scratching clearly. Laennec rolled several sheets of paper into a tight tube, placed one end on the woman's chest, and putting his ear to the other. Paris was, at that time, one of the largest cities in Europe. To his delight, the heartbeat sounded louder and clearer than it ever had through his bare ear.\n\nOver the next three years, Laennec tested tubes of different materials and sizes. He finally chose a hollow wooden cylinder that came apart into two pieces. Using it, he listened to the chests of hundreds of patients and recorded the sounds he heard. When patients died, he compared his notes with the findings of post-mortem examinations, matching each sound to a disease. In 1819, he published a book about his method, and doctors found his results pretty awesome.\n\nThe instruments name comes from two Greek words: stethos, meaning \"chest,\" and skopein, meaning \"to look at\" or \"to examine.\" Within a few decades, doctors in many countries had adopted and begun to use the new tool for themselves. In the 1850s, designers added flexible tubes and two earpieces, and the stethoscope takes the shape that most doctors still use today. Laennec also wrote about other diseases of the lungs.",
+       "q": "Question 12 (underlined portion [12]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "Similarly,",
+        "Then",
+        "For instance,"
+       ],
+       "a": 2,
+       "e": "The essay moves to the next event in time: after facing the problem, Laennec remembered the children's game. \"Then\" shows that sequence. The memory is not a restatement of his feeling (\"In other words\"), an example of it, or similar to it.",
+       "ce": [
+        "The memory of a game does not restate Laennec's feeling that the method was improper.",
+        "The memory is not like the problem; it is the start of the solution.",
+        "Correct: \"Then\" moves the story to the next thing that happened.",
+        "The memory is not an example of the problem."
+       ],
+       "s": "Transitions"
+      },
+      {
+       "p": "**Passage II: The Doctor Who Listened Through Paper**\n\nFor centuries, doctors who wanted to hear a patient's heart had only one method: they pressed an ear directly against the patient's chest. This was uncomfortable for doctor and patient alike, and it did not always work. Layers of clothing, muffled the sounds, and in some patients the heartbeat was too faint to hear at all.\n\nIn 1816, a young French doctor named René Laennec faced this problem at a hospital in Paris. His patient was a young woman with signs of heart disease, and Laennec felt that pressing his ear to her chest would be improper. In other words, he remembered a game he had seen children play: one child scratched the end of a long wooden beam with a pin, while another child, with an ear pressed to the far end, heard the scratching clearly. Laennec rolled several sheets of paper into a tight tube, placed one end on the woman's chest, and __[13] putting__ his ear to the other. Paris was, at that time, one of the largest cities in Europe. To his delight, the heartbeat sounded louder and clearer than it ever had through his bare ear.\n\nOver the next three years, Laennec tested tubes of different materials and sizes. He finally chose a hollow wooden cylinder that came apart into two pieces. Using it, he listened to the chests of hundreds of patients and recorded the sounds he heard. When patients died, he compared his notes with the findings of post-mortem examinations, matching each sound to a disease. In 1819, he published a book about his method, and doctors found his results pretty awesome.\n\nThe instruments name comes from two Greek words: stethos, meaning \"chest,\" and skopein, meaning \"to look at\" or \"to examine.\" Within a few decades, doctors in many countries had adopted and begun to use the new tool for themselves. In the 1850s, designers added flexible tubes and two earpieces, and the stethoscope takes the shape that most doctors still use today. Laennec also wrote about other diseases of the lungs.",
+       "q": "Question 13 (underlined portion [13]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "he puts",
+        "to put",
+        "put"
+       ],
+       "a": 3,
+       "e": "The sentence lists three past actions: Laennec rolled…, placed…, and put…. \"Put\" (past tense) completes the parallel list. \"Putting\" and \"to put\" break the pattern, and \"he puts\" switches to the present.",
+       "ce": [
+        "\"Putting\" does not match \"rolled\" and \"placed\".",
+        "\"He puts\" adds a new subject and changes to the present tense.",
+        "\"To put\" does not match \"rolled\" and \"placed\".",
+        "Correct: \"rolled…, placed…, and put…\" are three parallel past-tense verbs."
+       ],
+       "s": "Parallelism"
+      },
+      {
+       "p": "**Passage II: The Doctor Who Listened Through Paper**\n\nFor centuries, doctors who wanted to hear a patient's heart had only one method: they pressed an ear directly against the patient's chest. This was uncomfortable for doctor and patient alike, and it did not always work. Layers of clothing, muffled the sounds, and in some patients the heartbeat was too faint to hear at all.\n\nIn 1816, a young French doctor named René Laennec faced this problem at a hospital in Paris. His patient was a young woman with signs of heart disease, and Laennec felt that pressing his ear to her chest would be improper. In other words, he remembered a game he had seen children play: one child scratched the end of a long wooden beam with a pin, while another child, with an ear pressed to the far end, heard the scratching clearly. Laennec rolled several sheets of paper into a tight tube, placed one end on the woman's chest, and putting his ear to the other. __[14] Paris was, at that time, one of the largest cities in Europe.__ To his delight, the heartbeat sounded louder and clearer than it ever had through his bare ear.\n\nOver the next three years, Laennec tested tubes of different materials and sizes. He finally chose a hollow wooden cylinder that came apart into two pieces. Using it, he listened to the chests of hundreds of patients and recorded the sounds he heard. When patients died, he compared his notes with the findings of post-mortem examinations, matching each sound to a disease. In 1819, he published a book about his method, and doctors found his results pretty awesome.\n\nThe instruments name comes from two Greek words: stethos, meaning \"chest,\" and skopein, meaning \"to look at\" or \"to examine.\" Within a few decades, doctors in many countries had adopted and begun to use the new tool for themselves. In the 1850s, designers added flexible tubes and two earpieces, and the stethoscope takes the shape that most doctors still use today. Laennec also wrote about other diseases of the lungs.",
+       "q": "Question 14 (underlined portion [14]): The writer is considering deleting the underlined sentence. Should the sentence be kept or deleted?",
+       "c": [
+        "Kept, because it explains why the hospital had so many patients.",
+        "Kept, because it shows that Laennec worked in an important city.",
+        "Deleted, because it interrupts the description of Laennec's first experiment with an unrelated fact.",
+        "Deleted, because it contradicts the earlier statement that Laennec worked in Paris."
+       ],
+       "a": 2,
+       "e": "The sentence comes between Laennec placing the paper tube and the result of the experiment, so a fact about the size of Paris breaks the story at its most important moment. It does not contradict anything: it is simply off-topic.",
+       "ce": [
+        "The sentence says nothing about the hospital or its patients.",
+        "The size of the city is not important to the invention and breaks the flow of the experiment.",
+        "Correct: it interrupts the experiment with a fact that has nothing to do with it.",
+        "The sentence agrees that he was in Paris, so there is no contradiction."
+       ],
+       "s": "Add or Delete"
+      },
+      {
+       "p": "**Passage II: The Doctor Who Listened Through Paper**\n\nFor centuries, doctors who wanted to hear a patient's heart had only one method: they pressed an ear directly against the patient's chest. This was uncomfortable for doctor and patient alike, and it did not always work. Layers of clothing, muffled the sounds, and in some patients the heartbeat was too faint to hear at all.\n\nIn 1816, a young French doctor named René Laennec faced this problem at a hospital in Paris. His patient was a young woman with signs of heart disease, and Laennec felt that pressing his ear to her chest would be improper. In other words, he remembered a game he had seen children play: one child scratched the end of a long wooden beam with a pin, while another child, with an ear pressed to the far end, heard the scratching clearly. Laennec rolled several sheets of paper into a tight tube, placed one end on the woman's chest, and putting his ear to the other. Paris was, at that time, one of the largest cities in Europe. To his delight, the heartbeat sounded louder and clearer than it ever had through his bare ear.\n\nOver the next three years, Laennec tested tubes of different materials and sizes. He finally chose a hollow wooden cylinder that came apart into two pieces. Using it, he listened to the chests of hundreds of patients and recorded the sounds he heard. When patients died, he compared his notes with the findings of post-mortem examinations, matching each sound to a disease. In 1819, he published a book about his method, and doctors found his results __[15] pretty awesome__.\n\nThe instruments name comes from two Greek words: stethos, meaning \"chest,\" and skopein, meaning \"to look at\" or \"to examine.\" Within a few decades, doctors in many countries had adopted and begun to use the new tool for themselves. In the 1850s, designers added flexible tubes and two earpieces, and the stethoscope takes the shape that most doctors still use today. Laennec also wrote about other diseases of the lungs.",
+       "q": "Question 15 (underlined portion [15]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "totally amazing",
+        "remarkable",
+        "super cool"
+       ],
+       "a": 2,
+       "e": "The essay is a formal, informational text, so the slang \"pretty awesome\" does not fit. \"Remarkable\" gives the same positive judgement in a suitable tone. \"Super cool\" and \"totally amazing\" are also casual.",
+       "ce": [
+        "\"Pretty awesome\" is slang that does not suit a formal history of medicine.",
+        "\"Totally amazing\" is casual and exaggerated.",
+        "Correct: \"remarkable\" is precise and matches the essay's formal tone.",
+        "\"Super cool\" is too casual for this essay."
+       ],
+       "s": "Word Choice and Tone"
+      },
+      {
+       "p": "**Passage II: The Doctor Who Listened Through Paper**\n\nFor centuries, doctors who wanted to hear a patient's heart had only one method: they pressed an ear directly against the patient's chest. This was uncomfortable for doctor and patient alike, and it did not always work. Layers of clothing, muffled the sounds, and in some patients the heartbeat was too faint to hear at all.\n\nIn 1816, a young French doctor named René Laennec faced this problem at a hospital in Paris. His patient was a young woman with signs of heart disease, and Laennec felt that pressing his ear to her chest would be improper. In other words, he remembered a game he had seen children play: one child scratched the end of a long wooden beam with a pin, while another child, with an ear pressed to the far end, heard the scratching clearly. Laennec rolled several sheets of paper into a tight tube, placed one end on the woman's chest, and putting his ear to the other. Paris was, at that time, one of the largest cities in Europe. To his delight, the heartbeat sounded louder and clearer than it ever had through his bare ear.\n\n**[1]** Over the next three years, Laennec tested tubes of different materials and sizes. **[2]** He finally chose a hollow wooden cylinder that came apart into two pieces. **[3]** Using it, he listened to the chests of hundreds of patients and recorded the sounds he heard. **[4]** When patients died, he compared his notes with the findings of post-mortem examinations, matching each sound to a disease. In 1819, he published a book about his method, and doctors found his results pretty awesome.\n\nThe instruments name comes from two Greek words: stethos, meaning \"chest,\" and skopein, meaning \"to look at\" or \"to examine.\" Within a few decades, doctors in many countries had adopted and begun to use the new tool for themselves. In the 1850s, designers added flexible tubes and two earpieces, and the stethoscope takes the shape that most doctors still use today. Laennec also wrote about other diseases of the lungs.",
+       "q": "Question 16: The writer wants to add the following sentence to the third paragraph:\n\"This design allowed a doctor to carry the instrument easily from one patient to the next.\"\nThe sentence would most logically be placed after Sentence:",
+       "c": [
+        "1.",
+        "2.",
+        "3.",
+        "4."
+       ],
+       "a": 1,
+       "e": "\"This design\" needs a design to refer to, and carrying the instrument easily follows from a cylinder that \"came apart into two pieces\" (Sentence 2). After Sentence 1, there is only a range of tubes, not one design; after Sentences 3 or 4, \"this design\" would wrongly point to listening or comparing notes.",
+       "ce": [
+        "Sentence 1 mentions many tubes, not one design that comes apart.",
+        "Correct: \"This design\" refers to the cylinder that came apart into two pieces, which made it easy to carry.",
+        "Sentence 3 is about listening and recording, so \"This design\" would have nothing to refer to.",
+        "Sentence 4 is about comparing notes; carrying the tube does not follow from it."
+       ],
+       "s": "Organisation & Order"
+      },
+      {
+       "p": "**Passage II: The Doctor Who Listened Through Paper**\n\nFor centuries, doctors who wanted to hear a patient's heart had only one method: they pressed an ear directly against the patient's chest. This was uncomfortable for doctor and patient alike, and it did not always work. Layers of clothing, muffled the sounds, and in some patients the heartbeat was too faint to hear at all.\n\nIn 1816, a young French doctor named René Laennec faced this problem at a hospital in Paris. His patient was a young woman with signs of heart disease, and Laennec felt that pressing his ear to her chest would be improper. In other words, he remembered a game he had seen children play: one child scratched the end of a long wooden beam with a pin, while another child, with an ear pressed to the far end, heard the scratching clearly. Laennec rolled several sheets of paper into a tight tube, placed one end on the woman's chest, and putting his ear to the other. Paris was, at that time, one of the largest cities in Europe. To his delight, the heartbeat sounded louder and clearer than it ever had through his bare ear.\n\nOver the next three years, Laennec tested tubes of different materials and sizes. He finally chose a hollow wooden cylinder that came apart into two pieces. Using it, he listened to the chests of hundreds of patients and recorded the sounds he heard. When patients died, he compared his notes with the findings of post-mortem examinations, matching each sound to a disease. In 1819, he published a book about his method, and doctors found his results pretty awesome.\n\nThe __[17] instruments__ name comes from two Greek words: stethos, meaning \"chest,\" and skopein, meaning \"to look at\" or \"to examine.\" Within a few decades, doctors in many countries had adopted and begun to use the new tool for themselves. In the 1850s, designers added flexible tubes and two earpieces, and the stethoscope takes the shape that most doctors still use today. Laennec also wrote about other diseases of the lungs.",
+       "q": "Question 17 (underlined portion [17]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "instrument is",
+        "instrument's",
+        "instruments'"
+       ],
+       "a": 2,
+       "e": "The name belongs to one instrument, so the singular possessive \"instrument's\" is needed. \"Instruments\" is a plain plural, \"instruments'\" means several instruments, and \"instrument is\" makes no sense before \"name\".",
+       "ce": [
+        "\"Instruments\" is a plural with no apostrophe, so it cannot show that the name belongs to it.",
+        "\"The instrument is name comes…\" is not a sentence.",
+        "Correct: singular possessive, because the name belongs to one instrument.",
+        "\"Instruments'\" is plural possessive, but the essay is about one instrument."
+       ],
+       "s": "Apostrophes"
+      },
+      {
+       "p": "**Passage II: The Doctor Who Listened Through Paper**\n\nFor centuries, doctors who wanted to hear a patient's heart had only one method: they pressed an ear directly against the patient's chest. This was uncomfortable for doctor and patient alike, and it did not always work. Layers of clothing, muffled the sounds, and in some patients the heartbeat was too faint to hear at all.\n\nIn 1816, a young French doctor named René Laennec faced this problem at a hospital in Paris. His patient was a young woman with signs of heart disease, and Laennec felt that pressing his ear to her chest would be improper. In other words, he remembered a game he had seen children play: one child scratched the end of a long wooden beam with a pin, while another child, with an ear pressed to the far end, heard the scratching clearly. Laennec rolled several sheets of paper into a tight tube, placed one end on the woman's chest, and putting his ear to the other. Paris was, at that time, one of the largest cities in Europe. To his delight, the heartbeat sounded louder and clearer than it ever had through his bare ear.\n\nOver the next three years, Laennec tested tubes of different materials and sizes. He finally chose a hollow wooden cylinder that came apart into two pieces. Using it, he listened to the chests of hundreds of patients and recorded the sounds he heard. When patients died, he compared his notes with the findings of post-mortem examinations, matching each sound to a disease. In 1819, he published a book about his method, and doctors found his results pretty awesome.\n\nThe instruments name comes from two Greek words: stethos, meaning \"chest,\" and skopein, meaning \"to look at\" or \"to examine.\" Within a few decades, doctors in many countries __[18] had adopted and begun to use the new tool for themselves__. In the 1850s, designers added flexible tubes and two earpieces, and the stethoscope takes the shape that most doctors still use today. Laennec also wrote about other diseases of the lungs.",
+       "q": "Question 18 (underlined portion [18]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "had adopted and taken up the new tool",
+        "had begun to adopt and use for themselves the new tool",
+        "had adopted the new tool"
+       ],
+       "a": 3,
+       "e": "\"Adopted\" already means \"began to use for themselves\", so the original says the same thing twice. \"Had adopted the new tool\" is short and complete. The other two choices repeat the idea in different words.",
+       "ce": [
+        "\"Adopted\" and \"begun to use for themselves\" mean the same thing here.",
+        "\"Adopted\" and \"taken up\" are the same idea said twice.",
+        "Wordy and repetitive, and the word order is awkward.",
+        "Correct: concise, with no repeated idea."
+       ],
+       "s": "Concision"
+      },
+      {
+       "p": "**Passage II: The Doctor Who Listened Through Paper**\n\nFor centuries, doctors who wanted to hear a patient's heart had only one method: they pressed an ear directly against the patient's chest. This was uncomfortable for doctor and patient alike, and it did not always work. Layers of clothing, muffled the sounds, and in some patients the heartbeat was too faint to hear at all.\n\nIn 1816, a young French doctor named René Laennec faced this problem at a hospital in Paris. His patient was a young woman with signs of heart disease, and Laennec felt that pressing his ear to her chest would be improper. In other words, he remembered a game he had seen children play: one child scratched the end of a long wooden beam with a pin, while another child, with an ear pressed to the far end, heard the scratching clearly. Laennec rolled several sheets of paper into a tight tube, placed one end on the woman's chest, and putting his ear to the other. Paris was, at that time, one of the largest cities in Europe. To his delight, the heartbeat sounded louder and clearer than it ever had through his bare ear.\n\nOver the next three years, Laennec tested tubes of different materials and sizes. He finally chose a hollow wooden cylinder that came apart into two pieces. Using it, he listened to the chests of hundreds of patients and recorded the sounds he heard. When patients died, he compared his notes with the findings of post-mortem examinations, matching each sound to a disease. In 1819, he published a book about his method, and doctors found his results pretty awesome.\n\nThe instruments name comes from two Greek words: stethos, meaning \"chest,\" and skopein, meaning \"to look at\" or \"to examine.\" Within a few decades, doctors in many countries had adopted and begun to use the new tool for themselves. In the 1850s, designers added flexible tubes and two earpieces, and the stethoscope __[19] takes__ the shape that most doctors still use today. Laennec also wrote about other diseases of the lungs.",
+       "q": "Question 19 (underlined portion [19]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "will take",
+        "is taking",
+        "took"
+       ],
+       "a": 3,
+       "e": "The sentence describes the 1850s, and the first verb is the past \"added\", so the second verb must also be past: \"took\". \"Takes\" and \"is taking\" are present, and \"will take\" is future.",
+       "ce": [
+        "\"Takes\" is present tense, but the sentence describes the 1850s.",
+        "\"Will take\" is future, but the event happened in the past.",
+        "\"Is taking\" is present continuous and does not fit a past event.",
+        "Correct: past tense, matching \"added\" and \"In the 1850s\"."
+       ],
+       "s": "Verb Tense & Forms"
+      },
+      {
+       "p": "**Passage II: The Doctor Who Listened Through Paper**\n\nFor centuries, doctors who wanted to hear a patient's heart had only one method: they pressed an ear directly against the patient's chest. This was uncomfortable for doctor and patient alike, and it did not always work. Layers of clothing, muffled the sounds, and in some patients the heartbeat was too faint to hear at all.\n\nIn 1816, a young French doctor named René Laennec faced this problem at a hospital in Paris. His patient was a young woman with signs of heart disease, and Laennec felt that pressing his ear to her chest would be improper. In other words, he remembered a game he had seen children play: one child scratched the end of a long wooden beam with a pin, while another child, with an ear pressed to the far end, heard the scratching clearly. Laennec rolled several sheets of paper into a tight tube, placed one end on the woman's chest, and putting his ear to the other. Paris was, at that time, one of the largest cities in Europe. To his delight, the heartbeat sounded louder and clearer than it ever had through his bare ear.\n\nOver the next three years, Laennec tested tubes of different materials and sizes. He finally chose a hollow wooden cylinder that came apart into two pieces. Using it, he listened to the chests of hundreds of patients and recorded the sounds he heard. When patients died, he compared his notes with the findings of post-mortem examinations, matching each sound to a disease. In 1819, he published a book about his method, and doctors found his results pretty awesome.\n\nThe instruments name comes from two Greek words: stethos, meaning \"chest,\" and skopein, meaning \"to look at\" or \"to examine.\" Within a few decades, doctors in many countries had adopted and begun to use the new tool for themselves. In the 1850s, designers added flexible tubes and two earpieces, and the stethoscope takes the shape that most doctors still use today. __[20] Laennec also wrote about other diseases of the lungs.__",
+       "q": "Question 20 (underlined portion [20]): Which choice most effectively concludes the essay by connecting Laennec's invention to medicine today?",
+       "c": [
+        "NO CHANGE",
+        "Two centuries later, a descendant of his rolled-up paper tube still hangs around the neck of almost every doctor.",
+        "Some modern stethoscopes are sold in bright colours.",
+        "Greek words appear in many other medical terms as well."
+       ],
+       "a": 1,
+       "e": "Only this choice links Laennec's paper tube to the stethoscopes doctors use now, which brings the essay full circle. Other lung diseases, Greek terms and coloured stethoscopes are side details that do not connect the invention to its lasting importance.",
+       "ce": [
+        "Other lung diseases do not connect his invention to medicine today.",
+        "Correct: it ties the paper tube to the stethoscope that doctors still use.",
+        "The colour of modern stethoscopes is a minor detail that does not show his lasting influence.",
+        "This is a general fact about medical words, not about the importance of the invention."
+       ],
+       "s": "Organisation & Order"
+      },
+      {
+       "p": "**Passage III: Big Ears in the Desert**\n\nThe fennec fox, the smallest of all foxes, lives in the Sahara and weighs less than many house cats. During the hottest hours of the day, it rests in a cool burrow that it digs in the sand. Its ears, however, are huge for its size, and they do two important jobs.\n\nFirst, the ears help the fox stay cool. Blood vessels close to the surface of each ear __[21] releases__ heat into the air, so the fox can cool down without panting and losing precious water. On a hot afternoon, the ears work much like a car's radiator.\n\nFor example, the ears work like sensitive microphones. The fennec hunts at night, when the sand has cooled, and it can hear insects and small animals moving underneath, below the surface of the sand. Once it has located its prey, the fox digs quickly with its front paws.\n\nThe fox's feet are suited to desert life too. Thick fur covers the soles of it's paws, protecting them from the burning sand and helping the fox walk on loose dunes without sinking.",
+       "q": "Question 21 (underlined portion [21]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "is releasing",
+        "release",
+        "has released"
+       ],
+       "a": 2,
+       "e": "The subject is \"Blood vessels\" (plural); \"close to the surface of each ear\" only describes them. So the verb must be the plural \"release\". \"Releases\", \"has released\" and \"is releasing\" are singular.",
+       "ce": [
+        "\"Releases\" is singular, but the subject \"Blood vessels\" is plural.",
+        "\"Is releasing\" is singular.",
+        "Correct: plural verb for the plural subject \"Blood vessels\".",
+        "\"Has released\" is singular and changes the tense."
+       ],
+       "s": "Subject–Verb Agreement"
+      },
+      {
+       "p": "**Passage III: Big Ears in the Desert**\n\nThe fennec fox, the smallest of all foxes, lives in the Sahara and weighs less than many house cats. During the hottest hours of the day, it rests in a cool burrow that it digs in the sand. Its ears, however, are huge for its size, and they do two important jobs.\n\nFirst, the ears help the fox stay cool. Blood vessels close to the surface of each ear releases heat into the air, so the fox can cool down without panting and losing precious water. On a hot afternoon, the ears work much like a car's radiator.\n\n__[22] For example,__ the ears work like sensitive microphones. The fennec hunts at night, when the sand has cooled, and it can hear insects and small animals moving underneath, below the surface of the sand. Once it has located its prey, the fox digs quickly with its front paws.\n\nThe fox's feet are suited to desert life too. Thick fur covers the soles of it's paws, protecting them from the burning sand and helping the fox walk on loose dunes without sinking.",
+       "q": "Question 22 (underlined portion [22]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "Second,",
+        "As a result,",
+        "Instead,"
+       ],
+       "a": 1,
+       "e": "The first paragraph promises \"two important jobs\", and the previous paragraph begins with \"First\", so this paragraph should begin with \"Second\". Hearing prey is not an example of staying cool, it does not replace it (\"Instead\"), and it is not caused by it (\"As a result\").",
+       "ce": [
+        "Hearing prey is not an example of keeping cool; it is a different job.",
+        "Correct: \"Second\" introduces the second of the \"two important jobs\" after \"First\".",
+        "Keeping cool does not cause the fox's good hearing.",
+        "\"Instead\" wrongly suggests the ears stop cooling the fox."
+       ],
+       "s": "Transitions"
+      },
+      {
+       "p": "**Passage III: Big Ears in the Desert**\n\nThe fennec fox, the smallest of all foxes, lives in the Sahara and weighs less than many house cats. During the hottest hours of the day, it rests in a cool burrow that it digs in the sand. Its ears, however, are huge for its size, and they do two important jobs.\n\nFirst, the ears help the fox stay cool. Blood vessels close to the surface of each ear releases heat into the air, so the fox can cool down without panting and losing precious water. On a hot afternoon, the ears work much like a car's radiator.\n\nFor example, the ears work like sensitive microphones. The fennec hunts at night, when the sand has cooled, and it can hear insects and small animals moving __[23] underneath, below the surface of the sand__. Once it has located its prey, the fox digs quickly with its front paws.\n\nThe fox's feet are suited to desert life too. Thick fur covers the soles of it's paws, protecting them from the burning sand and helping the fox walk on loose dunes without sinking.",
+       "q": "Question 23 (underlined portion [23]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "beneath the sand",
+        "underneath and below the sand",
+        "below the sand, under its surface"
+       ],
+       "a": 1,
+       "e": "\"Underneath\" and \"below the surface\" mean the same thing, so the original repeats itself. \"Beneath the sand\" says it once, clearly. The other two choices also repeat the idea.",
+       "ce": [
+        "\"Underneath\" and \"below the surface\" say the same thing twice.",
+        "Correct: short and clear, with no repetition.",
+        "\"Underneath\" and \"below\" mean the same thing.",
+        "\"Below the sand\" and \"under its surface\" repeat the same idea."
+       ],
+       "s": "Concision"
+      },
+      {
+       "p": "**Passage III: Big Ears in the Desert**\n\nThe fennec fox, the smallest of all foxes, lives in the Sahara and weighs less than many house cats. During the hottest hours of the day, it rests in a cool burrow that it digs in the sand. Its ears, however, are huge for its size, and they do two important jobs.\n\nFirst, the ears help the fox stay cool. Blood vessels close to the surface of each ear releases heat into the air, so the fox can cool down without panting and losing precious water. On a hot afternoon, the ears work much like a car's radiator.\n\nFor example, the ears work like sensitive microphones. The fennec hunts at night, when the sand has cooled, and it can hear insects and small animals moving underneath, below the surface of the sand. Once it has located its prey, the fox digs quickly with its front paws.\n\nThe fox's feet are suited to desert life too. Thick fur covers the soles of __[24] it's__ paws, protecting them from the burning sand and helping the fox walk on loose dunes without sinking.",
+       "q": "Question 24 (underlined portion [24]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "its'",
+        "there",
+        "its"
+       ],
+       "a": 3,
+       "e": "The paws belong to the fox, so the possessive pronoun \"its\" (no apostrophe) is needed. \"It's\" means \"it is\", \"its'\" is not a word, and \"there\" refers to a place.",
+       "ce": [
+        "\"It's\" means \"it is\": \"the soles of it is paws\" makes no sense.",
+        "\"Its'\" does not exist in English.",
+        "\"There\" is a place word and cannot show possession.",
+        "Correct: \"its\" is the possessive pronoun, with no apostrophe."
+       ],
+       "s": "Apostrophes"
+      },
+      {
+       "p": "**Passage III: Big Ears in the Desert**\n\nThe fennec fox, the smallest of all foxes, lives in the Sahara and weighs less than many house cats. During the hottest hours of the day, it rests in a cool burrow that it digs in the sand. Its ears, however, are huge for its size, and they do two important jobs.\n\nFirst, the ears help the fox stay cool. Blood vessels close to the surface of each ear releases heat into the air, so the fox can cool down without panting and losing precious water. On a hot afternoon, the ears work much like a car's radiator.\n\nFor example, the ears work like sensitive microphones. The fennec hunts at night, when the sand has cooled, and it can hear insects and small animals moving underneath, below the surface of the sand. Once it has located its prey, the fox digs quickly with its front paws.\n\nThe fox's feet are suited to desert life too. Thick fur covers the soles of it's paws, protecting them from the burning sand and helping the fox walk on loose dunes without sinking.",
+       "q": "Question 25: Suppose the writer's goal had been to explain how one animal's body is suited to the place where it lives. Would this essay accomplish that goal?",
+       "c": [
+        "Yes, because it shows how the fennec fox's ears and feet help it survive in the desert.",
+        "Yes, because it compares the fennec fox with several other desert animals.",
+        "No, because it focuses on how the fennec fox hunts rather than on its body.",
+        "No, because it describes only the fennec fox's ears."
+       ],
+       "a": 0,
+       "e": "Every paragraph after the first links a body part (ears for cooling and hearing, furry feet for sand) to life in the Sahara, so the goal is met. The essay compares the fox with no other animals, hunting is only one use of the ears, and the feet are described too.",
+       "ce": [
+        "Correct: the ears and feet are both explained as adaptations to the desert.",
+        "No other desert animals are compared with the fennec fox.",
+        "Hunting is mentioned only to explain what the ears do; the body stays the focus.",
+        "The last paragraph describes the fox's feet as well."
+       ],
+       "s": "Writer's Goal"
+      },
+      {
+       "p": "**Passage IV: Every Child Should Learn to Swim**\n\nEgypt has coastlines on two __[26] seas—the Mediterranean and the Red Sea,__ and the Nile runs through the whole length of the country. Every summer, families crowd onto beaches from Marsa Matrouh to Hurghada. Yet many of the children splashing in the waves have never had a single swimming lesson. I believe that every school should teach its students to swim before they finish primary school.\n\nSwimming is, first of all, a safety skill. Around the world, drowning takes many lives every year, and many of the victims are children. A child who can float and swim a short distance has time to reach the shore or wait for help, that time can save a life. A child who cannot swim has no such time.\n\nNevertheless, swimming is excellent exercise. It works almost every muscle in the body, and because the water supports the swimmer's weight, it is gentle on the joints. Children who learn to enjoy the water early often keep swimming as adults, long after they have stopped playing other sports. Swimming also teaches children to stay calm under pressure, a lesson that is useful far beyond the pool.\n\nCritics say that most schools cannot afford to build swimming pools. They do not need to. Lacking pools of their own, lessons could be held at nearby youth centres and sports clubs, many of which have pools that are quiet during school hours. A group of ten children needs only one trained instructor and an hour of pool time each week. The cost is small when compared and measured against the value of a skill that lasts a lifetime. Learning to swim is also often more easier for young children than for adults, who may have grown afraid of the water.\n\nEvery child in this country will meet water sooner or later: at the beach, by the river, or beside a canal. Schools teach children to read so that they can be safe and independent in a world full of words.",
+       "q": "Question 26 (underlined portion [26]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "seas; the Mediterranean and the Red Sea,",
+        "seas, the Mediterranean and the Red Sea—",
+        "seas—the Mediterranean and the Red Sea—"
+       ],
+       "a": 3,
+       "e": "\"The Mediterranean and the Red Sea\" is extra information about \"two seas\", so it must be set off by a matching pair of marks: dash…dash. The original opens with a dash and closes with a comma, and the comma…dash version has the same mismatch the other way round.",
+       "ce": [
+        "The marks do not match: a dash opens the extra information but a comma closes it.",
+        "A semicolon must be followed by a complete sentence, and \"the Mediterranean and the Red Sea\" is not one.",
+        "The marks do not match: a comma opens the extra information but a dash closes it.",
+        "Correct: a matching pair of dashes sets off the extra information."
+       ],
+       "s": "Dashes"
+      },
+      {
+       "p": "**Passage IV: Every Child Should Learn to Swim**\n\nEgypt has coastlines on two seas—the Mediterranean and the Red Sea, and the Nile runs through the whole length of the country. Every summer, families crowd onto beaches from Marsa Matrouh to Hurghada. Yet many of the children splashing in the waves have never had a single swimming lesson. I believe that every school should teach its students to swim before they finish primary school.\n\nSwimming is, first of all, a safety skill. __[27] Around the world, drowning takes many lives every year, and many of the victims are children.__ A child who can float and swim a short distance has time to reach the shore or wait for help, that time can save a life. A child who cannot swim has no such time.\n\nNevertheless, swimming is excellent exercise. It works almost every muscle in the body, and because the water supports the swimmer's weight, it is gentle on the joints. Children who learn to enjoy the water early often keep swimming as adults, long after they have stopped playing other sports. Swimming also teaches children to stay calm under pressure, a lesson that is useful far beyond the pool.\n\nCritics say that most schools cannot afford to build swimming pools. They do not need to. Lacking pools of their own, lessons could be held at nearby youth centres and sports clubs, many of which have pools that are quiet during school hours. A group of ten children needs only one trained instructor and an hour of pool time each week. The cost is small when compared and measured against the value of a skill that lasts a lifetime. Learning to swim is also often more easier for young children than for adults, who may have grown afraid of the water.\n\nEvery child in this country will meet water sooner or later: at the beach, by the river, or beside a canal. Schools teach children to read so that they can be safe and independent in a world full of words.",
+       "q": "Question 27 (underlined portion [27]): The writer is considering deleting the underlined sentence. Should the sentence be kept or deleted?",
+       "c": [
+        "Kept, because it supports the paragraph's claim that swimming is a safety skill.",
+        "Kept, because it explains how to rescue a child who is drowning.",
+        "Deleted, because it contradicts the claim that children enjoy the water.",
+        "Deleted, because it repeats the essay's opening sentence about Egypt's coastline."
+       ],
+       "a": 0,
+       "e": "The paragraph claims that swimming is a safety skill; a sentence about drowning, especially among children, gives the reason that claim matters. It gives no rescue instructions, it does not repeat the coastline sentence, and it does not contradict anything.",
+       "ce": [
+        "Correct: it shows why swimming is a safety skill, which is the paragraph's main point.",
+        "The sentence gives no instructions for rescuing anyone.",
+        "The sentence does not mention enjoyment, so there is no contradiction.",
+        "The opening sentence is about coastlines, not drowning, so nothing is repeated."
+       ],
+       "s": "Add or Delete"
+      },
+      {
+       "p": "**Passage IV: Every Child Should Learn to Swim**\n\nEgypt has coastlines on two seas—the Mediterranean and the Red Sea, and the Nile runs through the whole length of the country. Every summer, families crowd onto beaches from Marsa Matrouh to Hurghada. Yet many of the children splashing in the waves have never had a single swimming lesson. I believe that every school should teach its students to swim before they finish primary school.\n\nSwimming is, first of all, a safety skill. Around the world, drowning takes many lives every year, and many of the victims are children. A child who can float and swim a short distance has time to reach the shore or wait for __[28] help, that__ time can save a life. A child who cannot swim has no such time.\n\nNevertheless, swimming is excellent exercise. It works almost every muscle in the body, and because the water supports the swimmer's weight, it is gentle on the joints. Children who learn to enjoy the water early often keep swimming as adults, long after they have stopped playing other sports. Swimming also teaches children to stay calm under pressure, a lesson that is useful far beyond the pool.\n\nCritics say that most schools cannot afford to build swimming pools. They do not need to. Lacking pools of their own, lessons could be held at nearby youth centres and sports clubs, many of which have pools that are quiet during school hours. A group of ten children needs only one trained instructor and an hour of pool time each week. The cost is small when compared and measured against the value of a skill that lasts a lifetime. Learning to swim is also often more easier for young children than for adults, who may have grown afraid of the water.\n\nEvery child in this country will meet water sooner or later: at the beach, by the river, or beside a canal. Schools teach children to read so that they can be safe and independent in a world full of words.",
+       "q": "Question 28 (underlined portion [28]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "help; that",
+        "help that",
+        "help: and that"
+       ],
+       "a": 1,
+       "e": "\"A child who can float … wait for help\" and \"that time can save a life\" are both complete sentences, so a comma alone is a comma splice. A semicolon correctly joins the two closely related sentences. With no punctuation, \"help that time can save a life\" becomes a confusing run-on.",
+       "ce": [
+        "Comma splice: a comma alone cannot join two complete sentences.",
+        "Correct: a semicolon joins two complete, closely related sentences.",
+        "Run-on: with no punctuation, the two sentences crash together.",
+        "\"And\" should not follow a colon here; the punctuation is incorrect."
+       ],
+       "s": "Run-ons & Splices"
+      },
+      {
+       "p": "**Passage IV: Every Child Should Learn to Swim**\n\nEgypt has coastlines on two seas—the Mediterranean and the Red Sea, and the Nile runs through the whole length of the country. Every summer, families crowd onto beaches from Marsa Matrouh to Hurghada. Yet many of the children splashing in the waves have never had a single swimming lesson. I believe that every school should teach its students to swim before they finish primary school.\n\nSwimming is, first of all, a safety skill. Around the world, drowning takes many lives every year, and many of the victims are children. A child who can float and swim a short distance has time to reach the shore or wait for help, that time can save a life. A child who cannot swim has no such time.\n\n__[29] Nevertheless,__ swimming is excellent exercise. It works almost every muscle in the body, and because the water supports the swimmer's weight, it is gentle on the joints. Children who learn to enjoy the water early often keep swimming as adults, long after they have stopped playing other sports. Swimming also teaches children to stay calm under pressure, a lesson that is useful far beyond the pool.\n\nCritics say that most schools cannot afford to build swimming pools. They do not need to. Lacking pools of their own, lessons could be held at nearby youth centres and sports clubs, many of which have pools that are quiet during school hours. A group of ten children needs only one trained instructor and an hour of pool time each week. The cost is small when compared and measured against the value of a skill that lasts a lifetime. Learning to swim is also often more easier for young children than for adults, who may have grown afraid of the water.\n\nEvery child in this country will meet water sooner or later: at the beach, by the river, or beside a canal. Schools teach children to read so that they can be safe and independent in a world full of words.",
+       "q": "Question 29 (underlined portion [29]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "For instance,",
+        "In addition,",
+        "In contrast,"
+       ],
+       "a": 2,
+       "e": "The essay has given its first reason (safety) and now adds a second reason (exercise), so \"In addition\" is right. \"Nevertheless\" and \"In contrast\" signal an opposite idea, and exercise is not an example of safety.",
+       "ce": [
+        "\"Nevertheless\" signals a contrast, but this paragraph adds another reason in favour.",
+        "Exercise is not an example of the safety point.",
+        "Correct: \"In addition\" adds a second reason to the first.",
+        "Exercise does not contrast with safety; both support the same argument."
+       ],
+       "s": "Transitions"
+      },
+      {
+       "p": "**Passage IV: Every Child Should Learn to Swim**\n\nEgypt has coastlines on two seas—the Mediterranean and the Red Sea, and the Nile runs through the whole length of the country. Every summer, families crowd onto beaches from Marsa Matrouh to Hurghada. Yet many of the children splashing in the waves have never had a single swimming lesson. I believe that every school should teach its students to swim before they finish primary school.\n\nSwimming is, first of all, a safety skill. Around the world, drowning takes many lives every year, and many of the victims are children. A child who can float and swim a short distance has time to reach the shore or wait for help, that time can save a life. A child who cannot swim has no such time.\n\nNevertheless, swimming is excellent exercise. It works almost every muscle in the body, and because the water __[30] supports__ the swimmer's weight, it is gentle on the joints. Children who learn to enjoy the water early often keep swimming as adults, long after they have stopped playing other sports. Swimming also teaches children to stay calm under pressure, a lesson that is useful far beyond the pool.\n\nCritics say that most schools cannot afford to build swimming pools. They do not need to. Lacking pools of their own, lessons could be held at nearby youth centres and sports clubs, many of which have pools that are quiet during school hours. A group of ten children needs only one trained instructor and an hour of pool time each week. The cost is small when compared and measured against the value of a skill that lasts a lifetime. Learning to swim is also often more easier for young children than for adults, who may have grown afraid of the water.\n\nEvery child in this country will meet water sooner or later: at the beach, by the river, or beside a canal. Schools teach children to read so that they can be safe and independent in a world full of words.",
+       "q": "Question 30 (underlined portion [30]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "advocates",
+        "sponsors",
+        "endorses"
+       ],
+       "a": 0,
+       "e": "The water physically holds up the swimmer's body, and \"supports\" is the precise word for that. \"Endorses\", \"sponsors\" and \"advocates\" all mean supporting an idea or a person publicly, not holding up a weight.",
+       "ce": [
+        "Correct: \"supports\" means holds up, which is what water does to a swimmer's weight.",
+        "\"Advocates\" means speaking in favour of something, not holding up a weight.",
+        "\"Sponsors\" means paying for or backing someone, not holding up a weight.",
+        "\"Endorses\" means approving of an idea or product, not holding up a weight."
+       ],
+       "s": "Word Choice and Tone"
+      },
+      {
+       "p": "**Passage IV: Every Child Should Learn to Swim**\n\nEgypt has coastlines on two seas—the Mediterranean and the Red Sea, and the Nile runs through the whole length of the country. Every summer, families crowd onto beaches from Marsa Matrouh to Hurghada. Yet many of the children splashing in the waves have never had a single swimming lesson. I believe that every school should teach its students to swim before they finish primary school.\n\nSwimming is, first of all, a safety skill. Around the world, drowning takes many lives every year, and many of the victims are children. A child who can float and swim a short distance has time to reach the shore or wait for help, that time can save a life. A child who cannot swim has no such time.\n\nNevertheless, swimming is excellent exercise. It works almost every muscle in the body, and because the water supports the swimmer's weight, it is gentle on the joints. Children who learn to enjoy the water early often keep swimming as adults, long after they have stopped playing other sports. Swimming also teaches children to stay calm under pressure, a lesson that is useful far beyond the pool.\n\nCritics say that most schools cannot afford to build swimming pools. They do not need to. Lacking pools of their own, __[31] lessons could be held__ at nearby youth centres and sports clubs, many of which have pools that are quiet during school hours. A group of ten children needs only one trained instructor and an hour of pool time each week. The cost is small when compared and measured against the value of a skill that lasts a lifetime. Learning to swim is also often more easier for young children than for adults, who may have grown afraid of the water.\n\nEvery child in this country will meet water sooner or later: at the beach, by the river, or beside a canal. Schools teach children to read so that they can be safe and independent in a world full of words.",
+       "q": "Question 31 (underlined portion [31]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "schools could hold lessons",
+        "the holding of lessons could be",
+        "the clubs could hold lessons"
+       ],
+       "a": 1,
+       "e": "The opening phrase \"Lacking pools of their own\" must describe the words right after the comma. It is the schools that lack pools, so \"schools\" must come next. Lessons do not lack pools, and the clubs are exactly the places that have them.",
+       "ce": [
+        "Dangling modifier: the lessons are not what lack pools.",
+        "Correct: \"schools\" are the ones lacking pools, so they follow the opening phrase.",
+        "\"The holding of lessons\" does not lack pools, and the wording is awkward.",
+        "The clubs are the places that have pools, so they cannot be \"lacking pools of their own\"."
+       ],
+       "s": "Modifiers"
+      },
+      {
+       "p": "**Passage IV: Every Child Should Learn to Swim**\n\nEgypt has coastlines on two seas—the Mediterranean and the Red Sea, and the Nile runs through the whole length of the country. Every summer, families crowd onto beaches from Marsa Matrouh to Hurghada. Yet many of the children splashing in the waves have never had a single swimming lesson. I believe that every school should teach its students to swim before they finish primary school.\n\nSwimming is, first of all, a safety skill. Around the world, drowning takes many lives every year, and many of the victims are children. A child who can float and swim a short distance has time to reach the shore or wait for help, that time can save a life. A child who cannot swim has no such time.\n\nNevertheless, swimming is excellent exercise. It works almost every muscle in the body, and because the water supports the swimmer's weight, it is gentle on the joints. Children who learn to enjoy the water early often keep swimming as adults, long after they have stopped playing other sports. Swimming also teaches children to stay calm under pressure, a lesson that is useful far beyond the pool.\n\nCritics say that most schools cannot afford to build swimming pools. They do not need to. Lacking pools of their own, lessons could be held at nearby youth centres and sports clubs, many of which have pools that are quiet during school hours. __[32] A group of ten children needs only one trained instructor and an hour of pool time each week.__ The cost is small when compared and measured against the value of a skill that lasts a lifetime. Learning to swim is also often more easier for young children than for adults, who may have grown afraid of the water.\n\nEvery child in this country will meet water sooner or later: at the beach, by the river, or beside a canal. Schools teach children to read so that they can be safe and independent in a world full of words.",
+       "q": "Question 32 (underlined portion [32]): Which choice most effectively supports the writer's claim that school swimming lessons need not be expensive?",
+       "c": [
+        "NO CHANGE",
+        "Public pools must be cleaned and tested regularly.",
+        "Some children are nervous the first time they enter a pool.",
+        "Many famous swimmers began training when they were very young."
+       ],
+       "a": 0,
+       "e": "Showing that ten children need just one instructor and one hour of pool time a week supports the point that lessons are cheap. Famous swimmers, pool cleaning and nervous children have nothing to do with cost; cleaning, if anything, suggests extra expense.",
+       "ce": [
+        "Correct: few staff and little pool time show that lessons can be cheap.",
+        "Cleaning and testing pools suggests extra work, which weakens the point about low cost.",
+        "Children's nerves are unrelated to the cost of lessons.",
+        "Famous swimmers do not show anything about cost."
+       ],
+       "s": "Writer's Goal"
+      },
+      {
+       "p": "**Passage IV: Every Child Should Learn to Swim**\n\nEgypt has coastlines on two seas—the Mediterranean and the Red Sea, and the Nile runs through the whole length of the country. Every summer, families crowd onto beaches from Marsa Matrouh to Hurghada. Yet many of the children splashing in the waves have never had a single swimming lesson. I believe that every school should teach its students to swim before they finish primary school.\n\nSwimming is, first of all, a safety skill. Around the world, drowning takes many lives every year, and many of the victims are children. A child who can float and swim a short distance has time to reach the shore or wait for help, that time can save a life. A child who cannot swim has no such time.\n\nNevertheless, swimming is excellent exercise. It works almost every muscle in the body, and because the water supports the swimmer's weight, it is gentle on the joints. Children who learn to enjoy the water early often keep swimming as adults, long after they have stopped playing other sports. Swimming also teaches children to stay calm under pressure, a lesson that is useful far beyond the pool.\n\nCritics say that most schools cannot afford to build swimming pools. They do not need to. Lacking pools of their own, lessons could be held at nearby youth centres and sports clubs, many of which have pools that are quiet during school hours. A group of ten children needs only one trained instructor and an hour of pool time each week. The cost is small __[33] when compared and measured against__ the value of a skill that lasts a lifetime. Learning to swim is also often more easier for young children than for adults, who may have grown afraid of the water.\n\nEvery child in this country will meet water sooner or later: at the beach, by the river, or beside a canal. Schools teach children to read so that they can be safe and independent in a world full of words.",
+       "q": "Question 33 (underlined portion [33]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "in comparison, when compared with",
+        "compared with",
+        "when compared and also weighed against"
+       ],
+       "a": 2,
+       "e": "\"Compared\" and \"measured against\" mean the same thing here, so the original repeats itself. \"Compared with\" says it once. The other two choices are wordy in the same way.",
+       "ce": [
+        "\"Compared\" and \"measured against\" express the same idea twice.",
+        "\"In comparison\" and \"when compared with\" repeat the same idea.",
+        "Correct: concise and clear.",
+        "\"Compared\" and \"weighed against\" repeat the same idea."
+       ],
+       "s": "Concision"
+      },
+      {
+       "p": "**Passage IV: Every Child Should Learn to Swim**\n\nEgypt has coastlines on two seas—the Mediterranean and the Red Sea, and the Nile runs through the whole length of the country. Every summer, families crowd onto beaches from Marsa Matrouh to Hurghada. Yet many of the children splashing in the waves have never had a single swimming lesson. I believe that every school should teach its students to swim before they finish primary school.\n\nSwimming is, first of all, a safety skill. Around the world, drowning takes many lives every year, and many of the victims are children. A child who can float and swim a short distance has time to reach the shore or wait for help, that time can save a life. A child who cannot swim has no such time.\n\nNevertheless, swimming is excellent exercise. It works almost every muscle in the body, and because the water supports the swimmer's weight, it is gentle on the joints. Children who learn to enjoy the water early often keep swimming as adults, long after they have stopped playing other sports. Swimming also teaches children to stay calm under pressure, a lesson that is useful far beyond the pool.\n\nCritics say that most schools cannot afford to build swimming pools. They do not need to. Lacking pools of their own, lessons could be held at nearby youth centres and sports clubs, many of which have pools that are quiet during school hours. A group of ten children needs only one trained instructor and an hour of pool time each week. The cost is small when compared and measured against the value of a skill that lasts a lifetime. Learning to swim is also often __[34] more easier__ for young children than for adults, who may have grown afraid of the water.\n\nEvery child in this country will meet water sooner or later: at the beach, by the river, or beside a canal. Schools teach children to read so that they can be safe and independent in a world full of words.",
+       "q": "Question 34 (underlined portion [34]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "most easy",
+        "easiest",
+        "easier"
+       ],
+       "a": 3,
+       "e": "Two groups are compared (young children and adults), so the comparative form is needed, and for a short adjective like \"easy\" that is \"easier\", never \"more easier\". \"Easiest\" and \"most easy\" are superlatives and do not work with \"than\".",
+       "ce": [
+        "\"More easier\" uses two comparative forms at once.",
+        "\"Most easy\" is a superlative and is not the standard form of \"easy\".",
+        "\"Easiest\" is a superlative and cannot be followed by \"than\".",
+        "Correct: the comparative \"easier\" compares two groups with \"than\"."
+       ],
+       "s": "Comparatives and Superlatives"
+      },
+      {
+       "p": "**Passage IV: Every Child Should Learn to Swim**\n\nEgypt has coastlines on two seas—the Mediterranean and the Red Sea, and the Nile runs through the whole length of the country. Every summer, families crowd onto beaches from Marsa Matrouh to Hurghada. Yet many of the children splashing in the waves have never had a single swimming lesson. I believe that every school should teach its students to swim before they finish primary school.\n\nSwimming is, first of all, a safety skill. Around the world, drowning takes many lives every year, and many of the victims are children. A child who can float and swim a short distance has time to reach the shore or wait for help, that time can save a life. A child who cannot swim has no such time.\n\nNevertheless, swimming is excellent exercise. It works almost every muscle in the body, and because the water supports the swimmer's weight, it is gentle on the joints. Children who learn to enjoy the water early often keep swimming as adults, long after they have stopped playing other sports. Swimming also teaches children to stay calm under pressure, a lesson that is useful far beyond the pool.\n\nCritics say that most schools cannot afford to build swimming pools. They do not need to. Lacking pools of their own, lessons could be held at nearby youth centres and sports clubs, many of which have pools that are quiet during school hours. A group of ten children needs only one trained instructor and an hour of pool time each week. The cost is small when compared and measured against the value of a skill that lasts a lifetime. Learning to swim is also often more easier for young children than for adults, who may have grown afraid of the water.\n\nEvery child in this country will meet water sooner or later: at the beach, by the river, or beside a canal. Schools teach children to read so that they can be safe and independent in a world full of words. [35]",
+       "q": "Question 35 (point [35] in the passage): At this point, the writer wants to end the essay with a sentence that restates the main claim. Which choice best accomplishes this goal?",
+       "c": [
+        "They should teach every child to swim for the same reason, because we also live in a world full of water.",
+        "Some beaches in Egypt have lifeguards during the summer months.",
+        "Many adults also enjoy swimming in the sea on holiday.",
+        "Most pools are kept at a comfortable temperature all year round."
+       ],
+       "a": 0,
+       "e": "The main claim is that schools should teach every child to swim. Only this choice repeats that claim and links it to the previous sentence about reading. Lifeguards, adult swimmers and pool temperatures do not restate the argument.",
+       "ce": [
+        "Correct: it restates that schools should teach swimming and echoes the reading comparison.",
+        "Lifeguards are a new detail and do not restate the claim about schools.",
+        "Adults' holidays are off the point of an essay about schoolchildren.",
+        "Pool temperature is a minor detail, not the essay's main claim."
+       ],
+       "s": "Organisation & Order"
+      },
+      {
+       "p": "**Passage V: The Street of the Tentmakers**\n\nJust south of Bab Zuweila, one of the old gates of Cairo, lies a narrow covered street known as the Street of the Tentmakers. Visitors who step in from the busy road outside often stop in surprise at the wall of colour. Its small shops are hung from floor to ceiling with bright panels of __[36] cloth, each__ panel covered in stars, flowers, and curling lines.\n\nThe craft is called khayamiya, from the Arabic word for \"tent.\" For centuries, these panels have lined the inside of the large tents that Egyptians put up for weddings and other celebrations. The designs range from simple geometric patterns to detailed pictures of birds and lotus flowers. Each panel is made by hand. A craftsman cuts shapes from coloured cotton, folds under its edges, and sews them onto a heavy backing with stitches so small and tiny that they are almost invisible.\n\nToday, most celebration tents are covered with cheaper printed fabric. Therefore, the craft has found new buyers: visitors and collectors who hang the panels on their walls as works of art.",
+       "q": "Question 36 (underlined portion [36]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "cloth; each",
+        "cloth each",
+        "cloth. Each"
+       ],
+       "a": 0,
+       "e": "\"each panel covered in stars, flowers, and curling lines\" is a descriptive phrase without a full verb, so it must be attached to the sentence with a comma. A full stop or a semicolon would leave it standing alone as a fragment; with no comma at all, the two parts run together.",
+       "ce": [
+        "Correct: a comma attaches the descriptive phrase about each panel.",
+        "A semicolon needs a complete sentence after it, and this phrase has no main verb.",
+        "Without a comma, the descriptive phrase runs into the main sentence.",
+        "\"Each panel covered in stars…\" has no main verb, so it would be a fragment."
+       ],
+       "s": "Commas"
+      },
+      {
+       "p": "**Passage V: The Street of the Tentmakers**\n\nJust south of Bab Zuweila, one of the old gates of Cairo, lies a narrow covered street known as the Street of the Tentmakers. Visitors who step in from the busy road outside often stop in surprise at the wall of colour. Its small shops are hung from floor to ceiling with bright panels of cloth, each panel covered in stars, flowers, and curling lines.\n\nThe craft is called khayamiya, from the Arabic word for \"tent.\" For centuries, these panels have lined the inside of the large tents that Egyptians put up for weddings and other celebrations. The designs range from simple geometric patterns to detailed pictures of birds and lotus flowers. Each panel is made by hand. A craftsman cuts shapes from coloured cotton, folds under __[37] its__ edges, and sews them onto a heavy backing with stitches so small and tiny that they are almost invisible.\n\nToday, most celebration tents are covered with cheaper printed fabric. Therefore, the craft has found new buyers: visitors and collectors who hang the panels on their walls as works of art.",
+       "q": "Question 37 (underlined portion [37]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "it's",
+        "their",
+        "they're"
+       ],
+       "a": 2,
+       "e": "The edges belong to the \"shapes\", which is plural, so the plural possessive \"their\" is needed (it also matches \"sews them\"). \"Its\" is singular, \"it's\" means \"it is\", and \"they're\" means \"they are\".",
+       "ce": [
+        "\"Its\" is singular, but it refers to the plural \"shapes\".",
+        "\"It's\" means \"it is\", which makes no sense here.",
+        "Correct: \"their\" matches the plural \"shapes\" and the later \"them\".",
+        "\"They're\" means \"they are\", which makes no sense here."
+       ],
+       "s": "Pronoun Agreement"
+      },
+      {
+       "p": "**Passage V: The Street of the Tentmakers**\n\nJust south of Bab Zuweila, one of the old gates of Cairo, lies a narrow covered street known as the Street of the Tentmakers. Visitors who step in from the busy road outside often stop in surprise at the wall of colour. Its small shops are hung from floor to ceiling with bright panels of cloth, each panel covered in stars, flowers, and curling lines.\n\nThe craft is called khayamiya, from the Arabic word for \"tent.\" For centuries, these panels have lined the inside of the large tents that Egyptians put up for weddings and other celebrations. The designs range from simple geometric patterns to detailed pictures of birds and lotus flowers. Each panel is made by hand. A craftsman cuts shapes from coloured cotton, folds under its edges, and sews them onto a heavy backing with stitches so __[38] small and tiny__ that they are almost invisible.\n\nToday, most celebration tents are covered with cheaper printed fabric. Therefore, the craft has found new buyers: visitors and collectors who hang the panels on their walls as works of art.",
+       "q": "Question 38 (underlined portion [38]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "tiny and little",
+        "small, very tiny",
+        "tiny"
+       ],
+       "a": 3,
+       "e": "\"Small\" and \"tiny\" express the same idea, so using both is redundant. \"Tiny\" alone is the strongest and most concise choice. The other choices repeat the idea of smallness.",
+       "ce": [
+        "\"Small\" and \"tiny\" say the same thing twice.",
+        "\"Tiny\" and \"little\" repeat the same idea.",
+        "\"Small\" and \"very tiny\" repeat the same idea.",
+        "Correct: one precise word, no repetition."
+       ],
+       "s": "Concision"
+      },
+      {
+       "p": "**Passage V: The Street of the Tentmakers**\n\nJust south of Bab Zuweila, one of the old gates of Cairo, lies a narrow covered street known as the Street of the Tentmakers. Visitors who step in from the busy road outside often stop in surprise at the wall of colour. Its small shops are hung from floor to ceiling with bright panels of cloth, each panel covered in stars, flowers, and curling lines.\n\nThe craft is called khayamiya, from the Arabic word for \"tent.\" For centuries, these panels have lined the inside of the large tents that Egyptians put up for weddings and other celebrations. The designs range from simple geometric patterns to detailed pictures of birds and lotus flowers. Each panel is made by hand. A craftsman cuts shapes from coloured cotton, folds under its edges, and sews them onto a heavy backing with stitches so small and tiny that they are almost invisible. [39]\n\nToday, most celebration tents are covered with cheaper printed fabric. Therefore, the craft has found new buyers: visitors and collectors who hang the panels on their walls as works of art.",
+       "q": "Question 39 (point [39] in the passage): At this point, the writer is considering adding the following sentence:\n\"As a result, a single large panel can take weeks to complete.\"\nShould the writer make this addition here?",
+       "c": [
+        "Yes, because it shows how the slow, careful hand-stitching affects the time each panel needs.",
+        "Yes, because it explains why the street is covered by a roof.",
+        "No, because it repeats information already given about the size of the stitches.",
+        "No, because it contradicts the claim that each panel is made by hand."
+       ],
+       "a": 0,
+       "e": "The paragraph has just described cutting, folding and sewing tiny hidden stitches by hand; \"As a result\" correctly links that slow work to the weeks a panel takes. The sentence agrees with \"made by hand\", and it adds new information (time) rather than repeating the stitch size.",
+       "ce": [
+        "Correct: it follows logically from the slow hand-stitching just described.",
+        "The sentence says nothing about the street or its roof.",
+        "It gives new information about time; it does not repeat the size of the stitches.",
+        "It supports, rather than contradicts, the idea of handmade panels."
+       ],
+       "s": "Add or Delete"
+      },
+      {
+       "p": "**Passage V: The Street of the Tentmakers**\n\nJust south of Bab Zuweila, one of the old gates of Cairo, lies a narrow covered street known as the Street of the Tentmakers. Visitors who step in from the busy road outside often stop in surprise at the wall of colour. Its small shops are hung from floor to ceiling with bright panels of cloth, each panel covered in stars, flowers, and curling lines.\n\nThe craft is called khayamiya, from the Arabic word for \"tent.\" For centuries, these panels have lined the inside of the large tents that Egyptians put up for weddings and other celebrations. The designs range from simple geometric patterns to detailed pictures of birds and lotus flowers. Each panel is made by hand. A craftsman cuts shapes from coloured cotton, folds under its edges, and sews them onto a heavy backing with stitches so small and tiny that they are almost invisible.\n\nToday, most celebration tents are covered with cheaper printed fabric. __[40] Therefore,__ the craft has found new buyers: visitors and collectors who hang the panels on their walls as works of art.",
+       "q": "Question 40 (underlined portion [40]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "Similarly,",
+        "For example,",
+        "However,"
+       ],
+       "a": 3,
+       "e": "The previous sentence gives bad news for the craft (cheaper printed tents), and this sentence gives good news (new buyers), so a contrast word is needed: \"However\". The printed fabric did not cause the new buyers (\"Therefore\"), and the new buyers are neither similar to nor an example of the printed fabric.",
+       "ce": [
+        "The cheaper fabric did not cause the craft to find new buyers.",
+        "New buyers are not similar to the use of printed fabric.",
+        "New buyers are not an example of printed fabric replacing the craft.",
+        "Correct: \"However\" turns from the bad news to the good news."
+       ],
+       "s": "Transitions"
+      },
+      {
+       "p": "**Passage VI: The Bridge That Held**\n\nOn the first day of term, our physics __[41] teacher, Mr. Farid wrote__ a challenge on the board: build a bridge out of uncooked spaghetti and glue that could cross a gap of forty centimetres. The team whose bridge held the most weight would win. My partners were Salma, who wanted to become an architect, and Omar, whom had never built anything more complicated than a sandwich.\n\nSalma drew a design full of triangles. She sketched three versions before she was satisfied, each one neater than the last. \"Triangles keep their shape under pressure,\" she explained, \"so they make a bridge stronger.\" Omar and I nodded as if we totally got it.\n\nBuilding the bridge turned out to be much harder than drawing it. Spaghetti snaps if you hold it the wrong way, and the glue took hours to dry. In contrast, by the end of the first week we had broken two whole packets. Omar, who had seemed so unsure at the start, turned out to have the steadiest hands. He holds each piece in place for a full minute while the glue set. Spaghetti is made from durum wheat, which is also used to make couscous.\n\nOn competition day, each team placed its bridge between two desks. Mr. Farid hung a bucket from the middle of each bridge and slowly filled it of sand. One bridge collapsed the moment the empty bucket touched it. Most bridges snapped at two or three kilograms. Ours held five, then six, then seven. As the bucket grew heavier, the room went silent, and nobody said a word.\n\nAt nine kilograms, there was a sharp crack, and our bridge folded in the middle. We did not win: a team from the other class had built a bridge that held eleven kilograms. Still, the next morning Mr. Farid pinned a photograph of our bridge on the classroom wall. Omar, who had never built anything before that term, now says he wants to study engineering.",
+       "q": "Question 41 (underlined portion [41]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "teacher, Mr. Farid, wrote",
+        "teacher Mr. Farid, wrote",
+        "teacher; Mr. Farid wrote"
+       ],
+       "a": 1,
+       "e": "Here \"Mr. Farid\" is extra information that names \"our physics teacher\", so it needs a matching pair of commas. The original opens with a comma but never closes it. A single comma after \"Farid\" separates the subject from its verb, and a semicolon cuts off the subject.",
+       "ce": [
+        "Only one comma: the extra information \"Mr. Farid\" needs a closing comma too.",
+        "Correct: a matching pair of commas sets off the name.",
+        "A single comma now separates the subject from the verb \"wrote\".",
+        "A semicolon leaves \"our physics teacher\" alone as a fragment."
+       ],
+       "s": "Commas"
+      },
+      {
+       "p": "**Passage VI: The Bridge That Held**\n\nOn the first day of term, our physics teacher, Mr. Farid wrote a challenge on the board: build a bridge out of uncooked spaghetti and glue that could cross a gap of forty centimetres. The team whose bridge held the most weight would win. My partners were Salma, who wanted to become an architect, and Omar, __[42] whom__ had never built anything more complicated than a sandwich.\n\nSalma drew a design full of triangles. She sketched three versions before she was satisfied, each one neater than the last. \"Triangles keep their shape under pressure,\" she explained, \"so they make a bridge stronger.\" Omar and I nodded as if we totally got it.\n\nBuilding the bridge turned out to be much harder than drawing it. Spaghetti snaps if you hold it the wrong way, and the glue took hours to dry. In contrast, by the end of the first week we had broken two whole packets. Omar, who had seemed so unsure at the start, turned out to have the steadiest hands. He holds each piece in place for a full minute while the glue set. Spaghetti is made from durum wheat, which is also used to make couscous.\n\nOn competition day, each team placed its bridge between two desks. Mr. Farid hung a bucket from the middle of each bridge and slowly filled it of sand. One bridge collapsed the moment the empty bucket touched it. Most bridges snapped at two or three kilograms. Ours held five, then six, then seven. As the bucket grew heavier, the room went silent, and nobody said a word.\n\nAt nine kilograms, there was a sharp crack, and our bridge folded in the middle. We did not win: a team from the other class had built a bridge that held eleven kilograms. Still, the next morning Mr. Farid pinned a photograph of our bridge on the classroom wall. Omar, who had never built anything before that term, now says he wants to study engineering.",
+       "q": "Question 42 (underlined portion [42]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "whose",
+        "who",
+        "which"
+       ],
+       "a": 2,
+       "e": "The pronoun is the subject of \"had never built\", so the subject form \"who\" is needed. \"Whom\" is an object form, \"which\" is for things, and \"whose\" shows possession.",
+       "ce": [
+        "\"Whom\" is an object pronoun, but here the pronoun is the subject of \"had never built\".",
+        "\"Whose\" shows possession and needs a noun after it.",
+        "Correct: \"who\" is the subject of \"had never built\" and refers to a person.",
+        "\"Which\" is used for things, not for people like Omar."
+       ],
+       "s": "Pronoun Case"
+      },
+      {
+       "p": "**Passage VI: The Bridge That Held**\n\nOn the first day of term, our physics teacher, Mr. Farid wrote a challenge on the board: build a bridge out of uncooked spaghetti and glue that could cross a gap of forty centimetres. The team whose bridge held the most weight would win. My partners were Salma, who wanted to become an architect, and Omar, whom had never built anything more complicated than a sandwich.\n\nSalma drew a design full of triangles. She sketched three versions before she was satisfied, each one neater than the last. \"Triangles keep their shape under pressure,\" she explained, \"so they make a bridge stronger.\" Omar and I __[43] nodded as if we totally got it__.\n\nBuilding the bridge turned out to be much harder than drawing it. Spaghetti snaps if you hold it the wrong way, and the glue took hours to dry. In contrast, by the end of the first week we had broken two whole packets. Omar, who had seemed so unsure at the start, turned out to have the steadiest hands. He holds each piece in place for a full minute while the glue set. Spaghetti is made from durum wheat, which is also used to make couscous.\n\nOn competition day, each team placed its bridge between two desks. Mr. Farid hung a bucket from the middle of each bridge and slowly filled it of sand. One bridge collapsed the moment the empty bucket touched it. Most bridges snapped at two or three kilograms. Ours held five, then six, then seven. As the bucket grew heavier, the room went silent, and nobody said a word.\n\nAt nine kilograms, there was a sharp crack, and our bridge folded in the middle. We did not win: a team from the other class had built a bridge that held eleven kilograms. Still, the next morning Mr. Farid pinned a photograph of our bridge on the classroom wall. Omar, who had never built anything before that term, now says he wants to study engineering.",
+       "q": "Question 43 (underlined portion [43]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "nodded as if we understood",
+        "nodded like we were so on it",
+        "nodded, getting it big-time"
+       ],
+       "a": 1,
+       "e": "The narrative is written in clear, standard English, and \"totally got it\" is slang. \"As if we understood\" keeps the humour (they did not really understand) in a fitting tone. The other two choices are also slang.",
+       "ce": [
+        "\"Totally got it\" is slang that does not match the essay's standard style.",
+        "Correct: same meaning, in a tone that fits the essay.",
+        "\"So on it\" is slang.",
+        "\"Getting it big-time\" is slang and changes the meaning."
+       ],
+       "s": "Word Choice and Tone"
+      },
+      {
+       "p": "**Passage VI: The Bridge That Held**\n\nOn the first day of term, our physics teacher, Mr. Farid wrote a challenge on the board: build a bridge out of uncooked spaghetti and glue that could cross a gap of forty centimetres. The team whose bridge held the most weight would win. My partners were Salma, who wanted to become an architect, and Omar, whom had never built anything more complicated than a sandwich.\n\nSalma drew a design full of triangles. She sketched three versions before she was satisfied, each one neater than the last. \"Triangles keep their shape under pressure,\" she explained, \"so they make a bridge stronger.\" Omar and I nodded as if we totally got it.\n\nBuilding the bridge turned out to be much harder than drawing it. Spaghetti snaps if you hold it the wrong way, and the glue took hours to dry. __[44] In contrast,__ by the end of the first week we had broken two whole packets. Omar, who had seemed so unsure at the start, turned out to have the steadiest hands. He holds each piece in place for a full minute while the glue set. Spaghetti is made from durum wheat, which is also used to make couscous.\n\nOn competition day, each team placed its bridge between two desks. Mr. Farid hung a bucket from the middle of each bridge and slowly filled it of sand. One bridge collapsed the moment the empty bucket touched it. Most bridges snapped at two or three kilograms. Ours held five, then six, then seven. As the bucket grew heavier, the room went silent, and nobody said a word.\n\nAt nine kilograms, there was a sharp crack, and our bridge folded in the middle. We did not win: a team from the other class had built a bridge that held eleven kilograms. Still, the next morning Mr. Farid pinned a photograph of our bridge on the classroom wall. Omar, who had never built anything before that term, now says he wants to study engineering.",
+       "q": "Question 44 (underlined portion [44]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "In fact,",
+        "Otherwise,",
+        "Similarly,"
+       ],
+       "a": 1,
+       "e": "The previous sentences say the work was hard and the spaghetti snapped easily; breaking two whole packets is a stronger, more striking proof of that point, so \"In fact\" fits. \"In contrast\" signals the opposite idea, which is not the case.",
+       "ce": [
+        "Breaking packets does not contrast with the difficulty; it proves it.",
+        "Correct: \"In fact\" adds a stronger piece of evidence for the same point.",
+        "\"Otherwise\" means \"if not\", which makes no sense here.",
+        "The broken packets are not similar to the difficulty; they are evidence of it."
+       ],
+       "s": "Transitions"
+      },
+      {
+       "p": "**Passage VI: The Bridge That Held**\n\nOn the first day of term, our physics teacher, Mr. Farid wrote a challenge on the board: build a bridge out of uncooked spaghetti and glue that could cross a gap of forty centimetres. The team whose bridge held the most weight would win. My partners were Salma, who wanted to become an architect, and Omar, whom had never built anything more complicated than a sandwich.\n\nSalma drew a design full of triangles. She sketched three versions before she was satisfied, each one neater than the last. \"Triangles keep their shape under pressure,\" she explained, \"so they make a bridge stronger.\" Omar and I nodded as if we totally got it.\n\nBuilding the bridge turned out to be much harder than drawing it. Spaghetti snaps if you hold it the wrong way, and the glue took hours to dry. In contrast, by the end of the first week we had broken two whole packets. Omar, who had seemed so unsure at the start, turned out to have the steadiest hands. He __[45] holds__ each piece in place for a full minute while the glue set. Spaghetti is made from durum wheat, which is also used to make couscous.\n\nOn competition day, each team placed its bridge between two desks. Mr. Farid hung a bucket from the middle of each bridge and slowly filled it of sand. One bridge collapsed the moment the empty bucket touched it. Most bridges snapped at two or three kilograms. Ours held five, then six, then seven. As the bucket grew heavier, the room went silent, and nobody said a word.\n\nAt nine kilograms, there was a sharp crack, and our bridge folded in the middle. We did not win: a team from the other class had built a bridge that held eleven kilograms. Still, the next morning Mr. Farid pinned a photograph of our bridge on the classroom wall. Omar, who had never built anything before that term, now says he wants to study engineering.",
+       "q": "Question 45 (underlined portion [45]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "has held",
+        "will hold",
+        "held"
+       ],
+       "a": 3,
+       "e": "The story is told in the past, and the same sentence ends with the past \"set\", so the verb must be past: \"held\". \"Holds\" and \"has held\" shift into the present, and \"will hold\" is future.",
+       "ce": [
+        "\"Holds\" shifts into the present, but the story is told in the past.",
+        "\"Has held\" is present perfect and does not fit a finished past event.",
+        "\"Will hold\" is future and does not fit a past story.",
+        "Correct: past tense, matching \"turned out\" and \"set\"."
+       ],
+       "s": "Verb Tense & Forms"
+      },
+      {
+       "p": "**Passage VI: The Bridge That Held**\n\nOn the first day of term, our physics teacher, Mr. Farid wrote a challenge on the board: build a bridge out of uncooked spaghetti and glue that could cross a gap of forty centimetres. The team whose bridge held the most weight would win. My partners were Salma, who wanted to become an architect, and Omar, whom had never built anything more complicated than a sandwich.\n\nSalma drew a design full of triangles. She sketched three versions before she was satisfied, each one neater than the last. \"Triangles keep their shape under pressure,\" she explained, \"so they make a bridge stronger.\" Omar and I nodded as if we totally got it.\n\nBuilding the bridge turned out to be much harder than drawing it. Spaghetti snaps if you hold it the wrong way, and the glue took hours to dry. In contrast, by the end of the first week we had broken two whole packets. Omar, who had seemed so unsure at the start, turned out to have the steadiest hands. He holds each piece in place for a full minute while the glue set. __[46] Spaghetti is made from durum wheat, which is also used to make couscous.__\n\nOn competition day, each team placed its bridge between two desks. Mr. Farid hung a bucket from the middle of each bridge and slowly filled it of sand. One bridge collapsed the moment the empty bucket touched it. Most bridges snapped at two or three kilograms. Ours held five, then six, then seven. As the bucket grew heavier, the room went silent, and nobody said a word.\n\nAt nine kilograms, there was a sharp crack, and our bridge folded in the middle. We did not win: a team from the other class had built a bridge that held eleven kilograms. Still, the next morning Mr. Farid pinned a photograph of our bridge on the classroom wall. Omar, who had never built anything before that term, now says he wants to study engineering.",
+       "q": "Question 46 (underlined portion [46]): The writer is considering deleting the underlined sentence. Should the sentence be kept or deleted?",
+       "c": [
+        "Kept, because it explains why the spaghetti snapped so easily.",
+        "Kept, because it shows that Omar knew a lot about food.",
+        "Deleted, because it contradicts the claim that the team used glue.",
+        "Deleted, because it interrupts the account of the team's work with an unrelated fact about spaghetti."
+       ],
+       "a": 3,
+       "e": "The paragraph tells how the team built the bridge and how Omar's steady hands helped. A fact about durum wheat and couscous has nothing to do with that. The sentence does not explain the snapping, says nothing about Omar, and does not contradict the glue.",
+       "ce": [
+        "The sentence gives no reason why spaghetti snaps.",
+        "The sentence is not about Omar at all.",
+        "The sentence does not mention glue, so there is no contradiction.",
+        "Correct: a fact about wheat and couscous breaks the story of building the bridge."
+       ],
+       "s": "Add or Delete"
+      },
+      {
+       "p": "**Passage VI: The Bridge That Held**\n\nOn the first day of term, our physics teacher, Mr. Farid wrote a challenge on the board: build a bridge out of uncooked spaghetti and glue that could cross a gap of forty centimetres. The team whose bridge held the most weight would win. My partners were Salma, who wanted to become an architect, and Omar, whom had never built anything more complicated than a sandwich.\n\nSalma drew a design full of triangles. She sketched three versions before she was satisfied, each one neater than the last. \"Triangles keep their shape under pressure,\" she explained, \"so they make a bridge stronger.\" Omar and I nodded as if we totally got it.\n\nBuilding the bridge turned out to be much harder than drawing it. Spaghetti snaps if you hold it the wrong way, and the glue took hours to dry. In contrast, by the end of the first week we had broken two whole packets. Omar, who had seemed so unsure at the start, turned out to have the steadiest hands. He holds each piece in place for a full minute while the glue set. Spaghetti is made from durum wheat, which is also used to make couscous.\n\nOn competition day, each team placed its bridge between two desks. Mr. Farid hung a bucket from the middle of each bridge and slowly filled it __[47] of__ sand. One bridge collapsed the moment the empty bucket touched it. Most bridges snapped at two or three kilograms. Ours held five, then six, then seven. As the bucket grew heavier, the room went silent, and nobody said a word.\n\nAt nine kilograms, there was a sharp crack, and our bridge folded in the middle. We did not win: a team from the other class had built a bridge that held eleven kilograms. Still, the next morning Mr. Farid pinned a photograph of our bridge on the classroom wall. Omar, who had never built anything before that term, now says he wants to study engineering.",
+       "q": "Question 47 (underlined portion [47]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "by",
+        "from",
+        "with"
+       ],
+       "a": 3,
+       "e": "The standard expression is \"fill something with\" a substance: he filled the bucket with sand. \"Filled it of\", \"filled it by sand\" and \"filled it from sand\" are not standard English.",
+       "ce": [
+        "\"Filled of\" is not standard; we fill something with a substance.",
+        "\"By\" would mean the sand did the filling.",
+        "\"From\" would mean the sand was the source, not the contents.",
+        "Correct: \"filled it with sand\" is the standard expression."
+       ],
+       "s": "Idioms & Prepositions"
+      },
+      {
+       "p": "**Passage VI: The Bridge That Held**\n\nOn the first day of term, our physics teacher, Mr. Farid wrote a challenge on the board: build a bridge out of uncooked spaghetti and glue that could cross a gap of forty centimetres. The team whose bridge held the most weight would win. My partners were Salma, who wanted to become an architect, and Omar, whom had never built anything more complicated than a sandwich.\n\nSalma drew a design full of triangles. She sketched three versions before she was satisfied, each one neater than the last. \"Triangles keep their shape under pressure,\" she explained, \"so they make a bridge stronger.\" Omar and I nodded as if we totally got it.\n\nBuilding the bridge turned out to be much harder than drawing it. Spaghetti snaps if you hold it the wrong way, and the glue took hours to dry. In contrast, by the end of the first week we had broken two whole packets. Omar, who had seemed so unsure at the start, turned out to have the steadiest hands. He holds each piece in place for a full minute while the glue set. Spaghetti is made from durum wheat, which is also used to make couscous.\n\nOn competition day, each team placed its bridge between two desks. Mr. Farid hung a bucket from the middle of each bridge and slowly filled it of sand. One bridge collapsed the moment the empty bucket touched it. Most bridges snapped at two or three kilograms. Ours held five, then six, then seven. As the bucket grew heavier, the room went __[48] silent, and nobody said a word__.\n\nAt nine kilograms, there was a sharp crack, and our bridge folded in the middle. We did not win: a team from the other class had built a bridge that held eleven kilograms. Still, the next morning Mr. Farid pinned a photograph of our bridge on the classroom wall. Omar, who had never built anything before that term, now says he wants to study engineering.",
+       "q": "Question 48 (underlined portion [48]): Choose the best version of the underlined portion. If the original is best, choose NO CHANGE.",
+       "c": [
+        "NO CHANGE",
+        "silent, with no one saying anything",
+        "silent",
+        "silent and quiet"
+       ],
+       "a": 2,
+       "e": "A room that \"went silent\" already has nobody speaking, so \"and nobody said a word\" repeats the idea. \"Silent\" alone is concise. \"Silent and quiet\" and \"with no one saying anything\" repeat it too.",
+       "ce": [
+        "\"Nobody said a word\" repeats the meaning of \"silent\".",
+        "\"With no one saying anything\" repeats \"silent\".",
+        "Correct: one word says it all.",
+        "\"Silent\" and \"quiet\" mean the same thing here."
+       ],
+       "s": "Concision"
+      },
+      {
+       "p": "**Passage VI: The Bridge That Held**\n\nOn the first day of term, our physics teacher, Mr. Farid wrote a challenge on the board: build a bridge out of uncooked spaghetti and glue that could cross a gap of forty centimetres. The team whose bridge held the most weight would win. My partners were Salma, who wanted to become an architect, and Omar, whom had never built anything more complicated than a sandwich.\n\nSalma drew a design full of triangles. She sketched three versions before she was satisfied, each one neater than the last. \"Triangles keep their shape under pressure,\" she explained, \"so they make a bridge stronger.\" Omar and I nodded as if we totally got it.\n\nBuilding the bridge turned out to be much harder than drawing it. Spaghetti snaps if you hold it the wrong way, and the glue took hours to dry. In contrast, by the end of the first week we had broken two whole packets. Omar, who had seemed so unsure at the start, turned out to have the steadiest hands. He holds each piece in place for a full minute while the glue set. Spaghetti is made from durum wheat, which is also used to make couscous.\n\nOn competition day, each team placed its bridge between two desks. Mr. Farid hung a bucket from the middle of each bridge and slowly filled it of sand. One bridge collapsed the moment the empty bucket touched it. Most bridges snapped at two or three kilograms. Ours held five, then six, then seven. As the bucket grew heavier, the room went silent, and nobody said a word.\n\n**[1]** At nine kilograms, there was a sharp crack, and our bridge folded in the middle. **[2]** We did not win: a team from the other class had built a bridge that held eleven kilograms. **[3]** Still, the next morning Mr. Farid pinned a photograph of our bridge on the classroom wall. **[4]** Omar, who had never built anything before that term, now says he wants to study engineering.",
+       "q": "Question 49: The writer wants to add the following sentence to the final paragraph:\n\"Under it, he had written two words: 'Best teamwork.'\"\nThe sentence would most logically be placed after Sentence:",
+       "c": [
+        "1.",
+        "2.",
+        "3.",
+        "4."
+       ],
+       "a": 2,
+       "e": "\"It\" must be the photograph and \"he\" must be Mr. Farid, both of which appear in Sentence 3. After Sentence 4, \"he\" would point to Omar and \"it\" would have nothing to refer to; after Sentences 1 or 2, no photograph has been mentioned yet.",
+       "ce": [
+        "The photograph has not been mentioned yet, so \"it\" has nothing to refer to.",
+        "Mr. Farid and the photograph do not appear in this sentence, so \"it\" and \"he\" have nothing to refer to.",
+        "Correct: \"it\" is the photograph and \"he\" is Mr. Farid, both in Sentence 3.",
+        "After this sentence, \"he\" would seem to be Omar, and \"it\" has no clear meaning."
+       ],
+       "s": "Organisation & Order"
+      },
+      {
+       "p": "**Passage VI: The Bridge That Held**\n\nOn the first day of term, our physics teacher, Mr. Farid wrote a challenge on the board: build a bridge out of uncooked spaghetti and glue that could cross a gap of forty centimetres. The team whose bridge held the most weight would win. My partners were Salma, who wanted to become an architect, and Omar, whom had never built anything more complicated than a sandwich.\n\nSalma drew a design full of triangles. She sketched three versions before she was satisfied, each one neater than the last. \"Triangles keep their shape under pressure,\" she explained, \"so they make a bridge stronger.\" Omar and I nodded as if we totally got it.\n\nBuilding the bridge turned out to be much harder than drawing it. Spaghetti snaps if you hold it the wrong way, and the glue took hours to dry. In contrast, by the end of the first week we had broken two whole packets. Omar, who had seemed so unsure at the start, turned out to have the steadiest hands. He holds each piece in place for a full minute while the glue set. Spaghetti is made from durum wheat, which is also used to make couscous.\n\nOn competition day, each team placed its bridge between two desks. Mr. Farid hung a bucket from the middle of each bridge and slowly filled it of sand. One bridge collapsed the moment the empty bucket touched it. Most bridges snapped at two or three kilograms. Ours held five, then six, then seven. As the bucket grew heavier, the room went silent, and nobody said a word.\n\nAt nine kilograms, there was a sharp crack, and our bridge folded in the middle. We did not win: a team from the other class had built a bridge that held eleven kilograms. Still, the next morning Mr. Farid pinned a photograph of our bridge on the classroom wall. Omar, who had never built anything before that term, now says he wants to study engineering.",
+       "q": "Question 50: Suppose the writer's goal had been to show how a school project helped a group of students work as a team. Would this essay accomplish that goal?",
+       "c": [
+        "Yes, because it shows the partners combining different strengths, such as Salma's design and Omar's steady hands, to build the bridge.",
+        "Yes, because it explains in scientific detail why triangles make bridges strong.",
+        "No, because it focuses mainly on Mr. Farid's career as a teacher.",
+        "No, because the team did not win the competition."
+       ],
+       "a": 0,
+       "e": "The essay shows each partner contributing something different (Salma's triangles, Omar's patience with the glue) and the narrator sharing the work, so it shows teamwork. Losing the competition does not stop the essay from showing teamwork, the science of triangles is only one sentence, and Mr. Farid's career is never described.",
+       "ce": [
+        "Correct: the team succeeds by combining the members' different strengths.",
+        "Triangles are explained in one sentence of dialogue, not in scientific detail.",
+        "The essay says almost nothing about Mr. Farid beyond setting and judging the challenge.",
+        "Winning is not part of the goal; the essay still shows how the team worked together."
+       ],
+       "s": "Writer's Goal"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "After the test",
+   "items": [
+    "Read the explanation for **every** choice, including the questions you got right: make sure you were right for the right reason, not by luck.",
+    "Look at the \"By skill\" table. Each question is tagged with the lesson that teaches its skill, and any skill below 80% appears under \"Study these again\" with a link to that lesson.",
+    "Conventions of Standard English (punctuation, sentence structure and usage) tags: Commas, Semicolons, Colons, Dashes, Apostrophes, Unnecessary Punctuation, Fragments, Run-ons & Splices, Modifiers, Parallelism, Unnecessary Shifts, Subject–Verb Agreement, Pronoun Case, Pronoun Agreement, Verb Tense & Forms, Comparatives and Superlatives, Idioms & Prepositions and Confused Words. Review **ACT Punctuation**, **Sentence Structure** and **ACT Grammar and Usage**.",
+    "Production of Writing tags: Transitions, Organisation & Order, Add or Delete and Writer's Goal. Review **Relevance: Add, Delete and Writer's Goal** and **Organisation: Order and Transitions**.",
+    "Knowledge of Language tags: Concision and Word Choice and Tone. Review **Concision and Redundancy** and **Word Choice and Tone**.",
+    "Write your weak skills and the question numbers you missed in a notebook, then do the practice sets on those lesson pages.",
+    "If you ran out of time, reread **How to Attack ACT English** and practise answering as you read. Then try ACT English — Practice Test 4 under the same timed conditions."
+   ]
+  }
+ ]
+}
