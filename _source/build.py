@@ -139,15 +139,14 @@ def tile(title, href, top="", sub=""):
     return f'<a class="tile" href="{href}">' + (f'<span class="ty">{top}</span>' if top else "") + f'<b>{title}</b>' + (f'<span class="tar">{sub}</span>' if sub else "") + '<span class="go">Open →</span></a>'
 brit = TILE_CSS + pagehead("Section 1","British &amp; IGCSE","Choose your year.") + f'''
 <section class="block"><div class="wrap"><div class="tiles">
-{tile("Checkpoint 6","british-checkpoint-6.html","Year 6","English · Maths · Science")}
-{tile("Checkpoint 8","british-checkpoint-8.html","Year 8","English · Maths · Science")}
-{tile("IGCSE Core Subjects","british-year-9.html","Year 9","English · more subjects soon")}
-{tile("IGCSE","british-igcse.html","Year 10 · 11 · 12","Oxford English · more subjects soon")}
-{tile("Arabic &amp; History<span class='tar' style='display:block;font-size:1.3rem;color:var(--navy);font-weight:800;margin-top:6px;text-align:left' dir='rtl'>العربي والتاريخ</span>","identity-subjects.html","IG students in Egypt · Year 10–12","مواد الهوية · 20% من المجموع")}
+{tile("Year 6","british-checkpoint-6.html","Checkpoint 6","English · Maths · Science")}
+{tile("Year 8","british-checkpoint-8.html","Checkpoint 8","English · Maths · Science")}
+{tile("Year 9","british-year-9.html","IGCSE Core Subjects","English 0510")}
+{tile("IGCSE","british-igcse.html","Years 10 · 11 · 12","Oxford English · Arabic &amp; History")}
 </div></div></section>
 <section class="block alt"><div class="wrap split"><div><h2>Writing skills</h2><p>Step-by-step lessons for every text type: persuasive writing, articles, reports, biographies and more.</p></div>{yt(PL["writing"],"Writing skills playlist")}</div></section>'''
 for _n, _y, _st, _codes in ((6, "Year 6", "Cambridge Primary Checkpoint", ("0058", "0096", "0097")), (8, "Year 8", "Cambridge Lower Secondary Checkpoint", ("0861", "0862", "0893"))):
-    _b = TILE_CSS + f'<section class="phead"><div class="wrap"><p class="kicker"><a href="british.html" style="color:inherit">British &amp; IGCSE</a> › {_y}</p><h1>Checkpoint {_n}</h1><p class="lead">{_st}. Choose your subject.</p></div></section>' + f'''
+    _b = TILE_CSS + f'<section class="phead"><div class="wrap"><p class="kicker"><a href="british.html" style="color:inherit">British &amp; IGCSE</a> › {_y}</p><h1>{_y} · Checkpoint {_n}</h1><p class="lead">{_st}. Choose your subject.</p></div></section>' + f'''
 <section class="block"><div class="wrap"><div class="tiles">
 {tile("English",f"checkpoint-{_n}.html",f"Checkpoint {_n} · {_codes[0]}","Full course + practice")}
 {tile("Maths",f"checkpoint-{_n}-maths.html",f"Checkpoint {_n} · {_codes[1]}","Full course + practice tests")}
@@ -158,9 +157,10 @@ for _fn, _y, _h, _lead, _tiles, _desc in (
     ("british-year-9.html", "Year 9", "Year 9 · IGCSE Core Subjects", "Cambridge IGCSE core subjects. Choose your subject.",
      tile("English","year-9-0510.html","Cambridge IGCSE · 0510","English as a Second Language"),
      "Free Year 9 Cambridge IGCSE core-subject courses: English as a Second Language 0510, with more subjects coming."),
-    ("british-igcse.html", "Year 10 · 11 · 12", "IGCSE · Year 10, 11 and 12", "International GCSE courses. Choose your subject.",
-     tile("Oxford English","year-10-oxford.html","OxfordAQA · 9280","English as a Second Language"),
-     "Free IGCSE courses for Years 10, 11 and 12: Oxford International GCSE English as a Second Language 9280, with more subjects coming.")):
+    ("british-igcse.html", "Years 10 · 11 · 12", "IGCSE · Years 10, 11 and 12", "International GCSE courses. Choose your subject.",
+     tile("Oxford English","year-10-oxford.html","OxfordAQA · 9280","English as a Second Language")
+     + tile("Arabic &amp; History<span class='tar' style='display:block;font-size:1.3rem;color:var(--navy);font-weight:800;margin-top:6px;text-align:left' dir='rtl'>العربي والتاريخ</span>","identity-subjects.html","For IG students in Egypt","مواد الهوية · 20% من المجموع"),
+     "Free IGCSE courses for Years 10, 11 and 12: Oxford International GCSE English as a Second Language 9280, and the Ministry's Arabic and History for IG students in Egypt.")):
     _b = TILE_CSS + f'<section class="phead"><div class="wrap"><p class="kicker"><a href="british.html" style="color:inherit">British &amp; IGCSE</a> › {_y}</p><h1>{_h}</h1><p class="lead">{_lead}</p></div></section>' + f'''
 <section class="block"><div class="wrap"><div class="tiles">
 {_tiles}
