@@ -89,6 +89,8 @@ _BR_CSS = """<style>
 .blist.compact{grid-template-columns:repeat(auto-fit,minmax(210px,1fr))}
 .blist.compact a{display:flex;flex-direction:column;justify-content:center;min-height:84px;border:2px solid #e6e0d4;border-radius:16px}
 .blist.compact a b{font-size:1.05rem;line-height:1.3;margin:0}
+.blist.compact a.soon{opacity:.55;cursor:default;border-style:dashed;background:#faf8f3}
+.bsecs.open .bsec{margin:1.6rem 0 2.2rem}.bsecs.open .bsec h2{border-bottom:3px solid #d4a24c;padding-bottom:.35rem}
 @media (max-width:600px){.bc .pnav a{max-width:100%;flex:1 1 100%}}
 </style>"""
 
@@ -242,7 +244,7 @@ for _bc in _BR_COURSES:
         if _sec.get("groups"):
             _sec["pages"] = [p for g in _sec["groups"] for p in g["pages"]]
         _skip = _bo.environ.get("BRITISH_SKIP")
-        _miss = [s for s in _sec["pages"] if not _bo.path.exists(_bref(_bc, s)) or (_skip and _bre.search(_skip, s))]
+        _miss = [s for s in _sec["pages"] if not s.startswith("~") and (not _bo.path.exists(_bref(_bc, s)) or (_skip and _bre.search(_skip, s)))]
         if _miss:
             print(f"[british] {_bc}: skipping {len(_miss)} missing page(s): {', '.join(_miss)}")
         _sec["pages"] = [s for s in _sec["pages"] if s not in _miss]
@@ -252,8 +254,9 @@ for _bc in _BR_COURSES:
     if not _cfg["sections"]:
         continue
     # one page can sit in two sections (e.g. grammar lessons in Paper 1 and Paper 2): build/link it once
-    _order = list(dict.fromkeys(s for sec in _cfg["sections"] for s in sec["pages"] if not s.startswith("@")))
+    _order = list(dict.fromkeys(s for sec in _cfg["sections"] for s in sec["pages"] if not s.startswith(("@", "~"))))
     _refs = [s for sec in _cfg["sections"] for s in sec["pages"] if s.startswith("@")]
+    _open = bool(_cfg.get("open"))  # whole syllabus visible: every unit expanded, every lesson a named tile
     _compact = bool(_cfg.get("compact"))
     _pages = {s: _bload(_bc, s + ".json") for s in _order}
     _pages.update({s: _bj.load(open(_bref(_bc, s), encoding="utf-8")) for s in _refs})
@@ -277,11 +280,16 @@ for _bc in _BR_COURSES:
                 _num = 0  # lessons are numbered inside each section
             def _li(s):
                 global _num
-                _num += 1
+                if not (s.startswith("~") and "|" in s) and not (not s.startswith(("~", "@")) and _pages[s].get("label")):
+                    _num += 1
+                if s.startswith("~"):
+                    _t, _, _lb = s[1:].partition("|")
+                    _lab = _lb or f"{_lw} {_num}"
+                    return f'<li><a class="soon" aria-disabled="true"><small class="ln">{_bE(_lab)}</small><b>{_bE(_t)}</b><small class="pp" style="color:#8a8170">قريبًا</small></a></li>'
                 if _compact:
                     _pp = _bpractice(_bc, s)
-                    _ps = f'<small class="pp" data-pk="{s.split("/")[-1]}" data-n="{len(_pp["sets"])}">{len(_pp["sets"])} practice sets</small>' if _pp else ""
-                    _lab = "Full test" if (not _rtl and _bre.search(r"-test-\d+$", s)) else f"{_lw} {_num}"
+                    _ps = f'<small class="pp" data-pk="{s.split("/")[-1]}" data-n="{len(_pp["sets"])}">{len(_pp["sets"])} {"تدريبات" if _rtl else "practice sets"}</small>' if _pp else ""
+                    _lab = "Full test" if (not _rtl and _bre.search(r"-test-\d+$", s)) else (_pages[s].get("label") or f"{_lw} {_num}")
                     return f'<li><a href="{_bhref(s)}"><small class="ln">{_lab}</small><b>{_bE(_pages[s].get("nav") or _pages[s]["title"])}</b>{_ps}</a></li>'
                 return f'<li><a href="{s}.html"><small class="ln">{_lw} {_num}</small><b>{_bE(_pages[s]["title"])}</b><span>{_bE(_pages[s].get("summary",""))}</span></a></li>'
             if sec.get("groups"):
@@ -307,9 +315,8 @@ window.addEventListener('hashchange',show);show();})();</script>"""
         _body = _BR_CSS + pagehead(_cfg["kicker"], _cfg["title"], _bE(_cfg["summary"])) + f'''
 <section class="block"><div class="wrap"><div class="bc"{' dir="rtl" lang="ar"' if _rtl else ''}>{_intro}
 <p><a class="btn" href="{_first}.html">{_L["start"]}</a></p>
-<h2 class="pickh">{_pick}</h2><div class="stiles">{_stiles}</div>
-<p id="sall" hidden><a href="#">{_all}</a></p>
-<div class="bsecs">{_secs}</div></div></div></section>{_secjs}''' + _BR_PCSS + _BR_PJS
+{"" if _open else f'<h2 class="pickh">{_pick}</h2><div class="stiles">{_stiles}</div><p id="sall" hidden><a href="#">{_all}</a></p>'}
+<div class="bsecs{' open' if _open else ''}">{_secs}</div></div></div></section>{"" if _open else _secjs}''' + _BR_PCSS + _BR_PJS
         page(_hub, f'{_cfg["title"]} — Abdelkriem Academy', _cfg.get("meta_desc", _cfg["summary"]), _body, _active)
     _dir = ' dir="rtl" lang="ar"' if _rtl else ""
     _BR_STATE.clear()
@@ -327,7 +334,7 @@ window.addEventListener('hashchange',show);show();})();</script>"""
         toc = f'<details class="toc"><summary>{_L["toc"]}</summary>'
         for sec in _cfg["sections"]:
             toc += f'<p><b>{_bE(sec["title"])}</b></p><ul>' + "".join(
-                f'<li{" class=on" if x == s else ""}><a href="{_bhref(x)}" dir="auto">{_bE(_pages[x]["title"])}</a></li>' for x in sec["pages"]) + "</ul>"
+                f'<li{" class=on" if x == s else ""}><a href="{_bhref(x)}" dir="auto">{_bE(_pages[x]["title"])}</a></li>' for x in sec["pages"] if not x.startswith("~")) + "</ul>"
         toc += "</details>"
         _BR_STATE.pop("has_test", None)
         _pr = _bpractice(_bc, s)
