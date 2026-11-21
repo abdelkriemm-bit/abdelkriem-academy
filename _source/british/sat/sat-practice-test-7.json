@@ -1,0 +1,1115 @@
+{
+ "slug": "sat-practice-test-7",
+ "nav": "Practice Test 7",
+ "title": "Digital SAT Reading and Writing — Practice Test 7",
+ "kicker": "American Diploma · Digital SAT · Full practice tests",
+ "summary": "A full, timed Reading and Writing section in Digital SAT format: two 32-minute modules of 27 questions each, with a reason for every answer choice, your score by skill and links back to the lessons.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "Before you start"
+  },
+  {
+   "type": "p",
+   "text": "This is a complete Reading and Writing section in the format of the Digital SAT: **two modules of 27 questions, 32 minutes each (54 questions, 64 minutes)**. Every question has one short passage (or a pair of short passages) and four choices. Inside each module the questions come in the usual order: Craft and Structure, then Information and Ideas, then Standard English Conventions, and Expression of Ideas last. All passages and questions were written for this course."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Sit in a quiet place with no phone and about 70 minutes free. Do the whole test in one sitting.",
+    "The timer starts when you begin a module. Aim for about 1 minute 11 seconds per question, and do not spend more than 2 minutes on any single question.",
+    "Inside a module you can move back and forth between questions. When the 32 minutes end, the module closes. In the real test, you cannot go back to Module 1 once Module 2 starts, so treat this test the same way.",
+    "There is no penalty for wrong answers. Never leave a question blank: if time is short, eliminate what you can and guess.",
+    "At the end you will see your number correct, your result for each module and each skill, a reason for every answer choice, and links to the lessons for your weakest skills."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "About your result",
+   "text": "The score shown at the end is a practice percentage (the number of questions you answered correctly). It is not an official SAT score. Official Reading and Writing scores are reported on a scale of 200–800, and this page does not convert your result to that scale."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "قبل ما تبدأ",
+   "text": "اقعد في مكان هادي من غير موبايل، وخلّي معاك حوالي ساعة وربع. الامتحان موديولين، كل واحد 27 سؤال في 32 دقيقة، يعني تقريبًا دقيقة وعشر ثواني للسؤال. جوه الموديول تقدر ترجع لأي سؤال، لكن لما الوقت يخلص الموديول بيقفل، وفي الامتحان الحقيقي مفيش رجوع لـ Module 1. مفيش خصم على الإجابة الغلط، فمتسيبش ولا سؤال فاضي. في الآخر هتلاقي سبب لكل اختيار ليه صح أو غلط، ولينكات للدروس اللي محتاج تراجعها. والنسبة اللي هتظهر للتدريب بس، مش درجة SAT رسمية."
+  },
+  {
+   "type": "h2",
+   "text": "The test"
+  },
+  {
+   "type": "test",
+   "title": "Digital SAT Reading and Writing — Practice Test 7",
+   "timed": true,
+   "intro": "Two modules, 27 questions each, 32 minutes per module. In the real test, 2 questions in each module are unscored pretest questions, and Module 2 adapts to how well you did in Module 1 (it becomes harder or easier). Here all 54 questions count: Module 1 is a mixed-difficulty module, and Module 2 is the harder version. Questions follow the usual order: Craft and Structure, Information and Ideas, Standard English Conventions, then Expression of Ideas. Once Module 1 ends, you cannot go back to it. Answer every question — there is no penalty for guessing.",
+   "links": {
+    "Words in Context": "sat-words-in-context.html",
+    "Text Structure and Purpose": "sat-text-structure-purpose.html",
+    "Cross-Text Connections": "sat-cross-text.html",
+    "Central Ideas and Details": "sat-central-ideas.html",
+    "Command of Evidence — Textual": "sat-evidence-textual.html",
+    "Command of Evidence — Quantitative": "sat-evidence-quantitative.html",
+    "Inferences": "sat-inferences.html",
+    "Boundaries": "sat-sentence-boundaries.html",
+    "Form, Structure, and Sense": "sat-subject-verb.html",
+    "Transitions": "sat-transitions.html",
+    "Rhetorical Synthesis": "sat-rhetorical-synthesis.html"
+   },
+   "sections": [
+    {
+     "name": "Module 1",
+     "minutes": 32,
+     "questions": [
+      {
+       "p": "The leaves of the sensitive plant, Mimosa pudica, fold inward within seconds of being touched. Botanists think that this ______ response may protect the plant by startling plant-eating insects or by making the plant look less appetizing to grazing animals.",
+       "q": "Which choice completes the text with the most logical and precise word or phrase?",
+       "c": [
+        "gradual",
+        "rapid",
+        "seasonal",
+        "permanent"
+       ],
+       "a": 1,
+       "e": "The leaves fold \"within seconds,\" so the response is \"rapid.\" \"Gradual\" is the opposite, and \"seasonal\" has nothing to do with a reaction to touch.",
+       "ce": [
+        "\"Gradual\" means slow, but the leaves fold within seconds.",
+        "Correct: folding \"within seconds\" is a fast, or rapid, response.",
+        "The response follows a touch, not a time of year.",
+        "Nothing says the leaves stay folded forever."
+       ],
+       "s": "Words in Context"
+      },
+      {
+       "p": "Head teacher Samia Ragab's changes to her school's curriculum were ______ rather than sweeping: instead of replacing every subject at once, she revised one subject each year and studied the results before moving on to the next.",
+       "q": "Which choice completes the text with the most logical and precise word or phrase?",
+       "c": [
+        "radical",
+        "arbitrary",
+        "secretive",
+        "incremental"
+       ],
+       "a": 3,
+       "e": "\"Rather than sweeping\" and \"one subject each year\" describe change in small steps: \"incremental.\" \"Radical\" is the opposite, and \"arbitrary\" ignores the careful study of results.",
+       "ce": [
+        "\"Radical\" means sweeping, the very thing the text says the changes were not.",
+        "The changes were planned and studied, not random.",
+        "Nothing suggests the changes were hidden.",
+        "Correct: one subject each year is a step-by-step, or incremental, change."
+       ],
+       "s": "Words in Context"
+      },
+      {
+       "p": "The sculptor's early works were ______ by critics, who called them clumsy and unfinished. Only decades later, after her death, did museums begin competing to acquire them.",
+       "q": "Which choice completes the text with the most logical and precise word or phrase?",
+       "c": [
+        "disparaged",
+        "celebrated",
+        "commissioned",
+        "imitated"
+       ],
+       "a": 0,
+       "e": "Critics called the works \"clumsy and unfinished,\" so they \"disparaged\" them. \"Celebrated\" reverses the critics' view, which only later museums came to share.",
+       "ce": [
+        "Correct: calling the works clumsy and unfinished is disparaging them.",
+        "The critics called the works clumsy, so they did not celebrate them.",
+        "Critics criticize works; they do not order them to be made.",
+        "Calling works clumsy is not the same as copying them."
+       ],
+       "s": "Words in Context"
+      },
+      {
+       "p": "When the first telegraph cable across the Atlantic Ocean was completed in 1858, crowds celebrated in New York and London. The excitement proved ______, however: the cable failed after only a few weeks, and a lasting connection was not achieved until 1866.",
+       "q": "Which choice completes the text with the most logical and precise word or phrase?",
+       "c": [
+        "justified",
+        "lasting",
+        "modest",
+        "premature"
+       ],
+       "a": 3,
+       "e": "\"However\" and the cable's quick failure show the celebration came too soon: it was \"premature.\" \"Justified\" reverses the point of the text.",
+       "ce": [
+        "The cable's failure shows the excitement was not justified.",
+        "The cable failed within weeks, so the excitement had no lasting basis.",
+        "Crowds celebrated in two cities, so the excitement was not modest.",
+        "Correct: the celebration came too early, since the cable soon failed."
+       ],
+       "s": "Words in Context"
+      },
+      {
+       "p": "Throughout the twentieth century, average scores on intelligence tests rose steadily in many countries, by roughly three points per decade, a pattern known as the Flynn effect. Because such a rapid change cannot be explained by genetics, researchers have proposed other causes, including better nutrition, more years of schooling, and greater familiarity with abstract, test-like problems. In some countries, however, the rise has recently slowed or even reversed, leading researchers to ask which of these causes may have changed.",
+       "q": "Which choice best describes the overall structure of the text?",
+       "c": [
+        "It describes a trend, mentions possible explanations for it, and then notes a recent development that raises new questions.",
+        "It presents a theory about intelligence and then gives evidence that disproves it.",
+        "It compares intelligence scores in two countries and explains why they differ.",
+        "It identifies a flaw in intelligence tests and then proposes a better kind of test."
+       ],
+       "a": 0,
+       "e": "The text moves from a trend (rising scores) to possible causes to a recent change that prompts new questions. The \"theory disproved\" choice misreads the recent slowdown as a refutation.",
+       "ce": [
+        "Correct: rising scores → proposed causes → slowing or reversal and a new question.",
+        "The text describes a trend, not a theory, and nothing is disproved.",
+        "No two specific countries are compared.",
+        "No flaw or new test is discussed."
+       ],
+       "s": "Text Structure and Purpose"
+      },
+      {
+       "p": "To design the arches of a church near Barcelona, architect Antoni Gaudí built an unusual model. He hung chains and small bags of weight from a board and let gravity pull them into curves. Turned upside down, each hanging curve showed the shape of an arch that would carry its load by pressing down along its own length, without needing extra supports. With this model, Gaudí could test a design simply by moving the weights rather than by working out long calculations by hand.",
+       "q": "Which choice best states the main purpose of the text?",
+       "c": [
+        "To argue that Gaudí's churches are more beautiful than those of other architects",
+        "To describe the history of a church near Barcelona",
+        "To show that calculations by hand are always more accurate than physical models",
+        "To explain how an architect used a physical model to work out the shapes of arches"
+       ],
+       "a": 3,
+       "e": "Every sentence explains Gaudí's hanging-chain model and how it revealed arch shapes. The \"history of a church\" choice mistakes the setting for the purpose.",
+       "ce": [
+        "The text never judges beauty or compares architects.",
+        "The church is mentioned only as the project; its history is not described.",
+        "The text presents the model as a useful alternative to calculation, not as less accurate.",
+        "Correct: the whole text describes how the hanging-chain model worked and why it helped."
+       ],
+       "s": "Text Structure and Purpose"
+      },
+      {
+       "p": "Text 1\nThrough the 1990s and 2000s, many doctors advised parents to delay giving foods containing peanuts to young children, especially children thought to be at high risk of allergy. The reasoning was that waiting until a child's immune system had matured would make an allergic reaction less likely.\n\nText 2\nA large trial published in 2015 followed infants at high risk of allergy. Infants who regularly ate peanut foods from early in life were far less likely to have a peanut allergy at age five than infants whose parents avoided giving them peanuts.",
+       "q": "Based on the texts, how would the researchers in Text 2 most likely respond to the advice described in Text 1?",
+       "c": [
+        "By supporting it, since their trial also focused on infants at high risk of allergy",
+        "By arguing that peanut allergy is a less serious condition than the doctors in Text 1 believed",
+        "By claiming that children should keep eating peanuts even after an allergy has developed",
+        "By suggesting that delaying peanuts may not prevent allergy and that early exposure might lower the risk"
+       ],
+       "a": 3,
+       "e": "The trial found that early peanut eating went with much less allergy, which challenges the advice to delay. The \"supporting it\" choice confuses studying the same high-risk group with agreeing.",
+       "ce": [
+        "Studying the same group does not mean agreeing; their results point the other way.",
+        "The trial measures how often allergy developed, not how serious it is.",
+        "Too extreme: the trial is about preventing allergy, not about children who already have one.",
+        "Correct: early eaters were far less likely to become allergic."
+       ],
+       "s": "Cross-Text Connections"
+      },
+      {
+       "p": "Before 1840, the cost of sending a letter in Britain depended on the distance it traveled and the number of sheets it contained, and the fee was usually paid by the person who received it. In 1840, a reform proposed by Rowland Hill took effect: letters sent within the country now cost a flat rate of one penny, paid in advance by the sender with an adhesive stamp known as the Penny Black. Within a year, the number of letters sent in Britain had more than doubled.",
+       "q": "Which choice best states the main idea of the text?",
+       "c": [
+        "Before 1840, most letters in Britain were never delivered because the people receiving them refused to pay.",
+        "The Penny Black became valuable to collectors soon after it was introduced.",
+        "A reform that made postage simpler and cheaper in Britain led to a large increase in letter writing.",
+        "Letters became more expensive after 1840 because senders had to pay in advance."
+       ],
+       "a": 2,
+       "e": "The text explains an old, complicated system, the penny reform that replaced it, and the doubling of letters that followed. The \"more expensive\" choice reverses the effect of the reform.",
+       "ce": [
+        "The text never says letters went undelivered.",
+        "Collecting is never mentioned.",
+        "Correct: the text describes the old system, the 1840 reform and its effect on letter numbers.",
+        "Reversed: the flat penny rate made sending letters simpler and cheaper."
+       ],
+       "s": "Central Ideas and Details"
+      },
+      {
+       "p": "The following text is from an original story. Youssef is a student at an art school in the 1930s.\nEvery afternoon Youssef carried his sketchbook to the old quarter, where he drew doorways, fruit sellers, and the cats that slept on the warm steps. His teacher had told him that a single honest line was worth more than a page of careful shading, and at the time he had not believed her. Now, filling page after page, he found that the drawings he liked best were the ones he had made fastest, before he had time to fuss over them.",
+       "q": "According to the text, which of his drawings does Youssef like best?",
+       "c": [
+        "The ones that show the doorways of the old quarter",
+        "The ones he made quickly, without lingering over details",
+        "The ones that use the most careful shading",
+        "The ones his teacher praised in class"
+       ],
+       "a": 1,
+       "e": "The last sentence says he likes the drawings he made \"fastest, before he had time to fuss over them.\" The doorways are only one of his subjects, not what makes a drawing his favorite.",
+       "ce": [
+        "Doorways are one subject he draws, but the text links his favorites to speed, not subject.",
+        "Correct: he likes best \"the ones he had made fastest, before he had time to fuss over them\".",
+        "His teacher valued a simple line over careful shading, and his favorites were quick ones.",
+        "The text never says his teacher praised any drawing."
+       ],
+       "s": "Central Ideas and Details"
+      },
+      {
+       "p": "Ecologist Mariam Fahmy hypothesizes that birds of a certain species sing at a higher pitch in cities than in forests because low-pitched notes are drowned out by the low-frequency rumble of traffic.",
+       "q": "Which finding, if true, would most directly support Fahmy's hypothesis?",
+       "c": [
+        "Within the same city, birds of the species sang at higher pitches in noisy areas near busy roads than in quiet parks.",
+        "City birds of the species sing more often in the early morning than forest birds of the species do.",
+        "Forest birds of the species have larger territories than city birds of the species do.",
+        "Traffic noise in cities is louder during the day than at night."
+       ],
+       "a": 0,
+       "e": "Comparing noisy and quiet areas within one city isolates traffic noise, and finding higher pitch near busy roads supports the hypothesis. The \"early morning\" choice is about timing, not pitch.",
+       "ce": [
+        "Correct: in one city, pitch rose where traffic noise was greater, linking pitch to noise.",
+        "This is about when birds sing, not the pitch of their songs.",
+        "Territory size has nothing to do with pitch or noise.",
+        "This describes noise only, not how birds respond to it."
+       ],
+       "s": "Command of Evidence — Textual"
+      },
+      {
+       "p": "\"The Portrait\" is an original poem written in the style of the nineteenth century. In the poem, the speaker suggests that a painted likeness can outlast the person it shows.",
+       "q": "Which quotation from the poem most effectively illustrates this claim?",
+       "c": [
+        "\"The painter mixed his colors by the pane, / Where morning fell on canvas and on board.\"",
+        "\"The sitter's cheek has long since turned to dust, / Yet here it glows as warm as on the day / The painter caught it.\"",
+        "\"I paused before the frame and wondered who / Had hung it in so dark a corner of the hall.\"",
+        "\"How proudly did the young man sit, how still, / While the long hours of the sitting slowly passed.\""
+       ],
+       "a": 1,
+       "e": "The claim contrasts a person who has died with a likeness that survives, and only the \"turned to dust … yet here it glows\" lines do this. The \"young man sat\" lines describe the sitting, not what lasted afterward.",
+       "ce": [
+        "This describes the painter at work, not the portrait outlasting its subject.",
+        "Correct: the sitter is gone, but his painted likeness still glows.",
+        "This is about where the portrait hangs, not about time or the sitter.",
+        "This describes the sitting itself, not what happened after the sitter's life."
+       ],
+       "s": "Command of Evidence — Textual"
+      },
+      {
+       "p": "Paintings by Anwar Sabry, by decade\nDecade | Average canvas width (cm) | Paintings using mostly bright colors (%)\n1900s | 65 | 20\n1910s | 80 | 35\n1920s | 120 | 70\n\nArt historian Hoda Rizk argues that over the first three decades of the twentieth century, painter Anwar Sabry worked on larger and larger canvases and used bright colors more and more often. ______",
+       "q": "Which choice most effectively uses data from the table to support Rizk's argument?",
+       "c": [
+        "In the 1920s, the average width of Sabry's canvases was 120 centimeters.",
+        "In the 1910s, 35% of Sabry's paintings used mostly bright colors.",
+        "From the 1900s to the 1920s, the share of Sabry's paintings using mostly bright colors fell from 70% to 20%.",
+        "From the 1900s to the 1920s, the average width of Sabry's canvases grew from 65 to 120 centimeters, and the share of his paintings using mostly bright colors rose from 20% to 70%."
+       ],
+       "a": 3,
+       "e": "The argument has two parts, larger canvases and more bright colors, and only one choice shows both rising across the decades. The \"fell from 70% to 20%\" choice reads the table backward.",
+       "ce": [
+        "One decade's width cannot show a change, and colors are left out.",
+        "One figure for one decade shows no trend, and size is left out.",
+        "Reversed: the share rose from 20% to 70%.",
+        "Correct: it shows both trends across all three decades."
+       ],
+       "s": "Command of Evidence — Quantitative"
+      },
+      {
+       "p": "Enrollment at a girls' school founded in 1895\nYear | Students enrolled | Students from outside the city (%)\n1895 | 40 | 10\n1905 | 120 | 25\n1915 | 310 | 45\n\nA historian claims that in its first twenty years, the school grew rapidly and drew an increasing share of its students from families living outside the city. ______",
+       "q": "Which choice most effectively uses data from the table to support the historian's claim?",
+       "c": [
+        "In 1915, the school enrolled 310 students.",
+        "Between 1895 and 1915, enrollment rose from 40 to 310 students, and the share of students from outside the city rose from 10% to 45%.",
+        "In 1895, 10% of the school's 40 students came from outside the city.",
+        "Enrollment tripled between 1895 and 1905, rising from 40 to 120 students."
+       ],
+       "a": 1,
+       "e": "The claim joins two trends, rapid growth and a larger share from outside the city, and only one choice gives both from 1895 to 1915. The \"tripled\" choice is accurate but covers growth only.",
+       "ce": [
+        "One year's total cannot show growth or where students came from.",
+        "Correct: it shows both the rapid growth and the rising share from outside the city.",
+        "This gives only the starting point.",
+        "This shows growth but not the rising share from outside the city."
+       ],
+       "s": "Command of Evidence — Quantitative"
+      },
+      {
+       "p": "During the Crimean War of the 1850s, most British soldiers who died in the military hospital at Scutari died not of their battle wounds but of diseases such as cholera and dysentery. After a government commission arrived in 1855 and had the hospital's sewers cleaned and its ventilation improved, the death rate there fell sharply. Florence Nightingale, who had worked at the hospital, later used these figures to argue that ______",
+       "q": "Which choice most logically completes the text?",
+       "c": [
+        "better sanitation in hospitals could save a great many lives.",
+        "battle wounds were a greater danger to soldiers than disease was.",
+        "soldiers should not be treated in hospitals at all.",
+        "cholera could be cured with better medicines."
+       ],
+       "a": 0,
+       "e": "Deaths fell sharply after sanitary improvements, so the figures support the case for better hospital sanitation. \"Avoid hospitals\" goes too far: the evidence shows that improving hospitals saved lives.",
+       "ce": [
+        "Correct: cleaning sewers and improving air was followed by a sharp fall in deaths.",
+        "Reversed: most deaths came from disease, not wounds.",
+        "Too extreme: the figures show that improving hospitals helped, not that hospitals should be avoided.",
+        "The text mentions sanitation changes, not medicines."
+       ],
+       "s": "Inferences"
+      },
+      {
+       "p": "The Eiffel Tower was built for the Exposition Universelle, a world's fair held in ______ about 300 meters, it was the tallest structure in the world when it was completed in 1889.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "Paris, at",
+        "Paris at",
+        "Paris, which at",
+        "Paris; at"
+       ],
+       "a": 3,
+       "e": "Both parts are complete sentences, so a semicolon is needed. A comma alone creates a comma splice.",
+       "ce": [
+        "Comma splice: two complete sentences joined only by a comma.",
+        "Run-on, and it makes it seem that the fair was held \"in Paris at about 300 meters\".",
+        "\"Which … it was the tallest\" repeats the subject and is ungrammatical.",
+        "Correct: a semicolon joins the two complete sentences."
+       ],
+       "s": "Boundaries"
+      },
+      {
+       "p": "Biologists who study hummingbirds have found ______ the birds' hearts can beat more than 1,000 times per minute during flight. Even at rest, a hummingbird's heart beats far faster than a human heart does.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "that",
+        "that,",
+        ", that",
+        ": that"
+       ],
+       "a": 0,
+       "e": "\"That the birds' hearts can beat…\" is the object of \"found,\" so no punctuation should separate them. Each wrong choice puts a mark between a verb and its object.",
+       "ce": [
+        "Correct: no punctuation is needed between \"found\" and the clause it introduces.",
+        "No comma belongs between \"that\" and the clause it introduces.",
+        "No comma belongs between the verb \"found\" and what was found.",
+        "A colon cannot separate a verb from its object."
+       ],
+       "s": "Boundaries"
+      },
+      {
+       "p": "Mahmoud Mokhtar's granite sculpture Egypt's Awakening—which shows a peasant woman lifting her veil beside a sphinx rising from the ______ was unveiled in Cairo in 1928.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "ground,",
+        "ground—",
+        "ground",
+        "ground;"
+       ],
+       "a": 1,
+       "e": "The description begins with a dash after \"Egypt's Awakening,\" so it must end with a dash before the verb \"was unveiled.\" A comma does not match the opening dash.",
+       "ce": [
+        "Mismatched pair: extra information opened with a dash must close with a dash.",
+        "Correct: the second dash closes the extra information opened by the first dash.",
+        "Without a closing mark, the extra information runs into the verb \"was unveiled\".",
+        "A semicolon would separate the subject from its verb \"was unveiled\"."
+       ],
+       "s": "Boundaries"
+      },
+      {
+       "p": "School administrators expected that starting classes an hour later would make students less productive in the ______ however, attendance and grades both improved during the following term.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "afternoon,",
+        "afternoon;",
+        "afternoon",
+        "afternoon, and"
+       ],
+       "a": 1,
+       "e": "Both parts are complete sentences, and \"however\" is a transition, not a conjunction, so a semicolon is needed before it. A comma creates the classic \"however\" comma splice.",
+       "ce": [
+        "Comma splice: \"however\" is not a conjunction, so a comma cannot join the sentences.",
+        "Correct: a semicolon joins the two complete sentences, and \"however\" begins the second.",
+        "Run-on: the two complete sentences are fused.",
+        "\"And however\" uses two linking words with clashing meanings and is not standard."
+       ],
+       "s": "Boundaries"
+      },
+      {
+       "p": "The first human heart transplant was performed on December 3, 1967, by surgeon Christiaan Barnard at Groote Schuur Hospital in Cape ______ South Africa.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "Town;",
+        "Town:",
+        "Town",
+        "Town,"
+       ],
+       "a": 3,
+       "e": "Standard English separates a city from its country with a comma: \"Cape Town, South Africa.\" A semicolon or colon is never used inside a place name.",
+       "ce": [
+        "A semicolon cannot separate a city from its country.",
+        "A colon cannot separate a city from its country.",
+        "Without a comma, the city and country run together.",
+        "Correct: a comma separates the city from the country."
+       ],
+       "s": "Boundaries"
+      },
+      {
+       "p": "The Egyptian architect Ramses Wissa Wassef, best known for the weaving school he founded in the village of Harrania near Giza, ______ the school's buildings from mud brick and covered many of them with domes.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "built",
+        "building",
+        "to build",
+        "having built"
+       ],
+       "a": 0,
+       "e": "After the extra information between commas, the subject still needs a main verb, and only \"built\" is finite. The other three forms leave the sentence without a main verb.",
+       "ce": [
+        "Correct: the subject \"Ramses Wissa Wassef\" needs a finite main verb.",
+        "An -ing form cannot be the main verb, so the sentence has none.",
+        "An infinitive cannot be the main verb.",
+        "A participle phrase cannot be the main verb."
+       ],
+       "s": "Form, Structure, and Sense"
+      },
+      {
+       "p": "The Wright ______ first powered flight, made near Kitty Hawk, North Carolina, in December 1903, lasted only twelve seconds. Later that same day, the brothers made three more flights, the longest of which lasted 59 seconds.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "brothers'",
+        "brother's",
+        "brothers",
+        "brothers's"
+       ],
+       "a": 0,
+       "e": "The flight belonged to both brothers, so the plural possessive \"brothers'\" is needed. \"Brother's\" refers to only one brother.",
+       "ce": [
+        "Correct: plural possessive — the flight of the two brothers.",
+        "Singular possessive, but there were two brothers.",
+        "Plural with no possession, but the flight belonged to the brothers.",
+        "Not a standard possessive form for a plural ending in -s."
+       ],
+       "s": "Form, Structure, and Sense"
+      },
+      {
+       "p": "Before the invention of the collapsible metal paint tube in 1841, painters ______ their colors by grinding pigments and mixing them with oil in their studios.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "prepare",
+        "will prepare",
+        "have prepared",
+        "prepared"
+       ],
+       "a": 3,
+       "e": "\"Before … 1841\" sets the action in the past, so the simple past \"prepared\" is correct. \"Have prepared\" wrongly connects the action to the present.",
+       "ce": [
+        "Present tense does not fit a description of practice before 1841.",
+        "Future tense does not fit events before 1841.",
+        "Present perfect links the action to now, not to the period before 1841.",
+        "Correct: simple past for a past habit before 1841."
+       ],
+       "s": "Form, Structure, and Sense"
+      },
+      {
+       "p": "Many flowering plants depend on insects to carry pollen from one flower to another. Wheat, ______ usually pollinates itself: each flower is typically fertilized by its own pollen.",
+       "q": "Which choice completes the text with the most logical transition?",
+       "c": [
+        "for example,",
+        "similarly,",
+        "by contrast,",
+        "as a result,"
+       ],
+       "a": 2,
+       "e": "Wheat differs from the insect-dependent plants in the first sentence, so \"by contrast\" fits. \"For example\" fails because wheat does not illustrate the first point; it goes against it.",
+       "ce": [
+        "Wheat is not an example of plants that depend on insects; it is an exception.",
+        "Wheat does the opposite of the plants in the first sentence.",
+        "Correct: wheat pollinates itself, unlike plants that depend on insects.",
+        "Wheat's self-pollination is not caused by other plants' dependence on insects."
+       ],
+       "s": "Transitions"
+      },
+      {
+       "p": "In 1908, the Egyptian University opened in Cairo as a private institution funded largely by donations. ______ in 1925, it became a state university; today it is known as Cairo University.",
+       "q": "Which choice completes the text with the most logical transition?",
+       "c": [
+        "For example,",
+        "Later,",
+        "Similarly,",
+        "Nonetheless,"
+       ],
+       "a": 1,
+       "e": "The two sentences describe events in time order, 1908 and then 1925, so \"Later\" fits. \"Nonetheless\" wrongly suggests a contrast or concession that the text does not set up.",
+       "ce": [
+        "Becoming a state university is not an example of opening as a private one.",
+        "Correct: the sentence moves forward in time from 1908 to 1925.",
+        "Becoming a state university is a change, not something similar.",
+        "Nothing about opening as a private school makes the 1925 change surprising."
+       ],
+       "s": "Transitions"
+      },
+      {
+       "p": "While researching a topic, a student has taken the following notes:\n• Barbara McClintock (1902–1992) was an American geneticist.\n• In the 1940s and 1950s, she found that some genes in maize (corn) can move to new positions on chromosomes.\n• These genes became known as \"jumping genes.\"\n• Many scientists were slow to accept her findings.\n• She received the Nobel Prize in Physiology or Medicine in 1983.",
+       "q": "The student wants to emphasize how long it took for McClintock's discovery to be fully recognized. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+       "c": [
+        "Barbara McClintock found that some genes in maize can move to new positions on chromosomes.",
+        "Barbara McClintock, an American geneticist, received the Nobel Prize in 1983.",
+        "Although Barbara McClintock discovered \"jumping genes\" in maize in the 1940s and 1950s, many scientists were slow to accept her findings, and she did not receive the Nobel Prize for them until 1983.",
+        "Genes that can move to new positions on chromosomes became known as \"jumping genes.\""
+       ],
+       "a": 2,
+       "e": "To show a long wait, the sentence needs both the time of the discovery and the time of recognition; only one choice gives both, along with the slow acceptance. The \"Nobel Prize in 1983\" choice gives the end point only.",
+       "ce": [
+        "This describes the discovery but not the delay in recognition.",
+        "This gives the prize but not when the discovery was made.",
+        "Correct: it links the early discovery to the slow acceptance and the late prize.",
+        "This explains a term and does not mention any delay."
+       ],
+       "s": "Rhetorical Synthesis"
+      },
+      {
+       "p": "While researching a topic, a student has taken the following notes:\n• The Great Mosque of Djenné in Mali is often described as the largest mud-brick building in the world.\n• Its current structure was completed in 1907.\n• Rain during the wet season gradually wears away its mud surface.\n• Every year, residents of Djenné gather to replaster its walls with fresh mud.",
+       "q": "The student wants to explain why the mosque requires regular care from the community. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+       "c": [
+        "The Great Mosque of Djenné, completed in 1907, is often described as the largest mud-brick building in the world.",
+        "The Great Mosque of Djenné is in Mali.",
+        "Because rain during the wet season gradually wears away its mud surface, the Great Mosque of Djenné is replastered with fresh mud by local residents every year.",
+        "Every year, residents of Djenné gather at the Great Mosque."
+       ],
+       "a": 2,
+       "e": "The goal is to explain why care is needed, and only one choice gives the reason: rain erodes the mud. The \"largest mud-brick building\" choice is impressive but explains nothing about care.",
+       "ce": [
+        "This describes the mosque but gives no reason it needs care.",
+        "This gives only the location.",
+        "Correct: it gives the cause (rain wears the mud away) and the community's response.",
+        "This mentions the gathering but not why it is needed."
+       ],
+       "s": "Rhetorical Synthesis"
+      },
+      {
+       "p": "While researching a topic, a student has taken the following notes:\n• Researcher Hossam Lotfy studied the effect of a short afternoon nap on secondary-school students.\n• In the morning, all the students learned the locations of 15 objects on a map.\n• After lunch, half of them took a 20-minute nap; the other half watched a nature film.\n• In a test that evening, the students who had napped remembered more of the locations than those who had watched the film.\n• Lotfy concluded that a short nap may help the brain store newly learned information.",
+       "q": "The student wants to present Lotfy's conclusion along with the finding that supports it. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+       "c": [
+        "Lotfy studied two groups of secondary-school students: after lunch, one group took a 20-minute nap, and the other watched a nature film.",
+        "Because students who took a 20-minute nap remembered more of the map locations that evening than students who watched a film instead, Lotfy concluded that a short nap may help the brain store newly learned information.",
+        "In the morning, the students in Lotfy's study learned the locations of 15 objects on a map.",
+        "Lotfy concluded that a short nap may help the brain store newly learned information."
+       ],
+       "a": 1,
+       "e": "The goal requires both the conclusion and its evidence, and only one choice links them with \"Because.\" The \"Lotfy concluded\" choice states the conclusion alone, without the finding.",
+       "ce": [
+        "This describes the method, with no finding or conclusion.",
+        "Correct: it gives the supporting finding and the conclusion together.",
+        "This describes one step of the study, with no finding or conclusion.",
+        "This gives the conclusion without the finding that supports it."
+       ],
+       "s": "Rhetorical Synthesis"
+      }
+     ]
+    },
+    {
+     "name": "Module 2",
+     "minutes": 32,
+     "questions": [
+      {
+       "p": "The parasitic wasp that farmers release in greenhouses to control whiteflies is barely visible to the naked eye, but its effect on the pests is anything but ______: a few weeks after the wasps are released, whitefly numbers can drop so sharply that farmers no longer need to spray chemical pesticides.",
+       "q": "Which choice completes the text with the most logical and precise word or phrase?",
+       "c": [
+        "negligible",
+        "considerable",
+        "intentional",
+        "harmful"
+       ],
+       "a": 0,
+       "e": "The colon introduces a dramatic effect, so the wasp's impact is \"anything but negligible\" (that is, large). \"Considerable\" reverses the meaning once \"anything but\" is applied.",
+       "ce": [
+        "Correct: \"anything but negligible\" means large, matching the sharp drop in whiteflies.",
+        "\"Anything but considerable\" would mean small, the opposite of a sharp drop in pests.",
+        "The farmers release the wasps on purpose, so \"anything but intentional\" contradicts the text.",
+        "The wasps sharply cut whitefly numbers, so their effect on the pests is harmful; \"anything but harmful\" contradicts the text."
+       ],
+       "s": "Words in Context"
+      },
+      {
+       "p": "Historian Nour Saad argues that histories of the nineteenth-century railway boom have long ______ the role of the laborers who built the lines, celebrating engineers and investors while saying little about the vast numbers of workers who dug cuttings and laid track by hand.",
+       "q": "Which choice completes the text with the most logical and precise word or phrase?",
+       "c": [
+        "exaggerated",
+        "underplayed",
+        "documented",
+        "anticipated"
+       ],
+       "a": 1,
+       "e": "The histories \"say little\" about the workers while celebrating engineers, so they \"underplayed\" the laborers' role. \"Exaggerated\" is the opposite.",
+       "ce": [
+        "Saying little about the workers is the opposite of exaggerating their role.",
+        "Correct: saying little about the workers means treating their role as less important than it was.",
+        "Saad says the histories say little about the workers, so they did not record their role well.",
+        "\"Anticipated\" means expected in advance, which does not fit how histories treat a role."
+       ],
+       "s": "Words in Context"
+      },
+      {
+       "p": "Art teacher Hala Mansour argues that copying the works of master painters, a practice that some educators dismiss as merely ______, can in fact teach students a great deal: by imitating how a painter built up shadows or balanced a composition, students learn to notice decisions they would have missed simply by looking.",
+       "q": "Which choice completes the text with the most logical and precise word or phrase?",
+       "c": [
+        "innovative",
+        "derivative",
+        "rigorous",
+        "lucrative"
+       ],
+       "a": 1,
+       "e": "The educators' complaint about copying would be that it is unoriginal, or \"derivative.\" \"Innovative\" is the opposite of copying and would not be a criticism.",
+       "ce": [
+        "Educators would not dismiss copying for being original; copying is the opposite.",
+        "Correct: critics would dismiss copying as unoriginal, which is what \"derivative\" means.",
+        "Being rigorous is a strength, not a reason to dismiss a practice.",
+        "Money is never discussed in the text."
+       ],
+       "s": "Words in Context"
+      },
+      {
+       "p": "In the 1930s, psychologist Frederic Bartlett showed that memories are not exact recordings of the past. When people retold an unfamiliar folk tale, they tended to ______ it, dropping details that seemed strange to them and reshaping events to fit their own expectations.",
+       "q": "Which choice completes the text with the most logical and precise word or phrase?",
+       "c": [
+        "preserve",
+        "fabricate",
+        "rework",
+        "abandon"
+       ],
+       "a": 2,
+       "e": "The retellers changed the tale by dropping and reshaping parts, so \"rework\" fits. \"Fabricate\" goes too far, because the people were changing an existing story, not inventing one.",
+       "ce": [
+        "Dropping and reshaping details is the opposite of preserving the tale.",
+        "To fabricate is to invent from nothing, but the people were retelling a real tale.",
+        "Correct: dropping details and reshaping events means changing, or reworking, the story.",
+        "The people still retold the tale; they did not give it up."
+       ],
+       "s": "Words in Context"
+      },
+      {
+       "p": "Viewers used to paintings that show a scene as it appears from a single position were often baffled by the Cubist works that Pablo Picasso and Georges Braque produced in the years before the First World War. In these paintings, a violin might appear broken into angular planes, with its scroll seen from the side and its body seen from the front at the same moment. Yet the painters' aim was not to distort reality but to represent it more fully, showing several views of an object at once, as a viewer might know it after walking all the way around it.",
+       "q": "Which choice best describes the overall structure of the text?",
+       "c": [
+        "It explains the goal of an art style and then describes how later painters rejected that goal.",
+        "It compares the work of two painters and argues that one was more original.",
+        "It describes a technique for painting violins and lists its disadvantages.",
+        "It describes a common reaction to a style of painting, gives an example of the style, and then explains the aim behind it."
+       ],
+       "a": 3,
+       "e": "The text moves from viewers' confusion, to a typical Cubist violin, to what the painters were really trying to do. The \"later painters rejected\" choice invents a part of the text that does not exist.",
+       "ce": [
+        "Later painters are never mentioned, and the goal comes at the end, not the start.",
+        "Picasso and Braque are discussed together, not compared.",
+        "The violin is an example of the style, and no disadvantages are listed.",
+        "Correct: viewers were baffled → the violin example → the aim of showing several views."
+       ],
+       "s": "Text Structure and Purpose"
+      },
+      {
+       "p": "Mosquitoes find people to bite partly by detecting the carbon dioxide in exhaled breath. __Yet carbon dioxide alone cannot explain why mosquitoes bite some people far more often than others, since everyone exhales it.__ Researchers have found that the mixture of chemicals produced by bacteria on the skin differs from person to person and may make some people especially attractive to mosquitoes.",
+       "q": "Which choice best describes the function of the underlined sentence in the text as a whole?",
+       "c": [
+        "It points out a limitation of the explanation in the previous sentence, setting up the research described next.",
+        "It provides evidence that carbon dioxide is the main signal that mosquitoes use.",
+        "It explains why bacteria on the skin differ from person to person.",
+        "It describes how researchers measured the carbon dioxide in people's breath."
+       ],
+       "a": 0,
+       "e": "\"Yet\" shows that carbon dioxide cannot explain why some people are bitten more, and the next sentence offers the skin-bacteria explanation. The \"main signal\" choice reverses the sentence's doubting role.",
+       "ce": [
+        "Correct: it shows a gap in the carbon dioxide explanation that the skin-bacteria research then addresses.",
+        "It points out what carbon dioxide cannot explain, rather than supporting it.",
+        "The sentence is about carbon dioxide; the bacteria are introduced only afterward.",
+        "No measurement is described."
+       ],
+       "s": "Text Structure and Purpose"
+      },
+      {
+       "p": "Text 1\nConservator Rasha Nabil argues that museums should remove the darkened varnish from old paintings. Varnish yellows with age, she notes, so a painting under old varnish shows colors the artist never intended. Cleaning lets viewers see the work as it first looked.\n\nText 2\nConservator Peter Haldane agrees that yellowed varnish changes a painting's colors. But some painters of the past applied thin, tinted layers of paint, called glazes, on top of their finished work, and these can be hard to tell apart from later varnish. Before any cleaning, Haldane insists, conservators must analyze the painting's layers so that they do not remove part of the artist's own work along with the varnish.",
+       "q": "Based on the texts, how would Haldane (Text 2) most likely respond to Nabil's argument (Text 1)?",
+       "c": [
+        "By rejecting her claim that varnish yellows with age",
+        "By accepting that yellowed varnish changes a painting's colors but warning that cleaning without careful analysis could remove the artist's own glazes",
+        "By arguing that old paintings should never be cleaned",
+        "By claiming that viewers prefer the look of paintings under old varnish"
+       ],
+       "a": 1,
+       "e": "Haldane accepts Nabil's point about yellowed varnish but adds that glazes may be lost unless the layers are analyzed first. \"Never be cleaned\" is too extreme, since he only sets a condition on cleaning.",
+       "ce": [
+        "Haldane explicitly agrees that yellowed varnish changes the colors.",
+        "Correct: he agrees with her starting point but adds a condition.",
+        "Too extreme: he asks for analysis before cleaning, not a ban on cleaning.",
+        "Viewers' preferences are never mentioned."
+       ],
+       "s": "Cross-Text Connections"
+      },
+      {
+       "p": "Between 1853 and 1870, under the direction of Baron Georges-Eugène Haussmann, much of central Paris was demolished and rebuilt. Narrow medieval streets gave way to broad, straight boulevards lined with apartment buildings of matching height, and new sewers and water pipes were laid beneath them. The changes made the city healthier and easier to cross, but they also forced many poorer residents, who could not afford rents in the new buildings, to move to the edges of the city.",
+       "q": "Which choice best states the main idea of the text?",
+       "c": [
+        "Haussmann's main goal in rebuilding Paris was to push poorer residents out of the city center.",
+        "The rebuilding of Paris under Haussmann improved the city in important ways but also had costs for its poorer residents.",
+        "The new boulevards of Paris were designed mainly to hide the city's new sewers.",
+        "The medieval streets of Paris were healthier than the boulevards that replaced them."
+       ],
+       "a": 1,
+       "e": "The text balances benefits (health, easier movement) against a cost (poorer residents pushed out). The \"main goal\" choice turns an effect into a motive the text never states.",
+       "ce": [
+        "The text describes this as an effect, not as Haussmann's goal.",
+        "Correct: the text gives both the benefits and the cost to poorer residents.",
+        "The sewers were laid beneath the boulevards, but nothing says hiding them was the aim.",
+        "Reversed: the changes made the city healthier."
+       ],
+       "s": "Central Ideas and Details"
+      },
+      {
+       "p": "Psychologist Yasmin Ezz hypothesizes that young children are more likely to share rewards with a peer after working together with that peer to earn them than after earning the same rewards while working side by side but separately.",
+       "q": "Which finding, if true, would most directly support Ezz's hypothesis?",
+       "c": [
+        "Children who had pulled a single rope together with a partner to get stickers shared more of them with that partner than children who got the same stickers by pulling separate ropes beside a partner.",
+        "Children shared more stickers with peers they already knew than with peers they had just met.",
+        "Older children shared more stickers than younger children, however they had earned them.",
+        "Children who worked alone shared just as many stickers as children who worked with a partner."
+       ],
+       "a": 0,
+       "e": "The rope experiment changes only whether the children cooperated, and sharing rose with cooperation, as Ezz predicts. The \"worked alone\" finding points the other way.",
+       "ce": [
+        "Correct: cooperation is the only difference, and sharing increased with it.",
+        "This is about familiarity, not about working together.",
+        "This is about age, and \"however they had earned them\" ignores the hypothesis.",
+        "This would weaken, not support, the idea that working together increases sharing."
+       ],
+       "s": "Command of Evidence — Textual"
+      },
+      {
+       "p": "In an original letter written in the style of the early twentieth century, a nurse working in a field hospital writes to her mother. In the letter, the nurse suggests that she has become more confident in her work.",
+       "q": "Which quotation from the letter most effectively illustrates this suggestion?",
+       "c": [
+        "\"A month ago I trembled at every new arrival; now I find my hands go to their work before my thoughts have caught up with them.\"",
+        "\"The doctors here are kind, though I do not think they have sat down once this week.\"",
+        "\"We had rain again all week, and the tents are dreadfully damp.\"",
+        "\"I think often of our garden and wonder whether the roses have come out yet.\""
+       ],
+       "a": 0,
+       "e": "Growing confidence needs a change over time, and only the quotation contrasting \"a month ago I trembled\" with \"now\" shows it. The other quotations describe other people, the weather or home.",
+       "ce": [
+        "Correct: it contrasts her earlier fear with her present sure, practiced skill.",
+        "This describes the doctors, not the nurse's own confidence.",
+        "This describes the weather and conditions.",
+        "This shows homesickness, not growing confidence."
+       ],
+       "s": "Command of Evidence — Textual"
+      },
+      {
+       "p": "Average toe-pad area of lizards on two islands\nIsland | Before hurricane (mm²) | After hurricane (mm²)\nIsland A | 1.20 | 1.32\nIsland B | 1.18 | 1.31\n\nBiologist Leila Assaad measured lizards on two islands shortly before a major hurricane and measured the survivors after it. She found that on both islands, the survivors had larger toe pads, on average, than the populations had before the storm. For example, ______",
+       "q": "Which choice most effectively uses data from the table to complete the example?",
+       "c": [
+        "before the hurricane, lizards on Island A had slightly larger toe pads than lizards on Island B.",
+        "after the hurricane, average toe-pad area on Island A was 1.32 square millimeters.",
+        "average toe-pad area on Island B rose from 1.18 to 1.31 square millimeters.",
+        "on Island A, average toe-pad area rose from 1.20 to 1.32 square millimeters, and on Island B it rose from 1.18 to 1.31 square millimeters."
+       ],
+       "a": 3,
+       "e": "The finding says the increase happened \"on both islands,\" so the example must give before-and-after figures for both. The Island B choice is accurate but covers only half the claim.",
+       "ce": [
+        "This compares the islands before the storm and shows no change.",
+        "One figure cannot show an increase.",
+        "This shows the increase on one island only, but the claim is about both.",
+        "Correct: it shows the increase on both islands, as the claim states."
+       ],
+       "s": "Command of Evidence — Quantitative"
+      },
+      {
+       "p": "Adult literacy rates in Country T, by age group\nAge group | 1960 (%) | 1990 (%)\n15–24 | 40 | 85\n25–44 | 30 | 65\n45 and older | 15 | 35\n\nA historian argues that the expansion of primary schooling in Country T after 1950 is most visible in the literacy of young adults, since they were the group most likely to have spent all their primary-school years after the expansion. ______",
+       "q": "Which choice most effectively uses data from the table to support the historian's argument?",
+       "c": [
+        "In 1990, 85% of people aged 15–24 in Country T could read and write.",
+        "In 1960, the literacy rate was lowest among people aged 45 and older.",
+        "Between 1960 and 1990, the literacy rate rose by 45 percentage points among people aged 15–24 but by only 20 points among people aged 45 and older.",
+        "Between 1960 and 1990, the literacy rate among people aged 25–44 rose from 30% to 65%."
+       ],
+       "a": 2,
+       "e": "\"Most visible in young adults\" needs a comparison of gains, and only one choice compares the youngest group's rise (+45) with the oldest group's (+20). The \"85% in 1990\" choice shows no change or comparison.",
+       "ce": [
+        "This gives one figure, with no change over time and no comparison with older groups.",
+        "This describes 1960 only and says nothing about change after the expansion.",
+        "Correct: the young group's gain was much larger, showing the effect is most visible there.",
+        "This gives one group only, so it cannot show where the effect was most visible."
+       ],
+       "s": "Command of Evidence — Quantitative"
+      },
+      {
+       "p": "The seeds of many desert plants contain chemicals that prevent them from sprouting. A light shower does not wash these chemicals away; only a heavy, soaking rain removes enough of them for the seeds to germinate. A light shower also does not leave enough water in the soil for a young plant to grow to maturity. This mechanism therefore most likely ______",
+       "q": "Which choice most logically completes the text?",
+       "c": [
+        "prevents seeds from germinating when there is too little water for the young plants to survive.",
+        "allows seeds to germinate after any amount of rain.",
+        "protects seeds from being eaten by desert animals.",
+        "causes desert plants to produce more seeds in wet years than in dry years."
+       ],
+       "a": 0,
+       "e": "The chemicals hold seeds back during light showers, which would not provide enough water for a plant to mature, so the mechanism keeps seeds from sprouting in conditions they could not survive. The \"any amount of rain\" choice reverses the text.",
+       "ce": [
+        "Correct: seeds sprout only after rain heavy enough to support the young plants.",
+        "Reversed: light showers do not remove the chemicals, so the seeds stay dormant.",
+        "Animals are never mentioned.",
+        "The text is about when seeds sprout, not how many seeds plants produce."
+       ],
+       "s": "Inferences"
+      },
+      {
+       "p": "An X-ray examination of a portrait of a merchant revealed a second, unfinished portrait of a young woman beneath it, painted on the same canvas. Analysis showed that both portraits were made with paints the artist is known to have bought from the same supplier in the same year. Because canvas was expensive and the artist's account books show that he was deeply in debt that year, curators conclude that ______",
+       "q": "Which choice most logically completes the text?",
+       "c": [
+        "the young woman in the hidden portrait was the merchant's wife.",
+        "the artist most likely reused the canvas of an abandoned portrait in order to save money.",
+        "the merchant asked the artist to paint over the young woman's portrait.",
+        "the hidden portrait was painted by a different artist many years earlier."
+       ],
+       "a": 1,
+       "e": "The clues (costly canvas, the artist's debt, and paints from the same year) all point to the artist reusing an abandoned canvas to save money. The \"different artist many years earlier\" choice is ruled out by the paint evidence.",
+       "ce": [
+        "Nothing identifies the woman or links her to the merchant.",
+        "Correct: expensive canvas, debt and the same year's paints all point to reuse to save money.",
+        "The text gives no sign of the merchant's wishes.",
+        "Both portraits used paints bought in the same year, which argues against this."
+       ],
+       "s": "Inferences"
+      },
+      {
+       "p": "The polio vaccine developed by Jonas ______ tested in 1954 in a field trial involving more than a million American schoolchildren, was announced as safe and effective in April 1955.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "Salk—",
+        "Salk;",
+        "Salk,",
+        "Salk"
+       ],
+       "a": 2,
+       "e": "\"Tested in 1954 in a field trial …\" is extra information placed between the subject and its verb, so it needs commas on both sides. Without the comma after \"Salk,\" the closing comma has no partner.",
+       "ce": [
+        "Mismatched pair: extra information opened with a dash cannot be closed by the comma after \"schoolchildren\".",
+        "A semicolon would separate the subject \"The polio vaccine\" from its verb \"was announced\".",
+        "Correct: the comma opens the extra information that the comma after \"schoolchildren\" closes.",
+        "Without a comma, the extra information has no opening mark to match the closing comma after \"schoolchildren\"."
+       ],
+       "s": "Boundaries"
+      },
+      {
+       "p": "Le Corbusier's Villa Savoye, completed outside Paris in 1931, displays all five principles of architecture that he had published a few years ______ columns that raise the building off the ground, a roof garden, an open floor plan, long horizontal windows, and outer walls that carry no structural load.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "earlier;",
+        "earlier",
+        "earlier:",
+        "earlier, these were"
+       ],
+       "a": 2,
+       "e": "The first part is a complete sentence that announces \"five principles,\" and the list that follows names them, so a colon is correct. A semicolon cannot introduce a list.",
+       "ce": [
+        "A semicolon must join two complete sentences, and the list that follows is not one.",
+        "With no punctuation, the list runs straight into \"earlier\".",
+        "Correct: a colon after a complete sentence introduces the list of the five principles.",
+        "This creates a comma splice: two complete sentences joined only by a comma."
+       ],
+       "s": "Boundaries"
+      },
+      {
+       "p": "Swiss psychologist Jean Piaget built much of his early theory of child development on close observation of his own three ______ he recorded, for example, how each child as a baby searched, or failed to search, for a toy hidden under a blanket.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "children,",
+        "children",
+        "children who",
+        "children;"
+       ],
+       "a": 3,
+       "e": "Both parts are complete sentences, so a semicolon is needed. A comma alone creates a comma splice, which is the most common trap.",
+       "ce": [
+        "Comma splice: \"he recorded…\" is a complete sentence.",
+        "Run-on: two complete sentences are fused.",
+        "\"Who he recorded, for example, how…\" is ungrammatical.",
+        "Correct: a semicolon joins the two complete sentences."
+       ],
+       "s": "Boundaries"
+      },
+      {
+       "p": "The kakapo, a heavy, flightless parrot found in the wild only in New ______ feeds mainly at night and can live for several decades.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "Zealand,",
+        "Zealand",
+        "Zealand;",
+        "Zealand—"
+       ],
+       "a": 0,
+       "e": "\"A heavy, flightless parrot found in the wild only in New Zealand\" is extra information about the kakapo that opens with a comma, so it must close with a comma before the verb \"feeds.\" A dash does not match the opening comma.",
+       "ce": [
+        "Correct: the comma closes the extra information opened by the comma after \"kakapo\".",
+        "The opening comma after \"kakapo\" needs a matching closing comma before the verb \"feeds\".",
+        "A semicolon would separate the subject \"The kakapo\" from its verb \"feeds\".",
+        "Mismatched pair: extra information opened with a comma cannot close with a dash."
+       ],
+       "s": "Boundaries"
+      },
+      {
+       "p": "A growing number of hospitals ______ music therapy to help patients manage pain and anxiety after surgery. The sessions are usually led by trained therapists, who choose the music together with each patient.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "now offers",
+        "has offered",
+        "is offering",
+        "now offer"
+       ],
+       "a": 3,
+       "e": "\"A number of hospitals\" means many hospitals, so it takes the plural verb \"offer.\" (\"The number of\" would be singular.) The singular choices treat \"number\" as the subject.",
+       "ce": [
+        "Singular verb, but \"a number of hospitals\" is plural.",
+        "Singular verb, so it does not agree with the plural subject.",
+        "Singular verb, so it does not agree with \"a number of hospitals\".",
+        "Correct: \"a number of\" + plural noun takes a plural verb."
+       ],
+       "s": "Form, Structure, and Sense"
+      },
+      {
+       "p": "Mexican painter Frida Kahlo, who was badly injured in a bus accident at the age of eighteen, painted many of ______ early self-portraits while recovering in bed, using a mirror fixed above her.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "their",
+        "its",
+        "her",
+        "hers"
+       ],
+       "a": 2,
+       "e": "The self-portraits belong to Kahlo, one woman, so the possessive before the noun is \"her.\" \"Hers\" is a possessive pronoun that cannot be placed before a noun.",
+       "ce": [
+        "Plural, but the antecedent is one person, Kahlo.",
+        "\"Its\" refers to a thing, not a person.",
+        "Correct: singular possessive referring to Frida Kahlo.",
+        "\"Hers\" stands alone and cannot come before a noun."
+       ],
+       "s": "Form, Structure, and Sense"
+      },
+      {
+       "p": "The architects who designed the hospital's new wing, hoping to speed patients' recovery, ______ every room so that its bed faced a window with a view of trees.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "positioning",
+        "having positioned",
+        "positioned",
+        "to position"
+       ],
+       "a": 2,
+       "e": "The subject \"The architects\" is followed by two descriptive phrases but still needs a main verb, and only \"positioned\" is finite. \"Hoping\" in the sentence is a participle, which may make another -ing form look right.",
+       "ce": [
+        "An -ing form cannot be the main verb of the sentence.",
+        "A participle phrase cannot be the main verb.",
+        "Correct: the subject \"The architects\" needs a finite main verb.",
+        "An infinitive cannot be the main verb."
+       ],
+       "s": "Form, Structure, and Sense"
+      },
+      {
+       "p": "Many of Vincent van Gogh's best-known works date from the last two years of his life. Painted in 1889 while the artist was staying at a hospital in Saint-Rémy, in southern France, ______",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "Vincent van Gogh showed a swirling night sky above a quiet village in The Starry Night.",
+        "there is a swirling night sky above a quiet village in The Starry Night.",
+        "viewers of The Starry Night see a swirling night sky above a quiet village.",
+        "The Starry Night shows a swirling night sky above a quiet village."
+       ],
+       "a": 3,
+       "e": "\"Painted in 1889…\" must describe the painting, so The Starry Night must be the subject that follows. \"Vincent van Gogh showed…\" is the tempting trap, but it says the artist was painted.",
+       "ce": [
+        "Dangling modifier: van Gogh himself was not painted in 1889.",
+        "Dangling modifier: \"there\" is not something that was painted.",
+        "Dangling modifier: the viewers were not painted in 1889.",
+        "Correct: the painting, the thing that was painted, comes right after the modifier."
+       ],
+       "s": "Form, Structure, and Sense"
+      },
+      {
+       "p": "For centuries, scurvy killed huge numbers of sailors on long voyages. In 1747, naval surgeon James Lind found that sailors with scurvy who were given citrus fruit recovered quickly. ______ it was nearly fifty years before the British navy began giving its sailors regular rations of lemon juice.",
+       "q": "Which choice completes the text with the most logical transition?",
+       "c": [
+        "As a result,",
+        "Likewise,",
+        "Even so,",
+        "In short,"
+       ],
+       "a": 2,
+       "e": "Lind's result should have led to quick action, yet the navy waited nearly fifty years, so \"Even so\" marks the surprising contrast. \"As a result\" wrongly makes the delay a consequence of the discovery.",
+       "ce": [
+        "The fifty-year delay was not caused by Lind's discovery.",
+        "The delay is not similar to the discovery; it contrasts with it.",
+        "Correct: despite Lind's clear result, the navy took nearly fifty years to act.",
+        "The last sentence adds a surprising fact; it does not summarize."
+       ],
+       "s": "Transitions"
+      },
+      {
+       "p": "Psychologists distinguish between two kinds of motivation. Intrinsic motivation comes from enjoying an activity for its own sake; extrinsic motivation comes from outside rewards such as grades or prizes. In one study, children who were promised a prize for drawing later spent less of their free time drawing than children who had not been promised one. ______ an outside reward can sometimes weaken the very interest it is meant to encourage.",
+       "q": "Which choice completes the text with the most logical transition?",
+       "c": [
+        "Nevertheless,",
+        "In other words,",
+        "For instance,",
+        "In contrast,"
+       ],
+       "a": 1,
+       "e": "The final sentence puts the study's result into general terms, so \"In other words\" fits. \"For instance\" reverses the relationship: the study is the example, and the last sentence is the general idea.",
+       "ce": [
+        "The last sentence agrees with the study; nothing is conceded.",
+        "Correct: the last sentence restates the study's result as a general idea.",
+        "The last sentence is a general statement, not an example.",
+        "The last sentence explains the study rather than contrasting with it."
+       ],
+       "s": "Transitions"
+      },
+      {
+       "p": "While researching a topic, a student has taken the following notes:\n• Rachel Carson was an American marine biologist and writer.\n• Her book Silent Spring was published in 1962.\n• It described the harm that pesticides such as DDT caused to birds and other wildlife.\n• The book reached a wide public audience.\n• Historians credit it with helping to bring about a 1972 ban on most uses of DDT in the United States.",
+       "q": "The student wants to emphasize the influence of Silent Spring. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+       "c": [
+        "Rachel Carson, an American marine biologist and writer, published Silent Spring in 1962.",
+        "Silent Spring described the harm that pesticides such as DDT caused to birds and other wildlife.",
+        "Rachel Carson's Silent Spring (1962) reached a wide audience and is credited with helping to bring about a 1972 ban on most uses of DDT in the United States.",
+        "Most uses of DDT were banned in the United States in 1972."
+       ],
+       "a": 2,
+       "e": "Influence means effect on the world, and only one choice links the book to its wide audience and to the 1972 ban. The \"ban in 1972\" choice states the event but leaves the book out.",
+       "ce": [
+        "This identifies the book but says nothing about its influence.",
+        "This gives the book's content, not its effect.",
+        "Correct: it shows the book's reach and its effect on law.",
+        "This gives the ban but does not connect it to the book."
+       ],
+       "s": "Rhetorical Synthesis"
+      },
+      {
+       "p": "While researching a topic, a student has taken the following notes:\n• The Reggio Emilia approach to early childhood education began in Italy after the Second World War.\n• In this approach, projects grow out of the children's own questions and interests.\n• The Waldorf approach was founded by Rudolf Steiner in Germany in 1919.\n• In this approach, teachers follow a set sequence of activities matched to stages of childhood.",
+       "q": "The student wants to contrast how the two approaches plan children's learning activities. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+       "c": [
+        "The Reggio Emilia approach began in Italy after the Second World War, while the Waldorf approach began in Germany in 1919.",
+        "The Waldorf approach was founded by Rudolf Steiner in Germany in 1919.",
+        "Whereas the Reggio Emilia approach builds projects from children's own questions and interests, the Waldorf approach follows a set sequence of activities matched to stages of childhood.",
+        "In the Reggio Emilia approach, projects grow out of the children's own questions and interests."
+       ],
+       "a": 2,
+       "e": "The goal is a contrast about planning, and only one choice sets the child-led projects against the fixed sequence. The \"Italy … Germany\" choice is a contrast, but about origins, not planning.",
+       "ce": [
+        "This contrasts origins, not how activities are planned.",
+        "This covers one approach only and says nothing about planning.",
+        "Correct: it contrasts the two ways of planning activities.",
+        "This describes one approach's planning but makes no contrast."
+       ],
+       "s": "Rhetorical Synthesis"
+      },
+      {
+       "p": "While researching a topic, a student has taken the following notes:\n• The Great Wave off Kanagawa is a print by the Japanese artist Katsushika Hokusai.\n• It was made around 1831.\n• It was printed from carved wooden blocks, a method that allowed thousands of copies to be made.\n• The copies were sold cheaply in Edo (now Tokyo).\n• Later in the nineteenth century, Japanese prints influenced European artists such as Claude Monet and Vincent van Gogh.",
+       "q": "The student wants to explain why The Great Wave off Kanagawa reached so many people in Japan. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+       "c": [
+        "Because it was printed from carved wooden blocks, a method that allowed thousands of copies to be sold cheaply, Hokusai's The Great Wave off Kanagawa (around 1831) reached a wide audience in Edo.",
+        "Japanese prints influenced European artists such as Claude Monet and Vincent van Gogh later in the nineteenth century.",
+        "The Great Wave off Kanagawa is a print made around 1831 by the Japanese artist Katsushika Hokusai.",
+        "Edo is the former name of the city now called Tokyo."
+       ],
+       "a": 0,
+       "e": "The goal asks why the print reached many people, and only one choice gives the cause: woodblock printing made thousands of cheap copies. The \"influenced European artists\" choice is about a different audience and a later time.",
+       "ce": [
+        "Correct: it gives the reason — many cheap copies — and the result.",
+        "This is about influence in Europe, not why the print reached many people in Japan.",
+        "This identifies the print but gives no reason for its reach.",
+        "This explains a place name only."
+       ],
+       "s": "Rhetorical Synthesis"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "After the test",
+   "items": [
+    "**Read the reason for every choice**, including the questions you got right: check that you chose the answer for the right reason, not by luck.",
+    "**List your weak skills.** Use your score by skill and write down every skill where you lost two or more questions, plus the trap that caught you (reversed, too extreme, half-right, off-topic, nearest-noun, comma splice…). The \"Study these again\" links take you straight to the lessons.",
+    "**Reading skills:** Words in Context and High-Value Vocabulary for SAT Reading and Writing; Text Structure and Purpose; Cross-Text Connections; Central Ideas and Details; Command of Evidence: Textual; Command of Evidence: Quantitative; Inferences.",
+    "**Grammar skills:** Sentence Boundaries; Extra Information: Commas, Dashes and Brackets in Pairs; Semicolons: Joining Two Complete Sentences; Colons: After a Complete Sentence; Subject–Verb Agreement; Pronoun–Antecedent Agreement, Clarity and Consistency; Verb Tense and Aspect; Verb Finiteness: Gerunds, Participles and Infinitives; Dangling and Misplaced Modifiers; Plurals and Possessives. **Writing skills:** Transitions; Rhetorical Synthesis (Student Notes).",
+    "**Redo every question you missed** after the lesson and its practice page, without looking at the reasons, and say aloud why each wrong choice is wrong. Then move on to the next full practice test under the same timed conditions."
+   ]
+  }
+ ]
+}

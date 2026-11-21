@@ -175,7 +175,7 @@
        "e": "\"Whose capital was Constantinople\" is extra information placed between the subject \"Justinian\" and the verb \"wanted\", and it opens with a comma, so it must close with a comma. The dash version is the main trap: a pair of dashes would be fine, but the comma already after \"Justinian\" means the marks would not match.",
        "ce": [
         "The extra information opens with a comma after \"Justinian\" but has no closing comma before \"wanted\".",
-        "The extra information must open and close with the same mark; here a comma opens it and a dash closes it.",
+        "The comma after \"Justinian\" is not underlined, so this choice puts a comma and a dash together at the start and leaves the marks around the extra information unmatched.",
         "A semicolon cannot close extra information, and it splits the subject from its verb.",
         "The second comma closes the extra information, matching the comma after \"Justinian\"."
        ],
@@ -248,7 +248,7 @@
         "has been"
        ],
        "a": 2,
-       "e": "Ignore the extra information between the commas: \"The skills … were still admired.\" The trap is \"was\", which seems to agree with the nearby nouns \"weavers\" or \"complexity\", but the true subject is \"skills\".",
+       "e": "Ignore the extra information between the commas: \"The skills … were still admired.\" The trap is \"was\", which seems to agree with the nearby singular noun \"complexity\", but the true subject is \"skills\".",
        "ce": [
         "The subject is \"skills\", which is plural, so the singular \"was\" does not agree.",
         "\"Is\" is singular and present, so it does not agree with \"skills\" or fit the past-tense sentence.",
@@ -514,7 +514,7 @@
         "but it solves"
        ],
        "a": 3,
-       "e": "\", but it solves\" is the standard way to join two complete sentences: comma, then the joining word, then the second sentence. The original adds an unnecessary comma after \"but\"; dropping \"but\" creates a comma splice; and the last choice splits subject from verb.",
+       "e": "\", but it solves\" is the standard way to join two complete sentences: comma, then the joining word, then the second sentence. The original adds an unnecessary comma after \"but\"; dropping \"but\" creates a comma splice; and \"but it, solves\" splits the subject from its verb.",
        "ce": [
         "There should be no comma after \"but\" when it simply joins two clauses.",
         "Without \"but\", two complete sentences are joined only by a comma, which is a comma splice.",
@@ -1090,7 +1090,7 @@
         "\"Hajj Saber was the oldest man on their side of the village\""
        ],
        "a": 2,
-       "e": "The thought of his father's hand and the waiting cotton comes immediately before Karim speaks and explains his motive. The first quotation explains the difficulty, and the others describe what happens afterwards.",
+       "e": "The thought of his father's hand and the waiting cotton comes immediately before Karim speaks and explains his motive. The quotation about Hajj Saber's age explains why speaking is difficult, and the other two describe what happens once Karim has begun to speak.",
        "ce": [
         "This shows his nervousness while speaking, not his reason for speaking.",
         "This describes the Hajj's reaction, after Karim has already spoken.",
@@ -1151,7 +1151,7 @@
        "ce": [
         "The passage covers the procedure, the purpose, its misuse, the evidence of ostraka and its end.",
         "The author calls the system \"imperfect\" and shows how it was misused, so this is too positive.",
-        "Modern elections are mentioned only briefly; no detailed comparison is made.",
+        "Modern elections are never described; the last paragraph only says the problem Athens faced still matters.",
         "Aristides appears in only one anecdote."
        ],
        "s": "Main idea"
@@ -1223,7 +1223,7 @@
         "reward successful generals with a period of rest."
        ],
        "a": 0,
-       "e": "The paragraph says the purpose was \"less to punish than to prevent\", explaining the Athenians' fear of a new tyrant. The first choice is the main trap, but the paragraph rules out punishment for a crime directly.",
+       "e": "The paragraph says the purpose was \"less to punish than to prevent\", explaining the Athenians' fear of a new tyrant. The \"punish citizens\" choice is the main trap, but the paragraph rules out punishment for a crime directly.",
        "ce": [
         "The paragraph links ostracism to the fear that an ambitious man might \"seize the city again\".",
         "The exiled man kept his property.",
@@ -1394,7 +1394,7 @@
         "To capture more sunlight than panels on the ground"
        ],
        "a": 2,
-       "e": "The passage states the reason directly: the frames were tall enough for workers and machines to pass under. The plots got different shade on purpose, so the last choice contradicts the text.",
+       "e": "The passage states the reason directly: the frames were tall enough for workers and machines to pass under. The plots got different shade on purpose, so the \"same amount of shade\" choice contradicts the text.",
        "ce": [
         "The plots were designed to receive different amounts of shade.",
         "The height is not linked to the watering system.",
@@ -1470,7 +1470,7 @@
         "The tomatoes under the panels were smaller."
        ],
        "a": 0,
-       "e": "Paragraph [4] explains that \"the shaded soil lost less moisture to evaporation\". The drip system was the same for all plots and only recorded use, so the first choice misreads paragraph [3].",
+       "e": "Paragraph [4] explains that \"the shaded soil lost less moisture to evaporation\". The drip system was the same for all plots and only recorded use, so the \"less water on purpose\" choice misreads paragraph [3].",
        "ce": [
         "The paragraph gives this exact reason.",
         "Rain is not mentioned at all.",
@@ -1603,7 +1603,7 @@
         "Village shops lower their prices."
        ],
        "a": 0,
-       "e": "Text 1, paragraph [2], states this directly. The second and fourth choices are points from Text 2, a common trap in paired passages.",
+       "e": "Text 1, paragraph [2], states this directly. The water-supply and fruits-and-vegetables choices are points from Text 2, a common trap in paired passages.",
        "ce": [
         "Paragraph [2] says \"those jobs move abroad, and young people leave the countryside\".",
         "This is Text 2's argument, not Text 1's.",
@@ -1622,7 +1622,7 @@
         "rely on a single trusted supplier for its grain."
        ],
        "a": 0,
-       "e": "Text 2 argues for growing what the land does best and trading for the rest, with safeguards such as many suppliers and reserves. The first choice is too extreme, and the last contradicts the text.",
+       "e": "Text 2 argues for growing what the land does best and trading for the rest, with safeguards such as many suppliers and reserves. The \"stop growing food altogether\" choice is too extreme, and the \"single supplier\" choice contradicts the text.",
        "ce": [
         "This includes both the main strategy (paragraphs [1]–[2]) and the safeguards (paragraph [3]).",
         "This is closer to Text 1's view; Text 2 recommends buying grain.",
@@ -1660,7 +1660,7 @@
         "\"None of this means ignoring the risks of trade.\""
        ],
        "a": 3,
-       "e": "Only the sentence opening paragraph [3] admits that trade is risky. The last choice is the closest trap: it shows understanding of the opposing view, but it does not mention any risk of trade.",
+       "e": "Only the sentence opening paragraph [3] admits that trade is risky. The \"dream of growing everything at home\" quotation is the closest trap: it shows understanding of the opposing view, but it does not mention any risk of trade.",
        "ce": [
         "This is a benefit of the strategy, not a risk.",
         "This is about water, not about risks of trade.",
@@ -1741,7 +1741,7 @@
         "The passage says he was \"probably not the first person to make it\".",
         "The author shows paper's great advantage of cost and its role in printing.",
         "The essay calls paper the \"least noticed\" invention and traces how it made writing cheaper everywhere it went.",
-        "The author says only \"Perhaps it is\" ending and then calls the screen paper's descendant."
+        "The author says only \"Perhaps it is\" about paper's reign ending, and then calls the screen paper's descendant."
        ],
        "s": "Main idea"
       },
@@ -1869,7 +1869,7 @@
         "Parchment was thought to last longer."
        ],
        "a": 3,
-       "e": "Europeans believed parchment was more durable, so they doubted paper at first. The first choice reverses the text: cost was paper's great advantage.",
+       "e": "Europeans believed parchment was more durable, so they doubted paper at first. The \"more expensive than parchment\" choice reverses the text: cost was paper's great advantage.",
        "ce": [
         "Parchment, not paper, was made from animal skin.",
         "Printing depended on paper.",
