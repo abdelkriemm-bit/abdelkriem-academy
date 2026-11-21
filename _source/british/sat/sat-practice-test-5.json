@@ -1,0 +1,1115 @@
+{
+ "slug": "sat-practice-test-5",
+ "nav": "Practice Test 5",
+ "title": "Digital SAT Reading and Writing — Practice Test 5",
+ "kicker": "American Diploma · Digital SAT · Full practice tests",
+ "summary": "A full, timed Reading and Writing section in Digital SAT format: two 32-minute modules of 27 original questions, with a reason for every answer choice and your score by skill.",
+ "blocks": [
+  {
+   "type": "h2",
+   "text": "Before you start"
+  },
+  {
+   "type": "p",
+   "text": "This is a complete Reading and Writing section in the format of the Digital SAT: **two modules of 27 questions, 32 minutes each (54 questions, 64 minutes)**. Every question has one short passage (or a pair of short passages) and four choices. Inside each module the questions come in the usual order: Craft and Structure, then Information and Ideas, then Standard English Conventions, and Expression of Ideas last. All passages and questions were written for this course."
+  },
+  {
+   "type": "list",
+   "ordered": true,
+   "items": [
+    "Sit in a quiet place with no phone and about 70 minutes free. Do the whole test in one sitting.",
+    "The timer starts when you begin a module. Aim for about 1 minute 11 seconds per question, and do not spend more than 2 minutes on any single question.",
+    "Inside a module you can move back and forth between questions. When the 32 minutes end, the module closes. In the real test, you cannot go back to Module 1 once Module 2 starts, so treat this test the same way.",
+    "There is no penalty for wrong answers. Never leave a question blank: if time is short, eliminate what you can and guess.",
+    "At the end you will see your number correct, your result for each module and each skill, and a reason for every answer choice: why the right one is right and why each wrong one is wrong."
+   ]
+  },
+  {
+   "type": "box",
+   "style": "tip",
+   "title": "About your result",
+   "text": "The score shown at the end is a practice percentage (the number of questions you answered correctly). It is not an official SAT score. Official Reading and Writing scores are reported on a scale of 200–800, and this page does not convert your result to that scale."
+  },
+  {
+   "type": "box",
+   "style": "ar",
+   "title": "قبل ما تبدأ",
+   "text": "اقعد في مكان هادي من غير موبايل، وخلّي معاك حوالي ساعة وربع. الامتحان موديولين، كل واحد 27 سؤال في 32 دقيقة، يعني تقريبًا دقيقة وعشر ثواني للسؤال. جوه الموديول تقدر ترجع لأي سؤال، لكن لما الوقت يخلص الموديول بيقفل، وفي الامتحان الحقيقي مفيش رجوع لـ Module 1. مفيش خصم على الإجابة الغلط، فمتسيبش ولا سؤال فاضي. في الآخر هتلاقي شرح لكل اختيار: ليه الصح صح وليه الغلط غلط. والنسبة اللي هتظهر للتدريب بس، مش درجة SAT رسمية."
+  },
+  {
+   "type": "h2",
+   "text": "The test"
+  },
+  {
+   "type": "test",
+   "title": "Digital SAT Reading and Writing — Practice Test 5",
+   "timed": true,
+   "intro": "Two modules, 27 questions each, 32 minutes per module (54 questions, 64 minutes). In the real test, 2 questions in each module are unscored pretest questions, and Module 2 adapts to your performance on Module 1 (it is harder or easier). In this practice test all 54 questions count: Module 1 is a mixed-difficulty module, and Module 2 is the harder version. Questions usually follow this order: Craft and Structure, Information and Ideas, Standard English Conventions, then Expression of Ideas. There is no penalty for wrong answers, so answer every question. Once Module 1 ends, you cannot go back to it.",
+   "links": {
+    "Words in Context": "sat-words-in-context.html",
+    "Text Structure and Purpose": "sat-text-structure-purpose.html",
+    "Cross-Text Connections": "sat-cross-text.html",
+    "Central Ideas and Details": "sat-central-ideas.html",
+    "Command of Evidence — Textual": "sat-evidence-textual.html",
+    "Command of Evidence — Quantitative": "sat-evidence-quantitative.html",
+    "Inferences": "sat-inferences.html",
+    "Boundaries": "sat-sentence-boundaries.html",
+    "Form, Structure, and Sense": "sat-subject-verb.html",
+    "Transitions": "sat-transitions.html",
+    "Rhetorical Synthesis": "sat-rhetorical-synthesis.html"
+   },
+   "sections": [
+    {
+     "name": "Module 1",
+     "minutes": 32,
+     "questions": [
+      {
+       "p": "Around 240 BCE, Eratosthenes, a scholar working in Alexandria, produced ______ estimate of Earth's circumference: using only shadows, a measured distance, and geometry, he arrived at a figure that many historians judge to have been close to the true value.",
+       "q": "Which choice completes the text with the most logical and precise word or phrase?",
+       "c": [
+        "a deliberately misleading",
+        "an impressively accurate",
+        "a purely religious",
+        "an entirely untested"
+       ],
+       "a": 1,
+       "e": "The colon explains the blank: with simple tools Eratosthenes came close to the true value, so his estimate was \"impressively accurate.\" \"Purely religious\" ignores his geometric method, and \"deliberately misleading\" has no support.",
+       "ce": [
+        "Nothing suggests he wanted to mislead anyone, and his result was close to the truth.",
+        "Correct: a figure \"close to the true value,\" reached with simple tools, is an impressively accurate estimate.",
+        "The text describes shadows, distance, and geometry, a mathematical method, not a religious one.",
+        "The point of the text is that his result can be checked against the true value and holds up well."
+       ],
+       "s": "Words in Context"
+      },
+      {
+       "p": "In markets with network effects, a product becomes more valuable to each user as more people use it. For this reason, an early lead in such a market can be ______: once most buyers have adopted one payment app, newcomers have little reason to choose a rival app with fewer users.",
+       "q": "Which choice completes the text with the most logical and precise word or phrase?",
+       "c": [
+        "short-lived",
+        "self-reinforcing",
+        "accidental",
+        "irrelevant"
+       ],
+       "a": 1,
+       "e": "Because each new user makes the leading app more attractive, the lead feeds itself, so it is \"self-reinforcing.\" \"Short-lived\" reverses the logic of the colon, which explains why newcomers keep joining the leader.",
+       "ce": [
+        "Reversed: the text explains why the lead tends to last, not why it disappears.",
+        "Correct: a lead brings more users, and more users make the product more attractive, which strengthens the lead.",
+        "The text is about what happens after a lead exists, not how it began.",
+        "The text shows the early lead matters a great deal."
+       ],
+       "s": "Words in Context"
+      },
+      {
+       "p": "The ghazal, a poetic form that flourished in Persian and Urdu, is built from couplets that can each stand alone. Poets nevertheless bind the couplets together through a shared ______: in many ghazals, every couplet ends with the same repeated word or phrase, known as the radif.",
+       "q": "Which choice completes the text with the most logical and precise word or phrase?",
+       "c": [
+        "audience",
+        "device",
+        "argument",
+        "translation"
+       ],
+       "a": 1,
+       "e": "The colon describes what links the couplets: a repeated word or phrase, which is a poetic \"device.\" \"Argument\" fails because the text stresses that each couplet can stand alone; the link is formal, not a single line of reasoning.",
+       "ce": [
+        "The text describes something inside the poem (a repeated word), not the people who hear it.",
+        "Correct: a repeated word or phrase at the end of every couplet is a formal device that links the couplets.",
+        "The couplets \"can each stand alone,\" so they are not linked by one argument; the colon describes a repeated word.",
+        "Nothing in the text concerns translating the poems."
+       ],
+       "s": "Words in Context"
+      },
+      {
+       "p": "The following text is from an original play. NADIA, a young actress, speaks to the director.\nNADIA: You ask me to weep in the second act, and I will. But do not ask me to weep ______. An audience can tell when tears are spent like coins—carelessly, in every scene—and soon they stop being moved by them.",
+       "q": "Which choice completes the text with the most logical and precise word or phrase?",
+       "c": [
+        "convincingly",
+        "privately",
+        "reluctantly",
+        "indiscriminately"
+       ],
+       "a": 3,
+       "e": "Nadia objects to tears used \"carelessly, in every scene,\" so she does not want to weep \"indiscriminately.\" \"Convincingly\" is the trap: it sounds like acting advice, but she has no objection to convincing tears.",
+       "ce": [
+        "Nadia would not object to weeping convincingly; her complaint is about weeping too often.",
+        "The problem she describes is tears shown to an audience in every scene, not tears in private.",
+        "She says she will weep when asked; her worry is overuse, not her own unwillingness.",
+        "Correct: tears spent \"carelessly, in every scene\" are tears used without choosing when, which is what \"indiscriminately\" means."
+       ],
+       "s": "Words in Context"
+      },
+      {
+       "p": "During a thunderstorm, light from a lightning flash reaches an observer almost instantly, but the sound of the thunder arrives later, because sound travels through air at only about 340 meters per second. Counting the seconds between the flash and the thunder therefore offers a simple way to estimate a storm's distance: every three seconds corresponds to roughly one kilometer.",
+       "q": "Which choice best states the main purpose of the text?",
+       "c": [
+        "To explain how a difference between the speeds of light and sound allows people to estimate how far away a storm is",
+        "To argue that thunder is more dangerous than lightning",
+        "To describe how lightning forms inside storm clouds",
+        "To compare the speed of sound in air with its speed in water"
+       ],
+       "a": 0,
+       "e": "The text explains why thunder arrives after the flash and how to turn that delay into a distance estimate. The other choices raise topics (danger, how lightning forms, sound in water) that the text never discusses.",
+       "ce": [
+        "Correct: the text explains the delay between flash and thunder and then how to use it to measure distance.",
+        "Danger is never discussed.",
+        "The text does not explain how lightning forms.",
+        "Water is never mentioned."
+       ],
+       "s": "Text Structure and Purpose"
+      },
+      {
+       "p": "The following text is from an original poem written in the style of the nineteenth century.\nI built my house of stone to stand for years,\nAnd laughed at neighbors building out of reed;\n__But stone, I learned, is cold, and holds the tears\nOf winter long past any summer's need.__\nThe reed-house breathes; mine only stands and stares.",
+       "q": "Which choice best describes the function of the underlined lines in the text as a whole?",
+       "c": [
+        "They explain why the neighbors chose to build with reed instead of stone.",
+        "They describe the speaker's plan to rebuild the house with reed.",
+        "They emphasize the strength that made stone the better choice.",
+        "They reveal a drawback of the speaker's choice that undercuts the confidence expressed in the first two lines."
+       ],
+       "a": 3,
+       "e": "\"But … I learned\" turns the poem: the speaker who laughed at reed houses discovers that stone is cold and damp. The choice about stone's strength reverses the lines, which show a drawback, not an advantage.",
+       "ce": [
+        "The lines describe what the speaker learned about stone, not the neighbors' reasons.",
+        "No plan to rebuild is mentioned.",
+        "Reversed: the lines point out a weakness of stone, not its strength.",
+        "Correct: after laughing at the reed houses, the speaker learns that stone is cold and holds winter's damp."
+       ],
+       "s": "Text Structure and Purpose"
+      },
+      {
+       "p": "Text 1\nHistorians often describe China's Grand Canal, completed in its first great form under the Sui dynasty in the early 600s, mainly as a tool of political control. It allowed the government to move grain collected as taxes from the rich south to the capital and the armies in the north.\n\nText 2\nHistorian Wei Lin argues that this view, while accurate, leaves out the canal's everyday economic role. Records from the market towns that grew up along its banks show merchants trading salt, silk, and tea. To Wei, these records suggest that the canal tied regional markets together as much as it served the state.",
+       "q": "Based on the texts, how would Wei Lin (Text 2) most likely respond to the view described in Text 1?",
+       "c": [
+        "By accepting that the canal served the government's needs while arguing that the view is incomplete",
+        "By rejecting the view and arguing that the canal was never used to move grain taxes",
+        "By agreeing that the canal had little effect on trade between regions",
+        "By arguing that the canal was built mainly by merchants rather than by the government"
+       ],
+       "a": 0,
+       "e": "Wei accepts the political view (\"while accurate\") but adds the canal's economic role, so the view is incomplete rather than wrong. Rejecting the view entirely ignores the word \"accurate.\"",
+       "ce": [
+        "Correct: Wei calls the view \"accurate\" but says it \"leaves out\" the canal's role in trade.",
+        "Too extreme: Wei says the view is \"accurate.\"",
+        "Contradicts Text 2: Wei says the canal tied regional markets together.",
+        "Text 2 says nothing about who built the canal."
+       ],
+       "s": "Cross-Text Connections"
+      },
+      {
+       "p": "Sunspots are dark patches on the Sun's surface where strong magnetic fields hold back the flow of heat from below, leaving those areas cooler than their surroundings. Their numbers rise and fall in a cycle that lasts about eleven years. Because the same magnetic activity that produces sunspots also drives solar flares, astronomers watch sunspot counts closely: a year with many spots is likely to bring more flares, which can disrupt satellites and radio communication.",
+       "q": "Which choice best states the main idea of the text?",
+       "c": [
+        "Sunspots are hotter than the rest of the Sun's surface, which is why they produce solar flares.",
+        "The sunspot cycle has been growing shorter over the past century.",
+        "Solar flares are the main cause of sunspots on the Sun's surface.",
+        "Sunspot counts are useful to astronomers because the magnetic activity behind sunspots also produces flares that can affect technology."
+       ],
+       "a": 3,
+       "e": "The text builds toward why astronomers watch sunspot counts: the magnetic activity behind spots also drives flares that can disrupt technology. The \"hotter\" choice reverses the first sentence, which says sunspots are cooler.",
+       "ce": [
+        "Reversed: sunspots are cooler than their surroundings.",
+        "The text gives the cycle's length but never says it is changing.",
+        "Reversed cause: the same magnetic activity causes both; flares do not cause sunspots.",
+        "Correct: the text explains what sunspots are and why counting them matters."
+       ],
+       "s": "Central Ideas and Details"
+      },
+      {
+       "p": "The following text is from an original play. KARIM, an old shopkeeper, talks with his granddaughter, SALMA.\nSALMA: You could sell the shop, Grandfather. The new mall pays well for space.\nKARIM: And who would mend Mrs. Hosny's radio? Who would remember that the baker's boy takes his tea without sugar? (He wipes the counter.) The mall can pay for the space. It cannot pay for that.",
+       "q": "Based on the text, what is Karim's main reason for not selling the shop?",
+       "c": [
+        "He believes that the mall would not pay him enough for the space.",
+        "He plans to move the shop into the new mall.",
+        "He wants Salma to take over the shop after him.",
+        "He values the relationships and small services that the shop provides to his neighbors more than the money he could earn."
+       ],
+       "a": 3,
+       "e": "Karim names services he gives his neighbors and says the mall \"cannot pay for that,\" so the relationships matter more to him than money. The choice about the mall not paying enough contradicts \"The mall can pay for the space.\"",
+       "ce": [
+        "He accepts that \"the mall can pay for the space\"; money is not his objection.",
+        "Nothing suggests a move; he is refusing to give up the shop.",
+        "Salma is never asked to run the shop.",
+        "Correct: he lists favors for neighbors and says the mall \"cannot pay for that.\""
+       ],
+       "s": "Central Ideas and Details"
+      },
+      {
+       "p": "Archaeologist Mona Rizk studies a settlement beside an ancient Egyptian temple, where the workers who built the temple lived. Some researchers have suggested that the workers lived in temporary camps and ate a poor diet. Rizk hypothesizes instead that the workers were well fed and lived in permanent homes.",
+       "q": "Which finding, if true, would most directly support Rizk's hypothesis?",
+       "c": [
+        "Excavations at the settlement uncovered stone houses with built-in ovens, along with large numbers of cattle bones from animals slaughtered for meat.",
+        "The temple's walls are decorated with scenes of the pharaoh making offerings to the gods.",
+        "Tools found at the settlement were made of copper and stone.",
+        "Similar temples were built in other parts of Egypt during the same period."
+       ],
+       "a": 0,
+       "e": "The hypothesis has two parts, permanent homes and a good diet, and only the find of stone houses with ovens plus cattle bones supports both. The other findings concern the temple or tools and say nothing about the workers' living conditions.",
+       "ce": [
+        "Correct: stone houses suggest permanent homes, and cattle bones suggest a rich diet, matching both parts of the hypothesis.",
+        "The decorations say nothing about how the workers lived or ate.",
+        "Tool materials do not show whether homes were permanent or meals plentiful.",
+        "Other temples do not tell us about these workers' homes or diet."
+       ],
+       "s": "Command of Evidence — Textual"
+      },
+      {
+       "p": "In an original poem, the speaker expresses the view that the stars, though they seem fixed and unchanging, are in fact always changing.",
+       "q": "Which quotation from the poem most effectively illustrates this view?",
+       "c": [
+        "\"They shone on shepherds as they shine on kings, / The same cold silver over every roof.\"",
+        "\"I counted them as a child upon the roof, / And named the brightest after those I loved.\"",
+        "\"No cloud tonight; the whole sky is a field / Where all the scattered seeds of light are sown.\"",
+        "\"They seem nailed fast to heaven's dark ceiling, / Yet each one burns, and burning, slowly wanes.\""
+       ],
+       "a": 3,
+       "e": "The view has two parts, the stars seem fixed but are really changing, and only the \"nailed fast … slowly wanes\" lines contain both. The \"same cold silver\" lines suggest the stars never change, which is the opposite.",
+       "ce": [
+        "This stresses that the stars stay the same, the opposite of the view.",
+        "A memory of counting stars says nothing about whether they change.",
+        "A pleasant image of the night sky, but it does not show change.",
+        "Correct: it states that the stars \"seem\" fixed (\"nailed fast\") yet are changing (\"slowly wanes\")."
+       ],
+       "s": "Command of Evidence — Textual"
+      },
+      {
+       "p": "Ticket prices tested by a touring theater company\nTicket price (Egyptian pounds) | Average tickets sold per show\n100 | 480\n150 | 450\n200 | 300\n250 | 180\n\nA touring theater company tried four different ticket prices over one season. The company's manager claims that raising the price from 100 to 150 pounds increased the money the company earned from tickets at each show, but that raising the price any further reduced it.",
+       "q": "Which choice most effectively uses data from the table to support the manager's claim?",
+       "c": [
+        "At 150 pounds, the company sold an average of 450 tickets per show, earning about 67,500 pounds, more than the 48,000 pounds earned at 100 pounds and the 60,000 pounds earned at 200 pounds.",
+        "At 100 pounds, the company sold the most tickets per show, an average of 480.",
+        "At 250 pounds, the company sold an average of 180 tickets per show, the fewest in the table.",
+        "The company earned more per show at 200 pounds (60,000 pounds) than at 150 pounds."
+       ],
+       "a": 0,
+       "e": "The claim is about money earned, so you must multiply price by tickets: 48,000 at 100 pounds, 67,500 at 150, and 60,000 at 200. Only the sentence comparing these totals supports the claim; \"the most tickets\" is the trap, because more tickets at a low price earned less.",
+       "ce": [
+        "Correct: it calculates earnings (price × tickets) and shows that 150 pounds earned more than both the lower and the higher price.",
+        "Tickets sold is not the same as money earned; this does not compare earnings.",
+        "It describes one price and does not compare earnings.",
+        "False: 200 × 300 = 60,000 is less than 150 × 450 = 67,500."
+       ],
+       "s": "Command of Evidence — Quantitative"
+      },
+      {
+       "p": "Distance from the Sun and average surface temperature of four planets\nPlanet | Average distance from the Sun (AU) | Average surface temperature (°C)\nMercury | 0.39 | 167\nVenus | 0.72 | 464\nEarth | 1.00 | 15\nMars | 1.52 | −65\n\nAn astronomical unit (AU) is the average distance between Earth and the Sun. A student claims that distance from the Sun alone does not determine how hot a planet's surface is.",
+       "q": "Which choice most effectively uses data from the table to support the student's claim?",
+       "c": [
+        "Mars, the farthest planet in the table from the Sun, has the lowest average surface temperature, −65°C.",
+        "Earth's average surface temperature is 15°C.",
+        "Mercury is the closest planet to the Sun in the table.",
+        "Venus is nearly twice as far from the Sun as Mercury (0.72 AU versus 0.39 AU), yet its average surface temperature, 464°C, is much higher than Mercury's 167°C."
+       ],
+       "a": 3,
+       "e": "To show that distance is not the only factor, you need a case where a farther planet is hotter: Venus (0.72 AU, 464°C) is hotter than Mercury (0.39 AU, 167°C). The Mars choice is the trap: it is true but fits the opposite idea.",
+       "ce": [
+        "This fits the idea that distance does determine temperature, so it does not support the claim.",
+        "One value with no comparison cannot show anything about distance.",
+        "It gives distance only, with no temperature.",
+        "Correct: a farther planet that is hotter shows that distance alone cannot explain temperature."
+       ],
+       "s": "Command of Evidence — Quantitative"
+      },
+      {
+       "p": "In the mid-fourteenth century, a terrible plague killed a large share of the population in parts of the Middle East and Europe. Afterward, there were far fewer workers available to farm the land, while the amount of farmland itself had not changed. Historians reasoning from basic supply and demand would therefore expect records from the years after the plague to show that ______",
+       "q": "Which choice most logically completes the text?",
+       "c": [
+        "the price of farmland rose sharply.",
+        "landowners hired more workers than they had before the plague.",
+        "wages paid to farm workers rose in many areas.",
+        "workers had fewer choices of employer than before."
+       ],
+       "a": 2,
+       "e": "A smaller supply of workers with the same demand for their labor should push wages up. \"Fewer choices of employer\" reverses the logic, since landowners competing for scarce workers would give workers more options.",
+       "ce": [
+        "With fewer people to farm it, demand for land would fall, not rise.",
+        "There were far fewer workers to hire.",
+        "Correct: when workers become scarce while the land needing work stays the same, employers must pay more to hire them.",
+        "Reversed: with workers scarce, landowners would compete for them, giving workers more choices."
+       ],
+       "s": "Inferences"
+      },
+      {
+       "p": "A traditional haiku has three ______ first with five syllables, the second with seven, and the third with five.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "lines: the",
+        "lines; the",
+        "lines. The",
+        "lines the"
+       ],
+       "a": 0,
+       "e": "\"A traditional haiku has three lines\" is a complete sentence, and what follows explains the lines, so a colon is correct. The part after the blank has no main verb, so it cannot follow a semicolon or stand as its own sentence.",
+       "ce": [
+        "Correct: a complete sentence comes first, and the colon introduces the explanation of the three lines.",
+        "A semicolon needs a complete sentence after it, but \"the first with five syllables, …\" has no main verb.",
+        "\"The first with five syllables, …\" would be a fragment with no main verb.",
+        "With no punctuation, the description runs into the sentence and makes no sense."
+       ],
+       "s": "Boundaries"
+      },
+      {
+       "p": "Muhammad ibn Musa al-Khwarizmi, a ninth-century scholar who worked in ______ wrote a book on solving equations whose title gave English the word \"algebra.\"",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "Baghdad;",
+        "Baghdad,",
+        "Baghdad",
+        "Baghdad—"
+       ],
+       "a": 1,
+       "e": "\"A ninth-century scholar who worked in Baghdad\" is extra information that begins with a comma, so it must end with a matching comma before \"wrote.\" A dash does not match, and a semicolon separates the subject from its verb.",
+       "ce": [
+        "A semicolon would cut the subject off from its verb \"wrote.\"",
+        "Correct: the extra information opens with a comma after \"al-Khwarizmi,\" so it must close with a comma before \"wrote.\"",
+        "Without a closing comma, the extra information never ends.",
+        "A dash cannot close extra information that opened with a comma; the pair must match."
+       ],
+       "s": "Boundaries"
+      },
+      {
+       "p": "The prices of fresh fruit sold at the weekly ______ rose and fell far more from week to week than the prices of packaged foods, according to economist Rania Selim.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "market",
+        "market,",
+        "market;",
+        "market:"
+       ],
+       "a": 0,
+       "e": "The long phrase before the blank is the subject of \"rose,\" so no punctuation belongs between them. Any comma, semicolon, or colon would split the subject from its verb.",
+       "ce": [
+        "Correct: \"The prices of fresh fruit sold at the weekly market\" is the subject, and no punctuation may separate it from the verb \"rose.\"",
+        "A single comma between the subject and its verb is never correct.",
+        "A semicolon would leave the subject as a fragment.",
+        "A colon cannot come between a subject and its verb, and what comes before it is not a complete sentence."
+       ],
+       "s": "Boundaries"
+      },
+      {
+       "p": "Planets that orbit very close to their stars are easier to find with the transit method than planets that orbit far ______ pass in front of their stars more often, producing frequent, regular dips in brightness.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "away, they",
+        "away: they",
+        "away they",
+        "away because, they"
+       ],
+       "a": 1,
+       "e": "Both parts are complete sentences, and the second explains the first, so a colon is correct. A comma alone makes a comma splice, and no punctuation makes a run-on.",
+       "ce": [
+        "Comma splice: two complete sentences cannot be joined by a comma alone.",
+        "Correct: a complete sentence comes first, and the colon introduces the explanation of why close planets are easier to find.",
+        "Run-on: there is no punctuation between the two complete sentences.",
+        "\"Because\" should not be followed by a comma here; the comma separates the conjunction from its clause."
+       ],
+       "s": "Boundaries"
+      },
+      {
+       "p": "A Noh mask is carved so carefully that ______ expression seems to change as the actor tilts his head, appearing joyful when lifted toward the light and sorrowful when lowered.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "it's",
+        "their",
+        "its",
+        "they're"
+       ],
+       "a": 2,
+       "e": "The expression belongs to the mask, a singular noun, so the possessive \"its\" is correct. \"It's\" is the contraction of \"it is,\" and \"their\" and \"they're\" are plural.",
+       "ce": [
+        "\"It's\" means \"it is,\" which makes no sense before \"expression.\"",
+        "Plural; the antecedent \"A Noh mask\" is singular.",
+        "Correct: the possessive \"its\" refers to the singular \"mask.\"",
+        "\"They're\" means \"they are\" and is plural."
+       ],
+       "s": "Form, Structure, and Sense"
+      },
+      {
+       "p": "In 1054, Chinese astronomers recorded a \"guest star\" in the constellation Taurus so bright that it ______ visible in daylight for weeks.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "being",
+        "to be",
+        "having been",
+        "was"
+       ],
+       "a": 3,
+       "e": "The clause \"so bright that it ______ visible\" needs a finite verb, so \"was\" is correct. \"Being,\" \"to be,\" and \"having been\" are non-finite forms and leave the clause without a main verb.",
+       "ce": [
+        "Not a finite verb; the clause would have no main verb.",
+        "An infinitive cannot be the main verb of the clause.",
+        "A participle phrase cannot be the main verb of the clause.",
+        "Correct: the clause \"that it … visible\" needs a finite verb, and the past tense matches \"recorded.\""
+       ],
+       "s": "Form, Structure, and Sense"
+      },
+      {
+       "p": "Since 1990, researchers at one agricultural institute ______ the price of wheat at more than two hundred village markets, building a detailed record of how prices respond to good and bad harvests.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "tracked",
+        "will track",
+        "have tracked",
+        "are tracking"
+       ],
+       "a": 2,
+       "e": "\"Since\" + a past date signals an action continuing to the present, so \"have tracked\" is correct. Simple past \"tracked\" is the main trap, because it cuts the action off in the past.",
+       "ce": [
+        "Simple past does not fit an action that continues from 1990 up to now.",
+        "Future tense cannot describe work that began in 1990.",
+        "Correct: \"Since 1990\" describes an action that began in the past and continues now, which needs the present perfect.",
+        "The present progressive alone does not fit \"Since 1990\"; the time from then to now needs the present perfect."
+       ],
+       "s": "Form, Structure, and Sense"
+      },
+      {
+       "p": "The ancient Egyptians mummified not only people but also animals. ______ millions of mummified ibises, birds linked to the god Thoth, have been found in underground galleries at Saqqara and Tuna el-Gebel.",
+       "q": "Which choice completes the text with the most logical transition?",
+       "c": [
+        "For example,",
+        "However,",
+        "As a result,",
+        "In contrast,"
+       ],
+       "a": 0,
+       "e": "The first sentence makes a general point (animals were mummified), and the ibises give a specific case, so \"For example\" fits. \"However\" and \"In contrast\" wrongly signal disagreement.",
+       "ce": [
+        "Correct: the ibis mummies are an example of animals being mummified.",
+        "There is no contrast; the ibises support the first sentence.",
+        "The ibises are not an effect of the first sentence; they illustrate it.",
+        "The second sentence agrees with the first instead of opposing it."
+       ],
+       "s": "Transitions"
+      },
+      {
+       "p": "A spinning ice skater who pulls in her arms speeds up. This happens because of the conservation of angular momentum: as her mass moves closer to the axis of rotation, she must spin faster to keep her total angular momentum the same. ______ when she stretches her arms out again, her spin slows.",
+       "q": "Which choice completes the text with the most logical transition?",
+       "c": [
+        "For instance,",
+        "Meanwhile,",
+        "Conversely,",
+        "Nevertheless,"
+       ],
+       "a": 2,
+       "e": "The last sentence describes the opposite action with the opposite result, so \"Conversely\" fits. \"Nevertheless\" would suggest that the slower spin goes against the rule, when in fact the rule predicts it.",
+       "ce": [
+        "Stretching the arms out is not an example of pulling them in; it is the opposite action.",
+        "\"Meanwhile\" means at the same time, but she cannot pull in and stretch out her arms at once.",
+        "Correct: stretching the arms out is the reverse of pulling them in, and it produces the reverse effect.",
+        "The slower spin is exactly what the rule predicts, so there is nothing unexpected."
+       ],
+       "s": "Transitions"
+      },
+      {
+       "p": "When a new smartphone model is released, early buyers usually pay the full launch price. ______ the price often falls within a year, once the most eager customers have already bought the phone and stores need to attract more careful shoppers.",
+       "q": "Which choice completes the text with the most logical transition?",
+       "c": [
+        "However,",
+        "For example,",
+        "Similarly,",
+        "As a result,"
+       ],
+       "a": 0,
+       "e": "The first sentence describes full prices at launch and the second describes lower prices later, so the contrast word \"However\" fits. \"As a result\" is wrong because the text explains the drop by a change in customers, not by the full launch price.",
+       "ce": [
+        "Correct: a falling price contrasts with the full price paid by early buyers.",
+        "The falling price is not an example of buyers paying the full price.",
+        "The two sentences describe different situations, not similar ones.",
+        "Early buyers paying full price does not cause the price to fall; the text gives other reasons."
+       ],
+       "s": "Transitions"
+      },
+      {
+       "p": "While researching a topic, a student has taken the following notes:\n• The Mosque of Ibn Tulun in Cairo was completed in 879 CE.\n• It was built by Ahmad ibn Tulun, who governed Egypt.\n• Its minaret has an outer spiral staircase.\n• It is one of the oldest mosques in Egypt that survive largely in their original form.",
+       "q": "The student wants to emphasize the mosque's age. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+       "c": [
+        "Completed in 879 CE, the Mosque of Ibn Tulun in Cairo is one of the oldest mosques in Egypt to survive largely in its original form.",
+        "The Mosque of Ibn Tulun, built by Egypt's governor Ahmad ibn Tulun, has a minaret with an outer spiral staircase.",
+        "Ahmad ibn Tulun, who governed Egypt, built a mosque in Cairo.",
+        "The minaret of the Mosque of Ibn Tulun has an outer spiral staircase."
+       ],
+       "a": 0,
+       "e": "To emphasize age, the sentence needs the early date and the fact that the mosque is one of Egypt's oldest surviving ones. The other choices give true details about the builder and the minaret that say nothing about age.",
+       "ce": [
+        "Correct: it gives the date and says it is one of the oldest surviving mosques, both of which stress age.",
+        "It describes the builder and the minaret, not the mosque's age.",
+        "It says who built the mosque but nothing about its age.",
+        "It describes a feature of the building, not its age."
+       ],
+       "s": "Rhetorical Synthesis"
+      },
+      {
+       "p": "While researching a topic, a student has taken the following notes:\n• Jalal al-Din Rumi was a thirteenth-century poet.\n• He wrote mainly in Persian.\n• He spent most of his adult life in Konya, in what is now Turkey.\n• His best-known work is a long poem called the Masnavi.",
+       "q": "The student wants to introduce Rumi to an audience unfamiliar with him. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+       "c": [
+        "Jalal al-Din Rumi, a thirteenth-century poet who wrote mainly in Persian, spent most of his adult life in Konya, in what is now Turkey.",
+        "The Masnavi is a long poem.",
+        "Rumi's best-known work is the Masnavi.",
+        "Konya is in what is now Turkey."
+       ],
+       "a": 0,
+       "e": "An introduction for new readers must say who Rumi was; only the sentence giving his century, his language, and his home does that. The sentence about the Masnavi assumes the reader already knows who Rumi is.",
+       "ce": [
+        "Correct: it tells a new reader who Rumi was, when he lived, what language he wrote in, and where he lived.",
+        "It never mentions Rumi, so it cannot introduce him.",
+        "It assumes the reader already knows who Rumi is.",
+        "It describes a city, not the poet."
+       ],
+       "s": "Rhetorical Synthesis"
+      },
+      {
+       "p": "While researching a topic, a student has taken the following notes:\n• Red dwarfs are the most common type of star in the Milky Way.\n• They are smaller and cooler than the Sun.\n• The Sun is expected to shine for about 10 billion years in total.\n• Red dwarfs use their fuel so slowly that they may shine for trillions of years.",
+       "q": "The student wants to contrast the life spans of red dwarfs and the Sun. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+       "c": [
+        "Red dwarfs, the most common type of star in the Milky Way, are smaller and cooler than the Sun.",
+        "Red dwarfs may shine for trillions of years.",
+        "The Sun is expected to shine for about 10 billion years in total.",
+        "Whereas the Sun is expected to shine for about 10 billion years, red dwarfs use their fuel so slowly that they may shine for trillions of years."
+       ],
+       "a": 3,
+       "e": "The goal is a contrast of life spans, so both figures (10 billion years and trillions of years) must appear together. The size-and-temperature sentence is a contrast, but not of life spans.",
+       "ce": [
+        "It contrasts size and temperature, not life span.",
+        "It gives only one life span, so there is no contrast.",
+        "It gives only the Sun's life span, so there is no contrast.",
+        "Correct: it sets the Sun's life span against that of red dwarfs with a contrast word."
+       ],
+       "s": "Rhetorical Synthesis"
+      }
+     ]
+    },
+    {
+     "name": "Module 2",
+     "minutes": 32,
+     "questions": [
+      {
+       "p": "Critics found the playwright's new drama ______: its scenes jump between three centuries without warning, and several characters speak only in riddles, leaving many in the audience unsure of what had happened.",
+       "q": "Which choice completes the text with the most logical and precise word or phrase?",
+       "c": [
+        "predictable",
+        "sentimental",
+        "derivative",
+        "bewildering"
+       ],
+       "a": 3,
+       "e": "After the colon, the text describes jumps through time and riddles that leave the audience confused, so the drama is \"bewildering.\" \"Predictable\" is the opposite, and \"derivative\" concerns originality, which the text never mentions.",
+       "ce": [
+        "A play that leaves the audience unsure of what happened is the opposite of predictable.",
+        "Nothing in the text refers to emotion or tenderness.",
+        "Derivative means copied from others; the text describes confusion, not lack of originality.",
+        "Correct: sudden jumps in time and riddling speech that leave the audience unsure describe a confusing, bewildering play."
+       ],
+       "s": "Words in Context"
+      },
+      {
+       "p": "Economist Omar Fathy argues that the sharp price swings in a city's onion market, often blamed on traders who hoard supplies, are largely ______ the weather: when heavy rain delays the harvest, supplies shrink and prices jump, whatever traders do.",
+       "q": "Which choice completes the text with the most logical and precise word or phrase?",
+       "c": [
+        "independent of",
+        "attributable to",
+        "disguised by",
+        "unrelated to"
+       ],
+       "a": 1,
+       "e": "Fathy explains the price swings through rain that delays the harvest, so they are \"attributable to\" the weather. \"Independent of\" and \"unrelated to\" reverse his argument.",
+       "ce": [
+        "Reversed: the colon shows the swings depend on the weather.",
+        "Correct: Fathy says the swings are caused by rain delaying the harvest, so they are attributable to the weather.",
+        "The weather does not hide the swings; it causes them.",
+        "Reversed: the text links the swings directly to rain."
+       ],
+       "s": "Words in Context"
+      },
+      {
+       "p": "The Dream Pool Essays, written by the Chinese scholar Shen Kuo in the late eleventh century, is remarkably ______: alongside an early description of a magnetic needle used for finding direction, it discusses fossils, music, medicine, mathematics, and the building of river dikes.",
+       "q": "Which choice completes the text with the most logical and precise word or phrase?",
+       "c": [
+        "concise",
+        "partisan",
+        "wide-ranging",
+        "repetitive"
+       ],
+       "a": 2,
+       "e": "The colon lists an unusually broad set of subjects, so the book is \"wide-ranging.\" \"Concise\" and \"repetitive\" do not match a list that stresses variety, and \"partisan\" has no support.",
+       "ce": [
+        "The colon lists a great many topics; nothing suggests the book is short.",
+        "Partisan means strongly favoring one side; the text describes variety, not bias.",
+        "Correct: a book that covers magnetism, fossils, music, medicine, mathematics, and engineering ranges across many subjects.",
+        "A list of different subjects shows variety, the opposite of repetition."
+       ],
+       "s": "Words in Context"
+      },
+      {
+       "p": "The following text is from an original poem written in the style of the nineteenth century.\nShe would not hurry grief, nor bid it go,\nBut let it ______ like snow upon the hill,\nNot torrent-swift, but patient, cold, and slow,\nUntil the spring should find the valley still.",
+       "q": "Which choice completes the text with the most logical and precise word or phrase?",
+       "c": [
+        "rage",
+        "vanish",
+        "linger",
+        "sparkle"
+       ],
+       "a": 2,
+       "e": "She \"would not hurry grief,\" and the snow is \"patient, cold, and slow,\" so she lets her grief \"linger.\" \"Vanish\" contradicts the slowness, and \"rage\" contradicts \"Not torrent-swift.\"",
+       "ce": [
+        "\"Rage\" is violent and fast, which clashes with \"Not torrent-swift, but patient.\"",
+        "\"Vanish\" means disappear quickly, but she lets grief stay and leave slowly.",
+        "Correct: she does not hurry grief away, and snow on a hill stays a long time, \"patient … and slow.\"",
+        "Sparkling has nothing to do with how long grief stays; the poem stresses slowness."
+       ],
+       "s": "Words in Context"
+      },
+      {
+       "p": "Most surviving ancient Egyptian texts were written by and for a small educated elite. This makes ostraca, pieces of broken pottery and flakes of limestone used as cheap writing surfaces, especially valuable to historians. Because they cost almost nothing, ostraca were used for everyday notes: shopping lists, school exercises, letters between neighbors. They therefore preserve glimpses of ordinary life that grand temple inscriptions rarely record.",
+       "q": "Which choice best describes the function of the first sentence in the overall structure of the text?",
+       "c": [
+        "It states a claim that the rest of the text shows to be false.",
+        "It describes a limitation of the surviving evidence that helps explain why the objects discussed afterward are valuable.",
+        "It introduces the main topic of the text, the elite who paid for temple inscriptions.",
+        "It gives an example of the kind of writing found on ostraca."
+       ],
+       "a": 1,
+       "e": "The first sentence sets up a gap in the evidence (mostly elite texts), and the next sentence says \"This makes ostraca … especially valuable.\" The rest of the text never disputes that sentence, so it is not a claim shown to be false.",
+       "ce": [
+        "The rest of the text builds on the first sentence; it never disputes it.",
+        "Correct: because most texts come from the elite, ostraca, which record everyday life, are \"especially valuable.\"",
+        "The main topic is ostraca; the elite are mentioned only as background.",
+        "Ostraca held everyday notes, not texts written for the elite."
+       ],
+       "s": "Text Structure and Purpose"
+      },
+      {
+       "p": "It seems natural to assume that the friction on a sliding object depends on how much of its surface touches the ground. Yet experiments show that a brick slides with about the same resistance whether it lies on its broad face or on its narrow side. The explanation lies at the microscopic level: even surfaces that look smooth touch only at tiny bumps, and pressing the surfaces together harder, not spreading the weight over a larger area, is what increases the real area of contact.",
+       "q": "Which choice best states the main purpose of the text?",
+       "c": [
+        "To argue that smooth surfaces produce more friction than rough surfaces",
+        "To explain why the friction on a sliding object does not depend on how much of its surface appears to touch the ground",
+        "To describe an experiment showing that bricks slide more easily on their narrow sides",
+        "To trace how scientists' understanding of friction changed over several centuries"
+       ],
+       "a": 1,
+       "e": "The text sets up a natural assumption, shows evidence against it (the brick), and explains why at the microscopic level. The choice saying bricks slide more easily on narrow sides contradicts \"about the same resistance.\"",
+       "ce": [
+        "The text never compares smooth and rough surfaces in this way.",
+        "Correct: the text corrects a natural assumption and explains the microscopic reason.",
+        "Contradicts the text: the resistance is \"about the same\" on either side.",
+        "No history or time period is described."
+       ],
+       "s": "Text Structure and Purpose"
+      },
+      {
+       "p": "Text 1\nSome scholars of ancient Greek drama argue that the chorus, a group of performers who sang and danced between the scenes, mainly served to show the audience how to feel about the events of the play. In this view, the chorus acted as an \"ideal spectator,\" modeling the right response for everyone watching.\n\nText 2\nScholar Hala Mounir points out that in many Greek plays the chorus misjudges events, gives poor advice, or is itself frightened and confused. In her view, the chorus often represents the limited understanding of ordinary people caught up in events beyond their control, so its reactions cannot simply be taken as guidance for the audience.",
+       "q": "Based on the texts, how would Mounir (Text 2) most likely respond to the scholars' view in Text 1?",
+       "c": [
+        "She would agree that the chorus's main purpose was to show the audience how to feel.",
+        "She would argue that the chorus disappeared from Greek drama soon after its earliest period.",
+        "She would argue that the view overlooks the many plays in which the chorus reacts mistakenly and therefore is not a reliable model for the audience.",
+        "She would claim that ordinary audiences could not understand Greek plays."
+       ],
+       "a": 2,
+       "e": "Mounir uses examples of a mistaken, frightened chorus to show that its reactions are not reliable guidance, which challenges the \"ideal spectator\" view. The choice about audiences misreads her point: the limited understanding belongs to the characters the chorus represents, not to the people watching.",
+       "ce": [
+        "Contradicts Text 2: she says its reactions cannot simply be taken as guidance.",
+        "Text 2 says nothing about when the chorus was used.",
+        "Correct: she says the chorus often misjudges events, so its reactions \"cannot simply be taken as guidance.\"",
+        "She says the chorus represents ordinary people's limited understanding of events in the play, not that audiences failed to understand the plays."
+       ],
+       "s": "Cross-Text Connections"
+      },
+      {
+       "p": "Supermarkets sometimes sell a few popular items, such as milk, eggs, or bread, at prices so low that they make little or no profit on them. Economists call these products \"loss leaders.\" The strategy works only if shoppers who come in for the cheap items also fill their baskets with other goods sold at normal prices; a store whose customers buy only the bargains can end up losing money.",
+       "q": "Which choice best states the main idea of the text?",
+       "c": [
+        "Stores should never sell any item for less than it costs them.",
+        "Selling some items at very low prices can benefit a store, but only if it attracts customers who also buy other goods at normal prices.",
+        "Most shoppers buy only the bargain items when they visit a supermarket.",
+        "Loss leaders are mainly luxury goods that attract wealthy shoppers."
+       ],
+       "a": 1,
+       "e": "The text explains the loss-leader strategy and the condition it needs: shoppers must buy other goods at normal prices. \"Never sell below cost\" ignores the condition under which the strategy works.",
+       "ce": [
+        "Too extreme: the text explains when selling cheaply can work.",
+        "Correct: it gives both the strategy and the condition on which it depends.",
+        "The text says that if this happens the store loses money; it does not say most shoppers do this.",
+        "Contradicts the text: the examples are everyday items such as milk, eggs, and bread."
+       ],
+       "s": "Central Ideas and Details"
+      },
+      {
+       "p": "The Chinese monk Xuanzang left China in 629 CE on a journey to India. He hoped to obtain Buddhist texts that were either unavailable in his homeland or available only in poor translations. He studied for several years at Nalanda, a great center of learning in northern India, and returned home in 645 with hundreds of manuscripts. He spent much of the rest of his life translating them into Chinese.",
+       "q": "According to the text, why did Xuanzang travel to India?",
+       "c": [
+        "He wanted to obtain Buddhist texts that he could not find in China, or could find only in poor translations.",
+        "He had been sent by the emperor to set up trade between China and India.",
+        "He wanted to teach Chinese at Nalanda.",
+        "He hoped to found a monastery in northern India."
+       ],
+       "a": 0,
+       "e": "The text states his aim directly: to get Buddhist texts missing or poorly translated in China. He studied, rather than taught, at Nalanda, and trade is never mentioned.",
+       "ce": [
+        "Correct: the second sentence gives exactly this reason.",
+        "Trade and the emperor are never mentioned.",
+        "He studied at Nalanda; nothing says he taught Chinese there.",
+        "Founding a monastery is never mentioned, and he returned home."
+       ],
+       "s": "Central Ideas and Details"
+      },
+      {
+       "p": "Astronomer Dalia Amer studies Kepra-4b, a planet that always keeps the same side facing its star, so that one side is in permanent daylight and the other in permanent night. Amer hypothesizes that the planet has a thick atmosphere whose winds carry heat from the sunlit side to the dark side.",
+       "q": "Which finding, if true, would most directly support Amer's hypothesis?",
+       "c": [
+        "Measurements show that the sunlit side is hundreds of degrees hotter than the dark side.",
+        "Measurements show that the dark side of the planet is only slightly cooler than the sunlit side.",
+        "The planet orbits its star once every four days.",
+        "The planet is slightly larger than Earth."
+       ],
+       "a": 1,
+       "e": "If winds carry heat to the night side, the temperature difference between the two sides should be small, so a dark side only slightly cooler supports Amer. A difference of hundreds of degrees is the opposite of what she predicts.",
+       "ce": [
+        "A huge difference suggests that little heat is carried across, which weakens the hypothesis.",
+        "Correct: if heat is carried around the planet, the two sides should have similar temperatures.",
+        "The length of its orbit says nothing about its atmosphere.",
+        "Its size does not show whether an atmosphere spreads heat."
+       ],
+       "s": "Command of Evidence — Textual"
+      },
+      {
+       "p": "E-readers in one regional market\nYear | Average price (US dollars) | Units sold (thousands)\n2016 | 120 | 200\n2018 | 90 | 320\n2020 | 60 | 500\n\nAn economist studying one regional market claims that between 2016 and 2020, the percentage rise in the number of e-readers sold was larger than the percentage fall in their average price.",
+       "q": "Which choice most effectively uses data from the table to support the economist's claim?",
+       "c": [
+        "In 2020, 500,000 units were sold, the most of any year in the table.",
+        "The average price fell by $30 between 2016 and 2018 and by another $30 between 2018 and 2020.",
+        "From 2016 to 2020, the average price fell by half, from $120 to $60, while units sold rose by 150 percent, from 200,000 to 500,000.",
+        "Units sold rose by 120,000 between 2016 and 2018, a larger increase than between 2018 and 2020."
+       ],
+       "a": 2,
+       "e": "The claim compares percentages, so you need both: price fell 50% ($120 → $60) and sales rose 150% (200,000 → 500,000). The last choice misreads the table, since sales rose by 180,000 from 2018 to 2020.",
+       "ce": [
+        "It gives one figure and does not compare percentage changes.",
+        "It describes the price only, not units sold.",
+        "Correct: it compares the two percentage changes, a 50% fall and a 150% rise.",
+        "False: the later increase (180,000) was larger."
+       ],
+       "s": "Command of Evidence — Quantitative"
+      },
+      {
+       "p": "Clear nights and telescope use at a school observatory club\nMonth | Clear nights | Nights the telescope was used\nJanuary | 18 | 12\nFebruary | 15 | 13\nMarch | 20 | 11\nApril | 22 | 10\n\nA student argues that in early spring (March and April) the number of clear nights was not what limited how often the club used its telescope; something else, such as exam schedules, must have kept members away.",
+       "q": "Which choice most effectively uses data from the table to support the student's argument?",
+       "c": [
+        "February had the fewest clear nights of any month in the table, 15.",
+        "The telescope was used on 13 nights in February, more than in any other month.",
+        "January had 18 clear nights and 12 nights of telescope use.",
+        "March and April had more clear nights than January or February (20 and 22), yet the telescope was used on fewer nights in those months (11 and 10)."
+       ],
+       "a": 3,
+       "e": "The argument is about March and April, so the data must show many clear nights there (20, 22) alongside little use (11, 10). The other choices describe winter months and cannot show what limited use in spring.",
+       "ce": [
+        "It is about February, not early spring, and says nothing about use.",
+        "It is about February and does not compare clear nights with use in spring.",
+        "It describes January, not the spring months in the argument.",
+        "Correct: more chances to observe but fewer nights of use shows that clear weather was not the limit."
+       ],
+       "s": "Command of Evidence — Quantitative"
+      },
+      {
+       "p": "The numerals used in most of the world today, including zero as a written digit, developed in India and reached Europe through Arabic texts. Before these numerals spread, many European merchants recorded amounts in Roman numerals, which have no symbol for zero and do not use place value, so the merchants did their actual calculations on counting boards and wrote down only the results. Merchants who adopted the new numerals could therefore ______",
+       "q": "Which choice most logically completes the text?",
+       "c": [
+        "carry out their calculations in writing instead of relying on counting boards.",
+        "stop keeping written records of their business.",
+        "record zero using Roman numerals.",
+        "avoid trading with merchants from the Arab world."
+       ],
+       "a": 0,
+       "e": "The text explains that Roman numerals forced merchants to calculate on counting boards, so numerals with zero and place value let them calculate in writing. \"Record zero using Roman numerals\" contradicts the statement that Roman numerals have no zero.",
+       "ce": [
+        "Correct: the text links Roman numerals to the need for counting boards, so a system with zero and place value made written calculation possible.",
+        "The new numerals were themselves written; nothing suggests records were abandoned.",
+        "Roman numerals have no symbol for zero, as the text says.",
+        "The numerals reached Europe through Arabic texts; nothing suggests merchants avoided Arab trade."
+       ],
+       "s": "Inferences"
+      },
+      {
+       "p": "In one city, demand for used school textbooks rises sharply at the start of each school year. However, few used copies are for sale at that time, since most students keep their books until the year ends and sell them only then. A student who wants to buy used textbooks at the lowest possible price should therefore ______",
+       "q": "Which choice most logically completes the text?",
+       "c": [
+        "buy them at the start of the school year, when the most copies are available.",
+        "wait until demand rises before buying.",
+        "buy them near the end of the school year, when demand is low and many students are selling their books.",
+        "buy only new textbooks, since used copies are never for sale."
+       ],
+       "a": 2,
+       "e": "Prices should be lowest when demand is low and supply is high, which happens at the end of the year, when students sell their books. Buying at the start of the year is the trap: demand is high and copies are few.",
+       "ce": [
+        "Contradicts the text: few copies are for sale at the start of the year.",
+        "Rising demand pushes prices up, not down.",
+        "Correct: low demand and plentiful supply at the end of the year should mean the lowest prices.",
+        "Too extreme: used copies are sold at the end of the year."
+       ],
+       "s": "Inferences"
+      },
+      {
+       "p": "The three instruments that the observatory's founders considered most ______ a quadrant, an armillary sphere, and a sundial—were all built on the site from local stone.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "essential,",
+        "essential:",
+        "essential;",
+        "essential—"
+       ],
+       "a": 3,
+       "e": "The dash after \"sundial\" closes the list, so a dash must open it. A colon fails because \"The three instruments that … considered most essential\" is not a complete sentence; it is the subject of \"were built.\"",
+       "ce": [
+        "A comma cannot open extra information that closes with a dash; the pair must match, and the commas inside the list would make it confusing.",
+        "A colon must follow a complete sentence, but \"The three instruments … essential\" is only a subject.",
+        "A semicolon would leave the subject \"The three instruments … essential\" as a fragment.",
+        "Correct: the list is extra information that closes with a dash after \"sundial,\" so it must open with a matching dash."
+       ],
+       "s": "Boundaries"
+      },
+      {
+       "p": "Because light from a distant star must pass through the atmosphere of any planet crossing in front of ______ astronomers can sometimes identify the gases that make up that planet's atmosphere.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "it;",
+        "it, so",
+        "it:",
+        "it,"
+       ],
+       "a": 3,
+       "e": "\"Because light … crossing in front of it\" is a dependent clause, so it is followed by a comma and then the main clause. A semicolon or colon needs a complete sentence before it, and adding \"so\" after \"Because\" doubles the connecting word.",
+       "ce": [
+        "A semicolon needs a complete sentence before it, but the \"Because\" clause cannot stand alone.",
+        "\"Because\" and \"so\" together double the connection; the sentence needs only one.",
+        "A colon must follow a complete sentence, and the \"Because\" clause is not one.",
+        "Correct: a comma separates the long introductory clause from the main clause."
+       ],
+       "s": "Boundaries"
+      },
+      {
+       "p": "Economist Laila Nour asked whether a market can stay competitive when only two sellers ______ study of cement markets in several countries suggests that it can, as long as new sellers are able to enter the market easily.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "remain? Her",
+        "remain. Her",
+        "remain, her",
+        "remain her"
+       ],
+       "a": 1,
+       "e": "\"Economist Laila Nour asked whether …\" reports a question, so it is a statement and ends with a period. A question mark is the trap: it is used only for direct questions.",
+       "ce": [
+        "An indirect question (\"asked whether…\") is a statement, so it ends with a period, not a question mark.",
+        "Correct: the first sentence reports a question indirectly, so it ends with a period, and \"Her study…\" begins a new sentence.",
+        "Comma splice: two complete sentences joined by a comma alone.",
+        "Run-on: two complete sentences with no punctuation between them."
+       ],
+       "s": "Boundaries"
+      },
+      {
+       "p": "Celebrated for her elegies mourning her brothers, the Arab poet ______ lived during the late sixth and early seventh centuries.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "al-Khansa",
+        "al-Khansa,",
+        "al-Khansa—",
+        "al-Khansa;"
+       ],
+       "a": 0,
+       "e": "\"The Arab poet al-Khansa\" is the subject, and the name is essential (it tells us which poet), so no punctuation belongs between it and the verb \"lived.\" A comma or dash after the name would split the subject from its verb.",
+       "ce": [
+        "Correct: the name identifies which Arab poet is meant, so it is essential and takes no commas; nothing may separate the subject from \"lived.\"",
+        "A single comma between the subject and its verb \"lived\" is never correct.",
+        "A single dash wrongly separates the subject from its verb.",
+        "A semicolon would leave the opening part of the sentence as a fragment."
+       ],
+       "s": "Boundaries"
+      },
+      {
+       "p": "The number of stalls selling spices in the old market ______ fallen sharply over the past decade, as many traders have moved their businesses online.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "has",
+        "have",
+        "are",
+        "were"
+       ],
+       "a": 0,
+       "e": "The subject is \"The number,\" which is singular, so \"has fallen\" is correct. \"Have\" agrees with the nearby plural noun \"stalls,\" which is not the subject.",
+       "ce": [
+        "Correct: \"The number\" is singular, so it takes the singular verb \"has.\"",
+        "Plural: it agrees with \"stalls\" or \"spices,\" not with the real subject, \"number.\"",
+        "Plural, and \"are fallen\" is not standard English.",
+        "Plural, and \"were fallen\" is not standard English."
+       ],
+       "s": "Form, Structure, and Sense"
+      },
+      {
+       "p": "For the festival's production of an ancient Egyptian folk tale, the three lead ______ costumes were sewn entirely by hand, each taking several weeks to finish.",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "actor's",
+        "actors'",
+        "actors",
+        "actors's"
+       ],
+       "a": 1,
+       "e": "\"Three lead\" requires the plural \"actors,\" and the costumes belong to them, so the plural possessive \"actors'\" is correct. \"Actor's\" refers to a single actor, and \"actors\" shows no possession.",
+       "ce": [
+        "Singular possessive: it would mean one actor, but \"three lead\" requires a plural.",
+        "Correct: the costumes belong to three actors, so the plural possessive \"actors'\" is needed.",
+        "Plural with no apostrophe: it does not show that the costumes belong to the actors.",
+        "Not a standard form; a plural ending in -s takes only an apostrophe."
+       ],
+       "s": "Form, Structure, and Sense"
+      },
+      {
+       "p": "Orbiting the Sun roughly once every 76 years, ______",
+       "q": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+       "c": [
+        "astronomers last saw Halley's Comet from Earth in 1986.",
+        "the last time Halley's Comet was visible from Earth was in 1986.",
+        "Halley's Comet was last visible from Earth in 1986.",
+        "Earth's last view of Halley's Comet came in 1986."
+       ],
+       "a": 2,
+       "e": "The opening phrase \"Orbiting the Sun roughly once every 76 years\" must describe the noun right after the comma, which must be Halley's Comet. Putting \"astronomers,\" \"the last time,\" or \"Earth's last view\" there makes the wrong thing orbit the Sun.",
+       "ce": [
+        "Dangling modifier: this says the astronomers orbit the Sun every 76 years.",
+        "Dangling modifier: \"the last time\" cannot orbit the Sun.",
+        "Correct: the comet is what orbits the Sun, so it must come right after the opening phrase.",
+        "Dangling modifier: this says \"Earth's last view\" orbits the Sun."
+       ],
+       "s": "Form, Structure, and Sense"
+      },
+      {
+       "p": "In the ninth century, the Abbasid caliphs in Baghdad ruled an empire that stretched from North Africa to Central Asia. ______ by the tenth century their real power had shrunk: regional rulers, such as the Samanids in Central Asia, governed largely on their own while still recognizing the caliph in name.",
+       "q": "Which choice completes the text with the most logical transition?",
+       "c": [
+        "Similarly,",
+        "For example,",
+        "However,",
+        "Therefore,"
+       ],
+       "a": 2,
+       "e": "The passage moves from a large empire to a decline in real power, so the contrast word \"However\" fits. \"Therefore\" wrongly makes the decline a result of the empire's size.",
+       "ce": [
+        "The second sentence describes a change for the worse, not something similar.",
+        "The loss of power is not an example of a vast empire.",
+        "Correct: shrinking power contrasts with the vast empire described in the first sentence.",
+        "A vast empire does not cause its rulers' power to shrink."
+       ],
+       "s": "Transitions"
+      },
+      {
+       "p": "Most metals expand when they are heated. ______ engineers have long left small gaps between sections of steel railway track, so that the rails do not bend out of shape on hot days.",
+       "q": "Which choice completes the text with the most logical transition?",
+       "c": [
+        "Nevertheless,",
+        "For instance,",
+        "For this reason,",
+        "Similarly,"
+       ],
+       "a": 2,
+       "e": "The gaps exist because steel expands in the heat, so \"For this reason\" shows the cause-and-effect link. \"For instance\" is the trap: the gaps are a response to expansion, not an example of it.",
+       "ce": [
+        "There is no contrast; the gaps are a sensible response to expansion.",
+        "The gaps are not an example of metal expanding; they are a response to it.",
+        "Correct: the gaps are left because metals expand when heated.",
+        "The second sentence gives a consequence, not a similar fact."
+       ],
+       "s": "Transitions"
+      },
+      {
+       "p": "Early critics dismissed the poet's short, plain lines as unfinished sketches. Later readers, ______ came to see the plainness as deliberate: by leaving out ornament, the poems force attention onto a single image.",
+       "q": "Which choice completes the text with the most logical transition?",
+       "c": [
+        "therefore,",
+        "for example,",
+        "in addition,",
+        "however,"
+       ],
+       "a": 3,
+       "e": "Early critics saw the lines as unfinished, and later readers saw them as deliberate, so the contrast word \"however\" fits. \"In addition\" would wrongly suggest that the later readers agreed with the critics.",
+       "ce": [
+        "Later readers' view is not a result of the critics' dismissal.",
+        "Later readers are not an example of the early critics; they disagree with them.",
+        "The later view does not add to the earlier one; it opposes it.",
+        "Correct: later readers' admiration contrasts with early critics' dismissal."
+       ],
+       "s": "Transitions"
+      },
+      {
+       "p": "While researching a topic, a student has taken the following notes:\n• A price floor is a legal minimum price for a good.\n• Governments sometimes set price floors for farm products to protect farmers' incomes.\n• If the floor is set above the price at which supply and demand would meet, farmers produce more than buyers want at that price.\n• The extra output is called a surplus.",
+       "q": "The student wants to explain a possible unintended effect of a price floor. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+       "c": [
+        "Governments sometimes set price floors for farm products in order to protect farmers' incomes.",
+        "A price floor is a legal minimum price for a good.",
+        "When a government sets a price floor above the price at which supply and demand would meet, farmers may produce more than buyers want, creating a surplus.",
+        "Extra output that buyers do not want is called a surplus."
+       ],
+       "a": 2,
+       "e": "An unintended effect must show what goes wrong: a floor set too high leads to a surplus. The sentence about protecting farmers' incomes gives the intended purpose, the opposite of what the goal asks for.",
+       "ce": [
+        "It gives the intended purpose, not an unintended effect.",
+        "It defines the term but names no effect.",
+        "Correct: it explains the condition and the unintended result, a surplus.",
+        "It defines \"surplus\" but does not connect it to price floors."
+       ],
+       "s": "Rhetorical Synthesis"
+      },
+      {
+       "p": "While researching a topic, a student has taken the following notes:\n• Jupiter's Great Red Spot is a giant storm.\n• The storm is wider than Earth.\n• It has been observed for more than 150 years.\n• In recent decades, it has been shrinking.",
+       "q": "The student wants to present the Great Red Spot as a storm that has changed over time. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+       "c": [
+        "Jupiter's Great Red Spot is a storm wider than Earth.",
+        "Observed for more than 150 years, Jupiter's Great Red Spot, a storm wider than Earth, has been shrinking in recent decades.",
+        "Jupiter's Great Red Spot has been observed for more than 150 years.",
+        "Jupiter is home to a giant storm called the Great Red Spot."
+       ],
+       "a": 1,
+       "e": "The goal is change over time, and only the sentence saying the storm \"has been shrinking\" shows it. The 150-year observation is the trap: it mentions time but not any change in the storm.",
+       "ce": [
+        "It gives the storm's size but no change.",
+        "Correct: it presents the storm and states how it has changed (shrinking).",
+        "Long observation is not a change in the storm itself.",
+        "It introduces the storm but says nothing about change."
+       ],
+       "s": "Rhetorical Synthesis"
+      },
+      {
+       "p": "While researching a topic, a student has taken the following notes:\n• Li Bai (701–762) and Du Fu (712–770) were Chinese poets of the Tang dynasty.\n• Both are often ranked among the greatest poets in Chinese history.\n• Li Bai is known for imaginative poems about nature, the moon, and wine.\n• Du Fu is known for poems about war, poverty, and the suffering of ordinary people.",
+       "q": "The student wants to emphasize a similarity between the two poets. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+       "c": [
+        "While Li Bai wrote imaginative poems about nature, the moon, and wine, Du Fu wrote about war, poverty, and suffering.",
+        "Li Bai and Du Fu both lived in eighth-century China under the Tang dynasty, and both are often ranked among the greatest poets in Chinese history.",
+        "Du Fu is known for poems about war, poverty, and the suffering of ordinary people.",
+        "Li Bai, who lived from 701 to 762, is known for imaginative poems about nature, the moon, and wine."
+       ],
+       "a": 1,
+       "e": "A similarity must cover both poets and what they share: the same era and the same high reputation. The \"While …\" sentence is the trap: it compares the two poets, but it shows how they differ.",
+       "ce": [
+        "This is a difference, not a similarity.",
+        "Correct: it names both poets and gives what they share, using \"both.\"",
+        "It describes one poet only.",
+        "It describes one poet only."
+       ],
+       "s": "Rhetorical Synthesis"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "box",
+   "style": "exam",
+   "title": "After the test",
+   "items": [
+    "Read the reasons for EVERY question, including the ones you got right: check that you chose the answer for the right reason and not by luck.",
+    "For each mistake, write three things in your notebook: the skill tag, the trap that caught you (too broad, reversed, half-right, comma splice, and so on), and the rule or step you will use next time.",
+    "Look at your results by skill. Any skill below 80% appears under \"Study these again\" with a link to its lesson.",
+    "Go back to the matching lessons: Words in Context; High-Value Vocabulary for SAT Reading and Writing; Text Structure and Purpose; Cross-Text Connections; Central Ideas and Details; Command of Evidence: Textual; Command of Evidence: Quantitative; Inferences; Sentence Boundaries; Extra Information: Commas, Dashes and Brackets in Pairs; Semicolons; Colons; Subject–Verb Agreement; Pronoun Case and Sound-Alike Pronouns; Verb Tense and Aspect; Verb Finiteness; Dangling and Misplaced Modifiers; Plurals and Possessives; Transitions; Rhetorical Synthesis (Student Notes).",
+    "Do the practice sets on each of those lesson pages, then take Practice Test 6 under the same timed conditions."
+   ]
+  }
+ ]
+}
